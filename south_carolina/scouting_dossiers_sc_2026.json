@@ -1,987 +1,282 @@
 {
+  "northwestern": {
+    "team": "Northwestern",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 1,
+    "record": "8-0",
+    "games_played": 8,
+    "avg_points_scored": 55.1,
+    "avg_points_allowed": 13.2,
+    "season_net_margin": 41.9,
+    "last_3_game_margin": 42.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 6,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 55.1 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #2 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
   "dutch fork": {
     "team": "Dutch Fork",
     "state": "SC",
     "division": "5A-D1",
     "region": 1,
-    "record": "11-0",
-    "games_played": 11,
-    "avg_points_scored": 42.5,
-    "avg_points_allowed": 13.6,
-    "season_net_margin": 28.9,
-    "last_3_game_margin": 35.3,
-    "momentum_trend": 6.4,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 5,
-    "verified_press_intel": [
-      "South Carolina High School Football Playoff Brackets 2026: First-Round Matchups and State Championship Schedule - Sports Illustrated",
-      "SC high school football 2026 playoff brackets are set. Here’s the game schedule - The State"
-    ],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Dutch Fork has triggered the 35-point SCHSL running clock 5 times."
-    ]
-  },
-  "gaffney": {
-    "team": "Gaffney",
-    "state": "SC",
-    "division": "5A-D2",
-    "region": 1,
-    "record": "11-0",
-    "games_played": 11,
-    "avg_points_scored": 42.1,
-    "avg_points_allowed": 12.7,
-    "season_net_margin": 29.4,
-    "last_3_game_margin": 45.7,
-    "momentum_trend": 16.3,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 3,
-    "verified_press_intel": [
-      "South Carolina High School Football Playoff Brackets 2026: First-Round Matchups and State Championship Schedule - Sports Illustrated"
-    ],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Gaffney has triggered the 35-point SCHSL running clock 3 times.",
-      "Peaking in Postseason Play: Net margin surged +16.3 PPG over the last 3 games (+45.7 PPG)."
-    ]
-  },
-  "sumter": {
-    "team": "Sumter",
-    "state": "SC",
-    "division": "5A-D1",
-    "region": 1,
-    "record": "10-1",
-    "games_played": 11,
-    "avg_points_scored": 38.0,
-    "avg_points_allowed": 14.4,
-    "season_net_margin": 23.6,
-    "last_3_game_margin": 25.3,
-    "momentum_trend": 1.7,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 3,
-    "verified_press_intel": [
-      "SC high school football 2026 playoff brackets are set. Here’s the game schedule - The State"
-    ],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Sumter has triggered the 35-point SCHSL running clock 3 times."
-    ]
-  },
-  "northwestern": {
-    "team": "Northwestern",
-    "state": "SC",
-    "division": "5A-D2",
-    "region": 1,
-    "record": "10-1",
-    "games_played": 11,
-    "avg_points_scored": 38.7,
-    "avg_points_allowed": 15.4,
-    "season_net_margin": 23.3,
-    "last_3_game_margin": 22.3,
-    "momentum_trend": -1.0,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 3,
-    "verified_press_intel": [
-      "South Carolina High School Football Playoff Brackets 2026: First-Round Matchups and State Championship Schedule - Sports Illustrated"
-    ],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Northwestern has triggered the 35-point SCHSL running clock 3 times."
-    ]
-  },
-  "north augusta": {
-    "team": "North Augusta",
-    "state": "SC",
-    "division": "4A",
-    "region": 1,
-    "record": "10-1",
-    "games_played": 11,
-    "avg_points_scored": 39.1,
-    "avg_points_allowed": 14.3,
-    "season_net_margin": 24.8,
-    "last_3_game_margin": 37.0,
-    "momentum_trend": 12.2,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [
-      "SC high school football 2026 playoff brackets are set. Here’s the game schedule - The State"
-    ],
-    "keys_to_victory": [
-      "Peaking in Postseason Play: Net margin surged +12.2 PPG over the last 3 games (+37.0 PPG)."
-    ]
-  },
-  "irmo": {
-    "team": "Irmo",
-    "state": "SC",
-    "division": "5A-D2",
-    "region": 1,
-    "record": "9-2",
-    "games_played": 11,
-    "avg_points_scored": 37.6,
-    "avg_points_allowed": 16.4,
-    "season_net_margin": 21.2,
-    "last_3_game_margin": 11.7,
-    "momentum_trend": -9.5,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 3,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Irmo has triggered the 35-point SCHSL running clock 3 times.",
-      "Late-Season Margin Compression: Net differential dipped -9.5 PPG over the last 3 weeks."
-    ]
-  },
-  "summerville": {
-    "team": "Summerville",
-    "state": "SC",
-    "division": "5A-D1",
-    "region": 1,
-    "record": "10-1",
-    "games_played": 11,
-    "avg_points_scored": 34.4,
-    "avg_points_allowed": 16.4,
-    "season_net_margin": 18.0,
-    "last_3_game_margin": 38.0,
-    "momentum_trend": 20.0,
-    "close_game_record": "2-0",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [
-      "South Carolina High School Football Playoff Brackets 2026: First-Round Matchups and State Championship Schedule - Sports Illustrated",
-      "South Carolina high school football: SCHSL opening round playoff schedule, live broadcasts, scores, state rankings and statewide statistical leaders - MaxPreps"
-    ],
-    "keys_to_victory": [
-      "Peaking in Postseason Play: Net margin surged +20.0 PPG over the last 3 games (+38.0 PPG)."
-    ]
-  },
-  "belton-honea path": {
-    "team": "Belton-Honea Path",
-    "state": "SC",
-    "division": "3A",
-    "region": 1,
-    "record": "11-0",
-    "games_played": 11,
-    "avg_points_scored": 39.9,
-    "avg_points_allowed": 13.5,
-    "season_net_margin": 26.4,
-    "last_3_game_margin": 40.0,
-    "momentum_trend": 13.6,
-    "close_game_record": "1-0",
+    "record": "9-0",
+    "games_played": 9,
+    "avg_points_scored": 40.3,
+    "avg_points_allowed": 9.9,
+    "season_net_margin": 30.4,
+    "last_3_game_margin": 32.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
     "mercy_rule_wins": 4,
-    "verified_press_intel": [
-      "SC high school football playoffs bracket, schedules. See 2026 pairings - Greenville Online"
-    ],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Belton-Honea Path has triggered the 35-point SCHSL running clock 4 times.",
-      "Peaking in Postseason Play: Net margin surged +13.6 PPG over the last 3 games (+40.0 PPG)."
-    ]
-  },
-  "spartanburg": {
-    "team": "Spartanburg",
-    "state": "SC",
-    "division": "5A-D1",
-    "region": 1,
-    "record": "7-4",
-    "games_played": 11,
-    "avg_points_scored": 30.7,
-    "avg_points_allowed": 19.7,
-    "season_net_margin": 11.0,
-    "last_3_game_margin": 7.3,
-    "momentum_trend": -3.7,
-    "close_game_record": "1-2",
-    "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "south florence": {
-    "team": "South Florence",
-    "state": "SC",
-    "division": "4A",
-    "region": 1,
-    "record": "11-0",
-    "games_played": 11,
-    "avg_points_scored": 30.6,
-    "avg_points_allowed": 14.5,
-    "season_net_margin": 16.1,
-    "last_3_game_margin": 19.3,
-    "momentum_trend": 3.2,
-    "close_game_record": "3-0",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [
-      "South Carolina high school football: SCHSL opening round playoff schedule, live broadcasts, scores, state rankings and statewide statistical leaders - MaxPreps",
-      "SC high school football 2026 playoff brackets are set. Here’s the game schedule - The State"
-    ],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "byrnes": {
-    "team": "Byrnes",
-    "state": "SC",
-    "division": "5A-D1",
-    "region": 1,
-    "record": "5-5",
-    "games_played": 10,
-    "avg_points_scored": 26.3,
-    "avg_points_allowed": 21.7,
-    "season_net_margin": 4.6,
-    "last_3_game_margin": 2.3,
-    "momentum_trend": -2.3,
-    "close_game_record": "1-1",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [
-      "SCHSL football playoff brackets for 2026. See the second-round pairings - Greenville Online"
-    ],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
+      "Maintain 40.3 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #12 statewide SOS tested physicality in fourth quarter."
     ]
   },
   "dorman": {
     "team": "Dorman",
     "state": "SC",
     "division": "5A-D1",
-    "region": 1,
-    "record": "4-5",
-    "games_played": 9,
-    "avg_points_scored": 24.4,
-    "avg_points_allowed": 25.9,
-    "season_net_margin": -1.5,
-    "last_3_game_margin": 0.0,
-    "momentum_trend": 1.5,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "man region ii (8 man)scisa": {
-    "team": "Man Region II (8 Man)SCISA",
-    "state": "SC",
-    "division": "5A-D1",
-    "region": 1,
-    "record": "11-0",
-    "games_played": 11,
-    "avg_points_scored": 11.0,
-    "avg_points_allowed": 8.0,
-    "season_net_margin": 3.0,
-    "last_3_game_margin": 3.0,
-    "momentum_trend": 0.0,
-    "close_game_record": "11-0",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare.",
-      "Stingy Scoring Defense: Allowing just 8.0 PPG. Prioritize hidden special-teams yardage and red-zone execution."
-    ]
-  },
-  "clinton": {
-    "team": "Clinton",
-    "state": "SC",
-    "division": "2A",
-    "region": 1,
-    "record": "11-0",
-    "games_played": 11,
-    "avg_points_scored": 38.5,
-    "avg_points_allowed": 14.1,
-    "season_net_margin": 24.4,
-    "last_3_game_margin": 29.0,
-    "momentum_trend": 4.6,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
-  "dillon": {
-    "team": "Dillon",
-    "state": "SC",
-    "division": "3A",
-    "region": 1,
-    "record": "10-1",
-    "games_played": 11,
-    "avg_points_scored": 38.1,
-    "avg_points_allowed": 16.3,
-    "season_net_margin": 21.8,
-    "last_3_game_margin": 25.7,
-    "momentum_trend": 3.9,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 3,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Dillon has triggered the 35-point SCHSL running clock 3 times."
-    ]
-  },
-  "westside": {
-    "team": "Westside",
-    "state": "SC",
-    "division": "4A",
-    "region": 1,
-    "record": "9-2",
-    "games_played": 11,
-    "avg_points_scored": 31.0,
-    "avg_points_allowed": 16.6,
-    "season_net_margin": 14.4,
-    "last_3_game_margin": 21.0,
-    "momentum_trend": 6.6,
-    "close_game_record": "1-1",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "oceanside collegiate": {
-    "team": "Oceanside Collegiate",
-    "state": "SC",
-    "division": "3A",
-    "region": 1,
-    "record": "10-1",
-    "games_played": 11,
-    "avg_points_scored": 36.0,
-    "avg_points_allowed": 16.4,
-    "season_net_margin": 19.6,
-    "last_3_game_margin": 37.0,
-    "momentum_trend": 17.4,
-    "close_game_record": "2-1",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Peaking in Postseason Play: Net margin surged +17.4 PPG over the last 3 games (+37.0 PPG)."
-    ]
-  },
-  "hartsville": {
-    "team": "Hartsville",
-    "state": "SC",
-    "division": "4A",
-    "region": 1,
-    "record": "9-2",
-    "games_played": 11,
-    "avg_points_scored": 29.9,
-    "avg_points_allowed": 16.5,
-    "season_net_margin": 13.4,
-    "last_3_game_margin": 11.7,
-    "momentum_trend": -1.7,
-    "close_game_record": "2-1",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
-  "abbeville": {
-    "team": "Abbeville",
-    "state": "SC",
-    "division": "1A",
-    "region": 1,
-    "record": "11-0",
-    "games_played": 11,
-    "avg_points_scored": 42.0,
-    "avg_points_allowed": 14.1,
-    "season_net_margin": 27.9,
-    "last_3_game_margin": 42.0,
-    "momentum_trend": 14.1,
-    "close_game_record": "2-0",
-    "mercy_rule_wins": 5,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Abbeville has triggered the 35-point SCHSL running clock 5 times.",
-      "Peaking in Postseason Play: Net margin surged +14.1 PPG over the last 3 games (+42.0 PPG)."
-    ]
-  },
-  "daniel": {
-    "team": "Daniel",
-    "state": "SC",
-    "division": "4A",
-    "region": 1,
-    "record": "8-3",
-    "games_played": 11,
-    "avg_points_scored": 29.8,
-    "avg_points_allowed": 18.5,
-    "season_net_margin": 11.3,
-    "last_3_game_margin": 18.0,
-    "momentum_trend": 6.7,
-    "close_game_record": "1-2",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
-  "man region i (8 man)scisa": {
-    "team": "Man Region I (8 Man)SCISA",
-    "state": "SC",
-    "division": "5A-D1",
-    "region": 1,
-    "record": "0-11",
-    "games_played": 11,
-    "avg_points_scored": 8.0,
-    "avg_points_allowed": 11.0,
-    "season_net_margin": -3.0,
-    "last_3_game_margin": -3.0,
-    "momentum_trend": 0.0,
-    "close_game_record": "0-11",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare.",
-      "Stingy Scoring Defense: Allowing just 11.0 PPG. Prioritize hidden special-teams yardage and red-zone execution."
-    ]
-  },
-  "barnwell": {
-    "team": "Barnwell",
-    "state": "SC",
-    "division": "2A",
-    "region": 1,
-    "record": "10-1",
-    "games_played": 11,
-    "avg_points_scored": 39.0,
-    "avg_points_allowed": 14.2,
-    "season_net_margin": 24.8,
-    "last_3_game_margin": 37.3,
-    "momentum_trend": 12.5,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 3,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Barnwell has triggered the 35-point SCHSL running clock 3 times.",
-      "Peaking in Postseason Play: Net margin surged +12.5 PPG over the last 3 games (+37.3 PPG)."
-    ]
-  },
-  "t.l. hanna": {
-    "team": "T.L. Hanna",
-    "state": "SC",
-    "division": "5A-D2",
-    "region": 1,
-    "record": "5-6",
-    "games_played": 11,
-    "avg_points_scored": 25.5,
-    "avg_points_allowed": 22.6,
-    "season_net_margin": 2.9,
-    "last_3_game_margin": -2.3,
-    "momentum_trend": -5.2,
-    "close_game_record": "1-3",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
-  "hampton county": {
-    "team": "Hampton County",
-    "state": "SC",
-    "division": "2A",
-    "region": 1,
-    "record": "10-1",
-    "games_played": 11,
-    "avg_points_scored": 37.4,
-    "avg_points_allowed": 14.3,
-    "season_net_margin": 23.1,
-    "last_3_game_margin": 27.7,
-    "momentum_trend": 4.6,
-    "close_game_record": "2-0",
-    "mercy_rule_wins": 4,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Hampton County has triggered the 35-point SCHSL running clock 4 times."
-    ]
-  },
-  "greenwood": {
-    "team": "Greenwood",
-    "state": "SC",
-    "division": "5A-D2",
-    "region": 1,
-    "record": "7-3",
-    "games_played": 10,
-    "avg_points_scored": 23.3,
-    "avg_points_allowed": 21.9,
-    "season_net_margin": 1.4,
-    "last_3_game_margin": -3.0,
-    "momentum_trend": -4.4,
-    "close_game_record": "3-0",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "camden": {
-    "team": "Camden",
-    "state": "SC",
-    "division": "4A",
-    "region": 1,
-    "record": "4-5",
-    "games_played": 9,
-    "avg_points_scored": 24.1,
-    "avg_points_allowed": 19.6,
-    "season_net_margin": 4.5,
-    "last_3_game_margin": 15.7,
-    "momentum_trend": 11.2,
-    "close_game_record": "0-2",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Peaking in Postseason Play: Net margin surged +11.2 PPG over the last 3 games (+15.7 PPG)."
-    ]
-  },
-  "mountain view prep": {
-    "team": "Mountain View Prep",
-    "state": "SC",
-    "division": "3A",
-    "region": 1,
-    "record": "8-3",
-    "games_played": 11,
-    "avg_points_scored": 29.7,
-    "avg_points_allowed": 17.3,
-    "season_net_margin": 12.4,
-    "last_3_game_margin": 8.0,
-    "momentum_trend": -4.4,
-    "close_game_record": "2-2",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "blythewood": {
-    "team": "Blythewood",
-    "state": "SC",
-    "division": "5A-D1",
-    "region": 1,
-    "record": "3-7",
-    "games_played": 10,
-    "avg_points_scored": 19.5,
-    "avg_points_allowed": 31.3,
-    "season_net_margin": -11.8,
-    "last_3_game_margin": -11.0,
-    "momentum_trend": 0.8,
-    "close_game_record": "2-1",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "saluda": {
-    "team": "Saluda",
-    "state": "SC",
-    "division": "2A",
-    "region": 1,
-    "record": "8-3",
-    "games_played": 11,
-    "avg_points_scored": 32.1,
-    "avg_points_allowed": 15.7,
-    "season_net_margin": 16.4,
-    "last_3_game_margin": 16.7,
-    "momentum_trend": 0.3,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
-  "hillcrest": {
-    "team": "Hillcrest",
-    "state": "SC",
-    "division": "5A-D2",
-    "region": 1,
-    "record": "2-6",
-    "games_played": 8,
-    "avg_points_scored": 19.8,
-    "avg_points_allowed": 33.1,
-    "season_net_margin": -13.3,
-    "last_3_game_margin": -11.3,
-    "momentum_trend": 2.0,
-    "close_game_record": "2-1",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "bamberg-ehrhardt": {
-    "team": "Bamberg-Ehrhardt",
-    "state": "SC",
-    "division": "1A",
-    "region": 1,
-    "record": "10-1",
-    "games_played": 11,
-    "avg_points_scored": 36.0,
-    "avg_points_allowed": 15.5,
-    "season_net_margin": 20.5,
-    "last_3_game_margin": 25.3,
-    "momentum_trend": 4.8,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
-  "pendleton": {
-    "team": "Pendleton",
-    "state": "SC",
-    "division": "3A",
-    "region": 1,
-    "record": "5-5",
+    "region": 2,
+    "record": "9-1",
     "games_played": 10,
     "avg_points_scored": 28.2,
-    "avg_points_allowed": 22.6,
-    "season_net_margin": 5.6,
-    "last_3_game_margin": -0.7,
-    "momentum_trend": -6.3,
-    "close_game_record": "1-2",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
-  "white knoll": {
-    "team": "White Knoll",
-    "state": "SC",
-    "division": "5A-D2",
-    "region": 1,
-    "record": "2-8",
-    "games_played": 10,
-    "avg_points_scored": 18.4,
-    "avg_points_allowed": 26.8,
-    "season_net_margin": -8.4,
-    "last_3_game_margin": -3.0,
-    "momentum_trend": 5.4,
-    "close_game_record": "0-3",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "river bluff": {
-    "team": "River Bluff",
-    "state": "SC",
-    "division": "5A-D1",
-    "region": 1,
-    "record": "2-7",
-    "games_played": 9,
-    "avg_points_scored": 18.2,
-    "avg_points_allowed": 33.6,
-    "season_net_margin": -15.4,
-    "last_3_game_margin": -18.7,
-    "momentum_trend": -3.3,
-    "close_game_record": "1-2",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "cross": {
-    "team": "Cross",
-    "state": "SC",
-    "division": "1A",
-    "region": 1,
-    "record": "9-2",
-    "games_played": 11,
-    "avg_points_scored": 33.1,
-    "avg_points_allowed": 14.5,
-    "season_net_margin": 18.6,
-    "last_3_game_margin": 13.3,
-    "momentum_trend": -5.3,
-    "close_game_record": "1-2",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
-  "j.l. mann": {
-    "team": "J.L. Mann",
-    "state": "SC",
-    "division": "5A-D1",
-    "region": 1,
-    "record": "4-5",
-    "games_played": 9,
-    "avg_points_scored": 18.7,
-    "avg_points_allowed": 29.7,
-    "season_net_margin": -11.0,
-    "last_3_game_margin": -18.7,
-    "momentum_trend": -7.7,
-    "close_game_record": "2-0",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare.",
-      "Late-Season Margin Compression: Net differential dipped -7.7 PPG over the last 3 weeks."
-    ]
-  },
-  "loris": {
-    "team": "Loris",
-    "state": "SC",
-    "division": "3A",
-    "region": 1,
-    "record": "4-5",
-    "games_played": 9,
-    "avg_points_scored": 24.2,
-    "avg_points_allowed": 28.3,
-    "season_net_margin": -4.1,
-    "last_3_game_margin": -6.0,
-    "momentum_trend": -1.9,
-    "close_game_record": "2-2",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "catawba ridge": {
-    "team": "Catawba Ridge",
-    "state": "SC",
-    "division": "5A-D2",
-    "region": 1,
-    "record": "3-5",
-    "games_played": 8,
-    "avg_points_scored": 19.5,
-    "avg_points_allowed": 28.2,
-    "season_net_margin": -8.7,
-    "last_3_game_margin": -11.7,
-    "momentum_trend": -3.0,
-    "close_game_record": "1-1",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "berkeley": {
-    "team": "Berkeley",
-    "state": "SC",
-    "division": "5A-D2",
-    "region": 1,
-    "record": "3-7",
-    "games_played": 10,
-    "avg_points_scored": 18.7,
-    "avg_points_allowed": 32.7,
-    "season_net_margin": -14.0,
-    "last_3_game_margin": -14.3,
-    "momentum_trend": -0.3,
+    "avg_points_allowed": 19.8,
+    "season_net_margin": 8.4,
+    "last_3_game_margin": 15.0,
+    "momentum_trend": "Surging",
     "close_game_record": "2-1",
     "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "seneca": {
-    "team": "Seneca",
-    "state": "SC",
-    "division": "4A",
-    "region": 1,
-    "record": "2-6",
-    "games_played": 8,
-    "avg_points_scored": 14.9,
-    "avg_points_allowed": 29.4,
-    "season_net_margin": -14.5,
-    "last_3_game_margin": -20.3,
-    "momentum_trend": -5.8,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "gilbert": {
-    "team": "Gilbert",
-    "state": "SC",
-    "division": "4A",
-    "region": 1,
-    "record": "3-7",
-    "games_played": 10,
-    "avg_points_scored": 21.2,
-    "avg_points_allowed": 28.2,
-    "season_net_margin": -7.0,
-    "last_3_game_margin": -19.0,
-    "momentum_trend": -12.0,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare.",
-      "Late-Season Margin Compression: Net differential dipped -12.0 PPG over the last 3 weeks."
-    ]
-  },
-  "fairfield central": {
-    "team": "Fairfield Central",
-    "state": "SC",
-    "division": "2A",
-    "region": 1,
-    "record": "6-4",
-    "games_played": 10,
-    "avg_points_scored": 27.0,
-    "avg_points_allowed": 24.4,
-    "season_net_margin": 2.6,
-    "last_3_game_margin": -6.7,
-    "momentum_trend": -9.3,
-    "close_game_record": "3-1",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Late-Season Margin Compression: Net differential dipped -9.3 PPG over the last 3 weeks."
+      "Maintain 28.2 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #4 statewide SOS tested physicality in fourth quarter."
     ]
   },
   "south pointe": {
     "team": "South Pointe",
     "state": "SC",
     "division": "4A",
-    "region": 1,
-    "record": "2-6",
-    "games_played": 8,
-    "avg_points_scored": 18.0,
-    "avg_points_allowed": 29.8,
-    "season_net_margin": -11.8,
-    "last_3_game_margin": -24.7,
-    "momentum_trend": -12.9,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 0,
+    "region": 3,
+    "record": "4-2",
+    "games_played": 6,
+    "avg_points_scored": 33.2,
+    "avg_points_allowed": 19.5,
+    "season_net_margin": 13.7,
+    "last_3_game_margin": 28.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare.",
-      "Late-Season Margin Compression: Net differential dipped -12.9 PPG over the last 3 weeks."
+      "Maintain 33.2 PPG offensive pace against 4A playoff defense.",
+      "Leverage #10 statewide SOS tested physicality in fourth quarter."
     ]
   },
-  "fort dorchester": {
-    "team": "Fort Dorchester",
+  "fort mill": {
+    "team": "Fort Mill",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 2,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 36.3,
+    "avg_points_allowed": 16.4,
+    "season_net_margin": 19.9,
+    "last_3_game_margin": 14.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 36.3 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #7 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "rock hill": {
+    "team": "Rock Hill",
     "state": "SC",
     "division": "5A-D1",
     "region": 1,
-    "record": "1-8",
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 21.0,
+    "avg_points_allowed": 19.5,
+    "season_net_margin": 1.5,
+    "last_3_game_margin": -12.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 21.0 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #3 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "james island": {
+    "team": "James Island",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 4,
+    "record": "9-0",
     "games_played": 9,
-    "avg_points_scored": 16.7,
-    "avg_points_allowed": 36.1,
-    "season_net_margin": -19.4,
-    "last_3_game_margin": -26.7,
-    "momentum_trend": -7.3,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 0,
+    "avg_points_scored": 50.0,
+    "avg_points_allowed": 11.4,
+    "season_net_margin": 38.6,
+    "last_3_game_margin": 46.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 6,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare.",
-      "Late-Season Margin Compression: Net differential dipped -7.3 PPG over the last 3 weeks."
+      "Maintain 50.0 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #61 statewide SOS tested physicality in fourth quarter."
     ]
   },
-  "lexington": {
-    "team": "Lexington",
-    "state": "SC",
-    "division": "5A-D1",
-    "region": 1,
-    "record": "1-7",
-    "games_played": 8,
-    "avg_points_scored": 14.1,
-    "avg_points_allowed": 35.4,
-    "season_net_margin": -21.3,
-    "last_3_game_margin": -34.0,
-    "momentum_trend": -12.7,
-    "close_game_record": "1-1",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare.",
-      "Late-Season Margin Compression: Net differential dipped -12.7 PPG over the last 3 weeks."
-    ]
-  },
-  "lorris": {
-    "team": "Lorris",
+  "oceanside collegiate academy": {
+    "team": "Oceanside Collegiate Academy",
     "state": "SC",
     "division": "3A",
-    "region": 1,
-    "record": "3-6",
+    "region": 2,
+    "record": "6-3",
     "games_played": 9,
-    "avg_points_scored": 20.6,
-    "avg_points_allowed": 29.1,
-    "season_net_margin": -8.5,
-    "last_3_game_margin": -6.7,
-    "momentum_trend": 1.8,
-    "close_game_record": "1-1",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "a.c. flora": {
-    "team": "A.C. Flora",
-    "state": "SC",
-    "division": "4A",
-    "region": 1,
-    "record": "1-8",
-    "games_played": 9,
-    "avg_points_scored": 17.0,
-    "avg_points_allowed": 35.0,
-    "season_net_margin": -18.0,
-    "last_3_game_margin": -30.0,
-    "momentum_trend": -12.0,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare.",
-      "Late-Season Margin Compression: Net differential dipped -12.0 PPG over the last 3 weeks."
-    ]
-  },
-  "lewisville": {
-    "team": "Lewisville",
-    "state": "SC",
-    "division": "1A",
-    "region": 1,
-    "record": "7-3",
-    "games_played": 10,
-    "avg_points_scored": 25.5,
-    "avg_points_allowed": 18.2,
-    "season_net_margin": 7.3,
-    "last_3_game_margin": 3.7,
-    "momentum_trend": -3.6,
-    "close_game_record": "2-1",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "lamar": {
-    "team": "Lamar",
-    "state": "SC",
-    "division": "1A",
-    "region": 1,
-    "record": "8-3",
-    "games_played": 11,
-    "avg_points_scored": 28.4,
+    "avg_points_scored": 34.3,
     "avg_points_allowed": 21.0,
-    "season_net_margin": 7.4,
-    "last_3_game_margin": 8.3,
-    "momentum_trend": 0.9,
+    "season_net_margin": 13.3,
+    "last_3_game_margin": 47.0,
+    "momentum_trend": "Surging",
     "close_game_record": "2-1",
-    "mercy_rule_wins": 0,
+    "mercy_rule_wins": 3,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
+      "Maintain 34.3 PPG offensive pace against 3A playoff defense.",
+      "Leverage #13 statewide SOS tested physicality in fourth quarter."
     ]
   },
   "ridge view": {
     "team": "Ridge View",
     "state": "SC",
+    "division": "5A-D1",
+    "region": 3,
+    "record": "6-2",
+    "games_played": 8,
+    "avg_points_scored": 34.5,
+    "avg_points_allowed": 16.5,
+    "season_net_margin": 18.0,
+    "last_3_game_margin": 29.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 34.5 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #18 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "irmo": {
+    "team": "Irmo",
+    "state": "SC",
     "division": "4A",
     "region": 1,
-    "record": "1-7",
-    "games_played": 8,
-    "avg_points_scored": 17.6,
-    "avg_points_allowed": 33.1,
-    "season_net_margin": -15.5,
-    "last_3_game_margin": -23.7,
-    "momentum_trend": -8.2,
-    "close_game_record": "0-0",
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 41.3,
+    "avg_points_allowed": 10.0,
+    "season_net_margin": 31.3,
+    "last_3_game_margin": 54.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 7,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 41.3 PPG offensive pace against 4A playoff defense.",
+      "Leverage #41 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "boiling springs": {
+    "team": "Boiling Springs",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 4,
+    "record": "5-4",
+    "games_played": 9,
+    "avg_points_scored": 25.0,
+    "avg_points_allowed": 29.8,
+    "season_net_margin": -4.8,
+    "last_3_game_margin": -12.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
     "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare.",
-      "Late-Season Margin Compression: Net differential dipped -8.2 PPG over the last 3 weeks."
+      "Maintain 25.0 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #5 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "daniel": {
+    "team": "Daniel",
+    "state": "SC",
+    "division": "3A",
+    "region": 1,
+    "record": "9-0",
+    "games_played": 9,
+    "avg_points_scored": 53.8,
+    "avg_points_allowed": 12.8,
+    "season_net_margin": 41.0,
+    "last_3_game_margin": 52.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 53.8 PPG offensive pace against 3A playoff defense.",
+      "Leverage #114 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "berkeley": {
+    "team": "Berkeley",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 2,
+    "record": "8-1",
+    "games_played": 9,
+    "avg_points_scored": 41.9,
+    "avg_points_allowed": 17.3,
+    "season_net_margin": 24.6,
+    "last_3_game_margin": 38.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 41.9 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #48 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "hammond": {
+    "team": "Hammond",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 2,
+    "record": "8-0",
+    "games_played": 8,
+    "avg_points_scored": 45.1,
+    "avg_points_allowed": 4.8,
+    "season_net_margin": 40.3,
+    "last_3_game_margin": 49.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 7,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 45.1 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #121 statewide SOS tested physicality in fourth quarter."
     ]
   },
   "strom thurmond": {
@@ -989,210 +284,1419 @@
     "state": "SC",
     "division": "2A",
     "region": 1,
-    "record": "3-6",
-    "games_played": 9,
-    "avg_points_scored": 23.1,
-    "avg_points_allowed": 30.0,
-    "season_net_margin": -6.9,
-    "last_3_game_margin": -9.7,
-    "momentum_trend": -2.8,
-    "close_game_record": "1-1",
-    "mercy_rule_wins": 0,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 41.1,
+    "avg_points_allowed": 10.0,
+    "season_net_margin": 31.1,
+    "last_3_game_margin": 21.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 5,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
+      "Maintain 41.1 PPG offensive pace against 2A playoff defense.",
+      "Leverage #93 statewide SOS tested physicality in fourth quarter."
     ]
   },
-  "woodruff": {
-    "team": "Woodruff",
+  "james f. byrnes": {
+    "team": "James F. Byrnes",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 4,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 39.6,
+    "avg_points_allowed": 17.2,
+    "season_net_margin": 22.4,
+    "last_3_game_margin": 39.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 39.6 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #40 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "indian land": {
+    "team": "Indian Land",
+    "state": "SC",
+    "division": "4A",
+    "region": 3,
+    "record": "8-0",
+    "games_played": 8,
+    "avg_points_scored": 41.0,
+    "avg_points_allowed": 10.2,
+    "season_net_margin": 30.8,
+    "last_3_game_margin": 30.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 41.0 PPG offensive pace against 4A playoff defense.",
+      "Leverage #27 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "bamberg-ehrhardt": {
+    "team": "Bamberg-Ehrhardt",
+    "state": "SC",
+    "division": "1A",
+    "region": 3,
+    "record": "8-1",
+    "games_played": 9,
+    "avg_points_scored": 44.1,
+    "avg_points_allowed": 7.7,
+    "season_net_margin": 36.4,
+    "last_3_game_margin": 48.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 6,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 44.1 PPG offensive pace against 1A playoff defense.",
+      "Leverage #153 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "wren": {
+    "team": "Wren",
+    "state": "SC",
+    "division": "3A",
+    "region": 4,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 37.3,
+    "avg_points_allowed": 17.0,
+    "season_net_margin": 20.3,
+    "last_3_game_margin": 16.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 37.3 PPG offensive pace against 3A playoff defense.",
+      "Leverage #21 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "sumter": {
+    "team": "Sumter",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 2,
+    "record": "7-4",
+    "games_played": 11,
+    "avg_points_scored": 38.8,
+    "avg_points_allowed": 23.3,
+    "season_net_margin": 15.5,
+    "last_3_game_margin": 28.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 38.8 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #15 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "camden": {
+    "team": "Camden",
     "state": "SC",
     "division": "3A",
     "region": 1,
-    "record": "2-8",
+    "record": "7-2",
+    "games_played": 9,
+    "avg_points_scored": 46.7,
+    "avg_points_allowed": 24.1,
+    "season_net_margin": 22.6,
+    "last_3_game_margin": 31.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 46.7 PPG offensive pace against 3A playoff defense.",
+      "Leverage #70 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "hilton head island": {
+    "team": "Hilton Head Island",
+    "state": "SC",
+    "division": "4A",
+    "region": 1,
+    "record": "9-1",
     "games_played": 10,
-    "avg_points_scored": 16.8,
-    "avg_points_allowed": 31.5,
-    "season_net_margin": -14.7,
-    "last_3_game_margin": -16.3,
-    "momentum_trend": -1.6,
-    "close_game_record": "1-2",
-    "mercy_rule_wins": 0,
+    "avg_points_scored": 35.8,
+    "avg_points_allowed": 15.0,
+    "season_net_margin": 20.8,
+    "last_3_game_margin": 39.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
+      "Maintain 35.8 PPG offensive pace against 4A playoff defense.",
+      "Leverage #37 statewide SOS tested physicality in fourth quarter."
     ]
   },
-  "batesburg-leesville": {
-    "team": "Batesburg-Leesville",
+  "gaffney": {
+    "team": "Gaffney",
     "state": "SC",
-    "division": "2A",
-    "region": 1,
-    "record": "2-7",
-    "games_played": 9,
-    "avg_points_scored": 19.3,
-    "avg_points_allowed": 30.6,
-    "season_net_margin": -11.3,
-    "last_3_game_margin": -13.0,
-    "momentum_trend": -1.7,
-    "close_game_record": "2-2",
-    "mercy_rule_wins": 0,
+    "division": "4A",
+    "region": 2,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 35.8,
+    "avg_points_allowed": 11.8,
+    "season_net_margin": 24.0,
+    "last_3_game_margin": 32.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
+      "Maintain 35.8 PPG offensive pace against 4A playoff defense.",
+      "Leverage #65 statewide SOS tested physicality in fourth quarter."
     ]
   },
-  "st. joseph's catholic": {
-    "team": "St. Joseph's Catholic",
+  "south florence": {
+    "team": "South Florence",
     "state": "SC",
-    "division": "1A",
-    "region": 1,
-    "record": "3-6",
+    "division": "4A",
+    "region": 4,
+    "record": "7-2",
     "games_played": 9,
-    "avg_points_scored": 21.2,
-    "avg_points_allowed": 25.9,
-    "season_net_margin": -4.7,
-    "last_3_game_margin": -7.7,
-    "momentum_trend": -3.0,
-    "close_game_record": "1-1",
+    "avg_points_scored": 38.6,
+    "avg_points_allowed": 22.4,
+    "season_net_margin": 16.2,
+    "last_3_game_margin": 18.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
     "mercy_rule_wins": 1,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
+      "Maintain 38.6 PPG offensive pace against 4A playoff defense.",
+      "Leverage #20 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "north augusta": {
+    "team": "North Augusta",
+    "state": "SC",
+    "division": "4A",
+    "region": 3,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 34.1,
+    "avg_points_allowed": 14.1,
+    "season_net_margin": 20.0,
+    "last_3_game_margin": 25.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 34.1 PPG offensive pace against 4A playoff defense.",
+      "Leverage #38 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "fairfield central": {
+    "team": "Fairfield Central",
+    "state": "SC",
+    "division": "1A",
+    "region": 2,
+    "record": "7-0",
+    "games_played": 7,
+    "avg_points_scored": 48.3,
+    "avg_points_allowed": 5.0,
+    "season_net_margin": 43.3,
+    "last_3_game_margin": 48.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 48.3 PPG offensive pace against 1A playoff defense.",
+      "Leverage #186 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "summerville": {
+    "team": "Summerville",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 2,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 36.2,
+    "avg_points_allowed": 14.5,
+    "season_net_margin": 21.7,
+    "last_3_game_margin": 34.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 36.2 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #45 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "spartanburg": {
+    "team": "Spartanburg",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 1,
+    "record": "3-8",
+    "games_played": 11,
+    "avg_points_scored": 21.1,
+    "avg_points_allowed": 38.6,
+    "season_net_margin": -17.5,
+    "last_3_game_margin": -11.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 21.1 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #1 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "t.l. hanna": {
+    "team": "T.L. Hanna",
+    "state": "SC",
+    "division": "4A",
+    "region": 2,
+    "record": "7-2",
+    "games_played": 9,
+    "avg_points_scored": 32.9,
+    "avg_points_allowed": 15.6,
+    "season_net_margin": 17.3,
+    "last_3_game_margin": 32.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 32.9 PPG offensive pace against 4A playoff defense.",
+      "Leverage #43 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "gray collegiate academy": {
+    "team": "Gray Collegiate Academy",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 2,
+    "record": "5-4",
+    "games_played": 9,
+    "avg_points_scored": 34.2,
+    "avg_points_allowed": 29.2,
+    "season_net_margin": 5.0,
+    "last_3_game_margin": 4.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 34.2 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #8 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "lugoff-elgin": {
+    "team": "Lugoff-Elgin",
+    "state": "SC",
+    "division": "4A",
+    "region": 4,
+    "record": "8-1",
+    "games_played": 9,
+    "avg_points_scored": 34.1,
+    "avg_points_allowed": 16.6,
+    "season_net_margin": 17.5,
+    "last_3_game_margin": 30.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 34.1 PPG offensive pace against 4A playoff defense.",
+      "Leverage #62 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "saluda": {
+    "team": "Saluda",
+    "state": "SC",
+    "division": "2A",
+    "region": 4,
+    "record": "7-1",
+    "games_played": 8,
+    "avg_points_scored": 49.8,
+    "avg_points_allowed": 22.6,
+    "season_net_margin": 27.2,
+    "last_3_game_margin": 18.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 49.8 PPG offensive pace against 2A playoff defense.",
+      "Leverage #123 statewide SOS tested physicality in fourth quarter."
     ]
   },
   "marlboro county": {
     "team": "Marlboro County",
     "state": "SC",
-    "division": "3A",
-    "region": 1,
-    "record": "2-7",
-    "games_played": 9,
-    "avg_points_scored": 18.1,
-    "avg_points_allowed": 33.0,
-    "season_net_margin": -14.9,
-    "last_3_game_margin": -20.3,
-    "momentum_trend": -5.4,
-    "close_game_record": "1-1",
-    "mercy_rule_wins": 0,
+    "division": "2A",
+    "region": 4,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 37.4,
+    "avg_points_allowed": 11.6,
+    "season_net_margin": 25.8,
+    "last_3_game_margin": 12.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
+      "Maintain 37.4 PPG offensive pace against 2A playoff defense.",
+      "Leverage #97 statewide SOS tested physicality in fourth quarter."
     ]
   },
-  "central (pageland)": {
-    "team": "Central (Pageland)",
+  "dillon": {
+    "team": "Dillon",
     "state": "SC",
     "division": "2A",
-    "region": 1,
-    "record": "2-8",
-    "games_played": 10,
-    "avg_points_scored": 17.8,
-    "avg_points_allowed": 29.5,
-    "season_net_margin": -11.7,
-    "last_3_game_margin": -5.3,
-    "momentum_trend": 6.4,
-    "close_game_record": "1-2",
+    "region": 3,
+    "record": "8-0",
+    "games_played": 8,
+    "avg_points_scored": 35.6,
+    "avg_points_allowed": 15.1,
+    "season_net_margin": 20.5,
+    "last_3_game_margin": 11.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 35.6 PPG offensive pace against 2A playoff defense.",
+      "Leverage #92 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "westside": {
+    "team": "Westside",
+    "state": "SC",
+    "division": "4A",
+    "region": 4,
+    "record": "8-1",
+    "games_played": 9,
+    "avg_points_scored": 33.7,
+    "avg_points_allowed": 23.2,
+    "season_net_margin": 10.5,
+    "last_3_game_margin": 18.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
     "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
+      "Maintain 33.7 PPG offensive pace against 4A playoff defense.",
+      "Leverage #55 statewide SOS tested physicality in fourth quarter."
     ]
   },
-  "boiling springs": {
-    "team": "boiling springs",
+  "abbeville": {
+    "team": "Abbeville",
+    "state": "SC",
+    "division": "1A",
+    "region": 3,
+    "record": "6-1",
+    "games_played": 7,
+    "avg_points_scored": 44.9,
+    "avg_points_allowed": 7.3,
+    "season_net_margin": 37.6,
+    "last_3_game_margin": 54.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 44.9 PPG offensive pace against 1A playoff defense.",
+      "Leverage #185 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "bishop england": {
+    "team": "Bishop England",
+    "state": "SC",
+    "division": "3A",
+    "region": 3,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 30.0,
+    "avg_points_allowed": 11.2,
+    "season_net_margin": 18.8,
+    "last_3_game_margin": 6.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 30.0 PPG offensive pace against 3A playoff defense.",
+      "Leverage #81 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "pinewood prep": {
+    "team": "Pinewood Prep",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 1,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 44.0,
+    "avg_points_allowed": 23.0,
+    "season_net_margin": 21.0,
+    "last_3_game_margin": 8.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 44.0 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #87 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "clover": {
+    "team": "Clover",
+    "state": "SC",
+    "division": "4A",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 23.5,
+    "avg_points_allowed": 15.6,
+    "season_net_margin": 7.9,
+    "last_3_game_margin": 7.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 23.5 PPG offensive pace against 4A playoff defense.",
+      "Leverage #22 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "powdersville": {
+    "team": "Powdersville",
+    "state": "SC",
+    "division": "3A",
+    "region": 4,
+    "record": "7-4",
+    "games_played": 11,
+    "avg_points_scored": 34.5,
+    "avg_points_allowed": 19.6,
+    "season_net_margin": 14.9,
+    "last_3_game_margin": 27.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 34.5 PPG offensive pace against 3A playoff defense.",
+      "Leverage #39 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "lucy beckham": {
+    "team": "Lucy Beckham",
+    "state": "SC",
+    "division": "4A",
+    "region": 1,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 34.5,
+    "avg_points_allowed": 15.2,
+    "season_net_margin": 19.3,
+    "last_3_game_margin": 37.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 34.5 PPG offensive pace against 4A playoff defense.",
+      "Leverage #46 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "southside christian": {
+    "team": "Southside Christian",
+    "state": "SC",
+    "division": "2A",
+    "region": 3,
+    "record": "8-1",
+    "games_played": 9,
+    "avg_points_scored": 35.0,
+    "avg_points_allowed": 16.1,
+    "season_net_margin": 18.9,
+    "last_3_game_margin": 37.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 35.0 PPG offensive pace against 2A playoff defense.",
+      "Leverage #64 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "central": {
+    "team": "Central",
+    "state": "SC",
+    "division": "1A",
+    "region": 4,
+    "record": "7-1",
+    "games_played": 8,
+    "avg_points_scored": 42.1,
+    "avg_points_allowed": 17.6,
+    "season_net_margin": 24.5,
+    "last_3_game_margin": 18.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 42.1 PPG offensive pace against 1A playoff defense.",
+      "Leverage #163 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "belton-honea path": {
+    "team": "Belton-Honea Path",
+    "state": "SC",
+    "division": "3A",
+    "region": 1,
+    "record": "5-3",
+    "games_played": 8,
+    "avg_points_scored": 22.0,
+    "avg_points_allowed": 24.8,
+    "season_net_margin": -2.8,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 22.0 PPG offensive pace against 3A playoff defense.",
+      "Leverage #11 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "northwood academy": {
+    "team": "Northwood Academy",
+    "state": "SC",
+    "division": "4A",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 32.9,
+    "avg_points_allowed": 20.6,
+    "season_net_margin": 12.3,
+    "last_3_game_margin": 18.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 32.9 PPG offensive pace against 4A playoff defense.",
+      "Leverage #33 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "carolina forest": {
+    "team": "Carolina Forest",
     "state": "SC",
     "division": "5A-D1",
     "region": 1,
-    "record": "0-8",
+    "record": "6-2",
     "games_played": 8,
-    "avg_points_scored": 15.1,
-    "avg_points_allowed": 43.9,
-    "season_net_margin": -28.8,
-    "last_3_game_margin": -42.3,
-    "momentum_trend": -13.5,
-    "close_game_record": "0-1",
+    "avg_points_scored": 38.1,
+    "avg_points_allowed": 22.2,
+    "season_net_margin": 15.9,
+    "last_3_game_margin": 8.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 38.1 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #90 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "mid-carolina": {
+    "team": "Mid-Carolina",
+    "state": "SC",
+    "division": "2A",
+    "region": 2,
+    "record": "8-0",
+    "games_played": 8,
+    "avg_points_scored": 38.1,
+    "avg_points_allowed": 8.2,
+    "season_net_margin": 29.9,
+    "last_3_game_margin": 28.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 38.1 PPG offensive pace against 2A playoff defense.",
+      "Leverage #160 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "river bluff": {
+    "team": "River Bluff",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 4,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 31.5,
+    "avg_points_allowed": 20.5,
+    "season_net_margin": 11.0,
+    "last_3_game_margin": 17.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 31.5 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #54 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "chapman": {
+    "team": "Chapman",
+    "state": "SC",
+    "division": "3A",
+    "region": 3,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 41.3,
+    "avg_points_allowed": 9.4,
+    "season_net_margin": 31.9,
+    "last_3_game_margin": 31.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 41.3 PPG offensive pace against 3A playoff defense.",
+      "Leverage #165 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "loris": {
+    "team": "Loris",
+    "state": "SC",
+    "division": "3A",
+    "region": 4,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 45.8,
+    "avg_points_allowed": 20.5,
+    "season_net_margin": 25.3,
+    "last_3_game_margin": 35.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 45.8 PPG offensive pace against 3A playoff defense.",
+      "Leverage #118 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "hartsville": {
+    "team": "Hartsville",
+    "state": "SC",
+    "division": "3A",
+    "region": 3,
+    "record": "5-2",
+    "games_played": 7,
+    "avg_points_scored": 46.9,
+    "avg_points_allowed": 30.3,
+    "season_net_margin": 16.6,
+    "last_3_game_margin": 26.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 46.9 PPG offensive pace against 3A playoff defense.",
+      "Leverage #75 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "catawba ridge": {
+    "team": "Catawba Ridge",
+    "state": "SC",
+    "division": "4A",
+    "region": 4,
+    "record": "6-5",
+    "games_played": 11,
+    "avg_points_scored": 31.4,
+    "avg_points_allowed": 25.9,
+    "season_net_margin": 5.5,
+    "last_3_game_margin": 8.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 31.4 PPG offensive pace against 4A playoff defense.",
+      "Leverage #29 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "lamar": {
+    "team": "Lamar",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 3,
+    "record": "6-2",
+    "games_played": 8,
+    "avg_points_scored": 36.2,
+    "avg_points_allowed": 17.1,
+    "season_net_margin": 19.1,
+    "last_3_game_margin": 13.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 36.2 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #174 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "lexington": {
+    "team": "Lexington",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 4,
+    "record": "6-5",
+    "games_played": 11,
+    "avg_points_scored": 28.1,
+    "avg_points_allowed": 26.8,
+    "season_net_margin": 1.3,
+    "last_3_game_margin": -14.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
     "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare.",
-      "Late-Season Margin Compression: Net differential dipped -13.5 PPG over the last 3 weeks."
+      "Maintain 28.1 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #25 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "porter-gaud": {
+    "team": "Porter-Gaud",
+    "state": "SC",
+    "division": "1A",
+    "region": 3,
+    "record": "7-4",
+    "games_played": 11,
+    "avg_points_scored": 24.2,
+    "avg_points_allowed": 12.9,
+    "season_net_margin": 11.3,
+    "last_3_game_margin": 4.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 24.2 PPG offensive pace against 1A playoff defense.",
+      "Leverage #31 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "crescent": {
+    "team": "Crescent",
+    "state": "SC",
+    "division": "2A",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 41.1,
+    "avg_points_allowed": 15.3,
+    "season_net_margin": 25.8,
+    "last_3_game_margin": 52.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 6,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 41.1 PPG offensive pace against 2A playoff defense.",
+      "Leverage #135 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "williamsburg academy": {
+    "team": "Williamsburg Academy",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 3,
+    "record": "8-1",
+    "games_played": 9,
+    "avg_points_scored": 37.6,
+    "avg_points_allowed": 9.8,
+    "season_net_margin": 27.8,
+    "last_3_game_margin": 38.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 37.6 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #221 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "carvers bay": {
+    "team": "Carvers Bay",
+    "state": "SC",
+    "division": "1A",
+    "region": 1,
+    "record": "8-1",
+    "games_played": 9,
+    "avg_points_scored": 33.2,
+    "avg_points_allowed": 7.2,
+    "season_net_margin": 26.0,
+    "last_3_game_margin": 43.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 33.2 PPG offensive pace against 1A playoff defense.",
+      "Leverage #190 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "hampton county": {
+    "team": "Hampton County",
+    "state": "SC",
+    "division": "1A",
+    "region": 2,
+    "record": "7-1",
+    "games_played": 8,
+    "avg_points_scored": 37.2,
+    "avg_points_allowed": 13.6,
+    "season_net_margin": 23.6,
+    "last_3_game_margin": 39.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 37.2 PPG offensive pace against 1A playoff defense.",
+      "Leverage #166 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "emerald": {
+    "team": "Emerald",
+    "state": "SC",
+    "division": "3A",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 36.2,
+    "avg_points_allowed": 32.8,
+    "season_net_margin": 3.4,
+    "last_3_game_margin": -20.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 36.2 PPG offensive pace against 3A playoff defense.",
+      "Leverage #36 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "hilton head christian academy": {
+    "team": "Hilton Head Christian Academy",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 4,
+    "record": "6-3",
+    "games_played": 9,
+    "avg_points_scored": 36.4,
+    "avg_points_allowed": 24.8,
+    "season_net_margin": 11.6,
+    "last_3_game_margin": 20.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 36.4 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #138 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "greenville": {
+    "team": "Greenville",
+    "state": "SC",
+    "division": "4A",
+    "region": 1,
+    "record": "5-4",
+    "games_played": 9,
+    "avg_points_scored": 31.8,
+    "avg_points_allowed": 22.0,
+    "season_net_margin": 9.8,
+    "last_3_game_margin": 21.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 31.8 PPG offensive pace against 4A playoff defense.",
+      "Leverage #74 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "west florence": {
+    "team": "West Florence",
+    "state": "SC",
+    "division": "2A",
+    "region": 1,
+    "record": "3-5",
+    "games_played": 8,
+    "avg_points_scored": 22.8,
+    "avg_points_allowed": 33.1,
+    "season_net_margin": -10.3,
+    "last_3_game_margin": -17.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 22.8 PPG offensive pace against 2A playoff defense.",
+      "Leverage #14 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "blackville-hilda": {
+    "team": "Blackville-Hilda",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 3,
+    "record": "7-1",
+    "games_played": 8,
+    "avg_points_scored": 42.8,
+    "avg_points_allowed": 12.1,
+    "season_net_margin": 30.7,
+    "last_3_game_margin": 38.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 42.8 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #188 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "laurence manning academy": {
+    "team": "Laurence Manning Academy",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 27.2,
+    "avg_points_allowed": 21.2,
+    "season_net_margin": 6.0,
+    "last_3_game_margin": -13.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 27.2 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #67 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "south aiken": {
+    "team": "South Aiken",
+    "state": "SC",
+    "division": "4A",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 24.8,
+    "avg_points_allowed": 21.5,
+    "season_net_margin": 3.3,
+    "last_3_game_margin": -14.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 24.8 PPG offensive pace against 4A playoff defense.",
+      "Leverage #49 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "cross": {
+    "team": "Cross",
+    "state": "SC",
+    "division": "1A",
+    "region": 4,
+    "record": "7-6",
+    "games_played": 13,
+    "avg_points_scored": 33.9,
+    "avg_points_allowed": 22.4,
+    "season_net_margin": 11.5,
+    "last_3_game_margin": -8.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 33.9 PPG offensive pace against 1A playoff defense.",
+      "Leverage #241 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "cheraw": {
+    "team": "Cheraw",
+    "state": "SC",
+    "division": "1A",
+    "region": 4,
+    "record": "7-2",
+    "games_played": 9,
+    "avg_points_scored": 33.9,
+    "avg_points_allowed": 20.2,
+    "season_net_margin": 13.7,
+    "last_3_game_margin": 5.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 33.9 PPG offensive pace against 1A playoff defense.",
+      "Leverage #149 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "aiken": {
+    "team": "Aiken",
+    "state": "SC",
+    "division": "2A",
+    "region": 3,
+    "record": "5-4",
+    "games_played": 9,
+    "avg_points_scored": 31.4,
+    "avg_points_allowed": 27.3,
+    "season_net_margin": 4.1,
+    "last_3_game_margin": 2.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 31.4 PPG offensive pace against 2A playoff defense.",
+      "Leverage #68 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "colleton prep academy": {
+    "team": "Colleton Prep Academy",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 3,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 43.7,
+    "avg_points_allowed": 14.5,
+    "season_net_margin": 29.2,
+    "last_3_game_margin": 21.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 43.7 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #229 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "calhoun academy": {
+    "team": "Calhoun Academy",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 3,
+    "record": "7-2",
+    "games_played": 9,
+    "avg_points_scored": 48.4,
+    "avg_points_allowed": 19.6,
+    "season_net_margin": 28.8,
+    "last_3_game_margin": 26.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 48.4 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #206 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "hillcrest": {
+    "team": "Hillcrest",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 1,
+    "record": "5-6",
+    "games_played": 11,
+    "avg_points_scored": 29.5,
+    "avg_points_allowed": 28.4,
+    "season_net_margin": 1.1,
+    "last_3_game_margin": 17.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 29.5 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #19 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "batesburg-leesville": {
+    "team": "Batesburg-Leesville",
+    "state": "SC",
+    "division": "1A",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 35.4,
+    "avg_points_allowed": 23.3,
+    "season_net_margin": 12.1,
+    "last_3_game_margin": 47.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 35.4 PPG offensive pace against 1A playoff defense.",
+      "Leverage #134 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "hanahan": {
+    "team": "Hanahan",
+    "state": "SC",
+    "division": "3A",
+    "region": 2,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 38.7,
+    "avg_points_allowed": 17.3,
+    "season_net_margin": 21.4,
+    "last_3_game_margin": 5.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 38.7 PPG offensive pace against 3A playoff defense.",
+      "Leverage #151 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "orangeburg-wilkinson": {
+    "team": "Orangeburg-Wilkinson",
+    "state": "SC",
+    "division": "2A",
+    "region": 1,
+    "record": "4-2",
+    "games_played": 6,
+    "avg_points_scored": 35.2,
+    "avg_points_allowed": 24.2,
+    "season_net_margin": 11.0,
+    "last_3_game_margin": 9.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 35.2 PPG offensive pace against 2A playoff defense.",
+      "Leverage #171 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "woodland": {
+    "team": "Woodland",
+    "state": "SC",
+    "division": "2A",
+    "region": 4,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 36.8,
+    "avg_points_allowed": 17.0,
+    "season_net_margin": 19.8,
+    "last_3_game_margin": 23.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 36.8 PPG offensive pace against 2A playoff defense.",
+      "Leverage #141 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "dorchester academy": {
+    "team": "Dorchester Academy",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 41.8,
+    "avg_points_allowed": 15.8,
+    "season_net_margin": 26.0,
+    "last_3_game_margin": 43.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 41.8 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #219 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "philip simmons": {
+    "team": "Philip Simmons",
+    "state": "SC",
+    "division": "2A",
+    "region": 2,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 37.2,
+    "avg_points_allowed": 25.2,
+    "season_net_margin": 12.0,
+    "last_3_game_margin": 20.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 37.2 PPG offensive pace against 2A playoff defense.",
+      "Leverage #119 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "greenwood": {
+    "team": "Greenwood",
+    "state": "SC",
+    "division": "4A",
+    "region": 2,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 18.5,
+    "avg_points_allowed": 27.3,
+    "season_net_margin": -8.8,
+    "last_3_game_margin": -14.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 18.5 PPG offensive pace against 4A playoff defense.",
+      "Leverage #23 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "ashley ridge": {
+    "team": "Ashley Ridge",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 30.5,
+    "avg_points_allowed": 34.3,
+    "season_net_margin": -3.8,
+    "last_3_game_margin": -11.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 30.5 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #17 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "wilson": {
+    "team": "Wilson",
+    "state": "SC",
+    "division": "4A",
+    "region": 2,
+    "record": "5-4",
+    "games_played": 9,
+    "avg_points_scored": 22.0,
+    "avg_points_allowed": 26.3,
+    "season_net_margin": -4.3,
+    "last_3_game_margin": 4.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 22.0 PPG offensive pace against 4A playoff defense.",
+      "Leverage #30 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "midland valley": {
+    "team": "Midland Valley",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 1,
+    "record": "3-5",
+    "games_played": 8,
+    "avg_points_scored": 33.9,
+    "avg_points_allowed": 37.6,
+    "season_net_margin": -3.7,
+    "last_3_game_margin": -21.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 33.9 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #47 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "gilbert": {
+    "team": "Gilbert",
+    "state": "SC",
+    "division": "3A",
+    "region": 2,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 31.6,
+    "avg_points_allowed": 20.7,
+    "season_net_margin": 10.9,
+    "last_3_game_margin": 16.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 31.6 PPG offensive pace against 3A playoff defense.",
+      "Leverage #103 statewide SOS tested physicality in fourth quarter."
     ]
   },
   "chapin": {
     "team": "Chapin",
     "state": "SC",
+    "division": "5A-D1",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 29.9,
+    "avg_points_allowed": 27.4,
+    "season_net_margin": 2.5,
+    "last_3_game_margin": -3.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 29.9 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #50 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "white knoll": {
+    "team": "White Knoll",
+    "state": "SC",
     "division": "5A-D2",
-    "region": 1,
-    "record": "0-7",
-    "games_played": 7,
-    "avg_points_scored": 13.1,
-    "avg_points_allowed": 44.3,
-    "season_net_margin": -31.2,
-    "last_3_game_margin": -39.3,
-    "momentum_trend": -8.1,
-    "close_game_record": "0-0",
+    "region": 3,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 20.0,
+    "avg_points_allowed": 37.2,
+    "season_net_margin": -17.2,
+    "last_3_game_margin": -31.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
     "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare.",
-      "Late-Season Margin Compression: Net differential dipped -8.1 PPG over the last 3 weeks."
-    ]
-  },
-  "brookland-cayce": {
-    "team": "Brookland-Cayce",
-    "state": "SC",
-    "division": "3A",
-    "region": 1,
-    "record": "2-7",
-    "games_played": 9,
-    "avg_points_scored": 19.4,
-    "avg_points_allowed": 33.4,
-    "season_net_margin": -14.0,
-    "last_3_game_margin": -18.7,
-    "momentum_trend": -4.7,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "hannah-pamplico": {
-    "team": "Hannah-Pamplico",
-    "state": "SC",
-    "division": "1A",
-    "region": 1,
-    "record": "2-7",
-    "games_played": 9,
-    "avg_points_scored": 18.6,
-    "avg_points_allowed": 28.9,
-    "season_net_margin": -10.3,
-    "last_3_game_margin": -6.3,
-    "momentum_trend": 4.0,
-    "close_game_record": "1-2",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "greer": {
-    "team": "Greer",
-    "state": "SC",
-    "division": "4A",
-    "region": 1,
-    "record": "0-8",
-    "games_played": 8,
-    "avg_points_scored": 12.9,
-    "avg_points_allowed": 38.0,
-    "season_net_margin": -25.1,
-    "last_3_game_margin": -26.3,
-    "momentum_trend": -1.2,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
+      "Maintain 20.0 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #9 statewide SOS tested physicality in fourth quarter."
     ]
   },
   "myrtle beach": {
@@ -1200,253 +1704,3179 @@
     "state": "SC",
     "division": "5A-D2",
     "region": 1,
-    "record": "0-7",
-    "games_played": 7,
-    "avg_points_scored": 11.3,
-    "avg_points_allowed": 45.6,
-    "season_net_margin": -34.3,
-    "last_3_game_margin": -48.3,
-    "momentum_trend": -14.0,
-    "close_game_record": "0-0",
+    "record": "5-4",
+    "games_played": 9,
+    "avg_points_scored": 32.2,
+    "avg_points_allowed": 34.8,
+    "season_net_margin": -2.6,
+    "last_3_game_margin": 9.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
     "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare.",
-      "Late-Season Margin Compression: Net differential dipped -14.0 PPG over the last 3 weeks."
+      "Maintain 32.2 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #24 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "st. joseph's catholic": {
+    "team": "St. Joseph's Catholic",
+    "state": "SC",
+    "division": "2A",
+    "region": 3,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 43.2,
+    "avg_points_allowed": 18.4,
+    "season_net_margin": 24.8,
+    "last_3_game_margin": 43.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 43.2 PPG offensive pace against 2A playoff defense.",
+      "Leverage #183 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "crestwood": {
+    "team": "Crestwood",
+    "state": "SC",
+    "division": "3A",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 29.1,
+    "avg_points_allowed": 22.3,
+    "season_net_margin": 6.8,
+    "last_3_game_margin": 14.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 29.1 PPG offensive pace against 3A playoff defense.",
+      "Leverage #89 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "wilson hall": {
+    "team": "Wilson Hall",
+    "state": "SC",
+    "division": "3A",
+    "region": 2,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 32.6,
+    "avg_points_allowed": 24.0,
+    "season_net_margin": 8.6,
+    "last_3_game_margin": 29.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 32.6 PPG offensive pace against 3A playoff defense.",
+      "Leverage #147 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "clinton": {
+    "team": "Clinton",
+    "state": "SC",
+    "division": "2A",
+    "region": 1,
+    "record": "7-4",
+    "games_played": 11,
+    "avg_points_scored": 38.0,
+    "avg_points_allowed": 27.2,
+    "season_net_margin": 10.8,
+    "last_3_game_margin": 31.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 38.0 PPG offensive pace against 2A playoff defense.",
+      "Leverage #113 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "seneca": {
+    "team": "Seneca",
+    "state": "SC",
+    "division": "3A",
+    "region": 2,
+    "record": "7-4",
+    "games_played": 11,
+    "avg_points_scored": 35.0,
+    "avg_points_allowed": 19.0,
+    "season_net_margin": 16.0,
+    "last_3_game_margin": 49.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 35.0 PPG offensive pace against 3A playoff defense.",
+      "Leverage #136 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "pickens": {
+    "team": "Pickens",
+    "state": "SC",
+    "division": "3A",
+    "region": 3,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 46.8,
+    "avg_points_allowed": 20.2,
+    "season_net_margin": 26.6,
+    "last_3_game_margin": 26.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 46.8 PPG offensive pace against 3A playoff defense.",
+      "Leverage #181 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "chesnee": {
+    "team": "Chesnee",
+    "state": "SC",
+    "division": "2A",
+    "region": 2,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 44.5,
+    "avg_points_allowed": 27.7,
+    "season_net_margin": 16.8,
+    "last_3_game_margin": 13.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 44.5 PPG offensive pace against 2A playoff defense.",
+      "Leverage #150 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "conway": {
+    "team": "Conway",
+    "state": "SC",
+    "division": "4A",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 32.3,
+    "avg_points_allowed": 29.5,
+    "season_net_margin": 2.8,
+    "last_3_game_margin": 18.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 32.3 PPG offensive pace against 4A playoff defense.",
+      "Leverage #34 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "fountain inn": {
+    "team": "Fountain Inn",
+    "state": "SC",
+    "division": "4A",
+    "region": 4,
+    "record": "7-4",
+    "games_played": 11,
+    "avg_points_scored": 30.0,
+    "avg_points_allowed": 24.6,
+    "season_net_margin": 5.4,
+    "last_3_game_margin": 28.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 30.0 PPG offensive pace against 4A playoff defense.",
+      "Leverage #60 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "mountain view prep": {
+    "team": "Mountain View Prep",
+    "state": "SC",
+    "division": "2A",
+    "region": 1,
+    "record": "5-4",
+    "games_played": 9,
+    "avg_points_scored": 33.6,
+    "avg_points_allowed": 29.3,
+    "season_net_margin": 4.3,
+    "last_3_game_margin": 13.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 33.6 PPG offensive pace against 2A playoff defense.",
+      "Leverage #58 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "dillon christian": {
+    "team": "Dillon Christian",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 4,
+    "record": "8-1",
+    "games_played": 9,
+    "avg_points_scored": 49.7,
+    "avg_points_allowed": 9.0,
+    "season_net_margin": 40.7,
+    "last_3_game_margin": 47.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 7,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 49.7 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #239 statewide SOS tested physicality in fourth quarter."
     ]
   },
   "johnsonville": {
     "team": "Johnsonville",
     "state": "SC",
-    "division": "1A",
-    "region": 1,
-    "record": "2-7",
-    "games_played": 9,
-    "avg_points_scored": 20.8,
-    "avg_points_allowed": 28.7,
-    "season_net_margin": -7.9,
-    "last_3_game_margin": -13.3,
-    "momentum_trend": -5.4,
-    "close_game_record": "0-3",
+    "division": "5A-D2",
+    "region": 4,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 35.4,
+    "avg_points_allowed": 18.1,
+    "season_net_margin": 17.3,
+    "last_3_game_margin": 18.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 35.4 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #192 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "north myrtle beach": {
+    "team": "North Myrtle Beach",
+    "state": "SC",
+    "division": "4A",
+    "region": 3,
+    "record": "6-5",
+    "games_played": 11,
+    "avg_points_scored": 27.3,
+    "avg_points_allowed": 31.8,
+    "season_net_margin": -4.5,
+    "last_3_game_margin": -33.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
     "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
+      "Maintain 27.3 PPG offensive pace against 4A playoff defense.",
+      "Leverage #51 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "first baptist school": {
+    "team": "First Baptist School",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 1,
+    "record": "6-1",
+    "games_played": 7,
+    "avg_points_scored": 44.3,
+    "avg_points_allowed": 18.6,
+    "season_net_margin": 25.7,
+    "last_3_game_margin": -1.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 44.3 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #217 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "lancaster": {
+    "team": "Lancaster",
+    "state": "SC",
+    "division": "4A",
+    "region": 4,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 25.2,
+    "avg_points_allowed": 21.6,
+    "season_net_margin": 3.6,
+    "last_3_game_margin": -19.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 25.2 PPG offensive pace against 4A playoff defense.",
+      "Leverage #106 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "dreher": {
+    "team": "Dreher",
+    "state": "SC",
+    "division": "4A",
+    "region": 3,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 32.1,
+    "avg_points_allowed": 20.7,
+    "season_net_margin": 11.4,
+    "last_3_game_margin": 4.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 32.1 PPG offensive pace against 4A playoff defense.",
+      "Leverage #131 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "a.c. flora": {
+    "team": "A.C. Flora",
+    "state": "SC",
+    "division": "4A",
+    "region": 3,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 21.0,
+    "avg_points_allowed": 27.2,
+    "season_net_margin": -6.2,
+    "last_3_game_margin": 7.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 21.0 PPG offensive pace against 4A playoff defense.",
+      "Leverage #56 statewide SOS tested physicality in fourth quarter."
     ]
   },
   "lake view": {
     "team": "Lake View",
     "state": "SC",
-    "division": "1A",
-    "region": 1,
-    "record": "2-8",
-    "games_played": 10,
-    "avg_points_scored": 18.5,
-    "avg_points_allowed": 31.8,
-    "season_net_margin": -13.3,
-    "last_3_game_margin": -19.0,
-    "momentum_trend": -5.7,
-    "close_game_record": "1-1",
-    "mercy_rule_wins": 0,
+    "division": "5A-D2",
+    "region": 4,
+    "record": "7-1",
+    "games_played": 8,
+    "avg_points_scored": 38.5,
+    "avg_points_allowed": 21.2,
+    "season_net_margin": 17.3,
+    "last_3_game_margin": 23.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
+      "Maintain 38.5 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #197 statewide SOS tested physicality in fourth quarter."
     ]
   },
-  "lower richland": {
-    "team": "Lower Richland",
-    "state": "SC",
-    "division": "4A",
-    "region": 1,
-    "record": "0-5",
-    "games_played": 5,
-    "avg_points_scored": 12.2,
-    "avg_points_allowed": 43.0,
-    "season_net_margin": -30.8,
-    "last_3_game_margin": -34.0,
-    "momentum_trend": -3.2,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
-    ]
-  },
-  "chester": {
-    "team": "Chester",
+  "keenan": {
+    "team": "Keenan",
     "state": "SC",
     "division": "2A",
     "region": 1,
-    "record": "4-5",
+    "record": "7-2",
     "games_played": 9,
-    "avg_points_scored": 18.8,
+    "avg_points_scored": 36.0,
+    "avg_points_allowed": 20.1,
+    "season_net_margin": 15.9,
+    "last_3_game_margin": 19.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 36.0 PPG offensive pace against 2A playoff defense.",
+      "Leverage #128 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "scott's branch": {
+    "team": "Scott's Branch",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 1,
+    "record": "7-2",
+    "games_played": 9,
+    "avg_points_scored": 35.7,
+    "avg_points_allowed": 18.8,
+    "season_net_margin": 16.9,
+    "last_3_game_margin": 18.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 35.7 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #170 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "york": {
+    "team": "York",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 4,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 23.6,
     "avg_points_allowed": 33.7,
-    "season_net_margin": -14.9,
-    "last_3_game_margin": -14.3,
-    "momentum_trend": 0.6,
-    "close_game_record": "3-1",
+    "season_net_margin": -10.1,
+    "last_3_game_margin": -4.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 23.6 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #44 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "darlington": {
+    "team": "Darlington",
+    "state": "SC",
+    "division": "3A",
+    "region": 1,
+    "record": "4-7",
+    "games_played": 11,
+    "avg_points_scored": 20.9,
+    "avg_points_allowed": 26.0,
+    "season_net_margin": -5.1,
+    "last_3_game_margin": -16.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
     "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
+      "Maintain 20.9 PPG offensive pace against 3A playoff defense.",
+      "Leverage #77 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "greer": {
+    "team": "Greer",
+    "state": "SC",
+    "division": "4A",
+    "region": 2,
+    "record": "5-4",
+    "games_played": 9,
+    "avg_points_scored": 33.6,
+    "avg_points_allowed": 30.3,
+    "season_net_margin": 3.3,
+    "last_3_game_margin": 14.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 33.6 PPG offensive pace against 4A playoff defense.",
+      "Leverage #112 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "bluffton": {
+    "team": "Bluffton",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 32.4,
+    "avg_points_allowed": 29.4,
+    "season_net_margin": 3.0,
+    "last_3_game_margin": -5.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 32.4 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #100 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "may river": {
+    "team": "May River",
+    "state": "SC",
+    "division": "4A",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 22.7,
+    "avg_points_allowed": 32.1,
+    "season_net_margin": -9.4,
+    "last_3_game_margin": 4.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 22.7 PPG offensive pace against 4A playoff defense.",
+      "Leverage #66 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "ben lippen": {
+    "team": "Ben Lippen",
+    "state": "SC",
+    "division": "3A",
+    "region": 1,
+    "record": "5-3",
+    "games_played": 8,
+    "avg_points_scored": 29.0,
+    "avg_points_allowed": 22.5,
+    "season_net_margin": 6.5,
+    "last_3_game_margin": 4.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 29.0 PPG offensive pace against 3A playoff defense.",
+      "Leverage #133 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "heathwood hall episcopal": {
+    "team": "Heathwood Hall Episcopal",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 23.0,
+    "avg_points_allowed": 19.4,
+    "season_net_margin": 3.6,
+    "last_3_game_margin": 12.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 23.0 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #91 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "florence christian": {
+    "team": "Florence Christian",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 26.8,
+    "avg_points_allowed": 21.3,
+    "season_net_margin": 5.5,
+    "last_3_game_margin": -3.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 26.8 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #159 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "laurens": {
+    "team": "Laurens",
+    "state": "SC",
+    "division": "1A",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 27.6,
+    "avg_points_allowed": 28.8,
+    "season_net_margin": -1.2,
+    "last_3_game_margin": 1.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 27.6 PPG offensive pace against 1A playoff defense.",
+      "Leverage #52 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "manning": {
+    "team": "Manning",
+    "state": "SC",
+    "division": "2A",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 27.3,
+    "avg_points_allowed": 25.6,
+    "season_net_margin": 1.7,
+    "last_3_game_margin": 1.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 27.3 PPG offensive pace against 2A playoff defense.",
+      "Leverage #84 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "fort dorchester": {
+    "team": "Fort Dorchester",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 2,
+    "record": "6-5",
+    "games_played": 11,
+    "avg_points_scored": 21.2,
+    "avg_points_allowed": 26.5,
+    "season_net_margin": -5.3,
+    "last_3_game_margin": -9.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 21.2 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #69 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "woodruff": {
+    "team": "Woodruff",
+    "state": "SC",
+    "division": "2A",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 32.2,
+    "avg_points_allowed": 39.4,
+    "season_net_margin": -7.2,
+    "last_3_game_margin": -30.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 32.2 PPG offensive pace against 2A playoff defense.",
+      "Leverage #105 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "battery creek": {
+    "team": "Battery Creek",
+    "state": "SC",
+    "division": "2A",
+    "region": 1,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 30.3,
+    "avg_points_allowed": 20.0,
+    "season_net_margin": 10.3,
+    "last_3_game_margin": -4.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 30.3 PPG offensive pace against 2A playoff defense.",
+      "Leverage #168 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "wando": {
+    "team": "Wando",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 1,
+    "record": "5-6",
+    "games_played": 11,
+    "avg_points_scored": 20.9,
+    "avg_points_allowed": 27.2,
+    "season_net_margin": -6.3,
+    "last_3_game_margin": -4.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 20.9 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #59 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "hunter-kinard-tyler": {
+    "team": "Hunter-Kinard-Tyler",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 3,
+    "record": "3-3",
+    "games_played": 6,
+    "avg_points_scored": 16.7,
+    "avg_points_allowed": 31.3,
+    "season_net_margin": -14.6,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 16.7 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #88 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "wagener-salley": {
+    "team": "Wagener-Salley",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 3,
+    "record": "5-2",
+    "games_played": 7,
+    "avg_points_scored": 37.7,
+    "avg_points_allowed": 18.1,
+    "season_net_margin": 19.6,
+    "last_3_game_margin": 6.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 37.7 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #191 statewide SOS tested physicality in fourth quarter."
     ]
   },
   "newberry": {
     "team": "Newberry",
     "state": "SC",
     "division": "2A",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 27.7,
+    "avg_points_allowed": 30.0,
+    "season_net_margin": -2.3,
+    "last_3_game_margin": -11.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 27.7 PPG offensive pace against 2A playoff defense.",
+      "Leverage #104 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "blythewood": {
+    "team": "Blythewood",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 16.4,
+    "avg_points_allowed": 28.3,
+    "season_net_margin": -11.9,
+    "last_3_game_margin": -13.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 16.4 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #53 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "j.l. mann": {
+    "team": "J.L. Mann",
+    "state": "SC",
+    "division": "5A-D1",
     "region": 1,
-    "record": "1-8",
+    "record": "3-6",
     "games_played": 9,
-    "avg_points_scored": 15.9,
-    "avg_points_allowed": 33.7,
-    "season_net_margin": -17.8,
-    "last_3_game_margin": -27.3,
-    "momentum_trend": -9.5,
-    "close_game_record": "1-3",
+    "avg_points_scored": 23.1,
+    "avg_points_allowed": 31.0,
+    "season_net_margin": -7.9,
+    "last_3_game_margin": -15.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
     "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare.",
-      "Late-Season Margin Compression: Net differential dipped -9.5 PPG over the last 3 weeks."
+      "Maintain 23.1 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #26 statewide SOS tested physicality in fourth quarter."
     ]
   },
-  "crestwood": {
-    "team": "crestwood",
+  "woodmont": {
+    "team": "Woodmont",
+    "state": "SC",
+    "division": "4A",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 28.0,
+    "avg_points_allowed": 28.5,
+    "season_net_margin": -0.5,
+    "last_3_game_margin": -15.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 28.0 PPG offensive pace against 4A playoff defense.",
+      "Leverage #85 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "aynor": {
+    "team": "Aynor",
     "state": "SC",
     "division": "3A",
     "region": 1,
-    "record": "0-8",
-    "games_played": 8,
-    "avg_points_scored": 12.8,
-    "avg_points_allowed": 37.9,
-    "season_net_margin": -25.1,
-    "last_3_game_margin": -40.7,
-    "momentum_trend": -15.6,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 0,
+    "record": "6-5",
+    "games_played": 11,
+    "avg_points_scored": 25.7,
+    "avg_points_allowed": 23.3,
+    "season_net_margin": 2.4,
+    "last_3_game_margin": -3.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare.",
-      "Late-Season Margin Compression: Net differential dipped -15.6 PPG over the last 3 weeks."
+      "Maintain 25.7 PPG offensive pace against 3A playoff defense.",
+      "Leverage #130 statewide SOS tested physicality in fourth quarter."
     ]
   },
-  "wren": {
-    "team": "Wren",
+  "latta": {
+    "team": "Latta",
     "state": "SC",
-    "division": "3A",
-    "region": 1,
-    "record": "1-7",
-    "games_played": 8,
-    "avg_points_scored": 14.1,
-    "avg_points_allowed": 41.2,
-    "season_net_margin": -27.1,
-    "last_3_game_margin": -45.0,
-    "momentum_trend": -17.9,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 0,
+    "division": "1A",
+    "region": 3,
+    "record": "5-4",
+    "games_played": 9,
+    "avg_points_scored": 27.8,
+    "avg_points_allowed": 23.4,
+    "season_net_margin": 4.4,
+    "last_3_game_margin": 25.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare.",
-      "Late-Season Margin Compression: Net differential dipped -17.9 PPG over the last 3 weeks."
+      "Maintain 27.8 PPG offensive pace against 1A playoff defense.",
+      "Leverage #167 statewide SOS tested physicality in fourth quarter."
     ]
   },
-  "hunter-kinard-tyler": {
-    "team": "Hunter-Kinard-Tyler",
+  "calhoun county": {
+    "team": "Calhoun County",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 1,
+    "record": "4-3",
+    "games_played": 7,
+    "avg_points_scored": 28.6,
+    "avg_points_allowed": 16.1,
+    "season_net_margin": 12.5,
+    "last_3_game_margin": -5.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 28.6 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #178 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "nation ford": {
+    "team": "Nation Ford",
     "state": "SC",
     "division": "1A",
     "region": 1,
-    "record": "2-6",
-    "games_played": 8,
-    "avg_points_scored": 14.9,
-    "avg_points_allowed": 34.8,
-    "season_net_margin": -19.9,
-    "last_3_game_margin": -30.7,
-    "momentum_trend": -10.8,
-    "close_game_record": "2-0",
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 13.5,
+    "avg_points_allowed": 38.6,
+    "season_net_margin": -25.1,
+    "last_3_game_margin": -26.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
     "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare.",
-      "Late-Season Margin Compression: Net differential dipped -10.8 PPG over the last 3 weeks."
+      "Maintain 13.5 PPG offensive pace against 1A playoff defense.",
+      "Leverage #6 statewide SOS tested physicality in fourth quarter."
     ]
   },
-  "andrews": {
-    "team": "Andrews",
+  "atlantic collegiate academy": {
+    "team": "Atlantic Collegiate Academy",
+    "state": "SC",
+    "division": "3A",
+    "region": 1,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 19.0,
+    "avg_points_allowed": 34.6,
+    "season_net_margin": -15.6,
+    "last_3_game_margin": -21.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 19.0 PPG offensive pace against 3A playoff defense.",
+      "Leverage #82 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "socastee": {
+    "team": "Socastee",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 27.8,
+    "avg_points_allowed": 32.2,
+    "season_net_margin": -4.4,
+    "last_3_game_margin": -12.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 27.8 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #72 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "c.a. johnson": {
+    "team": "C.A. Johnson",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 4,
+    "record": "5-2",
+    "games_played": 7,
+    "avg_points_scored": 42.0,
+    "avg_points_allowed": 22.6,
+    "season_net_margin": 19.4,
+    "last_3_game_margin": 41.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 42.0 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #213 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "mauldin": {
+    "team": "Mauldin",
+    "state": "SC",
+    "division": "1A",
+    "region": 2,
+    "record": "1-8",
+    "games_played": 9,
+    "avg_points_scored": 13.2,
+    "avg_points_allowed": 23.4,
+    "season_net_margin": -10.2,
+    "last_3_game_margin": -9.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 13.2 PPG offensive pace against 1A playoff defense.",
+      "Leverage #35 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "christ church episcopal": {
+    "team": "Christ Church Episcopal",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 4,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 21.2,
+    "avg_points_allowed": 22.4,
+    "season_net_margin": -1.2,
+    "last_3_game_margin": 15.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 21.2 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #86 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "east clarendon": {
+    "team": "East Clarendon",
+    "state": "SC",
+    "division": "2A",
+    "region": 2,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 20.2,
+    "avg_points_allowed": 25.0,
+    "season_net_margin": -4.8,
+    "last_3_game_margin": -5.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 20.2 PPG offensive pace against 2A playoff defense.",
+      "Leverage #107 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "cane bay": {
+    "team": "Cane Bay",
     "state": "SC",
     "division": "2A",
     "region": 1,
-    "record": "1-7",
-    "games_played": 8,
-    "avg_points_scored": 15.0,
-    "avg_points_allowed": 39.4,
-    "season_net_margin": -24.4,
-    "last_3_game_margin": -44.7,
-    "momentum_trend": -20.3,
-    "close_game_record": "1-2",
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 16.1,
+    "avg_points_allowed": 30.1,
+    "season_net_margin": -14.0,
+    "last_3_game_margin": -26.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
     "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare.",
-      "Late-Season Margin Compression: Net differential dipped -20.3 PPG over the last 3 weeks."
+      "Maintain 16.1 PPG offensive pace against 2A playoff defense.",
+      "Leverage #63 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "stratford": {
+    "team": "Stratford",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 1,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 13.6,
+    "avg_points_allowed": 35.9,
+    "season_net_margin": -22.3,
+    "last_3_game_margin": -5.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 13.6 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #28 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "waccamaw": {
+    "team": "Waccamaw",
+    "state": "SC",
+    "division": "2A",
+    "region": 1,
+    "record": "4-5",
+    "games_played": 9,
+    "avg_points_scored": 19.1,
+    "avg_points_allowed": 24.8,
+    "season_net_margin": -5.7,
+    "last_3_game_margin": -7.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 19.1 PPG offensive pace against 2A playoff defense.",
+      "Leverage #99 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "swansea": {
+    "team": "Swansea",
+    "state": "SC",
+    "division": "3A",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 32.5,
+    "avg_points_allowed": 36.9,
+    "season_net_margin": -4.4,
+    "last_3_game_margin": -14.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 32.5 PPG offensive pace against 3A playoff defense.",
+      "Leverage #110 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "brookland-cayce": {
+    "team": "Brookland-Cayce",
+    "state": "SC",
+    "division": "3A",
+    "region": 4,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 24.4,
+    "avg_points_allowed": 32.3,
+    "season_net_margin": -7.9,
+    "last_3_game_margin": -10.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 24.4 PPG offensive pace against 3A playoff defense.",
+      "Leverage #73 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "st. james": {
+    "team": "St. James",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 1,
+    "record": "1-8",
+    "games_played": 9,
+    "avg_points_scored": 18.9,
+    "avg_points_allowed": 35.0,
+    "season_net_margin": -16.1,
+    "last_3_game_margin": -26.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 18.9 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #32 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "andrew jackson": {
+    "team": "Andrew Jackson",
+    "state": "SC",
+    "division": "2A",
+    "region": 3,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 19.4,
+    "avg_points_allowed": 31.6,
+    "season_net_margin": -12.2,
+    "last_3_game_margin": -2.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 19.4 PPG offensive pace against 2A playoff defense.",
+      "Leverage #117 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "chester": {
+    "team": "Chester",
+    "state": "SC",
+    "division": "2A",
+    "region": 2,
+    "record": "5-4",
+    "games_played": 9,
+    "avg_points_scored": 24.2,
+    "avg_points_allowed": 31.0,
+    "season_net_margin": -6.8,
+    "last_3_game_margin": -17.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 24.2 PPG offensive pace against 2A playoff defense.",
+      "Leverage #125 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "georgetown": {
+    "team": "Georgetown",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 1,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 21.7,
+    "avg_points_allowed": 29.3,
+    "season_net_margin": -7.6,
+    "last_3_game_margin": 1.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 21.7 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #95 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "riverside": {
+    "team": "Riverside",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 22.6,
+    "avg_points_allowed": 28.8,
+    "season_net_margin": -6.2,
+    "last_3_game_margin": -22.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 22.6 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #116 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "westwood": {
+    "team": "Westwood",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 2,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 13.4,
+    "avg_points_allowed": 33.6,
+    "season_net_margin": -20.2,
+    "last_3_game_margin": -11.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 13.4 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #42 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "northside christian academy": {
+    "team": "Northside Christian Academy",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 3,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 34.9,
+    "avg_points_allowed": 21.3,
+    "season_net_margin": 13.6,
+    "last_3_game_margin": -18.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 34.9 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #226 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "lower richland": {
+    "team": "Lower Richland",
+    "state": "SC",
+    "division": "4A",
+    "region": 4,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 17.7,
+    "avg_points_allowed": 29.8,
+    "season_net_margin": -12.1,
+    "last_3_game_margin": -16.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 17.7 PPG offensive pace against 4A playoff defense.",
+      "Leverage #94 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "lake marion": {
+    "team": "Lake Marion",
+    "state": "SC",
+    "division": "2A",
+    "region": 1,
+    "record": "3-5",
+    "games_played": 8,
+    "avg_points_scored": 14.4,
+    "avg_points_allowed": 25.5,
+    "season_net_margin": -11.1,
+    "last_3_game_margin": -3.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 14.4 PPG offensive pace against 2A playoff defense.",
+      "Leverage #126 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "pee dee academy": {
+    "team": "Pee Dee Academy",
+    "state": "SC",
+    "division": "3A",
+    "region": 1,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 33.1,
+    "avg_points_allowed": 27.1,
+    "season_net_margin": 6.0,
+    "last_3_game_margin": -5.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 33.1 PPG offensive pace against 3A playoff defense.",
+      "Leverage #216 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "palmetto": {
+    "team": "Palmetto",
+    "state": "SC",
+    "division": "3A",
+    "region": 3,
+    "record": "4-7",
+    "games_played": 11,
+    "avg_points_scored": 23.9,
+    "avg_points_allowed": 28.4,
+    "season_net_margin": -4.5,
+    "last_3_game_margin": -14.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 23.9 PPG offensive pace against 3A playoff defense.",
+      "Leverage #101 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "north central": {
+    "team": "North Central",
+    "state": "SC",
+    "division": "1A",
+    "region": 2,
+    "record": "3-4",
+    "games_played": 7,
+    "avg_points_scored": 25.4,
+    "avg_points_allowed": 34.9,
+    "season_net_margin": -9.5,
+    "last_3_game_margin": -8.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 25.4 PPG offensive pace against 1A playoff defense.",
+      "Leverage #144 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "liberty": {
+    "team": "Liberty",
+    "state": "SC",
+    "division": "2A",
+    "region": 3,
+    "record": "5-6",
+    "games_played": 11,
+    "avg_points_scored": 27.1,
+    "avg_points_allowed": 29.9,
+    "season_net_margin": -2.8,
+    "last_3_game_margin": -17.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 27.1 PPG offensive pace against 2A playoff defense.",
+      "Leverage #158 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "trinity collegiate": {
+    "team": "Trinity Collegiate",
+    "state": "SC",
+    "division": "1A",
+    "region": 4,
+    "record": "3-5",
+    "games_played": 8,
+    "avg_points_scored": 26.6,
+    "avg_points_allowed": 29.0,
+    "season_net_margin": -2.4,
+    "last_3_game_margin": -15.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 26.6 PPG offensive pace against 1A playoff defense.",
+      "Leverage #164 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "eastside": {
+    "team": "Eastside",
+    "state": "SC",
+    "division": "2A",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.7,
+    "avg_points_allowed": 32.0,
+    "season_net_margin": -14.3,
+    "last_3_game_margin": -27.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 17.7 PPG offensive pace against 2A playoff defense.",
+      "Leverage #79 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "lee central": {
+    "team": "Lee Central",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 2,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 31.5,
+    "avg_points_allowed": 20.3,
+    "season_net_margin": 11.2,
+    "last_3_game_margin": 25.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 31.5 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #198 statewide SOS tested physicality in fourth quarter."
     ]
   },
   "silver bluff": {
     "team": "Silver Bluff",
     "state": "SC",
     "division": "2A",
-    "region": 1,
-    "record": "0-8",
-    "games_played": 8,
-    "avg_points_scored": 11.5,
-    "avg_points_allowed": 40.5,
-    "season_net_margin": -29.0,
-    "last_3_game_margin": -39.7,
-    "momentum_trend": -10.7,
-    "close_game_record": "0-1",
+    "region": 3,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 18.3,
+    "avg_points_allowed": 36.6,
+    "season_net_margin": -18.3,
+    "last_3_game_margin": -19.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 18.3 PPG offensive pace against 2A playoff defense.",
+      "Leverage #98 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "west ashley": {
+    "team": "West Ashley",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 4,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 15.2,
+    "avg_points_allowed": 31.9,
+    "season_net_margin": -16.7,
+    "last_3_game_margin": -12.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 15.2 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #57 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "pendleton": {
+    "team": "Pendleton",
+    "state": "SC",
+    "division": "2A",
+    "region": 4,
+    "record": "5-6",
+    "games_played": 11,
+    "avg_points_scored": 23.8,
+    "avg_points_allowed": 31.4,
+    "season_net_margin": -7.6,
+    "last_3_game_margin": -17.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
     "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare.",
-      "Late-Season Margin Compression: Net differential dipped -10.7 PPG over the last 3 weeks."
+      "Maintain 23.8 PPG offensive pace against 2A playoff defense.",
+      "Leverage #139 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "colleton county": {
+    "team": "Colleton County",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 4,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 14.7,
+    "avg_points_allowed": 31.0,
+    "season_net_margin": -16.3,
+    "last_3_game_margin": -31.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 14.7 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #78 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "greenwood christian": {
+    "team": "Greenwood Christian",
+    "state": "SC",
+    "division": "4A",
+    "region": 4,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 35.8,
+    "avg_points_allowed": 25.3,
+    "season_net_margin": 10.5,
+    "last_3_game_margin": 18.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 35.8 PPG offensive pace against 4A playoff defense.",
+      "Leverage #234 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "lake wylie": {
+    "team": "Lake Wylie",
+    "state": "SC",
+    "division": "4A",
+    "region": 1,
+    "record": "3-5",
+    "games_played": 8,
+    "avg_points_scored": 21.1,
+    "avg_points_allowed": 40.0,
+    "season_net_margin": -18.9,
+    "last_3_game_margin": -31.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 21.1 PPG offensive pace against 4A playoff defense.",
+      "Leverage #80 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "john paul ii": {
+    "team": "John Paul II",
+    "state": "SC",
+    "division": "4A",
+    "region": 4,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 23.6,
+    "avg_points_allowed": 33.2,
+    "season_net_margin": -9.6,
+    "last_3_game_margin": 4.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 23.6 PPG offensive pace against 4A playoff defense.",
+      "Leverage #108 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "ninety six": {
+    "team": "Ninety Six",
+    "state": "SC",
+    "division": "1A",
+    "region": 4,
+    "record": "4-3",
+    "games_played": 7,
+    "avg_points_scored": 30.3,
+    "avg_points_allowed": 23.1,
+    "season_net_margin": 7.2,
+    "last_3_game_margin": 11.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 30.3 PPG offensive pace against 1A playoff defense.",
+      "Leverage #204 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "blue ridge": {
+    "team": "Blue Ridge",
+    "state": "SC",
+    "division": "3A",
+    "region": 1,
+    "record": "4-7",
+    "games_played": 11,
+    "avg_points_scored": 22.0,
+    "avg_points_allowed": 28.5,
+    "season_net_margin": -6.5,
+    "last_3_game_margin": 9.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 22.0 PPG offensive pace against 3A playoff defense.",
+      "Leverage #142 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "hardeeville": {
+    "team": "Hardeeville",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 1,
+    "record": "5-3",
+    "games_played": 8,
+    "avg_points_scored": 30.6,
+    "avg_points_allowed": 18.1,
+    "season_net_margin": 12.5,
+    "last_3_game_margin": 12.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 30.6 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #231 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "lewisville": {
+    "team": "Lewisville",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 2,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 26.2,
+    "avg_points_allowed": 30.9,
+    "season_net_margin": -4.7,
+    "last_3_game_margin": -15.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 26.2 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #162 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "richland northeast": {
+    "team": "Richland Northeast",
+    "state": "SC",
+    "division": "4A",
+    "region": 2,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 13.6,
+    "avg_points_allowed": 29.4,
+    "season_net_margin": -15.8,
+    "last_3_game_margin": -20.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 13.6 PPG offensive pace against 4A playoff defense.",
+      "Leverage #102 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "goose creek": {
+    "team": "Goose Creek",
+    "state": "SC",
+    "division": "4A",
+    "region": 2,
+    "record": "0-8",
+    "games_played": 8,
+    "avg_points_scored": 12.0,
+    "avg_points_allowed": 34.5,
+    "season_net_margin": -22.5,
+    "last_3_game_margin": -24.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 12.0 PPG offensive pace against 4A playoff defense.",
+      "Leverage #96 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "marion": {
+    "team": "Marion",
+    "state": "SC",
+    "division": "1A",
+    "region": 3,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 16.0,
+    "avg_points_allowed": 31.3,
+    "season_net_margin": -15.3,
+    "last_3_game_margin": 2.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 16.0 PPG offensive pace against 1A playoff defense.",
+      "Leverage #155 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "beaufort": {
+    "team": "Beaufort",
+    "state": "SC",
+    "division": "3A",
+    "region": 2,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 18.8,
+    "avg_points_allowed": 41.6,
+    "season_net_margin": -22.8,
+    "last_3_game_margin": -29.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 18.8 PPG offensive pace against 3A playoff defense.",
+      "Leverage #71 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "academic magnet": {
+    "team": "Academic Magnet",
+    "state": "SC",
+    "division": "2A",
+    "region": 3,
+    "record": "4-7",
+    "games_played": 11,
+    "avg_points_scored": 28.4,
+    "avg_points_allowed": 29.9,
+    "season_net_margin": -1.5,
+    "last_3_game_margin": -20.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 28.4 PPG offensive pace against 2A playoff defense.",
+      "Leverage #180 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "patrick henry academy": {
+    "team": "Patrick Henry Academy",
+    "state": "SC",
+    "division": "4A",
+    "region": 4,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 26.4,
+    "avg_points_allowed": 21.9,
+    "season_net_margin": 4.5,
+    "last_3_game_margin": 0.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 26.4 PPG offensive pace against 4A playoff defense.",
+      "Leverage #223 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "branchville": {
+    "team": "Branchville",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 27.3,
+    "avg_points_allowed": 26.5,
+    "season_net_margin": 0.8,
+    "last_3_game_margin": 17.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 27.3 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #203 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "chesterfield": {
+    "team": "Chesterfield",
+    "state": "SC",
+    "division": "3A",
+    "region": 1,
+    "record": "2-6",
+    "games_played": 8,
+    "avg_points_scored": 15.6,
+    "avg_points_allowed": 26.8,
+    "season_net_margin": -11.2,
+    "last_3_game_margin": 1.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 15.6 PPG offensive pace against 3A playoff defense.",
+      "Leverage #152 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "wade hampton": {
+    "team": "Wade Hampton",
+    "state": "SC",
+    "division": "3A",
+    "region": 4,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 16.8,
+    "avg_points_allowed": 33.2,
+    "season_net_margin": -16.4,
+    "last_3_game_margin": -33.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 16.8 PPG offensive pace against 3A playoff defense.",
+      "Leverage #127 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "baptist hill": {
+    "team": "Baptist Hill",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 3,
+    "record": "7-4",
+    "games_played": 11,
+    "avg_points_scored": 39.7,
+    "avg_points_allowed": 18.0,
+    "season_net_margin": 21.7,
+    "last_3_game_margin": 28.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 6,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 39.7 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #243 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "airport": {
+    "team": "Airport",
+    "state": "SC",
+    "division": "3A",
+    "region": 2,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 19.2,
+    "avg_points_allowed": 39.1,
+    "season_net_margin": -19.9,
+    "last_3_game_margin": -35.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 19.2 PPG offensive pace against 3A playoff defense.",
+      "Leverage #115 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "whale branch": {
+    "team": "Whale Branch",
+    "state": "SC",
+    "division": "1A",
+    "region": 3,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 14.8,
+    "avg_points_allowed": 26.1,
+    "season_net_margin": -11.3,
+    "last_3_game_margin": 17.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 14.8 PPG offensive pace against 1A playoff defense.",
+      "Leverage #172 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "pelion": {
+    "team": "Pelion",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 1,
+    "record": "2-6",
+    "games_played": 8,
+    "avg_points_scored": 16.0,
+    "avg_points_allowed": 31.1,
+    "season_net_margin": -15.1,
+    "last_3_game_margin": -28.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 16.0 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #148 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "lake city": {
+    "team": "Lake City",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 4,
+    "record": "1-8",
+    "games_played": 9,
+    "avg_points_scored": 13.1,
+    "avg_points_allowed": 34.6,
+    "season_net_margin": -21.5,
+    "last_3_game_margin": -31.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 13.1 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #129 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "orangeburg prep": {
+    "team": "Orangeburg Prep",
+    "state": "SC",
+    "division": "4A",
+    "region": 2,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 20.7,
+    "avg_points_allowed": 39.6,
+    "season_net_margin": -18.9,
+    "last_3_game_margin": -33.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 20.7 PPG offensive pace against 4A playoff defense.",
+      "Leverage #173 statewide SOS tested physicality in fourth quarter."
     ]
   },
   "denmark-olar": {
     "team": "Denmark-Olar",
     "state": "SC",
-    "division": "1A",
+    "division": "5A-D2",
     "region": 1,
-    "record": "2-7",
+    "record": "4-3",
+    "games_played": 7,
+    "avg_points_scored": 24.3,
+    "avg_points_allowed": 17.0,
+    "season_net_margin": 7.3,
+    "last_3_game_margin": -18.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 24.3 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #210 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "eau claire": {
+    "team": "Eau Claire",
+    "state": "SC",
+    "division": "1A",
+    "region": 2,
+    "record": "5-3",
+    "games_played": 8,
+    "avg_points_scored": 34.5,
+    "avg_points_allowed": 22.9,
+    "season_net_margin": 11.6,
+    "last_3_game_margin": -2.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 34.5 PPG offensive pace against 1A playoff defense.",
+      "Leverage #225 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "easley": {
+    "team": "Easley",
+    "state": "SC",
+    "division": "1A",
+    "region": 2,
+    "record": "1-8",
     "games_played": 9,
-    "avg_points_scored": 13.7,
-    "avg_points_allowed": 36.6,
-    "season_net_margin": -22.9,
-    "last_3_game_margin": -28.3,
-    "momentum_trend": -5.4,
-    "close_game_record": "2-0",
+    "avg_points_scored": 23.9,
+    "avg_points_allowed": 53.2,
+    "season_net_margin": -29.3,
+    "last_3_game_margin": -54.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
     "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
+      "Maintain 23.9 PPG offensive pace against 1A playoff defense.",
+      "Leverage #83 statewide SOS tested physicality in fourth quarter."
     ]
   },
-  "blackville-hilda": {
-    "team": "Blackville-Hilda",
+  "blacksburg": {
+    "team": "Blacksburg",
+    "state": "SC",
+    "division": "1A",
+    "region": 2,
+    "record": "4-5",
+    "games_played": 9,
+    "avg_points_scored": 17.2,
+    "avg_points_allowed": 32.3,
+    "season_net_margin": -15.1,
+    "last_3_game_margin": -20.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 17.2 PPG offensive pace against 1A playoff defense.",
+      "Leverage #193 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "landrum": {
+    "team": "Landrum",
+    "state": "SC",
+    "division": "2A",
+    "region": 4,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 18.3,
+    "avg_points_allowed": 36.1,
+    "season_net_margin": -17.8,
+    "last_3_game_margin": -45.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 18.3 PPG offensive pace against 2A playoff defense.",
+      "Leverage #156 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "walhalla": {
+    "team": "Walhalla",
+    "state": "SC",
+    "division": "3A",
+    "region": 1,
+    "record": "4-7",
+    "games_played": 11,
+    "avg_points_scored": 24.4,
+    "avg_points_allowed": 40.2,
+    "season_net_margin": -15.8,
+    "last_3_game_margin": -10.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 24.4 PPG offensive pace against 3A playoff defense.",
+      "Leverage #145 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "edisto": {
+    "team": "Edisto",
+    "state": "SC",
+    "division": "1A",
+    "region": 4,
+    "record": "2-6",
+    "games_played": 8,
+    "avg_points_scored": 10.5,
+    "avg_points_allowed": 30.1,
+    "season_net_margin": -19.6,
+    "last_3_game_margin": -8.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 10.5 PPG offensive pace against 1A playoff defense.",
+      "Leverage #140 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "barnwell": {
+    "team": "Barnwell",
     "state": "SC",
     "division": "1A",
     "region": 1,
-    "record": "0-8",
-    "games_played": 8,
-    "avg_points_scored": 14.5,
-    "avg_points_allowed": 37.8,
-    "season_net_margin": -23.3,
-    "last_3_game_margin": -27.3,
-    "momentum_trend": -4.0,
-    "close_game_record": "0-2",
+    "record": "1-8",
+    "games_played": 9,
+    "avg_points_scored": 10.6,
+    "avg_points_allowed": 34.4,
+    "season_net_margin": -23.8,
+    "last_3_game_margin": -26.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
     "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical South Carolina tournament trench warfare."
+      "Maintain 10.6 PPG offensive pace against 1A playoff defense.",
+      "Leverage #157 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "andrews": {
+    "team": "Andrews",
+    "state": "SC",
+    "division": "1A",
+    "region": 3,
+    "record": "3-8",
+    "games_played": 11,
+    "avg_points_scored": 18.1,
+    "avg_points_allowed": 29.6,
+    "season_net_margin": -11.5,
+    "last_3_game_margin": -13.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 18.1 PPG offensive pace against 1A playoff defense.",
+      "Leverage #179 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "kingstree": {
+    "team": "Kingstree",
+    "state": "SC",
+    "division": "3A",
+    "region": 1,
+    "record": "3-5",
+    "games_played": 8,
+    "avg_points_scored": 18.8,
+    "avg_points_allowed": 20.1,
+    "season_net_margin": -1.3,
+    "last_3_game_margin": -3.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 18.8 PPG offensive pace against 3A playoff defense.",
+      "Leverage #189 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "travelers rest": {
+    "team": "Travelers Rest",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 18.9,
+    "avg_points_allowed": 35.3,
+    "season_net_margin": -16.4,
+    "last_3_game_margin": -27.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 18.9 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #137 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "timberland": {
+    "team": "Timberland",
+    "state": "SC",
+    "division": "1A",
+    "region": 2,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 17.9,
+    "avg_points_allowed": 33.3,
+    "season_net_margin": -15.4,
+    "last_3_game_margin": -22.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 17.9 PPG offensive pace against 1A playoff defense.",
+      "Leverage #143 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "spring valley": {
+    "team": "Spring Valley",
+    "state": "SC",
+    "division": "4A",
+    "region": 2,
+    "record": "0-9",
+    "games_played": 9,
+    "avg_points_scored": 5.4,
+    "avg_points_allowed": 41.1,
+    "season_net_margin": -35.7,
+    "last_3_game_margin": -37.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 5.4 PPG offensive pace against 4A playoff defense.",
+      "Leverage #16 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "fox creek": {
+    "team": "Fox Creek",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 4,
+    "record": "1-5",
+    "games_played": 6,
+    "avg_points_scored": 17.2,
+    "avg_points_allowed": 53.0,
+    "season_net_margin": -35.8,
+    "last_3_game_margin": -59.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 17.2 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #76 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "green sea floyds": {
+    "team": "Green Sea Floyds",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 29.2,
+    "avg_points_allowed": 33.9,
+    "season_net_margin": -4.7,
+    "last_3_game_margin": 4.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 29.2 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #207 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "mullins": {
+    "team": "Mullins",
+    "state": "SC",
+    "division": "4A",
+    "region": 2,
+    "record": "1-8",
+    "games_played": 9,
+    "avg_points_scored": 12.4,
+    "avg_points_allowed": 32.1,
+    "season_net_margin": -19.7,
+    "last_3_game_margin": -19.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 12.4 PPG offensive pace against 4A playoff defense.",
+      "Leverage #146 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "hannah-pamplico": {
+    "team": "Hannah-Pamplico",
+    "state": "SC",
+    "division": "1A",
+    "region": 4,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 19.3,
+    "avg_points_allowed": 38.4,
+    "season_net_margin": -19.1,
+    "last_3_game_margin": -21.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 19.3 PPG offensive pace against 1A playoff defense.",
+      "Leverage #176 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "beaufort academy": {
+    "team": "Beaufort Academy",
+    "state": "SC",
+    "division": "4A",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.5,
+    "avg_points_allowed": 28.4,
+    "season_net_margin": -8.9,
+    "last_3_game_margin": -9.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 19.5 PPG offensive pace against 4A playoff defense.",
+      "Leverage #218 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "greenville hurricanes": {
+    "team": "Greenville Hurricanes",
+    "state": "SC",
+    "division": "4A",
+    "region": 1,
+    "record": "4-4",
+    "games_played": 8,
+    "avg_points_scored": 16.5,
+    "avg_points_allowed": 23.9,
+    "season_net_margin": -7.4,
+    "last_3_game_margin": -14.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 16.5 PPG offensive pace against 4A playoff defense.",
+      "Leverage #242 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "broome": {
+    "team": "Broome",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 4,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 11.5,
+    "avg_points_allowed": 36.4,
+    "season_net_margin": -24.9,
+    "last_3_game_margin": -33.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 11.5 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #111 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "cross-bluffton": {
+    "team": "Cross-Bluffton",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 4,
+    "record": "0-0",
+    "games_played": 1,
+    "avg_points_scored": 10.0,
+    "avg_points_allowed": 39.0,
+    "season_net_margin": -29.0,
+    "last_3_game_margin": -29.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 10.0 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #196 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "lakewood": {
+    "team": "Lakewood",
+    "state": "SC",
+    "division": "3A",
+    "region": 4,
+    "record": "1-8",
+    "games_played": 9,
+    "avg_points_scored": 11.0,
+    "avg_points_allowed": 39.4,
+    "season_net_margin": -28.4,
+    "last_3_game_margin": -39.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 11.0 PPG offensive pace against 3A playoff defense.",
+      "Leverage #109 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "west-oak": {
+    "team": "West-Oak",
+    "state": "SC",
+    "division": "3A",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 23.6,
+    "avg_points_allowed": 31.0,
+    "season_net_margin": -7.4,
+    "last_3_game_margin": -44.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 23.6 PPG offensive pace against 3A playoff defense.",
+      "Leverage #208 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "dixie": {
+    "team": "Dixie",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 24.3,
+    "avg_points_allowed": 21.6,
+    "season_net_margin": 2.7,
+    "last_3_game_margin": 16.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 24.3 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #238 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "spartanburg christian academy": {
+    "team": "Spartanburg Christian Academy",
+    "state": "SC",
+    "division": "3A",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 26.9,
+    "avg_points_allowed": 33.7,
+    "season_net_margin": -6.8,
+    "last_3_game_margin": -12.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 26.9 PPG offensive pace against 3A playoff defense.",
+      "Leverage #205 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "lee academy": {
+    "team": "Lee Academy",
+    "state": "SC",
+    "division": "3A",
+    "region": 2,
+    "record": "3-8",
+    "games_played": 11,
+    "avg_points_scored": 16.6,
+    "avg_points_allowed": 32.1,
+    "season_net_margin": -15.5,
+    "last_3_game_margin": 4.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 16.6 PPG offensive pace against 3A playoff defense.",
+      "Leverage #195 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "clarendon hall": {
+    "team": "Clarendon Hall",
+    "state": "SC",
+    "division": "3A",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 26.5,
+    "avg_points_allowed": 31.1,
+    "season_net_margin": -4.6,
+    "last_3_game_margin": 4.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 26.5 PPG offensive pace against 3A playoff defense.",
+      "Leverage #222 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "thomas sumter academy": {
+    "team": "Thomas Sumter Academy",
+    "state": "SC",
+    "division": "3A",
+    "region": 1,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 22.7,
+    "avg_points_allowed": 33.1,
+    "season_net_margin": -10.4,
+    "last_3_game_margin": 6.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 22.7 PPG offensive pace against 3A playoff defense.",
+      "Leverage #199 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "buford": {
+    "team": "Buford",
+    "state": "SC",
+    "division": "3A",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 16.1,
+    "avg_points_allowed": 32.5,
+    "season_net_margin": -16.4,
+    "last_3_game_margin": -18.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 16.1 PPG offensive pace against 3A playoff defense.",
+      "Leverage #200 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "great falls": {
+    "team": "Great Falls",
+    "state": "SC",
+    "division": "3A",
+    "region": 2,
+    "record": "1-6",
+    "games_played": 7,
+    "avg_points_scored": 16.3,
+    "avg_points_allowed": 31.1,
+    "season_net_margin": -14.8,
+    "last_3_game_margin": -27.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 16.3 PPG offensive pace against 3A playoff defense.",
+      "Leverage #187 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "columbia": {
+    "team": "Columbia",
+    "state": "SC",
+    "division": "3A",
+    "region": 4,
+    "record": "1-8",
+    "games_played": 9,
+    "avg_points_scored": 12.9,
+    "avg_points_allowed": 43.0,
+    "season_net_margin": -30.1,
+    "last_3_game_margin": -32.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 12.9 PPG offensive pace against 3A playoff defense.",
+      "Leverage #124 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "cardinal newman": {
+    "team": "Cardinal Newman",
+    "state": "SC",
+    "division": "5A-D1",
+    "region": 3,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 7.4,
+    "avg_points_allowed": 35.9,
+    "season_net_margin": -28.5,
+    "last_3_game_margin": -43.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 7.4 PPG offensive pace against 5A-D1 playoff defense.",
+      "Leverage #132 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "whitmire": {
+    "team": "Whitmire",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 3,
+    "record": "3-8",
+    "games_played": 11,
+    "avg_points_scored": 22.9,
+    "avg_points_allowed": 36.4,
+    "season_net_margin": -13.5,
+    "last_3_game_margin": -41.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 22.9 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #209 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "clear dot charter": {
+    "team": "Clear Dot Charter",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 20.0,
+    "avg_points_allowed": 25.4,
+    "season_net_margin": -5.4,
+    "last_3_game_margin": -19.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 20.0 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #235 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "ridge spring-monetta": {
+    "team": "Ridge Spring-Monetta",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 23.2,
+    "avg_points_allowed": 48.3,
+    "season_net_margin": -25.1,
+    "last_3_game_margin": -39.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 23.2 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #224 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "mccormick": {
+    "team": "McCormick",
+    "state": "SC",
+    "division": "3A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 24.9,
+    "avg_points_allowed": 27.7,
+    "season_net_margin": -2.8,
+    "last_3_game_margin": 41.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 24.9 PPG offensive pace against 3A playoff defense.",
+      "Leverage #233 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "stall": {
+    "team": "Stall",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 2,
+    "record": "2-6",
+    "games_played": 8,
+    "avg_points_scored": 9.6,
+    "avg_points_allowed": 45.4,
+    "season_net_margin": -35.8,
+    "last_3_game_margin": -46.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 9.6 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #122 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "north charleston": {
+    "team": "North Charleston",
+    "state": "SC",
+    "division": "2A",
+    "region": 3,
+    "record": "2-6",
+    "games_played": 8,
+    "avg_points_scored": 12.2,
+    "avg_points_allowed": 40.8,
+    "season_net_margin": -28.6,
+    "last_3_game_margin": -54.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 12.2 PPG offensive pace against 2A playoff defense.",
+      "Leverage #154 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "carolina academy": {
+    "team": "Carolina Academy",
+    "state": "SC",
+    "division": "2A",
+    "region": 2,
+    "record": "3-16",
+    "games_played": 19,
+    "avg_points_scored": 10.7,
+    "avg_points_allowed": 37.6,
+    "season_net_margin": -26.9,
+    "last_3_game_margin": -35.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 10.7 PPG offensive pace against 2A playoff defense.",
+      "Leverage #202 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "thomas heyward academy": {
+    "team": "Thomas Heyward Academy",
+    "state": "SC",
+    "division": "2A",
+    "region": 2,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 9.6,
+    "avg_points_allowed": 24.8,
+    "season_net_margin": -15.2,
+    "last_3_game_margin": -7.0,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 9.6 PPG offensive pace against 2A playoff defense.",
+      "Leverage #227 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "ridgeland secondary academy of excellence": {
+    "team": "Ridgeland Secondary Academy Of Excellence",
+    "state": "SC",
+    "division": "2A",
+    "region": 3,
+    "record": "0-0",
+    "games_played": 1,
+    "avg_points_scored": 10.0,
+    "avg_points_allowed": 41.8,
+    "season_net_margin": -31.8,
+    "last_3_game_margin": -31.8,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 10.0 PPG offensive pace against 2A playoff defense.",
+      "Leverage #232 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "bethune-bowman": {
+    "team": "Bethune-Bowman",
+    "state": "SC",
+    "division": "5A-D2",
+    "region": 4,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 5.0,
+    "avg_points_allowed": 44.1,
+    "season_net_margin": -39.1,
+    "last_3_game_margin": -38.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 5.0 PPG offensive pace against 5A-D2 playoff defense.",
+      "Leverage #182 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "union county": {
+    "team": "Union County",
+    "state": "SC",
+    "division": "2A",
+    "region": 1,
+    "record": "0-9",
+    "games_played": 9,
+    "avg_points_scored": 7.1,
+    "avg_points_allowed": 42.8,
+    "season_net_margin": -35.7,
+    "last_3_game_margin": -35.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 7.1 PPG offensive pace against 2A playoff defense.",
+      "Leverage #120 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "southside": {
+    "team": "Southside",
+    "state": "SC",
+    "division": "3A",
+    "region": 1,
+    "record": "3-8",
+    "games_played": 11,
+    "avg_points_scored": 11.8,
+    "avg_points_allowed": 46.3,
+    "season_net_margin": -34.5,
+    "last_3_game_margin": -62.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 11.8 PPG offensive pace against 3A playoff defense.",
+      "Leverage #169 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "holly hill academy": {
+    "team": "Holly Hill Academy",
+    "state": "SC",
+    "division": "2A",
+    "region": 1,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 10.4,
+    "avg_points_allowed": 37.0,
+    "season_net_margin": -26.6,
+    "last_3_game_margin": -40.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 10.4 PPG offensive pace against 2A playoff defense.",
+      "Leverage #215 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "calhoun falls charter": {
+    "team": "Calhoun Falls Charter",
+    "state": "SC",
+    "division": "2A",
+    "region": 2,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 24.0,
+    "avg_points_allowed": 32.3,
+    "season_net_margin": -8.3,
+    "last_3_game_margin": -12.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 24.0 PPG offensive pace against 2A playoff defense.",
+      "Leverage #237 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "carolina academy-columbia": {
+    "team": "Carolina Academy-Columbia",
+    "state": "SC",
+    "division": "2A",
+    "region": 4,
+    "record": "0-0",
+    "games_played": 1,
+    "avg_points_scored": 10.0,
+    "avg_points_allowed": 44.2,
+    "season_net_margin": -34.2,
+    "last_3_game_margin": -34.2,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 10.0 PPG offensive pace against 2A playoff defense.",
+      "Leverage #211 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "mcbee": {
+    "team": "McBee",
+    "state": "SC",
+    "division": "1A",
+    "region": 1,
+    "record": "0-7",
+    "games_played": 7,
+    "avg_points_scored": 4.6,
+    "avg_points_allowed": 42.3,
+    "season_net_margin": -37.7,
+    "last_3_game_margin": -41.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 4.6 PPG offensive pace against 1A playoff defense.",
+      "Leverage #177 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "hilton head prep": {
+    "team": "Hilton Head Prep",
+    "state": "SC",
+    "division": "2A",
+    "region": 4,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 8.4,
+    "avg_points_allowed": 42.8,
+    "season_net_margin": -34.4,
+    "last_3_game_margin": -39.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 8.4 PPG offensive pace against 2A playoff defense.",
+      "Leverage #175 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "american leadership academy": {
+    "team": "American Leadership Academy",
+    "state": "SC",
+    "division": "1A",
+    "region": 2,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 7.9,
+    "avg_points_allowed": 38.6,
+    "season_net_margin": -30.7,
+    "last_3_game_margin": -50.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 7.9 PPG offensive pace against 1A playoff defense.",
+      "Leverage #184 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "hemingway": {
+    "team": "Hemingway",
+    "state": "SC",
+    "division": "4A",
+    "region": 3,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 5.5,
+    "avg_points_allowed": 47.6,
+    "season_net_margin": -42.1,
+    "last_3_game_margin": -49.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 5.5 PPG offensive pace against 4A playoff defense.",
+      "Leverage #212 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "st. john's christian academy": {
+    "team": "St. John's Christian Academy",
+    "state": "SC",
+    "division": "1A",
+    "region": 4,
+    "record": "1-8",
+    "games_played": 9,
+    "avg_points_scored": 13.9,
+    "avg_points_allowed": 37.9,
+    "season_net_margin": -24.0,
+    "last_3_game_margin": -36.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 13.9 PPG offensive pace against 1A playoff defense.",
+      "Leverage #214 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "allendale-fairfax": {
+    "team": "Allendale-Fairfax",
+    "state": "SC",
+    "division": "4A",
+    "region": 3,
+    "record": "1-5",
+    "games_played": 6,
+    "avg_points_scored": 4.7,
+    "avg_points_allowed": 37.2,
+    "season_net_margin": -32.5,
+    "last_3_game_margin": -23.7,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 4.7 PPG offensive pace against 4A playoff defense.",
+      "Leverage #201 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "berea": {
+    "team": "Berea",
+    "state": "SC",
+    "division": "2A",
+    "region": 4,
+    "record": "0-10",
+    "games_played": 10,
+    "avg_points_scored": 10.3,
+    "avg_points_allowed": 52.4,
+    "season_net_margin": -42.1,
+    "last_3_game_margin": -50.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 10.3 PPG offensive pace against 2A playoff defense.",
+      "Leverage #161 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "st. john's": {
+    "team": "St. John's",
+    "state": "SC",
+    "division": "1A",
+    "region": 2,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 15.8,
+    "avg_points_allowed": 29.2,
+    "season_net_margin": -13.4,
+    "last_3_game_margin": 0.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 15.8 PPG offensive pace against 1A playoff defense.",
+      "Leverage #244 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "camden military": {
+    "team": "Camden Military",
+    "state": "SC",
+    "division": "1A",
+    "region": 4,
+    "record": "0-7",
+    "games_played": 7,
+    "avg_points_scored": 3.7,
+    "avg_points_allowed": 43.4,
+    "season_net_margin": -39.7,
+    "last_3_game_margin": -48.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 3.7 PPG offensive pace against 1A playoff defense.",
+      "Leverage #194 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "military magnet academy": {
+    "team": "Military Magnet Academy",
+    "state": "SC",
+    "division": "1A",
+    "region": 3,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 12.4,
+    "avg_points_allowed": 43.6,
+    "season_net_margin": -31.2,
+    "last_3_game_margin": -39.7,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 12.4 PPG offensive pace against 1A playoff defense.",
+      "Leverage #230 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "spartanburg day": {
+    "team": "Spartanburg Day",
+    "state": "SC",
+    "division": "1A",
+    "region": 3,
+    "record": "1-6",
+    "games_played": 7,
+    "avg_points_scored": 7.6,
+    "avg_points_allowed": 39.9,
+    "season_net_margin": -32.3,
+    "last_3_game_margin": -42.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 7.6 PPG offensive pace against 1A playoff defense.",
+      "Leverage #228 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "ware shoals": {
+    "team": "Ware Shoals",
+    "state": "SC",
+    "division": "1A",
+    "region": 3,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 8.2,
+    "avg_points_allowed": 44.4,
+    "season_net_margin": -36.2,
+    "last_3_game_margin": -51.3,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 8.2 PPG offensive pace against 1A playoff defense.",
+      "Leverage #240 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "thornwell": {
+    "team": "Thornwell",
+    "state": "SC",
+    "division": "1A",
+    "region": 4,
+    "record": "0-8",
+    "games_played": 8,
+    "avg_points_scored": 9.5,
+    "avg_points_allowed": 46.6,
+    "season_net_margin": -37.1,
+    "last_3_game_margin": -58.0,
+    "momentum_trend": "Steady",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 9.5 PPG offensive pace against 1A playoff defense.",
+      "Leverage #236 statewide SOS tested physicality in fourth quarter."
+    ]
+  },
+  "burke": {
+    "team": "Burke",
+    "state": "SC",
+    "division": "2A",
+    "region": 3,
+    "record": "0-8",
+    "games_played": 8,
+    "avg_points_scored": 2.2,
+    "avg_points_allowed": 56.6,
+    "season_net_margin": -54.4,
+    "last_3_game_margin": -41.3,
+    "momentum_trend": "Surging",
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Maintain 2.2 PPG offensive pace against 2A playoff defense.",
+      "Leverage #220 statewide SOS tested physicality in fourth quarter."
     ]
   }
 }
