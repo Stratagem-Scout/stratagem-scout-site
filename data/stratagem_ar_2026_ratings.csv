@@ -1,0 +1,215 @@
+rank,division_rank,team,state,division,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_scored,ppg_allowed,ppg_off,ppg_def,net_margin,off_index,def_index,playoff_points,harbin_avg,ppa,pqs,contender_tier,city,mascot
+1,1,Greenwood,AR,6A,AAA 6A West,10-0,10,0,0,10,97.0,97.0,55.5,72.5,1,36.0,14.6,36.0,14.6,21.4,66.8,63.2,125.38,89.38,89.38,89.38,State Title Contender,Greenwood,Bulldogs
+2,2,Benton,AR,6A,AAA 6A East,10-0,10,0,0,10,96.9,96.9,55.21,72.2,2,33.7,13.9,33.7,13.9,19.8,63.6,64.1,125.27,89.15,89.15,89.15,State Title Contender,Benton,Panthers
+3,1,Little Rock Parkview,AR,5A,AAA 5A Central,10-0,10,0,0,10,96.8,96.8,54.91,71.6,3,37.2,12.1,37.2,12.1,25.1,68.5,66.7,125.06,88.7,88.7,88.7,State Title Contender,Little Rock,Varsity
+4,1,Bryant,AR,7A,AAA 7A Central,9-1,9,1,0,10,96.8,96.8,54.76,74.6,4,34.1,15.2,34.1,15.2,18.9,64.1,62.3,116.11,84.45,84.45,84.45,State Title Contender,Bryant,Hornets
+5,1,Salem,AR,3A,AAA 3A-2,10-0,10,0,0,10,96.6,96.6,54.18,70.5,5,30.3,14.8,30.3,14.8,15.5,58.8,62.9,124.67,87.88,87.88,87.88,State Title Contender,Salem,Greyhounds
+6,1,Conway Christian,AR,2A,AAA 2A-4,10-0,10,0,0,10,96.5,96.5,53.6,66.9,6,33.1,12.0,33.1,12.0,21.1,62.7,66.8,123.41,85.18,85.18,85.18,State Title Contender,Conway,Eagles
+7,2,Conway,AR,7A,AAA 7A Central,8-2,8,2,0,10,96.4,96.4,53.31,71.9,7,28.5,15.5,28.5,15.5,13.0,56.3,61.9,105.16,75.93,75.93,75.93,State Title Contender,Conway,Wampus Cats
+8,1,Elkins,AR,4A,AAA 4A-1,9-1,9,1,0,10,96.2,96.2,52.87,71.3,8,33.3,13.1,33.3,13.1,20.2,63.0,65.3,114.95,81.97,81.97,81.97,State Title Contender,Elkins,Elks
+9,2,Joe T. Robinson,AR,5A,AAA 5A Central,9-1,9,1,0,10,96.1,96.1,52.44,71.6,9,30.0,12.9,30.0,12.9,17.1,58.4,65.5,115.06,82.2,82.2,82.2,State Title Contender,Little Rock,Varsity
+10,2,Arkadelphia,AR,4A,AAA 4A-7,10-0,10,0,0,10,95.6,95.6,51.0,68.4,10,31.4,13.0,31.4,13.0,18.4,60.4,65.4,123.94,86.3,86.3,86.3,State Title Contender,Arkadelphia,Badgers
+11,2,Bismarck,AR,3A,AAA 3A-7,8-2,8,2,0,10,93.7,93.7,46.8,68.9,11,30.9,16.0,30.9,16.0,14.9,59.7,61.2,104.12,73.68,73.68,73.68,State Title Contender,Bismarck,Lions
+12,2,East Poinsett County,AR,2A,AAA 2A-3,8-2,8,2,0,10,93.2,93.2,45.98,67.9,12,30.2,14.2,30.2,14.2,16.0,58.7,63.7,103.77,72.93,72.93,72.93,State Title Contender,Lepanto,Warriors
+13,3,Bentonville,AR,7A,AAA 7A West,6-4,6,4,0,10,93.2,93.2,45.85,74.1,13,18.1,17.3,18.1,17.3,0.8,41.7,59.4,85.94,64.57,64.57,64.57,State Title Contender,Bentonville,Tigers
+14,3,Mills University Studies,AR,4A,AAA 4A-2,8-2,8,2,0,10,91.0,91.0,42.37,69.0,14,20.2,16.2,20.2,16.2,4.0,44.7,60.9,104.15,73.75,73.75,73.75,State Title Contender,Little Rock,Comets
+15,3,Valley View,AR,5A,AAA 5A East,5-5,5,5,0,10,90.9,90.9,42.24,69.7,15,20.2,21.3,20.2,21.3,-1.1,44.7,53.8,74.39,54.78,54.78,54.78,State Title Contender,Jonesboro,Blazers
+16,4,Fayetteville,AR,7A,AAA 7A West,5-5,5,5,0,10,90.4,90.4,41.5,72.1,16,19.1,19.2,19.1,19.2,-0.1,43.1,56.7,75.23,56.57,56.57,56.57,State Title Contender,Fayetteville,Purple Bulldogs
+17,3,Shiloh Christian,AR,6A,AAA 6A West,3-7,3,7,0,10,90.3,90.3,41.4,71.7,17,16.1,19.3,16.1,19.3,-3.2,38.9,56.6,55.09,43.28,43.28,43.28,State Title Contender,Springdale,Saints
+18,4,Mountain Home,AR,6A,AAA 6A West,7-3,7,3,0,10,89.4,89.4,40.2,72.0,18,21.9,19.4,21.9,19.4,2.5,47.1,56.4,95.2,69.5,69.5,69.5,State Title Contender,Mountain Home,Bombers
+19,3,Booneville,AR,3A,AAA 3A-1,4-6,4,6,0,10,89.2,89.2,40.0,68.9,19,18.2,18.2,18.2,18.2,0.0,41.9,58.1,64.12,47.68,47.68,47.68,State Title Contender,Booneville,Bearcats
+20,3,Carlisle,AR,2A,AAA 2A-6,5-5,5,5,0,10,88.7,88.7,39.3,68.5,20,15.0,16.1,15.0,16.1,-1.1,37.4,61.1,73.97,53.88,53.88,53.88,State Title Contender,Carlisle,Bison
+21,5,Marion,AR,6A,AAA 6A East,3-7,3,7,0,10,88.7,88.7,39.3,71.9,21,16.0,19.4,16.0,19.4,-3.4,38.8,56.4,55.16,43.43,43.43,43.43,State Title Contender,Marion,Patriots
+22,5,Rogers,AR,7A,AAA 7A West,5-5,5,5,0,10,88.5,88.5,39.1,72.7,22,20.4,21.6,20.4,21.6,-1.2,45.0,53.4,75.44,57.03,57.03,57.03,State Title Contender,Rogers,Mountaineers
+23,4,Morrilton,AR,5A,AAA 5A Central,5-5,5,5,0,10,88.3,88.3,38.8,68.8,23,19.5,21.4,19.5,21.4,-1.9,43.7,53.6,74.08,54.1,54.1,54.1,State Title Contender,Morrilton,Devil Dogs
+24,4,Warren,AR,4A,AAA 4A-8,2-8,2,8,0,10,87.6,87.6,38.0,69.7,24,18.3,22.4,18.3,22.4,-4.1,42.0,52.2,44.39,35.28,35.28,35.28,State Title Contender,Warren,Lumberjacks
+25,4,Junction City,AR,2A,AAA 2A-8,5-5,5,5,0,10,86.3,86.3,36.5,68.2,25,14.8,16.2,14.8,16.2,-1.4,37.1,60.9,73.87,53.65,53.65,53.65,State Title Contender,Junction City,Dragons
+26,4,Mansfield,AR,3A,AAA 3A-1,4-6,4,6,0,10,86.3,86.3,36.5,69.2,26,13.3,14.8,13.3,14.8,-1.5,35.0,62.9,64.22,47.9,47.9,47.9,State Title Contender,Mansfield,Tigers
+27,5,Farmington,AR,5A,AAA 5A West,7-3,7,3,0,10,85.8,85.8,36.0,68.7,27,18.0,17.3,18.0,17.3,0.7,41.6,59.4,94.05,67.03,67.03,67.03,State Title Contender,Farmington,Cardinals
+28,5,Prescott,AR,3A,AAA 3A-7,5-5,5,5,0,10,85.4,85.4,35.5,66.5,28,17.5,18.1,17.5,18.1,-0.6,40.9,58.3,73.28,52.38,52.38,52.38,State Title Contender,Prescott,Curley Wolves
+29,5,Bauxite,AR,4A,AAA 4A-7,3-7,3,7,0,10,84.5,84.5,34.6,68.9,29,16.7,21.2,16.7,21.2,-4.5,39.8,53.9,54.12,41.18,41.18,41.18,Regional Contender,Bauxite,Miners
+30,6,Charleston,AR,3A,AAA 3A-1,6-4,6,4,0,10,84.3,84.3,34.41,66.0,30,19.9,20.4,19.9,20.4,-0.5,44.3,55.0,83.1,58.5,58.5,58.5,Regional Contender,Charleston,Tigers
+31,6,Bentonville West,AR,7A,AAA 7A West,5-5,5,5,0,10,84.3,84.3,34.41,70.7,31,17.1,18.9,17.1,18.9,-1.8,40.3,57.1,74.75,55.53,55.53,55.53,Regional Contender,Centerton,Wolverines
+32,6,El Dorado,AR,6A,AAA 6A East,4-6,4,6,0,10,84.3,84.3,34.41,72.1,32,18.7,23.8,18.7,23.8,-5.1,42.6,50.3,65.23,50.07,50.07,50.07,Regional Contender,El Dorado,Wildcats
+33,6,Hot Springs Lakeside,AR,5A,AAA 5A South,2-8,2,8,0,10,84.3,84.3,34.41,69.7,33,15.5,20.3,15.5,20.3,-4.8,38.1,55.2,44.39,35.28,35.28,35.28,Regional Contender,Hot Springs,Varsity
+34,7,Pulaski Academy,AR,7A,AAA 7A Central,2-8,2,8,0,10,83.7,83.7,33.71,73.1,34,16.1,20.5,16.1,20.5,-4.4,38.9,54.9,45.58,37.82,37.82,37.82,Regional Contender,Little Rock,Bruins
+35,7,Lake Hamilton,AR,6A,AAA 6A West,5-5,5,5,0,10,83.6,83.6,33.6,70.6,35,19.4,19.1,19.4,19.1,0.3,43.6,56.9,74.71,55.45,55.45,55.45,Regional Contender,Pearcy,Wolves
+36,5,Cross County,AR,2A,AAA 2A-3,3-7,3,7,0,10,83.1,83.1,33.14,65.8,36,16.1,19.1,16.1,19.1,-3.0,38.9,56.9,53.03,38.85,38.85,38.85,Regional Contender,Cherry Valley,Thunderbirds
+37,8,Cabot,AR,7A,AAA 7A Central,6-4,6,4,0,10,82.6,82.6,32.58,70.2,37,18.3,17.1,18.3,17.1,1.2,42.0,59.7,84.57,61.65,61.65,61.65,Regional Contender,Cabot,Panthers
+38,6,Southside Batesville,AR,4A,AAA 4A-3,4-6,4,6,0,10,82.4,82.4,32.46,68.2,38,18.0,21.1,18.0,21.1,-3.1,41.6,54.1,63.87,47.15,47.15,47.15,Regional Contender,Batesville,Varsity
+39,6,Mount Ida,AR,2A,AAA 2A-5,5-5,5,5,0,10,82.3,82.3,32.35,65.2,39,17.4,19.4,17.4,19.4,-2.0,40.8,56.4,72.82,51.4,51.4,51.4,Regional Contender,Mount Ida,Lions
+40,7,Dardanelle,AR,4A,AAA 4A-4,6-4,6,4,0,10,82.0,82.0,32.02,67.1,40,20.1,18.8,20.1,18.8,1.3,44.5,57.3,83.48,59.32,59.32,59.32,Regional Contender,Dardanelle,Sand Lizards
+41,9,Har-Ber,AR,7A,AAA 7A,7-3,7,3,0,10,81.2,81.2,31.22,76.6,41,26.5,18.7,26.5,18.7,7.8,53.5,57.4,96.81,24.5,45.5,7.0,Regional Contender,Springdale,Wildcats
+42,7,Hot Springs,AR,5A,AAA 5A South,3-7,3,7,0,10,80.9,80.9,30.93,69.9,42,18.2,21.7,18.2,21.7,-3.5,41.9,53.2,54.47,41.93,41.93,41.93,Regional Contender,Hot Springs,Trojans
+43,8,Camden Fairview,AR,5A,AAA 5A South,5-5,5,5,0,10,80.0,80.0,30.0,68.1,43,22.2,22.3,22.2,22.3,-0.1,47.5,52.4,73.83,53.57,53.57,53.57,Regional Contender,Camden,Cardinals
+44,7,Mineral Springs,AR,2A,AAA 2A-7,4-6,4,6,0,10,78.9,78.9,28.9,65.5,44,19.3,20.4,19.3,20.4,-1.1,43.4,55.0,62.92,45.12,45.12,45.12,Regional Contender,Mineral Springs,Hornets
+45,8,Sylvan Hills,AR,6A,AAA 6A East,4-6,4,6,0,10,78.8,78.8,28.8,68.4,45,17.4,21.4,17.4,21.4,-4.0,40.8,53.6,63.94,47.3,47.3,47.3,Regional Contender,Sherwood,Bears
+46,10,Little Rock Christian Academy,AR,7A,AAA 7A,6-4,6,4,0,10,78.6,78.6,28.58,75.4,46,33.0,23.5,33.0,23.5,9.5,62.6,50.7,86.39,21.0,39.0,6.0,Regional Contender,Little Rock,Warriors
+47,7,Glen Rose,AR,3A,AAA 3A-4,3-7,3,7,0,10,78.5,78.5,28.5,66.8,47,16.5,20.7,16.5,20.7,-4.2,39.5,54.6,53.38,39.6,39.6,39.6,Regional Contender,Malvern,Beavers
+48,8,Fordyce,AR,3A,AAA 3A-8,5-5,5,5,0,10,77.7,77.7,27.7,65.7,48,19.2,17.3,19.2,17.3,1.9,43.3,59.4,73.0,51.78,51.78,51.78,Regional Contender,Fordyce,Redbugs
+49,8,Ozark,AR,4A,AAA 4A-4,4-6,4,6,0,10,77.7,77.7,27.7,67.2,49,17.8,19.7,17.8,19.7,-1.9,41.3,56.0,63.52,46.4,46.4,46.4,Regional Contender,Ozark,Hillbillies
+50,9,Robinson,AR,5A,AAA 5A,10-0,10,0,0,10,76.9,76.9,26.89,68.2,50,47.1,17.6,47.1,17.6,29.5,82.3,59.0,123.87,35.0,65.0,10.0,Regional Contender,Little Rock,Senators
+51,8,Magazine,AR,2A,AAA 2A,9-0,9,0,0,9,76.6,76.6,26.6,55.0,51,38.7,6.0,38.7,6.0,32.7,70.6,75.2,119.25,35.0,65.0,10.0,Regional Contender,Magazine,Rattlers
+52,9,Corning,AR,2A,AAA 2A,8-0,8,0,0,8,76.6,76.6,26.6,55.0,52,38.6,4.8,38.6,4.8,33.8,70.4,76.9,119.25,35.0,65.0,10.0,Regional Contender,Corning,Bobcats
+53,9,Jonesboro,AR,6A,AAA 6A East,6-4,6,4,0,10,76.4,76.4,26.4,69.8,53,15.8,18.8,15.8,18.8,-3.0,38.5,57.3,84.43,61.35,61.35,61.35,Regional Contender,Jonesboro,Hurricane
+54,11,Springdale Har-Ber,AR,7A,AAA 7A West,5-5,5,5,0,10,76.1,76.1,26.1,68.9,54,20.3,22.4,20.3,22.4,-2.1,44.8,52.2,74.12,54.18,54.18,54.18,Regional Contender,Springdale,Varsity
+55,12,Little Rock Christian,AR,7A,AAA 7A Central,2-8,2,8,0,10,75.9,75.9,25.9,71.4,55,19.3,24.5,19.3,24.5,-5.2,43.4,49.3,44.99,36.55,36.55,36.55,Regional Contender,Little Rock,Varsity
+56,13,North Little Rock,AR,7A,AAA 7A Central,7-3,7,3,0,10,75.5,75.5,25.5,69.5,56,21.0,20.7,21.0,20.7,0.3,45.8,54.6,94.33,67.62,67.62,67.62,Regional Contender,North Little Rock,Charging Wildcats
+57,10,Harding Academy,AR,5A,AAA 5A East,4-6,4,6,0,10,75.4,75.4,25.4,68.1,57,18.5,22.8,18.5,22.8,-4.3,42.3,51.7,63.83,47.07,47.07,47.07,Regional Contender,Searcy,Wildcats
+58,10,Russellville,AR,6A,AAA 6A West,3-7,3,7,0,10,75.2,75.2,25.2,69.4,58,19.9,22.8,19.9,22.8,-2.9,44.3,51.7,54.29,41.55,41.55,41.55,Regional Contender,Russellville,Cyclones
+59,10,hector,AR,2A,AAA 2A-4,4-6,4,6,0,10,75.1,75.1,25.1,64.5,59,18.7,22.1,18.7,22.1,-3.4,42.6,52.7,62.58,44.38,44.38,44.38,Regional Contender,Hector,Wildcats
+60,9,Stuttgart,AR,4A,AAA 4A,10-0,10,0,0,10,74.9,74.9,24.87,63.3,60,44.3,10.4,44.3,10.4,33.9,78.4,69.0,122.16,35.0,65.0,10.0,Regional Contender,Stuttgart,Ricebirds
+61,10,Nashville,AR,4A,AAA 4A-7,4-6,4,6,0,10,74.7,74.7,24.7,66.1,61,16.8,19.5,16.8,19.5,-2.7,39.9,56.3,63.13,45.57,45.57,45.57,Regional Contender,Nashville,Scrappers
+62,11,Vilonia,AR,5A,AAA 5A West,6-4,6,4,0,10,74.5,74.5,24.5,68.3,62,16.1,20.5,16.1,20.5,-4.4,38.9,54.9,83.91,60.22,60.22,60.22,Regional Contender,Vilonia,Eagles
+63,11,Dierks,AR,2A,AAA 2A-7,6-4,6,4,0,10,74.3,74.3,24.3,65.5,63,20.4,18.7,20.4,18.7,1.7,45.0,57.4,82.92,58.12,58.12,58.12,Regional Contender,Dierks,Outlaws
+64,12,Parkview,AR,5A,AAA 5A,7-3,7,3,0,10,74.2,74.2,24.25,70.4,64,43.6,25.8,43.6,25.8,17.8,77.4,47.5,94.64,24.5,45.5,7.0,Regional Contender,Little Rock,Patriots
+65,9,Rison,AR,3A,AAA 3A-8,6-4,6,4,0,10,74.0,74.0,24.0,66.4,65,17.8,16.6,17.8,16.6,1.2,41.3,60.4,83.24,58.8,58.8,58.8,Regional Contender,Rison,Wildcats
+66,10,Osceola,AR,3A,AAA 3A-3,3-7,3,7,0,10,74.0,74.0,24.0,66.0,66,14.3,19.4,14.3,19.4,-5.1,36.4,56.4,53.1,39.0,39.0,39.0,Regional Contender,Osceola,Seminoles
+67,12,Lafayette County,AR,2A,AAA 2A,8-1,8,1,0,9,73.5,73.5,23.49,53.4,67,56.8,19.1,56.8,19.1,37.7,95.9,56.9,107.58,31.11,57.78,8.89,Playoff Qualifier,Stamps,Cougars
+68,11,McGehee,AR,4A,AAA 4A-8,5-5,5,5,0,10,72.8,72.8,22.8,67.6,68,17.3,22.2,17.3,22.2,-4.9,40.6,52.5,73.66,53.2,53.2,53.2,Playoff Qualifier,McGehee,Owls
+69,13,Cedar Ridge,AR,2A,AAA 2A,8-1,8,1,0,9,71.0,71.0,21.01,53.4,69,43.6,21.1,43.6,21.1,22.5,77.4,54.1,107.58,31.11,57.78,8.89,Playoff Qualifier,Newark,Timberwolves
+70,14,Bigelow,AR,2A,AAA 2A-4,4-6,4,6,0,10,70.0,70.0,20.0,64.3,70,18.2,24.4,18.2,24.4,-6.2,41.9,49.4,62.5,44.22,44.22,44.22,Playoff Qualifier,Bigelow,Panthers
+71,11,Searcy,AR,6A,AAA 6A,8-2,8,2,0,10,69.9,69.9,19.9,68.9,71,45.3,25.2,45.3,25.2,20.1,79.8,48.3,104.12,28.0,52.0,8.0,Playoff Qualifier,Searcy,Lions
+72,11,Central Arkansas Christian,AR,3A,AAA 3A-4,5-5,5,5,0,10,69.8,69.8,19.8,66.7,72,13.9,16.4,13.9,16.4,-2.5,35.9,60.6,73.34,52.53,52.53,52.53,Playoff Qualifier,North Little Rock,Mustangs
+73,13,Nettleton,AR,5A,AAA 5A East,3-7,3,7,0,10,69.6,69.6,19.6,67.1,73,16.7,19.9,16.7,19.9,-3.2,39.8,55.7,53.48,39.82,39.82,39.82,Playoff Qualifier,Jonesboro,Raiders
+74,15,Izard County,AR,2A,AAA 2A,8-2,8,2,0,10,69.3,69.3,19.34,52.2,74,42.0,17.7,42.0,17.7,24.3,75.2,58.8,98.27,28.0,52.0,8.0,Playoff Qualifier,Brockwell,Cougars
+75,12,Sheridan,AR,6A,AAA 6A East,2-8,2,8,0,10,69.2,69.2,19.2,67.7,75,13.8,18.3,13.8,18.3,-4.5,35.7,58.0,43.7,35.0,35.0,35.0,Playoff Qualifier,Sheridan,Yellowjackets
+76,12,Gravette,AR,4A,AAA 4A-1,3-7,3,7,0,10,69.0,69.0,19.0,68.2,76,18.3,21.8,18.3,21.8,-3.5,42.0,53.1,53.87,40.65,40.65,40.65,Playoff Qualifier,Gravette,Lions
+77,16,Strong,AR,2A,AAA 2A,5-2,5,2,0,7,68.6,68.6,18.6,51.0,77,52.9,18.3,52.9,18.3,34.6,90.5,58.0,89.28,25.0,46.43,7.14,Playoff Qualifier,Strong,Bulldogs
+78,13,Lonoke,AR,4A,AAA 4A,8-2,8,2,0,10,68.5,68.5,18.53,66.6,78,37.9,20.2,37.9,20.2,17.7,69.5,55.3,103.31,28.0,52.0,8.0,Playoff Qualifier,Lonoke,Jackrabbits
+79,14,Jacksonville,AR,5A,AAA 5A,8-2,8,2,0,10,68.5,68.5,18.49,67.1,79,44.1,23.2,44.1,23.2,20.9,78.1,51.1,103.48,28.0,52.0,8.0,Playoff Qualifier,Jacksonville,Titans
+80,17,Des Arc,AR,2A,AAA 2A-6,5-5,5,5,0,10,68.4,68.4,18.4,63.5,80,17.7,19.4,17.7,19.4,-1.7,41.2,56.4,72.22,50.12,50.12,50.12,Playoff Qualifier,Des Arc,Eagles
+81,13,Van Buren,AR,6A,AAA 6A West,3-7,3,7,0,10,68.0,68.0,18.0,67.1,81,16.5,34.4,16.5,34.4,-17.9,39.5,35.4,53.48,39.82,39.82,39.82,Playoff Qualifier,Van Buren,Pointers
+82,12,Newport,AR,3A,AAA 3A,8-2,8,2,0,10,67.6,67.6,17.58,55.2,82,41.8,9.5,41.8,9.5,32.3,74.9,70.3,99.32,28.0,52.0,8.0,Playoff Qualifier,Newport,Greyhounds
+83,14,Gosnell,AR,4A,AAA 4A,8-2,8,2,0,10,66.5,66.5,16.47,61.9,83,45.6,20.0,45.6,20.0,25.6,80.2,55.6,101.66,28.0,52.0,8.0,Playoff Qualifier,Gosnell,Pirates
+84,15,Highland,AR,4A,AAA 4A-3,2-8,2,8,0,10,66.3,66.3,16.3,65.1,84,12.6,31.8,12.6,31.8,-19.2,34.0,39.1,42.78,35.0,35.0,35.0,Playoff Qualifier,Hardy,Rebels
+85,14,Fort Smith Southside,AR,7A,AAA 7A West,0-10,0,10,0,10,66.2,66.2,16.2,70.6,85,15.1,34.5,15.1,34.5,-19.4,37.5,35.3,24.71,35.0,35.0,35.0,Playoff Qualifier,Fort Smith,Varsity
+86,16,Fountain Lake,AR,4A,AAA 4A,9-1,9,1,0,10,66.1,66.1,16.14,61.2,86,46.9,24.7,46.9,24.7,22.2,82.1,49.0,111.42,31.5,58.5,9.0,Playoff Qualifier,Hot Springs National Park,Cobras
+87,15,texarkana Arkansas High,AR,5A,AAA 5A South,1-9,1,9,0,10,66.0,66.0,16.0,68.1,87,13.1,32.7,13.1,32.7,-19.6,34.7,37.8,33.83,35.0,35.0,35.0,Playoff Qualifier,Texarkana,Varsity
+88,17,Hamburg,AR,4A,AAA 4A,8-2,8,2,0,10,64.9,64.9,14.87,62.8,88,44.7,21.1,44.7,21.1,23.6,79.0,54.1,101.98,28.0,52.0,8.0,Playoff Qualifier,Hamburg,Lions
+89,13,Rivercrest,AR,3A,AAA 3A-3,1-9,1,9,0,10,64.2,64.2,14.2,64.9,89,12.0,31.1,12.0,31.1,-19.1,33.2,40.1,32.72,35.0,35.0,35.0,Playoff Qualifier,Wilson,Colts
+90,18,Baptist Prep,AR,2A,AAA 2A,10-0,10,0,0,10,64.2,64.2,14.16,52.0,90,44.4,7.8,44.4,7.8,36.6,78.6,72.7,118.2,35.0,65.0,10.0,Playoff Qualifier,Little Rock,Eagles
+91,16,Harrison,AR,5A,AAA 5A,6-4,6,4,0,10,64.1,64.1,14.1,69.2,91,31.7,22.8,31.7,22.8,8.9,60.8,51.7,84.22,21.0,39.0,6.0,Playoff Qualifier,Harrison,Goblins
+92,14,Smackover,AR,3A,AAA 3A,8-2,8,2,0,10,64.0,64.0,14.02,53.0,92,46.2,13.6,46.2,13.6,32.6,81.1,64.6,98.55,28.0,52.0,8.0,Playoff Qualifier,Smackover,Buckaroos
+93,15,Springdale,AR,7A,AAA 7A,2-8,2,8,0,10,63.9,63.9,13.85,76.8,93,13.0,30.1,13.0,30.1,-17.1,34.6,41.5,46.88,7.0,13.0,2.0,Playoff Qualifier,Springdale,Bulldogs
+94,15,Atkins,AR,3A,AAA 3A,9-1,9,1,0,10,63.2,63.2,13.21,54.0,94,51.6,22.9,51.6,22.9,28.7,88.6,51.5,108.9,31.5,58.5,9.0,Playoff Qualifier,Atkins,Red Devils
+95,19,Cave City,AR,2A,AAA 2A,7-3,7,3,0,10,62.8,62.8,12.8,50.8,95,37.0,21.0,37.0,21.0,16.0,68.2,54.2,87.78,24.5,45.5,7.0,Playoff Qualifier,Cave City,Cavemen
+96,16,Walnut Ridge,AR,3A,AAA 3A,8-2,8,2,0,10,62.7,62.7,12.74,55.4,96,41.8,12.6,41.8,12.6,29.2,74.9,66.0,99.39,28.0,52.0,8.0,Playoff Qualifier,Walnut Ridge,Bobcats
+97,20,Marked Tree,AR,2A,AAA 2A-3,1-9,1,9,0,10,62.7,62.7,12.7,63.0,97,11.7,30.6,11.7,30.6,-18.9,32.8,40.8,32.05,35.0,35.0,35.0,Playoff Qualifier,Marked Tree,Indians
+98,18,Heber Springs,AR,4A,AAA 4A,7-3,7,3,0,10,61.9,61.9,11.89,64.9,98,43.6,32.5,43.6,32.5,11.1,77.4,38.1,92.72,24.5,45.5,7.0,Playoff Qualifier,Heber Springs,Panthers
+99,19,Forrest City,AR,4A,AAA 4A,7-3,7,3,0,10,61.8,61.8,11.77,61.6,99,38.3,17.8,38.3,17.8,20.5,70.0,58.7,91.56,24.5,45.5,7.0,Playoff Qualifier,Forrest City,Mustangs
+100,17,Greenbrier,AR,5A,AAA 5A,5-5,5,5,0,10,61.6,61.6,11.59,69.3,100,34.3,33.2,34.3,33.2,1.1,64.4,37.1,74.25,17.5,32.5,5.0,Playoff Qualifier,Greenbrier,Panthers
+101,20,Pottsville,AR,4A,AAA 4A,7-3,7,3,0,10,59.5,59.5,9.55,62.5,101,36.5,22.9,36.5,22.9,13.6,67.5,51.5,91.88,24.5,45.5,7.0,Playoff Qualifier,Pottsville,Apaches
+102,21,Earle,AR,2A,AAA 2A,8-2,8,2,0,10,59.3,59.3,9.27,57.7,102,39.4,16.9,39.4,16.9,22.5,71.6,59.9,100.19,28.0,52.0,8.0,Playoff Qualifier,Earle,Bulldogs
+103,21,Monticello,AR,4A,AAA 4A,6-4,6,4,0,10,59.1,59.1,9.06,66.6,103,27.2,25.6,27.2,25.6,1.6,54.5,47.8,83.31,21.0,39.0,6.0,Playoff Qualifier,Monticello,Billies
+104,18,Alma,AR,5A,AAA 5A,6-4,6,4,0,10,56.9,56.9,6.88,65.8,104,30.5,28.4,30.5,28.4,2.1,59.1,43.8,83.03,21.0,39.0,6.0,Varsity Program,Alma,Airedales
+105,19,Arkansas,AR,5A,AAA 5A,6-4,6,4,0,10,56.3,56.3,6.28,63.8,105,39.8,30.8,39.8,30.8,9.0,72.1,40.5,82.33,21.0,39.0,6.0,Varsity Program,Texarkana,Razorbacks
+106,22,Lamar,AR,4A,AAA 4A,7-3,7,3,0,10,56.2,56.2,6.24,59.8,106,30.3,18.1,30.3,18.1,12.2,58.8,58.3,90.93,24.5,45.5,7.0,Varsity Program,Lamar,Warriors
+107,22,Gurdon,AR,2A,AAA 2A,8-2,8,2,0,10,56.2,56.2,6.21,56.3,107,37.6,23.9,37.6,23.9,13.7,69.0,50.1,99.7,28.0,52.0,8.0,Varsity Program,Gurdon,Devils
+108,23,Gentry,AR,4A,AAA 4A,8-2,8,2,0,10,55.9,55.9,5.92,57.3,108,34.3,16.2,34.3,16.2,18.1,64.4,60.9,100.05,28.0,52.0,8.0,Varsity Program,Gentry,Pioneers
+109,16,Central,AR,7A,AAA 7A,3-7,3,7,0,10,55.1,55.1,5.09,60.6,109,18.5,27.4,18.5,27.4,-8.9,42.3,45.2,51.21,10.5,19.5,3.0,Varsity Program,Little Rock,Tigers
+110,20,Pine Bluff,AR,5A,AAA 5A,6-4,6,4,0,10,55.0,55.0,4.98,63.8,110,34.9,28.2,34.9,28.2,6.7,65.3,44.1,82.33,21.0,39.0,6.0,Varsity Program,Pine Bluff,Fighting Zebras
+111,21,Batesville,AR,5A,AAA 5A,7-3,7,3,0,10,54.9,54.9,4.88,64.6,111,25.5,22.5,25.5,22.5,3.0,52.1,52.1,92.61,24.5,45.5,7.0,Varsity Program,Batesville,Pioneers
+112,22,Wynne,AR,5A,AAA 5A,6-4,6,4,0,10,54.8,54.8,4.82,63.3,112,30.5,22.7,30.5,22.7,7.8,59.1,51.8,82.16,21.0,39.0,6.0,Varsity Program,Wynne,Yellowjackets
+113,23,Hazen,AR,2A,AAA 2A,8-2,8,2,0,10,54.5,54.5,4.51,54.4,113,32.3,12.2,32.3,12.2,20.1,61.6,66.5,99.04,28.0,52.0,8.0,Varsity Program,Hazen,Hornets
+114,24,Hermitage,AR,2A,AAA 2A,5-4,5,4,0,9,54.4,54.4,4.44,48.8,114,44.6,38.2,44.6,38.2,6.4,78.8,30.1,72.64,19.44,36.11,5.56,Varsity Program,Hermitage,Hermits
+115,24,Prairie Grove,AR,4A,AAA 4A,4-6,4,6,0,10,53.5,53.5,3.46,64.8,115,33.3,36.0,33.3,36.0,-2.7,63.0,33.2,62.68,14.0,26.0,4.0,Varsity Program,Prairie Grove,Tigers
+116,14,Catholic,AR,6A,AAA 6A,4-6,4,6,0,10,52.8,52.8,2.78,63.3,116,26.4,21.6,26.4,21.6,4.8,53.4,53.4,62.16,14.0,26.0,4.0,Varsity Program,Little Rock,Rockets
+117,23,Lakeside,AR,5A,AAA 5A,8-2,8,2,0,10,52.7,52.7,2.69,60.2,117,39.8,22.1,39.8,22.1,17.7,72.1,52.7,101.07,28.0,52.0,8.0,Varsity Program,Hot Springs,Rams
+118,25,Pocahontas,AR,4A,AAA 4A,4-5,4,5,0,9,51.6,51.6,1.63,61.2,118,27.1,23.2,27.1,23.2,3.9,54.3,51.1,65.86,15.56,28.89,4.44,Varsity Program,Pocahontas,Redskins
+119,26,Mena,AR,4A,AAA 4A,5-5,5,5,0,10,50.8,50.8,0.83,63.5,119,30.9,34.5,30.9,34.5,-3.6,59.7,35.3,72.22,17.5,32.5,5.0,Varsity Program,Mena,Bearcats Ladycats
+120,27,Malvern,AR,4A,AAA 4A,6-4,6,4,0,10,50.6,50.6,0.62,64.5,120,27.5,29.6,27.5,29.6,-2.1,54.9,42.2,82.58,21.0,39.0,6.0,Varsity Program,Malvern,Leopards
+121,24,Pea Ridge,AR,5A,AAA 5A,3-7,3,7,0,10,50.5,50.5,0.51,67.1,121,24.7,35.0,24.7,35.0,-10.3,51.0,34.6,53.48,10.5,19.5,3.0,Varsity Program,Pea Ridge,Blackhawks
+122,17,Palestine-Wheatley,AR,3A,AAA 3A,3-7,3,7,0,10,50.1,50.1,0.12,56.8,122,19.0,14.8,19.0,14.8,4.2,43.0,62.9,49.88,10.5,19.5,3.0,Varsity Program,Palestine,Patriots
+123,25,Magnolia,AR,5A,AAA 5A,1-9,1,9,0,10,50.0,50.0,0.0,66.0,123,29.9,38.0,29.9,38.0,-8.1,58.3,30.4,33.1,3.5,6.5,1.0,Varsity Program,Magnolia,Panthers
+124,25,Augusta,AR,2A,AAA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,124,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Augusta,Red Devils
+125,26,England,AR,2A,AAA 2A,6-3,6,3,0,9,49.5,49.5,-0.45,56.1,125,27.9,20.8,27.9,20.8,7.1,55.5,54.5,86.3,23.33,43.33,6.67,Varsity Program,England,Lions
+126,27,Rose Bud,AR,2A,AAA 2A,4-5,4,5,0,9,49.5,49.5,-0.52,47.2,126,33.6,31.3,33.6,31.3,2.3,63.4,39.8,60.96,15.56,28.89,4.44,Varsity Program,Rose Bud,Ramblers
+127,28,Harmony Grove,AR,4A,AAA 4A,3-7,3,7,0,10,48.7,48.7,-1.29,65.2,127,19.7,25.7,19.7,25.7,-6.0,44.0,47.6,52.82,10.5,19.5,3.0,Varsity Program,Benton,Cardinals
+128,29,DeWitt,AR,4A,AAA 4A,3-7,3,7,0,10,48.6,48.6,-1.43,65.0,128,20.1,30.5,20.1,30.5,-10.4,44.5,40.9,52.75,10.5,19.5,3.0,Varsity Program,Dewitt,Dragons
+129,28,Woodlawn,AR,2A,AAA 2A,4-5,4,5,0,9,48.5,48.5,-1.47,47.2,129,39.3,39.1,39.3,39.1,0.2,71.4,28.9,60.96,15.56,28.89,4.44,Varsity Program,Rison,Bears
+130,18,Melbourne,AR,3A,AAA 3A,7-3,7,3,0,10,48.5,48.5,-1.53,54.2,130,32.1,21.8,32.1,21.8,10.3,61.3,53.1,88.97,24.5,45.5,7.0,Varsity Program,Melbourne,Bearkatz
+131,19,Quitman,AR,3A,AAA 3A,8-2,8,2,0,10,48.2,48.2,-1.83,51.2,131,38.8,25.3,38.8,25.3,13.5,70.7,48.2,97.92,28.0,52.0,8.0,Varsity Program,Quitman,Bulldogs
+132,30,Southside,AR,4A,AAA 4A,8-2,8,2,0,10,48.1,48.1,-1.87,63.4,132,33.2,21.9,33.2,21.9,11.3,62.9,52.9,102.19,28.0,52.0,8.0,Varsity Program,Batesville,Southerners
+133,17,Rogers Heritage,AR,7A,AAA 7A,0-10,0,10,0,10,47.9,47.9,-2.14,78.0,133,14.7,41.3,14.7,41.3,-26.6,37.0,25.8,27.3,0.0,0.0,0.0,Varsity Program,Rogers,War Eagles
+134,26,Brookland,AR,5A,AAA 5A,4-6,4,6,0,10,47.6,47.6,-2.39,64.0,134,26.6,32.4,26.6,32.4,-5.8,53.6,38.2,62.4,14.0,26.0,4.0,Varsity Program,Brookland,Bearcats
+135,29,Poyen,AR,2A,AAA 2A,6-4,6,4,0,10,46.9,46.9,-3.13,54.1,135,30.0,24.2,30.0,24.2,5.8,58.4,49.7,78.94,21.0,39.0,6.0,Varsity Program,Poyen,Indians
+136,31,Waldron,AR,4A,AAA 4A,5-5,5,5,0,10,46.7,46.7,-3.27,57.0,136,29.9,19.6,29.9,19.6,10.3,58.3,56.2,69.95,17.5,32.5,5.0,Varsity Program,Waldron,Bulldogs
+137,30,Rector,AR,2A,AAA 2A,2-3,2,3,0,5,46.5,46.5,-3.52,46.6,137,25.2,26.8,25.2,26.8,-1.6,51.7,46.1,56.31,14.0,26.0,4.0,Varsity Program,Rector,Cougars
+138,20,Cedarville,AR,3A,AAA 3A,7-3,7,3,0,10,45.9,45.9,-4.07,53.1,138,29.0,19.2,29.0,19.2,9.8,57.0,56.7,88.59,24.5,45.5,7.0,Varsity Program,Cedarville,Pirates
+139,31,Bearden,AR,2A,AAA 2A,5-5,5,5,0,10,45.9,45.9,-4.1,57.6,139,28.6,28.4,28.6,28.4,0.2,56.4,43.8,70.16,17.5,32.5,5.0,Varsity Program,Bearden,Bears
+140,27,Greene County Tech,AR,5A,AAA 5A,4-6,4,6,0,10,45.7,45.7,-4.29,62.9,140,17.2,22.3,17.2,22.3,-5.1,40.5,52.4,62.02,14.0,26.0,4.0,Varsity Program,Paragould,Golden Eagles
+141,32,Crossett,AR,4A,AAA 4A,3-7,3,7,0,10,45.5,45.5,-4.47,63.5,141,24.0,32.2,24.0,32.2,-8.2,50.0,38.5,52.22,10.5,19.5,3.0,Varsity Program,Crossett,Eagles
+142,32,Foreman,AR,2A,AAA 2A,5-5,5,5,0,10,45.4,45.4,-4.56,56.9,142,32.0,30.4,32.0,30.4,1.6,61.2,41.0,69.91,17.5,32.5,5.0,Varsity Program,Foreman,Gator Arkansas
+143,21,Lavaca,AR,3A,AAA 3A,6-4,6,4,0,10,45.4,45.4,-4.63,53.2,143,35.3,21.5,35.3,21.5,13.8,65.8,53.5,78.62,21.0,39.0,6.0,Varsity Program,Lavaca,Golden Arrows
+144,33,Mayflower,AR,4A,AAA 4A,4-6,4,6,0,10,45.2,45.2,-4.8,61.7,144,24.3,32.2,24.3,32.2,-7.9,50.4,38.5,61.59,14.0,26.0,4.0,Varsity Program,Mayflower,Eagles
+145,22,Harrisburg,AR,3A,AAA 3A,5-5,5,5,0,10,44.8,44.8,-5.19,54.8,145,28.6,22.9,28.6,22.9,5.7,56.4,51.5,69.18,17.5,32.5,5.0,Varsity Program,Harrisburg,Hornets
+146,23,Drew Central,AR,3A,AAA 3A,2-7,2,7,0,9,44.3,44.3,-5.71,62.6,146,28.7,40.2,28.7,40.2,-11.5,56.6,27.3,44.13,7.78,14.44,2.22,Varsity Program,Monticello,Pirates
+147,18,Northside,AR,7A,AAA 7A,2-8,2,8,0,10,44.2,44.2,-5.79,72.9,147,11.7,38.2,11.7,38.2,-26.5,32.8,30.1,45.52,7.0,13.0,2.0,Varsity Program,Fort Smith,Grizzlies
+148,15,West Memphis,AR,6A,AAA 6A,1-9,1,9,0,10,44.2,44.2,-5.8,71.1,148,19.7,44.8,19.7,44.8,-25.1,44.0,25.0,34.88,3.5,6.5,1.0,Varsity Program,West Memphis,Blue Devils
+149,34,Berryville,AR,4A,AAA 4A,5-5,5,5,0,10,44.1,44.1,-5.88,58.4,149,28.6,34.3,28.6,34.3,-5.7,56.4,35.6,70.44,17.5,32.5,5.0,Varsity Program,Berryville,Bobcats
+150,24,Dumas,AR,3A,AAA 3A,1-8,1,8,0,9,44.1,44.1,-5.92,62.9,150,35.3,47.8,35.3,47.8,-12.5,65.8,25.0,33.13,3.89,7.22,1.11,Varsity Program,Dumas,Bobcats
+151,28,Maumelle,AR,5A,AAA 5A,2-8,2,8,0,10,44.0,44.0,-5.97,70.8,151,15.9,41.4,15.9,41.4,-25.5,38.7,25.6,44.78,7.0,13.0,2.0,Varsity Program,Maumelle,Hornets
+152,35,Ashdown,AR,4A,AAA 4A,4-6,4,6,0,10,43.5,43.5,-6.51,63.7,152,20.8,33.7,20.8,33.7,-12.9,45.5,36.4,62.3,14.0,26.0,4.0,Varsity Program,Ashdown,Panthers
+153,36,Star City,AR,4A,AAA 4A,4-6,4,6,0,10,43.3,43.3,-6.67,63.1,153,28.5,38.4,28.5,38.4,-9.9,56.3,29.8,62.09,14.0,26.0,4.0,Varsity Program,Star City,Bulldogs
+154,25,Cutter-Morning Star,AR,3A,AAA 3A,4-6,4,6,0,10,43.3,43.3,-6.72,57.2,154,28.1,32.6,28.1,32.6,-4.5,55.7,38.0,60.02,14.0,26.0,4.0,Varsity Program,Hot Springs National Park,Eagles
+155,29,White Hall,AR,5A,AAA 5A,3-7,3,7,0,10,43.3,43.3,-6.72,67.9,155,21.4,44.8,21.4,44.8,-23.4,46.4,25.0,53.77,10.5,19.5,3.0,Varsity Program,White Hall,Bulldogs
+156,33,Arkansas Christian Academy,AR,2A,AAA 2A,4-6,4,6,0,10,43.1,43.1,-6.89,46.6,156,21.6,30.7,21.6,30.7,-9.1,46.6,40.6,56.31,14.0,26.0,4.0,Varsity Program,Bryant,Knights
+157,34,Magnet Cove,AR,2A,AAA 2A,6-4,6,4,0,10,42.5,42.5,-7.45,54.8,157,30.0,28.9,30.0,28.9,1.1,58.4,43.1,79.18,21.0,39.0,6.0,Varsity Program,Malvern,Panthers
+158,30,Paragould,AR,5A,AAA 5A,2-8,2,8,0,10,42.4,42.4,-7.59,60.5,158,29.4,35.4,29.4,35.4,-6.0,57.6,34.0,41.17,7.0,13.0,2.0,Varsity Program,Paragould,Rams
+159,26,Hoxie,AR,3A,AAA 3A,5-5,5,5,0,10,41.8,41.8,-8.18,55.9,159,17.3,21.3,17.3,21.3,-4.0,40.6,53.8,69.56,17.5,32.5,5.0,Varsity Program,Hoxie,Mustangs
+160,37,Clinton,AR,4A,AAA 4A,1-9,1,9,0,10,41.8,41.8,-8.21,66.0,160,17.1,41.0,17.1,41.0,-23.9,40.3,26.2,33.1,3.5,6.5,1.0,Varsity Program,Clinton,Yellowjackets
+161,31,De Queen,AR,5A,AAA 5A,1-9,1,9,0,10,41.1,41.1,-8.89,62.3,161,26.0,37.8,26.0,37.8,-11.8,52.8,30.7,31.8,3.5,6.5,1.0,Varsity Program,De Queen,Leopards
+162,38,Westside,AR,4A,AAA 4A,5-5,5,5,0,10,41.1,41.1,-8.92,59.9,162,16.4,25.0,16.4,25.0,-8.6,39.4,48.6,70.97,17.5,32.5,5.0,Varsity Program,Jonesboro,Warriors
+163,27,Centerpoint,AR,3A,AAA 3A,6-4,6,4,0,10,41.0,41.0,-9.03,51.7,163,23.2,19.5,23.2,19.5,3.7,48.9,56.3,78.09,21.0,39.0,6.0,Varsity Program,Amity,Knights
+164,32,Beebe,AR,5A,AAA 5A,1-9,1,9,0,10,41.0,41.0,-9.04,68.8,164,16.3,43.0,16.3,43.0,-26.7,39.2,25.0,34.08,3.5,6.5,1.0,Varsity Program,Beebe,Badgers
+165,28,Mountain View,AR,3A,AAA 3A,5-5,5,5,0,10,39.9,39.9,-10.07,51.6,165,21.3,17.3,21.3,17.3,4.0,46.2,59.4,68.06,17.5,32.5,5.0,Varsity Program,Mountain View,Yellowjackets
+166,29,Paris,AR,3A,AAA 3A,4-6,4,6,0,10,39.5,39.5,-10.48,58.3,166,22.4,33.9,22.4,33.9,-11.5,47.8,36.1,60.41,14.0,26.0,4.0,Varsity Program,Paris,Eagles
+167,30,Perryville,AR,3A,AAA 3A,6-4,6,4,0,10,39.4,39.4,-10.6,52.9,167,28.3,29.4,28.3,29.4,-1.1,56.0,42.4,78.52,21.0,39.0,6.0,Varsity Program,Perryville,Mustangs
+168,31,Jessieville,AR,3A,AAA 3A,3-7,3,7,0,10,39.2,39.2,-10.76,55.2,168,31.8,35.7,31.8,35.7,-3.9,60.9,33.6,49.32,10.5,19.5,3.0,Varsity Program,Jessieville,Lions
+169,16,West Memphis Christian,AR,6A,AAA 6A,3-7,3,7,0,10,38.6,38.6,-11.42,58.3,169,18.9,28.8,18.9,28.8,-9.9,42.9,43.3,50.41,10.5,19.5,3.0,Varsity Program,West Memphis,Varsity
+170,39,Hope,AR,4A,AAA 4A,2-8,2,8,0,10,38.2,38.2,-11.82,62.3,170,13.9,35.6,13.9,35.6,-21.7,35.9,33.8,41.8,7.0,13.0,2.0,Varsity Program,Hope,Bobcats
+171,40,Dover,AR,4A,AAA 4A,3-7,3,7,0,10,37.9,37.9,-12.07,63.4,171,20.5,41.2,20.5,41.2,-20.7,45.1,25.9,52.19,10.5,19.5,3.0,Varsity Program,Dover,Pirates
+172,41,Green Forest,AR,4A,AAA 4A,5-5,5,5,0,10,37.4,37.4,-12.59,57.0,172,20.1,31.1,20.1,31.1,-11.0,44.5,40.1,69.95,17.5,32.5,5.0,Varsity Program,Green Forest,Tigers
+173,42,Fouke,AR,4A,AAA 4A,3-7,3,7,0,10,37.4,37.4,-12.64,59.8,173,25.8,33.5,25.8,33.5,-7.7,52.5,36.7,50.93,10.5,19.5,3.0,Varsity Program,Fouke,Panthers
+174,43,Huntsville,AR,4A,AAA 4A,2-8,2,8,0,10,37.1,37.1,-12.92,63.6,174,14.2,39.0,14.2,39.0,-24.8,36.3,29.0,42.26,7.0,13.0,2.0,Varsity Program,Huntsville,Eagles
+175,35,Midland,AR,2A,AAA 2A,2-6,2,6,0,8,36.8,36.8,-13.21,44.5,175,28.2,42.0,28.2,42.0,-13.8,55.9,25.0,40.58,8.75,16.25,2.5,Varsity Program,Pleasant Plains,Mustangs
+176,32,Greenland,AR,3A,AAA 3A,4-6,4,6,0,10,35.3,35.3,-14.66,53.6,176,26.3,30.1,26.3,30.1,-3.8,53.2,41.5,58.76,14.0,26.0,4.0,Varsity Program,Greenland,Pirates
+177,36,Clarendon,AR,2A,AAA 2A,4-6,4,6,0,10,34.8,34.8,-15.16,55.6,177,26.0,37.6,26.0,37.6,-11.6,52.8,31.0,59.46,14.0,26.0,4.0,Varsity Program,Clarendon,Lions
+178,44,Bald Knob,AR,4A,AAA 4A,3-7,3,7,0,10,34.5,34.5,-15.55,59.0,178,22.6,33.9,22.6,33.9,-11.3,48.0,36.1,50.65,10.5,19.5,3.0,Varsity Program,Bald Knob,Bulldogs
+179,33,Danville,AR,3A,AAA 3A,4-6,4,6,0,10,34.2,34.2,-15.78,51.4,179,26.9,28.3,26.9,28.3,-1.4,54.1,44.0,57.99,14.0,26.0,4.0,Varsity Program,Danville,Little Johns
+180,37,Brinkley,AR,2A,AAA 2A,1-3,1,3,0,4,34.0,34.0,-16.0,44.5,180,20.5,40.5,20.5,40.5,-20.0,45.1,26.9,40.58,8.75,16.25,2.5,Varsity Program,Brinkley,Tigers
+181,45,Genoa Central,AR,4A,AAA 4A,3-7,3,7,0,10,33.9,33.9,-16.11,58.8,181,14.6,30.3,14.6,30.3,-15.7,36.8,41.2,50.58,10.5,19.5,3.0,Varsity Program,Texarkana,Dragons
+182,38,Murfreesboro,AR,2A,AAA 2A,2-8,2,8,0,10,32.4,32.4,-17.65,53.6,182,19.0,29.5,19.0,29.5,-10.5,43.0,42.3,38.76,7.0,13.0,2.0,Varsity Program,Murfreesboro,Rattlers
+183,39,Mountainburg,AR,2A,AAA 2A,3-7,3,7,0,10,32.2,32.2,-17.78,51.6,183,28.5,32.2,28.5,32.2,-3.7,56.3,38.5,48.06,10.5,19.5,3.0,Varsity Program,Mountainburg,Dragons
+184,46,Watson Chapel,AR,4A,AAA 4A,0-10,0,10,0,10,31.2,31.2,-18.79,68.2,184,10.2,43.3,10.2,43.3,-33.1,30.7,25.0,23.87,0.0,0.0,0.0,Varsity Program,Pine Bluff,Wildcats
+185,40,Hackett,AR,2A,AAA 2A,2-8,2,8,0,10,29.4,29.4,-20.59,53.2,185,21.0,32.9,21.0,32.9,-11.9,45.8,37.5,38.62,7.0,13.0,2.0,Varsity Program,Hackett,Hornets
+186,47,Blytheville,AR,4A,AAA 4A,1-9,1,9,0,10,29.2,29.2,-20.75,65.4,186,8.8,44.4,8.8,44.4,-35.6,28.7,25.0,32.89,3.5,6.5,1.0,Varsity Program,Blytheville,Chickasaws
+187,41,Marvell,AR,2A,AAA 2A,0-4,0,4,0,4,29.1,29.1,-20.89,41.0,187,13.5,28.8,13.5,28.8,-15.3,35.3,43.3,14.35,0.0,0.0,0.0,Varsity Program,Marvell,Mustangs
+188,17,Siloam Springs,AR,6A,AAA 6A,1-9,1,9,0,10,28.9,28.9,-21.14,63.9,188,15.4,46.2,15.4,46.2,-30.8,38.0,25.0,32.36,3.5,6.5,1.0,Varsity Program,Siloam Springs,Panthers
+189,18,Little Rock Southwest,AR,6A,AAA 6A,0-10,0,10,0,10,28.7,28.7,-21.26,65.5,189,7.8,37.4,7.8,37.4,-29.6,27.3,31.2,22.92,0.0,0.0,0.0,Varsity Program,Little Rock,Gryphons
+190,34,Yellville-Summit,AR,3A,AAA 3A,3-7,3,7,0,10,28.7,28.7,-21.29,52.4,190,23.2,32.9,23.2,32.9,-9.7,48.9,37.5,48.34,10.5,19.5,3.0,Varsity Program,Yellville,Panthers
+191,42,Episcopal,AR,2A,AAA 2A,2-8,2,8,0,10,28.2,28.2,-21.84,57.1,191,18.7,36.9,18.7,36.9,-18.2,42.6,31.9,39.98,7.0,13.0,2.0,Varsity Program,Little Rock,Wildcats
+192,35,Parkers Chapel,AR,3A,AAA 3A,4-6,4,6,0,10,27.8,27.8,-22.22,52.6,192,22.9,39.3,22.9,39.3,-16.4,48.5,28.6,58.41,14.0,26.0,4.0,Varsity Program,El Dorado,Trojans
+193,33,Clarksville,AR,5A,AAA 5A,0-10,0,10,0,10,27.7,27.7,-22.29,67.3,193,4.7,43.2,4.7,43.2,-38.5,25.0,25.0,23.55,0.0,0.0,0.0,Varsity Program,Clarksville,Panthers
+194,43,Spring Hill,AR,2A,AAA 2A,1-9,1,9,0,10,27.7,27.7,-22.32,55.1,194,17.4,32.8,17.4,32.8,-15.4,40.8,37.7,29.29,3.5,6.5,1.0,Varsity Program,Hope,Bears
+195,48,Trumann,AR,4A,AAA 4A,0-10,0,10,0,10,27.5,27.5,-22.49,63.6,195,7.4,39.1,7.4,39.1,-31.7,26.8,28.9,22.26,0.0,0.0,0.0,Varsity Program,Trumann,Wildcats
+196,44,Friendship Aspire Academy,AR,2A,AAA 2A,1-6,1,6,0,7,27.4,27.4,-22.6,43.0,196,13.4,60.9,13.4,60.9,-47.5,35.2,25.0,29.34,5.0,9.29,1.43,Varsity Program,Little Rock,Academy
+197,45,Guy-Perkins,AR,2A,AAA 2A,1-7,1,7,0,8,26.9,26.9,-23.1,42.8,197,13.2,52.6,13.2,52.6,-39.4,34.9,25.0,27.48,4.38,8.12,1.25,Varsity Program,Guy,Thunderbirds
+198,36,West Fork,AR,3A,AAA 3A,2-8,2,8,0,10,25.7,25.7,-24.33,55.5,198,14.0,50.2,14.0,50.2,-36.2,36.0,25.0,39.42,7.0,13.0,2.0,Varsity Program,West Fork,Tigers
+199,49,Lincoln,AR,4A,AAA 4A,1-9,1,9,0,10,24.5,24.5,-25.51,58.2,199,17.2,42.9,17.2,42.9,-25.7,40.5,25.0,30.37,3.5,6.5,1.0,Varsity Program,Lincoln,Wolves
+200,46,Lee,AR,2A,AAA 2A,2-8,2,8,0,10,23.4,23.4,-26.57,55.9,200,13.0,36.7,13.0,36.7,-23.7,34.6,32.2,39.56,7.0,13.0,2.0,Varsity Program,Marianna,Trojans
+201,37,Barton,AR,3A,AAA 3A,0-1,0,1,0,1,23.4,23.4,-26.6,41.0,201,20.0,72.0,20.0,72.0,-52.0,44.4,25.0,14.35,0.0,0.0,0.0,Varsity Program,Lexa,Bears
+202,47,Blevins,AR,2A,AAA 2A,0-9,0,9,0,9,23.4,23.4,-26.6,41.0,202,10.9,56.2,10.9,56.2,-45.3,31.7,25.0,14.35,0.0,0.0,0.0,Varsity Program,Blevins,Hornets
+203,48,Dermott,AR,2A,AAA 2A,0-6,0,6,0,6,23.4,23.4,-26.6,41.0,203,7.0,53.8,7.0,53.8,-46.8,26.2,25.0,14.35,0.0,0.0,0.0,Varsity Program,Dermott,Rams
+204,49,McCrory,AR,2A,AAA 2A,0-10,0,10,0,10,22.6,22.6,-27.4,59.1,204,12.2,47.2,12.2,47.2,-35.0,33.5,25.0,20.68,0.0,0.0,0.0,Varsity Program,Mccrory,Jaguars
+205,50,Subiaco Academy,AR,4A,AAA 4A,0-10,0,10,0,10,21.0,21.0,-29.02,62.5,205,4.6,25.5,4.6,25.5,-20.9,25.0,47.9,21.88,0.0,0.0,0.0,Varsity Program,Subiaco,Trojans
+206,38,Riverview,AR,3A,AAA 3A,1-9,1,9,0,10,20.1,20.1,-29.87,53.9,206,9.9,35.5,9.9,35.5,-25.6,30.3,33.9,28.86,3.5,6.5,1.0,Varsity Program,Searcy,Raiders
+207,50,Hampton,AR,2A,AAA 2A,0-10,0,10,0,10,18.9,18.9,-31.08,58.3,207,9.8,45.4,9.8,45.4,-35.6,30.1,25.0,20.4,0.0,0.0,0.0,Varsity Program,Hampton,Bulldogs
+208,39,Horatio,AR,3A,AAA 3A,1-9,1,9,0,10,18.4,18.4,-31.55,55.4,208,15.2,45.3,15.2,45.3,-30.1,37.7,25.0,29.39,3.5,6.5,1.0,Varsity Program,Horatio,Lions
+209,40,Piggott,AR,3A,AAA 3A,1-9,1,9,0,10,16.4,16.4,-33.64,54.2,209,8.1,39.9,8.1,39.9,-31.8,27.7,27.7,28.97,3.5,6.5,1.0,Varsity Program,Piggott,Mohawks
+210,41,Manila,AR,3A,AAA 3A,0-10,0,10,0,10,15.0,15.0,-34.95,57.7,210,6.1,39.8,6.1,39.8,-33.7,25.0,27.9,20.2,0.0,0.0,0.0,Varsity Program,Manila,Lions
+211,51,Mountain Pine,AR,2A,AAA 2A,0-10,0,10,0,10,14.4,14.4,-35.65,55.5,211,14.6,45.8,14.6,45.8,-31.2,36.8,25.0,19.42,0.0,0.0,0.0,Varsity Program,Mountain Pine,Red Devils
+212,42,Cossatot River,AR,3A,AAA 3A,0-10,0,10,0,10,14.0,14.0,-36.0,57.4,212,3.7,50.4,3.7,50.4,-46.7,25.0,25.0,20.09,0.0,0.0,0.0,Varsity Program,Cove,Eagles
+213,43,Marshall,AR,3A,AAA 3A,0-10,0,10,0,10,14.0,14.0,-36.0,56.7,213,6.1,48.0,6.1,48.0,-41.9,25.0,25.0,19.84,0.0,0.0,0.0,Varsity Program,Marshall,Bobcats
+214,44,Two Rivers,AR,3A,AAA 3A,0-10,0,10,0,10,14.0,14.0,-36.0,54.2,214,14.9,48.2,14.9,48.2,-33.3,37.3,25.0,18.97,0.0,0.0,0.0,Varsity Program,Ola,Gators

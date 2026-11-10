@@ -1,0 +1,2886 @@
+{
+  "state": "VA",
+  "season": 2026,
+  "dossiers": {
+    "oscar smith": {
+      "team": "Oscar Smith",
+      "state": "VA",
+      "division": "C6",
+      "region": 1,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 35.4,
+      "avg_points_allowed": 14.4,
+      "season_net_margin": 21.0,
+      "last_3_game_margin": 32.3,
+      "momentum_trend": 11.3,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Oscar Smith averages 35.4 PPG while holding VHSL Class 6 Region A opponents to 14.4 PPG (+21.0 net margin).",
+        "Postseason Readiness: 9-1 against a 73.8 SOS Index with 2 running-clock separations and a 1-1 record in one-score games."
+      ]
+    },
+    "highland springs": {
+      "team": "Highland Springs",
+      "state": "VA",
+      "division": "C6",
+      "region": 2,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 30.3,
+      "avg_points_allowed": 13.0,
+      "season_net_margin": 17.3,
+      "last_3_game_margin": 19.0,
+      "momentum_trend": 1.7,
+      "close_game_record": "3-0",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Highland Springs averages 30.3 PPG while holding VHSL Class 6 Region A opponents to 13.0 PPG (+17.3 net margin).",
+        "Postseason Readiness: 9-1 against a 74.0 SOS Index with 1 running-clock separations and a 3-0 record in one-score games."
+      ]
+    },
+    "battlefield": {
+      "team": "Battlefield",
+      "state": "VA",
+      "division": "C6",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.3,
+      "avg_points_allowed": 17.5,
+      "season_net_margin": 1.8,
+      "last_3_game_margin": -4.3,
+      "momentum_trend": -6.1,
+      "close_game_record": "1-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Battlefield averages 19.3 PPG while holding VHSL Class 6 Region B opponents to 17.5 PPG (+1.8 net margin).",
+        "Postseason Readiness: 5-5 against a 71.4 SOS Index with 0 running-clock separations and a 1-4 record in one-score games."
+      ]
+    },
+    "james madison": {
+      "team": "James Madison",
+      "state": "VA",
+      "division": "C6",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.9,
+      "avg_points_allowed": 20.1,
+      "season_net_margin": -2.2,
+      "last_3_game_margin": 0.0,
+      "momentum_trend": 2.2,
+      "close_game_record": "5-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: James Madison averages 17.9 PPG while holding VHSL Class 6 Region D opponents to 20.1 PPG (-2.2 net margin).",
+        "Postseason Readiness: 5-5 against a 71.0 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+      ]
+    },
+    "freedom-woodbridge": {
+      "team": "Freedom-Woodbridge",
+      "state": "VA",
+      "division": "C6",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.7,
+      "avg_points_allowed": 20.2,
+      "season_net_margin": -2.5,
+      "last_3_game_margin": -2.0,
+      "momentum_trend": 0.5,
+      "close_game_record": "4-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Freedom-Woodbridge averages 17.7 PPG while holding VHSL Class 6 Region B opponents to 20.2 PPG (-2.5 net margin).",
+        "Postseason Readiness: 4-6 against a 71.3 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+      ]
+    },
+    "westfield": {
+      "team": "Westfield",
+      "state": "VA",
+      "division": "C6",
+      "region": 2,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 15.8,
+      "avg_points_allowed": 17.5,
+      "season_net_margin": -1.7,
+      "last_3_game_margin": 3.0,
+      "momentum_trend": 4.7,
+      "close_game_record": "2-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Westfield averages 15.8 PPG while holding VHSL Class 6 Region D opponents to 17.5 PPG (-1.7 net margin).",
+        "Postseason Readiness: 3-7 against a 71.7 SOS Index with 0 running-clock separations and a 2-6 record in one-score games."
+      ]
+    },
+    "south county": {
+      "team": "South County",
+      "state": "VA",
+      "division": "C6",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 15.9,
+      "avg_points_allowed": 20.0,
+      "season_net_margin": -4.1,
+      "last_3_game_margin": -6.7,
+      "momentum_trend": -2.6,
+      "close_game_record": "4-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: South County averages 15.9 PPG while holding VHSL Class 6 Region C opponents to 20.0 PPG (-4.1 net margin).",
+        "Postseason Readiness: 4-6 against a 72.7 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+      ]
+    },
+    "lake braddock": {
+      "team": "Lake Braddock",
+      "state": "VA",
+      "division": "C6",
+      "region": 4,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 20.2,
+      "avg_points_allowed": 19.6,
+      "season_net_margin": 0.6,
+      "last_3_game_margin": 7.0,
+      "momentum_trend": 6.4,
+      "close_game_record": "6-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lake Braddock averages 20.2 PPG while holding VHSL Class 6 Region C opponents to 19.6 PPG (+0.6 net margin).",
+        "Postseason Readiness: 6-4 against a 70.1 SOS Index with 0 running-clock separations and a 6-3 record in one-score games."
+      ]
+    },
+    "patriot": {
+      "team": "Patriot",
+      "state": "VA",
+      "division": "C6",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 18.3,
+      "avg_points_allowed": 23.6,
+      "season_net_margin": -5.3,
+      "last_3_game_margin": -6.0,
+      "momentum_trend": -0.7,
+      "close_game_record": "4-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Patriot averages 18.3 PPG while holding VHSL Class 6 Region B opponents to 23.6 PPG (-5.3 net margin).",
+        "Postseason Readiness: 4-6 against a 70.1 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+      ]
+    },
+    "thomas dale": {
+      "team": "Thomas Dale",
+      "state": "VA",
+      "division": "C6",
+      "region": 2,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 23.1,
+      "avg_points_allowed": 20.4,
+      "season_net_margin": 2.7,
+      "last_3_game_margin": -5.3,
+      "momentum_trend": -8.0,
+      "close_game_record": "3-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Thomas Dale averages 23.1 PPG while holding VHSL Class 6 Region A opponents to 20.4 PPG (+2.7 net margin).",
+        "Postseason Readiness: 7-3 against a 68.8 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+      ]
+    },
+    "washington-liberty": {
+      "team": "Washington-Liberty",
+      "state": "VA",
+      "division": "C6",
+      "region": 3,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 17.5,
+      "avg_points_allowed": 26.3,
+      "season_net_margin": -8.8,
+      "last_3_game_margin": -17.0,
+      "momentum_trend": -8.2,
+      "close_game_record": "2-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Washington-Liberty averages 17.5 PPG while holding VHSL Class 6 Region D opponents to 26.3 PPG (-8.8 net margin).",
+        "Postseason Readiness: 2-8 against a 71.0 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+      ]
+    },
+    "fairfax": {
+      "team": "Fairfax",
+      "state": "VA",
+      "division": "C6",
+      "region": 4,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 14.9,
+      "avg_points_allowed": 33.7,
+      "season_net_margin": -18.8,
+      "last_3_game_margin": -20.0,
+      "momentum_trend": -1.2,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Fairfax averages 14.9 PPG while holding VHSL Class 6 Region C opponents to 33.7 PPG (-18.8 net margin).",
+        "Postseason Readiness: 2-8 against a 70.7 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+      ]
+    },
+    "maury": {
+      "team": "Maury",
+      "state": "VA",
+      "division": "C5",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 33.7,
+      "avg_points_allowed": 14.8,
+      "season_net_margin": 18.9,
+      "last_3_game_margin": 34.0,
+      "momentum_trend": 15.1,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Maury averages 33.7 PPG while holding VHSL Class 5 Region B opponents to 14.8 PPG (+18.9 net margin).",
+        "Postseason Readiness: 10-0 against a 71.1 SOS Index with 2 running-clock separations and a 2-0 record in one-score games."
+      ]
+    },
+    "green run": {
+      "team": "Green Run",
+      "state": "VA",
+      "division": "C5",
+      "region": 2,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 32.9,
+      "avg_points_allowed": 13.7,
+      "season_net_margin": 19.2,
+      "last_3_game_margin": 13.7,
+      "momentum_trend": -5.5,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Green Run averages 32.9 PPG while holding VHSL Class 5 Region A opponents to 13.7 PPG (+19.2 net margin).",
+        "Postseason Readiness: 10-0 against a 72.5 SOS Index with 0 running-clock separations and a 2-0 record in one-score games."
+      ]
+    },
+    "matoaca": {
+      "team": "Matoaca",
+      "state": "VA",
+      "division": "C5",
+      "region": 3,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 16.2,
+      "avg_points_allowed": 20.9,
+      "season_net_margin": -4.7,
+      "last_3_game_margin": -3.3,
+      "momentum_trend": 1.4,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Matoaca averages 16.2 PPG while holding VHSL Class 5 Region C opponents to 20.9 PPG (-4.7 net margin).",
+        "Postseason Readiness: 2-8 against a 70.9 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "king's fork": {
+      "team": "King's Fork",
+      "state": "VA",
+      "division": "C5",
+      "region": 4,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 21.2,
+      "avg_points_allowed": 20.3,
+      "season_net_margin": 0.9,
+      "last_3_game_margin": 4.3,
+      "momentum_trend": 3.4,
+      "close_game_record": "4-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: King's Fork averages 21.2 PPG while holding VHSL Class 5 Region B opponents to 20.3 PPG (+0.9 net margin).",
+        "Postseason Readiness: 6-4 against a 72.3 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+      ]
+    },
+    "stone bridge": {
+      "team": "Stone Bridge",
+      "state": "VA",
+      "division": "C5",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 21.5,
+      "avg_points_allowed": 20.4,
+      "season_net_margin": 1.1,
+      "last_3_game_margin": -0.7,
+      "momentum_trend": -1.8,
+      "close_game_record": "3-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Stone Bridge averages 21.5 PPG while holding VHSL Class 5 Region D opponents to 20.4 PPG (+1.1 net margin).",
+        "Postseason Readiness: 5-5 against a 70.8 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+      ]
+    },
+    "briar woods": {
+      "team": "Briar Woods",
+      "state": "VA",
+      "division": "C5",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.1,
+      "avg_points_allowed": 20.3,
+      "season_net_margin": -3.2,
+      "last_3_game_margin": -3.3,
+      "momentum_trend": -0.1,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Briar Woods averages 17.1 PPG while holding VHSL Class 5 Region D opponents to 20.3 PPG (-3.2 net margin).",
+        "Postseason Readiness: 4-6 against a 69.5 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "patrick henry-roanoke": {
+      "team": "Patrick Henry-Roanoke",
+      "state": "VA",
+      "division": "C5",
+      "region": 3,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 15.0,
+      "avg_points_allowed": 17.6,
+      "season_net_margin": -2.6,
+      "last_3_game_margin": -1.0,
+      "momentum_trend": 1.6,
+      "close_game_record": "3-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Patrick Henry-Roanoke averages 15.0 PPG while holding VHSL Class 5 Region C opponents to 17.6 PPG (-2.6 net margin).",
+        "Postseason Readiness: 3-7 against a 69.8 SOS Index with 0 running-clock separations and a 3-6 record in one-score games."
+      ]
+    },
+    "warwick": {
+      "team": "Warwick",
+      "state": "VA",
+      "division": "C5",
+      "region": 4,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 20.4,
+      "avg_points_allowed": 20.8,
+      "season_net_margin": -0.4,
+      "last_3_game_margin": 2.0,
+      "momentum_trend": 2.4,
+      "close_game_record": "5-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Warwick averages 20.4 PPG while holding VHSL Class 5 Region B opponents to 20.8 PPG (-0.4 net margin).",
+        "Postseason Readiness: 6-4 against a 70.9 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+      ]
+    },
+    "william fleming": {
+      "team": "William Fleming",
+      "state": "VA",
+      "division": "C5",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 22.0,
+      "avg_points_allowed": 21.4,
+      "season_net_margin": 0.6,
+      "last_3_game_margin": 1.3,
+      "momentum_trend": 0.7,
+      "close_game_record": "1-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: William Fleming averages 22.0 PPG while holding VHSL Class 5 Region C opponents to 21.4 PPG (+0.6 net margin).",
+        "Postseason Readiness: 5-5 against a 68.5 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+      ]
+    },
+    "lightridge": {
+      "team": "Lightridge",
+      "state": "VA",
+      "division": "C5",
+      "region": 2,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.2,
+      "avg_points_allowed": 22.9,
+      "season_net_margin": -3.7,
+      "last_3_game_margin": -7.0,
+      "momentum_trend": -3.3,
+      "close_game_record": "4-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lightridge averages 19.2 PPG while holding VHSL Class 5 Region D opponents to 22.9 PPG (-3.7 net margin).",
+        "Postseason Readiness: 5-5 against a 69.8 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+      ]
+    },
+    "salem-va beach": {
+      "team": "Salem-VA Beach",
+      "state": "VA",
+      "division": "C5",
+      "region": 3,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 15.3,
+      "avg_points_allowed": 21.8,
+      "season_net_margin": -6.5,
+      "last_3_game_margin": -17.7,
+      "momentum_trend": -11.2,
+      "close_game_record": "1-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Salem-VA Beach averages 15.3 PPG while holding VHSL Class 5 Region A opponents to 21.8 PPG (-6.5 net margin).",
+        "Postseason Readiness: 2-8 against a 67.7 SOS Index with 0 running-clock separations and a 1-6 record in one-score games."
+      ]
+    },
+    "hermitage": {
+      "team": "Hermitage",
+      "state": "VA",
+      "division": "C5",
+      "region": 4,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 14.4,
+      "avg_points_allowed": 34.0,
+      "season_net_margin": -19.6,
+      "last_3_game_margin": -22.3,
+      "momentum_trend": -2.7,
+      "close_game_record": "2-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Hermitage averages 14.4 PPG while holding VHSL Class 5 Region C opponents to 34.0 PPG (-19.6 net margin).",
+        "Postseason Readiness: 2-8 against a 69.6 SOS Index with 0 running-clock separations and a 2-1 record in one-score games."
+      ]
+    },
+    "phoebus": {
+      "team": "Phoebus",
+      "state": "VA",
+      "division": "C4",
+      "region": 1,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 30.6,
+      "avg_points_allowed": 14.9,
+      "season_net_margin": 15.7,
+      "last_3_game_margin": 30.7,
+      "momentum_trend": 15.0,
+      "close_game_record": "3-1",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Phoebus averages 30.6 PPG while holding VHSL Class 4 Region A opponents to 14.9 PPG (+15.7 net margin).",
+        "Postseason Readiness: 9-1 against a 70.6 SOS Index with 1 running-clock separations and a 3-1 record in one-score games."
+      ]
+    },
+    "varina": {
+      "team": "Varina",
+      "state": "VA",
+      "division": "C4",
+      "region": 2,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 32.1,
+      "avg_points_allowed": 18.0,
+      "season_net_margin": 14.1,
+      "last_3_game_margin": 11.0,
+      "momentum_trend": -3.1,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Varina averages 32.1 PPG while holding VHSL Class 4 Region B opponents to 18.0 PPG (+14.1 net margin).",
+        "Postseason Readiness: 8-2 against a 72.3 SOS Index with 1 running-clock separations and a 2-0 record in one-score games."
+      ]
+    },
+    "dinwiddie": {
+      "team": "Dinwiddie",
+      "state": "VA",
+      "division": "C4",
+      "region": 3,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 19.5,
+      "avg_points_allowed": 17.2,
+      "season_net_margin": 2.3,
+      "last_3_game_margin": 4.3,
+      "momentum_trend": 2.0,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Dinwiddie averages 19.5 PPG while holding VHSL Class 4 Region B opponents to 17.2 PPG (+2.3 net margin).",
+        "Postseason Readiness: 7-3 against a 71.6 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "loudoun county": {
+      "team": "Loudoun County",
+      "state": "VA",
+      "division": "C4",
+      "region": 4,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 20.0,
+      "avg_points_allowed": 20.7,
+      "season_net_margin": -0.7,
+      "last_3_game_margin": 2.7,
+      "momentum_trend": 3.4,
+      "close_game_record": "2-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Loudoun County averages 20.0 PPG while holding VHSL Class 4 Region C opponents to 20.7 PPG (-0.7 net margin).",
+        "Postseason Readiness: 3-7 against a 71.5 SOS Index with 0 running-clock separations and a 2-6 record in one-score games."
+      ]
+    },
+    "sherando": {
+      "team": "Sherando",
+      "state": "VA",
+      "division": "C4",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 20.4,
+      "avg_points_allowed": 22.0,
+      "season_net_margin": -1.6,
+      "last_3_game_margin": -3.0,
+      "momentum_trend": -1.4,
+      "close_game_record": "5-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Sherando averages 20.4 PPG while holding VHSL Class 4 Region D opponents to 22.0 PPG (-1.6 net margin).",
+        "Postseason Readiness: 5-5 against a 70.7 SOS Index with 0 running-clock separations and a 5-4 record in one-score games."
+      ]
+    },
+    "tuscarora": {
+      "team": "Tuscarora",
+      "state": "VA",
+      "division": "C4",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 20.2,
+      "avg_points_allowed": 20.8,
+      "season_net_margin": -0.6,
+      "last_3_game_margin": -1.0,
+      "momentum_trend": -0.4,
+      "close_game_record": "4-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Tuscarora averages 20.2 PPG while holding VHSL Class 4 Region C opponents to 20.8 PPG (-0.6 net margin).",
+        "Postseason Readiness: 4-6 against a 69.0 SOS Index with 0 running-clock separations and a 4-6 record in one-score games."
+      ]
+    },
+    "huguenot": {
+      "team": "Huguenot",
+      "state": "VA",
+      "division": "C4",
+      "region": 3,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 22.1,
+      "avg_points_allowed": 20.9,
+      "season_net_margin": 1.2,
+      "last_3_game_margin": 1.3,
+      "momentum_trend": 0.1,
+      "close_game_record": "5-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Huguenot averages 22.1 PPG while holding VHSL Class 4 Region B opponents to 20.9 PPG (+1.2 net margin).",
+        "Postseason Readiness: 6-4 against a 69.4 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+      ]
+    },
+    "jefferson forest": {
+      "team": "Jefferson Forest",
+      "state": "VA",
+      "division": "C4",
+      "region": 4,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 17.3,
+      "avg_points_allowed": 23.6,
+      "season_net_margin": -6.3,
+      "last_3_game_margin": -7.3,
+      "momentum_trend": -1.0,
+      "close_game_record": "0-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Jefferson Forest averages 17.3 PPG while holding VHSL Class 4 Region D opponents to 23.6 PPG (-6.3 net margin).",
+        "Postseason Readiness: 1-9 against a 69.1 SOS Index with 0 running-clock separations and a 0-6 record in one-score games."
+      ]
+    },
+    "salem": {
+      "team": "Salem",
+      "state": "VA",
+      "division": "C4",
+      "region": 1,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 20.1,
+      "avg_points_allowed": 20.8,
+      "season_net_margin": -0.7,
+      "last_3_game_margin": 4.3,
+      "momentum_trend": 5.0,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Salem averages 20.1 PPG while holding VHSL Class 4 Region D opponents to 20.8 PPG (-0.7 net margin).",
+        "Postseason Readiness: 6-4 against a 68.1 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "churchland": {
+      "team": "Churchland",
+      "state": "VA",
+      "division": "C4",
+      "region": 2,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 17.4,
+      "avg_points_allowed": 19.6,
+      "season_net_margin": -2.2,
+      "last_3_game_margin": -7.7,
+      "momentum_trend": -5.5,
+      "close_game_record": "6-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Churchland averages 17.4 PPG while holding VHSL Class 4 Region A opponents to 19.6 PPG (-2.2 net margin).",
+        "Postseason Readiness: 6-4 against a 67.6 SOS Index with 0 running-clock separations and a 6-2 record in one-score games."
+      ]
+    },
+    "hampton": {
+      "team": "Hampton",
+      "state": "VA",
+      "division": "C4",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 18.3,
+      "avg_points_allowed": 21.8,
+      "season_net_margin": -3.5,
+      "last_3_game_margin": -11.0,
+      "momentum_trend": -7.5,
+      "close_game_record": "4-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Hampton averages 18.3 PPG while holding VHSL Class 4 Region A opponents to 21.8 PPG (-3.5 net margin).",
+        "Postseason Readiness: 4-6 against a 67.3 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+      ]
+    },
+    "woodgrove": {
+      "team": "Woodgrove",
+      "state": "VA",
+      "division": "C4",
+      "region": 4,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 16.8,
+      "avg_points_allowed": 34.5,
+      "season_net_margin": -17.7,
+      "last_3_game_margin": -24.3,
+      "momentum_trend": -6.6,
+      "close_game_record": "1-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Woodgrove averages 16.8 PPG while holding VHSL Class 4 Region C opponents to 34.5 PPG (-17.7 net margin).",
+        "Postseason Readiness: 1-9 against a 68.4 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+      ]
+    },
+    "liberty christian academy": {
+      "team": "Liberty Christian Academy",
+      "state": "VA",
+      "division": "C3",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 35.5,
+      "avg_points_allowed": 15.4,
+      "season_net_margin": 20.1,
+      "last_3_game_margin": 27.0,
+      "momentum_trend": 6.9,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Liberty Christian Academy averages 35.5 PPG while holding VHSL Class 3 Region C opponents to 15.4 PPG (+20.1 net margin).",
+        "Postseason Readiness: 10-0 against a 70.8 SOS Index with 0 running-clock separations and a 2-0 record in one-score games."
+      ]
+    },
+    "lafayette": {
+      "team": "Lafayette",
+      "state": "VA",
+      "division": "C3",
+      "region": 2,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 30.2,
+      "avg_points_allowed": 13.8,
+      "season_net_margin": 16.4,
+      "last_3_game_margin": 15.0,
+      "momentum_trend": -1.4,
+      "close_game_record": "2-1",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lafayette averages 30.2 PPG while holding VHSL Class 3 Region A opponents to 13.8 PPG (+16.4 net margin).",
+        "Postseason Readiness: 8-2 against a 70.1 SOS Index with 1 running-clock separations and a 2-1 record in one-score games."
+      ]
+    },
+    "heritage-lynchburg": {
+      "team": "Heritage-Lynchburg",
+      "state": "VA",
+      "division": "C3",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 16.5,
+      "avg_points_allowed": 17.6,
+      "season_net_margin": -1.1,
+      "last_3_game_margin": -6.0,
+      "momentum_trend": -4.9,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Heritage-Lynchburg averages 16.5 PPG while holding VHSL Class 3 Region C opponents to 17.6 PPG (-1.1 net margin).",
+        "Postseason Readiness: 4-6 against a 70.7 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "kettle run": {
+      "team": "Kettle Run",
+      "state": "VA",
+      "division": "C3",
+      "region": 4,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 15.3,
+      "avg_points_allowed": 15.3,
+      "season_net_margin": 0.0,
+      "last_3_game_margin": 3.3,
+      "momentum_trend": 3.3,
+      "close_game_record": "6-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Kettle Run averages 15.3 PPG while holding VHSL Class 3 Region B opponents to 15.3 PPG (+0.0 net margin).",
+        "Postseason Readiness: 6-4 against a 69.5 SOS Index with 0 running-clock separations and a 6-3 record in one-score games."
+      ]
+    },
+    "lord botetourt": {
+      "team": "Lord Botetourt",
+      "state": "VA",
+      "division": "C3",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 18.5,
+      "avg_points_allowed": 19.9,
+      "season_net_margin": -1.4,
+      "last_3_game_margin": -8.0,
+      "momentum_trend": -6.6,
+      "close_game_record": "3-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lord Botetourt averages 18.5 PPG while holding VHSL Class 3 Region D opponents to 19.9 PPG (-1.4 net margin).",
+        "Postseason Readiness: 4-6 against a 67.3 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+      ]
+    },
+    "magna vista": {
+      "team": "Magna Vista",
+      "state": "VA",
+      "division": "C3",
+      "region": 2,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 21.2,
+      "avg_points_allowed": 25.0,
+      "season_net_margin": -3.8,
+      "last_3_game_margin": 3.3,
+      "momentum_trend": 7.1,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Magna Vista averages 21.2 PPG while holding VHSL Class 3 Region D opponents to 25.0 PPG (-3.8 net margin).",
+        "Postseason Readiness: 5-5 against a 69.2 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "christiansburg": {
+      "team": "Christiansburg",
+      "state": "VA",
+      "division": "C3",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 20.0,
+      "avg_points_allowed": 19.8,
+      "season_net_margin": 0.2,
+      "last_3_game_margin": 6.7,
+      "momentum_trend": 6.5,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Christiansburg averages 20.0 PPG while holding VHSL Class 3 Region D opponents to 19.8 PPG (+0.2 net margin).",
+        "Postseason Readiness: 5-5 against a 69.2 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "brentsville district": {
+      "team": "Brentsville District",
+      "state": "VA",
+      "division": "C3",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.8,
+      "avg_points_allowed": 19.1,
+      "season_net_margin": -1.3,
+      "last_3_game_margin": 2.3,
+      "momentum_trend": 3.6,
+      "close_game_record": "1-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Brentsville District averages 17.8 PPG while holding VHSL Class 3 Region B opponents to 19.1 PPG (-1.3 net margin).",
+        "Postseason Readiness: 4-6 against a 67.7 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+      ]
+    },
+    "hopewell": {
+      "team": "Hopewell",
+      "state": "VA",
+      "division": "C3",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 15.7,
+      "avg_points_allowed": 19.8,
+      "season_net_margin": -4.1,
+      "last_3_game_margin": -6.0,
+      "momentum_trend": -1.9,
+      "close_game_record": "2-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Hopewell averages 15.7 PPG while holding VHSL Class 3 Region A opponents to 19.8 PPG (-4.1 net margin).",
+        "Postseason Readiness: 4-6 against a 66.9 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+      ]
+    },
+    "turner ashby": {
+      "team": "Turner Ashby",
+      "state": "VA",
+      "division": "C3",
+      "region": 2,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 16.1,
+      "avg_points_allowed": 18.2,
+      "season_net_margin": -2.1,
+      "last_3_game_margin": -12.7,
+      "momentum_trend": -10.6,
+      "close_game_record": "3-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Turner Ashby averages 16.1 PPG while holding VHSL Class 3 Region C opponents to 18.2 PPG (-2.1 net margin).",
+        "Postseason Readiness: 5-5 against a 66.0 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+      ]
+    },
+    "lake taylor": {
+      "team": "Lake Taylor",
+      "state": "VA",
+      "division": "C3",
+      "region": 3,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 15.6,
+      "avg_points_allowed": 21.7,
+      "season_net_margin": -6.1,
+      "last_3_game_margin": -5.0,
+      "momentum_trend": 1.1,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lake Taylor averages 15.6 PPG while holding VHSL Class 3 Region A opponents to 21.7 PPG (-6.1 net margin).",
+        "Postseason Readiness: 3-7 against a 66.4 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "armstrong": {
+      "team": "Armstrong",
+      "state": "VA",
+      "division": "C3",
+      "region": 4,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 14.4,
+      "avg_points_allowed": 31.2,
+      "season_net_margin": -16.8,
+      "last_3_game_margin": -20.0,
+      "momentum_trend": -3.2,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Armstrong averages 14.4 PPG while holding VHSL Class 3 Region B opponents to 31.2 PPG (-16.8 net margin).",
+        "Postseason Readiness: 2-8 against a 67.6 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+      ]
+    },
+    "graham": {
+      "team": "Graham",
+      "state": "VA",
+      "division": "C2",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 31.5,
+      "avg_points_allowed": 11.9,
+      "season_net_margin": 19.6,
+      "last_3_game_margin": 21.7,
+      "momentum_trend": 2.1,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Graham averages 31.5 PPG while holding VHSL Class 2 Region D opponents to 11.9 PPG (+19.6 net margin).",
+        "Postseason Readiness: 10-0 against a 67.8 SOS Index with 0 running-clock separations and a 2-0 record in one-score games."
+      ]
+    },
+    "riverheads": {
+      "team": "Riverheads",
+      "state": "VA",
+      "division": "C2",
+      "region": 2,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 28.6,
+      "avg_points_allowed": 14.4,
+      "season_net_margin": 14.2,
+      "last_3_game_margin": 5.0,
+      "momentum_trend": -9.2,
+      "close_game_record": "2-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Riverheads averages 28.6 PPG while holding VHSL Class 2 Region B opponents to 14.4 PPG (+14.2 net margin).",
+        "Postseason Readiness: 8-2 against a 69.6 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+      ]
+    },
+    "poquoson": {
+      "team": "Poquoson",
+      "state": "VA",
+      "division": "C2",
+      "region": 3,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 17.1,
+      "avg_points_allowed": 21.5,
+      "season_net_margin": -4.4,
+      "last_3_game_margin": -1.7,
+      "momentum_trend": 2.7,
+      "close_game_record": "2-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Poquoson averages 17.1 PPG while holding VHSL Class 2 Region A opponents to 21.5 PPG (-4.4 net margin).",
+        "Postseason Readiness: 2-8 against a 68.8 SOS Index with 0 running-clock separations and a 2-6 record in one-score games."
+      ]
+    },
+    "strasburg": {
+      "team": "Strasburg",
+      "state": "VA",
+      "division": "C2",
+      "region": 4,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 22.4,
+      "avg_points_allowed": 15.5,
+      "season_net_margin": 6.9,
+      "last_3_game_margin": 18.0,
+      "momentum_trend": 11.1,
+      "close_game_record": "5-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Strasburg averages 22.4 PPG while holding VHSL Class 2 Region B opponents to 15.5 PPG (+6.9 net margin).",
+        "Postseason Readiness: 8-2 against a 68.7 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+      ]
+    },
+    "glenvar": {
+      "team": "Glenvar",
+      "state": "VA",
+      "division": "C2",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 18.3,
+      "avg_points_allowed": 21.9,
+      "season_net_margin": -3.6,
+      "last_3_game_margin": -13.7,
+      "momentum_trend": -10.1,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Glenvar averages 18.3 PPG while holding VHSL Class 2 Region C opponents to 21.9 PPG (-3.6 net margin).",
+        "Postseason Readiness: 5-5 against a 68.8 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "radford": {
+      "team": "Radford",
+      "state": "VA",
+      "division": "C2",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 16.5,
+      "avg_points_allowed": 21.8,
+      "season_net_margin": -5.3,
+      "last_3_game_margin": -6.0,
+      "momentum_trend": -0.7,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Radford averages 16.5 PPG while holding VHSL Class 2 Region C opponents to 21.8 PPG (-5.3 net margin).",
+        "Postseason Readiness: 4-6 against a 66.4 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "appomattox county": {
+      "team": "Appomattox County",
+      "state": "VA",
+      "division": "C2",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 16.4,
+      "avg_points_allowed": 17.7,
+      "season_net_margin": -1.3,
+      "last_3_game_margin": 7.0,
+      "momentum_trend": 8.3,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Appomattox County averages 16.4 PPG while holding VHSL Class 2 Region C opponents to 17.7 PPG (-1.3 net margin).",
+        "Postseason Readiness: 5-5 against a 66.5 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "union": {
+      "team": "Union",
+      "state": "VA",
+      "division": "C2",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.3,
+      "avg_points_allowed": 19.1,
+      "season_net_margin": -1.8,
+      "last_3_game_margin": 1.3,
+      "momentum_trend": 3.1,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Union averages 17.3 PPG while holding VHSL Class 2 Region D opponents to 19.1 PPG (-1.8 net margin).",
+        "Postseason Readiness: 4-6 against a 67.2 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "clarke county": {
+      "team": "Clarke County",
+      "state": "VA",
+      "division": "C2",
+      "region": 1,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 16.0,
+      "avg_points_allowed": 23.2,
+      "season_net_margin": -7.2,
+      "last_3_game_margin": -5.3,
+      "momentum_trend": 1.9,
+      "close_game_record": "1-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Clarke County averages 16.0 PPG while holding VHSL Class 2 Region B opponents to 23.2 PPG (-7.2 net margin).",
+        "Postseason Readiness: 1-9 against a 66.2 SOS Index with 0 running-clock separations and a 1-5 record in one-score games."
+      ]
+    },
+    "amelia county": {
+      "team": "Amelia County",
+      "state": "VA",
+      "division": "C2",
+      "region": 2,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 21.3,
+      "avg_points_allowed": 17.2,
+      "season_net_margin": 4.1,
+      "last_3_game_margin": -3.3,
+      "momentum_trend": -7.4,
+      "close_game_record": "7-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Amelia County averages 21.3 PPG while holding VHSL Class 2 Region A opponents to 17.2 PPG (+4.1 net margin).",
+        "Postseason Readiness: 9-1 against a 65.7 SOS Index with 0 running-clock separations and a 7-0 record in one-score games."
+      ]
+    },
+    "bruton": {
+      "team": "Bruton",
+      "state": "VA",
+      "division": "C2",
+      "region": 3,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 17.2,
+      "avg_points_allowed": 21.7,
+      "season_net_margin": -4.5,
+      "last_3_game_margin": -6.0,
+      "momentum_trend": -1.5,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Bruton averages 17.2 PPG while holding VHSL Class 2 Region A opponents to 21.7 PPG (-4.5 net margin).",
+        "Postseason Readiness: 3-7 against a 65.3 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "ridgeview": {
+      "team": "Ridgeview",
+      "state": "VA",
+      "division": "C2",
+      "region": 4,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 14.9,
+      "avg_points_allowed": 31.6,
+      "season_net_margin": -16.7,
+      "last_3_game_margin": -17.0,
+      "momentum_trend": -0.3,
+      "close_game_record": "0-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Ridgeview averages 14.9 PPG while holding VHSL Class 2 Region D opponents to 31.6 PPG (-16.7 net margin).",
+        "Postseason Readiness: 1-9 against a 65.1 SOS Index with 0 running-clock separations and a 0-2 record in one-score games."
+      ]
+    },
+    "essex": {
+      "team": "Essex",
+      "state": "VA",
+      "division": "C1",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 31.4,
+      "avg_points_allowed": 11.4,
+      "season_net_margin": 20.0,
+      "last_3_game_margin": 32.0,
+      "momentum_trend": 12.0,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Essex averages 31.4 PPG while holding VHSL Class 1 Region A opponents to 11.4 PPG (+20.0 net margin).",
+        "Postseason Readiness: 10-0 against a 68.3 SOS Index with 2 running-clock separations and a 2-0 record in one-score games."
+      ]
+    },
+    "altavista": {
+      "team": "Altavista",
+      "state": "VA",
+      "division": "C1",
+      "region": 2,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 31.7,
+      "avg_points_allowed": 13.8,
+      "season_net_margin": 17.9,
+      "last_3_game_margin": 14.0,
+      "momentum_trend": -3.9,
+      "close_game_record": "4-1",
+      "mercy_rule_wins": 3,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Altavista averages 31.7 PPG while holding VHSL Class 1 Region B opponents to 13.8 PPG (+17.9 net margin).",
+        "Postseason Readiness: 9-1 against a 68.1 SOS Index with 3 running-clock separations and a 4-1 record in one-score games."
+      ]
+    },
+    "grayson county": {
+      "team": "Grayson County",
+      "state": "VA",
+      "division": "C1",
+      "region": 3,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 16.9,
+      "avg_points_allowed": 19.0,
+      "season_net_margin": -2.1,
+      "last_3_game_margin": -0.7,
+      "momentum_trend": 1.4,
+      "close_game_record": "3-7",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Grayson County averages 16.9 PPG while holding VHSL Class 1 Region C opponents to 19.0 PPG (-2.1 net margin).",
+        "Postseason Readiness: 3-7 against a 67.5 SOS Index with 0 running-clock separations and a 3-7 record in one-score games."
+      ]
+    },
+    "patrick henry-glade spring": {
+      "team": "Patrick Henry-Glade Spring",
+      "state": "VA",
+      "division": "C1",
+      "region": 4,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 17.2,
+      "avg_points_allowed": 14.3,
+      "season_net_margin": 2.9,
+      "last_3_game_margin": 6.3,
+      "momentum_trend": 3.4,
+      "close_game_record": "5-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Patrick Henry-Glade Spring averages 17.2 PPG while holding VHSL Class 1 Region D opponents to 14.3 PPG (+2.9 net margin).",
+        "Postseason Readiness: 7-3 against a 65.7 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+      ]
+    },
+    "galax": {
+      "team": "Galax",
+      "state": "VA",
+      "division": "C1",
+      "region": 1,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 16.5,
+      "avg_points_allowed": 19.2,
+      "season_net_margin": -2.7,
+      "last_3_game_margin": -1.7,
+      "momentum_trend": 1.0,
+      "close_game_record": "1-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Galax averages 16.5 PPG while holding VHSL Class 1 Region C opponents to 19.2 PPG (-2.7 net margin).",
+        "Postseason Readiness: 3-7 against a 65.3 SOS Index with 0 running-clock separations and a 1-4 record in one-score games."
+      ]
+    },
+    "rye cove": {
+      "team": "Rye Cove",
+      "state": "VA",
+      "division": "C1",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 16.3,
+      "avg_points_allowed": 20.1,
+      "season_net_margin": -3.8,
+      "last_3_game_margin": -2.0,
+      "momentum_trend": 1.8,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Rye Cove averages 16.3 PPG while holding VHSL Class 1 Region D opponents to 20.1 PPG (-3.8 net margin).",
+        "Postseason Readiness: 4-6 against a 67.5 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "rappahannock": {
+      "team": "Rappahannock",
+      "state": "VA",
+      "division": "C1",
+      "region": 3,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 17.3,
+      "avg_points_allowed": 18.6,
+      "season_net_margin": -1.3,
+      "last_3_game_margin": -0.7,
+      "momentum_trend": 0.6,
+      "close_game_record": "5-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Rappahannock averages 17.3 PPG while holding VHSL Class 1 Region A opponents to 18.6 PPG (-1.3 net margin).",
+        "Postseason Readiness: 6-4 against a 65.0 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+      ]
+    },
+    "william campbell": {
+      "team": "William Campbell",
+      "state": "VA",
+      "division": "C1",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 19.2,
+      "avg_points_allowed": 19.4,
+      "season_net_margin": -0.2,
+      "last_3_game_margin": -0.3,
+      "momentum_trend": -0.1,
+      "close_game_record": "3-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: William Campbell averages 19.2 PPG while holding VHSL Class 1 Region B opponents to 19.4 PPG (-0.2 net margin).",
+        "Postseason Readiness: 4-6 against a 65.2 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+      ]
+    },
+    "honaker": {
+      "team": "Honaker",
+      "state": "VA",
+      "division": "C1",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 15.8,
+      "avg_points_allowed": 18.8,
+      "season_net_margin": -3.0,
+      "last_3_game_margin": 0.0,
+      "momentum_trend": 3.0,
+      "close_game_record": "5-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Honaker averages 15.8 PPG while holding VHSL Class 1 Region D opponents to 18.8 PPG (-3.0 net margin).",
+        "Postseason Readiness: 5-5 against a 66.7 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+      ]
+    },
+    "george wythe": {
+      "team": "George Wythe",
+      "state": "VA",
+      "division": "C1",
+      "region": 2,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 16.5,
+      "avg_points_allowed": 20.3,
+      "season_net_margin": -3.8,
+      "last_3_game_margin": -11.7,
+      "momentum_trend": -7.9,
+      "close_game_record": "2-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: George Wythe averages 16.5 PPG while holding VHSL Class 1 Region C opponents to 20.3 PPG (-3.8 net margin).",
+        "Postseason Readiness: 3-7 against a 64.2 SOS Index with 0 running-clock separations and a 2-6 record in one-score games."
+      ]
+    },
+    "west point": {
+      "team": "West Point",
+      "state": "VA",
+      "division": "C1",
+      "region": 3,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 17.8,
+      "avg_points_allowed": 23.9,
+      "season_net_margin": -6.1,
+      "last_3_game_margin": -13.3,
+      "momentum_trend": -7.2,
+      "close_game_record": "2-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: West Point averages 17.8 PPG while holding VHSL Class 1 Region A opponents to 23.9 PPG (-6.1 net margin).",
+        "Postseason Readiness: 2-8 against a 64.9 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+      ]
+    },
+    "sussex central": {
+      "team": "Sussex Central",
+      "state": "VA",
+      "division": "C1",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 15.5,
+      "avg_points_allowed": 33.3,
+      "season_net_margin": -17.8,
+      "last_3_game_margin": -22.0,
+      "momentum_trend": -4.2,
+      "close_game_record": "3-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Sussex Central averages 15.5 PPG while holding VHSL Class 1 Region B opponents to 33.3 PPG (-17.8 net margin).",
+        "Postseason Readiness: 4-6 against a 63.0 SOS Index with 0 running-clock separations and a 3-0 record in one-score games."
+      ]
+    }
+  },
+  "oscar smith": {
+    "team": "Oscar Smith",
+    "state": "VA",
+    "division": "C6",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 35.4,
+    "avg_points_allowed": 14.4,
+    "season_net_margin": 21.0,
+    "last_3_game_margin": 32.3,
+    "momentum_trend": 11.3,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Oscar Smith averages 35.4 PPG while holding VHSL Class 6 Region A opponents to 14.4 PPG (+21.0 net margin).",
+      "Postseason Readiness: 9-1 against a 73.8 SOS Index with 2 running-clock separations and a 1-1 record in one-score games."
+    ]
+  },
+  "highland springs": {
+    "team": "Highland Springs",
+    "state": "VA",
+    "division": "C6",
+    "region": 2,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 30.3,
+    "avg_points_allowed": 13.0,
+    "season_net_margin": 17.3,
+    "last_3_game_margin": 19.0,
+    "momentum_trend": 1.7,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Highland Springs averages 30.3 PPG while holding VHSL Class 6 Region A opponents to 13.0 PPG (+17.3 net margin).",
+      "Postseason Readiness: 9-1 against a 74.0 SOS Index with 1 running-clock separations and a 3-0 record in one-score games."
+    ]
+  },
+  "battlefield": {
+    "team": "Battlefield",
+    "state": "VA",
+    "division": "C6",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.3,
+    "avg_points_allowed": 17.5,
+    "season_net_margin": 1.8,
+    "last_3_game_margin": -4.3,
+    "momentum_trend": -6.1,
+    "close_game_record": "1-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Battlefield averages 19.3 PPG while holding VHSL Class 6 Region B opponents to 17.5 PPG (+1.8 net margin).",
+      "Postseason Readiness: 5-5 against a 71.4 SOS Index with 0 running-clock separations and a 1-4 record in one-score games."
+    ]
+  },
+  "james madison": {
+    "team": "James Madison",
+    "state": "VA",
+    "division": "C6",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.9,
+    "avg_points_allowed": 20.1,
+    "season_net_margin": -2.2,
+    "last_3_game_margin": 0.0,
+    "momentum_trend": 2.2,
+    "close_game_record": "5-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: James Madison averages 17.9 PPG while holding VHSL Class 6 Region D opponents to 20.1 PPG (-2.2 net margin).",
+      "Postseason Readiness: 5-5 against a 71.0 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+    ]
+  },
+  "freedom-woodbridge": {
+    "team": "Freedom-Woodbridge",
+    "state": "VA",
+    "division": "C6",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.7,
+    "avg_points_allowed": 20.2,
+    "season_net_margin": -2.5,
+    "last_3_game_margin": -2.0,
+    "momentum_trend": 0.5,
+    "close_game_record": "4-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Freedom-Woodbridge averages 17.7 PPG while holding VHSL Class 6 Region B opponents to 20.2 PPG (-2.5 net margin).",
+      "Postseason Readiness: 4-6 against a 71.3 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+    ]
+  },
+  "westfield": {
+    "team": "Westfield",
+    "state": "VA",
+    "division": "C6",
+    "region": 2,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 15.8,
+    "avg_points_allowed": 17.5,
+    "season_net_margin": -1.7,
+    "last_3_game_margin": 3.0,
+    "momentum_trend": 4.7,
+    "close_game_record": "2-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Westfield averages 15.8 PPG while holding VHSL Class 6 Region D opponents to 17.5 PPG (-1.7 net margin).",
+      "Postseason Readiness: 3-7 against a 71.7 SOS Index with 0 running-clock separations and a 2-6 record in one-score games."
+    ]
+  },
+  "south county": {
+    "team": "South County",
+    "state": "VA",
+    "division": "C6",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 15.9,
+    "avg_points_allowed": 20.0,
+    "season_net_margin": -4.1,
+    "last_3_game_margin": -6.7,
+    "momentum_trend": -2.6,
+    "close_game_record": "4-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: South County averages 15.9 PPG while holding VHSL Class 6 Region C opponents to 20.0 PPG (-4.1 net margin).",
+      "Postseason Readiness: 4-6 against a 72.7 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+    ]
+  },
+  "lake braddock": {
+    "team": "Lake Braddock",
+    "state": "VA",
+    "division": "C6",
+    "region": 4,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 20.2,
+    "avg_points_allowed": 19.6,
+    "season_net_margin": 0.6,
+    "last_3_game_margin": 7.0,
+    "momentum_trend": 6.4,
+    "close_game_record": "6-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lake Braddock averages 20.2 PPG while holding VHSL Class 6 Region C opponents to 19.6 PPG (+0.6 net margin).",
+      "Postseason Readiness: 6-4 against a 70.1 SOS Index with 0 running-clock separations and a 6-3 record in one-score games."
+    ]
+  },
+  "patriot": {
+    "team": "Patriot",
+    "state": "VA",
+    "division": "C6",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 18.3,
+    "avg_points_allowed": 23.6,
+    "season_net_margin": -5.3,
+    "last_3_game_margin": -6.0,
+    "momentum_trend": -0.7,
+    "close_game_record": "4-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Patriot averages 18.3 PPG while holding VHSL Class 6 Region B opponents to 23.6 PPG (-5.3 net margin).",
+      "Postseason Readiness: 4-6 against a 70.1 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+    ]
+  },
+  "thomas dale": {
+    "team": "Thomas Dale",
+    "state": "VA",
+    "division": "C6",
+    "region": 2,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 23.1,
+    "avg_points_allowed": 20.4,
+    "season_net_margin": 2.7,
+    "last_3_game_margin": -5.3,
+    "momentum_trend": -8.0,
+    "close_game_record": "3-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Thomas Dale averages 23.1 PPG while holding VHSL Class 6 Region A opponents to 20.4 PPG (+2.7 net margin).",
+      "Postseason Readiness: 7-3 against a 68.8 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+    ]
+  },
+  "washington-liberty": {
+    "team": "Washington-Liberty",
+    "state": "VA",
+    "division": "C6",
+    "region": 3,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 17.5,
+    "avg_points_allowed": 26.3,
+    "season_net_margin": -8.8,
+    "last_3_game_margin": -17.0,
+    "momentum_trend": -8.2,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Washington-Liberty averages 17.5 PPG while holding VHSL Class 6 Region D opponents to 26.3 PPG (-8.8 net margin).",
+      "Postseason Readiness: 2-8 against a 71.0 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+    ]
+  },
+  "fairfax": {
+    "team": "Fairfax",
+    "state": "VA",
+    "division": "C6",
+    "region": 4,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 14.9,
+    "avg_points_allowed": 33.7,
+    "season_net_margin": -18.8,
+    "last_3_game_margin": -20.0,
+    "momentum_trend": -1.2,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Fairfax averages 14.9 PPG while holding VHSL Class 6 Region C opponents to 33.7 PPG (-18.8 net margin).",
+      "Postseason Readiness: 2-8 against a 70.7 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+    ]
+  },
+  "maury": {
+    "team": "Maury",
+    "state": "VA",
+    "division": "C5",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 33.7,
+    "avg_points_allowed": 14.8,
+    "season_net_margin": 18.9,
+    "last_3_game_margin": 34.0,
+    "momentum_trend": 15.1,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Maury averages 33.7 PPG while holding VHSL Class 5 Region B opponents to 14.8 PPG (+18.9 net margin).",
+      "Postseason Readiness: 10-0 against a 71.1 SOS Index with 2 running-clock separations and a 2-0 record in one-score games."
+    ]
+  },
+  "green run": {
+    "team": "Green Run",
+    "state": "VA",
+    "division": "C5",
+    "region": 2,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 32.9,
+    "avg_points_allowed": 13.7,
+    "season_net_margin": 19.2,
+    "last_3_game_margin": 13.7,
+    "momentum_trend": -5.5,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Green Run averages 32.9 PPG while holding VHSL Class 5 Region A opponents to 13.7 PPG (+19.2 net margin).",
+      "Postseason Readiness: 10-0 against a 72.5 SOS Index with 0 running-clock separations and a 2-0 record in one-score games."
+    ]
+  },
+  "matoaca": {
+    "team": "Matoaca",
+    "state": "VA",
+    "division": "C5",
+    "region": 3,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 16.2,
+    "avg_points_allowed": 20.9,
+    "season_net_margin": -4.7,
+    "last_3_game_margin": -3.3,
+    "momentum_trend": 1.4,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Matoaca averages 16.2 PPG while holding VHSL Class 5 Region C opponents to 20.9 PPG (-4.7 net margin).",
+      "Postseason Readiness: 2-8 against a 70.9 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "king's fork": {
+    "team": "King's Fork",
+    "state": "VA",
+    "division": "C5",
+    "region": 4,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 21.2,
+    "avg_points_allowed": 20.3,
+    "season_net_margin": 0.9,
+    "last_3_game_margin": 4.3,
+    "momentum_trend": 3.4,
+    "close_game_record": "4-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: King's Fork averages 21.2 PPG while holding VHSL Class 5 Region B opponents to 20.3 PPG (+0.9 net margin).",
+      "Postseason Readiness: 6-4 against a 72.3 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+    ]
+  },
+  "stone bridge": {
+    "team": "Stone Bridge",
+    "state": "VA",
+    "division": "C5",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 21.5,
+    "avg_points_allowed": 20.4,
+    "season_net_margin": 1.1,
+    "last_3_game_margin": -0.7,
+    "momentum_trend": -1.8,
+    "close_game_record": "3-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Stone Bridge averages 21.5 PPG while holding VHSL Class 5 Region D opponents to 20.4 PPG (+1.1 net margin).",
+      "Postseason Readiness: 5-5 against a 70.8 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+    ]
+  },
+  "briar woods": {
+    "team": "Briar Woods",
+    "state": "VA",
+    "division": "C5",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.1,
+    "avg_points_allowed": 20.3,
+    "season_net_margin": -3.2,
+    "last_3_game_margin": -3.3,
+    "momentum_trend": -0.1,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Briar Woods averages 17.1 PPG while holding VHSL Class 5 Region D opponents to 20.3 PPG (-3.2 net margin).",
+      "Postseason Readiness: 4-6 against a 69.5 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "patrick henry-roanoke": {
+    "team": "Patrick Henry-Roanoke",
+    "state": "VA",
+    "division": "C5",
+    "region": 3,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 15.0,
+    "avg_points_allowed": 17.6,
+    "season_net_margin": -2.6,
+    "last_3_game_margin": -1.0,
+    "momentum_trend": 1.6,
+    "close_game_record": "3-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Patrick Henry-Roanoke averages 15.0 PPG while holding VHSL Class 5 Region C opponents to 17.6 PPG (-2.6 net margin).",
+      "Postseason Readiness: 3-7 against a 69.8 SOS Index with 0 running-clock separations and a 3-6 record in one-score games."
+    ]
+  },
+  "warwick": {
+    "team": "Warwick",
+    "state": "VA",
+    "division": "C5",
+    "region": 4,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 20.4,
+    "avg_points_allowed": 20.8,
+    "season_net_margin": -0.4,
+    "last_3_game_margin": 2.0,
+    "momentum_trend": 2.4,
+    "close_game_record": "5-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Warwick averages 20.4 PPG while holding VHSL Class 5 Region B opponents to 20.8 PPG (-0.4 net margin).",
+      "Postseason Readiness: 6-4 against a 70.9 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+    ]
+  },
+  "william fleming": {
+    "team": "William Fleming",
+    "state": "VA",
+    "division": "C5",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 22.0,
+    "avg_points_allowed": 21.4,
+    "season_net_margin": 0.6,
+    "last_3_game_margin": 1.3,
+    "momentum_trend": 0.7,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: William Fleming averages 22.0 PPG while holding VHSL Class 5 Region C opponents to 21.4 PPG (+0.6 net margin).",
+      "Postseason Readiness: 5-5 against a 68.5 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+    ]
+  },
+  "lightridge": {
+    "team": "Lightridge",
+    "state": "VA",
+    "division": "C5",
+    "region": 2,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.2,
+    "avg_points_allowed": 22.9,
+    "season_net_margin": -3.7,
+    "last_3_game_margin": -7.0,
+    "momentum_trend": -3.3,
+    "close_game_record": "4-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lightridge averages 19.2 PPG while holding VHSL Class 5 Region D opponents to 22.9 PPG (-3.7 net margin).",
+      "Postseason Readiness: 5-5 against a 69.8 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+    ]
+  },
+  "salem-va beach": {
+    "team": "Salem-VA Beach",
+    "state": "VA",
+    "division": "C5",
+    "region": 3,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 15.3,
+    "avg_points_allowed": 21.8,
+    "season_net_margin": -6.5,
+    "last_3_game_margin": -17.7,
+    "momentum_trend": -11.2,
+    "close_game_record": "1-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Salem-VA Beach averages 15.3 PPG while holding VHSL Class 5 Region A opponents to 21.8 PPG (-6.5 net margin).",
+      "Postseason Readiness: 2-8 against a 67.7 SOS Index with 0 running-clock separations and a 1-6 record in one-score games."
+    ]
+  },
+  "hermitage": {
+    "team": "Hermitage",
+    "state": "VA",
+    "division": "C5",
+    "region": 4,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 14.4,
+    "avg_points_allowed": 34.0,
+    "season_net_margin": -19.6,
+    "last_3_game_margin": -22.3,
+    "momentum_trend": -2.7,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Hermitage averages 14.4 PPG while holding VHSL Class 5 Region C opponents to 34.0 PPG (-19.6 net margin).",
+      "Postseason Readiness: 2-8 against a 69.6 SOS Index with 0 running-clock separations and a 2-1 record in one-score games."
+    ]
+  },
+  "phoebus": {
+    "team": "Phoebus",
+    "state": "VA",
+    "division": "C4",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 30.6,
+    "avg_points_allowed": 14.9,
+    "season_net_margin": 15.7,
+    "last_3_game_margin": 30.7,
+    "momentum_trend": 15.0,
+    "close_game_record": "3-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Phoebus averages 30.6 PPG while holding VHSL Class 4 Region A opponents to 14.9 PPG (+15.7 net margin).",
+      "Postseason Readiness: 9-1 against a 70.6 SOS Index with 1 running-clock separations and a 3-1 record in one-score games."
+    ]
+  },
+  "varina": {
+    "team": "Varina",
+    "state": "VA",
+    "division": "C4",
+    "region": 2,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 32.1,
+    "avg_points_allowed": 18.0,
+    "season_net_margin": 14.1,
+    "last_3_game_margin": 11.0,
+    "momentum_trend": -3.1,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Varina averages 32.1 PPG while holding VHSL Class 4 Region B opponents to 18.0 PPG (+14.1 net margin).",
+      "Postseason Readiness: 8-2 against a 72.3 SOS Index with 1 running-clock separations and a 2-0 record in one-score games."
+    ]
+  },
+  "dinwiddie": {
+    "team": "Dinwiddie",
+    "state": "VA",
+    "division": "C4",
+    "region": 3,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 19.5,
+    "avg_points_allowed": 17.2,
+    "season_net_margin": 2.3,
+    "last_3_game_margin": 4.3,
+    "momentum_trend": 2.0,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Dinwiddie averages 19.5 PPG while holding VHSL Class 4 Region B opponents to 17.2 PPG (+2.3 net margin).",
+      "Postseason Readiness: 7-3 against a 71.6 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "loudoun county": {
+    "team": "Loudoun County",
+    "state": "VA",
+    "division": "C4",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 20.0,
+    "avg_points_allowed": 20.7,
+    "season_net_margin": -0.7,
+    "last_3_game_margin": 2.7,
+    "momentum_trend": 3.4,
+    "close_game_record": "2-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Loudoun County averages 20.0 PPG while holding VHSL Class 4 Region C opponents to 20.7 PPG (-0.7 net margin).",
+      "Postseason Readiness: 3-7 against a 71.5 SOS Index with 0 running-clock separations and a 2-6 record in one-score games."
+    ]
+  },
+  "sherando": {
+    "team": "Sherando",
+    "state": "VA",
+    "division": "C4",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 20.4,
+    "avg_points_allowed": 22.0,
+    "season_net_margin": -1.6,
+    "last_3_game_margin": -3.0,
+    "momentum_trend": -1.4,
+    "close_game_record": "5-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Sherando averages 20.4 PPG while holding VHSL Class 4 Region D opponents to 22.0 PPG (-1.6 net margin).",
+      "Postseason Readiness: 5-5 against a 70.7 SOS Index with 0 running-clock separations and a 5-4 record in one-score games."
+    ]
+  },
+  "tuscarora": {
+    "team": "Tuscarora",
+    "state": "VA",
+    "division": "C4",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 20.2,
+    "avg_points_allowed": 20.8,
+    "season_net_margin": -0.6,
+    "last_3_game_margin": -1.0,
+    "momentum_trend": -0.4,
+    "close_game_record": "4-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Tuscarora averages 20.2 PPG while holding VHSL Class 4 Region C opponents to 20.8 PPG (-0.6 net margin).",
+      "Postseason Readiness: 4-6 against a 69.0 SOS Index with 0 running-clock separations and a 4-6 record in one-score games."
+    ]
+  },
+  "huguenot": {
+    "team": "Huguenot",
+    "state": "VA",
+    "division": "C4",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 22.1,
+    "avg_points_allowed": 20.9,
+    "season_net_margin": 1.2,
+    "last_3_game_margin": 1.3,
+    "momentum_trend": 0.1,
+    "close_game_record": "5-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Huguenot averages 22.1 PPG while holding VHSL Class 4 Region B opponents to 20.9 PPG (+1.2 net margin).",
+      "Postseason Readiness: 6-4 against a 69.4 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+    ]
+  },
+  "jefferson forest": {
+    "team": "Jefferson Forest",
+    "state": "VA",
+    "division": "C4",
+    "region": 4,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 17.3,
+    "avg_points_allowed": 23.6,
+    "season_net_margin": -6.3,
+    "last_3_game_margin": -7.3,
+    "momentum_trend": -1.0,
+    "close_game_record": "0-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Jefferson Forest averages 17.3 PPG while holding VHSL Class 4 Region D opponents to 23.6 PPG (-6.3 net margin).",
+      "Postseason Readiness: 1-9 against a 69.1 SOS Index with 0 running-clock separations and a 0-6 record in one-score games."
+    ]
+  },
+  "salem": {
+    "team": "Salem",
+    "state": "VA",
+    "division": "C4",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 20.1,
+    "avg_points_allowed": 20.8,
+    "season_net_margin": -0.7,
+    "last_3_game_margin": 4.3,
+    "momentum_trend": 5.0,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Salem averages 20.1 PPG while holding VHSL Class 4 Region D opponents to 20.8 PPG (-0.7 net margin).",
+      "Postseason Readiness: 6-4 against a 68.1 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "churchland": {
+    "team": "Churchland",
+    "state": "VA",
+    "division": "C4",
+    "region": 2,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 17.4,
+    "avg_points_allowed": 19.6,
+    "season_net_margin": -2.2,
+    "last_3_game_margin": -7.7,
+    "momentum_trend": -5.5,
+    "close_game_record": "6-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Churchland averages 17.4 PPG while holding VHSL Class 4 Region A opponents to 19.6 PPG (-2.2 net margin).",
+      "Postseason Readiness: 6-4 against a 67.6 SOS Index with 0 running-clock separations and a 6-2 record in one-score games."
+    ]
+  },
+  "hampton": {
+    "team": "Hampton",
+    "state": "VA",
+    "division": "C4",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 18.3,
+    "avg_points_allowed": 21.8,
+    "season_net_margin": -3.5,
+    "last_3_game_margin": -11.0,
+    "momentum_trend": -7.5,
+    "close_game_record": "4-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Hampton averages 18.3 PPG while holding VHSL Class 4 Region A opponents to 21.8 PPG (-3.5 net margin).",
+      "Postseason Readiness: 4-6 against a 67.3 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+    ]
+  },
+  "woodgrove": {
+    "team": "Woodgrove",
+    "state": "VA",
+    "division": "C4",
+    "region": 4,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 16.8,
+    "avg_points_allowed": 34.5,
+    "season_net_margin": -17.7,
+    "last_3_game_margin": -24.3,
+    "momentum_trend": -6.6,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Woodgrove averages 16.8 PPG while holding VHSL Class 4 Region C opponents to 34.5 PPG (-17.7 net margin).",
+      "Postseason Readiness: 1-9 against a 68.4 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+    ]
+  },
+  "liberty christian academy": {
+    "team": "Liberty Christian Academy",
+    "state": "VA",
+    "division": "C3",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 35.5,
+    "avg_points_allowed": 15.4,
+    "season_net_margin": 20.1,
+    "last_3_game_margin": 27.0,
+    "momentum_trend": 6.9,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Liberty Christian Academy averages 35.5 PPG while holding VHSL Class 3 Region C opponents to 15.4 PPG (+20.1 net margin).",
+      "Postseason Readiness: 10-0 against a 70.8 SOS Index with 0 running-clock separations and a 2-0 record in one-score games."
+    ]
+  },
+  "lafayette": {
+    "team": "Lafayette",
+    "state": "VA",
+    "division": "C3",
+    "region": 2,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 30.2,
+    "avg_points_allowed": 13.8,
+    "season_net_margin": 16.4,
+    "last_3_game_margin": 15.0,
+    "momentum_trend": -1.4,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lafayette averages 30.2 PPG while holding VHSL Class 3 Region A opponents to 13.8 PPG (+16.4 net margin).",
+      "Postseason Readiness: 8-2 against a 70.1 SOS Index with 1 running-clock separations and a 2-1 record in one-score games."
+    ]
+  },
+  "heritage-lynchburg": {
+    "team": "Heritage-Lynchburg",
+    "state": "VA",
+    "division": "C3",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 16.5,
+    "avg_points_allowed": 17.6,
+    "season_net_margin": -1.1,
+    "last_3_game_margin": -6.0,
+    "momentum_trend": -4.9,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Heritage-Lynchburg averages 16.5 PPG while holding VHSL Class 3 Region C opponents to 17.6 PPG (-1.1 net margin).",
+      "Postseason Readiness: 4-6 against a 70.7 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "kettle run": {
+    "team": "Kettle Run",
+    "state": "VA",
+    "division": "C3",
+    "region": 4,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 15.3,
+    "avg_points_allowed": 15.3,
+    "season_net_margin": 0.0,
+    "last_3_game_margin": 3.3,
+    "momentum_trend": 3.3,
+    "close_game_record": "6-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Kettle Run averages 15.3 PPG while holding VHSL Class 3 Region B opponents to 15.3 PPG (+0.0 net margin).",
+      "Postseason Readiness: 6-4 against a 69.5 SOS Index with 0 running-clock separations and a 6-3 record in one-score games."
+    ]
+  },
+  "lord botetourt": {
+    "team": "Lord Botetourt",
+    "state": "VA",
+    "division": "C3",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 18.5,
+    "avg_points_allowed": 19.9,
+    "season_net_margin": -1.4,
+    "last_3_game_margin": -8.0,
+    "momentum_trend": -6.6,
+    "close_game_record": "3-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lord Botetourt averages 18.5 PPG while holding VHSL Class 3 Region D opponents to 19.9 PPG (-1.4 net margin).",
+      "Postseason Readiness: 4-6 against a 67.3 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+    ]
+  },
+  "magna vista": {
+    "team": "Magna Vista",
+    "state": "VA",
+    "division": "C3",
+    "region": 2,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 21.2,
+    "avg_points_allowed": 25.0,
+    "season_net_margin": -3.8,
+    "last_3_game_margin": 3.3,
+    "momentum_trend": 7.1,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Magna Vista averages 21.2 PPG while holding VHSL Class 3 Region D opponents to 25.0 PPG (-3.8 net margin).",
+      "Postseason Readiness: 5-5 against a 69.2 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "christiansburg": {
+    "team": "Christiansburg",
+    "state": "VA",
+    "division": "C3",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 20.0,
+    "avg_points_allowed": 19.8,
+    "season_net_margin": 0.2,
+    "last_3_game_margin": 6.7,
+    "momentum_trend": 6.5,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Christiansburg averages 20.0 PPG while holding VHSL Class 3 Region D opponents to 19.8 PPG (+0.2 net margin).",
+      "Postseason Readiness: 5-5 against a 69.2 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "brentsville district": {
+    "team": "Brentsville District",
+    "state": "VA",
+    "division": "C3",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.8,
+    "avg_points_allowed": 19.1,
+    "season_net_margin": -1.3,
+    "last_3_game_margin": 2.3,
+    "momentum_trend": 3.6,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Brentsville District averages 17.8 PPG while holding VHSL Class 3 Region B opponents to 19.1 PPG (-1.3 net margin).",
+      "Postseason Readiness: 4-6 against a 67.7 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+    ]
+  },
+  "hopewell": {
+    "team": "Hopewell",
+    "state": "VA",
+    "division": "C3",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 15.7,
+    "avg_points_allowed": 19.8,
+    "season_net_margin": -4.1,
+    "last_3_game_margin": -6.0,
+    "momentum_trend": -1.9,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Hopewell averages 15.7 PPG while holding VHSL Class 3 Region A opponents to 19.8 PPG (-4.1 net margin).",
+      "Postseason Readiness: 4-6 against a 66.9 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+    ]
+  },
+  "turner ashby": {
+    "team": "Turner Ashby",
+    "state": "VA",
+    "division": "C3",
+    "region": 2,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 16.1,
+    "avg_points_allowed": 18.2,
+    "season_net_margin": -2.1,
+    "last_3_game_margin": -12.7,
+    "momentum_trend": -10.6,
+    "close_game_record": "3-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Turner Ashby averages 16.1 PPG while holding VHSL Class 3 Region C opponents to 18.2 PPG (-2.1 net margin).",
+      "Postseason Readiness: 5-5 against a 66.0 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+    ]
+  },
+  "lake taylor": {
+    "team": "Lake Taylor",
+    "state": "VA",
+    "division": "C3",
+    "region": 3,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 15.6,
+    "avg_points_allowed": 21.7,
+    "season_net_margin": -6.1,
+    "last_3_game_margin": -5.0,
+    "momentum_trend": 1.1,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lake Taylor averages 15.6 PPG while holding VHSL Class 3 Region A opponents to 21.7 PPG (-6.1 net margin).",
+      "Postseason Readiness: 3-7 against a 66.4 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "armstrong": {
+    "team": "Armstrong",
+    "state": "VA",
+    "division": "C3",
+    "region": 4,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 14.4,
+    "avg_points_allowed": 31.2,
+    "season_net_margin": -16.8,
+    "last_3_game_margin": -20.0,
+    "momentum_trend": -3.2,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Armstrong averages 14.4 PPG while holding VHSL Class 3 Region B opponents to 31.2 PPG (-16.8 net margin).",
+      "Postseason Readiness: 2-8 against a 67.6 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+    ]
+  },
+  "graham": {
+    "team": "Graham",
+    "state": "VA",
+    "division": "C2",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 31.5,
+    "avg_points_allowed": 11.9,
+    "season_net_margin": 19.6,
+    "last_3_game_margin": 21.7,
+    "momentum_trend": 2.1,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Graham averages 31.5 PPG while holding VHSL Class 2 Region D opponents to 11.9 PPG (+19.6 net margin).",
+      "Postseason Readiness: 10-0 against a 67.8 SOS Index with 0 running-clock separations and a 2-0 record in one-score games."
+    ]
+  },
+  "riverheads": {
+    "team": "Riverheads",
+    "state": "VA",
+    "division": "C2",
+    "region": 2,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 28.6,
+    "avg_points_allowed": 14.4,
+    "season_net_margin": 14.2,
+    "last_3_game_margin": 5.0,
+    "momentum_trend": -9.2,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Riverheads averages 28.6 PPG while holding VHSL Class 2 Region B opponents to 14.4 PPG (+14.2 net margin).",
+      "Postseason Readiness: 8-2 against a 69.6 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+    ]
+  },
+  "poquoson": {
+    "team": "Poquoson",
+    "state": "VA",
+    "division": "C2",
+    "region": 3,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 17.1,
+    "avg_points_allowed": 21.5,
+    "season_net_margin": -4.4,
+    "last_3_game_margin": -1.7,
+    "momentum_trend": 2.7,
+    "close_game_record": "2-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Poquoson averages 17.1 PPG while holding VHSL Class 2 Region A opponents to 21.5 PPG (-4.4 net margin).",
+      "Postseason Readiness: 2-8 against a 68.8 SOS Index with 0 running-clock separations and a 2-6 record in one-score games."
+    ]
+  },
+  "strasburg": {
+    "team": "Strasburg",
+    "state": "VA",
+    "division": "C2",
+    "region": 4,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 22.4,
+    "avg_points_allowed": 15.5,
+    "season_net_margin": 6.9,
+    "last_3_game_margin": 18.0,
+    "momentum_trend": 11.1,
+    "close_game_record": "5-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Strasburg averages 22.4 PPG while holding VHSL Class 2 Region B opponents to 15.5 PPG (+6.9 net margin).",
+      "Postseason Readiness: 8-2 against a 68.7 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+    ]
+  },
+  "glenvar": {
+    "team": "Glenvar",
+    "state": "VA",
+    "division": "C2",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 18.3,
+    "avg_points_allowed": 21.9,
+    "season_net_margin": -3.6,
+    "last_3_game_margin": -13.7,
+    "momentum_trend": -10.1,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Glenvar averages 18.3 PPG while holding VHSL Class 2 Region C opponents to 21.9 PPG (-3.6 net margin).",
+      "Postseason Readiness: 5-5 against a 68.8 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "radford": {
+    "team": "Radford",
+    "state": "VA",
+    "division": "C2",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 16.5,
+    "avg_points_allowed": 21.8,
+    "season_net_margin": -5.3,
+    "last_3_game_margin": -6.0,
+    "momentum_trend": -0.7,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Radford averages 16.5 PPG while holding VHSL Class 2 Region C opponents to 21.8 PPG (-5.3 net margin).",
+      "Postseason Readiness: 4-6 against a 66.4 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "appomattox county": {
+    "team": "Appomattox County",
+    "state": "VA",
+    "division": "C2",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 16.4,
+    "avg_points_allowed": 17.7,
+    "season_net_margin": -1.3,
+    "last_3_game_margin": 7.0,
+    "momentum_trend": 8.3,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Appomattox County averages 16.4 PPG while holding VHSL Class 2 Region C opponents to 17.7 PPG (-1.3 net margin).",
+      "Postseason Readiness: 5-5 against a 66.5 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "union": {
+    "team": "Union",
+    "state": "VA",
+    "division": "C2",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.3,
+    "avg_points_allowed": 19.1,
+    "season_net_margin": -1.8,
+    "last_3_game_margin": 1.3,
+    "momentum_trend": 3.1,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Union averages 17.3 PPG while holding VHSL Class 2 Region D opponents to 19.1 PPG (-1.8 net margin).",
+      "Postseason Readiness: 4-6 against a 67.2 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "clarke county": {
+    "team": "Clarke County",
+    "state": "VA",
+    "division": "C2",
+    "region": 1,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 16.0,
+    "avg_points_allowed": 23.2,
+    "season_net_margin": -7.2,
+    "last_3_game_margin": -5.3,
+    "momentum_trend": 1.9,
+    "close_game_record": "1-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Clarke County averages 16.0 PPG while holding VHSL Class 2 Region B opponents to 23.2 PPG (-7.2 net margin).",
+      "Postseason Readiness: 1-9 against a 66.2 SOS Index with 0 running-clock separations and a 1-5 record in one-score games."
+    ]
+  },
+  "amelia county": {
+    "team": "Amelia County",
+    "state": "VA",
+    "division": "C2",
+    "region": 2,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 21.3,
+    "avg_points_allowed": 17.2,
+    "season_net_margin": 4.1,
+    "last_3_game_margin": -3.3,
+    "momentum_trend": -7.4,
+    "close_game_record": "7-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Amelia County averages 21.3 PPG while holding VHSL Class 2 Region A opponents to 17.2 PPG (+4.1 net margin).",
+      "Postseason Readiness: 9-1 against a 65.7 SOS Index with 0 running-clock separations and a 7-0 record in one-score games."
+    ]
+  },
+  "bruton": {
+    "team": "Bruton",
+    "state": "VA",
+    "division": "C2",
+    "region": 3,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 17.2,
+    "avg_points_allowed": 21.7,
+    "season_net_margin": -4.5,
+    "last_3_game_margin": -6.0,
+    "momentum_trend": -1.5,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Bruton averages 17.2 PPG while holding VHSL Class 2 Region A opponents to 21.7 PPG (-4.5 net margin).",
+      "Postseason Readiness: 3-7 against a 65.3 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "ridgeview": {
+    "team": "Ridgeview",
+    "state": "VA",
+    "division": "C2",
+    "region": 4,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 14.9,
+    "avg_points_allowed": 31.6,
+    "season_net_margin": -16.7,
+    "last_3_game_margin": -17.0,
+    "momentum_trend": -0.3,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Ridgeview averages 14.9 PPG while holding VHSL Class 2 Region D opponents to 31.6 PPG (-16.7 net margin).",
+      "Postseason Readiness: 1-9 against a 65.1 SOS Index with 0 running-clock separations and a 0-2 record in one-score games."
+    ]
+  },
+  "essex": {
+    "team": "Essex",
+    "state": "VA",
+    "division": "C1",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 31.4,
+    "avg_points_allowed": 11.4,
+    "season_net_margin": 20.0,
+    "last_3_game_margin": 32.0,
+    "momentum_trend": 12.0,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Essex averages 31.4 PPG while holding VHSL Class 1 Region A opponents to 11.4 PPG (+20.0 net margin).",
+      "Postseason Readiness: 10-0 against a 68.3 SOS Index with 2 running-clock separations and a 2-0 record in one-score games."
+    ]
+  },
+  "altavista": {
+    "team": "Altavista",
+    "state": "VA",
+    "division": "C1",
+    "region": 2,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 31.7,
+    "avg_points_allowed": 13.8,
+    "season_net_margin": 17.9,
+    "last_3_game_margin": 14.0,
+    "momentum_trend": -3.9,
+    "close_game_record": "4-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Altavista averages 31.7 PPG while holding VHSL Class 1 Region B opponents to 13.8 PPG (+17.9 net margin).",
+      "Postseason Readiness: 9-1 against a 68.1 SOS Index with 3 running-clock separations and a 4-1 record in one-score games."
+    ]
+  },
+  "grayson county": {
+    "team": "Grayson County",
+    "state": "VA",
+    "division": "C1",
+    "region": 3,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 16.9,
+    "avg_points_allowed": 19.0,
+    "season_net_margin": -2.1,
+    "last_3_game_margin": -0.7,
+    "momentum_trend": 1.4,
+    "close_game_record": "3-7",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Grayson County averages 16.9 PPG while holding VHSL Class 1 Region C opponents to 19.0 PPG (-2.1 net margin).",
+      "Postseason Readiness: 3-7 against a 67.5 SOS Index with 0 running-clock separations and a 3-7 record in one-score games."
+    ]
+  },
+  "patrick henry-glade spring": {
+    "team": "Patrick Henry-Glade Spring",
+    "state": "VA",
+    "division": "C1",
+    "region": 4,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 17.2,
+    "avg_points_allowed": 14.3,
+    "season_net_margin": 2.9,
+    "last_3_game_margin": 6.3,
+    "momentum_trend": 3.4,
+    "close_game_record": "5-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Patrick Henry-Glade Spring averages 17.2 PPG while holding VHSL Class 1 Region D opponents to 14.3 PPG (+2.9 net margin).",
+      "Postseason Readiness: 7-3 against a 65.7 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+    ]
+  },
+  "galax": {
+    "team": "Galax",
+    "state": "VA",
+    "division": "C1",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 16.5,
+    "avg_points_allowed": 19.2,
+    "season_net_margin": -2.7,
+    "last_3_game_margin": -1.7,
+    "momentum_trend": 1.0,
+    "close_game_record": "1-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Galax averages 16.5 PPG while holding VHSL Class 1 Region C opponents to 19.2 PPG (-2.7 net margin).",
+      "Postseason Readiness: 3-7 against a 65.3 SOS Index with 0 running-clock separations and a 1-4 record in one-score games."
+    ]
+  },
+  "rye cove": {
+    "team": "Rye Cove",
+    "state": "VA",
+    "division": "C1",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 16.3,
+    "avg_points_allowed": 20.1,
+    "season_net_margin": -3.8,
+    "last_3_game_margin": -2.0,
+    "momentum_trend": 1.8,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Rye Cove averages 16.3 PPG while holding VHSL Class 1 Region D opponents to 20.1 PPG (-3.8 net margin).",
+      "Postseason Readiness: 4-6 against a 67.5 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "rappahannock": {
+    "team": "Rappahannock",
+    "state": "VA",
+    "division": "C1",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 17.3,
+    "avg_points_allowed": 18.6,
+    "season_net_margin": -1.3,
+    "last_3_game_margin": -0.7,
+    "momentum_trend": 0.6,
+    "close_game_record": "5-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Rappahannock averages 17.3 PPG while holding VHSL Class 1 Region A opponents to 18.6 PPG (-1.3 net margin).",
+      "Postseason Readiness: 6-4 against a 65.0 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+    ]
+  },
+  "william campbell": {
+    "team": "William Campbell",
+    "state": "VA",
+    "division": "C1",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 19.2,
+    "avg_points_allowed": 19.4,
+    "season_net_margin": -0.2,
+    "last_3_game_margin": -0.3,
+    "momentum_trend": -0.1,
+    "close_game_record": "3-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: William Campbell averages 19.2 PPG while holding VHSL Class 1 Region B opponents to 19.4 PPG (-0.2 net margin).",
+      "Postseason Readiness: 4-6 against a 65.2 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+    ]
+  },
+  "honaker": {
+    "team": "Honaker",
+    "state": "VA",
+    "division": "C1",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 15.8,
+    "avg_points_allowed": 18.8,
+    "season_net_margin": -3.0,
+    "last_3_game_margin": 0.0,
+    "momentum_trend": 3.0,
+    "close_game_record": "5-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Honaker averages 15.8 PPG while holding VHSL Class 1 Region D opponents to 18.8 PPG (-3.0 net margin).",
+      "Postseason Readiness: 5-5 against a 66.7 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+    ]
+  },
+  "george wythe": {
+    "team": "George Wythe",
+    "state": "VA",
+    "division": "C1",
+    "region": 2,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 16.5,
+    "avg_points_allowed": 20.3,
+    "season_net_margin": -3.8,
+    "last_3_game_margin": -11.7,
+    "momentum_trend": -7.9,
+    "close_game_record": "2-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: George Wythe averages 16.5 PPG while holding VHSL Class 1 Region C opponents to 20.3 PPG (-3.8 net margin).",
+      "Postseason Readiness: 3-7 against a 64.2 SOS Index with 0 running-clock separations and a 2-6 record in one-score games."
+    ]
+  },
+  "west point": {
+    "team": "West Point",
+    "state": "VA",
+    "division": "C1",
+    "region": 3,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 17.8,
+    "avg_points_allowed": 23.9,
+    "season_net_margin": -6.1,
+    "last_3_game_margin": -13.3,
+    "momentum_trend": -7.2,
+    "close_game_record": "2-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: West Point averages 17.8 PPG while holding VHSL Class 1 Region A opponents to 23.9 PPG (-6.1 net margin).",
+      "Postseason Readiness: 2-8 against a 64.9 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+    ]
+  },
+  "sussex central": {
+    "team": "Sussex Central",
+    "state": "VA",
+    "division": "C1",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 15.5,
+    "avg_points_allowed": 33.3,
+    "season_net_margin": -17.8,
+    "last_3_game_margin": -22.0,
+    "momentum_trend": -4.2,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Sussex Central averages 15.5 PPG while holding VHSL Class 1 Region B opponents to 33.3 PPG (-17.8 net margin).",
+      "Postseason Readiness: 4-6 against a 63.0 SOS Index with 0 running-clock separations and a 3-0 record in one-score games."
+    ]
+  }
+}

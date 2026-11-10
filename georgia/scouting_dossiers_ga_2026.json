@@ -1,0 +1,3366 @@
+{
+  "state": "GA",
+  "season": 2026,
+  "dossiers": {
+    "buford": {
+      "team": "Buford",
+      "state": "GA",
+      "division": "6A",
+      "region": 1,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 28.0,
+      "avg_points_allowed": 14.8,
+      "season_net_margin": 13.2,
+      "last_3_game_margin": 22.7,
+      "momentum_trend": 9.5,
+      "close_game_record": "3-1",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Buford averages 28.0 PPG while holding GHSA 6A Region 8 opponents to 14.8 PPG (+13.2 net margin).",
+        "Postseason Readiness: 9-1 against a 76.5 SOS Index with 1 running-clock separations and a 3-1 record in one-score games."
+      ]
+    },
+    "carrollton": {
+      "team": "Carrollton",
+      "state": "GA",
+      "division": "6A",
+      "region": 2,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 27.8,
+      "avg_points_allowed": 14.8,
+      "season_net_margin": 13.0,
+      "last_3_game_margin": 11.0,
+      "momentum_trend": -2.0,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 3,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Carrollton averages 27.8 PPG while holding GHSA 6A Region 2 opponents to 14.8 PPG (+13.0 net margin).",
+        "Postseason Readiness: 7-3 against a 74.5 SOS Index with 3 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "grayson": {
+      "team": "Grayson",
+      "state": "GA",
+      "division": "6A",
+      "region": 3,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 16.8,
+      "avg_points_allowed": 16.0,
+      "season_net_margin": 0.8,
+      "last_3_game_margin": 1.7,
+      "momentum_trend": 0.9,
+      "close_game_record": "6-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Grayson averages 16.8 PPG while holding GHSA 6A Region 4 opponents to 16.0 PPG (+0.8 net margin).",
+        "Postseason Readiness: 6-4 against a 76.0 SOS Index with 0 running-clock separations and a 6-4 record in one-score games."
+      ]
+    },
+    "douglas county": {
+      "team": "Douglas County",
+      "state": "GA",
+      "division": "6A",
+      "region": 4,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 20.6,
+      "avg_points_allowed": 16.2,
+      "season_net_margin": 4.4,
+      "last_3_game_margin": 8.0,
+      "momentum_trend": 3.6,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Douglas County averages 20.6 PPG while holding GHSA 6A Region 2 opponents to 16.2 PPG (+4.4 net margin).",
+        "Postseason Readiness: 7-3 against a 74.2 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "valdosta": {
+      "team": "Valdosta",
+      "state": "GA",
+      "division": "6A",
+      "region": 1,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 19.0,
+      "avg_points_allowed": 24.6,
+      "season_net_margin": -5.6,
+      "last_3_game_margin": -10.0,
+      "momentum_trend": -4.4,
+      "close_game_record": "1-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Valdosta averages 19.0 PPG while holding GHSA 6A Region 1 opponents to 24.6 PPG (-5.6 net margin).",
+        "Postseason Readiness: 1-9 against a 73.8 SOS Index with 0 running-clock separations and a 1-6 record in one-score games."
+      ]
+    },
+    "colquitt county": {
+      "team": "Colquitt County",
+      "state": "GA",
+      "division": "6A",
+      "region": 2,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 19.6,
+      "avg_points_allowed": 16.3,
+      "season_net_margin": 3.3,
+      "last_3_game_margin": 8.0,
+      "momentum_trend": 4.7,
+      "close_game_record": "6-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Colquitt County averages 19.6 PPG while holding GHSA 6A Region 1 opponents to 16.3 PPG (+3.3 net margin).",
+        "Postseason Readiness: 7-3 against a 73.8 SOS Index with 0 running-clock separations and a 6-3 record in one-score games."
+      ]
+    },
+    "north gwinnett": {
+      "team": "North Gwinnett",
+      "state": "GA",
+      "division": "6A",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 15.2,
+      "avg_points_allowed": 18.4,
+      "season_net_margin": -3.2,
+      "last_3_game_margin": -5.3,
+      "momentum_trend": -2.1,
+      "close_game_record": "4-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: North Gwinnett averages 15.2 PPG while holding GHSA 6A Region 7 opponents to 18.4 PPG (-3.2 net margin).",
+        "Postseason Readiness: 4-6 against a 72.2 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+      ]
+    },
+    "mill creek": {
+      "team": "Mill Creek",
+      "state": "GA",
+      "division": "6A",
+      "region": 4,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 15.8,
+      "avg_points_allowed": 18.9,
+      "season_net_margin": -3.1,
+      "last_3_game_margin": -1.3,
+      "momentum_trend": 1.8,
+      "close_game_record": "3-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Mill Creek averages 15.8 PPG while holding GHSA 6A Region 8 opponents to 18.9 PPG (-3.1 net margin).",
+        "Postseason Readiness: 3-7 against a 74.4 SOS Index with 0 running-clock separations and a 3-6 record in one-score games."
+      ]
+    },
+    "collins hill": {
+      "team": "Collins Hill",
+      "state": "GA",
+      "division": "6A",
+      "region": 1,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 18.8,
+      "avg_points_allowed": 17.6,
+      "season_net_margin": 1.2,
+      "last_3_game_margin": 1.3,
+      "momentum_trend": 0.1,
+      "close_game_record": "6-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Collins Hill averages 18.8 PPG while holding GHSA 6A Region 8 opponents to 17.6 PPG (+1.2 net margin).",
+        "Postseason Readiness: 7-3 against a 73.3 SOS Index with 0 running-clock separations and a 6-2 record in one-score games."
+      ]
+    },
+    "walton": {
+      "team": "Walton",
+      "state": "GA",
+      "division": "6A",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.6,
+      "avg_points_allowed": 19.8,
+      "season_net_margin": -2.2,
+      "last_3_game_margin": -4.0,
+      "momentum_trend": -1.8,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Walton averages 17.6 PPG while holding GHSA 6A Region 5 opponents to 19.8 PPG (-2.2 net margin).",
+        "Postseason Readiness: 4-6 against a 73.3 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "lowndes": {
+      "team": "Lowndes",
+      "state": "GA",
+      "division": "6A",
+      "region": 3,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 16.8,
+      "avg_points_allowed": 22.4,
+      "season_net_margin": -5.6,
+      "last_3_game_margin": -8.0,
+      "momentum_trend": -2.4,
+      "close_game_record": "2-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lowndes averages 16.8 PPG while holding GHSA 6A Region 1 opponents to 22.4 PPG (-5.6 net margin).",
+        "Postseason Readiness: 2-8 against a 71.2 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+      ]
+    },
+    "camden county": {
+      "team": "Camden County",
+      "state": "GA",
+      "division": "6A",
+      "region": 4,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 15.2,
+      "avg_points_allowed": 31.4,
+      "season_net_margin": -16.2,
+      "last_3_game_margin": -24.0,
+      "momentum_trend": -7.8,
+      "close_game_record": "2-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Camden County averages 15.2 PPG while holding GHSA 6A Region 1 opponents to 31.4 PPG (-16.2 net margin).",
+        "Postseason Readiness: 3-7 against a 72.2 SOS Index with 0 running-clock separations and a 2-1 record in one-score games."
+      ]
+    },
+    "milton": {
+      "team": "Milton",
+      "state": "GA",
+      "division": "5A",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 32.6,
+      "avg_points_allowed": 16.2,
+      "season_net_margin": 16.4,
+      "last_3_game_margin": 29.3,
+      "momentum_trend": 12.9,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Milton averages 32.6 PPG while holding GHSA 5A Region 7 opponents to 16.2 PPG (+16.4 net margin).",
+        "Postseason Readiness: 10-0 against a 73.2 SOS Index with 2 running-clock separations and a 2-0 record in one-score games."
+      ]
+    },
+    "thomas county central": {
+      "team": "Thomas County Central",
+      "state": "GA",
+      "division": "5A",
+      "region": 2,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 27.7,
+      "avg_points_allowed": 18.9,
+      "season_net_margin": 8.8,
+      "last_3_game_margin": -4.3,
+      "momentum_trend": -13.1,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Thomas County Central averages 27.7 PPG while holding GHSA 5A Region 2 opponents to 18.9 PPG (+8.8 net margin).",
+        "Postseason Readiness: 7-3 against a 73.0 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+      ]
+    },
+    "lee county": {
+      "team": "Lee County",
+      "state": "GA",
+      "division": "5A",
+      "region": 3,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 20.1,
+      "avg_points_allowed": 18.0,
+      "season_net_margin": 2.1,
+      "last_3_game_margin": 11.7,
+      "momentum_trend": 9.6,
+      "close_game_record": "3-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lee County averages 20.1 PPG while holding GHSA 5A Region 2 opponents to 18.0 PPG (+2.1 net margin).",
+        "Postseason Readiness: 6-4 against a 73.0 SOS Index with 0 running-clock separations and a 3-1 record in one-score games."
+      ]
+    },
+    "langston hughes": {
+      "team": "Langston Hughes",
+      "state": "GA",
+      "division": "5A",
+      "region": 4,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 18.1,
+      "avg_points_allowed": 21.6,
+      "season_net_margin": -3.5,
+      "last_3_game_margin": -6.0,
+      "momentum_trend": -2.5,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Langston Hughes averages 18.1 PPG while holding GHSA 5A Region 3 opponents to 21.6 PPG (-3.5 net margin).",
+        "Postseason Readiness: 3-7 against a 73.8 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "coffee": {
+      "team": "Coffee",
+      "state": "GA",
+      "division": "5A",
+      "region": 1,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 25.0,
+      "avg_points_allowed": 20.3,
+      "season_net_margin": 4.7,
+      "last_3_game_margin": 3.7,
+      "momentum_trend": -1.0,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Coffee averages 25.0 PPG while holding GHSA 5A Region 2 opponents to 20.3 PPG (+4.7 net margin).",
+        "Postseason Readiness: 7-3 against a 71.7 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "gainesville": {
+      "team": "Gainesville",
+      "state": "GA",
+      "division": "5A",
+      "region": 2,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.1,
+      "avg_points_allowed": 21.1,
+      "season_net_margin": -2.0,
+      "last_3_game_margin": 5.0,
+      "momentum_trend": 7.0,
+      "close_game_record": "3-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Gainesville averages 19.1 PPG while holding GHSA 5A Region 7 opponents to 21.1 PPG (-2.0 net margin).",
+        "Postseason Readiness: 5-5 against a 72.8 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+      ]
+    },
+    "roswell": {
+      "team": "Roswell",
+      "state": "GA",
+      "division": "5A",
+      "region": 3,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 12.7,
+      "avg_points_allowed": 16.9,
+      "season_net_margin": -4.2,
+      "last_3_game_margin": -5.7,
+      "momentum_trend": -1.5,
+      "close_game_record": "2-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Roswell averages 12.7 PPG while holding GHSA 5A Region 7 opponents to 16.9 PPG (-4.2 net margin).",
+        "Postseason Readiness: 2-8 against a 71.9 SOS Index with 0 running-clock separations and a 2-6 record in one-score games."
+      ]
+    },
+    "woodward academy": {
+      "team": "Woodward Academy",
+      "state": "GA",
+      "division": "5A",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 16.9,
+      "avg_points_allowed": 19.1,
+      "season_net_margin": -2.2,
+      "last_3_game_margin": -3.0,
+      "momentum_trend": -0.8,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Woodward Academy averages 16.9 PPG while holding GHSA 5A Region 4 opponents to 19.1 PPG (-2.2 net margin).",
+        "Postseason Readiness: 5-5 against a 71.0 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "houston county": {
+      "team": "Houston County",
+      "state": "GA",
+      "division": "5A",
+      "region": 1,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 21.2,
+      "avg_points_allowed": 24.1,
+      "season_net_margin": -2.9,
+      "last_3_game_margin": 0.7,
+      "momentum_trend": 3.6,
+      "close_game_record": "1-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Houston County averages 21.2 PPG while holding GHSA 5A Region 2 opponents to 24.1 PPG (-2.9 net margin).",
+        "Postseason Readiness: 3-7 against a 71.5 SOS Index with 0 running-clock separations and a 1-4 record in one-score games."
+      ]
+    },
+    "rome": {
+      "team": "Rome",
+      "state": "GA",
+      "division": "5A",
+      "region": 2,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 21.9,
+      "avg_points_allowed": 24.1,
+      "season_net_margin": -2.2,
+      "last_3_game_margin": -8.3,
+      "momentum_trend": -6.1,
+      "close_game_record": "4-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Rome averages 21.9 PPG while holding GHSA 5A Region 5 opponents to 24.1 PPG (-2.2 net margin).",
+        "Postseason Readiness: 5-5 against a 70.6 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+      ]
+    },
+    "sequoyah": {
+      "team": "Sequoyah",
+      "state": "GA",
+      "division": "5A",
+      "region": 3,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 19.6,
+      "avg_points_allowed": 20.2,
+      "season_net_margin": -0.6,
+      "last_3_game_margin": -7.3,
+      "momentum_trend": -6.7,
+      "close_game_record": "7-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Sequoyah averages 19.6 PPG while holding GHSA 5A Region 6 opponents to 20.2 PPG (-0.6 net margin).",
+        "Postseason Readiness: 7-3 against a 72.0 SOS Index with 0 running-clock separations and a 7-2 record in one-score games."
+      ]
+    },
+    "brunswick": {
+      "team": "Brunswick",
+      "state": "GA",
+      "division": "5A",
+      "region": 4,
+      "record": "0-10",
+      "games_played": 10,
+      "avg_points_scored": 15.5,
+      "avg_points_allowed": 29.9,
+      "season_net_margin": -14.4,
+      "last_3_game_margin": -15.7,
+      "momentum_trend": -1.3,
+      "close_game_record": "0-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Brunswick averages 15.5 PPG while holding GHSA 5A Region 1 opponents to 29.9 PPG (-14.4 net margin).",
+        "Postseason Readiness: 0-10 against a 70.1 SOS Index with 0 running-clock separations and a 0-4 record in one-score games."
+      ]
+    },
+    "marist": {
+      "team": "Marist",
+      "state": "GA",
+      "division": "4A",
+      "region": 1,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 30.7,
+      "avg_points_allowed": 14.4,
+      "season_net_margin": 16.3,
+      "last_3_game_margin": 13.0,
+      "momentum_trend": -3.3,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Marist averages 30.7 PPG while holding GHSA 4A Region 5 opponents to 14.4 PPG (+16.3 net margin).",
+        "Postseason Readiness: 9-1 against a 72.8 SOS Index with 2 running-clock separations and a 1-0 record in one-score games."
+      ]
+    },
+    "cartersville": {
+      "team": "Cartersville",
+      "state": "GA",
+      "division": "4A",
+      "region": 2,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 31.6,
+      "avg_points_allowed": 12.9,
+      "season_net_margin": 18.7,
+      "last_3_game_margin": 18.7,
+      "momentum_trend": 0.0,
+      "close_game_record": "2-1",
+      "mercy_rule_wins": 4,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Cartersville averages 31.6 PPG while holding GHSA 4A Region 7 opponents to 12.9 PPG (+18.7 net margin).",
+        "Postseason Readiness: 9-1 against a 73.7 SOS Index with 4 running-clock separations and a 2-1 record in one-score games."
+      ]
+    },
+    "north oconee": {
+      "team": "North Oconee",
+      "state": "GA",
+      "division": "4A",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 18.6,
+      "avg_points_allowed": 19.5,
+      "season_net_margin": -0.9,
+      "last_3_game_margin": -10.3,
+      "momentum_trend": -9.4,
+      "close_game_record": "3-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: North Oconee averages 18.6 PPG while holding GHSA 4A Region 8 opponents to 19.5 PPG (-0.9 net margin).",
+        "Postseason Readiness: 5-5 against a 72.5 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+      ]
+    },
+    "benedictine": {
+      "team": "Benedictine",
+      "state": "GA",
+      "division": "4A",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 21.1,
+      "avg_points_allowed": 22.9,
+      "season_net_margin": -1.8,
+      "last_3_game_margin": -1.3,
+      "momentum_trend": 0.5,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Benedictine averages 21.1 PPG while holding GHSA 4A Region 1 opponents to 22.9 PPG (-1.8 net margin).",
+        "Postseason Readiness: 4-6 against a 72.5 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "blessed trinity": {
+      "team": "Blessed Trinity",
+      "state": "GA",
+      "division": "4A",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 19.6,
+      "avg_points_allowed": 22.3,
+      "season_net_margin": -2.7,
+      "last_3_game_margin": 4.3,
+      "momentum_trend": 7.0,
+      "close_game_record": "3-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Blessed Trinity averages 19.6 PPG while holding GHSA 4A Region 6 opponents to 22.3 PPG (-2.7 net margin).",
+        "Postseason Readiness: 4-6 against a 71.5 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+      ]
+    },
+    "creekside": {
+      "team": "Creekside",
+      "state": "GA",
+      "division": "4A",
+      "region": 2,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 21.2,
+      "avg_points_allowed": 20.6,
+      "season_net_margin": 0.6,
+      "last_3_game_margin": 4.7,
+      "momentum_trend": 4.1,
+      "close_game_record": "3-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Creekside averages 21.2 PPG while holding GHSA 4A Region 4 opponents to 20.6 PPG (+0.6 net margin).",
+        "Postseason Readiness: 5-5 against a 70.9 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+      ]
+    },
+    "ware county": {
+      "team": "Ware County",
+      "state": "GA",
+      "division": "4A",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.0,
+      "avg_points_allowed": 23.0,
+      "season_net_margin": -6.0,
+      "last_3_game_margin": -7.0,
+      "momentum_trend": -1.0,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Ware County averages 17.0 PPG while holding GHSA 4A Region 1 opponents to 23.0 PPG (-6.0 net margin).",
+        "Postseason Readiness: 4-6 against a 70.5 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "perry": {
+      "team": "Perry",
+      "state": "GA",
+      "division": "4A",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.7,
+      "avg_points_allowed": 19.3,
+      "season_net_margin": -1.6,
+      "last_3_game_margin": -1.0,
+      "momentum_trend": 0.6,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Perry averages 17.7 PPG while holding GHSA 4A Region 1 opponents to 19.3 PPG (-1.6 net margin).",
+        "Postseason Readiness: 4-6 against a 71.1 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "stockbridge": {
+      "team": "Stockbridge",
+      "state": "GA",
+      "division": "4A",
+      "region": 1,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 20.5,
+      "avg_points_allowed": 20.6,
+      "season_net_margin": -0.1,
+      "last_3_game_margin": 0.0,
+      "momentum_trend": 0.1,
+      "close_game_record": "2-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Stockbridge averages 20.5 PPG while holding GHSA 4A Region 2 opponents to 20.6 PPG (-0.1 net margin).",
+        "Postseason Readiness: 6-4 against a 72.0 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+      ]
+    },
+    "starr's mill": {
+      "team": "Starr's Mill",
+      "state": "GA",
+      "division": "4A",
+      "region": 2,
+      "record": "0-10",
+      "games_played": 10,
+      "avg_points_scored": 11.5,
+      "avg_points_allowed": 34.0,
+      "season_net_margin": -22.5,
+      "last_3_game_margin": -21.0,
+      "momentum_trend": 1.5,
+      "close_game_record": "0-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Starr's Mill averages 11.5 PPG while holding GHSA 4A Region 4 opponents to 34.0 PPG (-22.5 net margin).",
+        "Postseason Readiness: 0-10 against a 69.6 SOS Index with 0 running-clock separations and a 0-1 record in one-score games."
+      ]
+    },
+    "peach county": {
+      "team": "Peach County",
+      "state": "GA",
+      "division": "3A",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 33.5,
+      "avg_points_allowed": 15.4,
+      "season_net_margin": 18.1,
+      "last_3_game_margin": 13.0,
+      "momentum_trend": -5.1,
+      "close_game_record": "3-0",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Peach County averages 33.5 PPG while holding GHSA 3A Region 2 opponents to 15.4 PPG (+18.1 net margin).",
+        "Postseason Readiness: 10-0 against a 72.0 SOS Index with 1 running-clock separations and a 3-0 record in one-score games."
+      ]
+    },
+    "jefferson": {
+      "team": "Jefferson",
+      "state": "GA",
+      "division": "3A",
+      "region": 2,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 31.5,
+      "avg_points_allowed": 17.4,
+      "season_net_margin": 14.1,
+      "last_3_game_margin": 9.0,
+      "momentum_trend": -5.1,
+      "close_game_record": "2-2",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Jefferson averages 31.5 PPG while holding GHSA 3A Region 8 opponents to 17.4 PPG (+14.1 net margin).",
+        "Postseason Readiness: 8-2 against a 72.1 SOS Index with 1 running-clock separations and a 2-2 record in one-score games."
+      ]
+    },
+    "sandy creek": {
+      "team": "Sandy Creek",
+      "state": "GA",
+      "division": "3A",
+      "region": 3,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 15.2,
+      "avg_points_allowed": 20.7,
+      "season_net_margin": -5.5,
+      "last_3_game_margin": -2.0,
+      "momentum_trend": 3.5,
+      "close_game_record": "3-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Sandy Creek averages 15.2 PPG while holding GHSA 3A Region 2 opponents to 20.7 PPG (-5.5 net margin).",
+        "Postseason Readiness: 3-7 against a 71.9 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+      ]
+    },
+    "calhoun": {
+      "team": "Calhoun",
+      "state": "GA",
+      "division": "3A",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 18.9,
+      "avg_points_allowed": 16.5,
+      "season_net_margin": 2.4,
+      "last_3_game_margin": 1.0,
+      "momentum_trend": -1.4,
+      "close_game_record": "3-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Calhoun averages 18.9 PPG while holding GHSA 3A Region 7 opponents to 16.5 PPG (+2.4 net margin).",
+        "Postseason Readiness: 5-5 against a 70.0 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+      ]
+    },
+    "cairo": {
+      "team": "Cairo",
+      "state": "GA",
+      "division": "3A",
+      "region": 1,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 20.2,
+      "avg_points_allowed": 22.5,
+      "season_net_margin": -2.3,
+      "last_3_game_margin": -1.3,
+      "momentum_trend": 1.0,
+      "close_game_record": "6-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Cairo averages 20.2 PPG while holding GHSA 3A Region 1 opponents to 22.5 PPG (-2.3 net margin).",
+        "Postseason Readiness: 6-4 against a 69.4 SOS Index with 0 running-clock separations and a 6-1 record in one-score games."
+      ]
+    },
+    "stephenson": {
+      "team": "Stephenson",
+      "state": "GA",
+      "division": "3A",
+      "region": 2,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 17.5,
+      "avg_points_allowed": 21.3,
+      "season_net_margin": -3.8,
+      "last_3_game_margin": -2.3,
+      "momentum_trend": 1.5,
+      "close_game_record": "1-7",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Stephenson averages 17.5 PPG while holding GHSA 3A Region 5 opponents to 21.3 PPG (-3.8 net margin).",
+        "Postseason Readiness: 2-8 against a 71.0 SOS Index with 0 running-clock separations and a 1-7 record in one-score games."
+      ]
+    },
+    "lagrange": {
+      "team": "LaGrange",
+      "state": "GA",
+      "division": "3A",
+      "region": 3,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 16.0,
+      "avg_points_allowed": 18.4,
+      "season_net_margin": -2.4,
+      "last_3_game_margin": 1.7,
+      "momentum_trend": 4.1,
+      "close_game_record": "6-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: LaGrange averages 16.0 PPG while holding GHSA 3A Region 2 opponents to 18.4 PPG (-2.4 net margin).",
+        "Postseason Readiness: 6-4 against a 71.3 SOS Index with 0 running-clock separations and a 6-2 record in one-score games."
+      ]
+    },
+    "cherokee bluff": {
+      "team": "cherokee Bluff",
+      "state": "GA",
+      "division": "3A",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 21.2,
+      "avg_points_allowed": 20.7,
+      "season_net_margin": 0.5,
+      "last_3_game_margin": 4.3,
+      "momentum_trend": 3.8,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: cherokee Bluff averages 21.2 PPG while holding GHSA 3A Region 8 opponents to 20.7 PPG (+0.5 net margin).",
+        "Postseason Readiness: 5-5 against a 68.8 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "bainbridge": {
+      "team": "Bainbridge",
+      "state": "GA",
+      "division": "3A",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 20.9,
+      "avg_points_allowed": 24.5,
+      "season_net_margin": -3.6,
+      "last_3_game_margin": -6.7,
+      "momentum_trend": -3.1,
+      "close_game_record": "1-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Bainbridge averages 20.9 PPG while holding GHSA 3A Region 1 opponents to 24.5 PPG (-3.6 net margin).",
+        "Postseason Readiness: 4-6 against a 70.8 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+      ]
+    },
+    "oconee county": {
+      "team": "Oconee County",
+      "state": "GA",
+      "division": "3A",
+      "region": 2,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 18.8,
+      "avg_points_allowed": 36.3,
+      "season_net_margin": -17.5,
+      "last_3_game_margin": -16.7,
+      "momentum_trend": 0.8,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Oconee County averages 18.8 PPG while holding GHSA 3A Region 8 opponents to 36.3 PPG (-17.5 net margin).",
+        "Postseason Readiness: 1-9 against a 70.5 SOS Index with 0 running-clock separations and a 1-0 record in one-score games."
+      ]
+    },
+    "pierce county": {
+      "team": "Pierce County",
+      "state": "GA",
+      "division": "2A",
+      "region": 1,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 30.0,
+      "avg_points_allowed": 14.9,
+      "season_net_margin": 15.1,
+      "last_3_game_margin": 9.3,
+      "momentum_trend": -5.8,
+      "close_game_record": "2-2",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Pierce County averages 30.0 PPG while holding GHSA 2A Region 3 opponents to 14.9 PPG (+15.1 net margin).",
+        "Postseason Readiness: 8-2 against a 69.8 SOS Index with 2 running-clock separations and a 2-2 record in one-score games."
+      ]
+    },
+    "carver-columbus": {
+      "team": "Carver-Columbus",
+      "state": "GA",
+      "division": "2A",
+      "region": 2,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 32.8,
+      "avg_points_allowed": 15.0,
+      "season_net_margin": 17.8,
+      "last_3_game_margin": 15.0,
+      "momentum_trend": -2.8,
+      "close_game_record": "2-2",
+      "mercy_rule_wins": 3,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Carver-Columbus averages 32.8 PPG while holding GHSA 2A Region 1 opponents to 15.0 PPG (+17.8 net margin).",
+        "Postseason Readiness: 8-2 against a 69.9 SOS Index with 3 running-clock separations and a 2-2 record in one-score games."
+      ]
+    },
+    "rockmart": {
+      "team": "Rockmart",
+      "state": "GA",
+      "division": "2A",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 16.4,
+      "avg_points_allowed": 19.3,
+      "season_net_margin": -2.9,
+      "last_3_game_margin": -4.0,
+      "momentum_trend": -1.1,
+      "close_game_record": "5-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Rockmart averages 16.4 PPG while holding GHSA 2A Region 7 opponents to 19.3 PPG (-2.9 net margin).",
+        "Postseason Readiness: 5-5 against a 71.0 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+      ]
+    },
+    "burke county": {
+      "team": "Burke County",
+      "state": "GA",
+      "division": "2A",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.6,
+      "avg_points_allowed": 15.8,
+      "season_net_margin": 3.8,
+      "last_3_game_margin": 6.0,
+      "momentum_trend": 2.2,
+      "close_game_record": "1-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Burke County averages 19.6 PPG while holding GHSA 2A Region 4 opponents to 15.8 PPG (+3.8 net margin).",
+        "Postseason Readiness: 5-5 against a 71.1 SOS Index with 0 running-clock separations and a 1-5 record in one-score games."
+      ]
+    },
+    "appling county": {
+      "team": "Appling County",
+      "state": "GA",
+      "division": "2A",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.8,
+      "avg_points_allowed": 23.1,
+      "season_net_margin": -5.3,
+      "last_3_game_margin": -2.3,
+      "momentum_trend": 3.0,
+      "close_game_record": "3-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Appling County averages 17.8 PPG while holding GHSA 2A Region 3 opponents to 23.1 PPG (-5.3 net margin).",
+        "Postseason Readiness: 5-5 against a 69.3 SOS Index with 0 running-clock separations and a 3-0 record in one-score games."
+      ]
+    },
+    "stephens county": {
+      "team": "Stephens County",
+      "state": "GA",
+      "division": "2A",
+      "region": 2,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 18.2,
+      "avg_points_allowed": 20.7,
+      "season_net_margin": -2.5,
+      "last_3_game_margin": -5.0,
+      "momentum_trend": -2.5,
+      "close_game_record": "0-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Stephens County averages 18.2 PPG while holding GHSA 2A Region 8 opponents to 20.7 PPG (-2.5 net margin).",
+        "Postseason Readiness: 3-7 against a 68.3 SOS Index with 0 running-clock separations and a 0-3 record in one-score games."
+      ]
+    },
+    "morgan county": {
+      "team": "Morgan County",
+      "state": "GA",
+      "division": "2A",
+      "region": 3,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 18.6,
+      "avg_points_allowed": 17.5,
+      "season_net_margin": 1.1,
+      "last_3_game_margin": 0.0,
+      "momentum_trend": -1.1,
+      "close_game_record": "4-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Morgan County averages 18.6 PPG while holding GHSA 2A Region 8 opponents to 17.5 PPG (+1.1 net margin).",
+        "Postseason Readiness: 7-3 against a 69.2 SOS Index with 0 running-clock separations and a 4-0 record in one-score games."
+      ]
+    },
+    "callaway": {
+      "team": "Callaway",
+      "state": "GA",
+      "division": "2A",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.7,
+      "avg_points_allowed": 21.6,
+      "season_net_margin": -3.9,
+      "last_3_game_margin": 2.7,
+      "momentum_trend": 6.6,
+      "close_game_record": "3-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Callaway averages 17.7 PPG while holding GHSA 2A Region 2 opponents to 21.6 PPG (-3.9 net margin).",
+        "Postseason Readiness: 4-6 against a 68.9 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+      ]
+    },
+    "cook": {
+      "team": "Cook",
+      "state": "GA",
+      "division": "2A",
+      "region": 1,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 14.5,
+      "avg_points_allowed": 19.9,
+      "season_net_margin": -5.4,
+      "last_3_game_margin": -1.7,
+      "momentum_trend": 3.7,
+      "close_game_record": "2-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Cook averages 14.5 PPG while holding GHSA 2A Region 3 opponents to 19.9 PPG (-5.4 net margin).",
+        "Postseason Readiness: 3-7 against a 69.2 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+      ]
+    },
+    "hapeville charter": {
+      "team": "Hapeville Charter",
+      "state": "GA",
+      "division": "2A",
+      "region": 2,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 12.2,
+      "avg_points_allowed": 30.0,
+      "season_net_margin": -17.8,
+      "last_3_game_margin": -20.0,
+      "momentum_trend": -2.2,
+      "close_game_record": "2-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Hapeville Charter averages 12.2 PPG while holding GHSA 2A Region 6 opponents to 30.0 PPG (-17.8 net margin).",
+        "Postseason Readiness: 2-8 against a 68.8 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+      ]
+    },
+    "toombs county": {
+      "team": "Toombs County",
+      "state": "GA",
+      "division": "1A-D1",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 25.2,
+      "avg_points_allowed": 12.6,
+      "season_net_margin": 12.6,
+      "last_3_game_margin": 17.0,
+      "momentum_trend": 4.4,
+      "close_game_record": "5-0",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Toombs County averages 25.2 PPG while holding GHSA 1A-D1 Region 3 opponents to 12.6 PPG (+12.6 net margin).",
+        "Postseason Readiness: 10-0 against a 70.7 SOS Index with 1 running-clock separations and a 5-0 record in one-score games."
+      ]
+    },
+    "dublin": {
+      "team": "Dublin",
+      "state": "GA",
+      "division": "1A-D1",
+      "region": 2,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 30.0,
+      "avg_points_allowed": 15.9,
+      "season_net_margin": 14.1,
+      "last_3_game_margin": 6.0,
+      "momentum_trend": -8.1,
+      "close_game_record": "3-1",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Dublin averages 30.0 PPG while holding GHSA 1A-D1 Region 2 opponents to 15.9 PPG (+14.1 net margin).",
+        "Postseason Readiness: 9-1 against a 68.8 SOS Index with 1 running-clock separations and a 3-1 record in one-score games."
+      ]
+    },
+    "fitzgerald": {
+      "team": "Fitzgerald",
+      "state": "GA",
+      "division": "1A-D1",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 16.3,
+      "avg_points_allowed": 17.9,
+      "season_net_margin": -1.6,
+      "last_3_game_margin": -2.7,
+      "momentum_trend": -1.1,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Fitzgerald averages 16.3 PPG while holding GHSA 1A-D1 Region 1 opponents to 17.9 PPG (-1.6 net margin).",
+        "Postseason Readiness: 4-6 against a 70.0 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "worth county": {
+      "team": "Worth County",
+      "state": "GA",
+      "division": "1A-D1",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 19.2,
+      "avg_points_allowed": 18.6,
+      "season_net_margin": 0.6,
+      "last_3_game_margin": 4.7,
+      "momentum_trend": 4.1,
+      "close_game_record": "3-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Worth County averages 19.2 PPG while holding GHSA 1A-D1 Region 1 opponents to 18.6 PPG (+0.6 net margin).",
+        "Postseason Readiness: 4-6 against a 68.9 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+      ]
+    },
+    "northeast macon": {
+      "team": "Northeast Macon",
+      "state": "GA",
+      "division": "1A-D1",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.9,
+      "avg_points_allowed": 20.9,
+      "season_net_margin": -3.0,
+      "last_3_game_margin": -8.3,
+      "momentum_trend": -5.3,
+      "close_game_record": "4-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Northeast Macon averages 17.9 PPG while holding GHSA 1A-D1 Region 2 opponents to 20.9 PPG (-3.0 net margin).",
+        "Postseason Readiness: 4-6 against a 70.1 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+      ]
+    },
+    "swainsboro": {
+      "team": "Swainsboro",
+      "state": "GA",
+      "division": "1A-D1",
+      "region": 2,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.7,
+      "avg_points_allowed": 17.9,
+      "season_net_margin": -0.2,
+      "last_3_game_margin": 1.3,
+      "momentum_trend": 1.5,
+      "close_game_record": "4-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Swainsboro averages 17.7 PPG while holding GHSA 1A-D1 Region 3 opponents to 17.9 PPG (-0.2 net margin).",
+        "Postseason Readiness: 5-5 against a 69.5 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+      ]
+    },
+    "lamar county": {
+      "team": "Lamar County",
+      "state": "GA",
+      "division": "1A-D1",
+      "region": 3,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 18.9,
+      "avg_points_allowed": 19.1,
+      "season_net_margin": -0.2,
+      "last_3_game_margin": -3.0,
+      "momentum_trend": -2.8,
+      "close_game_record": "1-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lamar County averages 18.9 PPG while holding GHSA 1A-D1 Region 4 opponents to 19.1 PPG (-0.2 net margin).",
+        "Postseason Readiness: 3-7 against a 67.9 SOS Index with 0 running-clock separations and a 1-5 record in one-score games."
+      ]
+    },
+    "fannin county": {
+      "team": "Fannin County",
+      "state": "GA",
+      "division": "1A-D1",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.8,
+      "avg_points_allowed": 24.3,
+      "season_net_margin": -4.5,
+      "last_3_game_margin": 5.7,
+      "momentum_trend": 10.2,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Fannin County averages 19.8 PPG while holding GHSA 1A-D1 Region 7 opponents to 24.3 PPG (-4.5 net margin).",
+        "Postseason Readiness: 5-5 against a 66.6 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "thomasville": {
+      "team": "Thomasville",
+      "state": "GA",
+      "division": "1A-D1",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 21.9,
+      "avg_points_allowed": 20.5,
+      "season_net_margin": 1.4,
+      "last_3_game_margin": 0.7,
+      "momentum_trend": -0.7,
+      "close_game_record": "4-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Thomasville averages 21.9 PPG while holding GHSA 1A-D1 Region 1 opponents to 20.5 PPG (+1.4 net margin).",
+        "Postseason Readiness: 5-5 against a 67.5 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+      ]
+    },
+    "bleckley county": {
+      "team": "Bleckley County",
+      "state": "GA",
+      "division": "1A-D1",
+      "region": 2,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 16.1,
+      "avg_points_allowed": 35.3,
+      "season_net_margin": -19.2,
+      "last_3_game_margin": -21.3,
+      "momentum_trend": -2.1,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Bleckley County averages 16.1 PPG while holding GHSA 1A-D1 Region 2 opponents to 35.3 PPG (-19.2 net margin).",
+        "Postseason Readiness: 1-9 against a 66.2 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+      ]
+    },
+    "bowdon": {
+      "team": "Bowdon",
+      "state": "GA",
+      "division": "1A-D2",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 29.5,
+      "avg_points_allowed": 12.3,
+      "season_net_margin": 17.2,
+      "last_3_game_margin": 10.7,
+      "momentum_trend": -6.5,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Bowdon averages 29.5 PPG while holding GHSA 1A-D2 Region 7 opponents to 12.3 PPG (+17.2 net margin).",
+        "Postseason Readiness: 10-0 against a 70.0 SOS Index with 2 running-clock separations and a 2-0 record in one-score games."
+      ]
+    },
+    "brooks county": {
+      "team": "Brooks County",
+      "state": "GA",
+      "division": "1A-D2",
+      "region": 2,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 30.9,
+      "avg_points_allowed": 15.3,
+      "season_net_margin": 15.6,
+      "last_3_game_margin": 8.0,
+      "momentum_trend": -7.6,
+      "close_game_record": "2-2",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Brooks County averages 30.9 PPG while holding GHSA 1A-D2 Region 2 opponents to 15.3 PPG (+15.6 net margin).",
+        "Postseason Readiness: 8-2 against a 67.7 SOS Index with 2 running-clock separations and a 2-2 record in one-score games."
+      ]
+    },
+    "irwin county": {
+      "team": "Irwin County",
+      "state": "GA",
+      "division": "1A-D2",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 19.5,
+      "avg_points_allowed": 21.1,
+      "season_net_margin": -1.6,
+      "last_3_game_margin": -2.3,
+      "momentum_trend": -0.7,
+      "close_game_record": "3-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Irwin County averages 19.5 PPG while holding GHSA 1A-D2 Region 2 opponents to 21.1 PPG (-1.6 net margin).",
+        "Postseason Readiness: 4-6 against a 67.8 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+      ]
+    },
+    "manchester": {
+      "team": "Manchester",
+      "state": "GA",
+      "division": "1A-D2",
+      "region": 4,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 18.4,
+      "avg_points_allowed": 18.4,
+      "season_net_margin": 0.0,
+      "last_3_game_margin": -1.3,
+      "momentum_trend": -1.3,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Manchester averages 18.4 PPG while holding GHSA 1A-D2 Region 6 opponents to 18.4 PPG (+0.0 net margin).",
+        "Postseason Readiness: 6-4 against a 68.9 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "clinch county": {
+      "team": "Clinch County",
+      "state": "GA",
+      "division": "1A-D2",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 20.3,
+      "avg_points_allowed": 19.4,
+      "season_net_margin": 0.9,
+      "last_3_game_margin": 2.7,
+      "momentum_trend": 1.8,
+      "close_game_record": "1-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Clinch County averages 20.3 PPG while holding GHSA 1A-D2 Region 2 opponents to 19.4 PPG (+0.9 net margin).",
+        "Postseason Readiness: 4-6 against a 67.6 SOS Index with 0 running-clock separations and a 1-4 record in one-score games."
+      ]
+    },
+    "lincoln county": {
+      "team": "Lincoln County",
+      "state": "GA",
+      "division": "1A-D2",
+      "region": 2,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 18.5,
+      "avg_points_allowed": 23.3,
+      "season_net_margin": -4.8,
+      "last_3_game_margin": 0.3,
+      "momentum_trend": 5.1,
+      "close_game_record": "0-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lincoln County averages 18.5 PPG while holding GHSA 1A-D2 Region 8 opponents to 23.3 PPG (-4.8 net margin).",
+        "Postseason Readiness: 2-8 against a 68.4 SOS Index with 0 running-clock separations and a 0-4 record in one-score games."
+      ]
+    },
+    "schley county": {
+      "team": "Schley County",
+      "state": "GA",
+      "division": "1A-D2",
+      "region": 3,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 17.3,
+      "avg_points_allowed": 21.4,
+      "season_net_margin": -4.1,
+      "last_3_game_margin": -3.7,
+      "momentum_trend": 0.4,
+      "close_game_record": "7-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Schley County averages 17.3 PPG while holding GHSA 1A-D2 Region 6 opponents to 21.4 PPG (-4.1 net margin).",
+        "Postseason Readiness: 7-3 against a 66.5 SOS Index with 0 running-clock separations and a 7-0 record in one-score games."
+      ]
+    },
+    "metter": {
+      "team": "Metter",
+      "state": "GA",
+      "division": "1A-D2",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.0,
+      "avg_points_allowed": 18.7,
+      "season_net_margin": 0.3,
+      "last_3_game_margin": 3.0,
+      "momentum_trend": 2.7,
+      "close_game_record": "4-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Metter averages 19.0 PPG while holding GHSA 1A-D2 Region 3 opponents to 18.7 PPG (+0.3 net margin).",
+        "Postseason Readiness: 5-5 against a 67.2 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+      ]
+    },
+    "screven county": {
+      "team": "Screven County",
+      "state": "GA",
+      "division": "1A-D2",
+      "region": 1,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 15.4,
+      "avg_points_allowed": 22.6,
+      "season_net_margin": -7.2,
+      "last_3_game_margin": -2.3,
+      "momentum_trend": 4.9,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Screven County averages 15.4 PPG while holding GHSA 1A-D2 Region 3 opponents to 22.6 PPG (-7.2 net margin).",
+        "Postseason Readiness: 3-7 against a 66.1 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "trion": {
+      "team": "Trion",
+      "state": "GA",
+      "division": "1A-D2",
+      "region": 2,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 14.8,
+      "avg_points_allowed": 31.1,
+      "season_net_margin": -16.3,
+      "last_3_game_margin": -15.0,
+      "momentum_trend": 1.3,
+      "close_game_record": "0-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Trion averages 14.8 PPG while holding GHSA 1A-D2 Region 7 opponents to 31.1 PPG (-16.3 net margin).",
+        "Postseason Readiness: 1-9 against a 64.8 SOS Index with 0 running-clock separations and a 0-3 record in one-score games."
+      ]
+    },
+    "prince avenue christian": {
+      "team": "Prince Avenue Christian",
+      "state": "GA",
+      "division": "PRIV",
+      "region": 1,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 33.6,
+      "avg_points_allowed": 15.3,
+      "season_net_margin": 18.3,
+      "last_3_game_margin": 13.0,
+      "momentum_trend": -5.3,
+      "close_game_record": "2-2",
+      "mercy_rule_wins": 3,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Prince Avenue Christian averages 33.6 PPG while holding GHSA Private Region 8 opponents to 15.3 PPG (+18.3 net margin).",
+        "Postseason Readiness: 8-2 against a 67.7 SOS Index with 3 running-clock separations and a 2-2 record in one-score games."
+      ]
+    },
+    "savannah christian": {
+      "team": "Savannah Christian",
+      "state": "GA",
+      "division": "PRIV",
+      "region": 2,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 33.5,
+      "avg_points_allowed": 16.7,
+      "season_net_margin": 16.8,
+      "last_3_game_margin": 9.7,
+      "momentum_trend": -7.1,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 3,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Savannah Christian averages 33.5 PPG while holding GHSA Private Region 3 opponents to 16.7 PPG (+16.8 net margin).",
+        "Postseason Readiness: 9-1 against a 68.8 SOS Index with 3 running-clock separations and a 2-0 record in one-score games."
+      ]
+    },
+    "hebron christian": {
+      "team": "Hebron Christian",
+      "state": "GA",
+      "division": "PRIV",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 18.6,
+      "avg_points_allowed": 18.9,
+      "season_net_margin": -0.3,
+      "last_3_game_margin": -2.7,
+      "momentum_trend": -2.4,
+      "close_game_record": "3-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Hebron Christian averages 18.6 PPG while holding GHSA Private Region 8 opponents to 18.9 PPG (-0.3 net margin).",
+        "Postseason Readiness: 5-5 against a 66.9 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+      ]
+    },
+    "fellowship christian": {
+      "team": "Fellowship Christian",
+      "state": "GA",
+      "division": "PRIV",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 20.1,
+      "avg_points_allowed": 18.5,
+      "season_net_margin": 1.6,
+      "last_3_game_margin": 1.0,
+      "momentum_trend": -0.6,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Fellowship Christian averages 20.1 PPG while holding GHSA Private Region 6 opponents to 18.5 PPG (+1.6 net margin).",
+        "Postseason Readiness: 5-5 against a 68.0 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "calvary day": {
+      "team": "Calvary Day",
+      "state": "GA",
+      "division": "PRIV",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 16.8,
+      "avg_points_allowed": 21.4,
+      "season_net_margin": -4.6,
+      "last_3_game_margin": -1.0,
+      "momentum_trend": 3.6,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Calvary Day averages 16.8 PPG while holding GHSA Private Region 3 opponents to 21.4 PPG (-4.6 net margin).",
+        "Postseason Readiness: 4-6 against a 66.0 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "aquinas": {
+      "team": "Aquinas",
+      "state": "GA",
+      "division": "PRIV",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 16.9,
+      "avg_points_allowed": 18.2,
+      "season_net_margin": -1.3,
+      "last_3_game_margin": 5.3,
+      "momentum_trend": 6.6,
+      "close_game_record": "2-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Aquinas averages 16.9 PPG while holding GHSA Private Region 4 opponents to 18.2 PPG (-1.3 net margin).",
+        "Postseason Readiness: 4-6 against a 67.7 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+      ]
+    },
+    "elca (eagle's landing christian)": {
+      "team": "ELCA (Eagle's Landing Christian)",
+      "state": "GA",
+      "division": "PRIV",
+      "region": 3,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 18.7,
+      "avg_points_allowed": 20.1,
+      "season_net_margin": -1.4,
+      "last_3_game_margin": -5.3,
+      "momentum_trend": -3.9,
+      "close_game_record": "5-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: ELCA (Eagle's Landing Christian) averages 18.7 PPG while holding GHSA Private Region 2 opponents to 20.1 PPG (-1.4 net margin).",
+        "Postseason Readiness: 6-4 against a 65.8 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+      ]
+    },
+    "whitefield academy": {
+      "team": "Whitefield Academy",
+      "state": "GA",
+      "division": "PRIV",
+      "region": 4,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 16.0,
+      "avg_points_allowed": 21.8,
+      "season_net_margin": -5.8,
+      "last_3_game_margin": 4.0,
+      "momentum_trend": 9.8,
+      "close_game_record": "1-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Whitefield Academy averages 16.0 PPG while holding GHSA Private Region 6 opponents to 21.8 PPG (-5.8 net margin).",
+        "Postseason Readiness: 2-8 against a 67.0 SOS Index with 0 running-clock separations and a 1-6 record in one-score games."
+      ]
+    },
+    "first presbyterian day": {
+      "team": "First Presbyterian Day",
+      "state": "GA",
+      "division": "PRIV",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 13.8,
+      "avg_points_allowed": 18.1,
+      "season_net_margin": -4.3,
+      "last_3_game_margin": -5.7,
+      "momentum_trend": -1.4,
+      "close_game_record": "5-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: First Presbyterian Day averages 13.8 PPG while holding GHSA Private Region 4 opponents to 18.1 PPG (-4.3 net margin).",
+        "Postseason Readiness: 5-5 against a 63.7 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+      ]
+    },
+    "wesleyan": {
+      "team": "Wesleyan",
+      "state": "GA",
+      "division": "PRIV",
+      "region": 2,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 13.3,
+      "avg_points_allowed": 32.3,
+      "season_net_margin": -19.0,
+      "last_3_game_margin": -18.3,
+      "momentum_trend": 0.7,
+      "close_game_record": "2-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Wesleyan averages 13.3 PPG while holding GHSA Private Region 7 opponents to 32.3 PPG (-19.0 net margin).",
+        "Postseason Readiness: 2-8 against a 66.2 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+      ]
+    }
+  },
+  "buford": {
+    "team": "Buford",
+    "state": "GA",
+    "division": "6A",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 28.0,
+    "avg_points_allowed": 14.8,
+    "season_net_margin": 13.2,
+    "last_3_game_margin": 22.7,
+    "momentum_trend": 9.5,
+    "close_game_record": "3-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Buford averages 28.0 PPG while holding GHSA 6A Region 8 opponents to 14.8 PPG (+13.2 net margin).",
+      "Postseason Readiness: 9-1 against a 76.5 SOS Index with 1 running-clock separations and a 3-1 record in one-score games."
+    ]
+  },
+  "carrollton": {
+    "team": "Carrollton",
+    "state": "GA",
+    "division": "6A",
+    "region": 2,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 27.8,
+    "avg_points_allowed": 14.8,
+    "season_net_margin": 13.0,
+    "last_3_game_margin": 11.0,
+    "momentum_trend": -2.0,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Carrollton averages 27.8 PPG while holding GHSA 6A Region 2 opponents to 14.8 PPG (+13.0 net margin).",
+      "Postseason Readiness: 7-3 against a 74.5 SOS Index with 3 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "grayson": {
+    "team": "Grayson",
+    "state": "GA",
+    "division": "6A",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 16.8,
+    "avg_points_allowed": 16.0,
+    "season_net_margin": 0.8,
+    "last_3_game_margin": 1.7,
+    "momentum_trend": 0.9,
+    "close_game_record": "6-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Grayson averages 16.8 PPG while holding GHSA 6A Region 4 opponents to 16.0 PPG (+0.8 net margin).",
+      "Postseason Readiness: 6-4 against a 76.0 SOS Index with 0 running-clock separations and a 6-4 record in one-score games."
+    ]
+  },
+  "douglas county": {
+    "team": "Douglas County",
+    "state": "GA",
+    "division": "6A",
+    "region": 4,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 20.6,
+    "avg_points_allowed": 16.2,
+    "season_net_margin": 4.4,
+    "last_3_game_margin": 8.0,
+    "momentum_trend": 3.6,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Douglas County averages 20.6 PPG while holding GHSA 6A Region 2 opponents to 16.2 PPG (+4.4 net margin).",
+      "Postseason Readiness: 7-3 against a 74.2 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "valdosta": {
+    "team": "Valdosta",
+    "state": "GA",
+    "division": "6A",
+    "region": 1,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 19.0,
+    "avg_points_allowed": 24.6,
+    "season_net_margin": -5.6,
+    "last_3_game_margin": -10.0,
+    "momentum_trend": -4.4,
+    "close_game_record": "1-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Valdosta averages 19.0 PPG while holding GHSA 6A Region 1 opponents to 24.6 PPG (-5.6 net margin).",
+      "Postseason Readiness: 1-9 against a 73.8 SOS Index with 0 running-clock separations and a 1-6 record in one-score games."
+    ]
+  },
+  "colquitt county": {
+    "team": "Colquitt County",
+    "state": "GA",
+    "division": "6A",
+    "region": 2,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 19.6,
+    "avg_points_allowed": 16.3,
+    "season_net_margin": 3.3,
+    "last_3_game_margin": 8.0,
+    "momentum_trend": 4.7,
+    "close_game_record": "6-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Colquitt County averages 19.6 PPG while holding GHSA 6A Region 1 opponents to 16.3 PPG (+3.3 net margin).",
+      "Postseason Readiness: 7-3 against a 73.8 SOS Index with 0 running-clock separations and a 6-3 record in one-score games."
+    ]
+  },
+  "north gwinnett": {
+    "team": "North Gwinnett",
+    "state": "GA",
+    "division": "6A",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 15.2,
+    "avg_points_allowed": 18.4,
+    "season_net_margin": -3.2,
+    "last_3_game_margin": -5.3,
+    "momentum_trend": -2.1,
+    "close_game_record": "4-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: North Gwinnett averages 15.2 PPG while holding GHSA 6A Region 7 opponents to 18.4 PPG (-3.2 net margin).",
+      "Postseason Readiness: 4-6 against a 72.2 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+    ]
+  },
+  "mill creek": {
+    "team": "Mill Creek",
+    "state": "GA",
+    "division": "6A",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 15.8,
+    "avg_points_allowed": 18.9,
+    "season_net_margin": -3.1,
+    "last_3_game_margin": -1.3,
+    "momentum_trend": 1.8,
+    "close_game_record": "3-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Mill Creek averages 15.8 PPG while holding GHSA 6A Region 8 opponents to 18.9 PPG (-3.1 net margin).",
+      "Postseason Readiness: 3-7 against a 74.4 SOS Index with 0 running-clock separations and a 3-6 record in one-score games."
+    ]
+  },
+  "collins hill": {
+    "team": "Collins Hill",
+    "state": "GA",
+    "division": "6A",
+    "region": 1,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 18.8,
+    "avg_points_allowed": 17.6,
+    "season_net_margin": 1.2,
+    "last_3_game_margin": 1.3,
+    "momentum_trend": 0.1,
+    "close_game_record": "6-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Collins Hill averages 18.8 PPG while holding GHSA 6A Region 8 opponents to 17.6 PPG (+1.2 net margin).",
+      "Postseason Readiness: 7-3 against a 73.3 SOS Index with 0 running-clock separations and a 6-2 record in one-score games."
+    ]
+  },
+  "walton": {
+    "team": "Walton",
+    "state": "GA",
+    "division": "6A",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.6,
+    "avg_points_allowed": 19.8,
+    "season_net_margin": -2.2,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": -1.8,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Walton averages 17.6 PPG while holding GHSA 6A Region 5 opponents to 19.8 PPG (-2.2 net margin).",
+      "Postseason Readiness: 4-6 against a 73.3 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "lowndes": {
+    "team": "Lowndes",
+    "state": "GA",
+    "division": "6A",
+    "region": 3,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 16.8,
+    "avg_points_allowed": 22.4,
+    "season_net_margin": -5.6,
+    "last_3_game_margin": -8.0,
+    "momentum_trend": -2.4,
+    "close_game_record": "2-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lowndes averages 16.8 PPG while holding GHSA 6A Region 1 opponents to 22.4 PPG (-5.6 net margin).",
+      "Postseason Readiness: 2-8 against a 71.2 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+    ]
+  },
+  "camden county": {
+    "team": "Camden County",
+    "state": "GA",
+    "division": "6A",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 15.2,
+    "avg_points_allowed": 31.4,
+    "season_net_margin": -16.2,
+    "last_3_game_margin": -24.0,
+    "momentum_trend": -7.8,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Camden County averages 15.2 PPG while holding GHSA 6A Region 1 opponents to 31.4 PPG (-16.2 net margin).",
+      "Postseason Readiness: 3-7 against a 72.2 SOS Index with 0 running-clock separations and a 2-1 record in one-score games."
+    ]
+  },
+  "milton": {
+    "team": "Milton",
+    "state": "GA",
+    "division": "5A",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 32.6,
+    "avg_points_allowed": 16.2,
+    "season_net_margin": 16.4,
+    "last_3_game_margin": 29.3,
+    "momentum_trend": 12.9,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Milton averages 32.6 PPG while holding GHSA 5A Region 7 opponents to 16.2 PPG (+16.4 net margin).",
+      "Postseason Readiness: 10-0 against a 73.2 SOS Index with 2 running-clock separations and a 2-0 record in one-score games."
+    ]
+  },
+  "thomas county central": {
+    "team": "Thomas County Central",
+    "state": "GA",
+    "division": "5A",
+    "region": 2,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 27.7,
+    "avg_points_allowed": 18.9,
+    "season_net_margin": 8.8,
+    "last_3_game_margin": -4.3,
+    "momentum_trend": -13.1,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Thomas County Central averages 27.7 PPG while holding GHSA 5A Region 2 opponents to 18.9 PPG (+8.8 net margin).",
+      "Postseason Readiness: 7-3 against a 73.0 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+    ]
+  },
+  "lee county": {
+    "team": "Lee County",
+    "state": "GA",
+    "division": "5A",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 20.1,
+    "avg_points_allowed": 18.0,
+    "season_net_margin": 2.1,
+    "last_3_game_margin": 11.7,
+    "momentum_trend": 9.6,
+    "close_game_record": "3-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lee County averages 20.1 PPG while holding GHSA 5A Region 2 opponents to 18.0 PPG (+2.1 net margin).",
+      "Postseason Readiness: 6-4 against a 73.0 SOS Index with 0 running-clock separations and a 3-1 record in one-score games."
+    ]
+  },
+  "langston hughes": {
+    "team": "Langston Hughes",
+    "state": "GA",
+    "division": "5A",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 18.1,
+    "avg_points_allowed": 21.6,
+    "season_net_margin": -3.5,
+    "last_3_game_margin": -6.0,
+    "momentum_trend": -2.5,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Langston Hughes averages 18.1 PPG while holding GHSA 5A Region 3 opponents to 21.6 PPG (-3.5 net margin).",
+      "Postseason Readiness: 3-7 against a 73.8 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "coffee": {
+    "team": "Coffee",
+    "state": "GA",
+    "division": "5A",
+    "region": 1,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 25.0,
+    "avg_points_allowed": 20.3,
+    "season_net_margin": 4.7,
+    "last_3_game_margin": 3.7,
+    "momentum_trend": -1.0,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Coffee averages 25.0 PPG while holding GHSA 5A Region 2 opponents to 20.3 PPG (+4.7 net margin).",
+      "Postseason Readiness: 7-3 against a 71.7 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "gainesville": {
+    "team": "Gainesville",
+    "state": "GA",
+    "division": "5A",
+    "region": 2,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.1,
+    "avg_points_allowed": 21.1,
+    "season_net_margin": -2.0,
+    "last_3_game_margin": 5.0,
+    "momentum_trend": 7.0,
+    "close_game_record": "3-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Gainesville averages 19.1 PPG while holding GHSA 5A Region 7 opponents to 21.1 PPG (-2.0 net margin).",
+      "Postseason Readiness: 5-5 against a 72.8 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+    ]
+  },
+  "roswell": {
+    "team": "Roswell",
+    "state": "GA",
+    "division": "5A",
+    "region": 3,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 12.7,
+    "avg_points_allowed": 16.9,
+    "season_net_margin": -4.2,
+    "last_3_game_margin": -5.7,
+    "momentum_trend": -1.5,
+    "close_game_record": "2-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Roswell averages 12.7 PPG while holding GHSA 5A Region 7 opponents to 16.9 PPG (-4.2 net margin).",
+      "Postseason Readiness: 2-8 against a 71.9 SOS Index with 0 running-clock separations and a 2-6 record in one-score games."
+    ]
+  },
+  "woodward academy": {
+    "team": "Woodward Academy",
+    "state": "GA",
+    "division": "5A",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 16.9,
+    "avg_points_allowed": 19.1,
+    "season_net_margin": -2.2,
+    "last_3_game_margin": -3.0,
+    "momentum_trend": -0.8,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Woodward Academy averages 16.9 PPG while holding GHSA 5A Region 4 opponents to 19.1 PPG (-2.2 net margin).",
+      "Postseason Readiness: 5-5 against a 71.0 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "houston county": {
+    "team": "Houston County",
+    "state": "GA",
+    "division": "5A",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 21.2,
+    "avg_points_allowed": 24.1,
+    "season_net_margin": -2.9,
+    "last_3_game_margin": 0.7,
+    "momentum_trend": 3.6,
+    "close_game_record": "1-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Houston County averages 21.2 PPG while holding GHSA 5A Region 2 opponents to 24.1 PPG (-2.9 net margin).",
+      "Postseason Readiness: 3-7 against a 71.5 SOS Index with 0 running-clock separations and a 1-4 record in one-score games."
+    ]
+  },
+  "rome": {
+    "team": "Rome",
+    "state": "GA",
+    "division": "5A",
+    "region": 2,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 21.9,
+    "avg_points_allowed": 24.1,
+    "season_net_margin": -2.2,
+    "last_3_game_margin": -8.3,
+    "momentum_trend": -6.1,
+    "close_game_record": "4-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Rome averages 21.9 PPG while holding GHSA 5A Region 5 opponents to 24.1 PPG (-2.2 net margin).",
+      "Postseason Readiness: 5-5 against a 70.6 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+    ]
+  },
+  "sequoyah": {
+    "team": "Sequoyah",
+    "state": "GA",
+    "division": "5A",
+    "region": 3,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 19.6,
+    "avg_points_allowed": 20.2,
+    "season_net_margin": -0.6,
+    "last_3_game_margin": -7.3,
+    "momentum_trend": -6.7,
+    "close_game_record": "7-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Sequoyah averages 19.6 PPG while holding GHSA 5A Region 6 opponents to 20.2 PPG (-0.6 net margin).",
+      "Postseason Readiness: 7-3 against a 72.0 SOS Index with 0 running-clock separations and a 7-2 record in one-score games."
+    ]
+  },
+  "brunswick": {
+    "team": "Brunswick",
+    "state": "GA",
+    "division": "5A",
+    "region": 4,
+    "record": "0-10",
+    "games_played": 10,
+    "avg_points_scored": 15.5,
+    "avg_points_allowed": 29.9,
+    "season_net_margin": -14.4,
+    "last_3_game_margin": -15.7,
+    "momentum_trend": -1.3,
+    "close_game_record": "0-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Brunswick averages 15.5 PPG while holding GHSA 5A Region 1 opponents to 29.9 PPG (-14.4 net margin).",
+      "Postseason Readiness: 0-10 against a 70.1 SOS Index with 0 running-clock separations and a 0-4 record in one-score games."
+    ]
+  },
+  "marist": {
+    "team": "Marist",
+    "state": "GA",
+    "division": "4A",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 30.7,
+    "avg_points_allowed": 14.4,
+    "season_net_margin": 16.3,
+    "last_3_game_margin": 13.0,
+    "momentum_trend": -3.3,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Marist averages 30.7 PPG while holding GHSA 4A Region 5 opponents to 14.4 PPG (+16.3 net margin).",
+      "Postseason Readiness: 9-1 against a 72.8 SOS Index with 2 running-clock separations and a 1-0 record in one-score games."
+    ]
+  },
+  "cartersville": {
+    "team": "Cartersville",
+    "state": "GA",
+    "division": "4A",
+    "region": 2,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 31.6,
+    "avg_points_allowed": 12.9,
+    "season_net_margin": 18.7,
+    "last_3_game_margin": 18.7,
+    "momentum_trend": 0.0,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Cartersville averages 31.6 PPG while holding GHSA 4A Region 7 opponents to 12.9 PPG (+18.7 net margin).",
+      "Postseason Readiness: 9-1 against a 73.7 SOS Index with 4 running-clock separations and a 2-1 record in one-score games."
+    ]
+  },
+  "north oconee": {
+    "team": "North Oconee",
+    "state": "GA",
+    "division": "4A",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 18.6,
+    "avg_points_allowed": 19.5,
+    "season_net_margin": -0.9,
+    "last_3_game_margin": -10.3,
+    "momentum_trend": -9.4,
+    "close_game_record": "3-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: North Oconee averages 18.6 PPG while holding GHSA 4A Region 8 opponents to 19.5 PPG (-0.9 net margin).",
+      "Postseason Readiness: 5-5 against a 72.5 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+    ]
+  },
+  "benedictine": {
+    "team": "Benedictine",
+    "state": "GA",
+    "division": "4A",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 21.1,
+    "avg_points_allowed": 22.9,
+    "season_net_margin": -1.8,
+    "last_3_game_margin": -1.3,
+    "momentum_trend": 0.5,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Benedictine averages 21.1 PPG while holding GHSA 4A Region 1 opponents to 22.9 PPG (-1.8 net margin).",
+      "Postseason Readiness: 4-6 against a 72.5 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "blessed trinity": {
+    "team": "Blessed Trinity",
+    "state": "GA",
+    "division": "4A",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 19.6,
+    "avg_points_allowed": 22.3,
+    "season_net_margin": -2.7,
+    "last_3_game_margin": 4.3,
+    "momentum_trend": 7.0,
+    "close_game_record": "3-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Blessed Trinity averages 19.6 PPG while holding GHSA 4A Region 6 opponents to 22.3 PPG (-2.7 net margin).",
+      "Postseason Readiness: 4-6 against a 71.5 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+    ]
+  },
+  "creekside": {
+    "team": "Creekside",
+    "state": "GA",
+    "division": "4A",
+    "region": 2,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 21.2,
+    "avg_points_allowed": 20.6,
+    "season_net_margin": 0.6,
+    "last_3_game_margin": 4.7,
+    "momentum_trend": 4.1,
+    "close_game_record": "3-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Creekside averages 21.2 PPG while holding GHSA 4A Region 4 opponents to 20.6 PPG (+0.6 net margin).",
+      "Postseason Readiness: 5-5 against a 70.9 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+    ]
+  },
+  "ware county": {
+    "team": "Ware County",
+    "state": "GA",
+    "division": "4A",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.0,
+    "avg_points_allowed": 23.0,
+    "season_net_margin": -6.0,
+    "last_3_game_margin": -7.0,
+    "momentum_trend": -1.0,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Ware County averages 17.0 PPG while holding GHSA 4A Region 1 opponents to 23.0 PPG (-6.0 net margin).",
+      "Postseason Readiness: 4-6 against a 70.5 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "perry": {
+    "team": "Perry",
+    "state": "GA",
+    "division": "4A",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.7,
+    "avg_points_allowed": 19.3,
+    "season_net_margin": -1.6,
+    "last_3_game_margin": -1.0,
+    "momentum_trend": 0.6,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Perry averages 17.7 PPG while holding GHSA 4A Region 1 opponents to 19.3 PPG (-1.6 net margin).",
+      "Postseason Readiness: 4-6 against a 71.1 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "stockbridge": {
+    "team": "Stockbridge",
+    "state": "GA",
+    "division": "4A",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 20.5,
+    "avg_points_allowed": 20.6,
+    "season_net_margin": -0.1,
+    "last_3_game_margin": 0.0,
+    "momentum_trend": 0.1,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Stockbridge averages 20.5 PPG while holding GHSA 4A Region 2 opponents to 20.6 PPG (-0.1 net margin).",
+      "Postseason Readiness: 6-4 against a 72.0 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+    ]
+  },
+  "starr's mill": {
+    "team": "Starr's Mill",
+    "state": "GA",
+    "division": "4A",
+    "region": 2,
+    "record": "0-10",
+    "games_played": 10,
+    "avg_points_scored": 11.5,
+    "avg_points_allowed": 34.0,
+    "season_net_margin": -22.5,
+    "last_3_game_margin": -21.0,
+    "momentum_trend": 1.5,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Starr's Mill averages 11.5 PPG while holding GHSA 4A Region 4 opponents to 34.0 PPG (-22.5 net margin).",
+      "Postseason Readiness: 0-10 against a 69.6 SOS Index with 0 running-clock separations and a 0-1 record in one-score games."
+    ]
+  },
+  "peach county": {
+    "team": "Peach County",
+    "state": "GA",
+    "division": "3A",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 33.5,
+    "avg_points_allowed": 15.4,
+    "season_net_margin": 18.1,
+    "last_3_game_margin": 13.0,
+    "momentum_trend": -5.1,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Peach County averages 33.5 PPG while holding GHSA 3A Region 2 opponents to 15.4 PPG (+18.1 net margin).",
+      "Postseason Readiness: 10-0 against a 72.0 SOS Index with 1 running-clock separations and a 3-0 record in one-score games."
+    ]
+  },
+  "jefferson": {
+    "team": "Jefferson",
+    "state": "GA",
+    "division": "3A",
+    "region": 2,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 31.5,
+    "avg_points_allowed": 17.4,
+    "season_net_margin": 14.1,
+    "last_3_game_margin": 9.0,
+    "momentum_trend": -5.1,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Jefferson averages 31.5 PPG while holding GHSA 3A Region 8 opponents to 17.4 PPG (+14.1 net margin).",
+      "Postseason Readiness: 8-2 against a 72.1 SOS Index with 1 running-clock separations and a 2-2 record in one-score games."
+    ]
+  },
+  "sandy creek": {
+    "team": "Sandy Creek",
+    "state": "GA",
+    "division": "3A",
+    "region": 3,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 15.2,
+    "avg_points_allowed": 20.7,
+    "season_net_margin": -5.5,
+    "last_3_game_margin": -2.0,
+    "momentum_trend": 3.5,
+    "close_game_record": "3-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Sandy Creek averages 15.2 PPG while holding GHSA 3A Region 2 opponents to 20.7 PPG (-5.5 net margin).",
+      "Postseason Readiness: 3-7 against a 71.9 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+    ]
+  },
+  "calhoun": {
+    "team": "Calhoun",
+    "state": "GA",
+    "division": "3A",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 18.9,
+    "avg_points_allowed": 16.5,
+    "season_net_margin": 2.4,
+    "last_3_game_margin": 1.0,
+    "momentum_trend": -1.4,
+    "close_game_record": "3-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Calhoun averages 18.9 PPG while holding GHSA 3A Region 7 opponents to 16.5 PPG (+2.4 net margin).",
+      "Postseason Readiness: 5-5 against a 70.0 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+    ]
+  },
+  "cairo": {
+    "team": "Cairo",
+    "state": "GA",
+    "division": "3A",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 20.2,
+    "avg_points_allowed": 22.5,
+    "season_net_margin": -2.3,
+    "last_3_game_margin": -1.3,
+    "momentum_trend": 1.0,
+    "close_game_record": "6-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Cairo averages 20.2 PPG while holding GHSA 3A Region 1 opponents to 22.5 PPG (-2.3 net margin).",
+      "Postseason Readiness: 6-4 against a 69.4 SOS Index with 0 running-clock separations and a 6-1 record in one-score games."
+    ]
+  },
+  "stephenson": {
+    "team": "Stephenson",
+    "state": "GA",
+    "division": "3A",
+    "region": 2,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 17.5,
+    "avg_points_allowed": 21.3,
+    "season_net_margin": -3.8,
+    "last_3_game_margin": -2.3,
+    "momentum_trend": 1.5,
+    "close_game_record": "1-7",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Stephenson averages 17.5 PPG while holding GHSA 3A Region 5 opponents to 21.3 PPG (-3.8 net margin).",
+      "Postseason Readiness: 2-8 against a 71.0 SOS Index with 0 running-clock separations and a 1-7 record in one-score games."
+    ]
+  },
+  "lagrange": {
+    "team": "LaGrange",
+    "state": "GA",
+    "division": "3A",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 16.0,
+    "avg_points_allowed": 18.4,
+    "season_net_margin": -2.4,
+    "last_3_game_margin": 1.7,
+    "momentum_trend": 4.1,
+    "close_game_record": "6-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: LaGrange averages 16.0 PPG while holding GHSA 3A Region 2 opponents to 18.4 PPG (-2.4 net margin).",
+      "Postseason Readiness: 6-4 against a 71.3 SOS Index with 0 running-clock separations and a 6-2 record in one-score games."
+    ]
+  },
+  "cherokee bluff": {
+    "team": "cherokee Bluff",
+    "state": "GA",
+    "division": "3A",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 21.2,
+    "avg_points_allowed": 20.7,
+    "season_net_margin": 0.5,
+    "last_3_game_margin": 4.3,
+    "momentum_trend": 3.8,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: cherokee Bluff averages 21.2 PPG while holding GHSA 3A Region 8 opponents to 20.7 PPG (+0.5 net margin).",
+      "Postseason Readiness: 5-5 against a 68.8 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "bainbridge": {
+    "team": "Bainbridge",
+    "state": "GA",
+    "division": "3A",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 20.9,
+    "avg_points_allowed": 24.5,
+    "season_net_margin": -3.6,
+    "last_3_game_margin": -6.7,
+    "momentum_trend": -3.1,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Bainbridge averages 20.9 PPG while holding GHSA 3A Region 1 opponents to 24.5 PPG (-3.6 net margin).",
+      "Postseason Readiness: 4-6 against a 70.8 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+    ]
+  },
+  "oconee county": {
+    "team": "Oconee County",
+    "state": "GA",
+    "division": "3A",
+    "region": 2,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 18.8,
+    "avg_points_allowed": 36.3,
+    "season_net_margin": -17.5,
+    "last_3_game_margin": -16.7,
+    "momentum_trend": 0.8,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Oconee County averages 18.8 PPG while holding GHSA 3A Region 8 opponents to 36.3 PPG (-17.5 net margin).",
+      "Postseason Readiness: 1-9 against a 70.5 SOS Index with 0 running-clock separations and a 1-0 record in one-score games."
+    ]
+  },
+  "pierce county": {
+    "team": "Pierce County",
+    "state": "GA",
+    "division": "2A",
+    "region": 1,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 30.0,
+    "avg_points_allowed": 14.9,
+    "season_net_margin": 15.1,
+    "last_3_game_margin": 9.3,
+    "momentum_trend": -5.8,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Pierce County averages 30.0 PPG while holding GHSA 2A Region 3 opponents to 14.9 PPG (+15.1 net margin).",
+      "Postseason Readiness: 8-2 against a 69.8 SOS Index with 2 running-clock separations and a 2-2 record in one-score games."
+    ]
+  },
+  "carver-columbus": {
+    "team": "Carver-Columbus",
+    "state": "GA",
+    "division": "2A",
+    "region": 2,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 32.8,
+    "avg_points_allowed": 15.0,
+    "season_net_margin": 17.8,
+    "last_3_game_margin": 15.0,
+    "momentum_trend": -2.8,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Carver-Columbus averages 32.8 PPG while holding GHSA 2A Region 1 opponents to 15.0 PPG (+17.8 net margin).",
+      "Postseason Readiness: 8-2 against a 69.9 SOS Index with 3 running-clock separations and a 2-2 record in one-score games."
+    ]
+  },
+  "rockmart": {
+    "team": "Rockmart",
+    "state": "GA",
+    "division": "2A",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 16.4,
+    "avg_points_allowed": 19.3,
+    "season_net_margin": -2.9,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": -1.1,
+    "close_game_record": "5-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Rockmart averages 16.4 PPG while holding GHSA 2A Region 7 opponents to 19.3 PPG (-2.9 net margin).",
+      "Postseason Readiness: 5-5 against a 71.0 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+    ]
+  },
+  "burke county": {
+    "team": "Burke County",
+    "state": "GA",
+    "division": "2A",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.6,
+    "avg_points_allowed": 15.8,
+    "season_net_margin": 3.8,
+    "last_3_game_margin": 6.0,
+    "momentum_trend": 2.2,
+    "close_game_record": "1-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Burke County averages 19.6 PPG while holding GHSA 2A Region 4 opponents to 15.8 PPG (+3.8 net margin).",
+      "Postseason Readiness: 5-5 against a 71.1 SOS Index with 0 running-clock separations and a 1-5 record in one-score games."
+    ]
+  },
+  "appling county": {
+    "team": "Appling County",
+    "state": "GA",
+    "division": "2A",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.8,
+    "avg_points_allowed": 23.1,
+    "season_net_margin": -5.3,
+    "last_3_game_margin": -2.3,
+    "momentum_trend": 3.0,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Appling County averages 17.8 PPG while holding GHSA 2A Region 3 opponents to 23.1 PPG (-5.3 net margin).",
+      "Postseason Readiness: 5-5 against a 69.3 SOS Index with 0 running-clock separations and a 3-0 record in one-score games."
+    ]
+  },
+  "stephens county": {
+    "team": "Stephens County",
+    "state": "GA",
+    "division": "2A",
+    "region": 2,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 18.2,
+    "avg_points_allowed": 20.7,
+    "season_net_margin": -2.5,
+    "last_3_game_margin": -5.0,
+    "momentum_trend": -2.5,
+    "close_game_record": "0-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Stephens County averages 18.2 PPG while holding GHSA 2A Region 8 opponents to 20.7 PPG (-2.5 net margin).",
+      "Postseason Readiness: 3-7 against a 68.3 SOS Index with 0 running-clock separations and a 0-3 record in one-score games."
+    ]
+  },
+  "morgan county": {
+    "team": "Morgan County",
+    "state": "GA",
+    "division": "2A",
+    "region": 3,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 18.6,
+    "avg_points_allowed": 17.5,
+    "season_net_margin": 1.1,
+    "last_3_game_margin": 0.0,
+    "momentum_trend": -1.1,
+    "close_game_record": "4-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Morgan County averages 18.6 PPG while holding GHSA 2A Region 8 opponents to 17.5 PPG (+1.1 net margin).",
+      "Postseason Readiness: 7-3 against a 69.2 SOS Index with 0 running-clock separations and a 4-0 record in one-score games."
+    ]
+  },
+  "callaway": {
+    "team": "Callaway",
+    "state": "GA",
+    "division": "2A",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.7,
+    "avg_points_allowed": 21.6,
+    "season_net_margin": -3.9,
+    "last_3_game_margin": 2.7,
+    "momentum_trend": 6.6,
+    "close_game_record": "3-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Callaway averages 17.7 PPG while holding GHSA 2A Region 2 opponents to 21.6 PPG (-3.9 net margin).",
+      "Postseason Readiness: 4-6 against a 68.9 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+    ]
+  },
+  "cook": {
+    "team": "Cook",
+    "state": "GA",
+    "division": "2A",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 14.5,
+    "avg_points_allowed": 19.9,
+    "season_net_margin": -5.4,
+    "last_3_game_margin": -1.7,
+    "momentum_trend": 3.7,
+    "close_game_record": "2-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Cook averages 14.5 PPG while holding GHSA 2A Region 3 opponents to 19.9 PPG (-5.4 net margin).",
+      "Postseason Readiness: 3-7 against a 69.2 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+    ]
+  },
+  "hapeville charter": {
+    "team": "Hapeville Charter",
+    "state": "GA",
+    "division": "2A",
+    "region": 2,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 12.2,
+    "avg_points_allowed": 30.0,
+    "season_net_margin": -17.8,
+    "last_3_game_margin": -20.0,
+    "momentum_trend": -2.2,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Hapeville Charter averages 12.2 PPG while holding GHSA 2A Region 6 opponents to 30.0 PPG (-17.8 net margin).",
+      "Postseason Readiness: 2-8 against a 68.8 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+    ]
+  },
+  "toombs county": {
+    "team": "Toombs County",
+    "state": "GA",
+    "division": "1A-D1",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 25.2,
+    "avg_points_allowed": 12.6,
+    "season_net_margin": 12.6,
+    "last_3_game_margin": 17.0,
+    "momentum_trend": 4.4,
+    "close_game_record": "5-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Toombs County averages 25.2 PPG while holding GHSA 1A-D1 Region 3 opponents to 12.6 PPG (+12.6 net margin).",
+      "Postseason Readiness: 10-0 against a 70.7 SOS Index with 1 running-clock separations and a 5-0 record in one-score games."
+    ]
+  },
+  "dublin": {
+    "team": "Dublin",
+    "state": "GA",
+    "division": "1A-D1",
+    "region": 2,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 30.0,
+    "avg_points_allowed": 15.9,
+    "season_net_margin": 14.1,
+    "last_3_game_margin": 6.0,
+    "momentum_trend": -8.1,
+    "close_game_record": "3-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Dublin averages 30.0 PPG while holding GHSA 1A-D1 Region 2 opponents to 15.9 PPG (+14.1 net margin).",
+      "Postseason Readiness: 9-1 against a 68.8 SOS Index with 1 running-clock separations and a 3-1 record in one-score games."
+    ]
+  },
+  "fitzgerald": {
+    "team": "Fitzgerald",
+    "state": "GA",
+    "division": "1A-D1",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 16.3,
+    "avg_points_allowed": 17.9,
+    "season_net_margin": -1.6,
+    "last_3_game_margin": -2.7,
+    "momentum_trend": -1.1,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Fitzgerald averages 16.3 PPG while holding GHSA 1A-D1 Region 1 opponents to 17.9 PPG (-1.6 net margin).",
+      "Postseason Readiness: 4-6 against a 70.0 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "worth county": {
+    "team": "Worth County",
+    "state": "GA",
+    "division": "1A-D1",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 19.2,
+    "avg_points_allowed": 18.6,
+    "season_net_margin": 0.6,
+    "last_3_game_margin": 4.7,
+    "momentum_trend": 4.1,
+    "close_game_record": "3-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Worth County averages 19.2 PPG while holding GHSA 1A-D1 Region 1 opponents to 18.6 PPG (+0.6 net margin).",
+      "Postseason Readiness: 4-6 against a 68.9 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+    ]
+  },
+  "northeast macon": {
+    "team": "Northeast Macon",
+    "state": "GA",
+    "division": "1A-D1",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.9,
+    "avg_points_allowed": 20.9,
+    "season_net_margin": -3.0,
+    "last_3_game_margin": -8.3,
+    "momentum_trend": -5.3,
+    "close_game_record": "4-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Northeast Macon averages 17.9 PPG while holding GHSA 1A-D1 Region 2 opponents to 20.9 PPG (-3.0 net margin).",
+      "Postseason Readiness: 4-6 against a 70.1 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+    ]
+  },
+  "swainsboro": {
+    "team": "Swainsboro",
+    "state": "GA",
+    "division": "1A-D1",
+    "region": 2,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.7,
+    "avg_points_allowed": 17.9,
+    "season_net_margin": -0.2,
+    "last_3_game_margin": 1.3,
+    "momentum_trend": 1.5,
+    "close_game_record": "4-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Swainsboro averages 17.7 PPG while holding GHSA 1A-D1 Region 3 opponents to 17.9 PPG (-0.2 net margin).",
+      "Postseason Readiness: 5-5 against a 69.5 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+    ]
+  },
+  "lamar county": {
+    "team": "Lamar County",
+    "state": "GA",
+    "division": "1A-D1",
+    "region": 3,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 18.9,
+    "avg_points_allowed": 19.1,
+    "season_net_margin": -0.2,
+    "last_3_game_margin": -3.0,
+    "momentum_trend": -2.8,
+    "close_game_record": "1-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lamar County averages 18.9 PPG while holding GHSA 1A-D1 Region 4 opponents to 19.1 PPG (-0.2 net margin).",
+      "Postseason Readiness: 3-7 against a 67.9 SOS Index with 0 running-clock separations and a 1-5 record in one-score games."
+    ]
+  },
+  "fannin county": {
+    "team": "Fannin County",
+    "state": "GA",
+    "division": "1A-D1",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.8,
+    "avg_points_allowed": 24.3,
+    "season_net_margin": -4.5,
+    "last_3_game_margin": 5.7,
+    "momentum_trend": 10.2,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Fannin County averages 19.8 PPG while holding GHSA 1A-D1 Region 7 opponents to 24.3 PPG (-4.5 net margin).",
+      "Postseason Readiness: 5-5 against a 66.6 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "thomasville": {
+    "team": "Thomasville",
+    "state": "GA",
+    "division": "1A-D1",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 21.9,
+    "avg_points_allowed": 20.5,
+    "season_net_margin": 1.4,
+    "last_3_game_margin": 0.7,
+    "momentum_trend": -0.7,
+    "close_game_record": "4-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Thomasville averages 21.9 PPG while holding GHSA 1A-D1 Region 1 opponents to 20.5 PPG (+1.4 net margin).",
+      "Postseason Readiness: 5-5 against a 67.5 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+    ]
+  },
+  "bleckley county": {
+    "team": "Bleckley County",
+    "state": "GA",
+    "division": "1A-D1",
+    "region": 2,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 16.1,
+    "avg_points_allowed": 35.3,
+    "season_net_margin": -19.2,
+    "last_3_game_margin": -21.3,
+    "momentum_trend": -2.1,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Bleckley County averages 16.1 PPG while holding GHSA 1A-D1 Region 2 opponents to 35.3 PPG (-19.2 net margin).",
+      "Postseason Readiness: 1-9 against a 66.2 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+    ]
+  },
+  "bowdon": {
+    "team": "Bowdon",
+    "state": "GA",
+    "division": "1A-D2",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 29.5,
+    "avg_points_allowed": 12.3,
+    "season_net_margin": 17.2,
+    "last_3_game_margin": 10.7,
+    "momentum_trend": -6.5,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Bowdon averages 29.5 PPG while holding GHSA 1A-D2 Region 7 opponents to 12.3 PPG (+17.2 net margin).",
+      "Postseason Readiness: 10-0 against a 70.0 SOS Index with 2 running-clock separations and a 2-0 record in one-score games."
+    ]
+  },
+  "brooks county": {
+    "team": "Brooks County",
+    "state": "GA",
+    "division": "1A-D2",
+    "region": 2,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 30.9,
+    "avg_points_allowed": 15.3,
+    "season_net_margin": 15.6,
+    "last_3_game_margin": 8.0,
+    "momentum_trend": -7.6,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Brooks County averages 30.9 PPG while holding GHSA 1A-D2 Region 2 opponents to 15.3 PPG (+15.6 net margin).",
+      "Postseason Readiness: 8-2 against a 67.7 SOS Index with 2 running-clock separations and a 2-2 record in one-score games."
+    ]
+  },
+  "irwin county": {
+    "team": "Irwin County",
+    "state": "GA",
+    "division": "1A-D2",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 19.5,
+    "avg_points_allowed": 21.1,
+    "season_net_margin": -1.6,
+    "last_3_game_margin": -2.3,
+    "momentum_trend": -0.7,
+    "close_game_record": "3-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Irwin County averages 19.5 PPG while holding GHSA 1A-D2 Region 2 opponents to 21.1 PPG (-1.6 net margin).",
+      "Postseason Readiness: 4-6 against a 67.8 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+    ]
+  },
+  "manchester": {
+    "team": "Manchester",
+    "state": "GA",
+    "division": "1A-D2",
+    "region": 4,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 18.4,
+    "avg_points_allowed": 18.4,
+    "season_net_margin": 0.0,
+    "last_3_game_margin": -1.3,
+    "momentum_trend": -1.3,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Manchester averages 18.4 PPG while holding GHSA 1A-D2 Region 6 opponents to 18.4 PPG (+0.0 net margin).",
+      "Postseason Readiness: 6-4 against a 68.9 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "clinch county": {
+    "team": "Clinch County",
+    "state": "GA",
+    "division": "1A-D2",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 20.3,
+    "avg_points_allowed": 19.4,
+    "season_net_margin": 0.9,
+    "last_3_game_margin": 2.7,
+    "momentum_trend": 1.8,
+    "close_game_record": "1-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Clinch County averages 20.3 PPG while holding GHSA 1A-D2 Region 2 opponents to 19.4 PPG (+0.9 net margin).",
+      "Postseason Readiness: 4-6 against a 67.6 SOS Index with 0 running-clock separations and a 1-4 record in one-score games."
+    ]
+  },
+  "lincoln county": {
+    "team": "Lincoln County",
+    "state": "GA",
+    "division": "1A-D2",
+    "region": 2,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 18.5,
+    "avg_points_allowed": 23.3,
+    "season_net_margin": -4.8,
+    "last_3_game_margin": 0.3,
+    "momentum_trend": 5.1,
+    "close_game_record": "0-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lincoln County averages 18.5 PPG while holding GHSA 1A-D2 Region 8 opponents to 23.3 PPG (-4.8 net margin).",
+      "Postseason Readiness: 2-8 against a 68.4 SOS Index with 0 running-clock separations and a 0-4 record in one-score games."
+    ]
+  },
+  "schley county": {
+    "team": "Schley County",
+    "state": "GA",
+    "division": "1A-D2",
+    "region": 3,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 17.3,
+    "avg_points_allowed": 21.4,
+    "season_net_margin": -4.1,
+    "last_3_game_margin": -3.7,
+    "momentum_trend": 0.4,
+    "close_game_record": "7-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Schley County averages 17.3 PPG while holding GHSA 1A-D2 Region 6 opponents to 21.4 PPG (-4.1 net margin).",
+      "Postseason Readiness: 7-3 against a 66.5 SOS Index with 0 running-clock separations and a 7-0 record in one-score games."
+    ]
+  },
+  "metter": {
+    "team": "Metter",
+    "state": "GA",
+    "division": "1A-D2",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.0,
+    "avg_points_allowed": 18.7,
+    "season_net_margin": 0.3,
+    "last_3_game_margin": 3.0,
+    "momentum_trend": 2.7,
+    "close_game_record": "4-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Metter averages 19.0 PPG while holding GHSA 1A-D2 Region 3 opponents to 18.7 PPG (+0.3 net margin).",
+      "Postseason Readiness: 5-5 against a 67.2 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+    ]
+  },
+  "screven county": {
+    "team": "Screven County",
+    "state": "GA",
+    "division": "1A-D2",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 15.4,
+    "avg_points_allowed": 22.6,
+    "season_net_margin": -7.2,
+    "last_3_game_margin": -2.3,
+    "momentum_trend": 4.9,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Screven County averages 15.4 PPG while holding GHSA 1A-D2 Region 3 opponents to 22.6 PPG (-7.2 net margin).",
+      "Postseason Readiness: 3-7 against a 66.1 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "trion": {
+    "team": "Trion",
+    "state": "GA",
+    "division": "1A-D2",
+    "region": 2,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 14.8,
+    "avg_points_allowed": 31.1,
+    "season_net_margin": -16.3,
+    "last_3_game_margin": -15.0,
+    "momentum_trend": 1.3,
+    "close_game_record": "0-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Trion averages 14.8 PPG while holding GHSA 1A-D2 Region 7 opponents to 31.1 PPG (-16.3 net margin).",
+      "Postseason Readiness: 1-9 against a 64.8 SOS Index with 0 running-clock separations and a 0-3 record in one-score games."
+    ]
+  },
+  "prince avenue christian": {
+    "team": "Prince Avenue Christian",
+    "state": "GA",
+    "division": "PRIV",
+    "region": 1,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 33.6,
+    "avg_points_allowed": 15.3,
+    "season_net_margin": 18.3,
+    "last_3_game_margin": 13.0,
+    "momentum_trend": -5.3,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Prince Avenue Christian averages 33.6 PPG while holding GHSA Private Region 8 opponents to 15.3 PPG (+18.3 net margin).",
+      "Postseason Readiness: 8-2 against a 67.7 SOS Index with 3 running-clock separations and a 2-2 record in one-score games."
+    ]
+  },
+  "savannah christian": {
+    "team": "Savannah Christian",
+    "state": "GA",
+    "division": "PRIV",
+    "region": 2,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 33.5,
+    "avg_points_allowed": 16.7,
+    "season_net_margin": 16.8,
+    "last_3_game_margin": 9.7,
+    "momentum_trend": -7.1,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Savannah Christian averages 33.5 PPG while holding GHSA Private Region 3 opponents to 16.7 PPG (+16.8 net margin).",
+      "Postseason Readiness: 9-1 against a 68.8 SOS Index with 3 running-clock separations and a 2-0 record in one-score games."
+    ]
+  },
+  "hebron christian": {
+    "team": "Hebron Christian",
+    "state": "GA",
+    "division": "PRIV",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 18.6,
+    "avg_points_allowed": 18.9,
+    "season_net_margin": -0.3,
+    "last_3_game_margin": -2.7,
+    "momentum_trend": -2.4,
+    "close_game_record": "3-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Hebron Christian averages 18.6 PPG while holding GHSA Private Region 8 opponents to 18.9 PPG (-0.3 net margin).",
+      "Postseason Readiness: 5-5 against a 66.9 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+    ]
+  },
+  "fellowship christian": {
+    "team": "Fellowship Christian",
+    "state": "GA",
+    "division": "PRIV",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 20.1,
+    "avg_points_allowed": 18.5,
+    "season_net_margin": 1.6,
+    "last_3_game_margin": 1.0,
+    "momentum_trend": -0.6,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Fellowship Christian averages 20.1 PPG while holding GHSA Private Region 6 opponents to 18.5 PPG (+1.6 net margin).",
+      "Postseason Readiness: 5-5 against a 68.0 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "calvary day": {
+    "team": "Calvary Day",
+    "state": "GA",
+    "division": "PRIV",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 16.8,
+    "avg_points_allowed": 21.4,
+    "season_net_margin": -4.6,
+    "last_3_game_margin": -1.0,
+    "momentum_trend": 3.6,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Calvary Day averages 16.8 PPG while holding GHSA Private Region 3 opponents to 21.4 PPG (-4.6 net margin).",
+      "Postseason Readiness: 4-6 against a 66.0 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "aquinas": {
+    "team": "Aquinas",
+    "state": "GA",
+    "division": "PRIV",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 16.9,
+    "avg_points_allowed": 18.2,
+    "season_net_margin": -1.3,
+    "last_3_game_margin": 5.3,
+    "momentum_trend": 6.6,
+    "close_game_record": "2-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Aquinas averages 16.9 PPG while holding GHSA Private Region 4 opponents to 18.2 PPG (-1.3 net margin).",
+      "Postseason Readiness: 4-6 against a 67.7 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+    ]
+  },
+  "elca (eagle's landing christian)": {
+    "team": "ELCA (Eagle's Landing Christian)",
+    "state": "GA",
+    "division": "PRIV",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 18.7,
+    "avg_points_allowed": 20.1,
+    "season_net_margin": -1.4,
+    "last_3_game_margin": -5.3,
+    "momentum_trend": -3.9,
+    "close_game_record": "5-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: ELCA (Eagle's Landing Christian) averages 18.7 PPG while holding GHSA Private Region 2 opponents to 20.1 PPG (-1.4 net margin).",
+      "Postseason Readiness: 6-4 against a 65.8 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+    ]
+  },
+  "whitefield academy": {
+    "team": "Whitefield Academy",
+    "state": "GA",
+    "division": "PRIV",
+    "region": 4,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 16.0,
+    "avg_points_allowed": 21.8,
+    "season_net_margin": -5.8,
+    "last_3_game_margin": 4.0,
+    "momentum_trend": 9.8,
+    "close_game_record": "1-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Whitefield Academy averages 16.0 PPG while holding GHSA Private Region 6 opponents to 21.8 PPG (-5.8 net margin).",
+      "Postseason Readiness: 2-8 against a 67.0 SOS Index with 0 running-clock separations and a 1-6 record in one-score games."
+    ]
+  },
+  "first presbyterian day": {
+    "team": "First Presbyterian Day",
+    "state": "GA",
+    "division": "PRIV",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 13.8,
+    "avg_points_allowed": 18.1,
+    "season_net_margin": -4.3,
+    "last_3_game_margin": -5.7,
+    "momentum_trend": -1.4,
+    "close_game_record": "5-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: First Presbyterian Day averages 13.8 PPG while holding GHSA Private Region 4 opponents to 18.1 PPG (-4.3 net margin).",
+      "Postseason Readiness: 5-5 against a 63.7 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+    ]
+  },
+  "wesleyan": {
+    "team": "Wesleyan",
+    "state": "GA",
+    "division": "PRIV",
+    "region": 2,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 13.3,
+    "avg_points_allowed": 32.3,
+    "season_net_margin": -19.0,
+    "last_3_game_margin": -18.3,
+    "momentum_trend": 0.7,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Wesleyan averages 13.3 PPG while holding GHSA Private Region 7 opponents to 32.3 PPG (-19.0 net margin).",
+      "Postseason Readiness: 2-8 against a 66.2 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+    ]
+  }
+}

@@ -1,0 +1,1682 @@
+{
+  "venice": {
+    "team": "Venice",
+    "state": "FL",
+    "division": "7A",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 41.8,
+    "avg_points_allowed": 12.5,
+    "season_net_margin": 29.3,
+    "last_3_game_margin": 42.3,
+    "momentum_trend": 13.0,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 6,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Venice has triggered the 35-point FHSAA running clock 6 times.",
+      "Peaking in Postseason Play: Net margin surged +13.0 PPG over the last 3 games (+42.3 PPG).",
+      "Stingy Scoring Defense: Allowing just 12.5 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+    ]
+  },
+  "west boca raton": {
+    "team": "West Boca Raton",
+    "state": "FL",
+    "division": "6A",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 41.5,
+    "avg_points_allowed": 12.2,
+    "season_net_margin": 29.3,
+    "last_3_game_margin": 38.7,
+    "momentum_trend": 9.4,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: West Boca Raton has triggered the 35-point FHSAA running clock 4 times.",
+      "Peaking in Postseason Play: Net margin surged +9.4 PPG over the last 3 games (+38.7 PPG).",
+      "Stingy Scoring Defense: Allowing just 12.2 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+    ]
+  },
+  "lake mary": {
+    "team": "Lake Mary",
+    "state": "FL",
+    "division": "7A",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 37.4,
+    "avg_points_allowed": 15.6,
+    "season_net_margin": 21.8,
+    "last_3_game_margin": 27.0,
+    "momentum_trend": 5.2,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "armwood": {
+    "team": "Armwood",
+    "state": "FL",
+    "division": "6A",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 36.6,
+    "avg_points_allowed": 15.2,
+    "season_net_margin": 21.4,
+    "last_3_game_margin": 25.3,
+    "momentum_trend": 3.9,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "manatee": {
+    "team": "Manatee",
+    "state": "FL",
+    "division": "5A",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 37.5,
+    "avg_points_allowed": 15.6,
+    "season_net_margin": 21.9,
+    "last_3_game_margin": 29.3,
+    "momentum_trend": 7.4,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +7.4 PPG over the last 3 games (+29.3 PPG)."
+    ]
+  },
+  "st. thomas aquinas": {
+    "team": "St. Thomas Aquinas",
+    "state": "FL",
+    "division": "5A",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 36.1,
+    "avg_points_allowed": 12.8,
+    "season_net_margin": 23.3,
+    "last_3_game_margin": 20.3,
+    "momentum_trend": -3.0,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "american heritage": {
+    "team": "American Heritage",
+    "state": "FL",
+    "division": "4A",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 39.7,
+    "avg_points_allowed": 13.7,
+    "season_net_margin": 26.0,
+    "last_3_game_margin": 32.3,
+    "momentum_trend": 6.3,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: American Heritage has triggered the 35-point FHSAA running clock 3 times."
+    ]
+  },
+  "vero beach": {
+    "team": "Vero Beach",
+    "state": "FL",
+    "division": "7A",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 34.7,
+    "avg_points_allowed": 15.4,
+    "season_net_margin": 19.3,
+    "last_3_game_margin": 16.0,
+    "momentum_trend": -3.3,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "cocoa": {
+    "team": "Cocoa",
+    "state": "FL",
+    "division": "2A",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 39.5,
+    "avg_points_allowed": 11.5,
+    "season_net_margin": 28.0,
+    "last_3_game_margin": 36.0,
+    "momentum_trend": 8.0,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Cocoa has triggered the 35-point FHSAA running clock 4 times.",
+      "Peaking in Postseason Play: Net margin surged +8.0 PPG over the last 3 games (+36.0 PPG).",
+      "Stingy Scoring Defense: Allowing just 11.5 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+    ]
+  },
+  "chaminade-madonna": {
+    "team": "Chaminade-Madonna",
+    "state": "FL",
+    "division": "1A",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 41.8,
+    "avg_points_allowed": 9.5,
+    "season_net_margin": 32.3,
+    "last_3_game_margin": 40.7,
+    "momentum_trend": 8.4,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Chaminade-Madonna has triggered the 35-point FHSAA running clock 5 times.",
+      "Peaking in Postseason Play: Net margin surged +8.4 PPG over the last 3 games (+40.7 PPG).",
+      "Stingy Scoring Defense: Allowing just 9.5 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+    ]
+  },
+  "miami northwestern": {
+    "team": "Miami Northwestern",
+    "state": "FL",
+    "division": "3A",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 40.4,
+    "avg_points_allowed": 13.6,
+    "season_net_margin": 26.8,
+    "last_3_game_margin": 34.0,
+    "momentum_trend": 7.2,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Miami Northwestern has triggered the 35-point FHSAA running clock 4 times.",
+      "Peaking in Postseason Play: Net margin surged +7.2 PPG over the last 3 games (+34.0 PPG)."
+    ]
+  },
+  "osceola": {
+    "team": "Osceola",
+    "state": "FL",
+    "division": "6A",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 33.0,
+    "avg_points_allowed": 17.1,
+    "season_net_margin": 15.9,
+    "last_3_game_margin": 17.3,
+    "momentum_trend": 1.4,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "lakeland": {
+    "team": "Lakeland",
+    "state": "FL",
+    "division": "5A",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 32.3,
+    "avg_points_allowed": 16.5,
+    "season_net_margin": 15.8,
+    "last_3_game_margin": 9.0,
+    "momentum_trend": -6.8,
+    "close_game_record": "3-2",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "buchholz": {
+    "team": "Buchholz",
+    "state": "FL",
+    "division": "6A",
+    "region": 1,
+    "record": "7-4",
+    "games_played": 11,
+    "avg_points_scored": 28.6,
+    "avg_points_allowed": 17.5,
+    "season_net_margin": 11.1,
+    "last_3_game_margin": -1.7,
+    "momentum_trend": -12.8,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -12.8 PPG over the last 3 weeks."
+    ]
+  },
+  "jones": {
+    "team": "Jones",
+    "state": "FL",
+    "division": "4A",
+    "region": 1,
+    "record": "8-1",
+    "games_played": 9,
+    "avg_points_scored": 30.9,
+    "avg_points_allowed": 17.7,
+    "season_net_margin": 13.2,
+    "last_3_game_margin": 14.3,
+    "momentum_trend": 1.1,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "cardinal mooney": {
+    "team": "Cardinal Mooney",
+    "state": "FL",
+    "division": "2A",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 37.1,
+    "avg_points_allowed": 15.1,
+    "season_net_margin": 22.0,
+    "last_3_game_margin": 19.7,
+    "momentum_trend": -2.3,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Cardinal Mooney has triggered the 35-point FHSAA running clock 3 times."
+    ]
+  },
+  "seminole": {
+    "team": "Seminole",
+    "state": "FL",
+    "division": "7A",
+    "region": 1,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 28.8,
+    "avg_points_allowed": 19.3,
+    "season_net_margin": 9.5,
+    "last_3_game_margin": 4.7,
+    "momentum_trend": -4.8,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "niceville": {
+    "team": "Niceville",
+    "state": "FL",
+    "division": "5A",
+    "region": 1,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 31.5,
+    "avg_points_allowed": 18.6,
+    "season_net_margin": 12.9,
+    "last_3_game_margin": 6.3,
+    "momentum_trend": -6.6,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "columbus": {
+    "team": "Columbus",
+    "state": "FL",
+    "division": "7A",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 25.4,
+    "avg_points_allowed": 20.5,
+    "season_net_margin": 4.9,
+    "last_3_game_margin": -3.3,
+    "momentum_trend": -8.2,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -8.2 PPG over the last 3 weeks."
+    ]
+  },
+  "clearwater central catholic": {
+    "team": "Clearwater Central Catholic",
+    "state": "FL",
+    "division": "1A",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 38.9,
+    "avg_points_allowed": 14.1,
+    "season_net_margin": 24.8,
+    "last_3_game_margin": 31.7,
+    "momentum_trend": 6.9,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Clearwater Central Catholic has triggered the 35-point FHSAA running clock 4 times."
+    ]
+  },
+  "raines": {
+    "team": "Raines",
+    "state": "FL",
+    "division": "3A",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 33.5,
+    "avg_points_allowed": 14.9,
+    "season_net_margin": 18.6,
+    "last_3_game_margin": 24.7,
+    "momentum_trend": 6.1,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "gadsden county": {
+    "team": "Gadsden County",
+    "state": "FL",
+    "division": "2A",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 35.4,
+    "avg_points_allowed": 15.5,
+    "season_net_margin": 19.9,
+    "last_3_game_margin": 22.0,
+    "momentum_trend": 2.1,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "miami norland": {
+    "team": "Miami Norland",
+    "state": "FL",
+    "division": "4A",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 32.3,
+    "avg_points_allowed": 15.9,
+    "season_net_margin": 16.4,
+    "last_3_game_margin": 19.0,
+    "momentum_trend": 2.6,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "mandarin": {
+    "team": "Mandarin",
+    "state": "FL",
+    "division": "6A",
+    "region": 1,
+    "record": "5-4",
+    "games_played": 9,
+    "avg_points_scored": 24.0,
+    "avg_points_allowed": 20.4,
+    "season_net_margin": 3.6,
+    "last_3_game_margin": -4.7,
+    "momentum_trend": -8.3,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -8.3 PPG over the last 3 weeks."
+    ]
+  },
+  "bishop moore": {
+    "team": "Bishop Moore",
+    "state": "FL",
+    "division": "3A",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 31.5,
+    "avg_points_allowed": 16.5,
+    "season_net_margin": 15.0,
+    "last_3_game_margin": 16.7,
+    "momentum_trend": 1.7,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "deland": {
+    "team": "DeLand",
+    "state": "FL",
+    "division": "7A",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 23.1,
+    "avg_points_allowed": 24.4,
+    "season_net_margin": -1.3,
+    "last_3_game_margin": -14.7,
+    "momentum_trend": -13.4,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -13.4 PPG over the last 3 weeks."
+    ]
+  },
+  "bolles": {
+    "team": "Bolles",
+    "state": "FL",
+    "division": "2A",
+    "region": 1,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 31.0,
+    "avg_points_allowed": 16.0,
+    "season_net_margin": 15.0,
+    "last_3_game_margin": 2.0,
+    "momentum_trend": -13.0,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Bolles has triggered the 35-point FHSAA running clock 3 times.",
+      "Late-Season Margin Compression: Net differential dipped -13.0 PPG over the last 3 weeks."
+    ]
+  },
+  "eau gallie": {
+    "team": "Eau Gallie",
+    "state": "FL",
+    "division": "3A",
+    "region": 1,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 30.1,
+    "avg_points_allowed": 16.8,
+    "season_net_margin": 13.3,
+    "last_3_game_margin": 21.7,
+    "momentum_trend": 8.4,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +8.4 PPG over the last 3 games (+21.7 PPG)."
+    ]
+  },
+  "hawthorne": {
+    "team": "Hawthorne",
+    "state": "FL",
+    "division": "RURAL",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 39.7,
+    "avg_points_allowed": 13.3,
+    "season_net_margin": 26.4,
+    "last_3_game_margin": 23.7,
+    "momentum_trend": -2.7,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Hawthorne has triggered the 35-point FHSAA running clock 4 times."
+    ]
+  },
+  "first baptist academy": {
+    "team": "First Baptist Academy",
+    "state": "FL",
+    "division": "1A",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 36.0,
+    "avg_points_allowed": 18.7,
+    "season_net_margin": 17.3,
+    "last_3_game_margin": 24.3,
+    "momentum_trend": 7.0,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +7.0 PPG over the last 3 games (+24.3 PPG)."
+    ]
+  },
+  "vanguard": {
+    "team": "Vanguard",
+    "state": "FL",
+    "division": "4A",
+    "region": 1,
+    "record": "7-4",
+    "games_played": 11,
+    "avg_points_scored": 28.0,
+    "avg_points_allowed": 19.1,
+    "season_net_margin": 8.9,
+    "last_3_game_margin": -2.0,
+    "momentum_trend": -10.9,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -10.9 PPG over the last 3 weeks."
+    ]
+  },
+  "st. augustine": {
+    "team": "St. Augustine",
+    "state": "FL",
+    "division": "4A",
+    "region": 1,
+    "record": "5-4",
+    "games_played": 9,
+    "avg_points_scored": 25.2,
+    "avg_points_allowed": 21.1,
+    "season_net_margin": 4.1,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": -8.1,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -8.1 PPG over the last 3 weeks."
+    ]
+  },
+  "madison county": {
+    "team": "Madison County",
+    "state": "FL",
+    "division": "RURAL",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 37.0,
+    "avg_points_allowed": 14.0,
+    "season_net_margin": 23.0,
+    "last_3_game_margin": 32.3,
+    "momentum_trend": 9.3,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +9.3 PPG over the last 3 games (+32.3 PPG)."
+    ]
+  },
+  "tampa bay tech": {
+    "team": "Tampa Bay Tech",
+    "state": "FL",
+    "division": "5A",
+    "region": 1,
+    "record": "6-5",
+    "games_played": 11,
+    "avg_points_scored": 25.0,
+    "avg_points_allowed": 22.7,
+    "season_net_margin": 2.3,
+    "last_3_game_margin": 2.3,
+    "momentum_trend": 0.0,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "lincoln": {
+    "team": "Lincoln",
+    "state": "FL",
+    "division": "5A",
+    "region": 1,
+    "record": "6-5",
+    "games_played": 11,
+    "avg_points_scored": 23.1,
+    "avg_points_allowed": 22.5,
+    "season_net_margin": 0.6,
+    "last_3_game_margin": -15.3,
+    "momentum_trend": -15.9,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -15.9 PPG over the last 3 weeks."
+    ]
+  },
+  "oakleaf": {
+    "team": "Oakleaf",
+    "state": "FL",
+    "division": "6A",
+    "region": 1,
+    "record": "4-5",
+    "games_played": 9,
+    "avg_points_scored": 22.3,
+    "avg_points_allowed": 27.0,
+    "season_net_margin": -4.7,
+    "last_3_game_margin": -9.0,
+    "momentum_trend": -4.3,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "blanche ely": {
+    "team": "Blanche Ely",
+    "state": "FL",
+    "division": "5A",
+    "region": 1,
+    "record": "5-6",
+    "games_played": 11,
+    "avg_points_scored": 23.1,
+    "avg_points_allowed": 22.8,
+    "season_net_margin": 0.3,
+    "last_3_game_margin": -4.7,
+    "momentum_trend": -5.0,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "apopka": {
+    "team": "Apopka",
+    "state": "FL",
+    "division": "7A",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 23.3,
+    "avg_points_allowed": 30.4,
+    "season_net_margin": -7.1,
+    "last_3_game_margin": -9.3,
+    "momentum_trend": -2.2,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "berkeley prep": {
+    "team": "Berkeley Prep",
+    "state": "FL",
+    "division": "2A",
+    "region": 1,
+    "record": "6-5",
+    "games_played": 11,
+    "avg_points_scored": 27.2,
+    "avg_points_allowed": 21.0,
+    "season_net_margin": 6.2,
+    "last_3_game_margin": -12.3,
+    "momentum_trend": -18.5,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -18.5 PPG over the last 3 weeks."
+    ]
+  },
+  "trinity christian": {
+    "team": "Trinity Christian",
+    "state": "FL",
+    "division": "1A",
+    "region": 1,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 27.0,
+    "avg_points_allowed": 18.8,
+    "season_net_margin": 8.2,
+    "last_3_game_margin": 8.3,
+    "momentum_trend": 0.1,
+    "close_game_record": "3-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "southridge": {
+    "team": "Southridge",
+    "state": "FL",
+    "division": "6A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 19.9,
+    "avg_points_allowed": 29.2,
+    "season_net_margin": -9.3,
+    "last_3_game_margin": -12.7,
+    "momentum_trend": -3.4,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "atlantic (delray beach)": {
+    "team": "Atlantic (Delray Beach)",
+    "state": "FL",
+    "division": "5A",
+    "region": 1,
+    "record": "4-7",
+    "games_played": 11,
+    "avg_points_scored": 20.4,
+    "avg_points_allowed": 25.5,
+    "season_net_margin": -5.1,
+    "last_3_game_margin": 5.0,
+    "momentum_trend": 10.1,
+    "close_game_record": "0-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare.",
+      "Peaking in Postseason Play: Net margin surged +10.1 PPG over the last 3 games (+5.0 PPG)."
+    ]
+  },
+  "chiefland": {
+    "team": "Chiefland",
+    "state": "FL",
+    "division": "RURAL",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 32.2,
+    "avg_points_allowed": 17.9,
+    "season_net_margin": 14.3,
+    "last_3_game_margin": 11.7,
+    "momentum_trend": -2.6,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "winter park": {
+    "team": "Winter Park",
+    "state": "FL",
+    "division": "7A",
+    "region": 1,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 17.4,
+    "avg_points_allowed": 33.4,
+    "season_net_margin": -16.0,
+    "last_3_game_margin": -19.3,
+    "momentum_trend": -3.3,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "port charlotte": {
+    "team": "Port Charlotte",
+    "state": "FL",
+    "division": "4A",
+    "region": 1,
+    "record": "5-6",
+    "games_played": 11,
+    "avg_points_scored": 21.5,
+    "avg_points_allowed": 22.8,
+    "season_net_margin": -1.3,
+    "last_3_game_margin": -7.7,
+    "momentum_trend": -6.4,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "booker (sarasota)": {
+    "team": "Booker (Sarasota)",
+    "state": "FL",
+    "division": "3A",
+    "region": 1,
+    "record": "5-6",
+    "games_played": 11,
+    "avg_points_scored": 23.9,
+    "avg_points_allowed": 25.8,
+    "season_net_margin": -1.9,
+    "last_3_game_margin": -9.7,
+    "momentum_trend": -7.8,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -7.8 PPG over the last 3 weeks."
+    ]
+  },
+  "miami central": {
+    "team": "Miami Central",
+    "state": "FL",
+    "division": "3A",
+    "region": 1,
+    "record": "5-6",
+    "games_played": 11,
+    "avg_points_scored": 23.2,
+    "avg_points_allowed": 24.4,
+    "season_net_margin": -1.2,
+    "last_3_game_margin": -11.7,
+    "momentum_trend": -10.5,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -10.5 PPG over the last 3 weeks."
+    ]
+  },
+  "pace": {
+    "team": "Pace",
+    "state": "FL",
+    "division": "6A",
+    "region": 1,
+    "record": "4-7",
+    "games_played": 11,
+    "avg_points_scored": 19.5,
+    "avg_points_allowed": 29.3,
+    "season_net_margin": -9.8,
+    "last_3_game_margin": -16.3,
+    "momentum_trend": -6.5,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "naples": {
+    "team": "Naples",
+    "state": "FL",
+    "division": "4A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 21.6,
+    "avg_points_allowed": 28.1,
+    "season_net_margin": -6.5,
+    "last_3_game_margin": -9.3,
+    "momentum_trend": -2.8,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "benjamin": {
+    "team": "Benjamin",
+    "state": "FL",
+    "division": "1A",
+    "region": 1,
+    "record": "6-5",
+    "games_played": 11,
+    "avg_points_scored": 24.1,
+    "avg_points_allowed": 21.4,
+    "season_net_margin": 2.7,
+    "last_3_game_margin": -2.7,
+    "momentum_trend": -5.4,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "zephyrhills": {
+    "team": "Zephyrhills",
+    "state": "FL",
+    "division": "4A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 19.3,
+    "avg_points_allowed": 28.6,
+    "season_net_margin": -9.3,
+    "last_3_game_margin": -11.0,
+    "momentum_trend": -1.7,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "calvary christian": {
+    "team": "Calvary Christian",
+    "state": "FL",
+    "division": "2A",
+    "region": 1,
+    "record": "6-5",
+    "games_played": 11,
+    "avg_points_scored": 24.9,
+    "avg_points_allowed": 26.1,
+    "season_net_margin": -1.2,
+    "last_3_game_margin": -8.3,
+    "momentum_trend": -7.1,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -7.1 PPG over the last 3 weeks."
+    ]
+  },
+  "williston": {
+    "team": "Williston",
+    "state": "FL",
+    "division": "RURAL",
+    "region": 1,
+    "record": "7-4",
+    "games_played": 11,
+    "avg_points_scored": 29.7,
+    "avg_points_allowed": 19.3,
+    "season_net_margin": 10.4,
+    "last_3_game_margin": -0.7,
+    "momentum_trend": -11.1,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -11.1 PPG over the last 3 weeks."
+    ]
+  },
+  "miami palmetto": {
+    "team": "Miami Palmetto",
+    "state": "FL",
+    "division": "7A",
+    "region": 1,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 17.3,
+    "avg_points_allowed": 32.7,
+    "season_net_margin": -15.4,
+    "last_3_game_margin": -16.3,
+    "momentum_trend": -0.9,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "blountstown": {
+    "team": "Blountstown",
+    "state": "FL",
+    "division": "RURAL",
+    "region": 1,
+    "record": "7-4",
+    "games_played": 11,
+    "avg_points_scored": 27.4,
+    "avg_points_allowed": 20.5,
+    "season_net_margin": 6.9,
+    "last_3_game_margin": -2.7,
+    "momentum_trend": -9.6,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -9.6 PPG over the last 3 weeks."
+    ]
+  },
+  "madison": {
+    "team": "Madison",
+    "state": "FL",
+    "division": "3A",
+    "region": 1,
+    "record": "3-8",
+    "games_played": 11,
+    "avg_points_scored": 20.5,
+    "avg_points_allowed": 29.7,
+    "season_net_margin": -9.2,
+    "last_3_game_margin": -20.0,
+    "momentum_trend": -10.8,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -10.8 PPG over the last 3 weeks."
+    ]
+  },
+  "mainland": {
+    "team": "Mainland",
+    "state": "FL",
+    "division": "5A",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 17.2,
+    "avg_points_allowed": 27.8,
+    "season_net_margin": -10.6,
+    "last_3_game_margin": -11.0,
+    "momentum_trend": -0.4,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "cardinal newman": {
+    "team": "Cardinal Newman",
+    "state": "FL",
+    "division": "2A",
+    "region": 1,
+    "record": "5-6",
+    "games_played": 11,
+    "avg_points_scored": 21.3,
+    "avg_points_allowed": 26.4,
+    "season_net_margin": -5.1,
+    "last_3_game_margin": -11.0,
+    "momentum_trend": -5.9,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "plantation": {
+    "team": "Plantation",
+    "state": "FL",
+    "division": "4A",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 19.1,
+    "avg_points_allowed": 26.4,
+    "season_net_margin": -7.3,
+    "last_3_game_margin": -12.7,
+    "momentum_trend": -5.4,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "true north classical": {
+    "team": "True North Classical",
+    "state": "FL",
+    "division": "1A",
+    "region": 1,
+    "record": "4-7",
+    "games_played": 11,
+    "avg_points_scored": 21.2,
+    "avg_points_allowed": 27.1,
+    "season_net_margin": -5.9,
+    "last_3_game_margin": -13.7,
+    "momentum_trend": -7.8,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -7.8 PPG over the last 3 weeks."
+    ]
+  },
+  "edgewater": {
+    "team": "Edgewater",
+    "state": "FL",
+    "division": "5A",
+    "region": 1,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 14.7,
+    "avg_points_allowed": 32.2,
+    "season_net_margin": -17.5,
+    "last_3_game_margin": -17.3,
+    "momentum_trend": 0.2,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "monsignor pace": {
+    "team": "Monsignor Pace",
+    "state": "FL",
+    "division": "2A",
+    "region": 1,
+    "record": "4-7",
+    "games_played": 11,
+    "avg_points_scored": 21.5,
+    "avg_points_allowed": 29.3,
+    "season_net_margin": -7.8,
+    "last_3_game_margin": 3.3,
+    "momentum_trend": 11.1,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare.",
+      "Peaking in Postseason Play: Net margin surged +11.1 PPG over the last 3 games (+3.3 PPG)."
+    ]
+  },
+  "western": {
+    "team": "Western",
+    "state": "FL",
+    "division": "7A",
+    "region": 1,
+    "record": "0-9",
+    "games_played": 9,
+    "avg_points_scored": 11.6,
+    "avg_points_allowed": 39.7,
+    "season_net_margin": -28.1,
+    "last_3_game_margin": -26.0,
+    "momentum_trend": 2.1,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "wiregrass ranch": {
+    "team": "Wiregrass Ranch",
+    "state": "FL",
+    "division": "6A",
+    "region": 1,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 12.4,
+    "avg_points_allowed": 32.9,
+    "season_net_margin": -20.5,
+    "last_3_game_margin": -24.7,
+    "momentum_trend": -4.2,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "dunnellon": {
+    "team": "Dunnellon",
+    "state": "FL",
+    "division": "3A",
+    "region": 1,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 17.0,
+    "avg_points_allowed": 31.1,
+    "season_net_margin": -14.1,
+    "last_3_game_margin": -19.3,
+    "momentum_trend": -5.2,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "monarch": {
+    "team": "Monarch",
+    "state": "FL",
+    "division": "7A",
+    "region": 1,
+    "record": "0-9",
+    "games_played": 9,
+    "avg_points_scored": 12.2,
+    "avg_points_allowed": 39.2,
+    "season_net_margin": -27.0,
+    "last_3_game_margin": -19.0,
+    "momentum_trend": 8.0,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare.",
+      "Peaking in Postseason Play: Net margin surged +8.0 PPG over the last 3 games (-19.0 PPG)."
+    ]
+  },
+  "cardinal gibbons": {
+    "team": "Cardinal Gibbons",
+    "state": "FL",
+    "division": "1A",
+    "region": 1,
+    "record": "3-8",
+    "games_played": 11,
+    "avg_points_scored": 17.5,
+    "avg_points_allowed": 30.5,
+    "season_net_margin": -13.0,
+    "last_3_game_margin": -23.0,
+    "momentum_trend": -10.0,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -10.0 PPG over the last 3 weeks."
+    ]
+  },
+  "port st. joe": {
+    "team": "Port St. Joe",
+    "state": "FL",
+    "division": "RURAL",
+    "region": 1,
+    "record": "6-5",
+    "games_played": 11,
+    "avg_points_scored": 23.1,
+    "avg_points_allowed": 24.9,
+    "season_net_margin": -1.8,
+    "last_3_game_margin": 0.0,
+    "momentum_trend": 1.8,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "ponte vedra": {
+    "team": "Ponte Vedra",
+    "state": "FL",
+    "division": "5A",
+    "region": 1,
+    "record": "0-10",
+    "games_played": 10,
+    "avg_points_scored": 12.2,
+    "avg_points_allowed": 35.4,
+    "season_net_margin": -23.2,
+    "last_3_game_margin": -20.3,
+    "momentum_trend": 2.9,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "newberry": {
+    "team": "Newberry",
+    "state": "FL",
+    "division": "2A",
+    "region": 1,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 17.0,
+    "avg_points_allowed": 32.0,
+    "season_net_margin": -15.0,
+    "last_3_game_margin": -18.3,
+    "momentum_trend": -3.3,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "bradford": {
+    "team": "Bradford",
+    "state": "FL",
+    "division": "2A",
+    "region": 1,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 16.6,
+    "avg_points_allowed": 34.5,
+    "season_net_margin": -17.9,
+    "last_3_game_margin": -21.7,
+    "momentum_trend": -3.8,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "nease": {
+    "team": "Nease",
+    "state": "FL",
+    "division": "6A",
+    "region": 1,
+    "record": "0-10",
+    "games_played": 10,
+    "avg_points_scored": 11.1,
+    "avg_points_allowed": 40.1,
+    "season_net_margin": -29.0,
+    "last_3_game_margin": -25.0,
+    "momentum_trend": 4.0,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "university christian": {
+    "team": "University Christian",
+    "state": "FL",
+    "division": "1A",
+    "region": 1,
+    "record": "2-9",
+    "games_played": 11,
+    "avg_points_scored": 14.6,
+    "avg_points_allowed": 33.3,
+    "season_net_margin": -18.7,
+    "last_3_game_margin": -18.3,
+    "momentum_trend": 0.4,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "fleming island": {
+    "team": "Fleming Island",
+    "state": "FL",
+    "division": "5A",
+    "region": 1,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 12.1,
+    "avg_points_allowed": 39.6,
+    "season_net_margin": -27.5,
+    "last_3_game_margin": -28.7,
+    "momentum_trend": -1.2,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "union county": {
+    "team": "Union County",
+    "state": "FL",
+    "division": "RURAL",
+    "region": 1,
+    "record": "4-7",
+    "games_played": 11,
+    "avg_points_scored": 20.1,
+    "avg_points_allowed": 26.4,
+    "season_net_margin": -6.3,
+    "last_3_game_margin": -0.7,
+    "momentum_trend": 5.6,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "pahokee": {
+    "team": "Pahokee",
+    "state": "FL",
+    "division": "RURAL",
+    "region": 1,
+    "record": "5-6",
+    "games_played": 11,
+    "avg_points_scored": 20.2,
+    "avg_points_allowed": 28.1,
+    "season_net_margin": -7.9,
+    "last_3_game_margin": -16.7,
+    "momentum_trend": -8.8,
+    "close_game_record": "3-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -8.8 PPG over the last 3 weeks."
+    ]
+  },
+  "wakulla": {
+    "team": "Wakulla",
+    "state": "FL",
+    "division": "3A",
+    "region": 1,
+    "record": "1-10",
+    "games_played": 11,
+    "avg_points_scored": 14.7,
+    "avg_points_allowed": 38.9,
+    "season_net_margin": -24.2,
+    "last_3_game_margin": -21.0,
+    "momentum_trend": 3.2,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "jesuit (tampa)": {
+    "team": "Jesuit (Tampa)",
+    "state": "FL",
+    "division": "4A",
+    "region": 1,
+    "record": "0-9",
+    "games_played": 9,
+    "avg_points_scored": 11.4,
+    "avg_points_allowed": 38.8,
+    "season_net_margin": -27.4,
+    "last_3_game_margin": -23.0,
+    "momentum_trend": 4.4,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "fort meade": {
+    "team": "Fort Meade",
+    "state": "FL",
+    "division": "RURAL",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 20.4,
+    "avg_points_allowed": 28.7,
+    "season_net_margin": -8.3,
+    "last_3_game_margin": -7.7,
+    "momentum_trend": 0.6,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "jefferson": {
+    "team": "Jefferson",
+    "state": "FL",
+    "division": "3A",
+    "region": 1,
+    "record": "0-10",
+    "games_played": 10,
+    "avg_points_scored": 11.7,
+    "avg_points_allowed": 38.5,
+    "season_net_margin": -26.8,
+    "last_3_game_margin": -27.0,
+    "momentum_trend": -0.2,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "victory christian": {
+    "team": "Victory Christian",
+    "state": "FL",
+    "division": "1A",
+    "region": 1,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 14.5,
+    "avg_points_allowed": 37.6,
+    "season_net_margin": -23.1,
+    "last_3_game_margin": -32.3,
+    "momentum_trend": -9.2,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -9.2 PPG over the last 3 weeks."
+    ]
+  },
+  "lakewood": {
+    "team": "Lakewood",
+    "state": "FL",
+    "division": "2A",
+    "region": 1,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 11.9,
+    "avg_points_allowed": 38.6,
+    "season_net_margin": -26.7,
+    "last_3_game_margin": -30.7,
+    "momentum_trend": -4.0,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "baker": {
+    "team": "Baker",
+    "state": "FL",
+    "division": "RURAL",
+    "region": 1,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 17.3,
+    "avg_points_allowed": 34.9,
+    "season_net_margin": -17.6,
+    "last_3_game_margin": -18.3,
+    "momentum_trend": -0.7,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "saint andrew's": {
+    "team": "Saint Andrew's",
+    "state": "FL",
+    "division": "1A",
+    "region": 1,
+    "record": "0-10",
+    "games_played": 10,
+    "avg_points_scored": 10.6,
+    "avg_points_allowed": 40.0,
+    "season_net_margin": -29.4,
+    "last_3_game_margin": -23.7,
+    "momentum_trend": 5.7,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "sarasota booker": {
+    "team": "Sarasota Booker",
+    "state": "FL",
+    "division": "2A",
+    "region": 1,
+    "record": "0-10",
+    "games_played": 10,
+    "avg_points_scored": 12.9,
+    "avg_points_allowed": 38.0,
+    "season_net_margin": -25.1,
+    "last_3_game_margin": -17.7,
+    "momentum_trend": 7.4,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare.",
+      "Peaking in Postseason Play: Net margin surged +7.4 PPG over the last 3 games (-17.7 PPG)."
+    ]
+  },
+  "bozeman": {
+    "team": "Bozeman",
+    "state": "FL",
+    "division": "RURAL",
+    "region": 1,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 16.3,
+    "avg_points_allowed": 32.6,
+    "season_net_margin": -16.3,
+    "last_3_game_margin": -19.3,
+    "momentum_trend": -3.0,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  },
+  "holmes county": {
+    "team": "Holmes County",
+    "state": "FL",
+    "division": "RURAL",
+    "region": 1,
+    "record": "0-10",
+    "games_played": 10,
+    "avg_points_scored": 10.1,
+    "avg_points_allowed": 39.4,
+    "season_net_margin": -29.3,
+    "last_3_game_margin": -24.0,
+    "momentum_trend": 5.3,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Florida tournament trench warfare."
+    ]
+  }
+}

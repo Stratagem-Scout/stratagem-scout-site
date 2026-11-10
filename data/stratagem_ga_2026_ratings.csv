@@ -1,0 +1,506 @@
+rank,division_rank,team,state,division,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_scored,ppg_allowed,ppg_off,ppg_def,net_margin,off_index,def_index,playoff_points,harbin_avg,ppa,pqs,contender_tier,city,mascot
+1,1,Milton,GA,5A,GHSA 5A Region 7,10-0,10,0,0,10,98.6,98.6,64.0,73.2,1,32.6,16.2,32.6,16.2,16.4,62.0,60.9,125.62,89.9,89.9,89.9,State Title Contender,Milton,Eagles
+2,1,Peach County,GA,3A,GHSA 3A Region 2,10-0,10,0,0,10,98.5,98.5,63.56,72.0,2,33.5,15.4,33.5,15.4,18.1,63.3,62.0,125.2,89.0,89.0,89.0,State Title Contender,Fort Valley,Trojans
+3,1,Toombs County,GA,1A-D1,GHSA 1A-D1 Region 3,10-0,10,0,0,10,98.5,98.5,63.13,70.7,3,25.2,12.6,25.2,12.6,12.6,51.7,66.0,124.75,88.03,88.03,88.03,State Title Contender,Lyons,Bulldogs
+4,1,Bowdon,GA,1A-D2,GHSA 1A-D2 Region 7,10-0,10,0,0,10,98.4,98.4,62.91,70.0,4,29.5,12.3,29.5,12.3,17.2,57.7,66.4,124.5,87.5,87.5,87.5,State Title Contender,Bowdon,Red Devils
+5,1,Buford,GA,6A,GHSA 6A Region 8,9-1,9,1,0,10,98.4,98.4,62.48,76.5,5,28.0,14.8,28.0,14.8,13.2,55.6,62.9,116.78,85.88,85.88,85.88,State Title Contender,Buford,Wolves
+6,1,Marist,GA,4A,GHSA 4A Region 5,9-1,9,1,0,10,98.3,98.3,62.05,72.8,6,30.7,14.4,30.7,14.4,16.3,59.4,63.4,115.48,83.1,83.1,83.1,State Title Contender,Atlanta,War Eagles
+7,2,Cartersville,GA,4A,GHSA 4A Region 7,9-1,9,1,0,10,98.2,98.2,61.62,73.7,7,31.6,12.9,31.6,12.9,18.7,60.6,65.5,115.8,83.78,83.78,83.78,State Title Contender,Cartersville,Purple Hurricanes
+8,1,Pierce County,GA,2A,GHSA 2A Region 3,8-2,8,2,0,10,98.2,98.2,61.19,69.8,8,30.0,14.9,30.0,14.9,15.1,58.4,62.7,104.43,74.35,74.35,74.35,State Title Contender,Blackshear,Bears
+9,2,Carrollton,GA,6A,GHSA 6A Region 2,7-3,7,3,0,10,98.0,98.0,60.35,74.5,9,27.8,14.8,27.8,14.8,13.0,55.3,62.9,96.08,71.38,71.38,71.38,State Title Contender,Carrollton,Trojans
+10,2,Thomas County Central,GA,5A,GHSA 5A Region 2,7-3,7,3,0,10,97.8,97.8,59.08,73.0,10,27.7,18.9,27.7,18.9,8.8,55.2,57.1,95.55,70.25,70.25,70.25,State Title Contender,Thomasville,Yellow Jackets
+11,2,Jefferson,GA,3A,GHSA 3A Region 8,8-2,8,2,0,10,97.4,97.4,57.01,72.1,11,31.5,17.4,31.5,17.4,14.1,60.5,59.2,105.23,76.07,76.07,76.07,State Title Contender,Jefferson,Dragons
+12,1,Prince Avenue Christian,GA,PRIV,GHSA Private Region 8,8-2,8,2,0,10,97.1,97.1,55.79,67.7,12,33.6,15.3,33.6,15.3,18.3,63.4,62.2,103.69,72.78,72.78,72.78,State Title Contender,Bogart,Wolverines
+13,2,Dublin,GA,1A-D1,GHSA 1A-D1 Region 2,9-1,9,1,0,10,96.9,96.9,55.18,68.8,13,30.0,15.9,30.0,15.9,14.1,58.4,61.3,114.08,80.1,80.1,80.1,State Title Contender,Dublin,Fighting Irish
+14,3,Grayson,GA,6A,GHSA 6A Region 4,6-4,6,4,0,10,96.6,96.6,54.18,76.0,14,16.8,16.0,16.8,16.0,0.8,39.9,61.2,86.6,66.0,66.0,66.0,State Title Contender,Loganville,Rams
+15,2,Carver-Columbus,GA,2A,GHSA 2A Region 1,8-2,8,2,0,10,96.2,96.2,52.8,69.9,15,32.8,15.0,32.8,15.0,17.8,62.3,62.6,104.47,74.43,74.43,74.43,State Title Contender,Columbus,Varsity
+16,3,Lee County,GA,5A,GHSA 5A Region 2,6-4,6,4,0,10,95.8,95.8,51.63,73.0,16,20.1,18.0,20.1,18.0,2.1,44.5,58.4,85.55,63.75,63.75,63.75,State Title Contender,Leesburg,Trojans
+17,4,Douglas County,GA,6A,GHSA 6A Region 2,7-3,7,3,0,10,95.4,95.4,50.66,74.2,17,20.6,16.2,20.6,16.2,4.4,45.2,60.9,95.97,71.15,71.15,71.15,State Title Contender,Douglasville,Tigers
+18,2,Brooks County,GA,1A-D2,GHSA 1A-D2 Region 2,8-2,8,2,0,10,95.3,95.3,50.28,67.7,18,30.9,15.3,30.9,15.3,15.6,59.7,62.2,103.69,72.78,72.78,72.78,State Title Contender,Quitman,Trojans
+19,2,Savannah Christian,GA,PRIV,GHSA Private Region 3,9-1,9,1,0,10,95.0,95.0,49.71,68.8,19,33.5,16.7,33.5,16.7,16.8,63.3,60.2,114.08,80.1,80.1,80.1,State Title Contender,Savannah,Raiders
+20,3,North Oconee,GA,4A,GHSA 4A Region 8,5-5,5,5,0,10,93.2,93.2,46.02,72.5,20,18.6,19.5,18.6,19.5,-0.9,42.4,56.3,75.38,56.88,56.88,56.88,State Title Contender,Bogart,Titans
+21,4,Coffee,GA,5A,GHSA 5A Region 2,7-3,7,3,0,10,91.9,91.9,43.73,71.7,21,25.0,20.3,25.0,20.3,4.7,51.4,55.2,95.09,69.28,69.28,69.28,State Title Contender,Douglas,Trojans
+22,5,Langston Hughes,GA,5A,GHSA 5A Region 3,3-7,3,7,0,10,91.5,91.5,43.21,73.8,22,18.1,21.6,18.1,21.6,-3.5,41.7,53.4,55.83,44.85,44.85,44.85,State Title Contender,Fairburn,Panthers
+23,3,Sandy Creek,GA,3A,GHSA 3A Region 2,3-7,3,7,0,10,91.1,91.1,42.53,71.9,23,15.2,20.7,15.2,20.7,-5.5,37.7,54.6,55.16,43.43,43.43,43.43,State Title Contender,Tyrone,Patriots
+24,3,Rockmart,GA,2A,GHSA 2A Region 7,5-5,5,5,0,10,91.0,91.0,42.36,71.0,24,16.4,19.3,16.4,19.3,-2.9,39.4,56.6,74.85,55.75,55.75,55.75,State Title Contender,Rockmart,Yellowjackets
+25,5,Colquitt County,GA,6A,GHSA 6A Region 1,7-3,7,3,0,10,90.6,90.6,41.85,73.8,25,19.6,16.3,19.6,16.3,3.3,43.8,60.8,95.83,70.85,70.85,70.85,State Title Contender,Moultrie,Packers
+26,3,Fitzgerald,GA,1A-D1,GHSA 1A-D1 Region 1,4-6,4,6,0,10,89.5,89.5,40.36,70.0,26,16.3,17.9,16.3,17.9,-1.6,39.2,58.5,64.5,48.5,48.5,48.5,State Title Contender,Fitzgerald,Hurricane
+27,4,Calhoun,GA,3A,GHSA 3A Region 7,5-5,5,5,0,10,88.5,88.5,39.08,70.0,27,18.9,16.5,18.9,16.5,2.4,42.9,60.5,74.5,55.0,55.0,55.0,State Title Contender,Calhoun,Yellow Jackets
+28,4,Benedictine,GA,4A,GHSA 4A Region 1,4-6,4,6,0,10,88.5,88.5,39.08,72.5,28,21.1,22.9,21.1,22.9,-1.8,45.9,51.5,65.38,50.38,50.38,50.38,State Title Contender,Savannah,Cadets
+29,6,Newton,GA,6A,GHSA 6A,10-0,10,0,0,10,88.0,88.0,38.52,74.1,29,49.5,18.8,49.5,18.8,30.7,85.7,57.3,125.94,35.0,65.0,10.0,State Title Contender,Covington,Rams
+30,3,Hebron Christian,GA,PRIV,GHSA Private Region 8,5-5,5,5,0,10,88.0,88.0,38.45,66.9,30,18.6,18.9,18.6,18.9,-0.3,42.4,57.1,73.41,52.68,52.68,52.68,State Title Contender,Dacula,Lions
+31,3,Irwin County,GA,1A-D2,GHSA 1A-D2 Region 2,4-6,4,6,0,10,88.0,88.0,38.45,67.8,31,19.5,21.1,19.5,21.1,-1.6,43.7,54.1,63.73,46.85,46.85,46.85,State Title Contender,Ocilla,Indians
+32,7,Valdosta,GA,6A,GHSA 6A Region 1,1-9,1,9,0,10,87.4,87.4,37.8,73.8,32,19.0,24.6,19.0,24.6,-5.6,43.0,49.2,35.83,35.0,35.0,35.0,State Title Contender,Valdosta,Wildcats
+33,4,Burke County,GA,2A,GHSA 2A Region 4,5-5,5,5,0,10,87.3,87.3,37.7,71.1,33,19.6,15.8,19.6,15.8,3.8,43.8,61.5,74.88,55.82,55.82,55.82,State Title Contender,Waynesboro,Bears
+34,4,Manchester,GA,1A-D2,GHSA 1A-D2 Region 6,6-4,6,4,0,10,87.2,87.2,37.5,68.9,34,18.4,18.4,18.4,18.4,0.0,42.2,57.8,84.12,60.68,60.68,60.68,State Title Contender,Manchester,Blue Devils
+35,5,Cairo,GA,3A,GHSA 3A Region 1,6-4,6,4,0,10,86.5,86.5,36.7,69.4,35,20.2,22.5,20.2,22.5,-2.3,44.7,52.1,84.29,61.05,61.05,61.05,State Title Contender,Cairo,Syrupmakers
+36,6,Gainesville,GA,5A,GHSA 5A Region 7,5-5,5,5,0,10,86.5,86.5,36.7,72.8,36,19.1,21.1,19.1,21.1,-2.0,43.1,54.1,75.48,57.1,57.1,57.1,State Title Contender,Gainesville,Red Elephants
+37,5,Blessed Trinity,GA,4A,GHSA 4A Region 6,4-6,4,6,0,10,86.1,86.1,36.3,71.5,37,19.6,22.3,19.6,22.3,-2.7,43.8,52.4,65.03,49.62,49.62,49.62,State Title Contender,Roswell,Titans
+38,4,Worth County,GA,1A-D1,GHSA 1A-D1 Region 1,4-6,4,6,0,10,86.1,86.1,36.3,68.9,38,19.2,18.6,19.2,18.6,0.6,43.3,57.6,64.12,47.68,47.68,47.68,State Title Contender,Sylvester,Rams
+39,4,Fellowship Christian,GA,PRIV,GHSA Private Region 6,5-5,5,5,0,10,85.5,85.5,35.6,68.0,39,20.1,18.5,20.1,18.5,1.6,44.5,57.7,73.8,53.5,53.5,53.5,State Title Contender,Roswell,Paladins
+40,8,North Gwinnett,GA,6A,GHSA 6A Region 7,4-6,4,6,0,10,85.2,85.2,35.3,72.2,40,15.2,18.4,15.2,18.4,-3.2,37.7,57.8,65.27,50.15,50.15,50.15,State Title Contender,Suwanee,Bulldogs
+41,5,Appling County,GA,2A,GHSA 2A Region 3,5-5,5,5,0,10,84.9,84.9,35.01,69.3,41,17.8,23.1,17.8,23.1,-5.3,41.3,51.3,74.25,54.47,54.47,54.47,Regional Contender,Baxley,Pirates
+42,6,Creekside,GA,4A,GHSA 4A Region 4,5-5,5,5,0,10,84.9,84.9,35.01,70.9,42,21.2,20.6,21.2,20.6,0.6,46.1,54.8,74.81,55.68,55.68,55.68,Regional Contender,Fairburn,Seminoles
+43,5,Northeast Macon,GA,1A-D1,GHSA 1A-D1 Region 2,4-6,4,6,0,10,83.7,83.7,33.77,70.1,43,17.9,20.9,17.9,20.9,-3.0,41.5,54.3,64.53,48.57,48.57,48.57,Regional Contender,Macon,Varsity
+44,7,Woodward Academy,GA,5A,GHSA 5A Region 4,5-5,5,5,0,10,82.8,82.8,32.84,71.0,44,16.9,19.1,16.9,19.1,-2.2,40.1,56.9,74.85,55.75,55.75,55.75,Regional Contender,College Park,War Eagles
+45,5,Clinch County,GA,1A-D2,GHSA 1A-D2 Region 2,4-6,4,6,0,10,82.1,82.1,32.07,67.6,45,20.3,19.4,20.3,19.4,0.9,44.8,56.4,63.66,46.7,46.7,46.7,Regional Contender,Homerville,Panthers
+46,9,Collins Hill,GA,6A,GHSA 6A Region 8,7-3,7,3,0,10,81.7,81.7,31.7,73.3,46,18.8,17.6,18.8,17.6,1.2,42.7,59.0,95.66,70.47,70.47,70.47,Regional Contender,Suwanee,Eagles
+47,8,Roswell,GA,5A,GHSA 5A Region 7,2-8,2,8,0,10,81.5,81.5,31.46,71.9,47,12.7,16.9,12.7,16.9,-4.2,34.2,59.9,45.16,36.93,36.93,36.93,Regional Contender,Roswell,Hornets
+48,10,Westlake,GA,6A,GHSA 6A,8-2,8,2,0,10,81.4,81.4,31.44,75.4,48,43.2,29.4,43.2,29.4,13.8,76.9,42.4,106.39,28.0,52.0,8.0,Regional Contender,Atlanta,Lions
+49,11,Mill Creek,GA,6A,GHSA 6A Region 8,3-7,3,7,0,10,80.8,80.8,30.76,74.4,49,15.8,18.9,15.8,18.9,-3.1,38.5,57.1,56.04,45.3,45.3,45.3,Regional Contender,Hoschton,Hawks
+50,6,Swainsboro,GA,1A-D1,GHSA 1A-D1 Region 3,5-5,5,5,0,10,80.6,80.6,30.64,69.5,50,17.7,17.9,17.7,17.9,-0.2,41.2,58.5,74.33,54.62,54.62,54.62,Regional Contender,Swainsboro,Tigers
+51,5,Calvary Day,GA,PRIV,GHSA Private Region 3,4-6,4,6,0,10,80.4,80.4,30.42,66.0,51,16.8,21.4,16.8,21.4,-4.6,39.9,53.6,63.1,45.5,45.5,45.5,Regional Contender,Savannah,Cavaliers
+52,6,Morgan County,GA,2A,GHSA 2A Region 8,7-3,7,3,0,10,79.6,79.6,29.6,69.2,52,18.6,17.5,18.6,17.5,1.1,42.4,59.1,94.22,67.4,67.4,67.4,Regional Contender,Madison,Bulldogs
+53,6,LaGrange,GA,3A,GHSA 3A Region 2,6-4,6,4,0,10,79.6,79.6,29.6,71.3,53,16.0,18.4,16.0,18.4,-2.4,38.8,57.8,84.95,62.47,62.47,62.47,Regional Contender,LaGrange,Grangers
+54,7,Stephens County,GA,2A,GHSA 2A Region 8,3-7,3,7,0,10,79.6,79.6,29.6,68.3,54,18.2,20.7,18.2,20.7,-2.5,41.9,54.6,53.91,40.72,40.72,40.72,Regional Contender,Toccoa,Indians
+55,12,North Cobb,GA,6A,GHSA 6A,8-2,8,2,0,10,79.2,79.2,29.17,72.5,55,36.3,18.6,36.3,18.6,17.7,67.2,57.6,105.38,28.0,52.0,8.0,Regional Contender,Kennesaw,Warriors
+56,7,Stephenson,GA,3A,GHSA 3A Region 5,2-8,2,8,0,10,79.1,79.1,29.1,71.0,56,17.5,21.3,17.5,21.3,-3.8,40.9,53.8,44.85,36.25,36.25,36.25,Regional Contender,Stone Mountain,Jaguars
+57,7,Ware County,GA,4A,GHSA 4A Region 1,4-6,4,6,0,10,79.0,79.0,29.0,70.5,57,17.0,23.0,17.0,23.0,-6.0,40.2,51.4,64.67,48.88,48.88,48.88,Regional Contender,Waycross,Gators
+58,13,East Coweta,GA,6A,GHSA 6A,6-4,6,4,0,10,78.7,78.7,28.74,77.7,58,31.1,24.6,31.1,24.6,6.5,59.9,49.2,87.19,21.0,39.0,6.0,Regional Contender,Sharpsburg,Indians
+59,14,Parkview,GA,6A,GHSA 6A,7-3,7,3,0,10,78.6,78.6,28.56,72.8,59,45.3,26.8,45.3,26.8,18.5,79.8,46.1,95.48,24.5,45.5,7.0,Regional Contender,Lilburn,Panthers
+60,6,Schley County,GA,1A-D2,GHSA 1A-D2 Region 6,7-3,7,3,0,10,77.8,77.8,27.8,66.5,60,17.3,21.4,17.3,21.4,-4.1,40.6,53.6,93.28,65.38,65.38,65.38,Regional Contender,Ellaville,Wildcats
+61,6,Aquinas,GA,PRIV,GHSA Private Region 4,4-6,4,6,0,10,77.7,77.7,27.7,67.7,61,16.9,18.2,16.9,18.2,-1.3,40.1,58.1,63.7,46.78,46.78,46.78,Regional Contender,Augusta,Fightin Irish
+62,9,Rome,GA,5A,GHSA 5A Region 5,5-5,5,5,0,10,77.6,77.6,27.6,70.6,62,21.9,24.1,21.9,24.1,-2.2,47.1,49.9,74.71,55.45,55.45,55.45,Regional Contender,Rome,Wolves
+63,10,Houston County,GA,5A,GHSA 5A Region 2,3-7,3,7,0,10,77.0,77.0,27.0,71.5,63,21.2,24.1,21.2,24.1,-2.9,46.1,49.9,55.02,43.12,43.12,43.12,Regional Contender,Warner Robins,Bears
+64,8,Perry,GA,4A,GHSA 4A Region 1,4-6,4,6,0,10,76.9,76.9,26.9,71.1,64,17.7,19.3,17.7,19.3,-1.6,41.2,56.6,64.88,49.32,49.32,49.32,Regional Contender,Perry,Panthers
+65,7,David Emanuel Academy,GA,PRIV,GHSA PRIV,11-0,11,0,0,11,76.6,76.6,26.6,55.0,65,47.5,12.1,47.5,12.1,35.4,82.9,66.7,119.25,35.0,65.0,10.0,Regional Contender,Stillmore,Eagles
+66,8,Unity Christian,GA,PRIV,GHSA PRIV,9-0,9,0,0,9,76.6,76.6,26.6,55.0,66,46.7,11.4,46.7,11.4,35.3,81.8,67.6,119.25,35.0,65.0,10.0,Regional Contender,Rome,Lions
+67,15,Walton,GA,6A,GHSA 6A Region 5,4-6,4,6,0,10,76.6,76.6,26.6,73.3,67,17.6,19.8,17.6,19.8,-2.2,41.0,55.9,65.66,50.97,50.97,50.97,Regional Contender,Marietta,Raiders
+68,7,Lincoln County,GA,1A-D2,GHSA 1A-D2 Region 8,2-8,2,8,0,10,76.6,76.6,26.6,68.4,68,18.5,23.3,18.5,23.3,-4.8,42.3,51.0,43.94,35.0,35.0,35.0,Regional Contender,Lincolnton,Red Devils
+69,8,cherokee Bluff,GA,3A,GHSA 3A Region 8,5-5,5,5,0,10,76.5,76.5,26.5,68.8,69,21.2,20.7,21.2,20.7,0.5,46.1,54.6,74.08,54.1,54.1,54.1,Regional Contender,Flowery Branch,Bears
+70,11,Sequoyah,GA,5A,GHSA 5A Region 6,7-3,7,3,0,10,76.0,76.0,26.0,72.0,70,19.6,20.2,19.6,20.2,-0.6,43.8,55.3,95.2,69.5,69.5,69.5,Regional Contender,Canton,Chiefs
+71,7,Lamar County,GA,1A-D1,GHSA 1A-D1 Region 4,3-7,3,7,0,10,75.8,75.8,25.8,67.9,71,18.9,19.1,18.9,19.1,-0.2,42.9,56.9,53.77,40.43,40.43,40.43,Regional Contender,Barnesville,Trojans
+72,16,Marietta,GA,6A,GHSA 6A,6-4,6,4,0,10,75.2,75.2,25.17,72.3,72,38.3,25.8,38.3,25.8,12.5,70.0,47.5,85.3,21.0,39.0,6.0,Regional Contender,Marietta,Blue Devils
+73,17,South Gwinnett,GA,6A,GHSA 6A,6-4,6,4,0,10,75.0,75.0,25.03,74.7,73,29.9,31.3,29.9,31.3,-1.4,58.3,39.8,86.14,21.0,39.0,6.0,Regional Contender,Snellville,Comets
+74,8,Callaway,GA,2A,GHSA 2A Region 2,4-6,4,6,0,10,75.0,75.0,25.0,68.9,74,17.7,21.6,17.7,21.6,-3.9,41.2,53.4,64.12,47.68,47.68,47.68,Regional Contender,Hogansville,Cavaliers
+75,18,Jackson County,GA,6A,GHSA 6A,10-0,10,0,0,10,75.0,75.0,24.98,66.8,75,45.9,14.8,45.9,14.8,31.1,80.7,62.9,123.38,35.0,65.0,10.0,Regional Contender,Jefferson,Panthers
+76,19,Richmond Hill,GA,6A,GHSA 6A,5-5,5,5,0,10,74.4,74.4,24.44,76.8,76,23.4,24.9,23.4,24.9,-1.5,49.2,48.7,76.88,17.5,32.5,5.0,Regional Contender,Richmond Hill,Wildcats
+77,9,Stockbridge,GA,4A,GHSA 4A Region 2,6-4,6,4,0,10,74.3,74.3,24.3,72.0,77,20.5,20.6,20.5,20.6,-0.1,45.1,54.8,85.2,63.0,63.0,63.0,Regional Contender,Stockbridge,Tigers
+78,8,Fannin County,GA,1A-D1,GHSA 1A-D1 Region 7,5-5,5,5,0,10,74.2,74.2,24.2,66.6,78,19.8,24.3,19.8,24.3,-4.5,44.1,49.6,73.31,52.45,52.45,52.45,Regional Contender,Blue Ridge,Rebels
+79,20,East Paulding,GA,6A,GHSA 6A,10-0,10,0,0,10,74.0,74.0,23.98,65.7,79,41.0,13.5,41.0,13.5,27.5,73.8,64.7,123.0,35.0,65.0,10.0,Regional Contender,Dallas,Raiders
+80,21,Archer,GA,6A,GHSA 6A,5-5,5,5,0,10,73.6,73.6,23.56,76.0,80,25.2,27.1,25.2,27.1,-1.9,51.7,45.7,76.6,17.5,32.5,5.0,Playoff Qualifier,Lawrenceville,Tigers
+81,9,Victory Baptist,GA,PRIV,GHSA PRIV,8-1,8,1,0,9,73.5,73.5,23.49,53.4,81,40.6,12.3,40.6,12.3,28.3,73.2,66.4,107.58,31.11,57.78,8.89,Playoff Qualifier,Loganville,Warrior
+82,22,North Paulding,GA,6A,GHSA 6A,8-2,8,2,0,10,73.3,73.3,23.26,69.9,82,31.3,12.2,31.3,12.2,19.1,60.2,66.5,104.47,28.0,52.0,8.0,Playoff Qualifier,Dallas,Wolfpack
+83,8,Metter,GA,1A-D2,GHSA 1A-D2 Region 3,5-5,5,5,0,10,73.1,73.1,23.1,67.2,83,19.0,18.7,19.0,18.7,0.3,43.0,57.4,73.52,52.9,52.9,52.9,Playoff Qualifier,Metter,Tigers
+84,9,Bainbridge,GA,3A,GHSA 3A Region 1,4-6,4,6,0,10,72.8,72.8,22.8,70.8,84,20.9,24.5,20.9,24.5,-3.6,45.7,49.3,64.78,49.1,49.1,49.1,Playoff Qualifier,Bainbridge,Bearcats
+85,23,Lowndes,GA,6A,GHSA 6A Region 1,2-8,2,8,0,10,72.7,72.7,22.7,71.2,85,16.8,22.4,16.8,22.4,-5.6,39.9,52.2,44.92,36.4,36.4,36.4,Playoff Qualifier,Valdosta,Vikings
+86,10,North Georgia HomeSchool,GA,3A,GHSA 3A,9-1,9,1,0,10,72.2,72.2,22.18,53.6,86,35.2,10.8,35.2,10.8,24.4,65.7,68.5,108.76,31.5,58.5,9.0,Playoff Qualifier,Dawsonville,Tribe
+87,12,Dalton,GA,5A,GHSA 5A,8-2,8,2,0,10,72.2,72.2,22.18,70.1,87,42.3,22.1,42.3,22.1,20.2,75.6,52.7,104.53,28.0,52.0,8.0,Playoff Qualifier,Dalton,Catamounts
+88,9,Thomasville,GA,1A-D1,GHSA 1A-D1 Region 1,5-5,5,5,0,10,71.8,71.8,21.8,67.5,88,21.9,20.5,21.9,20.5,1.4,47.1,54.9,73.62,53.12,53.12,53.12,Playoff Qualifier,Thomasville,Bulldogs
+89,24,Peachtree Ridge,GA,6A,GHSA 6A,7-3,7,3,0,10,71.7,71.7,21.7,70.9,89,27.3,25.3,27.3,25.3,2.0,54.6,48.2,94.81,24.5,45.5,7.0,Playoff Qualifier,Suwanee,Lions
+90,25,Camden County,GA,6A,GHSA 6A Region 1,3-7,3,7,0,10,71.5,71.5,21.5,72.2,90,15.2,31.4,15.2,31.4,-16.2,37.7,39.6,55.27,43.65,43.65,43.65,Playoff Qualifier,Kingsland,Wildcats
+91,26,Tift County,GA,6A,GHSA 6A,4-6,4,6,0,10,70.7,70.7,20.67,75.4,91,23.3,30.0,23.3,30.0,-6.7,49.0,41.6,66.39,14.0,26.0,4.0,Playoff Qualifier,Tifton,Blue Devils
+92,10,Griffin Christian,GA,PRIV,GHSA PRIV,9-1,9,1,0,10,70.1,70.1,20.11,53.6,92,38.2,18.4,38.2,18.4,19.8,69.9,57.8,108.76,31.5,58.5,9.0,Playoff Qualifier,Griffin,Titans
+93,11,John Milledge Academy,GA,3A,GHSA 3A,11-0,11,0,0,11,70.1,70.1,20.07,62.7,93,39.6,9.1,39.6,9.1,30.5,71.8,70.9,121.94,35.0,65.0,10.0,Playoff Qualifier,Milledgeville,Trojans
+94,9,Cook,GA,2A,GHSA 2A Region 3,3-7,3,7,0,10,69.8,69.8,19.8,69.2,94,14.5,19.9,14.5,19.9,-5.4,36.7,55.7,54.22,41.4,41.4,41.4,Playoff Qualifier,Adel,Hornets
+95,12,Holy Innocents Episcopal,GA,3A,GHSA 3A,10-0,10,0,0,10,69.6,69.6,19.64,64.7,95,36.8,8.9,36.8,8.9,27.9,67.9,71.1,122.64,35.0,65.0,10.0,Playoff Qualifier,Atlanta,Bears
+96,11,Whitefield Academy,GA,PRIV,GHSA Private Region 6,2-8,2,8,0,10,69.5,69.5,19.5,67.0,96,16.0,21.8,16.0,21.8,-5.8,38.8,53.1,43.45,35.0,35.0,35.0,Playoff Qualifier,Mableton,Wolfpack
+97,12,Vidalia Heritage Academy,GA,PRIV,GHSA PRIV,9-2,9,2,0,11,69.3,69.3,19.3,52.5,97,44.7,21.6,44.7,21.6,23.1,79.0,53.4,100.19,28.64,53.18,8.18,Playoff Qualifier,Vidalia,Eagles
+98,10,Monroe Area,GA,4A,GHSA 4A,10-0,10,0,0,10,69.0,69.0,18.99,63.0,98,43.0,13.7,43.0,13.7,29.3,76.6,64.4,122.05,35.0,65.0,10.0,Playoff Qualifier,Monroe,Purple Hurricanes
+99,13,First Presbyterian Day,GA,PRIV,GHSA Private Region 4,6-5,6,5,0,11,68.9,68.9,18.9,63.7,99,22.2,15.2,22.2,15.2,7.0,47.5,62.3,76.84,50.28,50.28,50.28,Playoff Qualifier,Macon,Vikings
+100,14,Citizens Christian Academy,GA,PRIV,GHSA PRIV,9-2,9,2,0,11,68.7,68.7,18.67,52.5,100,35.0,13.3,35.0,13.3,21.7,65.4,65.0,100.19,28.64,53.18,8.18,Playoff Qualifier,Douglas,Patriots
+101,27,Newnan,GA,6A,GHSA 6A,6-4,6,4,0,10,68.7,68.7,18.67,71.2,101,34.9,26.4,34.9,26.4,8.5,65.3,46.6,84.92,21.0,39.0,6.0,Playoff Qualifier,Newnan,Cougars
+102,28,Lambert,GA,6A,GHSA 6A,5-5,5,5,0,10,68.6,68.6,18.59,71.9,102,27.6,26.3,27.6,26.3,1.3,55.0,46.8,75.16,17.5,32.5,5.0,Playoff Qualifier,Suwanee,Longhorns
+103,29,Norcross,GA,6A,GHSA 6A,5-5,5,5,0,10,68.5,68.5,18.55,71.1,103,24.3,27.2,24.3,27.2,-2.9,50.4,45.5,74.88,17.5,32.5,5.0,Playoff Qualifier,Norcross,Blue Devils
+104,30,Hillgrove,GA,6A,GHSA 6A,7-3,7,3,0,10,68.5,68.5,18.49,71.1,104,34.1,24.4,34.1,24.4,9.7,64.1,49.4,94.88,24.5,45.5,7.0,Playoff Qualifier,Powder Springs,Hawks
+105,15,Praise Academy,GA,PRIV,GHSA PRIV,8-1,8,1,0,9,68.3,68.3,18.31,53.4,105,35.6,19.1,35.6,19.1,16.5,66.2,56.9,107.58,31.11,57.78,8.89,Playoff Qualifier,Powder Springs,Lions
+106,31,Harrison,GA,6A,GHSA 6A,6-4,6,4,0,10,68.2,68.2,18.16,69.8,106,31.5,18.8,31.5,18.8,12.7,60.5,57.3,84.43,21.0,39.0,6.0,Playoff Qualifier,Kennesaw,Hoyas
+107,9,Screven County,GA,1A-D2,GHSA 1A-D2 Region 3,3-7,3,7,0,10,68.1,68.1,18.1,66.1,107,15.4,22.6,15.4,22.6,-7.2,38.0,52.0,53.13,39.07,39.07,39.07,Playoff Qualifier,Sylvania,Gamecocks
+108,16,Lafayette Christian,GA,PRIV,GHSA PRIV,8-1,8,1,0,9,68.1,68.1,18.09,53.4,108,40.8,24.8,40.8,24.8,16.0,73.5,48.9,107.58,31.11,57.78,8.89,Playoff Qualifier,Lagrange,Cougars
+109,13,Tucker,GA,5A,GHSA 5A,9-1,9,1,0,10,67.9,67.9,17.92,66.3,109,34.4,10.4,34.4,10.4,24.0,64.6,69.0,113.2,31.5,58.5,9.0,Playoff Qualifier,Tucker,Tigers
+110,14,Ola,GA,5A,GHSA 5A,8-2,8,2,0,10,67.8,67.8,17.81,64.5,110,38.3,10.3,38.3,10.3,28.0,70.0,69.2,102.58,28.0,52.0,8.0,Playoff Qualifier,Mcdonough,Mustangs
+111,10,Johnson County,GA,1A-D1,GHSA 1A-D1,10-0,10,0,0,10,67.8,67.8,17.76,54.6,111,49.5,8.7,49.5,8.7,40.8,85.7,71.4,119.11,35.0,65.0,10.0,Playoff Qualifier,Wrightsville,Trojans
+112,10,Bremen,GA,2A,GHSA 2A,9-1,9,1,0,10,67.4,67.4,17.4,60.0,112,45.5,11.3,45.5,11.3,34.2,80.1,67.8,111.0,31.5,58.5,9.0,Playoff Qualifier,Bremen,Blue Devils
+113,15,Lithonia,GA,5A,GHSA 5A,6-4,6,4,0,10,67.3,67.3,17.27,72.5,113,24.2,17.6,24.2,17.6,6.6,50.3,59.0,85.38,21.0,39.0,6.0,Playoff Qualifier,Lithonia,Bulldogs
+114,13,Oconee County,GA,3A,GHSA 3A Region 8,1-9,1,9,0,10,67.1,67.1,17.1,70.5,114,18.8,36.3,18.8,36.3,-17.5,42.7,32.8,34.67,35.0,35.0,35.0,Playoff Qualifier,Watkinsville,Warriors
+115,14,Columbia,GA,3A,GHSA 3A,8-2,8,2,0,10,66.8,66.8,16.8,63.4,115,40.6,14.3,40.6,14.3,26.3,73.2,63.6,102.19,28.0,52.0,8.0,Playoff Qualifier,Decatur,Eagles
+116,11,Hapeville Charter,GA,2A,GHSA 2A Region 6,2-8,2,8,0,10,66.8,66.8,16.8,68.8,116,12.2,30.0,12.2,30.0,-17.8,33.5,41.6,44.08,35.0,35.0,35.0,Playoff Qualifier,Atlanta,Stingers
+117,16,Brunswick,GA,5A,GHSA 5A Region 1,0-10,0,10,0,10,66.8,66.8,16.8,70.1,117,15.5,29.9,15.5,29.9,-14.4,38.1,41.7,24.53,35.0,35.0,35.0,Playoff Qualifier,Brunswick,Pirates
+118,32,Kell,GA,6A,GHSA 6A,8-2,8,2,0,10,66.2,66.2,16.18,66.2,118,38.1,20.3,38.1,20.3,17.8,69.7,55.2,103.17,28.0,52.0,8.0,Playoff Qualifier,Marietta,Longhorns
+119,11,Stratford Academy,GA,4A,GHSA 4A,9-2,9,2,0,11,66.2,66.2,16.16,65.6,119,39.5,12.1,39.5,12.1,27.4,71.7,66.7,104.78,28.64,53.18,8.18,Playoff Qualifier,Macon,Eagles
+120,17,New Creation Christian Academy,GA,PRIV,GHSA PRIV,9-2,9,2,0,11,65.9,65.9,15.93,52.5,120,38.2,22.6,38.2,22.6,15.6,69.9,52.0,100.19,28.64,53.18,8.18,Playoff Qualifier,Mcdonough,Crusaders
+121,12,Jeff Davis,GA,2A,GHSA 2A,9-1,9,1,0,10,65.8,65.8,15.81,64.5,121,33.6,9.6,33.6,9.6,24.0,63.4,70.2,112.58,31.5,58.5,9.0,Playoff Qualifier,Hazlehurst,Yellowjackets
+122,12,Starr's Mill,GA,4A,GHSA 4A Region 4,0-10,0,10,0,10,65.8,65.8,15.8,69.6,122,11.5,34.0,11.5,34.0,-22.5,32.5,36.0,24.36,35.0,35.0,35.0,Playoff Qualifier,Fayetteville,Panthers
+123,13,Douglass,GA,4A,GHSA 4A,8-2,8,2,0,10,65.8,65.8,15.79,66.1,123,36.7,19.2,36.7,19.2,17.5,67.8,56.7,103.13,28.0,52.0,8.0,Playoff Qualifier,Atlanta,Astros
+124,18,Fullington Academy,GA,PRIV,GHSA PRIV,9-3,9,3,0,12,65.6,65.6,15.64,51.5,124,44.8,25.6,44.8,25.6,19.2,79.1,47.8,93.03,26.25,48.75,7.5,Playoff Qualifier,Pinehurst,Trojans
+125,15,Augusta Eagles,GA,3A,GHSA 3A,8-3,8,3,0,11,65.0,65.0,15.0,51.2,125,35.8,16.6,35.8,16.6,19.2,66.5,60.4,90.65,25.45,47.27,7.27,Playoff Qualifier,Martinez,Eagles
+126,33,North Forsyth,GA,6A,GHSA 6A,5-5,5,5,0,10,64.9,64.9,14.94,69.3,126,33.3,24.4,33.3,24.4,8.9,63.0,49.4,74.25,17.5,32.5,5.0,Playoff Qualifier,Cumming,Raiders
+127,16,Providence Athletic Club,GA,3A,GHSA 3A,7-3,7,3,0,10,64.9,64.9,14.91,50.8,127,36.3,15.6,36.3,15.6,20.7,67.2,61.8,87.78,24.5,45.5,7.0,Playoff Qualifier,Columbia,Panthers
+128,17,KIPP Atlanta Collegiate,GA,3A,GHSA 3A,7-3,7,3,0,10,64.7,64.7,14.7,66.4,128,34.2,11.0,34.2,11.0,23.2,64.3,68.2,93.24,24.5,45.5,7.0,Playoff Qualifier,Atlanta,Warriors
+129,34,Denmark,GA,6A,GHSA 6A,7-3,7,3,0,10,64.5,64.5,14.5,68.7,129,27.4,19.6,27.4,19.6,7.8,54.8,56.2,94.05,24.5,45.5,7.0,Playoff Qualifier,Alpharetta,Varsity
+130,19,Wesleyan,GA,PRIV,GHSA Private Region 7,2-8,2,8,0,10,64.5,64.5,14.5,66.2,130,13.3,32.3,13.3,32.3,-19.0,35.0,38.4,43.17,35.0,35.0,35.0,Playoff Qualifier,Peachtree Corners,Wolves
+131,11,Bleckley County,GA,1A-D1,GHSA 1A-D1 Region 2,1-9,1,9,0,10,64.5,64.5,14.5,66.2,131,16.1,35.3,16.1,35.3,-19.2,38.9,34.2,33.17,35.0,35.0,35.0,Playoff Qualifier,Cochran,Royals
+132,14,Bulloch Academy,GA,4A,GHSA 4A,10-1,10,1,0,11,64.2,64.2,14.16,60.5,132,41.5,11.1,41.5,11.1,30.4,74.5,68.1,112.08,31.82,59.09,9.09,Playoff Qualifier,Statesboro,Gators
+133,15,Man Class A from otherGAPPS,GA,4A,GHSA 4A,1-0,1,0,0,1,64.0,64.0,14.0,55.0,133,11.0,9.0,11.0,9.0,2.0,31.8,71.0,119.25,35.0,65.0,10.0,Playoff Qualifier,"Man Class A from otherGAPPS, GA",Varsity
+134,10,Trion,GA,1A-D2,GHSA 1A-D2 Region 7,1-9,1,9,0,10,64.0,64.0,14.0,64.8,134,14.8,31.1,14.8,31.1,-16.3,37.1,40.1,32.68,35.0,35.0,35.0,Playoff Qualifier,Trion,Bulldogs
+135,20,Bethesda Academy,GA,PRIV,GHSA PRIV,8-1,8,1,0,9,63.8,63.8,13.76,57.6,135,30.2,18.2,30.2,18.2,12.0,58.7,58.1,109.05,31.11,57.78,8.89,Playoff Qualifier,Savannah,Varsity
+136,17,Cass,GA,5A,GHSA 5A,8-2,8,2,0,10,63.7,63.7,13.73,68.5,136,28.6,24.5,28.6,24.5,4.1,56.4,49.3,103.97,28.0,52.0,8.0,Playoff Qualifier,White,Colonels
+137,18,Northeast,GA,3A,GHSA 3A,8-2,8,2,0,10,63.7,63.7,13.67,60.0,137,40.9,13.3,40.9,13.3,27.6,73.7,65.0,101.0,28.0,52.0,8.0,Playoff Qualifier,Macon,Raiders
+138,35,Clarke Central,GA,6A,GHSA 6A,8-2,8,2,0,10,63.6,63.6,13.6,66.8,138,27.3,13.1,27.3,13.1,14.2,54.6,65.3,103.38,28.0,52.0,8.0,Playoff Qualifier,Athens,Gladiators
+139,18,Richmond Academy,GA,5A,GHSA 5A,8-2,8,2,0,10,63.5,63.5,13.53,66.4,139,37.2,20.4,37.2,20.4,16.8,68.5,55.0,103.24,28.0,52.0,8.0,Playoff Qualifier,Augusta,Musketeers
+140,21,Lanier Christian Academy,GA,PRIV,GHSA PRIV,8-3,8,3,0,11,63.2,63.2,13.25,51.2,140,42.2,26.9,42.2,26.9,15.3,75.5,45.9,90.65,25.45,47.27,7.27,Playoff Qualifier,Flowery Branch,Lightning
+141,19,Hart County,GA,3A,GHSA 3A,9-1,9,1,0,10,63.1,63.1,13.13,63.1,141,42.1,21.1,42.1,21.1,21.0,75.3,54.1,112.09,31.5,58.5,9.0,Playoff Qualifier,Hartwell,Bulldogs
+142,36,Lassiter,GA,6A,GHSA 6A,8-2,8,2,0,10,63.0,63.0,12.96,64.6,142,38.6,17.2,38.6,17.2,21.4,70.4,59.5,102.61,28.0,52.0,8.0,Playoff Qualifier,Marietta,Trojans
+143,37,West Forsyth,GA,6A,GHSA 6A,4-6,4,6,0,10,62.9,62.9,12.86,73.0,143,20.2,30.9,20.2,30.9,-10.7,44.7,40.3,65.55,14.0,26.0,4.0,Playoff Qualifier,Cumming,Wolverines
+144,19,Jones County,GA,5A,GHSA 5A,6-4,6,4,0,10,62.6,62.6,12.57,70.1,144,33.4,24.7,33.4,24.7,8.7,63.2,49.0,84.53,21.0,39.0,6.0,Playoff Qualifier,Gray,Greyhounds
+145,38,Effingham County,GA,6A,GHSA 6A,7-3,7,3,0,10,62.4,62.4,12.39,65.7,145,37.3,21.3,37.3,21.3,16.0,68.6,53.8,93.0,24.5,45.5,7.0,Playoff Qualifier,Springfield,Rebels
+146,13,Commerce,GA,2A,GHSA 2A,9-1,9,1,0,10,62.4,62.4,12.37,59.6,146,41.2,11.7,41.2,11.7,29.5,74.1,67.2,110.86,31.5,58.5,9.0,Playoff Qualifier,Commerce,Tigers
+147,12,Taylor County,GA,1A-D1,GHSA 1A-D1,9-1,9,1,0,10,61.9,61.9,11.86,55.6,147,45.1,13.7,45.1,13.7,31.4,79.5,64.4,109.46,31.5,58.5,9.0,Playoff Qualifier,Butler,Vikings
+148,16,Dougherty,GA,4A,GHSA 4A,9-1,9,1,0,10,61.7,61.7,11.74,62.5,148,35.5,14.8,35.5,14.8,20.7,66.1,62.9,111.88,31.5,58.5,9.0,Playoff Qualifier,Albany,Trojans
+149,20,Southwest DeKalb,GA,5A,GHSA 5A,5-5,5,5,0,10,61.7,61.7,11.72,67.6,149,26.7,15.3,26.7,15.3,11.4,53.8,62.2,73.66,17.5,32.5,5.0,Playoff Qualifier,Decatur,Panthers
+150,22,Valwood,GA,PRIV,GHSA PRIV,9-2,9,2,0,11,61.6,61.6,11.63,59.2,150,42.1,14.5,42.1,14.5,27.6,75.3,63.3,102.54,28.64,53.18,8.18,Playoff Qualifier,Valdosta,Valiants
+151,21,Mays,GA,5A,GHSA 5A,9-1,9,1,0,10,61.5,61.5,11.51,64.9,151,21.8,13.0,21.8,13.0,8.8,46.9,65.4,112.72,31.5,58.5,9.0,Playoff Qualifier,Atlanta,Raiders
+152,39,New Manchester,GA,6A,GHSA 6A,7-3,7,3,0,10,61.1,61.1,11.09,63.9,152,28.5,13.0,28.5,13.0,15.5,56.3,65.4,92.36,24.5,45.5,7.0,Playoff Qualifier,Douglasville,Jaguar
+153,22,Cambridge,GA,5A,GHSA 5A,5-5,5,5,0,10,61.1,61.1,11.08,71.7,153,22.9,30.5,22.9,30.5,-7.6,48.5,40.9,75.09,17.5,32.5,5.0,Playoff Qualifier,Milton,Bears
+154,23,Jenkins,GA,5A,GHSA 5A,3-7,3,7,0,10,60.8,60.8,10.81,70.7,154,25.6,23.2,25.6,23.2,2.4,52.2,51.1,54.75,10.5,19.5,3.0,Playoff Qualifier,Savannah,Warriors
+155,17,Baldwin,GA,4A,GHSA 4A,7-3,7,3,0,10,60.6,60.6,10.58,69.1,155,34.5,29.8,34.5,29.8,4.7,64.7,41.9,94.19,24.5,45.5,7.0,Playoff Qualifier,Milledgeville,Braves
+156,18,North Hall,GA,4A,GHSA 4A,8-2,8,2,0,10,60.4,60.4,10.35,60.3,156,43.5,22.3,43.5,22.3,21.2,77.3,52.4,101.1,28.0,52.0,8.0,Playoff Qualifier,Gainesville,Trojans
+157,14,Mount Vernon,GA,2A,GHSA 2A,8-2,8,2,0,10,60.2,60.2,10.17,60.2,157,38.4,17.3,38.4,17.3,21.1,70.2,59.4,101.07,28.0,52.0,8.0,Playoff Qualifier,Atlanta,Mustangs
+158,20,Thomson,GA,3A,GHSA 3A,5-5,5,5,0,10,60.1,60.1,10.06,66.5,158,30.3,21.4,30.3,21.4,8.9,58.8,53.6,73.28,17.5,32.5,5.0,Playoff Qualifier,Thomson,Bulldogs
+159,19,Hampton,GA,4A,GHSA 4A,7-3,7,3,0,10,59.6,59.6,9.64,64.4,159,29.8,18.0,29.8,18.0,11.8,58.1,58.4,92.54,24.5,45.5,7.0,Playoff Qualifier,Hampton,Hornets
+160,40,Lanier,GA,6A,GHSA 6A,5-5,5,5,0,10,59.5,59.5,9.53,69.0,160,23.9,24.2,23.9,24.2,-0.3,49.9,49.7,74.15,17.5,32.5,5.0,Playoff Qualifier,Sugar Hill,Longhorns
+161,23,Brentwood,GA,PRIV,GHSA PRIV,7-4,7,4,0,11,59.5,59.5,9.45,59.8,161,32.6,21.1,32.6,21.1,11.5,62.0,54.1,84.57,22.27,41.36,6.36,Playoff Qualifier,Sandersville,War Eagles
+162,41,Bradwell Institute,GA,6A,GHSA 6A,8-2,8,2,0,10,59.2,59.2,9.2,66.0,162,46.2,35.3,46.2,35.3,10.9,81.1,34.2,103.1,28.0,52.0,8.0,Playoff Qualifier,Hinesville,Tigers
+163,24,Young Americans Christian,GA,PRIV,GHSA PRIV,7-4,7,4,0,11,59.0,59.0,8.99,49.9,163,32.0,20.5,32.0,20.5,11.5,61.2,54.9,81.1,22.27,41.36,6.36,Playoff Qualifier,Conyers,Eagles
+164,21,Westfield School,GA,3A,GHSA 3A,8-3,8,3,0,11,58.9,58.9,8.85,62.5,164,30.1,18.6,30.1,18.6,11.5,58.5,57.6,94.6,25.45,47.27,7.27,Playoff Qualifier,Perry,Hornets
+165,42,Veterans,GA,6A,GHSA 6A,4-6,4,6,0,10,58.6,58.6,8.62,74.7,165,16.2,32.6,16.2,32.6,-16.4,39.1,38.0,66.14,14.0,26.0,4.0,Playoff Qualifier,Kathleen,Warhawks
+166,43,Etowah,GA,6A,GHSA 6A,5-5,5,5,0,10,58.5,58.5,8.53,69.3,166,34.1,34.7,34.1,34.7,-0.6,64.1,35.0,74.25,17.5,32.5,5.0,Playoff Qualifier,Woodstock,Eagles
+167,15,Model,GA,2A,GHSA 2A,8-2,8,2,0,10,58.5,58.5,8.46,59.0,167,38.4,15.6,38.4,15.6,22.8,70.2,61.8,100.65,28.0,52.0,8.0,Playoff Qualifier,Rome,Blue Devils
+168,22,Hephzibah,GA,3A,GHSA 3A,8-2,8,2,0,10,58.4,58.4,8.42,60.5,168,37.7,17.6,37.7,17.6,20.1,69.2,59.0,101.17,28.0,52.0,8.0,Playoff Qualifier,Hephzibah,Rebels
+169,20,Northwest Whitfield,GA,4A,GHSA 4A,8-2,8,2,0,10,58.4,58.4,8.42,60.4,169,35.2,19.1,35.2,19.1,16.1,65.7,56.9,101.14,28.0,52.0,8.0,Playoff Qualifier,Tunnel Hill,Bruins
+170,13,Washington-Wilkes,GA,1A-D1,GHSA 1A-D1,8-2,8,2,0,10,58.4,58.4,8.4,57.1,170,36.9,13.2,36.9,13.2,23.7,68.1,65.1,99.98,28.0,52.0,8.0,Playoff Qualifier,Washington,Tigers
+171,16,Jasper County,GA,2A,GHSA 2A,6-4,6,4,0,10,58.1,58.1,8.15,64.1,171,28.2,18.3,28.2,18.3,9.9,55.9,58.0,82.44,21.0,39.0,6.0,Playoff Qualifier,Monticello,Hurricanes
+172,21,Spencer,GA,4A,GHSA 4A,7-3,7,3,0,10,58.0,58.0,7.98,63.5,172,28.8,19.7,28.8,19.7,9.1,56.7,56.0,92.22,24.5,45.5,7.0,Playoff Qualifier,Columbus,Greenwave
+173,44,Lovejoy,GA,6A,GHSA 6A,4-6,4,6,0,10,57.8,57.8,7.77,69.4,173,21.5,25.1,21.5,25.1,-3.6,46.5,48.5,64.29,14.0,26.0,4.0,Varsity Program,Lovejoy,Wildcats
+174,45,North Atlanta,GA,6A,GHSA 6A,6-4,6,4,0,10,57.8,57.8,7.75,67.8,174,26.4,27.7,26.4,27.7,-1.3,53.4,44.8,83.73,21.0,39.0,6.0,Varsity Program,Atlanta,Warriors
+175,24,Statesboro,GA,5A,GHSA 5A,7-3,7,3,0,10,57.7,57.7,7.69,66.5,175,29.9,26.1,29.9,26.1,3.8,58.3,47.1,93.28,24.5,45.5,7.0,Varsity Program,Statesboro,Blue Devils
+176,25,Whitewater,GA,5A,GHSA 5A,7-3,7,3,0,10,57.7,57.7,7.67,65.3,176,31.2,23.0,31.2,23.0,8.2,60.1,51.4,92.85,24.5,45.5,7.0,Varsity Program,Fayetteville,Wildcats
+177,14,Emanuel County Institute,GA,1A-D1,GHSA 1A-D1,6-4,6,4,0,10,57.3,57.3,7.32,64.0,177,27.2,19.2,27.2,19.2,8.0,54.5,56.7,82.4,21.0,39.0,6.0,Varsity Program,Twin City,Bulldogs
+178,23,North Cobb Christian,GA,3A,GHSA 3A,6-4,6,4,0,10,57.3,57.3,7.28,64.3,178,30.5,19.3,30.5,19.3,11.2,59.1,56.6,82.5,21.0,39.0,6.0,Varsity Program,Kennesaw,Eagles
+179,25,Southwest Georgia Academy,GA,PRIV,GHSA PRIV,10-1,10,1,0,11,57.1,57.1,7.13,57.3,179,42.0,20.5,42.0,20.5,21.5,75.2,54.9,110.96,31.82,59.09,9.09,Varsity Program,Damascus,Warriors
+180,22,West Laurens,GA,4A,GHSA 4A,6-4,6,4,0,10,57.1,57.1,7.06,65.8,180,19.6,15.5,19.6,15.5,4.1,43.8,61.9,83.03,21.0,39.0,6.0,Varsity Program,Dexter,Raiders
+181,46,Creekview,GA,6A,GHSA 6A,6-4,6,4,0,10,57.0,57.0,7.05,65.2,181,23.2,16.3,23.2,16.3,6.9,48.9,60.8,82.82,21.0,39.0,6.0,Varsity Program,Canton,Grizzlies
+182,17,Laney,GA,2A,GHSA 2A,6-4,6,4,0,10,57.0,57.0,7.05,62.3,182,30.3,18.0,30.3,18.0,12.3,58.8,58.4,81.8,21.0,39.0,6.0,Varsity Program,Augusta,Wildcats
+183,26,Briarwood Academy,GA,PRIV,GHSA PRIV,10-1,10,1,0,11,57.0,57.0,7.04,54.6,183,35.1,13.0,35.1,13.0,22.1,65.5,65.4,110.02,31.82,59.09,9.09,Varsity Program,Warrenton,Buccaneers
+184,23,Clinich County,GA,4A,GHSA 4A,7-4,7,4,0,11,57.0,57.0,7.04,51.8,184,27.5,19.6,27.5,19.6,7.9,54.9,56.2,81.77,22.27,41.36,6.36,Varsity Program,"Clinich County, GA",Varsity
+185,15,Macon County,GA,1A-D1,GHSA 1A-D1,9-1,9,1,0,10,56.8,56.8,6.84,53.5,185,39.6,10.7,39.6,10.7,28.9,71.8,68.6,108.72,31.5,58.5,9.0,Varsity Program,Montezuma,Bulldogs
+186,24,Westover,GA,4A,GHSA 4A,7-3,7,3,0,10,56.7,56.7,6.71,62.0,186,25.6,13.4,25.6,13.4,12.2,52.2,64.8,91.7,24.5,45.5,7.0,Varsity Program,Albany,Patriots
+187,47,Habersham Central,GA,6A,GHSA 6A,6-4,6,4,0,10,56.5,56.5,6.53,67.9,187,26.2,25.1,26.2,25.1,1.1,53.1,48.5,83.77,21.0,39.0,6.0,Varsity Program,Mt Airy,Raiders
+188,26,Flowery Branch,GA,5A,GHSA 5A,6-4,6,4,0,10,56.4,56.4,6.4,69.1,188,25.7,29.9,25.7,29.9,-4.2,52.4,41.7,84.19,21.0,39.0,6.0,Varsity Program,Flowery Branch,Falcons
+189,18,Social Circle,GA,2A,GHSA 2A,8-2,8,2,0,10,56.4,56.4,6.37,59.4,189,28.9,15.0,28.9,15.0,13.9,56.9,62.6,100.79,28.0,52.0,8.0,Varsity Program,Social Circle,Redskins
+190,27,Pinecrest Academy,GA,PRIV,GHSA PRIV,7-4,7,4,0,11,56.3,56.3,6.29,49.9,190,31.9,26.4,31.9,26.4,5.5,61.1,46.6,81.1,22.27,41.36,6.36,Varsity Program,Cumming,Paladins
+191,27,Jonesboro,GA,5A,GHSA 5A,7-3,7,3,0,10,56.3,56.3,6.26,60.6,191,28.1,16.8,28.1,16.8,11.3,55.7,60.1,91.21,24.5,45.5,7.0,Varsity Program,Jonesboro,Cardinals
+192,24,Georgia Force Christian,GA,3A,GHSA 3A,7-4,7,4,0,11,56.1,56.1,6.07,49.9,192,29.2,24.2,29.2,24.2,5.0,57.3,49.7,81.1,22.27,41.36,6.36,Varsity Program,Sugar Hill,Georgia Force
+193,16,Randolph-Clay,GA,1A-D1,GHSA 1A-D1,10-0,10,0,0,10,56.0,56.0,6.01,53.2,193,35.6,11.8,35.6,11.8,23.8,66.2,67.1,118.62,35.0,65.0,10.0,Varsity Program,Cuthbert,Red Devils
+194,25,Brookstone,GA,4A,GHSA 4A,6-5,6,5,0,11,55.7,55.7,5.7,65.6,194,31.9,22.9,31.9,22.9,9.0,61.1,51.5,77.51,19.09,35.45,5.45,Varsity Program,Columbus,Cougars
+195,48,South Forsyth,GA,6A,GHSA 6A,7-3,7,3,0,10,55.5,55.5,5.47,65.5,195,31.6,25.6,31.6,25.6,6.0,60.6,47.8,92.92,24.5,45.5,7.0,Varsity Program,Cumming,War Eagles
+196,26,Greater Atlanta Christian,GA,4A,GHSA 4A,6-5,6,5,0,11,55.2,55.2,5.25,51.3,196,27.1,20.0,27.1,20.0,7.1,54.3,55.6,72.5,19.09,35.45,5.45,Varsity Program,"Greater Atlanta Christian, GA",Spartans
+197,25,Lumpkin County,GA,3A,GHSA 3A,7-3,7,3,0,10,55.2,55.2,5.23,63.3,197,31.5,25.8,31.5,25.8,5.7,60.5,47.5,92.16,24.5,45.5,7.0,Varsity Program,Dahlonega,Indians
+198,27,Adairsville,GA,4A,GHSA 4A,7-3,7,3,0,10,54.9,54.9,4.91,60.9,198,27.0,14.9,27.0,14.9,12.1,54.2,62.7,91.31,24.5,45.5,7.0,Varsity Program,Adairsville,Tigers
+199,28,M.L. King,GA,5A,GHSA 5A,6-4,6,4,0,10,54.5,54.5,4.49,60.0,199,35.0,20.0,35.0,20.0,15.0,65.4,55.6,81.0,21.0,39.0,6.0,Varsity Program,Lithonia,Lions
+200,29,Villa Rica,GA,5A,GHSA 5A,6-4,6,4,0,10,54.4,54.4,4.39,66.2,200,26.7,28.2,26.7,28.2,-1.5,53.8,44.1,83.17,21.0,39.0,6.0,Varsity Program,Villa Rica,Wildcats
+201,30,Griffin,GA,5A,GHSA 5A,6-4,6,4,0,10,54.2,54.2,4.19,66.8,201,26.3,26.1,26.3,26.1,0.2,53.2,47.1,83.38,21.0,39.0,6.0,Varsity Program,Griffin,Bears
+202,26,Ringgold,GA,3A,GHSA 3A,9-1,9,1,0,10,54.2,54.2,4.17,57.2,202,35.6,21.1,35.6,21.1,14.5,66.2,54.1,110.02,31.5,58.5,9.0,Varsity Program,Ringgold,Tigers
+203,17,Charlton County,GA,1A-D1,GHSA 1A-D1,7-2,7,2,1,9,53.9,53.9,3.92,59.2,203,28.2,13.9,28.2,13.9,14.3,55.9,64.1,98.5,27.22,50.56,7.78,Varsity Program,Folkston,Indians
+204,49,Rockdale County,GA,6A,GHSA 6A,3-6,3,6,0,9,53.9,53.9,3.89,70.6,204,20.9,27.7,20.9,27.7,-6.8,45.7,44.8,58.04,11.67,21.67,3.33,Varsity Program,Conyers,Bulldogs
+205,28,St. Anne-Pacelli,GA,4A,GHSA 4A,7-4,7,4,0,11,53.8,53.8,3.77,66.6,205,25.1,23.2,25.1,23.2,1.9,51.5,51.1,86.95,22.27,41.36,6.36,Varsity Program,Columbus,Vikings
+206,50,Dacula,GA,6A,GHSA 6A,5-5,5,5,0,10,53.8,53.8,3.77,66.7,206,31.0,29.9,31.0,29.9,1.1,59.8,41.7,73.34,17.5,32.5,5.0,Varsity Program,Dacula,Falcons
+207,28,Edmund Burke Academy,GA,PRIV,GHSA PRIV,9-2,9,2,0,11,53.5,53.5,3.55,55.0,207,33.6,15.5,33.6,15.5,18.1,63.4,61.9,101.07,28.64,53.18,8.18,Varsity Program,Waynesboro,Spartans
+208,51,Duluth,GA,6A,GHSA 6A,2-8,2,8,0,10,53.5,53.5,3.54,70.8,208,19.8,33.9,19.8,33.9,-14.1,44.1,36.1,44.78,7.0,13.0,2.0,Varsity Program,Duluth,Wildcats
+209,19,Christian Heritage,GA,2A,GHSA 2A,9-1,9,1,0,10,53.5,53.5,3.53,52.0,209,44.7,19.8,44.7,19.8,24.9,79.0,55.9,108.2,31.5,58.5,9.0,Varsity Program,Dalton,Lions
+210,18,Wheeler County,GA,1A-D1,GHSA 1A-D1,6-4,6,4,0,10,53.4,53.4,3.38,59.6,210,32.0,23.1,32.0,23.1,8.9,61.2,51.3,80.86,21.0,39.0,6.0,Varsity Program,Alamo,Bulldogs
+211,29,North Clayton,GA,4A,GHSA 4A,7-3,7,3,0,10,53.4,53.4,3.36,63.7,211,27.0,21.6,27.0,21.6,5.4,54.2,53.4,92.3,24.5,45.5,7.0,Varsity Program,College Park,Eagles
+212,31,Centennial,GA,5A,GHSA 5A,6-4,6,4,0,10,53.1,53.1,3.11,65.8,212,27.4,28.6,27.4,28.6,-1.2,54.8,43.6,83.03,21.0,39.0,6.0,Varsity Program,Roswell,Knights
+213,52,Dunwoody,GA,6A,GHSA 6A,8-2,8,2,0,10,53.0,53.0,2.99,54.0,213,35.5,16.3,35.5,16.3,19.2,66.1,60.8,98.9,28.0,52.0,8.0,Varsity Program,Dunwoody,Wildcats
+214,20,Eagle's Landing Christian Academy,GA,2A,GHSA 2A,8-2,8,2,0,10,52.9,52.9,2.87,59.0,214,36.3,23.2,36.3,23.2,13.1,67.2,51.1,100.65,28.0,52.0,8.0,Varsity Program,Mcdonough,Chargers
+215,32,Allatoona,GA,5A,GHSA 5A,3-7,3,7,0,10,52.8,52.8,2.75,71.2,215,18.8,35.0,18.8,35.0,-16.2,42.7,34.6,54.92,10.5,19.5,3.0,Varsity Program,Acworth,Buccaneers
+216,30,Spalding,GA,4A,GHSA 4A,5-5,5,5,0,10,52.6,52.6,2.62,66.9,216,23.1,28.8,23.1,28.8,-5.7,48.7,43.3,73.41,17.5,32.5,5.0,Varsity Program,Griffin,Jaguars
+217,33,Dutchtown,GA,5A,GHSA 5A,7-3,7,3,0,10,52.6,52.6,2.56,58.6,217,30.5,17.1,30.5,17.1,13.4,59.1,59.7,90.51,24.5,45.5,7.0,Varsity Program,Hampton,Bulldogs
+218,21,Putnam County,GA,2A,GHSA 2A,7-3,7,3,0,10,52.3,52.3,2.31,56.8,218,34.1,17.8,34.1,17.8,16.3,64.1,58.7,89.88,24.5,45.5,7.0,Varsity Program,Eatonton,War Eagles
+219,53,South Effingham,GA,6A,GHSA 6A,7-3,7,3,0,10,52.3,52.3,2.26,62.5,219,27.3,21.0,27.3,21.0,6.3,54.6,54.2,91.88,24.5,45.5,7.0,Varsity Program,Guyton,Mustangs
+220,31,Strong Rock Christian,GA,4A,GHSA 4A,6-5,6,5,0,11,52.2,52.2,2.25,62.1,220,24.1,20.0,24.1,20.0,4.1,50.1,55.6,76.28,19.09,35.45,5.45,Varsity Program,Locust Grove,Patriots
+221,32,Howard,GA,4A,GHSA 4A,5-5,5,5,0,10,52.2,52.2,2.25,69.3,221,23.0,31.6,23.0,31.6,-8.6,48.6,39.4,74.25,17.5,32.5,5.0,Varsity Program,Macon,Huskies
+222,54,Walnut Grove,GA,6A,GHSA 6A,5-5,5,5,0,10,52.2,52.2,2.22,65.7,222,22.5,22.7,22.5,22.7,-0.2,47.9,51.8,73.0,17.5,32.5,5.0,Varsity Program,Walnut Grove,Warriors
+223,29,Windsor Academy,GA,PRIV,GHSA PRIV,10-1,10,1,0,11,52.0,52.0,2.0,52.7,223,35.8,11.5,35.8,11.5,24.3,66.5,67.5,109.35,31.82,59.09,9.09,Varsity Program,Macon,Knights
+224,33,Harlem,GA,4A,GHSA 4A,6-4,6,4,0,10,52.0,52.0,2.0,63.1,224,24.8,22.8,24.8,22.8,2.0,51.1,51.7,82.09,21.0,39.0,6.0,Varsity Program,Harlem,Bulldogs
+225,34,New Hampstead,GA,4A,GHSA 4A,5-5,5,5,0,10,51.9,51.9,1.94,65.7,225,24.4,25.3,24.4,25.3,-0.9,50.6,48.2,73.0,17.5,32.5,5.0,Varsity Program,Savannah,Phoenixes
+226,34,Evans,GA,5A,GHSA 5A,4-6,4,6,0,10,51.7,51.7,1.68,65.1,226,29.0,27.9,29.0,27.9,1.1,57.0,44.5,62.78,14.0,26.0,4.0,Varsity Program,Evans,Knights
+227,55,Northside,GA,6A,GHSA 6A,6-4,6,4,0,10,51.4,51.4,1.43,68.1,227,20.0,27.4,20.0,27.4,-7.4,44.4,45.2,83.83,21.0,39.0,6.0,Varsity Program,Columbus,Patriots
+228,19,Mitchell County,GA,1A-D1,GHSA 1A-D1,8-2,8,2,0,10,51.4,51.4,1.4,56.7,228,34.2,19.6,34.2,19.6,14.6,64.3,56.2,99.84,28.0,52.0,8.0,Varsity Program,Camilla,Eagles
+229,56,Glynn Academy,GA,6A,GHSA 6A,3-7,3,7,0,10,51.4,51.4,1.39,67.2,229,25.8,30.3,25.8,30.3,-4.5,52.5,41.2,53.52,10.5,19.5,3.0,Varsity Program,Brunswick,Terrors
+230,22,Berrien,GA,2A,GHSA 2A,6-4,6,4,0,10,51.3,51.3,1.32,64.3,230,25.0,24.7,25.0,24.7,0.3,51.4,49.0,82.5,21.0,39.0,6.0,Varsity Program,Nashville,Rebels
+231,30,CrossPointe Christian Academy,GA,PRIV,GHSA PRIV,4-5,4,5,0,9,51.3,51.3,1.32,47.2,231,28.0,21.6,28.0,21.6,6.4,55.6,53.4,60.96,15.56,28.89,4.44,Varsity Program,Williamson,Cavaliers
+232,57,Shiloh,GA,6A,GHSA 6A,7-3,7,3,0,10,51.3,51.3,1.3,55.8,232,28.3,13.2,28.3,13.2,15.1,56.0,65.1,89.53,24.5,45.5,7.0,Varsity Program,Snellville,Generals
+233,20,Portal,GA,1A-D1,GHSA 1A-D1,8-2,8,2,0,10,51.2,51.2,1.18,58.0,233,32.3,22.9,32.3,22.9,9.4,61.6,51.5,100.3,28.0,52.0,8.0,Varsity Program,Portal,Panthers
+234,35,East Forsyth,GA,5A,GHSA 5A,5-5,5,5,0,10,51.1,51.1,1.15,65.0,234,25.5,26.9,25.5,26.9,-1.4,52.1,45.9,72.75,17.5,32.5,5.0,Varsity Program,Gainesville,Broncos
+235,31,Holy Spirit Prep,GA,PRIV,GHSA PRIV,6-4,6,4,0,10,51.1,51.1,1.13,49.4,235,33.0,36.7,33.0,36.7,-3.7,62.6,32.2,77.29,21.0,39.0,6.0,Varsity Program,Atlanta,Cougars
+236,27,Washington County,GA,3A,GHSA 3A,4-6,4,6,0,10,50.8,50.8,0.8,63.7,236,28.5,24.2,28.5,24.2,4.3,56.3,49.7,62.3,14.0,26.0,4.0,Varsity Program,Sandersville,Golden Hawks
+237,35,Savannah Country Day,GA,4A,GHSA 4A,4-7,4,7,0,11,50.7,50.7,0.71,65.3,237,17.1,23.5,17.1,23.5,-6.4,40.3,50.7,59.22,12.73,23.64,3.64,Varsity Program,Savannah,Hornets
+238,58,Paulding County,GA,6A,GHSA 6A,5-5,5,5,0,10,50.6,50.6,0.62,68.0,238,19.3,28.0,19.3,28.0,-8.7,43.4,44.4,73.8,17.5,32.5,5.0,Varsity Program,Dallas,Patriots
+239,28,Elbert County,GA,3A,GHSA 3A,5-5,5,5,0,10,50.5,50.5,0.51,66.8,239,20.4,29.3,20.4,29.3,-8.9,45.0,42.6,73.38,17.5,32.5,5.0,Varsity Program,Elberton,Blue Devils
+240,59,Mountain View,GA,6A,GHSA 6A,5-5,5,5,0,10,50.5,50.5,0.47,63.1,240,27.9,21.4,27.9,21.4,6.5,55.5,53.6,72.09,17.5,32.5,5.0,Varsity Program,Lawrenceville,Bears
+241,36,Troup County,GA,4A,GHSA 4A,6-4,6,4,0,10,50.4,50.4,0.42,50.1,241,22.1,23.6,22.1,23.6,-1.5,47.3,50.6,77.53,21.0,39.0,6.0,Varsity Program,"Troup County, GA",Tigers
+242,21,Warren County,GA,1A-D1,GHSA 1A-D1,6-4,6,4,0,10,50.4,50.4,0.4,62.1,242,24.1,22.5,24.1,22.5,1.6,50.1,52.1,81.73,21.0,39.0,6.0,Varsity Program,Warrenton,Screamin Devils
+243,23,Academy for Classical Education,GA,2A,GHSA 2A,5-5,5,5,0,10,50.3,50.3,0.3,63.6,243,24.8,25.7,24.8,25.7,-0.9,51.1,47.6,72.26,17.5,32.5,5.0,Varsity Program,Macon,Gryphons
+244,37,Lovett,GA,4A,GHSA 4A,5-6,5,6,0,11,50.1,50.1,0.08,50.0,244,23.9,22.8,23.9,22.8,1.1,49.9,51.7,62.95,15.91,29.55,4.55,Varsity Program,"Lovett, GA",Lions
+245,38,Gilmer,GA,4A,GHSA 4A,5-5,5,5,0,10,50.0,50.0,0.0,61.4,245,34.3,31.3,34.3,31.3,3.0,64.4,39.8,71.49,17.5,32.5,5.0,Varsity Program,Ellijay,Bobcats
+246,24,Albany,GA,2A,GHSA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,246,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,GA,Varsity
+247,32,Covenant Academy,GA,PRIV,GHSA PRIV,0-0,0,0,0,0,50.0,50.0,0.0,48.0,247,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Macon,Rams
+248,33,Holy Ground Baptist Academy,GA,PRIV,GHSA PRIV,0-0,0,0,0,0,50.0,50.0,0.0,48.0,248,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Roopville,Stallions
+249,34,Twiggs Academy,GA,PRIV,GHSA PRIV,0-0,0,0,0,0,50.0,50.0,0.0,48.0,249,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Jeffersonville,Trojans
+250,60,Woodstock,GA,6A,GHSA 6A,3-7,3,7,0,10,49.9,49.9,-0.09,70.3,250,21.9,37.9,21.9,37.9,-16.0,47.1,30.5,54.6,10.5,19.5,3.0,Varsity Program,Woodstock,Wolverines
+251,39,warner robins,GA,4A,GHSA 4A,6-4,6,4,0,10,49.7,49.7,-0.26,49.9,251,31.0,29.3,31.0,29.3,1.7,59.8,42.6,77.47,21.0,39.0,6.0,Varsity Program,"warner robins, GA",Demons
+252,22,Early County,GA,1A-D1,GHSA 1A-D1,4-6,4,6,0,10,49.5,49.5,-0.53,60.8,252,22.3,18.2,22.3,18.2,4.1,47.6,58.1,61.28,14.0,26.0,4.0,Varsity Program,Blakely,Bobcats
+253,29,Miller Grove,GA,3A,GHSA 3A,6-4,6,4,0,10,49.4,49.4,-0.62,58.3,253,23.4,15.6,23.4,15.6,7.8,49.2,61.8,80.41,21.0,39.0,6.0,Varsity Program,Lithonia,Wolverines
+254,35,St. Francis,GA,PRIV,GHSA PRIV,4-5,4,5,0,9,49.3,49.3,-0.66,47.2,254,26.9,24.9,26.9,24.9,2.0,54.1,48.7,60.96,15.56,28.89,4.44,Varsity Program,Alpharetta,Knights
+255,61,Greenbrier,GA,6A,GHSA 6A,4-6,4,6,0,10,49.3,49.3,-0.72,65.4,255,25.2,28.2,25.2,28.2,-3.0,51.7,44.1,62.89,14.0,26.0,4.0,Varsity Program,Evans,Wolfpack
+256,23,Treutlen,GA,1A-D1,GHSA 1A-D1,8-2,8,2,0,10,49.2,49.2,-0.78,54.2,256,31.8,12.8,31.8,12.8,19.0,60.9,65.7,98.97,28.0,52.0,8.0,Varsity Program,Soperton,Vikings
+257,30,Stewart County,GA,3A,GHSA 3A,3-4,3,4,0,7,49.2,49.2,-0.83,47.0,257,30.0,27.4,30.0,27.4,2.6,58.4,45.2,59.31,15.0,27.86,4.29,Varsity Program,Lumpkin,Royal Knights
+258,62,Pebblebrook,GA,6A,GHSA 6A,3-7,3,7,0,10,49.1,49.1,-0.87,67.7,258,23.4,29.1,23.4,29.1,-5.7,49.2,42.9,53.7,10.5,19.5,3.0,Varsity Program,Mableton,Falcons
+259,36,St. Pius X Catholic,GA,5A,GHSA 5A,4-6,4,6,0,10,49.0,49.0,-0.96,67.3,259,19.2,30.5,19.2,30.5,-11.3,43.3,40.9,63.55,14.0,26.0,4.0,Varsity Program,Atlanta,Golden Lions
+260,25,Providence Christian Academy,GA,2A,GHSA 2A,6-4,6,4,0,10,48.9,48.9,-1.06,61.1,260,27.0,21.4,27.0,21.4,5.6,54.2,53.6,81.38,21.0,39.0,6.0,Varsity Program,Lilburn,Storm
+261,63,Loganville,GA,6A,GHSA 6A,5-5,5,5,0,10,48.9,48.9,-1.14,65.5,261,23.8,27.9,23.8,27.9,-4.1,49.7,44.5,72.92,17.5,32.5,5.0,Varsity Program,Loganville,Red Devils
+262,64,Alexander,GA,6A,GHSA 6A,4-6,4,6,0,10,48.6,48.6,-1.4,64.4,262,21.7,21.6,21.7,21.6,0.1,46.8,53.4,62.54,14.0,26.0,4.0,Varsity Program,Douglasville,Cougars
+263,26,King's Ridge Christian,GA,2A,GHSA 2A,7-3,7,3,0,10,48.6,48.6,-1.43,56.6,263,31.2,21.4,31.2,21.4,9.8,60.1,53.6,89.81,24.5,45.5,7.0,Varsity Program,Alpharetta,Tigers
+264,37,Winder-Barrow,GA,5A,GHSA 5A,4-6,4,6,0,10,48.6,48.6,-1.44,65.9,264,20.3,28.3,20.3,28.3,-8.0,44.8,44.0,63.06,14.0,26.0,4.0,Varsity Program,Winder,Bulldoggs
+265,38,Harris County,GA,5A,GHSA 5A,4-6,4,6,0,10,48.4,48.4,-1.63,68.9,265,14.7,24.6,14.7,24.6,-9.9,37.0,49.2,64.12,14.0,26.0,4.0,Varsity Program,Hamilton,Tigers
+266,27,Darlington,GA,2A,GHSA 2A,5-5,5,5,0,10,48.3,48.3,-1.69,61.2,266,32.2,27.2,32.2,27.2,5.0,61.5,45.5,71.42,17.5,32.5,5.0,Varsity Program,Rome,Tigers
+267,40,East Jackson,GA,4A,GHSA 4A,4-6,4,6,0,10,48.2,48.2,-1.76,63.0,267,22.0,22.3,22.0,22.3,-0.3,47.2,52.4,62.05,14.0,26.0,4.0,Varsity Program,Commerce,Eagles
+268,65,Alpharetta,GA,6A,GHSA 6A,3-7,3,7,0,10,48.2,48.2,-1.76,68.3,268,18.5,28.7,18.5,28.7,-10.2,42.3,43.4,53.91,10.5,19.5,3.0,Varsity Program,Alpharetta,Raiders
+269,66,Campbell,GA,6A,GHSA 6A,3-7,3,7,0,10,48.2,48.2,-1.81,71.0,269,17.5,34.2,17.5,34.2,-16.7,40.9,35.7,54.85,10.5,19.5,3.0,Varsity Program,Smyrna,Spartans
+270,41,Liberty County,GA,4A,GHSA 4A,5-5,5,5,0,10,48.0,48.0,-2.0,61.4,270,21.4,22.5,21.4,22.5,-1.1,46.4,52.1,71.49,17.5,32.5,5.0,Varsity Program,Hinesville,Panthers
+271,42,Mary Persons,GA,4A,GHSA 4A,4-6,4,6,0,10,47.9,47.9,-2.11,49.5,271,25.2,26.3,25.2,26.3,-1.1,51.7,46.8,57.33,14.0,26.0,4.0,Varsity Program,"Mary Persons, GA",Bulldogs
+272,39,Lithia Springs,GA,5A,GHSA 5A,4-6,4,6,0,10,47.9,47.9,-2.13,65.7,272,24.3,32.2,24.3,32.2,-7.9,50.4,38.5,63.0,14.0,26.0,4.0,Varsity Program,Lithia Springs,Leo The Lion
+273,31,Athens Christian,GA,3A,GHSA 3A,8-3,8,3,0,11,47.9,47.9,-2.15,56.7,273,24.4,12.5,24.4,12.5,11.9,50.6,66.1,92.57,25.45,47.27,7.27,Varsity Program,Athens,Eagles
+274,43,White County,GA,4A,GHSA 4A,8-2,8,2,0,10,47.8,47.8,-2.19,58.6,274,27.8,21.4,27.8,21.4,6.4,55.3,53.6,100.51,28.0,52.0,8.0,Varsity Program,Cleveland,Warriors
+275,36,Covington Academy,GA,PRIV,GHSA PRIV,4-5,4,5,0,9,47.7,47.7,-2.28,47.2,275,29.1,30.7,29.1,30.7,-1.6,57.1,40.6,60.96,15.56,28.89,4.44,Varsity Program,Covington,Bulldogs
+276,67,Northgate,GA,6A,GHSA 6A,0-10,0,10,0,10,47.5,47.5,-2.55,77.2,276,9.3,39.7,9.3,39.7,-30.4,29.4,28.0,27.02,0.0,0.0,0.0,Varsity Program,Newnan,Vikings
+277,32,Pike County,GA,3A,GHSA 3A,6-4,6,4,0,10,47.4,47.4,-2.58,60.1,277,27.8,27.5,27.8,27.5,0.3,55.3,45.1,81.03,21.0,39.0,6.0,Varsity Program,Zebulon,Pirates
+278,37,Westwood,GA,PRIV,GHSA PRIV,5-5,5,5,0,10,47.4,47.4,-2.61,48.0,278,27.6,33.4,27.6,33.4,-5.8,55.0,36.8,66.8,17.5,32.5,5.0,Varsity Program,Camilla,Wildcats
+279,68,South Cobb,GA,6A,GHSA 6A,6-4,6,4,0,10,47.4,47.4,-2.64,60.4,279,25.0,22.9,25.0,22.9,2.1,51.4,51.5,81.14,21.0,39.0,6.0,Varsity Program,Austell,Eagles
+280,69,Kennesaw Mountain,GA,6A,GHSA 6A,4-6,4,6,0,10,47.2,47.2,-2.78,65.5,280,27.7,37.3,27.7,37.3,-9.6,55.2,31.4,62.92,14.0,26.0,4.0,Varsity Program,Kennesaw,Mustangs
+281,40,Jackson,GA,5A,GHSA 5A,3-7,3,7,0,10,47.1,47.1,-2.85,66.7,281,11.6,21.7,11.6,21.7,-10.1,32.6,53.2,53.34,10.5,19.5,3.0,Varsity Program,Atlanta,Jaguars
+282,33,Baker County,GA,3A,GHSA 3A,4-6,4,6,0,10,47.0,47.0,-2.98,46.6,282,33.8,34.2,33.8,34.2,-0.4,63.7,35.7,56.31,14.0,26.0,4.0,Varsity Program,Newton,Bears
+283,28,Gordon Lee,GA,2A,GHSA 2A,5-5,5,5,0,10,46.9,46.9,-3.09,55.7,283,30.2,21.2,30.2,21.2,9.0,58.7,53.9,69.5,17.5,32.5,5.0,Varsity Program,Chickamauga,Trojans
+284,70,Grovetown,GA,6A,GHSA 6A,3-7,3,7,0,10,46.9,46.9,-3.1,65.2,284,15.3,24.3,15.3,24.3,-9.0,37.8,49.6,52.82,10.5,19.5,3.0,Varsity Program,Grovetown,Warriors
+285,44,Pickens,GA,4A,GHSA 4A,4-6,4,6,0,10,46.9,46.9,-3.14,61.8,285,31.3,33.3,31.3,33.3,-2.0,60.2,37.0,61.63,14.0,26.0,4.0,Varsity Program,Jasper,Dragons
+286,24,Jenkins County,GA,1A-D1,GHSA 1A-D1,5-5,5,5,0,10,46.6,46.6,-3.35,58.8,286,23.7,20.9,23.7,20.9,2.8,49.6,54.3,70.58,17.5,32.5,5.0,Varsity Program,Millen,War Eagles
+287,34,Tiftarea Academy,GA,3A,GHSA 3A,6-5,6,5,0,11,46.6,46.6,-3.44,57.6,287,25.1,18.9,25.1,18.9,6.2,51.5,57.1,74.71,19.09,35.45,5.45,Varsity Program,Chula,Panthers
+288,29,East Laurens,GA,2A,GHSA 2A,3-7,3,7,0,10,46.4,46.4,-3.64,67.1,288,19.5,30.0,19.5,30.0,-10.5,43.7,41.6,53.48,10.5,19.5,3.0,Varsity Program,East Dublin,Falcons
+289,30,Pepperell,GA,2A,GHSA 2A,5-5,5,5,0,10,45.9,45.9,-4.08,63.2,289,23.8,29.2,23.8,29.2,-5.4,49.7,42.7,72.12,17.5,32.5,5.0,Varsity Program,Lindale,Dragons
+290,35,Frederica Academy,GA,3A,GHSA 3A,3-8,3,8,0,11,45.9,45.9,-4.13,63.6,290,14.4,33.3,14.4,33.3,-18.9,36.6,37.0,49.53,9.55,17.73,2.73,Varsity Program,St Simons Island,Knights
+291,45,George Walton Academy,GA,4A,GHSA 4A,6-5,6,5,0,11,45.6,45.6,-4.41,57.4,291,26.5,24.6,26.5,24.6,1.9,53.5,49.2,74.64,19.09,35.45,5.45,Varsity Program,Monroe,Bulldogs
+292,71,Hiram,GA,6A,GHSA 6A,4-6,4,6,0,10,45.4,45.4,-4.59,66.6,292,15.3,30.4,15.3,30.4,-15.1,37.8,41.0,63.31,14.0,26.0,4.0,Varsity Program,Hiram,Hornets
+293,38,Central Christian,GA,PRIV,GHSA PRIV,5-6,5,6,0,11,45.2,45.2,-4.83,47.4,293,19.5,27.4,19.5,27.4,-7.9,43.7,45.2,62.04,15.91,29.55,4.55,Varsity Program,Sharpsburg,Crusaders
+294,46,Monroe,GA,4A,GHSA 4A,2-8,2,8,0,10,45.0,45.0,-4.95,65.5,294,12.7,24.2,12.7,24.2,-11.5,34.2,49.7,42.92,7.0,13.0,2.0,Varsity Program,Albany,Golden Tornadoes
+295,25,Seminole County,GA,1A-D1,GHSA 1A-D1,3-7,3,7,0,10,45.0,45.0,-4.99,60.7,295,18.3,23.4,18.3,23.4,-5.1,42.0,50.8,51.25,10.5,19.5,3.0,Varsity Program,Donalsonville,Indians
+296,47,Tattnall Square Academy,GA,4A,GHSA 4A,4-6,4,6,0,10,45.0,45.0,-5.03,63.0,296,22.7,26.8,22.7,26.8,-4.1,48.2,46.1,62.05,14.0,26.0,4.0,Varsity Program,Macon,Trojans
+297,36,Haralson County,GA,3A,GHSA 3A,3-7,3,7,0,10,44.9,44.9,-5.12,66.0,297,13.1,24.5,13.1,24.5,-11.4,34.7,49.3,53.1,10.5,19.5,3.0,Varsity Program,Tallapoosa,Rebels
+298,41,Locust Grove,GA,5A,GHSA 5A,3-7,3,7,0,10,44.7,44.7,-5.27,67.8,298,22.3,43.8,22.3,43.8,-21.5,47.6,25.0,53.73,10.5,19.5,3.0,Varsity Program,Locust Grove,Wildcats
+299,48,Bethlehem Christian Academy,GA,4A,GHSA 4A,6-4,6,4,0,10,44.7,44.7,-5.31,57.1,299,28.2,20.8,28.2,20.8,7.4,55.9,54.5,79.98,21.0,39.0,6.0,Varsity Program,Bethlehem,Knights
+300,37,Beach,GA,3A,GHSA 3A,5-5,5,5,0,10,44.7,44.7,-5.34,60.9,300,27.3,32.8,27.3,32.8,-5.5,54.6,37.7,71.31,17.5,32.5,5.0,Varsity Program,Savannah,Bulldogs
+301,38,Franklin County,GA,3A,GHSA 3A,4-6,4,6,0,10,44.6,44.6,-5.37,61.7,301,26.6,30.0,26.6,30.0,-3.4,53.6,41.6,61.59,14.0,26.0,4.0,Varsity Program,Carnesville,Lions
+302,42,Banneker,GA,5A,GHSA 5A,3-7,3,7,0,10,44.4,44.4,-5.65,63.5,302,17.0,20.6,17.0,20.6,-3.6,40.2,54.8,52.22,10.5,19.5,3.0,Varsity Program,College Park,Trojans
+303,26,Hawkinsville,GA,1A-D1,GHSA 1A-D1,5-5,5,5,0,10,44.2,44.2,-5.83,58.2,303,19.9,21.0,19.9,21.0,-1.1,44.3,54.2,70.37,17.5,32.5,5.0,Varsity Program,Hawkinsville,Red Devils
+304,39,Temple,GA,3A,GHSA 3A,3-7,3,7,0,10,44.2,44.2,-5.83,65.6,304,21.3,32.5,21.3,32.5,-11.2,46.2,38.1,52.96,10.5,19.5,3.0,Varsity Program,Temple,Tigers
+305,72,Central Gwinnett,GA,6A,GHSA 6A,3-7,3,7,0,10,44.1,44.1,-5.94,65.2,305,17.8,29.0,17.8,29.0,-11.2,41.3,43.0,52.82,10.5,19.5,3.0,Varsity Program,Lawrenceville,Knights
+306,40,LaFayette,GA,3A,GHSA 3A,7-3,7,3,0,10,44.0,44.0,-5.95,57.0,306,30.9,26.0,30.9,26.0,4.9,59.7,47.2,89.95,24.5,45.5,7.0,Varsity Program,Lafayette,Ramblers
+307,49,Shaw,GA,4A,GHSA 4A,5-5,5,5,0,10,44.0,44.0,-5.97,61.6,307,18.1,21.2,18.1,21.2,-3.1,41.7,53.9,71.56,17.5,32.5,5.0,Varsity Program,Columbus,Raiders
+308,73,Cherokee,GA,6A,GHSA 6A,2-8,2,8,0,10,44.0,44.0,-5.97,70.2,308,16.2,34.7,16.2,34.7,-18.5,39.1,35.0,44.57,7.0,13.0,2.0,Varsity Program,Canton,Warriors
+309,31,Vidalia,GA,2A,GHSA 2A,2-8,2,8,0,10,44.0,44.0,-6.01,69.0,309,11.2,30.9,11.2,30.9,-19.7,32.1,40.3,44.15,7.0,13.0,2.0,Varsity Program,Vidalia,Indians
+310,74,McIntosh,GA,6A,GHSA 6A,3-7,3,7,0,10,43.9,43.9,-6.06,69.6,310,11.3,30.9,11.3,30.9,-19.6,32.2,40.3,54.36,10.5,19.5,3.0,Varsity Program,Peachtree City,Chiefs
+311,75,South Paulding,GA,6A,GHSA 6A,2-8,2,8,0,10,43.7,43.7,-6.31,65.8,311,12.6,24.5,12.6,24.5,-11.9,34.0,49.3,43.03,7.0,13.0,2.0,Varsity Program,Douglasville,Spartans
+312,50,Windsor Forest,GA,4A,GHSA 4A,5-5,5,5,0,10,43.4,43.4,-6.6,60.6,312,22.2,24.6,22.2,24.6,-2.4,47.5,49.2,71.21,17.5,32.5,5.0,Varsity Program,Savannah,Knights
+313,27,McIntosh County Academy,GA,1A-D1,GHSA 1A-D1,5-5,5,5,0,10,43.4,43.4,-6.65,61.9,313,11.9,20.2,11.9,20.2,-8.3,33.1,55.3,71.66,17.5,32.5,5.0,Varsity Program,Darien,Buccaneers
+314,39,Gatewood,GA,PRIV,GHSA PRIV,5-5,5,5,0,10,43.2,43.2,-6.79,57.7,314,24.8,25.4,24.8,25.4,-0.6,51.1,48.0,70.19,17.5,32.5,5.0,Varsity Program,Eatonton,Gators
+315,28,Glascock County,GA,1A-D1,GHSA 1A-D1,5-5,5,5,0,10,43.1,43.1,-6.9,57.8,315,27.7,26.3,27.7,26.3,1.4,55.2,46.8,70.23,17.5,32.5,5.0,Varsity Program,Gibson,Panthers
+316,41,Carver,GA,3A,GHSA 3A,6-4,6,4,0,10,43.1,43.1,-6.93,60.4,316,25.1,20.7,25.1,20.7,4.4,51.5,54.6,81.14,21.0,39.0,6.0,Varsity Program,Columbus,Tigers
+317,29,Telfair County,GA,1A-D1,GHSA 1A-D1,5-5,5,5,0,10,43.0,43.0,-7.05,54.7,317,28.3,26.2,28.3,26.2,2.1,56.0,46.9,69.14,17.5,32.5,5.0,Varsity Program,Mcrae,Trojans
+318,32,Bacon County,GA,2A,GHSA 2A,2-8,2,8,0,10,42.9,42.9,-7.06,65.9,318,13.7,28.1,13.7,28.1,-14.4,35.6,44.3,43.06,7.0,13.0,2.0,Varsity Program,Alma,Raiders
+319,40,Thomas Jefferson Academy,GA,PRIV,GHSA PRIV,7-4,7,4,0,11,42.9,42.9,-7.07,55.1,319,22.4,17.9,22.4,17.9,4.5,47.8,58.5,82.92,22.27,41.36,6.36,Varsity Program,Louisville,Jaguars
+320,51,Pace Academy,GA,4A,GHSA 4A,3-7,3,7,0,10,42.9,42.9,-7.07,65.4,320,16.9,32.5,16.9,32.5,-15.6,40.1,38.1,52.89,10.5,19.5,3.0,Varsity Program,Atlanta,Knights
+321,52,Long County,GA,4A,GHSA 4A,1-9,1,9,0,10,42.9,42.9,-7.13,64.8,321,17.5,30.6,17.5,30.6,-13.1,40.9,40.8,32.68,3.5,6.5,1.0,Varsity Program,Ludowici,Blue Tide
+322,42,North Murray,GA,3A,GHSA 3A,4-6,4,6,0,10,42.7,42.7,-7.29,61.5,322,20.8,29.5,20.8,29.5,-8.7,45.5,42.3,61.52,14.0,26.0,4.0,Varsity Program,Chatsworth,Mountaineers
+323,76,Cedar Shoals,GA,6A,GHSA 6A,3-7,3,7,0,10,42.7,42.7,-7.29,66.4,323,13.9,33.0,13.9,33.0,-19.1,35.9,37.4,53.24,10.5,19.5,3.0,Varsity Program,Athens,Jaguars
+324,43,Deerfield-Windsor,GA,3A,GHSA 3A,2-9,2,9,0,11,42.6,42.6,-7.42,63.7,324,9.3,27.3,9.3,27.3,-18.0,29.4,45.4,40.48,6.36,11.82,1.82,Varsity Program,Albany,Knights
+325,77,Tri-Cities,GA,6A,GHSA 6A,3-7,3,7,0,10,42.5,42.5,-7.51,66.2,325,16.1,30.8,16.1,30.8,-14.7,38.9,40.5,53.17,10.5,19.5,3.0,Varsity Program,East Point,Bulldogs
+326,78,Chapel Hill,GA,6A,GHSA 6A,2-8,2,8,0,10,42.4,42.4,-7.57,66.2,326,13.4,29.1,13.4,29.1,-15.7,35.2,42.9,43.17,7.0,13.0,2.0,Varsity Program,Douglasville,Panthers
+327,44,Terrell Academy,GA,3A,GHSA 3A,6-5,6,5,0,11,42.3,42.3,-7.74,55.3,327,27.7,27.0,27.7,27.0,0.7,55.2,45.8,73.9,19.09,35.45,5.45,Varsity Program,Dawson,Eagles
+328,43,Woodland,GA,5A,GHSA 5A,2-8,2,8,0,10,42.2,42.2,-7.77,68.7,328,18.8,40.1,18.8,40.1,-21.3,42.7,27.5,44.05,7.0,13.0,2.0,Varsity Program,Cartersville,Wildcats
+329,53,ELCA,GA,4A,GHSA 4A,3-7,3,7,0,10,42.2,42.2,-7.8,48.0,329,20.2,27.9,20.2,27.9,-7.7,44.7,44.5,46.8,10.5,19.5,3.0,Varsity Program,"ELCA, GA",Varsity
+330,30,Miller County,GA,1A-D1,GHSA 1A-D1,5-5,5,5,0,10,42.1,42.1,-7.94,57.4,330,24.6,24.2,24.6,24.2,0.4,50.8,49.7,70.09,17.5,32.5,5.0,Varsity Program,Colquitt,Pirates
+331,41,Georgia Christian,GA,PRIV,GHSA PRIV,3-7,3,7,0,10,42.0,42.0,-8.03,45.2,331,21.2,26.6,21.2,26.6,-5.4,46.1,46.4,45.82,10.5,19.5,3.0,Varsity Program,Valdosta,Generals
+332,54,Rabun County,GA,4A,GHSA 4A,3-7,3,7,0,10,41.9,41.9,-8.06,48.0,332,18.5,26.6,18.5,26.6,-8.1,42.3,46.4,46.8,10.5,19.5,3.0,Varsity Program,"Rabun County, GA",Wildcats
+333,31,Montgomery County,GA,1A-D1,GHSA 1A-D1,5-5,5,5,0,10,41.8,41.8,-8.23,58.1,333,13.9,18.4,13.9,18.4,-4.5,35.9,57.8,70.34,17.5,32.5,5.0,Varsity Program,Mt Vernon,Eagles
+334,79,Chamblee,GA,6A,GHSA 6A,6-4,6,4,0,10,41.5,41.5,-8.47,54.8,334,21.6,20.4,21.6,20.4,1.2,46.6,55.0,79.18,21.0,39.0,6.0,Varsity Program,Chamblee,Bulldogs
+335,32,Lake Oconee Academy,GA,1A-D1,GHSA 1A-D1,6-4,6,4,0,10,41.5,41.5,-8.53,54.4,335,26.0,19.9,26.0,19.9,6.1,52.8,55.7,79.04,21.0,39.0,6.0,Varsity Program,Greensboro,Titans
+336,80,Pope,GA,6A,GHSA 6A,3-7,3,7,0,10,41.4,41.4,-8.56,66.2,336,14.1,36.0,14.1,36.0,-21.9,36.1,33.2,53.17,10.5,19.5,3.0,Varsity Program,Marietta,Greyhounds
+337,81,River Ridge,GA,6A,GHSA 6A,0-10,0,10,0,10,41.3,41.3,-8.66,67.8,337,16.9,43.7,16.9,43.7,-26.8,40.1,25.0,23.73,0.0,0.0,0.0,Varsity Program,Woodstock,Knights
+338,33,Baconton Charter,GA,1A-D1,GHSA 1A-D1,8-2,8,2,0,10,41.3,41.3,-8.67,51.7,338,23.5,13.6,23.5,13.6,9.9,49.3,64.6,98.09,28.0,52.0,8.0,Varsity Program,Baconton,Blazers
+339,42,Fideles Christian,GA,PRIV,GHSA PRIV,4-6,4,6,0,10,41.1,41.1,-8.92,46.6,339,18.9,32.5,18.9,32.5,-13.6,42.9,38.1,56.31,14.0,26.0,4.0,Varsity Program,Cumming,Rangers
+340,43,The King's Academy,GA,PRIV,GHSA PRIV,9-1,9,1,0,10,41.1,41.1,-8.94,41.9,340,35.7,6.9,35.7,6.9,28.8,66.4,73.9,104.66,31.5,58.5,9.0,Varsity Program,Woodstock,Knights
+341,55,Westside,GA,4A,GHSA 4A,2-8,2,8,0,10,41.0,41.0,-8.95,66.9,341,17.1,36.8,17.1,36.8,-19.7,40.3,32.1,43.41,7.0,13.0,2.0,Varsity Program,Macon,Seminoles
+342,44,Wayne County,GA,5A,GHSA 5A,2-8,2,8,0,10,41.0,41.0,-9.05,69.2,342,14.4,40.7,14.4,40.7,-26.3,36.6,26.6,44.22,7.0,13.0,2.0,Varsity Program,Jesup,Yellow Jackets
+343,82,Wheeler,GA,6A,GHSA 6A,0-10,0,10,0,10,40.7,40.7,-9.33,72.8,343,12.1,43.1,12.1,43.1,-31.0,33.3,25.0,25.48,0.0,0.0,0.0,Varsity Program,Marietta,Wildcats
+344,44,Flint River Academy,GA,PRIV,GHSA PRIV,5-5,5,5,0,10,40.5,40.5,-9.46,50.4,344,30.2,22.7,30.2,22.7,7.5,58.7,51.8,67.64,17.5,32.5,5.0,Varsity Program,Woodbury,Wildcats
+345,11,Augusta Christian,GA,1A-D2,GHSA 1A-D2,5-6,5,6,0,11,40.1,40.1,-9.9,61.2,345,19.5,28.2,19.5,28.2,-8.7,43.7,44.1,66.87,15.91,29.55,4.55,Varsity Program,Martinez,Varsity
+346,33,Mt. Bethel Christian Academy,GA,2A,GHSA 2A,6-4,6,4,0,10,40.1,40.1,-9.94,54.9,346,26.9,22.1,26.9,22.1,4.8,54.1,52.7,79.22,21.0,39.0,6.0,Varsity Program,Marietta,Eagles
+347,34,Claxton,GA,1A-D1,GHSA 1A-D1,5-5,5,5,0,10,40.0,40.0,-9.96,55.6,347,18.4,20.3,18.4,20.3,-1.9,42.2,55.2,69.46,17.5,32.5,5.0,Varsity Program,Claxton,Tigers
+348,35,Turner County,GA,1A-D1,GHSA 1A-D1,3-7,3,7,0,10,40.0,40.0,-10.05,58.6,348,24.8,31.3,24.8,31.3,-6.5,51.1,39.8,50.51,10.5,19.5,3.0,Varsity Program,Ashburn,Titans
+349,36,Business Engineering Science Tech,GA,1A-D1,GHSA 1A-D1,6-4,6,4,0,10,39.7,39.7,-10.27,51.0,349,27.8,19.2,27.8,19.2,8.6,55.3,56.7,77.85,21.0,39.0,6.0,Varsity Program,Atlanta,Eagles
+350,45,Union County,GA,3A,GHSA 3A,2-8,2,8,0,10,39.6,39.6,-10.41,60.7,350,18.1,28.5,18.1,28.5,-10.4,41.7,43.7,41.25,7.0,13.0,2.0,Varsity Program,Blairsville,Panthers
+351,34,Dade County,GA,2A,GHSA 2A,5-5,5,5,0,10,39.6,39.6,-10.42,55.9,351,29.5,28.2,29.5,28.2,1.3,57.7,44.1,69.56,17.5,32.5,5.0,Varsity Program,Trenton,Wolverines
+352,56,Westminster,GA,4A,GHSA 4A,3-7,3,7,0,10,39.5,39.5,-10.54,61.4,352,14.8,26.4,14.8,26.4,-11.6,37.1,46.6,51.49,10.5,19.5,3.0,Varsity Program,Atlanta,Wildcats
+353,45,Skipstone Academy,GA,PRIV,GHSA PRIV,3-6,3,6,0,9,39.4,39.4,-10.65,45.7,353,29.8,43.1,29.8,43.1,-13.3,58.1,25.0,49.33,11.67,21.67,3.33,Varsity Program,Griffin,Unknown
+354,46,Grace Christian Academy,GA,PRIV,GHSA PRIV,3-7,3,7,0,10,39.2,39.2,-10.82,45.2,354,19.2,30.8,19.2,30.8,-11.6,43.3,40.5,45.82,10.5,19.5,3.0,Varsity Program,Bainbridge,Cougars
+355,57,McDonough,GA,4A,GHSA 4A,3-7,3,7,0,10,39.1,39.1,-10.93,62.2,355,17.0,32.2,17.0,32.2,-15.2,40.2,38.5,51.77,10.5,19.5,3.0,Varsity Program,Mcdonough,Warhawks
+356,45,Chattahoochee,GA,5A,GHSA 5A,4-6,4,6,0,10,39.0,39.0,-10.95,62.4,356,24.5,37.1,24.5,37.1,-12.6,50.7,31.7,61.84,14.0,26.0,4.0,Varsity Program,Alpharetta,Cougars
+357,35,Mt. Zion,GA,2A,GHSA 2A,4-6,4,6,0,10,39.0,39.0,-10.95,62.2,357,16.6,29.5,16.6,29.5,-12.9,39.6,42.3,61.77,14.0,26.0,4.0,Varsity Program,Mt Zion,Eagles
+358,47,Southland Academy,GA,PRIV,GHSA PRIV,5-6,5,6,0,11,39.0,39.0,-11.02,56.0,358,22.8,24.9,22.8,24.9,-2.1,48.3,48.7,65.05,15.91,29.55,4.55,Varsity Program,Americus,Raiders
+359,46,Lakeview Academy,GA,3A,GHSA 3A,4-6,4,6,0,10,38.9,38.9,-11.1,56.1,359,18.1,32.7,18.1,32.7,-14.6,41.7,37.8,59.63,14.0,26.0,4.0,Varsity Program,Gainesville,Lions
+360,37,Greene County,GA,1A-D1,GHSA 1A-D1,2-8,2,8,0,10,38.9,38.9,-11.15,63.4,360,14.3,31.4,14.3,31.4,-17.1,36.4,39.6,42.19,7.0,13.0,2.0,Varsity Program,Greensboro,Tigers
+361,83,Forsyth Central,GA,6A,GHSA 6A,0-10,0,10,0,10,38.7,38.7,-11.28,66.9,361,11.5,36.1,11.5,36.1,-24.6,32.5,33.1,23.41,0.0,0.0,0.0,Varsity Program,Cumming,Bulldogs
+362,58,Upson-Lee,GA,4A,GHSA 4A,1-9,1,9,0,10,38.7,38.7,-11.29,68.9,362,6.3,33.0,6.3,33.0,-26.7,25.2,37.4,34.12,3.5,6.5,1.0,Varsity Program,Thomaston,Knights
+363,47,Brantley County,GA,3A,GHSA 3A,4-6,4,6,0,10,38.4,38.4,-11.63,61.6,363,11.9,25.0,11.9,25.0,-13.1,33.1,48.6,61.56,14.0,26.0,4.0,Varsity Program,Nahunta,Herons
+364,59,Dawson County,GA,4A,GHSA 4A,1-9,1,9,0,10,38.3,38.3,-11.74,62.5,364,20.6,34.9,20.6,34.9,-14.3,45.2,34.7,31.88,3.5,6.5,1.0,Varsity Program,Dawsonville,Tigers
+365,46,Madison County,GA,5A,GHSA 5A,2-8,2,8,0,10,38.2,38.2,-11.84,64.7,365,17.0,39.2,17.0,39.2,-22.2,40.2,28.7,42.64,7.0,13.0,2.0,Varsity Program,Danielsville,Red Raiders
+366,60,Mount de Sales Academy,GA,4A,GHSA 4A,5-5,5,5,0,10,38.1,38.1,-11.92,56.8,366,16.7,22.0,16.7,22.0,-5.3,39.8,52.8,69.88,17.5,32.5,5.0,Varsity Program,Macon,Cavaliers
+367,47,Drew,GA,5A,GHSA 5A,6-4,6,4,0,10,37.8,37.8,-12.25,57.3,367,15.3,24.2,15.3,24.2,-8.9,37.8,49.7,80.05,21.0,39.0,6.0,Varsity Program,Riverdale,Varsity
+368,61,Calvary Christian,GA,4A,GHSA 4A,3-7,3,7,0,10,37.5,37.5,-12.49,62.2,368,18.1,31.5,18.1,31.5,-13.4,41.7,39.5,51.77,10.5,19.5,3.0,Varsity Program,Columbus,Knights
+369,48,Therrell,GA,3A,GHSA 3A,2-8,2,8,0,10,37.4,37.4,-12.64,63.1,369,11.6,25.2,11.6,25.2,-13.6,32.6,48.3,42.09,7.0,13.0,2.0,Varsity Program,Atlanta,Panthers
+370,84,Decatur,GA,6A,GHSA 6A,3-7,3,7,0,10,37.3,37.3,-12.66,60.2,370,19.5,28.7,19.5,28.7,-9.2,43.7,43.4,51.07,10.5,19.5,3.0,Varsity Program,Decatur,Bulldogs
+371,49,South Atlanta,GA,3A,GHSA 3A,5-5,5,5,0,10,37.3,37.3,-12.74,54.1,371,16.5,18.4,16.5,18.4,-1.9,39.5,57.8,68.94,17.5,32.5,5.0,Varsity Program,Atlanta,Hornets
+372,85,Seckinger,GA,6A,GHSA 6A,1-9,1,9,0,10,36.9,36.9,-13.06,64.5,372,14.4,36.7,14.4,36.7,-22.3,36.6,32.2,32.58,3.5,6.5,1.0,Varsity Program,Buford,Jaguars
+373,86,Apalachee,GA,6A,GHSA 6A,1-9,1,9,0,10,36.7,36.7,-13.28,66.4,373,13.3,37.3,13.3,37.3,-24.0,35.0,31.4,33.24,3.5,6.5,1.0,Varsity Program,Winder,Wildcats
+374,38,Wilkinson County,GA,1A-D1,GHSA 1A-D1,4-6,4,6,0,10,36.6,36.6,-13.35,56.0,374,21.9,27.0,21.9,27.0,-5.1,47.1,45.8,59.6,14.0,26.0,4.0,Varsity Program,Irwinton,Warriors
+375,62,Sprayberry,GA,4A,GHSA 4A,2-8,2,8,0,10,36.6,36.6,-13.43,46.6,375,16.8,31.0,16.8,31.0,-14.2,39.9,40.2,36.31,7.0,13.0,2.0,Varsity Program,"Sprayberry, GA",Yellow Jackets
+376,63,Ridgeland,GA,4A,GHSA 4A,2-8,2,8,0,10,36.5,36.5,-13.45,62.3,376,17.8,33.9,17.8,33.9,-16.1,41.3,36.1,41.8,7.0,13.0,2.0,Varsity Program,Rossville,Panthers
+377,36,Mount Paran Christian,GA,2A,GHSA 2A,2-8,2,8,0,10,36.5,36.5,-13.5,61.3,377,11.6,27.3,11.6,27.3,-15.7,32.6,45.4,41.45,7.0,13.0,2.0,Varsity Program,Kennesaw,Eagles
+378,48,Horizon Christian Academy,GA,PRIV,GHSA PRIV,2-6,2,6,0,8,36.4,36.4,-13.57,44.5,378,25.6,40.2,25.6,40.2,-14.6,52.2,27.3,40.58,8.75,16.25,2.5,Varsity Program,Cumming,Warriors
+379,50,Sonoraville,GA,3A,GHSA 3A,2-8,2,8,0,10,36.4,36.4,-13.64,61.9,379,15.0,33.5,15.0,33.5,-18.5,37.4,36.7,41.66,7.0,13.0,2.0,Varsity Program,Calhoun,Phoenix
+380,51,Rutland,GA,3A,GHSA 3A,4-6,4,6,0,10,36.2,36.2,-13.81,57.7,380,23.4,31.6,23.4,31.6,-8.2,49.2,39.4,60.2,14.0,26.0,4.0,Varsity Program,Macon,Hurricanes
+381,52,Coahulla Creek,GA,3A,GHSA 3A,3-7,3,7,0,10,36.1,36.1,-13.92,58.0,381,19.5,26.9,19.5,26.9,-7.4,43.7,45.9,50.3,10.5,19.5,3.0,Varsity Program,Dalton,Colts
+382,64,GAPPS,GA,4A,GHSA 4A,0-1,0,1,0,1,36.0,36.0,-14.0,41.0,382,9.0,11.0,9.0,11.0,-2.0,29.0,68.2,14.35,0.0,0.0,0.0,Varsity Program,"GAPPS, GA",Varsity
+383,53,Tattnall County,GA,3A,GHSA 3A,3-7,3,7,0,10,36.0,36.0,-14.05,61.7,383,16.6,30.3,16.6,30.3,-13.7,39.6,41.2,51.59,10.5,19.5,3.0,Varsity Program,Reidsville,Battle Creek Warriors
+384,65,Fayette County,GA,4A,GHSA 4A,2-8,2,8,0,10,35.9,35.9,-14.09,63.0,384,12.4,29.4,12.4,29.4,-17.0,33.8,42.4,42.05,7.0,13.0,2.0,Varsity Program,Fayetteville,Tigers
+385,39,Marion County,GA,1A-D1,GHSA 1A-D1,3-7,3,7,0,10,35.8,35.8,-14.21,56.3,385,21.6,27.3,21.6,27.3,-5.7,46.6,45.4,49.7,10.5,19.5,3.0,Varsity Program,Buena Vista,Eagles
+386,54,McNair,GA,3A,GHSA 3A,4-6,4,6,0,10,35.8,35.8,-14.22,59.0,386,18.7,28.8,18.7,28.8,-10.1,42.6,43.3,60.65,14.0,26.0,4.0,Varsity Program,Atlanta,Mustangs
+387,55,Murray County,GA,3A,GHSA 3A,5-5,5,5,0,10,35.8,35.8,-14.24,56.7,387,16.1,22.0,16.1,22.0,-5.9,38.9,52.8,69.84,17.5,32.5,5.0,Varsity Program,Chatsworth,Indians
+388,37,Washington,GA,2A,GHSA 2A,5-5,5,5,0,10,35.6,35.6,-14.38,55.9,388,17.5,26.2,17.5,26.2,-8.7,40.9,46.9,69.56,17.5,32.5,5.0,Varsity Program,Atlanta,Bulldogs
+389,49,Piedmont Academy,GA,PRIV,GHSA PRIV,3-8,3,8,0,11,35.6,35.6,-14.38,60.0,389,14.5,33.5,14.5,33.5,-19.0,36.7,36.7,48.27,9.55,17.73,2.73,Varsity Program,Monticello,Cougars
+390,50,Covenant Christian Academy,GA,PRIV,GHSA PRIV,2-7,2,7,0,9,35.6,35.6,-14.39,44.1,390,19.7,34.4,19.7,34.4,-14.7,44.0,35.4,37.66,7.78,14.44,2.22,Varsity Program,Cumming,Rams
+391,51,Harvester Christian Academy,GA,PRIV,GHSA PRIV,2-8,2,8,0,10,35.2,35.2,-14.79,43.8,391,20.6,34.8,20.6,34.8,-14.2,45.2,34.9,35.33,7.0,13.0,2.0,Varsity Program,Douglasville,Hawks
+392,38,Bryan County,GA,2A,GHSA 2A,1-9,1,9,0,10,35.1,35.1,-14.91,60.3,392,10.5,25.2,10.5,25.2,-14.7,31.1,48.3,31.1,3.5,6.5,1.0,Varsity Program,Pembroke,Redskins
+393,87,Johns Creek,GA,6A,GHSA 6A,2-8,2,8,0,10,35.0,35.0,-14.97,66.0,393,11.2,37.4,11.2,37.4,-26.2,32.1,31.2,43.1,7.0,13.0,2.0,Varsity Program,Johns Creek,Gladiators
+394,40,Dooly County,GA,1A-D1,GHSA 1A-D1,3-7,3,7,0,10,35.0,35.0,-15.03,59.0,394,15.6,34.5,15.6,34.5,-18.9,38.2,35.3,50.65,10.5,19.5,3.0,Varsity Program,Vienna,Bobcats
+395,66,Columbus,GA,4A,GHSA 4A,3-7,3,7,0,10,34.9,34.9,-15.13,61.0,395,15.9,35.6,15.9,35.6,-19.7,38.7,33.8,51.35,10.5,19.5,3.0,Varsity Program,Columbus,Blue Devils
+396,52,Monsignor Donovan Catholic,GA,PRIV,GHSA PRIV,2-7,2,7,0,9,34.8,34.8,-15.16,44.1,396,12.4,28.8,12.4,28.8,-16.4,33.8,43.3,37.66,7.78,14.44,2.22,Varsity Program,Athens,Rams
+397,48,Mundy's Mill,GA,5A,GHSA 5A,2-8,2,8,0,10,34.8,34.8,-15.19,60.3,397,10.6,26.2,10.6,26.2,-15.6,31.2,46.9,41.1,7.0,13.0,2.0,Varsity Program,Jonesboro,Tigers
+398,67,North Springs,GA,4A,GHSA 4A,2-8,2,8,0,10,34.7,34.7,-15.33,61.5,398,24.1,38.1,24.1,38.1,-14.0,50.1,30.3,41.52,7.0,13.0,2.0,Varsity Program,Atlanta,Spartans
+399,56,Georgia School for Innovation & Classics,GA,3A,GHSA 3A,2-8,2,8,0,10,34.6,34.6,-15.42,43.8,399,22.6,38.2,22.6,38.2,-15.6,48.0,30.1,35.33,7.0,13.0,2.0,Varsity Program,Hephzibah,Patriots
+400,88,Morrow,GA,6A,GHSA 6A,2-8,2,8,0,10,34.4,34.4,-15.58,66.3,400,11.6,37.0,11.6,37.0,-25.4,32.6,31.8,43.2,7.0,13.0,2.0,Varsity Program,Morrow,Mustangs
+401,89,Alcovy,GA,6A,GHSA 6A,3-7,3,7,0,10,34.3,34.3,-15.72,57.4,401,16.4,23.4,16.4,23.4,-7.0,39.4,50.8,50.09,10.5,19.5,3.0,Varsity Program,Covington,Tigers
+402,39,Jefferson County,GA,2A,GHSA 2A,3-7,3,7,0,10,33.9,33.9,-16.08,59.4,402,20.2,32.0,20.2,32.0,-11.8,44.7,38.8,50.79,10.5,19.5,3.0,Varsity Program,Louisville,Warriors
+403,53,Pinewood Christian,GA,PRIV,GHSA PRIV,1-9,1,9,0,10,33.9,33.9,-16.15,62.0,403,12.8,31.9,12.8,31.9,-19.1,34.3,38.9,31.7,3.5,6.5,1.0,Varsity Program,Bellville,Patriots
+404,40,Landmark Christian,GA,2A,GHSA 2A,1-9,1,9,0,10,33.6,33.6,-16.42,63.9,404,12.6,43.8,12.6,43.8,-31.2,34.0,25.0,32.36,3.5,6.5,1.0,Varsity Program,Fairburn,War Eagles
+405,68,Luella,GA,4A,GHSA 4A,1-9,1,9,0,10,33.5,33.5,-16.52,65.4,405,7.5,35.1,7.5,35.1,-27.6,26.9,34.5,32.89,3.5,6.5,1.0,Varsity Program,Luella,Lions
+406,41,Utopian Academy for the Arts,GA,2A,GHSA 2A,4-6,4,6,0,10,33.3,33.3,-16.68,55.5,406,29.2,33.0,29.2,33.0,-3.8,57.3,37.4,59.42,14.0,26.0,4.0,Varsity Program,Ellenwood,Arts
+407,69,East Hall,GA,4A,GHSA 4A,3-7,3,7,0,10,33.3,33.3,-16.71,60.1,407,18.9,40.3,18.9,40.3,-21.4,42.9,27.2,51.03,10.5,19.5,3.0,Varsity Program,Gainesville,Vikings
+408,41,Towns County,GA,1A-D1,GHSA 1A-D1,5-5,5,5,0,10,33.2,33.2,-16.75,48.8,408,30.9,25.4,30.9,25.4,5.5,59.7,48.0,67.08,17.5,32.5,5.0,Varsity Program,Hiawassee,Indians
+409,90,Discovery,GA,6A,GHSA 6A,0-10,0,10,0,10,33.2,33.2,-16.8,65.6,409,9.5,37.6,9.5,37.6,-28.1,29.7,31.0,22.96,0.0,0.0,0.0,Varsity Program,Lawrenceville,Titans
+410,49,Druid Hills,GA,5A,GHSA 5A,3-7,3,7,0,10,33.1,33.1,-16.88,62.0,410,11.8,33.8,11.8,33.8,-22.0,32.9,36.3,51.7,10.5,19.5,3.0,Varsity Program,Atlanta,Red Devils
+411,57,Islands,GA,3A,GHSA 3A,4-6,4,6,0,10,33.1,33.1,-16.93,59.3,411,14.9,29.8,14.9,29.8,-14.9,37.3,41.9,60.75,14.0,26.0,4.0,Varsity Program,Savannah,Sharks
+412,91,Osborne,GA,6A,GHSA 6A,1-9,1,9,0,10,32.8,32.8,-17.17,62.3,412,10.4,31.1,10.4,31.1,-20.7,31.0,40.1,31.8,3.5,6.5,1.0,Varsity Program,Marietta,Cardinals
+413,70,St. Pius X,GA,4A,GHSA 4A,2-6,2,6,0,8,32.8,32.8,-17.22,45.7,413,14.8,35.9,14.8,35.9,-21.1,37.1,33.3,40.99,8.75,16.25,2.5,Varsity Program,"St. Pius X, GA",Varsity
+414,54,Johnson Ferry Christian Academy,GA,PRIV,GHSA PRIV,1-6,1,6,0,7,32.5,32.5,-17.52,43.0,414,14.6,31.3,14.6,31.3,-16.7,36.8,39.8,29.34,5.0,9.29,1.43,Varsity Program,Marietta,Saints
+415,55,Sherwood Christian Academy,GA,PRIV,GHSA PRIV,5-5,5,5,0,10,32.3,32.3,-17.67,53.2,415,26.4,31.3,26.4,31.3,-4.9,53.4,39.8,68.62,17.5,32.5,5.0,Varsity Program,Albany,Eagles
+416,58,Cedar Grove,GA,3A,GHSA 3A,1-9,1,9,0,10,32.3,32.3,-17.73,62.5,416,9.2,34.2,9.2,34.2,-25.0,29.3,35.7,31.88,3.5,6.5,1.0,Varsity Program,Ellenwood,Saints
+417,42,Georgia Military College,GA,1A-D1,GHSA 1A-D1,4-6,4,6,0,10,32.2,32.2,-17.78,53.6,417,13.5,18.0,13.5,18.0,-4.5,35.3,58.4,58.76,14.0,26.0,4.0,Varsity Program,Milledgeville,Bulldogs
+418,59,Riverside Military Academy,GA,3A,GHSA 3A,3-8,3,8,0,11,32.1,32.1,-17.85,52.7,418,24.0,28.5,24.0,28.5,-4.5,50.0,43.7,45.72,9.55,17.73,2.73,Varsity Program,Gainesville,Eagles
+419,50,Union Grove,GA,5A,GHSA 5A,2-8,2,8,0,10,32.0,32.0,-17.97,61.9,419,23.8,44.8,23.8,44.8,-21.0,49.7,25.0,41.66,7.0,13.0,2.0,Varsity Program,Mcdonough,Wolverines
+420,51,Eagle's Landing,GA,5A,GHSA 5A,0-10,0,10,0,10,32.0,32.0,-18.01,67.3,420,9.2,44.8,9.2,44.8,-35.6,29.3,25.0,23.55,0.0,0.0,0.0,Varsity Program,Mcdonough,Eagles
+421,60,Augusta Prep,GA,3A,GHSA 3A,5-5,5,5,0,10,31.9,31.9,-18.11,49.9,421,23.6,23.6,23.6,23.6,0.0,49.4,50.6,67.47,17.5,32.5,5.0,Varsity Program,Augusta,Cavaliers
+422,56,Creekside Christian Academy,GA,PRIV,GHSA PRIV,5-6,5,6,0,11,31.9,31.9,-18.13,49.7,422,26.6,32.5,26.6,32.5,-5.9,53.6,38.1,62.85,15.91,29.55,4.55,Varsity Program,Mcdonough,Cougars
+423,61,Coastal HomeSchool,GA,3A,GHSA 3A,2-9,2,9,0,11,31.9,31.9,-18.13,43.5,423,27.3,47.8,27.3,47.8,-20.5,54.6,25.0,33.41,6.36,11.82,1.82,Varsity Program,Pembroke,Hurricanes
+424,42,Coosa,GA,2A,GHSA 2A,3-7,3,7,0,10,31.8,31.8,-18.17,59.0,424,17.5,32.9,17.5,32.9,-15.4,40.9,37.5,50.65,10.5,19.5,3.0,Varsity Program,Rome,Eagles
+425,43,Glenn Hills,GA,2A,GHSA 2A,3-7,3,7,0,10,31.3,31.3,-18.68,57.1,425,21.6,30.4,21.6,30.4,-8.8,46.6,41.0,49.98,10.5,19.5,3.0,Varsity Program,Augusta,Spartans
+426,57,Brookwood,GA,PRIV,GHSA PRIV,7-4,7,4,0,11,31.2,31.2,-18.83,49.6,426,23.2,24.0,23.2,24.0,-0.8,48.9,50.0,81.0,22.27,41.36,6.36,Varsity Program,Thomasville,Warriors
+427,71,Crisp County,GA,4A,GHSA 4A,1-9,1,9,0,10,31.1,31.1,-18.93,45.3,427,14.1,34.6,14.1,34.6,-20.5,36.1,35.2,25.85,3.5,6.5,1.0,Varsity Program,"Crisp County, GA",Cougars
+428,72,Riverdale,GA,4A,GHSA 4A,2-8,2,8,0,10,30.8,30.8,-19.23,60.8,428,11.7,34.8,11.7,34.8,-23.1,32.8,34.9,41.28,7.0,13.0,2.0,Varsity Program,Riverdale,Raiders
+429,43,Calhoun County,GA,1A-D1,GHSA 1A-D1,3-7,3,7,0,10,30.7,30.7,-19.28,52.4,429,37.0,39.4,37.0,39.4,-2.4,68.2,28.4,48.34,10.5,19.5,3.0,Varsity Program,Edison,Cougars
+430,44,Banks County,GA,2A,GHSA 2A,4-6,4,6,0,10,30.4,30.4,-19.63,50.6,430,23.3,25.4,23.3,25.4,-2.1,49.0,48.0,57.71,14.0,26.0,4.0,Varsity Program,Homer,Leopards
+431,52,Northview,GA,5A,GHSA 5A,4-6,4,6,0,10,30.2,30.2,-19.78,50.9,431,25.2,27.0,25.2,27.0,-1.8,51.7,45.8,57.81,14.0,26.0,4.0,Varsity Program,Johns Creek,Titans
+432,44,Lanier County,GA,1A-D1,GHSA 1A-D1,1-9,1,9,0,10,30.0,30.0,-19.96,59.1,432,9.8,32.3,9.8,32.3,-22.5,30.1,38.4,30.68,3.5,6.5,1.0,Varsity Program,Lakeland,Bulldogs
+433,73,Sumter County,GA,4A,GHSA 4A,1-9,1,9,0,10,29.9,29.9,-20.1,45.0,433,12.9,35.2,12.9,35.2,-22.3,34.5,34.3,25.75,3.5,6.5,1.0,Varsity Program,"Sumter County, GA",Panthers
+434,45,Chattahoochee County,GA,1A-D1,GHSA 1A-D1,4-6,4,6,0,10,29.9,29.9,-20.11,52.9,434,22.0,32.8,22.0,32.8,-10.8,47.2,37.7,58.52,14.0,26.0,4.0,Varsity Program,Cusseta,Panthers
+435,92,Lakeside,GA,6A,GHSA 6A,2-8,2,8,0,10,29.4,29.4,-20.58,57.2,435,7.5,27.9,7.5,27.9,-20.4,26.9,44.5,40.02,7.0,13.0,2.0,Varsity Program,Atlanta,Vikings
+436,58,Community Christian,GA,PRIV,GHSA PRIV,1-8,1,8,0,9,29.1,29.1,-20.88,42.6,436,27.0,49.2,27.0,49.2,-22.2,54.2,25.0,26.02,3.89,7.22,1.11,Varsity Program,Stockbridge,Knights
+437,74,Heard County,GA,4A,GHSA 4A,10-0,10,0,0,10,28.7,28.7,-21.3,44.7,437,48.0,9.1,48.0,9.1,38.9,83.6,70.9,115.64,35.0,65.0,10.0,Varsity Program,"Heard County, GA",Braves
+438,62,Spring Creek Charter Academy,GA,3A,GHSA 3A,1-8,1,8,0,9,28.5,28.5,-21.46,42.6,438,15.8,39.3,15.8,39.3,-23.5,38.5,28.6,26.02,3.89,7.22,1.11,Varsity Program,Bainbridge,Stallions
+439,46,Pataula Charter Academy,GA,1A-D1,GHSA 1A-D1,5-5,5,5,0,10,28.4,28.4,-21.56,44.9,439,23.0,18.4,23.0,18.4,4.6,48.6,57.8,65.72,17.5,32.5,5.0,Varsity Program,Edison,Panthers
+440,59,Rock Springs Christian Academy,GA,PRIV,GHSA PRIV,4-6,4,6,0,10,28.4,28.4,-21.61,47.4,440,24.3,29.7,24.3,29.7,-5.4,50.4,42.0,56.59,14.0,26.0,4.0,Varsity Program,Milner,Eagles
+441,47,Hancock Central,GA,1A-D1,GHSA 1A-D1,3-7,3,7,0,10,28.2,28.2,-21.81,57.1,441,15.2,37.6,15.2,37.6,-22.4,37.7,31.0,49.98,10.5,19.5,3.0,Varsity Program,Sparta,Bulldogs
+442,48,Terrell County,GA,1A-D1,GHSA 1A-D1,4-6,4,6,0,10,28.0,28.0,-21.96,53.2,442,16.7,27.0,16.7,27.0,-10.3,39.8,45.8,58.62,14.0,26.0,4.0,Varsity Program,Dawson,Eagles
+443,75,Athens Academy,GA,4A,GHSA 4A,0-10,0,10,0,10,27.7,27.7,-22.27,44.4,443,11.7,35.2,11.7,35.2,-23.5,32.8,34.3,15.54,0.0,0.0,0.0,Varsity Program,"Athens Academy, GA",Spartans
+444,60,Westminster Christian Academy,GA,PRIV,GHSA PRIV,1-8,1,8,0,9,27.4,27.4,-22.63,42.6,444,11.6,37.7,11.6,37.7,-26.1,32.6,30.8,26.02,3.89,7.22,1.11,Varsity Program,Watkinsville,Lions
+445,76,West Hall,GA,4A,GHSA 4A,2-8,2,8,0,10,27.3,27.3,-22.71,56.8,445,18.0,31.7,18.0,31.7,-13.7,41.6,39.2,39.88,7.0,13.0,2.0,Varsity Program,Oakwood,Spartans
+446,49,Pelham,GA,1A-D1,GHSA 1A-D1,1-9,1,9,0,10,26.9,26.9,-23.06,56.5,446,11.9,30.8,11.9,30.8,-18.9,33.1,40.5,29.77,3.5,6.5,1.0,Varsity Program,Pelham,Hornets
+447,77,Eastside,GA,4A,GHSA 4A,4-6,4,6,0,10,26.8,26.8,-23.18,44.2,447,20.3,25.0,20.3,25.0,-4.7,44.8,48.6,55.47,14.0,26.0,4.0,Varsity Program,"Eastside, GA",Eagles
+448,53,Central,GA,5A,GHSA 5A,7-3,7,3,0,10,26.7,26.7,-23.27,57.8,448,47.1,29.0,47.1,29.0,18.1,82.3,43.0,90.23,24.5,45.5,7.0,Varsity Program,Carrollton,Lions
+449,63,Westminster Schools of Augusta,GA,3A,GHSA 3A,3-7,3,7,0,10,26.6,26.6,-23.38,51.0,449,20.2,24.1,20.2,24.1,-3.9,44.7,49.9,47.85,10.5,19.5,3.0,Varsity Program,Augusta,Wildcats
+450,61,Peachtree Academy,GA,PRIV,GHSA PRIV,1-8,1,8,0,9,26.5,26.5,-23.49,42.6,450,6.4,38.4,6.4,38.4,-32.0,25.4,29.8,26.02,3.89,7.22,1.11,Varsity Program,Covington,Panthers
+451,45,Mount Pisgah Christian,GA,2A,GHSA 2A,3-7,3,7,0,10,26.5,26.5,-23.53,57.1,451,10.9,35.4,10.9,35.4,-24.5,31.7,34.0,49.98,10.5,19.5,3.0,Varsity Program,Johns Creek,Patriots
+452,64,Towers,GA,3A,GHSA 3A,4-6,4,6,0,10,26.2,26.2,-23.79,47.6,452,14.9,21.8,14.9,21.8,-6.9,37.3,53.1,56.66,14.0,26.0,4.0,Varsity Program,Decatur,Titans
+453,62,John Hancock Academy,GA,PRIV,GHSA PRIV,1-9,1,9,0,10,26.2,26.2,-23.8,42.4,453,13.8,46.7,13.8,46.7,-32.9,35.7,25.0,24.84,3.5,6.5,1.0,Varsity Program,Sparta,Rebels
+454,78,Loganville Christian Academy,GA,4A,GHSA 4A,2-8,2,8,0,10,26.0,26.0,-23.98,57.1,454,20.1,36.3,20.1,36.3,-16.2,44.5,32.8,39.98,7.0,13.0,2.0,Varsity Program,Loganville,Lions
+455,54,Arabia Mountain,GA,5A,GHSA 5A,1-9,1,9,0,10,25.9,25.9,-24.09,58.0,455,15.8,34.2,15.8,34.2,-18.4,38.5,35.7,30.3,3.5,6.5,1.0,Varsity Program,Lithonia,Rams
+456,63,Cherokee Christian,GA,PRIV,GHSA PRIV,5-4,5,4,0,9,25.9,25.9,-24.13,42.7,456,25.6,24.8,25.6,24.8,0.8,52.2,48.9,70.5,19.44,36.11,5.56,Varsity Program,Woodstock,Warriors
+457,46,Oglethorpe County,GA,2A,GHSA 2A,1-9,1,9,0,10,25.9,25.9,-24.14,64.5,457,5.9,38.1,5.9,38.1,-32.2,25.0,30.3,32.58,3.5,6.5,1.0,Varsity Program,Lexington,Patriots
+458,47,Chattooga,GA,2A,GHSA 2A,2-8,2,8,0,10,25.5,25.5,-24.46,55.8,458,15.2,32.6,15.2,32.6,-17.4,37.7,38.0,39.53,7.0,13.0,2.0,Varsity Program,Summerville,Indians
+459,93,Meadowcreek,GA,6A,GHSA 6A,3-7,3,7,0,10,25.1,25.1,-24.87,54.9,459,10.7,34.3,10.7,34.3,-23.6,31.4,35.6,49.22,10.5,19.5,3.0,Varsity Program,Norcross,Mustangs
+460,79,Wilcox County,GA,4A,GHSA 4A,0-10,0,10,0,10,24.9,24.9,-25.13,43.7,460,10.2,40.4,10.2,40.4,-30.2,30.7,27.0,15.29,0.0,0.0,0.0,Varsity Program,"Wilcox County, GA",Patriots
+461,94,Berkmar,GA,6A,GHSA 6A,0-10,0,10,0,10,24.5,24.5,-25.51,66.8,461,5.4,42.9,5.4,42.9,-37.5,25.0,25.0,23.38,0.0,0.0,0.0,Varsity Program,Lilburn,Patriots
+462,65,Southwest,GA,3A,GHSA 3A,0-10,0,10,0,10,24.5,24.5,-25.53,61.9,462,13.8,42.3,13.8,42.3,-28.5,35.7,25.0,21.66,0.0,0.0,0.0,Varsity Program,Macon,Patriots
+463,80,Southeast Whitfield,GA,4A,GHSA 4A,2-8,2,8,0,10,24.4,24.4,-25.59,56.3,463,19.2,35.8,19.2,35.8,-16.6,43.3,33.5,39.7,7.0,13.0,2.0,Varsity Program,Dalton,Raiders
+464,66,Butler,GA,3A,GHSA 3A,3-7,3,7,0,10,24.4,24.4,-25.64,56.8,464,10.2,31.5,10.2,31.5,-21.3,30.7,39.5,49.88,10.5,19.5,3.0,Varsity Program,Augusta,Bulldogs
+465,48,Walker,GA,2A,GHSA 2A,2-8,2,8,0,10,23.9,23.9,-26.12,55.9,465,16.6,30.4,16.6,30.4,-13.8,39.6,41.0,39.56,7.0,13.0,2.0,Varsity Program,Marietta,Wolverines
+466,12,Community Christian Academy,GA,1A-D2,GHSA 1A-D2,0-9,0,9,0,9,23.4,23.4,-26.6,41.0,466,2.7,35.8,2.7,35.8,-33.1,25.0,33.5,14.35,0.0,0.0,0.0,Varsity Program,Martinez,Ambassadors
+467,64,Crisp Academy,GA,PRIV,GHSA PRIV,0-8,0,8,0,8,23.4,23.4,-26.6,41.0,467,10.9,45.1,10.9,45.1,-34.2,31.7,25.0,14.35,0.0,0.0,0.0,Varsity Program,Cordele,Wildcats
+468,65,Hearts Academy,GA,PRIV,GHSA PRIV,0-9,0,9,0,9,23.4,23.4,-26.6,41.0,468,9.1,42.6,9.1,42.6,-33.5,29.1,25.0,14.35,0.0,0.0,0.0,Varsity Program,Powder Springs,Panthers
+469,95,Midtown,GA,6A,GHSA 6A,0-10,0,10,0,10,23.3,23.3,-26.71,58.3,469,8.7,35.3,8.7,35.3,-26.6,28.6,34.2,20.4,0.0,0.0,0.0,Varsity Program,Atlanta,Knights
+470,66,Trinity Christian,GA,PRIV,GHSA PRIV,2-8,2,8,0,10,23.3,23.3,-26.74,57.2,470,12.2,38.1,12.2,38.1,-25.9,33.5,30.3,40.02,7.0,13.0,2.0,Varsity Program,Dublin,Crusaders
+471,81,Cedartown,GA,4A,GHSA 4A,0-10,0,10,0,10,23.0,23.0,-26.96,43.2,471,9.8,40.5,9.8,40.5,-30.7,30.1,26.9,15.12,0.0,0.0,0.0,Varsity Program,"Cedartown, GA",Bulldogs
+472,67,St. Andrew's,GA,3A,GHSA 3A,1-8,1,8,0,9,22.7,22.7,-27.34,56.8,472,16.2,41.1,16.2,41.1,-24.9,39.1,26.1,30.99,3.89,7.22,1.11,Varsity Program,Savannah,Lions
+473,68,Kendrick,GA,3A,GHSA 3A,3-7,3,7,0,10,22.6,22.6,-27.36,58.4,473,8.4,40.3,8.4,40.3,-31.9,28.2,27.2,50.44,10.5,19.5,3.0,Varsity Program,Columbus,Cherokees
+474,82,Hardaway,GA,4A,GHSA 4A,0-10,0,10,0,10,22.6,22.6,-27.45,63.6,474,7.3,42.1,7.3,42.1,-34.8,26.6,25.0,22.26,0.0,0.0,0.0,Varsity Program,Columbus,Hawks
+475,67,Robert Toombs Christian Academy,GA,PRIV,GHSA PRIV,0-11,0,11,0,11,22.5,22.5,-27.46,59.0,475,7.5,41.2,7.5,41.2,-33.7,26.9,25.9,20.65,0.0,0.0,0.0,Varsity Program,Lyons,Crusaders
+476,50,Crawford County,GA,1A-D1,GHSA 1A-D1,2-8,2,8,0,10,22.4,22.4,-27.6,56.5,476,11.6,42.0,11.6,42.0,-30.4,32.6,25.0,39.77,7.0,13.0,2.0,Varsity Program,Roberta,Eagles
+477,83,McEachern,GA,4A,GHSA 4A,0-10,0,10,0,10,22.4,22.4,-27.61,43.1,477,11.4,43.1,11.4,43.1,-31.7,32.4,25.0,15.08,0.0,0.0,0.0,Varsity Program,"McEachern, GA",Indians
+478,96,Riverwood,GA,6A,GHSA 6A,0-10,0,10,0,10,22.4,22.4,-27.64,67.3,478,5.1,48.8,5.1,48.8,-43.7,25.0,25.0,23.55,0.0,0.0,0.0,Varsity Program,Sandy Springs,Raiders
+479,84,southeast bulloch,GA,4A,GHSA 4A,4-6,4,6,0,10,22.3,22.3,-27.73,43.1,479,17.4,25.4,17.4,25.4,-8.0,40.8,48.0,55.09,14.0,26.0,4.0,Varsity Program,"southeast bulloch, GA",Yellow Jackets
+480,51,Atkinson County,GA,1A-D1,GHSA 1A-D1,0-10,0,10,0,10,21.7,21.7,-28.27,58.5,480,10.8,42.4,10.8,42.4,-31.6,31.5,25.0,20.47,0.0,0.0,0.0,Varsity Program,Pearson,Rebels
+481,85,Dodge County,GA,4A,GHSA 4A,5-5,5,5,0,10,21.2,21.2,-28.84,42.8,481,33.1,27.5,33.1,27.5,5.6,62.7,45.1,64.98,17.5,32.5,5.0,Varsity Program,"Dodge County, GA",Indians
+482,55,Groves,GA,5A,GHSA 5A,0-10,0,10,0,10,21.1,21.1,-28.95,67.4,482,5.0,53.7,5.0,53.7,-48.7,25.0,25.0,23.59,0.0,0.0,0.0,Varsity Program,Garden City,Rebels
+483,52,Twiggs County,GA,1A-D1,GHSA 1A-D1,1-9,1,9,0,10,20.9,20.9,-29.09,55.3,483,10.7,36.3,10.7,36.3,-25.6,31.4,32.8,29.35,3.5,6.5,1.0,Varsity Program,Jeffersonville,Cobras
+484,56,Forest Park,GA,5A,GHSA 5A,1-9,1,9,0,10,20.8,20.8,-29.2,58.7,484,7.3,41.0,7.3,41.0,-33.7,26.6,26.2,30.54,3.5,6.5,1.0,Varsity Program,Forest Park,Panthers
+485,97,Heritage,GA,6A,GHSA 6A,9-0,9,0,0,9,20.4,20.4,-29.61,44.9,485,37.4,8.9,37.4,8.9,28.5,68.8,71.1,115.72,35.0,65.0,10.0,Varsity Program,Conyers,Patriots
+486,49,Lakeview-Fort Oglethorpe,GA,2A,GHSA 2A,1-9,1,9,0,10,20.2,20.2,-29.84,58.9,486,9.7,44.0,9.7,44.0,-34.3,30.0,25.0,30.61,3.5,6.5,1.0,Varsity Program,Fort Oglethorpe,Warriors
+487,69,Jordan,GA,3A,GHSA 3A,3-7,3,7,0,10,20.0,20.0,-29.99,47.3,487,18.1,31.0,18.1,31.0,-12.9,41.7,40.2,46.55,10.5,19.5,3.0,Varsity Program,Columbus,Red Jackets
+488,50,Savannah,GA,2A,GHSA 2A,0-10,0,10,0,10,19.1,19.1,-30.9,60.3,488,3.6,36.3,3.6,36.3,-32.7,25.0,32.8,21.1,0.0,0.0,0.0,Varsity Program,Savannah,Bluejackets
+489,86,Salem,GA,4A,GHSA 4A,1-9,1,9,0,10,18.3,18.3,-31.7,59.1,489,9.2,43.6,9.2,43.6,-34.4,29.3,25.0,30.68,3.5,6.5,1.0,Varsity Program,Conyers,Seminoles
+490,57,Johnson,GA,5A,GHSA 5A,4-6,4,6,0,10,17.1,17.1,-32.93,42.8,490,17.1,27.9,17.1,27.9,-10.8,40.3,44.5,54.98,14.0,26.0,4.0,Varsity Program,Gainesville,Knights
+491,70,Cross Creek,GA,3A,GHSA 3A,0-10,0,10,0,10,16.7,16.7,-33.34,57.8,491,7.3,45.7,7.3,45.7,-38.4,26.6,25.0,20.23,0.0,0.0,0.0,Varsity Program,Augusta,Razorbacks
+492,51,Armuchee,GA,2A,GHSA 2A,0-10,0,10,0,10,16.5,16.5,-33.45,60.4,492,2.6,39.1,2.6,39.1,-36.5,25.0,28.9,21.14,0.0,0.0,0.0,Varsity Program,Rome,Indians
+493,53,Greenville,GA,1A-D1,GHSA 1A-D1,2-8,2,8,0,10,16.1,16.1,-33.88,53.1,493,14.8,44.4,14.8,44.4,-29.6,37.1,25.0,38.59,7.0,13.0,2.0,Varsity Program,Greenville,Patriots
+494,54,Scintilla Charter Academy,GA,1A-D1,GHSA 1A-D1,1-7,1,7,0,8,15.3,15.3,-34.74,47.1,494,9.4,24.8,9.4,24.8,-15.4,29.6,48.9,28.98,4.38,8.12,1.25,Varsity Program,Valdosta,Spartans
+495,71,Central Fellowship Christian Academy,GA,3A,GHSA 3A,0-10,0,10,0,10,15.0,15.0,-34.99,56.2,495,10.8,46.5,10.8,46.5,-35.7,31.5,25.0,19.67,0.0,0.0,0.0,Varsity Program,Macon,Lancers
+496,87,Chestatee,GA,4A,GHSA 4A,0-10,0,10,0,10,15.0,15.0,-35.01,60.8,496,6.9,53.2,6.9,53.2,-46.3,26.1,25.0,21.28,0.0,0.0,0.0,Varsity Program,Gainesville,War Eagles
+497,52,Josey,GA,2A,GHSA 2A,1-9,1,9,0,10,14.6,14.6,-35.37,59.7,497,5.1,45.7,5.1,45.7,-40.6,25.0,25.0,30.89,3.5,6.5,1.0,Varsity Program,Augusta,Eagles
+498,72,Redan,GA,3A,GHSA 3A,1-9,1,9,0,10,14.6,14.6,-35.43,55.6,498,5.9,41.1,5.9,41.1,-35.2,25.0,26.1,29.46,3.5,6.5,1.0,Varsity Program,Stone Mountain,Raiders
+499,88,Stone Mountain,GA,4A,GHSA 4A,2-8,2,8,0,10,14.0,14.0,-36.0,44.8,499,10.2,33.2,10.2,33.2,-23.0,30.7,37.1,35.68,7.0,13.0,2.0,Varsity Program,Stone Mountain,Pirates
+500,89,Clarkston,GA,4A,GHSA 4A,1-9,1,9,0,10,14.0,14.0,-36.0,48.3,500,9.8,35.0,9.8,35.0,-25.2,30.1,34.6,26.9,3.5,6.5,1.0,Varsity Program,Clarkston,Angoras
+501,55,Southwest Georgia STEM Charter,GA,1A-D1,GHSA 1A-D1,1-9,1,9,0,10,14.0,14.0,-36.0,44.6,501,20.6,40.1,20.6,40.1,-19.5,45.2,27.5,25.61,3.5,6.5,1.0,Varsity Program,Shellman,Aggies
+502,98,True Institute,GA,6A,GHSA 6A,1-7,1,7,0,8,14.0,14.0,-36.0,54.5,502,7.8,39.1,7.8,39.1,-31.3,27.3,28.9,31.57,4.38,8.12,1.25,Varsity Program,Brunswick,Varsity
+503,58,Cross Keys,GA,5A,GHSA 5A,0-10,0,10,0,10,14.0,14.0,-36.0,42.3,503,7.9,36.0,7.9,36.0,-28.1,27.5,33.2,14.8,0.0,0.0,0.0,Varsity Program,Atlanta,Phoenix
+504,73,Dominion Christian,GA,3A,GHSA 3A,0-9,0,9,0,9,14.0,14.0,-36.0,47.8,504,5.6,49.1,5.6,49.1,-43.5,25.0,25.0,16.73,0.0,0.0,0.0,Varsity Program,Marietta,Knights
+505,53,Gordon Central,GA,2A,GHSA 2A,0-10,0,10,0,10,14.0,14.0,-36.0,52.6,505,14.5,44.9,14.5,44.9,-30.4,36.7,25.0,18.41,0.0,0.0,0.0,Varsity Program,Calhoun,Warriors

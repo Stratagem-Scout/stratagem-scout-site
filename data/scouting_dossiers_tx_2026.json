@@ -1,0 +1,5126 @@
+{
+  "state": "TX",
+  "season": 2026,
+  "dossiers": {
+    "north shore": {
+      "team": "North Shore",
+      "state": "TX",
+      "division": "6A-D1",
+      "region": 1,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 26.7,
+      "avg_points_allowed": 15.5,
+      "season_net_margin": 11.2,
+      "last_3_game_margin": 22.0,
+      "momentum_trend": 10.8,
+      "close_game_record": "4-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: North Shore averages 26.7 PPG while holding UIL 6A Region III opponents to 15.5 PPG (+11.2 net margin).",
+        "Postseason Readiness: 9-1 against a 77.4 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+      ]
+    },
+    "duncanville": {
+      "team": "Duncanville",
+      "state": "TX",
+      "division": "6A-D1",
+      "region": 2,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 27.4,
+      "avg_points_allowed": 14.1,
+      "season_net_margin": 13.3,
+      "last_3_game_margin": 14.7,
+      "momentum_trend": 1.4,
+      "close_game_record": "4-1",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Duncanville averages 27.4 PPG while holding UIL 6A District 11 opponents to 14.1 PPG (+13.3 net margin).",
+        "Postseason Readiness: 9-1 against a 77.7 SOS Index with 1 running-clock separations and a 4-1 record in one-score games."
+      ]
+    },
+    "austin westlake": {
+      "team": "Austin Westlake",
+      "state": "TX",
+      "division": "6A-D1",
+      "region": 3,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 18.8,
+      "avg_points_allowed": 20.3,
+      "season_net_margin": -1.5,
+      "last_3_game_margin": 4.0,
+      "momentum_trend": 5.5,
+      "close_game_record": "2-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Austin Westlake averages 18.8 PPG while holding UIL 6A District 26 opponents to 20.3 PPG (-1.5 net margin).",
+        "Postseason Readiness: 3-7 against a 76.1 SOS Index with 0 running-clock separations and a 2-6 record in one-score games."
+      ]
+    },
+    "southlake carroll": {
+      "team": "Southlake Carroll",
+      "state": "TX",
+      "division": "6A-D1",
+      "region": 4,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 18.5,
+      "avg_points_allowed": 18.4,
+      "season_net_margin": 0.1,
+      "last_3_game_margin": -5.7,
+      "momentum_trend": -5.8,
+      "close_game_record": "5-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Southlake Carroll averages 18.5 PPG while holding UIL 6A District 4 opponents to 18.4 PPG (+0.1 net margin).",
+        "Postseason Readiness: 6-4 against a 77.8 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+      ]
+    },
+    "atascocita": {
+      "team": "Atascocita",
+      "state": "TX",
+      "division": "6A-D1",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.2,
+      "avg_points_allowed": 17.6,
+      "season_net_margin": -0.4,
+      "last_3_game_margin": 1.0,
+      "momentum_trend": 1.4,
+      "close_game_record": "2-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Atascocita averages 17.2 PPG while holding UIL 6A District 21 opponents to 17.6 PPG (-0.4 net margin).",
+        "Postseason Readiness: 4-6 against a 75.2 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+      ]
+    },
+    "allen": {
+      "team": "Allen",
+      "state": "TX",
+      "division": "6A-D1",
+      "region": 2,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.2,
+      "avg_points_allowed": 18.1,
+      "season_net_margin": -0.9,
+      "last_3_game_margin": 0.7,
+      "momentum_trend": 1.6,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Allen averages 17.2 PPG while holding UIL 6A District 5 opponents to 18.1 PPG (-0.9 net margin).",
+        "Postseason Readiness: 5-5 against a 77.2 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "coppell": {
+      "team": "Coppell",
+      "state": "TX",
+      "division": "6A-D1",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.0,
+      "avg_points_allowed": 18.4,
+      "season_net_margin": -1.4,
+      "last_3_game_margin": -2.0,
+      "momentum_trend": -0.6,
+      "close_game_record": "5-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Coppell averages 17.0 PPG while holding UIL 6A District 5 opponents to 18.4 PPG (-1.4 net margin).",
+        "Postseason Readiness: 5-5 against a 76.3 SOS Index with 0 running-clock separations and a 5-4 record in one-score games."
+      ]
+    },
+    "katy": {
+      "team": "Katy",
+      "state": "TX",
+      "division": "6A-D1",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.5,
+      "avg_points_allowed": 18.6,
+      "season_net_margin": 0.9,
+      "last_3_game_margin": 5.0,
+      "momentum_trend": 4.1,
+      "close_game_record": "4-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Katy averages 19.5 PPG while holding UIL 6A District 19 opponents to 18.6 PPG (+0.9 net margin).",
+        "Postseason Readiness: 5-5 against a 75.6 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+      ]
+    },
+    "lake travis": {
+      "team": "Lake Travis",
+      "state": "TX",
+      "division": "6A-D1",
+      "region": 1,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 17.4,
+      "avg_points_allowed": 19.8,
+      "season_net_margin": -2.4,
+      "last_3_game_margin": -4.0,
+      "momentum_trend": -1.6,
+      "close_game_record": "3-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lake Travis averages 17.4 PPG while holding UIL 6A District 26 opponents to 19.8 PPG (-2.4 net margin).",
+        "Postseason Readiness: 3-7 against a 74.3 SOS Index with 0 running-clock separations and a 3-6 record in one-score games."
+      ]
+    },
+    "north crowley": {
+      "team": "North Crowley",
+      "state": "TX",
+      "division": "6A-D1",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 19.2,
+      "avg_points_allowed": 22.9,
+      "season_net_margin": -3.7,
+      "last_3_game_margin": -9.7,
+      "momentum_trend": -6.0,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: North Crowley averages 19.2 PPG while holding UIL 6A District 3 opponents to 22.9 PPG (-3.7 net margin).",
+        "Postseason Readiness: 4-6 against a 74.6 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "prosper": {
+      "team": "Prosper",
+      "state": "TX",
+      "division": "6A-D1",
+      "region": 3,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 20.2,
+      "avg_points_allowed": 20.7,
+      "season_net_margin": -0.5,
+      "last_3_game_margin": -5.3,
+      "momentum_trend": -4.8,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Prosper averages 20.2 PPG while holding UIL 6A District 6 opponents to 20.7 PPG (-0.5 net margin).",
+        "Postseason Readiness: 6-4 against a 75.6 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "dickinson": {
+      "team": "Dickinson",
+      "state": "TX",
+      "division": "6A-D1",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.0,
+      "avg_points_allowed": 20.0,
+      "season_net_margin": -1.0,
+      "last_3_game_margin": -5.0,
+      "momentum_trend": -4.0,
+      "close_game_record": "5-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Dickinson averages 19.0 PPG while holding UIL 6A District 24 opponents to 20.0 PPG (-1.0 net margin).",
+        "Postseason Readiness: 5-5 against a 72.8 SOS Index with 0 running-clock separations and a 5-4 record in one-score games."
+      ]
+    },
+    "lamar": {
+      "team": "Lamar",
+      "state": "TX",
+      "division": "6A-D1",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 21.3,
+      "avg_points_allowed": 21.9,
+      "season_net_margin": -0.6,
+      "last_3_game_margin": -2.3,
+      "momentum_trend": -1.7,
+      "close_game_record": "3-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lamar averages 21.3 PPG while holding UIL 6A District 18 opponents to 21.9 PPG (-0.6 net margin).",
+        "Postseason Readiness: 4-6 against a 72.1 SOS Index with 0 running-clock separations and a 3-6 record in one-score games."
+      ]
+    },
+    "humble": {
+      "team": "Humble",
+      "state": "TX",
+      "division": "6A-D1",
+      "region": 2,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 18.7,
+      "avg_points_allowed": 16.9,
+      "season_net_margin": 1.8,
+      "last_3_game_margin": 6.0,
+      "momentum_trend": 4.2,
+      "close_game_record": "5-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Humble averages 18.7 PPG while holding UIL 6A District 21 opponents to 16.9 PPG (+1.8 net margin).",
+        "Postseason Readiness: 6-4 against a 73.1 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+      ]
+    },
+    "bowie": {
+      "team": "Bowie",
+      "state": "TX",
+      "division": "6A-D1",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.8,
+      "avg_points_allowed": 18.2,
+      "season_net_margin": 1.6,
+      "last_3_game_margin": -4.3,
+      "momentum_trend": -5.9,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Bowie averages 19.8 PPG while holding UIL 6A District 26 opponents to 18.2 PPG (+1.6 net margin).",
+        "Postseason Readiness: 5-5 against a 74.0 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "the woodlands": {
+      "team": "the Woodlands",
+      "state": "TX",
+      "division": "6A-D1",
+      "region": 4,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 14.4,
+      "avg_points_allowed": 30.9,
+      "season_net_margin": -16.5,
+      "last_3_game_margin": -15.0,
+      "momentum_trend": 1.5,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: the Woodlands averages 14.4 PPG while holding UIL 6A District 13 opponents to 30.9 PPG (-16.5 net margin).",
+        "Postseason Readiness: 1-9 against a 72.9 SOS Index with 0 running-clock separations and a 1-1 record in one-score games."
+      ]
+    },
+    "desoto": {
+      "team": "DeSoto",
+      "state": "TX",
+      "division": "6A-D2",
+      "region": 1,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 25.6,
+      "avg_points_allowed": 14.8,
+      "season_net_margin": 10.8,
+      "last_3_game_margin": 17.0,
+      "momentum_trend": 6.2,
+      "close_game_record": "4-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: DeSoto averages 25.6 PPG while holding UIL 6A District 11 opponents to 14.8 PPG (+10.8 net margin).",
+        "Postseason Readiness: 9-1 against a 75.8 SOS Index with 0 running-clock separations and a 4-0 record in one-score games."
+      ]
+    },
+    "summer creek": {
+      "team": "Summer Creek",
+      "state": "TX",
+      "division": "6A-D2",
+      "region": 2,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 34.2,
+      "avg_points_allowed": 13.8,
+      "season_net_margin": 20.4,
+      "last_3_game_margin": 15.0,
+      "momentum_trend": -5.4,
+      "close_game_record": "3-1",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Summer Creek averages 34.2 PPG while holding UIL 6A District 21 opponents to 13.8 PPG (+20.4 net margin).",
+        "Postseason Readiness: 9-1 against a 75.9 SOS Index with 1 running-clock separations and a 3-1 record in one-score games."
+      ]
+    },
+    "vandegrift": {
+      "team": "Vandegrift",
+      "state": "TX",
+      "division": "6A-D2",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 21.8,
+      "avg_points_allowed": 23.0,
+      "season_net_margin": -1.2,
+      "last_3_game_margin": -0.7,
+      "momentum_trend": 0.5,
+      "close_game_record": "3-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Vandegrift averages 21.8 PPG while holding UIL 6A District 25 opponents to 23.0 PPG (-1.2 net margin).",
+        "Postseason Readiness: 5-5 against a 75.8 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+      ]
+    },
+    "denton guyer": {
+      "team": "Denton Guyer",
+      "state": "TX",
+      "division": "6A-D2",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 19.5,
+      "avg_points_allowed": 19.2,
+      "season_net_margin": 0.3,
+      "last_3_game_margin": -1.0,
+      "momentum_trend": -1.3,
+      "close_game_record": "2-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Denton Guyer averages 19.5 PPG while holding UIL 6A District 5 opponents to 19.2 PPG (+0.3 net margin).",
+        "Postseason Readiness: 4-6 against a 75.4 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+      ]
+    },
+    "c.e. king": {
+      "team": "C.E. King",
+      "state": "TX",
+      "division": "6A-D2",
+      "region": 1,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 20.2,
+      "avg_points_allowed": 17.1,
+      "season_net_margin": 3.1,
+      "last_3_game_margin": 5.0,
+      "momentum_trend": 1.9,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: C.E. King averages 20.2 PPG while holding UIL 6A District 21 opponents to 17.1 PPG (+3.1 net margin).",
+        "Postseason Readiness: 6-4 against a 76.0 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "byron nelson": {
+      "team": "Byron Nelson",
+      "state": "TX",
+      "division": "6A-D2",
+      "region": 2,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 18.9,
+      "avg_points_allowed": 22.4,
+      "season_net_margin": -3.5,
+      "last_3_game_margin": -7.0,
+      "momentum_trend": -3.5,
+      "close_game_record": "1-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Byron Nelson averages 18.9 PPG while holding UIL 6A District 4 opponents to 22.4 PPG (-3.5 net margin).",
+        "Postseason Readiness: 3-7 against a 75.9 SOS Index with 0 running-clock separations and a 1-5 record in one-score games."
+      ]
+    },
+    "dripping springs": {
+      "team": "Dripping Springs",
+      "state": "TX",
+      "division": "6A-D2",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.5,
+      "avg_points_allowed": 20.8,
+      "season_net_margin": -3.3,
+      "last_3_game_margin": 2.3,
+      "momentum_trend": 5.6,
+      "close_game_record": "5-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Dripping Springs averages 17.5 PPG while holding UIL 6A District 26 opponents to 20.8 PPG (-3.3 net margin).",
+        "Postseason Readiness: 5-5 against a 75.8 SOS Index with 0 running-clock separations and a 5-1 record in one-score games."
+      ]
+    },
+    "westfield": {
+      "team": "Westfield",
+      "state": "TX",
+      "division": "6A-D2",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 18.0,
+      "avg_points_allowed": 17.6,
+      "season_net_margin": 0.4,
+      "last_3_game_margin": 1.7,
+      "momentum_trend": 1.3,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Westfield averages 18.0 PPG while holding UIL 6A District 14 opponents to 17.6 PPG (+0.4 net margin).",
+        "Postseason Readiness: 5-5 against a 74.6 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "south oak cliff": {
+      "team": "South Oak Cliff",
+      "state": "TX",
+      "division": "6A-D2",
+      "region": 1,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 15.5,
+      "avg_points_allowed": 18.7,
+      "season_net_margin": -3.2,
+      "last_3_game_margin": 0.0,
+      "momentum_trend": 3.2,
+      "close_game_record": "2-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: South Oak Cliff averages 15.5 PPG while holding UIL 6A Metro opponents to 18.7 PPG (-3.2 net margin).",
+        "Postseason Readiness: 3-7 against a 74.8 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+      ]
+    },
+    "cedar hill": {
+      "team": "Cedar Hill",
+      "state": "TX",
+      "division": "6A-D2",
+      "region": 2,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.5,
+      "avg_points_allowed": 17.3,
+      "season_net_margin": 0.2,
+      "last_3_game_margin": -6.7,
+      "momentum_trend": -6.9,
+      "close_game_record": "3-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Cedar Hill averages 17.5 PPG while holding UIL 6A District 11 opponents to 17.3 PPG (+0.2 net margin).",
+        "Postseason Readiness: 5-5 against a 72.5 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+      ]
+    },
+    "katy jordan": {
+      "team": "Katy Jordan",
+      "state": "TX",
+      "division": "6A-D2",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.2,
+      "avg_points_allowed": 19.3,
+      "season_net_margin": -2.1,
+      "last_3_game_margin": -1.3,
+      "momentum_trend": 0.8,
+      "close_game_record": "2-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Katy Jordan averages 17.2 PPG while holding UIL 6A District 19 opponents to 19.3 PPG (-2.1 net margin).",
+        "Postseason Readiness: 5-5 against a 73.6 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+      ]
+    },
+    "willis": {
+      "team": "Willis",
+      "state": "TX",
+      "division": "6A-D2",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 15.1,
+      "avg_points_allowed": 17.8,
+      "season_net_margin": -2.7,
+      "last_3_game_margin": -10.3,
+      "momentum_trend": -7.6,
+      "close_game_record": "4-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Willis averages 15.1 PPG while holding UIL 6A District 13 opponents to 17.8 PPG (-2.7 net margin).",
+        "Postseason Readiness: 5-5 against a 73.4 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+      ]
+    },
+    "steele": {
+      "team": "Steele",
+      "state": "TX",
+      "division": "6A-D2",
+      "region": 1,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 19.0,
+      "avg_points_allowed": 17.3,
+      "season_net_margin": 1.7,
+      "last_3_game_margin": 1.7,
+      "momentum_trend": 0.0,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Steele averages 19.0 PPG while holding UIL 6A District 29 opponents to 17.3 PPG (+1.7 net margin).",
+        "Postseason Readiness: 6-4 against a 73.3 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "harlan": {
+      "team": "Harlan",
+      "state": "TX",
+      "division": "6A-D2",
+      "region": 2,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.1,
+      "avg_points_allowed": 19.4,
+      "season_net_margin": -0.3,
+      "last_3_game_margin": -1.0,
+      "momentum_trend": -0.7,
+      "close_game_record": "4-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Harlan averages 19.1 PPG while holding UIL 6A District 28 opponents to 19.4 PPG (-0.3 net margin).",
+        "Postseason Readiness: 5-5 against a 71.9 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+      ]
+    },
+    "frenship": {
+      "team": "Frenship",
+      "state": "TX",
+      "division": "6A-D2",
+      "region": 3,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 14.5,
+      "avg_points_allowed": 18.3,
+      "season_net_margin": -3.8,
+      "last_3_game_margin": -1.3,
+      "momentum_trend": 2.5,
+      "close_game_record": "2-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Frenship averages 14.5 PPG while holding UIL 6A District 2 opponents to 18.3 PPG (-3.8 net margin).",
+        "Postseason Readiness: 2-8 against a 71.8 SOS Index with 0 running-clock separations and a 2-6 record in one-score games."
+      ]
+    },
+    "marcus": {
+      "team": "Marcus",
+      "state": "TX",
+      "division": "6A-D2",
+      "region": 4,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 12.5,
+      "avg_points_allowed": 29.3,
+      "season_net_margin": -16.8,
+      "last_3_game_margin": -13.3,
+      "momentum_trend": 3.5,
+      "close_game_record": "2-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Marcus averages 12.5 PPG while holding UIL 6A District 5 opponents to 29.3 PPG (-16.8 net margin).",
+        "Postseason Readiness: 3-7 against a 72.3 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+      ]
+    },
+    "aledo": {
+      "team": "Aledo",
+      "state": "TX",
+      "division": "5A-D1",
+      "region": 1,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 25.1,
+      "avg_points_allowed": 16.2,
+      "season_net_margin": 8.9,
+      "last_3_game_margin": 14.3,
+      "momentum_trend": 5.4,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Aledo averages 25.1 PPG while holding UIL 5A-D1 District 3 opponents to 16.2 PPG (+8.9 net margin).",
+        "Postseason Readiness: 8-2 against a 75.3 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+      ]
+    },
+    "smithson valley": {
+      "team": "Smithson Valley",
+      "state": "TX",
+      "division": "5A-D1",
+      "region": 2,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 30.7,
+      "avg_points_allowed": 17.6,
+      "season_net_margin": 13.1,
+      "last_3_game_margin": 7.3,
+      "momentum_trend": -5.8,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Smithson Valley averages 30.7 PPG while holding UIL 5A-D1 District 13 opponents to 17.6 PPG (+13.1 net margin).",
+        "Postseason Readiness: 7-3 against a 74.7 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "highland park": {
+      "team": "Highland Park",
+      "state": "TX",
+      "division": "5A-D1",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.0,
+      "avg_points_allowed": 16.8,
+      "season_net_margin": 2.2,
+      "last_3_game_margin": 5.0,
+      "momentum_trend": 2.8,
+      "close_game_record": "4-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Highland Park averages 19.0 PPG while holding UIL 5A-D1 District 7 opponents to 16.8 PPG (+2.2 net margin).",
+        "Postseason Readiness: 5-5 against a 75.4 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+      ]
+    },
+    "denton ryan": {
+      "team": "Denton Ryan",
+      "state": "TX",
+      "division": "5A-D1",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.2,
+      "avg_points_allowed": 19.2,
+      "season_net_margin": -2.0,
+      "last_3_game_margin": -7.0,
+      "momentum_trend": -5.0,
+      "close_game_record": "4-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Denton Ryan averages 17.2 PPG while holding UIL 5A-D1 District 3 opponents to 19.2 PPG (-2.0 net margin).",
+        "Postseason Readiness: 4-6 against a 74.0 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+      ]
+    },
+    "longview": {
+      "team": "Longview",
+      "state": "TX",
+      "division": "5A-D1",
+      "region": 1,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 18.5,
+      "avg_points_allowed": 16.0,
+      "season_net_margin": 2.5,
+      "last_3_game_margin": 4.0,
+      "momentum_trend": 1.5,
+      "close_game_record": "8-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Longview averages 18.5 PPG while holding UIL 5A-D1 District 7 opponents to 16.0 PPG (+2.5 net margin).",
+        "Postseason Readiness: 8-2 against a 74.5 SOS Index with 0 running-clock separations and a 8-2 record in one-score games."
+      ]
+    },
+    "lone star": {
+      "team": "Lone Star",
+      "state": "TX",
+      "division": "5A-D1",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 19.3,
+      "avg_points_allowed": 18.9,
+      "season_net_margin": 0.4,
+      "last_3_game_margin": 1.3,
+      "momentum_trend": 0.9,
+      "close_game_record": "2-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lone Star averages 19.3 PPG while holding UIL 5A-D1 District 6 opponents to 18.9 PPG (+0.4 net margin).",
+        "Postseason Readiness: 4-6 against a 74.6 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+      ]
+    },
+    "richland": {
+      "team": "Richland",
+      "state": "TX",
+      "division": "5A-D1",
+      "region": 3,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 19.9,
+      "avg_points_allowed": 19.2,
+      "season_net_margin": 0.7,
+      "last_3_game_margin": 0.3,
+      "momentum_trend": -0.4,
+      "close_game_record": "5-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Richland averages 19.9 PPG while holding UIL 5A-D1 District 3 opponents to 19.2 PPG (+0.7 net margin).",
+        "Postseason Readiness: 6-4 against a 74.8 SOS Index with 0 running-clock separations and a 5-1 record in one-score games."
+      ]
+    },
+    "college station": {
+      "team": "College Station",
+      "state": "TX",
+      "division": "5A-D1",
+      "region": 4,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 17.4,
+      "avg_points_allowed": 22.0,
+      "season_net_margin": -4.6,
+      "last_3_game_margin": -2.0,
+      "momentum_trend": 2.6,
+      "close_game_record": "3-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: College Station averages 17.4 PPG while holding UIL 5A-D1 District 11 opponents to 22.0 PPG (-4.6 net margin).",
+        "Postseason Readiness: 3-7 against a 74.2 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+      ]
+    },
+    "port arthur memorial": {
+      "team": "Port Arthur Memorial",
+      "state": "TX",
+      "division": "5A-D1",
+      "region": 1,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 19.9,
+      "avg_points_allowed": 19.6,
+      "season_net_margin": 0.3,
+      "last_3_game_margin": 3.0,
+      "momentum_trend": 2.7,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Port Arthur Memorial averages 19.9 PPG while holding UIL 5A-D1 District 9 opponents to 19.6 PPG (+0.3 net margin).",
+        "Postseason Readiness: 6-4 against a 72.5 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "lufkin": {
+      "team": "Lufkin",
+      "state": "TX",
+      "division": "5A-D1",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 19.7,
+      "avg_points_allowed": 22.3,
+      "season_net_margin": -2.6,
+      "last_3_game_margin": -13.3,
+      "momentum_trend": -10.7,
+      "close_game_record": "3-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lufkin averages 19.7 PPG while holding UIL 5A-D1 District 9 opponents to 22.3 PPG (-2.6 net margin).",
+        "Postseason Readiness: 4-6 against a 72.2 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+      ]
+    },
+    "barbers hill": {
+      "team": "Barbers Hill",
+      "state": "TX",
+      "division": "5A-D1",
+      "region": 3,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 19.1,
+      "avg_points_allowed": 22.4,
+      "season_net_margin": -3.3,
+      "last_3_game_margin": 1.3,
+      "momentum_trend": 4.6,
+      "close_game_record": "2-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Barbers Hill averages 19.1 PPG while holding UIL 5A-D1 District 9 opponents to 22.4 PPG (-3.3 net margin).",
+        "Postseason Readiness: 3-7 against a 72.6 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+      ]
+    },
+    "abilene": {
+      "team": "Abilene",
+      "state": "TX",
+      "division": "5A-D1",
+      "region": 4,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 21.1,
+      "avg_points_allowed": 19.1,
+      "season_net_margin": 2.0,
+      "last_3_game_margin": -7.3,
+      "momentum_trend": -9.3,
+      "close_game_record": "5-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Abilene averages 21.1 PPG while holding UIL 5A-D1 District 2 opponents to 19.1 PPG (+2.0 net margin).",
+        "Postseason Readiness: 6-4 against a 71.5 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+      ]
+    },
+    "amarillo tascosa": {
+      "team": "Amarillo Tascosa",
+      "state": "TX",
+      "division": "5A-D1",
+      "region": 1,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 18.5,
+      "avg_points_allowed": 20.9,
+      "season_net_margin": -2.4,
+      "last_3_game_margin": 1.7,
+      "momentum_trend": 4.1,
+      "close_game_record": "2-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Amarillo Tascosa averages 18.5 PPG while holding UIL 5A-D1 District 2 opponents to 20.9 PPG (-2.4 net margin).",
+        "Postseason Readiness: 3-7 against a 70.0 SOS Index with 0 running-clock separations and a 2-6 record in one-score games."
+      ]
+    },
+    "midlothian": {
+      "team": "Midlothian",
+      "state": "TX",
+      "division": "5A-D1",
+      "region": 2,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 21.6,
+      "avg_points_allowed": 18.3,
+      "season_net_margin": 3.3,
+      "last_3_game_margin": 1.3,
+      "momentum_trend": -2.0,
+      "close_game_record": "6-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Midlothian averages 21.6 PPG while holding UIL 5A-D1 District 7 opponents to 18.3 PPG (+3.3 net margin).",
+        "Postseason Readiness: 7-3 against a 69.9 SOS Index with 0 running-clock separations and a 6-1 record in one-score games."
+      ]
+    },
+    "georgetown": {
+      "team": "Georgetown",
+      "state": "TX",
+      "division": "5A-D1",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.2,
+      "avg_points_allowed": 22.2,
+      "season_net_margin": -3.0,
+      "last_3_game_margin": -2.3,
+      "momentum_trend": 0.7,
+      "close_game_record": "4-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Georgetown averages 19.2 PPG while holding UIL 5A-D1 District 11 opponents to 22.2 PPG (-3.0 net margin).",
+        "Postseason Readiness: 5-5 against a 70.6 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+      ]
+    },
+    "angleton": {
+      "team": "Angleton",
+      "state": "TX",
+      "division": "5A-D1",
+      "region": 4,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 17.4,
+      "avg_points_allowed": 32.9,
+      "season_net_margin": -15.5,
+      "last_3_game_margin": -7.7,
+      "momentum_trend": 7.8,
+      "close_game_record": "1-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Angleton averages 17.4 PPG while holding UIL 5A-D1 District 10 opponents to 32.9 PPG (-15.5 net margin).",
+        "Postseason Readiness: 1-9 against a 70.2 SOS Index with 0 running-clock separations and a 1-4 record in one-score games."
+      ]
+    },
+    "argyle": {
+      "team": "Argyle",
+      "state": "TX",
+      "division": "5A-D2",
+      "region": 1,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 30.9,
+      "avg_points_allowed": 16.2,
+      "season_net_margin": 14.7,
+      "last_3_game_margin": 27.7,
+      "momentum_trend": 13.0,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Argyle averages 30.9 PPG while holding UIL 5A-D2 District 3 opponents to 16.2 PPG (+14.7 net margin).",
+        "Postseason Readiness: 9-1 against a 73.3 SOS Index with 0 running-clock separations and a 1-0 record in one-score games."
+      ]
+    },
+    "melissa": {
+      "team": "Melissa",
+      "state": "TX",
+      "division": "5A-D2",
+      "region": 2,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 34.8,
+      "avg_points_allowed": 14.6,
+      "season_net_margin": 20.2,
+      "last_3_game_margin": 13.0,
+      "momentum_trend": -7.2,
+      "close_game_record": "3-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Melissa averages 34.8 PPG while holding UIL 5A-D2 District 4 opponents to 14.6 PPG (+20.2 net margin).",
+        "Postseason Readiness: 9-1 against a 74.4 SOS Index with 0 running-clock separations and a 3-1 record in one-score games."
+      ]
+    },
+    "liberty hill": {
+      "team": "Liberty Hill",
+      "state": "TX",
+      "division": "5A-D2",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.9,
+      "avg_points_allowed": 20.9,
+      "season_net_margin": -1.0,
+      "last_3_game_margin": 0.0,
+      "momentum_trend": 1.0,
+      "close_game_record": "3-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Liberty Hill averages 19.9 PPG while holding UIL 5A-D2 District 13 opponents to 20.9 PPG (-1.0 net margin).",
+        "Postseason Readiness: 5-5 against a 73.7 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+      ]
+    },
+    "lovejoy": {
+      "team": "Lovejoy",
+      "state": "TX",
+      "division": "5A-D2",
+      "region": 4,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 19.4,
+      "avg_points_allowed": 20.7,
+      "season_net_margin": -1.3,
+      "last_3_game_margin": -0.7,
+      "momentum_trend": 0.6,
+      "close_game_record": "1-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lovejoy averages 19.4 PPG while holding UIL 5A-D2 District 4 opponents to 20.7 PPG (-1.3 net margin).",
+        "Postseason Readiness: 3-7 against a 72.1 SOS Index with 0 running-clock separations and a 1-6 record in one-score games."
+      ]
+    },
+    "randle": {
+      "team": "Randle",
+      "state": "TX",
+      "division": "5A-D2",
+      "region": 1,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 19.2,
+      "avg_points_allowed": 20.5,
+      "season_net_margin": -1.3,
+      "last_3_game_margin": 4.3,
+      "momentum_trend": 5.6,
+      "close_game_record": "5-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Randle averages 19.2 PPG while holding UIL 5A-D2 District 9 opponents to 20.5 PPG (-1.3 net margin).",
+        "Postseason Readiness: 6-4 against a 73.6 SOS Index with 0 running-clock separations and a 5-1 record in one-score games."
+      ]
+    },
+    "iowa colony": {
+      "team": "Iowa Colony",
+      "state": "TX",
+      "division": "5A-D2",
+      "region": 2,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 17.7,
+      "avg_points_allowed": 20.7,
+      "season_net_margin": -3.0,
+      "last_3_game_margin": -4.3,
+      "momentum_trend": -1.3,
+      "close_game_record": "0-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Iowa Colony averages 17.7 PPG while holding UIL 5A-D2 District 9 opponents to 20.7 PPG (-3.0 net margin).",
+        "Postseason Readiness: 2-8 against a 71.6 SOS Index with 0 running-clock separations and a 0-6 record in one-score games."
+      ]
+    },
+    "marshall": {
+      "team": "Marshall",
+      "state": "TX",
+      "division": "5A-D2",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 18.4,
+      "avg_points_allowed": 20.1,
+      "season_net_margin": -1.7,
+      "last_3_game_margin": -1.0,
+      "momentum_trend": 0.7,
+      "close_game_record": "5-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Marshall averages 18.4 PPG while holding UIL 5A-D2 District 7 opponents to 20.1 PPG (-1.7 net margin).",
+        "Postseason Readiness: 5-5 against a 71.9 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+      ]
+    },
+    "texas high": {
+      "team": "Texas High",
+      "state": "TX",
+      "division": "5A-D2",
+      "region": 4,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 18.8,
+      "avg_points_allowed": 19.5,
+      "season_net_margin": -0.7,
+      "last_3_game_margin": -1.0,
+      "momentum_trend": -0.3,
+      "close_game_record": "5-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Texas High averages 18.8 PPG while holding UIL 5A-D2 District 7 opponents to 19.5 PPG (-0.7 net margin).",
+        "Postseason Readiness: 6-4 against a 71.2 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+      ]
+    },
+    "anna": {
+      "team": "Anna",
+      "state": "TX",
+      "division": "5A-D2",
+      "region": 1,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 20.5,
+      "avg_points_allowed": 17.6,
+      "season_net_margin": 2.9,
+      "last_3_game_margin": 4.0,
+      "momentum_trend": 1.1,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Anna averages 20.5 PPG while holding UIL 5A-D2 District 4 opponents to 17.6 PPG (+2.9 net margin).",
+        "Postseason Readiness: 6-4 against a 72.4 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "rouse": {
+      "team": "Rouse",
+      "state": "TX",
+      "division": "5A-D2",
+      "region": 2,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 15.4,
+      "avg_points_allowed": 22.9,
+      "season_net_margin": -7.5,
+      "last_3_game_margin": -18.3,
+      "momentum_trend": -10.8,
+      "close_game_record": "1-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Rouse averages 15.4 PPG while holding UIL 5A-D2 District 13 opponents to 22.9 PPG (-7.5 net margin).",
+        "Postseason Readiness: 2-8 against a 72.1 SOS Index with 0 running-clock separations and a 1-5 record in one-score games."
+      ]
+    },
+    "huntsville": {
+      "team": "Huntsville",
+      "state": "TX",
+      "division": "5A-D2",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.8,
+      "avg_points_allowed": 22.1,
+      "season_net_margin": -4.3,
+      "last_3_game_margin": -7.3,
+      "momentum_trend": -3.0,
+      "close_game_record": "3-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Huntsville averages 17.8 PPG while holding UIL 5A-D2 District 8 opponents to 22.1 PPG (-4.3 net margin).",
+        "Postseason Readiness: 4-6 against a 69.9 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+      ]
+    },
+    "brenham": {
+      "team": "Brenham",
+      "state": "TX",
+      "division": "5A-D2",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 20.2,
+      "avg_points_allowed": 22.6,
+      "season_net_margin": -2.4,
+      "last_3_game_margin": -9.7,
+      "momentum_trend": -7.3,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Brenham averages 20.2 PPG while holding UIL 5A-D2 District 10 opponents to 22.6 PPG (-2.4 net margin).",
+        "Postseason Readiness: 4-6 against a 71.6 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "alamo heights": {
+      "team": "Alamo Heights",
+      "state": "TX",
+      "division": "5A-D2",
+      "region": 1,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 21.0,
+      "avg_points_allowed": 16.8,
+      "season_net_margin": 4.2,
+      "last_3_game_margin": 4.7,
+      "momentum_trend": 0.5,
+      "close_game_record": "5-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Alamo Heights averages 21.0 PPG while holding UIL 5A-D2 District 14 opponents to 16.8 PPG (+4.2 net margin).",
+        "Postseason Readiness: 8-2 against a 68.9 SOS Index with 0 running-clock separations and a 5-1 record in one-score games."
+      ]
+    },
+    "png (port neches-groves)": {
+      "team": "PNG (Port Neches-Groves)",
+      "state": "TX",
+      "division": "5A-D2",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 19.5,
+      "avg_points_allowed": 20.6,
+      "season_net_margin": -1.1,
+      "last_3_game_margin": 4.7,
+      "momentum_trend": 5.8,
+      "close_game_record": "3-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: PNG (Port Neches-Groves) averages 19.5 PPG while holding UIL 5A-D2 District 8 opponents to 20.6 PPG (-1.1 net margin).",
+        "Postseason Readiness: 4-6 against a 69.6 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+      ]
+    },
+    "colleyville heritage": {
+      "team": "Colleyville Heritage",
+      "state": "TX",
+      "division": "5A-D2",
+      "region": 3,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 20.2,
+      "avg_points_allowed": 20.3,
+      "season_net_margin": -0.1,
+      "last_3_game_margin": -2.3,
+      "momentum_trend": -2.2,
+      "close_game_record": "6-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Colleyville Heritage averages 20.2 PPG while holding UIL 5A-D2 District 3 opponents to 20.3 PPG (-0.1 net margin).",
+        "Postseason Readiness: 6-4 against a 69.5 SOS Index with 0 running-clock separations and a 6-3 record in one-score games."
+      ]
+    },
+    "prosper walnut grove": {
+      "team": "Prosper Walnut Grove",
+      "state": "TX",
+      "division": "5A-D2",
+      "region": 4,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 16.1,
+      "avg_points_allowed": 33.7,
+      "season_net_margin": -17.6,
+      "last_3_game_margin": -13.7,
+      "momentum_trend": 3.9,
+      "close_game_record": "1-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Prosper Walnut Grove averages 16.1 PPG while holding UIL 5A-D2 District 4 opponents to 33.7 PPG (-17.6 net margin).",
+        "Postseason Readiness: 1-9 against a 68.7 SOS Index with 0 running-clock separations and a 1-4 record in one-score games."
+      ]
+    },
+    "celina": {
+      "team": "Celina",
+      "state": "TX",
+      "division": "4A-D1",
+      "region": 1,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 34.1,
+      "avg_points_allowed": 17.8,
+      "season_net_margin": 16.3,
+      "last_3_game_margin": 27.7,
+      "momentum_trend": 11.4,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Celina averages 34.1 PPG while holding UIL 4A-D1 District 7 opponents to 17.8 PPG (+16.3 net margin).",
+        "Postseason Readiness: 9-1 against a 73.0 SOS Index with 0 running-clock separations and a 1-1 record in one-score games."
+      ]
+    },
+    "stephenville": {
+      "team": "Stephenville",
+      "state": "TX",
+      "division": "4A-D1",
+      "region": 2,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 33.4,
+      "avg_points_allowed": 14.3,
+      "season_net_margin": 19.1,
+      "last_3_game_margin": 15.0,
+      "momentum_trend": -4.1,
+      "close_game_record": "4-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Stephenville averages 33.4 PPG while holding UIL 4A-D1 District 3 opponents to 14.3 PPG (+19.1 net margin).",
+        "Postseason Readiness: 10-0 against a 71.6 SOS Index with 0 running-clock separations and a 4-0 record in one-score games."
+      ]
+    },
+    "kilgore": {
+      "team": "Kilgore",
+      "state": "TX",
+      "division": "4A-D1",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 16.6,
+      "avg_points_allowed": 18.4,
+      "season_net_margin": -1.8,
+      "last_3_game_margin": -4.0,
+      "momentum_trend": -2.2,
+      "close_game_record": "4-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Kilgore averages 16.6 PPG while holding UIL 4A-D1 District 9 opponents to 18.4 PPG (-1.8 net margin).",
+        "Postseason Readiness: 4-6 against a 73.1 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+      ]
+    },
+    "chapel hill": {
+      "team": "Chapel Hill",
+      "state": "TX",
+      "division": "4A-D1",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 16.9,
+      "avg_points_allowed": 17.4,
+      "season_net_margin": -0.5,
+      "last_3_game_margin": 1.0,
+      "momentum_trend": 1.5,
+      "close_game_record": "4-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Chapel Hill averages 16.9 PPG while holding UIL 4A-D1 District 9 opponents to 17.4 PPG (-0.5 net margin).",
+        "Postseason Readiness: 5-5 against a 72.2 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+      ]
+    },
+    "la vega": {
+      "team": "La Vega",
+      "state": "TX",
+      "division": "4A-D1",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 19.1,
+      "avg_points_allowed": 18.8,
+      "season_net_margin": 0.3,
+      "last_3_game_margin": 0.3,
+      "momentum_trend": 0.0,
+      "close_game_record": "3-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: La Vega averages 19.1 PPG while holding UIL 4A-D1 District 11 opponents to 18.8 PPG (+0.3 net margin).",
+        "Postseason Readiness: 4-6 against a 72.2 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+      ]
+    },
+    "canyon west plains": {
+      "team": "Canyon West Plains",
+      "state": "TX",
+      "division": "4A-D1",
+      "region": 2,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 18.8,
+      "avg_points_allowed": 20.3,
+      "season_net_margin": -1.5,
+      "last_3_game_margin": 2.0,
+      "momentum_trend": 3.5,
+      "close_game_record": "5-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Canyon West Plains averages 18.8 PPG while holding UIL 4A-D1 District 2 opponents to 20.3 PPG (-1.5 net margin).",
+        "Postseason Readiness: 6-4 against a 71.5 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+      ]
+    },
+    "needville": {
+      "team": "Needville",
+      "state": "TX",
+      "division": "4A-D1",
+      "region": 3,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 14.0,
+      "avg_points_allowed": 17.3,
+      "season_net_margin": -3.3,
+      "last_3_game_margin": -3.7,
+      "momentum_trend": -0.4,
+      "close_game_record": "3-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Needville averages 14.0 PPG while holding UIL 4A-D1 District 12 opponents to 17.3 PPG (-3.3 net margin).",
+        "Postseason Readiness: 3-7 against a 71.5 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+      ]
+    },
+    "el campo": {
+      "team": "El Campo",
+      "state": "TX",
+      "division": "4A-D1",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 15.8,
+      "avg_points_allowed": 17.0,
+      "season_net_margin": -1.2,
+      "last_3_game_margin": -3.0,
+      "momentum_trend": -1.8,
+      "close_game_record": "3-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: El Campo averages 15.8 PPG while holding UIL 4A-D1 District 12 opponents to 17.0 PPG (-1.2 net margin).",
+        "Postseason Readiness: 4-6 against a 70.1 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+      ]
+    },
+    "lindale": {
+      "team": "Lindale",
+      "state": "TX",
+      "division": "4A-D1",
+      "region": 1,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 21.3,
+      "avg_points_allowed": 21.9,
+      "season_net_margin": -0.6,
+      "last_3_game_margin": 4.3,
+      "momentum_trend": 4.9,
+      "close_game_record": "5-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lindale averages 21.3 PPG while holding UIL 4A-D1 District 9 opponents to 21.9 PPG (-0.6 net margin).",
+        "Postseason Readiness: 6-4 against a 71.3 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+      ]
+    },
+    "sulpher springs": {
+      "team": "Sulpher Springs",
+      "state": "TX",
+      "division": "4A-D1",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 18.6,
+      "avg_points_allowed": 22.4,
+      "season_net_margin": -3.8,
+      "last_3_game_margin": -11.3,
+      "momentum_trend": -7.5,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Sulpher Springs averages 18.6 PPG while holding UIL 4A-D1 District 7 opponents to 22.4 PPG (-3.8 net margin).",
+        "Postseason Readiness: 4-6 against a 71.4 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "alvarado": {
+      "team": "Alvarado",
+      "state": "TX",
+      "division": "4A-D1",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 18.4,
+      "avg_points_allowed": 20.5,
+      "season_net_margin": -2.1,
+      "last_3_game_margin": -5.3,
+      "momentum_trend": -3.2,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Alvarado averages 18.4 PPG while holding UIL 4A-D1 District 6 opponents to 20.5 PPG (-2.1 net margin).",
+        "Postseason Readiness: 4-6 against a 70.8 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "decatur": {
+      "team": "Decatur",
+      "state": "TX",
+      "division": "4A-D1",
+      "region": 4,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 16.1,
+      "avg_points_allowed": 37.0,
+      "season_net_margin": -20.9,
+      "last_3_game_margin": -23.0,
+      "momentum_trend": -2.1,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Decatur averages 16.1 PPG while holding UIL 4A-D1 District 4 opponents to 37.0 PPG (-20.9 net margin).",
+        "Postseason Readiness: 1-9 against a 71.0 SOS Index with 0 running-clock separations and a 1-1 record in one-score games."
+      ]
+    },
+    "carthage": {
+      "team": "Carthage",
+      "state": "TX",
+      "division": "4A-D2",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 34.9,
+      "avg_points_allowed": 15.3,
+      "season_net_margin": 19.6,
+      "last_3_game_margin": 24.3,
+      "momentum_trend": 4.7,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Carthage averages 34.9 PPG while holding UIL 4A-D2 District 8 opponents to 15.3 PPG (+19.6 net margin).",
+        "Postseason Readiness: 10-0 against a 73.7 SOS Index with 0 running-clock separations and a 1-0 record in one-score games."
+      ]
+    },
+    "wimberley": {
+      "team": "Wimberley",
+      "state": "TX",
+      "division": "4A-D2",
+      "region": 2,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 31.6,
+      "avg_points_allowed": 15.2,
+      "season_net_margin": 16.4,
+      "last_3_game_margin": 17.7,
+      "momentum_trend": 1.3,
+      "close_game_record": "2-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Wimberley averages 31.6 PPG while holding UIL 4A-D2 District 13 opponents to 15.2 PPG (+16.4 net margin).",
+        "Postseason Readiness: 9-1 against a 72.6 SOS Index with 0 running-clock separations and a 2-1 record in one-score games."
+      ]
+    },
+    "pleasant grove": {
+      "team": "Pleasant Grove",
+      "state": "TX",
+      "division": "4A-D2",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.6,
+      "avg_points_allowed": 20.7,
+      "season_net_margin": -3.1,
+      "last_3_game_margin": -7.3,
+      "momentum_trend": -4.2,
+      "close_game_record": "5-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Pleasant Grove averages 17.6 PPG while holding UIL 4A-D2 District 7 opponents to 20.7 PPG (-3.1 net margin).",
+        "Postseason Readiness: 5-5 against a 72.3 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+      ]
+    },
+    "gilmer": {
+      "team": "Gilmer",
+      "state": "TX",
+      "division": "4A-D2",
+      "region": 4,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 14.8,
+      "avg_points_allowed": 16.7,
+      "season_net_margin": -1.9,
+      "last_3_game_margin": -2.3,
+      "momentum_trend": -0.4,
+      "close_game_record": "3-7",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Gilmer averages 14.8 PPG while holding UIL 4A-D2 District 7 opponents to 16.7 PPG (-1.9 net margin).",
+        "Postseason Readiness: 3-7 against a 70.5 SOS Index with 0 running-clock separations and a 3-7 record in one-score games."
+      ]
+    },
+    "brock": {
+      "team": "Brock",
+      "state": "TX",
+      "division": "4A-D2",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.3,
+      "avg_points_allowed": 17.1,
+      "season_net_margin": 0.2,
+      "last_3_game_margin": 5.7,
+      "momentum_trend": 5.5,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Brock averages 17.3 PPG while holding UIL 4A-D2 District 3 opponents to 17.1 PPG (+0.2 net margin).",
+        "Postseason Readiness: 5-5 against a 70.9 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "silsbee": {
+      "team": "Silsbee",
+      "state": "TX",
+      "division": "4A-D2",
+      "region": 2,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 16.8,
+      "avg_points_allowed": 20.2,
+      "season_net_margin": -3.4,
+      "last_3_game_margin": 1.3,
+      "momentum_trend": 4.7,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Silsbee averages 16.8 PPG while holding UIL 4A-D2 District 9 opponents to 20.2 PPG (-3.4 net margin).",
+        "Postseason Readiness: 3-7 against a 69.8 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "bellville": {
+      "team": "Bellville",
+      "state": "TX",
+      "division": "4A-D2",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 16.7,
+      "avg_points_allowed": 20.8,
+      "season_net_margin": -4.1,
+      "last_3_game_margin": -5.7,
+      "momentum_trend": -1.6,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Bellville averages 16.7 PPG while holding UIL 4A-D2 District 10 opponents to 20.8 PPG (-4.1 net margin).",
+        "Postseason Readiness: 4-6 against a 71.1 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "cuero": {
+      "team": "Cuero",
+      "state": "TX",
+      "division": "4A-D2",
+      "region": 4,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 19.8,
+      "avg_points_allowed": 18.2,
+      "season_net_margin": 1.6,
+      "last_3_game_margin": 4.3,
+      "momentum_trend": 2.7,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Cuero averages 19.8 PPG while holding UIL 4A-D2 District 12 opponents to 18.2 PPG (+1.6 net margin).",
+        "Postseason Readiness: 7-3 against a 69.7 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "glen rose": {
+      "team": "Glen Rose",
+      "state": "TX",
+      "division": "4A-D2",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 16.7,
+      "avg_points_allowed": 20.0,
+      "season_net_margin": -3.3,
+      "last_3_game_margin": -4.0,
+      "momentum_trend": -0.7,
+      "close_game_record": "3-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Glen Rose averages 16.7 PPG while holding UIL 4A-D2 District 4 opponents to 20.0 PPG (-3.3 net margin).",
+        "Postseason Readiness: 4-6 against a 68.4 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+      ]
+    },
+    "sunnyvale": {
+      "team": "Sunnyvale",
+      "state": "TX",
+      "division": "4A-D2",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.7,
+      "avg_points_allowed": 17.9,
+      "season_net_margin": -0.2,
+      "last_3_game_margin": -8.7,
+      "momentum_trend": -8.5,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Sunnyvale averages 17.7 PPG while holding UIL 4A-D2 District 6 opponents to 17.9 PPG (-0.2 net margin).",
+        "Postseason Readiness: 4-6 against a 68.5 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "monahans": {
+      "team": "Monahans",
+      "state": "TX",
+      "division": "4A-D2",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 16.8,
+      "avg_points_allowed": 22.7,
+      "season_net_margin": -5.9,
+      "last_3_game_margin": -4.0,
+      "momentum_trend": 1.9,
+      "close_game_record": "3-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Monahans averages 16.8 PPG while holding UIL 4A-D2 District 1 opponents to 22.7 PPG (-5.9 net margin).",
+        "Postseason Readiness: 4-6 against a 68.3 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+      ]
+    },
+    "sinton": {
+      "team": "Sinton",
+      "state": "TX",
+      "division": "4A-D2",
+      "region": 4,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 15.4,
+      "avg_points_allowed": 31.3,
+      "season_net_margin": -15.9,
+      "last_3_game_margin": -21.3,
+      "momentum_trend": -5.4,
+      "close_game_record": "2-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Sinton averages 15.4 PPG while holding UIL 4A-D2 District 15 opponents to 31.3 PPG (-15.9 net margin).",
+        "Postseason Readiness: 2-8 against a 67.3 SOS Index with 0 running-clock separations and a 2-1 record in one-score games."
+      ]
+    },
+    "malakoff": {
+      "team": "Malakoff",
+      "state": "TX",
+      "division": "3A-D1",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 32.1,
+      "avg_points_allowed": 15.5,
+      "season_net_margin": 16.6,
+      "last_3_game_margin": 15.0,
+      "momentum_trend": -1.6,
+      "close_game_record": "4-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Malakoff averages 32.1 PPG while holding UIL 3A-D1 District 8 opponents to 15.5 PPG (+16.6 net margin).",
+        "Postseason Readiness: 10-0 against a 70.5 SOS Index with 0 running-clock separations and a 4-0 record in one-score games."
+      ]
+    },
+    "columbus": {
+      "team": "Columbus",
+      "state": "TX",
+      "division": "3A-D1",
+      "region": 2,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 32.3,
+      "avg_points_allowed": 13.8,
+      "season_net_margin": 18.5,
+      "last_3_game_margin": 15.7,
+      "momentum_trend": -2.8,
+      "close_game_record": "0-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Columbus averages 32.3 PPG while holding UIL 3A-D1 District 12 opponents to 13.8 PPG (+18.5 net margin).",
+        "Postseason Readiness: 9-1 against a 70.8 SOS Index with 0 running-clock separations and a 0-1 record in one-score games."
+      ]
+    },
+    "franklin": {
+      "team": "Franklin",
+      "state": "TX",
+      "division": "3A-D1",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.7,
+      "avg_points_allowed": 20.5,
+      "season_net_margin": -2.8,
+      "last_3_game_margin": -5.7,
+      "momentum_trend": -2.9,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Franklin averages 17.7 PPG while holding UIL 3A-D1 District 11 opponents to 20.5 PPG (-2.8 net margin).",
+        "Postseason Readiness: 4-6 against a 70.1 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+      ]
+    },
+    "edna": {
+      "team": "Edna",
+      "state": "TX",
+      "division": "3A-D1",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.1,
+      "avg_points_allowed": 19.9,
+      "season_net_margin": -2.8,
+      "last_3_game_margin": -3.0,
+      "momentum_trend": -0.2,
+      "close_game_record": "3-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Edna averages 17.1 PPG while holding UIL 3A-D1 District 15 opponents to 19.9 PPG (-2.8 net margin).",
+        "Postseason Readiness: 4-6 against a 70.9 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+      ]
+    },
+    "hitchcock": {
+      "team": "Hitchcock",
+      "state": "TX",
+      "division": "3A-D1",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 19.3,
+      "avg_points_allowed": 20.0,
+      "season_net_margin": -0.7,
+      "last_3_game_margin": 3.0,
+      "momentum_trend": 3.7,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Hitchcock averages 19.3 PPG while holding UIL 3A-D1 District 12 opponents to 20.0 PPG (-0.7 net margin).",
+        "Postseason Readiness: 4-6 against a 70.9 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "winnsboro": {
+      "team": "Winnsboro",
+      "state": "TX",
+      "division": "3A-D1",
+      "region": 2,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 19.5,
+      "avg_points_allowed": 19.4,
+      "season_net_margin": 0.1,
+      "last_3_game_margin": -1.3,
+      "momentum_trend": -1.4,
+      "close_game_record": "5-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Winnsboro averages 19.5 PPG while holding UIL 3A-D1 District 5 opponents to 19.4 PPG (+0.1 net margin).",
+        "Postseason Readiness: 6-4 against a 70.4 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+      ]
+    },
+    "goliad": {
+      "team": "Goliad",
+      "state": "TX",
+      "division": "3A-D1",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 20.9,
+      "avg_points_allowed": 23.9,
+      "season_net_margin": -3.0,
+      "last_3_game_margin": 1.7,
+      "momentum_trend": 4.7,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Goliad averages 20.9 PPG while holding UIL 3A-D1 District 15 opponents to 23.9 PPG (-3.0 net margin).",
+        "Postseason Readiness: 4-6 against a 68.6 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "lorena": {
+      "team": "Lorena",
+      "state": "TX",
+      "division": "3A-D1",
+      "region": 4,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 19.3,
+      "avg_points_allowed": 24.8,
+      "season_net_margin": -5.5,
+      "last_3_game_margin": -3.3,
+      "momentum_trend": 2.2,
+      "close_game_record": "1-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lorena averages 19.3 PPG while holding UIL 3A-D1 District 11 opponents to 24.8 PPG (-5.5 net margin).",
+        "Postseason Readiness: 2-8 against a 67.6 SOS Index with 0 running-clock separations and a 1-6 record in one-score games."
+      ]
+    },
+    "shallowater": {
+      "team": "Shallowater",
+      "state": "TX",
+      "division": "3A-D1",
+      "region": 1,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 20.6,
+      "avg_points_allowed": 21.6,
+      "season_net_margin": -1.0,
+      "last_3_game_margin": 1.7,
+      "momentum_trend": 2.7,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Shallowater averages 20.6 PPG while holding UIL 3A-D1 District 2 opponents to 21.6 PPG (-1.0 net margin).",
+        "Postseason Readiness: 6-4 against a 69.5 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "paradise": {
+      "team": "Paradise",
+      "state": "TX",
+      "division": "3A-D1",
+      "region": 2,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 12.5,
+      "avg_points_allowed": 31.9,
+      "season_net_margin": -19.4,
+      "last_3_game_margin": -23.7,
+      "momentum_trend": -4.3,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Paradise averages 12.5 PPG while holding UIL 3A-D1 District 4 opponents to 31.9 PPG (-19.4 net margin).",
+        "Postseason Readiness: 1-9 against a 69.5 SOS Index with 0 running-clock separations and a 1-1 record in one-score games."
+      ]
+    },
+    "gunter": {
+      "team": "Gunter",
+      "state": "TX",
+      "division": "3A-D2",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 35.9,
+      "avg_points_allowed": 15.0,
+      "season_net_margin": 20.9,
+      "last_3_game_margin": 18.3,
+      "momentum_trend": -2.6,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Gunter averages 35.9 PPG while holding UIL 3A-D2 District 9 opponents to 15.0 PPG (+20.9 net margin).",
+        "Postseason Readiness: 10-0 against a 69.8 SOS Index with 0 running-clock separations and a 1-0 record in one-score games."
+      ]
+    },
+    "tidehaven": {
+      "team": "Tidehaven",
+      "state": "TX",
+      "division": "3A-D2",
+      "region": 2,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 32.3,
+      "avg_points_allowed": 16.3,
+      "season_net_margin": 16.0,
+      "last_3_game_margin": 14.0,
+      "momentum_trend": -2.0,
+      "close_game_record": "2-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Tidehaven averages 32.3 PPG while holding UIL 3A-D2 District 14 opponents to 16.3 PPG (+16.0 net margin).",
+        "Postseason Readiness: 9-1 against a 71.2 SOS Index with 0 running-clock separations and a 2-1 record in one-score games."
+      ]
+    },
+    "poth": {
+      "team": "Poth",
+      "state": "TX",
+      "division": "3A-D2",
+      "region": 3,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 18.8,
+      "avg_points_allowed": 26.5,
+      "season_net_margin": -7.7,
+      "last_3_game_margin": -9.7,
+      "momentum_trend": -2.0,
+      "close_game_record": "1-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Poth averages 18.8 PPG while holding UIL 3A-D2 District 15 opponents to 26.5 PPG (-7.7 net margin).",
+        "Postseason Readiness: 2-8 against a 68.6 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+      ]
+    },
+    "daingerfield": {
+      "team": "Daingerfield",
+      "state": "TX",
+      "division": "3A-D2",
+      "region": 4,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 22.7,
+      "avg_points_allowed": 20.1,
+      "season_net_margin": 2.6,
+      "last_3_game_margin": 6.0,
+      "momentum_trend": 3.4,
+      "close_game_record": "4-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Daingerfield averages 22.7 PPG while holding UIL 3A-D2 District 11 opponents to 20.1 PPG (+2.6 net margin).",
+        "Postseason Readiness: 7-3 against a 70.6 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+      ]
+    },
+    "canadian": {
+      "team": "Canadian",
+      "state": "TX",
+      "division": "3A-D2",
+      "region": 1,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 17.2,
+      "avg_points_allowed": 21.4,
+      "season_net_margin": -4.2,
+      "last_3_game_margin": -6.3,
+      "momentum_trend": -2.1,
+      "close_game_record": "1-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Canadian averages 17.2 PPG while holding UIL 3A-D2 District 1 opponents to 21.4 PPG (-4.2 net margin).",
+        "Postseason Readiness: 3-7 against a 69.7 SOS Index with 0 running-clock separations and a 1-4 record in one-score games."
+      ]
+    },
+    "lexington": {
+      "team": "Lexington",
+      "state": "TX",
+      "division": "3A-D2",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 16.9,
+      "avg_points_allowed": 20.7,
+      "season_net_margin": -3.8,
+      "last_3_game_margin": 1.0,
+      "momentum_trend": 4.8,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lexington averages 16.9 PPG while holding UIL 3A-D2 District 13 opponents to 20.7 PPG (-3.8 net margin).",
+        "Postseason Readiness: 4-6 against a 68.2 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "wall": {
+      "team": "Wall",
+      "state": "TX",
+      "division": "3A-D2",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.5,
+      "avg_points_allowed": 18.1,
+      "season_net_margin": -0.6,
+      "last_3_game_margin": -2.3,
+      "momentum_trend": -1.7,
+      "close_game_record": "4-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Wall averages 17.5 PPG while holding UIL 3A-D2 District 4 opponents to 18.1 PPG (-0.6 net margin).",
+        "Postseason Readiness: 5-5 against a 68.0 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+      ]
+    },
+    "jacksboro": {
+      "team": "Jacksboro",
+      "state": "TX",
+      "division": "3A-D2",
+      "region": 4,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 18.8,
+      "avg_points_allowed": 21.8,
+      "season_net_margin": -3.0,
+      "last_3_game_margin": 14.7,
+      "momentum_trend": 17.7,
+      "close_game_record": "0-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Jacksboro averages 18.8 PPG while holding UIL 3A-D2 District 5 opponents to 21.8 PPG (-3.0 net margin).",
+        "Postseason Readiness: 3-7 against a 66.4 SOS Index with 0 running-clock separations and a 0-4 record in one-score games."
+      ]
+    },
+    "hooks": {
+      "team": "Hooks",
+      "state": "TX",
+      "division": "3A-D2",
+      "region": 1,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 20.3,
+      "avg_points_allowed": 22.1,
+      "season_net_margin": -1.8,
+      "last_3_game_margin": -7.7,
+      "momentum_trend": -5.9,
+      "close_game_record": "3-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Hooks averages 20.3 PPG while holding UIL 3A-D2 District 11 opponents to 22.1 PPG (-1.8 net margin).",
+        "Postseason Readiness: 6-4 against a 66.1 SOS Index with 0 running-clock separations and a 3-0 record in one-score games."
+      ]
+    },
+    "blanco": {
+      "team": "Blanco",
+      "state": "TX",
+      "division": "3A-D2",
+      "region": 2,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 14.9,
+      "avg_points_allowed": 33.3,
+      "season_net_margin": -18.4,
+      "last_3_game_margin": -28.0,
+      "momentum_trend": -9.6,
+      "close_game_record": "0-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Blanco averages 14.9 PPG while holding UIL 3A-D2 District 13 opponents to 33.3 PPG (-18.4 net margin).",
+        "Postseason Readiness: 1-9 against a 66.8 SOS Index with 0 running-clock separations and a 0-1 record in one-score games."
+      ]
+    },
+    "timpson": {
+      "team": "Timpson",
+      "state": "TX",
+      "division": "2A-D1",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 32.7,
+      "avg_points_allowed": 13.2,
+      "season_net_margin": 19.5,
+      "last_3_game_margin": 15.3,
+      "momentum_trend": -4.2,
+      "close_game_record": "0-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Timpson averages 32.7 PPG while holding UIL 2A-D1 District 11 opponents to 13.2 PPG (+19.5 net margin).",
+        "Postseason Readiness: 10-0 against a 68.6 SOS Index with 0 running-clock separations and a 0-0 record in one-score games."
+      ]
+    },
+    "refugio": {
+      "team": "Refugio",
+      "state": "TX",
+      "division": "2A-D1",
+      "region": 2,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 30.6,
+      "avg_points_allowed": 14.6,
+      "season_net_margin": 16.0,
+      "last_3_game_margin": 7.0,
+      "momentum_trend": -9.0,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Refugio averages 30.6 PPG while holding UIL 2A-D1 District 15 opponents to 14.6 PPG (+16.0 net margin).",
+        "Postseason Readiness: 9-1 against a 68.5 SOS Index with 0 running-clock separations and a 2-0 record in one-score games."
+      ]
+    },
+    "ganado": {
+      "team": "Ganado",
+      "state": "TX",
+      "division": "2A-D1",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 19.7,
+      "avg_points_allowed": 21.1,
+      "season_net_margin": -1.4,
+      "last_3_game_margin": -2.7,
+      "momentum_trend": -1.3,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Ganado averages 19.7 PPG while holding UIL 2A-D1 District 15 opponents to 21.1 PPG (-1.4 net margin).",
+        "Postseason Readiness: 4-6 against a 67.9 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+      ]
+    },
+    "stamford": {
+      "team": "Stamford",
+      "state": "TX",
+      "division": "2A-D1",
+      "region": 4,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 19.1,
+      "avg_points_allowed": 23.5,
+      "season_net_margin": -4.4,
+      "last_3_game_margin": 1.7,
+      "momentum_trend": 6.1,
+      "close_game_record": "1-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Stamford averages 19.1 PPG while holding UIL 2A-D1 District 4 opponents to 23.5 PPG (-4.4 net margin).",
+        "Postseason Readiness: 3-7 against a 67.6 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+      ]
+    },
+    "hawley": {
+      "team": "Hawley",
+      "state": "TX",
+      "division": "2A-D1",
+      "region": 1,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 18.1,
+      "avg_points_allowed": 17.4,
+      "season_net_margin": 0.7,
+      "last_3_game_margin": -2.3,
+      "momentum_trend": -3.0,
+      "close_game_record": "3-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Hawley averages 18.1 PPG while holding UIL 2A-D1 District 4 opponents to 17.4 PPG (+0.7 net margin).",
+        "Postseason Readiness: 6-4 against a 66.3 SOS Index with 0 running-clock separations and a 3-1 record in one-score games."
+      ]
+    },
+    "mason": {
+      "team": "Mason",
+      "state": "TX",
+      "division": "2A-D1",
+      "region": 2,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 16.1,
+      "avg_points_allowed": 20.8,
+      "season_net_margin": -4.7,
+      "last_3_game_margin": -7.0,
+      "momentum_trend": -2.3,
+      "close_game_record": "0-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Mason averages 16.1 PPG while holding UIL 2A-D1 District 14 opponents to 20.8 PPG (-4.7 net margin).",
+        "Postseason Readiness: 2-8 against a 68.0 SOS Index with 0 running-clock separations and a 0-4 record in one-score games."
+      ]
+    },
+    "tolar": {
+      "team": "Tolar",
+      "state": "TX",
+      "division": "2A-D1",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.0,
+      "avg_points_allowed": 23.4,
+      "season_net_margin": -4.4,
+      "last_3_game_margin": 5.0,
+      "momentum_trend": 9.4,
+      "close_game_record": "5-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Tolar averages 19.0 PPG while holding UIL 2A-D1 District 5 opponents to 23.4 PPG (-4.4 net margin).",
+        "Postseason Readiness: 5-5 against a 65.7 SOS Index with 0 running-clock separations and a 5-1 record in one-score games."
+      ]
+    },
+    "stratford": {
+      "team": "Stratford",
+      "state": "TX",
+      "division": "2A-D1",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 16.0,
+      "avg_points_allowed": 19.2,
+      "season_net_margin": -3.2,
+      "last_3_game_margin": -2.7,
+      "momentum_trend": 0.5,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Stratford averages 16.0 PPG while holding UIL 2A-D1 District 1 opponents to 19.2 PPG (-3.2 net margin).",
+        "Postseason Readiness: 5-5 against a 65.9 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "garrison": {
+      "team": "Garrison",
+      "state": "TX",
+      "division": "2A-D1",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.0,
+      "avg_points_allowed": 17.9,
+      "season_net_margin": -0.9,
+      "last_3_game_margin": 3.3,
+      "momentum_trend": 4.2,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Garrison averages 17.0 PPG while holding UIL 2A-D1 District 11 opponents to 17.9 PPG (-0.9 net margin).",
+        "Postseason Readiness: 5-5 against a 66.4 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "honey grove": {
+      "team": "Honey Grove",
+      "state": "TX",
+      "division": "2A-D1",
+      "region": 2,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 14.1,
+      "avg_points_allowed": 31.3,
+      "season_net_margin": -17.2,
+      "last_3_game_margin": -17.7,
+      "momentum_trend": -0.5,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Honey Grove averages 14.1 PPG while holding UIL 2A-D1 District 9 opponents to 31.3 PPG (-17.2 net margin).",
+        "Postseason Readiness: 1-9 against a 65.0 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+      ]
+    },
+    "mart": {
+      "team": "Mart",
+      "state": "TX",
+      "division": "2A-D2",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 33.3,
+      "avg_points_allowed": 16.5,
+      "season_net_margin": 16.8,
+      "last_3_game_margin": 17.3,
+      "momentum_trend": 0.5,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Mart averages 33.3 PPG while holding UIL 2A-D2 District 10 opponents to 16.5 PPG (+16.8 net margin).",
+        "Postseason Readiness: 10-0 against a 67.2 SOS Index with 0 running-clock separations and a 2-0 record in one-score games."
+      ]
+    },
+    "shiner": {
+      "team": "Shiner",
+      "state": "TX",
+      "division": "2A-D2",
+      "region": 2,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 29.7,
+      "avg_points_allowed": 15.3,
+      "season_net_margin": 14.4,
+      "last_3_game_margin": 7.3,
+      "momentum_trend": -7.1,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Shiner averages 29.7 PPG while holding UIL 2A-D2 District 15 opponents to 15.3 PPG (+14.4 net margin).",
+        "Postseason Readiness: 7-3 against a 67.0 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+      ]
+    },
+    "lovelady": {
+      "team": "Lovelady",
+      "state": "TX",
+      "division": "2A-D2",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.5,
+      "avg_points_allowed": 19.4,
+      "season_net_margin": 0.1,
+      "last_3_game_margin": 0.7,
+      "momentum_trend": 0.6,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lovelady averages 19.5 PPG while holding UIL 2A-D2 District 12 opponents to 19.4 PPG (+0.1 net margin).",
+        "Postseason Readiness: 5-5 against a 67.8 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "muenster": {
+      "team": "Muenster",
+      "state": "TX",
+      "division": "2A-D2",
+      "region": 4,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 18.1,
+      "avg_points_allowed": 21.9,
+      "season_net_margin": -3.8,
+      "last_3_game_margin": 3.3,
+      "momentum_trend": 7.1,
+      "close_game_record": "2-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Muenster averages 18.1 PPG while holding UIL 2A-D2 District 8 opponents to 21.9 PPG (-3.8 net margin).",
+        "Postseason Readiness: 3-7 against a 66.3 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+      ]
+    },
+    "bremond": {
+      "team": "Bremond",
+      "state": "TX",
+      "division": "2A-D2",
+      "region": 1,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 23.8,
+      "avg_points_allowed": 20.0,
+      "season_net_margin": 3.8,
+      "last_3_game_margin": -3.0,
+      "momentum_trend": -6.8,
+      "close_game_record": "4-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Bremond averages 23.8 PPG while holding UIL 2A-D2 District 10 opponents to 20.0 PPG (+3.8 net margin).",
+        "Postseason Readiness: 7-3 against a 66.8 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+      ]
+    },
+    "albany": {
+      "team": "Albany",
+      "state": "TX",
+      "division": "2A-D2",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 18.1,
+      "avg_points_allowed": 21.2,
+      "season_net_margin": -3.1,
+      "last_3_game_margin": 6.7,
+      "momentum_trend": 9.8,
+      "close_game_record": "3-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Albany averages 18.1 PPG while holding UIL 2A-D2 District 6 opponents to 21.2 PPG (-3.1 net margin).",
+        "Postseason Readiness: 4-6 against a 65.9 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+      ]
+    },
+    "collinsville": {
+      "team": "Collinsville",
+      "state": "TX",
+      "division": "2A-D2",
+      "region": 3,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 14.9,
+      "avg_points_allowed": 18.9,
+      "season_net_margin": -4.0,
+      "last_3_game_margin": -8.3,
+      "momentum_trend": -4.3,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Collinsville averages 14.9 PPG while holding UIL 2A-D2 District 8 opponents to 18.9 PPG (-4.0 net margin).",
+        "Postseason Readiness: 3-7 against a 67.0 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "wellington": {
+      "team": "Wellington",
+      "state": "TX",
+      "division": "2A-D2",
+      "region": 4,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 19.7,
+      "avg_points_allowed": 20.7,
+      "season_net_margin": -1.0,
+      "last_3_game_margin": 3.7,
+      "momentum_trend": 4.7,
+      "close_game_record": "4-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Wellington averages 19.7 PPG while holding UIL 2A-D2 District 5 opponents to 20.7 PPG (-1.0 net margin).",
+        "Postseason Readiness: 6-4 against a 66.2 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+      ]
+    },
+    "gruver": {
+      "team": "Gruver",
+      "state": "TX",
+      "division": "2A-D2",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 18.3,
+      "avg_points_allowed": 20.2,
+      "season_net_margin": -1.9,
+      "last_3_game_margin": 0.3,
+      "momentum_trend": 2.2,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Gruver averages 18.3 PPG while holding UIL 2A-D2 District 3 opponents to 20.2 PPG (-1.9 net margin).",
+        "Postseason Readiness: 5-5 against a 64.6 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "wink": {
+      "team": "wink",
+      "state": "TX",
+      "division": "2A-D2",
+      "region": 2,
+      "record": "0-10",
+      "games_played": 10,
+      "avg_points_scored": 12.5,
+      "avg_points_allowed": 33.8,
+      "season_net_margin": -21.3,
+      "last_3_game_margin": -28.0,
+      "momentum_trend": -6.7,
+      "close_game_record": "0-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: wink averages 12.5 PPG while holding UIL 2A-D2 District 4 opponents to 33.8 PPG (-21.3 net margin).",
+        "Postseason Readiness: 0-10 against a 63.8 SOS Index with 0 running-clock separations and a 0-2 record in one-score games."
+      ]
+    }
+  },
+  "north shore": {
+    "team": "North Shore",
+    "state": "TX",
+    "division": "6A-D1",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 26.7,
+    "avg_points_allowed": 15.5,
+    "season_net_margin": 11.2,
+    "last_3_game_margin": 22.0,
+    "momentum_trend": 10.8,
+    "close_game_record": "4-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: North Shore averages 26.7 PPG while holding UIL 6A Region III opponents to 15.5 PPG (+11.2 net margin).",
+      "Postseason Readiness: 9-1 against a 77.4 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+    ]
+  },
+  "duncanville": {
+    "team": "Duncanville",
+    "state": "TX",
+    "division": "6A-D1",
+    "region": 2,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 27.4,
+    "avg_points_allowed": 14.1,
+    "season_net_margin": 13.3,
+    "last_3_game_margin": 14.7,
+    "momentum_trend": 1.4,
+    "close_game_record": "4-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Duncanville averages 27.4 PPG while holding UIL 6A District 11 opponents to 14.1 PPG (+13.3 net margin).",
+      "Postseason Readiness: 9-1 against a 77.7 SOS Index with 1 running-clock separations and a 4-1 record in one-score games."
+    ]
+  },
+  "austin westlake": {
+    "team": "Austin Westlake",
+    "state": "TX",
+    "division": "6A-D1",
+    "region": 3,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 18.8,
+    "avg_points_allowed": 20.3,
+    "season_net_margin": -1.5,
+    "last_3_game_margin": 4.0,
+    "momentum_trend": 5.5,
+    "close_game_record": "2-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Austin Westlake averages 18.8 PPG while holding UIL 6A District 26 opponents to 20.3 PPG (-1.5 net margin).",
+      "Postseason Readiness: 3-7 against a 76.1 SOS Index with 0 running-clock separations and a 2-6 record in one-score games."
+    ]
+  },
+  "southlake carroll": {
+    "team": "Southlake Carroll",
+    "state": "TX",
+    "division": "6A-D1",
+    "region": 4,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 18.5,
+    "avg_points_allowed": 18.4,
+    "season_net_margin": 0.1,
+    "last_3_game_margin": -5.7,
+    "momentum_trend": -5.8,
+    "close_game_record": "5-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Southlake Carroll averages 18.5 PPG while holding UIL 6A District 4 opponents to 18.4 PPG (+0.1 net margin).",
+      "Postseason Readiness: 6-4 against a 77.8 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+    ]
+  },
+  "atascocita": {
+    "team": "Atascocita",
+    "state": "TX",
+    "division": "6A-D1",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.2,
+    "avg_points_allowed": 17.6,
+    "season_net_margin": -0.4,
+    "last_3_game_margin": 1.0,
+    "momentum_trend": 1.4,
+    "close_game_record": "2-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Atascocita averages 17.2 PPG while holding UIL 6A District 21 opponents to 17.6 PPG (-0.4 net margin).",
+      "Postseason Readiness: 4-6 against a 75.2 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+    ]
+  },
+  "allen": {
+    "team": "Allen",
+    "state": "TX",
+    "division": "6A-D1",
+    "region": 2,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.2,
+    "avg_points_allowed": 18.1,
+    "season_net_margin": -0.9,
+    "last_3_game_margin": 0.7,
+    "momentum_trend": 1.6,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Allen averages 17.2 PPG while holding UIL 6A District 5 opponents to 18.1 PPG (-0.9 net margin).",
+      "Postseason Readiness: 5-5 against a 77.2 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "coppell": {
+    "team": "Coppell",
+    "state": "TX",
+    "division": "6A-D1",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.0,
+    "avg_points_allowed": 18.4,
+    "season_net_margin": -1.4,
+    "last_3_game_margin": -2.0,
+    "momentum_trend": -0.6,
+    "close_game_record": "5-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Coppell averages 17.0 PPG while holding UIL 6A District 5 opponents to 18.4 PPG (-1.4 net margin).",
+      "Postseason Readiness: 5-5 against a 76.3 SOS Index with 0 running-clock separations and a 5-4 record in one-score games."
+    ]
+  },
+  "katy": {
+    "team": "Katy",
+    "state": "TX",
+    "division": "6A-D1",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.5,
+    "avg_points_allowed": 18.6,
+    "season_net_margin": 0.9,
+    "last_3_game_margin": 5.0,
+    "momentum_trend": 4.1,
+    "close_game_record": "4-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Katy averages 19.5 PPG while holding UIL 6A District 19 opponents to 18.6 PPG (+0.9 net margin).",
+      "Postseason Readiness: 5-5 against a 75.6 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+    ]
+  },
+  "lake travis": {
+    "team": "Lake Travis",
+    "state": "TX",
+    "division": "6A-D1",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 17.4,
+    "avg_points_allowed": 19.8,
+    "season_net_margin": -2.4,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": -1.6,
+    "close_game_record": "3-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lake Travis averages 17.4 PPG while holding UIL 6A District 26 opponents to 19.8 PPG (-2.4 net margin).",
+      "Postseason Readiness: 3-7 against a 74.3 SOS Index with 0 running-clock separations and a 3-6 record in one-score games."
+    ]
+  },
+  "north crowley": {
+    "team": "North Crowley",
+    "state": "TX",
+    "division": "6A-D1",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 19.2,
+    "avg_points_allowed": 22.9,
+    "season_net_margin": -3.7,
+    "last_3_game_margin": -9.7,
+    "momentum_trend": -6.0,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: North Crowley averages 19.2 PPG while holding UIL 6A District 3 opponents to 22.9 PPG (-3.7 net margin).",
+      "Postseason Readiness: 4-6 against a 74.6 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "prosper": {
+    "team": "Prosper",
+    "state": "TX",
+    "division": "6A-D1",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 20.2,
+    "avg_points_allowed": 20.7,
+    "season_net_margin": -0.5,
+    "last_3_game_margin": -5.3,
+    "momentum_trend": -4.8,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Prosper averages 20.2 PPG while holding UIL 6A District 6 opponents to 20.7 PPG (-0.5 net margin).",
+      "Postseason Readiness: 6-4 against a 75.6 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "dickinson": {
+    "team": "Dickinson",
+    "state": "TX",
+    "division": "6A-D1",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.0,
+    "avg_points_allowed": 20.0,
+    "season_net_margin": -1.0,
+    "last_3_game_margin": -5.0,
+    "momentum_trend": -4.0,
+    "close_game_record": "5-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Dickinson averages 19.0 PPG while holding UIL 6A District 24 opponents to 20.0 PPG (-1.0 net margin).",
+      "Postseason Readiness: 5-5 against a 72.8 SOS Index with 0 running-clock separations and a 5-4 record in one-score games."
+    ]
+  },
+  "lamar": {
+    "team": "Lamar",
+    "state": "TX",
+    "division": "6A-D1",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 21.3,
+    "avg_points_allowed": 21.9,
+    "season_net_margin": -0.6,
+    "last_3_game_margin": -2.3,
+    "momentum_trend": -1.7,
+    "close_game_record": "3-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lamar averages 21.3 PPG while holding UIL 6A District 18 opponents to 21.9 PPG (-0.6 net margin).",
+      "Postseason Readiness: 4-6 against a 72.1 SOS Index with 0 running-clock separations and a 3-6 record in one-score games."
+    ]
+  },
+  "humble": {
+    "team": "Humble",
+    "state": "TX",
+    "division": "6A-D1",
+    "region": 2,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 18.7,
+    "avg_points_allowed": 16.9,
+    "season_net_margin": 1.8,
+    "last_3_game_margin": 6.0,
+    "momentum_trend": 4.2,
+    "close_game_record": "5-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Humble averages 18.7 PPG while holding UIL 6A District 21 opponents to 16.9 PPG (+1.8 net margin).",
+      "Postseason Readiness: 6-4 against a 73.1 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+    ]
+  },
+  "bowie": {
+    "team": "Bowie",
+    "state": "TX",
+    "division": "6A-D1",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.8,
+    "avg_points_allowed": 18.2,
+    "season_net_margin": 1.6,
+    "last_3_game_margin": -4.3,
+    "momentum_trend": -5.9,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Bowie averages 19.8 PPG while holding UIL 6A District 26 opponents to 18.2 PPG (+1.6 net margin).",
+      "Postseason Readiness: 5-5 against a 74.0 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "the woodlands": {
+    "team": "the Woodlands",
+    "state": "TX",
+    "division": "6A-D1",
+    "region": 4,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 14.4,
+    "avg_points_allowed": 30.9,
+    "season_net_margin": -16.5,
+    "last_3_game_margin": -15.0,
+    "momentum_trend": 1.5,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: the Woodlands averages 14.4 PPG while holding UIL 6A District 13 opponents to 30.9 PPG (-16.5 net margin).",
+      "Postseason Readiness: 1-9 against a 72.9 SOS Index with 0 running-clock separations and a 1-1 record in one-score games."
+    ]
+  },
+  "desoto": {
+    "team": "DeSoto",
+    "state": "TX",
+    "division": "6A-D2",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 25.6,
+    "avg_points_allowed": 14.8,
+    "season_net_margin": 10.8,
+    "last_3_game_margin": 17.0,
+    "momentum_trend": 6.2,
+    "close_game_record": "4-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: DeSoto averages 25.6 PPG while holding UIL 6A District 11 opponents to 14.8 PPG (+10.8 net margin).",
+      "Postseason Readiness: 9-1 against a 75.8 SOS Index with 0 running-clock separations and a 4-0 record in one-score games."
+    ]
+  },
+  "summer creek": {
+    "team": "Summer Creek",
+    "state": "TX",
+    "division": "6A-D2",
+    "region": 2,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 34.2,
+    "avg_points_allowed": 13.8,
+    "season_net_margin": 20.4,
+    "last_3_game_margin": 15.0,
+    "momentum_trend": -5.4,
+    "close_game_record": "3-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Summer Creek averages 34.2 PPG while holding UIL 6A District 21 opponents to 13.8 PPG (+20.4 net margin).",
+      "Postseason Readiness: 9-1 against a 75.9 SOS Index with 1 running-clock separations and a 3-1 record in one-score games."
+    ]
+  },
+  "vandegrift": {
+    "team": "Vandegrift",
+    "state": "TX",
+    "division": "6A-D2",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 21.8,
+    "avg_points_allowed": 23.0,
+    "season_net_margin": -1.2,
+    "last_3_game_margin": -0.7,
+    "momentum_trend": 0.5,
+    "close_game_record": "3-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Vandegrift averages 21.8 PPG while holding UIL 6A District 25 opponents to 23.0 PPG (-1.2 net margin).",
+      "Postseason Readiness: 5-5 against a 75.8 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+    ]
+  },
+  "denton guyer": {
+    "team": "Denton Guyer",
+    "state": "TX",
+    "division": "6A-D2",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 19.5,
+    "avg_points_allowed": 19.2,
+    "season_net_margin": 0.3,
+    "last_3_game_margin": -1.0,
+    "momentum_trend": -1.3,
+    "close_game_record": "2-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Denton Guyer averages 19.5 PPG while holding UIL 6A District 5 opponents to 19.2 PPG (+0.3 net margin).",
+      "Postseason Readiness: 4-6 against a 75.4 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+    ]
+  },
+  "c.e. king": {
+    "team": "C.E. King",
+    "state": "TX",
+    "division": "6A-D2",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 20.2,
+    "avg_points_allowed": 17.1,
+    "season_net_margin": 3.1,
+    "last_3_game_margin": 5.0,
+    "momentum_trend": 1.9,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: C.E. King averages 20.2 PPG while holding UIL 6A District 21 opponents to 17.1 PPG (+3.1 net margin).",
+      "Postseason Readiness: 6-4 against a 76.0 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "byron nelson": {
+    "team": "Byron Nelson",
+    "state": "TX",
+    "division": "6A-D2",
+    "region": 2,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 18.9,
+    "avg_points_allowed": 22.4,
+    "season_net_margin": -3.5,
+    "last_3_game_margin": -7.0,
+    "momentum_trend": -3.5,
+    "close_game_record": "1-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Byron Nelson averages 18.9 PPG while holding UIL 6A District 4 opponents to 22.4 PPG (-3.5 net margin).",
+      "Postseason Readiness: 3-7 against a 75.9 SOS Index with 0 running-clock separations and a 1-5 record in one-score games."
+    ]
+  },
+  "dripping springs": {
+    "team": "Dripping Springs",
+    "state": "TX",
+    "division": "6A-D2",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.5,
+    "avg_points_allowed": 20.8,
+    "season_net_margin": -3.3,
+    "last_3_game_margin": 2.3,
+    "momentum_trend": 5.6,
+    "close_game_record": "5-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Dripping Springs averages 17.5 PPG while holding UIL 6A District 26 opponents to 20.8 PPG (-3.3 net margin).",
+      "Postseason Readiness: 5-5 against a 75.8 SOS Index with 0 running-clock separations and a 5-1 record in one-score games."
+    ]
+  },
+  "westfield": {
+    "team": "Westfield",
+    "state": "TX",
+    "division": "6A-D2",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 18.0,
+    "avg_points_allowed": 17.6,
+    "season_net_margin": 0.4,
+    "last_3_game_margin": 1.7,
+    "momentum_trend": 1.3,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Westfield averages 18.0 PPG while holding UIL 6A District 14 opponents to 17.6 PPG (+0.4 net margin).",
+      "Postseason Readiness: 5-5 against a 74.6 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "south oak cliff": {
+    "team": "South Oak Cliff",
+    "state": "TX",
+    "division": "6A-D2",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 15.5,
+    "avg_points_allowed": 18.7,
+    "season_net_margin": -3.2,
+    "last_3_game_margin": 0.0,
+    "momentum_trend": 3.2,
+    "close_game_record": "2-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: South Oak Cliff averages 15.5 PPG while holding UIL 6A Metro opponents to 18.7 PPG (-3.2 net margin).",
+      "Postseason Readiness: 3-7 against a 74.8 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+    ]
+  },
+  "cedar hill": {
+    "team": "Cedar Hill",
+    "state": "TX",
+    "division": "6A-D2",
+    "region": 2,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.5,
+    "avg_points_allowed": 17.3,
+    "season_net_margin": 0.2,
+    "last_3_game_margin": -6.7,
+    "momentum_trend": -6.9,
+    "close_game_record": "3-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Cedar Hill averages 17.5 PPG while holding UIL 6A District 11 opponents to 17.3 PPG (+0.2 net margin).",
+      "Postseason Readiness: 5-5 against a 72.5 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+    ]
+  },
+  "katy jordan": {
+    "team": "Katy Jordan",
+    "state": "TX",
+    "division": "6A-D2",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.2,
+    "avg_points_allowed": 19.3,
+    "season_net_margin": -2.1,
+    "last_3_game_margin": -1.3,
+    "momentum_trend": 0.8,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Katy Jordan averages 17.2 PPG while holding UIL 6A District 19 opponents to 19.3 PPG (-2.1 net margin).",
+      "Postseason Readiness: 5-5 against a 73.6 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+    ]
+  },
+  "willis": {
+    "team": "Willis",
+    "state": "TX",
+    "division": "6A-D2",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 15.1,
+    "avg_points_allowed": 17.8,
+    "season_net_margin": -2.7,
+    "last_3_game_margin": -10.3,
+    "momentum_trend": -7.6,
+    "close_game_record": "4-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Willis averages 15.1 PPG while holding UIL 6A District 13 opponents to 17.8 PPG (-2.7 net margin).",
+      "Postseason Readiness: 5-5 against a 73.4 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+    ]
+  },
+  "steele": {
+    "team": "Steele",
+    "state": "TX",
+    "division": "6A-D2",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 19.0,
+    "avg_points_allowed": 17.3,
+    "season_net_margin": 1.7,
+    "last_3_game_margin": 1.7,
+    "momentum_trend": 0.0,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Steele averages 19.0 PPG while holding UIL 6A District 29 opponents to 17.3 PPG (+1.7 net margin).",
+      "Postseason Readiness: 6-4 against a 73.3 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "harlan": {
+    "team": "Harlan",
+    "state": "TX",
+    "division": "6A-D2",
+    "region": 2,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.1,
+    "avg_points_allowed": 19.4,
+    "season_net_margin": -0.3,
+    "last_3_game_margin": -1.0,
+    "momentum_trend": -0.7,
+    "close_game_record": "4-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Harlan averages 19.1 PPG while holding UIL 6A District 28 opponents to 19.4 PPG (-0.3 net margin).",
+      "Postseason Readiness: 5-5 against a 71.9 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+    ]
+  },
+  "frenship": {
+    "team": "Frenship",
+    "state": "TX",
+    "division": "6A-D2",
+    "region": 3,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 14.5,
+    "avg_points_allowed": 18.3,
+    "season_net_margin": -3.8,
+    "last_3_game_margin": -1.3,
+    "momentum_trend": 2.5,
+    "close_game_record": "2-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Frenship averages 14.5 PPG while holding UIL 6A District 2 opponents to 18.3 PPG (-3.8 net margin).",
+      "Postseason Readiness: 2-8 against a 71.8 SOS Index with 0 running-clock separations and a 2-6 record in one-score games."
+    ]
+  },
+  "marcus": {
+    "team": "Marcus",
+    "state": "TX",
+    "division": "6A-D2",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 12.5,
+    "avg_points_allowed": 29.3,
+    "season_net_margin": -16.8,
+    "last_3_game_margin": -13.3,
+    "momentum_trend": 3.5,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Marcus averages 12.5 PPG while holding UIL 6A District 5 opponents to 29.3 PPG (-16.8 net margin).",
+      "Postseason Readiness: 3-7 against a 72.3 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+    ]
+  },
+  "aledo": {
+    "team": "Aledo",
+    "state": "TX",
+    "division": "5A-D1",
+    "region": 1,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 25.1,
+    "avg_points_allowed": 16.2,
+    "season_net_margin": 8.9,
+    "last_3_game_margin": 14.3,
+    "momentum_trend": 5.4,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Aledo averages 25.1 PPG while holding UIL 5A-D1 District 3 opponents to 16.2 PPG (+8.9 net margin).",
+      "Postseason Readiness: 8-2 against a 75.3 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+    ]
+  },
+  "smithson valley": {
+    "team": "Smithson Valley",
+    "state": "TX",
+    "division": "5A-D1",
+    "region": 2,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 30.7,
+    "avg_points_allowed": 17.6,
+    "season_net_margin": 13.1,
+    "last_3_game_margin": 7.3,
+    "momentum_trend": -5.8,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Smithson Valley averages 30.7 PPG while holding UIL 5A-D1 District 13 opponents to 17.6 PPG (+13.1 net margin).",
+      "Postseason Readiness: 7-3 against a 74.7 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "highland park": {
+    "team": "Highland Park",
+    "state": "TX",
+    "division": "5A-D1",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.0,
+    "avg_points_allowed": 16.8,
+    "season_net_margin": 2.2,
+    "last_3_game_margin": 5.0,
+    "momentum_trend": 2.8,
+    "close_game_record": "4-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Highland Park averages 19.0 PPG while holding UIL 5A-D1 District 7 opponents to 16.8 PPG (+2.2 net margin).",
+      "Postseason Readiness: 5-5 against a 75.4 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+    ]
+  },
+  "denton ryan": {
+    "team": "Denton Ryan",
+    "state": "TX",
+    "division": "5A-D1",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.2,
+    "avg_points_allowed": 19.2,
+    "season_net_margin": -2.0,
+    "last_3_game_margin": -7.0,
+    "momentum_trend": -5.0,
+    "close_game_record": "4-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Denton Ryan averages 17.2 PPG while holding UIL 5A-D1 District 3 opponents to 19.2 PPG (-2.0 net margin).",
+      "Postseason Readiness: 4-6 against a 74.0 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+    ]
+  },
+  "longview": {
+    "team": "Longview",
+    "state": "TX",
+    "division": "5A-D1",
+    "region": 1,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 18.5,
+    "avg_points_allowed": 16.0,
+    "season_net_margin": 2.5,
+    "last_3_game_margin": 4.0,
+    "momentum_trend": 1.5,
+    "close_game_record": "8-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Longview averages 18.5 PPG while holding UIL 5A-D1 District 7 opponents to 16.0 PPG (+2.5 net margin).",
+      "Postseason Readiness: 8-2 against a 74.5 SOS Index with 0 running-clock separations and a 8-2 record in one-score games."
+    ]
+  },
+  "lone star": {
+    "team": "Lone Star",
+    "state": "TX",
+    "division": "5A-D1",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 19.3,
+    "avg_points_allowed": 18.9,
+    "season_net_margin": 0.4,
+    "last_3_game_margin": 1.3,
+    "momentum_trend": 0.9,
+    "close_game_record": "2-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lone Star averages 19.3 PPG while holding UIL 5A-D1 District 6 opponents to 18.9 PPG (+0.4 net margin).",
+      "Postseason Readiness: 4-6 against a 74.6 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+    ]
+  },
+  "richland": {
+    "team": "Richland",
+    "state": "TX",
+    "division": "5A-D1",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 19.9,
+    "avg_points_allowed": 19.2,
+    "season_net_margin": 0.7,
+    "last_3_game_margin": 0.3,
+    "momentum_trend": -0.4,
+    "close_game_record": "5-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Richland averages 19.9 PPG while holding UIL 5A-D1 District 3 opponents to 19.2 PPG (+0.7 net margin).",
+      "Postseason Readiness: 6-4 against a 74.8 SOS Index with 0 running-clock separations and a 5-1 record in one-score games."
+    ]
+  },
+  "college station": {
+    "team": "College Station",
+    "state": "TX",
+    "division": "5A-D1",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 17.4,
+    "avg_points_allowed": 22.0,
+    "season_net_margin": -4.6,
+    "last_3_game_margin": -2.0,
+    "momentum_trend": 2.6,
+    "close_game_record": "3-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: College Station averages 17.4 PPG while holding UIL 5A-D1 District 11 opponents to 22.0 PPG (-4.6 net margin).",
+      "Postseason Readiness: 3-7 against a 74.2 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+    ]
+  },
+  "port arthur memorial": {
+    "team": "Port Arthur Memorial",
+    "state": "TX",
+    "division": "5A-D1",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 19.9,
+    "avg_points_allowed": 19.6,
+    "season_net_margin": 0.3,
+    "last_3_game_margin": 3.0,
+    "momentum_trend": 2.7,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Port Arthur Memorial averages 19.9 PPG while holding UIL 5A-D1 District 9 opponents to 19.6 PPG (+0.3 net margin).",
+      "Postseason Readiness: 6-4 against a 72.5 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "lufkin": {
+    "team": "Lufkin",
+    "state": "TX",
+    "division": "5A-D1",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 19.7,
+    "avg_points_allowed": 22.3,
+    "season_net_margin": -2.6,
+    "last_3_game_margin": -13.3,
+    "momentum_trend": -10.7,
+    "close_game_record": "3-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lufkin averages 19.7 PPG while holding UIL 5A-D1 District 9 opponents to 22.3 PPG (-2.6 net margin).",
+      "Postseason Readiness: 4-6 against a 72.2 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+    ]
+  },
+  "barbers hill": {
+    "team": "Barbers Hill",
+    "state": "TX",
+    "division": "5A-D1",
+    "region": 3,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 19.1,
+    "avg_points_allowed": 22.4,
+    "season_net_margin": -3.3,
+    "last_3_game_margin": 1.3,
+    "momentum_trend": 4.6,
+    "close_game_record": "2-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Barbers Hill averages 19.1 PPG while holding UIL 5A-D1 District 9 opponents to 22.4 PPG (-3.3 net margin).",
+      "Postseason Readiness: 3-7 against a 72.6 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+    ]
+  },
+  "abilene": {
+    "team": "Abilene",
+    "state": "TX",
+    "division": "5A-D1",
+    "region": 4,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 21.1,
+    "avg_points_allowed": 19.1,
+    "season_net_margin": 2.0,
+    "last_3_game_margin": -7.3,
+    "momentum_trend": -9.3,
+    "close_game_record": "5-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Abilene averages 21.1 PPG while holding UIL 5A-D1 District 2 opponents to 19.1 PPG (+2.0 net margin).",
+      "Postseason Readiness: 6-4 against a 71.5 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+    ]
+  },
+  "amarillo tascosa": {
+    "team": "Amarillo Tascosa",
+    "state": "TX",
+    "division": "5A-D1",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 18.5,
+    "avg_points_allowed": 20.9,
+    "season_net_margin": -2.4,
+    "last_3_game_margin": 1.7,
+    "momentum_trend": 4.1,
+    "close_game_record": "2-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Amarillo Tascosa averages 18.5 PPG while holding UIL 5A-D1 District 2 opponents to 20.9 PPG (-2.4 net margin).",
+      "Postseason Readiness: 3-7 against a 70.0 SOS Index with 0 running-clock separations and a 2-6 record in one-score games."
+    ]
+  },
+  "midlothian": {
+    "team": "Midlothian",
+    "state": "TX",
+    "division": "5A-D1",
+    "region": 2,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 21.6,
+    "avg_points_allowed": 18.3,
+    "season_net_margin": 3.3,
+    "last_3_game_margin": 1.3,
+    "momentum_trend": -2.0,
+    "close_game_record": "6-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Midlothian averages 21.6 PPG while holding UIL 5A-D1 District 7 opponents to 18.3 PPG (+3.3 net margin).",
+      "Postseason Readiness: 7-3 against a 69.9 SOS Index with 0 running-clock separations and a 6-1 record in one-score games."
+    ]
+  },
+  "georgetown": {
+    "team": "Georgetown",
+    "state": "TX",
+    "division": "5A-D1",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.2,
+    "avg_points_allowed": 22.2,
+    "season_net_margin": -3.0,
+    "last_3_game_margin": -2.3,
+    "momentum_trend": 0.7,
+    "close_game_record": "4-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Georgetown averages 19.2 PPG while holding UIL 5A-D1 District 11 opponents to 22.2 PPG (-3.0 net margin).",
+      "Postseason Readiness: 5-5 against a 70.6 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+    ]
+  },
+  "angleton": {
+    "team": "Angleton",
+    "state": "TX",
+    "division": "5A-D1",
+    "region": 4,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 17.4,
+    "avg_points_allowed": 32.9,
+    "season_net_margin": -15.5,
+    "last_3_game_margin": -7.7,
+    "momentum_trend": 7.8,
+    "close_game_record": "1-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Angleton averages 17.4 PPG while holding UIL 5A-D1 District 10 opponents to 32.9 PPG (-15.5 net margin).",
+      "Postseason Readiness: 1-9 against a 70.2 SOS Index with 0 running-clock separations and a 1-4 record in one-score games."
+    ]
+  },
+  "argyle": {
+    "team": "Argyle",
+    "state": "TX",
+    "division": "5A-D2",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 30.9,
+    "avg_points_allowed": 16.2,
+    "season_net_margin": 14.7,
+    "last_3_game_margin": 27.7,
+    "momentum_trend": 13.0,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Argyle averages 30.9 PPG while holding UIL 5A-D2 District 3 opponents to 16.2 PPG (+14.7 net margin).",
+      "Postseason Readiness: 9-1 against a 73.3 SOS Index with 0 running-clock separations and a 1-0 record in one-score games."
+    ]
+  },
+  "melissa": {
+    "team": "Melissa",
+    "state": "TX",
+    "division": "5A-D2",
+    "region": 2,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 34.8,
+    "avg_points_allowed": 14.6,
+    "season_net_margin": 20.2,
+    "last_3_game_margin": 13.0,
+    "momentum_trend": -7.2,
+    "close_game_record": "3-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Melissa averages 34.8 PPG while holding UIL 5A-D2 District 4 opponents to 14.6 PPG (+20.2 net margin).",
+      "Postseason Readiness: 9-1 against a 74.4 SOS Index with 0 running-clock separations and a 3-1 record in one-score games."
+    ]
+  },
+  "liberty hill": {
+    "team": "Liberty Hill",
+    "state": "TX",
+    "division": "5A-D2",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.9,
+    "avg_points_allowed": 20.9,
+    "season_net_margin": -1.0,
+    "last_3_game_margin": 0.0,
+    "momentum_trend": 1.0,
+    "close_game_record": "3-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Liberty Hill averages 19.9 PPG while holding UIL 5A-D2 District 13 opponents to 20.9 PPG (-1.0 net margin).",
+      "Postseason Readiness: 5-5 against a 73.7 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+    ]
+  },
+  "lovejoy": {
+    "team": "Lovejoy",
+    "state": "TX",
+    "division": "5A-D2",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 19.4,
+    "avg_points_allowed": 20.7,
+    "season_net_margin": -1.3,
+    "last_3_game_margin": -0.7,
+    "momentum_trend": 0.6,
+    "close_game_record": "1-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lovejoy averages 19.4 PPG while holding UIL 5A-D2 District 4 opponents to 20.7 PPG (-1.3 net margin).",
+      "Postseason Readiness: 3-7 against a 72.1 SOS Index with 0 running-clock separations and a 1-6 record in one-score games."
+    ]
+  },
+  "randle": {
+    "team": "Randle",
+    "state": "TX",
+    "division": "5A-D2",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 19.2,
+    "avg_points_allowed": 20.5,
+    "season_net_margin": -1.3,
+    "last_3_game_margin": 4.3,
+    "momentum_trend": 5.6,
+    "close_game_record": "5-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Randle averages 19.2 PPG while holding UIL 5A-D2 District 9 opponents to 20.5 PPG (-1.3 net margin).",
+      "Postseason Readiness: 6-4 against a 73.6 SOS Index with 0 running-clock separations and a 5-1 record in one-score games."
+    ]
+  },
+  "iowa colony": {
+    "team": "Iowa Colony",
+    "state": "TX",
+    "division": "5A-D2",
+    "region": 2,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 17.7,
+    "avg_points_allowed": 20.7,
+    "season_net_margin": -3.0,
+    "last_3_game_margin": -4.3,
+    "momentum_trend": -1.3,
+    "close_game_record": "0-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Iowa Colony averages 17.7 PPG while holding UIL 5A-D2 District 9 opponents to 20.7 PPG (-3.0 net margin).",
+      "Postseason Readiness: 2-8 against a 71.6 SOS Index with 0 running-clock separations and a 0-6 record in one-score games."
+    ]
+  },
+  "marshall": {
+    "team": "Marshall",
+    "state": "TX",
+    "division": "5A-D2",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 18.4,
+    "avg_points_allowed": 20.1,
+    "season_net_margin": -1.7,
+    "last_3_game_margin": -1.0,
+    "momentum_trend": 0.7,
+    "close_game_record": "5-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Marshall averages 18.4 PPG while holding UIL 5A-D2 District 7 opponents to 20.1 PPG (-1.7 net margin).",
+      "Postseason Readiness: 5-5 against a 71.9 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+    ]
+  },
+  "texas high": {
+    "team": "Texas High",
+    "state": "TX",
+    "division": "5A-D2",
+    "region": 4,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 18.8,
+    "avg_points_allowed": 19.5,
+    "season_net_margin": -0.7,
+    "last_3_game_margin": -1.0,
+    "momentum_trend": -0.3,
+    "close_game_record": "5-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Texas High averages 18.8 PPG while holding UIL 5A-D2 District 7 opponents to 19.5 PPG (-0.7 net margin).",
+      "Postseason Readiness: 6-4 against a 71.2 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+    ]
+  },
+  "anna": {
+    "team": "Anna",
+    "state": "TX",
+    "division": "5A-D2",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 20.5,
+    "avg_points_allowed": 17.6,
+    "season_net_margin": 2.9,
+    "last_3_game_margin": 4.0,
+    "momentum_trend": 1.1,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Anna averages 20.5 PPG while holding UIL 5A-D2 District 4 opponents to 17.6 PPG (+2.9 net margin).",
+      "Postseason Readiness: 6-4 against a 72.4 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "rouse": {
+    "team": "Rouse",
+    "state": "TX",
+    "division": "5A-D2",
+    "region": 2,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 15.4,
+    "avg_points_allowed": 22.9,
+    "season_net_margin": -7.5,
+    "last_3_game_margin": -18.3,
+    "momentum_trend": -10.8,
+    "close_game_record": "1-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Rouse averages 15.4 PPG while holding UIL 5A-D2 District 13 opponents to 22.9 PPG (-7.5 net margin).",
+      "Postseason Readiness: 2-8 against a 72.1 SOS Index with 0 running-clock separations and a 1-5 record in one-score games."
+    ]
+  },
+  "huntsville": {
+    "team": "Huntsville",
+    "state": "TX",
+    "division": "5A-D2",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.8,
+    "avg_points_allowed": 22.1,
+    "season_net_margin": -4.3,
+    "last_3_game_margin": -7.3,
+    "momentum_trend": -3.0,
+    "close_game_record": "3-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Huntsville averages 17.8 PPG while holding UIL 5A-D2 District 8 opponents to 22.1 PPG (-4.3 net margin).",
+      "Postseason Readiness: 4-6 against a 69.9 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+    ]
+  },
+  "brenham": {
+    "team": "Brenham",
+    "state": "TX",
+    "division": "5A-D2",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 20.2,
+    "avg_points_allowed": 22.6,
+    "season_net_margin": -2.4,
+    "last_3_game_margin": -9.7,
+    "momentum_trend": -7.3,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Brenham averages 20.2 PPG while holding UIL 5A-D2 District 10 opponents to 22.6 PPG (-2.4 net margin).",
+      "Postseason Readiness: 4-6 against a 71.6 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "alamo heights": {
+    "team": "Alamo Heights",
+    "state": "TX",
+    "division": "5A-D2",
+    "region": 1,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 21.0,
+    "avg_points_allowed": 16.8,
+    "season_net_margin": 4.2,
+    "last_3_game_margin": 4.7,
+    "momentum_trend": 0.5,
+    "close_game_record": "5-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Alamo Heights averages 21.0 PPG while holding UIL 5A-D2 District 14 opponents to 16.8 PPG (+4.2 net margin).",
+      "Postseason Readiness: 8-2 against a 68.9 SOS Index with 0 running-clock separations and a 5-1 record in one-score games."
+    ]
+  },
+  "png (port neches-groves)": {
+    "team": "PNG (Port Neches-Groves)",
+    "state": "TX",
+    "division": "5A-D2",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 19.5,
+    "avg_points_allowed": 20.6,
+    "season_net_margin": -1.1,
+    "last_3_game_margin": 4.7,
+    "momentum_trend": 5.8,
+    "close_game_record": "3-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: PNG (Port Neches-Groves) averages 19.5 PPG while holding UIL 5A-D2 District 8 opponents to 20.6 PPG (-1.1 net margin).",
+      "Postseason Readiness: 4-6 against a 69.6 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+    ]
+  },
+  "colleyville heritage": {
+    "team": "Colleyville Heritage",
+    "state": "TX",
+    "division": "5A-D2",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 20.2,
+    "avg_points_allowed": 20.3,
+    "season_net_margin": -0.1,
+    "last_3_game_margin": -2.3,
+    "momentum_trend": -2.2,
+    "close_game_record": "6-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Colleyville Heritage averages 20.2 PPG while holding UIL 5A-D2 District 3 opponents to 20.3 PPG (-0.1 net margin).",
+      "Postseason Readiness: 6-4 against a 69.5 SOS Index with 0 running-clock separations and a 6-3 record in one-score games."
+    ]
+  },
+  "prosper walnut grove": {
+    "team": "Prosper Walnut Grove",
+    "state": "TX",
+    "division": "5A-D2",
+    "region": 4,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 16.1,
+    "avg_points_allowed": 33.7,
+    "season_net_margin": -17.6,
+    "last_3_game_margin": -13.7,
+    "momentum_trend": 3.9,
+    "close_game_record": "1-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Prosper Walnut Grove averages 16.1 PPG while holding UIL 5A-D2 District 4 opponents to 33.7 PPG (-17.6 net margin).",
+      "Postseason Readiness: 1-9 against a 68.7 SOS Index with 0 running-clock separations and a 1-4 record in one-score games."
+    ]
+  },
+  "celina": {
+    "team": "Celina",
+    "state": "TX",
+    "division": "4A-D1",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 34.1,
+    "avg_points_allowed": 17.8,
+    "season_net_margin": 16.3,
+    "last_3_game_margin": 27.7,
+    "momentum_trend": 11.4,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Celina averages 34.1 PPG while holding UIL 4A-D1 District 7 opponents to 17.8 PPG (+16.3 net margin).",
+      "Postseason Readiness: 9-1 against a 73.0 SOS Index with 0 running-clock separations and a 1-1 record in one-score games."
+    ]
+  },
+  "stephenville": {
+    "team": "Stephenville",
+    "state": "TX",
+    "division": "4A-D1",
+    "region": 2,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 33.4,
+    "avg_points_allowed": 14.3,
+    "season_net_margin": 19.1,
+    "last_3_game_margin": 15.0,
+    "momentum_trend": -4.1,
+    "close_game_record": "4-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Stephenville averages 33.4 PPG while holding UIL 4A-D1 District 3 opponents to 14.3 PPG (+19.1 net margin).",
+      "Postseason Readiness: 10-0 against a 71.6 SOS Index with 0 running-clock separations and a 4-0 record in one-score games."
+    ]
+  },
+  "kilgore": {
+    "team": "Kilgore",
+    "state": "TX",
+    "division": "4A-D1",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 16.6,
+    "avg_points_allowed": 18.4,
+    "season_net_margin": -1.8,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": -2.2,
+    "close_game_record": "4-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Kilgore averages 16.6 PPG while holding UIL 4A-D1 District 9 opponents to 18.4 PPG (-1.8 net margin).",
+      "Postseason Readiness: 4-6 against a 73.1 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+    ]
+  },
+  "chapel hill": {
+    "team": "Chapel Hill",
+    "state": "TX",
+    "division": "4A-D1",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 16.9,
+    "avg_points_allowed": 17.4,
+    "season_net_margin": -0.5,
+    "last_3_game_margin": 1.0,
+    "momentum_trend": 1.5,
+    "close_game_record": "4-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Chapel Hill averages 16.9 PPG while holding UIL 4A-D1 District 9 opponents to 17.4 PPG (-0.5 net margin).",
+      "Postseason Readiness: 5-5 against a 72.2 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+    ]
+  },
+  "la vega": {
+    "team": "La Vega",
+    "state": "TX",
+    "division": "4A-D1",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 19.1,
+    "avg_points_allowed": 18.8,
+    "season_net_margin": 0.3,
+    "last_3_game_margin": 0.3,
+    "momentum_trend": 0.0,
+    "close_game_record": "3-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: La Vega averages 19.1 PPG while holding UIL 4A-D1 District 11 opponents to 18.8 PPG (+0.3 net margin).",
+      "Postseason Readiness: 4-6 against a 72.2 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+    ]
+  },
+  "canyon west plains": {
+    "team": "Canyon West Plains",
+    "state": "TX",
+    "division": "4A-D1",
+    "region": 2,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 18.8,
+    "avg_points_allowed": 20.3,
+    "season_net_margin": -1.5,
+    "last_3_game_margin": 2.0,
+    "momentum_trend": 3.5,
+    "close_game_record": "5-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Canyon West Plains averages 18.8 PPG while holding UIL 4A-D1 District 2 opponents to 20.3 PPG (-1.5 net margin).",
+      "Postseason Readiness: 6-4 against a 71.5 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+    ]
+  },
+  "needville": {
+    "team": "Needville",
+    "state": "TX",
+    "division": "4A-D1",
+    "region": 3,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 14.0,
+    "avg_points_allowed": 17.3,
+    "season_net_margin": -3.3,
+    "last_3_game_margin": -3.7,
+    "momentum_trend": -0.4,
+    "close_game_record": "3-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Needville averages 14.0 PPG while holding UIL 4A-D1 District 12 opponents to 17.3 PPG (-3.3 net margin).",
+      "Postseason Readiness: 3-7 against a 71.5 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+    ]
+  },
+  "el campo": {
+    "team": "El Campo",
+    "state": "TX",
+    "division": "4A-D1",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 15.8,
+    "avg_points_allowed": 17.0,
+    "season_net_margin": -1.2,
+    "last_3_game_margin": -3.0,
+    "momentum_trend": -1.8,
+    "close_game_record": "3-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: El Campo averages 15.8 PPG while holding UIL 4A-D1 District 12 opponents to 17.0 PPG (-1.2 net margin).",
+      "Postseason Readiness: 4-6 against a 70.1 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+    ]
+  },
+  "lindale": {
+    "team": "Lindale",
+    "state": "TX",
+    "division": "4A-D1",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 21.3,
+    "avg_points_allowed": 21.9,
+    "season_net_margin": -0.6,
+    "last_3_game_margin": 4.3,
+    "momentum_trend": 4.9,
+    "close_game_record": "5-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lindale averages 21.3 PPG while holding UIL 4A-D1 District 9 opponents to 21.9 PPG (-0.6 net margin).",
+      "Postseason Readiness: 6-4 against a 71.3 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+    ]
+  },
+  "sulpher springs": {
+    "team": "Sulpher Springs",
+    "state": "TX",
+    "division": "4A-D1",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 18.6,
+    "avg_points_allowed": 22.4,
+    "season_net_margin": -3.8,
+    "last_3_game_margin": -11.3,
+    "momentum_trend": -7.5,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Sulpher Springs averages 18.6 PPG while holding UIL 4A-D1 District 7 opponents to 22.4 PPG (-3.8 net margin).",
+      "Postseason Readiness: 4-6 against a 71.4 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "alvarado": {
+    "team": "Alvarado",
+    "state": "TX",
+    "division": "4A-D1",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 18.4,
+    "avg_points_allowed": 20.5,
+    "season_net_margin": -2.1,
+    "last_3_game_margin": -5.3,
+    "momentum_trend": -3.2,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Alvarado averages 18.4 PPG while holding UIL 4A-D1 District 6 opponents to 20.5 PPG (-2.1 net margin).",
+      "Postseason Readiness: 4-6 against a 70.8 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "decatur": {
+    "team": "Decatur",
+    "state": "TX",
+    "division": "4A-D1",
+    "region": 4,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 16.1,
+    "avg_points_allowed": 37.0,
+    "season_net_margin": -20.9,
+    "last_3_game_margin": -23.0,
+    "momentum_trend": -2.1,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Decatur averages 16.1 PPG while holding UIL 4A-D1 District 4 opponents to 37.0 PPG (-20.9 net margin).",
+      "Postseason Readiness: 1-9 against a 71.0 SOS Index with 0 running-clock separations and a 1-1 record in one-score games."
+    ]
+  },
+  "carthage": {
+    "team": "Carthage",
+    "state": "TX",
+    "division": "4A-D2",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 34.9,
+    "avg_points_allowed": 15.3,
+    "season_net_margin": 19.6,
+    "last_3_game_margin": 24.3,
+    "momentum_trend": 4.7,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Carthage averages 34.9 PPG while holding UIL 4A-D2 District 8 opponents to 15.3 PPG (+19.6 net margin).",
+      "Postseason Readiness: 10-0 against a 73.7 SOS Index with 0 running-clock separations and a 1-0 record in one-score games."
+    ]
+  },
+  "wimberley": {
+    "team": "Wimberley",
+    "state": "TX",
+    "division": "4A-D2",
+    "region": 2,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 31.6,
+    "avg_points_allowed": 15.2,
+    "season_net_margin": 16.4,
+    "last_3_game_margin": 17.7,
+    "momentum_trend": 1.3,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Wimberley averages 31.6 PPG while holding UIL 4A-D2 District 13 opponents to 15.2 PPG (+16.4 net margin).",
+      "Postseason Readiness: 9-1 against a 72.6 SOS Index with 0 running-clock separations and a 2-1 record in one-score games."
+    ]
+  },
+  "pleasant grove": {
+    "team": "Pleasant Grove",
+    "state": "TX",
+    "division": "4A-D2",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.6,
+    "avg_points_allowed": 20.7,
+    "season_net_margin": -3.1,
+    "last_3_game_margin": -7.3,
+    "momentum_trend": -4.2,
+    "close_game_record": "5-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Pleasant Grove averages 17.6 PPG while holding UIL 4A-D2 District 7 opponents to 20.7 PPG (-3.1 net margin).",
+      "Postseason Readiness: 5-5 against a 72.3 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+    ]
+  },
+  "gilmer": {
+    "team": "Gilmer",
+    "state": "TX",
+    "division": "4A-D2",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 14.8,
+    "avg_points_allowed": 16.7,
+    "season_net_margin": -1.9,
+    "last_3_game_margin": -2.3,
+    "momentum_trend": -0.4,
+    "close_game_record": "3-7",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Gilmer averages 14.8 PPG while holding UIL 4A-D2 District 7 opponents to 16.7 PPG (-1.9 net margin).",
+      "Postseason Readiness: 3-7 against a 70.5 SOS Index with 0 running-clock separations and a 3-7 record in one-score games."
+    ]
+  },
+  "brock": {
+    "team": "Brock",
+    "state": "TX",
+    "division": "4A-D2",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.3,
+    "avg_points_allowed": 17.1,
+    "season_net_margin": 0.2,
+    "last_3_game_margin": 5.7,
+    "momentum_trend": 5.5,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Brock averages 17.3 PPG while holding UIL 4A-D2 District 3 opponents to 17.1 PPG (+0.2 net margin).",
+      "Postseason Readiness: 5-5 against a 70.9 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "silsbee": {
+    "team": "Silsbee",
+    "state": "TX",
+    "division": "4A-D2",
+    "region": 2,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 16.8,
+    "avg_points_allowed": 20.2,
+    "season_net_margin": -3.4,
+    "last_3_game_margin": 1.3,
+    "momentum_trend": 4.7,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Silsbee averages 16.8 PPG while holding UIL 4A-D2 District 9 opponents to 20.2 PPG (-3.4 net margin).",
+      "Postseason Readiness: 3-7 against a 69.8 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "bellville": {
+    "team": "Bellville",
+    "state": "TX",
+    "division": "4A-D2",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 16.7,
+    "avg_points_allowed": 20.8,
+    "season_net_margin": -4.1,
+    "last_3_game_margin": -5.7,
+    "momentum_trend": -1.6,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Bellville averages 16.7 PPG while holding UIL 4A-D2 District 10 opponents to 20.8 PPG (-4.1 net margin).",
+      "Postseason Readiness: 4-6 against a 71.1 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "cuero": {
+    "team": "Cuero",
+    "state": "TX",
+    "division": "4A-D2",
+    "region": 4,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 19.8,
+    "avg_points_allowed": 18.2,
+    "season_net_margin": 1.6,
+    "last_3_game_margin": 4.3,
+    "momentum_trend": 2.7,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Cuero averages 19.8 PPG while holding UIL 4A-D2 District 12 opponents to 18.2 PPG (+1.6 net margin).",
+      "Postseason Readiness: 7-3 against a 69.7 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "glen rose": {
+    "team": "Glen Rose",
+    "state": "TX",
+    "division": "4A-D2",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 16.7,
+    "avg_points_allowed": 20.0,
+    "season_net_margin": -3.3,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": -0.7,
+    "close_game_record": "3-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Glen Rose averages 16.7 PPG while holding UIL 4A-D2 District 4 opponents to 20.0 PPG (-3.3 net margin).",
+      "Postseason Readiness: 4-6 against a 68.4 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+    ]
+  },
+  "sunnyvale": {
+    "team": "Sunnyvale",
+    "state": "TX",
+    "division": "4A-D2",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.7,
+    "avg_points_allowed": 17.9,
+    "season_net_margin": -0.2,
+    "last_3_game_margin": -8.7,
+    "momentum_trend": -8.5,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Sunnyvale averages 17.7 PPG while holding UIL 4A-D2 District 6 opponents to 17.9 PPG (-0.2 net margin).",
+      "Postseason Readiness: 4-6 against a 68.5 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "monahans": {
+    "team": "Monahans",
+    "state": "TX",
+    "division": "4A-D2",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 16.8,
+    "avg_points_allowed": 22.7,
+    "season_net_margin": -5.9,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": 1.9,
+    "close_game_record": "3-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Monahans averages 16.8 PPG while holding UIL 4A-D2 District 1 opponents to 22.7 PPG (-5.9 net margin).",
+      "Postseason Readiness: 4-6 against a 68.3 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+    ]
+  },
+  "sinton": {
+    "team": "Sinton",
+    "state": "TX",
+    "division": "4A-D2",
+    "region": 4,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 15.4,
+    "avg_points_allowed": 31.3,
+    "season_net_margin": -15.9,
+    "last_3_game_margin": -21.3,
+    "momentum_trend": -5.4,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Sinton averages 15.4 PPG while holding UIL 4A-D2 District 15 opponents to 31.3 PPG (-15.9 net margin).",
+      "Postseason Readiness: 2-8 against a 67.3 SOS Index with 0 running-clock separations and a 2-1 record in one-score games."
+    ]
+  },
+  "malakoff": {
+    "team": "Malakoff",
+    "state": "TX",
+    "division": "3A-D1",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 32.1,
+    "avg_points_allowed": 15.5,
+    "season_net_margin": 16.6,
+    "last_3_game_margin": 15.0,
+    "momentum_trend": -1.6,
+    "close_game_record": "4-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Malakoff averages 32.1 PPG while holding UIL 3A-D1 District 8 opponents to 15.5 PPG (+16.6 net margin).",
+      "Postseason Readiness: 10-0 against a 70.5 SOS Index with 0 running-clock separations and a 4-0 record in one-score games."
+    ]
+  },
+  "columbus": {
+    "team": "Columbus",
+    "state": "TX",
+    "division": "3A-D1",
+    "region": 2,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 32.3,
+    "avg_points_allowed": 13.8,
+    "season_net_margin": 18.5,
+    "last_3_game_margin": 15.7,
+    "momentum_trend": -2.8,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Columbus averages 32.3 PPG while holding UIL 3A-D1 District 12 opponents to 13.8 PPG (+18.5 net margin).",
+      "Postseason Readiness: 9-1 against a 70.8 SOS Index with 0 running-clock separations and a 0-1 record in one-score games."
+    ]
+  },
+  "franklin": {
+    "team": "Franklin",
+    "state": "TX",
+    "division": "3A-D1",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.7,
+    "avg_points_allowed": 20.5,
+    "season_net_margin": -2.8,
+    "last_3_game_margin": -5.7,
+    "momentum_trend": -2.9,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Franklin averages 17.7 PPG while holding UIL 3A-D1 District 11 opponents to 20.5 PPG (-2.8 net margin).",
+      "Postseason Readiness: 4-6 against a 70.1 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+    ]
+  },
+  "edna": {
+    "team": "Edna",
+    "state": "TX",
+    "division": "3A-D1",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.1,
+    "avg_points_allowed": 19.9,
+    "season_net_margin": -2.8,
+    "last_3_game_margin": -3.0,
+    "momentum_trend": -0.2,
+    "close_game_record": "3-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Edna averages 17.1 PPG while holding UIL 3A-D1 District 15 opponents to 19.9 PPG (-2.8 net margin).",
+      "Postseason Readiness: 4-6 against a 70.9 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+    ]
+  },
+  "hitchcock": {
+    "team": "Hitchcock",
+    "state": "TX",
+    "division": "3A-D1",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 19.3,
+    "avg_points_allowed": 20.0,
+    "season_net_margin": -0.7,
+    "last_3_game_margin": 3.0,
+    "momentum_trend": 3.7,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Hitchcock averages 19.3 PPG while holding UIL 3A-D1 District 12 opponents to 20.0 PPG (-0.7 net margin).",
+      "Postseason Readiness: 4-6 against a 70.9 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "winnsboro": {
+    "team": "Winnsboro",
+    "state": "TX",
+    "division": "3A-D1",
+    "region": 2,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 19.5,
+    "avg_points_allowed": 19.4,
+    "season_net_margin": 0.1,
+    "last_3_game_margin": -1.3,
+    "momentum_trend": -1.4,
+    "close_game_record": "5-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Winnsboro averages 19.5 PPG while holding UIL 3A-D1 District 5 opponents to 19.4 PPG (+0.1 net margin).",
+      "Postseason Readiness: 6-4 against a 70.4 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+    ]
+  },
+  "goliad": {
+    "team": "Goliad",
+    "state": "TX",
+    "division": "3A-D1",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 20.9,
+    "avg_points_allowed": 23.9,
+    "season_net_margin": -3.0,
+    "last_3_game_margin": 1.7,
+    "momentum_trend": 4.7,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Goliad averages 20.9 PPG while holding UIL 3A-D1 District 15 opponents to 23.9 PPG (-3.0 net margin).",
+      "Postseason Readiness: 4-6 against a 68.6 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "lorena": {
+    "team": "Lorena",
+    "state": "TX",
+    "division": "3A-D1",
+    "region": 4,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 19.3,
+    "avg_points_allowed": 24.8,
+    "season_net_margin": -5.5,
+    "last_3_game_margin": -3.3,
+    "momentum_trend": 2.2,
+    "close_game_record": "1-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lorena averages 19.3 PPG while holding UIL 3A-D1 District 11 opponents to 24.8 PPG (-5.5 net margin).",
+      "Postseason Readiness: 2-8 against a 67.6 SOS Index with 0 running-clock separations and a 1-6 record in one-score games."
+    ]
+  },
+  "shallowater": {
+    "team": "Shallowater",
+    "state": "TX",
+    "division": "3A-D1",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 20.6,
+    "avg_points_allowed": 21.6,
+    "season_net_margin": -1.0,
+    "last_3_game_margin": 1.7,
+    "momentum_trend": 2.7,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Shallowater averages 20.6 PPG while holding UIL 3A-D1 District 2 opponents to 21.6 PPG (-1.0 net margin).",
+      "Postseason Readiness: 6-4 against a 69.5 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "paradise": {
+    "team": "Paradise",
+    "state": "TX",
+    "division": "3A-D1",
+    "region": 2,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 12.5,
+    "avg_points_allowed": 31.9,
+    "season_net_margin": -19.4,
+    "last_3_game_margin": -23.7,
+    "momentum_trend": -4.3,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Paradise averages 12.5 PPG while holding UIL 3A-D1 District 4 opponents to 31.9 PPG (-19.4 net margin).",
+      "Postseason Readiness: 1-9 against a 69.5 SOS Index with 0 running-clock separations and a 1-1 record in one-score games."
+    ]
+  },
+  "gunter": {
+    "team": "Gunter",
+    "state": "TX",
+    "division": "3A-D2",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 35.9,
+    "avg_points_allowed": 15.0,
+    "season_net_margin": 20.9,
+    "last_3_game_margin": 18.3,
+    "momentum_trend": -2.6,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Gunter averages 35.9 PPG while holding UIL 3A-D2 District 9 opponents to 15.0 PPG (+20.9 net margin).",
+      "Postseason Readiness: 10-0 against a 69.8 SOS Index with 0 running-clock separations and a 1-0 record in one-score games."
+    ]
+  },
+  "tidehaven": {
+    "team": "Tidehaven",
+    "state": "TX",
+    "division": "3A-D2",
+    "region": 2,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 32.3,
+    "avg_points_allowed": 16.3,
+    "season_net_margin": 16.0,
+    "last_3_game_margin": 14.0,
+    "momentum_trend": -2.0,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Tidehaven averages 32.3 PPG while holding UIL 3A-D2 District 14 opponents to 16.3 PPG (+16.0 net margin).",
+      "Postseason Readiness: 9-1 against a 71.2 SOS Index with 0 running-clock separations and a 2-1 record in one-score games."
+    ]
+  },
+  "poth": {
+    "team": "Poth",
+    "state": "TX",
+    "division": "3A-D2",
+    "region": 3,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 18.8,
+    "avg_points_allowed": 26.5,
+    "season_net_margin": -7.7,
+    "last_3_game_margin": -9.7,
+    "momentum_trend": -2.0,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Poth averages 18.8 PPG while holding UIL 3A-D2 District 15 opponents to 26.5 PPG (-7.7 net margin).",
+      "Postseason Readiness: 2-8 against a 68.6 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+    ]
+  },
+  "daingerfield": {
+    "team": "Daingerfield",
+    "state": "TX",
+    "division": "3A-D2",
+    "region": 4,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 22.7,
+    "avg_points_allowed": 20.1,
+    "season_net_margin": 2.6,
+    "last_3_game_margin": 6.0,
+    "momentum_trend": 3.4,
+    "close_game_record": "4-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Daingerfield averages 22.7 PPG while holding UIL 3A-D2 District 11 opponents to 20.1 PPG (+2.6 net margin).",
+      "Postseason Readiness: 7-3 against a 70.6 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+    ]
+  },
+  "canadian": {
+    "team": "Canadian",
+    "state": "TX",
+    "division": "3A-D2",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 17.2,
+    "avg_points_allowed": 21.4,
+    "season_net_margin": -4.2,
+    "last_3_game_margin": -6.3,
+    "momentum_trend": -2.1,
+    "close_game_record": "1-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Canadian averages 17.2 PPG while holding UIL 3A-D2 District 1 opponents to 21.4 PPG (-4.2 net margin).",
+      "Postseason Readiness: 3-7 against a 69.7 SOS Index with 0 running-clock separations and a 1-4 record in one-score games."
+    ]
+  },
+  "lexington": {
+    "team": "Lexington",
+    "state": "TX",
+    "division": "3A-D2",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 16.9,
+    "avg_points_allowed": 20.7,
+    "season_net_margin": -3.8,
+    "last_3_game_margin": 1.0,
+    "momentum_trend": 4.8,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lexington averages 16.9 PPG while holding UIL 3A-D2 District 13 opponents to 20.7 PPG (-3.8 net margin).",
+      "Postseason Readiness: 4-6 against a 68.2 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "wall": {
+    "team": "Wall",
+    "state": "TX",
+    "division": "3A-D2",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.5,
+    "avg_points_allowed": 18.1,
+    "season_net_margin": -0.6,
+    "last_3_game_margin": -2.3,
+    "momentum_trend": -1.7,
+    "close_game_record": "4-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Wall averages 17.5 PPG while holding UIL 3A-D2 District 4 opponents to 18.1 PPG (-0.6 net margin).",
+      "Postseason Readiness: 5-5 against a 68.0 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+    ]
+  },
+  "jacksboro": {
+    "team": "Jacksboro",
+    "state": "TX",
+    "division": "3A-D2",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 18.8,
+    "avg_points_allowed": 21.8,
+    "season_net_margin": -3.0,
+    "last_3_game_margin": 14.7,
+    "momentum_trend": 17.7,
+    "close_game_record": "0-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Jacksboro averages 18.8 PPG while holding UIL 3A-D2 District 5 opponents to 21.8 PPG (-3.0 net margin).",
+      "Postseason Readiness: 3-7 against a 66.4 SOS Index with 0 running-clock separations and a 0-4 record in one-score games."
+    ]
+  },
+  "hooks": {
+    "team": "Hooks",
+    "state": "TX",
+    "division": "3A-D2",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 20.3,
+    "avg_points_allowed": 22.1,
+    "season_net_margin": -1.8,
+    "last_3_game_margin": -7.7,
+    "momentum_trend": -5.9,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Hooks averages 20.3 PPG while holding UIL 3A-D2 District 11 opponents to 22.1 PPG (-1.8 net margin).",
+      "Postseason Readiness: 6-4 against a 66.1 SOS Index with 0 running-clock separations and a 3-0 record in one-score games."
+    ]
+  },
+  "blanco": {
+    "team": "Blanco",
+    "state": "TX",
+    "division": "3A-D2",
+    "region": 2,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 14.9,
+    "avg_points_allowed": 33.3,
+    "season_net_margin": -18.4,
+    "last_3_game_margin": -28.0,
+    "momentum_trend": -9.6,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Blanco averages 14.9 PPG while holding UIL 3A-D2 District 13 opponents to 33.3 PPG (-18.4 net margin).",
+      "Postseason Readiness: 1-9 against a 66.8 SOS Index with 0 running-clock separations and a 0-1 record in one-score games."
+    ]
+  },
+  "timpson": {
+    "team": "Timpson",
+    "state": "TX",
+    "division": "2A-D1",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 32.7,
+    "avg_points_allowed": 13.2,
+    "season_net_margin": 19.5,
+    "last_3_game_margin": 15.3,
+    "momentum_trend": -4.2,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Timpson averages 32.7 PPG while holding UIL 2A-D1 District 11 opponents to 13.2 PPG (+19.5 net margin).",
+      "Postseason Readiness: 10-0 against a 68.6 SOS Index with 0 running-clock separations and a 0-0 record in one-score games."
+    ]
+  },
+  "refugio": {
+    "team": "Refugio",
+    "state": "TX",
+    "division": "2A-D1",
+    "region": 2,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 30.6,
+    "avg_points_allowed": 14.6,
+    "season_net_margin": 16.0,
+    "last_3_game_margin": 7.0,
+    "momentum_trend": -9.0,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Refugio averages 30.6 PPG while holding UIL 2A-D1 District 15 opponents to 14.6 PPG (+16.0 net margin).",
+      "Postseason Readiness: 9-1 against a 68.5 SOS Index with 0 running-clock separations and a 2-0 record in one-score games."
+    ]
+  },
+  "ganado": {
+    "team": "Ganado",
+    "state": "TX",
+    "division": "2A-D1",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 19.7,
+    "avg_points_allowed": 21.1,
+    "season_net_margin": -1.4,
+    "last_3_game_margin": -2.7,
+    "momentum_trend": -1.3,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Ganado averages 19.7 PPG while holding UIL 2A-D1 District 15 opponents to 21.1 PPG (-1.4 net margin).",
+      "Postseason Readiness: 4-6 against a 67.9 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+    ]
+  },
+  "stamford": {
+    "team": "Stamford",
+    "state": "TX",
+    "division": "2A-D1",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 19.1,
+    "avg_points_allowed": 23.5,
+    "season_net_margin": -4.4,
+    "last_3_game_margin": 1.7,
+    "momentum_trend": 6.1,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Stamford averages 19.1 PPG while holding UIL 2A-D1 District 4 opponents to 23.5 PPG (-4.4 net margin).",
+      "Postseason Readiness: 3-7 against a 67.6 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+    ]
+  },
+  "hawley": {
+    "team": "Hawley",
+    "state": "TX",
+    "division": "2A-D1",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 18.1,
+    "avg_points_allowed": 17.4,
+    "season_net_margin": 0.7,
+    "last_3_game_margin": -2.3,
+    "momentum_trend": -3.0,
+    "close_game_record": "3-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Hawley averages 18.1 PPG while holding UIL 2A-D1 District 4 opponents to 17.4 PPG (+0.7 net margin).",
+      "Postseason Readiness: 6-4 against a 66.3 SOS Index with 0 running-clock separations and a 3-1 record in one-score games."
+    ]
+  },
+  "mason": {
+    "team": "Mason",
+    "state": "TX",
+    "division": "2A-D1",
+    "region": 2,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 16.1,
+    "avg_points_allowed": 20.8,
+    "season_net_margin": -4.7,
+    "last_3_game_margin": -7.0,
+    "momentum_trend": -2.3,
+    "close_game_record": "0-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Mason averages 16.1 PPG while holding UIL 2A-D1 District 14 opponents to 20.8 PPG (-4.7 net margin).",
+      "Postseason Readiness: 2-8 against a 68.0 SOS Index with 0 running-clock separations and a 0-4 record in one-score games."
+    ]
+  },
+  "tolar": {
+    "team": "Tolar",
+    "state": "TX",
+    "division": "2A-D1",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.0,
+    "avg_points_allowed": 23.4,
+    "season_net_margin": -4.4,
+    "last_3_game_margin": 5.0,
+    "momentum_trend": 9.4,
+    "close_game_record": "5-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Tolar averages 19.0 PPG while holding UIL 2A-D1 District 5 opponents to 23.4 PPG (-4.4 net margin).",
+      "Postseason Readiness: 5-5 against a 65.7 SOS Index with 0 running-clock separations and a 5-1 record in one-score games."
+    ]
+  },
+  "stratford": {
+    "team": "Stratford",
+    "state": "TX",
+    "division": "2A-D1",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 16.0,
+    "avg_points_allowed": 19.2,
+    "season_net_margin": -3.2,
+    "last_3_game_margin": -2.7,
+    "momentum_trend": 0.5,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Stratford averages 16.0 PPG while holding UIL 2A-D1 District 1 opponents to 19.2 PPG (-3.2 net margin).",
+      "Postseason Readiness: 5-5 against a 65.9 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "garrison": {
+    "team": "Garrison",
+    "state": "TX",
+    "division": "2A-D1",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.0,
+    "avg_points_allowed": 17.9,
+    "season_net_margin": -0.9,
+    "last_3_game_margin": 3.3,
+    "momentum_trend": 4.2,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Garrison averages 17.0 PPG while holding UIL 2A-D1 District 11 opponents to 17.9 PPG (-0.9 net margin).",
+      "Postseason Readiness: 5-5 against a 66.4 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "honey grove": {
+    "team": "Honey Grove",
+    "state": "TX",
+    "division": "2A-D1",
+    "region": 2,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 14.1,
+    "avg_points_allowed": 31.3,
+    "season_net_margin": -17.2,
+    "last_3_game_margin": -17.7,
+    "momentum_trend": -0.5,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Honey Grove averages 14.1 PPG while holding UIL 2A-D1 District 9 opponents to 31.3 PPG (-17.2 net margin).",
+      "Postseason Readiness: 1-9 against a 65.0 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+    ]
+  },
+  "mart": {
+    "team": "Mart",
+    "state": "TX",
+    "division": "2A-D2",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 33.3,
+    "avg_points_allowed": 16.5,
+    "season_net_margin": 16.8,
+    "last_3_game_margin": 17.3,
+    "momentum_trend": 0.5,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Mart averages 33.3 PPG while holding UIL 2A-D2 District 10 opponents to 16.5 PPG (+16.8 net margin).",
+      "Postseason Readiness: 10-0 against a 67.2 SOS Index with 0 running-clock separations and a 2-0 record in one-score games."
+    ]
+  },
+  "shiner": {
+    "team": "Shiner",
+    "state": "TX",
+    "division": "2A-D2",
+    "region": 2,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 29.7,
+    "avg_points_allowed": 15.3,
+    "season_net_margin": 14.4,
+    "last_3_game_margin": 7.3,
+    "momentum_trend": -7.1,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Shiner averages 29.7 PPG while holding UIL 2A-D2 District 15 opponents to 15.3 PPG (+14.4 net margin).",
+      "Postseason Readiness: 7-3 against a 67.0 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+    ]
+  },
+  "lovelady": {
+    "team": "Lovelady",
+    "state": "TX",
+    "division": "2A-D2",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.5,
+    "avg_points_allowed": 19.4,
+    "season_net_margin": 0.1,
+    "last_3_game_margin": 0.7,
+    "momentum_trend": 0.6,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lovelady averages 19.5 PPG while holding UIL 2A-D2 District 12 opponents to 19.4 PPG (+0.1 net margin).",
+      "Postseason Readiness: 5-5 against a 67.8 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "muenster": {
+    "team": "Muenster",
+    "state": "TX",
+    "division": "2A-D2",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 18.1,
+    "avg_points_allowed": 21.9,
+    "season_net_margin": -3.8,
+    "last_3_game_margin": 3.3,
+    "momentum_trend": 7.1,
+    "close_game_record": "2-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Muenster averages 18.1 PPG while holding UIL 2A-D2 District 8 opponents to 21.9 PPG (-3.8 net margin).",
+      "Postseason Readiness: 3-7 against a 66.3 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+    ]
+  },
+  "bremond": {
+    "team": "Bremond",
+    "state": "TX",
+    "division": "2A-D2",
+    "region": 1,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 23.8,
+    "avg_points_allowed": 20.0,
+    "season_net_margin": 3.8,
+    "last_3_game_margin": -3.0,
+    "momentum_trend": -6.8,
+    "close_game_record": "4-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Bremond averages 23.8 PPG while holding UIL 2A-D2 District 10 opponents to 20.0 PPG (+3.8 net margin).",
+      "Postseason Readiness: 7-3 against a 66.8 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+    ]
+  },
+  "albany": {
+    "team": "Albany",
+    "state": "TX",
+    "division": "2A-D2",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 18.1,
+    "avg_points_allowed": 21.2,
+    "season_net_margin": -3.1,
+    "last_3_game_margin": 6.7,
+    "momentum_trend": 9.8,
+    "close_game_record": "3-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Albany averages 18.1 PPG while holding UIL 2A-D2 District 6 opponents to 21.2 PPG (-3.1 net margin).",
+      "Postseason Readiness: 4-6 against a 65.9 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+    ]
+  },
+  "collinsville": {
+    "team": "Collinsville",
+    "state": "TX",
+    "division": "2A-D2",
+    "region": 3,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 14.9,
+    "avg_points_allowed": 18.9,
+    "season_net_margin": -4.0,
+    "last_3_game_margin": -8.3,
+    "momentum_trend": -4.3,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Collinsville averages 14.9 PPG while holding UIL 2A-D2 District 8 opponents to 18.9 PPG (-4.0 net margin).",
+      "Postseason Readiness: 3-7 against a 67.0 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "wellington": {
+    "team": "Wellington",
+    "state": "TX",
+    "division": "2A-D2",
+    "region": 4,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 19.7,
+    "avg_points_allowed": 20.7,
+    "season_net_margin": -1.0,
+    "last_3_game_margin": 3.7,
+    "momentum_trend": 4.7,
+    "close_game_record": "4-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Wellington averages 19.7 PPG while holding UIL 2A-D2 District 5 opponents to 20.7 PPG (-1.0 net margin).",
+      "Postseason Readiness: 6-4 against a 66.2 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+    ]
+  },
+  "gruver": {
+    "team": "Gruver",
+    "state": "TX",
+    "division": "2A-D2",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 18.3,
+    "avg_points_allowed": 20.2,
+    "season_net_margin": -1.9,
+    "last_3_game_margin": 0.3,
+    "momentum_trend": 2.2,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Gruver averages 18.3 PPG while holding UIL 2A-D2 District 3 opponents to 20.2 PPG (-1.9 net margin).",
+      "Postseason Readiness: 5-5 against a 64.6 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "wink": {
+    "team": "wink",
+    "state": "TX",
+    "division": "2A-D2",
+    "region": 2,
+    "record": "0-10",
+    "games_played": 10,
+    "avg_points_scored": 12.5,
+    "avg_points_allowed": 33.8,
+    "season_net_margin": -21.3,
+    "last_3_game_margin": -28.0,
+    "momentum_trend": -6.7,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: wink averages 12.5 PPG while holding UIL 2A-D2 District 4 opponents to 33.8 PPG (-21.3 net margin).",
+      "Postseason Readiness: 0-10 against a 63.8 SOS Index with 0 running-clock separations and a 0-2 record in one-score games."
+    ]
+  }
+}

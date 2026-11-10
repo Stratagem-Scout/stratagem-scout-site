@@ -1,0 +1,2966 @@
+{
+  "state": "AL",
+  "season": 2026,
+  "dossiers": {
+    "central-phenix city": {
+      "team": "Central-Phenix City",
+      "state": "AL",
+      "division": "7A",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 36.0,
+      "avg_points_allowed": 13.6,
+      "season_net_margin": 22.4,
+      "last_3_game_margin": 30.7,
+      "momentum_trend": 8.3,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Central-Phenix City averages 36.0 PPG while holding AHSAA 7A Region 2 opponents to 13.6 PPG (+22.4 net margin).",
+        "Postseason Readiness: 10-0 against a 73.7 SOS Index with 2 running-clock separations and a 1-0 record in one-score games."
+      ]
+    },
+    "thompson": {
+      "team": "Thompson",
+      "state": "AL",
+      "division": "7A",
+      "region": 2,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 30.1,
+      "avg_points_allowed": 14.9,
+      "season_net_margin": 15.2,
+      "last_3_game_margin": 12.0,
+      "momentum_trend": -3.2,
+      "close_game_record": "3-0",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Thompson averages 30.1 PPG while holding AHSAA 7A Region 3 opponents to 14.9 PPG (+15.2 net margin).",
+        "Postseason Readiness: 10-0 against a 73.3 SOS Index with 1 running-clock separations and a 3-0 record in one-score games."
+      ]
+    },
+    "auburn": {
+      "team": "Auburn",
+      "state": "AL",
+      "division": "7A",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.7,
+      "avg_points_allowed": 20.1,
+      "season_net_margin": -2.4,
+      "last_3_game_margin": -2.0,
+      "momentum_trend": 0.4,
+      "close_game_record": "1-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Auburn averages 17.7 PPG while holding AHSAA 7A Region 2 opponents to 20.1 PPG (-2.4 net margin).",
+        "Postseason Readiness: 4-6 against a 72.5 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+      ]
+    },
+    "hoover": {
+      "team": "Hoover",
+      "state": "AL",
+      "division": "7A",
+      "region": 4,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 15.6,
+      "avg_points_allowed": 19.7,
+      "season_net_margin": -4.1,
+      "last_3_game_margin": -2.7,
+      "momentum_trend": 1.4,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Hoover averages 15.6 PPG while holding AHSAA 7A Region 3 opponents to 19.7 PPG (-4.1 net margin).",
+        "Postseason Readiness: 3-7 against a 73.4 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "enterprise": {
+      "team": "Enterprise",
+      "state": "AL",
+      "division": "7A",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 15.4,
+      "avg_points_allowed": 18.3,
+      "season_net_margin": -2.9,
+      "last_3_game_margin": -4.0,
+      "momentum_trend": -1.1,
+      "close_game_record": "4-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Enterprise averages 15.4 PPG while holding AHSAA 7A Region 2 opponents to 18.3 PPG (-2.9 net margin).",
+        "Postseason Readiness: 4-6 against a 73.2 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+      ]
+    },
+    "hewitt-trussville": {
+      "team": "Hewitt-Trussville",
+      "state": "AL",
+      "division": "7A",
+      "region": 2,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 16.6,
+      "avg_points_allowed": 17.8,
+      "season_net_margin": -1.2,
+      "last_3_game_margin": 3.3,
+      "momentum_trend": 4.5,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Hewitt-Trussville averages 16.6 PPG while holding AHSAA 7A Region 3 opponents to 17.8 PPG (-1.2 net margin).",
+        "Postseason Readiness: 5-5 against a 72.7 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "vestavia hills": {
+      "team": "Vestavia Hills",
+      "state": "AL",
+      "division": "7A",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.3,
+      "avg_points_allowed": 18.6,
+      "season_net_margin": -1.3,
+      "last_3_game_margin": 3.0,
+      "momentum_trend": 4.3,
+      "close_game_record": "1-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Vestavia Hills averages 17.3 PPG while holding AHSAA 7A Region 3 opponents to 18.6 PPG (-1.3 net margin).",
+        "Postseason Readiness: 4-6 against a 72.0 SOS Index with 0 running-clock separations and a 1-5 record in one-score games."
+      ]
+    },
+    "mary g. montgomery": {
+      "team": "Mary G. Montgomery",
+      "state": "AL",
+      "division": "7A",
+      "region": 4,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 18.3,
+      "avg_points_allowed": 19.9,
+      "season_net_margin": -1.6,
+      "last_3_game_margin": -4.0,
+      "momentum_trend": -2.4,
+      "close_game_record": "4-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Mary G. Montgomery averages 18.3 PPG while holding AHSAA 7A Region 1 opponents to 19.9 PPG (-1.6 net margin).",
+        "Postseason Readiness: 6-4 against a 71.9 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+      ]
+    },
+    "baker": {
+      "team": "Baker",
+      "state": "AL",
+      "division": "7A",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.5,
+      "avg_points_allowed": 20.3,
+      "season_net_margin": -2.8,
+      "last_3_game_margin": 1.7,
+      "momentum_trend": 4.5,
+      "close_game_record": "3-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Baker averages 17.5 PPG while holding AHSAA 7A Region 1 opponents to 20.3 PPG (-2.8 net margin).",
+        "Postseason Readiness: 4-6 against a 70.6 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+      ]
+    },
+    "austin": {
+      "team": "Austin",
+      "state": "AL",
+      "division": "7A",
+      "region": 2,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 18.5,
+      "avg_points_allowed": 18.9,
+      "season_net_margin": -0.4,
+      "last_3_game_margin": -9.0,
+      "momentum_trend": -8.6,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Austin averages 18.5 PPG while holding AHSAA 7A Region 4 opponents to 18.9 PPG (-0.4 net margin).",
+        "Postseason Readiness: 5-5 against a 72.5 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "florence": {
+      "team": "Florence",
+      "state": "AL",
+      "division": "7A",
+      "region": 3,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 12.6,
+      "avg_points_allowed": 21.2,
+      "season_net_margin": -8.6,
+      "last_3_game_margin": -12.7,
+      "momentum_trend": -4.1,
+      "close_game_record": "1-7",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Florence averages 12.6 PPG while holding AHSAA 7A Region 4 opponents to 21.2 PPG (-8.6 net margin).",
+        "Postseason Readiness: 1-9 against a 72.1 SOS Index with 0 running-clock separations and a 1-7 record in one-score games."
+      ]
+    },
+    "dothan": {
+      "team": "Dothan",
+      "state": "AL",
+      "division": "7A",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 15.7,
+      "avg_points_allowed": 28.0,
+      "season_net_margin": -12.3,
+      "last_3_game_margin": -16.3,
+      "momentum_trend": -4.0,
+      "close_game_record": "4-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Dothan averages 15.7 PPG while holding AHSAA 7A Region 2 opponents to 28.0 PPG (-12.3 net margin).",
+        "Postseason Readiness: 4-6 against a 71.7 SOS Index with 0 running-clock separations and a 4-0 record in one-score games."
+      ]
+    },
+    "saraland": {
+      "team": "Saraland",
+      "state": "AL",
+      "division": "6A",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 34.6,
+      "avg_points_allowed": 13.7,
+      "season_net_margin": 20.9,
+      "last_3_game_margin": 38.0,
+      "momentum_trend": 17.1,
+      "close_game_record": "3-0",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Saraland averages 34.6 PPG while holding AHSAA 6A Region 1 opponents to 13.7 PPG (+20.9 net margin).",
+        "Postseason Readiness: 10-0 against a 74.4 SOS Index with 2 running-clock separations and a 3-0 record in one-score games."
+      ]
+    },
+    "parker": {
+      "team": "Parker",
+      "state": "AL",
+      "division": "6A",
+      "region": 2,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 35.5,
+      "avg_points_allowed": 17.0,
+      "season_net_margin": 18.5,
+      "last_3_game_margin": 17.0,
+      "momentum_trend": -1.5,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Parker averages 35.5 PPG while holding AHSAA 6A Region 5 opponents to 17.0 PPG (+18.5 net margin).",
+        "Postseason Readiness: 8-2 against a 73.4 SOS Index with 2 running-clock separations and a 1-2 record in one-score games."
+      ]
+    },
+    "clay-chalkville": {
+      "team": "Clay-Chalkville",
+      "state": "AL",
+      "division": "6A",
+      "region": 3,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 19.9,
+      "avg_points_allowed": 22.4,
+      "season_net_margin": -2.5,
+      "last_3_game_margin": -4.7,
+      "momentum_trend": -2.2,
+      "close_game_record": "6-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Clay-Chalkville averages 19.9 PPG while holding AHSAA 6A Region 6 opponents to 22.4 PPG (-2.5 net margin).",
+        "Postseason Readiness: 6-4 against a 71.4 SOS Index with 0 running-clock separations and a 6-2 record in one-score games."
+      ]
+    },
+    "muscle shoals": {
+      "team": "Muscle Shoals",
+      "state": "AL",
+      "division": "6A",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.2,
+      "avg_points_allowed": 17.1,
+      "season_net_margin": 0.1,
+      "last_3_game_margin": 5.3,
+      "momentum_trend": 5.2,
+      "close_game_record": "3-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Muscle Shoals averages 17.2 PPG while holding AHSAA 6A Region 7 opponents to 17.1 PPG (+0.1 net margin).",
+        "Postseason Readiness: 4-6 against a 72.6 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+      ]
+    },
+    "oxford": {
+      "team": "Oxford",
+      "state": "AL",
+      "division": "6A",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 16.9,
+      "avg_points_allowed": 18.7,
+      "season_net_margin": -1.8,
+      "last_3_game_margin": -7.7,
+      "momentum_trend": -5.9,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Oxford averages 16.9 PPG while holding AHSAA 6A Region 6 opponents to 18.7 PPG (-1.8 net margin).",
+        "Postseason Readiness: 4-6 against a 72.9 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "spain park": {
+      "team": "Spain Park",
+      "state": "AL",
+      "division": "6A",
+      "region": 2,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 18.3,
+      "avg_points_allowed": 18.8,
+      "season_net_margin": -0.5,
+      "last_3_game_margin": 5.7,
+      "momentum_trend": 6.2,
+      "close_game_record": "3-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Spain Park averages 18.3 PPG while holding AHSAA 6A Region 3 opponents to 18.8 PPG (-0.5 net margin).",
+        "Postseason Readiness: 5-5 against a 71.8 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+      ]
+    },
+    "pike road": {
+      "team": "Pike Road",
+      "state": "AL",
+      "division": "6A",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 19.4,
+      "avg_points_allowed": 21.0,
+      "season_net_margin": -1.6,
+      "last_3_game_margin": -7.0,
+      "momentum_trend": -5.4,
+      "close_game_record": "1-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Pike Road averages 19.4 PPG while holding AHSAA 6A Region 2 opponents to 21.0 PPG (-1.6 net margin).",
+        "Postseason Readiness: 4-6 against a 72.5 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+      ]
+    },
+    "mountain brook": {
+      "team": "Mountain Brook",
+      "state": "AL",
+      "division": "6A",
+      "region": 4,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 18.8,
+      "avg_points_allowed": 20.1,
+      "season_net_margin": -1.3,
+      "last_3_game_margin": 4.7,
+      "momentum_trend": 6.0,
+      "close_game_record": "6-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Mountain Brook averages 18.8 PPG while holding AHSAA 6A Region 5 opponents to 20.1 PPG (-1.3 net margin).",
+        "Postseason Readiness: 6-4 against a 70.3 SOS Index with 0 running-clock separations and a 6-1 record in one-score games."
+      ]
+    },
+    "spanish fort": {
+      "team": "Spanish Fort",
+      "state": "AL",
+      "division": "6A",
+      "region": 1,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 20.0,
+      "avg_points_allowed": 22.7,
+      "season_net_margin": -2.7,
+      "last_3_game_margin": -3.3,
+      "momentum_trend": -0.6,
+      "close_game_record": "2-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Spanish Fort averages 20.0 PPG while holding AHSAA 6A Region 1 opponents to 22.7 PPG (-2.7 net margin).",
+        "Postseason Readiness: 3-7 against a 71.8 SOS Index with 0 running-clock separations and a 2-6 record in one-score games."
+      ]
+    },
+    "hartselle": {
+      "team": "Hartselle",
+      "state": "AL",
+      "division": "6A",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 18.2,
+      "avg_points_allowed": 23.2,
+      "season_net_margin": -5.0,
+      "last_3_game_margin": -12.0,
+      "momentum_trend": -7.0,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Hartselle averages 18.2 PPG while holding AHSAA 6A Region 7 opponents to 23.2 PPG (-5.0 net margin).",
+        "Postseason Readiness: 4-6 against a 71.0 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "fort payne": {
+      "team": "Fort Payne",
+      "state": "AL",
+      "division": "6A",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 23.5,
+      "avg_points_allowed": 22.8,
+      "season_net_margin": 0.7,
+      "last_3_game_margin": -2.3,
+      "momentum_trend": -3.0,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Fort Payne averages 23.5 PPG while holding AHSAA 6A Region 8 opponents to 22.8 PPG (+0.7 net margin).",
+        "Postseason Readiness: 5-5 against a 68.9 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "wetumpka": {
+      "team": "Wetumpka",
+      "state": "AL",
+      "division": "6A",
+      "region": 4,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 16.5,
+      "avg_points_allowed": 41.3,
+      "season_net_margin": -24.8,
+      "last_3_game_margin": -33.7,
+      "momentum_trend": -8.9,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Wetumpka averages 16.5 PPG while holding AHSAA 6A Region 2 opponents to 41.3 PPG (-24.8 net margin).",
+        "Postseason Readiness: 1-9 against a 68.1 SOS Index with 0 running-clock separations and a 1-0 record in one-score games."
+      ]
+    },
+    "catholic-montgomery": {
+      "team": "Catholic-Montgomery",
+      "state": "AL",
+      "division": "5A",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 34.4,
+      "avg_points_allowed": 15.5,
+      "season_net_margin": 18.9,
+      "last_3_game_margin": 17.7,
+      "momentum_trend": -1.2,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Catholic-Montgomery averages 34.4 PPG while holding AHSAA 5A Region 2 opponents to 15.5 PPG (+18.9 net margin).",
+        "Postseason Readiness: 10-0 against a 70.8 SOS Index with 1 running-clock separations and a 2-0 record in one-score games."
+      ]
+    },
+    "vigor": {
+      "team": "Vigor",
+      "state": "AL",
+      "division": "5A",
+      "region": 2,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 28.5,
+      "avg_points_allowed": 13.5,
+      "season_net_margin": 15.0,
+      "last_3_game_margin": 6.3,
+      "momentum_trend": -8.7,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Vigor averages 28.5 PPG while holding AHSAA 5A Region 1 opponents to 13.5 PPG (+15.0 net margin).",
+        "Postseason Readiness: 8-2 against a 71.3 SOS Index with 1 running-clock separations and a 1-2 record in one-score games."
+      ]
+    },
+    "moody": {
+      "team": "Moody",
+      "state": "AL",
+      "division": "5A",
+      "region": 3,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 16.8,
+      "avg_points_allowed": 21.1,
+      "season_net_margin": -4.3,
+      "last_3_game_margin": -2.3,
+      "momentum_trend": 2.0,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Moody averages 16.8 PPG while holding AHSAA 5A Region 6 opponents to 21.1 PPG (-4.3 net margin).",
+        "Postseason Readiness: 3-7 against a 72.7 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "ramsay": {
+      "team": "Ramsay",
+      "state": "AL",
+      "division": "5A",
+      "region": 4,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 18.3,
+      "avg_points_allowed": 17.5,
+      "season_net_margin": 0.8,
+      "last_3_game_margin": 1.0,
+      "momentum_trend": 0.2,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Ramsay averages 18.3 PPG while holding AHSAA 5A Region 5 opponents to 17.5 PPG (+0.8 net margin).",
+        "Postseason Readiness: 6-4 against a 71.6 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "williamson": {
+      "team": "Williamson",
+      "state": "AL",
+      "division": "5A",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.0,
+      "avg_points_allowed": 17.9,
+      "season_net_margin": -0.9,
+      "last_3_game_margin": 2.0,
+      "momentum_trend": 2.9,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Williamson averages 17.0 PPG while holding AHSAA 5A Region 1 opponents to 17.9 PPG (-0.9 net margin).",
+        "Postseason Readiness: 5-5 against a 71.0 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "leeds": {
+      "team": "Leeds",
+      "state": "AL",
+      "division": "5A",
+      "region": 2,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.8,
+      "avg_points_allowed": 18.2,
+      "season_net_margin": -0.4,
+      "last_3_game_margin": -1.0,
+      "momentum_trend": -0.6,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Leeds averages 17.8 PPG while holding AHSAA 5A Region 6 opponents to 18.2 PPG (-0.4 net margin).",
+        "Postseason Readiness: 5-5 against a 71.7 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "corner": {
+      "team": "Corner",
+      "state": "AL",
+      "division": "5A",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 19.2,
+      "avg_points_allowed": 22.6,
+      "season_net_margin": -3.4,
+      "last_3_game_margin": -4.0,
+      "momentum_trend": -0.6,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Corner averages 19.2 PPG while holding AHSAA 5A Region 5 opponents to 22.6 PPG (-3.4 net margin).",
+        "Postseason Readiness: 4-6 against a 69.0 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "fairview": {
+      "team": "Fairview",
+      "state": "AL",
+      "division": "5A",
+      "region": 4,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 19.3,
+      "avg_points_allowed": 23.5,
+      "season_net_margin": -4.2,
+      "last_3_game_margin": 2.0,
+      "momentum_trend": 6.2,
+      "close_game_record": "0-6",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Fairview averages 19.3 PPG while holding AHSAA 5A Region 7 opponents to 23.5 PPG (-4.2 net margin).",
+        "Postseason Readiness: 2-8 against a 71.1 SOS Index with 0 running-clock separations and a 0-6 record in one-score games."
+      ]
+    },
+    "demopolis": {
+      "team": "Demopolis",
+      "state": "AL",
+      "division": "5A",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.6,
+      "avg_points_allowed": 20.6,
+      "season_net_margin": -3.0,
+      "last_3_game_margin": -3.0,
+      "momentum_trend": 0.0,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Demopolis averages 17.6 PPG while holding AHSAA 5A Region 3 opponents to 20.6 PPG (-3.0 net margin).",
+        "Postseason Readiness: 5-5 against a 68.5 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "andalusia": {
+      "team": "Andalusia",
+      "state": "AL",
+      "division": "5A",
+      "region": 2,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 13.6,
+      "avg_points_allowed": 32.1,
+      "season_net_margin": -18.5,
+      "last_3_game_margin": -18.7,
+      "momentum_trend": -0.2,
+      "close_game_record": "2-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Andalusia averages 13.6 PPG while holding AHSAA 5A Region 2 opponents to 32.1 PPG (-18.5 net margin).",
+        "Postseason Readiness: 2-8 against a 70.3 SOS Index with 0 running-clock separations and a 2-1 record in one-score games."
+      ]
+    },
+    "jackson": {
+      "team": "Jackson",
+      "state": "AL",
+      "division": "4A",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 33.2,
+      "avg_points_allowed": 17.4,
+      "season_net_margin": 15.8,
+      "last_3_game_margin": 18.0,
+      "momentum_trend": 2.2,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Jackson averages 33.2 PPG while holding AHSAA 4A Region 1 opponents to 17.4 PPG (+15.8 net margin).",
+        "Postseason Readiness: 10-0 against a 71.5 SOS Index with 0 running-clock separations and a 2-0 record in one-score games."
+      ]
+    },
+    "cherokee county": {
+      "team": "Cherokee County",
+      "state": "AL",
+      "division": "4A",
+      "region": 2,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 30.1,
+      "avg_points_allowed": 16.0,
+      "season_net_margin": 14.1,
+      "last_3_game_margin": 9.3,
+      "momentum_trend": -4.8,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Cherokee County averages 30.1 PPG while holding AHSAA 4A Region 6 opponents to 16.0 PPG (+14.1 net margin).",
+        "Postseason Readiness: 7-3 against a 72.3 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "st. michael catholic": {
+      "team": "St. Michael Catholic",
+      "state": "AL",
+      "division": "4A",
+      "region": 3,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 21.3,
+      "avg_points_allowed": 22.5,
+      "season_net_margin": -1.2,
+      "last_3_game_margin": -7.7,
+      "momentum_trend": -6.5,
+      "close_game_record": "5-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: St. Michael Catholic averages 21.3 PPG while holding AHSAA 4A Region 1 opponents to 22.5 PPG (-1.2 net margin).",
+        "Postseason Readiness: 6-4 against a 70.6 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+      ]
+    },
+    "west morgan": {
+      "team": "West Morgan",
+      "state": "AL",
+      "division": "4A",
+      "region": 4,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 19.2,
+      "avg_points_allowed": 22.0,
+      "season_net_margin": -2.8,
+      "last_3_game_margin": 4.3,
+      "momentum_trend": 7.1,
+      "close_game_record": "2-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: West Morgan averages 19.2 PPG while holding AHSAA 4A Region 7 opponents to 22.0 PPG (-2.8 net margin).",
+        "Postseason Readiness: 3-7 against a 71.5 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+      ]
+    },
+    "bibb county": {
+      "team": "Bibb County",
+      "state": "AL",
+      "division": "4A",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 21.0,
+      "avg_points_allowed": 22.5,
+      "season_net_margin": -1.5,
+      "last_3_game_margin": -3.0,
+      "momentum_trend": -1.5,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Bibb County averages 21.0 PPG while holding AHSAA 4A Region 3 opponents to 22.5 PPG (-1.5 net margin).",
+        "Postseason Readiness: 4-6 against a 70.3 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "alexandria": {
+      "team": "Alexandria",
+      "state": "AL",
+      "division": "4A",
+      "region": 2,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 23.3,
+      "avg_points_allowed": 21.1,
+      "season_net_margin": 2.2,
+      "last_3_game_margin": 1.3,
+      "momentum_trend": -0.9,
+      "close_game_record": "4-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Alexandria averages 23.3 PPG while holding AHSAA 4A Region 6 opponents to 21.1 PPG (+2.2 net margin).",
+        "Postseason Readiness: 7-3 against a 68.6 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+      ]
+    },
+    "brooks": {
+      "team": "Brooks",
+      "state": "AL",
+      "division": "4A",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 20.0,
+      "avg_points_allowed": 21.3,
+      "season_net_margin": -1.3,
+      "last_3_game_margin": -0.3,
+      "momentum_trend": 1.0,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Brooks averages 20.0 PPG while holding AHSAA 4A Region 8 opponents to 21.3 PPG (-1.3 net margin).",
+        "Postseason Readiness: 4-6 against a 70.5 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "deshler": {
+      "team": "Deshler",
+      "state": "AL",
+      "division": "4A",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 19.2,
+      "avg_points_allowed": 24.2,
+      "season_net_margin": -5.0,
+      "last_3_game_margin": -0.7,
+      "momentum_trend": 4.3,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Deshler averages 19.2 PPG while holding AHSAA 4A Region 8 opponents to 24.2 PPG (-5.0 net margin).",
+        "Postseason Readiness: 4-6 against a 69.3 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "tallassee": {
+      "team": "Tallassee",
+      "state": "AL",
+      "division": "4A",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 19.7,
+      "avg_points_allowed": 22.2,
+      "season_net_margin": -2.5,
+      "last_3_game_margin": -4.3,
+      "momentum_trend": -1.8,
+      "close_game_record": "3-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Tallassee averages 19.7 PPG while holding AHSAA 4A Region 4 opponents to 22.2 PPG (-2.5 net margin).",
+        "Postseason Readiness: 4-6 against a 67.8 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+      ]
+    },
+    "handley": {
+      "team": "Handley",
+      "state": "AL",
+      "division": "4A",
+      "region": 2,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 16.3,
+      "avg_points_allowed": 34.1,
+      "season_net_margin": -17.8,
+      "last_3_game_margin": -17.0,
+      "momentum_trend": 0.8,
+      "close_game_record": "1-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Handley averages 16.3 PPG while holding AHSAA 4A Region 4 opponents to 34.1 PPG (-17.8 net margin).",
+        "Postseason Readiness: 1-9 against a 69.5 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+      ]
+    },
+    "mars hill bible": {
+      "team": "Mars Hill Bible",
+      "state": "AL",
+      "division": "3A",
+      "region": 1,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 28.3,
+      "avg_points_allowed": 14.8,
+      "season_net_margin": 13.5,
+      "last_3_game_margin": 13.7,
+      "momentum_trend": 0.2,
+      "close_game_record": "4-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Mars Hill Bible averages 28.3 PPG while holding AHSAA 3A Region 8 opponents to 14.8 PPG (+13.5 net margin).",
+        "Postseason Readiness: 9-1 against a 71.2 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+      ]
+    },
+    "piedmont": {
+      "team": "Piedmont",
+      "state": "AL",
+      "division": "3A",
+      "region": 2,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 28.1,
+      "avg_points_allowed": 14.1,
+      "season_net_margin": 14.0,
+      "last_3_game_margin": 10.7,
+      "momentum_trend": -3.3,
+      "close_game_record": "2-1",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Piedmont averages 28.1 PPG while holding AHSAA 3A Region 6 opponents to 14.1 PPG (+14.0 net margin).",
+        "Postseason Readiness: 8-2 against a 70.6 SOS Index with 1 running-clock separations and a 2-1 record in one-score games."
+      ]
+    },
+    "t.r. miller": {
+      "team": "T.R. Miller",
+      "state": "AL",
+      "division": "3A",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 20.2,
+      "avg_points_allowed": 18.9,
+      "season_net_margin": 1.3,
+      "last_3_game_margin": -4.0,
+      "momentum_trend": -5.3,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: T.R. Miller averages 20.2 PPG while holding AHSAA 3A Region 1 opponents to 18.9 PPG (+1.3 net margin).",
+        "Postseason Readiness: 5-5 against a 69.4 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "fyffe": {
+      "team": "Fyffe",
+      "state": "AL",
+      "division": "3A",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.5,
+      "avg_points_allowed": 19.6,
+      "season_net_margin": -2.1,
+      "last_3_game_margin": -3.7,
+      "momentum_trend": -1.6,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Fyffe averages 17.5 PPG while holding AHSAA 3A Region 8 opponents to 19.6 PPG (-2.1 net margin).",
+        "Postseason Readiness: 4-6 against a 68.1 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "houston academy": {
+      "team": "Houston Academy",
+      "state": "AL",
+      "division": "3A",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.0,
+      "avg_points_allowed": 17.4,
+      "season_net_margin": -0.4,
+      "last_3_game_margin": 0.7,
+      "momentum_trend": 1.1,
+      "close_game_record": "4-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Houston Academy averages 17.0 PPG while holding AHSAA 3A Region 2 opponents to 17.4 PPG (-0.4 net margin).",
+        "Postseason Readiness: 5-5 against a 69.2 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+      ]
+    },
+    "gordo": {
+      "team": "Gordo",
+      "state": "AL",
+      "division": "3A",
+      "region": 2,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 22.2,
+      "avg_points_allowed": 20.1,
+      "season_net_margin": 2.1,
+      "last_3_game_margin": 0.3,
+      "momentum_trend": -1.8,
+      "close_game_record": "3-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Gordo averages 22.2 PPG while holding AHSAA 3A Region 4 opponents to 20.1 PPG (+2.1 net margin).",
+        "Postseason Readiness: 6-4 against a 69.9 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+      ]
+    },
+    "trinity presbyterian": {
+      "team": "Trinity Presbyterian",
+      "state": "AL",
+      "division": "3A",
+      "region": 3,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 19.3,
+      "avg_points_allowed": 23.7,
+      "season_net_margin": -4.4,
+      "last_3_game_margin": -4.0,
+      "momentum_trend": 0.4,
+      "close_game_record": "1-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Trinity Presbyterian averages 19.3 PPG while holding AHSAA 3A Region 2 opponents to 23.7 PPG (-4.4 net margin).",
+        "Postseason Readiness: 3-7 against a 67.0 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+      ]
+    },
+    "glenwood": {
+      "team": "Glenwood",
+      "state": "AL",
+      "division": "3A",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 21.1,
+      "avg_points_allowed": 23.7,
+      "season_net_margin": -2.6,
+      "last_3_game_margin": 4.0,
+      "momentum_trend": 6.6,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Glenwood averages 21.1 PPG while holding AHSAA 3A Region 4 opponents to 23.7 PPG (-2.6 net margin).",
+        "Postseason Readiness: 4-6 against a 68.2 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "bayside academy": {
+      "team": "Bayside Academy",
+      "state": "AL",
+      "division": "3A",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 21.2,
+      "avg_points_allowed": 24.5,
+      "season_net_margin": -3.3,
+      "last_3_game_margin": 0.7,
+      "momentum_trend": 4.0,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Bayside Academy averages 21.2 PPG while holding AHSAA 3A Region 1 opponents to 24.5 PPG (-3.3 net margin).",
+        "Postseason Readiness: 5-5 against a 66.9 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "winfield": {
+      "team": "Winfield",
+      "state": "AL",
+      "division": "3A",
+      "region": 2,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 16.2,
+      "avg_points_allowed": 34.3,
+      "season_net_margin": -18.1,
+      "last_3_game_margin": -18.3,
+      "momentum_trend": -0.2,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Winfield averages 16.2 PPG while holding AHSAA 3A Region 5 opponents to 34.3 PPG (-18.1 net margin).",
+        "Postseason Readiness: 1-9 against a 67.4 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+      ]
+    },
+    "reeltown": {
+      "team": "Reeltown",
+      "state": "AL",
+      "division": "2A",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 37.2,
+      "avg_points_allowed": 16.8,
+      "season_net_margin": 20.4,
+      "last_3_game_margin": 15.3,
+      "momentum_trend": -5.1,
+      "close_game_record": "3-0",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Reeltown averages 37.2 PPG while holding AHSAA 2A Region 4 opponents to 16.8 PPG (+20.4 net margin).",
+        "Postseason Readiness: 10-0 against a 69.5 SOS Index with 1 running-clock separations and a 3-0 record in one-score games."
+      ]
+    },
+    "highland home": {
+      "team": "Highland Home",
+      "state": "AL",
+      "division": "2A",
+      "region": 2,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 33.2,
+      "avg_points_allowed": 14.0,
+      "season_net_margin": 19.2,
+      "last_3_game_margin": 18.7,
+      "momentum_trend": -0.5,
+      "close_game_record": "3-1",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Highland Home averages 33.2 PPG while holding AHSAA 2A Region 2 opponents to 14.0 PPG (+19.2 net margin).",
+        "Postseason Readiness: 9-1 against a 67.5 SOS Index with 2 running-clock separations and a 3-1 record in one-score games."
+      ]
+    },
+    "tuscaloosa academy": {
+      "team": "Tuscaloosa Academy",
+      "state": "AL",
+      "division": "2A",
+      "region": 3,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 18.1,
+      "avg_points_allowed": 22.8,
+      "season_net_margin": -4.7,
+      "last_3_game_margin": -2.3,
+      "momentum_trend": 2.4,
+      "close_game_record": "1-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Tuscaloosa Academy averages 18.1 PPG while holding AHSAA 2A Region 4 opponents to 22.8 PPG (-4.7 net margin).",
+        "Postseason Readiness: 2-8 against a 69.8 SOS Index with 0 running-clock separations and a 1-5 record in one-score games."
+      ]
+    },
+    "cottonwood": {
+      "team": "Cottonwood",
+      "state": "AL",
+      "division": "2A",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 22.8,
+      "avg_points_allowed": 22.9,
+      "season_net_margin": -0.1,
+      "last_3_game_margin": -4.7,
+      "momentum_trend": -4.6,
+      "close_game_record": "2-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Cottonwood averages 22.8 PPG while holding AHSAA 2A Region 2 opponents to 22.9 PPG (-0.1 net margin).",
+        "Postseason Readiness: 5-5 against a 66.8 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+      ]
+    },
+    "clarke county": {
+      "team": "Clarke County",
+      "state": "AL",
+      "division": "2A",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.7,
+      "avg_points_allowed": 20.1,
+      "season_net_margin": -2.4,
+      "last_3_game_margin": -1.7,
+      "momentum_trend": 0.7,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Clarke County averages 17.7 PPG while holding AHSAA 2A Region 1 opponents to 20.1 PPG (-2.4 net margin).",
+        "Postseason Readiness: 4-6 against a 68.0 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "pisgah": {
+      "team": "Pisgah",
+      "state": "AL",
+      "division": "2A",
+      "region": 2,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 18.0,
+      "avg_points_allowed": 19.0,
+      "season_net_margin": -1.0,
+      "last_3_game_margin": 3.0,
+      "momentum_trend": 4.0,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Pisgah averages 18.0 PPG while holding AHSAA 2A Region 7 opponents to 19.0 PPG (-1.0 net margin).",
+        "Postseason Readiness: 6-4 against a 66.3 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "sulligent": {
+      "team": "Sulligent",
+      "state": "AL",
+      "division": "2A",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.9,
+      "avg_points_allowed": 22.2,
+      "season_net_margin": -4.3,
+      "last_3_game_margin": 0.3,
+      "momentum_trend": 4.6,
+      "close_game_record": "3-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Sulligent averages 17.9 PPG while holding AHSAA 2A Region 5 opponents to 22.2 PPG (-4.3 net margin).",
+        "Postseason Readiness: 4-6 against a 67.2 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+      ]
+    },
+    "vincent": {
+      "team": "Vincent",
+      "state": "AL",
+      "division": "2A",
+      "region": 4,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 21.1,
+      "avg_points_allowed": 21.4,
+      "season_net_margin": -0.3,
+      "last_3_game_margin": 2.0,
+      "momentum_trend": 2.3,
+      "close_game_record": "3-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Vincent averages 21.1 PPG while holding AHSAA 2A Region 5 opponents to 21.4 PPG (-0.3 net margin).",
+        "Postseason Readiness: 6-4 against a 65.2 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+      ]
+    },
+    "ariton": {
+      "team": "Ariton",
+      "state": "AL",
+      "division": "2A",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 20.0,
+      "avg_points_allowed": 24.4,
+      "season_net_margin": -4.4,
+      "last_3_game_margin": -3.0,
+      "momentum_trend": 1.4,
+      "close_game_record": "3-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Ariton averages 20.0 PPG while holding AHSAA 2A Region 2 opponents to 24.4 PPG (-4.4 net margin).",
+        "Postseason Readiness: 4-6 against a 67.0 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+      ]
+    },
+    "falkville": {
+      "team": "Falkville",
+      "state": "AL",
+      "division": "2A",
+      "region": 2,
+      "record": "0-10",
+      "games_played": 10,
+      "avg_points_scored": 14.6,
+      "avg_points_allowed": 37.0,
+      "season_net_margin": -22.4,
+      "last_3_game_margin": -27.7,
+      "momentum_trend": -5.3,
+      "close_game_record": "0-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Falkville averages 14.6 PPG while holding AHSAA 2A Region 8 opponents to 37.0 PPG (-22.4 net margin).",
+        "Postseason Readiness: 0-10 against a 67.2 SOS Index with 0 running-clock separations and a 0-3 record in one-score games."
+      ]
+    },
+    "wadley": {
+      "team": "Wadley",
+      "state": "AL",
+      "division": "1A",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 29.2,
+      "avg_points_allowed": 12.1,
+      "season_net_margin": 17.1,
+      "last_3_game_margin": 13.3,
+      "momentum_trend": -3.8,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Wadley averages 29.2 PPG while holding AHSAA 1A Region 4 opponents to 12.1 PPG (+17.1 net margin).",
+        "Postseason Readiness: 10-0 against a 66.7 SOS Index with 0 running-clock separations and a 2-0 record in one-score games."
+      ]
+    },
+    "leroy": {
+      "team": "Leroy",
+      "state": "AL",
+      "division": "1A",
+      "region": 2,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 32.1,
+      "avg_points_allowed": 16.6,
+      "season_net_margin": 15.5,
+      "last_3_game_margin": 10.0,
+      "momentum_trend": -5.5,
+      "close_game_record": "1-3",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Leroy averages 32.1 PPG while holding AHSAA 1A Region 1 opponents to 16.6 PPG (+15.5 net margin).",
+        "Postseason Readiness: 7-3 against a 68.2 SOS Index with 1 running-clock separations and a 1-3 record in one-score games."
+      ]
+    },
+    "maplesville": {
+      "team": "Maplesville",
+      "state": "AL",
+      "division": "1A",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.6,
+      "avg_points_allowed": 18.1,
+      "season_net_margin": -0.5,
+      "last_3_game_margin": -5.7,
+      "momentum_trend": -5.2,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Maplesville averages 17.6 PPG while holding AHSAA 1A Region 3 opponents to 18.1 PPG (-0.5 net margin).",
+        "Postseason Readiness: 5-5 against a 67.2 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "sweet water": {
+      "team": "Sweet Water",
+      "state": "AL",
+      "division": "1A",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.3,
+      "avg_points_allowed": 17.8,
+      "season_net_margin": -0.5,
+      "last_3_game_margin": 6.7,
+      "momentum_trend": 7.2,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Sweet Water averages 17.3 PPG while holding AHSAA 1A Region 1 opponents to 17.8 PPG (-0.5 net margin).",
+        "Postseason Readiness: 5-5 against a 66.9 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "hackleburg": {
+      "team": "Hackleburg",
+      "state": "AL",
+      "division": "1A",
+      "region": 1,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 16.1,
+      "avg_points_allowed": 21.8,
+      "season_net_margin": -5.7,
+      "last_3_game_margin": -6.3,
+      "momentum_trend": -0.6,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Hackleburg averages 16.1 PPG while holding AHSAA 1A Region 8 opponents to 21.8 PPG (-5.7 net margin).",
+        "Postseason Readiness: 2-8 against a 66.9 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "berry": {
+      "team": "Berry",
+      "state": "AL",
+      "division": "1A",
+      "region": 2,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 23.2,
+      "avg_points_allowed": 16.4,
+      "season_net_margin": 6.8,
+      "last_3_game_margin": 8.3,
+      "momentum_trend": 1.5,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Berry averages 23.2 PPG while holding AHSAA 1A Region 5 opponents to 16.4 PPG (+6.8 net margin).",
+        "Postseason Readiness: 8-2 against a 65.5 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "elba": {
+      "team": "Elba",
+      "state": "AL",
+      "division": "1A",
+      "region": 3,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 21.3,
+      "avg_points_allowed": 27.7,
+      "season_net_margin": -6.4,
+      "last_3_game_margin": -3.0,
+      "momentum_trend": 3.4,
+      "close_game_record": "0-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Elba averages 21.3 PPG while holding AHSAA 1A Region 2 opponents to 27.7 PPG (-6.4 net margin).",
+        "Postseason Readiness: 2-8 against a 64.5 SOS Index with 0 running-clock separations and a 0-4 record in one-score games."
+      ]
+    },
+    "brantley": {
+      "team": "Brantley",
+      "state": "AL",
+      "division": "1A",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 23.3,
+      "avg_points_allowed": 26.4,
+      "season_net_margin": -3.1,
+      "last_3_game_margin": -5.0,
+      "momentum_trend": -1.9,
+      "close_game_record": "3-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Brantley averages 23.3 PPG while holding AHSAA 1A Region 2 opponents to 26.4 PPG (-3.1 net margin).",
+        "Postseason Readiness: 5-5 against a 66.3 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+      ]
+    },
+    "meek": {
+      "team": "Meek",
+      "state": "AL",
+      "division": "1A",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.4,
+      "avg_points_allowed": 22.1,
+      "season_net_margin": -4.7,
+      "last_3_game_margin": -2.0,
+      "momentum_trend": 2.7,
+      "close_game_record": "5-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Meek averages 17.4 PPG while holding AHSAA 1A Region 7 opponents to 22.1 PPG (-4.7 net margin).",
+        "Postseason Readiness: 5-5 against a 64.2 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+      ]
+    },
+    "millry": {
+      "team": "Millry",
+      "state": "AL",
+      "division": "1A",
+      "region": 2,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 13.7,
+      "avg_points_allowed": 32.2,
+      "season_net_margin": -18.5,
+      "last_3_game_margin": -16.3,
+      "momentum_trend": 2.2,
+      "close_game_record": "1-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Millry averages 13.7 PPG while holding AHSAA 1A Region 1 opponents to 32.2 PPG (-18.5 net margin).",
+        "Postseason Readiness: 1-9 against a 65.6 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+      ]
+    }
+  },
+  "central-phenix city": {
+    "team": "Central-Phenix City",
+    "state": "AL",
+    "division": "7A",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 36.0,
+    "avg_points_allowed": 13.6,
+    "season_net_margin": 22.4,
+    "last_3_game_margin": 30.7,
+    "momentum_trend": 8.3,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Central-Phenix City averages 36.0 PPG while holding AHSAA 7A Region 2 opponents to 13.6 PPG (+22.4 net margin).",
+      "Postseason Readiness: 10-0 against a 73.7 SOS Index with 2 running-clock separations and a 1-0 record in one-score games."
+    ]
+  },
+  "thompson": {
+    "team": "Thompson",
+    "state": "AL",
+    "division": "7A",
+    "region": 2,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 30.1,
+    "avg_points_allowed": 14.9,
+    "season_net_margin": 15.2,
+    "last_3_game_margin": 12.0,
+    "momentum_trend": -3.2,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Thompson averages 30.1 PPG while holding AHSAA 7A Region 3 opponents to 14.9 PPG (+15.2 net margin).",
+      "Postseason Readiness: 10-0 against a 73.3 SOS Index with 1 running-clock separations and a 3-0 record in one-score games."
+    ]
+  },
+  "auburn": {
+    "team": "Auburn",
+    "state": "AL",
+    "division": "7A",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.7,
+    "avg_points_allowed": 20.1,
+    "season_net_margin": -2.4,
+    "last_3_game_margin": -2.0,
+    "momentum_trend": 0.4,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Auburn averages 17.7 PPG while holding AHSAA 7A Region 2 opponents to 20.1 PPG (-2.4 net margin).",
+      "Postseason Readiness: 4-6 against a 72.5 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+    ]
+  },
+  "hoover": {
+    "team": "Hoover",
+    "state": "AL",
+    "division": "7A",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 15.6,
+    "avg_points_allowed": 19.7,
+    "season_net_margin": -4.1,
+    "last_3_game_margin": -2.7,
+    "momentum_trend": 1.4,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Hoover averages 15.6 PPG while holding AHSAA 7A Region 3 opponents to 19.7 PPG (-4.1 net margin).",
+      "Postseason Readiness: 3-7 against a 73.4 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "enterprise": {
+    "team": "Enterprise",
+    "state": "AL",
+    "division": "7A",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 15.4,
+    "avg_points_allowed": 18.3,
+    "season_net_margin": -2.9,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": -1.1,
+    "close_game_record": "4-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Enterprise averages 15.4 PPG while holding AHSAA 7A Region 2 opponents to 18.3 PPG (-2.9 net margin).",
+      "Postseason Readiness: 4-6 against a 73.2 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+    ]
+  },
+  "hewitt-trussville": {
+    "team": "Hewitt-Trussville",
+    "state": "AL",
+    "division": "7A",
+    "region": 2,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 16.6,
+    "avg_points_allowed": 17.8,
+    "season_net_margin": -1.2,
+    "last_3_game_margin": 3.3,
+    "momentum_trend": 4.5,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Hewitt-Trussville averages 16.6 PPG while holding AHSAA 7A Region 3 opponents to 17.8 PPG (-1.2 net margin).",
+      "Postseason Readiness: 5-5 against a 72.7 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "vestavia hills": {
+    "team": "Vestavia Hills",
+    "state": "AL",
+    "division": "7A",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.3,
+    "avg_points_allowed": 18.6,
+    "season_net_margin": -1.3,
+    "last_3_game_margin": 3.0,
+    "momentum_trend": 4.3,
+    "close_game_record": "1-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Vestavia Hills averages 17.3 PPG while holding AHSAA 7A Region 3 opponents to 18.6 PPG (-1.3 net margin).",
+      "Postseason Readiness: 4-6 against a 72.0 SOS Index with 0 running-clock separations and a 1-5 record in one-score games."
+    ]
+  },
+  "mary g. montgomery": {
+    "team": "Mary G. Montgomery",
+    "state": "AL",
+    "division": "7A",
+    "region": 4,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 18.3,
+    "avg_points_allowed": 19.9,
+    "season_net_margin": -1.6,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": -2.4,
+    "close_game_record": "4-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Mary G. Montgomery averages 18.3 PPG while holding AHSAA 7A Region 1 opponents to 19.9 PPG (-1.6 net margin).",
+      "Postseason Readiness: 6-4 against a 71.9 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+    ]
+  },
+  "baker": {
+    "team": "Baker",
+    "state": "AL",
+    "division": "7A",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.5,
+    "avg_points_allowed": 20.3,
+    "season_net_margin": -2.8,
+    "last_3_game_margin": 1.7,
+    "momentum_trend": 4.5,
+    "close_game_record": "3-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Baker averages 17.5 PPG while holding AHSAA 7A Region 1 opponents to 20.3 PPG (-2.8 net margin).",
+      "Postseason Readiness: 4-6 against a 70.6 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+    ]
+  },
+  "austin": {
+    "team": "Austin",
+    "state": "AL",
+    "division": "7A",
+    "region": 2,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 18.5,
+    "avg_points_allowed": 18.9,
+    "season_net_margin": -0.4,
+    "last_3_game_margin": -9.0,
+    "momentum_trend": -8.6,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Austin averages 18.5 PPG while holding AHSAA 7A Region 4 opponents to 18.9 PPG (-0.4 net margin).",
+      "Postseason Readiness: 5-5 against a 72.5 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "florence": {
+    "team": "Florence",
+    "state": "AL",
+    "division": "7A",
+    "region": 3,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 12.6,
+    "avg_points_allowed": 21.2,
+    "season_net_margin": -8.6,
+    "last_3_game_margin": -12.7,
+    "momentum_trend": -4.1,
+    "close_game_record": "1-7",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Florence averages 12.6 PPG while holding AHSAA 7A Region 4 opponents to 21.2 PPG (-8.6 net margin).",
+      "Postseason Readiness: 1-9 against a 72.1 SOS Index with 0 running-clock separations and a 1-7 record in one-score games."
+    ]
+  },
+  "dothan": {
+    "team": "Dothan",
+    "state": "AL",
+    "division": "7A",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 15.7,
+    "avg_points_allowed": 28.0,
+    "season_net_margin": -12.3,
+    "last_3_game_margin": -16.3,
+    "momentum_trend": -4.0,
+    "close_game_record": "4-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Dothan averages 15.7 PPG while holding AHSAA 7A Region 2 opponents to 28.0 PPG (-12.3 net margin).",
+      "Postseason Readiness: 4-6 against a 71.7 SOS Index with 0 running-clock separations and a 4-0 record in one-score games."
+    ]
+  },
+  "saraland": {
+    "team": "Saraland",
+    "state": "AL",
+    "division": "6A",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 34.6,
+    "avg_points_allowed": 13.7,
+    "season_net_margin": 20.9,
+    "last_3_game_margin": 38.0,
+    "momentum_trend": 17.1,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Saraland averages 34.6 PPG while holding AHSAA 6A Region 1 opponents to 13.7 PPG (+20.9 net margin).",
+      "Postseason Readiness: 10-0 against a 74.4 SOS Index with 2 running-clock separations and a 3-0 record in one-score games."
+    ]
+  },
+  "parker": {
+    "team": "Parker",
+    "state": "AL",
+    "division": "6A",
+    "region": 2,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 35.5,
+    "avg_points_allowed": 17.0,
+    "season_net_margin": 18.5,
+    "last_3_game_margin": 17.0,
+    "momentum_trend": -1.5,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Parker averages 35.5 PPG while holding AHSAA 6A Region 5 opponents to 17.0 PPG (+18.5 net margin).",
+      "Postseason Readiness: 8-2 against a 73.4 SOS Index with 2 running-clock separations and a 1-2 record in one-score games."
+    ]
+  },
+  "clay-chalkville": {
+    "team": "Clay-Chalkville",
+    "state": "AL",
+    "division": "6A",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 19.9,
+    "avg_points_allowed": 22.4,
+    "season_net_margin": -2.5,
+    "last_3_game_margin": -4.7,
+    "momentum_trend": -2.2,
+    "close_game_record": "6-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Clay-Chalkville averages 19.9 PPG while holding AHSAA 6A Region 6 opponents to 22.4 PPG (-2.5 net margin).",
+      "Postseason Readiness: 6-4 against a 71.4 SOS Index with 0 running-clock separations and a 6-2 record in one-score games."
+    ]
+  },
+  "muscle shoals": {
+    "team": "Muscle Shoals",
+    "state": "AL",
+    "division": "6A",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.2,
+    "avg_points_allowed": 17.1,
+    "season_net_margin": 0.1,
+    "last_3_game_margin": 5.3,
+    "momentum_trend": 5.2,
+    "close_game_record": "3-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Muscle Shoals averages 17.2 PPG while holding AHSAA 6A Region 7 opponents to 17.1 PPG (+0.1 net margin).",
+      "Postseason Readiness: 4-6 against a 72.6 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+    ]
+  },
+  "oxford": {
+    "team": "Oxford",
+    "state": "AL",
+    "division": "6A",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 16.9,
+    "avg_points_allowed": 18.7,
+    "season_net_margin": -1.8,
+    "last_3_game_margin": -7.7,
+    "momentum_trend": -5.9,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Oxford averages 16.9 PPG while holding AHSAA 6A Region 6 opponents to 18.7 PPG (-1.8 net margin).",
+      "Postseason Readiness: 4-6 against a 72.9 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "spain park": {
+    "team": "Spain Park",
+    "state": "AL",
+    "division": "6A",
+    "region": 2,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 18.3,
+    "avg_points_allowed": 18.8,
+    "season_net_margin": -0.5,
+    "last_3_game_margin": 5.7,
+    "momentum_trend": 6.2,
+    "close_game_record": "3-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Spain Park averages 18.3 PPG while holding AHSAA 6A Region 3 opponents to 18.8 PPG (-0.5 net margin).",
+      "Postseason Readiness: 5-5 against a 71.8 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+    ]
+  },
+  "pike road": {
+    "team": "Pike Road",
+    "state": "AL",
+    "division": "6A",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 19.4,
+    "avg_points_allowed": 21.0,
+    "season_net_margin": -1.6,
+    "last_3_game_margin": -7.0,
+    "momentum_trend": -5.4,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Pike Road averages 19.4 PPG while holding AHSAA 6A Region 2 opponents to 21.0 PPG (-1.6 net margin).",
+      "Postseason Readiness: 4-6 against a 72.5 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+    ]
+  },
+  "mountain brook": {
+    "team": "Mountain Brook",
+    "state": "AL",
+    "division": "6A",
+    "region": 4,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 18.8,
+    "avg_points_allowed": 20.1,
+    "season_net_margin": -1.3,
+    "last_3_game_margin": 4.7,
+    "momentum_trend": 6.0,
+    "close_game_record": "6-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Mountain Brook averages 18.8 PPG while holding AHSAA 6A Region 5 opponents to 20.1 PPG (-1.3 net margin).",
+      "Postseason Readiness: 6-4 against a 70.3 SOS Index with 0 running-clock separations and a 6-1 record in one-score games."
+    ]
+  },
+  "spanish fort": {
+    "team": "Spanish Fort",
+    "state": "AL",
+    "division": "6A",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 20.0,
+    "avg_points_allowed": 22.7,
+    "season_net_margin": -2.7,
+    "last_3_game_margin": -3.3,
+    "momentum_trend": -0.6,
+    "close_game_record": "2-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Spanish Fort averages 20.0 PPG while holding AHSAA 6A Region 1 opponents to 22.7 PPG (-2.7 net margin).",
+      "Postseason Readiness: 3-7 against a 71.8 SOS Index with 0 running-clock separations and a 2-6 record in one-score games."
+    ]
+  },
+  "hartselle": {
+    "team": "Hartselle",
+    "state": "AL",
+    "division": "6A",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 18.2,
+    "avg_points_allowed": 23.2,
+    "season_net_margin": -5.0,
+    "last_3_game_margin": -12.0,
+    "momentum_trend": -7.0,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Hartselle averages 18.2 PPG while holding AHSAA 6A Region 7 opponents to 23.2 PPG (-5.0 net margin).",
+      "Postseason Readiness: 4-6 against a 71.0 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "fort payne": {
+    "team": "Fort Payne",
+    "state": "AL",
+    "division": "6A",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 23.5,
+    "avg_points_allowed": 22.8,
+    "season_net_margin": 0.7,
+    "last_3_game_margin": -2.3,
+    "momentum_trend": -3.0,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Fort Payne averages 23.5 PPG while holding AHSAA 6A Region 8 opponents to 22.8 PPG (+0.7 net margin).",
+      "Postseason Readiness: 5-5 against a 68.9 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "wetumpka": {
+    "team": "Wetumpka",
+    "state": "AL",
+    "division": "6A",
+    "region": 4,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 16.5,
+    "avg_points_allowed": 41.3,
+    "season_net_margin": -24.8,
+    "last_3_game_margin": -33.7,
+    "momentum_trend": -8.9,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Wetumpka averages 16.5 PPG while holding AHSAA 6A Region 2 opponents to 41.3 PPG (-24.8 net margin).",
+      "Postseason Readiness: 1-9 against a 68.1 SOS Index with 0 running-clock separations and a 1-0 record in one-score games."
+    ]
+  },
+  "catholic-montgomery": {
+    "team": "Catholic-Montgomery",
+    "state": "AL",
+    "division": "5A",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 34.4,
+    "avg_points_allowed": 15.5,
+    "season_net_margin": 18.9,
+    "last_3_game_margin": 17.7,
+    "momentum_trend": -1.2,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Catholic-Montgomery averages 34.4 PPG while holding AHSAA 5A Region 2 opponents to 15.5 PPG (+18.9 net margin).",
+      "Postseason Readiness: 10-0 against a 70.8 SOS Index with 1 running-clock separations and a 2-0 record in one-score games."
+    ]
+  },
+  "vigor": {
+    "team": "Vigor",
+    "state": "AL",
+    "division": "5A",
+    "region": 2,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 28.5,
+    "avg_points_allowed": 13.5,
+    "season_net_margin": 15.0,
+    "last_3_game_margin": 6.3,
+    "momentum_trend": -8.7,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Vigor averages 28.5 PPG while holding AHSAA 5A Region 1 opponents to 13.5 PPG (+15.0 net margin).",
+      "Postseason Readiness: 8-2 against a 71.3 SOS Index with 1 running-clock separations and a 1-2 record in one-score games."
+    ]
+  },
+  "moody": {
+    "team": "Moody",
+    "state": "AL",
+    "division": "5A",
+    "region": 3,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 16.8,
+    "avg_points_allowed": 21.1,
+    "season_net_margin": -4.3,
+    "last_3_game_margin": -2.3,
+    "momentum_trend": 2.0,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Moody averages 16.8 PPG while holding AHSAA 5A Region 6 opponents to 21.1 PPG (-4.3 net margin).",
+      "Postseason Readiness: 3-7 against a 72.7 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "ramsay": {
+    "team": "Ramsay",
+    "state": "AL",
+    "division": "5A",
+    "region": 4,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 18.3,
+    "avg_points_allowed": 17.5,
+    "season_net_margin": 0.8,
+    "last_3_game_margin": 1.0,
+    "momentum_trend": 0.2,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Ramsay averages 18.3 PPG while holding AHSAA 5A Region 5 opponents to 17.5 PPG (+0.8 net margin).",
+      "Postseason Readiness: 6-4 against a 71.6 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "williamson": {
+    "team": "Williamson",
+    "state": "AL",
+    "division": "5A",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.0,
+    "avg_points_allowed": 17.9,
+    "season_net_margin": -0.9,
+    "last_3_game_margin": 2.0,
+    "momentum_trend": 2.9,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Williamson averages 17.0 PPG while holding AHSAA 5A Region 1 opponents to 17.9 PPG (-0.9 net margin).",
+      "Postseason Readiness: 5-5 against a 71.0 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "leeds": {
+    "team": "Leeds",
+    "state": "AL",
+    "division": "5A",
+    "region": 2,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.8,
+    "avg_points_allowed": 18.2,
+    "season_net_margin": -0.4,
+    "last_3_game_margin": -1.0,
+    "momentum_trend": -0.6,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Leeds averages 17.8 PPG while holding AHSAA 5A Region 6 opponents to 18.2 PPG (-0.4 net margin).",
+      "Postseason Readiness: 5-5 against a 71.7 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "corner": {
+    "team": "Corner",
+    "state": "AL",
+    "division": "5A",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 19.2,
+    "avg_points_allowed": 22.6,
+    "season_net_margin": -3.4,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": -0.6,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Corner averages 19.2 PPG while holding AHSAA 5A Region 5 opponents to 22.6 PPG (-3.4 net margin).",
+      "Postseason Readiness: 4-6 against a 69.0 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "fairview": {
+    "team": "Fairview",
+    "state": "AL",
+    "division": "5A",
+    "region": 4,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 19.3,
+    "avg_points_allowed": 23.5,
+    "season_net_margin": -4.2,
+    "last_3_game_margin": 2.0,
+    "momentum_trend": 6.2,
+    "close_game_record": "0-6",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Fairview averages 19.3 PPG while holding AHSAA 5A Region 7 opponents to 23.5 PPG (-4.2 net margin).",
+      "Postseason Readiness: 2-8 against a 71.1 SOS Index with 0 running-clock separations and a 0-6 record in one-score games."
+    ]
+  },
+  "demopolis": {
+    "team": "Demopolis",
+    "state": "AL",
+    "division": "5A",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.6,
+    "avg_points_allowed": 20.6,
+    "season_net_margin": -3.0,
+    "last_3_game_margin": -3.0,
+    "momentum_trend": 0.0,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Demopolis averages 17.6 PPG while holding AHSAA 5A Region 3 opponents to 20.6 PPG (-3.0 net margin).",
+      "Postseason Readiness: 5-5 against a 68.5 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "andalusia": {
+    "team": "Andalusia",
+    "state": "AL",
+    "division": "5A",
+    "region": 2,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 13.6,
+    "avg_points_allowed": 32.1,
+    "season_net_margin": -18.5,
+    "last_3_game_margin": -18.7,
+    "momentum_trend": -0.2,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Andalusia averages 13.6 PPG while holding AHSAA 5A Region 2 opponents to 32.1 PPG (-18.5 net margin).",
+      "Postseason Readiness: 2-8 against a 70.3 SOS Index with 0 running-clock separations and a 2-1 record in one-score games."
+    ]
+  },
+  "jackson": {
+    "team": "Jackson",
+    "state": "AL",
+    "division": "4A",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 33.2,
+    "avg_points_allowed": 17.4,
+    "season_net_margin": 15.8,
+    "last_3_game_margin": 18.0,
+    "momentum_trend": 2.2,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Jackson averages 33.2 PPG while holding AHSAA 4A Region 1 opponents to 17.4 PPG (+15.8 net margin).",
+      "Postseason Readiness: 10-0 against a 71.5 SOS Index with 0 running-clock separations and a 2-0 record in one-score games."
+    ]
+  },
+  "cherokee county": {
+    "team": "Cherokee County",
+    "state": "AL",
+    "division": "4A",
+    "region": 2,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 30.1,
+    "avg_points_allowed": 16.0,
+    "season_net_margin": 14.1,
+    "last_3_game_margin": 9.3,
+    "momentum_trend": -4.8,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Cherokee County averages 30.1 PPG while holding AHSAA 4A Region 6 opponents to 16.0 PPG (+14.1 net margin).",
+      "Postseason Readiness: 7-3 against a 72.3 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "st. michael catholic": {
+    "team": "St. Michael Catholic",
+    "state": "AL",
+    "division": "4A",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 21.3,
+    "avg_points_allowed": 22.5,
+    "season_net_margin": -1.2,
+    "last_3_game_margin": -7.7,
+    "momentum_trend": -6.5,
+    "close_game_record": "5-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: St. Michael Catholic averages 21.3 PPG while holding AHSAA 4A Region 1 opponents to 22.5 PPG (-1.2 net margin).",
+      "Postseason Readiness: 6-4 against a 70.6 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+    ]
+  },
+  "west morgan": {
+    "team": "West Morgan",
+    "state": "AL",
+    "division": "4A",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 19.2,
+    "avg_points_allowed": 22.0,
+    "season_net_margin": -2.8,
+    "last_3_game_margin": 4.3,
+    "momentum_trend": 7.1,
+    "close_game_record": "2-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: West Morgan averages 19.2 PPG while holding AHSAA 4A Region 7 opponents to 22.0 PPG (-2.8 net margin).",
+      "Postseason Readiness: 3-7 against a 71.5 SOS Index with 0 running-clock separations and a 2-5 record in one-score games."
+    ]
+  },
+  "bibb county": {
+    "team": "Bibb County",
+    "state": "AL",
+    "division": "4A",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 21.0,
+    "avg_points_allowed": 22.5,
+    "season_net_margin": -1.5,
+    "last_3_game_margin": -3.0,
+    "momentum_trend": -1.5,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Bibb County averages 21.0 PPG while holding AHSAA 4A Region 3 opponents to 22.5 PPG (-1.5 net margin).",
+      "Postseason Readiness: 4-6 against a 70.3 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "alexandria": {
+    "team": "Alexandria",
+    "state": "AL",
+    "division": "4A",
+    "region": 2,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 23.3,
+    "avg_points_allowed": 21.1,
+    "season_net_margin": 2.2,
+    "last_3_game_margin": 1.3,
+    "momentum_trend": -0.9,
+    "close_game_record": "4-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Alexandria averages 23.3 PPG while holding AHSAA 4A Region 6 opponents to 21.1 PPG (+2.2 net margin).",
+      "Postseason Readiness: 7-3 against a 68.6 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+    ]
+  },
+  "brooks": {
+    "team": "Brooks",
+    "state": "AL",
+    "division": "4A",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 20.0,
+    "avg_points_allowed": 21.3,
+    "season_net_margin": -1.3,
+    "last_3_game_margin": -0.3,
+    "momentum_trend": 1.0,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Brooks averages 20.0 PPG while holding AHSAA 4A Region 8 opponents to 21.3 PPG (-1.3 net margin).",
+      "Postseason Readiness: 4-6 against a 70.5 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "deshler": {
+    "team": "Deshler",
+    "state": "AL",
+    "division": "4A",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 19.2,
+    "avg_points_allowed": 24.2,
+    "season_net_margin": -5.0,
+    "last_3_game_margin": -0.7,
+    "momentum_trend": 4.3,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Deshler averages 19.2 PPG while holding AHSAA 4A Region 8 opponents to 24.2 PPG (-5.0 net margin).",
+      "Postseason Readiness: 4-6 against a 69.3 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "tallassee": {
+    "team": "Tallassee",
+    "state": "AL",
+    "division": "4A",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 19.7,
+    "avg_points_allowed": 22.2,
+    "season_net_margin": -2.5,
+    "last_3_game_margin": -4.3,
+    "momentum_trend": -1.8,
+    "close_game_record": "3-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Tallassee averages 19.7 PPG while holding AHSAA 4A Region 4 opponents to 22.2 PPG (-2.5 net margin).",
+      "Postseason Readiness: 4-6 against a 67.8 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+    ]
+  },
+  "handley": {
+    "team": "Handley",
+    "state": "AL",
+    "division": "4A",
+    "region": 2,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 16.3,
+    "avg_points_allowed": 34.1,
+    "season_net_margin": -17.8,
+    "last_3_game_margin": -17.0,
+    "momentum_trend": 0.8,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Handley averages 16.3 PPG while holding AHSAA 4A Region 4 opponents to 34.1 PPG (-17.8 net margin).",
+      "Postseason Readiness: 1-9 against a 69.5 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+    ]
+  },
+  "mars hill bible": {
+    "team": "Mars Hill Bible",
+    "state": "AL",
+    "division": "3A",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 28.3,
+    "avg_points_allowed": 14.8,
+    "season_net_margin": 13.5,
+    "last_3_game_margin": 13.7,
+    "momentum_trend": 0.2,
+    "close_game_record": "4-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Mars Hill Bible averages 28.3 PPG while holding AHSAA 3A Region 8 opponents to 14.8 PPG (+13.5 net margin).",
+      "Postseason Readiness: 9-1 against a 71.2 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+    ]
+  },
+  "piedmont": {
+    "team": "Piedmont",
+    "state": "AL",
+    "division": "3A",
+    "region": 2,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 28.1,
+    "avg_points_allowed": 14.1,
+    "season_net_margin": 14.0,
+    "last_3_game_margin": 10.7,
+    "momentum_trend": -3.3,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Piedmont averages 28.1 PPG while holding AHSAA 3A Region 6 opponents to 14.1 PPG (+14.0 net margin).",
+      "Postseason Readiness: 8-2 against a 70.6 SOS Index with 1 running-clock separations and a 2-1 record in one-score games."
+    ]
+  },
+  "t.r. miller": {
+    "team": "T.R. Miller",
+    "state": "AL",
+    "division": "3A",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 20.2,
+    "avg_points_allowed": 18.9,
+    "season_net_margin": 1.3,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": -5.3,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: T.R. Miller averages 20.2 PPG while holding AHSAA 3A Region 1 opponents to 18.9 PPG (+1.3 net margin).",
+      "Postseason Readiness: 5-5 against a 69.4 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "fyffe": {
+    "team": "Fyffe",
+    "state": "AL",
+    "division": "3A",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.5,
+    "avg_points_allowed": 19.6,
+    "season_net_margin": -2.1,
+    "last_3_game_margin": -3.7,
+    "momentum_trend": -1.6,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Fyffe averages 17.5 PPG while holding AHSAA 3A Region 8 opponents to 19.6 PPG (-2.1 net margin).",
+      "Postseason Readiness: 4-6 against a 68.1 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "houston academy": {
+    "team": "Houston Academy",
+    "state": "AL",
+    "division": "3A",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.0,
+    "avg_points_allowed": 17.4,
+    "season_net_margin": -0.4,
+    "last_3_game_margin": 0.7,
+    "momentum_trend": 1.1,
+    "close_game_record": "4-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Houston Academy averages 17.0 PPG while holding AHSAA 3A Region 2 opponents to 17.4 PPG (-0.4 net margin).",
+      "Postseason Readiness: 5-5 against a 69.2 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+    ]
+  },
+  "gordo": {
+    "team": "Gordo",
+    "state": "AL",
+    "division": "3A",
+    "region": 2,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 22.2,
+    "avg_points_allowed": 20.1,
+    "season_net_margin": 2.1,
+    "last_3_game_margin": 0.3,
+    "momentum_trend": -1.8,
+    "close_game_record": "3-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Gordo averages 22.2 PPG while holding AHSAA 3A Region 4 opponents to 20.1 PPG (+2.1 net margin).",
+      "Postseason Readiness: 6-4 against a 69.9 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+    ]
+  },
+  "trinity presbyterian": {
+    "team": "Trinity Presbyterian",
+    "state": "AL",
+    "division": "3A",
+    "region": 3,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 19.3,
+    "avg_points_allowed": 23.7,
+    "season_net_margin": -4.4,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": 0.4,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Trinity Presbyterian averages 19.3 PPG while holding AHSAA 3A Region 2 opponents to 23.7 PPG (-4.4 net margin).",
+      "Postseason Readiness: 3-7 against a 67.0 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+    ]
+  },
+  "glenwood": {
+    "team": "Glenwood",
+    "state": "AL",
+    "division": "3A",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 21.1,
+    "avg_points_allowed": 23.7,
+    "season_net_margin": -2.6,
+    "last_3_game_margin": 4.0,
+    "momentum_trend": 6.6,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Glenwood averages 21.1 PPG while holding AHSAA 3A Region 4 opponents to 23.7 PPG (-2.6 net margin).",
+      "Postseason Readiness: 4-6 against a 68.2 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "bayside academy": {
+    "team": "Bayside Academy",
+    "state": "AL",
+    "division": "3A",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 21.2,
+    "avg_points_allowed": 24.5,
+    "season_net_margin": -3.3,
+    "last_3_game_margin": 0.7,
+    "momentum_trend": 4.0,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Bayside Academy averages 21.2 PPG while holding AHSAA 3A Region 1 opponents to 24.5 PPG (-3.3 net margin).",
+      "Postseason Readiness: 5-5 against a 66.9 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "winfield": {
+    "team": "Winfield",
+    "state": "AL",
+    "division": "3A",
+    "region": 2,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 16.2,
+    "avg_points_allowed": 34.3,
+    "season_net_margin": -18.1,
+    "last_3_game_margin": -18.3,
+    "momentum_trend": -0.2,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Winfield averages 16.2 PPG while holding AHSAA 3A Region 5 opponents to 34.3 PPG (-18.1 net margin).",
+      "Postseason Readiness: 1-9 against a 67.4 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+    ]
+  },
+  "reeltown": {
+    "team": "Reeltown",
+    "state": "AL",
+    "division": "2A",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 37.2,
+    "avg_points_allowed": 16.8,
+    "season_net_margin": 20.4,
+    "last_3_game_margin": 15.3,
+    "momentum_trend": -5.1,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Reeltown averages 37.2 PPG while holding AHSAA 2A Region 4 opponents to 16.8 PPG (+20.4 net margin).",
+      "Postseason Readiness: 10-0 against a 69.5 SOS Index with 1 running-clock separations and a 3-0 record in one-score games."
+    ]
+  },
+  "highland home": {
+    "team": "Highland Home",
+    "state": "AL",
+    "division": "2A",
+    "region": 2,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 33.2,
+    "avg_points_allowed": 14.0,
+    "season_net_margin": 19.2,
+    "last_3_game_margin": 18.7,
+    "momentum_trend": -0.5,
+    "close_game_record": "3-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Highland Home averages 33.2 PPG while holding AHSAA 2A Region 2 opponents to 14.0 PPG (+19.2 net margin).",
+      "Postseason Readiness: 9-1 against a 67.5 SOS Index with 2 running-clock separations and a 3-1 record in one-score games."
+    ]
+  },
+  "tuscaloosa academy": {
+    "team": "Tuscaloosa Academy",
+    "state": "AL",
+    "division": "2A",
+    "region": 3,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 18.1,
+    "avg_points_allowed": 22.8,
+    "season_net_margin": -4.7,
+    "last_3_game_margin": -2.3,
+    "momentum_trend": 2.4,
+    "close_game_record": "1-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Tuscaloosa Academy averages 18.1 PPG while holding AHSAA 2A Region 4 opponents to 22.8 PPG (-4.7 net margin).",
+      "Postseason Readiness: 2-8 against a 69.8 SOS Index with 0 running-clock separations and a 1-5 record in one-score games."
+    ]
+  },
+  "cottonwood": {
+    "team": "Cottonwood",
+    "state": "AL",
+    "division": "2A",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 22.8,
+    "avg_points_allowed": 22.9,
+    "season_net_margin": -0.1,
+    "last_3_game_margin": -4.7,
+    "momentum_trend": -4.6,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Cottonwood averages 22.8 PPG while holding AHSAA 2A Region 2 opponents to 22.9 PPG (-0.1 net margin).",
+      "Postseason Readiness: 5-5 against a 66.8 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+    ]
+  },
+  "clarke county": {
+    "team": "Clarke County",
+    "state": "AL",
+    "division": "2A",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.7,
+    "avg_points_allowed": 20.1,
+    "season_net_margin": -2.4,
+    "last_3_game_margin": -1.7,
+    "momentum_trend": 0.7,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Clarke County averages 17.7 PPG while holding AHSAA 2A Region 1 opponents to 20.1 PPG (-2.4 net margin).",
+      "Postseason Readiness: 4-6 against a 68.0 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "pisgah": {
+    "team": "Pisgah",
+    "state": "AL",
+    "division": "2A",
+    "region": 2,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 18.0,
+    "avg_points_allowed": 19.0,
+    "season_net_margin": -1.0,
+    "last_3_game_margin": 3.0,
+    "momentum_trend": 4.0,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Pisgah averages 18.0 PPG while holding AHSAA 2A Region 7 opponents to 19.0 PPG (-1.0 net margin).",
+      "Postseason Readiness: 6-4 against a 66.3 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "sulligent": {
+    "team": "Sulligent",
+    "state": "AL",
+    "division": "2A",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.9,
+    "avg_points_allowed": 22.2,
+    "season_net_margin": -4.3,
+    "last_3_game_margin": 0.3,
+    "momentum_trend": 4.6,
+    "close_game_record": "3-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Sulligent averages 17.9 PPG while holding AHSAA 2A Region 5 opponents to 22.2 PPG (-4.3 net margin).",
+      "Postseason Readiness: 4-6 against a 67.2 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+    ]
+  },
+  "vincent": {
+    "team": "Vincent",
+    "state": "AL",
+    "division": "2A",
+    "region": 4,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 21.1,
+    "avg_points_allowed": 21.4,
+    "season_net_margin": -0.3,
+    "last_3_game_margin": 2.0,
+    "momentum_trend": 2.3,
+    "close_game_record": "3-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Vincent averages 21.1 PPG while holding AHSAA 2A Region 5 opponents to 21.4 PPG (-0.3 net margin).",
+      "Postseason Readiness: 6-4 against a 65.2 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+    ]
+  },
+  "ariton": {
+    "team": "Ariton",
+    "state": "AL",
+    "division": "2A",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 20.0,
+    "avg_points_allowed": 24.4,
+    "season_net_margin": -4.4,
+    "last_3_game_margin": -3.0,
+    "momentum_trend": 1.4,
+    "close_game_record": "3-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Ariton averages 20.0 PPG while holding AHSAA 2A Region 2 opponents to 24.4 PPG (-4.4 net margin).",
+      "Postseason Readiness: 4-6 against a 67.0 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+    ]
+  },
+  "falkville": {
+    "team": "Falkville",
+    "state": "AL",
+    "division": "2A",
+    "region": 2,
+    "record": "0-10",
+    "games_played": 10,
+    "avg_points_scored": 14.6,
+    "avg_points_allowed": 37.0,
+    "season_net_margin": -22.4,
+    "last_3_game_margin": -27.7,
+    "momentum_trend": -5.3,
+    "close_game_record": "0-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Falkville averages 14.6 PPG while holding AHSAA 2A Region 8 opponents to 37.0 PPG (-22.4 net margin).",
+      "Postseason Readiness: 0-10 against a 67.2 SOS Index with 0 running-clock separations and a 0-3 record in one-score games."
+    ]
+  },
+  "wadley": {
+    "team": "Wadley",
+    "state": "AL",
+    "division": "1A",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 29.2,
+    "avg_points_allowed": 12.1,
+    "season_net_margin": 17.1,
+    "last_3_game_margin": 13.3,
+    "momentum_trend": -3.8,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Wadley averages 29.2 PPG while holding AHSAA 1A Region 4 opponents to 12.1 PPG (+17.1 net margin).",
+      "Postseason Readiness: 10-0 against a 66.7 SOS Index with 0 running-clock separations and a 2-0 record in one-score games."
+    ]
+  },
+  "leroy": {
+    "team": "Leroy",
+    "state": "AL",
+    "division": "1A",
+    "region": 2,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 32.1,
+    "avg_points_allowed": 16.6,
+    "season_net_margin": 15.5,
+    "last_3_game_margin": 10.0,
+    "momentum_trend": -5.5,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Leroy averages 32.1 PPG while holding AHSAA 1A Region 1 opponents to 16.6 PPG (+15.5 net margin).",
+      "Postseason Readiness: 7-3 against a 68.2 SOS Index with 1 running-clock separations and a 1-3 record in one-score games."
+    ]
+  },
+  "maplesville": {
+    "team": "Maplesville",
+    "state": "AL",
+    "division": "1A",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.6,
+    "avg_points_allowed": 18.1,
+    "season_net_margin": -0.5,
+    "last_3_game_margin": -5.7,
+    "momentum_trend": -5.2,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Maplesville averages 17.6 PPG while holding AHSAA 1A Region 3 opponents to 18.1 PPG (-0.5 net margin).",
+      "Postseason Readiness: 5-5 against a 67.2 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "sweet water": {
+    "team": "Sweet Water",
+    "state": "AL",
+    "division": "1A",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.3,
+    "avg_points_allowed": 17.8,
+    "season_net_margin": -0.5,
+    "last_3_game_margin": 6.7,
+    "momentum_trend": 7.2,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Sweet Water averages 17.3 PPG while holding AHSAA 1A Region 1 opponents to 17.8 PPG (-0.5 net margin).",
+      "Postseason Readiness: 5-5 against a 66.9 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "hackleburg": {
+    "team": "Hackleburg",
+    "state": "AL",
+    "division": "1A",
+    "region": 1,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 16.1,
+    "avg_points_allowed": 21.8,
+    "season_net_margin": -5.7,
+    "last_3_game_margin": -6.3,
+    "momentum_trend": -0.6,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Hackleburg averages 16.1 PPG while holding AHSAA 1A Region 8 opponents to 21.8 PPG (-5.7 net margin).",
+      "Postseason Readiness: 2-8 against a 66.9 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "berry": {
+    "team": "Berry",
+    "state": "AL",
+    "division": "1A",
+    "region": 2,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 23.2,
+    "avg_points_allowed": 16.4,
+    "season_net_margin": 6.8,
+    "last_3_game_margin": 8.3,
+    "momentum_trend": 1.5,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Berry averages 23.2 PPG while holding AHSAA 1A Region 5 opponents to 16.4 PPG (+6.8 net margin).",
+      "Postseason Readiness: 8-2 against a 65.5 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "elba": {
+    "team": "Elba",
+    "state": "AL",
+    "division": "1A",
+    "region": 3,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 21.3,
+    "avg_points_allowed": 27.7,
+    "season_net_margin": -6.4,
+    "last_3_game_margin": -3.0,
+    "momentum_trend": 3.4,
+    "close_game_record": "0-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Elba averages 21.3 PPG while holding AHSAA 1A Region 2 opponents to 27.7 PPG (-6.4 net margin).",
+      "Postseason Readiness: 2-8 against a 64.5 SOS Index with 0 running-clock separations and a 0-4 record in one-score games."
+    ]
+  },
+  "brantley": {
+    "team": "Brantley",
+    "state": "AL",
+    "division": "1A",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 23.3,
+    "avg_points_allowed": 26.4,
+    "season_net_margin": -3.1,
+    "last_3_game_margin": -5.0,
+    "momentum_trend": -1.9,
+    "close_game_record": "3-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Brantley averages 23.3 PPG while holding AHSAA 1A Region 2 opponents to 26.4 PPG (-3.1 net margin).",
+      "Postseason Readiness: 5-5 against a 66.3 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+    ]
+  },
+  "meek": {
+    "team": "Meek",
+    "state": "AL",
+    "division": "1A",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.4,
+    "avg_points_allowed": 22.1,
+    "season_net_margin": -4.7,
+    "last_3_game_margin": -2.0,
+    "momentum_trend": 2.7,
+    "close_game_record": "5-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Meek averages 17.4 PPG while holding AHSAA 1A Region 7 opponents to 22.1 PPG (-4.7 net margin).",
+      "Postseason Readiness: 5-5 against a 64.2 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+    ]
+  },
+  "millry": {
+    "team": "Millry",
+    "state": "AL",
+    "division": "1A",
+    "region": 2,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 13.7,
+    "avg_points_allowed": 32.2,
+    "season_net_margin": -18.5,
+    "last_3_game_margin": -16.3,
+    "momentum_trend": 2.2,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Millry averages 13.7 PPG while holding AHSAA 1A Region 1 opponents to 32.2 PPG (-18.5 net margin).",
+      "Postseason Readiness: 1-9 against a 65.6 SOS Index with 0 running-clock separations and a 1-3 record in one-score games."
+    ]
+  }
+}

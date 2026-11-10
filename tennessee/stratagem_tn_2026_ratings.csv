@@ -1,0 +1,387 @@
+rank,division_rank,team,state,division,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_scored,ppg_allowed,ppg_off,ppg_def,net_margin,off_index,def_index,playoff_points,harbin_avg,ppa,pqs,contender_tier,city,mascot
+1,1,McCallie,TN,DII-AAA,TSSAA DII-AAA,10-1,10,1,0,11,97.5,97.5,57.5,54.4,1,37.5,12.2,37.5,12.2,25.3,68.9,66.5,109.95,85.56,85.56,85.56,State Title Contender,Nashville,Blue Tornado
+2,1,Oakland,TN,6A,TSSAA 6A,10-1,10,1,0,11,97.1,97.1,55.82,60.8,2,33.7,15.7,33.7,15.7,18.0,63.6,61.6,112.19,87.45,87.45,87.45,State Title Contender,Nashville,Patriots
+3,2,Houston,TN,6A,TSSAA 6A,10-1,10,1,0,11,96.9,96.9,55.19,58.5,3,35.6,14.7,35.6,14.7,20.9,66.2,63.0,111.38,84.65,84.65,84.65,State Title Contender,Nashville,Mustangs
+4,2,Baylor,TN,DII-AAA,TSSAA DII-AAA,9-1,9,1,0,10,96.9,96.9,54.98,56.2,4,38.0,15.7,38.0,15.7,22.3,69.6,61.6,109.67,85.56,85.56,85.56,State Title Contender,Nashville,Red Raiders
+5,1,Page,TN,5A,TSSAA 5A,11-0,11,0,0,11,96.5,96.5,53.72,52.4,5,40.0,13.6,40.0,13.6,26.4,72.4,64.6,118.34,90.1,90.1,90.1,State Title Contender,Nashville,Patriots
+6,3,Ravenwood,TN,6A,TSSAA 6A,9-2,9,2,0,11,94.2,94.2,47.88,53.3,6,37.7,16.2,37.7,16.2,21.5,69.2,60.9,100.47,74.97,74.97,74.97,State Title Contender,Nashville,Raptors
+7,4,Maryville,TN,6A,TSSAA 6A,9-2,9,2,0,11,92.9,92.9,45.39,54.0,7,36.5,16.4,36.5,16.4,20.1,67.5,60.6,100.72,74.67,74.67,74.67,State Title Contender,Maryville,Red Rebels
+8,1,CPA,TN,DII-AA,TSSAA DII-AA,10-1,10,1,0,11,89.9,89.9,40.86,48.0,8,37.3,13.5,37.3,13.5,23.8,68.6,64.7,107.71,78.63,78.63,78.63,State Title Contender,Nashville,Varsity
+9,3,Ensworth,TN,DII-AAA,TSSAA DII-AAA,8-2,8,2,0,10,89.1,89.1,39.84,55.3,9,32.0,17.0,32.0,17.0,15.0,61.2,59.8,99.35,77.16,77.16,77.16,State Title Contender,Nashville,Tigers
+10,2,Sevier County,TN,5A,TSSAA 5A,8-3,8,3,0,11,88.4,88.4,39.02,48.7,10,41.7,17.1,41.7,17.1,24.6,74.8,59.7,89.77,77.55,77.55,77.55,State Title Contender,Nashville,Smoky Bears
+11,1,Dyersburg,TN,3A,TSSAA 3A,11-0,11,0,0,11,88.1,88.1,38.61,39.7,11,43.6,11.5,43.6,11.5,32.1,77.4,67.5,113.89,79.21,79.21,79.21,State Title Contender,Nashville,Trojans
+12,3,Knoxville West,TN,5A,TSSAA 5A,9-2,9,2,0,11,88.1,88.1,38.61,54.8,12,33.3,17.5,33.3,17.5,15.8,63.0,59.1,101.0,80.0,80.0,80.0,State Title Contender,Knoxville,Varsity
+13,2,FRA,TN,DII-AA,TSSAA DII-AA,10-1,10,1,0,11,87.9,87.9,38.41,45.8,13,40.4,14.5,40.4,14.5,25.9,73.0,63.3,106.94,75.57,75.57,75.57,State Title Contender,Nashville,Varsity
+14,4,Montgomery Bell Academy,TN,DII-AAA,TSSAA DII-AAA,9-2,9,2,0,11,83.5,83.5,33.49,77.1,14,29.1,18.5,29.1,18.5,10.6,57.1,57.7,108.8,28.64,53.18,8.18,Regional Contender,Nashville,Big Red
+15,4,Southwind,TN,5A,TSSAA 5A,8-3,8,3,0,11,82.5,82.5,32.53,47.8,15,35.6,15.8,35.6,15.8,19.8,66.2,61.5,89.46,65.05,65.05,65.05,Regional Contender,Nashville,Jaguars
+16,5,Riverdale,TN,6A,TSSAA 6A,10-1,10,1,0,11,82.3,82.3,32.33,52.2,16,32.5,17.7,32.5,17.7,14.8,61.9,58.8,109.18,82.52,82.52,82.52,Regional Contender,Nashville,Warriors
+17,2,Alcoa,TN,3A,TSSAA 3A,10-1,10,1,0,11,80.7,80.7,30.72,39.6,17,39.2,11.7,39.2,11.7,27.5,71.3,67.2,104.77,73.06,73.06,73.06,Regional Contender,Alcoa,Tornadoes
+18,3,Boyd Buchanan,TN,DII-AA,TSSAA DII-AA,10-1,10,1,0,11,79.7,79.7,29.72,46.2,18,35.7,16.6,35.7,16.6,19.1,66.4,60.4,107.08,82.47,82.47,82.47,Regional Contender,Nashville,Buccaneers
+19,6,Whitehaven,TN,6A,TSSAA 6A,8-2,8,2,0,10,79.3,79.3,29.29,73.3,19,26.5,13.1,26.5,13.1,13.4,53.5,65.3,105.66,28.0,52.0,8.0,Regional Contender,Nashville,Tigers
+20,1,Pearl-Cohn,TN,4A,TSSAA 4A,8-3,8,3,0,11,79.1,79.1,29.12,44.3,20,34.8,17.0,34.8,17.0,17.8,65.1,59.8,88.23,76.81,76.81,76.81,Regional Contender,Nashville,Firebirds
+21,5,Christ Presbyterian Academy,TN,DII-AAA,TSSAA DII-AAA,2-9,2,9,0,11,79.1,79.1,29.11,85.1,21,14.2,29.8,14.2,29.8,-15.6,36.3,41.9,47.97,6.36,11.82,1.82,Regional Contender,Nashville,Lions
+22,7,Germantown,TN,6A,TSSAA 6A,3-8,3,8,0,11,76.7,76.7,26.73,58.8,22,20.8,21.2,20.8,21.2,-0.4,45.5,53.9,47.85,59.02,59.02,59.02,Regional Contender,Germantown,Red Devils
+23,2,Upperman,TN,4A,TSSAA 4A,11-0,11,0,0,11,76.1,76.1,26.13,45.7,23,36.1,18.3,36.1,18.3,17.8,66.9,58.0,116.0,83.36,83.36,83.36,Regional Contender,Nashville,Bees
+24,8,Antioch,TN,6A,TSSAA 6A,11-0,11,0,0,11,75.2,75.2,25.2,63.6,24,37.9,9.5,37.9,9.5,28.4,69.5,70.3,122.26,35.0,65.0,10.0,Regional Contender,Nashville,Bears
+25,4,Franklin Road Academy,TN,DII-AA,TSSAA DII-AA,8-3,8,3,0,11,75.2,75.2,25.19,71.1,25,43.9,17.7,43.9,17.7,26.2,77.9,58.8,97.61,25.45,47.27,7.27,Regional Contender,Nashville,Panthers
+26,6,Brentwood Academy,TN,DII-AAA,TSSAA DII-AAA,6-4,6,4,0,10,74.7,74.7,24.74,56.8,26,28.2,21.6,28.2,21.6,6.6,55.9,53.4,79.88,63.16,63.16,63.16,Regional Contender,Brentwood,Eagles
+27,5,University School of Jackson,TN,DII-AA,TSSAA DII-AA,9-1,9,1,0,10,73.8,73.8,23.76,62.6,27,37.5,6.4,37.5,6.4,31.1,68.9,74.6,111.91,31.5,58.5,9.0,Playoff Qualifier,Jackson,Bruins
+28,3,Tyner Academy,TN,3A,TSSAA 3A,10-1,10,1,0,11,72.5,72.5,22.5,63.0,28,37.2,13.7,37.2,13.7,23.5,68.5,64.4,112.96,31.82,59.09,9.09,Playoff Qualifier,Chattanooga,Rams
+29,9,Green Hill,TN,6A,TSSAA 6A,9-2,9,2,0,11,72.0,72.0,22.05,70.5,29,25.7,14.2,25.7,14.2,11.5,52.4,63.7,106.49,28.64,53.18,8.18,Playoff Qualifier,Nashville,Hawks
+30,10,Brentwood,TN,6A,TSSAA 6A,9-2,9,2,0,11,72.0,72.0,21.99,57.1,30,29.5,13.2,29.5,13.2,16.3,57.7,65.1,101.8,52.21,52.21,52.21,Playoff Qualifier,Brentwood,Bruins
+31,7,MBA,TN,DII-AAA,TSSAA DII-AAA,5-4,5,4,0,9,72.0,72.0,21.99,59.3,31,23.0,20.6,23.0,20.6,2.4,48.6,54.8,76.31,56.63,56.63,56.63,Playoff Qualifier,Nashville,Varsity
+32,1,East Nashville Magnet,TN,2A,TSSAA 2A,8-3,8,3,0,11,71.9,71.9,21.9,66.2,32,40.4,16.4,40.4,16.4,24.0,73.0,60.6,95.9,25.45,47.27,7.27,Playoff Qualifier,Nashville,Eagles
+33,6,South Haven Christian,TN,DII-AA,TSSAA DII-AA,10-1,10,1,0,11,71.7,71.7,21.67,53.7,33,48.2,25.5,48.2,25.5,22.7,83.9,47.9,109.7,31.82,59.09,9.09,Playoff Qualifier,Springfield,Christian
+34,1,McKenzie,TN,1A,TSSAA 1A,10-1,10,1,0,11,71.6,71.6,21.59,34.0,34,41.3,12.5,41.3,12.5,28.8,74.2,66.1,102.81,68.3,68.3,68.3,Playoff Qualifier,Mckenzie,Rebels
+35,3,White County,TN,4A,TSSAA 4A,11-0,11,0,0,11,71.3,71.3,21.3,63.3,35,37.3,10.6,37.3,10.6,26.7,68.6,68.8,122.16,35.0,65.0,10.0,Playoff Qualifier,Sparta,Warriors
+36,11,Cookeville,TN,6A,TSSAA 6A,5-6,5,6,0,11,71.2,71.2,21.18,73.5,36,21.2,19.5,21.2,19.5,1.7,46.1,56.3,71.18,15.91,29.55,4.55,Playoff Qualifier,Cookeville,Cavaliers
+37,12,Lexington,TN,6A,TSSAA 6A,11-0,11,0,0,11,70.4,70.4,20.4,62.2,37,44.2,14.4,44.2,14.4,29.8,78.3,63.4,121.77,35.0,65.0,10.0,Playoff Qualifier,Nashville,Tigers
+38,4,Crockett County,TN,4A,TSSAA 4A,10-1,10,1,0,11,70.1,70.1,20.1,60.3,38,48.2,10.5,48.2,10.5,37.7,83.9,68.9,112.01,31.82,59.09,9.09,Playoff Qualifier,Alamo,Cavaliers
+39,8,Memphis University School,TN,DII-AAA,TSSAA DII-AAA,4-7,4,7,0,11,70.0,70.0,20.05,75.1,39,23.5,31.3,23.5,31.3,-7.8,49.3,39.8,62.65,12.73,23.64,3.64,Playoff Qualifier,Memphis,Owls
+40,7,Christian Academy of Knoxville,TN,DII-AA,TSSAA DII-AA,10-1,10,1,0,11,69.7,69.7,19.72,68.7,40,38.5,16.4,38.5,16.4,22.1,70.3,60.6,114.95,31.82,59.09,9.09,Playoff Qualifier,Knoxville,Warriors
+41,13,Knoxville Central,TN,6A,TSSAA 6A,10-1,10,1,0,11,69.7,69.7,19.66,64.5,41,44.5,19.8,44.5,19.8,24.7,78.7,55.9,113.48,31.82,59.09,9.09,Playoff Qualifier,Knoxville,Bobcats
+42,5,Powell,TN,5A,TSSAA 5A,8-3,8,3,0,11,69.2,69.2,19.25,48.3,42,32.2,20.3,32.2,20.3,11.9,61.5,55.2,89.63,63.65,63.65,63.65,Playoff Qualifier,Nashville,Panthers
+43,6,Lincoln County,TN,5A,TSSAA 5A,9-1,9,1,0,10,69.2,69.2,19.15,66.0,43,38.3,16.8,38.3,16.8,21.5,70.0,60.1,113.1,31.5,58.5,9.0,Playoff Qualifier,Fayetteville,Falcons
+44,7,Columbia Central,TN,5A,TSSAA 5A,10-1,10,1,0,11,69.1,69.1,19.11,65.7,44,38.6,17.8,38.6,17.8,20.8,70.4,58.7,113.9,31.82,59.09,9.09,Playoff Qualifier,Columbia,Lions
+45,14,Cleveland,TN,6A,TSSAA 6A,10-1,10,1,0,11,68.6,68.6,18.62,70.1,45,33.5,16.0,33.5,16.0,17.5,63.3,61.2,115.44,31.82,59.09,9.09,Playoff Qualifier,Cleveland,Raiders
+46,5,Macon County,TN,4A,TSSAA 4A,10-1,10,1,0,11,68.3,68.3,18.28,44.8,46,32.4,9.5,32.4,9.5,22.9,61.8,70.3,106.59,70.26,70.26,70.26,Playoff Qualifier,Nashville,Tigers
+47,4,Forrest,TN,3A,TSSAA 3A,10-0,10,0,0,10,67.9,67.9,17.94,58.4,47,46.7,14.6,46.7,14.6,32.1,81.8,63.2,120.44,35.0,65.0,10.0,Playoff Qualifier,Chapel Hill,Rockets
+48,15,Sweetwater,TN,6A,TSSAA 6A,10-1,10,1,0,11,67.7,67.7,17.7,60.2,48,43.4,11.7,43.4,11.7,31.7,77.2,67.2,111.98,31.82,59.09,9.09,Playoff Qualifier,Nashville,Wildcats
+49,16,Lebanon,TN,6A,TSSAA 6A,7-4,7,4,0,11,67.2,67.2,17.18,68.4,49,26.4,15.0,26.4,15.0,11.4,53.4,62.6,87.58,22.27,41.36,6.36,Playoff Qualifier,Nashville,Blue Devils
+50,2,Milan,TN,2A,TSSAA 2A,11-0,11,0,0,11,67.1,67.1,17.11,39.0,50,34.5,13.9,34.5,13.9,20.6,64.7,64.1,113.65,77.66,77.66,77.66,Playoff Qualifier,Nashville,Bulldogs
+51,8,Trinity Christian Academy,TN,DII-AA,TSSAA DII-AA,9-1,9,1,0,10,66.9,66.9,16.91,59.0,51,41.6,11.7,41.6,11.7,29.9,74.6,67.2,110.65,31.5,58.5,9.0,Playoff Qualifier,Jackson,Lions
+52,17,Gibbs,TN,6A,TSSAA 6A,10-1,10,1,0,11,66.8,66.8,16.85,64.9,52,37.5,20.3,37.5,20.3,17.2,68.9,55.2,113.62,31.82,59.09,9.09,Playoff Qualifier,Nashville,Eagles
+53,18,Dobyns Bennett,TN,6A,TSSAA 6A,8-3,8,3,0,11,66.6,66.6,16.6,66.6,53,36.0,21.4,36.0,21.4,14.6,66.8,53.6,96.04,25.45,47.27,7.27,Playoff Qualifier,Nashville,Indians
+54,9,Lakeway Christian Academy,TN,DII-AA,TSSAA DII-AA,8-3,8,3,0,11,66.2,66.2,16.16,68.5,54,35.6,13.8,35.6,13.8,21.8,66.2,64.3,96.7,25.45,47.27,7.27,Playoff Qualifier,Morristown,Lions
+55,19,Oak Ridge,TN,6A,TSSAA 6A,7-4,7,4,0,11,65.8,65.8,15.83,69.4,55,33.3,23.5,33.3,23.5,9.8,63.0,50.7,87.93,22.27,41.36,6.36,Playoff Qualifier,Nashville,Wildcats
+56,20,Science Hill,TN,6A,TSSAA 6A,8-2,8,2,0,10,65.7,65.7,15.67,68.2,56,37.2,21.2,37.2,21.2,16.0,68.5,53.9,103.87,28.0,52.0,8.0,Playoff Qualifier,Nashville,Hilltoppers
+57,10,Freedom Cowboys,TN,DII-AA,TSSAA DII-AA,9-3,9,3,0,12,65.6,65.6,15.59,51.5,57,43.3,24.2,43.3,24.2,19.1,77.0,49.7,93.03,26.25,48.75,7.5,Playoff Qualifier,Huntsville,Cowboys
+58,3,Memphis Academy of Science and Engineering,TN,2A,TSSAA 2A,8-3,8,3,0,11,65.2,65.2,15.23,60.8,58,33.1,8.1,33.1,8.1,25.0,62.7,72.3,94.01,25.45,47.27,7.27,Playoff Qualifier,Memphis,Phoenix
+59,21,Hardin Valley Academy,TN,6A,TSSAA 6A,7-4,7,4,0,11,65.2,65.2,15.23,66.8,59,36.0,18.8,36.0,18.8,17.2,66.8,57.3,87.02,22.27,41.36,6.36,Playoff Qualifier,Knoxville,Hawks
+60,22,Memphis Central,TN,6A,TSSAA 6A,9-2,9,2,0,11,65.1,65.1,15.12,64.1,60,38.6,14.5,38.6,14.5,24.1,70.4,63.3,104.25,28.64,53.18,8.18,Playoff Qualifier,Memphis,Warriors
+61,8,Beech,TN,5A,TSSAA 5A,10-1,10,1,0,11,64.8,64.8,14.8,52.2,61,40.7,15.4,40.7,15.4,25.3,73.4,62.0,109.18,54.66,54.66,54.66,Playoff Qualifier,Nashville,Buccaneers
+62,11,Middle Tennessee Christian,TN,DII-AA,TSSAA DII-AA,9-1,9,1,0,10,64.8,64.8,14.76,57.7,62,39.1,9.5,39.1,9.5,29.6,71.1,70.3,110.19,31.5,58.5,9.0,Playoff Qualifier,Murfreesboro,Cougars
+63,23,Bartlett,TN,6A,TSSAA 6A,5-6,5,6,0,11,64.4,64.4,14.41,70.9,63,25.7,23.5,25.7,23.5,2.2,52.4,50.7,70.27,15.91,29.55,4.55,Playoff Qualifier,Nashville,Panthers
+64,24,Cannon Co,TN,6A,TSSAA 6A,1-0,1,0,0,1,64.0,64.0,14.0,55.0,64,31.0,18.0,31.0,18.0,13.0,59.8,58.4,119.25,35.0,65.0,10.0,Playoff Qualifier,Nashville,Varsity
+65,25,Columbia,TN,6A,TSSAA 6A,1-0,1,0,0,1,64.0,64.0,14.0,55.0,65,42.0,18.0,42.0,18.0,24.0,75.2,58.4,119.25,35.0,65.0,10.0,Playoff Qualifier,Nashville,Varsity
+66,26,Eagleton,TN,6A,TSSAA 6A,1-0,1,0,0,1,64.0,64.0,14.0,55.0,66,41.0,14.0,41.0,14.0,27.0,73.8,64.0,119.25,35.0,65.0,10.0,Playoff Qualifier,Nashville,Varsity
+67,27,Lakeland Prep,TN,6A,TSSAA 6A,1-0,1,0,0,1,64.0,64.0,14.0,55.0,67,30.0,16.0,30.0,16.0,14.0,58.4,61.2,119.25,35.0,65.0,10.0,Playoff Qualifier,Nashville,Varsity
+68,28,Lakeway Christian,TN,6A,TSSAA 6A,1-0,1,0,0,1,64.0,64.0,14.0,55.0,68,21.0,14.0,21.0,14.0,7.0,45.8,64.0,119.25,35.0,65.0,10.0,Playoff Qualifier,Nashville,Varsity
+69,29,Lausanne,TN,6A,TSSAA 6A,1-0,1,0,0,1,64.0,64.0,14.0,55.0,69,47.0,14.0,47.0,14.0,33.0,82.2,64.0,119.25,35.0,65.0,10.0,Playoff Qualifier,Nashville,Varsity
+70,30,Silverdale,TN,6A,TSSAA 6A,1-0,1,0,0,1,64.0,64.0,14.0,55.0,70,47.0,10.0,47.0,10.0,37.0,82.2,69.6,119.25,35.0,65.0,10.0,Playoff Qualifier,Nashville,Varsity
+71,31,Trinity Christian,TN,6A,TSSAA 6A,1-0,1,0,0,1,64.0,64.0,14.0,55.0,71,48.0,14.0,48.0,14.0,34.0,83.6,64.0,119.25,35.0,65.0,10.0,Playoff Qualifier,Nashville,Varsity
+72,32,Tyner,TN,6A,TSSAA 6A,1-0,1,0,0,1,64.0,64.0,14.0,55.0,72,55.0,3.0,55.0,3.0,52.0,93.4,79.4,119.25,35.0,65.0,10.0,Playoff Qualifier,Nashville,Varsity
+73,12,Lipscomb Academy,TN,DII-AA,TSSAA DII-AA,7-4,7,4,0,11,63.8,63.8,13.84,46.9,73,30.6,20.0,30.6,20.0,10.6,59.2,55.6,80.05,57.08,57.08,57.08,Playoff Qualifier,Nashville,Mustangs
+74,9,McMinn County,TN,5A,TSSAA 5A,6-5,6,5,0,11,63.8,63.8,13.83,68.1,74,30.7,18.5,30.7,18.5,12.2,59.4,57.7,78.38,19.09,35.45,5.45,Playoff Qualifier,Athens,Cherokees
+75,33,Kirkwood,TN,6A,TSSAA 6A,10-1,10,1,0,11,63.6,63.6,13.63,59.2,75,36.8,7.5,36.8,7.5,29.3,67.9,73.1,111.63,31.82,59.09,9.09,Playoff Qualifier,Nashville,Cobras
+76,34,Gallatin,TN,6A,TSSAA 6A,7-4,7,4,0,11,63.0,63.0,12.99,70.7,76,23.4,19.6,23.4,19.6,3.8,49.2,56.2,88.38,22.27,41.36,6.36,Playoff Qualifier,Gallatin,Green Wave
+77,35,Adamsville,TN,6A,TSSAA 6A,10-1,10,1,0,11,61.4,61.4,11.38,58.5,77,41.5,16.2,41.5,16.2,25.3,74.5,60.9,111.38,31.82,59.09,9.09,Playoff Qualifier,Nashville,Cardinals
+78,36,Friendship Christian,TN,6A,TSSAA 6A,9-2,9,2,0,11,61.3,61.3,11.33,57.6,78,29.9,12.5,29.9,12.5,17.4,58.3,66.1,101.98,28.64,53.18,8.18,Playoff Qualifier,Nashville,Commanders
+79,37,Jackson Christian,TN,6A,TSSAA 6A,9-2,9,2,0,11,61.3,61.3,11.33,62.2,79,33.6,20.9,33.6,20.9,12.7,63.4,54.3,103.59,28.64,53.18,8.18,Playoff Qualifier,Jackson,Eagles
+80,38,Happy Valley,TN,6A,TSSAA 6A,10-1,10,1,0,11,61.3,61.3,11.32,50.1,80,45.1,8.3,45.1,8.3,36.8,79.5,72.0,108.44,31.82,59.09,9.09,Playoff Qualifier,Nashville,Warriors
+81,13,Goodpasture Christian,TN,DII-AA,TSSAA DII-AA,8-3,8,3,0,11,61.3,61.3,11.29,62.6,81,32.1,17.7,32.1,17.7,14.4,61.3,58.8,94.64,25.45,47.27,7.27,Playoff Qualifier,Madison,Cougars
+82,39,Liberty Creek,TN,6A,TSSAA 6A,7-4,7,4,0,11,61.2,61.2,11.23,64.0,82,29.5,14.6,29.5,14.6,14.9,57.7,63.2,86.04,22.27,41.36,6.36,Playoff Qualifier,Nashville,Wolves
+83,2,South Pittsburg,TN,1A,TSSAA 1A,10-1,10,1,0,11,61.0,61.0,10.99,32.5,83,50.9,6.2,50.9,6.2,44.7,87.7,74.9,102.28,70.5,70.5,70.5,Playoff Qualifier,South Pittsburg,Pirates
+84,40,Tennessee,TN,6A,TSSAA 6A,7-4,7,4,0,11,60.8,60.8,10.82,64.4,84,37.1,24.0,37.1,24.0,13.1,68.3,50.0,86.18,22.27,41.36,6.36,Playoff Qualifier,Nashville,Vikings
+85,5,Covington,TN,3A,TSSAA 3A,8-3,8,3,0,11,60.8,60.8,10.8,41.8,85,31.6,16.6,31.6,16.6,15.0,60.6,60.4,87.36,60.76,60.76,60.76,Playoff Qualifier,Covington,Chargers
+86,6,Kingston - Roane County,TN,3A,TSSAA 3A,8-3,8,3,0,11,60.7,60.7,10.74,60.4,86,38.2,21.3,38.2,21.3,16.9,69.9,53.8,93.87,25.45,47.27,7.27,Playoff Qualifier,Kingston,Yellowjackets
+87,41,Independence,TN,6A,TSSAA 6A,4-7,4,7,0,11,60.7,60.7,10.74,72.2,87,23.5,29.6,23.5,29.6,-6.1,49.3,42.2,61.63,12.73,23.64,3.64,Playoff Qualifier,Nashville,Eagles
+88,14,Evangelical Christian,TN,DII-AA,TSSAA DII-AA,8-3,8,3,0,11,60.7,60.7,10.72,66.4,88,27.3,15.8,27.3,15.8,11.5,54.6,61.5,95.97,25.45,47.27,7.27,Playoff Qualifier,Cordova,Eagles
+89,42,Clarksville,TN,6A,TSSAA 6A,8-3,8,3,0,11,60.5,60.5,10.5,62.9,89,29.2,15.7,29.2,15.7,13.5,57.3,61.6,94.74,25.45,47.27,7.27,Playoff Qualifier,Nashville,Wildcats
+90,4,Marion County,TN,2A,TSSAA 2A,11-0,11,0,0,11,60.4,60.4,10.42,33.3,90,38.5,5.4,38.5,5.4,33.1,70.3,76.0,111.66,68.76,68.76,68.76,Playoff Qualifier,Nashville,Warriors
+91,43,Jackson North Side,TN,6A,TSSAA 6A,7-4,7,4,0,11,59.7,59.7,9.72,65.0,91,34.6,21.7,34.6,21.7,12.9,64.8,53.2,86.39,22.27,41.36,6.36,Playoff Qualifier,Jackson,Indians
+92,44,Rockvale,TN,6A,TSSAA 6A,5-5,5,5,0,10,59.4,59.4,9.41,69.8,92,23.1,22.0,23.1,22.0,1.1,48.7,52.8,74.43,17.5,32.5,5.0,Playoff Qualifier,Rockvale,Varsity
+93,7,Unicoi County,TN,3A,TSSAA 3A,10-1,10,1,0,11,59.4,59.4,9.36,56.1,93,39.8,17.1,39.8,17.1,22.7,72.1,59.7,110.54,31.82,59.09,9.09,Playoff Qualifier,Erwin,Blue Devils
+94,8,Westview,TN,3A,TSSAA 3A,9-2,9,2,0,11,59.3,59.3,9.29,39.9,94,31.4,16.4,31.4,16.4,15.0,60.4,60.6,95.78,66.91,66.91,66.91,Playoff Qualifier,Nashville,Chargers
+95,45,Humboldt,TN,6A,TSSAA 6A,10-1,10,1,0,11,59.1,59.1,9.06,51.3,95,45.6,14.4,45.6,14.4,31.2,80.2,63.4,108.86,31.82,59.09,9.09,Playoff Qualifier,Nashville,Vikings
+96,46,Hendersonville,TN,6A,TSSAA 6A,6-5,6,5,0,11,58.7,58.7,8.72,67.3,96,25.7,25.4,25.7,25.4,0.3,52.4,48.0,78.1,19.09,35.45,5.45,Playoff Qualifier,Hendersonville,Commandos
+97,47,Concord Christian,TN,6A,TSSAA 6A,8-3,8,3,0,11,58.6,58.6,8.63,61.9,97,38.3,26.0,38.3,26.0,12.3,70.0,47.2,94.39,25.45,47.27,7.27,Playoff Qualifier,Nashville,Lions
+98,48,Station Camp,TN,6A,TSSAA 6A,6-5,6,5,0,11,58.6,58.6,8.57,65.1,98,37.0,27.5,37.0,27.5,9.5,68.2,45.1,77.33,19.09,35.45,5.45,Playoff Qualifier,Nashville,Bison
+99,6,Greeneville,TN,4A,TSSAA 4A,7-4,7,4,0,11,58.5,58.5,8.54,44.1,99,33.2,22.5,33.2,22.5,10.7,62.9,52.1,79.07,57.16,57.16,57.16,Playoff Qualifier,Greeneville,Greene Devils
+100,49,Whites Creek,TN,6A,TSSAA 6A,9-1,9,1,0,10,57.8,57.8,7.77,57.8,100,27.5,10.1,27.5,10.1,17.4,54.9,69.5,110.23,31.5,58.5,9.0,Varsity Program,Nashville,Cobras
+101,50,Seymour,TN,6A,TSSAA 6A,9-2,9,2,0,11,57.8,57.8,7.75,61.2,101,32.1,16.1,32.1,16.1,16.0,61.3,61.1,103.24,28.64,53.18,8.18,Varsity Program,Nashville,Eagles
+102,51,Chattanooga Prep,TN,6A,TSSAA 6A,4-7,4,7,0,11,57.6,57.6,7.62,66.6,102,24.0,22.4,24.0,22.4,1.6,50.0,52.2,59.67,12.73,23.64,3.64,Varsity Program,Chattanooga,Sentinels
+103,15,Lausanne Collegiate,TN,DII-AA,TSSAA DII-AA,6-4,6,4,0,10,57.6,57.6,7.61,48.0,103,26.4,19.8,26.4,19.8,6.6,53.4,55.9,76.8,62.13,62.13,62.13,Varsity Program,Nashville,Lynx
+104,52,Cornersville,TN,6A,TSSAA 6A,11-0,11,0,0,11,57.4,57.4,7.39,55.6,104,40.6,21.5,40.6,21.5,19.1,73.2,53.5,119.46,35.0,65.0,10.0,Varsity Program,Nashville,Bulldogs
+105,16,Grace Christian Academy,TN,DII-AA,TSSAA DII-AA,10-1,10,1,0,11,57.4,57.4,7.36,66.3,105,46.5,17.5,46.5,17.5,29.0,81.5,59.1,114.11,31.82,59.09,9.09,Varsity Program,Knoxville,Rams
+106,53,Spring Hill,TN,6A,TSSAA 6A,9-2,9,2,0,11,57.3,57.3,7.32,60.4,106,30.0,10.9,30.0,10.9,19.1,58.4,68.3,102.96,28.64,53.18,8.18,Varsity Program,Nashville,Raiders
+107,7,Fulton,TN,4A,TSSAA 4A,5-6,5,6,0,11,57.2,57.2,7.21,70.3,107,25.8,28.9,25.8,28.9,-3.1,52.5,43.1,70.06,15.91,29.55,4.55,Varsity Program,Knoxville,Falcons
+108,54,Summit,TN,6A,TSSAA 6A,3-7,3,7,0,10,57.2,57.2,7.18,71.0,108,17.4,23.4,17.4,23.4,-6.0,40.8,50.8,54.85,10.5,19.5,3.0,Varsity Program,Spring Hill,Spartans
+109,5,Jackson Central Merry,TN,2A,TSSAA 2A,6-5,6,5,0,11,57.1,57.1,7.08,62.2,109,28.1,18.3,28.1,18.3,9.8,55.7,58.0,76.32,19.09,35.45,5.45,Varsity Program,Jackson,Cougars
+110,10,West,TN,5A,TSSAA 5A,5-6,5,6,0,11,56.9,56.9,6.9,67.5,110,25.8,28.5,25.8,28.5,-2.7,52.5,43.7,69.08,15.91,29.55,4.55,Varsity Program,Knoxville,Rebels
+111,55,Cosby,TN,6A,TSSAA 6A,10-1,10,1,0,11,56.8,56.8,6.83,51.7,111,45.2,19.5,45.2,19.5,25.7,79.7,56.3,109.0,31.82,59.09,9.09,Varsity Program,Nashville,Eagles
+112,8,South-Doyle,TN,4A,TSSAA 4A,6-4,6,4,0,10,56.5,56.5,6.55,65.6,112,26.5,23.1,26.5,23.1,3.4,53.5,51.3,82.96,21.0,39.0,6.0,Varsity Program,Knoxville,Cherokees
+113,56,Tellico Plains,TN,6A,TSSAA 6A,8-3,8,3,0,11,56.3,56.3,6.26,59.7,113,32.8,19.3,32.8,19.3,13.5,62.3,56.6,93.62,25.45,47.27,7.27,Varsity Program,Nashville,Bears
+114,17,Webb,TN,DII-AA,TSSAA DII-AA,2-9,2,9,0,11,56.0,56.0,6.05,73.0,114,20.8,32.3,20.8,32.3,-11.5,45.5,38.4,43.73,6.36,11.82,1.82,Varsity Program,Knoxville,Spartans
+115,57,Mitchell,TN,6A,TSSAA 6A,6-5,6,5,0,11,56.0,56.0,6.04,55.7,115,32.7,8.2,32.7,8.2,24.5,62.2,72.1,74.04,19.09,35.45,5.45,Varsity Program,Nashville,Tigers
+116,6,Huntingdon,TN,2A,TSSAA 2A,10-1,10,1,0,11,55.9,55.9,5.94,31.2,116,37.4,13.9,37.4,13.9,23.5,68.8,64.1,101.83,68.76,68.76,68.76,Varsity Program,Nashville,Mustangs
+117,18,Notre Dame,TN,DII-AA,TSSAA DII-AA,4-6,4,6,0,10,55.9,55.9,5.86,69.4,117,26.0,27.7,26.0,27.7,-1.7,52.8,44.8,64.29,14.0,26.0,4.0,Varsity Program,Chattanooga,Fighting Irish
+118,9,MUS,TN,DII-AAA,TSSAA DII-AAA,1-8,1,8,0,9,55.8,55.8,5.76,63.0,118,18.8,28.6,18.8,28.6,-9.8,42.7,43.6,33.16,30.49,30.49,30.49,Varsity Program,Nashville,Varsity
+119,58,Jefferson County,TN,6A,TSSAA 6A,5-6,5,6,0,11,55.7,55.7,5.74,67.5,119,26.2,29.2,26.2,29.2,-3.0,53.1,42.7,69.08,15.91,29.55,4.55,Varsity Program,Dandridge,Patriots
+120,59,David Crockett,TN,6A,TSSAA 6A,7-4,7,4,0,11,55.7,55.7,5.69,63.6,120,26.6,19.9,26.6,19.9,6.7,53.6,55.7,85.9,22.27,41.36,6.36,Varsity Program,Nashville,Pioneers
+121,7,Cannon County,TN,2A,TSSAA 2A,9-2,9,2,0,11,55.6,55.6,5.58,54.9,121,36.0,12.2,36.0,12.2,23.8,66.8,66.5,101.03,28.64,53.18,8.18,Varsity Program,Woodbury,Lions
+122,9,Austin-East,TN,3A,TSSAA 3A,6-4,6,4,0,10,55.4,55.4,5.44,62.3,122,34.0,27.5,34.0,27.5,6.5,64.0,45.1,81.8,21.0,39.0,6.0,Varsity Program,Knoxville,Roadrunners
+123,60,Siegel,TN,6A,TSSAA 6A,3-7,3,7,0,10,55.2,55.2,5.2,72.2,123,13.8,29.9,13.8,29.9,-16.1,35.7,41.7,55.27,10.5,19.5,3.0,Varsity Program,Murfreesboro,Stars
+124,61,Franklin,TN,6A,TSSAA 6A,6-5,6,5,0,11,55.2,55.2,5.18,67.8,124,18.2,19.5,18.2,19.5,-1.3,41.9,56.3,78.28,19.09,35.45,5.45,Varsity Program,Franklin,Admirals
+125,62,White Station,TN,6A,TSSAA 6A,4-7,4,7,0,11,55.0,55.0,4.98,69.0,125,18.4,22.5,18.4,22.5,-4.1,42.2,52.1,60.51,12.73,23.64,3.64,Varsity Program,Nashville,Spartans
+126,63,Bradley Central,TN,6A,TSSAA 6A,5-5,5,5,0,10,54.8,54.8,4.84,60.8,126,26.4,27.8,26.4,27.8,-1.4,53.4,44.7,71.28,44.95,44.95,44.95,Varsity Program,Nashville,Bears
+127,8,Grundy County,TN,2A,TSSAA 2A,7-4,7,4,0,11,54.5,54.5,4.55,52.6,127,39.8,14.1,39.8,14.1,25.7,72.1,63.9,82.05,22.27,41.36,6.36,Varsity Program,Coalmont,Yellowjackets
+128,19,Pope John Paul II,TN,DII-AA,TSSAA DII-AA,2-9,2,9,0,11,54.5,54.5,4.52,72.5,128,18.9,33.0,18.9,33.0,-14.1,42.9,37.4,43.56,6.36,11.82,1.82,Varsity Program,Hendersonville,Knights
+129,64,West Ridge,TN,6A,TSSAA 6A,4-7,4,7,0,11,54.2,54.2,4.24,67.9,129,25.9,31.5,25.9,31.5,-5.6,52.7,39.5,60.13,12.73,23.64,3.64,Varsity Program,Nashville,Wolves
+130,20,Donelson Christian Academy,TN,DII-AA,TSSAA DII-AA,6-5,6,5,0,11,54.0,54.0,3.97,59.5,130,28.2,19.9,28.2,19.9,8.3,55.9,55.7,75.37,19.09,35.45,5.45,Varsity Program,Nashville,Wildcats
+131,9,Lakeland Preparatory,TN,4A,TSSAA 4A,8-3,8,3,0,11,53.8,53.8,3.77,60.7,131,38.3,22.4,38.3,22.4,15.9,70.0,52.2,93.97,25.45,47.27,7.27,Varsity Program,Lakeland,Lions
+132,10,Dyer County,TN,4A,TSSAA 4A,4-6,4,6,0,10,53.7,53.7,3.74,66.0,132,25.0,33.9,25.0,33.9,-8.9,51.4,36.1,63.1,14.0,26.0,4.0,Varsity Program,Newbern,Choctaws
+133,21,PURE Academy,TN,DII-AA,TSSAA DII-AA,2-8,2,8,0,10,53.7,53.7,3.7,71.4,133,25.7,22.4,25.7,22.4,3.3,52.4,52.2,44.99,7.0,13.0,2.0,Varsity Program,Memphis,Varsity
+134,10,Christian Brothers,TN,DII-AAA,TSSAA DII-AAA,6-5,6,5,0,11,53.2,53.2,3.2,58.6,134,26.5,21.3,26.5,21.3,5.2,53.5,53.8,75.06,51.04,51.04,51.04,Varsity Program,Nashville,Purple Wave
+135,11,Henry County,TN,5A,TSSAA 5A,6-5,6,5,0,11,52.8,52.8,2.84,61.3,135,27.3,21.5,27.3,21.5,5.8,54.6,53.5,76.0,43.73,43.73,43.73,Varsity Program,Nashville,Patriots
+136,65,Loudon,TN,6A,TSSAA 6A,7-4,7,4,0,11,52.6,52.6,2.65,60.0,136,30.6,20.9,30.6,20.9,9.7,59.2,54.3,84.64,22.27,41.36,6.36,Varsity Program,Nashville,Redskins
+137,12,Northeast,TN,5A,TSSAA 5A,5-6,5,6,0,11,52.6,52.6,2.63,63.5,137,24.8,22.3,24.8,22.3,2.5,51.1,52.4,67.68,15.91,29.55,4.55,Varsity Program,Clarksville,Eagles
+138,11,Stone Memorial,TN,4A,TSSAA 4A,3-7,3,7,0,10,52.5,52.5,2.54,63.9,138,21.4,20.8,21.4,20.8,0.6,46.4,54.5,52.36,10.5,19.5,3.0,Varsity Program,Crossville,Panthers
+139,66,Cherokee,TN,6A,TSSAA 6A,6-5,6,5,0,11,52.5,52.5,2.49,63.2,139,29.5,27.8,29.5,27.8,1.7,57.7,44.7,76.67,19.09,35.45,5.45,Varsity Program,Nashville,Chiefs
+140,67,McMinn Central,TN,6A,TSSAA 6A,6-5,6,5,0,11,52.3,52.3,2.33,62.4,140,27.0,25.5,27.0,25.5,1.5,54.2,47.9,76.39,19.09,35.45,5.45,Varsity Program,Nashville,Chargers
+141,13,Morristown-Hamblen West,TN,5A,TSSAA 5A,5-6,5,6,0,11,52.3,52.3,2.29,66.2,141,25.6,30.2,25.6,30.2,-4.6,52.2,41.3,68.62,15.91,29.55,4.55,Varsity Program,Morristown,Trojans
+142,68,Summertown,TN,6A,TSSAA 6A,8-3,8,3,0,11,52.2,52.2,2.19,59.1,142,28.2,19.9,28.2,19.9,8.3,55.9,55.7,93.41,25.45,47.27,7.27,Varsity Program,Nashville,Eagles
+143,69,McEwen,TN,6A,TSSAA 6A,6-5,6,5,0,11,52.2,52.2,2.19,57.2,143,26.8,19.8,26.8,19.8,7.0,53.9,55.9,74.57,19.09,35.45,5.45,Varsity Program,Nashville,Warriors
+144,12,Heritage,TN,4A,TSSAA 4A,4-6,4,6,0,10,52.2,52.2,2.16,66.6,144,27.7,31.3,27.7,31.3,-3.6,55.2,39.8,63.31,14.0,26.0,4.0,Varsity Program,Maryville,Mountaineers
+145,70,South Fulton,TN,6A,TSSAA 6A,10-1,10,1,0,11,52.0,52.0,1.97,51.5,145,37.2,18.2,37.2,18.2,19.0,68.5,58.1,108.93,31.82,59.09,9.09,Varsity Program,Nashville,Red Devils
+146,22,Tennessee Heat,TN,DII-AA,TSSAA DII-AA,6-6,6,6,0,12,51.9,51.9,1.89,48.0,146,32.8,28.6,32.8,28.6,4.2,62.3,43.6,66.8,17.5,32.5,5.0,Varsity Program,Nashville,Heat
+147,13,Anderson County,TN,4A,TSSAA 4A,7-4,7,4,0,11,51.8,51.8,1.76,46.8,147,37.0,28.2,37.0,28.2,8.8,68.2,44.1,80.02,54.56,54.56,54.56,Varsity Program,Nashville,Mavericks
+148,23,Tri-Cities Christian,TN,DII-AA,TSSAA DII-AA,8-6,8,6,0,14,51.7,51.7,1.68,49.0,148,22.4,23.1,22.4,23.1,-0.7,47.8,51.3,74.29,20.0,37.14,5.71,Varsity Program,Blountville,Eagles
+149,14,Chester County,TN,4A,TSSAA 4A,4-6,4,6,0,10,51.5,51.5,1.5,63.0,149,22.7,27.0,22.7,27.0,-4.3,48.2,45.8,62.05,14.0,26.0,4.0,Varsity Program,Henderson,Eagles
+150,71,Brighton,TN,6A,TSSAA 6A,5-6,5,6,0,11,51.5,51.5,1.45,65.8,150,23.5,27.5,23.5,27.5,-4.0,49.3,45.1,68.48,15.91,29.55,4.55,Varsity Program,Nashville,Cardinals
+151,14,Lawrence County,TN,5A,TSSAA 5A,4-7,4,7,0,11,51.4,51.4,1.4,65.8,151,21.4,27.7,21.4,27.7,-6.3,46.4,44.8,59.39,12.73,23.64,3.64,Varsity Program,Lawrenceburg,Wildcats
+152,24,Providence Christian Academy,TN,DII-AA,TSSAA DII-AA,7-4,7,4,0,11,51.2,51.2,1.24,61.7,152,27.8,24.5,27.8,24.5,3.3,55.3,49.3,85.23,22.27,41.36,6.36,Varsity Program,Murfreesboro,Lions
+153,72,Collierville,TN,6A,TSSAA 6A,7-4,7,4,0,11,50.5,50.5,0.52,60.9,153,37.5,18.5,37.5,18.5,19.0,68.9,57.7,84.95,33.55,33.55,33.55,Varsity Program,Collierville,Dragons
+154,73,Arlington,TN,6A,TSSAA 6A,5-5,5,5,0,10,50.4,50.4,0.37,59.3,154,29.2,23.2,29.2,23.2,6.0,57.3,51.1,70.75,17.5,32.5,5.0,Varsity Program,Arlington,Tigers
+155,25,Christian Community,TN,DII-AA,TSSAA DII-AA,5-5,5,5,0,10,50.2,50.2,0.23,48.0,155,34.3,33.8,34.3,33.8,0.5,64.4,36.3,66.8,17.5,32.5,5.0,Varsity Program,White House,Colts
+156,15,Volunteer,TN,4A,TSSAA 4A,5-5,5,5,0,10,50.2,50.2,0.2,59.6,156,31.6,25.4,31.6,25.4,6.2,60.6,48.0,70.86,17.5,32.5,5.0,Varsity Program,Church Hill,Falcons
+157,74,East Ridge,TN,6A,TSSAA 6A,8-3,8,3,0,11,50.0,50.0,0.0,52.7,157,38.6,15.9,38.6,15.9,22.7,70.4,61.3,91.17,25.45,47.27,7.27,Varsity Program,Nashville,Pioneers
+158,26,The Webb School,TN,DII-AA,TSSAA DII-AA,0-0,0,0,0,0,50.0,50.0,0.0,48.0,158,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Bell Buckle,Feet
+159,15,Tullahoma Christian Academy,TN,5A,TSSAA 5A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,159,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Tullahoma,Knights
+160,16,Lawson,TN,5A,TSSAA 5A,6-5,6,5,0,11,50.0,50.0,-0.05,64.6,160,15.6,19.6,15.6,19.6,-4.0,38.2,56.2,77.16,19.09,35.45,5.45,Varsity Program,Nashville,Lightning
+161,75,St. George's,TN,6A,TSSAA 6A,6-5,6,5,0,11,50.0,50.0,-0.05,59.8,161,21.6,19.0,21.6,19.0,2.6,46.6,57.0,75.48,19.09,35.45,5.45,Varsity Program,Nashville,Gryphons
+162,17,Dickson County,TN,5A,TSSAA 5A,4-7,4,7,0,11,49.7,49.7,-0.34,64.9,162,17.3,20.8,17.3,20.8,-3.5,40.6,54.5,59.08,12.73,23.64,3.64,Varsity Program,Dickson,Cougars
+163,9,Eagleton College & Career Academy,TN,2A,TSSAA 2A,7-3,7,3,0,10,49.6,49.6,-0.36,56.5,163,30.4,19.6,30.4,19.6,10.8,59.0,56.2,89.78,24.5,45.5,7.0,Varsity Program,Maryville,Royals
+164,76,Fayette Academy,TN,6A,TSSAA 6A,6-5,6,5,0,11,49.6,49.6,-0.43,60.6,164,24.1,23.7,24.1,23.7,0.4,50.1,50.4,75.76,19.09,35.45,5.45,Varsity Program,Nashville,Vikings
+165,77,South Gibson,TN,6A,TSSAA 6A,4-7,4,7,0,11,49.6,49.6,-0.44,66.5,165,19.3,26.4,19.3,26.4,-7.1,43.4,46.6,59.64,12.73,23.64,3.64,Varsity Program,Nashville,Hornets
+166,78,Bearden,TN,6A,TSSAA 6A,2-8,2,8,0,10,49.5,49.5,-0.5,61.8,166,18.9,31.7,18.9,31.7,-12.8,42.9,39.2,41.63,35.06,35.06,35.06,Varsity Program,Nashville,Bulldogs
+167,27,Lancaster Christian Academy,TN,DII-AA,TSSAA DII-AA,4-5,4,5,0,9,49.2,49.2,-0.79,47.2,167,35.1,33.4,35.1,33.4,1.7,65.5,36.8,60.96,15.56,28.89,4.44,Varsity Program,Smyrna,Knights
+168,79,Greenfield,TN,6A,TSSAA 6A,7-4,7,4,0,11,49.1,49.1,-0.86,52.5,168,30.9,18.1,30.9,18.1,12.8,59.7,58.3,82.01,22.27,41.36,6.36,Varsity Program,Nashville,Yellowjackets
+169,80,Hillsboro,TN,6A,TSSAA 6A,5-6,5,6,0,11,49.1,49.1,-0.94,67.1,169,15.5,23.6,15.5,23.6,-8.1,38.1,50.6,68.94,15.91,29.55,4.55,Varsity Program,Nashville,Burros
+170,81,Soddy Daisy,TN,6A,TSSAA 6A,5-6,5,6,0,11,49.1,49.1,-0.94,64.9,170,20.8,29.6,20.8,29.6,-8.8,45.5,42.2,68.17,15.91,29.55,4.55,Varsity Program,Nashville,Trojans
+171,82,Shelbyville Central,TN,6A,TSSAA 6A,1-9,1,9,0,10,49.1,49.1,-0.94,69.6,171,18.5,33.7,18.5,33.7,-15.2,42.3,36.4,34.36,3.5,6.5,1.0,Varsity Program,Shelbyville,Eagles
+172,10,East Nashville,TN,3A,TSSAA 3A,6-4,6,4,0,10,49.0,49.0,-1.0,40.0,172,30.6,19.4,30.6,19.4,11.2,59.2,56.4,74.0,52.17,52.17,52.17,Varsity Program,Nashville,Varsity
+173,11,Scott,TN,3A,TSSAA 3A,5-5,5,5,0,10,48.8,48.8,-1.2,61.3,173,21.2,25.4,21.2,25.4,-4.2,46.1,48.0,71.45,17.5,32.5,5.0,Varsity Program,Huntsville,Highlanders
+174,28,Silverdale Academy,TN,DII-AA,TSSAA DII-AA,7-3,7,3,0,10,48.7,48.7,-1.3,52.7,174,27.1,24.8,27.1,24.8,2.3,54.3,48.9,88.44,55.27,55.27,55.27,Varsity Program,Nashville,Seahawks
+175,12,McNairy Central,TN,3A,TSSAA 3A,6-4,6,4,0,10,48.5,48.5,-1.47,61.8,175,26.3,31.9,26.3,31.9,-5.6,53.2,38.9,81.63,21.0,39.0,6.0,Varsity Program,Selmer,Bobcats
+176,83,Rossview,TN,6A,TSSAA 6A,4-7,4,7,0,11,48.4,48.4,-1.56,66.5,176,13.0,22.4,13.0,22.4,-9.4,34.6,52.2,59.64,12.73,23.64,3.64,Varsity Program,Nashville,Hawks
+177,84,Stratford,TN,6A,TSSAA 6A,4-7,4,7,0,11,48.4,48.4,-1.61,64.3,177,19.0,20.6,19.0,20.6,-1.6,43.0,54.8,58.87,12.73,23.64,3.64,Varsity Program,Nashville,Spartans
+178,10,Hickman County,TN,2A,TSSAA 2A,6-5,6,5,0,11,48.4,48.4,-1.63,61.6,178,23.5,25.2,23.5,25.2,-1.7,49.3,48.3,76.11,19.09,35.45,5.45,Varsity Program,Centerville,Bulldogs
+179,11,Jackson County,TN,2A,TSSAA 2A,7-4,7,4,0,11,48.3,48.3,-1.68,55.1,179,29.5,19.7,29.5,19.7,9.8,57.7,56.0,82.92,22.27,41.36,6.36,Varsity Program,Gainesboro,Blue Devils
+180,85,Union City,TN,6A,TSSAA 6A,5-6,5,6,0,11,48.2,48.2,-1.76,63.8,180,19.0,26.3,19.0,26.3,-7.3,43.0,46.8,67.78,15.91,29.55,4.55,Varsity Program,Nashville,Golden Tornadoes
+181,18,Springfield,TN,5A,TSSAA 5A,10-1,10,1,0,11,48.1,48.1,-1.9,57.3,181,37.5,11.5,37.5,11.5,26.0,68.9,67.5,110.96,40.61,40.61,40.61,Varsity Program,Nashville,Yellow Jackets
+182,13,Waverly Central,TN,3A,TSSAA 3A,5-6,5,6,0,11,47.9,47.9,-2.06,59.2,182,22.5,19.5,22.5,19.5,3.0,47.9,56.3,66.17,15.91,29.55,4.55,Varsity Program,Waverly,Tigers
+183,16,Elizabethton,TN,4A,TSSAA 4A,6-5,6,5,0,11,47.9,47.9,-2.1,54.1,183,28.5,22.0,28.5,22.0,6.5,56.3,52.8,73.48,51.07,51.07,51.07,Varsity Program,Elizabethton,Fighting Cyclones
+184,86,Westmoreland,TN,6A,TSSAA 6A,6-5,6,5,0,11,47.9,47.9,-2.13,58.8,184,26.5,24.5,26.5,24.5,2.0,53.5,49.3,75.13,19.09,35.45,5.45,Varsity Program,Nashville,Eagles
+185,87,Rockwood,TN,6A,TSSAA 6A,6-5,6,5,0,11,47.8,47.8,-2.2,56.7,185,28.5,23.9,28.5,23.9,4.6,56.3,50.1,74.39,19.09,35.45,5.45,Varsity Program,Nashville,Tigers
+186,14,Cascade,TN,3A,TSSAA 3A,4-6,4,6,0,10,47.6,47.6,-2.36,62.0,186,25.4,26.1,25.4,26.1,-0.7,52.0,47.1,61.7,14.0,26.0,4.0,Varsity Program,Wartrace,Champions
+187,29,Chattanooga Christian,TN,DII-AA,TSSAA DII-AA,2-8,2,8,0,10,47.6,47.6,-2.41,70.8,187,12.2,31.1,12.2,31.1,-18.9,33.5,40.1,44.78,7.0,13.0,2.0,Varsity Program,Chattanooga,Chargers
+188,88,Kirby,TN,6A,TSSAA 6A,5-6,5,6,0,11,47.5,47.5,-2.51,61.0,188,27.5,26.2,27.5,26.2,1.3,54.9,46.9,66.8,15.91,29.55,4.55,Varsity Program,Nashville,Cougars
+189,89,Stewarts Creek,TN,6A,TSSAA 6A,3-7,3,7,0,10,47.3,47.3,-2.68,69.6,189,12.8,31.5,12.8,31.5,-18.7,34.3,39.5,54.36,10.5,19.5,3.0,Varsity Program,Smyrna,Red Hawks
+190,90,Watertown,TN,6A,TSSAA 6A,4-7,4,7,0,11,47.2,47.2,-2.81,64.1,190,17.9,30.4,17.9,30.4,-12.5,41.5,41.0,58.8,12.73,23.64,3.64,Varsity Program,Nashville,Tigers
+191,15,Maplewood,TN,3A,TSSAA 3A,4-6,4,6,0,10,47.1,47.1,-2.9,60.5,191,20.3,22.4,20.3,22.4,-2.1,44.8,52.2,61.17,14.0,26.0,4.0,Varsity Program,Nashville,Panthers
+192,91,Livingston Academy,TN,6A,TSSAA 6A,6-5,6,5,0,11,46.8,46.8,-3.22,59.7,192,21.4,19.5,21.4,19.5,1.9,46.4,56.3,75.44,19.09,35.45,5.45,Varsity Program,Nashville,Wildcats
+193,92,Coffee County Central,TN,6A,TSSAA 6A,3-7,3,7,0,10,46.7,46.7,-3.29,66.8,193,17.9,30.8,17.9,30.8,-12.9,41.5,40.5,53.38,10.5,19.5,3.0,Varsity Program,Manchester,Red Raiders
+194,3,MASE,TN,1A,TSSAA 1A,10-1,10,1,0,11,46.7,46.7,-3.3,31.4,194,32.9,16.8,32.9,16.8,16.1,62.5,60.1,101.9,64.8,64.8,64.8,Varsity Program,Nashville,Varsity
+195,93,Jellico,TN,6A,TSSAA 6A,10-1,10,1,0,11,46.7,46.7,-3.32,47.8,195,39.1,15.7,39.1,15.7,23.4,71.1,61.6,107.64,31.82,59.09,9.09,Varsity Program,Nashville,Blue Devils
+196,17,Hardin County,TN,4A,TSSAA 4A,4-6,4,6,0,10,46.7,46.7,-3.32,64.6,196,19.9,33.2,19.9,33.2,-13.3,44.3,37.1,62.61,14.0,26.0,4.0,Varsity Program,Savannah,Tigers
+197,4,Wayne County,TN,1A,TSSAA 1A,5-6,5,6,0,11,46.4,46.4,-3.56,59.6,197,20.7,27.3,20.7,27.3,-6.6,45.4,45.4,66.31,15.91,29.55,4.55,Varsity Program,Waynesboro,Wildcats
+198,30,Ezell-Harding Christian,TN,DII-AA,TSSAA DII-AA,6-5,6,5,0,11,46.3,46.3,-3.67,57.9,198,26.3,26.2,26.3,26.2,0.1,53.2,46.9,74.81,19.09,35.45,5.45,Varsity Program,Antioch,Eagles
+199,18,Northview Academy,TN,4A,TSSAA 4A,5-5,5,5,0,10,46.3,46.3,-3.67,62.8,199,22.7,30.0,22.7,30.0,-7.3,48.2,41.6,71.98,17.5,32.5,5.0,Varsity Program,Kodak,Cougars
+200,16,Stewart County,TN,3A,TSSAA 3A,9-2,9,2,0,11,46.2,46.2,-3.83,55.7,200,27.3,20.3,27.3,20.3,7.0,54.6,55.2,101.31,28.64,53.18,8.18,Varsity Program,Dover,Rebels
+201,17,Liberty Tech Magnet,TN,3A,TSSAA 3A,7-3,7,3,0,10,46.1,46.1,-3.88,48.5,201,22.3,25.6,22.3,25.6,-3.3,47.6,47.8,86.97,24.5,45.5,7.0,Varsity Program,Jackson,Varsity
+202,94,Oneida,TN,6A,TSSAA 6A,5-6,5,6,0,11,46.1,46.1,-3.89,62.6,202,17.5,26.7,17.5,26.7,-9.2,40.9,46.2,67.36,15.91,29.55,4.55,Varsity Program,Nashville,Indians
+203,95,Eagleville,TN,6A,TSSAA 6A,7-4,7,4,0,11,46.1,46.1,-3.91,55.6,203,23.0,18.3,23.0,18.3,4.7,48.6,58.0,83.1,22.27,41.36,6.36,Varsity Program,Nashville,Eagles
+204,96,Creek Wood,TN,6A,TSSAA 6A,4-7,4,7,0,11,46.0,46.0,-3.98,64.3,204,15.0,27.6,15.0,27.6,-12.6,37.4,45.0,58.87,12.73,23.64,3.64,Varsity Program,Nashville,Red Hawks
+205,97,Cordova,TN,6A,TSSAA 6A,4-7,4,7,0,11,45.7,45.7,-4.27,65.2,205,14.5,27.7,14.5,27.7,-13.2,36.7,44.8,59.18,12.73,23.64,3.64,Varsity Program,Nashville,Wolves
+206,31,Davidson Academy,TN,DII-AA,TSSAA DII-AA,5-6,5,6,0,11,45.7,45.7,-4.3,55.7,206,24.1,29.0,24.1,29.0,-4.9,50.1,43.0,64.95,46.1,46.1,46.1,Varsity Program,Nashville,Bears
+207,98,Mt. Pleasant,TN,6A,TSSAA 6A,6-5,6,5,0,11,45.5,45.5,-4.46,59.1,207,25.6,30.2,25.6,30.2,-4.6,52.2,41.3,75.23,19.09,35.45,5.45,Varsity Program,Nashville,Tigers
+208,32,The King's Academy,TN,DII-AA,TSSAA DII-AA,9-2,9,2,0,11,45.5,45.5,-4.49,53.4,208,34.7,19.7,34.7,19.7,15.0,65.0,56.0,100.51,28.64,53.18,8.18,Varsity Program,Seymour,Lions
+209,99,Bolton,TN,6A,TSSAA 6A,8-3,8,3,0,11,45.5,45.5,-4.51,53.8,209,18.5,12.5,18.5,12.5,6.0,42.3,66.1,91.56,25.45,47.27,7.27,Varsity Program,Nashville,Wildcats
+210,5,Perry County,TN,1A,TSSAA 1A,6-5,6,5,0,11,45.2,45.2,-4.78,55.9,210,38.6,36.3,38.6,36.3,2.3,70.4,32.8,74.11,19.09,35.45,5.45,Varsity Program,Linden,Vikings
+211,12,Houston County,TN,2A,TSSAA 2A,5-6,5,6,0,11,45.2,45.2,-4.84,62.8,211,16.5,30.2,16.5,30.2,-13.7,39.5,41.3,67.43,15.91,29.55,4.55,Varsity Program,Erin,Fighting Irish
+212,19,DeKalb County,TN,4A,TSSAA 4A,4-6,4,6,0,10,45.0,45.0,-4.95,65.1,212,9.0,23.9,9.0,23.9,-14.9,29.0,50.1,62.78,14.0,26.0,4.0,Varsity Program,Smithville,Tigers
+213,19,Centennial,TN,5A,TSSAA 5A,4-6,4,6,0,10,44.8,44.8,-5.2,54.3,213,20.8,30.3,20.8,30.3,-9.5,45.5,41.2,59.0,46.52,46.52,46.52,Varsity Program,Nashville,Cougars
+214,20,Halls,TN,5A,TSSAA 5A,6-5,6,5,0,11,44.8,44.8,-5.25,62.3,214,35.0,21.5,35.0,21.5,13.5,65.4,53.5,76.35,19.09,35.45,5.45,Varsity Program,Knoxville,Red Devils
+215,100,Huntland,TN,6A,TSSAA 6A,5-6,5,6,0,11,44.7,44.7,-5.28,57.8,215,23.5,25.5,23.5,25.5,-2.0,49.3,47.9,65.68,15.91,29.55,4.55,Varsity Program,Nashville,Hornets
+216,33,St. Benedict at Auburndale,TN,DII-AA,TSSAA DII-AA,2-8,2,8,0,10,44.1,44.1,-5.87,63.0,216,18.3,31.4,18.3,31.4,-13.1,42.0,39.6,42.05,7.0,13.0,2.0,Varsity Program,Cordova,Eagles
+217,101,Cane Ridge,TN,6A,TSSAA 6A,5-6,5,6,0,11,44.1,44.1,-5.91,60.4,217,20.5,26.1,20.5,26.1,-5.6,45.1,47.1,66.59,15.91,29.55,4.55,Varsity Program,Nashville,Ravens
+218,13,Warren County,TN,2A,TSSAA 2A,5-6,5,6,0,11,44.1,44.1,-5.93,55.4,218,21.3,26.5,21.3,26.5,-5.2,46.2,46.5,64.84,15.91,29.55,4.55,Varsity Program,McMinnville,Varsity
+219,18,Cheatham County Central,TN,3A,TSSAA 3A,8-3,8,3,0,11,44.1,44.1,-5.94,53.7,219,37.9,26.2,37.9,26.2,11.7,69.5,46.9,91.52,25.45,47.27,7.27,Varsity Program,Ashland City,Cubs
+220,19,White House-Heritage,TN,3A,TSSAA 3A,5-6,5,6,0,11,44.0,44.0,-6.01,57.6,220,26.1,26.4,26.1,26.4,-0.3,52.9,46.6,65.61,15.91,29.55,4.55,Varsity Program,White House,Patriots
+221,102,Bolivar Central,TN,6A,TSSAA 6A,5-6,5,6,0,11,44.0,44.0,-6.04,63.4,221,20.9,33.3,20.9,33.3,-12.4,45.7,37.0,67.64,15.91,29.55,4.55,Varsity Program,Nashville,Tigers
+222,103,Cloudland,TN,6A,TSSAA 6A,5-6,5,6,0,11,44.0,44.0,-6.04,55.8,222,29.8,30.5,29.8,30.5,-0.7,58.1,40.9,64.98,15.91,29.55,4.55,Varsity Program,Nashville,Highlanders
+223,21,Clinton,TN,5A,TSSAA 5A,3-7,3,7,0,10,44.0,44.0,-6.04,64.7,223,25.0,37.9,25.0,37.9,-12.9,51.4,30.5,52.64,10.5,19.5,3.0,Varsity Program,Clinton,Dragons
+224,104,White House,TN,6A,TSSAA 6A,3-8,3,8,0,11,43.9,43.9,-6.08,62.7,224,19.0,29.8,19.0,29.8,-10.8,43.0,41.9,49.22,9.55,17.73,2.73,Varsity Program,Nashville,Blue Devils
+225,14,Fairley,TN,2A,TSSAA 2A,7-4,7,4,0,11,43.9,43.9,-6.1,34.0,225,30.6,21.1,30.6,21.1,9.5,59.2,54.1,75.54,52.72,52.72,52.72,Varsity Program,Nashville,Bulldogs
+226,22,Karns,TN,5A,TSSAA 5A,3-7,3,7,0,10,43.9,43.9,-6.15,63.7,226,19.7,32.7,19.7,32.7,-13.0,44.0,37.8,52.3,10.5,19.5,3.0,Varsity Program,Knoxville,Beavers
+227,105,Mt. Juliet,TN,6A,TSSAA 6A,5-5,5,5,0,10,43.8,43.8,-6.2,59.8,227,24.2,22.0,24.2,22.0,2.2,50.3,52.8,70.93,45.44,45.44,45.44,Varsity Program,Mt. Juliet,Golden Bears
+228,106,Montgomery Central,TN,6A,TSSAA 6A,6-5,6,5,0,11,43.8,43.8,-6.23,57.1,228,25.2,27.5,25.2,27.5,-2.3,51.7,45.1,74.53,19.09,35.45,5.45,Varsity Program,Nashville,Indians
+229,20,Carter,TN,4A,TSSAA 4A,1-9,1,9,0,10,43.6,43.6,-6.38,69.1,229,16.0,38.9,16.0,38.9,-22.9,38.8,29.1,34.18,3.5,6.5,1.0,Varsity Program,Strawberry Plains,Green Hornets
+230,34,Franklin Christian Academy,TN,DII-AA,TSSAA DII-AA,5-6,5,6,0,11,43.6,43.6,-6.4,56.5,230,24.8,26.3,24.8,26.3,-1.5,51.1,46.8,65.23,15.91,29.55,4.55,Varsity Program,Franklin,Falcons
+231,35,Harding Academy,TN,DII-AA,TSSAA DII-AA,4-6,4,6,0,10,43.6,43.6,-6.42,61.9,231,12.2,27.4,12.2,27.4,-15.2,33.5,45.2,61.66,14.0,26.0,4.0,Varsity Program,Memphis,Lions
+232,6,Oliver Springs,TN,1A,TSSAA 1A,2-9,2,9,0,11,43.5,43.5,-6.5,35.3,232,14.9,30.9,14.9,30.9,-16.0,37.3,40.3,30.54,54.99,54.99,54.99,Varsity Program,Nashville,Bobcats
+233,20,Harpeth,TN,3A,TSSAA 3A,2-8,2,8,0,10,43.1,43.1,-6.86,61.8,233,19.5,28.5,19.5,28.5,-9.0,43.7,43.7,41.63,7.0,13.0,2.0,Varsity Program,Kingston Springs,Indians
+234,107,Overton,TN,6A,TSSAA 6A,3-7,3,7,0,10,43.1,43.1,-6.89,61.5,234,16.0,30.9,16.0,30.9,-14.9,38.8,40.3,51.52,10.5,19.5,3.0,Varsity Program,Nashville,Bobcats
+235,108,Midway,TN,6A,TSSAA 6A,6-5,6,5,0,11,42.8,42.8,-7.18,57.5,235,24.1,30.7,24.1,30.7,-6.6,50.1,40.6,74.67,19.09,35.45,5.45,Varsity Program,Nashville,Green Wave
+236,7,Coalfield,TN,1A,TSSAA 1A,6-5,6,5,0,11,42.7,42.7,-7.3,32.7,236,30.3,20.4,30.3,20.4,9.9,58.8,55.0,65.99,44.57,44.57,44.57,Varsity Program,Nashville,Yellow Jackets
+237,21,Camden Central,TN,3A,TSSAA 3A,2-8,2,8,0,10,42.7,42.7,-7.32,64.2,237,20.4,38.0,20.4,38.0,-17.6,45.0,30.4,42.47,7.0,13.0,2.0,Varsity Program,Camden,Lions
+238,8,Middle College,TN,1A,TSSAA 1A,7-3,7,3,0,10,42.7,42.7,-7.33,48.0,238,27.4,19.3,27.4,19.3,8.1,54.8,56.6,86.8,24.5,45.5,7.0,Varsity Program,Memphis,Bulldogs
+239,36,Columbia Academy,TN,DII-AA,TSSAA DII-AA,2-8,2,8,0,10,42.6,42.6,-7.42,68.3,239,13.6,36.0,13.6,36.0,-22.4,35.4,33.2,43.91,7.0,13.0,2.0,Varsity Program,Columbia,Bulldogs
+240,9,Richland,TN,1A,TSSAA 1A,3-7,3,7,0,10,42.6,42.6,-7.43,58.0,240,19.0,25.2,19.0,25.2,-6.2,43.0,48.3,50.3,10.5,19.5,3.0,Varsity Program,Lynnville,Raiders
+241,15,Bledsoe County,TN,2A,TSSAA 2A,9-2,9,2,0,11,42.4,42.4,-7.6,40.0,241,35.4,20.2,35.4,20.2,15.2,66.0,55.3,95.82,57.38,57.38,57.38,Varsity Program,Nashville,Warriors
+242,21,Millington Central,TN,4A,TSSAA 4A,3-8,3,8,0,11,42.1,42.1,-7.87,63.2,242,16.7,29.0,16.7,29.0,-12.3,39.8,43.0,49.39,9.55,17.73,2.73,Varsity Program,Millington,Trojans
+243,23,Lenoir City,TN,5A,TSSAA 5A,3-7,3,7,0,10,42.1,42.1,-7.9,65.2,243,18.3,37.9,18.3,37.9,-19.6,42.0,30.5,52.82,10.5,19.5,3.0,Varsity Program,Lenoir City,Panthers
+244,24,Ooltewah,TN,5A,TSSAA 5A,2-8,2,8,0,10,42.0,42.0,-8.01,65.1,244,23.1,39.8,23.1,39.8,-16.7,48.7,27.9,42.78,7.0,13.0,2.0,Varsity Program,Ooltewah,Owls
+245,109,Blackman,TN,6A,TSSAA 6A,6-5,6,5,0,11,41.9,41.9,-8.1,61.1,245,22.6,16.3,22.6,16.3,6.3,48.0,60.8,75.93,20.19,20.19,20.19,Varsity Program,Nashville,Blaze
+246,110,Pigeon Forge,TN,6A,TSSAA 6A,5-6,5,6,0,11,41.8,41.8,-8.25,57.4,246,24.2,26.7,24.2,26.7,-2.5,50.3,46.2,65.54,15.91,29.55,4.55,Varsity Program,Nashville,Tigers
+247,16,Riverside,TN,2A,TSSAA 2A,8-3,8,3,0,11,41.7,41.7,-8.3,37.5,247,28.0,18.0,28.0,18.0,10.0,55.6,58.4,85.85,50.94,50.94,50.94,Varsity Program,Nashville,Panthers
+248,111,Providence Academy,TN,6A,TSSAA 6A,4-7,4,7,0,11,41.7,41.7,-8.3,58.5,248,21.6,25.1,21.6,25.1,-3.5,46.6,48.5,56.84,12.73,23.64,3.64,Varsity Program,Nashville,Academy
+249,112,Whitwell,TN,6A,TSSAA 6A,5-6,5,6,0,11,41.5,41.5,-8.46,55.4,249,25.9,28.7,25.9,28.7,-2.8,52.7,43.4,64.84,15.91,29.55,4.55,Varsity Program,Nashville,Tigers
+250,22,Fayette Ware,TN,4A,TSSAA 4A,4-6,4,6,0,10,41.4,41.4,-8.62,57.8,250,18.4,23.8,18.4,23.8,-5.4,42.2,50.3,60.23,14.0,26.0,4.0,Varsity Program,Somerville,Wildcats
+251,37,Tipton-Rosemark Academy,TN,DII-AA,TSSAA DII-AA,1-9,1,9,0,10,41.3,41.3,-8.7,64.8,251,12.0,32.7,12.0,32.7,-20.7,33.2,37.8,32.68,3.5,6.5,1.0,Varsity Program,Millington,Rebels
+252,22,Obion County,TN,3A,TSSAA 3A,4-6,4,6,0,10,41.2,41.2,-8.75,58.1,252,23.8,35.2,23.8,35.2,-11.4,49.7,34.3,60.34,14.0,26.0,4.0,Varsity Program,Troy,Rebels
+253,25,East Hamilton,TN,5A,TSSAA 5A,3-7,3,7,0,10,41.1,41.1,-8.88,61.6,253,19.4,33.2,19.4,33.2,-13.8,43.6,37.1,51.56,10.5,19.5,3.0,Varsity Program,Ooltewah,Hurricanes
+254,113,Chuckey-Doak,TN,6A,TSSAA 6A,5-6,5,6,0,11,41.0,41.0,-9.0,55.0,254,26.5,27.7,26.5,27.7,-1.2,53.5,44.8,64.7,15.91,29.55,4.55,Varsity Program,Nashville,Black Knights
+255,26,Kenwood,TN,5A,TSSAA 5A,3-7,3,7,0,10,40.9,40.9,-9.09,62.3,255,14.5,29.6,14.5,29.6,-15.1,36.7,42.2,51.8,10.5,19.5,3.0,Varsity Program,Clarksville,Knights
+256,114,Farragut,TN,6A,TSSAA 6A,1-9,1,9,0,10,40.8,40.8,-9.2,64.5,256,4.9,33.3,4.9,33.3,-28.4,25.0,37.0,32.58,30.52,30.52,30.52,Varsity Program,Nashville,Admirals
+257,115,Signal Mountain,TN,6A,TSSAA 6A,4-7,4,7,0,11,40.7,40.7,-9.34,58.3,257,22.2,25.5,22.2,25.5,-3.3,47.5,47.9,56.77,12.73,23.64,3.64,Varsity Program,Nashville,Eagles
+258,116,Cumberland Gap,TN,6A,TSSAA 6A,7-4,7,4,0,11,40.4,40.4,-9.62,53.0,258,25.4,22.3,25.4,22.3,3.1,52.0,52.4,82.19,22.27,41.36,6.36,Varsity Program,Nashville,Panthers
+259,17,York Institute,TN,2A,TSSAA 2A,4-7,4,7,0,11,40.1,40.1,-9.9,44.1,259,21.1,27.8,21.1,27.8,-6.7,45.9,44.7,51.8,42.61,42.61,42.61,Varsity Program,Nashville,Dragons
+260,18,Smith County,TN,2A,TSSAA 2A,2-8,2,8,0,10,39.8,39.8,-10.2,60.6,260,11.1,24.7,11.1,24.7,-13.6,31.9,49.0,41.21,7.0,13.0,2.0,Varsity Program,Carthage,Owls
+261,38,ECS,TN,DII-AA,TSSAA DII-AA,4-6,4,6,0,10,39.6,39.6,-10.4,47.8,261,20.1,28.8,20.1,28.8,-8.7,44.5,43.3,56.73,40.6,40.6,40.6,Varsity Program,Nashville,Varsity
+262,27,Franklin County,TN,5A,TSSAA 5A,2-8,2,8,0,10,39.4,39.4,-10.6,62.0,262,23.2,33.9,23.2,33.9,-10.7,48.9,36.1,41.7,7.0,13.0,2.0,Varsity Program,Winchester,Rebels
+263,117,Jo Byrns,TN,6A,TSSAA 6A,7-4,7,4,0,11,39.4,39.4,-10.63,46.2,263,36.3,21.3,36.3,21.3,15.0,67.2,53.8,79.81,22.27,41.36,6.36,Varsity Program,Nashville,Red Devils
+264,11,Father Ryan,TN,DII-AAA,TSSAA DII-AAA,3-8,3,8,0,11,39.3,39.3,-10.7,62.1,264,16.6,31.5,16.6,31.5,-14.9,39.6,39.5,49.01,28.06,28.06,28.06,Varsity Program,Nashville,Irish
+265,39,TN Tigers,TN,DII-AA,TSSAA DII-AA,3-7,3,7,0,10,39.0,39.0,-10.96,45.2,265,22.8,34.7,22.8,34.7,-11.9,48.3,35.0,45.82,10.5,19.5,3.0,Varsity Program,Nashville,Tigers
+266,28,Rhea County,TN,5A,TSSAA 5A,9-2,9,2,0,11,38.8,38.8,-11.2,59.2,266,33.2,13.2,33.2,13.2,20.0,62.9,65.1,102.54,30.34,30.34,30.34,Varsity Program,Nashville,Golden Eagles
+267,19,Memphis Business Academy,TN,2A,TSSAA 2A,4-7,4,7,0,11,38.8,38.8,-11.22,62.6,267,13.9,39.0,13.9,39.0,-25.1,35.9,29.0,58.27,12.73,23.64,3.64,Varsity Program,Memphis,Execs
+268,118,LaVergne,TN,6A,TSSAA 6A,1-10,1,10,0,11,38.8,38.8,-11.23,70.1,268,6.1,37.4,6.1,37.4,-31.3,25.0,31.2,33.63,3.18,5.91,0.91,Varsity Program,Lavergne,Wolverines
+269,20,Hillcrest,TN,2A,TSSAA 2A,6-4,6,4,0,10,38.7,38.7,-11.26,51.0,269,22.1,18.7,22.1,18.7,3.4,47.3,57.4,77.85,21.0,39.0,6.0,Varsity Program,Memphis,Vikings
+270,21,Polk County,TN,2A,TSSAA 2A,1-10,1,10,0,11,38.6,38.6,-11.35,65.5,270,6.6,32.4,6.6,32.4,-25.8,25.6,38.2,32.02,3.18,5.91,0.91,Varsity Program,Benton,Wildcats
+271,23,Battle Creek,TN,4A,TSSAA 4A,2-8,2,8,0,10,38.6,38.6,-11.4,62.3,271,26.2,40.2,26.2,40.2,-14.0,53.1,27.3,41.8,7.0,13.0,2.0,Varsity Program,Spring Hill,Grizzlies
+272,40,CSTHEA,TN,DII-AA,TSSAA DII-AA,3-6,3,6,0,9,38.6,38.6,-11.42,45.7,272,20.2,35.2,20.2,35.2,-15.0,44.7,34.3,49.33,11.67,21.67,3.33,Varsity Program,Chattanooga,Patriots
+273,10,Fayetteville,TN,1A,TSSAA 1A,4-6,4,6,0,10,38.5,38.5,-11.5,40.1,273,22.3,26.8,22.3,26.8,-4.5,47.6,46.1,54.03,47.8,47.8,47.8,Varsity Program,Nashville,Tigers
+274,24,Melrose,TN,4A,TSSAA 4A,2-8,2,8,0,10,38.3,38.3,-11.7,49.6,274,20.3,31.2,20.3,31.2,-10.9,44.8,39.9,37.36,34.32,34.32,34.32,Varsity Program,Nashville,Golden Wildcats
+275,119,Morristown-Hamblen East,TN,6A,TSSAA 6A,1-9,1,9,0,10,38.2,38.2,-11.82,67.3,275,12.3,35.6,12.3,35.6,-23.3,33.6,33.8,33.55,3.5,6.5,1.0,Varsity Program,Morristown,Hurricanes
+276,120,Portland,TN,6A,TSSAA 6A,2-9,2,9,0,11,38.2,38.2,-11.84,66.3,276,13.0,40.7,13.0,40.7,-27.7,34.6,26.6,41.39,6.36,11.82,1.82,Varsity Program,Nashville,Panthers
+277,41,Goodpasture,TN,DII-AA,TSSAA DII-AA,2-8,2,8,0,10,38.1,38.1,-11.9,51.7,277,17.8,31.6,17.8,31.6,-13.8,41.3,39.4,38.09,35.04,35.04,35.04,Varsity Program,Nashville,Varsity
+278,23,Gatlinburg-Pittman,TN,3A,TSSAA 3A,6-5,6,5,0,11,38.0,38.0,-12.0,49.8,278,35.6,26.8,35.6,26.8,8.8,66.2,46.1,71.98,40.57,40.57,40.57,Varsity Program,Nashville,Highlanders
+279,25,Grainger,TN,4A,TSSAA 4A,2-8,2,8,0,10,37.9,37.9,-12.1,61.5,279,20.0,36.6,20.0,36.6,-16.6,44.4,32.4,41.52,7.0,13.0,2.0,Varsity Program,Rutledge,Grizzlies
+280,29,William Blount,TN,5A,TSSAA 5A,1-9,1,9,0,10,37.5,37.5,-12.45,64.3,280,17.1,38.4,17.1,38.4,-21.3,40.3,29.8,32.5,3.5,6.5,1.0,Varsity Program,Maryville,Governors
+281,30,Daniel Boone,TN,5A,TSSAA 5A,2-8,2,8,0,10,37.5,37.5,-12.49,63.6,281,14.4,35.6,14.4,35.6,-21.2,36.6,33.8,42.26,7.0,13.0,2.0,Varsity Program,Gray,Trailblazers
+282,11,Wartburg Central,TN,1A,TSSAA 1A,3-7,3,7,0,10,36.8,36.8,-13.23,56.5,282,15.4,27.6,15.4,27.6,-12.2,38.0,45.0,49.77,10.5,19.5,3.0,Varsity Program,Wartburg,Bulldogs
+283,26,Haywood,TN,4A,TSSAA 4A,9-2,9,2,0,11,36.7,36.7,-13.3,46.5,283,43.1,15.3,43.1,15.3,27.8,76.7,62.2,98.09,34.32,34.32,34.32,Varsity Program,Nashville,Tomcats
+284,121,Northpoint Christian,TN,6A,TSSAA 6A,3-8,3,8,0,11,36.5,36.5,-13.47,44.8,284,15.6,31.4,15.6,31.4,-15.8,38.2,39.6,42.95,9.55,17.73,2.73,Varsity Program,Nashville,Trojans
+285,12,Harriman,TN,1A,TSSAA 1A,2-8,2,8,0,10,36.1,36.1,-13.85,59.7,285,19.1,35.9,19.1,35.9,-16.8,43.1,33.3,40.89,7.0,13.0,2.0,Varsity Program,Harriman,Blue Devils
+286,122,Wilson Central,TN,6A,TSSAA 6A,0-10,0,10,0,10,36.1,36.1,-13.88,65.8,286,3.8,30.3,3.8,30.3,-26.5,25.0,41.2,23.03,0.0,0.0,0.0,Varsity Program,Lebanon,Wildcats
+287,123,Ezell-Harding,TN,6A,TSSAA 6A,0-1,0,1,0,1,36.0,36.0,-14.0,41.0,287,12.0,35.0,12.0,35.0,-23.0,33.2,34.6,14.35,0.0,0.0,0.0,Varsity Program,Nashville,Varsity
+288,124,Franklin Christian,TN,6A,TSSAA 6A,0-1,0,1,0,1,36.0,36.0,-14.0,41.0,288,17.7,29.9,17.7,29.9,-12.2,41.2,41.7,14.35,0.0,0.0,0.0,Varsity Program,Franklin,Varsity
+289,125,Millington,TN,6A,TSSAA 6A,0-1,0,1,0,1,36.0,36.0,-14.0,41.0,289,3.0,45.0,3.0,45.0,-42.0,25.0,25.0,14.35,0.0,0.0,0.0,Varsity Program,Nashville,Varsity
+290,126,Waverly,TN,6A,TSSAA 6A,0-1,0,1,0,1,36.0,36.0,-14.0,41.0,290,2.0,24.0,2.0,24.0,-22.0,25.0,50.0,14.35,0.0,0.0,0.0,Varsity Program,Nashville,Varsity
+291,127,Wooddale,TN,6A,TSSAA 6A,5-6,5,6,0,11,36.0,36.0,-14.01,54.6,291,15.2,24.5,15.2,24.5,-9.3,37.7,49.3,64.56,15.91,29.55,4.55,Varsity Program,Nashville,Cardinals
+292,31,Nolensville,TN,5A,TSSAA 5A,10-1,10,1,0,11,35.9,35.9,-14.1,54.4,292,28.4,8.7,28.4,8.7,19.7,56.2,71.4,109.95,30.5,30.5,30.5,Varsity Program,Nashville,Knights
+293,32,Walker Valley,TN,5A,TSSAA 5A,9-2,9,2,0,11,35.8,35.8,-14.2,49.8,293,36.7,16.2,36.7,16.2,20.5,67.8,60.9,99.25,19.03,19.03,19.03,Varsity Program,Nashville,Mustangs
+294,24,Giles County,TN,3A,TSSAA 3A,7-3,7,3,0,10,35.7,35.7,-14.3,46.9,294,34.9,23.2,34.9,23.2,11.7,65.3,51.1,86.41,33.26,33.26,33.26,Varsity Program,Nashville,Bobcats
+295,27,Tullahoma,TN,4A,TSSAA 4A,2-9,2,9,0,11,35.7,35.7,-14.3,46.1,295,17.6,30.0,17.6,30.0,-12.4,41.0,41.6,34.32,42.26,42.26,42.26,Varsity Program,Nashville,Varsity
+296,128,South Greene,TN,6A,TSSAA 6A,3-8,3,8,0,11,35.6,35.6,-14.4,56.9,296,20.5,30.4,20.5,30.4,-9.9,45.1,41.0,47.19,9.55,17.73,2.73,Varsity Program,Nashville,Rebels
+297,28,Greenbrier,TN,4A,TSSAA 4A,2-8,2,8,0,10,35.4,35.4,-14.63,63.7,297,14.3,32.8,14.3,32.8,-18.5,36.4,37.7,42.3,7.0,13.0,2.0,Varsity Program,Greenbrier,Bobcats
+298,13,Westwood,TN,1A,TSSAA 1A,6-4,6,4,0,10,34.7,34.7,-15.27,44.9,298,24.6,16.1,24.6,16.1,8.5,50.8,61.1,75.72,21.0,39.0,6.0,Varsity Program,Memphis,Longhorns
+299,129,Oakhaven,TN,6A,TSSAA 6A,5-6,5,6,0,11,34.6,34.6,-15.36,49.2,299,23.3,21.0,23.3,21.0,2.3,49.0,54.2,62.67,15.91,29.55,4.55,Varsity Program,Nashville,Hawks
+300,25,Ripley,TN,3A,TSSAA 3A,1-9,1,9,0,10,34.5,34.5,-15.48,63.7,300,13.0,37.0,13.0,37.0,-24.0,34.6,31.8,32.3,3.5,6.5,1.0,Varsity Program,Ripley,Tigers
+301,130,Sale Creek,TN,6A,TSSAA 6A,6-5,6,5,0,11,33.6,33.6,-16.39,46.3,301,27.2,20.0,27.2,20.0,7.2,54.5,55.6,70.75,19.09,35.45,5.45,Varsity Program,Nashville,Panthers
+302,22,Monterey,TN,2A,TSSAA 2A,2-8,2,8,0,10,33.3,33.3,-16.68,58.4,302,14.1,31.0,14.1,31.0,-16.9,36.1,40.2,40.44,7.0,13.0,2.0,Varsity Program,Monterey,Wildcats
+303,26,Meigs County,TN,3A,TSSAA 3A,11-0,11,0,0,11,33.2,33.2,-16.8,46.9,303,40.5,10.7,40.5,10.7,29.8,73.1,68.6,116.41,33.26,33.26,33.26,Varsity Program,Nashville,Tigers
+304,27,Kingston,TN,3A,TSSAA 3A,4-5,4,5,0,9,33.0,33.0,-17.0,43.9,304,23.1,33.7,23.1,33.7,-10.6,48.7,36.4,59.81,41.19,41.19,41.19,Varsity Program,Nashville,Varsity
+305,14,North Greene,TN,1A,TSSAA 1A,4-6,4,6,0,10,32.7,32.7,-17.26,50.9,305,33.5,35.8,33.5,35.8,-2.3,63.3,33.5,57.81,14.0,26.0,4.0,Varsity Program,Greeneville,Huskies
+306,12,Briarcrest Christian,TN,DII-AAA,TSSAA DII-AAA,9-1,9,1,0,10,32.6,32.6,-17.4,56.1,306,39.0,17.2,39.0,17.2,21.8,71.0,59.5,109.63,19.13,19.13,19.13,Varsity Program,Nashville,Saints
+307,131,West Greene,TN,6A,TSSAA 6A,1-9,1,9,0,10,32.3,32.3,-17.67,59.1,307,15.3,33.3,15.3,33.3,-18.0,37.8,37.0,30.68,3.5,6.5,1.0,Varsity Program,Nashville,Buffaloes
+308,15,Collinwood,TN,1A,TSSAA 1A,2-8,2,8,0,10,32.1,32.1,-17.85,57.5,308,19.0,37.3,19.0,37.3,-18.3,43.0,31.4,40.12,7.0,13.0,2.0,Varsity Program,Collinwood,Trojans
+309,132,Raleigh Egypt,TN,6A,TSSAA 6A,5-6,5,6,0,11,32.1,32.1,-17.87,52.0,309,15.6,22.0,15.6,22.0,-6.4,38.2,52.8,63.65,15.91,29.55,4.55,Varsity Program,Nashville,Pharaohs
+310,23,East Robertson,TN,2A,TSSAA 2A,9-2,9,2,0,11,31.9,31.9,-18.1,43.0,310,37.5,18.8,37.5,18.8,18.7,68.9,57.3,96.87,34.23,34.23,34.23,Varsity Program,Nashville,Indians
+311,33,Northwest,TN,5A,TSSAA 5A,2-8,2,8,0,10,31.6,31.6,-18.35,59.9,311,12.8,31.0,12.8,31.0,-18.2,34.3,40.2,40.97,7.0,13.0,2.0,Varsity Program,Clarksville,Vikings
+312,29,Union County,TN,4A,TSSAA 4A,1-9,1,9,0,10,31.2,31.2,-18.77,66.0,312,18.2,49.4,18.2,49.4,-31.2,41.9,25.0,33.1,3.5,6.5,1.0,Varsity Program,Maynardville,Patriots
+313,13,Knoxville Catholic,TN,DII-AAA,TSSAA DII-AAA,7-3,7,3,0,10,31.2,31.2,-18.8,58.7,313,19.7,19.2,19.7,19.2,0.5,44.0,56.7,90.55,37.38,37.38,37.38,Varsity Program,Knoxville,Fighting Irish
+314,42,Riverside Christian Academy,TN,DII-AA,TSSAA DII-AA,2-6,2,6,0,8,30.9,30.9,-19.15,44.5,314,18.5,45.5,18.5,45.5,-27.0,42.3,25.0,40.58,8.75,16.25,2.5,Varsity Program,Fayetteville,Knights
+315,30,Jackson South Side,TN,4A,TSSAA 4A,0-10,0,10,0,10,30.8,30.8,-19.23,66.4,315,4.5,44.1,4.5,44.1,-39.6,25.0,25.0,23.24,0.0,0.0,0.0,Varsity Program,Jackson,Hawks
+316,34,Kingsbury,TN,5A,TSSAA 5A,4-6,4,6,0,10,30.5,30.5,-19.48,56.6,316,25.8,32.1,25.8,32.1,-6.3,52.5,38.7,59.81,14.0,26.0,4.0,Varsity Program,Memphis,Mighty Falcons
+317,16,Dresden,TN,1A,TSSAA 1A,6-5,6,5,0,11,30.5,30.5,-19.5,37.2,317,21.8,25.9,21.8,25.9,-4.1,46.9,47.3,67.57,33.33,33.33,33.33,Varsity Program,Nashville,Lions
+318,28,Sycamore,TN,3A,TSSAA 3A,1-9,1,9,0,10,30.5,30.5,-19.52,59.9,318,13.6,46.5,13.6,46.5,-32.9,35.4,25.0,30.96,3.5,6.5,1.0,Varsity Program,Pleasant View,War Eagles
+319,17,Hollow Rock-Bruceton Central,TN,1A,TSSAA 1A,4-6,4,6,0,10,30.3,30.3,-19.7,53.4,319,18.0,32.4,18.0,32.4,-14.4,41.6,38.2,58.69,14.0,26.0,4.0,Varsity Program,Bruceton,Tigers
+320,31,Sullivan East,TN,4A,TSSAA 4A,1-9,1,9,0,10,30.1,30.1,-19.92,61.9,320,17.1,43.1,17.1,43.1,-26.0,40.3,25.0,31.66,3.5,6.5,1.0,Varsity Program,Bluff City,Patriots
+321,32,Marshall County,TN,4A,TSSAA 4A,6-5,6,5,0,11,29.9,29.9,-20.1,52.4,321,30.3,25.4,30.3,25.4,4.9,58.8,48.0,72.89,22.26,22.26,22.26,Varsity Program,Nashville,Tigers
+322,43,Grace Baptist Academy,TN,DII-AA,TSSAA DII-AA,2-8,2,8,0,10,29.7,29.7,-20.29,59.9,322,16.9,41.0,16.9,41.0,-24.1,40.1,26.2,40.97,7.0,13.0,2.0,Varsity Program,Chattanooga,Golden Eagles
+323,24,East Hickman County,TN,2A,TSSAA 2A,0-10,0,10,0,10,29.7,29.7,-20.3,65.0,323,5.7,38.4,5.7,38.4,-32.7,25.0,29.8,22.75,0.0,0.0,0.0,Varsity Program,Lyles,Eagles
+324,44,USJ,TN,DII-AA,TSSAA DII-AA,0-9,0,9,0,9,29.4,29.4,-20.6,51.9,324,14.7,37.1,14.7,37.1,-22.4,37.0,31.7,18.16,19.92,19.92,19.92,Varsity Program,Nashville,Varsity
+325,133,West Creek,TN,6A,TSSAA 6A,1-9,1,9,0,10,29.3,29.3,-20.67,61.0,325,13.6,38.2,13.6,38.2,-24.6,35.4,30.1,31.35,3.5,6.5,1.0,Varsity Program,Clarksville,Coyote
+326,35,Munford,TN,5A,TSSAA 5A,10-1,10,1,0,11,29.3,29.3,-20.7,48.3,326,44.2,12.6,44.2,12.6,31.6,78.3,66.0,107.81,22.4,22.4,22.4,Varsity Program,Nashville,Cougars
+327,25,Loretto,TN,2A,TSSAA 2A,1-9,1,9,0,10,29.1,29.1,-20.94,59.7,327,14.9,39.2,14.9,39.2,-24.3,37.3,28.7,30.89,3.5,6.5,1.0,Varsity Program,Loretto,Mustangs
+328,33,Sequoyah,TN,4A,TSSAA 4A,2-8,2,8,0,10,28.6,28.6,-21.4,59.7,328,7.0,32.5,7.0,32.5,-25.5,26.2,38.1,40.89,7.0,13.0,2.0,Varsity Program,Madisonville,Chiefs
+329,18,Clay County,TN,1A,TSSAA 1A,5-6,5,6,0,11,28.4,28.4,-21.6,41.6,329,27.6,28.4,27.6,28.4,-0.8,55.0,43.8,60.01,41.65,41.65,41.65,Varsity Program,Nashville,Bulldogs
+330,34,Hixson,TN,4A,TSSAA 4A,1-9,1,9,0,10,28.1,28.1,-21.89,58.3,330,12.1,33.5,12.1,33.5,-21.4,33.3,36.7,30.4,3.5,6.5,1.0,Varsity Program,Hixson,Wildcats
+331,26,Trezevant,TN,2A,TSSAA 2A,4-6,4,6,0,10,28.0,28.0,-21.97,53.3,331,13.0,28.5,13.0,28.5,-15.5,34.6,43.7,58.66,14.0,26.0,4.0,Varsity Program,Memphis,Bears
+332,45,Battle Ground Academy,TN,DII-AA,TSSAA DII-AA,10-1,10,1,0,11,27.9,27.9,-22.1,52.7,332,44.8,12.9,44.8,12.9,31.9,79.1,65.5,109.35,29.39,29.39,29.39,Varsity Program,Nashville,Wildcats
+333,19,Lake County,TN,1A,TSSAA 1A,4-6,4,6,0,10,27.9,27.9,-22.1,38.1,333,15.4,27.9,15.4,27.9,-12.5,38.0,44.5,53.34,31.28,31.28,31.28,Varsity Program,Nashville,Falcons
+334,27,Zion Christian Academy,TN,2A,TSSAA 2A,2-7,2,7,0,9,27.3,27.3,-22.67,52.7,334,13.8,33.5,13.8,33.5,-19.7,35.7,36.7,40.67,7.78,14.44,2.22,Varsity Program,Columbia,Varsity
+335,134,Smyrna,TN,6A,TSSAA 6A,8-3,8,3,0,11,27.2,27.2,-22.8,54.2,335,26.3,17.1,26.3,17.1,9.2,53.2,59.7,91.7,18.77,18.77,18.77,Varsity Program,Smyrna,Bulldogs
+336,35,Ridgeway,TN,4A,TSSAA 4A,1-9,1,9,0,10,27.1,27.1,-22.87,63.6,336,6.9,41.2,6.9,41.2,-34.3,26.1,25.9,32.26,3.5,6.5,1.0,Varsity Program,Memphis,Roadrunners
+337,20,Glencliff,TN,1A,TSSAA 1A,1-9,1,9,0,10,26.8,26.8,-23.17,61.9,337,13.6,33.7,13.6,33.7,-20.1,35.4,36.4,31.66,3.5,6.5,1.0,Varsity Program,Nashville,Varsity
+338,21,Manassas,TN,1A,TSSAA 1A,3-7,3,7,0,10,26.3,26.3,-23.72,47.5,338,16.2,22.9,16.2,22.9,-6.7,39.1,51.5,46.62,10.5,19.5,3.0,Varsity Program,Memphis,Tigers
+339,135,McGavock,TN,6A,TSSAA 6A,1-9,1,9,0,10,26.1,26.1,-23.92,62.2,339,11.8,44.4,11.8,44.4,-32.6,32.9,25.0,31.77,3.5,6.5,1.0,Varsity Program,Nashville,Raiders
+340,28,Gibson County,TN,2A,TSSAA 2A,1-9,1,9,0,10,26.0,26.0,-24.04,61.0,340,10.8,42.1,10.8,42.1,-31.3,31.5,25.0,31.35,3.5,6.5,1.0,Varsity Program,Dyer,Pioneers
+341,29,Hamilton,TN,3A,TSSAA 3A,1-8,1,8,0,9,25.8,25.8,-24.23,56.5,341,7.1,30.1,7.1,30.1,-23.0,26.3,41.5,30.89,3.89,7.22,1.11,Varsity Program,Memphis,Wildcats
+342,46,Nashville Christian,TN,DII-AA,TSSAA DII-AA,8-2,8,2,0,10,25.7,25.7,-24.3,49.1,342,36.1,16.5,36.1,16.5,19.6,66.9,60.5,97.19,26.67,26.67,26.67,Varsity Program,Nashville,Eagles
+343,47,First Assembly Christian,TN,DII-AA,TSSAA DII-AA,0-9,0,9,0,9,25.3,25.3,-24.73,62.5,343,4.7,39.8,4.7,39.8,-35.1,25.0,27.9,21.88,0.0,0.0,0.0,Varsity Program,Cordova,Crusaders
+344,30,Chattanooga Central,TN,3A,TSSAA 3A,2-8,2,8,0,10,25.2,25.2,-24.78,57.9,344,5.1,38.6,5.1,38.6,-33.5,25.0,29.6,40.27,7.0,13.0,2.0,Varsity Program,Harrison,Purple Pounders
+345,36,Red Bank,TN,4A,TSSAA 4A,6-5,6,5,0,11,25.1,25.1,-24.9,49.0,345,24.9,18.0,24.9,18.0,6.9,51.3,58.4,71.7,22.26,22.26,22.26,Varsity Program,Nashville,Lions
+346,14,Howard Tech,TN,DII-AAA,TSSAA DII-AAA,4-6,4,6,0,10,25.0,25.0,-25.01,48.4,346,12.7,34.5,12.7,34.5,-21.8,34.2,35.3,56.94,14.0,26.0,4.0,Varsity Program,Chattanooga,Varsity
+347,37,Craigmont,TN,4A,TSSAA 4A,1-9,1,9,0,10,24.6,24.6,-25.44,59.8,347,9.0,42.2,9.0,42.2,-33.2,29.0,25.0,30.93,3.5,6.5,1.0,Varsity Program,Memphis,Chiefs
+348,22,KIPP Collegiate,TN,1A,TSSAA 1A,4-7,4,7,0,11,24.0,24.0,-25.97,50.4,348,8.4,24.5,8.4,24.5,-16.1,28.2,49.3,54.0,12.73,23.64,3.64,Varsity Program,Memphis,Phoenix
+349,23,Gordonsville,TN,1A,TSSAA 1A,10-1,10,1,0,11,23.8,23.8,-26.2,34.5,349,30.5,8.3,30.5,8.3,22.2,59.1,72.0,102.98,30.74,30.74,30.74,Varsity Program,Nashville,Tigers
+350,31,Johnson County,TN,3A,TSSAA 3A,2-8,2,8,0,10,23.4,23.4,-26.6,54.2,350,11.0,37.8,11.0,37.8,-26.8,31.8,30.7,38.97,7.0,13.0,2.0,Varsity Program,Mountain City,Longhorns
+351,24,Oakdale,TN,1A,TSSAA 1A,2-8,2,8,0,10,23.0,23.0,-26.97,54.2,351,8.0,33.0,8.0,33.0,-25.0,27.6,37.4,38.97,7.0,13.0,2.0,Varsity Program,Oakdale,Eagles
+352,29,Lewis County,TN,2A,TSSAA 2A,2-8,2,8,0,10,23.0,23.0,-27.0,38.3,352,19.8,21.6,19.8,21.6,-1.8,44.1,53.4,33.41,32.07,32.07,32.07,Varsity Program,Nashville,Panthers
+353,30,Bluff City,TN,2A,TSSAA 2A,1-9,1,9,0,10,22.8,22.8,-27.2,54.7,353,12.2,34.7,12.2,34.7,-22.5,33.5,35.0,29.14,3.5,6.5,1.0,Varsity Program,Memphis,Gray Wolves
+354,36,KIPP Nashville Collegiate,TN,5A,TSSAA 5A,1-5,1,5,0,6,22.8,22.8,-27.21,59.3,354,11.8,35.4,11.8,35.4,-23.6,32.9,34.0,37.42,5.83,10.83,1.67,Varsity Program,Nashville,Varsity
+355,37,Campbell County,TN,5A,TSSAA 5A,0-10,0,10,0,10,22.8,22.8,-27.24,65.4,355,16.5,58.2,16.5,58.2,-41.7,39.5,25.0,22.89,0.0,0.0,0.0,Varsity Program,Jacksboro,Cougars
+356,32,Douglass,TN,3A,TSSAA 3A,2-8,2,8,0,10,22.7,22.7,-27.27,53.4,356,12.2,33.2,12.2,33.2,-21.0,33.5,37.1,38.69,7.0,13.0,2.0,Varsity Program,Memphis,Red Devils
+357,33,Sequatchie County,TN,3A,TSSAA 3A,6-5,6,5,0,11,22.1,22.1,-27.9,52.1,357,30.2,25.5,30.2,25.5,4.7,58.7,47.9,72.78,22.76,22.76,22.76,Varsity Program,Nashville,Indians
+358,136,Copper Basin,TN,6A,TSSAA 6A,2-9,2,9,0,11,20.8,20.8,-29.18,49.6,358,16.2,32.4,16.2,32.4,-16.2,39.1,38.2,35.54,6.36,11.82,1.82,Varsity Program,Nashville,Cougars
+359,48,Mt. Juliet Christian Academy,TN,DII-AA,TSSAA DII-AA,1-7,1,7,0,8,20.8,20.8,-29.23,58.6,359,11.2,43.4,11.2,43.4,-32.2,32.1,25.0,33.01,4.38,8.12,1.25,Varsity Program,Mt Juliet,Saints
+360,38,Cumberland County,TN,4A,TSSAA 4A,0-10,0,10,0,10,20.5,20.5,-29.46,59.8,360,10.7,36.4,10.7,36.4,-25.7,31.4,32.6,20.93,0.0,0.0,0.0,Varsity Program,Crossville,Varsity
+361,31,Trousdale County,TN,2A,TSSAA 2A,4-7,4,7,0,11,20.5,20.5,-29.5,40.0,361,21.6,23.5,21.6,23.5,-1.9,46.6,50.7,50.36,34.5,34.5,34.5,Varsity Program,Nashville,Yellowjackets
+362,34,Brainerd,TN,3A,TSSAA 3A,0-10,0,10,0,10,20.3,20.3,-29.67,64.3,362,2.6,41.5,2.6,41.5,-38.9,25.0,25.5,22.5,0.0,0.0,0.0,Varsity Program,Chattanooga,Panthers
+363,35,Claiborne,TN,3A,TSSAA 3A,0-10,0,10,0,10,20.3,20.3,-29.71,59.9,363,9.6,46.1,9.6,46.1,-36.5,29.8,25.0,20.96,0.0,0.0,0.0,Varsity Program,New Tazewell,Bulldogs
+364,38,Cocke County,TN,5A,TSSAA 5A,0-9,0,9,0,9,20.3,20.3,-29.72,64.7,364,4.0,52.9,4.0,52.9,-48.9,25.0,25.0,22.64,0.0,0.0,0.0,Varsity Program,Newport,Fighting Cocks
+365,32,Scotts Hill,TN,2A,TSSAA 2A,0-10,0,10,0,10,19.8,19.8,-30.21,57.9,365,7.8,35.1,7.8,35.1,-27.3,27.3,34.5,20.26,0.0,0.0,0.0,Varsity Program,Reagan,Lions
+366,25,Sunbright,TN,1A,TSSAA 1A,4-6,4,6,0,10,19.8,19.8,-30.25,47.5,366,24.2,41.0,24.2,41.0,-16.8,50.3,26.2,56.62,14.0,26.0,4.0,Varsity Program,Sunbright,Tigers
+367,36,Fairview,TN,3A,TSSAA 3A,11-0,11,0,0,11,19.0,19.0,-31.0,47.1,367,38.5,5.9,38.5,5.9,32.6,70.3,75.3,116.48,22.76,22.76,22.76,Varsity Program,Nashville,Yellowjackets
+368,26,West Carroll,TN,1A,TSSAA 1A,1-9,1,9,0,10,18.6,18.6,-31.37,53.6,368,9.0,36.3,9.0,36.3,-27.3,29.0,32.8,28.76,3.5,6.5,1.0,Varsity Program,Atwood,War Eagles
+369,33,Hampton,TN,2A,TSSAA 2A,6-5,6,5,0,11,18.5,18.5,-31.5,40.3,369,38.2,22.4,38.2,22.4,15.8,69.9,52.2,68.65,25.35,25.35,25.35,Varsity Program,Nashville,Bulldogs
+370,27,Moore County,TN,1A,TSSAA 1A,1-9,1,9,0,10,18.1,18.1,-31.9,39.3,370,10.0,30.5,10.0,30.5,-20.5,30.4,40.9,23.75,33.55,33.55,33.55,Varsity Program,Nashville,Raiders
+371,37,Community,TN,3A,TSSAA 3A,0-10,0,10,0,10,18.1,18.1,-31.92,61.9,371,4.0,44.4,4.0,44.4,-40.4,25.0,25.0,21.66,0.0,0.0,0.0,Varsity Program,Unionville,Vikings Viqueens
+372,39,Hunters Lane,TN,5A,TSSAA 5A,0-9,0,9,0,9,16.6,16.6,-33.42,62.6,372,4.9,43.8,4.9,43.8,-38.9,25.0,25.0,21.91,0.0,0.0,0.0,Varsity Program,Nashville,Warriors
+373,28,Booker T. Washington,TN,1A,TSSAA 1A,1-8,1,8,0,9,14.2,14.2,-35.75,47.3,373,6.9,34.4,6.9,34.4,-27.5,26.1,35.4,27.67,3.89,7.22,1.11,Varsity Program,Memphis,Warriors
+374,29,Hancock County,TN,1A,TSSAA 1A,1-10,1,10,0,11,14.2,14.2,-35.8,53.2,374,7.5,42.5,7.5,42.5,-35.0,26.9,25.0,27.71,3.18,5.91,0.91,Varsity Program,Sneedville,Indians
+375,30,Lookout Valley,TN,1A,TSSAA 1A,2-8,2,8,0,10,14.0,14.0,-36.0,49.1,375,10.4,45.7,10.4,45.7,-35.3,31.0,25.0,37.19,7.0,13.0,2.0,Varsity Program,Chattanooga,Yellowjackets
+376,31,Innovation Academy,TN,1A,TSSAA 1A,1-10,1,10,0,11,14.0,14.0,-36.0,52.5,376,2.9,45.5,2.9,45.5,-42.6,25.0,25.0,27.47,3.18,5.91,0.91,Varsity Program,Springfield,Sentinels
+377,49,Clarksville Academy,TN,DII-AA,TSSAA DII-AA,0-9,0,9,0,9,14.0,14.0,-36.0,57.3,377,5.8,36.7,5.8,36.7,-30.9,25.0,32.2,20.05,0.0,0.0,0.0,Varsity Program,Clarksville,Cougars
+378,32,Gleason,TN,1A,TSSAA 1A,0-10,0,10,0,10,14.0,14.0,-36.0,54.4,378,2.6,40.7,2.6,40.7,-38.1,25.0,26.6,19.04,0.0,0.0,0.0,Varsity Program,Gleason,Bulldogs
+379,38,Memphis East,TN,3A,TSSAA 3A,0-10,0,10,0,10,14.0,14.0,-36.0,53.5,379,0.0,45.2,0.0,45.2,-45.2,25.0,25.0,18.72,0.0,0.0,0.0,Varsity Program,Memphis,Mustangs
+380,33,Middleton,TN,1A,TSSAA 1A,0-10,0,10,0,10,14.0,14.0,-36.0,49.7,380,5.4,42.3,5.4,42.3,-36.9,25.0,25.0,17.39,0.0,0.0,0.0,Varsity Program,Middleton,Tigers
+381,39,Pickett County,TN,3A,TSSAA 3A,0-9,0,9,0,9,14.0,14.0,-36.0,50.2,381,7.8,39.1,7.8,39.1,-31.3,27.3,28.9,17.57,0.0,0.0,0.0,Varsity Program,Byrdstown,Varsity
+382,39,Red Boiling Springs,TN,4A,TSSAA 4A,0-11,0,11,0,11,14.0,14.0,-36.0,55.2,382,4.9,43.4,4.9,43.4,-38.5,25.0,25.0,19.32,0.0,0.0,0.0,Varsity Program,Nashville,Bulldogs
+383,34,Sheffield,TN,2A,TSSAA 2A,0-10,0,10,0,10,14.0,14.0,-36.0,58.4,383,0.6,45.4,0.6,45.4,-44.8,25.0,25.0,20.44,0.0,0.0,0.0,Varsity Program,Memphis,Mighty Knights
+384,34,Unaka,TN,1A,TSSAA 1A,0-10,0,10,0,10,14.0,14.0,-36.0,53.6,384,14.6,52.1,14.6,52.1,-37.5,36.8,25.0,18.76,0.0,0.0,0.0,Varsity Program,Elizabethton,Rangers
+385,35,Peabody,TN,2A,TSSAA 2A,5-5,5,5,0,10,12.0,12.0,-38.7,37.4,385,24.9,18.9,24.9,18.9,6.0,51.3,57.1,63.09,18.22,18.22,18.22,Varsity Program,Nashville,Golden Tide
+386,35,Greenback,TN,1A,TSSAA 1A,10-1,10,1,0,11,12.0,12.0,-40.3,30.7,386,40.7,10.3,40.7,10.3,30.4,73.4,69.2,101.65,18.64,18.64,18.64,Varsity Program,Nashville,Cherokees

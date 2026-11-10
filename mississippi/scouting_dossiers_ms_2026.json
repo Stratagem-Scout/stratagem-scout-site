@@ -1,0 +1,3500 @@
+{
+  "state": "MS",
+  "season": 2026,
+  "dossiers": {
+    "tupelo": {
+      "team": "Tupelo",
+      "state": "MS",
+      "division": "7A",
+      "region": 1,
+      "record": "10-1",
+      "games_played": 11,
+      "avg_points_scored": 38.4,
+      "avg_points_allowed": 14.5,
+      "season_net_margin": 23.9,
+      "last_3_game_margin": 32.0,
+      "momentum_trend": 8.1,
+      "close_game_record": "0-1",
+      "mercy_rule_wins": 4,
+      "verified_press_intel": [
+        "Mississippi High School Football Playoff Schedules and Scores (MHSAA) - November 28, 2025 - Sports Illustrated"
+      ],
+      "keys_to_victory": [
+        "Explosive Separation Profile: Tupelo has triggered the 35-point MHSAA running clock 4 times.",
+        "Peaking in Postseason Play: Net margin surged +8.1 PPG over the last 3 games (+32.0 PPG)."
+      ]
+    },
+    "brandon": {
+      "team": "Brandon",
+      "state": "MS",
+      "division": "7A",
+      "region": 1,
+      "record": "11-0",
+      "games_played": 11,
+      "avg_points_scored": 34.6,
+      "avg_points_allowed": 15.2,
+      "season_net_margin": 19.4,
+      "last_3_game_margin": 34.7,
+      "momentum_trend": 15.3,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [
+        "MHSAA Playoff Scenarios: Class 7A, 6A, and 5A - Mississippi Gridiron",
+        "Mississippi Football Power Brandon Placed on Probation, Remains Playoff Eligible - Sports Illustrated"
+      ],
+      "keys_to_victory": [
+        "Peaking in Postseason Play: Net margin surged +15.3 PPG over the last 3 games (+34.7 PPG)."
+      ]
+    },
+    "oak grove": {
+      "team": "Oak Grove",
+      "state": "MS",
+      "division": "7A",
+      "region": 1,
+      "record": "10-1",
+      "games_played": 11,
+      "avg_points_scored": 38.7,
+      "avg_points_allowed": 12.9,
+      "season_net_margin": 25.8,
+      "last_3_game_margin": 33.0,
+      "momentum_trend": 7.2,
+      "close_game_record": "0-1",
+      "mercy_rule_wins": 4,
+      "verified_press_intel": [
+        "Oak Grove pounds Biloxi, advances in MHSAA football playoffs. Here\u2019s what it means - Hattiesburg American"
+      ],
+      "keys_to_victory": [
+        "Explosive Separation Profile: Oak Grove has triggered the 35-point MHSAA running clock 4 times.",
+        "Peaking in Postseason Play: Net margin surged +7.2 PPG over the last 3 games (+33.0 PPG)."
+      ]
+    },
+    "grenada": {
+      "team": "Grenada",
+      "state": "MS",
+      "division": "6A",
+      "region": 1,
+      "record": "10-1",
+      "games_played": 11,
+      "avg_points_scored": 36.9,
+      "avg_points_allowed": 14.5,
+      "season_net_margin": 22.4,
+      "last_3_game_margin": 37.7,
+      "momentum_trend": 15.3,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 3,
+      "verified_press_intel": [
+        "Mississippi (MHSAA) high school football playoffs: 2024 brackets, state championship matchups, game times - Sports Illustrated"
+      ],
+      "keys_to_victory": [
+        "Explosive Separation Profile: Grenada has triggered the 35-point MHSAA running clock 3 times.",
+        "Peaking in Postseason Play: Net margin surged +15.3 PPG over the last 3 games (+37.7 PPG)."
+      ]
+    },
+    "hattiesburg": {
+      "team": "Hattiesburg",
+      "state": "MS",
+      "division": "6A",
+      "region": 1,
+      "record": "10-1",
+      "games_played": 11,
+      "avg_points_scored": 38.9,
+      "avg_points_allowed": 16.7,
+      "season_net_margin": 22.2,
+      "last_3_game_margin": 35.3,
+      "momentum_trend": 13.1,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [
+        "MHSAA football playoffs 2026. See pairings for Class 1A-7A - The Clarion-Ledger"
+      ],
+      "keys_to_victory": [
+        "Peaking in Postseason Play: Net margin surged +13.1 PPG over the last 3 games (+35.3 PPG)."
+      ]
+    },
+    "gautier": {
+      "team": "Gautier",
+      "state": "MS",
+      "division": "5A",
+      "region": 1,
+      "record": "10-1",
+      "games_played": 11,
+      "avg_points_scored": 39.8,
+      "avg_points_allowed": 13.4,
+      "season_net_margin": 26.4,
+      "last_3_game_margin": 35.0,
+      "momentum_trend": 8.6,
+      "close_game_record": "0-1",
+      "mercy_rule_wins": 4,
+      "verified_press_intel": [
+        "MS Coast star QB named Mr. Football winner by MHSAA, while state\u2019s leading rushers snubbed - Sun Herald"
+      ],
+      "keys_to_victory": [
+        "Explosive Separation Profile: Gautier has triggered the 35-point MHSAA running clock 4 times.",
+        "Peaking in Postseason Play: Net margin surged +8.6 PPG over the last 3 games (+35.0 PPG)."
+      ]
+    },
+    "west point": {
+      "team": "West Point",
+      "state": "MS",
+      "division": "5A",
+      "region": 1,
+      "record": "11-0",
+      "games_played": 11,
+      "avg_points_scored": 35.5,
+      "avg_points_allowed": 13.1,
+      "season_net_margin": 22.4,
+      "last_3_game_margin": 34.0,
+      "momentum_trend": 11.6,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [
+        "MHSAA football playoffs 2026. See pairings for Class 1A-7A - The Clarion-Ledger"
+      ],
+      "keys_to_victory": [
+        "Peaking in Postseason Play: Net margin surged +11.6 PPG over the last 3 games (+34.0 PPG)."
+      ]
+    },
+    "picayune": {
+      "team": "Picayune",
+      "state": "MS",
+      "division": "6A",
+      "region": 1,
+      "record": "11-0",
+      "games_played": 11,
+      "avg_points_scored": 37.8,
+      "avg_points_allowed": 15.2,
+      "season_net_margin": 22.6,
+      "last_3_game_margin": 39.0,
+      "momentum_trend": 16.4,
+      "close_game_record": "3-0",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Peaking in Postseason Play: Net margin surged +16.4 PPG over the last 3 games (+39.0 PPG)."
+      ]
+    },
+    "poplarville": {
+      "team": "Poplarville",
+      "state": "MS",
+      "division": "4A",
+      "region": 1,
+      "record": "11-0",
+      "games_played": 11,
+      "avg_points_scored": 40.3,
+      "avg_points_allowed": 12.7,
+      "season_net_margin": 27.6,
+      "last_3_game_margin": 42.0,
+      "momentum_trend": 14.4,
+      "close_game_record": "0-0",
+      "mercy_rule_wins": 3,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Explosive Separation Profile: Poplarville has triggered the 35-point MHSAA running clock 3 times.",
+        "Peaking in Postseason Play: Net margin surged +14.4 PPG over the last 3 games (+42.0 PPG)."
+      ]
+    },
+    "madison central": {
+      "team": "Madison Central",
+      "state": "MS",
+      "division": "7A",
+      "region": 1,
+      "record": "8-3",
+      "games_played": 11,
+      "avg_points_scored": 31.6,
+      "avg_points_allowed": 18.5,
+      "season_net_margin": 13.1,
+      "last_3_game_margin": 5.3,
+      "momentum_trend": -7.8,
+      "close_game_record": "0-0",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Late-Season Margin Compression: Net differential dipped -7.8 PPG over the last 3 weeks."
+      ]
+    },
+    "warren central": {
+      "team": "Warren Central",
+      "state": "MS",
+      "division": "6A",
+      "region": 1,
+      "record": "8-3",
+      "games_played": 11,
+      "avg_points_scored": 34.5,
+      "avg_points_allowed": 18.7,
+      "season_net_margin": 15.8,
+      "last_3_game_margin": 17.7,
+      "momentum_trend": 1.9,
+      "close_game_record": "0-2",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Win 1st-down efficiency, protect the football, and force long-field drives."
+      ]
+    },
+    "holmes county central": {
+      "team": "Holmes County Central",
+      "state": "MS",
+      "division": "5A",
+      "region": 1,
+      "record": "9-2",
+      "games_played": 11,
+      "avg_points_scored": 35.5,
+      "avg_points_allowed": 14.7,
+      "season_net_margin": 20.8,
+      "last_3_game_margin": 24.3,
+      "momentum_trend": 3.5,
+      "close_game_record": "0-1",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Win 1st-down efficiency, protect the football, and force long-field drives."
+      ]
+    },
+    "louisville": {
+      "team": "Louisville",
+      "state": "MS",
+      "division": "4A",
+      "region": 1,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 38.6,
+      "avg_points_allowed": 13.1,
+      "season_net_margin": 25.5,
+      "last_3_game_margin": 40.3,
+      "momentum_trend": 14.8,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 4,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Explosive Separation Profile: Louisville has triggered the 35-point MHSAA running clock 4 times.",
+        "Peaking in Postseason Play: Net margin surged +14.8 PPG over the last 3 games (+40.3 PPG)."
+      ]
+    },
+    "starkville": {
+      "team": "Starkville",
+      "state": "MS",
+      "division": "7A",
+      "region": 1,
+      "record": "8-3",
+      "games_played": 11,
+      "avg_points_scored": 28.3,
+      "avg_points_allowed": 20.3,
+      "season_net_margin": 8.0,
+      "last_3_game_margin": 12.0,
+      "momentum_trend": 4.0,
+      "close_game_record": "0-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "noxubee county": {
+      "team": "Noxubee County",
+      "state": "MS",
+      "division": "3A",
+      "region": 1,
+      "record": "10-1",
+      "games_played": 11,
+      "avg_points_scored": 37.2,
+      "avg_points_allowed": 14.9,
+      "season_net_margin": 22.3,
+      "last_3_game_margin": 30.3,
+      "momentum_trend": 8.0,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Peaking in Postseason Play: Net margin surged +8.0 PPG over the last 3 games (+30.3 PPG)."
+      ]
+    },
+    "raleigh": {
+      "team": "Raleigh",
+      "state": "MS",
+      "division": "2A",
+      "region": 1,
+      "record": "11-0",
+      "games_played": 11,
+      "avg_points_scored": 42.9,
+      "avg_points_allowed": 15.5,
+      "season_net_margin": 27.4,
+      "last_3_game_margin": 43.7,
+      "momentum_trend": 16.3,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 5,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Explosive Separation Profile: Raleigh has triggered the 35-point MHSAA running clock 5 times.",
+        "Peaking in Postseason Play: Net margin surged +16.3 PPG over the last 3 games (+43.7 PPG)."
+      ]
+    },
+    "choctaw county": {
+      "team": "Choctaw County",
+      "state": "MS",
+      "division": "3A",
+      "region": 1,
+      "record": "10-1",
+      "games_played": 11,
+      "avg_points_scored": 37.5,
+      "avg_points_allowed": 13.6,
+      "season_net_margin": 23.9,
+      "last_3_game_margin": 34.7,
+      "momentum_trend": 10.8,
+      "close_game_record": "0-1",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Peaking in Postseason Play: Net margin surged +10.8 PPG over the last 3 games (+34.7 PPG)."
+      ]
+    },
+    "laurel": {
+      "team": "Laurel",
+      "state": "MS",
+      "division": "5A",
+      "region": 1,
+      "record": "9-2",
+      "games_played": 11,
+      "avg_points_scored": 31.5,
+      "avg_points_allowed": 18.0,
+      "season_net_margin": 13.5,
+      "last_3_game_margin": 18.3,
+      "momentum_trend": 4.8,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Win 1st-down efficiency, protect the football, and force long-field drives."
+      ]
+    },
+    "ocean springs": {
+      "team": "Ocean Springs",
+      "state": "MS",
+      "division": "7A",
+      "region": 1,
+      "record": "4-5",
+      "games_played": 9,
+      "avg_points_scored": 25.9,
+      "avg_points_allowed": 27.4,
+      "season_net_margin": -1.5,
+      "last_3_game_margin": 11.3,
+      "momentum_trend": 12.8,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Peaking in Postseason Play: Net margin surged +12.8 PPG over the last 3 games (+11.3 PPG)."
+      ]
+    },
+    "jefferson davis county": {
+      "team": "Jefferson Davis County",
+      "state": "MS",
+      "division": "3A",
+      "region": 1,
+      "record": "11-0",
+      "games_played": 11,
+      "avg_points_scored": 37.0,
+      "avg_points_allowed": 14.0,
+      "season_net_margin": 23.0,
+      "last_3_game_margin": 17.3,
+      "momentum_trend": -5.7,
+      "close_game_record": "3-0",
+      "mercy_rule_wins": 3,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Explosive Separation Profile: Jefferson Davis County has triggered the 35-point MHSAA running clock 3 times."
+      ]
+    },
+    "columbia": {
+      "team": "Columbia",
+      "state": "MS",
+      "division": "4A",
+      "region": 1,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 33.9,
+      "avg_points_allowed": 15.1,
+      "season_net_margin": 18.8,
+      "last_3_game_margin": 18.7,
+      "momentum_trend": -0.1,
+      "close_game_record": "3-0",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Win 1st-down efficiency, protect the football, and force long-field drives."
+      ]
+    },
+    "man 1a district 1 (8 man)mais": {
+      "team": "Man 1A District 1 (8 Man)MAIS",
+      "state": "MS",
+      "division": "6A",
+      "region": 1,
+      "record": "11-0",
+      "games_played": 11,
+      "avg_points_scored": 8.0,
+      "avg_points_allowed": 2.0,
+      "season_net_margin": 6.0,
+      "last_3_game_margin": 6.0,
+      "momentum_trend": 0.0,
+      "close_game_record": "11-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Stingy Scoring Defense: Allowing just 2.0 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+      ]
+    },
+    "man)mais": {
+      "team": "Man)MAIS",
+      "state": "MS",
+      "division": "6A",
+      "region": 1,
+      "record": "11-0",
+      "games_played": 11,
+      "avg_points_scored": 8.0,
+      "avg_points_allowed": 5.0,
+      "season_net_margin": 3.0,
+      "last_3_game_margin": 3.0,
+      "momentum_trend": 0.0,
+      "close_game_record": "11-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Stingy Scoring Defense: Allowing just 5.0 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+      ]
+    },
+    "houston": {
+      "team": "Houston",
+      "state": "MS",
+      "division": "4A",
+      "region": 1,
+      "record": "6-3",
+      "games_played": 9,
+      "avg_points_scored": 34.8,
+      "avg_points_allowed": 18.8,
+      "season_net_margin": 16.0,
+      "last_3_game_margin": 28.3,
+      "momentum_trend": 12.3,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Peaking in Postseason Play: Net margin surged +12.3 PPG over the last 3 games (+28.3 PPG)."
+      ]
+    },
+    "south panola": {
+      "team": "South Panola",
+      "state": "MS",
+      "division": "6A",
+      "region": 1,
+      "record": "4-5",
+      "games_played": 9,
+      "avg_points_scored": 26.3,
+      "avg_points_allowed": 25.9,
+      "season_net_margin": 0.4,
+      "last_3_game_margin": 3.3,
+      "momentum_trend": 2.9,
+      "close_game_record": "0-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "simmons": {
+      "team": "Simmons",
+      "state": "MS",
+      "division": "1A",
+      "region": 1,
+      "record": "10-1",
+      "games_played": 11,
+      "avg_points_scored": 39.5,
+      "avg_points_allowed": 14.2,
+      "season_net_margin": 25.3,
+      "last_3_game_margin": 36.0,
+      "momentum_trend": 10.7,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 3,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Explosive Separation Profile: Simmons has triggered the 35-point MHSAA running clock 3 times.",
+        "Peaking in Postseason Play: Net margin surged +10.7 PPG over the last 3 games (+36.0 PPG)."
+      ]
+    },
+    "george county": {
+      "team": "George County",
+      "state": "MS",
+      "division": "6A",
+      "region": 1,
+      "record": "5-6",
+      "games_played": 11,
+      "avg_points_scored": 26.5,
+      "avg_points_allowed": 22.2,
+      "season_net_margin": 4.3,
+      "last_3_game_margin": -5.7,
+      "momentum_trend": -10.0,
+      "close_game_record": "1-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -10.0 PPG over the last 3 weeks."
+      ]
+    },
+    "oxford": {
+      "team": "Oxford",
+      "state": "MS",
+      "division": "7A",
+      "region": 1,
+      "record": "1-8",
+      "games_played": 9,
+      "avg_points_scored": 17.1,
+      "avg_points_allowed": 28.7,
+      "season_net_margin": -11.6,
+      "last_3_game_margin": -15.0,
+      "momentum_trend": -3.4,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "gulfport": {
+      "team": "Gulfport",
+      "state": "MS",
+      "division": "7A",
+      "region": 1,
+      "record": "2-6",
+      "games_played": 8,
+      "avg_points_scored": 19.2,
+      "avg_points_allowed": 31.9,
+      "season_net_margin": -12.7,
+      "last_3_game_margin": -16.3,
+      "momentum_trend": -3.6,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "man 2a district": {
+      "team": "Man 2A District",
+      "state": "MS",
+      "division": "6A",
+      "region": 1,
+      "record": "0-11",
+      "games_played": 11,
+      "avg_points_scored": 5.0,
+      "avg_points_allowed": 8.0,
+      "season_net_margin": -3.0,
+      "last_3_game_margin": -3.0,
+      "momentum_trend": 0.0,
+      "close_game_record": "0-11",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Stingy Scoring Defense: Allowing just 8.0 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+      ]
+    },
+    "man 1a district": {
+      "team": "Man 1A District",
+      "state": "MS",
+      "division": "6A",
+      "region": 1,
+      "record": "0-11",
+      "games_played": 11,
+      "avg_points_scored": 2.0,
+      "avg_points_allowed": 8.0,
+      "season_net_margin": -6.0,
+      "last_3_game_margin": -6.0,
+      "momentum_trend": 0.0,
+      "close_game_record": "0-11",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Stingy Scoring Defense: Allowing just 8.0 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+      ]
+    },
+    "lake cormorant": {
+      "team": "Lake Cormorant",
+      "state": "MS",
+      "division": "6A",
+      "region": 1,
+      "record": "2-6",
+      "games_played": 8,
+      "avg_points_scored": 21.4,
+      "avg_points_allowed": 32.6,
+      "season_net_margin": -11.2,
+      "last_3_game_margin": -20.3,
+      "momentum_trend": -9.1,
+      "close_game_record": "2-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -9.1 PPG over the last 3 weeks."
+      ]
+    },
+    "charleston": {
+      "team": "Charleston",
+      "state": "MS",
+      "division": "2A",
+      "region": 1,
+      "record": "9-2",
+      "games_played": 11,
+      "avg_points_scored": 35.1,
+      "avg_points_allowed": 17.5,
+      "season_net_margin": 17.6,
+      "last_3_game_margin": 32.3,
+      "momentum_trend": 14.7,
+      "close_game_record": "2-1",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Peaking in Postseason Play: Net margin surged +14.7 PPG over the last 3 games (+32.3 PPG)."
+      ]
+    },
+    "cleveland central": {
+      "team": "Cleveland Central",
+      "state": "MS",
+      "division": "5A",
+      "region": 1,
+      "record": "3-6",
+      "games_played": 9,
+      "avg_points_scored": 24.0,
+      "avg_points_allowed": 26.3,
+      "season_net_margin": -2.3,
+      "last_3_game_margin": 1.0,
+      "momentum_trend": 3.3,
+      "close_game_record": "0-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "brookhaven": {
+      "team": "Brookhaven",
+      "state": "MS",
+      "division": "5A",
+      "region": 1,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 26.0,
+      "avg_points_allowed": 25.1,
+      "season_net_margin": 0.9,
+      "last_3_game_margin": -11.3,
+      "momentum_trend": -12.2,
+      "close_game_record": "3-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -12.2 PPG over the last 3 weeks."
+      ]
+    },
+    "biggersville": {
+      "team": "Biggersville",
+      "state": "MS",
+      "division": "1A",
+      "region": 1,
+      "record": "9-2",
+      "games_played": 11,
+      "avg_points_scored": 35.5,
+      "avg_points_allowed": 13.3,
+      "season_net_margin": 22.2,
+      "last_3_game_margin": 35.3,
+      "momentum_trend": 13.1,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Peaking in Postseason Play: Net margin surged +13.1 PPG over the last 3 games (+35.3 PPG)."
+      ]
+    },
+    "winona": {
+      "team": "Winona",
+      "state": "MS",
+      "division": "3A",
+      "region": 1,
+      "record": "7-4",
+      "games_played": 11,
+      "avg_points_scored": 29.3,
+      "avg_points_allowed": 18.1,
+      "season_net_margin": 11.2,
+      "last_3_game_margin": 3.0,
+      "momentum_trend": -8.2,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Late-Season Margin Compression: Net differential dipped -8.2 PPG over the last 3 weeks."
+      ]
+    },
+    "heidelberg": {
+      "team": "Heidelberg",
+      "state": "MS",
+      "division": "2A",
+      "region": 1,
+      "record": "9-2",
+      "games_played": 11,
+      "avg_points_scored": 33.0,
+      "avg_points_allowed": 16.5,
+      "season_net_margin": 16.5,
+      "last_3_game_margin": 14.7,
+      "momentum_trend": -1.8,
+      "close_game_record": "2-1",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Win 1st-down efficiency, protect the football, and force long-field drives."
+      ]
+    },
+    "pascagoula": {
+      "team": "Pascagoula",
+      "state": "MS",
+      "division": "6A",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 23.1,
+      "avg_points_allowed": 25.8,
+      "season_net_margin": -2.7,
+      "last_3_game_margin": -12.7,
+      "momentum_trend": -10.0,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -10.0 PPG over the last 3 weeks."
+      ]
+    },
+    "scott central": {
+      "team": "Scott Central",
+      "state": "MS",
+      "division": "2A",
+      "region": 1,
+      "record": "9-2",
+      "games_played": 11,
+      "avg_points_scored": 33.6,
+      "avg_points_allowed": 17.5,
+      "season_net_margin": 16.1,
+      "last_3_game_margin": 14.3,
+      "momentum_trend": -1.8,
+      "close_game_record": "2-2",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Win 1st-down efficiency, protect the football, and force long-field drives."
+      ]
+    },
+    "kosciusko": {
+      "team": "kosciusko",
+      "state": "MS",
+      "division": "4A",
+      "region": 1,
+      "record": "5-3",
+      "games_played": 8,
+      "avg_points_scored": 26.5,
+      "avg_points_allowed": 24.4,
+      "season_net_margin": 2.1,
+      "last_3_game_margin": 9.0,
+      "momentum_trend": 6.9,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "bay springs": {
+      "team": "Bay Springs",
+      "state": "MS",
+      "division": "2A",
+      "region": 1,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 29.7,
+      "avg_points_allowed": 16.8,
+      "season_net_margin": 12.9,
+      "last_3_game_margin": 5.0,
+      "momentum_trend": -7.9,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Late-Season Margin Compression: Net differential dipped -7.9 PPG over the last 3 weeks."
+      ]
+    },
+    "clarksdale": {
+      "team": "Clarksdale",
+      "state": "MS",
+      "division": "5A",
+      "region": 1,
+      "record": "3-6",
+      "games_played": 9,
+      "avg_points_scored": 20.2,
+      "avg_points_allowed": 28.7,
+      "season_net_margin": -8.5,
+      "last_3_game_margin": -8.7,
+      "momentum_trend": -0.2,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "hancock": {
+      "team": "Hancock",
+      "state": "MS",
+      "division": "6A",
+      "region": 1,
+      "record": "3-6",
+      "games_played": 9,
+      "avg_points_scored": 17.9,
+      "avg_points_allowed": 32.6,
+      "season_net_margin": -14.7,
+      "last_3_game_margin": -19.7,
+      "momentum_trend": -5.0,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "mccomb": {
+      "team": "McComb",
+      "state": "MS",
+      "division": "4A",
+      "region": 1,
+      "record": "3-6",
+      "games_played": 9,
+      "avg_points_scored": 21.7,
+      "avg_points_allowed": 25.0,
+      "season_net_margin": -3.3,
+      "last_3_game_margin": -4.0,
+      "momentum_trend": -0.7,
+      "close_game_record": "1-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "clinton": {
+      "team": "Clinton",
+      "state": "MS",
+      "division": "7A",
+      "region": 1,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 18.2,
+      "avg_points_allowed": 30.2,
+      "season_net_margin": -12.0,
+      "last_3_game_margin": -21.3,
+      "momentum_trend": -9.3,
+      "close_game_record": "0-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -9.3 PPG over the last 3 weeks."
+      ]
+    },
+    "magee": {
+      "team": "Magee",
+      "state": "MS",
+      "division": "3A",
+      "region": 1,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 28.0,
+      "avg_points_allowed": 21.7,
+      "season_net_margin": 6.3,
+      "last_3_game_margin": -0.3,
+      "momentum_trend": -6.6,
+      "close_game_record": "0-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "germantown": {
+      "team": "Germantown",
+      "state": "MS",
+      "division": "7A",
+      "region": 1,
+      "record": "2-6",
+      "games_played": 8,
+      "avg_points_scored": 17.0,
+      "avg_points_allowed": 34.0,
+      "season_net_margin": -17.0,
+      "last_3_game_margin": -33.7,
+      "momentum_trend": -16.7,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -16.7 PPG over the last 3 weeks."
+      ]
+    },
+    "stone": {
+      "team": "Stone",
+      "state": "MS",
+      "division": "5A",
+      "region": 1,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 19.3,
+      "avg_points_allowed": 29.2,
+      "season_net_margin": -9.9,
+      "last_3_game_margin": -8.7,
+      "momentum_trend": 1.2,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "aberdeen": {
+      "team": "Aberdeen",
+      "state": "MS",
+      "division": "3A",
+      "region": 1,
+      "record": "4-5",
+      "games_played": 9,
+      "avg_points_scored": 24.3,
+      "avg_points_allowed": 26.1,
+      "season_net_margin": -1.8,
+      "last_3_game_margin": 3.7,
+      "momentum_trend": 5.5,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Win 1st-down efficiency, protect the football, and force long-field drives."
+      ]
+    },
+    "baldwyn": {
+      "team": "Baldwyn",
+      "state": "MS",
+      "division": "1A",
+      "region": 1,
+      "record": "9-2",
+      "games_played": 11,
+      "avg_points_scored": 31.8,
+      "avg_points_allowed": 16.8,
+      "season_net_margin": 15.0,
+      "last_3_game_margin": 17.7,
+      "momentum_trend": 2.7,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "velma jackson": {
+      "team": "Velma Jackson",
+      "state": "MS",
+      "division": "1A",
+      "region": 1,
+      "record": "8-3",
+      "games_played": 11,
+      "avg_points_scored": 27.4,
+      "avg_points_allowed": 16.5,
+      "season_net_margin": 10.9,
+      "last_3_game_margin": 4.0,
+      "momentum_trend": -6.9,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "nettleton": {
+      "team": "Nettleton",
+      "state": "MS",
+      "division": "3A",
+      "region": 1,
+      "record": "3-6",
+      "games_played": 9,
+      "avg_points_scored": 20.9,
+      "avg_points_allowed": 26.4,
+      "season_net_margin": -5.5,
+      "last_3_game_margin": -6.7,
+      "momentum_trend": -1.2,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "calhoun city": {
+      "team": "Calhoun City",
+      "state": "MS",
+      "division": "2A",
+      "region": 1,
+      "record": "3-6",
+      "games_played": 9,
+      "avg_points_scored": 24.2,
+      "avg_points_allowed": 24.8,
+      "season_net_margin": -0.6,
+      "last_3_game_margin": -1.0,
+      "momentum_trend": -0.4,
+      "close_game_record": "1-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "vardaman": {
+      "team": "Vardaman",
+      "state": "MS",
+      "division": "1A",
+      "region": 1,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 27.4,
+      "avg_points_allowed": 19.2,
+      "season_net_margin": 8.2,
+      "last_3_game_margin": 5.0,
+      "momentum_trend": -3.2,
+      "close_game_record": "4-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "northwest rankin": {
+      "team": "Northwest Rankin",
+      "state": "MS",
+      "division": "7A",
+      "region": 1,
+      "record": "2-6",
+      "games_played": 8,
+      "avg_points_scored": 15.6,
+      "avg_points_allowed": 38.9,
+      "season_net_margin": -23.3,
+      "last_3_game_margin": -39.7,
+      "momentum_trend": -16.4,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -16.4 PPG over the last 3 weeks."
+      ]
+    },
+    "desoto central": {
+      "team": "DeSoto Central",
+      "state": "MS",
+      "division": "7A",
+      "region": 1,
+      "record": "0-5",
+      "games_played": 5,
+      "avg_points_scored": 14.2,
+      "avg_points_allowed": 38.4,
+      "season_net_margin": -24.2,
+      "last_3_game_margin": -25.7,
+      "momentum_trend": -1.5,
+      "close_game_record": "0-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "neshoba central": {
+      "team": "Neshoba Central",
+      "state": "MS",
+      "division": "6A",
+      "region": 1,
+      "record": "1-7",
+      "games_played": 8,
+      "avg_points_scored": 15.5,
+      "avg_points_allowed": 36.5,
+      "season_net_margin": -21.0,
+      "last_3_game_margin": -36.3,
+      "momentum_trend": -15.3,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -15.3 PPG over the last 3 weeks."
+      ]
+    },
+    "callaway": {
+      "team": "Callaway",
+      "state": "MS",
+      "division": "6A",
+      "region": 1,
+      "record": "1-7",
+      "games_played": 8,
+      "avg_points_scored": 14.8,
+      "avg_points_allowed": 36.5,
+      "season_net_margin": -21.7,
+      "last_3_game_margin": -35.0,
+      "momentum_trend": -13.3,
+      "close_game_record": "0-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -13.3 PPG over the last 3 weeks."
+      ]
+    },
+    "mendenhall": {
+      "team": "Mendenhall",
+      "state": "MS",
+      "division": "4A",
+      "region": 1,
+      "record": "2-7",
+      "games_played": 9,
+      "avg_points_scored": 18.7,
+      "avg_points_allowed": 34.4,
+      "season_net_margin": -15.7,
+      "last_3_game_margin": -13.3,
+      "momentum_trend": 2.4,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "canton": {
+      "team": "Canton",
+      "state": "MS",
+      "division": "5A",
+      "region": 1,
+      "record": "2-7",
+      "games_played": 9,
+      "avg_points_scored": 17.6,
+      "avg_points_allowed": 33.4,
+      "season_net_margin": -15.8,
+      "last_3_game_margin": -26.7,
+      "momentum_trend": -10.9,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -10.9 PPG over the last 3 weeks."
+      ]
+    },
+    "wayne county": {
+      "team": "Wayne County",
+      "state": "MS",
+      "division": "5A",
+      "region": 1,
+      "record": "2-7",
+      "games_played": 9,
+      "avg_points_scored": 16.8,
+      "avg_points_allowed": 32.4,
+      "season_net_margin": -15.6,
+      "last_3_game_margin": -22.0,
+      "momentum_trend": -6.4,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "hernando": {
+      "team": "Hernando",
+      "state": "MS",
+      "division": "7A",
+      "region": 1,
+      "record": "0-8",
+      "games_played": 8,
+      "avg_points_scored": 12.5,
+      "avg_points_allowed": 38.9,
+      "season_net_margin": -26.4,
+      "last_3_game_margin": -37.3,
+      "momentum_trend": -10.9,
+      "close_game_record": "0-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -10.9 PPG over the last 3 weeks."
+      ]
+    },
+    "kemper county": {
+      "team": "Kemper County",
+      "state": "MS",
+      "division": "2A",
+      "region": 1,
+      "record": "3-6",
+      "games_played": 9,
+      "avg_points_scored": 19.8,
+      "avg_points_allowed": 27.6,
+      "season_net_margin": -7.8,
+      "last_3_game_margin": -14.7,
+      "momentum_trend": -6.9,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "olive branch": {
+      "team": "Olive Branch",
+      "state": "MS",
+      "division": "6A",
+      "region": 1,
+      "record": "0-5",
+      "games_played": 5,
+      "avg_points_scored": 13.6,
+      "avg_points_allowed": 40.8,
+      "season_net_margin": -27.2,
+      "last_3_game_margin": -36.7,
+      "momentum_trend": -9.5,
+      "close_game_record": "0-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -9.5 PPG over the last 3 weeks."
+      ]
+    },
+    "pass christian": {
+      "team": "Pass Christian",
+      "state": "MS",
+      "division": "4A",
+      "region": 1,
+      "record": "3-5",
+      "games_played": 8,
+      "avg_points_scored": 19.6,
+      "avg_points_allowed": 34.2,
+      "season_net_margin": -14.6,
+      "last_3_game_margin": -32.0,
+      "momentum_trend": -17.4,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -17.4 PPG over the last 3 weeks."
+      ]
+    },
+    "west marion": {
+      "team": "West Marion",
+      "state": "MS",
+      "division": "3A",
+      "region": 1,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 17.8,
+      "avg_points_allowed": 34.9,
+      "season_net_margin": -17.1,
+      "last_3_game_margin": -13.3,
+      "momentum_trend": 3.8,
+      "close_game_record": "0-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "east webster": {
+      "team": "east webster",
+      "state": "MS",
+      "division": "3A",
+      "region": 1,
+      "record": "3-6",
+      "games_played": 9,
+      "avg_points_scored": 15.9,
+      "avg_points_allowed": 29.8,
+      "season_net_margin": -13.9,
+      "last_3_game_margin": -21.0,
+      "momentum_trend": -7.1,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -7.1 PPG over the last 3 weeks."
+      ]
+    },
+    "ridgeland": {
+      "team": "Ridgeland",
+      "state": "MS",
+      "division": "6A",
+      "region": 1,
+      "record": "0-8",
+      "games_played": 8,
+      "avg_points_scored": 12.4,
+      "avg_points_allowed": 42.0,
+      "season_net_margin": -29.6,
+      "last_3_game_margin": -46.0,
+      "momentum_trend": -16.4,
+      "close_game_record": "0-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -16.4 PPG over the last 3 weeks."
+      ]
+    },
+    "taylorsville": {
+      "team": "Taylorsville",
+      "state": "MS",
+      "division": "1A",
+      "region": 1,
+      "record": "2-7",
+      "games_played": 9,
+      "avg_points_scored": 19.3,
+      "avg_points_allowed": 30.0,
+      "season_net_margin": -10.7,
+      "last_3_game_margin": -9.7,
+      "momentum_trend": 1.0,
+      "close_game_record": "0-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "itawamba ahs": {
+      "team": "Itawamba AHS",
+      "state": "MS",
+      "division": "4A",
+      "region": 1,
+      "record": "1-7",
+      "games_played": 8,
+      "avg_points_scored": 15.5,
+      "avg_points_allowed": 36.6,
+      "season_net_margin": -21.1,
+      "last_3_game_margin": -29.0,
+      "momentum_trend": -7.9,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -7.9 PPG over the last 3 weeks."
+      ]
+    },
+    "pontotoc": {
+      "team": "Pontotoc",
+      "state": "MS",
+      "division": "5A",
+      "region": 1,
+      "record": "1-7",
+      "games_played": 8,
+      "avg_points_scored": 13.8,
+      "avg_points_allowed": 40.0,
+      "season_net_margin": -26.2,
+      "last_3_game_margin": -43.7,
+      "momentum_trend": -17.5,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -17.5 PPG over the last 3 weeks."
+      ]
+    },
+    "mize": {
+      "team": "Mize",
+      "state": "MS",
+      "division": "2A",
+      "region": 1,
+      "record": "3-6",
+      "games_played": 9,
+      "avg_points_scored": 20.1,
+      "avg_points_allowed": 30.3,
+      "season_net_margin": -10.2,
+      "last_3_game_margin": -18.0,
+      "momentum_trend": -7.8,
+      "close_game_record": "0-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -7.8 PPG over the last 3 weeks."
+      ]
+    },
+    "mcevans": {
+      "team": "McEvans",
+      "state": "MS",
+      "division": "1A",
+      "region": 1,
+      "record": "2-7",
+      "games_played": 9,
+      "avg_points_scored": 16.9,
+      "avg_points_allowed": 29.8,
+      "season_net_margin": -12.9,
+      "last_3_game_margin": -18.0,
+      "momentum_trend": -5.1,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "stringer": {
+      "team": "Stringer",
+      "state": "MS",
+      "division": "1A",
+      "region": 1,
+      "record": "5-4",
+      "games_played": 9,
+      "avg_points_scored": 20.3,
+      "avg_points_allowed": 28.2,
+      "season_net_margin": -7.9,
+      "last_3_game_margin": -5.3,
+      "momentum_trend": 2.6,
+      "close_game_record": "3-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "lumberton": {
+      "team": "Lumberton",
+      "state": "MS",
+      "division": "1A",
+      "region": 1,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 19.6,
+      "avg_points_allowed": 33.4,
+      "season_net_margin": -13.8,
+      "last_3_game_margin": -12.7,
+      "momentum_trend": 1.1,
+      "close_game_record": "0-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "booneville": {
+      "team": "Booneville",
+      "state": "MS",
+      "division": "3A",
+      "region": 1,
+      "record": "1-7",
+      "games_played": 8,
+      "avg_points_scored": 13.8,
+      "avg_points_allowed": 34.6,
+      "season_net_margin": -20.8,
+      "last_3_game_margin": -35.0,
+      "momentum_trend": -14.2,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -14.2 PPG over the last 3 weeks."
+      ]
+    },
+    "new albany": {
+      "team": "New Albany",
+      "state": "MS",
+      "division": "4A",
+      "region": 1,
+      "record": "1-7",
+      "games_played": 8,
+      "avg_points_scored": 13.0,
+      "avg_points_allowed": 40.0,
+      "season_net_margin": -27.0,
+      "last_3_game_margin": -45.7,
+      "momentum_trend": -18.7,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -18.7 PPG over the last 3 weeks."
+      ]
+    },
+    "kossuth": {
+      "team": "Kossuth",
+      "state": "MS",
+      "division": "3A",
+      "region": 1,
+      "record": "1-8",
+      "games_played": 9,
+      "avg_points_scored": 14.7,
+      "avg_points_allowed": 36.7,
+      "season_net_margin": -22.0,
+      "last_3_game_margin": -20.3,
+      "momentum_trend": 1.7,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "loyd star": {
+      "team": "Loyd Star",
+      "state": "MS",
+      "division": "2A",
+      "region": 1,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 16.0,
+      "avg_points_allowed": 37.4,
+      "season_net_margin": -21.4,
+      "last_3_game_margin": -20.3,
+      "momentum_trend": 1.1,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "corinth": {
+      "team": "Corinth",
+      "state": "MS",
+      "division": "5A",
+      "region": 1,
+      "record": "0-8",
+      "games_played": 8,
+      "avg_points_scored": 12.5,
+      "avg_points_allowed": 41.8,
+      "season_net_margin": -29.3,
+      "last_3_game_margin": -42.3,
+      "momentum_trend": -13.0,
+      "close_game_record": "0-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -13.0 PPG over the last 3 weeks."
+      ]
+    },
+    "smithville": {
+      "team": "Smithville",
+      "state": "MS",
+      "division": "1A",
+      "region": 1,
+      "record": "2-7",
+      "games_played": 9,
+      "avg_points_scored": 17.1,
+      "avg_points_allowed": 32.9,
+      "season_net_margin": -15.8,
+      "last_3_game_margin": -24.0,
+      "momentum_trend": -8.2,
+      "close_game_record": "2-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -8.2 PPG over the last 3 weeks."
+      ]
+    },
+    "caledonia": {
+      "team": "Caledonia",
+      "state": "MS",
+      "division": "4A",
+      "region": 1,
+      "record": "0-7",
+      "games_played": 7,
+      "avg_points_scored": 13.7,
+      "avg_points_allowed": 42.7,
+      "season_net_margin": -29.0,
+      "last_3_game_margin": -45.0,
+      "momentum_trend": -16.0,
+      "close_game_record": "0-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -16.0 PPG over the last 3 weeks."
+      ]
+    },
+    "myrtle": {
+      "team": "Myrtle",
+      "state": "MS",
+      "division": "1A",
+      "region": 1,
+      "record": "1-7",
+      "games_played": 8,
+      "avg_points_scored": 16.8,
+      "avg_points_allowed": 36.2,
+      "season_net_margin": -19.4,
+      "last_3_game_margin": -28.7,
+      "momentum_trend": -9.3,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -9.3 PPG over the last 3 weeks."
+      ]
+    },
+    "east union": {
+      "team": "East Union",
+      "state": "MS",
+      "division": "2A",
+      "region": 1,
+      "record": "0-8",
+      "games_played": 8,
+      "avg_points_scored": 14.2,
+      "avg_points_allowed": 38.8,
+      "season_net_margin": -24.6,
+      "last_3_game_margin": -37.0,
+      "momentum_trend": -12.4,
+      "close_game_record": "0-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -12.4 PPG over the last 3 weeks."
+      ]
+    },
+    "collins": {
+      "team": "Collins",
+      "state": "MS",
+      "division": "2A",
+      "region": 1,
+      "record": "0-9",
+      "games_played": 9,
+      "avg_points_scored": 13.2,
+      "avg_points_allowed": 38.8,
+      "season_net_margin": -25.6,
+      "last_3_game_margin": -27.3,
+      "momentum_trend": -1.7,
+      "close_game_record": "0-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+      ]
+    },
+    "enterprise-clarke": {
+      "team": "enterprise-clarke",
+      "state": "MS",
+      "division": "3A",
+      "region": 1,
+      "record": "0-8",
+      "games_played": 8,
+      "avg_points_scored": 12.5,
+      "avg_points_allowed": 39.9,
+      "season_net_margin": -27.4,
+      "last_3_game_margin": -42.3,
+      "momentum_trend": -14.9,
+      "close_game_record": "0-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -14.9 PPG over the last 3 weeks."
+      ]
+    },
+    "pisgah": {
+      "team": "Pisgah",
+      "state": "MS",
+      "division": "2A",
+      "region": 1,
+      "record": "2-6",
+      "games_played": 8,
+      "avg_points_scored": 15.1,
+      "avg_points_allowed": 37.1,
+      "season_net_margin": -22.0,
+      "last_3_game_margin": -37.7,
+      "momentum_trend": -15.7,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -15.7 PPG over the last 3 weeks."
+      ]
+    },
+    "nanih waiya": {
+      "team": "Nanih Waiya",
+      "state": "MS",
+      "division": "1A",
+      "region": 1,
+      "record": "0-8",
+      "games_played": 8,
+      "avg_points_scored": 14.0,
+      "avg_points_allowed": 35.4,
+      "season_net_margin": -21.4,
+      "last_3_game_margin": -35.3,
+      "momentum_trend": -13.9,
+      "close_game_record": "0-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+        "Late-Season Margin Compression: Net differential dipped -13.9 PPG over the last 3 weeks."
+      ]
+    }
+  },
+  "tupelo": {
+    "team": "Tupelo",
+    "state": "MS",
+    "division": "7A",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 38.4,
+    "avg_points_allowed": 14.5,
+    "season_net_margin": 23.9,
+    "last_3_game_margin": 32.0,
+    "momentum_trend": 8.1,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [
+      "Mississippi High School Football Playoff Schedules and Scores (MHSAA) - November 28, 2025 - Sports Illustrated"
+    ],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Tupelo has triggered the 35-point MHSAA running clock 4 times.",
+      "Peaking in Postseason Play: Net margin surged +8.1 PPG over the last 3 games (+32.0 PPG)."
+    ]
+  },
+  "brandon": {
+    "team": "Brandon",
+    "state": "MS",
+    "division": "7A",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 34.6,
+    "avg_points_allowed": 15.2,
+    "season_net_margin": 19.4,
+    "last_3_game_margin": 34.7,
+    "momentum_trend": 15.3,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [
+      "MHSAA Playoff Scenarios: Class 7A, 6A, and 5A - Mississippi Gridiron",
+      "Mississippi Football Power Brandon Placed on Probation, Remains Playoff Eligible - Sports Illustrated"
+    ],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +15.3 PPG over the last 3 games (+34.7 PPG)."
+    ]
+  },
+  "oak grove": {
+    "team": "Oak Grove",
+    "state": "MS",
+    "division": "7A",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 38.7,
+    "avg_points_allowed": 12.9,
+    "season_net_margin": 25.8,
+    "last_3_game_margin": 33.0,
+    "momentum_trend": 7.2,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [
+      "Oak Grove pounds Biloxi, advances in MHSAA football playoffs. Here\u2019s what it means - Hattiesburg American"
+    ],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Oak Grove has triggered the 35-point MHSAA running clock 4 times.",
+      "Peaking in Postseason Play: Net margin surged +7.2 PPG over the last 3 games (+33.0 PPG)."
+    ]
+  },
+  "grenada": {
+    "team": "Grenada",
+    "state": "MS",
+    "division": "6A",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 36.9,
+    "avg_points_allowed": 14.5,
+    "season_net_margin": 22.4,
+    "last_3_game_margin": 37.7,
+    "momentum_trend": 15.3,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [
+      "Mississippi (MHSAA) high school football playoffs: 2024 brackets, state championship matchups, game times - Sports Illustrated"
+    ],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Grenada has triggered the 35-point MHSAA running clock 3 times.",
+      "Peaking in Postseason Play: Net margin surged +15.3 PPG over the last 3 games (+37.7 PPG)."
+    ]
+  },
+  "hattiesburg": {
+    "team": "Hattiesburg",
+    "state": "MS",
+    "division": "6A",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 38.9,
+    "avg_points_allowed": 16.7,
+    "season_net_margin": 22.2,
+    "last_3_game_margin": 35.3,
+    "momentum_trend": 13.1,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [
+      "MHSAA football playoffs 2026. See pairings for Class 1A-7A - The Clarion-Ledger"
+    ],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +13.1 PPG over the last 3 games (+35.3 PPG)."
+    ]
+  },
+  "gautier": {
+    "team": "Gautier",
+    "state": "MS",
+    "division": "5A",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 39.8,
+    "avg_points_allowed": 13.4,
+    "season_net_margin": 26.4,
+    "last_3_game_margin": 35.0,
+    "momentum_trend": 8.6,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [
+      "MS Coast star QB named Mr. Football winner by MHSAA, while state\u2019s leading rushers snubbed - Sun Herald"
+    ],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Gautier has triggered the 35-point MHSAA running clock 4 times.",
+      "Peaking in Postseason Play: Net margin surged +8.6 PPG over the last 3 games (+35.0 PPG)."
+    ]
+  },
+  "west point": {
+    "team": "West Point",
+    "state": "MS",
+    "division": "5A",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 35.5,
+    "avg_points_allowed": 13.1,
+    "season_net_margin": 22.4,
+    "last_3_game_margin": 34.0,
+    "momentum_trend": 11.6,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [
+      "MHSAA football playoffs 2026. See pairings for Class 1A-7A - The Clarion-Ledger"
+    ],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +11.6 PPG over the last 3 games (+34.0 PPG)."
+    ]
+  },
+  "picayune": {
+    "team": "Picayune",
+    "state": "MS",
+    "division": "6A",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 37.8,
+    "avg_points_allowed": 15.2,
+    "season_net_margin": 22.6,
+    "last_3_game_margin": 39.0,
+    "momentum_trend": 16.4,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +16.4 PPG over the last 3 games (+39.0 PPG)."
+    ]
+  },
+  "poplarville": {
+    "team": "Poplarville",
+    "state": "MS",
+    "division": "4A",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 40.3,
+    "avg_points_allowed": 12.7,
+    "season_net_margin": 27.6,
+    "last_3_game_margin": 42.0,
+    "momentum_trend": 14.4,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Poplarville has triggered the 35-point MHSAA running clock 3 times.",
+      "Peaking in Postseason Play: Net margin surged +14.4 PPG over the last 3 games (+42.0 PPG)."
+    ]
+  },
+  "madison central": {
+    "team": "Madison Central",
+    "state": "MS",
+    "division": "7A",
+    "region": 1,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 31.6,
+    "avg_points_allowed": 18.5,
+    "season_net_margin": 13.1,
+    "last_3_game_margin": 5.3,
+    "momentum_trend": -7.8,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -7.8 PPG over the last 3 weeks."
+    ]
+  },
+  "warren central": {
+    "team": "Warren Central",
+    "state": "MS",
+    "division": "6A",
+    "region": 1,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 34.5,
+    "avg_points_allowed": 18.7,
+    "season_net_margin": 15.8,
+    "last_3_game_margin": 17.7,
+    "momentum_trend": 1.9,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "holmes county central": {
+    "team": "Holmes County Central",
+    "state": "MS",
+    "division": "5A",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 35.5,
+    "avg_points_allowed": 14.7,
+    "season_net_margin": 20.8,
+    "last_3_game_margin": 24.3,
+    "momentum_trend": 3.5,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "louisville": {
+    "team": "Louisville",
+    "state": "MS",
+    "division": "4A",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 38.6,
+    "avg_points_allowed": 13.1,
+    "season_net_margin": 25.5,
+    "last_3_game_margin": 40.3,
+    "momentum_trend": 14.8,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Louisville has triggered the 35-point MHSAA running clock 4 times.",
+      "Peaking in Postseason Play: Net margin surged +14.8 PPG over the last 3 games (+40.3 PPG)."
+    ]
+  },
+  "starkville": {
+    "team": "Starkville",
+    "state": "MS",
+    "division": "7A",
+    "region": 1,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 28.3,
+    "avg_points_allowed": 20.3,
+    "season_net_margin": 8.0,
+    "last_3_game_margin": 12.0,
+    "momentum_trend": 4.0,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "noxubee county": {
+    "team": "Noxubee County",
+    "state": "MS",
+    "division": "3A",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 37.2,
+    "avg_points_allowed": 14.9,
+    "season_net_margin": 22.3,
+    "last_3_game_margin": 30.3,
+    "momentum_trend": 8.0,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +8.0 PPG over the last 3 games (+30.3 PPG)."
+    ]
+  },
+  "raleigh": {
+    "team": "Raleigh",
+    "state": "MS",
+    "division": "2A",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 42.9,
+    "avg_points_allowed": 15.5,
+    "season_net_margin": 27.4,
+    "last_3_game_margin": 43.7,
+    "momentum_trend": 16.3,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Raleigh has triggered the 35-point MHSAA running clock 5 times.",
+      "Peaking in Postseason Play: Net margin surged +16.3 PPG over the last 3 games (+43.7 PPG)."
+    ]
+  },
+  "choctaw county": {
+    "team": "Choctaw County",
+    "state": "MS",
+    "division": "3A",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 37.5,
+    "avg_points_allowed": 13.6,
+    "season_net_margin": 23.9,
+    "last_3_game_margin": 34.7,
+    "momentum_trend": 10.8,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +10.8 PPG over the last 3 games (+34.7 PPG)."
+    ]
+  },
+  "laurel": {
+    "team": "Laurel",
+    "state": "MS",
+    "division": "5A",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 31.5,
+    "avg_points_allowed": 18.0,
+    "season_net_margin": 13.5,
+    "last_3_game_margin": 18.3,
+    "momentum_trend": 4.8,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "ocean springs": {
+    "team": "Ocean Springs",
+    "state": "MS",
+    "division": "7A",
+    "region": 1,
+    "record": "4-5",
+    "games_played": 9,
+    "avg_points_scored": 25.9,
+    "avg_points_allowed": 27.4,
+    "season_net_margin": -1.5,
+    "last_3_game_margin": 11.3,
+    "momentum_trend": 12.8,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Peaking in Postseason Play: Net margin surged +12.8 PPG over the last 3 games (+11.3 PPG)."
+    ]
+  },
+  "jefferson davis county": {
+    "team": "Jefferson Davis County",
+    "state": "MS",
+    "division": "3A",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 37.0,
+    "avg_points_allowed": 14.0,
+    "season_net_margin": 23.0,
+    "last_3_game_margin": 17.3,
+    "momentum_trend": -5.7,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Jefferson Davis County has triggered the 35-point MHSAA running clock 3 times."
+    ]
+  },
+  "columbia": {
+    "team": "Columbia",
+    "state": "MS",
+    "division": "4A",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 33.9,
+    "avg_points_allowed": 15.1,
+    "season_net_margin": 18.8,
+    "last_3_game_margin": 18.7,
+    "momentum_trend": -0.1,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "man 1a district 1 (8 man)mais": {
+    "team": "Man 1A District 1 (8 Man)MAIS",
+    "state": "MS",
+    "division": "6A",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 8.0,
+    "avg_points_allowed": 2.0,
+    "season_net_margin": 6.0,
+    "last_3_game_margin": 6.0,
+    "momentum_trend": 0.0,
+    "close_game_record": "11-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Stingy Scoring Defense: Allowing just 2.0 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+    ]
+  },
+  "man)mais": {
+    "team": "Man)MAIS",
+    "state": "MS",
+    "division": "6A",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 8.0,
+    "avg_points_allowed": 5.0,
+    "season_net_margin": 3.0,
+    "last_3_game_margin": 3.0,
+    "momentum_trend": 0.0,
+    "close_game_record": "11-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Stingy Scoring Defense: Allowing just 5.0 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+    ]
+  },
+  "houston": {
+    "team": "Houston",
+    "state": "MS",
+    "division": "4A",
+    "region": 1,
+    "record": "6-3",
+    "games_played": 9,
+    "avg_points_scored": 34.8,
+    "avg_points_allowed": 18.8,
+    "season_net_margin": 16.0,
+    "last_3_game_margin": 28.3,
+    "momentum_trend": 12.3,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +12.3 PPG over the last 3 games (+28.3 PPG)."
+    ]
+  },
+  "south panola": {
+    "team": "South Panola",
+    "state": "MS",
+    "division": "6A",
+    "region": 1,
+    "record": "4-5",
+    "games_played": 9,
+    "avg_points_scored": 26.3,
+    "avg_points_allowed": 25.9,
+    "season_net_margin": 0.4,
+    "last_3_game_margin": 3.3,
+    "momentum_trend": 2.9,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "simmons": {
+    "team": "Simmons",
+    "state": "MS",
+    "division": "1A",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 39.5,
+    "avg_points_allowed": 14.2,
+    "season_net_margin": 25.3,
+    "last_3_game_margin": 36.0,
+    "momentum_trend": 10.7,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Simmons has triggered the 35-point MHSAA running clock 3 times.",
+      "Peaking in Postseason Play: Net margin surged +10.7 PPG over the last 3 games (+36.0 PPG)."
+    ]
+  },
+  "george county": {
+    "team": "George County",
+    "state": "MS",
+    "division": "6A",
+    "region": 1,
+    "record": "5-6",
+    "games_played": 11,
+    "avg_points_scored": 26.5,
+    "avg_points_allowed": 22.2,
+    "season_net_margin": 4.3,
+    "last_3_game_margin": -5.7,
+    "momentum_trend": -10.0,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -10.0 PPG over the last 3 weeks."
+    ]
+  },
+  "oxford": {
+    "team": "Oxford",
+    "state": "MS",
+    "division": "7A",
+    "region": 1,
+    "record": "1-8",
+    "games_played": 9,
+    "avg_points_scored": 17.1,
+    "avg_points_allowed": 28.7,
+    "season_net_margin": -11.6,
+    "last_3_game_margin": -15.0,
+    "momentum_trend": -3.4,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "gulfport": {
+    "team": "Gulfport",
+    "state": "MS",
+    "division": "7A",
+    "region": 1,
+    "record": "2-6",
+    "games_played": 8,
+    "avg_points_scored": 19.2,
+    "avg_points_allowed": 31.9,
+    "season_net_margin": -12.7,
+    "last_3_game_margin": -16.3,
+    "momentum_trend": -3.6,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "man 2a district": {
+    "team": "Man 2A District",
+    "state": "MS",
+    "division": "6A",
+    "region": 1,
+    "record": "0-11",
+    "games_played": 11,
+    "avg_points_scored": 5.0,
+    "avg_points_allowed": 8.0,
+    "season_net_margin": -3.0,
+    "last_3_game_margin": -3.0,
+    "momentum_trend": 0.0,
+    "close_game_record": "0-11",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Stingy Scoring Defense: Allowing just 8.0 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+    ]
+  },
+  "man 1a district": {
+    "team": "Man 1A District",
+    "state": "MS",
+    "division": "6A",
+    "region": 1,
+    "record": "0-11",
+    "games_played": 11,
+    "avg_points_scored": 2.0,
+    "avg_points_allowed": 8.0,
+    "season_net_margin": -6.0,
+    "last_3_game_margin": -6.0,
+    "momentum_trend": 0.0,
+    "close_game_record": "0-11",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Stingy Scoring Defense: Allowing just 8.0 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+    ]
+  },
+  "lake cormorant": {
+    "team": "Lake Cormorant",
+    "state": "MS",
+    "division": "6A",
+    "region": 1,
+    "record": "2-6",
+    "games_played": 8,
+    "avg_points_scored": 21.4,
+    "avg_points_allowed": 32.6,
+    "season_net_margin": -11.2,
+    "last_3_game_margin": -20.3,
+    "momentum_trend": -9.1,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -9.1 PPG over the last 3 weeks."
+    ]
+  },
+  "charleston": {
+    "team": "Charleston",
+    "state": "MS",
+    "division": "2A",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 35.1,
+    "avg_points_allowed": 17.5,
+    "season_net_margin": 17.6,
+    "last_3_game_margin": 32.3,
+    "momentum_trend": 14.7,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +14.7 PPG over the last 3 games (+32.3 PPG)."
+    ]
+  },
+  "cleveland central": {
+    "team": "Cleveland Central",
+    "state": "MS",
+    "division": "5A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 24.0,
+    "avg_points_allowed": 26.3,
+    "season_net_margin": -2.3,
+    "last_3_game_margin": 1.0,
+    "momentum_trend": 3.3,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "brookhaven": {
+    "team": "Brookhaven",
+    "state": "MS",
+    "division": "5A",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 26.0,
+    "avg_points_allowed": 25.1,
+    "season_net_margin": 0.9,
+    "last_3_game_margin": -11.3,
+    "momentum_trend": -12.2,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -12.2 PPG over the last 3 weeks."
+    ]
+  },
+  "biggersville": {
+    "team": "Biggersville",
+    "state": "MS",
+    "division": "1A",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 35.5,
+    "avg_points_allowed": 13.3,
+    "season_net_margin": 22.2,
+    "last_3_game_margin": 35.3,
+    "momentum_trend": 13.1,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +13.1 PPG over the last 3 games (+35.3 PPG)."
+    ]
+  },
+  "winona": {
+    "team": "Winona",
+    "state": "MS",
+    "division": "3A",
+    "region": 1,
+    "record": "7-4",
+    "games_played": 11,
+    "avg_points_scored": 29.3,
+    "avg_points_allowed": 18.1,
+    "season_net_margin": 11.2,
+    "last_3_game_margin": 3.0,
+    "momentum_trend": -8.2,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -8.2 PPG over the last 3 weeks."
+    ]
+  },
+  "heidelberg": {
+    "team": "Heidelberg",
+    "state": "MS",
+    "division": "2A",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 33.0,
+    "avg_points_allowed": 16.5,
+    "season_net_margin": 16.5,
+    "last_3_game_margin": 14.7,
+    "momentum_trend": -1.8,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "pascagoula": {
+    "team": "Pascagoula",
+    "state": "MS",
+    "division": "6A",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 23.1,
+    "avg_points_allowed": 25.8,
+    "season_net_margin": -2.7,
+    "last_3_game_margin": -12.7,
+    "momentum_trend": -10.0,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -10.0 PPG over the last 3 weeks."
+    ]
+  },
+  "scott central": {
+    "team": "Scott Central",
+    "state": "MS",
+    "division": "2A",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 33.6,
+    "avg_points_allowed": 17.5,
+    "season_net_margin": 16.1,
+    "last_3_game_margin": 14.3,
+    "momentum_trend": -1.8,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "kosciusko": {
+    "team": "kosciusko",
+    "state": "MS",
+    "division": "4A",
+    "region": 1,
+    "record": "5-3",
+    "games_played": 8,
+    "avg_points_scored": 26.5,
+    "avg_points_allowed": 24.4,
+    "season_net_margin": 2.1,
+    "last_3_game_margin": 9.0,
+    "momentum_trend": 6.9,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "bay springs": {
+    "team": "Bay Springs",
+    "state": "MS",
+    "division": "2A",
+    "region": 1,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 29.7,
+    "avg_points_allowed": 16.8,
+    "season_net_margin": 12.9,
+    "last_3_game_margin": 5.0,
+    "momentum_trend": -7.9,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -7.9 PPG over the last 3 weeks."
+    ]
+  },
+  "clarksdale": {
+    "team": "Clarksdale",
+    "state": "MS",
+    "division": "5A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 20.2,
+    "avg_points_allowed": 28.7,
+    "season_net_margin": -8.5,
+    "last_3_game_margin": -8.7,
+    "momentum_trend": -0.2,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "hancock": {
+    "team": "Hancock",
+    "state": "MS",
+    "division": "6A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 17.9,
+    "avg_points_allowed": 32.6,
+    "season_net_margin": -14.7,
+    "last_3_game_margin": -19.7,
+    "momentum_trend": -5.0,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "mccomb": {
+    "team": "McComb",
+    "state": "MS",
+    "division": "4A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 21.7,
+    "avg_points_allowed": 25.0,
+    "season_net_margin": -3.3,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": -0.7,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "clinton": {
+    "team": "Clinton",
+    "state": "MS",
+    "division": "7A",
+    "region": 1,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 18.2,
+    "avg_points_allowed": 30.2,
+    "season_net_margin": -12.0,
+    "last_3_game_margin": -21.3,
+    "momentum_trend": -9.3,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -9.3 PPG over the last 3 weeks."
+    ]
+  },
+  "magee": {
+    "team": "Magee",
+    "state": "MS",
+    "division": "3A",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 28.0,
+    "avg_points_allowed": 21.7,
+    "season_net_margin": 6.3,
+    "last_3_game_margin": -0.3,
+    "momentum_trend": -6.6,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "germantown": {
+    "team": "Germantown",
+    "state": "MS",
+    "division": "7A",
+    "region": 1,
+    "record": "2-6",
+    "games_played": 8,
+    "avg_points_scored": 17.0,
+    "avg_points_allowed": 34.0,
+    "season_net_margin": -17.0,
+    "last_3_game_margin": -33.7,
+    "momentum_trend": -16.7,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -16.7 PPG over the last 3 weeks."
+    ]
+  },
+  "stone": {
+    "team": "Stone",
+    "state": "MS",
+    "division": "5A",
+    "region": 1,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 19.3,
+    "avg_points_allowed": 29.2,
+    "season_net_margin": -9.9,
+    "last_3_game_margin": -8.7,
+    "momentum_trend": 1.2,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "aberdeen": {
+    "team": "Aberdeen",
+    "state": "MS",
+    "division": "3A",
+    "region": 1,
+    "record": "4-5",
+    "games_played": 9,
+    "avg_points_scored": 24.3,
+    "avg_points_allowed": 26.1,
+    "season_net_margin": -1.8,
+    "last_3_game_margin": 3.7,
+    "momentum_trend": 5.5,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "baldwyn": {
+    "team": "Baldwyn",
+    "state": "MS",
+    "division": "1A",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 31.8,
+    "avg_points_allowed": 16.8,
+    "season_net_margin": 15.0,
+    "last_3_game_margin": 17.7,
+    "momentum_trend": 2.7,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "velma jackson": {
+    "team": "Velma Jackson",
+    "state": "MS",
+    "division": "1A",
+    "region": 1,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 27.4,
+    "avg_points_allowed": 16.5,
+    "season_net_margin": 10.9,
+    "last_3_game_margin": 4.0,
+    "momentum_trend": -6.9,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "nettleton": {
+    "team": "Nettleton",
+    "state": "MS",
+    "division": "3A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 20.9,
+    "avg_points_allowed": 26.4,
+    "season_net_margin": -5.5,
+    "last_3_game_margin": -6.7,
+    "momentum_trend": -1.2,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "calhoun city": {
+    "team": "Calhoun City",
+    "state": "MS",
+    "division": "2A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 24.2,
+    "avg_points_allowed": 24.8,
+    "season_net_margin": -0.6,
+    "last_3_game_margin": -1.0,
+    "momentum_trend": -0.4,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "vardaman": {
+    "team": "Vardaman",
+    "state": "MS",
+    "division": "1A",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 27.4,
+    "avg_points_allowed": 19.2,
+    "season_net_margin": 8.2,
+    "last_3_game_margin": 5.0,
+    "momentum_trend": -3.2,
+    "close_game_record": "4-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "northwest rankin": {
+    "team": "Northwest Rankin",
+    "state": "MS",
+    "division": "7A",
+    "region": 1,
+    "record": "2-6",
+    "games_played": 8,
+    "avg_points_scored": 15.6,
+    "avg_points_allowed": 38.9,
+    "season_net_margin": -23.3,
+    "last_3_game_margin": -39.7,
+    "momentum_trend": -16.4,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -16.4 PPG over the last 3 weeks."
+    ]
+  },
+  "desoto central": {
+    "team": "DeSoto Central",
+    "state": "MS",
+    "division": "7A",
+    "region": 1,
+    "record": "0-5",
+    "games_played": 5,
+    "avg_points_scored": 14.2,
+    "avg_points_allowed": 38.4,
+    "season_net_margin": -24.2,
+    "last_3_game_margin": -25.7,
+    "momentum_trend": -1.5,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "neshoba central": {
+    "team": "Neshoba Central",
+    "state": "MS",
+    "division": "6A",
+    "region": 1,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 15.5,
+    "avg_points_allowed": 36.5,
+    "season_net_margin": -21.0,
+    "last_3_game_margin": -36.3,
+    "momentum_trend": -15.3,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -15.3 PPG over the last 3 weeks."
+    ]
+  },
+  "callaway": {
+    "team": "Callaway",
+    "state": "MS",
+    "division": "6A",
+    "region": 1,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 14.8,
+    "avg_points_allowed": 36.5,
+    "season_net_margin": -21.7,
+    "last_3_game_margin": -35.0,
+    "momentum_trend": -13.3,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -13.3 PPG over the last 3 weeks."
+    ]
+  },
+  "mendenhall": {
+    "team": "Mendenhall",
+    "state": "MS",
+    "division": "4A",
+    "region": 1,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 18.7,
+    "avg_points_allowed": 34.4,
+    "season_net_margin": -15.7,
+    "last_3_game_margin": -13.3,
+    "momentum_trend": 2.4,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "canton": {
+    "team": "Canton",
+    "state": "MS",
+    "division": "5A",
+    "region": 1,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 17.6,
+    "avg_points_allowed": 33.4,
+    "season_net_margin": -15.8,
+    "last_3_game_margin": -26.7,
+    "momentum_trend": -10.9,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -10.9 PPG over the last 3 weeks."
+    ]
+  },
+  "wayne county": {
+    "team": "Wayne County",
+    "state": "MS",
+    "division": "5A",
+    "region": 1,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 16.8,
+    "avg_points_allowed": 32.4,
+    "season_net_margin": -15.6,
+    "last_3_game_margin": -22.0,
+    "momentum_trend": -6.4,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "hernando": {
+    "team": "Hernando",
+    "state": "MS",
+    "division": "7A",
+    "region": 1,
+    "record": "0-8",
+    "games_played": 8,
+    "avg_points_scored": 12.5,
+    "avg_points_allowed": 38.9,
+    "season_net_margin": -26.4,
+    "last_3_game_margin": -37.3,
+    "momentum_trend": -10.9,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -10.9 PPG over the last 3 weeks."
+    ]
+  },
+  "kemper county": {
+    "team": "Kemper County",
+    "state": "MS",
+    "division": "2A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 19.8,
+    "avg_points_allowed": 27.6,
+    "season_net_margin": -7.8,
+    "last_3_game_margin": -14.7,
+    "momentum_trend": -6.9,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "olive branch": {
+    "team": "Olive Branch",
+    "state": "MS",
+    "division": "6A",
+    "region": 1,
+    "record": "0-5",
+    "games_played": 5,
+    "avg_points_scored": 13.6,
+    "avg_points_allowed": 40.8,
+    "season_net_margin": -27.2,
+    "last_3_game_margin": -36.7,
+    "momentum_trend": -9.5,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -9.5 PPG over the last 3 weeks."
+    ]
+  },
+  "pass christian": {
+    "team": "Pass Christian",
+    "state": "MS",
+    "division": "4A",
+    "region": 1,
+    "record": "3-5",
+    "games_played": 8,
+    "avg_points_scored": 19.6,
+    "avg_points_allowed": 34.2,
+    "season_net_margin": -14.6,
+    "last_3_game_margin": -32.0,
+    "momentum_trend": -17.4,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -17.4 PPG over the last 3 weeks."
+    ]
+  },
+  "west marion": {
+    "team": "West Marion",
+    "state": "MS",
+    "division": "3A",
+    "region": 1,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 17.8,
+    "avg_points_allowed": 34.9,
+    "season_net_margin": -17.1,
+    "last_3_game_margin": -13.3,
+    "momentum_trend": 3.8,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "east webster": {
+    "team": "east webster",
+    "state": "MS",
+    "division": "3A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 15.9,
+    "avg_points_allowed": 29.8,
+    "season_net_margin": -13.9,
+    "last_3_game_margin": -21.0,
+    "momentum_trend": -7.1,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -7.1 PPG over the last 3 weeks."
+    ]
+  },
+  "ridgeland": {
+    "team": "Ridgeland",
+    "state": "MS",
+    "division": "6A",
+    "region": 1,
+    "record": "0-8",
+    "games_played": 8,
+    "avg_points_scored": 12.4,
+    "avg_points_allowed": 42.0,
+    "season_net_margin": -29.6,
+    "last_3_game_margin": -46.0,
+    "momentum_trend": -16.4,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -16.4 PPG over the last 3 weeks."
+    ]
+  },
+  "taylorsville": {
+    "team": "Taylorsville",
+    "state": "MS",
+    "division": "1A",
+    "region": 1,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 19.3,
+    "avg_points_allowed": 30.0,
+    "season_net_margin": -10.7,
+    "last_3_game_margin": -9.7,
+    "momentum_trend": 1.0,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "itawamba ahs": {
+    "team": "Itawamba AHS",
+    "state": "MS",
+    "division": "4A",
+    "region": 1,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 15.5,
+    "avg_points_allowed": 36.6,
+    "season_net_margin": -21.1,
+    "last_3_game_margin": -29.0,
+    "momentum_trend": -7.9,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -7.9 PPG over the last 3 weeks."
+    ]
+  },
+  "pontotoc": {
+    "team": "Pontotoc",
+    "state": "MS",
+    "division": "5A",
+    "region": 1,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 13.8,
+    "avg_points_allowed": 40.0,
+    "season_net_margin": -26.2,
+    "last_3_game_margin": -43.7,
+    "momentum_trend": -17.5,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -17.5 PPG over the last 3 weeks."
+    ]
+  },
+  "mize": {
+    "team": "Mize",
+    "state": "MS",
+    "division": "2A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 20.1,
+    "avg_points_allowed": 30.3,
+    "season_net_margin": -10.2,
+    "last_3_game_margin": -18.0,
+    "momentum_trend": -7.8,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -7.8 PPG over the last 3 weeks."
+    ]
+  },
+  "mcevans": {
+    "team": "McEvans",
+    "state": "MS",
+    "division": "1A",
+    "region": 1,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 16.9,
+    "avg_points_allowed": 29.8,
+    "season_net_margin": -12.9,
+    "last_3_game_margin": -18.0,
+    "momentum_trend": -5.1,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "stringer": {
+    "team": "Stringer",
+    "state": "MS",
+    "division": "1A",
+    "region": 1,
+    "record": "5-4",
+    "games_played": 9,
+    "avg_points_scored": 20.3,
+    "avg_points_allowed": 28.2,
+    "season_net_margin": -7.9,
+    "last_3_game_margin": -5.3,
+    "momentum_trend": 2.6,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "lumberton": {
+    "team": "Lumberton",
+    "state": "MS",
+    "division": "1A",
+    "region": 1,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 19.6,
+    "avg_points_allowed": 33.4,
+    "season_net_margin": -13.8,
+    "last_3_game_margin": -12.7,
+    "momentum_trend": 1.1,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "booneville": {
+    "team": "Booneville",
+    "state": "MS",
+    "division": "3A",
+    "region": 1,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 13.8,
+    "avg_points_allowed": 34.6,
+    "season_net_margin": -20.8,
+    "last_3_game_margin": -35.0,
+    "momentum_trend": -14.2,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -14.2 PPG over the last 3 weeks."
+    ]
+  },
+  "new albany": {
+    "team": "New Albany",
+    "state": "MS",
+    "division": "4A",
+    "region": 1,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 13.0,
+    "avg_points_allowed": 40.0,
+    "season_net_margin": -27.0,
+    "last_3_game_margin": -45.7,
+    "momentum_trend": -18.7,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -18.7 PPG over the last 3 weeks."
+    ]
+  },
+  "kossuth": {
+    "team": "Kossuth",
+    "state": "MS",
+    "division": "3A",
+    "region": 1,
+    "record": "1-8",
+    "games_played": 9,
+    "avg_points_scored": 14.7,
+    "avg_points_allowed": 36.7,
+    "season_net_margin": -22.0,
+    "last_3_game_margin": -20.3,
+    "momentum_trend": 1.7,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "loyd star": {
+    "team": "Loyd Star",
+    "state": "MS",
+    "division": "2A",
+    "region": 1,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 16.0,
+    "avg_points_allowed": 37.4,
+    "season_net_margin": -21.4,
+    "last_3_game_margin": -20.3,
+    "momentum_trend": 1.1,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "corinth": {
+    "team": "Corinth",
+    "state": "MS",
+    "division": "5A",
+    "region": 1,
+    "record": "0-8",
+    "games_played": 8,
+    "avg_points_scored": 12.5,
+    "avg_points_allowed": 41.8,
+    "season_net_margin": -29.3,
+    "last_3_game_margin": -42.3,
+    "momentum_trend": -13.0,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -13.0 PPG over the last 3 weeks."
+    ]
+  },
+  "smithville": {
+    "team": "Smithville",
+    "state": "MS",
+    "division": "1A",
+    "region": 1,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 17.1,
+    "avg_points_allowed": 32.9,
+    "season_net_margin": -15.8,
+    "last_3_game_margin": -24.0,
+    "momentum_trend": -8.2,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -8.2 PPG over the last 3 weeks."
+    ]
+  },
+  "caledonia": {
+    "team": "Caledonia",
+    "state": "MS",
+    "division": "4A",
+    "region": 1,
+    "record": "0-7",
+    "games_played": 7,
+    "avg_points_scored": 13.7,
+    "avg_points_allowed": 42.7,
+    "season_net_margin": -29.0,
+    "last_3_game_margin": -45.0,
+    "momentum_trend": -16.0,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -16.0 PPG over the last 3 weeks."
+    ]
+  },
+  "myrtle": {
+    "team": "Myrtle",
+    "state": "MS",
+    "division": "1A",
+    "region": 1,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 16.8,
+    "avg_points_allowed": 36.2,
+    "season_net_margin": -19.4,
+    "last_3_game_margin": -28.7,
+    "momentum_trend": -9.3,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -9.3 PPG over the last 3 weeks."
+    ]
+  },
+  "east union": {
+    "team": "East Union",
+    "state": "MS",
+    "division": "2A",
+    "region": 1,
+    "record": "0-8",
+    "games_played": 8,
+    "avg_points_scored": 14.2,
+    "avg_points_allowed": 38.8,
+    "season_net_margin": -24.6,
+    "last_3_game_margin": -37.0,
+    "momentum_trend": -12.4,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -12.4 PPG over the last 3 weeks."
+    ]
+  },
+  "collins": {
+    "team": "Collins",
+    "state": "MS",
+    "division": "2A",
+    "region": 1,
+    "record": "0-9",
+    "games_played": 9,
+    "avg_points_scored": 13.2,
+    "avg_points_allowed": 38.8,
+    "season_net_margin": -25.6,
+    "last_3_game_margin": -27.3,
+    "momentum_trend": -1.7,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare."
+    ]
+  },
+  "enterprise-clarke": {
+    "team": "enterprise-clarke",
+    "state": "MS",
+    "division": "3A",
+    "region": 1,
+    "record": "0-8",
+    "games_played": 8,
+    "avg_points_scored": 12.5,
+    "avg_points_allowed": 39.9,
+    "season_net_margin": -27.4,
+    "last_3_game_margin": -42.3,
+    "momentum_trend": -14.9,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -14.9 PPG over the last 3 weeks."
+    ]
+  },
+  "pisgah": {
+    "team": "Pisgah",
+    "state": "MS",
+    "division": "2A",
+    "region": 1,
+    "record": "2-6",
+    "games_played": 8,
+    "avg_points_scored": 15.1,
+    "avg_points_allowed": 37.1,
+    "season_net_margin": -22.0,
+    "last_3_game_margin": -37.7,
+    "momentum_trend": -15.7,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -15.7 PPG over the last 3 weeks."
+    ]
+  },
+  "nanih waiya": {
+    "team": "Nanih Waiya",
+    "state": "MS",
+    "division": "1A",
+    "region": 1,
+    "record": "0-8",
+    "games_played": 8,
+    "avg_points_scored": 14.0,
+    "avg_points_allowed": 35.4,
+    "season_net_margin": -21.4,
+    "last_3_game_margin": -35.3,
+    "momentum_trend": -13.9,
+    "close_game_record": "0-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Mississippi tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -13.9 PPG over the last 3 weeks."
+    ]
+  }
+}

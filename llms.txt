@@ -1,0 +1,41 @@
+# STRATAGEM // SCOUT — High School Football Data Analytics & AI Film Ingestion
+> Canonical Domain: https://stratagemscout.me
+> Coverage: Michigan (MHSAA D1-D8), Ohio (OHSAA D1-D7), Wisconsin (WIAA D1-D7), Indiana (IHSAA 1A-6A)
+
+## Overview
+STRATAGEM // SCOUT (stratagemscout.me) is an empirical high school football analytics engine, matchup simulator, and AI film ingestion platform built for varsity coaches, athletic directors, media analysts, and high school football enthusiasts across Michigan, Ohio, Wisconsin, and Indiana.
+
+## Mathematical Analytics Engine
+- True Power Index = 50.0 baseline + raw_rating (damped margin per possession).
+- Home Field Advantage (HFA) = +3.0 points added to the home team's projected rating.
+- Running-Clock Mercy-Rule Blowout Damping: Caps point differentials at 30 points (Ohio) or 35 points (Michigan, Wisconsin, Indiana) to eliminate garbage-time score inflation.
+- Win Probability Formula: Evaluated using a logistic curve derived from opponent-adjusted rating deltas and venue factors.
+- Audited Prediction Track Record: 84.8% straight-up picking accuracy across 10,000+ audited varsity regular season and playoff games.
+
+## Public & Free Features
+1. Scouting Hub Matchup Simulator: Head-to-head point spreads, projected game totals, win probabilities, and venue toggles.
+2. Transitive & Shared Opponent DNA: Deep comparison of common opponents, scoring margin differentials, and mutual schedule comparisons.
+3. Ranked-Tier Resume Splits: Performance records and rating averages vs. Top 30, Top 65, and Top 100 opponent tiers.
+4. Box-Score Scouting Dossiers: Empirical team profiles, scoring efficiency PPG, defensive allowance, strength of schedule (SOS), and tactical program trajectories.
+5. 1-Page Printable Sideline Prep Sheet: Compact game-day PDF/print summary for coaches containing keys to victory, unit match-ups, and statistical benchmarks.
+6. 4th-Down GTO Engine: Game-Theory Optimal go-for-it vs. punt/field-goal decision solver using real-time score, time, distance, and team rating inputs.
+7. Friday Night Guide: Weekly slate preview, must-watch matchups, upset watch alerts, and state-wide game projections.
+8. True Power Rankings & Leaderboard: Statewide and division rankings with filterable strength of schedule (SOS), conference standings, and matrix point averages (Harbin, PQS, PPA).
+9. Interactive Playoff Brackets: Official postseason brackets across all divisions (MHSAA D1-D8, OHSAA Regions 1-28, WIAA D1-D7, IHSAA 1A-6A).
+10. Non-Conference Schedule Matchmaker: Interactive tool connecting schools with optimal open-week opponents by geographic distance and competitive rating delta.
+11. Playbook Encyclopedia: Tactical breakdown of offensive and defensive schemes (Spread, Wing-T, Air Raid, Triple Option, 4-2-5, 3-3-5, 3-4, 4-3).
+
+## Coach AI Film Ingestion & Varsity Program Pass
+- Automated HUDL / MP4 film ingestion and play-by-play tagging.
+- Formation identification, personnel group detection, run/pass tendency extraction, and down-and-distance situational breakdowns.
+- Custom game-planning packages for head coaches and defensive coordinators.
+
+## Deep-Link URL Patterns
+- Scouting Hub Matchup: https://stratagemscout.me/?state=mi&tab=scouting&teamA={team_id_1}&teamB={team_id_2}
+- State Rankings: https://stratagemscout.me/?state={mi|oh|wi|in}&tab=rankings
+- Playoff Brackets: https://stratagemscout.me/?state={mi|oh|wi|in}&tab=playoffs
+- Friday Night Guide: https://stratagemscout.me/?state={mi|oh|wi|in}&tab=guide
+- Schedule Matchmaker: https://stratagemscout.me/?state={mi|oh|wi|in}&tab=matchmaker
+- Playbook Encyclopedia: https://stratagemscout.me/?tab=playbook
+- Prediction Track Record: https://stratagemscout.me/?tab=track-record
+- AI Film Room Demo: https://stratagemscout.me/?tab=film-room-demo

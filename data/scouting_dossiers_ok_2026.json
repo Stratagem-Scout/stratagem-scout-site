@@ -1,0 +1,1859 @@
+{
+  "bixby": {
+    "team": "Bixby",
+    "state": "OK",
+    "division": "6A-I",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 38.2,
+    "avg_points_allowed": 12.6,
+    "season_net_margin": 25.6,
+    "last_3_game_margin": 33.7,
+    "momentum_trend": 8.1,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Bixby has triggered the 35-point OSSAA running clock 4 times.",
+      "Peaking in Postseason Play: Net margin surged +8.1 PPG over the last 3 games (+33.7 PPG)."
+    ]
+  },
+  "owasso": {
+    "team": "Owasso",
+    "state": "OK",
+    "division": "6A-I",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 38.2,
+    "avg_points_allowed": 12.9,
+    "season_net_margin": 25.3,
+    "last_3_game_margin": 34.7,
+    "momentum_trend": 9.4,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [
+      "Behind 4 Rushing TDs From Bryson Francis, Owasso Posts Dominant Win At Yukon: Oklahoma High School Football - Sports Illustrated"
+    ],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Owasso has triggered the 35-point OSSAA running clock 3 times.",
+      "Peaking in Postseason Play: Net margin surged +9.4 PPG over the last 3 games (+34.7 PPG)."
+    ]
+  },
+  "muskogee": {
+    "team": "Muskogee",
+    "state": "OK",
+    "division": "6A-II",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 40.5,
+    "avg_points_allowed": 13.3,
+    "season_net_margin": 27.2,
+    "last_3_game_margin": 43.7,
+    "momentum_trend": 16.5,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Muskogee has triggered the 35-point OSSAA running clock 5 times.",
+      "Peaking in Postseason Play: Net margin surged +16.5 PPG over the last 3 games (+43.7 PPG)."
+    ]
+  },
+  "carl albert": {
+    "team": "Carl Albert",
+    "state": "OK",
+    "division": "5A",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 41.8,
+    "avg_points_allowed": 12.6,
+    "season_net_margin": 29.2,
+    "last_3_game_margin": 33.3,
+    "momentum_trend": 4.1,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [
+      "Oklahoma high school football playoff pairings, see next week's OSSAA first-round games - The Oklahoman"
+    ],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "choctaw": {
+    "team": "Choctaw",
+    "state": "OK",
+    "division": "6A-II",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 39.1,
+    "avg_points_allowed": 15.8,
+    "season_net_margin": 23.3,
+    "last_3_game_margin": 37.3,
+    "momentum_trend": 14.0,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [
+      "Oklahoma high school football playoff pairings, see next week's OSSAA first-round games - The Oklahoman"
+    ],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Choctaw has triggered the 35-point OSSAA running clock 3 times.",
+      "Peaking in Postseason Play: Net margin surged +14.0 PPG over the last 3 games (+37.3 PPG)."
+    ]
+  },
+  "jenks": {
+    "team": "Jenks",
+    "state": "OK",
+    "division": "6A-I",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 34.8,
+    "avg_points_allowed": 17.9,
+    "season_net_margin": 16.9,
+    "last_3_game_margin": 21.7,
+    "momentum_trend": 4.8,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [
+      "Oklahoma releases new districts for 2026 and 2027 high school football seasons. - High School Football America"
+    ],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "union": {
+    "team": "Union",
+    "state": "OK",
+    "division": "6A-I",
+    "region": 1,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 32.5,
+    "avg_points_allowed": 18.2,
+    "season_net_margin": 14.3,
+    "last_3_game_margin": 13.7,
+    "momentum_trend": -0.6,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "elgin": {
+    "team": "Elgin",
+    "state": "OK",
+    "division": "4A",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 37.5,
+    "avg_points_allowed": 12.2,
+    "season_net_margin": 25.3,
+    "last_3_game_margin": 35.3,
+    "momentum_trend": 10.0,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [
+      "2025 OSSAA Class 4A Football Semifinal Elgin vs Cushing - 12/05/2025 | Live & On Demand - NFHS Network"
+    ],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +10.0 PPG over the last 3 games (+35.3 PPG).",
+      "Stingy Scoring Defense: Allowing just 12.2 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+    ]
+  },
+  "stillwater": {
+    "team": "Stillwater",
+    "state": "OK",
+    "division": "6A-II",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 36.5,
+    "avg_points_allowed": 17.1,
+    "season_net_margin": 19.4,
+    "last_3_game_margin": 19.3,
+    "momentum_trend": -0.1,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "guthrie": {
+    "team": "Guthrie",
+    "state": "OK",
+    "division": "5A",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 37.5,
+    "avg_points_allowed": 16.0,
+    "season_net_margin": 21.5,
+    "last_3_game_margin": 32.7,
+    "momentum_trend": 11.2,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [
+      "Guthrie Public Schools investigates football program following state semifinal win - Guthrie News Page"
+    ],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +11.2 PPG over the last 3 games (+32.7 PPG)."
+    ]
+  },
+  "blanchard": {
+    "team": "Blanchard",
+    "state": "OK",
+    "division": "4A",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 37.1,
+    "avg_points_allowed": 13.3,
+    "season_net_margin": 23.8,
+    "last_3_game_margin": 34.0,
+    "momentum_trend": 10.2,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Blanchard has triggered the 35-point OSSAA running clock 3 times.",
+      "Peaking in Postseason Play: Net margin surged +10.2 PPG over the last 3 games (+34.0 PPG)."
+    ]
+  },
+  "del city": {
+    "team": "Del City",
+    "state": "OK",
+    "division": "5A",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 34.2,
+    "avg_points_allowed": 17.2,
+    "season_net_margin": 17.0,
+    "last_3_game_margin": 18.7,
+    "momentum_trend": 1.7,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "washington": {
+    "team": "Washington",
+    "state": "OK",
+    "division": "2A-I",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 41.6,
+    "avg_points_allowed": 15.3,
+    "season_net_margin": 26.3,
+    "last_3_game_margin": 42.3,
+    "momentum_trend": 16.0,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +16.0 PPG over the last 3 games (+42.3 PPG)."
+    ]
+  },
+  "sand springs": {
+    "team": "Sand Springs",
+    "state": "OK",
+    "division": "6A-II",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 30.2,
+    "avg_points_allowed": 20.8,
+    "season_net_margin": 9.4,
+    "last_3_game_margin": 6.3,
+    "momentum_trend": -3.1,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "millwood": {
+    "team": "Millwood",
+    "state": "OK",
+    "division": "2A-I",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 40.8,
+    "avg_points_allowed": 13.0,
+    "season_net_margin": 27.8,
+    "last_3_game_margin": 32.0,
+    "momentum_trend": 4.2,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "wagoner": {
+    "team": "Wagoner",
+    "state": "OK",
+    "division": "4A",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 31.3,
+    "avg_points_allowed": 13.7,
+    "season_net_margin": 17.6,
+    "last_3_game_margin": 30.7,
+    "momentum_trend": 13.1,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +13.1 PPG over the last 3 games (+30.7 PPG)."
+    ]
+  },
+  "deer creek": {
+    "team": "Deer Creek",
+    "state": "OK",
+    "division": "6A-II",
+    "region": 1,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 29.3,
+    "avg_points_allowed": 22.4,
+    "season_net_margin": 6.9,
+    "last_3_game_margin": 0.7,
+    "momentum_trend": -6.2,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "bishop mcguinness": {
+    "team": "Bishop McGuinness",
+    "state": "OK",
+    "division": "5A",
+    "region": 1,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 31.8,
+    "avg_points_allowed": 19.1,
+    "season_net_margin": 12.7,
+    "last_3_game_margin": 13.3,
+    "momentum_trend": 0.6,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "lincoln christian": {
+    "team": "Lincoln Christian",
+    "state": "OK",
+    "division": "3A",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 35.0,
+    "avg_points_allowed": 15.2,
+    "season_net_margin": 19.8,
+    "last_3_game_margin": 34.0,
+    "momentum_trend": 14.2,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +14.2 PPG over the last 3 games (+34.0 PPG)."
+    ]
+  },
+  "sulphur": {
+    "team": "Sulphur",
+    "state": "OK",
+    "division": "3A",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 37.4,
+    "avg_points_allowed": 15.6,
+    "season_net_margin": 21.8,
+    "last_3_game_margin": 35.7,
+    "momentum_trend": 13.9,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Sulphur has triggered the 35-point OSSAA running clock 3 times.",
+      "Peaking in Postseason Play: Net margin surged +13.9 PPG over the last 3 games (+35.7 PPG)."
+    ]
+  },
+  "vian": {
+    "team": "Vian",
+    "state": "OK",
+    "division": "2A-II",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 40.5,
+    "avg_points_allowed": 13.6,
+    "season_net_margin": 26.9,
+    "last_3_game_margin": 33.0,
+    "momentum_trend": 6.1,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Vian has triggered the 35-point OSSAA running clock 5 times."
+    ]
+  },
+  "norman north": {
+    "team": "Norman North",
+    "state": "OK",
+    "division": "6A-I",
+    "region": 1,
+    "record": "4-5",
+    "games_played": 9,
+    "avg_points_scored": 22.3,
+    "avg_points_allowed": 27.1,
+    "season_net_margin": -4.8,
+    "last_3_game_margin": -10.0,
+    "momentum_trend": -5.2,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "piedmont": {
+    "team": "Piedmont",
+    "state": "OK",
+    "division": "6A-II",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 25.3,
+    "avg_points_allowed": 26.2,
+    "season_net_margin": -0.9,
+    "last_3_game_margin": -1.7,
+    "momentum_trend": -0.8,
+    "close_game_record": "0-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "edmond santa fe": {
+    "team": "Edmond Santa Fe",
+    "state": "OK",
+    "division": "6A-I",
+    "region": 1,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 19.9,
+    "avg_points_allowed": 28.8,
+    "season_net_margin": -8.9,
+    "last_3_game_margin": -8.0,
+    "momentum_trend": 0.9,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "tuttle": {
+    "team": "Tuttle",
+    "state": "OK",
+    "division": "4A",
+    "region": 1,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 32.7,
+    "avg_points_allowed": 18.1,
+    "season_net_margin": 14.6,
+    "last_3_game_margin": 28.3,
+    "momentum_trend": 13.7,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Tuttle has triggered the 35-point OSSAA running clock 3 times.",
+      "Peaking in Postseason Play: Net margin surged +13.7 PPG over the last 3 games (+28.3 PPG)."
+    ]
+  },
+  "edmond memorial": {
+    "team": "Edmond Memorial",
+    "state": "OK",
+    "division": "6A-I",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 22.2,
+    "avg_points_allowed": 26.2,
+    "season_net_margin": -4.0,
+    "last_3_game_margin": -11.0,
+    "momentum_trend": -7.0,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -7.0 PPG over the last 3 weeks."
+    ]
+  },
+  "heritage hall": {
+    "team": "Heritage Hall",
+    "state": "OK",
+    "division": "3A",
+    "region": 1,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 33.4,
+    "avg_points_allowed": 14.7,
+    "season_net_margin": 18.7,
+    "last_3_game_margin": 21.0,
+    "momentum_trend": 2.3,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Heritage Hall has triggered the 35-point OSSAA running clock 3 times."
+    ]
+  },
+  "davis": {
+    "team": "Davis",
+    "state": "OK",
+    "division": "2A-II",
+    "region": 1,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 37.5,
+    "avg_points_allowed": 15.3,
+    "season_net_margin": 22.2,
+    "last_3_game_margin": 5.0,
+    "momentum_trend": -17.2,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Davis has triggered the 35-point OSSAA running clock 4 times.",
+      "Late-Season Margin Compression: Net differential dipped -17.2 PPG over the last 3 weeks."
+    ]
+  },
+  "claremore": {
+    "team": "Claremore",
+    "state": "OK",
+    "division": "5A",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 27.9,
+    "avg_points_allowed": 21.8,
+    "season_net_margin": 6.1,
+    "last_3_game_margin": 0.0,
+    "momentum_trend": -6.1,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "perkins-tryon": {
+    "team": "Perkins-Tryon",
+    "state": "OK",
+    "division": "3A",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 33.4,
+    "avg_points_allowed": 17.1,
+    "season_net_margin": 16.3,
+    "last_3_game_margin": 15.0,
+    "momentum_trend": -1.3,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "putnam city": {
+    "team": "Putnam City",
+    "state": "OK",
+    "division": "6A-II",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 23.0,
+    "avg_points_allowed": 29.4,
+    "season_net_margin": -6.4,
+    "last_3_game_margin": -8.0,
+    "momentum_trend": -1.6,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "fairview": {
+    "team": "Fairview",
+    "state": "OK",
+    "division": "A",
+    "region": 1,
+    "record": "11-0",
+    "games_played": 11,
+    "avg_points_scored": 38.2,
+    "avg_points_allowed": 15.9,
+    "season_net_margin": 22.3,
+    "last_3_game_margin": 32.0,
+    "momentum_trend": 9.7,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +9.7 PPG over the last 3 games (+32.0 PPG)."
+    ]
+  },
+  "mustang": {
+    "team": "Mustang",
+    "state": "OK",
+    "division": "6A-I",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 19.0,
+    "avg_points_allowed": 31.0,
+    "season_net_margin": -12.0,
+    "last_3_game_margin": -6.0,
+    "momentum_trend": 6.0,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "metro christian": {
+    "team": "Metro Christian",
+    "state": "OK",
+    "division": "2A-I",
+    "region": 1,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 32.2,
+    "avg_points_allowed": 18.1,
+    "season_net_margin": 14.1,
+    "last_3_game_margin": 16.7,
+    "momentum_trend": 2.6,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "jones": {
+    "team": "Jones",
+    "state": "OK",
+    "division": "2A-I",
+    "region": 1,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 32.8,
+    "avg_points_allowed": 17.2,
+    "season_net_margin": 15.6,
+    "last_3_game_margin": 16.3,
+    "momentum_trend": 0.7,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "ada": {
+    "team": "Ada",
+    "state": "OK",
+    "division": "4A",
+    "region": 1,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 29.3,
+    "avg_points_allowed": 19.4,
+    "season_net_margin": 9.9,
+    "last_3_game_margin": 11.0,
+    "momentum_trend": 1.1,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "booker t. washington": {
+    "team": "Booker T. Washington",
+    "state": "OK",
+    "division": "5A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 22.9,
+    "avg_points_allowed": 27.2,
+    "season_net_margin": -4.3,
+    "last_3_game_margin": -4.7,
+    "momentum_trend": -0.4,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "broken arrow": {
+    "team": "Broken Arrow",
+    "state": "OK",
+    "division": "6A-I",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 17.9,
+    "avg_points_allowed": 28.7,
+    "season_net_margin": -10.8,
+    "last_3_game_margin": -13.0,
+    "momentum_trend": -2.2,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "cascia hall": {
+    "team": "Cascia Hall",
+    "state": "OK",
+    "division": "3A",
+    "region": 1,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 29.3,
+    "avg_points_allowed": 22.2,
+    "season_net_margin": 7.1,
+    "last_3_game_margin": 0.3,
+    "momentum_trend": -6.8,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "hominy": {
+    "team": "Hominy",
+    "state": "OK",
+    "division": "A",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 35.0,
+    "avg_points_allowed": 16.8,
+    "season_net_margin": 18.2,
+    "last_3_game_margin": 25.3,
+    "momentum_trend": 7.1,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Peaking in Postseason Play: Net margin surged +7.1 PPG over the last 3 games (+25.3 PPG)."
+    ]
+  },
+  "woodland": {
+    "team": "Woodland",
+    "state": "OK",
+    "division": "A",
+    "region": 1,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 33.4,
+    "avg_points_allowed": 15.9,
+    "season_net_margin": 17.5,
+    "last_3_game_margin": 22.7,
+    "momentum_trend": 5.2,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Woodland has triggered the 35-point OSSAA running clock 3 times."
+    ]
+  },
+  "sallisaw": {
+    "team": "Sallisaw",
+    "state": "OK",
+    "division": "4A",
+    "region": 1,
+    "record": "4-5",
+    "games_played": 9,
+    "avg_points_scored": 22.4,
+    "avg_points_allowed": 21.8,
+    "season_net_margin": 0.6,
+    "last_3_game_margin": 8.0,
+    "momentum_trend": 7.4,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Peaking in Postseason Play: Net margin surged +7.4 PPG over the last 3 games (+8.0 PPG)."
+    ]
+  },
+  "bartlesville": {
+    "team": "Bartlesville",
+    "state": "OK",
+    "division": "6A-II",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 21.3,
+    "avg_points_allowed": 28.8,
+    "season_net_margin": -7.5,
+    "last_3_game_margin": -18.7,
+    "momentum_trend": -11.2,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -11.2 PPG over the last 3 weeks."
+    ]
+  },
+  "stroud": {
+    "team": "Stroud",
+    "state": "OK",
+    "division": "2A-II",
+    "region": 1,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 28.0,
+    "avg_points_allowed": 15.1,
+    "season_net_margin": 12.9,
+    "last_3_game_margin": 2.3,
+    "momentum_trend": -10.6,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -10.6 PPG over the last 3 weeks."
+    ]
+  },
+  "westmoore": {
+    "team": "Westmoore",
+    "state": "OK",
+    "division": "6A-I",
+    "region": 1,
+    "record": "1-8",
+    "games_played": 9,
+    "avg_points_scored": 18.0,
+    "avg_points_allowed": 33.1,
+    "season_net_margin": -15.1,
+    "last_3_game_margin": -25.7,
+    "momentum_trend": -10.6,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -10.6 PPG over the last 3 weeks."
+    ]
+  },
+  "berryhill": {
+    "team": "Berryhill",
+    "state": "OK",
+    "division": "3A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 21.8,
+    "avg_points_allowed": 24.0,
+    "season_net_margin": -2.2,
+    "last_3_game_margin": -7.7,
+    "momentum_trend": -5.5,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "macarthur": {
+    "team": "MacArthur",
+    "state": "OK",
+    "division": "5A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 19.1,
+    "avg_points_allowed": 30.0,
+    "season_net_margin": -10.9,
+    "last_3_game_margin": -13.0,
+    "momentum_trend": -2.1,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "colcord": {
+    "team": "Colcord",
+    "state": "OK",
+    "division": "2A-II",
+    "region": 1,
+    "record": "8-3",
+    "games_played": 11,
+    "avg_points_scored": 27.9,
+    "avg_points_allowed": 19.8,
+    "season_net_margin": 8.1,
+    "last_3_game_margin": 8.3,
+    "momentum_trend": 0.2,
+    "close_game_record": "3-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "sapulpa": {
+    "team": "Sapulpa",
+    "state": "OK",
+    "division": "6A-II",
+    "region": 1,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 17.7,
+    "avg_points_allowed": 34.8,
+    "season_net_margin": -17.1,
+    "last_3_game_margin": -14.7,
+    "momentum_trend": 2.4,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "kiefer": {
+    "team": "Kiefer",
+    "state": "OK",
+    "division": "2A-I",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 28.3,
+    "avg_points_allowed": 25.6,
+    "season_net_margin": 2.7,
+    "last_3_game_margin": -2.0,
+    "momentum_trend": -4.7,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "holdenville": {
+    "team": "Holdenville",
+    "state": "OK",
+    "division": "2A-II",
+    "region": 1,
+    "record": "4-5",
+    "games_played": 9,
+    "avg_points_scored": 23.9,
+    "avg_points_allowed": 20.8,
+    "season_net_margin": 3.1,
+    "last_3_game_margin": -3.7,
+    "momentum_trend": -6.8,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "norman": {
+    "team": "Norman",
+    "state": "OK",
+    "division": "6A-I",
+    "region": 1,
+    "record": "2-6",
+    "games_played": 8,
+    "avg_points_scored": 14.4,
+    "avg_points_allowed": 35.5,
+    "season_net_margin": -21.1,
+    "last_3_game_margin": -35.3,
+    "momentum_trend": -14.2,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -14.2 PPG over the last 3 weeks."
+    ]
+  },
+  "cushing": {
+    "team": "Cushing",
+    "state": "OK",
+    "division": "4A",
+    "region": 1,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 18.0,
+    "avg_points_allowed": 32.2,
+    "season_net_margin": -14.2,
+    "last_3_game_margin": -24.7,
+    "momentum_trend": -10.5,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -10.5 PPG over the last 3 weeks."
+    ]
+  },
+  "hooker": {
+    "team": "Hooker",
+    "state": "OK",
+    "division": "A",
+    "region": 1,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 31.9,
+    "avg_points_allowed": 18.5,
+    "season_net_margin": 13.4,
+    "last_3_game_margin": 30.3,
+    "momentum_trend": 16.9,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Postseason Play: Net margin surged +16.9 PPG over the last 3 games (+30.3 PPG)."
+    ]
+  },
+  "poteau": {
+    "team": "Poteau",
+    "state": "OK",
+    "division": "4A",
+    "region": 1,
+    "record": "3-5",
+    "games_played": 8,
+    "avg_points_scored": 19.0,
+    "avg_points_allowed": 28.9,
+    "season_net_margin": -9.9,
+    "last_3_game_margin": -6.3,
+    "momentum_trend": 3.6,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "newcastle": {
+    "team": "Newcastle",
+    "state": "OK",
+    "division": "5A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 21.4,
+    "avg_points_allowed": 32.7,
+    "season_net_margin": -11.3,
+    "last_3_game_margin": -16.3,
+    "momentum_trend": -5.0,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "minco": {
+    "team": "Minco",
+    "state": "OK",
+    "division": "A",
+    "region": 1,
+    "record": "5-4",
+    "games_played": 9,
+    "avg_points_scored": 27.7,
+    "avg_points_allowed": 19.1,
+    "season_net_margin": 8.6,
+    "last_3_game_margin": 3.7,
+    "momentum_trend": -4.9,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "ocs": {
+    "team": "OCS",
+    "state": "OK",
+    "division": "2A-I",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 21.9,
+    "avg_points_allowed": 27.0,
+    "season_net_margin": -5.1,
+    "last_3_game_margin": -5.3,
+    "momentum_trend": -0.2,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "lawton": {
+    "team": "Lawton",
+    "state": "OK",
+    "division": "6A-II",
+    "region": 1,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 15.9,
+    "avg_points_allowed": 35.0,
+    "season_net_margin": -19.1,
+    "last_3_game_margin": -35.7,
+    "momentum_trend": -16.6,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -16.6 PPG over the last 3 weeks."
+    ]
+  },
+  "midwest city": {
+    "team": "Midwest City",
+    "state": "OK",
+    "division": "5A",
+    "region": 1,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 16.6,
+    "avg_points_allowed": 36.0,
+    "season_net_margin": -19.4,
+    "last_3_game_margin": -18.0,
+    "momentum_trend": 1.4,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "checotah": {
+    "team": "Checotah",
+    "state": "OK",
+    "division": "3A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 20.0,
+    "avg_points_allowed": 30.9,
+    "season_net_margin": -10.9,
+    "last_3_game_margin": -11.0,
+    "momentum_trend": -0.1,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "chandler": {
+    "team": "Chandler",
+    "state": "OK",
+    "division": "2A-I",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 19.9,
+    "avg_points_allowed": 29.1,
+    "season_net_margin": -9.2,
+    "last_3_game_margin": -10.7,
+    "momentum_trend": -1.5,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "grove": {
+    "team": "grove",
+    "state": "OK",
+    "division": "4A",
+    "region": 1,
+    "record": "3-5",
+    "games_played": 8,
+    "avg_points_scored": 18.2,
+    "avg_points_allowed": 31.2,
+    "season_net_margin": -13.0,
+    "last_3_game_margin": -26.3,
+    "momentum_trend": -13.3,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -13.3 PPG over the last 3 weeks."
+    ]
+  },
+  "pryor": {
+    "team": "Pryor",
+    "state": "OK",
+    "division": "5A",
+    "region": 1,
+    "record": "1-8",
+    "games_played": 9,
+    "avg_points_scored": 18.2,
+    "avg_points_allowed": 34.0,
+    "season_net_margin": -15.8,
+    "last_3_game_margin": -19.3,
+    "momentum_trend": -3.5,
+    "close_game_record": "0-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "marlow": {
+    "team": "Marlow",
+    "state": "OK",
+    "division": "3A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 21.1,
+    "avg_points_allowed": 26.8,
+    "season_net_margin": -5.7,
+    "last_3_game_margin": -14.3,
+    "momentum_trend": -8.6,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -8.6 PPG over the last 3 weeks."
+    ]
+  },
+  "moore": {
+    "team": "Moore",
+    "state": "OK",
+    "division": "6A-I",
+    "region": 1,
+    "record": "0-8",
+    "games_played": 8,
+    "avg_points_scored": 13.6,
+    "avg_points_allowed": 40.8,
+    "season_net_margin": -27.2,
+    "last_3_game_margin": -44.0,
+    "momentum_trend": -16.8,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -16.8 PPG over the last 3 weeks."
+    ]
+  },
+  "harrah": {
+    "team": "harrah",
+    "state": "OK",
+    "division": "4A",
+    "region": 1,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 16.1,
+    "avg_points_allowed": 32.8,
+    "season_net_margin": -16.7,
+    "last_3_game_margin": -33.7,
+    "momentum_trend": -17.0,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -17.0 PPG over the last 3 weeks."
+    ]
+  },
+  "collinsville": {
+    "team": "Collinsville",
+    "state": "OK",
+    "division": "5A",
+    "region": 1,
+    "record": "2-6",
+    "games_played": 8,
+    "avg_points_scored": 16.6,
+    "avg_points_allowed": 36.2,
+    "season_net_margin": -19.6,
+    "last_3_game_margin": -32.7,
+    "momentum_trend": -13.1,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -13.1 PPG over the last 3 weeks."
+    ]
+  },
+  "thomas-fay-custer": {
+    "team": "Thomas-Fay-Custer",
+    "state": "OK",
+    "division": "A",
+    "region": 1,
+    "record": "4-5",
+    "games_played": 9,
+    "avg_points_scored": 22.8,
+    "avg_points_allowed": 27.8,
+    "season_net_margin": -5.0,
+    "last_3_game_margin": -14.3,
+    "momentum_trend": -9.3,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -9.3 PPG over the last 3 weeks."
+    ]
+  },
+  "crossings christian": {
+    "team": "Crossings Christian",
+    "state": "OK",
+    "division": "2A-I",
+    "region": 1,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 21.1,
+    "avg_points_allowed": 33.1,
+    "season_net_margin": -12.0,
+    "last_3_game_margin": -12.0,
+    "momentum_trend": 0.0,
+    "close_game_record": "0-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "paul's valley": {
+    "team": "Paul's Valley",
+    "state": "OK",
+    "division": "3A",
+    "region": 1,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 16.9,
+    "avg_points_allowed": 31.8,
+    "season_net_margin": -14.9,
+    "last_3_game_margin": -14.0,
+    "momentum_trend": 0.9,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "ponca city": {
+    "team": "Ponca City",
+    "state": "OK",
+    "division": "6A-II",
+    "region": 1,
+    "record": "1-8",
+    "games_played": 9,
+    "avg_points_scored": 14.1,
+    "avg_points_allowed": 39.7,
+    "season_net_margin": -25.6,
+    "last_3_game_margin": -32.7,
+    "momentum_trend": -7.1,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -7.1 PPG over the last 3 weeks."
+    ]
+  },
+  "alva": {
+    "team": "Alva",
+    "state": "OK",
+    "division": "2A-II",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 23.9,
+    "avg_points_allowed": 30.0,
+    "season_net_margin": -6.1,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": 2.1,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "adair": {
+    "team": "Adair",
+    "state": "OK",
+    "division": "2A-II",
+    "region": 1,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 15.3,
+    "avg_points_allowed": 28.3,
+    "season_net_margin": -13.0,
+    "last_3_game_margin": -3.7,
+    "momentum_trend": 9.3,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Peaking in Postseason Play: Net margin surged +9.3 PPG over the last 3 games (-3.7 PPG)."
+    ]
+  },
+  "apache": {
+    "team": "Apache",
+    "state": "OK",
+    "division": "A",
+    "region": 1,
+    "record": "0-8",
+    "games_played": 8,
+    "avg_points_scored": 18.6,
+    "avg_points_allowed": 33.1,
+    "season_net_margin": -14.5,
+    "last_3_game_margin": -22.3,
+    "momentum_trend": -7.8,
+    "close_game_record": "0-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -7.8 PPG over the last 3 weeks."
+    ]
+  },
+  "cashion": {
+    "team": "Cashion",
+    "state": "OK",
+    "division": "A",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 21.7,
+    "avg_points_allowed": 28.1,
+    "season_net_margin": -6.4,
+    "last_3_game_margin": 1.3,
+    "momentum_trend": 7.7,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Peaking in Postseason Play: Net margin surged +7.7 PPG over the last 3 games (+1.3 PPG)."
+    ]
+  },
+  "tahsequah sequoyah": {
+    "team": "Tahsequah Sequoyah",
+    "state": "OK",
+    "division": "2A-I",
+    "region": 1,
+    "record": "3-6",
+    "games_played": 9,
+    "avg_points_scored": 19.2,
+    "avg_points_allowed": 31.2,
+    "season_net_margin": -12.0,
+    "last_3_game_margin": -18.7,
+    "momentum_trend": -6.7,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "bethany": {
+    "team": "Bethany",
+    "state": "OK",
+    "division": "4A",
+    "region": 1,
+    "record": "1-5",
+    "games_played": 6,
+    "avg_points_scored": 14.7,
+    "avg_points_allowed": 35.0,
+    "season_net_margin": -20.3,
+    "last_3_game_margin": -37.0,
+    "momentum_trend": -16.7,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -16.7 PPG over the last 3 weeks."
+    ]
+  },
+  "kingfisher": {
+    "team": "Kingfisher",
+    "state": "OK",
+    "division": "3A",
+    "region": 1,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 15.2,
+    "avg_points_allowed": 35.1,
+    "season_net_margin": -19.9,
+    "last_3_game_margin": -22.3,
+    "momentum_trend": -2.4,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "kingston": {
+    "team": "Kingston",
+    "state": "OK",
+    "division": "2A-I",
+    "region": 1,
+    "record": "2-7",
+    "games_played": 9,
+    "avg_points_scored": 18.3,
+    "avg_points_allowed": 34.9,
+    "season_net_margin": -16.6,
+    "last_3_game_margin": -27.3,
+    "momentum_trend": -10.7,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -10.7 PPG over the last 3 weeks."
+    ]
+  },
+  "southmoore": {
+    "team": "Southmoore",
+    "state": "OK",
+    "division": "6A-II",
+    "region": 1,
+    "record": "0-8",
+    "games_played": 8,
+    "avg_points_scored": 12.6,
+    "avg_points_allowed": 44.4,
+    "season_net_margin": -31.8,
+    "last_3_game_margin": -42.3,
+    "momentum_trend": -10.5,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -10.5 PPG over the last 3 weeks."
+    ]
+  },
+  "coweta": {
+    "team": "Coweta",
+    "state": "OK",
+    "division": "5A",
+    "region": 1,
+    "record": "0-8",
+    "games_played": 8,
+    "avg_points_scored": 13.6,
+    "avg_points_allowed": 40.4,
+    "season_net_margin": -26.8,
+    "last_3_game_margin": -38.3,
+    "momentum_trend": -11.5,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -11.5 PPG over the last 3 weeks."
+    ]
+  },
+  "pawhuska": {
+    "team": "pawhuska",
+    "state": "OK",
+    "division": "A",
+    "region": 1,
+    "record": "3-5",
+    "games_played": 8,
+    "avg_points_scored": 17.9,
+    "avg_points_allowed": 27.4,
+    "season_net_margin": -9.5,
+    "last_3_game_margin": -18.7,
+    "momentum_trend": -9.2,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -9.2 PPG over the last 3 weeks."
+    ]
+  },
+  "idabel": {
+    "team": "Idabel",
+    "state": "OK",
+    "division": "3A",
+    "region": 1,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 12.9,
+    "avg_points_allowed": 38.2,
+    "season_net_margin": -25.3,
+    "last_3_game_margin": -40.3,
+    "momentum_trend": -15.0,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -15.0 PPG over the last 3 weeks."
+    ]
+  },
+  "clinton": {
+    "team": "Clinton",
+    "state": "OK",
+    "division": "4A",
+    "region": 1,
+    "record": "0-6",
+    "games_played": 6,
+    "avg_points_scored": 11.0,
+    "avg_points_allowed": 44.5,
+    "season_net_margin": -33.5,
+    "last_3_game_margin": -43.7,
+    "momentum_trend": -10.2,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -10.2 PPG over the last 3 weeks."
+    ]
+  },
+  "elk city": {
+    "team": "Elk City",
+    "state": "OK",
+    "division": "4A",
+    "region": 1,
+    "record": "0-5",
+    "games_played": 5,
+    "avg_points_scored": 11.6,
+    "avg_points_allowed": 38.0,
+    "season_net_margin": -26.4,
+    "last_3_game_margin": -33.0,
+    "momentum_trend": -6.6,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "holland hall": {
+    "team": "Holland Hall",
+    "state": "OK",
+    "division": "3A",
+    "region": 1,
+    "record": "0-8",
+    "games_played": 8,
+    "avg_points_scored": 14.6,
+    "avg_points_allowed": 41.1,
+    "season_net_margin": -26.5,
+    "last_3_game_margin": -35.7,
+    "momentum_trend": -9.2,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -9.2 PPG over the last 3 weeks."
+    ]
+  },
+  "eufaula": {
+    "team": "Eufaula",
+    "state": "OK",
+    "division": "2A-II",
+    "region": 1,
+    "record": "0-9",
+    "games_played": 9,
+    "avg_points_scored": 15.2,
+    "avg_points_allowed": 41.3,
+    "season_net_margin": -26.1,
+    "last_3_game_margin": -22.7,
+    "momentum_trend": 3.4,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "beggs": {
+    "team": "beggs",
+    "state": "OK",
+    "division": "2A-I",
+    "region": 1,
+    "record": "1-7",
+    "games_played": 8,
+    "avg_points_scored": 12.6,
+    "avg_points_allowed": 41.9,
+    "season_net_margin": -29.3,
+    "last_3_game_margin": -38.7,
+    "momentum_trend": -9.4,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -9.4 PPG over the last 3 weeks."
+    ]
+  },
+  "wyandotte": {
+    "team": "Wyandotte",
+    "state": "OK",
+    "division": "2A-II",
+    "region": 1,
+    "record": "3-4",
+    "games_played": 7,
+    "avg_points_scored": 13.9,
+    "avg_points_allowed": 34.9,
+    "season_net_margin": -21.0,
+    "last_3_game_margin": -10.3,
+    "momentum_trend": 10.7,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Peaking in Postseason Play: Net margin surged +10.7 PPG over the last 3 games (-10.3 PPG)."
+    ]
+  },
+  "sperry": {
+    "team": "Sperry",
+    "state": "OK",
+    "division": "2A-I",
+    "region": 1,
+    "record": "0-8",
+    "games_played": 8,
+    "avg_points_scored": 12.5,
+    "avg_points_allowed": 38.8,
+    "season_net_margin": -26.3,
+    "last_3_game_margin": -37.0,
+    "momentum_trend": -10.7,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -10.7 PPG over the last 3 weeks."
+    ]
+  },
+  "tonkawa": {
+    "team": "Tonkawa",
+    "state": "OK",
+    "division": "A",
+    "region": 1,
+    "record": "1-5",
+    "games_played": 6,
+    "avg_points_scored": 17.8,
+    "avg_points_allowed": 39.8,
+    "season_net_margin": -22.0,
+    "last_3_game_margin": -33.3,
+    "momentum_trend": -11.3,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -11.3 PPG over the last 3 weeks."
+    ]
+  },
+  "rejoice christian": {
+    "team": "Rejoice Christian",
+    "state": "OK",
+    "division": "A",
+    "region": 1,
+    "record": "0-8",
+    "games_played": 8,
+    "avg_points_scored": 13.9,
+    "avg_points_allowed": 40.0,
+    "season_net_margin": -26.1,
+    "last_3_game_margin": -29.0,
+    "momentum_trend": -2.9,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "kansas": {
+    "team": "Kansas",
+    "state": "OK",
+    "division": "2A-II",
+    "region": 1,
+    "record": "0-8",
+    "games_played": 8,
+    "avg_points_scored": 10.6,
+    "avg_points_allowed": 40.6,
+    "season_net_margin": -30.0,
+    "last_3_game_margin": -35.3,
+    "momentum_trend": -5.3,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare."
+    ]
+  },
+  "crescent": {
+    "team": "Crescent",
+    "state": "OK",
+    "division": "A",
+    "region": 1,
+    "record": "0-5",
+    "games_played": 5,
+    "avg_points_scored": 12.2,
+    "avg_points_allowed": 40.8,
+    "season_net_margin": -28.6,
+    "last_3_game_margin": -36.0,
+    "momentum_trend": -7.4,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Oklahoma tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -7.4 PPG over the last 3 weeks."
+    ]
+  }
+}

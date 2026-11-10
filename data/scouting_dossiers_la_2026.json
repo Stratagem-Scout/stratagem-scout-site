@@ -1,0 +1,3366 @@
+{
+  "state": "LA",
+  "season": 2026,
+  "dossiers": {
+    "ruston": {
+      "team": "Ruston",
+      "state": "LA",
+      "division": "NS-D1",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 28.9,
+      "avg_points_allowed": 12.1,
+      "season_net_margin": 16.8,
+      "last_3_game_margin": 22.0,
+      "momentum_trend": 5.2,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Ruston averages 28.9 PPG while holding LHSAA District 2-5A opponents to 12.1 PPG (+16.8 net margin).",
+        "Postseason Readiness: 10-0 against a 74.6 SOS Index with 0 running-clock separations and a 2-0 record in one-score games."
+      ]
+    },
+    "neville": {
+      "team": "Neville",
+      "state": "LA",
+      "division": "NS-D1",
+      "region": 2,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 33.3,
+      "avg_points_allowed": 17.4,
+      "season_net_margin": 15.9,
+      "last_3_game_margin": 5.3,
+      "momentum_trend": -10.6,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Neville averages 33.3 PPG while holding LHSAA District 2-5A opponents to 17.4 PPG (+15.9 net margin).",
+        "Postseason Readiness: 8-2 against a 74.1 SOS Index with 2 running-clock separations and a 1-2 record in one-score games."
+      ]
+    },
+    "airline": {
+      "team": "Airline",
+      "state": "LA",
+      "division": "NS-D1",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.5,
+      "avg_points_allowed": 21.0,
+      "season_net_margin": -1.5,
+      "last_3_game_margin": -3.0,
+      "momentum_trend": -1.5,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Airline averages 19.5 PPG while holding LHSAA District 1-5A opponents to 21.0 PPG (-1.5 net margin).",
+        "Postseason Readiness: 5-5 against a 73.5 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "destrehan": {
+      "team": "Destrehan",
+      "state": "LA",
+      "division": "NS-D1",
+      "region": 4,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 22.5,
+      "avg_points_allowed": 24.2,
+      "season_net_margin": -1.7,
+      "last_3_game_margin": 6.7,
+      "momentum_trend": 8.4,
+      "close_game_record": "0-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Destrehan averages 22.5 PPG while holding LHSAA District 7-5A opponents to 24.2 PPG (-1.7 net margin).",
+        "Postseason Readiness: 3-7 against a 74.5 SOS Index with 0 running-clock separations and a 0-4 record in one-score games."
+      ]
+    },
+    "zachary": {
+      "team": "Zachary",
+      "state": "LA",
+      "division": "NS-D1",
+      "region": 1,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 23.9,
+      "avg_points_allowed": 21.7,
+      "season_net_margin": 2.2,
+      "last_3_game_margin": -0.3,
+      "momentum_trend": -2.5,
+      "close_game_record": "3-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Zachary averages 23.9 PPG while holding LHSAA District 4-5A opponents to 21.7 PPG (+2.2 net margin).",
+        "Postseason Readiness: 7-3 against a 73.5 SOS Index with 0 running-clock separations and a 3-0 record in one-score games."
+      ]
+    },
+    "central-baton rouge": {
+      "team": "Central-Baton Rouge",
+      "state": "LA",
+      "division": "NS-D1",
+      "region": 2,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 17.4,
+      "avg_points_allowed": 19.0,
+      "season_net_margin": -1.6,
+      "last_3_game_margin": 2.7,
+      "momentum_trend": 4.3,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Central-Baton Rouge averages 17.4 PPG while holding LHSAA District 4-5A opponents to 19.0 PPG (-1.6 net margin).",
+        "Postseason Readiness: 3-7 against a 74.9 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "parkway": {
+      "team": "Parkway",
+      "state": "LA",
+      "division": "NS-D1",
+      "region": 3,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 18.8,
+      "avg_points_allowed": 19.7,
+      "season_net_margin": -0.9,
+      "last_3_game_margin": -1.3,
+      "momentum_trend": -0.4,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Parkway averages 18.8 PPG while holding LHSAA District 1-5A opponents to 19.7 PPG (-0.9 net margin).",
+        "Postseason Readiness: 6-4 against a 72.6 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "southside": {
+      "team": "Southside",
+      "state": "LA",
+      "division": "NS-D1",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 18.4,
+      "avg_points_allowed": 21.2,
+      "season_net_margin": -2.8,
+      "last_3_game_margin": -1.3,
+      "momentum_trend": 1.5,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Southside averages 18.4 PPG while holding LHSAA District 3-5A opponents to 21.2 PPG (-2.8 net margin).",
+        "Postseason Readiness: 4-6 against a 72.3 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "mandeville": {
+      "team": "Mandeville",
+      "state": "LA",
+      "division": "NS-D1",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.5,
+      "avg_points_allowed": 20.4,
+      "season_net_margin": -2.9,
+      "last_3_game_margin": -1.0,
+      "momentum_trend": 1.9,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Mandeville averages 17.5 PPG while holding LHSAA District 6-5A opponents to 20.4 PPG (-2.9 net margin).",
+        "Postseason Readiness: 5-5 against a 71.3 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "barbe": {
+      "team": "barbe",
+      "state": "LA",
+      "division": "NS-D1",
+      "region": 2,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 17.3,
+      "avg_points_allowed": 21.4,
+      "season_net_margin": -4.1,
+      "last_3_game_margin": -5.7,
+      "momentum_trend": -1.6,
+      "close_game_record": "1-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: barbe averages 17.3 PPG while holding LHSAA District 3-5A opponents to 21.4 PPG (-4.1 net margin).",
+        "Postseason Readiness: 3-7 against a 72.5 SOS Index with 0 running-clock separations and a 1-4 record in one-score games."
+      ]
+    },
+    "west monroe": {
+      "team": "West Monroe",
+      "state": "LA",
+      "division": "NS-D1",
+      "region": 3,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 19.8,
+      "avg_points_allowed": 20.0,
+      "season_net_margin": -0.2,
+      "last_3_game_margin": -7.7,
+      "momentum_trend": -7.5,
+      "close_game_record": "4-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: West Monroe averages 19.8 PPG while holding LHSAA District 2-5A opponents to 20.0 PPG (-0.2 net margin).",
+        "Postseason Readiness: 6-4 against a 70.9 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+      ]
+    },
+    "covington": {
+      "team": "Covington",
+      "state": "LA",
+      "division": "NS-D1",
+      "region": 4,
+      "record": "0-10",
+      "games_played": 10,
+      "avg_points_scored": 14.9,
+      "avg_points_allowed": 34.1,
+      "season_net_margin": -19.2,
+      "last_3_game_margin": -16.3,
+      "momentum_trend": 2.9,
+      "close_game_record": "0-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Covington averages 14.9 PPG while holding LHSAA District 6-5A opponents to 34.1 PPG (-19.2 net margin).",
+        "Postseason Readiness: 0-10 against a 71.5 SOS Index with 0 running-clock separations and a 0-3 record in one-score games."
+      ]
+    },
+    "north desoto": {
+      "team": "North DeSoto",
+      "state": "LA",
+      "division": "NS-D2",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 37.0,
+      "avg_points_allowed": 15.5,
+      "season_net_margin": 21.5,
+      "last_3_game_margin": 19.0,
+      "momentum_trend": -2.5,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: North DeSoto averages 37.0 PPG while holding LHSAA District 1-4A opponents to 15.5 PPG (+21.5 net margin).",
+        "Postseason Readiness: 10-0 against a 73.1 SOS Index with 1 running-clock separations and a 2-0 record in one-score games."
+      ]
+    },
+    "cecilia": {
+      "team": "Cecilia",
+      "state": "LA",
+      "division": "NS-D2",
+      "region": 2,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 35.2,
+      "avg_points_allowed": 17.8,
+      "season_net_margin": 17.4,
+      "last_3_game_margin": 7.0,
+      "momentum_trend": -10.4,
+      "close_game_record": "0-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Cecilia averages 35.2 PPG while holding LHSAA District 5-4A opponents to 17.8 PPG (+17.4 net margin).",
+        "Postseason Readiness: 8-2 against a 73.5 SOS Index with 0 running-clock separations and a 0-2 record in one-score games."
+      ]
+    },
+    "franklinton": {
+      "team": "Franklinton",
+      "state": "LA",
+      "division": "NS-D2",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 16.2,
+      "avg_points_allowed": 21.6,
+      "season_net_margin": -5.4,
+      "last_3_game_margin": -4.3,
+      "momentum_trend": 1.1,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Franklinton averages 16.2 PPG while holding LHSAA District 8-4A opponents to 21.6 PPG (-5.4 net margin).",
+        "Postseason Readiness: 4-6 against a 73.8 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "lutcher": {
+      "team": "Lutcher",
+      "state": "LA",
+      "division": "NS-D2",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 16.6,
+      "avg_points_allowed": 18.5,
+      "season_net_margin": -1.9,
+      "last_3_game_margin": 5.7,
+      "momentum_trend": 7.6,
+      "close_game_record": "3-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lutcher averages 16.6 PPG while holding LHSAA District 7-4A opponents to 18.5 PPG (-1.9 net margin).",
+        "Postseason Readiness: 4-6 against a 72.4 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+      ]
+    },
+    "plaquemine": {
+      "team": "Plaquemine",
+      "state": "LA",
+      "division": "NS-D2",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.7,
+      "avg_points_allowed": 21.4,
+      "season_net_margin": -1.7,
+      "last_3_game_margin": 2.0,
+      "momentum_trend": 3.7,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Plaquemine averages 19.7 PPG while holding LHSAA District 6-4A opponents to 21.4 PPG (-1.7 net margin).",
+        "Postseason Readiness: 5-5 against a 73.3 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "iowa": {
+      "team": "Iowa",
+      "state": "LA",
+      "division": "NS-D2",
+      "region": 2,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 19.7,
+      "avg_points_allowed": 21.4,
+      "season_net_margin": -1.7,
+      "last_3_game_margin": 1.0,
+      "momentum_trend": 2.7,
+      "close_game_record": "5-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Iowa averages 19.7 PPG while holding LHSAA District 3-4A opponents to 21.4 PPG (-1.7 net margin).",
+        "Postseason Readiness: 6-4 against a 73.5 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+      ]
+    },
+    "lakeshore": {
+      "team": "Lakeshore",
+      "state": "LA",
+      "division": "NS-D2",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 19.3,
+      "avg_points_allowed": 22.0,
+      "season_net_margin": -2.7,
+      "last_3_game_margin": 0.3,
+      "momentum_trend": 3.0,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lakeshore averages 19.3 PPG while holding LHSAA District 8-4A opponents to 22.0 PPG (-2.7 net margin).",
+        "Postseason Readiness: 4-6 against a 71.6 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "westgate": {
+      "team": "Westgate",
+      "state": "LA",
+      "division": "NS-D2",
+      "region": 4,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 15.8,
+      "avg_points_allowed": 21.2,
+      "season_net_margin": -5.4,
+      "last_3_game_margin": -6.3,
+      "momentum_trend": -0.9,
+      "close_game_record": "3-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Westgate averages 15.8 PPG while holding LHSAA District 4-4A opponents to 21.2 PPG (-5.4 net margin).",
+        "Postseason Readiness: 3-7 against a 73.1 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+      ]
+    },
+    "franklin parish": {
+      "team": "Franklin Parish",
+      "state": "LA",
+      "division": "NS-D2",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 21.4,
+      "avg_points_allowed": 21.2,
+      "season_net_margin": 0.2,
+      "last_3_game_margin": 2.7,
+      "momentum_trend": 2.5,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Franklin Parish averages 21.4 PPG while holding LHSAA District 2-4A opponents to 21.2 PPG (+0.2 net margin).",
+        "Postseason Readiness: 5-5 against a 70.8 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "belle chasse": {
+      "team": "Belle Chasse",
+      "state": "LA",
+      "division": "NS-D2",
+      "region": 2,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 16.9,
+      "avg_points_allowed": 37.2,
+      "season_net_margin": -20.3,
+      "last_3_game_margin": -27.0,
+      "momentum_trend": -6.7,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Belle Chasse averages 16.9 PPG while holding LHSAA District 10-4A opponents to 37.2 PPG (-20.3 net margin).",
+        "Postseason Readiness: 1-9 against a 72.7 SOS Index with 0 running-clock separations and a 1-1 record in one-score games."
+      ]
+    },
+    "st. james": {
+      "team": "St. James",
+      "state": "LA",
+      "division": "NS-D3",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 33.8,
+      "avg_points_allowed": 15.7,
+      "season_net_margin": 18.1,
+      "last_3_game_margin": 26.7,
+      "momentum_trend": 8.6,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: St. James averages 33.8 PPG while holding LHSAA District 8-3A opponents to 15.7 PPG (+18.1 net margin).",
+        "Postseason Readiness: 10-0 against a 73.9 SOS Index with 1 running-clock separations and a 1-0 record in one-score games."
+      ]
+    },
+    "sterlington": {
+      "team": "Sterlington",
+      "state": "LA",
+      "division": "NS-D3",
+      "region": 2,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 34.5,
+      "avg_points_allowed": 17.9,
+      "season_net_margin": 16.6,
+      "last_3_game_margin": 8.0,
+      "momentum_trend": -8.6,
+      "close_game_record": "3-0",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Sterlington averages 34.5 PPG while holding LHSAA District 1-3A opponents to 17.9 PPG (+16.6 net margin).",
+        "Postseason Readiness: 9-1 against a 73.5 SOS Index with 1 running-clock separations and a 3-0 record in one-score games."
+      ]
+    },
+    "jena": {
+      "team": "Jena",
+      "state": "LA",
+      "division": "NS-D3",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 16.5,
+      "avg_points_allowed": 20.7,
+      "season_net_margin": -4.2,
+      "last_3_game_margin": -9.7,
+      "momentum_trend": -5.5,
+      "close_game_record": "3-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Jena averages 16.5 PPG while holding LHSAA District 3-3A opponents to 20.7 PPG (-4.2 net margin).",
+        "Postseason Readiness: 4-6 against a 71.3 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+      ]
+    },
+    "union parish": {
+      "team": "Union Parish",
+      "state": "LA",
+      "division": "NS-D3",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.5,
+      "avg_points_allowed": 18.4,
+      "season_net_margin": 1.1,
+      "last_3_game_margin": 4.3,
+      "momentum_trend": 3.2,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Union Parish averages 19.5 PPG while holding LHSAA District 1-3A opponents to 18.4 PPG (+1.1 net margin).",
+        "Postseason Readiness: 5-5 against a 73.2 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "oak grove": {
+      "team": "Oak Grove",
+      "state": "LA",
+      "division": "NS-D3",
+      "region": 1,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 18.6,
+      "avg_points_allowed": 24.3,
+      "season_net_margin": -5.7,
+      "last_3_game_margin": 0.7,
+      "momentum_trend": 6.4,
+      "close_game_record": "2-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Oak Grove averages 18.6 PPG while holding LHSAA District 2-2A opponents to 24.3 PPG (-5.7 net margin).",
+        "Postseason Readiness: 3-7 against a 72.7 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+      ]
+    },
+    "amite": {
+      "team": "Amite",
+      "state": "LA",
+      "division": "NS-D3",
+      "region": 2,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 24.0,
+      "avg_points_allowed": 22.7,
+      "season_net_margin": 1.3,
+      "last_3_game_margin": -4.0,
+      "momentum_trend": -5.3,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Amite averages 24.0 PPG while holding LHSAA District 7-3A opponents to 22.7 PPG (+1.3 net margin).",
+        "Postseason Readiness: 5-5 against a 71.6 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "pine": {
+      "team": "Pine",
+      "state": "LA",
+      "division": "NS-D3",
+      "region": 3,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 16.5,
+      "avg_points_allowed": 23.5,
+      "season_net_margin": -7.0,
+      "last_3_game_margin": -7.7,
+      "momentum_trend": -0.7,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Pine averages 16.5 PPG while holding LHSAA District 7-3A opponents to 23.5 PPG (-7.0 net margin).",
+        "Postseason Readiness: 2-8 against a 71.0 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "kinder": {
+      "team": "Kinder",
+      "state": "LA",
+      "division": "NS-D3",
+      "region": 4,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 21.5,
+      "avg_points_allowed": 16.0,
+      "season_net_margin": 5.5,
+      "last_3_game_margin": 10.7,
+      "momentum_trend": 5.2,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Kinder averages 21.5 PPG while holding LHSAA District 3-2A opponents to 16.0 PPG (+5.5 net margin).",
+        "Postseason Readiness: 7-3 against a 71.8 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "erath": {
+      "team": "Erath",
+      "state": "LA",
+      "division": "NS-D3",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 18.6,
+      "avg_points_allowed": 22.0,
+      "season_net_margin": -3.4,
+      "last_3_game_margin": -5.7,
+      "momentum_trend": -2.3,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Erath averages 18.6 PPG while holding LHSAA District 5-3A opponents to 22.0 PPG (-3.4 net margin).",
+        "Postseason Readiness: 4-6 against a 70.7 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "st. martinville": {
+      "team": "St. Martinville",
+      "state": "LA",
+      "division": "NS-D3",
+      "region": 2,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 16.5,
+      "avg_points_allowed": 38.8,
+      "season_net_margin": -22.3,
+      "last_3_game_margin": -23.3,
+      "momentum_trend": -1.0,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: St. Martinville averages 16.5 PPG while holding LHSAA District 5-3A opponents to 38.8 PPG (-22.3 net margin).",
+        "Postseason Readiness: 1-9 against a 69.6 SOS Index with 0 running-clock separations and a 1-1 record in one-score games."
+      ]
+    },
+    "haynesville": {
+      "team": "Haynesville",
+      "state": "LA",
+      "division": "NS-D4",
+      "region": 1,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 32.2,
+      "avg_points_allowed": 13.2,
+      "season_net_margin": 19.0,
+      "last_3_game_margin": 14.7,
+      "momentum_trend": -4.3,
+      "close_game_record": "2-1",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Haynesville averages 32.2 PPG while holding LHSAA District 1-1A opponents to 13.2 PPG (+19.0 net margin).",
+        "Postseason Readiness: 9-1 against a 72.1 SOS Index with 2 running-clock separations and a 2-1 record in one-score games."
+      ]
+    },
+    "south plaquemines": {
+      "team": "South Plaquemines",
+      "state": "LA",
+      "division": "NS-D4",
+      "region": 2,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 31.9,
+      "avg_points_allowed": 18.6,
+      "season_net_margin": 13.3,
+      "last_3_game_margin": 2.7,
+      "momentum_trend": -10.6,
+      "close_game_record": "2-1",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: South Plaquemines averages 31.9 PPG while holding LHSAA District 9-2A opponents to 18.6 PPG (+13.3 net margin).",
+        "Postseason Readiness: 7-3 against a 72.9 SOS Index with 2 running-clock separations and a 2-1 record in one-score games."
+      ]
+    },
+    "logansport": {
+      "team": "Logansport",
+      "state": "LA",
+      "division": "NS-D4",
+      "region": 3,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 23.5,
+      "avg_points_allowed": 19.6,
+      "season_net_margin": 3.9,
+      "last_3_game_margin": 5.0,
+      "momentum_trend": 1.1,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Logansport averages 23.5 PPG while holding LHSAA District 3-1A opponents to 19.6 PPG (+3.9 net margin).",
+        "Postseason Readiness: 6-4 against a 70.6 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "mangham": {
+      "team": "Mangham",
+      "state": "LA",
+      "division": "NS-D4",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 20.6,
+      "avg_points_allowed": 25.6,
+      "season_net_margin": -5.0,
+      "last_3_game_margin": -0.3,
+      "momentum_trend": 4.7,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Mangham averages 20.6 PPG while holding LHSAA District 2-2A opponents to 25.6 PPG (-5.0 net margin).",
+        "Postseason Readiness: 4-6 against a 71.5 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "welsh": {
+      "team": "Welsh",
+      "state": "LA",
+      "division": "NS-D4",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.2,
+      "avg_points_allowed": 19.4,
+      "season_net_margin": -0.2,
+      "last_3_game_margin": -1.3,
+      "momentum_trend": -1.1,
+      "close_game_record": "4-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Welsh averages 19.2 PPG while holding LHSAA District 5-2A opponents to 19.4 PPG (-0.2 net margin).",
+        "Postseason Readiness: 5-5 against a 72.2 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+      ]
+    },
+    "kentwood": {
+      "team": "Kentwood",
+      "state": "LA",
+      "division": "NS-D4",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 14.1,
+      "avg_points_allowed": 17.4,
+      "season_net_margin": -3.3,
+      "last_3_game_margin": 6.0,
+      "momentum_trend": 9.3,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Kentwood averages 14.1 PPG while holding LHSAA District 9-1A opponents to 17.4 PPG (-3.3 net margin).",
+        "Postseason Readiness: 4-6 against a 69.8 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "ferriday": {
+      "team": "Ferriday",
+      "state": "LA",
+      "division": "NS-D4",
+      "region": 3,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 18.3,
+      "avg_points_allowed": 15.7,
+      "season_net_margin": 2.6,
+      "last_3_game_margin": 3.3,
+      "momentum_trend": 0.7,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Ferriday averages 18.3 PPG while holding LHSAA District 2-2A opponents to 15.7 PPG (+2.6 net margin).",
+        "Postseason Readiness: 6-4 against a 71.4 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "jeanerette": {
+      "team": "Jeanerette",
+      "state": "LA",
+      "division": "NS-D4",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 18.6,
+      "avg_points_allowed": 21.1,
+      "season_net_margin": -2.5,
+      "last_3_game_margin": -0.7,
+      "momentum_trend": 1.8,
+      "close_game_record": "3-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Jeanerette averages 18.6 PPG while holding LHSAA District 7-2A opponents to 21.1 PPG (-2.5 net margin).",
+        "Postseason Readiness: 5-5 against a 70.5 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+      ]
+    },
+    "lakeview": {
+      "team": "Lakeview",
+      "state": "LA",
+      "division": "NS-D4",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 15.9,
+      "avg_points_allowed": 21.3,
+      "season_net_margin": -5.4,
+      "last_3_game_margin": -3.7,
+      "momentum_trend": 1.7,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Lakeview averages 15.9 PPG while holding LHSAA District 3-2A opponents to 21.3 PPG (-5.4 net margin).",
+        "Postseason Readiness: 4-6 against a 70.0 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "general trass": {
+      "team": "General Trass",
+      "state": "LA",
+      "division": "NS-D4",
+      "region": 2,
+      "record": "0-10",
+      "games_played": 10,
+      "avg_points_scored": 13.1,
+      "avg_points_allowed": 35.5,
+      "season_net_margin": -22.4,
+      "last_3_game_margin": -25.7,
+      "momentum_trend": -3.3,
+      "close_game_record": "0-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: General Trass averages 13.1 PPG while holding LHSAA District 2-1A opponents to 35.5 PPG (-22.4 net margin).",
+        "Postseason Readiness: 0-10 against a 69.3 SOS Index with 0 running-clock separations and a 0-2 record in one-score games."
+      ]
+    },
+    "edna karr": {
+      "team": "Edna Karr",
+      "state": "LA",
+      "division": "SD-1",
+      "region": 1,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 30.2,
+      "avg_points_allowed": 16.4,
+      "season_net_margin": 13.8,
+      "last_3_game_margin": 18.3,
+      "momentum_trend": 4.5,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Edna Karr averages 30.2 PPG while holding LHSAA District 9-5A opponents to 16.4 PPG (+13.8 net margin).",
+        "Postseason Readiness: 9-1 against a 70.3 SOS Index with 0 running-clock separations and a 1-1 record in one-score games."
+      ]
+    },
+    "catholic-baton rouge": {
+      "team": "Catholic-Baton Rouge",
+      "state": "LA",
+      "division": "SD-1",
+      "region": 2,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 28.9,
+      "avg_points_allowed": 14.2,
+      "season_net_margin": 14.7,
+      "last_3_game_margin": 13.3,
+      "momentum_trend": -1.4,
+      "close_game_record": "3-1",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Catholic-Baton Rouge averages 28.9 PPG while holding LHSAA District 4-5A opponents to 14.2 PPG (+14.7 net margin).",
+        "Postseason Readiness: 9-1 against a 70.4 SOS Index with 1 running-clock separations and a 3-1 record in one-score games."
+      ]
+    },
+    "alexandria": {
+      "team": "Alexandria",
+      "state": "LA",
+      "division": "SD-1",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.1,
+      "avg_points_allowed": 17.6,
+      "season_net_margin": -0.5,
+      "last_3_game_margin": -4.0,
+      "momentum_trend": -3.5,
+      "close_game_record": "3-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Alexandria averages 17.1 PPG while holding LHSAA District 2-5A opponents to 17.6 PPG (-0.5 net margin).",
+        "Postseason Readiness: 4-6 against a 70.1 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+      ]
+    },
+    "acadiana": {
+      "team": "Acadiana",
+      "state": "LA",
+      "division": "SD-1",
+      "region": 4,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 20.6,
+      "avg_points_allowed": 20.1,
+      "season_net_margin": 0.5,
+      "last_3_game_margin": 6.3,
+      "momentum_trend": 5.8,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Acadiana averages 20.6 PPG while holding LHSAA District 3-5A opponents to 20.1 PPG (+0.5 net margin).",
+        "Postseason Readiness: 6-4 against a 69.9 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "john curtis": {
+      "team": "John Curtis",
+      "state": "LA",
+      "division": "SD-1",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 16.8,
+      "avg_points_allowed": 18.7,
+      "season_net_margin": -1.9,
+      "last_3_game_margin": -3.0,
+      "momentum_trend": -1.1,
+      "close_game_record": "5-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: John Curtis averages 16.8 PPG while holding LHSAA District 9-5A opponents to 18.7 PPG (-1.9 net margin).",
+        "Postseason Readiness: 5-5 against a 68.7 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+      ]
+    },
+    "archbishop rummel": {
+      "team": "Archbishop Rummel",
+      "state": "LA",
+      "division": "SD-1",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 18.0,
+      "avg_points_allowed": 19.9,
+      "season_net_margin": -1.9,
+      "last_3_game_margin": -0.3,
+      "momentum_trend": 1.6,
+      "close_game_record": "4-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Archbishop Rummel averages 18.0 PPG while holding LHSAA District 9-5A opponents to 19.9 PPG (-1.9 net margin).",
+        "Postseason Readiness: 4-6 against a 69.5 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+      ]
+    },
+    "st. augustine": {
+      "team": "St. Augustine",
+      "state": "LA",
+      "division": "SD-1",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.8,
+      "avg_points_allowed": 19.3,
+      "season_net_margin": -1.5,
+      "last_3_game_margin": 0.3,
+      "momentum_trend": 1.8,
+      "close_game_record": "4-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: St. Augustine averages 17.8 PPG while holding LHSAA District 9-5A opponents to 19.3 PPG (-1.5 net margin).",
+        "Postseason Readiness: 4-6 against a 69.8 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+      ]
+    },
+    "carencro": {
+      "team": "Carencro",
+      "state": "LA",
+      "division": "SD-1",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 16.2,
+      "avg_points_allowed": 19.9,
+      "season_net_margin": -3.7,
+      "last_3_game_margin": 0.3,
+      "momentum_trend": 4.0,
+      "close_game_record": "4-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Carencro averages 16.2 PPG while holding LHSAA District 3-5A opponents to 19.9 PPG (-3.7 net margin).",
+        "Postseason Readiness: 4-6 against a 69.9 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+      ]
+    },
+    "brother martin": {
+      "team": "Brother Martin",
+      "state": "LA",
+      "division": "SD-1",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 18.7,
+      "avg_points_allowed": 17.7,
+      "season_net_margin": 1.0,
+      "last_3_game_margin": 0.3,
+      "momentum_trend": -0.7,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Brother Martin averages 18.7 PPG while holding LHSAA District 9-5A opponents to 17.7 PPG (+1.0 net margin).",
+        "Postseason Readiness: 5-5 against a 68.6 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "byrd": {
+      "team": "Byrd",
+      "state": "LA",
+      "division": "SD-1",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 18.9,
+      "avg_points_allowed": 22.1,
+      "season_net_margin": -3.2,
+      "last_3_game_margin": -6.7,
+      "momentum_trend": -3.5,
+      "close_game_record": "3-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Byrd averages 18.9 PPG while holding LHSAA District 1-5A opponents to 22.1 PPG (-3.2 net margin).",
+        "Postseason Readiness: 4-6 against a 69.2 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+      ]
+    },
+    "jesuit": {
+      "team": "Jesuit",
+      "state": "LA",
+      "division": "SD-1",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.0,
+      "avg_points_allowed": 20.8,
+      "season_net_margin": -1.8,
+      "last_3_game_margin": -10.7,
+      "momentum_trend": -8.9,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Jesuit averages 19.0 PPG while holding LHSAA District 9-5A opponents to 20.8 PPG (-1.8 net margin).",
+        "Postseason Readiness: 5-5 against a 69.1 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "st. paul's": {
+      "team": "St. Paul's",
+      "state": "LA",
+      "division": "SD-1",
+      "region": 4,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 15.3,
+      "avg_points_allowed": 30.8,
+      "season_net_margin": -15.5,
+      "last_3_game_margin": -14.3,
+      "momentum_trend": 1.2,
+      "close_game_record": "0-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: St. Paul's averages 15.3 PPG while holding LHSAA District 6-5A opponents to 30.8 PPG (-15.5 net margin).",
+        "Postseason Readiness: 1-9 against a 67.8 SOS Index with 0 running-clock separations and a 0-3 record in one-score games."
+      ]
+    },
+    "archbishop shaw": {
+      "team": "Archbishop Shaw",
+      "state": "LA",
+      "division": "SD-2",
+      "region": 1,
+      "record": "10-0",
+      "games_played": 10,
+      "avg_points_scored": 31.8,
+      "avg_points_allowed": 13.1,
+      "season_net_margin": 18.7,
+      "last_3_game_margin": 22.3,
+      "momentum_trend": 3.6,
+      "close_game_record": "3-0",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Archbishop Shaw averages 31.8 PPG while holding LHSAA District 10-4A opponents to 13.1 PPG (+18.7 net margin).",
+        "Postseason Readiness: 10-0 against a 70.7 SOS Index with 2 running-clock separations and a 3-0 record in one-score games."
+      ]
+    },
+    "e.d. white": {
+      "team": "E.D. White",
+      "state": "LA",
+      "division": "SD-2",
+      "region": 2,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 29.3,
+      "avg_points_allowed": 18.3,
+      "season_net_margin": 11.0,
+      "last_3_game_margin": 5.0,
+      "momentum_trend": -6.0,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: E.D. White averages 29.3 PPG while holding LHSAA District 8-3A opponents to 18.3 PPG (+11.0 net margin).",
+        "Postseason Readiness: 7-3 against a 70.7 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "teurlings catholic": {
+      "team": "Teurlings Catholic",
+      "state": "LA",
+      "division": "SD-2",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.1,
+      "avg_points_allowed": 18.2,
+      "season_net_margin": -1.1,
+      "last_3_game_margin": -6.7,
+      "momentum_trend": -5.6,
+      "close_game_record": "4-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Teurlings Catholic averages 17.1 PPG while holding LHSAA District 4-4A opponents to 18.2 PPG (-1.1 net margin).",
+        "Postseason Readiness: 5-5 against a 70.3 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+      ]
+    },
+    "st. thomas more": {
+      "team": "St. Thomas More",
+      "state": "LA",
+      "division": "SD-2",
+      "region": 4,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 15.5,
+      "avg_points_allowed": 19.8,
+      "season_net_margin": -4.3,
+      "last_3_game_margin": 0.7,
+      "momentum_trend": 5.0,
+      "close_game_record": "3-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: St. Thomas More averages 15.5 PPG while holding LHSAA District 4-4A opponents to 19.8 PPG (-4.3 net margin).",
+        "Postseason Readiness: 3-7 against a 69.4 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+      ]
+    },
+    "madison prep": {
+      "team": "Madison Prep",
+      "state": "LA",
+      "division": "SD-2",
+      "region": 1,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 16.6,
+      "avg_points_allowed": 18.2,
+      "season_net_margin": -1.6,
+      "last_3_game_margin": -3.0,
+      "momentum_trend": -1.4,
+      "close_game_record": "4-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Madison Prep averages 16.6 PPG while holding LHSAA District 6-3A opponents to 18.2 PPG (-1.6 net margin).",
+        "Postseason Readiness: 5-5 against a 69.7 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+      ]
+    },
+    "vandebilt catholic": {
+      "team": "Vandebilt Catholic",
+      "state": "LA",
+      "division": "SD-2",
+      "region": 2,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 18.1,
+      "avg_points_allowed": 16.3,
+      "season_net_margin": 1.8,
+      "last_3_game_margin": 10.7,
+      "momentum_trend": 8.9,
+      "close_game_record": "3-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Vandebilt Catholic averages 18.1 PPG while holding LHSAA District 7-4A opponents to 16.3 PPG (+1.8 net margin).",
+        "Postseason Readiness: 5-5 against a 68.4 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+      ]
+    },
+    "lakeside / loyola prep": {
+      "team": "lakeside / Loyola Prep",
+      "state": "LA",
+      "division": "SD-2",
+      "region": 3,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.0,
+      "avg_points_allowed": 18.7,
+      "season_net_margin": -1.7,
+      "last_3_game_margin": -8.0,
+      "momentum_trend": -6.3,
+      "close_game_record": "5-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: lakeside / Loyola Prep averages 17.0 PPG while holding LHSAA District 1-4A opponents to 18.7 PPG (-1.7 net margin).",
+        "Postseason Readiness: 5-5 against a 69.0 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+      ]
+    },
+    "john f. kennedy": {
+      "team": "John F. Kennedy",
+      "state": "LA",
+      "division": "SD-2",
+      "region": 4,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 18.4,
+      "avg_points_allowed": 21.1,
+      "season_net_margin": -2.7,
+      "last_3_game_margin": 1.3,
+      "momentum_trend": 4.0,
+      "close_game_record": "4-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: John F. Kennedy averages 18.4 PPG while holding LHSAA District 10-3A opponents to 21.1 PPG (-2.7 net margin).",
+        "Postseason Readiness: 4-6 against a 66.3 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+      ]
+    },
+    "de la salle": {
+      "team": "De La Salle",
+      "state": "LA",
+      "division": "SD-2",
+      "region": 1,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 17.8,
+      "avg_points_allowed": 20.7,
+      "season_net_margin": -2.9,
+      "last_3_game_margin": -2.3,
+      "momentum_trend": 0.6,
+      "close_game_record": "5-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: De La Salle averages 17.8 PPG while holding LHSAA District 10-3A opponents to 20.7 PPG (-2.9 net margin).",
+        "Postseason Readiness: 6-4 against a 67.9 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+      ]
+    },
+    "evangel christian": {
+      "team": "Evangel Christian",
+      "state": "LA",
+      "division": "SD-2",
+      "region": 2,
+      "record": "0-10",
+      "games_played": 10,
+      "avg_points_scored": 15.2,
+      "avg_points_allowed": 32.4,
+      "season_net_margin": -17.2,
+      "last_3_game_margin": -20.0,
+      "momentum_trend": -2.8,
+      "close_game_record": "0-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Evangel Christian averages 15.2 PPG while holding LHSAA District 1-4A opponents to 32.4 PPG (-17.2 net margin).",
+        "Postseason Readiness: 0-10 against a 67.7 SOS Index with 0 running-clock separations and a 0-4 record in one-score games."
+      ]
+    },
+    "dunham": {
+      "team": "Dunham",
+      "state": "LA",
+      "division": "SD-3",
+      "region": 1,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 33.8,
+      "avg_points_allowed": 19.5,
+      "season_net_margin": 14.3,
+      "last_3_game_margin": 9.3,
+      "momentum_trend": -5.0,
+      "close_game_record": "0-2",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Dunham averages 33.8 PPG while holding LHSAA District 6-2A opponents to 19.5 PPG (+14.3 net margin).",
+        "Postseason Readiness: 7-3 against a 69.1 SOS Index with 1 running-clock separations and a 0-2 record in one-score games."
+      ]
+    },
+    "calvary baptist": {
+      "team": "Calvary Baptist",
+      "state": "LA",
+      "division": "SD-3",
+      "region": 2,
+      "record": "8-2",
+      "games_played": 10,
+      "avg_points_scored": 28.4,
+      "avg_points_allowed": 16.7,
+      "season_net_margin": 11.7,
+      "last_3_game_margin": 8.7,
+      "momentum_trend": -3.0,
+      "close_game_record": "2-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Calvary Baptist averages 28.4 PPG while holding LHSAA District 1-2A opponents to 16.7 PPG (+11.7 net margin).",
+        "Postseason Readiness: 8-2 against a 69.3 SOS Index with 0 running-clock separations and a 2-1 record in one-score games."
+      ]
+    },
+    "university lab": {
+      "team": "University Lab",
+      "state": "LA",
+      "division": "SD-3",
+      "region": 3,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 23.0,
+      "avg_points_allowed": 21.3,
+      "season_net_margin": 1.7,
+      "last_3_game_margin": -5.3,
+      "momentum_trend": -7.0,
+      "close_game_record": "5-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: University Lab averages 23.0 PPG while holding LHSAA District 6-3A opponents to 21.3 PPG (+1.7 net margin).",
+        "Postseason Readiness: 7-3 against a 67.8 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+      ]
+    },
+    "isidore newman": {
+      "team": "Isidore Newman",
+      "state": "LA",
+      "division": "SD-3",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 20.5,
+      "avg_points_allowed": 20.2,
+      "season_net_margin": 0.3,
+      "last_3_game_margin": 9.7,
+      "momentum_trend": 9.4,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Isidore Newman averages 20.5 PPG while holding LHSAA District 10-2A opponents to 20.2 PPG (+0.3 net margin).",
+        "Postseason Readiness: 5-5 against a 67.4 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "notre dame": {
+      "team": "Notre Dame",
+      "state": "LA",
+      "division": "SD-3",
+      "region": 1,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.3,
+      "avg_points_allowed": 20.8,
+      "season_net_margin": -3.5,
+      "last_3_game_margin": -3.3,
+      "momentum_trend": 0.2,
+      "close_game_record": "3-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Notre Dame averages 17.3 PPG while holding LHSAA District 5-2A opponents to 20.8 PPG (-3.5 net margin).",
+        "Postseason Readiness: 4-6 against a 67.8 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+      ]
+    },
+    "catholic-new iberia": {
+      "team": "Catholic-New Iberia",
+      "state": "LA",
+      "division": "SD-3",
+      "region": 2,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 20.8,
+      "avg_points_allowed": 19.9,
+      "season_net_margin": 0.9,
+      "last_3_game_margin": 1.3,
+      "momentum_trend": 0.4,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Catholic-New Iberia averages 20.8 PPG while holding LHSAA District 7-2A opponents to 19.9 PPG (+0.9 net margin).",
+        "Postseason Readiness: 4-6 against a 68.8 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "parkview baptist": {
+      "team": "Parkview Baptist",
+      "state": "LA",
+      "division": "SD-3",
+      "region": 3,
+      "record": "6-4",
+      "games_played": 10,
+      "avg_points_scored": 18.9,
+      "avg_points_allowed": 21.5,
+      "season_net_margin": -2.6,
+      "last_3_game_margin": -4.0,
+      "momentum_trend": -1.4,
+      "close_game_record": "5-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Parkview Baptist averages 18.9 PPG while holding LHSAA District 6-3A opponents to 21.5 PPG (-2.6 net margin).",
+        "Postseason Readiness: 6-4 against a 67.4 SOS Index with 0 running-clock separations and a 5-1 record in one-score games."
+      ]
+    },
+    "st. charles catholic": {
+      "team": "St. Charles Catholic",
+      "state": "LA",
+      "division": "SD-3",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 19.5,
+      "avg_points_allowed": 20.8,
+      "season_net_margin": -1.3,
+      "last_3_game_margin": 1.0,
+      "momentum_trend": 2.3,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: St. Charles Catholic averages 19.5 PPG while holding LHSAA District 10-2A opponents to 20.8 PPG (-1.3 net margin).",
+        "Postseason Readiness: 5-5 against a 66.2 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "bunkie": {
+      "team": "Bunkie",
+      "state": "LA",
+      "division": "SD-3",
+      "region": 1,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 18.1,
+      "avg_points_allowed": 23.5,
+      "season_net_margin": -5.4,
+      "last_3_game_margin": -0.7,
+      "momentum_trend": 4.7,
+      "close_game_record": "2-3",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Bunkie averages 18.1 PPG while holding LHSAA District 3-3A opponents to 23.5 PPG (-5.4 net margin).",
+        "Postseason Readiness: 3-7 against a 66.4 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+      ]
+    },
+    "episcopal": {
+      "team": "Episcopal",
+      "state": "LA",
+      "division": "SD-3",
+      "region": 2,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 15.0,
+      "avg_points_allowed": 31.1,
+      "season_net_margin": -16.1,
+      "last_3_game_margin": -16.7,
+      "momentum_trend": -0.6,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Episcopal averages 15.0 PPG while holding LHSAA District 6-2A opponents to 31.1 PPG (-16.1 net margin).",
+        "Postseason Readiness: 1-9 against a 65.3 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+      ]
+    },
+    "vermilion catholic": {
+      "team": "Vermilion Catholic",
+      "state": "LA",
+      "division": "SD-4",
+      "region": 1,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 31.0,
+      "avg_points_allowed": 15.4,
+      "season_net_margin": 15.6,
+      "last_3_game_margin": 2.3,
+      "momentum_trend": -13.3,
+      "close_game_record": "4-1",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Vermilion Catholic averages 31.0 PPG while holding LHSAA District 7-1A opponents to 15.4 PPG (+15.6 net margin).",
+        "Postseason Readiness: 9-1 against a 67.5 SOS Index with 2 running-clock separations and a 4-1 record in one-score games."
+      ]
+    },
+    "ouachita christian": {
+      "team": "Ouachita Christian",
+      "state": "LA",
+      "division": "SD-4",
+      "region": 2,
+      "record": "9-1",
+      "games_played": 10,
+      "avg_points_scored": 31.6,
+      "avg_points_allowed": 15.0,
+      "season_net_margin": 16.6,
+      "last_3_game_margin": 16.0,
+      "momentum_trend": -0.6,
+      "close_game_record": "3-1",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Ouachita Christian averages 31.6 PPG while holding LHSAA District 2-1A opponents to 15.0 PPG (+16.6 net margin).",
+        "Postseason Readiness: 9-1 against a 67.8 SOS Index with 1 running-clock separations and a 3-1 record in one-score games."
+      ]
+    },
+    "riverside academy": {
+      "team": "Riverside Academy",
+      "state": "LA",
+      "division": "SD-4",
+      "region": 3,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 17.8,
+      "avg_points_allowed": 19.2,
+      "season_net_margin": -1.4,
+      "last_3_game_margin": -0.7,
+      "momentum_trend": 0.7,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Riverside Academy averages 17.8 PPG while holding LHSAA District 10-1A opponents to 19.2 PPG (-1.4 net margin).",
+        "Postseason Readiness: 4-6 against a 68.1 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "southern lab": {
+      "team": "Southern Lab",
+      "state": "LA",
+      "division": "SD-4",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 18.7,
+      "avg_points_allowed": 19.0,
+      "season_net_margin": -0.3,
+      "last_3_game_margin": -0.3,
+      "momentum_trend": 0.0,
+      "close_game_record": "3-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Southern Lab averages 18.7 PPG while holding LHSAA District 6-1A opponents to 19.0 PPG (-0.3 net margin).",
+        "Postseason Readiness: 5-5 against a 68.1 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+      ]
+    },
+    "ascension catholic": {
+      "team": "Ascension Catholic",
+      "state": "LA",
+      "division": "SD-4",
+      "region": 1,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 16.6,
+      "avg_points_allowed": 19.6,
+      "season_net_margin": -3.0,
+      "last_3_game_margin": -5.0,
+      "momentum_trend": -2.0,
+      "close_game_record": "1-5",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Ascension Catholic averages 16.6 PPG while holding LHSAA District 8-1A opponents to 19.6 PPG (-3.0 net margin).",
+        "Postseason Readiness: 3-7 against a 65.3 SOS Index with 0 running-clock separations and a 1-5 record in one-score games."
+      ]
+    },
+    "st. martin's episcopal": {
+      "team": "St. Martin's Episcopal",
+      "state": "LA",
+      "division": "SD-4",
+      "region": 2,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 21.3,
+      "avg_points_allowed": 21.5,
+      "season_net_margin": -0.2,
+      "last_3_game_margin": 3.3,
+      "momentum_trend": 3.5,
+      "close_game_record": "5-1",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: St. Martin's Episcopal averages 21.3 PPG while holding LHSAA District 10-1A opponents to 21.5 PPG (-0.2 net margin).",
+        "Postseason Readiness: 7-3 against a 65.7 SOS Index with 0 running-clock separations and a 5-1 record in one-score games."
+      ]
+    },
+    "central private": {
+      "team": "Central Private",
+      "state": "LA",
+      "division": "SD-4",
+      "region": 3,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 20.3,
+      "avg_points_allowed": 23.5,
+      "season_net_margin": -3.2,
+      "last_3_game_margin": 3.3,
+      "momentum_trend": 6.5,
+      "close_game_record": "1-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Central Private averages 20.3 PPG while holding LHSAA District 6-1A opponents to 23.5 PPG (-3.2 net margin).",
+        "Postseason Readiness: 3-7 against a 65.5 SOS Index with 0 running-clock separations and a 1-4 record in one-score games."
+      ]
+    },
+    "catholic-pointe coupee": {
+      "team": "Catholic-Pointe Coupee",
+      "state": "LA",
+      "division": "SD-4",
+      "region": 4,
+      "record": "5-5",
+      "games_played": 10,
+      "avg_points_scored": 17.9,
+      "avg_points_allowed": 22.3,
+      "season_net_margin": -4.4,
+      "last_3_game_margin": -3.3,
+      "momentum_trend": 1.1,
+      "close_game_record": "4-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Catholic-Pointe Coupee averages 17.9 PPG while holding LHSAA District 5-1A opponents to 22.3 PPG (-4.4 net margin).",
+        "Postseason Readiness: 5-5 against a 65.6 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+      ]
+    },
+    "opelousas catholic": {
+      "team": "Opelousas Catholic",
+      "state": "LA",
+      "division": "SD-4",
+      "region": 1,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 19.9,
+      "avg_points_allowed": 24.1,
+      "season_net_margin": -4.2,
+      "last_3_game_margin": 4.7,
+      "momentum_trend": 8.9,
+      "close_game_record": "2-4",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: Opelousas Catholic averages 19.9 PPG while holding LHSAA District 5-1A opponents to 24.1 PPG (-4.2 net margin).",
+        "Postseason Readiness: 3-7 against a 64.9 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+      ]
+    },
+    "st. mary's": {
+      "team": "St. Mary's",
+      "state": "LA",
+      "division": "SD-4",
+      "region": 2,
+      "record": "2-8",
+      "games_played": 10,
+      "avg_points_scored": 19.0,
+      "avg_points_allowed": 34.5,
+      "season_net_margin": -15.5,
+      "last_3_game_margin": -20.3,
+      "momentum_trend": -4.8,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Scoring Efficiency Profile: St. Mary's averages 19.0 PPG while holding LHSAA District 3-1A opponents to 34.5 PPG (-15.5 net margin).",
+        "Postseason Readiness: 2-8 against a 65.5 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+      ]
+    }
+  },
+  "ruston": {
+    "team": "Ruston",
+    "state": "LA",
+    "division": "NS-D1",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 28.9,
+    "avg_points_allowed": 12.1,
+    "season_net_margin": 16.8,
+    "last_3_game_margin": 22.0,
+    "momentum_trend": 5.2,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Ruston averages 28.9 PPG while holding LHSAA District 2-5A opponents to 12.1 PPG (+16.8 net margin).",
+      "Postseason Readiness: 10-0 against a 74.6 SOS Index with 0 running-clock separations and a 2-0 record in one-score games."
+    ]
+  },
+  "neville": {
+    "team": "Neville",
+    "state": "LA",
+    "division": "NS-D1",
+    "region": 2,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 33.3,
+    "avg_points_allowed": 17.4,
+    "season_net_margin": 15.9,
+    "last_3_game_margin": 5.3,
+    "momentum_trend": -10.6,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Neville averages 33.3 PPG while holding LHSAA District 2-5A opponents to 17.4 PPG (+15.9 net margin).",
+      "Postseason Readiness: 8-2 against a 74.1 SOS Index with 2 running-clock separations and a 1-2 record in one-score games."
+    ]
+  },
+  "airline": {
+    "team": "Airline",
+    "state": "LA",
+    "division": "NS-D1",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.5,
+    "avg_points_allowed": 21.0,
+    "season_net_margin": -1.5,
+    "last_3_game_margin": -3.0,
+    "momentum_trend": -1.5,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Airline averages 19.5 PPG while holding LHSAA District 1-5A opponents to 21.0 PPG (-1.5 net margin).",
+      "Postseason Readiness: 5-5 against a 73.5 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "destrehan": {
+    "team": "Destrehan",
+    "state": "LA",
+    "division": "NS-D1",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 22.5,
+    "avg_points_allowed": 24.2,
+    "season_net_margin": -1.7,
+    "last_3_game_margin": 6.7,
+    "momentum_trend": 8.4,
+    "close_game_record": "0-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Destrehan averages 22.5 PPG while holding LHSAA District 7-5A opponents to 24.2 PPG (-1.7 net margin).",
+      "Postseason Readiness: 3-7 against a 74.5 SOS Index with 0 running-clock separations and a 0-4 record in one-score games."
+    ]
+  },
+  "zachary": {
+    "team": "Zachary",
+    "state": "LA",
+    "division": "NS-D1",
+    "region": 1,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 23.9,
+    "avg_points_allowed": 21.7,
+    "season_net_margin": 2.2,
+    "last_3_game_margin": -0.3,
+    "momentum_trend": -2.5,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Zachary averages 23.9 PPG while holding LHSAA District 4-5A opponents to 21.7 PPG (+2.2 net margin).",
+      "Postseason Readiness: 7-3 against a 73.5 SOS Index with 0 running-clock separations and a 3-0 record in one-score games."
+    ]
+  },
+  "central-baton rouge": {
+    "team": "Central-Baton Rouge",
+    "state": "LA",
+    "division": "NS-D1",
+    "region": 2,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 17.4,
+    "avg_points_allowed": 19.0,
+    "season_net_margin": -1.6,
+    "last_3_game_margin": 2.7,
+    "momentum_trend": 4.3,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Central-Baton Rouge averages 17.4 PPG while holding LHSAA District 4-5A opponents to 19.0 PPG (-1.6 net margin).",
+      "Postseason Readiness: 3-7 against a 74.9 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "parkway": {
+    "team": "Parkway",
+    "state": "LA",
+    "division": "NS-D1",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 18.8,
+    "avg_points_allowed": 19.7,
+    "season_net_margin": -0.9,
+    "last_3_game_margin": -1.3,
+    "momentum_trend": -0.4,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Parkway averages 18.8 PPG while holding LHSAA District 1-5A opponents to 19.7 PPG (-0.9 net margin).",
+      "Postseason Readiness: 6-4 against a 72.6 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "southside": {
+    "team": "Southside",
+    "state": "LA",
+    "division": "NS-D1",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 18.4,
+    "avg_points_allowed": 21.2,
+    "season_net_margin": -2.8,
+    "last_3_game_margin": -1.3,
+    "momentum_trend": 1.5,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Southside averages 18.4 PPG while holding LHSAA District 3-5A opponents to 21.2 PPG (-2.8 net margin).",
+      "Postseason Readiness: 4-6 against a 72.3 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "mandeville": {
+    "team": "Mandeville",
+    "state": "LA",
+    "division": "NS-D1",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.5,
+    "avg_points_allowed": 20.4,
+    "season_net_margin": -2.9,
+    "last_3_game_margin": -1.0,
+    "momentum_trend": 1.9,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Mandeville averages 17.5 PPG while holding LHSAA District 6-5A opponents to 20.4 PPG (-2.9 net margin).",
+      "Postseason Readiness: 5-5 against a 71.3 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "barbe": {
+    "team": "barbe",
+    "state": "LA",
+    "division": "NS-D1",
+    "region": 2,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 17.3,
+    "avg_points_allowed": 21.4,
+    "season_net_margin": -4.1,
+    "last_3_game_margin": -5.7,
+    "momentum_trend": -1.6,
+    "close_game_record": "1-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: barbe averages 17.3 PPG while holding LHSAA District 3-5A opponents to 21.4 PPG (-4.1 net margin).",
+      "Postseason Readiness: 3-7 against a 72.5 SOS Index with 0 running-clock separations and a 1-4 record in one-score games."
+    ]
+  },
+  "west monroe": {
+    "team": "West Monroe",
+    "state": "LA",
+    "division": "NS-D1",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 19.8,
+    "avg_points_allowed": 20.0,
+    "season_net_margin": -0.2,
+    "last_3_game_margin": -7.7,
+    "momentum_trend": -7.5,
+    "close_game_record": "4-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: West Monroe averages 19.8 PPG while holding LHSAA District 2-5A opponents to 20.0 PPG (-0.2 net margin).",
+      "Postseason Readiness: 6-4 against a 70.9 SOS Index with 0 running-clock separations and a 4-1 record in one-score games."
+    ]
+  },
+  "covington": {
+    "team": "Covington",
+    "state": "LA",
+    "division": "NS-D1",
+    "region": 4,
+    "record": "0-10",
+    "games_played": 10,
+    "avg_points_scored": 14.9,
+    "avg_points_allowed": 34.1,
+    "season_net_margin": -19.2,
+    "last_3_game_margin": -16.3,
+    "momentum_trend": 2.9,
+    "close_game_record": "0-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Covington averages 14.9 PPG while holding LHSAA District 6-5A opponents to 34.1 PPG (-19.2 net margin).",
+      "Postseason Readiness: 0-10 against a 71.5 SOS Index with 0 running-clock separations and a 0-3 record in one-score games."
+    ]
+  },
+  "north desoto": {
+    "team": "North DeSoto",
+    "state": "LA",
+    "division": "NS-D2",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 37.0,
+    "avg_points_allowed": 15.5,
+    "season_net_margin": 21.5,
+    "last_3_game_margin": 19.0,
+    "momentum_trend": -2.5,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: North DeSoto averages 37.0 PPG while holding LHSAA District 1-4A opponents to 15.5 PPG (+21.5 net margin).",
+      "Postseason Readiness: 10-0 against a 73.1 SOS Index with 1 running-clock separations and a 2-0 record in one-score games."
+    ]
+  },
+  "cecilia": {
+    "team": "Cecilia",
+    "state": "LA",
+    "division": "NS-D2",
+    "region": 2,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 35.2,
+    "avg_points_allowed": 17.8,
+    "season_net_margin": 17.4,
+    "last_3_game_margin": 7.0,
+    "momentum_trend": -10.4,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Cecilia averages 35.2 PPG while holding LHSAA District 5-4A opponents to 17.8 PPG (+17.4 net margin).",
+      "Postseason Readiness: 8-2 against a 73.5 SOS Index with 0 running-clock separations and a 0-2 record in one-score games."
+    ]
+  },
+  "franklinton": {
+    "team": "Franklinton",
+    "state": "LA",
+    "division": "NS-D2",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 16.2,
+    "avg_points_allowed": 21.6,
+    "season_net_margin": -5.4,
+    "last_3_game_margin": -4.3,
+    "momentum_trend": 1.1,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Franklinton averages 16.2 PPG while holding LHSAA District 8-4A opponents to 21.6 PPG (-5.4 net margin).",
+      "Postseason Readiness: 4-6 against a 73.8 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "lutcher": {
+    "team": "Lutcher",
+    "state": "LA",
+    "division": "NS-D2",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 16.6,
+    "avg_points_allowed": 18.5,
+    "season_net_margin": -1.9,
+    "last_3_game_margin": 5.7,
+    "momentum_trend": 7.6,
+    "close_game_record": "3-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lutcher averages 16.6 PPG while holding LHSAA District 7-4A opponents to 18.5 PPG (-1.9 net margin).",
+      "Postseason Readiness: 4-6 against a 72.4 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+    ]
+  },
+  "plaquemine": {
+    "team": "Plaquemine",
+    "state": "LA",
+    "division": "NS-D2",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.7,
+    "avg_points_allowed": 21.4,
+    "season_net_margin": -1.7,
+    "last_3_game_margin": 2.0,
+    "momentum_trend": 3.7,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Plaquemine averages 19.7 PPG while holding LHSAA District 6-4A opponents to 21.4 PPG (-1.7 net margin).",
+      "Postseason Readiness: 5-5 against a 73.3 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "iowa": {
+    "team": "Iowa",
+    "state": "LA",
+    "division": "NS-D2",
+    "region": 2,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 19.7,
+    "avg_points_allowed": 21.4,
+    "season_net_margin": -1.7,
+    "last_3_game_margin": 1.0,
+    "momentum_trend": 2.7,
+    "close_game_record": "5-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Iowa averages 19.7 PPG while holding LHSAA District 3-4A opponents to 21.4 PPG (-1.7 net margin).",
+      "Postseason Readiness: 6-4 against a 73.5 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+    ]
+  },
+  "lakeshore": {
+    "team": "Lakeshore",
+    "state": "LA",
+    "division": "NS-D2",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 19.3,
+    "avg_points_allowed": 22.0,
+    "season_net_margin": -2.7,
+    "last_3_game_margin": 0.3,
+    "momentum_trend": 3.0,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lakeshore averages 19.3 PPG while holding LHSAA District 8-4A opponents to 22.0 PPG (-2.7 net margin).",
+      "Postseason Readiness: 4-6 against a 71.6 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "westgate": {
+    "team": "Westgate",
+    "state": "LA",
+    "division": "NS-D2",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 15.8,
+    "avg_points_allowed": 21.2,
+    "season_net_margin": -5.4,
+    "last_3_game_margin": -6.3,
+    "momentum_trend": -0.9,
+    "close_game_record": "3-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Westgate averages 15.8 PPG while holding LHSAA District 4-4A opponents to 21.2 PPG (-5.4 net margin).",
+      "Postseason Readiness: 3-7 against a 73.1 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+    ]
+  },
+  "franklin parish": {
+    "team": "Franklin Parish",
+    "state": "LA",
+    "division": "NS-D2",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 21.4,
+    "avg_points_allowed": 21.2,
+    "season_net_margin": 0.2,
+    "last_3_game_margin": 2.7,
+    "momentum_trend": 2.5,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Franklin Parish averages 21.4 PPG while holding LHSAA District 2-4A opponents to 21.2 PPG (+0.2 net margin).",
+      "Postseason Readiness: 5-5 against a 70.8 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "belle chasse": {
+    "team": "Belle Chasse",
+    "state": "LA",
+    "division": "NS-D2",
+    "region": 2,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 16.9,
+    "avg_points_allowed": 37.2,
+    "season_net_margin": -20.3,
+    "last_3_game_margin": -27.0,
+    "momentum_trend": -6.7,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Belle Chasse averages 16.9 PPG while holding LHSAA District 10-4A opponents to 37.2 PPG (-20.3 net margin).",
+      "Postseason Readiness: 1-9 against a 72.7 SOS Index with 0 running-clock separations and a 1-1 record in one-score games."
+    ]
+  },
+  "st. james": {
+    "team": "St. James",
+    "state": "LA",
+    "division": "NS-D3",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 33.8,
+    "avg_points_allowed": 15.7,
+    "season_net_margin": 18.1,
+    "last_3_game_margin": 26.7,
+    "momentum_trend": 8.6,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: St. James averages 33.8 PPG while holding LHSAA District 8-3A opponents to 15.7 PPG (+18.1 net margin).",
+      "Postseason Readiness: 10-0 against a 73.9 SOS Index with 1 running-clock separations and a 1-0 record in one-score games."
+    ]
+  },
+  "sterlington": {
+    "team": "Sterlington",
+    "state": "LA",
+    "division": "NS-D3",
+    "region": 2,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 34.5,
+    "avg_points_allowed": 17.9,
+    "season_net_margin": 16.6,
+    "last_3_game_margin": 8.0,
+    "momentum_trend": -8.6,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Sterlington averages 34.5 PPG while holding LHSAA District 1-3A opponents to 17.9 PPG (+16.6 net margin).",
+      "Postseason Readiness: 9-1 against a 73.5 SOS Index with 1 running-clock separations and a 3-0 record in one-score games."
+    ]
+  },
+  "jena": {
+    "team": "Jena",
+    "state": "LA",
+    "division": "NS-D3",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 16.5,
+    "avg_points_allowed": 20.7,
+    "season_net_margin": -4.2,
+    "last_3_game_margin": -9.7,
+    "momentum_trend": -5.5,
+    "close_game_record": "3-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Jena averages 16.5 PPG while holding LHSAA District 3-3A opponents to 20.7 PPG (-4.2 net margin).",
+      "Postseason Readiness: 4-6 against a 71.3 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+    ]
+  },
+  "union parish": {
+    "team": "Union Parish",
+    "state": "LA",
+    "division": "NS-D3",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.5,
+    "avg_points_allowed": 18.4,
+    "season_net_margin": 1.1,
+    "last_3_game_margin": 4.3,
+    "momentum_trend": 3.2,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Union Parish averages 19.5 PPG while holding LHSAA District 1-3A opponents to 18.4 PPG (+1.1 net margin).",
+      "Postseason Readiness: 5-5 against a 73.2 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "oak grove": {
+    "team": "Oak Grove",
+    "state": "LA",
+    "division": "NS-D3",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 18.6,
+    "avg_points_allowed": 24.3,
+    "season_net_margin": -5.7,
+    "last_3_game_margin": 0.7,
+    "momentum_trend": 6.4,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Oak Grove averages 18.6 PPG while holding LHSAA District 2-2A opponents to 24.3 PPG (-5.7 net margin).",
+      "Postseason Readiness: 3-7 against a 72.7 SOS Index with 0 running-clock separations and a 2-2 record in one-score games."
+    ]
+  },
+  "amite": {
+    "team": "Amite",
+    "state": "LA",
+    "division": "NS-D3",
+    "region": 2,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 24.0,
+    "avg_points_allowed": 22.7,
+    "season_net_margin": 1.3,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": -5.3,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Amite averages 24.0 PPG while holding LHSAA District 7-3A opponents to 22.7 PPG (+1.3 net margin).",
+      "Postseason Readiness: 5-5 against a 71.6 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "pine": {
+    "team": "Pine",
+    "state": "LA",
+    "division": "NS-D3",
+    "region": 3,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 16.5,
+    "avg_points_allowed": 23.5,
+    "season_net_margin": -7.0,
+    "last_3_game_margin": -7.7,
+    "momentum_trend": -0.7,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Pine averages 16.5 PPG while holding LHSAA District 7-3A opponents to 23.5 PPG (-7.0 net margin).",
+      "Postseason Readiness: 2-8 against a 71.0 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "kinder": {
+    "team": "Kinder",
+    "state": "LA",
+    "division": "NS-D3",
+    "region": 4,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 21.5,
+    "avg_points_allowed": 16.0,
+    "season_net_margin": 5.5,
+    "last_3_game_margin": 10.7,
+    "momentum_trend": 5.2,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Kinder averages 21.5 PPG while holding LHSAA District 3-2A opponents to 16.0 PPG (+5.5 net margin).",
+      "Postseason Readiness: 7-3 against a 71.8 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "erath": {
+    "team": "Erath",
+    "state": "LA",
+    "division": "NS-D3",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 18.6,
+    "avg_points_allowed": 22.0,
+    "season_net_margin": -3.4,
+    "last_3_game_margin": -5.7,
+    "momentum_trend": -2.3,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Erath averages 18.6 PPG while holding LHSAA District 5-3A opponents to 22.0 PPG (-3.4 net margin).",
+      "Postseason Readiness: 4-6 against a 70.7 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "st. martinville": {
+    "team": "St. Martinville",
+    "state": "LA",
+    "division": "NS-D3",
+    "region": 2,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 16.5,
+    "avg_points_allowed": 38.8,
+    "season_net_margin": -22.3,
+    "last_3_game_margin": -23.3,
+    "momentum_trend": -1.0,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: St. Martinville averages 16.5 PPG while holding LHSAA District 5-3A opponents to 38.8 PPG (-22.3 net margin).",
+      "Postseason Readiness: 1-9 against a 69.6 SOS Index with 0 running-clock separations and a 1-1 record in one-score games."
+    ]
+  },
+  "haynesville": {
+    "team": "Haynesville",
+    "state": "LA",
+    "division": "NS-D4",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 32.2,
+    "avg_points_allowed": 13.2,
+    "season_net_margin": 19.0,
+    "last_3_game_margin": 14.7,
+    "momentum_trend": -4.3,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Haynesville averages 32.2 PPG while holding LHSAA District 1-1A opponents to 13.2 PPG (+19.0 net margin).",
+      "Postseason Readiness: 9-1 against a 72.1 SOS Index with 2 running-clock separations and a 2-1 record in one-score games."
+    ]
+  },
+  "south plaquemines": {
+    "team": "South Plaquemines",
+    "state": "LA",
+    "division": "NS-D4",
+    "region": 2,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 31.9,
+    "avg_points_allowed": 18.6,
+    "season_net_margin": 13.3,
+    "last_3_game_margin": 2.7,
+    "momentum_trend": -10.6,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: South Plaquemines averages 31.9 PPG while holding LHSAA District 9-2A opponents to 18.6 PPG (+13.3 net margin).",
+      "Postseason Readiness: 7-3 against a 72.9 SOS Index with 2 running-clock separations and a 2-1 record in one-score games."
+    ]
+  },
+  "logansport": {
+    "team": "Logansport",
+    "state": "LA",
+    "division": "NS-D4",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 23.5,
+    "avg_points_allowed": 19.6,
+    "season_net_margin": 3.9,
+    "last_3_game_margin": 5.0,
+    "momentum_trend": 1.1,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Logansport averages 23.5 PPG while holding LHSAA District 3-1A opponents to 19.6 PPG (+3.9 net margin).",
+      "Postseason Readiness: 6-4 against a 70.6 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "mangham": {
+    "team": "Mangham",
+    "state": "LA",
+    "division": "NS-D4",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 20.6,
+    "avg_points_allowed": 25.6,
+    "season_net_margin": -5.0,
+    "last_3_game_margin": -0.3,
+    "momentum_trend": 4.7,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Mangham averages 20.6 PPG while holding LHSAA District 2-2A opponents to 25.6 PPG (-5.0 net margin).",
+      "Postseason Readiness: 4-6 against a 71.5 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "welsh": {
+    "team": "Welsh",
+    "state": "LA",
+    "division": "NS-D4",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.2,
+    "avg_points_allowed": 19.4,
+    "season_net_margin": -0.2,
+    "last_3_game_margin": -1.3,
+    "momentum_trend": -1.1,
+    "close_game_record": "4-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Welsh averages 19.2 PPG while holding LHSAA District 5-2A opponents to 19.4 PPG (-0.2 net margin).",
+      "Postseason Readiness: 5-5 against a 72.2 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+    ]
+  },
+  "kentwood": {
+    "team": "Kentwood",
+    "state": "LA",
+    "division": "NS-D4",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 14.1,
+    "avg_points_allowed": 17.4,
+    "season_net_margin": -3.3,
+    "last_3_game_margin": 6.0,
+    "momentum_trend": 9.3,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Kentwood averages 14.1 PPG while holding LHSAA District 9-1A opponents to 17.4 PPG (-3.3 net margin).",
+      "Postseason Readiness: 4-6 against a 69.8 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "ferriday": {
+    "team": "Ferriday",
+    "state": "LA",
+    "division": "NS-D4",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 18.3,
+    "avg_points_allowed": 15.7,
+    "season_net_margin": 2.6,
+    "last_3_game_margin": 3.3,
+    "momentum_trend": 0.7,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Ferriday averages 18.3 PPG while holding LHSAA District 2-2A opponents to 15.7 PPG (+2.6 net margin).",
+      "Postseason Readiness: 6-4 against a 71.4 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "jeanerette": {
+    "team": "Jeanerette",
+    "state": "LA",
+    "division": "NS-D4",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 18.6,
+    "avg_points_allowed": 21.1,
+    "season_net_margin": -2.5,
+    "last_3_game_margin": -0.7,
+    "momentum_trend": 1.8,
+    "close_game_record": "3-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Jeanerette averages 18.6 PPG while holding LHSAA District 7-2A opponents to 21.1 PPG (-2.5 net margin).",
+      "Postseason Readiness: 5-5 against a 70.5 SOS Index with 0 running-clock separations and a 3-3 record in one-score games."
+    ]
+  },
+  "lakeview": {
+    "team": "Lakeview",
+    "state": "LA",
+    "division": "NS-D4",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 15.9,
+    "avg_points_allowed": 21.3,
+    "season_net_margin": -5.4,
+    "last_3_game_margin": -3.7,
+    "momentum_trend": 1.7,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Lakeview averages 15.9 PPG while holding LHSAA District 3-2A opponents to 21.3 PPG (-5.4 net margin).",
+      "Postseason Readiness: 4-6 against a 70.0 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "general trass": {
+    "team": "General Trass",
+    "state": "LA",
+    "division": "NS-D4",
+    "region": 2,
+    "record": "0-10",
+    "games_played": 10,
+    "avg_points_scored": 13.1,
+    "avg_points_allowed": 35.5,
+    "season_net_margin": -22.4,
+    "last_3_game_margin": -25.7,
+    "momentum_trend": -3.3,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: General Trass averages 13.1 PPG while holding LHSAA District 2-1A opponents to 35.5 PPG (-22.4 net margin).",
+      "Postseason Readiness: 0-10 against a 69.3 SOS Index with 0 running-clock separations and a 0-2 record in one-score games."
+    ]
+  },
+  "edna karr": {
+    "team": "Edna Karr",
+    "state": "LA",
+    "division": "SD-1",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 30.2,
+    "avg_points_allowed": 16.4,
+    "season_net_margin": 13.8,
+    "last_3_game_margin": 18.3,
+    "momentum_trend": 4.5,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Edna Karr averages 30.2 PPG while holding LHSAA District 9-5A opponents to 16.4 PPG (+13.8 net margin).",
+      "Postseason Readiness: 9-1 against a 70.3 SOS Index with 0 running-clock separations and a 1-1 record in one-score games."
+    ]
+  },
+  "catholic-baton rouge": {
+    "team": "Catholic-Baton Rouge",
+    "state": "LA",
+    "division": "SD-1",
+    "region": 2,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 28.9,
+    "avg_points_allowed": 14.2,
+    "season_net_margin": 14.7,
+    "last_3_game_margin": 13.3,
+    "momentum_trend": -1.4,
+    "close_game_record": "3-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Catholic-Baton Rouge averages 28.9 PPG while holding LHSAA District 4-5A opponents to 14.2 PPG (+14.7 net margin).",
+      "Postseason Readiness: 9-1 against a 70.4 SOS Index with 1 running-clock separations and a 3-1 record in one-score games."
+    ]
+  },
+  "alexandria": {
+    "team": "Alexandria",
+    "state": "LA",
+    "division": "SD-1",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.1,
+    "avg_points_allowed": 17.6,
+    "season_net_margin": -0.5,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": -3.5,
+    "close_game_record": "3-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Alexandria averages 17.1 PPG while holding LHSAA District 2-5A opponents to 17.6 PPG (-0.5 net margin).",
+      "Postseason Readiness: 4-6 against a 70.1 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+    ]
+  },
+  "acadiana": {
+    "team": "Acadiana",
+    "state": "LA",
+    "division": "SD-1",
+    "region": 4,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 20.6,
+    "avg_points_allowed": 20.1,
+    "season_net_margin": 0.5,
+    "last_3_game_margin": 6.3,
+    "momentum_trend": 5.8,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Acadiana averages 20.6 PPG while holding LHSAA District 3-5A opponents to 20.1 PPG (+0.5 net margin).",
+      "Postseason Readiness: 6-4 against a 69.9 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "john curtis": {
+    "team": "John Curtis",
+    "state": "LA",
+    "division": "SD-1",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 16.8,
+    "avg_points_allowed": 18.7,
+    "season_net_margin": -1.9,
+    "last_3_game_margin": -3.0,
+    "momentum_trend": -1.1,
+    "close_game_record": "5-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: John Curtis averages 16.8 PPG while holding LHSAA District 9-5A opponents to 18.7 PPG (-1.9 net margin).",
+      "Postseason Readiness: 5-5 against a 68.7 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+    ]
+  },
+  "archbishop rummel": {
+    "team": "Archbishop Rummel",
+    "state": "LA",
+    "division": "SD-1",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 18.0,
+    "avg_points_allowed": 19.9,
+    "season_net_margin": -1.9,
+    "last_3_game_margin": -0.3,
+    "momentum_trend": 1.6,
+    "close_game_record": "4-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Archbishop Rummel averages 18.0 PPG while holding LHSAA District 9-5A opponents to 19.9 PPG (-1.9 net margin).",
+      "Postseason Readiness: 4-6 against a 69.5 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+    ]
+  },
+  "st. augustine": {
+    "team": "St. Augustine",
+    "state": "LA",
+    "division": "SD-1",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.8,
+    "avg_points_allowed": 19.3,
+    "season_net_margin": -1.5,
+    "last_3_game_margin": 0.3,
+    "momentum_trend": 1.8,
+    "close_game_record": "4-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: St. Augustine averages 17.8 PPG while holding LHSAA District 9-5A opponents to 19.3 PPG (-1.5 net margin).",
+      "Postseason Readiness: 4-6 against a 69.8 SOS Index with 0 running-clock separations and a 4-5 record in one-score games."
+    ]
+  },
+  "carencro": {
+    "team": "Carencro",
+    "state": "LA",
+    "division": "SD-1",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 16.2,
+    "avg_points_allowed": 19.9,
+    "season_net_margin": -3.7,
+    "last_3_game_margin": 0.3,
+    "momentum_trend": 4.0,
+    "close_game_record": "4-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Carencro averages 16.2 PPG while holding LHSAA District 3-5A opponents to 19.9 PPG (-3.7 net margin).",
+      "Postseason Readiness: 4-6 against a 69.9 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+    ]
+  },
+  "brother martin": {
+    "team": "Brother Martin",
+    "state": "LA",
+    "division": "SD-1",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 18.7,
+    "avg_points_allowed": 17.7,
+    "season_net_margin": 1.0,
+    "last_3_game_margin": 0.3,
+    "momentum_trend": -0.7,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Brother Martin averages 18.7 PPG while holding LHSAA District 9-5A opponents to 17.7 PPG (+1.0 net margin).",
+      "Postseason Readiness: 5-5 against a 68.6 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "byrd": {
+    "team": "Byrd",
+    "state": "LA",
+    "division": "SD-1",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 18.9,
+    "avg_points_allowed": 22.1,
+    "season_net_margin": -3.2,
+    "last_3_game_margin": -6.7,
+    "momentum_trend": -3.5,
+    "close_game_record": "3-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Byrd averages 18.9 PPG while holding LHSAA District 1-5A opponents to 22.1 PPG (-3.2 net margin).",
+      "Postseason Readiness: 4-6 against a 69.2 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+    ]
+  },
+  "jesuit": {
+    "team": "Jesuit",
+    "state": "LA",
+    "division": "SD-1",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.0,
+    "avg_points_allowed": 20.8,
+    "season_net_margin": -1.8,
+    "last_3_game_margin": -10.7,
+    "momentum_trend": -8.9,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Jesuit averages 19.0 PPG while holding LHSAA District 9-5A opponents to 20.8 PPG (-1.8 net margin).",
+      "Postseason Readiness: 5-5 against a 69.1 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "st. paul's": {
+    "team": "St. Paul's",
+    "state": "LA",
+    "division": "SD-1",
+    "region": 4,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 15.3,
+    "avg_points_allowed": 30.8,
+    "season_net_margin": -15.5,
+    "last_3_game_margin": -14.3,
+    "momentum_trend": 1.2,
+    "close_game_record": "0-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: St. Paul's averages 15.3 PPG while holding LHSAA District 6-5A opponents to 30.8 PPG (-15.5 net margin).",
+      "Postseason Readiness: 1-9 against a 67.8 SOS Index with 0 running-clock separations and a 0-3 record in one-score games."
+    ]
+  },
+  "archbishop shaw": {
+    "team": "Archbishop Shaw",
+    "state": "LA",
+    "division": "SD-2",
+    "region": 1,
+    "record": "10-0",
+    "games_played": 10,
+    "avg_points_scored": 31.8,
+    "avg_points_allowed": 13.1,
+    "season_net_margin": 18.7,
+    "last_3_game_margin": 22.3,
+    "momentum_trend": 3.6,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Archbishop Shaw averages 31.8 PPG while holding LHSAA District 10-4A opponents to 13.1 PPG (+18.7 net margin).",
+      "Postseason Readiness: 10-0 against a 70.7 SOS Index with 2 running-clock separations and a 3-0 record in one-score games."
+    ]
+  },
+  "e.d. white": {
+    "team": "E.D. White",
+    "state": "LA",
+    "division": "SD-2",
+    "region": 2,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 29.3,
+    "avg_points_allowed": 18.3,
+    "season_net_margin": 11.0,
+    "last_3_game_margin": 5.0,
+    "momentum_trend": -6.0,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: E.D. White averages 29.3 PPG while holding LHSAA District 8-3A opponents to 18.3 PPG (+11.0 net margin).",
+      "Postseason Readiness: 7-3 against a 70.7 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "teurlings catholic": {
+    "team": "Teurlings Catholic",
+    "state": "LA",
+    "division": "SD-2",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.1,
+    "avg_points_allowed": 18.2,
+    "season_net_margin": -1.1,
+    "last_3_game_margin": -6.7,
+    "momentum_trend": -5.6,
+    "close_game_record": "4-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Teurlings Catholic averages 17.1 PPG while holding LHSAA District 4-4A opponents to 18.2 PPG (-1.1 net margin).",
+      "Postseason Readiness: 5-5 against a 70.3 SOS Index with 0 running-clock separations and a 4-3 record in one-score games."
+    ]
+  },
+  "st. thomas more": {
+    "team": "St. Thomas More",
+    "state": "LA",
+    "division": "SD-2",
+    "region": 4,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 15.5,
+    "avg_points_allowed": 19.8,
+    "season_net_margin": -4.3,
+    "last_3_game_margin": 0.7,
+    "momentum_trend": 5.0,
+    "close_game_record": "3-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: St. Thomas More averages 15.5 PPG while holding LHSAA District 4-4A opponents to 19.8 PPG (-4.3 net margin).",
+      "Postseason Readiness: 3-7 against a 69.4 SOS Index with 0 running-clock separations and a 3-4 record in one-score games."
+    ]
+  },
+  "madison prep": {
+    "team": "Madison Prep",
+    "state": "LA",
+    "division": "SD-2",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 16.6,
+    "avg_points_allowed": 18.2,
+    "season_net_margin": -1.6,
+    "last_3_game_margin": -3.0,
+    "momentum_trend": -1.4,
+    "close_game_record": "4-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Madison Prep averages 16.6 PPG while holding LHSAA District 6-3A opponents to 18.2 PPG (-1.6 net margin).",
+      "Postseason Readiness: 5-5 against a 69.7 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+    ]
+  },
+  "vandebilt catholic": {
+    "team": "Vandebilt Catholic",
+    "state": "LA",
+    "division": "SD-2",
+    "region": 2,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 18.1,
+    "avg_points_allowed": 16.3,
+    "season_net_margin": 1.8,
+    "last_3_game_margin": 10.7,
+    "momentum_trend": 8.9,
+    "close_game_record": "3-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Vandebilt Catholic averages 18.1 PPG while holding LHSAA District 7-4A opponents to 16.3 PPG (+1.8 net margin).",
+      "Postseason Readiness: 5-5 against a 68.4 SOS Index with 0 running-clock separations and a 3-5 record in one-score games."
+    ]
+  },
+  "lakeside / loyola prep": {
+    "team": "lakeside / Loyola Prep",
+    "state": "LA",
+    "division": "SD-2",
+    "region": 3,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.0,
+    "avg_points_allowed": 18.7,
+    "season_net_margin": -1.7,
+    "last_3_game_margin": -8.0,
+    "momentum_trend": -6.3,
+    "close_game_record": "5-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: lakeside / Loyola Prep averages 17.0 PPG while holding LHSAA District 1-4A opponents to 18.7 PPG (-1.7 net margin).",
+      "Postseason Readiness: 5-5 against a 69.0 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+    ]
+  },
+  "john f. kennedy": {
+    "team": "John F. Kennedy",
+    "state": "LA",
+    "division": "SD-2",
+    "region": 4,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 18.4,
+    "avg_points_allowed": 21.1,
+    "season_net_margin": -2.7,
+    "last_3_game_margin": 1.3,
+    "momentum_trend": 4.0,
+    "close_game_record": "4-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: John F. Kennedy averages 18.4 PPG while holding LHSAA District 10-3A opponents to 21.1 PPG (-2.7 net margin).",
+      "Postseason Readiness: 4-6 against a 66.3 SOS Index with 0 running-clock separations and a 4-4 record in one-score games."
+    ]
+  },
+  "de la salle": {
+    "team": "De La Salle",
+    "state": "LA",
+    "division": "SD-2",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 17.8,
+    "avg_points_allowed": 20.7,
+    "season_net_margin": -2.9,
+    "last_3_game_margin": -2.3,
+    "momentum_trend": 0.6,
+    "close_game_record": "5-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: De La Salle averages 17.8 PPG while holding LHSAA District 10-3A opponents to 20.7 PPG (-2.9 net margin).",
+      "Postseason Readiness: 6-4 against a 67.9 SOS Index with 0 running-clock separations and a 5-3 record in one-score games."
+    ]
+  },
+  "evangel christian": {
+    "team": "Evangel Christian",
+    "state": "LA",
+    "division": "SD-2",
+    "region": 2,
+    "record": "0-10",
+    "games_played": 10,
+    "avg_points_scored": 15.2,
+    "avg_points_allowed": 32.4,
+    "season_net_margin": -17.2,
+    "last_3_game_margin": -20.0,
+    "momentum_trend": -2.8,
+    "close_game_record": "0-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Evangel Christian averages 15.2 PPG while holding LHSAA District 1-4A opponents to 32.4 PPG (-17.2 net margin).",
+      "Postseason Readiness: 0-10 against a 67.7 SOS Index with 0 running-clock separations and a 0-4 record in one-score games."
+    ]
+  },
+  "dunham": {
+    "team": "Dunham",
+    "state": "LA",
+    "division": "SD-3",
+    "region": 1,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 33.8,
+    "avg_points_allowed": 19.5,
+    "season_net_margin": 14.3,
+    "last_3_game_margin": 9.3,
+    "momentum_trend": -5.0,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Dunham averages 33.8 PPG while holding LHSAA District 6-2A opponents to 19.5 PPG (+14.3 net margin).",
+      "Postseason Readiness: 7-3 against a 69.1 SOS Index with 1 running-clock separations and a 0-2 record in one-score games."
+    ]
+  },
+  "calvary baptist": {
+    "team": "Calvary Baptist",
+    "state": "LA",
+    "division": "SD-3",
+    "region": 2,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 28.4,
+    "avg_points_allowed": 16.7,
+    "season_net_margin": 11.7,
+    "last_3_game_margin": 8.7,
+    "momentum_trend": -3.0,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Calvary Baptist averages 28.4 PPG while holding LHSAA District 1-2A opponents to 16.7 PPG (+11.7 net margin).",
+      "Postseason Readiness: 8-2 against a 69.3 SOS Index with 0 running-clock separations and a 2-1 record in one-score games."
+    ]
+  },
+  "university lab": {
+    "team": "University Lab",
+    "state": "LA",
+    "division": "SD-3",
+    "region": 3,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 23.0,
+    "avg_points_allowed": 21.3,
+    "season_net_margin": 1.7,
+    "last_3_game_margin": -5.3,
+    "momentum_trend": -7.0,
+    "close_game_record": "5-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: University Lab averages 23.0 PPG while holding LHSAA District 6-3A opponents to 21.3 PPG (+1.7 net margin).",
+      "Postseason Readiness: 7-3 against a 67.8 SOS Index with 0 running-clock separations and a 5-2 record in one-score games."
+    ]
+  },
+  "isidore newman": {
+    "team": "Isidore Newman",
+    "state": "LA",
+    "division": "SD-3",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 20.5,
+    "avg_points_allowed": 20.2,
+    "season_net_margin": 0.3,
+    "last_3_game_margin": 9.7,
+    "momentum_trend": 9.4,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Isidore Newman averages 20.5 PPG while holding LHSAA District 10-2A opponents to 20.2 PPG (+0.3 net margin).",
+      "Postseason Readiness: 5-5 against a 67.4 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "notre dame": {
+    "team": "Notre Dame",
+    "state": "LA",
+    "division": "SD-3",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.3,
+    "avg_points_allowed": 20.8,
+    "season_net_margin": -3.5,
+    "last_3_game_margin": -3.3,
+    "momentum_trend": 0.2,
+    "close_game_record": "3-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Notre Dame averages 17.3 PPG while holding LHSAA District 5-2A opponents to 20.8 PPG (-3.5 net margin).",
+      "Postseason Readiness: 4-6 against a 67.8 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+    ]
+  },
+  "catholic-new iberia": {
+    "team": "Catholic-New Iberia",
+    "state": "LA",
+    "division": "SD-3",
+    "region": 2,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 20.8,
+    "avg_points_allowed": 19.9,
+    "season_net_margin": 0.9,
+    "last_3_game_margin": 1.3,
+    "momentum_trend": 0.4,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Catholic-New Iberia averages 20.8 PPG while holding LHSAA District 7-2A opponents to 19.9 PPG (+0.9 net margin).",
+      "Postseason Readiness: 4-6 against a 68.8 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "parkview baptist": {
+    "team": "Parkview Baptist",
+    "state": "LA",
+    "division": "SD-3",
+    "region": 3,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 18.9,
+    "avg_points_allowed": 21.5,
+    "season_net_margin": -2.6,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": -1.4,
+    "close_game_record": "5-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Parkview Baptist averages 18.9 PPG while holding LHSAA District 6-3A opponents to 21.5 PPG (-2.6 net margin).",
+      "Postseason Readiness: 6-4 against a 67.4 SOS Index with 0 running-clock separations and a 5-1 record in one-score games."
+    ]
+  },
+  "st. charles catholic": {
+    "team": "St. Charles Catholic",
+    "state": "LA",
+    "division": "SD-3",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 19.5,
+    "avg_points_allowed": 20.8,
+    "season_net_margin": -1.3,
+    "last_3_game_margin": 1.0,
+    "momentum_trend": 2.3,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: St. Charles Catholic averages 19.5 PPG while holding LHSAA District 10-2A opponents to 20.8 PPG (-1.3 net margin).",
+      "Postseason Readiness: 5-5 against a 66.2 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "bunkie": {
+    "team": "Bunkie",
+    "state": "LA",
+    "division": "SD-3",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 18.1,
+    "avg_points_allowed": 23.5,
+    "season_net_margin": -5.4,
+    "last_3_game_margin": -0.7,
+    "momentum_trend": 4.7,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Bunkie averages 18.1 PPG while holding LHSAA District 3-3A opponents to 23.5 PPG (-5.4 net margin).",
+      "Postseason Readiness: 3-7 against a 66.4 SOS Index with 0 running-clock separations and a 2-3 record in one-score games."
+    ]
+  },
+  "episcopal": {
+    "team": "Episcopal",
+    "state": "LA",
+    "division": "SD-3",
+    "region": 2,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 15.0,
+    "avg_points_allowed": 31.1,
+    "season_net_margin": -16.1,
+    "last_3_game_margin": -16.7,
+    "momentum_trend": -0.6,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Episcopal averages 15.0 PPG while holding LHSAA District 6-2A opponents to 31.1 PPG (-16.1 net margin).",
+      "Postseason Readiness: 1-9 against a 65.3 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+    ]
+  },
+  "vermilion catholic": {
+    "team": "Vermilion Catholic",
+    "state": "LA",
+    "division": "SD-4",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 31.0,
+    "avg_points_allowed": 15.4,
+    "season_net_margin": 15.6,
+    "last_3_game_margin": 2.3,
+    "momentum_trend": -13.3,
+    "close_game_record": "4-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Vermilion Catholic averages 31.0 PPG while holding LHSAA District 7-1A opponents to 15.4 PPG (+15.6 net margin).",
+      "Postseason Readiness: 9-1 against a 67.5 SOS Index with 2 running-clock separations and a 4-1 record in one-score games."
+    ]
+  },
+  "ouachita christian": {
+    "team": "Ouachita Christian",
+    "state": "LA",
+    "division": "SD-4",
+    "region": 2,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 31.6,
+    "avg_points_allowed": 15.0,
+    "season_net_margin": 16.6,
+    "last_3_game_margin": 16.0,
+    "momentum_trend": -0.6,
+    "close_game_record": "3-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Ouachita Christian averages 31.6 PPG while holding LHSAA District 2-1A opponents to 15.0 PPG (+16.6 net margin).",
+      "Postseason Readiness: 9-1 against a 67.8 SOS Index with 1 running-clock separations and a 3-1 record in one-score games."
+    ]
+  },
+  "riverside academy": {
+    "team": "Riverside Academy",
+    "state": "LA",
+    "division": "SD-4",
+    "region": 3,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 17.8,
+    "avg_points_allowed": 19.2,
+    "season_net_margin": -1.4,
+    "last_3_game_margin": -0.7,
+    "momentum_trend": 0.7,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Riverside Academy averages 17.8 PPG while holding LHSAA District 10-1A opponents to 19.2 PPG (-1.4 net margin).",
+      "Postseason Readiness: 4-6 against a 68.1 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "southern lab": {
+    "team": "Southern Lab",
+    "state": "LA",
+    "division": "SD-4",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 18.7,
+    "avg_points_allowed": 19.0,
+    "season_net_margin": -0.3,
+    "last_3_game_margin": -0.3,
+    "momentum_trend": 0.0,
+    "close_game_record": "3-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Southern Lab averages 18.7 PPG while holding LHSAA District 6-1A opponents to 19.0 PPG (-0.3 net margin).",
+      "Postseason Readiness: 5-5 against a 68.1 SOS Index with 0 running-clock separations and a 3-2 record in one-score games."
+    ]
+  },
+  "ascension catholic": {
+    "team": "Ascension Catholic",
+    "state": "LA",
+    "division": "SD-4",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 16.6,
+    "avg_points_allowed": 19.6,
+    "season_net_margin": -3.0,
+    "last_3_game_margin": -5.0,
+    "momentum_trend": -2.0,
+    "close_game_record": "1-5",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Ascension Catholic averages 16.6 PPG while holding LHSAA District 8-1A opponents to 19.6 PPG (-3.0 net margin).",
+      "Postseason Readiness: 3-7 against a 65.3 SOS Index with 0 running-clock separations and a 1-5 record in one-score games."
+    ]
+  },
+  "st. martin's episcopal": {
+    "team": "St. Martin's Episcopal",
+    "state": "LA",
+    "division": "SD-4",
+    "region": 2,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 21.3,
+    "avg_points_allowed": 21.5,
+    "season_net_margin": -0.2,
+    "last_3_game_margin": 3.3,
+    "momentum_trend": 3.5,
+    "close_game_record": "5-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: St. Martin's Episcopal averages 21.3 PPG while holding LHSAA District 10-1A opponents to 21.5 PPG (-0.2 net margin).",
+      "Postseason Readiness: 7-3 against a 65.7 SOS Index with 0 running-clock separations and a 5-1 record in one-score games."
+    ]
+  },
+  "central private": {
+    "team": "Central Private",
+    "state": "LA",
+    "division": "SD-4",
+    "region": 3,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 20.3,
+    "avg_points_allowed": 23.5,
+    "season_net_margin": -3.2,
+    "last_3_game_margin": 3.3,
+    "momentum_trend": 6.5,
+    "close_game_record": "1-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Central Private averages 20.3 PPG while holding LHSAA District 6-1A opponents to 23.5 PPG (-3.2 net margin).",
+      "Postseason Readiness: 3-7 against a 65.5 SOS Index with 0 running-clock separations and a 1-4 record in one-score games."
+    ]
+  },
+  "catholic-pointe coupee": {
+    "team": "Catholic-Pointe Coupee",
+    "state": "LA",
+    "division": "SD-4",
+    "region": 4,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 17.9,
+    "avg_points_allowed": 22.3,
+    "season_net_margin": -4.4,
+    "last_3_game_margin": -3.3,
+    "momentum_trend": 1.1,
+    "close_game_record": "4-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Catholic-Pointe Coupee averages 17.9 PPG while holding LHSAA District 5-1A opponents to 22.3 PPG (-4.4 net margin).",
+      "Postseason Readiness: 5-5 against a 65.6 SOS Index with 0 running-clock separations and a 4-2 record in one-score games."
+    ]
+  },
+  "opelousas catholic": {
+    "team": "Opelousas Catholic",
+    "state": "LA",
+    "division": "SD-4",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 19.9,
+    "avg_points_allowed": 24.1,
+    "season_net_margin": -4.2,
+    "last_3_game_margin": 4.7,
+    "momentum_trend": 8.9,
+    "close_game_record": "2-4",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: Opelousas Catholic averages 19.9 PPG while holding LHSAA District 5-1A opponents to 24.1 PPG (-4.2 net margin).",
+      "Postseason Readiness: 3-7 against a 64.9 SOS Index with 0 running-clock separations and a 2-4 record in one-score games."
+    ]
+  },
+  "st. mary's": {
+    "team": "St. Mary's",
+    "state": "LA",
+    "division": "SD-4",
+    "region": 2,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 19.0,
+    "avg_points_allowed": 34.5,
+    "season_net_margin": -15.5,
+    "last_3_game_margin": -20.3,
+    "momentum_trend": -4.8,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Scoring Efficiency Profile: St. Mary's averages 19.0 PPG while holding LHSAA District 3-1A opponents to 34.5 PPG (-15.5 net margin).",
+      "Postseason Readiness: 2-8 against a 65.5 SOS Index with 0 running-clock separations and a 1-2 record in one-score games."
+    ]
+  }
+}

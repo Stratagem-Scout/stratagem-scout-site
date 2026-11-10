@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Root Domain -->
+  <url>
+    <loc>https://stratagemscout.me/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- State Root Pages -->
+  <url>
+    <loc>https://stratagemscout.me/?state=mi</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://stratagemscout.me/?state=oh</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://stratagemscout.me/?state=wi</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://stratagemscout.me/?state=in</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Feature Tabs across Michigan (MHSAA) -->
+  <url><loc>https://stratagemscout.me/?state=mi&amp;tab=scouting</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://stratagemscout.me/?state=mi&amp;tab=rankings</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://stratagemscout.me/?state=mi&amp;tab=playoffs</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://stratagemscout.me/?state=mi&amp;tab=guide</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://stratagemscout.me/?state=mi&amp;tab=matchmaker</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Feature Tabs across Ohio (OHSAA) -->
+  <url><loc>https://stratagemscout.me/?state=oh&amp;tab=scouting</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://stratagemscout.me/?state=oh&amp;tab=rankings</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://stratagemscout.me/?state=oh&amp;tab=playoffs</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://stratagemscout.me/?state=oh&amp;tab=guide</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://stratagemscout.me/?state=oh&amp;tab=matchmaker</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Feature Tabs across Wisconsin (WIAA) -->
+  <url><loc>https://stratagemscout.me/?state=wi&amp;tab=scouting</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://stratagemscout.me/?state=wi&amp;tab=rankings</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://stratagemscout.me/?state=wi&amp;tab=playoffs</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://stratagemscout.me/?state=wi&amp;tab=guide</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://stratagemscout.me/?state=wi&amp;tab=matchmaker</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Feature Tabs across Indiana (IHSAA) -->
+  <url><loc>https://stratagemscout.me/?state=in&amp;tab=scouting</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://stratagemscout.me/?state=in&amp;tab=rankings</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://stratagemscout.me/?state=in&amp;tab=playoffs</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://stratagemscout.me/?state=in&amp;tab=guide</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://stratagemscout.me/?state=in&amp;tab=matchmaker</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Global Analytics & Coach Ingestion Tools -->
+  <url><loc>https://stratagemscout.me/?tab=playbook</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://stratagemscout.me/?tab=track-record</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+  <url><loc>https://stratagemscout.me/?tab=film-room-demo</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://stratagemscout.me/?tab=demo-quote</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+</urlset>

@@ -1,0 +1,425 @@
+rank,division_rank,team,state,division,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_scored,ppg_allowed,ppg_off,ppg_def,net_margin,off_index,def_index,playoff_points,harbin_avg,ppa,pqs,contender_tier,city,mascot
+1,1,Central-Phenix City,AL,7A,AHSAA 7A Region 2,10-0,10,0,0,10,98.2,98.2,61.5,73.7,1,36.0,13.6,36.0,13.6,22.4,66.8,64.6,125.8,90.28,90.28,90.28,State Title Contender,Phenix City,Varsity
+2,2,Thompson,AL,7A,AHSAA 7A Region 3,10-0,10,0,0,10,98.2,98.2,61.11,73.3,2,30.1,14.9,30.1,14.9,15.2,58.5,62.7,125.66,89.97,89.97,89.97,State Title Contender,Alabaster,Warriors
+3,1,Saraland,AL,6A,AHSAA 6A Region 1,10-1,10,1,0,11,98.1,98.1,60.71,74.4,3,52.9,16.3,52.9,16.3,36.6,90.5,60.8,116.95,90.8,90.8,90.8,State Title Contender,Saraland,Spartans
+4,1,Catholic-Montgomery,AL,5A,AHSAA 5A Region 2,10-0,10,0,0,10,98.1,98.1,60.52,70.8,4,34.4,15.5,34.4,15.5,18.9,64.6,61.9,124.78,88.1,88.1,88.1,State Title Contender,Montgomery,Varsity
+5,1,Jackson,AL,4A,AHSAA 4A Region 1,8-3,8,3,0,11,98.0,98.0,60.13,71.5,5,32.1,15.7,32.1,15.7,16.4,61.3,61.6,97.75,88.62,88.62,88.62,State Title Contender,Jackson,Aggies
+6,1,Reeltown,AL,2A,AHSAA 2A Region 4,11-0,11,0,0,11,97.9,97.9,59.74,69.5,6,45.4,4.8,45.4,4.8,40.6,80.0,76.9,124.33,87.12,87.12,87.12,State Title Contender,Notasulga,Rebels
+7,2,Parker,AL,6A,AHSAA 6A Region 5,10-1,10,1,0,11,97.8,97.8,58.96,73.4,7,41.9,12.9,41.9,12.9,29.0,75.1,65.5,116.6,77.05,77.05,77.05,State Title Contender,Birmingham,Thundering Herd
+8,1,Wadley,AL,1A,AHSAA 1A Region 4,10-0,10,0,0,10,97.7,97.7,58.57,66.7,8,29.2,12.1,29.2,12.1,17.1,57.3,66.7,123.34,85.03,85.03,85.03,State Title Contender,Wadley,Bulldogs
+9,1,Mars Hill Bible,AL,3A,AHSAA 3A Region 8,9-2,9,2,0,11,97.5,97.5,57.81,71.2,9,33.4,12.0,33.4,12.0,21.4,63.2,66.8,106.74,81.9,81.9,81.9,State Title Contender,Florence,Panthers
+10,2,Vigor,AL,5A,AHSAA 5A Region 1,9-2,9,2,0,11,97.0,97.0,55.53,71.3,10,32.1,9.2,32.1,9.2,22.9,61.3,70.7,106.77,75.47,75.47,75.47,State Title Contender,Prichard,Wolves
+11,2,Highland Home,AL,2A,AHSAA 2A Region 2,4-7,4,7,0,11,95.9,95.9,52.04,67.5,11,22.9,29.0,22.9,29.0,-6.1,48.5,43.0,59.99,79.12,79.12,79.12,State Title Contender,Highland Home,Flying Sqdrn
+12,2,Piedmont,AL,3A,AHSAA 3A Region 6,10-1,10,1,0,11,95.6,95.6,51.14,70.6,12,39.5,10.9,39.5,10.9,28.6,71.7,68.3,115.62,74.95,74.95,74.95,State Title Contender,Piedmont,Bulldogs
+13,2,Cherokee County,AL,4A,AHSAA 4A Region 6,8-3,8,3,0,11,95.3,95.3,50.25,72.3,13,30.6,16.4,30.6,16.4,14.2,59.2,60.6,98.03,69.72,69.72,69.72,State Title Contender,Centre,Warriors
+14,3,Clay-Chalkville,AL,6A,AHSAA 6A Region 6,6-4,6,4,0,10,94.5,94.5,48.5,71.4,14,19.9,22.4,19.9,22.4,-2.5,44.3,52.2,84.99,62.55,62.55,62.55,State Title Contender,Pinson,Cougars
+15,4,Prattville,AL,6A,AHSAA 6A,10-0,10,0,0,10,94.3,94.3,48.0,78.9,15,40.3,16.2,40.3,16.2,24.1,72.8,60.9,127.62,35.0,65.0,10.0,State Title Contender,Prattville,Lions
+16,2,Leroy,AL,1A,AHSAA 1A Region 1,9-2,9,2,0,11,93.5,93.5,46.44,68.2,16,34.7,14.2,34.7,14.2,20.5,65.0,63.7,105.69,66.65,66.65,66.65,State Title Contender,Leroy,Bears
+17,3,Auburn,AL,7A,AHSAA 7A Region 2,4-6,4,6,0,10,93.0,93.0,45.6,72.5,17,17.7,20.1,17.7,20.1,-2.4,41.2,55.5,65.38,50.38,50.38,50.38,State Title Contender,Auburn,Tigers
+18,3,St. Michael Catholic,AL,4A,AHSAA 4A Region 1,6-5,6,5,0,11,92.3,92.3,44.44,70.6,18,31.8,30.4,31.8,30.4,1.4,60.9,41.0,79.26,61.95,61.95,61.95,State Title Contender,Fairhope,Cardinals
+19,4,Hoover,AL,7A,AHSAA 7A Region 3,5-6,5,6,0,11,91.1,91.1,42.5,73.4,19,28.1,17.6,28.1,17.6,10.5,55.7,59.0,71.14,44.55,44.55,44.55,State Title Contender,Hoover,Bucs
+20,3,T.R. Miller,AL,3A,AHSAA 3A Region 1,9-2,9,2,0,11,90.6,90.6,41.87,69.4,20,30.4,15.4,30.4,15.4,15.0,59.0,62.0,106.11,54.55,54.55,54.55,State Title Contender,Brewton,Tigers
+21,5,Muscle Shoals,AL,6A,AHSAA 6A Region 7,4-6,4,6,0,10,89.6,89.6,40.47,72.6,21,17.2,17.1,17.2,17.1,0.1,40.5,59.7,65.41,50.45,50.45,50.45,State Title Contender,Muscle Shoals,Trojans
+22,3,Moody,AL,5A,AHSAA 5A Region 6,6-5,6,5,0,11,89.2,89.2,40.01,72.7,22,26.3,31.7,26.3,31.7,-5.4,53.2,39.2,79.99,44.03,44.03,44.03,State Title Contender,Moody,Blue Devils
+23,4,Ramsay,AL,5A,AHSAA 5A Region 5,6-5,6,5,0,11,89.1,89.1,39.86,71.6,23,21.5,16.5,21.5,16.5,5.0,46.5,60.5,79.61,62.7,62.7,62.7,State Title Contender,Birmingham,Rams
+24,5,Enterprise,AL,7A,AHSAA 7A Region 2,6-5,6,5,0,11,88.6,88.6,39.25,73.2,24,32.1,29.1,32.1,29.1,3.0,61.3,42.9,80.17,50.9,50.9,50.9,State Title Contender,Enterprise,Wildcats
+25,3,Maplesville,AL,1A,AHSAA 1A Region 3,5-5,5,5,0,10,87.7,87.7,38.1,67.2,25,17.6,18.1,17.6,18.1,-0.5,41.0,58.3,73.52,52.9,52.9,52.9,State Title Contender,Maplesville,Red Devils
+26,6,Oxford,AL,6A,AHSAA 6A Region 6,4-6,4,6,0,10,87.7,87.7,38.1,72.9,26,16.9,18.7,16.9,18.7,-1.8,40.1,57.4,65.52,50.68,50.68,50.68,State Title Contender,Oxford,Yellow Jackets
+27,6,Hewitt-Trussville,AL,7A,AHSAA 7A Region 3,7-4,7,4,0,11,87.2,87.2,37.5,72.7,27,35.0,33.4,35.0,33.4,1.6,65.4,36.8,89.08,57.03,57.03,57.03,State Title Contender,Trussville,Huskies
+28,7,Spain Park,AL,6A,AHSAA 6A Region 3,7-4,7,4,0,11,86.2,86.2,36.4,71.8,28,32.7,24.3,32.7,24.3,8.4,62.2,49.6,88.77,56.35,56.35,56.35,State Title Contender,Hoover,Jaguars
+29,4,West Morgan,AL,4A,AHSAA 4A Region 7,7-4,7,4,0,11,85.5,85.5,35.7,71.5,29,40.5,21.5,40.5,21.5,19.0,73.1,53.5,88.66,43.12,43.12,43.12,State Title Contender,Trinity,Rebels
+30,3,Tuscaloosa Academy,AL,2A,AHSAA 2A Region 4,2-8,2,8,0,10,85.5,85.5,35.7,69.8,30,18.1,22.8,18.1,22.8,-4.7,41.7,51.7,44.43,35.35,35.35,35.35,State Title Contender,Tuscaloosa,Knights
+31,4,Fyffe,AL,3A,AHSAA 3A Region 8,10-1,10,1,0,11,85.5,85.5,35.6,68.1,31,43.5,6.5,43.5,6.5,37.0,77.3,74.5,114.74,47.07,47.07,47.07,State Title Contender,Fyffe,Red Devils
+32,4,Cottonwood,AL,2A,AHSAA 2A Region 2,11-0,11,0,0,11,85.4,85.4,35.5,66.8,32,47.8,4.5,47.8,4.5,43.3,83.3,77.3,123.38,52.6,52.6,52.6,State Title Contender,Cottonwood,Bears
+33,5,Williamson,AL,5A,AHSAA 5A Region 1,5-5,5,5,0,10,85.2,85.2,35.3,71.0,33,17.0,17.9,17.0,17.9,-0.9,40.2,58.5,74.85,55.75,55.75,55.75,State Title Contender,Mobile,Lions
+34,4,Sweet Water,AL,1A,AHSAA 1A Region 1,5-6,5,6,0,11,85.0,85.0,35.1,66.9,34,24.9,26.9,24.9,26.9,-2.0,51.3,45.9,68.87,52.68,52.68,52.68,State Title Contender,Sweet Water,Bulldogs
+35,5,Alexandria,AL,4A,AHSAA 4A Region 6,10-1,10,1,0,11,84.7,84.7,34.84,68.6,35,40.4,20.5,40.4,20.5,19.9,73.0,54.9,114.92,66.95,66.95,66.95,Regional Contender,Alexandria,Valley Cubs
+36,5,Houston Academy,AL,3A,AHSAA 3A Region 2,5-5,5,5,0,10,84.7,84.7,34.84,69.2,36,17.0,17.4,17.0,17.4,-0.4,40.2,59.2,74.22,54.4,54.4,54.4,Regional Contender,Dothan,Raiders
+37,7,Mary G. Montgomery,AL,7A,AHSAA 7A Region 1,6-4,6,4,0,10,84.0,84.0,34.04,71.9,37,18.3,19.9,18.3,19.9,-1.6,42.0,55.7,85.16,62.93,62.93,62.93,Regional Contender,Semmes,Vikings
+38,6,Bibb County,AL,4A,AHSAA 4A Region 3,9-2,9,2,0,11,83.9,83.9,33.91,70.3,38,40.4,19.4,40.4,19.4,21.0,73.0,56.4,106.42,48.72,48.72,48.72,Regional Contender,Centreville,Choctaws
+39,8,Vestavia Hills,AL,7A,AHSAA 7A Region 3,4-6,4,6,0,10,83.5,83.5,33.52,72.0,39,17.3,18.6,17.3,18.6,-1.3,40.6,57.6,65.2,50.0,50.0,50.0,Regional Contender,Vestavia Hills,Rebels
+40,8,Opelika,AL,6A,AHSAA 6A,5-5,5,5,0,10,83.3,83.3,33.33,76.4,40,29.0,19.6,29.0,19.6,9.4,57.0,56.2,76.74,17.5,32.5,5.0,Regional Contender,Opelika,Bulldogs
+41,6,Leeds,AL,5A,AHSAA 5A Region 6,5-5,5,5,0,10,82.9,82.9,32.88,71.7,41,17.8,18.2,17.8,18.2,-0.4,41.3,58.1,75.09,56.28,56.28,56.28,Regional Contender,Leeds,Greenwave
+42,5,Berry,AL,1A,AHSAA 1A Region 5,4-7,4,7,0,11,82.6,82.6,32.64,65.5,42,29.5,40.3,29.5,40.3,-10.8,57.7,27.2,59.29,71.12,71.12,71.12,Regional Contender,Berry,Wildcats
+43,9,Mountain Brook,AL,6A,AHSAA 6A Region 5,6-4,6,4,0,10,82.5,82.5,32.51,70.3,43,18.8,20.1,18.8,20.1,-1.3,42.7,55.5,84.6,61.72,61.72,61.72,Regional Contender,Mountain Brook,Spartans
+44,10,Pike Road,AL,6A,AHSAA 6A Region 2,8-3,8,3,0,11,82.4,82.4,32.39,72.5,44,41.6,19.7,41.6,19.7,21.9,74.6,56.0,98.1,50.38,50.38,50.38,Regional Contender,Pike Road,Patriots
+45,6,Gordo,AL,3A,AHSAA 3A Region 4,10-1,10,1,0,11,82.1,82.1,32.14,69.9,45,44.1,13.7,44.1,13.7,30.4,78.1,64.4,115.37,61.43,61.43,61.43,Regional Contender,Gordo,Green Wave
+46,5,Clarke County,AL,2A,AHSAA 2A Region 1,8-3,8,3,0,11,81.9,81.9,31.9,68.0,46,24.6,20.0,24.6,20.0,4.6,50.8,55.6,96.53,47.0,47.0,47.0,Regional Contender,Grove Hill,Bulldogs
+47,7,Gulf Shores,AL,5A,AHSAA 5A,11-0,11,0,0,11,81.4,81.4,31.36,69.8,47,37.1,9.5,37.1,9.5,27.6,68.3,70.3,124.43,35.0,65.0,10.0,Regional Contender,Gulf Shores,Dolphins
+48,6,Pisgah,AL,2A,AHSAA 2A Region 7,5-6,5,6,0,11,81.0,81.0,30.97,66.3,48,26.5,28.7,26.5,28.7,-2.2,53.5,43.4,68.66,58.72,58.72,58.72,Regional Contender,Pisgah,Eagles
+49,6,Hackleburg,AL,1A,AHSAA 1A Region 8,8-3,8,3,0,11,79.9,79.9,29.9,66.9,49,36.7,22.0,36.7,22.0,14.7,67.8,52.8,96.14,35.0,35.0,35.0,Regional Contender,Hackleburg,Panthers
+50,11,Carver Montgomery,AL,6A,AHSAA 6A,7-4,7,4,0,11,79.7,79.7,29.69,73.7,50,31.5,21.5,31.5,21.5,10.0,60.5,53.5,89.43,22.27,41.36,6.36,Regional Contender,Montgomery,Wolverines
+51,8,Corner,AL,5A,AHSAA 5A Region 5,5-6,5,6,0,11,78.9,78.9,28.9,69.0,51,29.5,22.7,29.5,22.7,6.8,57.7,51.8,69.6,47.75,47.75,47.75,Regional Contender,Dora,Yellow Jackets
+52,9,Baker,AL,7A,AHSAA 7A Region 1,6-5,6,5,0,11,78.7,78.7,28.7,70.6,52,26.6,24.4,26.6,24.4,2.2,53.6,49.4,79.26,48.95,48.95,48.95,Regional Contender,Mobile,Hornets
+53,7,Brooks,AL,4A,AHSAA 4A Region 8,6-5,6,5,0,11,77.8,77.8,27.8,70.5,53,30.2,31.4,30.2,31.4,-1.2,58.7,39.6,79.22,48.88,48.88,48.88,Regional Contender,Killen,Lions
+54,12,Spanish Fort,AL,6A,AHSAA 6A Region 1,8-3,8,3,0,11,77.1,77.1,27.1,71.8,54,23.3,15.7,23.3,15.7,7.6,49.0,61.6,97.86,43.35,43.35,43.35,Regional Contender,Spanish Fort,Toros
+55,10,Austin,AL,7A,AHSAA 7A Region 4,6-5,6,5,0,11,76.8,76.8,26.8,72.5,55,26.8,30.3,26.8,30.3,-3.5,53.9,41.2,79.92,56.88,56.88,56.88,Regional Contender,Decatur,Black Bears
+56,7,Montgomery Academy,AL,1A,AHSAA 1A,11-0,11,0,0,11,76.5,76.5,26.54,61.9,56,45.1,5.5,45.1,5.5,39.6,79.5,75.9,121.66,35.0,65.0,10.0,Regional Contender,Montgomery,Eagles
+57,7,Sulligent,AL,2A,AHSAA 2A Region 5,7-4,7,4,0,11,76.0,76.0,26.0,67.2,57,35.1,28.4,35.1,28.4,6.7,65.5,43.8,87.16,46.4,46.4,46.4,Regional Contender,Sulligent,Blue Devils
+58,8,Briarwood Christian,AL,1A,AHSAA 1A,11-0,11,0,0,11,75.8,75.8,25.84,64.6,58,36.3,8.9,36.3,8.9,27.4,67.2,71.1,122.61,35.0,65.0,10.0,Regional Contender,Birmingham,Lions
+59,7,Trinity Presbyterian,AL,3A,AHSAA 3A Region 2,7-4,7,4,0,11,75.8,75.8,25.8,67.0,59,25.0,15.0,25.0,15.0,10.0,51.4,62.6,87.09,39.75,39.75,39.75,Regional Contender,Montgomery,Wildcats
+60,9,Benjamin Russell,AL,5A,AHSAA 5A,8-2,8,2,0,10,75.6,75.6,25.64,71.0,60,27.9,11.1,27.9,11.1,16.8,55.5,68.1,104.85,28.0,52.0,8.0,Regional Contender,Alexander City,Wildcats
+61,13,Hartselle,AL,6A,AHSAA 6A Region 7,4-6,4,6,0,10,75.2,75.2,25.2,71.0,61,18.2,23.2,18.2,23.2,-5.0,41.9,51.1,64.85,49.25,49.25,49.25,Regional Contender,Hartselle,Tigers
+62,10,Homewood,AL,5A,AHSAA 5A,10-1,10,1,0,11,75.1,75.1,25.14,69.9,62,31.1,10.6,31.1,10.6,20.5,59.9,68.8,115.37,31.82,59.09,9.09,Regional Contender,Homewood,Patriots
+63,14,Oak Mountain,AL,6A,AHSAA 6A,2-8,2,8,0,10,75.1,75.1,25.11,80.8,63,22.6,35.8,22.6,35.8,-13.2,48.0,33.5,48.28,7.0,13.0,2.0,Regional Contender,Birmingham,Eagles
+64,8,Deshler,AL,4A,AHSAA 4A Region 8,9-2,9,2,0,11,74.8,74.8,24.8,69.3,64,40.2,15.5,40.2,15.5,24.7,72.7,61.9,106.07,47.97,47.97,47.97,Regional Contender,Tuscumbia,Tigers
+65,8,Vincent,AL,2A,AHSAA 2A Region 5,6-4,6,4,0,10,74.1,74.1,24.1,65.2,65,21.1,21.4,21.1,21.4,-0.3,45.9,53.6,82.82,57.9,57.9,57.9,Regional Contender,Vincent,Yellow Jackets
+66,8,Glenwood,AL,3A,AHSAA 3A Region 4,6-5,6,5,0,11,73.3,73.3,23.3,68.2,66,29.6,26.7,29.6,26.7,2.9,57.8,46.2,78.42,47.15,47.15,47.15,Playoff Qualifier,Phenix City,Gators
+67,11,Fairview,AL,5A,AHSAA 5A Region 7,2-8,2,8,0,10,73.3,73.3,23.3,71.1,67,19.3,23.5,19.3,23.5,-4.2,43.4,50.7,44.88,36.32,36.32,36.32,Playoff Qualifier,Cullman,Aggies
+68,15,Fort Payne,AL,6A,AHSAA 6A Region 8,5-5,5,5,0,10,73.1,73.1,23.1,68.9,68,23.5,22.8,23.5,22.8,0.7,49.3,51.7,74.12,54.18,54.18,54.18,Playoff Qualifier,Fort Payne,Wildcats
+69,12,Demopolis,AL,5A,AHSAA 5A Region 3,5-5,5,5,0,10,72.5,72.5,22.5,68.5,69,17.6,20.6,17.6,20.6,-3.0,41.0,54.8,73.97,53.88,53.88,53.88,Playoff Qualifier,Demopolis,Tigers
+70,9,Elba,AL,1A,AHSAA 1A Region 2,10-1,10,1,0,11,72.4,72.4,22.4,64.5,70,38.8,18.1,38.8,18.1,20.7,70.7,58.3,113.48,35.0,35.0,35.0,Playoff Qualifier,Elba,Tigers
+71,10,Westbrook Christian,AL,1A,AHSAA 1A,11-0,11,0,0,11,72.4,72.4,22.36,60.8,71,35.8,9.2,35.8,9.2,26.6,66.5,70.7,121.28,35.0,65.0,10.0,Playoff Qualifier,Rainbow City,Warriors
+72,9,Scottsboro,AL,4A,AHSAA 4A,11-0,11,0,0,11,72.3,72.3,22.28,57.4,72,46.7,6.5,46.7,6.5,40.2,81.8,74.5,120.09,35.0,65.0,10.0,Playoff Qualifier,Scottsboro,Wildcats
+73,9,Luverne,AL,2A,AHSAA 2A,10-1,10,1,0,11,72.3,72.3,22.27,61.5,73,51.5,15.5,51.5,15.5,36.0,88.5,61.9,112.43,31.82,59.09,9.09,Playoff Qualifier,Luverne,Tigers
+74,11,Brantley,AL,1A,AHSAA 1A Region 2,8-3,8,3,0,11,72.2,72.2,22.2,66.3,74,28.1,14.5,28.1,14.5,13.6,55.7,63.3,95.93,52.22,52.22,52.22,Playoff Qualifier,Brantley,Bulldogs
+75,12,Marshall Christian Academy,AL,1A,AHSAA 1A,5-0,5,0,0,5,72.2,72.2,22.19,55.0,75,56.0,37.8,56.0,37.8,18.2,94.8,30.7,119.25,35.0,65.0,10.0,Playoff Qualifier,Albertville,Stallions
+76,16,Daphne,AL,6A,AHSAA 6A,7-3,7,3,0,10,72.1,72.1,22.07,71.1,76,27.5,15.8,27.5,15.8,11.7,54.9,61.5,94.88,24.5,45.5,7.0,Playoff Qualifier,Daphne,Trojans
+77,13,American Christian Academy,AL,1A,AHSAA 1A,10-1,10,1,0,11,72.1,72.1,22.06,64.8,77,42.8,14.0,42.8,14.0,28.8,76.3,64.0,113.59,31.82,59.09,9.09,Playoff Qualifier,Tuscaloosa,Patriots
+78,9,Hatton,AL,3A,AHSAA 3A,11-0,11,0,0,11,72.0,72.0,21.96,61.4,78,38.7,10.2,38.7,10.2,28.5,70.6,69.3,121.49,35.0,65.0,10.0,Playoff Qualifier,Town Creek,Hornets
+79,10,Tallassee,AL,4A,AHSAA 4A Region 4,4-6,4,6,0,10,71.7,71.7,21.7,67.8,79,19.7,22.2,19.7,22.2,-2.5,44.0,52.5,63.73,46.85,46.85,46.85,Playoff Qualifier,Tallassee,Tigers
+80,10,Cleburne County,AL,3A,AHSAA 3A,11-0,11,0,0,11,71.7,71.7,21.67,58.6,80,48.1,6.7,48.1,6.7,41.4,83.7,74.2,120.51,35.0,65.0,10.0,Playoff Qualifier,Heflin,Tigers
+81,14,Escambia Academy,AL,1A,AHSAA 1A,9-2,9,2,0,11,71.5,71.5,21.51,52.5,81,47.1,10.7,47.1,10.7,36.4,82.3,68.6,100.19,28.64,53.18,8.18,Playoff Qualifier,Atmore,Cougars
+82,17,Fairhope,AL,6A,AHSAA 6A,8-2,8,2,0,10,71.3,71.3,21.27,70.8,82,28.5,19.9,28.5,19.9,8.6,56.3,55.7,104.78,28.0,52.0,8.0,Playoff Qualifier,Fairhope,Pirates
+83,11,Bayside Academy,AL,3A,AHSAA 3A Region 1,9-2,9,2,0,11,71.2,71.2,21.2,66.9,83,39.3,16.5,39.3,16.5,22.8,71.4,60.5,105.23,52.68,52.68,52.68,Playoff Qualifier,Daphne,Admirals
+84,13,Pell City,AL,5A,AHSAA 5A,4-6,4,6,0,10,70.8,70.8,20.79,76.0,84,23.1,36.3,23.1,36.3,-13.2,48.7,32.8,66.6,14.0,26.0,4.0,Playoff Qualifier,Pell City,Panthers
+85,11,Dothan,AL,7A,AHSAA 7A Region 2,4-6,4,6,0,10,70.7,70.7,20.7,71.7,85,15.7,28.0,15.7,28.0,-12.3,38.4,44.4,65.09,49.78,49.78,49.78,Playoff Qualifier,Dothan,Cougars
+86,15,McGill-Toolen,AL,1A,AHSAA 1A,9-2,9,2,0,11,70.7,70.7,20.69,70.9,86,30.6,15.5,30.6,15.5,15.1,59.2,61.9,106.63,28.64,53.18,8.18,Playoff Qualifier,Mobile,Yellowjackets
+87,12,Florence,AL,7A,AHSAA 7A Region 4,10-1,10,1,0,11,70.3,70.3,20.3,72.1,87,34.7,15.0,34.7,15.0,19.7,65.0,62.6,116.14,35.0,35.0,35.0,Playoff Qualifier,Florence,Falcons
+88,16,UMS-Wright Prep,AL,1A,AHSAA 1A,10-1,10,1,0,11,70.0,70.0,20.05,70.2,88,31.5,18.2,31.5,18.2,13.3,60.5,58.1,115.48,31.82,59.09,9.09,Playoff Qualifier,Mobile,Bulldogs
+89,11,Northside,AL,4A,AHSAA 4A,10-1,10,1,0,11,70.0,70.0,20.03,63.1,89,44.4,15.3,44.4,15.3,29.1,78.6,62.2,112.99,31.82,59.09,9.09,Playoff Qualifier,Northport,Rams
+90,17,Patrician Academy,AL,1A,AHSAA 1A,11-0,11,0,0,11,69.9,69.9,19.91,60.1,90,39.3,15.4,39.3,15.4,23.9,71.4,62.0,121.03,35.0,65.0,10.0,Playoff Qualifier,Butler,Saints
+91,18,Meek,AL,1A,AHSAA 1A Region 7,7-4,7,4,0,11,69.6,69.6,19.6,64.2,91,30.4,26.3,30.4,26.3,4.1,59.0,46.8,86.11,50.65,50.65,50.65,Playoff Qualifier,Arley,Tigers
+92,10,Ariton,AL,2A,AHSAA 2A Region 2,8-3,8,3,0,11,69.4,69.4,19.4,67.0,92,30.3,18.2,30.3,18.2,12.1,58.8,58.1,96.18,46.25,46.25,46.25,Playoff Qualifier,Ariton,Purple Cats
+93,19,Winterboro,AL,1A,AHSAA 1A,11-0,11,0,0,11,69.3,69.3,19.29,57.5,93,41.8,11.2,41.8,11.2,30.6,74.9,67.9,120.12,35.0,65.0,10.0,Playoff Qualifier,Alpine,Bulldogs
+94,12,Plainview,AL,3A,AHSAA 3A,11-0,11,0,0,11,69.1,69.1,19.13,59.7,94,39.8,13.4,39.8,13.4,26.4,72.1,64.8,120.89,35.0,65.0,10.0,Playoff Qualifier,Rainsville,Bears
+95,14,Bessemer City,AL,5A,AHSAA 5A,7-4,7,4,0,11,68.7,68.7,18.68,70.9,95,32.9,19.3,32.9,19.3,13.6,62.5,56.6,88.45,22.27,41.36,6.36,Playoff Qualifier,Bessemer,Purple Tigers
+96,18,James Clemens,AL,6A,AHSAA 6A,8-2,8,2,0,10,68.6,68.6,18.56,70.1,96,36.9,22.4,36.9,22.4,14.5,68.1,52.2,104.53,28.0,52.0,8.0,Playoff Qualifier,Madison,Jets
+97,19,Sparkman,AL,6A,AHSAA 6A,8-2,8,2,0,10,68.5,68.5,18.53,68.3,97,34.0,15.7,34.0,15.7,18.3,64.0,61.6,103.91,28.0,52.0,8.0,Playoff Qualifier,Harvest,Senators
+98,20,Addison,AL,1A,AHSAA 1A,11-0,11,0,0,11,68.5,68.5,18.45,49.9,98,48.9,3.5,48.9,3.5,45.4,84.9,78.7,117.47,35.0,65.0,10.0,Playoff Qualifier,Addison,Bulldogs
+99,15,Russellville,AL,5A,AHSAA 5A,10-1,10,1,0,11,68.4,68.4,18.37,69.7,99,35.6,20.4,35.6,20.4,15.2,66.2,55.0,115.3,31.82,59.09,9.09,Playoff Qualifier,Russellville,Tigers
+100,12,Hamilton,AL,4A,AHSAA 4A,8-3,8,3,0,11,68.3,68.3,18.34,64.6,100,46.3,21.0,46.3,21.0,25.3,81.2,54.2,95.34,25.45,47.27,7.27,Playoff Qualifier,Hamilton,Aggies
+101,21,Montgomery Catholic,AL,1A,AHSAA 1A,5-6,5,6,0,11,68.2,68.2,18.21,72.2,101,25.1,17.5,25.1,17.5,7.6,51.5,59.1,70.72,15.91,29.55,4.55,Playoff Qualifier,Montgomery,Knights
+102,13,Oneonta,AL,3A,AHSAA 3A,10-1,10,1,0,11,67.5,67.5,17.55,59.7,102,45.5,17.2,45.5,17.2,28.3,80.1,59.5,111.8,31.82,59.09,9.09,Playoff Qualifier,Oneonta,Redskins
+103,16,Andalusia,AL,5A,AHSAA 5A Region 2,7-4,7,4,0,11,67.1,67.1,17.1,70.3,103,26.7,15.6,26.7,15.6,11.1,53.8,61.8,88.24,35.72,35.72,35.72,Playoff Qualifier,Andalusia,Bulldogs
+104,17,McAdory,AL,5A,AHSAA 5A,9-2,9,2,0,11,67.1,67.1,17.07,68.7,104,41.2,28.6,41.2,28.6,12.6,74.1,43.6,105.86,28.64,53.18,8.18,Playoff Qualifier,Mccalla,Yellowjackets
+105,20,Wetumpka,AL,6A,AHSAA 6A Region 2,1-9,1,9,0,10,66.9,66.9,16.9,68.1,105,16.5,41.3,16.5,41.3,-24.8,39.5,25.8,33.83,35.0,35.0,35.0,Playoff Qualifier,Wetumpka,Indians
+106,14,Bullock County,AL,3A,AHSAA 3A,10-0,10,0,0,10,66.2,66.2,16.19,60.4,106,32.5,10.1,32.5,10.1,22.4,61.9,69.5,121.14,35.0,65.0,10.0,Playoff Qualifier,Union Springs,Hornets
+107,13,Handley,AL,4A,AHSAA 4A Region 4,1-9,1,9,0,10,66.0,66.0,16.0,69.5,107,16.3,34.1,16.3,34.1,-17.8,39.2,35.9,34.33,35.0,35.0,35.0,Playoff Qualifier,Roanoke,Tigers
+108,22,Loachapoka,AL,1A,AHSAA 1A,9-2,9,2,0,11,65.8,65.8,15.83,58.8,108,35.9,10.5,35.9,10.5,25.4,66.7,68.9,102.4,28.64,53.18,8.18,Playoff Qualifier,Loachapoka,Indians
+109,23,Chambers Academy,AL,1A,AHSAA 1A,9-2,9,2,0,11,65.5,65.5,15.53,54.0,109,40.5,12.8,40.5,12.8,27.7,73.1,65.7,100.72,28.64,53.18,8.18,Playoff Qualifier,Lafayette,Rebels
+110,15,Winfield,AL,3A,AHSAA 3A Region 5,1-9,1,9,0,10,65.3,65.3,15.3,67.4,110,16.2,34.3,16.2,34.3,-18.1,39.1,35.6,33.59,35.0,35.0,35.0,Playoff Qualifier,Winfield,Pirates
+111,14,Jacksonville,AL,4A,AHSAA 4A,6-4,6,4,0,10,65.2,65.2,15.19,71.7,111,29.7,21.5,29.7,21.5,8.2,58.0,53.5,85.09,21.0,39.0,6.0,Playoff Qualifier,Jacksonville,Golden Eagles
+112,16,Fayette County,AL,3A,AHSAA 3A,9-2,9,2,0,11,65.1,65.1,15.07,62.7,112,35.4,12.2,35.4,12.2,23.2,66.0,66.5,103.76,28.64,53.18,8.18,Playoff Qualifier,Fayette,Tigers
+113,15,Citronelle,AL,4A,AHSAA 4A,8-3,8,3,0,11,65.0,65.0,15.05,66.1,113,25.5,14.5,25.5,14.5,11.0,52.1,63.3,95.86,25.45,47.27,7.27,Playoff Qualifier,Citronelle,Wildcats
+114,16,Selma,AL,4A,AHSAA 4A,10-1,10,1,0,11,64.8,64.8,14.79,57.5,114,48.9,13.1,48.9,13.1,35.8,84.9,65.3,111.03,31.82,59.09,9.09,Playoff Qualifier,Selma,Saints
+115,24,Hubbertville,AL,1A,AHSAA 1A,10-1,10,1,0,11,64.5,64.5,14.52,55.7,115,41.7,15.1,41.7,15.1,26.6,74.8,62.5,110.4,31.82,59.09,9.09,Playoff Qualifier,Fayette,Lions
+116,18,Pelham,AL,5A,AHSAA 5A,8-3,8,3,0,11,64.5,64.5,14.52,70.3,116,32.0,28.8,32.0,28.8,3.2,61.2,43.3,97.33,25.45,47.27,7.27,Playoff Qualifier,Pelham,Panthers
+117,17,Geraldine,AL,3A,AHSAA 3A,9-2,9,2,0,11,64.3,64.3,14.28,56.0,117,42.0,10.4,42.0,10.4,31.6,75.2,69.0,101.42,28.64,53.18,8.18,Playoff Qualifier,Geraldine,Bulldogs
+118,25,South Choctaw Academy,AL,1A,AHSAA 1A,8-2,8,2,0,10,64.3,64.3,14.26,59.6,118,35.2,13.5,35.2,13.5,21.7,65.7,64.7,100.86,28.0,52.0,8.0,Playoff Qualifier,Toxey,Rebels
+119,26,University Charter,AL,1A,AHSAA 1A,10-1,10,1,0,11,64.2,64.2,14.17,49.4,119,48.4,5.5,48.4,5.5,42.9,84.2,75.9,108.2,31.82,59.09,9.09,Playoff Qualifier,Livingston,Trail Blazers
+120,19,St. Clair County,AL,5A,AHSAA 5A,5-6,5,6,0,11,64.2,64.2,14.16,72.1,120,24.6,24.0,24.6,24.0,0.6,50.8,50.0,70.69,15.91,29.55,4.55,Playoff Qualifier,Odenville,Fighting Saints
+121,17,Charles Henderson,AL,4A,AHSAA 4A,8-3,8,3,0,11,64.1,64.1,14.06,63.6,121,34.3,17.9,34.3,17.9,16.4,64.4,58.5,94.99,25.45,47.27,7.27,Playoff Qualifier,Troy,Trojans
+122,18,Central of Clay County,AL,4A,AHSAA 4A,5-6,5,6,0,11,63.9,63.9,13.86,71.5,122,21.5,22.7,21.5,22.7,-1.2,46.5,51.8,70.48,15.91,29.55,4.55,Playoff Qualifier,Lineville,Volunteers
+123,27,Cottage Hill Christian Academy,AL,1A,AHSAA 1A,9-2,9,2,0,11,63.5,63.5,13.54,54.4,123,41.3,10.4,41.3,10.4,30.9,74.2,69.0,100.86,28.64,53.18,8.18,Playoff Qualifier,Mobile,Warriors
+124,18,Pleasant Grove,AL,3A,AHSAA 3A,9-2,9,2,0,11,63.5,63.5,13.53,63.2,124,40.4,23.1,40.4,23.1,17.3,73.0,51.3,103.94,28.64,53.18,8.18,Playoff Qualifier,Pleasant Grove,Spartans
+125,28,Millry,AL,1A,AHSAA 1A Region 1,1-9,1,9,0,10,63.3,63.3,13.3,65.6,125,13.7,32.2,13.7,32.2,-18.5,35.6,38.5,32.96,35.0,35.0,35.0,Playoff Qualifier,Millry,Wildcats
+126,21,Foley,AL,6A,AHSAA 6A,7-4,7,4,0,11,63.0,63.0,12.98,71.0,126,35.7,30.3,35.7,30.3,5.4,66.4,41.2,88.49,22.27,41.36,6.36,Playoff Qualifier,Foley,Lions
+127,20,Helena,AL,5A,AHSAA 5A,7-4,7,4,0,11,62.8,62.8,12.84,71.1,127,18.4,21.5,18.4,21.5,-3.1,42.2,53.5,88.52,22.27,41.36,6.36,Playoff Qualifier,Helena,Huskies
+128,21,Douglas,AL,5A,AHSAA 5A,10-1,10,1,0,11,62.8,62.8,12.76,63.5,128,36.5,17.7,36.5,17.7,18.8,67.5,58.8,113.13,31.82,59.09,9.09,Playoff Qualifier,Douglas,Eagles
+129,19,Orange Beach,AL,4A,AHSAA 4A,9-2,9,2,0,11,62.6,62.6,12.57,64.6,129,30.2,15.8,30.2,15.8,14.4,58.7,61.5,104.43,28.64,53.18,8.18,Playoff Qualifier,Orange Beach,Makos
+130,22,Stanhope Elmore,AL,5A,AHSAA 5A,6-5,6,5,0,11,62.6,62.6,12.57,71.3,130,27.8,28.0,27.8,28.0,-0.2,55.3,44.4,79.5,19.09,35.45,5.45,Playoff Qualifier,Millbrook,Mustangs
+131,11,Thomasville,AL,2A,AHSAA 2A,9-2,9,2,0,11,62.4,62.4,12.41,61.5,131,34.7,19.2,34.7,19.2,15.5,65.0,56.7,103.34,28.64,53.18,8.18,Playoff Qualifier,Thomasville,Tigers
+132,20,Marbury,AL,4A,AHSAA 4A,10-1,10,1,0,11,62.4,62.4,12.35,62.2,132,33.4,12.1,33.4,12.1,21.3,63.2,66.7,112.68,31.82,59.09,9.09,Playoff Qualifier,Marbury,Bulldogs
+133,12,Falkville,AL,2A,AHSAA 2A Region 8,0-10,0,10,0,10,62.3,62.3,12.3,67.2,133,14.6,37.0,14.6,37.0,-22.4,36.8,31.8,23.52,35.0,35.0,35.0,Playoff Qualifier,Falkville,Blue Devils
+134,13,Dadeville,AL,2A,AHSAA 2A,7-4,7,4,0,11,62.0,62.0,12.0,62.1,134,28.8,11.9,28.8,11.9,16.9,56.7,66.9,85.37,22.27,41.36,6.36,Playoff Qualifier,Dadeville,Tigers
+135,23,Russell County,AL,5A,AHSAA 5A,7-4,7,4,0,11,62.0,62.0,11.97,67.3,135,33.1,27.1,33.1,27.1,6.0,62.7,45.7,87.19,22.27,41.36,6.36,Playoff Qualifier,Seale,Warriors
+136,24,Theodore,AL,5A,AHSAA 5A,5-6,5,6,0,11,61.9,61.9,11.89,70.7,136,22.0,26.5,22.0,26.5,-4.5,47.2,46.5,70.2,15.91,29.55,4.55,Playoff Qualifier,Theodore,Bobcats
+137,29,Mobile Christian,AL,1A,AHSAA 1A,9-2,9,2,0,11,61.7,61.7,11.72,57.6,137,34.3,11.2,34.3,11.2,23.1,64.4,67.9,101.98,28.64,53.18,8.18,Playoff Qualifier,Mobile,Leopards
+138,14,Isabella,AL,2A,AHSAA 2A,10-1,10,1,0,11,61.6,61.6,11.59,57.2,138,37.9,17.5,37.9,17.5,20.4,69.5,59.1,110.93,31.82,59.09,9.09,Playoff Qualifier,Maplesville,Mustangs
+139,30,Madison Academy,AL,1A,AHSAA 1A,6-5,6,5,0,11,61.0,61.0,11.04,66.8,139,33.5,24.0,33.5,24.0,9.5,63.3,50.0,77.93,19.09,35.45,5.45,Playoff Qualifier,Madison,Mustangs
+140,31,St. Paul's Episcopal,AL,1A,AHSAA 1A,5-6,5,6,0,11,60.9,60.9,10.85,72.3,140,24.8,25.0,24.8,25.0,-0.2,51.1,48.6,70.76,15.91,29.55,4.55,Playoff Qualifier,Mobile,Saints
+141,32,Lakeside School,AL,1A,AHSAA 1A,7-2,7,2,0,9,60.2,60.2,10.16,51.9,141,31.0,25.7,31.0,25.7,5.3,59.8,47.6,95.94,27.22,50.56,7.78,Playoff Qualifier,Eufaula,Chiefs
+142,15,Cold Springs,AL,2A,AHSAA 2A,10-1,10,1,0,11,60.1,60.1,10.15,58.1,142,35.5,15.7,35.5,15.7,19.8,66.1,61.6,111.24,31.82,59.09,9.09,Playoff Qualifier,Bremen,Eagles
+143,25,Athens,AL,5A,AHSAA 5A,3-7,3,7,0,10,60.1,60.1,10.07,70.0,143,24.6,25.3,24.6,25.3,-0.7,50.8,48.2,54.5,10.5,19.5,3.0,Playoff Qualifier,Athens,Golden Eagles
+144,26,Arab,AL,5A,AHSAA 5A,8-3,8,3,0,11,59.9,59.9,9.86,63.6,144,30.5,20.8,30.5,20.8,9.7,59.1,54.5,94.99,25.45,47.27,7.27,Playoff Qualifier,Arab,Knights
+145,27,Jasper,AL,5A,AHSAA 5A,5-5,5,5,0,10,59.7,59.7,9.73,70.3,145,30.3,33.7,30.3,33.7,-3.4,58.8,36.4,74.6,17.5,32.5,5.0,Playoff Qualifier,Jasper,Vikings
+146,28,Minor,AL,5A,AHSAA 5A,8-3,8,3,0,11,59.6,59.6,9.57,67.4,146,29.3,19.4,29.3,19.4,9.9,57.4,56.4,96.32,25.45,47.27,7.27,Playoff Qualifier,Adamsville,Tigers
+147,19,Opp,AL,3A,AHSAA 3A,7-3,7,3,0,10,59.5,59.5,9.48,59.1,147,33.1,17.5,33.1,17.5,15.6,62.7,59.1,90.69,24.5,45.5,7.0,Playoff Qualifier,Opp,Bobcats
+148,21,Valley,AL,4A,AHSAA 4A,6-4,6,4,0,10,59.4,59.4,9.36,65.3,148,26.5,19.6,26.5,19.6,6.9,53.5,56.2,82.85,21.0,39.0,6.0,Playoff Qualifier,Valley,Rams
+149,29,Boaz,AL,5A,AHSAA 5A,9-2,9,2,0,11,59.3,59.3,9.31,66.4,149,32.4,23.2,32.4,23.2,9.2,61.8,51.1,105.06,28.64,53.18,8.18,Playoff Qualifier,Boaz,Pirates
+150,22,Eufaula,AL,4A,AHSAA 4A,8-3,8,3,0,11,59.2,59.2,9.24,63.9,150,24.2,11.8,24.2,11.8,12.4,50.3,67.1,95.09,25.45,47.27,7.27,Playoff Qualifier,Eufaula,Tigers
+151,30,Northridge,AL,5A,AHSAA 5A,5-5,5,5,0,10,59.2,59.2,9.24,70.3,151,26.2,29.1,26.2,29.1,-2.9,53.1,42.9,74.6,17.5,32.5,5.0,Playoff Qualifier,Tuscaloosa,Jaguars
+152,23,Sipsey Valley,AL,4A,AHSAA 4A,9-2,9,2,0,11,59.0,59.0,9.02,60.4,152,43.3,25.5,43.3,25.5,17.8,77.0,47.9,102.96,28.64,53.18,8.18,Playoff Qualifier,Buhl,Bears
+153,16,Pleasant Valley,AL,2A,AHSAA 2A,9-2,9,2,0,11,58.9,58.9,8.85,59.0,153,35.1,18.3,35.1,18.3,16.8,65.5,58.0,102.47,28.64,53.18,8.18,Playoff Qualifier,Jacksonville,Raiders
+154,31,Mae Jemison,AL,5A,AHSAA 5A,5-5,5,5,0,10,58.7,58.7,8.72,68.4,154,23.6,22.5,23.6,22.5,1.1,49.4,52.1,73.94,17.5,32.5,5.0,Playoff Qualifier,Huntsville,Jaguars
+155,32,Mortimer Jordan,AL,5A,AHSAA 5A,6-5,6,5,0,11,58.7,58.7,8.7,68.2,155,29.0,26.7,29.0,26.7,2.3,57.0,46.2,78.42,19.09,35.45,5.45,Playoff Qualifier,Kimberly,Blue Devils
+156,33,Coosa Valley Academy,AL,1A,AHSAA 1A,7-4,7,4,0,11,58.5,58.5,8.45,49.9,156,38.5,28.2,38.5,28.2,10.3,70.3,44.1,81.1,22.27,41.36,6.36,Playoff Qualifier,Harpersville,Rebels
+157,24,LeFlore,AL,4A,AHSAA 4A,6-4,6,4,0,10,58.4,58.4,8.37,66.4,157,21.5,16.7,21.5,16.7,4.8,46.5,60.2,83.24,21.0,39.0,6.0,Playoff Qualifier,Mobile,Rattlers
+158,34,Kinston,AL,1A,AHSAA 1A,10-1,10,1,0,11,58.3,58.3,8.31,54.2,158,40.5,15.1,40.5,15.1,25.4,73.1,62.5,109.88,31.82,59.09,9.09,Playoff Qualifier,Kinston,Bulldogs
+159,35,Randolph School,AL,1A,AHSAA 1A,7-4,7,4,0,11,58.0,58.0,8.02,63.8,159,33.6,21.2,33.6,21.2,12.4,63.4,53.9,85.97,22.27,41.36,6.36,Playoff Qualifier,Huntsville,Raiders
+160,20,Lauderdale County,AL,3A,AHSAA 3A,8-3,8,3,0,11,57.9,57.9,7.94,56.8,160,40.2,17.5,40.2,17.5,22.7,72.7,59.1,92.61,25.45,47.27,7.27,Varsity Program,Rogersville,Tigers
+161,17,Wellborn,AL,2A,AHSAA 2A,9-2,9,2,0,11,57.9,57.9,7.85,57.9,161,45.2,19.5,45.2,19.5,25.7,79.7,56.3,102.08,28.64,53.18,8.18,Varsity Program,Anniston,Panthers
+162,36,Banks Academy,AL,1A,AHSAA 1A,7-3,7,3,0,10,57.9,57.9,7.85,61.0,162,30.6,18.9,30.6,18.9,11.7,59.2,57.1,91.35,24.5,45.5,7.0,Varsity Program,Birmingham,Jets
+163,22,Buckhorn,AL,6A,AHSAA 6A,6-5,6,5,0,11,57.9,57.9,7.85,68.7,163,31.7,28.5,31.7,28.5,3.2,60.8,43.7,78.59,19.09,35.45,5.45,Varsity Program,New Market,Bucks
+164,18,Lanett,AL,2A,AHSAA 2A,7-4,7,4,0,11,57.8,57.8,7.82,60.7,164,31.4,22.0,31.4,22.0,9.4,60.4,52.8,84.88,22.27,41.36,6.36,Varsity Program,Lanett,Panthers
+165,21,W.S. Neal,AL,3A,AHSAA 3A,7-4,7,4,0,11,57.8,57.8,7.75,64.2,165,31.2,26.2,31.2,26.2,5.0,60.1,46.9,86.11,22.27,41.36,6.36,Varsity Program,East Brewton,Eagles
+166,33,Calera,AL,5A,AHSAA 5A,5-5,5,5,0,10,57.7,57.7,7.74,68.0,166,25.5,23.5,25.5,23.5,2.0,52.1,50.7,73.8,17.5,32.5,5.0,Varsity Program,Calera,Eagles
+167,34,Gardendale,AL,5A,AHSAA 5A,5-6,5,6,0,11,57.7,57.7,7.66,68.9,167,27.5,29.1,27.5,29.1,-1.6,54.9,42.9,69.57,15.91,29.55,4.55,Varsity Program,Gardendale,Rockets
+168,37,Macon-East Montgomery Academy,AL,1A,AHSAA 1A,7-4,7,4,0,11,57.4,57.4,7.37,49.9,168,46.4,38.5,46.4,38.5,7.9,81.4,29.7,81.1,22.27,41.36,6.36,Varsity Program,Cecil,Knights
+169,38,Monroe Academy,AL,1A,AHSAA 1A,6-4,6,4,0,10,57.2,57.2,7.19,58.5,169,27.8,15.8,27.8,15.8,12.0,55.3,61.5,80.47,21.0,39.0,6.0,Varsity Program,Monroeville,Volunteers
+170,39,McKenzie,AL,1A,AHSAA 1A,10-1,10,1,0,11,57.0,57.0,6.98,55.2,170,33.5,19.1,33.5,19.1,14.4,63.3,56.9,110.23,31.82,59.09,9.09,Varsity Program,Mckenzie,Tigers
+171,40,First Assembly Christian,AL,1A,AHSAA 1A,5-3,5,3,0,8,57.0,57.0,6.96,49.8,171,47.9,40.2,47.9,40.2,7.7,83.5,27.3,79.93,21.88,40.62,6.25,Varsity Program,Ashland,Lions
+172,22,Flomaton,AL,3A,AHSAA 3A,5-5,5,5,0,10,56.8,56.8,6.75,60.8,172,27.5,14.6,27.5,14.6,12.9,54.9,63.2,71.28,17.5,32.5,5.0,Varsity Program,Flomaton,Hurricanes
+173,23,JAG,AL,6A,AHSAA 6A,3-8,3,8,0,11,56.7,56.7,6.72,74.3,173,15.5,35.8,15.5,35.8,-20.3,38.1,33.5,53.28,9.55,17.73,2.73,Varsity Program,Montgomery,Volunteers
+174,19,Lexington,AL,2A,AHSAA 2A,10-1,10,1,0,11,56.7,56.7,6.7,54.5,174,42.2,14.0,42.2,14.0,28.2,75.5,64.0,109.98,31.82,59.09,9.09,Varsity Program,Lexington,Golden Bears
+175,24,Bob Jones,AL,6A,AHSAA 6A,5-6,5,6,0,11,56.5,56.5,6.54,69.7,175,24.6,30.2,24.6,30.2,-5.6,50.8,41.3,69.85,15.91,29.55,4.55,Varsity Program,Madison,Patriots
+176,41,Whitesburg Christian Academy,AL,1A,AHSAA 1A,8-3,8,3,0,11,56.4,56.4,6.38,57.5,176,38.0,16.7,38.0,16.7,21.3,69.6,60.2,92.85,25.45,47.27,7.27,Varsity Program,Huntsville,Warriors
+177,20,Lamar County,AL,2A,AHSAA 2A,7-4,7,4,0,11,56.3,56.3,6.29,62.0,177,29.1,23.5,29.1,23.5,5.6,57.1,50.7,85.34,22.27,41.36,6.36,Varsity Program,Vernon,Bulldogs
+178,35,Blount,AL,5A,AHSAA 5A,5-5,5,5,0,10,56.3,56.3,6.28,68.5,178,28.4,27.8,28.4,27.8,0.6,56.2,44.7,73.97,17.5,32.5,5.0,Varsity Program,Eight Mile,Leopards
+179,23,North Jackson,AL,3A,AHSAA 3A,6-4,6,4,0,10,56.0,56.0,6.01,61.1,179,33.3,25.6,33.3,25.6,7.7,63.0,47.8,81.38,21.0,39.0,6.0,Varsity Program,Stevenson,Chiefs
+180,25,Gadsden City,AL,6A,AHSAA 6A,5-6,5,6,0,11,56.0,56.0,6.0,69.0,180,31.1,31.6,31.1,31.6,-0.5,59.9,39.4,69.6,15.91,29.55,4.55,Varsity Program,Gadsden,Titans
+181,21,Aliceville,AL,2A,AHSAA 2A,10-1,10,1,0,11,56.0,56.0,5.97,55.0,181,35.5,12.6,35.5,12.6,22.9,66.1,66.0,110.16,31.82,59.09,9.09,Varsity Program,Aliceville,Yellowjackets
+182,36,Baldwin County,AL,5A,AHSAA 5A,3-7,3,7,0,10,55.9,55.9,5.94,70.2,182,23.5,30.4,23.5,30.4,-6.9,49.3,41.0,54.57,10.5,19.5,3.0,Varsity Program,Bay Minette,Tigers
+183,37,Huffman,AL,5A,AHSAA 5A,5-4,5,4,0,9,55.8,55.8,5.8,67.5,183,28.7,25.3,28.7,25.3,3.4,56.6,48.2,79.18,19.44,36.11,5.56,Varsity Program,Birmingham,Vikings
+184,42,Woodville,AL,1A,AHSAA 1A,10-1,10,1,0,11,55.7,55.7,5.68,51.7,184,53.6,16.9,53.6,16.9,36.7,91.4,59.9,109.0,31.82,59.09,9.09,Varsity Program,Woodville,Panthers
+185,43,Southern Academy,AL,1A,AHSAA 1A,6-4,6,4,0,10,55.5,55.5,5.53,60.7,185,25.0,19.3,25.0,19.3,5.7,51.4,56.6,81.25,21.0,39.0,6.0,Varsity Program,Greensboro,Cougars
+186,24,Escambia County,AL,3A,AHSAA 3A,6-5,6,5,0,11,55.5,55.5,5.51,62.2,186,28.3,19.3,28.3,19.3,9.0,56.0,56.6,76.32,19.09,35.45,5.45,Varsity Program,Atmore,Blue Devils
+187,22,Collinsville,AL,2A,AHSAA 2A,9-2,9,2,0,11,55.5,55.5,5.48,56.0,187,35.3,13.6,35.3,13.6,21.7,65.8,64.6,101.42,28.64,53.18,8.18,Varsity Program,Collinsville,Panthers
+188,25,Hope Christian Academy,AL,3A,AHSAA 3A,7-3,7,3,0,10,55.5,55.5,5.47,57.4,188,26.5,21.7,26.5,21.7,4.8,53.5,53.2,90.09,24.5,45.5,7.0,Varsity Program,Oxford,Varsity
+189,38,Pinson Valley,AL,5A,AHSAA 5A,1-9,1,9,0,10,55.2,55.2,5.16,73.1,189,24.1,40.9,24.1,40.9,-16.8,50.1,26.3,35.58,3.5,6.5,1.0,Varsity Program,Pinson,Indians
+190,26,Huntsville,AL,6A,AHSAA 6A,4-7,4,7,0,11,54.9,54.9,4.89,70.7,190,21.1,27.4,21.1,27.4,-6.3,45.9,45.2,61.11,12.73,23.64,3.64,Varsity Program,Huntsville,Panthers
+191,25,Sylacauga,AL,4A,AHSAA 4A,5-5,5,5,0,10,54.8,54.8,4.77,67.0,191,31.5,33.1,31.5,33.1,-1.6,60.5,37.3,73.45,17.5,32.5,5.0,Varsity Program,Sylacauga,Aggies
+192,44,Alabama Christian Academy,AL,1A,AHSAA 1A,7-4,7,4,0,11,54.7,54.7,4.66,60.9,192,31.0,21.5,31.0,21.5,9.5,59.8,53.5,84.95,22.27,41.36,6.36,Varsity Program,Montgomery,Eagles
+193,26,Elmore County,AL,4A,AHSAA 4A,6-5,6,5,0,11,54.7,54.7,4.66,66.0,193,25.1,29.3,25.1,29.3,-4.2,51.5,42.6,77.65,19.09,35.45,5.45,Varsity Program,Eclectic,Panthers
+194,27,Ashford,AL,4A,AHSAA 4A,6-5,6,5,0,11,54.3,54.3,4.26,62.2,194,24.6,18.3,24.6,18.3,6.3,50.8,58.0,76.32,19.09,35.45,5.45,Varsity Program,Ashford,Yellowjackets
+195,28,Good Hope,AL,4A,AHSAA 4A,8-3,8,3,0,11,54.2,54.2,4.25,58.3,195,33.9,20.4,33.9,20.4,13.5,63.9,55.0,93.13,25.45,47.27,7.27,Varsity Program,Cullman,Raiders
+196,29,Oak Grove,AL,4A,AHSAA 4A,10-1,10,1,0,11,54.2,54.2,4.2,59.3,196,31.5,17.6,31.5,17.6,13.9,60.5,59.0,111.66,31.82,59.09,9.09,Varsity Program,Bessemer,Tigers
+197,30,Anniston,AL,4A,AHSAA 4A,1-9,1,9,0,10,54.2,54.2,4.18,71.5,197,22.2,41.8,22.2,41.8,-19.6,47.5,25.1,35.02,3.5,6.5,1.0,Varsity Program,Anniston,Bulldogs
+198,26,Cordova,AL,3A,AHSAA 3A,8-3,8,3,0,11,54.1,54.1,4.06,60.9,198,35.5,25.5,35.5,25.5,10.0,66.1,47.9,94.04,25.45,47.27,7.27,Varsity Program,Cordova,Blue Devils
+199,23,Thorsby,AL,2A,AHSAA 2A,8-3,8,3,0,11,53.7,53.7,3.71,55.6,199,38.4,22.3,38.4,22.3,16.1,70.2,52.4,92.19,25.45,47.27,7.27,Varsity Program,Thorsby,Rebels
+200,39,Cullman,AL,5A,AHSAA 5A,3-7,3,7,0,10,53.6,53.6,3.63,70.4,200,20.6,29.5,20.6,29.5,-8.9,45.2,42.3,54.64,10.5,19.5,3.0,Varsity Program,Cullman,Bearcats
+201,45,Autauga Academy,AL,1A,AHSAA 1A,8-2,8,2,0,10,53.6,53.6,3.6,52.2,201,44.7,19.5,44.7,19.5,25.2,79.0,56.3,98.27,28.0,52.0,8.0,Varsity Program,Prattville,Generals
+202,31,Lincoln,AL,4A,AHSAA 4A,2-8,2,8,0,10,53.2,53.2,3.23,69.4,202,25.7,30.2,25.7,30.2,-4.5,52.4,41.3,44.29,7.0,13.0,2.0,Varsity Program,Lincoln,Golden Bears
+203,46,John Carroll Catholic,AL,1A,AHSAA 1A,5-6,5,6,0,11,52.9,52.9,2.94,68.2,203,18.9,25.1,18.9,25.1,-6.2,42.9,48.5,69.32,15.91,29.55,4.55,Varsity Program,Birmingham,The Cavaliers
+204,32,Wenonah,AL,4A,AHSAA 4A,5-5,5,5,0,10,52.9,52.9,2.93,60.5,204,30.0,16.7,30.0,16.7,13.3,58.4,60.2,71.17,17.5,32.5,5.0,Varsity Program,Birmingham,Dragons
+205,47,Lee-Scott Academy,AL,1A,AHSAA 1A,3-8,3,8,0,11,52.9,52.9,2.85,67.5,205,19.6,27.3,19.6,27.3,-7.7,43.8,45.4,50.9,9.55,17.73,2.73,Varsity Program,Auburn,Warriors
+206,27,Talladega,AL,3A,AHSAA 3A,5-6,5,6,0,11,52.8,52.8,2.84,61.2,206,32.9,19.3,32.9,19.3,13.6,62.5,56.6,66.87,15.91,29.55,4.55,Varsity Program,Talladega,Tigers
+207,28,Etowah,AL,3A,AHSAA 3A,7-4,7,4,0,11,52.6,52.6,2.6,61.5,207,26.3,18.7,26.3,18.7,7.6,53.2,57.4,85.16,22.27,41.36,6.36,Varsity Program,Attalla,Blue Devils
+208,29,White Plains,AL,3A,AHSAA 3A,6-5,6,5,0,11,52.5,52.5,2.49,62.1,208,28.1,24.1,28.1,24.1,4.0,55.7,49.9,76.28,19.09,35.45,5.45,Varsity Program,Anniston,Wildcats
+209,30,Hale County,AL,3A,AHSAA 3A,5-5,5,5,0,10,52.2,52.2,2.24,61.8,209,27.2,26.3,27.2,26.3,0.9,54.5,46.8,71.63,17.5,32.5,5.0,Varsity Program,Moundville,Wildcats
+210,31,Pike County,AL,3A,AHSAA 3A,7-4,7,4,0,11,52.1,52.1,2.11,59.8,210,31.5,24.9,31.5,24.9,6.6,60.5,48.7,84.57,22.27,41.36,6.36,Varsity Program,Brundidge,Bulldogs
+211,48,Appalachian,AL,1A,AHSAA 1A,7-4,7,4,0,11,51.6,51.6,1.61,56.0,211,30.2,21.4,30.2,21.4,8.8,58.7,53.6,83.24,22.27,41.36,6.36,Varsity Program,Oneonta,Eagles
+212,24,Colbert County,AL,2A,AHSAA 2A,7-4,7,4,0,11,51.5,51.5,1.53,56.8,212,34.0,24.9,34.0,24.9,9.1,64.0,48.7,83.52,22.27,41.36,6.36,Varsity Program,Leighton,Indians
+213,33,Dale County,AL,4A,AHSAA 4A,6-4,6,4,0,10,51.5,51.5,1.47,62.0,213,23.9,20.9,23.9,20.9,3.0,49.9,54.3,81.7,21.0,39.0,6.0,Varsity Program,Midland City,Warriors
+214,32,East Lawrence,AL,3A,AHSAA 3A,6-5,6,5,0,11,51.4,51.4,1.39,60.6,214,29.5,24.1,29.5,24.1,5.4,57.7,49.9,75.76,19.09,35.45,5.45,Varsity Program,Trinity,Eagles
+215,25,Ranburne,AL,2A,AHSAA 2A,7-4,7,4,0,11,51.1,51.1,1.14,61.2,215,21.6,21.4,21.6,21.4,0.2,46.6,53.6,85.06,22.27,41.36,6.36,Varsity Program,Ranburne,Bulldogs
+216,34,Carroll,AL,4A,AHSAA 4A,6-5,6,5,0,11,51.1,51.1,1.06,63.2,216,20.6,21.9,20.6,21.9,-1.3,45.2,52.9,76.67,19.09,35.45,5.45,Varsity Program,Ozark,Eagles
+217,27,Bryant,AL,6A,AHSAA 6A,3-8,3,8,0,11,51.1,51.1,1.06,70.6,217,17.3,31.5,17.3,31.5,-14.2,40.6,39.5,51.98,9.55,17.73,2.73,Varsity Program,Irvington,Hurricanes
+218,40,Albertville,AL,5A,AHSAA 5A,5-5,5,5,0,10,51.0,51.0,1.03,64.0,218,22.1,22.7,22.1,22.7,-0.6,47.3,51.8,72.4,17.5,32.5,5.0,Varsity Program,Albertville,Aggies
+219,26,Ohatchee,AL,2A,AHSAA 2A,6-5,6,5,0,11,51.0,51.0,0.96,59.9,219,31.4,28.5,31.4,28.5,2.9,60.4,43.7,75.51,19.09,35.45,5.45,Varsity Program,Ohatchee,Indians
+220,33,Booker T. Washington,AL,3A,AHSAA 3A,5-6,5,6,0,11,50.7,50.7,0.73,62.0,220,21.7,23.8,21.7,23.8,-2.1,46.8,50.3,67.15,15.91,29.55,4.55,Varsity Program,Tuskegee,Golden Eagles
+221,34,New Hope,AL,3A,AHSAA 3A,7-4,7,4,0,11,50.7,50.7,0.69,59.3,221,28.7,23.8,28.7,23.8,4.9,56.6,50.3,84.39,22.27,41.36,6.36,Varsity Program,New Hope,Indians
+222,49,South Lamar,AL,1A,AHSAA 1A,5-5,5,5,0,10,50.7,50.7,0.66,57.0,222,28.8,19.8,28.8,19.8,9.0,56.7,55.9,69.95,17.5,32.5,5.0,Varsity Program,Millport,Stallions
+223,50,Coosa Christian,AL,1A,AHSAA 1A,3-7,3,7,0,10,50.6,50.6,0.62,66.5,223,20.7,34.6,20.7,34.6,-13.9,45.4,35.2,53.27,10.5,19.5,3.0,Varsity Program,Gadsden,Conquerors
+224,27,Phil Campbell,AL,2A,AHSAA 2A,7-4,7,4,0,11,50.4,50.4,0.44,57.0,224,34.2,26.6,34.2,26.6,7.6,64.3,46.4,83.59,22.27,41.36,6.36,Varsity Program,Phil Campbell,Bobcats
+225,35,Priceville,AL,4A,AHSAA 4A,5-5,5,5,0,10,50.3,50.3,0.31,62.2,225,29.1,31.5,29.1,31.5,-2.4,57.1,39.5,71.77,17.5,32.5,5.0,Varsity Program,Priceville,Bulldogs
+226,28,Blacksher,AL,2A,AHSAA 2A,7-4,7,4,0,11,50.1,50.1,0.06,58.1,226,25.5,20.9,25.5,20.9,4.6,52.1,54.3,83.97,22.27,41.36,6.36,Varsity Program,Uriah,Bulldogs
+227,28,Robertsdale,AL,6A,AHSAA 6A,2-9,2,9,0,11,50.1,50.1,0.06,70.3,227,16.7,32.1,16.7,32.1,-15.4,39.8,38.7,42.79,6.36,11.82,1.82,Varsity Program,Robertsdale,Golden Bears
+228,35,Vinemont,AL,3A,AHSAA 3A,7-4,7,4,0,11,50.0,50.0,-0.01,58.5,228,25.7,16.2,25.7,16.2,9.5,52.4,60.9,84.11,22.27,41.36,6.36,Varsity Program,Vinemont,Eagles
+229,51,Abbeville Christian Academy,AL,1A,AHSAA 1A,8-3,8,3,0,11,49.9,49.9,-0.12,53.2,229,31.2,16.2,31.2,16.2,15.0,60.1,60.9,91.35,25.45,47.27,7.27,Varsity Program,Abbeville,Generals
+230,52,Morgan Academy,AL,1A,AHSAA 1A,7-4,7,4,0,11,49.9,49.9,-0.12,57.5,230,33.8,27.0,33.8,27.0,6.8,63.7,45.8,83.76,22.27,41.36,6.36,Varsity Program,Selma,Senators
+231,36,Wilson,AL,3A,AHSAA 3A,7-4,7,4,0,11,49.7,49.7,-0.34,57.0,231,34.0,19.2,34.0,19.2,14.8,64.0,56.7,83.59,22.27,41.36,6.36,Varsity Program,Florence,Warriors
+232,29,Cleveland,AL,2A,AHSAA 2A,7-4,7,4,0,11,49.6,49.6,-0.41,60.1,232,28.9,26.4,28.9,26.4,2.5,56.9,46.6,84.67,22.27,41.36,6.36,Varsity Program,Cleveland,Panthers
+233,36,Guntersville,AL,4A,AHSAA 4A,5-6,5,6,0,11,49.6,49.6,-0.41,59.5,233,20.2,14.8,20.2,14.8,5.4,44.7,62.9,66.28,15.91,29.55,4.55,Varsity Program,Guntersville,Wildcats
+234,37,Curry,AL,3A,AHSAA 3A,7-4,7,4,0,11,49.4,49.4,-0.58,61.3,234,27.4,23.1,27.4,23.1,4.3,54.8,51.3,85.09,22.27,41.36,6.36,Varsity Program,Jasper,Yellowjackets
+235,37,Fairfield,AL,4A,AHSAA 4A,6-5,6,5,0,11,49.4,49.4,-0.65,60.1,235,24.1,17.9,24.1,17.9,6.2,50.1,58.5,75.58,19.09,35.45,5.45,Varsity Program,Fairfield,Tigers
+236,38,Shelby County,AL,4A,AHSAA 4A,4-7,4,7,0,11,49.3,49.3,-0.72,64.3,236,24.4,28.5,24.4,28.5,-4.1,50.6,43.7,58.87,12.73,23.64,3.64,Varsity Program,Columbiana,Wildcats
+237,39,Shades Valley,AL,4A,AHSAA 4A,5-6,5,6,0,11,49.1,49.1,-0.94,61.3,237,21.7,15.5,21.7,15.5,6.2,46.8,61.9,66.91,15.91,29.55,4.55,Varsity Program,Birmingham,Mounties
+238,41,Paul W. Bryant,AL,5A,AHSAA 5A,3-7,3,7,0,10,49.0,49.0,-0.97,68.8,238,23.0,31.0,23.0,31.0,-8.0,48.6,40.2,54.08,10.5,19.5,3.0,Varsity Program,Cottondale,Stampede
+239,53,Linden,AL,1A,AHSAA 1A,9-2,9,2,0,11,48.7,48.7,-1.27,50.0,239,28.6,11.5,28.6,11.5,17.1,56.4,67.5,99.32,28.64,53.18,8.18,Varsity Program,Linden,Patriots
+240,40,Center Point,AL,4A,AHSAA 4A,5-6,5,6,0,11,48.7,48.7,-1.29,63.0,240,19.3,18.4,19.3,18.4,0.9,43.4,57.8,67.5,15.91,29.55,4.55,Varsity Program,Birmingham,Eagles
+241,54,Red Bay,AL,1A,AHSAA 1A,7-4,7,4,0,11,48.6,48.6,-1.42,53.9,241,31.2,21.1,31.2,21.1,10.1,60.1,54.1,82.5,22.27,41.36,6.36,Varsity Program,Red Bay,Tigers
+242,55,Providence Christian,AL,1A,AHSAA 1A,5-6,5,6,0,11,48.6,48.6,-1.44,61.1,242,27.1,29.9,27.1,29.9,-2.8,54.3,41.7,66.84,15.91,29.55,4.55,Varsity Program,Dothan,Eagles
+243,56,Hooper Academy,AL,1A,AHSAA 1A,8-3,8,3,0,11,48.4,48.4,-1.58,52.8,243,38.4,23.9,38.4,23.9,14.5,70.2,50.1,91.21,25.45,47.27,7.27,Varsity Program,Hope Hull,Colts
+244,57,Bessemer Academy,AL,1A,AHSAA 1A,6-5,6,5,0,11,48.4,48.4,-1.58,59.0,244,24.4,20.9,24.4,20.9,3.5,50.6,54.3,75.2,19.09,35.45,5.45,Varsity Program,Bessemer,Rebels
+245,38,Hokes Bluff,AL,3A,AHSAA 3A,6-5,6,5,0,11,48.4,48.4,-1.58,59.2,245,25.9,25.2,25.9,25.2,0.7,52.7,48.3,75.27,19.09,35.45,5.45,Varsity Program,Hokes Bluff,Eagles
+246,42,Rehobeth,AL,5A,AHSAA 5A,2-8,2,8,0,10,48.0,48.0,-2.0,67.2,246,14.0,25.3,14.0,25.3,-11.3,36.0,48.2,43.52,7.0,13.0,2.0,Varsity Program,Dothan,Rebels
+247,39,Glencoe,AL,3A,AHSAA 3A,5-5,5,5,0,10,47.6,47.6,-2.39,57.4,247,27.7,20.0,27.7,20.0,7.7,55.2,55.6,70.09,17.5,32.5,5.0,Varsity Program,Glencoe,Yellowjackets
+248,29,Davidson,AL,6A,AHSAA 6A,1-9,1,9,0,10,47.5,47.5,-2.46,69.5,248,17.1,33.0,17.1,33.0,-15.9,40.3,37.4,34.33,3.5,6.5,1.0,Varsity Program,Mobile,Warriors
+249,41,Lawrence County,AL,4A,AHSAA 4A,4-6,4,6,0,10,47.3,47.3,-2.71,66.4,249,21.4,35.8,21.4,35.8,-14.4,46.4,33.5,63.24,14.0,26.0,4.0,Varsity Program,Moulton,Red Devils
+250,30,Smiths Station,AL,6A,AHSAA 6A,1-9,1,9,0,10,47.2,47.2,-2.77,74.1,250,13.1,38.7,13.1,38.7,-25.6,34.7,29.4,35.93,3.5,6.5,1.0,Varsity Program,Smiths,Panthers
+251,42,Greenville,AL,4A,AHSAA 4A,3-7,3,7,0,10,47.1,47.1,-2.87,63.0,251,19.2,23.0,19.2,23.0,-3.8,43.3,51.4,52.05,10.5,19.5,3.0,Varsity Program,Greenville,Tigers
+252,43,Percy Julian,AL,5A,AHSAA 5A,2-8,2,8,0,10,47.1,47.1,-2.91,69.6,252,12.6,32.6,12.6,32.6,-20.0,34.0,38.0,44.36,7.0,13.0,2.0,Varsity Program,Montgomery,Generals
+253,44,Jackson-Olin,AL,5A,AHSAA 5A,2-8,2,8,0,10,47.1,47.1,-2.93,69.0,253,17.2,33.2,17.2,33.2,-16.0,40.5,37.1,44.15,7.0,13.0,2.0,Varsity Program,Birmingham,Mustangs
+254,45,Hueytown,AL,5A,AHSAA 5A,1-9,1,9,0,10,47.0,47.0,-3.03,73.1,254,21.6,49.2,21.6,49.2,-27.6,46.6,25.0,35.58,3.5,6.5,1.0,Varsity Program,Hueytown,Golden Gophers
+255,30,Gaston,AL,2A,AHSAA 2A,6-4,6,4,0,10,47.0,47.0,-3.04,59.3,255,35.7,35.5,35.7,35.5,0.2,66.4,33.9,80.75,21.0,39.0,6.0,Varsity Program,Gadsden,Bulldogs
+256,46,Chelsea,AL,5A,AHSAA 5A,1-9,1,9,0,10,46.8,46.8,-3.2,71.6,256,11.9,37.4,11.9,37.4,-25.5,33.1,31.2,35.06,3.5,6.5,1.0,Varsity Program,Chelsea,Hornets
+257,40,Slocomb,AL,3A,AHSAA 3A,6-4,6,4,0,10,46.8,46.8,-3.22,59.5,257,21.2,23.1,21.2,23.1,-1.9,46.1,51.3,80.83,21.0,39.0,6.0,Varsity Program,Slocomb,Red Tops
+258,41,Wicksburg,AL,3A,AHSAA 3A,4-6,4,6,0,10,46.8,46.8,-3.24,60.3,258,24.7,30.6,24.7,30.6,-5.9,51.0,40.8,61.1,14.0,26.0,4.0,Varsity Program,Newton,Panthers
+259,47,Hillcrest,AL,5A,AHSAA 5A,10-0,10,0,0,10,46.7,46.7,-3.28,63.7,259,52.1,12.9,52.1,12.9,39.2,89.3,65.5,122.3,35.0,65.0,10.0,Varsity Program,Tuscaloosa,Patriots
+260,58,Faith Academy,AL,1A,AHSAA 1A,3-8,3,8,0,11,46.5,46.5,-3.54,69.1,260,11.8,29.4,11.8,29.4,-17.6,32.9,42.4,51.46,9.55,17.73,2.73,Varsity Program,Mobile,Rams
+261,59,Victory Christian,AL,1A,AHSAA 1A,5-5,5,5,0,10,46.3,46.3,-3.74,55.8,261,31.7,25.7,31.7,25.7,6.0,60.8,47.6,69.53,17.5,32.5,5.0,Varsity Program,Pell City,Lions
+262,48,Chilton County,AL,5A,AHSAA 5A,1-9,1,9,0,10,46.1,46.1,-3.85,69.2,262,17.4,35.9,17.4,35.9,-18.5,40.8,33.3,34.22,3.5,6.5,1.0,Varsity Program,Clanton,Tigers
+263,49,Decatur,AL,5A,AHSAA 5A,2-8,2,8,0,10,46.1,46.1,-3.9,69.6,263,11.3,27.6,11.3,27.6,-16.3,32.2,45.0,44.36,7.0,13.0,2.0,Varsity Program,Decatur,Red Raiders
+264,43,Holtville,AL,4A,AHSAA 4A,4-6,4,6,0,10,46.1,46.1,-3.92,64.5,264,24.3,35.7,24.3,35.7,-11.4,50.4,33.6,62.58,14.0,26.0,4.0,Varsity Program,Deatsville,Bulldogs
+265,31,Long,AL,2A,AHSAA 2A,6-5,6,5,0,11,46.1,46.1,-3.93,57.7,265,27.9,27.2,27.9,27.2,0.7,55.5,45.5,74.74,19.09,35.45,5.45,Varsity Program,Skipperville,Rebels
+266,60,Evangel Christian Academy,AL,1A,AHSAA 1A,4-5,4,5,0,9,45.5,45.5,-4.53,47.2,266,29.4,36.0,29.4,36.0,-6.6,57.6,33.2,60.96,15.56,28.89,4.44,Varsity Program,Montgomery,Lions
+267,32,Midfield,AL,2A,AHSAA 2A,3-6,3,6,0,9,45.4,45.4,-4.59,61.6,267,18.6,25.2,18.6,25.2,-6.6,42.4,48.3,54.89,11.67,21.67,3.33,Varsity Program,Midfield,Patriots
+268,42,Childersburg,AL,3A,AHSAA 3A,6-4,6,4,0,10,45.3,45.3,-4.72,57.5,268,27.0,24.2,27.0,24.2,2.8,54.2,49.7,80.12,21.0,39.0,6.0,Varsity Program,Childersburg,Tigers
+269,61,Woodland,AL,1A,AHSAA 1A,3-7,3,7,0,10,45.0,45.0,-4.96,59.1,269,30.7,32.7,30.7,32.7,-2.0,59.4,37.8,50.69,10.5,19.5,3.0,Varsity Program,Woodland,Bobcats
+270,43,Fultondale,AL,3A,AHSAA 3A,3-7,3,7,0,10,45.0,45.0,-5.02,63.3,270,21.4,25.8,21.4,25.8,-4.4,46.4,47.5,52.16,10.5,19.5,3.0,Varsity Program,Birmingham,Wildcats
+271,62,Florala,AL,1A,AHSAA 1A,6-4,6,4,0,10,44.8,44.8,-5.19,55.2,271,30.0,26.2,30.0,26.2,3.8,58.4,46.9,79.32,21.0,39.0,6.0,Varsity Program,Florala,Wildcats
+272,44,Madison County,AL,3A,AHSAA 3A,3-7,3,7,0,10,44.8,44.8,-5.19,58.4,272,29.0,32.0,29.0,32.0,-3.0,57.0,38.8,50.44,10.5,19.5,3.0,Varsity Program,Gurley,Tigers
+273,44,New Brockton,AL,4A,AHSAA 4A,2-8,2,8,0,10,44.7,44.7,-5.28,64.3,273,12.7,26.9,12.7,26.9,-14.2,34.2,45.9,42.5,7.0,13.0,2.0,Varsity Program,New Brockton,Gamecocks
+274,63,Pleasant Home,AL,1A,AHSAA 1A,5-5,5,5,0,10,44.7,44.7,-5.3,56.2,274,25.4,23.1,25.4,23.1,2.3,52.0,51.3,69.67,17.5,32.5,5.0,Varsity Program,Andalusia,Eagles
+275,64,Pickens Academy,AL,1A,AHSAA 1A,8-3,8,3,0,11,44.5,44.5,-5.51,51.4,275,31.0,22.0,31.0,22.0,9.0,59.8,52.8,90.72,25.45,47.27,7.27,Varsity Program,Carrollton,Pirates
+276,45,Rain,AL,4A,AHSAA 4A,0-10,0,10,0,10,44.5,44.5,-5.55,69.0,276,14.5,38.2,14.5,38.2,-23.7,36.7,30.1,24.15,0.0,0.0,0.0,Varsity Program,Mobile,Red Raiders
+277,45,Sylvania,AL,3A,AHSAA 3A,4-6,4,6,0,10,44.4,44.4,-5.57,60.9,277,15.2,30.1,15.2,30.1,-14.9,37.7,41.5,61.31,14.0,26.0,4.0,Varsity Program,Sylvania,Rams
+278,50,Brookwood,AL,5A,AHSAA 5A,2-8,2,8,0,10,44.4,44.4,-5.62,68.3,278,23.4,41.7,23.4,41.7,-18.3,49.2,25.2,43.91,7.0,13.0,2.0,Varsity Program,Brookwood,Panthers
+279,51,Park Crossing,AL,5A,AHSAA 5A,3-7,3,7,0,10,44.4,44.4,-5.63,66.0,279,19.3,31.5,19.3,31.5,-12.2,43.4,39.5,53.1,10.5,19.5,3.0,Varsity Program,Montgomery,Thunderbirds
+280,65,Spring Garden,AL,1A,AHSAA 1A,6-5,6,5,0,11,44.3,44.3,-5.69,57.1,280,23.5,23.5,23.5,23.5,0.0,49.3,50.7,74.53,19.09,35.45,5.45,Varsity Program,Spring Garden,Panthers
+281,46,West Limestone,AL,3A,AHSAA 3A,4-6,4,6,0,10,44.3,44.3,-5.74,56.8,281,20.3,16.4,20.3,16.4,3.9,44.8,60.6,59.88,14.0,26.0,4.0,Varsity Program,Lester,Wildcats
+282,46,Straughn,AL,4A,AHSAA 4A,2-8,2,8,0,10,44.2,44.2,-5.76,64.8,282,12.4,27.3,12.4,27.3,-14.9,33.8,45.4,42.68,7.0,13.0,2.0,Varsity Program,Andalusia,Tigeres
+283,66,Saint James,AL,1A,AHSAA 1A,3-8,3,8,0,11,44.1,44.1,-5.89,63.7,283,15.8,32.6,15.8,32.6,-16.8,38.5,38.0,49.57,9.55,17.73,2.73,Varsity Program,Montgomery,Trojans
+284,67,Prattville Christian Academy,AL,1A,AHSAA 1A,5-5,5,5,0,10,44.0,44.0,-5.97,56.8,284,25.3,25.9,25.3,25.9,-0.6,51.8,47.3,69.88,17.5,32.5,5.0,Varsity Program,Prattville,Panthers
+285,47,Beulah,AL,3A,AHSAA 3A,5-5,5,5,0,10,44.0,44.0,-6.05,56.2,285,27.5,27.3,27.5,27.3,0.2,54.9,45.4,69.67,17.5,32.5,5.0,Varsity Program,Valley,Bobcats
+286,47,Satsuma,AL,4A,AHSAA 4A,4-6,4,6,0,10,43.9,43.9,-6.07,63.1,286,20.0,27.8,20.0,27.8,-7.8,44.4,44.7,62.09,14.0,26.0,4.0,Varsity Program,Satsuma,Gators
+287,48,Haleyville,AL,3A,AHSAA 3A,4-6,4,6,0,10,43.9,43.9,-6.08,61.9,287,24.3,28.1,24.3,28.1,-3.8,50.4,44.3,61.66,14.0,26.0,4.0,Varsity Program,Haleyville,Lions
+288,48,Headland,AL,4A,AHSAA 4A,3-7,3,7,0,10,43.6,43.6,-6.39,62.7,288,14.4,26.2,14.4,26.2,-11.8,36.6,46.9,51.95,10.5,19.5,3.0,Varsity Program,Headland,Rams
+289,33,Central of Coosa County,AL,2A,AHSAA 2A,4-6,4,6,0,10,43.4,43.4,-6.61,60.4,289,25.0,32.6,25.0,32.6,-7.6,51.4,38.0,61.14,14.0,26.0,4.0,Varsity Program,Rockford,Cougars
+290,49,Ashville,AL,3A,AHSAA 3A,3-7,3,7,0,10,43.3,43.3,-6.68,62.0,290,15.4,31.4,15.4,31.4,-16.0,38.0,39.6,51.7,10.5,19.5,3.0,Varsity Program,Ashville,Bulldogs
+291,68,Billingsley,AL,1A,AHSAA 1A,7-4,7,4,0,11,42.8,42.8,-7.22,55.6,291,19.0,24.9,19.0,24.9,-5.9,43.0,48.7,83.1,22.27,41.36,6.36,Varsity Program,Billingsley,Bears
+292,34,Greensboro,AL,2A,AHSAA 2A,4-7,4,7,0,11,42.6,42.6,-7.43,59.5,292,15.5,21.7,15.5,21.7,-6.2,38.1,53.2,57.19,12.73,23.64,3.64,Varsity Program,Greensboro,Raiders
+293,35,Greene County,AL,2A,AHSAA 2A,5-4,5,4,0,9,42.6,42.6,-7.44,53.4,293,21.4,19.9,21.4,19.9,1.5,46.4,55.7,74.25,19.44,36.11,5.56,Varsity Program,Eutaw,Tigers
+294,69,Verbena,AL,1A,AHSAA 1A,6-5,6,5,0,11,42.5,42.5,-7.53,54.8,294,24.3,27.9,24.3,27.9,-3.6,50.4,44.5,73.73,19.09,35.45,5.45,Varsity Program,Verbena,Red Devils
+295,31,Hazel Green,AL,6A,AHSAA 6A,2-8,2,8,0,10,42.4,42.4,-7.57,67.5,295,22.1,46.8,22.1,46.8,-24.7,47.3,25.0,43.62,7.0,13.0,2.0,Varsity Program,Hazel Green,Trojans
+296,70,Fayetteville,AL,1A,AHSAA 1A,3-8,3,8,0,11,42.3,42.3,-7.71,59.8,296,20.9,31.9,20.9,31.9,-11.0,45.7,38.9,48.2,9.55,17.73,2.73,Varsity Program,Sylacauga,Wolves
+297,71,Gaylesville,AL,1A,AHSAA 1A,5-4,5,4,0,9,42.0,42.0,-7.97,53.6,297,26.0,26.0,26.0,26.0,0.0,52.8,47.2,74.32,19.44,36.11,5.56,Varsity Program,Gaylesville,Trojans
+298,36,Locust Fork,AL,2A,AHSAA 2A,3-7,3,7,0,10,41.9,41.9,-8.12,59.3,298,22.4,31.6,22.4,31.6,-9.2,47.8,39.4,50.75,10.5,19.5,3.0,Varsity Program,Locust Fork,Hornets
+299,72,St. Luke's Episcopal,AL,1A,AHSAA 1A,5-5,5,5,0,10,41.7,41.7,-8.28,54.8,299,26.2,26.0,26.2,26.0,0.2,53.1,47.2,69.18,17.5,32.5,5.0,Varsity Program,Mobile,Wildcats
+300,50,Oakman,AL,3A,AHSAA 3A,3-7,3,7,0,10,41.6,41.6,-8.42,63.3,300,16.2,30.8,16.2,30.8,-14.6,39.1,40.5,52.16,10.5,19.5,3.0,Varsity Program,Oakman,Wildcats
+301,49,Holt,AL,4A,AHSAA 4A,4-6,4,6,0,10,41.5,41.5,-8.48,58.7,301,25.1,29.1,25.1,29.1,-4.0,51.5,42.9,60.55,14.0,26.0,4.0,Varsity Program,Holt,Ironmen
+302,32,Tuscaloosa County,AL,6A,AHSAA 6A,0-10,0,10,0,10,41.3,41.3,-8.74,83.2,302,4.8,53.5,4.8,53.5,-48.7,25.0,25.0,29.12,0.0,0.0,0.0,Varsity Program,Northport,Wildcats
+303,52,Lee,AL,5A,AHSAA 5A,1-9,1,9,0,10,41.2,41.2,-8.84,66.8,303,16.9,41.0,16.9,41.0,-24.1,40.1,26.2,33.38,3.5,6.5,1.0,Varsity Program,Huntsville,Generals
+304,51,Rogers,AL,3A,AHSAA 3A,5-6,5,6,0,11,41.1,41.1,-8.89,57.7,304,29.2,37.2,29.2,37.2,-8.0,57.3,31.5,65.65,15.91,29.55,4.55,Varsity Program,Florence,Pirates
+305,50,Ardmore,AL,4A,AHSAA 4A,2-8,2,8,0,10,40.7,40.7,-9.26,65.6,305,18.4,40.6,18.4,40.6,-22.2,42.2,26.8,42.96,7.0,13.0,2.0,Varsity Program,Ardmore,Tigers
+306,73,Choctaw County,AL,1A,AHSAA 1A,6-5,6,5,0,11,40.5,40.5,-9.52,52.4,306,34.3,28.9,34.3,28.9,5.4,64.4,43.1,72.89,19.09,35.45,5.45,Varsity Program,Butler,Tigers
+307,51,West Point,AL,4A,AHSAA 4A,0-10,0,10,0,10,40.5,40.5,-9.52,67.1,307,18.1,43.7,18.1,43.7,-25.6,41.7,25.0,23.48,0.0,0.0,0.0,Varsity Program,Cullman,Warriors
+308,74,Southern Choctaw,AL,1A,AHSAA 1A,4-7,4,7,0,11,40.5,40.5,-9.54,54.8,308,15.1,18.5,15.1,18.5,-3.4,37.5,57.7,55.54,12.73,23.64,3.64,Varsity Program,Gilbertown,Indians
+309,37,Ider,AL,2A,AHSAA 2A,6-5,6,5,0,11,40.1,40.1,-9.86,55.4,309,30.8,32.5,30.8,32.5,-1.7,59.5,38.1,73.94,19.09,35.45,5.45,Varsity Program,Ider,Hornets
+310,53,Columbia,AL,5A,AHSAA 5A,3-7,3,7,0,10,40.0,40.0,-9.95,63.0,310,22.8,35.6,22.8,35.6,-12.8,48.3,33.8,52.05,10.5,19.5,3.0,Varsity Program,Huntsville,Eagles
+311,75,Samson,AL,1A,AHSAA 1A,5-6,5,6,0,11,40.0,40.0,-9.97,56.8,311,18.7,29.3,18.7,29.3,-10.6,42.6,42.6,65.33,15.91,29.55,4.55,Varsity Program,Samson,Tigers
+312,76,McIntosh,AL,1A,AHSAA 1A,5-6,5,6,0,11,39.9,39.9,-10.07,55.3,312,17.7,24.5,17.7,24.5,-6.8,41.2,49.3,64.81,15.91,29.55,4.55,Varsity Program,Mcintosh,Demons
+313,38,Tanner,AL,2A,AHSAA 2A,4-6,4,6,0,10,39.6,39.6,-10.36,53.2,313,25.2,26.8,25.2,26.8,-1.6,51.7,46.1,58.62,14.0,26.0,4.0,Varsity Program,Tanner,Rattlers
+314,77,Belgreen,AL,1A,AHSAA 1A,4-5,4,5,0,9,39.6,39.6,-10.37,51.8,314,26.3,30.3,26.3,30.3,-4.0,53.2,41.2,62.57,15.56,28.89,4.44,Varsity Program,Russellville,Bulldogs
+315,39,Randolph County,AL,2A,AHSAA 2A,3-7,3,7,0,10,39.6,39.6,-10.43,60.3,315,16.7,30.4,16.7,30.4,-13.7,39.8,41.0,51.1,10.5,19.5,3.0,Varsity Program,Wedowee,Tigers
+316,33,Grissom,AL,6A,AHSAA 6A,1-8,1,8,0,9,39.5,39.5,-10.46,66.6,316,16.6,37.7,16.6,37.7,-21.1,39.6,30.8,34.42,3.89,7.22,1.11,Varsity Program,Huntsville,Tigers
+317,78,Lowndes Academy,AL,1A,AHSAA 1A,5-6,5,6,0,11,39.4,39.4,-10.65,52.6,317,23.0,26.4,23.0,26.4,-3.4,48.6,46.6,63.86,15.91,29.55,4.55,Varsity Program,Lowndesboro,Rebels
+318,54,Murphy,AL,5A,AHSAA 5A,1-9,1,9,0,10,39.3,39.3,-10.69,67.5,318,8.4,33.6,8.4,33.6,-25.2,28.2,36.6,33.62,3.5,6.5,1.0,Varsity Program,Mobile,Panthers
+319,79,Donoho,AL,1A,AHSAA 1A,4-5,4,5,0,9,39.1,39.1,-10.91,54.5,319,22.4,28.9,22.4,28.9,-6.5,47.8,43.1,63.52,15.56,28.89,4.44,Varsity Program,Anniston,Falcons
+320,80,Shields,AL,1A,AHSAA 1A,5-5,5,5,0,10,38.8,38.8,-11.19,50.9,320,30.8,22.8,30.8,22.8,8.0,59.5,51.7,67.81,17.5,32.5,5.0,Varsity Program,Beatrice,Panthers
+321,40,Geneva County,AL,2A,AHSAA 2A,3-7,3,7,0,10,38.6,38.6,-11.42,56.8,321,29.0,33.8,29.0,33.8,-4.8,57.0,36.3,49.88,10.5,19.5,3.0,Varsity Program,Hartford,Bulldogs
+322,52,Brewer,AL,4A,AHSAA 4A,3-7,3,7,0,10,38.4,38.4,-11.56,58.2,322,20.9,32.9,20.9,32.9,-12.0,45.7,37.5,50.37,10.5,19.5,3.0,Varsity Program,Somerville,Patriots
+323,41,Monroe County,AL,2A,AHSAA 2A,2-8,2,8,0,10,38.4,38.4,-11.65,63.1,323,11.7,33.0,11.7,33.0,-21.3,32.8,37.4,42.09,7.0,13.0,2.0,Varsity Program,Monroeville,Tigers
+324,81,Fort Dale Academy,AL,1A,AHSAA 1A,3-7,3,7,0,10,38.0,38.0,-12.02,58.8,324,14.7,29.3,14.7,29.3,-14.6,37.0,42.6,50.58,10.5,19.5,3.0,Varsity Program,Greenville,Eagles
+325,82,Cedar Bluff,AL,1A,AHSAA 1A,5-6,5,6,0,11,37.9,37.9,-12.15,56.2,325,20.9,33.0,20.9,33.0,-12.1,45.7,37.4,65.12,15.91,29.55,4.55,Varsity Program,Cedar Bluff,Tigers
+326,55,East Limestone,AL,5A,AHSAA 5A,0-10,0,10,0,10,37.7,37.7,-12.31,68.3,326,13.5,39.8,13.5,39.8,-26.3,35.3,27.9,23.9,0.0,0.0,0.0,Varsity Program,Athens,Indians
+327,83,Lynn,AL,1A,AHSAA 1A,3-7,3,7,0,10,37.6,37.6,-12.36,56.0,327,23.6,31.0,23.6,31.0,-7.4,49.4,40.2,49.6,10.5,19.5,3.0,Varsity Program,Lynn,Bears
+328,42,Southeastern,AL,2A,AHSAA 2A,3-7,3,7,0,10,37.5,37.5,-12.45,58.4,328,19.3,30.6,19.3,30.6,-11.3,43.4,40.8,50.44,10.5,19.5,3.0,Varsity Program,Remlap,Mustangs
+329,53,Dora,AL,4A,AHSAA 4A,2-8,2,8,0,10,37.1,37.1,-12.86,60.7,329,12.7,33.6,12.7,33.6,-20.9,34.2,36.6,41.25,7.0,13.0,2.0,Varsity Program,Dora,Bulldogs
+330,43,West End,AL,2A,AHSAA 2A,2-8,2,8,0,10,37.1,37.1,-12.91,59.3,330,19.6,34.0,19.6,34.0,-14.4,43.8,36.0,40.75,7.0,13.0,2.0,Varsity Program,Walnut Grove,Patriots
+331,84,Georgiana,AL,1A,AHSAA 1A,3-7,3,7,0,10,37.1,37.1,-12.94,57.8,331,11.6,30.9,11.6,30.9,-19.3,32.6,40.3,50.23,10.5,19.5,3.0,Varsity Program,Georgiana,Panthers
+332,54,Jemison,AL,4A,AHSAA 4A,2-8,2,8,0,10,37.0,37.0,-13.0,62.5,332,19.3,39.3,19.3,39.3,-20.0,43.4,28.6,41.88,7.0,13.0,2.0,Varsity Program,Jemison,Panthers
+333,44,North Sand Mountain,AL,2A,AHSAA 2A,3-7,3,7,0,10,37.0,37.0,-13.04,57.2,333,22.9,40.4,22.9,40.4,-17.5,48.5,27.0,50.02,10.5,19.5,3.0,Varsity Program,Higdon,Bison
+334,85,Clarke Prep,AL,1A,AHSAA 1A,4-8,4,8,0,12,36.6,36.6,-13.35,56.4,334,19.2,25.6,19.2,25.6,-6.4,43.3,47.8,53.07,11.67,21.67,3.33,Varsity Program,Grove Hill,Gators
+335,86,Wilcox Academy,AL,1A,AHSAA 1A,1-9,1,9,0,10,36.5,36.5,-13.54,61.0,335,11.4,28.9,11.4,28.9,-17.5,32.4,43.1,31.35,3.5,6.5,1.0,Varsity Program,Camden,Wildcats
+336,52,Kate Duncan Smith DAR,AL,3A,AHSAA 3A,3-7,3,7,0,10,36.3,36.3,-13.68,55.9,336,24.6,32.9,24.6,32.9,-8.3,50.8,37.5,49.56,10.5,19.5,3.0,Varsity Program,Grant,Patriots
+337,45,Pennington,AL,2A,AHSAA 2A,4-7,4,7,0,11,36.2,36.2,-13.81,57.1,337,23.0,34.7,23.0,34.7,-11.7,48.6,35.0,56.35,12.73,23.64,3.64,Varsity Program,Blountsville,Tigers
+338,56,Springville,AL,5A,AHSAA 5A,1-9,1,9,0,10,36.2,36.2,-13.83,69.3,338,8.3,45.6,8.3,45.6,-37.3,28.0,25.0,34.25,3.5,6.5,1.0,Varsity Program,Springville,Tigers
+339,46,Comer,AL,2A,AHSAA 2A,3-7,3,7,0,10,36.0,36.0,-13.99,60.3,339,16.3,33.5,16.3,33.5,-17.2,39.2,36.7,51.1,10.5,19.5,3.0,Varsity Program,Sylacauga,Tigers
+340,87,Abbeville,AL,1A,AHSAA 1A,2-8,2,8,0,10,35.8,35.8,-14.2,57.9,340,18.8,33.2,18.8,33.2,-14.4,42.7,37.1,40.27,7.0,13.0,2.0,Varsity Program,Abbeville,Yellowjackets
+341,53,Munford,AL,3A,AHSAA 3A,2-8,2,8,0,10,35.8,35.8,-14.2,62.4,341,10.1,37.1,10.1,37.1,-27.0,30.5,31.7,41.84,7.0,13.0,2.0,Varsity Program,Munford,Lions
+342,88,Springwood,AL,1A,AHSAA 1A,3-9,3,9,0,12,35.8,35.8,-14.25,44.5,342,27.6,43.7,27.6,43.7,-16.1,55.0,25.0,40.58,8.75,16.25,2.5,Varsity Program,Lanett,Wildcats
+343,47,Sand Rock,AL,2A,AHSAA 2A,3-6,3,6,0,9,35.7,35.7,-14.32,55.8,343,21.6,35.9,21.6,35.9,-14.3,46.6,33.3,52.86,11.67,21.67,3.33,Varsity Program,Leesburg,Wildcats
+344,55,Woodlawn,AL,4A,AHSAA 4A,2-8,2,8,0,10,35.7,35.7,-14.34,59.5,344,13.1,34.7,13.1,34.7,-21.6,34.7,35.0,40.83,7.0,13.0,2.0,Varsity Program,Birmingham,Colonels
+345,89,Pike Liberal Arts,AL,1A,AHSAA 1A,2-8,2,8,0,10,35.6,35.6,-14.38,60.7,345,23.2,42.3,23.2,42.3,-19.1,48.9,25.0,41.25,7.0,13.0,2.0,Varsity Program,Troy,Patriots
+346,54,Geneva,AL,3A,AHSAA 3A,3-7,3,7,0,10,35.6,35.6,-14.44,57.9,346,19.4,32.7,19.4,32.7,-13.3,43.6,37.8,50.27,10.5,19.5,3.0,Varsity Program,Geneva,Panthers
+347,90,Pickens County,AL,1A,AHSAA 1A,2-7,2,7,0,9,35.6,35.6,-14.44,56.8,347,25.1,42.8,25.1,42.8,-17.7,51.5,25.0,42.1,7.78,14.44,2.22,Varsity Program,Reform,Tornadoes
+348,55,West Blocton,AL,3A,AHSAA 3A,1-9,1,9,0,10,35.5,35.5,-14.51,64.3,348,12.5,35.0,12.5,35.0,-22.5,33.9,34.6,32.5,3.5,6.5,1.0,Varsity Program,West Blocton,Tigers
+349,91,Washington County,AL,1A,AHSAA 1A,3-7,3,7,0,10,35.1,35.1,-14.85,55.0,349,25.1,33.8,25.1,33.8,-8.7,51.5,36.3,49.25,10.5,19.5,3.0,Varsity Program,Chatom,Bulldogs
+350,92,Marion County,AL,1A,AHSAA 1A,3-7,3,7,0,10,35.0,35.0,-14.95,56.2,350,26.6,39.9,26.6,39.9,-13.3,53.6,27.7,49.67,10.5,19.5,3.0,Varsity Program,Guin,Red Raiders
+351,56,Hayden,AL,4A,AHSAA 4A,2-8,2,8,0,10,34.5,34.5,-15.45,57.9,351,16.3,28.8,16.3,28.8,-12.5,39.2,43.3,40.27,7.0,13.0,2.0,Varsity Program,Hayden,Wildcats
+352,56,Susan Moore,AL,3A,AHSAA 3A,3-7,3,7,0,10,34.3,34.3,-15.69,57.7,352,17.3,31.5,17.3,31.5,-14.2,40.6,39.5,50.2,10.5,19.5,3.0,Varsity Program,Blountsville,Bulldogs
+353,93,Keith,AL,1A,AHSAA 1A,5-6,5,6,0,11,33.9,33.9,-16.15,50.5,353,30.8,31.9,30.8,31.9,-1.1,59.5,38.9,63.13,15.91,29.55,4.55,Varsity Program,Orrville,Bears
+354,57,Elberta,AL,5A,AHSAA 5A,1-9,1,9,0,10,33.7,33.7,-16.29,68.6,354,9.4,41.0,9.4,41.0,-31.6,29.6,26.2,34.01,3.5,6.5,1.0,Varsity Program,Elberta,Warriors
+355,58,Southside,AL,5A,AHSAA 5A,6-4,6,4,0,10,33.4,33.4,-16.58,57.7,355,26.4,18.6,26.4,18.6,7.8,53.4,57.6,80.19,21.0,39.0,6.0,Varsity Program,Gadsden,Panthers
+356,94,Holy Spirit Catholic,AL,1A,AHSAA 1A,2-7,2,7,0,9,33.1,33.1,-16.89,54.8,356,23.3,34.6,23.3,34.6,-11.3,49.0,35.2,41.4,7.78,14.44,2.22,Varsity Program,Tuscaloosa,Saints
+357,57,Wilcox Central,AL,3A,AHSAA 3A,2-8,2,8,0,10,33.1,33.1,-16.89,60.5,357,12.0,35.9,12.0,35.9,-23.9,33.2,33.3,41.17,7.0,13.0,2.0,Varsity Program,Camden,Jaguars
+358,95,Marengo,AL,1A,AHSAA 1A,3-7,3,7,0,10,32.9,32.9,-17.07,50.5,358,22.2,25.4,22.2,25.4,-3.2,47.5,48.0,47.67,10.5,19.5,3.0,Varsity Program,Dixons Mills,Panthers
+359,96,Ragland,AL,1A,AHSAA 1A,2-8,2,8,0,10,32.8,32.8,-17.24,56.5,359,27.5,45.1,27.5,45.1,-17.6,54.9,25.0,39.77,7.0,13.0,2.0,Varsity Program,Ragland,Purple Devils
+360,97,Edgewood Academy,AL,1A,AHSAA 1A,5-6,5,6,0,11,32.6,32.6,-17.44,53.1,360,14.5,24.8,14.5,24.8,-10.3,36.7,48.9,64.04,15.91,29.55,4.55,Varsity Program,Elmore,Wildcats
+361,98,Decatur Heritage Christian Academy,AL,1A,AHSAA 1A,3-6,3,6,0,9,32.2,32.2,-17.83,58.1,361,15.2,32.0,15.2,32.0,-16.8,37.7,38.8,53.67,11.67,21.67,3.33,Varsity Program,Decatur,Eagles
+362,99,Valiant Cross Academy,AL,1A,AHSAA 1A,3-7,3,7,0,10,31.5,31.5,-18.49,53.7,362,18.7,28.9,18.7,28.9,-10.2,42.6,43.1,48.8,10.5,19.5,3.0,Varsity Program,Montgomery,Warriors
+363,100,Red Level,AL,1A,AHSAA 1A,2-8,2,8,0,10,31.4,31.4,-18.56,56.8,363,17.6,30.2,17.6,30.2,-12.6,41.0,41.3,39.88,7.0,13.0,2.0,Varsity Program,Red Level,Tigers
+364,58,Holly Pond,AL,3A,AHSAA 3A,2-8,2,8,0,10,31.1,31.1,-18.85,58.2,364,15.8,33.1,15.8,33.1,-17.3,38.5,37.3,40.37,7.0,13.0,2.0,Varsity Program,Holly Pond,Broncos
+365,101,Westminster Christian Academy,AL,1A,AHSAA 1A,1-10,1,10,0,11,31.0,31.0,-19.04,67.9,365,9.5,46.8,9.5,46.8,-37.3,29.7,25.0,32.86,3.18,5.91,0.91,Varsity Program,Huntsville,Wildcats
+366,59,Excel,AL,3A,AHSAA 3A,1-9,1,9,0,10,30.9,30.9,-19.08,63.2,366,14.4,49.8,14.4,49.8,-35.4,36.6,25.0,32.12,3.5,6.5,1.0,Varsity Program,Excel,Panthers
+367,48,Carbon Hill,AL,2A,AHSAA 2A,2-8,2,8,0,10,30.8,30.8,-19.18,57.5,367,25.5,40.2,25.5,40.2,-14.7,52.1,27.3,40.12,7.0,13.0,2.0,Varsity Program,Carbon Hill,Bulldogs
+368,49,Dallas County,AL,2A,AHSAA 2A,5-5,5,5,0,10,30.7,30.7,-19.31,52.2,368,22.5,33.3,22.5,33.3,-10.8,47.9,37.0,68.27,17.5,32.5,5.0,Varsity Program,Plantersville,Hornets
+369,102,Pineview Christian,AL,1A,AHSAA 1A,0-6,0,6,0,6,30.0,30.0,-19.98,41.0,369,21.2,34.5,21.2,34.5,-13.3,46.1,35.3,14.35,0.0,0.0,0.0,Varsity Program,Harvest,Warriors
+370,103,Bayshore Christian,AL,1A,AHSAA 1A,3-6,3,6,0,9,30.0,30.0,-20.01,55.3,370,17.8,29.1,17.8,29.1,-11.3,41.3,42.9,52.69,11.67,21.67,3.33,Varsity Program,Fairhope,Eagles
+371,104,LaFayette,AL,1A,AHSAA 1A,2-8,2,8,0,10,29.7,29.7,-20.26,58.5,371,20.0,42.2,20.0,42.2,-22.2,44.4,25.0,40.47,7.0,13.0,2.0,Varsity Program,Lafayette,Fighting Bulldogs
+372,57,Beauregard,AL,4A,AHSAA 4A,0-10,0,10,0,10,28.9,28.9,-21.06,65.4,372,10.1,41.7,10.1,41.7,-31.6,30.5,25.2,22.89,0.0,0.0,0.0,Varsity Program,Opelika,Hornets
+373,50,Zion Chapel,AL,2A,AHSAA 2A,2-8,2,8,0,10,28.9,28.9,-21.13,57.6,373,13.0,34.6,13.0,34.6,-21.6,34.6,35.2,40.16,7.0,13.0,2.0,Varsity Program,Jack,Rebels
+374,105,Heritage Christian Academy,AL,1A,AHSAA 1A,2-9,2,9,0,11,28.5,28.5,-21.51,43.5,374,19.1,47.1,19.1,47.1,-28.0,43.1,25.0,33.41,6.36,11.82,1.82,Varsity Program,Hoover,Eagles
+375,106,Lindsay Lane Christian Academy,AL,1A,AHSAA 1A,4-6,4,6,0,10,28.4,28.4,-21.6,53.1,375,14.1,27.5,14.1,27.5,-13.4,36.1,45.1,58.59,14.0,26.0,4.0,Varsity Program,Athens,Lions
+376,51,Valley Head,AL,2A,AHSAA 2A,1-9,1,9,0,10,28.3,28.3,-21.66,55.4,376,14.3,33.1,14.3,33.1,-18.8,36.4,37.3,29.39,3.5,6.5,1.0,Varsity Program,AL,Varsity
+377,107,Southern Prep Academy,AL,1A,AHSAA 1A,3-8,3,8,0,11,28.3,28.3,-21.72,53.5,377,22.5,32.5,22.5,32.5,-10.0,47.9,38.1,46.0,9.55,17.73,2.73,Varsity Program,Camp Hill,Rangers
+378,52,Sheffield,AL,2A,AHSAA 2A,2-8,2,8,0,10,28.2,28.2,-21.79,55.2,378,19.0,38.8,19.0,38.8,-19.8,43.0,29.3,39.32,7.0,13.0,2.0,Varsity Program,Sheffield,Bulldogs
+379,58,Carver Birmingham,AL,4A,AHSAA 4A,0-8,0,8,0,8,28.1,28.1,-21.9,62.2,379,7.2,45.2,7.2,45.2,-38.0,26.5,25.0,21.77,0.0,0.0,0.0,Varsity Program,Birmingham,Rams
+380,60,Daleville,AL,3A,AHSAA 3A,1-9,1,9,0,10,27.8,27.8,-22.17,56.9,380,11.4,30.8,11.4,30.8,-19.4,32.4,40.5,29.91,3.5,6.5,1.0,Varsity Program,Daleville,Warhawks
+381,108,Barbour County,AL,1A,AHSAA 1A,2-7,2,7,0,9,27.6,27.6,-22.35,55.4,381,8.9,30.7,8.9,30.7,-21.8,28.9,40.6,41.61,7.78,14.44,2.22,Varsity Program,Clayton,Jaguars
+382,59,Montevallo,AL,4A,AHSAA 4A,1-9,1,9,0,10,27.6,27.6,-22.44,61.2,382,14.9,44.4,14.9,44.4,-29.5,37.3,25.0,31.42,3.5,6.5,1.0,Varsity Program,Montevallo,Bulldogs
+383,53,Chickasaw,AL,2A,AHSAA 2A,1-9,1,9,0,10,27.1,27.1,-22.88,60.7,383,9.0,39.3,9.0,39.3,-30.3,29.0,28.6,31.25,3.5,6.5,1.0,Varsity Program,Chickasaw,Chieftains
+384,61,Colbert Heights,AL,3A,AHSAA 3A,2-8,2,8,0,10,27.1,27.1,-22.95,56.9,384,15.6,40.7,15.6,40.7,-25.1,38.2,26.6,39.91,7.0,13.0,2.0,Varsity Program,Tuscumbia,Wildcats
+385,62,Clements,AL,3A,AHSAA 3A,2-8,2,8,0,10,25.7,25.7,-24.28,55.0,385,12.8,35.1,12.8,35.1,-22.3,34.3,34.5,39.25,7.0,13.0,2.0,Varsity Program,Athens,Colts
+386,63,Elkmont,AL,3A,AHSAA 3A,2-8,2,8,0,10,25.6,25.6,-24.37,52.5,386,13.8,33.0,13.8,33.0,-19.2,35.7,37.4,38.38,7.0,13.0,2.0,Varsity Program,Elkmont,Red Devils
+387,54,Winston County,AL,2A,AHSAA 2A,0-10,0,10,0,10,25.5,25.5,-24.51,57.5,387,8.6,36.7,8.6,36.7,-28.1,28.4,32.2,20.12,0.0,0.0,0.0,Varsity Program,Double Springs,Yellowjackets
+388,55,Goshen,AL,2A,AHSAA 2A,1-9,1,9,0,10,25.4,25.4,-24.63,57.0,388,10.8,38.1,10.8,38.1,-27.3,31.5,30.3,29.95,3.5,6.5,1.0,Varsity Program,Goshen,Eagles
+389,60,Sardis,AL,4A,AHSAA 4A,1-9,1,9,0,10,25.2,25.2,-24.75,58.5,389,11.9,39.7,11.9,39.7,-27.8,33.1,28.0,30.47,3.5,6.5,1.0,Varsity Program,Boaz,Lions
+390,64,Weaver,AL,3A,AHSAA 3A,1-9,1,9,0,10,24.4,24.4,-25.58,61.0,390,10.5,43.6,10.5,43.6,-33.1,31.1,25.0,31.35,3.5,6.5,1.0,Varsity Program,Weaver,Bearcats
+391,109,Central,AL,1A,AHSAA 1A,3-7,3,7,0,10,24.4,24.4,-25.65,50.8,391,15.8,31.3,15.8,31.3,-15.5,38.5,39.8,47.78,10.5,19.5,3.0,Varsity Program,Hayneville,Lions
+392,110,Jackson Academy,AL,1A,AHSAA 1A,1-10,1,10,0,11,24.1,24.1,-25.9,59.5,392,5.5,36.9,5.5,36.9,-31.4,25.0,31.9,29.92,3.18,5.91,0.91,Varsity Program,Jackson,Eagles
+393,56,Section,AL,2A,AHSAA 2A,1-8,1,8,0,9,23.7,23.7,-26.3,56.2,393,13.6,42.7,13.6,42.7,-29.1,35.4,25.0,30.78,3.89,7.22,1.11,Varsity Program,Section,Lions
+394,111,St. John Paul II,AL,1A,AHSAA 1A,0-11,0,11,0,11,23.6,23.6,-26.37,66.2,394,7.6,40.2,7.6,40.2,-32.6,27.0,27.3,23.17,0.0,0.0,0.0,Varsity Program,Huntsville,Falcons
+395,112,Chilton Christian Academy,AL,1A,AHSAA 1A,0-4,0,4,0,4,23.4,23.4,-26.6,41.0,395,11.2,45.5,11.2,45.5,-34.3,32.1,25.0,14.35,0.0,0.0,0.0,Varsity Program,Jemison,Patriots
+396,113,North River Christian,AL,1A,AHSAA 1A,0-9,0,9,0,9,23.4,23.4,-26.6,41.0,396,10.1,47.6,10.1,47.6,-37.5,30.5,25.0,14.35,0.0,0.0,0.0,Varsity Program,Tuscaloosa,Chargers
+397,114,Fruitdale,AL,1A,AHSAA 1A,1-9,1,9,0,10,22.2,22.2,-27.77,52.4,397,13.0,34.5,13.0,34.5,-21.5,34.6,35.3,28.34,3.5,6.5,1.0,Varsity Program,Fruitdale,Pirates
+398,57,Horseshoe Bend,AL,2A,AHSAA 2A,0-10,0,10,0,10,21.6,21.6,-28.41,61.7,398,9.3,43.2,9.3,43.2,-33.9,29.4,25.0,21.59,0.0,0.0,0.0,Varsity Program,New Site,Generals
+399,58,Brindlee Mountain,AL,2A,AHSAA 2A,2-8,2,8,0,10,21.4,21.4,-28.65,53.0,399,13.8,37.6,13.8,37.6,-23.8,35.7,31.0,38.55,7.0,13.0,2.0,Varsity Program,Guntersville,Lions
+400,59,Saks,AL,2A,AHSAA 2A,0-10,0,10,0,10,21.0,21.0,-29.02,60.4,400,10.7,43.1,10.7,43.1,-32.4,31.4,25.0,21.14,0.0,0.0,0.0,Varsity Program,Anniston,Wildcats
+401,115,Waterloo,AL,1A,AHSAA 1A,3-7,3,7,0,10,21.0,21.0,-29.03,48.9,401,19.2,35.6,19.2,35.6,-16.4,43.3,33.8,47.11,10.5,19.5,3.0,Varsity Program,Waterloo,Cougars
+402,116,Tharptown,AL,1A,AHSAA 1A,3-6,3,6,0,9,20.9,20.9,-29.1,42.9,402,10.9,36.2,10.9,36.2,-25.3,31.7,32.9,48.35,11.67,21.67,3.33,Varsity Program,Russellville,Varsity
+403,117,Notasulga,AL,1A,AHSAA 1A,1-8,1,8,0,9,20.3,20.3,-29.69,56.4,403,6.0,36.1,6.0,36.1,-30.1,25.0,33.1,30.85,3.89,7.22,1.11,Varsity Program,Notasulga,Blue Devils
+404,118,Brilliant,AL,1A,AHSAA 1A,2-8,2,8,0,10,19.9,19.9,-30.06,51.8,404,15.6,42.6,15.6,42.6,-27.0,38.2,25.0,38.13,7.0,13.0,2.0,Varsity Program,Brilliant,Tigers
+405,119,Cherokee,AL,1A,AHSAA 1A,3-7,3,7,0,10,19.4,19.4,-30.57,48.2,405,24.5,42.4,24.5,42.4,-17.9,50.7,25.0,46.87,10.5,19.5,3.0,Varsity Program,Cherokee,Indians
+406,60,Houston County,AL,2A,AHSAA 2A,0-10,0,10,0,10,19.4,19.4,-30.6,58.0,406,10.3,40.8,10.3,40.8,-30.5,30.8,26.5,20.3,0.0,0.0,0.0,Varsity Program,Columbia,Lions
+407,65,Danville,AL,3A,AHSAA 3A,1-9,1,9,0,10,19.2,19.2,-30.82,59.6,407,7.6,42.8,7.6,42.8,-35.2,27.0,25.0,30.86,3.5,6.5,1.0,Varsity Program,Danville,Hawks
+408,120,Hatch,AL,1A,AHSAA 1A,2-8,2,8,0,10,19.1,19.1,-30.94,52.5,408,9.6,42.3,9.6,42.3,-32.7,29.8,25.0,38.38,7.0,13.0,2.0,Varsity Program,Uniontown,Bobcats
+409,121,Marion,AL,1A,AHSAA 1A,2-7,2,7,0,9,19.0,19.0,-31.01,52.0,409,11.1,40.1,11.1,40.1,-29.0,31.9,27.5,40.42,7.78,14.44,2.22,Varsity Program,Marion,Rams
+410,122,Crenshaw Christian Academy,AL,1A,AHSAA 1A,1-10,1,10,0,11,19.0,19.0,-31.01,54.2,410,7.5,39.0,7.5,39.0,-31.5,26.9,29.0,28.06,3.18,5.91,0.91,Varsity Program,Luverne,Cougars
+411,66,Tarrant,AL,3A,AHSAA 3A,0-10,0,10,0,10,18.9,18.9,-31.05,62.8,411,4.9,45.7,4.9,45.7,-40.8,25.0,25.0,21.98,0.0,0.0,0.0,Varsity Program,Birmingham,Wildcats
+412,123,Northside Methodist Academy,AL,1A,AHSAA 1A,1-9,1,9,0,10,18.7,18.7,-31.3,56.6,412,11.6,47.5,11.6,47.5,-35.9,32.6,25.0,29.81,3.5,6.5,1.0,Varsity Program,Dothan,Knights
+413,124,Snook Christian Academy,AL,1A,AHSAA 1A,1-7,1,7,0,8,18.2,18.2,-31.84,56.2,413,14.0,42.0,14.0,42.0,-28.0,36.0,25.0,32.17,4.38,8.12,1.25,Varsity Program,Foley,Eagles
+414,125,Shoals Christian,AL,1A,AHSAA 1A,2-8,2,8,0,10,17.5,17.5,-32.49,53.5,414,8.0,32.5,8.0,32.5,-24.5,27.6,38.1,38.72,7.0,13.0,2.0,Varsity Program,Florence,Flame
+415,126,Calhoun,AL,1A,AHSAA 1A,1-9,1,9,0,10,17.4,17.4,-32.56,51.6,415,8.4,20.8,8.4,20.8,-12.4,28.2,54.5,28.06,3.5,6.5,1.0,Varsity Program,Letohatchee,Tigers
+416,61,Crossville,AL,4A,AHSAA 4A,1-9,1,9,0,10,14.8,14.8,-35.19,58.4,416,5.6,48.1,5.6,48.1,-42.5,25.0,25.0,30.44,3.5,6.5,1.0,Varsity Program,Crossville,Lions
+417,127,Phillips,AL,1A,AHSAA 1A,1-9,1,9,0,10,14.0,14.0,-36.0,49.6,417,8.4,43.9,8.4,43.9,-35.5,28.2,25.0,27.36,3.5,6.5,1.0,Varsity Program,Bear Creek,Bears
+418,67,Asbury,AL,3A,AHSAA 3A,0-10,0,10,0,10,14.0,14.0,-36.0,55.8,418,5.8,48.4,5.8,48.4,-42.6,25.0,25.0,19.53,0.0,0.0,0.0,Varsity Program,Albertville,Rams
+419,128,Breakthrough Charter,AL,1A,AHSAA 1A,0-10,0,10,0,10,14.0,14.0,-36.0,49.7,419,4.2,41.6,4.2,41.6,-37.4,25.0,25.4,17.39,0.0,0.0,0.0,Varsity Program,Marion,Charter
+420,129,Ellwood Christian,AL,1A,AHSAA 1A,0-9,0,9,0,9,14.0,14.0,-36.0,58.9,420,8.4,48.6,8.4,48.6,-40.2,28.2,25.0,20.61,0.0,0.0,0.0,Varsity Program,Selma,Eagles
+421,68,Hanceville,AL,3A,AHSAA 3A,0-10,0,10,0,10,14.0,14.0,-36.0,57.1,421,7.4,52.2,7.4,52.2,-44.8,26.8,25.0,19.98,0.0,0.0,0.0,Varsity Program,Hanceville,Bulldogs
+422,130,Sparta Academy,AL,1A,AHSAA 1A,0-11,0,11,0,11,14.0,14.0,-36.0,53.3,422,2.5,45.0,2.5,45.0,-42.5,25.0,25.0,18.65,0.0,0.0,0.0,Varsity Program,Evergreen,Warriors
+423,61,Sumter Central,AL,2A,AHSAA 2A,0-10,0,10,0,10,14.0,14.0,-36.0,56.2,423,5.4,44.4,5.4,44.4,-39.0,25.0,25.0,19.67,0.0,0.0,0.0,Varsity Program,York,Jaguars
+424,131,Vina,AL,1A,AHSAA 1A,0-7,0,7,0,7,14.0,14.0,-36.0,42.1,424,6.0,39.1,6.0,39.1,-33.1,25.0,28.9,14.73,0.0,0.0,0.0,Varsity Program,Vina,Red Devils

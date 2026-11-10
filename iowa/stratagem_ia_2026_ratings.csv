@@ -1,0 +1,346 @@
+rank,division_rank,team,state,division,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_scored,ppg_allowed,ppg_off,ppg_def,net_margin,off_index,def_index,playoff_points,harbin_avg,ppa,pqs,contender_tier,city,mascot
+1,1,Southeast Polk,IA,5A,IHSAA Conference,11-2,11,2,0,13,96.4,96.4,53.5,64.4,1,33.4,19.1,33.4,19.1,14.3,63.2,56.9,107.16,66.68,66.68,66.68,State Title Contender,Des Moines,Rams
+2,1,Lewis Central,IA,4A,IHSAA Conference,11-1,11,1,0,12,94.6,94.6,48.66,61.4,2,31.8,16.7,31.8,16.7,15.1,60.9,60.2,113.16,72.06,72.06,72.06,State Title Contender,Des Moines,Titans
+3,2,Dowling Catholic,IA,5A,IHSAA Conference,10-3,10,3,0,13,94.3,94.3,48.06,65.4,3,29.5,19.9,29.5,19.9,9.6,57.7,55.7,99.81,63.84,63.84,63.84,State Title Contender,Des Moines,Maroons
+4,3,Valley,IA,5A,IHSAA Conference,12-1,12,1,0,13,92.7,92.7,45.05,63.7,4,26.5,15.8,26.5,15.8,10.7,53.5,61.5,114.6,70.22,70.22,70.22,State Title Contender,Des Moines,Tigers
+5,4,Ankeny,IA,5A,IHSAA Conference,11-2,11,2,0,13,92.7,92.7,45.05,64.3,5,29.6,19.9,29.6,19.9,9.7,57.8,55.7,107.12,66.61,66.61,66.61,State Title Contender,Ankeny,Hawks
+6,2,Xavier,IA,4A,IHSAA Conference,9-2,9,2,0,11,92.3,92.3,44.45,63.0,6,27.7,17.2,27.7,17.2,10.5,55.2,59.5,103.87,69.48,69.48,69.48,State Title Contender,Des Moines,Lancers
+7,1,Van Meter,IA,2A,IHSAA Conference,12-2,12,2,0,14,90.9,90.9,42.25,54.3,7,36.3,16.6,36.3,16.6,19.7,67.2,60.4,104.72,69.27,69.27,69.27,State Title Contender,Van Meter,Bulldogs
+8,2,CL/GLR,IA,2A,IHSAA Conference,13-1,13,1,0,14,90.5,90.5,41.65,53.2,8,35.5,15.4,35.5,15.4,20.1,66.1,62.0,111.48,70.79,70.79,70.79,State Title Contender,Des Moines,Varsity
+9,1,Williamsburg,IA,3A,IHSAA Conference,11-1,11,1,0,12,89.3,89.3,40.05,56.1,9,32.1,15.8,32.1,15.8,16.3,61.3,61.5,111.3,74.09,74.09,74.09,State Title Contender,Williamsburg,Raiders
+10,5,Ankeny Centennial,IA,5A,IHSAA Conference,7-3,7,3,0,10,88.3,88.3,38.86,64.1,10,27.8,21.3,27.8,21.3,6.5,55.3,53.8,92.44,61.73,61.73,61.73,State Title Contender,Ankeny,Jaguars
+11,3,Pella,IA,4A,IHSAA Conference,10-3,10,3,0,13,87.5,87.5,37.86,60.5,11,29.5,18.8,29.5,18.8,10.7,57.7,57.3,98.1,61.89,61.89,61.89,State Title Contender,Pella,Little Dutch
+12,6,Waukee,IA,5A,IHSAA Conference,5-6,5,6,0,11,85.7,85.7,35.88,64.6,12,27.5,22.4,27.5,22.4,5.1,54.9,52.2,68.06,53.98,53.98,53.98,State Title Contender,Waukee,Warriors
+13,2,Mount Vernon,IA,3A,IHSAA Conference,11-2,11,2,0,13,85.2,85.2,35.28,54.5,13,32.5,16.4,32.5,16.4,16.1,61.9,60.6,103.69,66.26,66.26,66.26,State Title Contender,Mount Vernon,Varsity
+14,7,Johnston,IA,5A,IHSAA Conference,7-5,7,5,0,12,83.8,83.8,33.89,65.0,14,22.6,20.1,22.6,20.1,2.5,48.0,55.5,81.08,55.51,55.51,55.51,Regional Contender,Johnston,Dragons
+15,3,Solon,IA,3A,IHSAA Conference,11-2,11,2,0,13,83.3,83.3,33.3,54.0,15,34.2,19.7,34.2,19.7,14.5,64.3,56.0,103.52,67.82,67.82,67.82,Regional Contender,Solon,Spartans
+16,4,North Polk,IA,4A,IHSAA Conference,7-5,7,5,0,12,81.9,81.9,31.92,59.3,16,27.9,20.2,27.9,20.2,7.7,55.5,55.3,79.09,58.17,58.17,58.17,Regional Contender,Des Moines,Comets
+17,1,Woodbury Central,IA,A,IHSAA Conference,13-1,13,1,0,14,80.3,80.3,30.34,46.0,17,35.4,14.1,35.4,14.1,21.3,66.0,63.9,108.96,68.37,68.37,68.37,Regional Contender,Des Moines,Wildcats
+18,1,Dike-New Hartford,IA,1A,IHSAA Conference,11-2,11,2,0,13,79.3,79.3,29.35,49.0,18,31.2,13.2,31.2,13.2,18.0,60.1,65.1,101.77,69.58,69.58,69.58,Regional Contender,Dike,Wolverines
+19,2,Regina,IA,1A,IHSAA Conference,11-3,11,3,0,14,79.0,79.0,28.96,47.3,19,34.1,15.1,34.1,15.1,19.0,64.1,62.5,95.13,59.32,59.32,59.32,Regional Contender,Des Moines,Crownies
+20,3,Grundy Center,IA,1A,IHSAA Conference,12-2,12,2,0,14,77.2,77.2,27.19,52.1,20,31.1,17.9,31.1,17.9,13.2,59.9,58.5,103.95,67.28,67.28,67.28,Regional Contender,Grundy Center,Spartans
+21,3,Spirit Lake,IA,2A,IHSAA Conference,13-1,13,1,0,14,76.6,76.6,26.6,50.7,21,32.6,17.7,32.6,17.7,14.9,62.0,58.8,110.6,64.77,64.77,64.77,Regional Contender,Spirit Lake,Indians
+22,2,Audubon,IA,A,IHSAA A,11-0,11,0,0,11,76.6,76.6,26.6,55.0,22,66.2,13.5,66.2,13.5,52.7,99.5,64.7,119.25,35.0,65.0,10.0,Regional Contender,Audubon,Wheelers
+23,3,Gladbrook-Reinbeck,IA,A,IHSAA A,11-0,11,0,0,11,76.6,76.6,26.6,55.0,23,54.5,6.5,54.5,6.5,48.0,92.7,74.5,119.25,35.0,65.0,10.0,Regional Contender,Reinbeck,Rebels
+24,4,Iowa Valley,IA,A,IHSAA A,11-0,11,0,0,11,76.6,76.6,26.6,55.0,24,67.8,11.8,67.8,11.8,56.0,99.5,67.1,119.25,35.0,65.0,10.0,Regional Contender,Marengo,Tigers
+25,5,Woodbine,IA,A,IHSAA A,10-0,10,0,0,10,76.6,76.6,26.6,55.0,25,58.0,13.1,58.0,13.1,44.9,97.6,65.3,119.25,35.0,65.0,10.0,Regional Contender,Woodbine,Tigers
+26,6,Edgewood-Colesburg,IA,A,IHSAA A,10-1,10,1,0,11,74.0,74.0,24.05,53.7,26,59.5,19.3,59.5,19.3,40.2,99.5,56.6,109.7,31.82,59.09,9.09,Regional Contender,Edgewood,Vikings
+27,7,Bedford,IA,A,IHSAA A,9-1,9,1,0,10,73.8,73.8,23.8,53.6,27,53.0,19.1,53.0,19.1,33.9,90.6,56.9,108.76,31.5,58.5,9.0,Playoff Qualifier,Bedford,Bulldogs
+28,4,Central Lyon/George-Little Rock,IA,2A,IHSAA 2A,10-0,10,0,0,10,73.0,73.0,22.99,65.5,28,36.6,10.8,36.6,10.8,25.8,67.6,68.5,122.92,35.0,65.0,10.0,Playoff Qualifier,Rock Rapids,Lions
+29,5,Western Dubuque,IA,4A,IHSAA Conference,8-4,8,4,0,12,72.7,72.7,22.69,54.1,29,27.9,20.0,27.9,20.0,7.9,55.5,55.6,85.6,56.65,56.65,56.65,Playoff Qualifier,Dubuque,Bobcats
+30,6,ADM,IA,4A,IHSAA Conference,7-4,7,4,0,11,72.5,72.5,22.49,57.8,30,25.7,21.3,25.7,21.3,4.4,52.4,53.8,83.87,61.88,61.88,61.88,Playoff Qualifier,Des Moines,Tigers
+31,8,Bishop Garrigan,IA,A,IHSAA A,9-2,9,2,0,11,71.5,71.5,21.51,52.5,31,47.7,17.1,47.7,17.1,30.6,83.2,59.7,100.19,28.64,53.18,8.18,Playoff Qualifier,Algona,Golden Bears
+32,9,North Union,IA,A,IHSAA A,9-2,9,2,0,11,71.5,71.5,21.51,52.5,32,52.5,21.5,52.5,21.5,31.0,89.9,53.5,100.19,28.64,53.18,8.18,Playoff Qualifier,Armstrong,Mustangs
+33,4,Kee,IA,3A,IAHSAA 3A,8-2,8,2,0,10,71.0,71.0,21.0,52.2,33,54.6,24.7,54.6,24.7,29.9,92.8,49.0,98.27,28.0,52.0,8.0,Playoff Qualifier,Des Moines,Hawks
+34,4,West Lyon,IA,1A,IHSAA Conference,10-3,10,3,0,13,70.9,70.9,20.93,43.2,34,34.3,16.0,34.3,16.0,18.3,64.4,61.2,92.04,57.95,57.95,57.95,Playoff Qualifier,Des Moines,Wildcats
+35,5,Algona,IA,3A,IHSAA Conference,9-4,9,4,0,13,70.7,70.7,20.74,52.2,35,27.8,19.3,27.8,19.3,8.5,55.3,56.6,87.5,57.46,57.46,57.46,Playoff Qualifier,Algona,Bulldogs
+36,8,Waukee Northwest,IA,5A,IHSAA Conference,3-8,3,8,0,11,69.6,69.6,19.57,64.5,36,21.5,25.6,21.5,25.6,-4.1,46.5,47.8,49.85,45.55,45.55,45.55,Playoff Qualifier,Waukee,Varsity
+37,5,Kuemper,IA,2A,IHSAA 2A,9-2,9,2,0,11,69.4,69.4,19.43,67.1,37,35.9,11.9,35.9,11.9,24.0,66.7,66.9,105.3,28.64,53.18,8.18,Playoff Qualifier,Carroll,Knights
+38,7,Carlisle,IA,4A,IHSAA Conference,6-6,6,6,0,12,69.4,69.4,19.38,60.4,38,23.6,23.8,23.6,23.8,-0.2,49.4,50.3,71.14,51.56,51.56,51.56,Playoff Qualifier,Carlisle,Wildcats
+39,9,Cedar Falls,IA,5A,IHSAA Conference,5-6,5,6,0,11,67.6,67.6,17.63,63.9,39,20.6,25.4,20.6,25.4,-4.8,45.2,48.0,67.82,51.17,51.17,51.17,Playoff Qualifier,Cedar Falls,Tigers
+40,5,Underwood,IA,1A,IHSAA Conference,10-4,10,4,0,14,67.4,67.4,17.44,47.5,40,28.9,16.3,28.9,16.3,12.6,56.9,60.8,88.05,54.72,54.72,54.72,Playoff Qualifier,Underwood,Eagles
+41,10,Boyer Valley,IA,A,IHSAA A,7-2,7,2,0,9,67.0,67.0,17.05,51.9,41,41.6,21.0,41.6,21.0,20.6,74.6,54.2,95.94,27.22,50.56,7.78,Playoff Qualifier,Dunlap,Bulldogs
+42,11,Montezuma,IA,A,IHSAA A,8-2,8,2,0,10,66.0,66.0,15.96,52.2,42,42.4,25.6,42.4,25.6,16.8,75.8,47.8,98.27,28.0,52.0,8.0,Playoff Qualifier,Montezuma,Braves
+43,6,Kuemper Catholic,IA,2A,IHSAA Conference,9-5,9,5,0,14,65.5,65.5,15.51,52.5,43,26.1,20.2,26.1,20.2,5.9,52.9,55.3,82.66,57.85,57.85,57.85,Playoff Qualifier,Des Moines,Varsity
+44,7,Odebolt Arthur Battle Creek Ida Grove,IA,2A,IHSAA 2A,9-2,9,2,0,11,65.5,65.5,15.51,68.0,44,29.9,14.1,29.9,14.1,15.8,58.3,63.9,105.62,28.64,53.18,8.18,Playoff Qualifier,Ida Grove,Falcons
+45,12,Kingsley-Pierson,IA,A,IHSAA A,8-2,8,2,0,10,65.4,65.4,15.42,52.2,45,43.8,28.2,43.8,28.2,15.6,77.7,44.1,98.27,28.0,52.0,8.0,Playoff Qualifier,Kingsley,Panthers
+46,13,Saint Ansgar,IA,A,IHSAA Conference,12-2,12,2,0,14,65.3,65.3,15.32,47.5,46,28.9,16.4,28.9,16.4,12.5,56.9,60.6,102.34,68.67,68.67,68.67,Playoff Qualifier,Des Moines,Varsity
+47,10,Pleasant Valley,IA,5A,IHSAA Conference,3-7,3,7,0,10,65.3,65.3,15.32,67.4,47,18.9,28.1,18.9,28.1,-9.2,42.9,44.3,53.59,50.86,50.86,50.86,Playoff Qualifier,Des Moines,Spartans
+48,14,Don Bosco,IA,A,IHSAA A,6-3,6,3,0,9,65.1,65.1,15.11,50.3,48,46.8,23.6,46.8,23.6,23.2,81.9,50.6,84.27,23.33,43.33,6.67,Playoff Qualifier,Gilbertville,Dons
+49,11,Liberty,IA,5A,IHSAA 5A,7-4,7,4,0,11,64.7,64.7,14.66,68.0,49,31.5,21.2,31.5,21.2,10.3,60.5,53.9,87.44,22.27,41.36,6.36,Playoff Qualifier,North Liberty,Lightning
+50,12,Northwest,IA,5A,IHSAA 5A,5-5,5,5,0,10,64.3,64.3,14.31,68.1,50,33.8,19.3,33.8,19.3,14.5,63.7,56.6,73.83,17.5,32.5,5.0,Playoff Qualifier,Waukee,Wolves
+51,13,Iowa City West,IA,5A,IHSAA Conference,3-6,3,6,0,9,64.2,64.2,14.16,60.0,51,21.3,23.3,21.3,23.3,-2.0,46.2,51.0,54.33,43.33,43.33,43.33,Playoff Qualifier,Iowa City,Trojans
+52,6,Cedar Rapids,IA,3A,IAHSAA 3A,2-0,2,0,0,2,64.0,64.0,14.0,55.0,52,48.0,9.0,48.0,9.0,39.0,83.6,71.0,119.25,35.0,65.0,10.0,Playoff Qualifier,Cedar Rapids,Varsity
+53,7,Interstate,IA,3A,IAHSAA 3A,2-0,2,0,0,2,64.0,64.0,14.0,55.0,53,35.0,28.0,35.0,28.0,7.0,65.4,44.4,119.25,35.0,65.0,10.0,Playoff Qualifier,Des Moines,Varsity
+54,8,Coon Rapids-Bayard,IA,3A,IAHSAA 3A,8-4,8,4,0,12,63.0,63.0,13.04,50.3,54,43.8,25.2,43.8,25.2,18.6,77.7,48.3,84.27,23.33,43.33,6.67,Playoff Qualifier,Des Moines,Crusaders
+55,15,Clarksville,IA,A,IHSAA A,7-3,7,3,0,10,62.6,62.6,12.62,50.8,55,47.7,32.1,47.7,32.1,15.6,83.2,38.7,87.78,24.5,45.5,7.0,Playoff Qualifier,Clarksville,Indians
+56,9,Clear Lake,IA,3A,IHSAA Conference,7-5,7,5,0,12,62.4,62.4,12.43,54.5,56,23.5,21.7,23.5,21.7,1.8,49.3,53.2,77.41,54.88,54.88,54.88,Playoff Qualifier,Clear Lake,Lions
+57,14,Iowa City High,IA,5A,IHSAA Conference,4-5,4,5,0,9,61.7,61.7,11.67,56.0,57,23.1,23.1,23.1,23.1,0.0,48.7,51.3,64.04,46.16,46.16,46.16,Playoff Qualifier,Iowa City,Varsity
+58,10,Sioux Center,IA,3A,IAHSAA 3A,8-2,8,2,0,10,61.6,61.6,11.58,62.4,58,31.9,19.2,31.9,19.2,12.7,61.1,56.7,101.84,28.0,52.0,8.0,Playoff Qualifier,Des Moines,Warriors
+59,11,Crestwood,IA,3A,IAHSAA 3A,8-2,8,2,0,10,61.2,61.2,11.22,64.7,59,32.6,15.9,32.6,15.9,16.7,62.0,61.3,102.64,28.0,52.0,8.0,Playoff Qualifier,Des Moines,Cadets
+60,8,OABCIG,IA,2A,IHSAA Conference,7-6,7,6,0,13,61.1,61.1,11.09,53.7,60,24.3,21.8,24.3,21.8,2.5,50.4,53.1,72.64,52.41,52.41,52.41,Playoff Qualifier,Des Moines,Varsity
+61,16,St. Ansgar,IA,A,IHSAA A,10-1,10,1,0,11,60.9,60.9,10.93,56.3,61,37.8,14.1,37.8,14.1,23.7,69.3,63.9,110.61,31.82,59.09,9.09,Playoff Qualifier,St Ansgar,Saints
+62,12,Des Moines Christian,IA,3A,IHSAA Conference,6-5,6,5,0,11,60.9,60.9,10.9,55.0,62,26.0,24.3,26.0,24.3,1.7,52.8,49.6,73.8,53.18,53.18,53.18,Playoff Qualifier,Des Moines,Lions
+63,6,Beckman,IA,1A,IHSAA 1A,8-2,8,2,0,10,60.9,60.9,10.87,58.6,63,40.0,14.4,40.0,14.4,25.6,72.4,63.4,100.51,28.0,52.0,8.0,Playoff Qualifier,Dyersville,Trailblazers
+64,13,Western Christian,IA,3A,IAHSAA 3A,4-5,4,5,0,9,60.8,60.8,10.75,68.1,64,30.8,24.3,30.8,24.3,6.5,59.5,49.6,68.28,15.56,28.89,4.44,Playoff Qualifier,Des Moines,Wolfpack
+65,14,Bishop Heelan Catholic,IA,3A,IHSAA 3A,7-4,7,4,0,11,60.4,60.4,10.42,65.7,65,24.8,15.9,24.8,15.9,8.9,51.1,61.3,86.63,22.27,41.36,6.36,Playoff Qualifier,Sioux City,Crusaders
+66,15,Wahlert,IA,3A,IHSAA 3A,6-4,6,4,0,10,60.4,60.4,10.41,64.8,66,27.7,18.2,27.7,18.2,9.5,55.2,58.1,82.68,21.0,39.0,6.0,Playoff Qualifier,Dubuque,Eagles
+67,16,English Valleys,IA,3A,IAHSAA 3A,6-2,6,2,0,8,60.2,60.2,10.24,51.5,67,41.1,33.9,41.1,33.9,7.2,73.9,36.1,93.03,26.25,48.75,7.5,Playoff Qualifier,Des Moines,Bears
+68,17,Southeast Warren,IA,A,IHSAA A,5-4,5,4,0,9,60.2,60.2,10.2,48.8,68,36.3,17.1,36.3,17.1,19.2,67.2,59.7,72.64,19.44,36.11,5.56,Playoff Qualifier,Liberty Center,Warhawks
+69,18,North Linn,IA,A,IHSAA Conference,9-4,9,4,0,13,60.1,60.1,10.14,42.5,69,31.4,16.1,31.4,16.1,15.3,60.4,61.1,84.11,56.26,56.26,56.26,Playoff Qualifier,Des Moines,Lynx
+70,8,Newton,IA,4A,IHSAA Conference,6-5,6,5,0,11,60.1,60.1,10.14,60.5,70,24.0,28.6,24.0,28.6,-4.6,50.0,43.6,75.72,51.99,51.99,51.99,Playoff Qualifier,Newton,Cardinals
+71,9,Sergeant Bluff-Luton,IA,4A,IHSAA Conference,6-6,6,6,0,12,60.0,60.0,9.95,54.7,71,23.2,23.4,23.2,23.4,-0.2,48.9,50.8,69.14,48.65,48.65,48.65,Playoff Qualifier,Sergeant Bluff,Warriors
+72,15,Bettendorf,IA,5A,IHSAA Conference,2-8,2,8,0,10,59.8,59.8,9.76,63.9,72,19.0,27.9,19.0,27.9,-8.9,43.0,44.5,42.36,41.21,41.21,41.21,Playoff Qualifier,Bettendorf,Bulldogs
+73,19,West Hancock,IA,A,IHSAA Conference,9-4,9,4,0,13,59.4,59.4,9.38,49.3,73,28.8,22.1,28.8,22.1,6.7,56.7,52.7,86.49,61.81,61.81,61.81,Playoff Qualifier,Des Moines,Eagles
+74,17,Harlan Community,IA,3A,IHSAA Conference,6-5,6,5,0,11,59.4,59.4,9.38,54.8,74,24.4,24.3,24.4,24.3,0.1,50.6,49.6,73.73,59.64,59.64,59.64,Playoff Qualifier,Harlan,Varsity
+75,10,Decorah-North Winneshiek,IA,4A,IHSAA 4A,4-5,4,5,0,9,59.1,59.1,9.15,67.7,75,20.1,19.7,20.1,19.7,0.4,44.5,56.0,68.14,15.56,28.89,4.44,Playoff Qualifier,Decorah,Vikings
+76,9,Okoboji,IA,2A,IHSAA 2A,4-4,4,4,0,8,59.0,59.0,8.98,64.5,76,23.1,19.8,23.1,19.8,3.3,48.7,55.9,72.58,17.5,32.5,5.0,Playoff Qualifier,Milford,Pioneer Pete
+77,10,Waukon,IA,2A,IHSAA Conference,7-5,7,5,0,12,58.6,58.6,8.62,49.9,77,27.5,22.2,27.5,22.2,5.3,54.9,52.5,75.8,56.12,56.12,56.12,Playoff Qualifier,Waukon,Indians
+78,11,North Scott,IA,4A,IHSAA 4A,5-4,5,4,0,9,58.2,58.2,8.17,63.1,78,23.7,18.4,23.7,18.4,5.3,49.6,57.8,77.64,19.44,36.11,5.56,Playoff Qualifier,Eldridge,Lancers
+79,12,Norwalk,IA,4A,IHSAA Conference,5-4,5,4,0,9,57.5,57.5,7.5,65.3,79,15.1,18.1,15.1,18.1,-3.0,37.5,58.3,78.41,19.44,36.11,5.56,Varsity Program,Des Moines,Warriors
+80,18,Ridge View,IA,3A,IAHSAA 3A,5-4,5,4,0,9,57.5,57.5,7.48,64.4,80,23.3,18.1,23.3,18.1,5.2,49.0,58.3,78.1,19.44,36.11,5.56,Varsity Program,Des Moines,Raptors
+81,16,Prairie,IA,5A,IHSAA Conference,8-3,8,3,0,11,57.3,57.3,7.29,54.3,81,33.2,17.5,33.2,17.5,15.7,62.9,59.1,91.73,39.74,39.74,39.74,Varsity Program,Des Moines,Fighting Hawks
+82,11,Prairie City-Monroe,IA,2A,IHSAA 2A,5-4,5,4,0,9,57.2,57.2,7.18,63.8,82,27.1,18.8,27.1,18.8,8.3,54.3,57.3,77.89,19.44,36.11,5.56,Varsity Program,Monroe,Mustangs
+83,20,Murray,IA,A,IHSAA A,6-3,6,3,0,9,57.0,57.0,7.01,50.3,83,31.6,26.4,31.6,26.4,5.2,60.6,46.6,84.27,23.33,43.33,6.67,Varsity Program,Murray,Mustangs
+84,21,WACO,IA,A,IHSAA A,6-3,6,3,0,9,57.0,57.0,7.01,50.3,84,34.0,28.8,34.0,28.8,5.2,64.0,43.3,84.27,23.33,43.33,6.67,Varsity Program,Wayland,Warriors
+85,19,Mt. Vernon,IA,3A,IHSAA 3A,8-3,8,3,0,11,57.0,57.0,7.0,63.5,85,28.5,19.4,28.5,19.4,9.1,56.3,56.4,94.95,25.45,47.27,7.27,Varsity Program,Mt Vernon,Mustangs
+86,20,Harlan,IA,3A,IHSAA 3A,5-5,5,5,0,10,57.0,57.0,7.0,63.8,86,34.3,24.9,34.3,24.9,9.4,64.4,48.7,72.33,17.5,32.5,5.0,Varsity Program,Harlan,Cyclones
+87,21,Centerville,IA,3A,IAHSAA 3A,7-2,7,2,0,9,56.8,56.8,6.81,60.5,87,34.9,21.3,34.9,21.3,13.6,65.3,53.8,98.95,27.22,50.56,7.78,Varsity Program,Des Moines,Big Reds Redettes
+88,22,Iowa Falls-Alden,IA,3A,IAHSAA 3A,6-4,6,4,0,10,56.5,56.5,6.55,65.2,88,21.8,17.6,21.8,17.6,4.2,46.9,59.0,82.82,21.0,39.0,6.0,Varsity Program,Des Moines,Cadets
+89,22,St. Mary's,IA,A,IHSAA A,5-4,5,4,0,9,56.5,56.5,6.46,48.8,89,47.8,36.9,47.8,36.9,10.9,83.3,31.9,72.64,19.44,36.11,5.56,Varsity Program,Remsen,Hawks
+90,23,South Central Calhoun,IA,3A,IAHSAA 3A,8-2,8,2,0,10,56.4,56.4,6.39,59.6,90,27.8,12.1,27.8,12.1,15.7,55.3,66.7,100.86,28.0,52.0,8.0,Varsity Program,Des Moines,Mustangs
+91,24,Riceville,IA,3A,IAHSAA 3A,5-4,5,4,0,9,56.3,56.3,6.28,48.8,91,37.8,27.3,37.8,27.3,10.5,69.3,45.4,72.64,19.44,36.11,5.56,Varsity Program,Des Moines,Wildcats
+92,23,Turkey Valley,IA,A,IHSAA A,5-4,5,4,0,9,56.2,56.2,6.24,48.8,92,42.0,31.6,42.0,31.6,10.4,75.2,39.4,72.64,19.44,36.11,5.56,Varsity Program,Jackson Junction,Trojans
+93,25,Clear Creek Amana,IA,3A,IAHSAA 3A,6-4,6,4,0,10,56.2,56.2,6.18,63.2,93,31.9,22.3,31.9,22.3,9.6,61.1,52.4,82.12,21.0,39.0,6.0,Varsity Program,Des Moines,Clippers
+94,17,Kennedy,IA,5A,IHSAA 5A,5-4,5,4,0,9,55.9,55.9,5.9,63.8,94,28.3,21.1,28.3,21.1,7.2,56.0,54.1,77.89,19.44,36.11,5.56,Varsity Program,Cedar Rapids,Cougars
+95,26,Mt. Pleasant,IA,3A,IHSAA 3A,9-2,9,2,0,11,55.9,55.9,5.86,60.7,95,32.9,17.1,32.9,17.1,15.8,62.5,59.7,103.06,28.64,53.18,8.18,Varsity Program,Mt Pleasant,Panthers
+96,12,Roland-Story,IA,2A,IHSAA Conference,5-7,5,7,0,12,55.8,55.8,5.78,53.9,96,25.0,25.7,25.0,25.7,-0.7,51.4,47.6,60.53,44.89,44.89,44.89,Varsity Program,Des Moines,Norsemen
+97,27,Southeast Valley,IA,3A,IAHSAA 3A,5-4,5,4,0,9,55.4,55.4,5.37,65.7,97,22.2,19.1,22.2,19.1,3.1,47.5,56.9,78.55,19.44,36.11,5.56,Varsity Program,Des Moines,Jaguars
+98,18,Iowa City,IA,5A,IHSAA 5A,3-5,3,5,0,8,55.3,55.3,5.3,66.2,98,29.6,26.5,29.6,26.5,3.1,57.8,46.5,60.67,13.12,24.38,3.75,Varsity Program,Iowa City,Little Hawks
+99,28,Nevada,IA,3A,IHSAA Conference,4-5,4,5,0,9,55.3,55.3,5.29,61.9,99,19.3,15.4,19.3,15.4,3.9,43.4,62.0,66.11,15.56,28.89,4.44,Varsity Program,Des Moines,Cubs
+100,24,Madrid,IA,A,IHSAA Conference,10-3,10,3,0,13,55.2,55.2,5.21,43.9,100,28.2,18.3,28.2,18.3,9.9,55.9,58.0,92.29,60.49,60.49,60.49,Varsity Program,Madrid,Tigers
+101,29,Ballard,IA,3A,IAHSAA 3A,6-4,6,4,0,10,55.1,55.1,5.14,64.0,101,20.1,18.0,20.1,18.0,2.1,44.5,58.4,82.4,21.0,39.0,6.0,Varsity Program,Des Moines,Bombers
+102,25,Central,IA,A,IHSAA A,4-4,4,4,0,8,54.5,54.5,4.5,48.0,102,43.4,33.4,43.4,33.4,10.0,77.2,36.8,66.8,17.5,32.5,5.0,Varsity Program,Elkader,Warriors
+103,13,Fort Dodge,IA,4A,IHSAA 4A,6-3,6,3,0,9,54.3,54.3,4.3,58.3,103,30.2,14.7,30.2,14.7,15.5,58.7,63.0,87.07,23.33,43.33,6.67,Varsity Program,Fort Dodge,Dodgers
+104,14,Waverly-Shell Rock,IA,4A,IHSAA Conference,2-9,2,9,0,11,54.3,54.3,4.27,57.4,104,21.5,26.7,21.5,26.7,-5.2,46.5,46.2,38.27,40.29,40.29,40.29,Varsity Program,Waverly,Go Hawks
+105,30,Newman Catholic,IA,3A,IAHSAA 3A,7-3,7,3,0,10,54.0,54.0,4.04,58.7,105,27.1,18.4,27.1,18.4,8.7,54.3,57.8,90.55,24.5,45.5,7.0,Varsity Program,Des Moines,Knights
+106,19,Iowa City Liberty,IA,5A,IHSAA Conference,6-5,6,5,0,11,53.9,53.9,3.9,55.2,106,22.9,27.1,22.9,27.1,-4.2,48.5,45.7,73.87,46.26,46.26,46.26,Varsity Program,Iowa City,Varsity
+107,26,Lenox,IA,A,IHSAA A,5-4,5,4,0,9,53.6,53.6,3.58,48.8,107,30.4,25.9,30.4,25.9,4.5,59.0,47.3,72.64,19.44,36.11,5.56,Varsity Program,Lenox,Tigers
+108,7,Eddyville-Blakesburg-Fremont,IA,1A,IHSAA 1A,6-3,6,3,0,9,53.6,53.6,3.56,56.7,108,36.0,16.1,36.0,16.1,19.9,66.8,61.1,86.51,23.33,43.33,6.67,Varsity Program,Eddyville,Rockets
+109,31,West Delaware,IA,3A,IHSAA Conference,5-7,5,7,0,12,53.3,53.3,3.33,54.3,109,24.3,27.5,24.3,27.5,-3.2,50.4,45.1,60.67,49.54,49.54,49.54,Varsity Program,Des Moines,Hawks
+110,27,North Tama,IA,A,IHSAA A,5-4,5,4,0,9,52.9,52.9,2.91,48.8,110,34.1,31.1,34.1,31.1,3.0,64.1,40.1,72.64,19.44,36.11,5.56,Varsity Program,Traer,Redhawks
+111,13,PCM,IA,2A,IHSAA Conference,6-6,6,6,0,12,52.8,52.8,2.77,52.8,111,24.4,26.6,24.4,26.6,-2.2,50.6,46.4,68.48,51.52,51.52,51.52,Varsity Program,Des Moines,Varsity
+112,32,Hampton-Dumont-CAL,IA,3A,IAHSAA 3A,4-5,4,5,0,9,52.8,52.8,2.75,65.0,112,18.9,24.2,18.9,24.2,-5.3,42.9,49.7,67.19,15.56,28.89,4.44,Varsity Program,Des Moines,Cal
+113,33,West Monona,IA,3A,IAHSAA 3A,6-4,6,4,0,10,52.7,52.7,2.71,62.0,113,27.1,18.8,27.1,18.8,8.3,54.3,57.3,81.7,21.0,39.0,6.0,Varsity Program,Monona,Spartans
+114,34,Unity Christian,IA,3A,IAHSAA 3A,3-6,3,6,0,9,52.6,52.6,2.59,67.7,114,17.0,24.2,17.0,24.2,-7.2,40.2,49.7,57.03,11.67,21.67,3.33,Varsity Program,Des Moines,Knights
+115,28,East Union,IA,A,IHSAA A,4-4,4,4,0,8,52.5,52.5,2.52,48.0,115,30.8,25.2,30.8,25.2,5.6,59.5,48.3,66.8,17.5,32.5,5.0,Varsity Program,Afton,Eagles
+116,14,Boyden-Hull/Rock Valley,IA,2A,IHSAA 2A,3-5,3,5,0,8,52.5,52.5,2.46,65.0,116,24.2,25.8,24.2,25.8,-1.6,50.3,47.5,60.25,13.12,24.38,3.75,Varsity Program,Rock Valley,Nighthawks
+117,35,Pella Christian,IA,3A,IAHSAA 3A,2-6,2,6,0,8,52.2,52.2,2.23,65.5,117,21.2,23.2,21.2,23.2,-2.0,46.1,51.1,47.92,8.75,16.25,2.5,Varsity Program,Pella,Eagles
+118,8,Interstate 35,IA,1A,IHSAA 1A,6-3,6,3,0,9,52.1,52.1,2.08,57.7,118,25.9,14.1,25.9,14.1,11.8,52.7,63.9,86.86,23.33,43.33,6.67,Varsity Program,Truro,Roadrunners
+119,36,Central DeWitt,IA,3A,IHSAA 3A,4-4,4,4,0,8,52.0,52.0,1.96,59.2,119,24.4,19.5,24.4,19.5,4.9,50.6,56.3,70.72,17.5,32.5,5.0,Varsity Program,Dewitt,Sabers
+120,15,Cherokee Washington,IA,2A,IHSAA 2A,3-6,3,6,0,9,51.9,51.9,1.93,65.6,120,20.8,26.7,20.8,26.7,-5.9,45.5,46.2,56.29,11.67,21.67,3.33,Varsity Program,Cherokee,Braves
+121,37,Atlantic,IA,3A,IHSAA 3A,5-4,5,4,0,9,51.9,51.9,1.92,60.4,121,31.4,26.4,31.4,26.4,5.0,60.4,46.6,76.7,19.44,36.11,5.56,Varsity Program,Atlantic,Trojans
+122,29,Adair-Casey/Guthrie Center,IA,A,IHSAA A,5-4,5,4,0,9,51.1,51.1,1.12,56.1,122,23.2,13.0,23.2,13.0,10.2,48.9,65.4,75.19,19.44,36.11,5.56,Varsity Program,Guthrie Center,Chargers
+123,30,Wapsie Valley,IA,A,IHSAA Conference,7-5,7,5,0,12,51.1,51.1,1.1,42.5,123,27.0,18.6,27.0,18.6,8.4,54.2,57.6,73.21,54.04,54.04,54.04,Varsity Program,Des Moines,Warriors
+124,31,Graettinger-Terril/Ruthven-Ayrshire,IA,A,IHSAA A,4-5,4,5,0,9,51.0,51.0,1.01,47.2,124,35.1,29.4,35.1,29.4,5.7,65.5,42.4,60.96,15.56,28.89,4.44,Varsity Program,Ruthven,Titans
+125,32,Moravia,IA,A,IHSAA A,5-4,5,4,0,9,50.9,50.9,0.93,48.8,125,32.9,34.3,32.9,34.3,-1.4,62.5,35.6,72.64,19.44,36.11,5.56,Varsity Program,Moravia,Mohawks
+126,38,Shenandoah,IA,3A,IAHSAA 3A,5-5,5,5,0,10,50.9,50.9,0.86,63.2,126,27.7,28.8,27.7,28.8,-1.1,55.2,43.3,72.12,17.5,32.5,5.0,Varsity Program,Des Moines,Mustangs And Fillies
+127,16,North Fayette Valley,IA,2A,IHSAA 2A,3-5,3,5,0,8,50.8,50.8,0.8,64.6,127,28.0,32.9,28.0,32.9,-4.9,55.6,37.5,60.11,13.12,24.38,3.75,Varsity Program,West Union,Hawks
+128,39,Chariton,IA,3A,IAHSAA 3A,3-5,3,5,0,8,50.8,50.8,0.79,61.3,128,23.1,21.0,23.1,21.0,2.1,48.7,54.2,58.95,13.12,24.38,3.75,Varsity Program,Des Moines,Chargers
+129,40,Lawton-Bronson,IA,3A,IAHSAA 3A,5-4,5,4,0,9,50.6,50.6,0.58,61.9,129,25.4,25.9,25.4,25.9,-0.5,52.0,47.3,77.22,19.44,36.11,5.56,Varsity Program,Des Moines,Eagles
+130,33,IKM/Manning,IA,A,IHSAA A,2-6,2,6,0,8,50.5,50.5,0.46,64.2,130,15.2,26.0,15.2,26.0,-10.8,37.7,47.2,47.47,8.75,16.25,2.5,Varsity Program,Manning,Wolves
+131,41,Grand View Christian,IA,3A,IAHSAA 3A,5-4,5,4,0,9,50.4,50.4,0.38,60.4,131,22.6,21.4,22.6,21.4,1.2,48.0,53.6,76.7,19.44,36.11,5.56,Varsity Program,Des Moines,Thunder
+132,42,Bishop Heelan,IA,3A,IHSAA Conference,5-6,5,6,0,11,50.2,50.2,0.18,52.0,132,23.1,24.8,23.1,24.8,-1.7,48.7,48.9,63.65,50.0,50.0,50.0,Varsity Program,Des Moines,Varsity
+133,17,Mediapolis,IA,2A,IHSAA 2A,4-4,4,4,0,8,50.1,50.1,0.15,60.9,133,25.8,30.5,25.8,30.5,-4.7,52.5,40.9,71.31,17.5,32.5,5.0,Varsity Program,Mediapolis,Bulldogs
+134,43,Martensdale-St. Marys,IA,3A,IAHSAA 3A,7-3,7,3,0,10,50.1,50.1,0.14,54.5,134,33.7,14.4,33.7,14.4,19.3,63.6,63.4,89.08,24.5,45.5,7.0,Varsity Program,Des Moines,Devils
+135,44,MOC-Floyd Valley,IA,3A,IHSAA 3A,4-5,4,5,0,9,50.1,50.1,0.1,64.3,135,15.7,20.1,15.7,20.1,-4.4,38.4,55.5,66.95,15.56,28.89,4.44,Varsity Program,Orange City,Dutchmen
+136,34,CAM,IA,A,IHSAA A,4-4,4,4,0,8,50.0,50.0,0.05,48.0,136,37.2,37.1,37.2,37.1,0.1,68.5,31.7,66.8,17.5,32.5,5.0,Varsity Program,Anita,Cougars
+137,35,Marcus-Meriden-Cleghorn/Remsen-Union,IA,A,IHSAA A,5-4,5,4,0,9,50.0,50.0,0.0,59.0,137,20.3,22.9,20.3,22.9,-2.6,44.8,51.5,76.21,19.44,36.11,5.56,Varsity Program,Marcus,Eagles
+138,45,Beckman Catholic,IA,3A,IAHSAA 3A,2-2,2,2,0,4,50.0,50.0,0.0,48.0,138,43.5,20.0,43.5,20.0,23.5,77.3,55.6,66.8,17.5,32.5,5.0,Varsity Program,Des Moines,Varsity
+139,36,Central Decatur,IA,A,IHSAA A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,139,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Leon,Cardinals
+140,18,Davis County,IA,2A,IHSAA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,140,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Bloomfield,Mustangs
+141,37,Exira-EHK,IA,A,IHSAA A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,141,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Elk Horn,Spartans
+142,38,Lone Tree,IA,A,IHSAA A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,142,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Lone Tree,Lions
+143,39,Mormon Trail,IA,A,IHSAA A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,143,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Garden Grove,Saints
+144,40,New London,IA,A,IHSAA A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,144,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,New London,Tigers
+145,41,Rockford,IA,A,IHSAA A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,145,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Rockford,Warriors
+146,42,Siouxland Christian,IA,A,IHSAA A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,146,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Sioux City,Eagles
+147,46,Mount Ayr,IA,3A,IAHSAA 3A,4-5,4,5,0,9,50.0,50.0,-0.02,58.2,147,28.6,21.1,28.6,21.1,7.5,56.4,54.1,64.81,15.56,28.89,4.44,Varsity Program,Des Moines,Raiders And Raiderettes
+148,47,Tri-Center,IA,3A,IAHSAA 3A,2-7,2,7,0,9,49.8,49.8,-0.22,64.8,148,27.3,32.2,27.3,32.2,-4.9,54.6,38.5,44.9,7.78,14.44,2.22,Varsity Program,Des Moines,Trojans
+149,15,Decorah,IA,4A,IHSAA Conference,3-6,3,6,0,9,49.6,49.6,-0.4,57.6,149,20.8,29.0,20.8,29.0,-8.2,45.5,43.0,53.49,45.68,45.68,45.68,Varsity Program,Decorah,Varsity
+150,19,Alburnett,IA,2A,IHSAA Conference,6-5,6,5,0,11,49.4,49.4,-0.6,46.6,150,26.9,24.0,26.9,24.0,2.9,54.1,50.0,70.86,49.04,49.04,49.04,Varsity Program,Alburnett,Pirates
+151,43,Central City,IA,A,IHSAA A,4-4,4,4,0,8,49.4,49.4,-0.63,48.0,151,33.2,34.6,33.2,34.6,-1.4,62.9,35.2,66.8,17.5,32.5,5.0,Varsity Program,Central City,Wildcats
+152,48,Northeast,IA,3A,IAHSAA 3A,8-2,8,2,0,10,49.2,49.2,-0.76,55.8,152,31.3,19.6,31.3,19.6,11.7,60.2,56.2,99.53,28.0,52.0,8.0,Varsity Program,Des Moines,Rebels
+153,49,Nashua-Plainfield,IA,3A,IAHSAA 3A,7-2,7,2,0,9,49.2,49.2,-0.81,53.3,153,23.1,13.0,23.1,13.0,10.1,48.7,65.4,96.43,27.22,50.56,7.78,Varsity Program,Des Moines,Huskies
+154,50,Hudson,IA,3A,IAHSAA 3A,5-4,5,4,0,9,49.2,49.2,-0.84,62.2,154,18.3,19.8,18.3,19.8,-1.5,42.0,55.9,77.33,19.44,36.11,5.56,Varsity Program,Des Moines,Pirates
+155,20,Denver,IA,2A,IHSAA 2A,3-5,3,5,0,8,49.0,49.0,-1.03,61.6,155,21.0,19.4,21.0,19.4,1.6,45.8,56.4,59.06,13.12,24.38,3.75,Varsity Program,Denver,Cyclones
+156,16,Washington,IA,4A,IHSAA 4A,4-5,4,5,0,9,48.9,48.9,-1.08,63.2,156,24.4,24.6,24.4,24.6,-0.2,50.6,49.2,66.56,15.56,28.89,4.44,Varsity Program,Cedar Rapids,Warriors
+157,44,GMG,IA,A,IHSAA A,5-4,5,4,0,9,48.9,48.9,-1.14,48.8,157,29.4,35.4,29.4,35.4,-6.0,57.6,34.0,72.64,19.44,36.11,5.56,Varsity Program,Garwin,Wolverines
+158,17,Davenport North,IA,4A,IHSAA 4A,6-4,6,4,0,10,48.9,48.9,-1.15,59.6,158,28.7,21.3,28.7,21.3,7.4,56.6,53.8,80.86,21.0,39.0,6.0,Varsity Program,Davenport,Wildcats
+159,51,New Hampton,IA,3A,IAHSAA 3A,4-4,4,4,0,8,48.7,48.7,-1.28,63.8,159,18.5,26.9,18.5,26.9,-8.4,42.3,45.9,72.33,17.5,32.5,5.0,Varsity Program,Des Moines,Chickasaws
+160,18,Grinnell,IA,4A,IHSAA 4A,4-5,4,5,0,9,48.6,48.6,-1.43,63.0,160,23.8,28.2,23.8,28.2,-4.4,49.7,44.1,66.49,15.56,28.89,4.44,Varsity Program,Grinnell,Tigers
+161,52,Logan-Magnolia,IA,3A,IAHSAA 3A,5-4,5,4,0,9,48.4,48.4,-1.57,63.3,161,13.0,19.6,13.0,19.6,-6.6,34.6,56.2,77.71,19.44,36.11,5.56,Varsity Program,Des Moines,Panthers
+162,53,East Sac County,IA,3A,IAHSAA 3A,6-3,6,3,0,9,48.4,48.4,-1.61,57.3,162,25.8,17.7,25.8,17.7,8.1,52.5,58.8,86.72,23.33,43.33,6.67,Varsity Program,Des Moines,Raiders
+163,54,West Burlington/Notre Dame,IA,3A,IAHSAA 3A,5-4,5,4,0,9,48.3,48.3,-1.69,59.3,163,23.2,24.7,23.2,24.7,-1.5,48.9,49.0,76.31,19.44,36.11,5.56,Varsity Program,Des Moines,Varsity
+164,9,MFL MarMac,IA,1A,IHSAA Conference,6-5,6,5,0,11,48.3,48.3,-1.7,46.8,164,24.5,22.8,24.5,22.8,1.7,50.7,51.7,70.93,54.09,54.09,54.09,Varsity Program,Des Moines,Bulldogs
+165,55,Humboldt,IA,3A,IHSAA Conference,4-6,4,6,0,10,48.1,48.1,-1.9,53.7,165,22.5,28.9,22.5,28.9,-6.4,47.9,43.1,58.8,49.72,49.72,49.72,Varsity Program,Humboldt,Wildcats
+166,20,Roosevelt,IA,5A,IHSAA 5A,5-4,5,4,0,9,47.9,47.9,-2.07,63.4,166,16.3,22.9,16.3,22.9,-6.6,39.2,51.5,77.75,19.44,36.11,5.56,Varsity Program,Des Moines,Riders
+167,56,Cascade,IA,3A,IAHSAA 3A,5-4,5,4,0,9,47.9,47.9,-2.13,59.3,167,23.9,22.8,23.9,22.8,1.1,49.9,51.7,76.31,19.44,36.11,5.56,Varsity Program,Des Moines,Cougars
+168,57,Gehlen Catholic,IA,3A,IAHSAA 3A,5-4,5,4,0,9,47.9,47.9,-2.15,62.1,168,18.3,26.6,18.3,26.6,-8.3,42.0,46.4,77.29,19.44,36.11,5.56,Varsity Program,Des Moines,Jays
+169,19,Indianola,IA,4A,IHSAA Conference,3-7,3,7,0,10,47.7,47.7,-2.3,53.9,169,20.4,26.9,20.4,26.9,-6.5,45.0,45.9,48.86,43.0,43.0,43.0,Varsity Program,Indianola,Indians
+170,45,Akron-Westfield,IA,A,IHSAA A,3-5,3,5,0,8,47.7,47.7,-2.31,65.7,170,11.8,27.0,11.8,27.0,-15.2,32.9,45.8,60.5,13.12,24.38,3.75,Varsity Program,Akron,Westerners
+171,10,Maple Valley-Anthon-Oto/Charter Oak-Ute,IA,1A,IHSAA 1A,3-5,3,5,0,8,47.6,47.6,-2.41,60.0,171,28.0,31.0,28.0,31.0,-3.0,55.6,40.2,58.5,13.12,24.38,3.75,Varsity Program,Mapleton,Ute
+172,21,Mid-Prairie,IA,2A,IHSAA Conference,5-6,5,6,0,11,47.2,47.2,-2.8,51.6,172,22.5,26.5,22.5,26.5,-4.0,47.9,46.5,63.51,51.37,51.37,51.37,Varsity Program,Des Moines,Golden Hawks
+173,46,Wayne,IA,A,IHSAA A,4-5,4,5,0,9,46.4,46.4,-3.58,47.2,173,24.1,28.6,24.1,28.6,-4.5,50.1,43.6,60.96,15.56,28.89,4.44,Varsity Program,Corydon,Falcons
+174,11,Aplington-Parkersburg,IA,1A,IHSAA Conference,7-5,7,5,0,12,46.4,46.4,-3.6,40.9,174,26.9,21.6,26.9,21.6,5.3,54.1,53.4,72.65,48.49,48.49,48.49,Varsity Program,Parkersburg,Bulldogs
+175,47,H-L-V,IA,A,IHSAA A,4-4,4,4,0,8,46.3,46.3,-3.69,48.0,175,33.9,42.1,33.9,42.1,-8.2,63.9,25.0,66.8,17.5,32.5,5.0,Varsity Program,Victor,Warriors
+176,48,Janesville,IA,A,IHSAA A,4-5,4,5,0,9,45.8,45.8,-4.17,47.2,176,24.4,30.2,24.4,30.2,-5.8,50.6,41.3,60.96,15.56,28.89,4.44,Varsity Program,Janesville,Wildcats
+177,49,Fremont-Mills,IA,A,IHSAA A,3-6,3,6,0,9,45.6,45.6,-4.4,45.7,177,30.0,29.4,30.0,29.4,0.6,58.4,42.4,49.33,11.67,21.67,3.33,Varsity Program,Tabor,Knights
+178,50,West Bend-Mallard,IA,A,IHSAA A,3-4,3,4,0,7,45.5,45.5,-4.48,47.0,178,36.4,41.9,36.4,41.9,-5.5,67.4,25.0,59.31,15.0,27.86,4.29,Varsity Program,West Bend,Wolverines
+179,12,Treynor,IA,1A,IHSAA Conference,4-7,4,7,0,11,45.5,45.5,-4.5,48.9,179,21.1,25.1,21.1,25.1,-4.0,45.9,48.5,53.48,42.82,42.82,42.82,Varsity Program,Treynor,Cardinals
+180,51,AHSTW,IA,A,IHSAA A,4-4,4,4,0,8,45.4,45.4,-4.62,53.9,180,23.5,18.4,23.5,18.4,5.1,49.3,57.8,68.86,17.5,32.5,5.0,Varsity Program,Avoca,Vikings
+181,13,Hinton,IA,1A,IHSAA Conference,5-5,5,5,0,10,45.2,45.2,-4.8,49.3,181,20.3,24.4,20.3,24.4,-4.1,44.8,49.4,67.25,50.95,50.95,50.95,Varsity Program,Hinton,Blackhawks
+182,58,Sibley-Ocheyedan,IA,3A,IAHSAA 3A,3-6,3,6,0,9,45.1,45.1,-4.86,61.7,182,18.3,26.1,18.3,26.1,-7.8,42.0,47.1,54.93,11.67,21.67,3.33,Varsity Program,Des Moines,Generals
+183,52,Winfield-Mt. Union,IA,A,IHSAA A,3-5,3,5,0,8,45.1,45.1,-4.94,46.2,183,39.9,43.1,39.9,43.1,-3.2,72.3,25.0,53.67,13.12,24.38,3.75,Varsity Program,Winfield,Wolves
+184,59,Mount Pleasant,IA,3A,IHSAA Conference,5-5,5,5,0,10,44.6,44.6,-5.4,48.1,184,23.3,27.3,23.3,27.3,-4.0,49.0,45.4,66.84,44.09,44.09,44.09,Varsity Program,Des Moines,Varsity
+185,60,Starmont,IA,3A,IAHSAA 3A,4-5,4,5,0,9,44.4,44.4,-5.62,57.3,185,21.6,19.6,21.6,19.6,2.0,46.6,56.2,64.5,15.56,28.89,4.44,Varsity Program,Des Moines,Stars
+186,53,Colo-NESCO,IA,A,IHSAA A,4-4,4,4,0,8,44.3,44.3,-5.71,48.0,186,26.1,38.8,26.1,38.8,-12.7,52.9,29.3,66.8,17.5,32.5,5.0,Varsity Program,Colo,Royals
+187,61,Earlham,IA,3A,IAHSAA 3A,4-5,4,5,0,9,44.1,44.1,-5.89,57.6,187,28.8,28.7,28.8,28.7,0.1,56.7,43.4,64.6,15.56,28.89,4.44,Varsity Program,Des Moines,Cardinals
+188,54,B-G-M,IA,A,IHSAA A,4-4,4,4,0,8,44.1,44.1,-5.94,53.1,188,30.2,26.9,30.2,26.9,3.3,58.7,45.9,68.59,17.5,32.5,5.0,Varsity Program,Brooklyn,Bears
+189,55,Lamoni,IA,A,IHSAA A,3-5,3,5,0,8,43.9,43.9,-6.07,46.2,189,31.5,37.2,31.5,37.2,-5.7,60.5,31.5,53.67,13.12,24.38,3.75,Varsity Program,Lamoni,Demons
+190,62,Bellevue,IA,3A,IAHSAA 3A,3-6,3,6,0,9,43.8,43.8,-6.19,59.3,190,28.8,31.1,28.8,31.1,-2.3,56.7,40.1,54.09,11.67,21.67,3.33,Varsity Program,Des Moines,Comets
+191,63,Belmond-Klemme,IA,3A,IAHSAA 3A,3-6,3,6,0,9,43.8,43.8,-6.24,59.2,191,21.6,24.4,21.6,24.4,-2.8,46.6,49.4,54.05,11.67,21.67,3.33,Varsity Program,Des Moines,Broncos
+192,64,Columbus Catholic,IA,3A,IAHSAA 3A,2-7,2,7,0,9,43.7,43.7,-6.28,63.2,192,20.0,29.2,20.0,29.2,-9.2,44.4,42.7,44.34,7.78,14.44,2.22,Varsity Program,Des Moines,Sailors
+193,14,South Hardin,IA,1A,IHSAA Conference,3-7,3,7,0,10,43.5,43.5,-6.5,47.9,193,23.3,27.1,23.3,27.1,-3.8,49.0,45.7,46.77,40.69,40.69,40.69,Varsity Program,Des Moines,Tigers
+194,56,East Buchanan,IA,A,IHSAA Conference,3-8,3,8,0,11,43.4,43.4,-6.6,44.4,194,24.5,23.5,24.5,23.5,1.0,50.7,50.7,42.81,45.68,45.68,45.68,Varsity Program,Des Moines,Buccaneers
+195,15,Northwest Webster,IA,1A,IHSAA 1A,4-5,4,5,0,9,43.4,43.4,-6.65,58.6,195,18.1,21.7,18.1,21.7,-3.6,41.7,53.2,64.95,15.56,28.89,4.44,Varsity Program,Manson,Cougars
+196,65,Albia,IA,3A,IAHSAA 3A,3-5,3,5,0,8,43.2,43.2,-6.78,60.7,196,16.6,26.9,16.6,26.9,-10.3,39.6,45.9,58.75,13.12,24.38,3.75,Varsity Program,Des Moines,Blue Demons
+197,57,Lynnville-Sully,IA,A,IHSAA Conference,7-6,7,6,0,13,43.1,43.1,-6.9,41.2,197,24.1,22.5,24.1,22.5,1.6,50.1,52.1,68.27,51.67,51.67,51.67,Varsity Program,Sully,Hawks
+198,66,Vinton-Shellsburg,IA,3A,IAHSAA 3A,4-5,4,5,0,9,43.1,43.1,-6.9,60.3,198,20.4,26.3,20.4,26.3,-5.9,45.0,46.8,65.55,15.56,28.89,4.44,Varsity Program,Des Moines,Vikings
+199,21,Dallas Center-Grimes,IA,5A,IHSAA Conference,7-3,7,3,0,10,43.0,43.0,-7.0,52.3,199,33.0,15.2,33.0,15.2,17.8,62.6,62.3,88.3,39.08,39.08,39.08,Varsity Program,Des Moines,Mustangs
+200,58,West Sioux,IA,A,IHSAA Conference,6-5,6,5,0,11,43.0,43.0,-7.0,37.9,200,26.6,22.0,26.6,22.0,4.6,53.6,52.8,67.81,47.75,47.75,47.75,Varsity Program,Des Moines,Falcons
+201,67,Benton,IA,3A,IHSAA Conference,1-8,1,8,0,9,43.0,43.0,-7.0,67.3,201,11.6,35.1,11.6,35.1,-23.5,32.6,34.5,34.67,3.89,7.22,1.11,Varsity Program,Des Moines,Bobcats
+202,20,Bondurant-Farrar,IA,4A,IHSAA Conference,1-8,1,8,0,9,43.0,43.0,-7.0,49.8,202,13.6,29.1,13.6,29.1,-15.5,35.4,42.9,28.54,37.47,37.47,37.47,Varsity Program,Bondurant,Bluejays
+203,59,Baxter,IA,A,IHSAA A,3-6,3,6,0,9,42.8,42.8,-7.19,45.7,203,31.6,37.2,31.6,37.2,-5.6,60.6,31.5,49.33,11.67,21.67,3.33,Varsity Program,Baxter,Varsity
+204,22,Urbandale,IA,5A,IHSAA Conference,6-4,6,4,0,10,42.8,42.8,-7.2,54.4,204,32.6,21.9,32.6,21.9,10.7,62.0,52.9,79.04,36.32,36.32,36.32,Varsity Program,Urbandale,J Hawks
+205,60,Sioux Central,IA,A,IHSAA A,3-5,3,5,0,8,42.7,42.7,-7.34,57.5,205,23.9,27.5,23.9,27.5,-3.6,49.9,45.1,57.62,13.12,24.38,3.75,Varsity Program,Sioux Rapids,Rebels
+206,21,Sioux City West,IA,4A,IHSAA 4A,4-4,4,4,0,8,42.6,42.6,-7.41,59.5,206,15.0,20.1,15.0,20.1,-5.1,37.4,55.5,70.83,17.5,32.5,5.0,Varsity Program,Sioux City,Wolverines
+207,68,Eagle Grove,IA,3A,IAHSAA 3A,4-5,4,5,0,9,42.6,42.6,-7.42,60.8,207,26.7,32.9,26.7,32.9,-6.2,53.8,37.5,65.72,15.56,28.89,4.44,Varsity Program,Des Moines,Eagles
+208,23,Cedar Rapids Kennedy,IA,5A,IHSAA Conference,0-7,0,7,0,7,42.4,42.4,-7.6,57.7,208,17.6,33.9,17.6,33.9,-16.3,41.0,36.1,20.2,27.09,27.09,27.09,Varsity Program,Cedar Rapids,Varsity
+209,22,Clinton,IA,4A,IHSAA 4A,3-5,3,5,0,8,42.3,42.3,-7.7,57.4,209,22.0,26.1,22.0,26.1,-4.1,47.2,47.1,57.59,13.12,24.38,3.75,Varsity Program,Clinton,River Kings Queens
+210,69,Webster City,IA,3A,IHSAA 3A,1-8,1,8,0,9,42.1,42.1,-7.94,67.4,210,11.7,40.0,11.7,40.0,-28.3,32.8,27.6,34.7,3.89,7.22,1.11,Varsity Program,Webster City,Lynx
+211,70,Creston,IA,3A,IHSAA Conference,3-6,3,6,0,9,42.0,42.0,-8.0,49.3,211,20.2,28.1,20.2,28.1,-7.9,44.7,44.3,50.59,42.29,42.29,42.29,Varsity Program,Creston,Panthers
+212,24,Ames,IA,5A,IHSAA 5A,2-7,2,7,0,9,42.0,42.0,-8.03,67.1,212,8.2,30.4,8.2,30.4,-22.2,27.9,41.0,45.71,7.78,14.44,2.22,Varsity Program,Ames,Litl Cyclones
+213,61,Newell-Fonda,IA,A,IHSAA A,3-5,3,5,0,8,42.0,42.0,-8.05,46.2,213,27.9,38.0,27.9,38.0,-10.1,55.5,30.4,53.67,13.12,24.38,3.75,Varsity Program,Newell,Mustangs
+214,71,Center Point-Urbana,IA,3A,IHSAA 3A,3-6,3,6,0,9,41.8,41.8,-8.16,62.6,214,15.4,31.2,15.4,31.2,-15.8,38.0,39.9,55.24,11.67,21.67,3.33,Varsity Program,Center Point,Strmn Pointers
+215,72,Sumner-Fredericksburg,IA,3A,IAHSAA 3A,4-5,4,5,0,9,41.8,41.8,-8.2,58.7,215,23.6,30.7,23.6,30.7,-7.1,49.4,40.6,64.99,15.56,28.89,4.44,Varsity Program,Des Moines,Cougars
+216,25,Waterloo West,IA,5A,IHSAA 5A,3-6,3,6,0,9,41.7,41.7,-8.29,61.5,216,16.8,29.0,16.8,29.0,-12.2,39.9,43.0,54.86,11.67,21.67,3.33,Varsity Program,Waterloo,Wahawks
+217,22,Wilton,IA,2A,IHSAA Conference,8-3,8,3,0,11,41.7,41.7,-8.3,43.0,217,33.6,14.2,33.6,14.2,19.4,63.4,63.7,87.78,41.84,41.84,41.84,Varsity Program,Wilton,Beavers
+218,73,Anamosa,IA,3A,IAHSAA 3A,4-5,4,5,0,9,41.7,41.7,-8.31,60.3,218,15.3,25.4,15.3,25.4,-10.1,37.8,48.0,65.55,15.56,28.89,4.44,Varsity Program,Des Moines,Raiders
+219,16,Lisbon,IA,1A,IHSAA 1A,3-5,3,5,0,8,41.6,41.6,-8.42,58.4,219,23.5,25.8,23.5,25.8,-2.3,49.3,47.5,57.94,13.12,24.38,3.75,Varsity Program,Lisbon,Lions
+220,23,Glenwood,IA,4A,IHSAA Conference,8-3,8,3,0,11,41.4,41.4,-8.6,46.7,220,34.0,24.5,34.0,24.5,9.5,64.0,49.3,89.07,37.14,37.14,37.14,Varsity Program,Glenwood,Rams
+221,74,North Butler,IA,3A,IAHSAA 3A,4-5,4,5,0,9,41.4,41.4,-8.63,56.1,221,21.6,23.2,21.6,23.2,-1.6,46.6,51.1,64.08,15.56,28.89,4.44,Varsity Program,Des Moines,Bearcats
+222,23,West Liberty,IA,2A,IHSAA Conference,3-7,3,7,0,10,41.1,41.1,-8.9,49.9,222,21.1,29.5,21.1,29.5,-8.4,45.9,42.3,47.47,41.77,41.77,41.77,Varsity Program,Des Moines,Comets
+223,26,Linn-Mar,IA,5A,IHSAA Conference,3-6,3,6,0,9,40.6,40.6,-9.4,51.1,223,26.0,26.7,26.0,26.7,-0.7,52.8,46.2,51.22,25.24,25.24,25.24,Varsity Program,Des Moines,Lions
+224,17,Clarion-Goldfield-Dows,IA,1A,IHSAA Conference,9-2,9,2,0,11,40.5,40.5,-9.5,50.7,224,36.4,21.5,36.4,21.5,14.9,67.4,53.5,99.56,37.48,37.48,37.48,Varsity Program,Des Moines,Dows
+225,75,Greene County,IA,3A,IHSAA 3A,3-6,3,6,0,9,40.4,40.4,-9.59,56.2,225,19.8,24.2,19.8,24.2,-4.4,44.1,49.7,53.0,11.67,21.67,3.33,Varsity Program,Jefferson,Rams
+226,24,Spencer,IA,4A,IHSAA Conference,6-4,6,4,0,10,40.4,40.4,-9.6,47.4,226,25.1,22.2,25.1,22.2,2.9,51.5,52.5,76.59,35.79,35.79,35.79,Varsity Program,Des Moines,Tigers
+227,18,Central Springs,IA,1A,IHSAA 1A,2-6,2,6,0,8,40.4,40.4,-9.64,60.1,227,19.9,29.5,19.9,29.5,-9.6,44.3,42.3,46.03,8.75,16.25,2.5,Varsity Program,Manly,Panthers
+228,25,Gilbert,IA,4A,IHSAA Conference,5-4,5,4,0,9,40.3,40.3,-9.7,49.1,228,27.6,18.1,27.6,18.1,9.5,55.0,58.3,72.74,37.24,37.24,37.24,Varsity Program,Gilbert,Tigers
+229,27,Lincoln,IA,5A,IHSAA 5A,4-5,4,5,0,9,40.3,40.3,-9.7,58.2,229,21.7,28.3,21.7,28.3,-6.6,46.8,44.0,64.81,15.56,28.89,4.44,Varsity Program,Des Moines,Railsplitters
+230,62,Springville,IA,A,IHSAA A,4-6,4,6,0,10,40.1,40.1,-9.87,46.6,230,25.9,41.6,25.9,41.6,-15.7,52.7,25.4,56.31,14.0,26.0,4.0,Varsity Program,Springville,Orioles
+231,26,Marion,IA,4A,IHSAA 4A,3-6,3,6,0,9,39.9,39.9,-10.12,61.6,231,17.0,33.4,17.0,33.4,-16.4,40.2,36.8,54.89,11.67,21.67,3.33,Varsity Program,Marion,Wolves
+232,76,Fairfield,IA,3A,IHSAA Conference,5-5,5,5,0,10,39.4,39.4,-10.6,49.3,232,27.4,26.6,27.4,26.6,0.8,54.8,46.4,67.25,37.79,37.79,37.79,Varsity Program,Des Moines,Trojans
+233,28,Sioux City East,IA,5A,IHSAA Conference,7-3,7,3,0,10,39.3,39.3,-10.7,49.1,233,36.9,15.6,36.9,15.6,21.3,68.1,61.8,87.19,25.02,25.02,25.02,Varsity Program,Sioux City,Raiders
+234,63,Midland,IA,A,IHSAA A,4-4,4,4,0,8,39.3,39.3,-10.71,56.7,234,19.2,31.9,19.2,31.9,-12.7,43.3,38.9,69.84,17.5,32.5,5.0,Varsity Program,Wyoming,Eagles
+235,24,Cherokee,IA,2A,IHSAA Conference,1-6,1,6,0,7,39.2,39.2,-10.8,48.2,235,19.6,28.9,19.6,28.9,-9.3,43.8,43.1,31.16,34.28,34.28,34.28,Varsity Program,Des Moines,Varsity
+236,19,Union,IA,1A,IHSAA 1A,3-5,3,5,0,8,39.1,39.1,-10.85,56.6,236,17.2,21.5,17.2,21.5,-4.3,40.5,53.5,57.31,13.12,24.38,3.75,Varsity Program,La Porte City,Knights
+237,77,Assumption,IA,3A,IHSAA Conference,2-8,2,8,0,10,39.1,39.1,-10.9,51.1,237,19.0,31.7,19.0,31.7,-12.7,43.0,39.2,37.88,39.87,39.87,39.87,Varsity Program,Des Moines,Knights
+238,78,Winterset,IA,3A,IHSAA 3A,2-7,2,7,0,9,39.0,39.0,-10.98,63.3,238,16.2,34.0,16.2,34.0,-17.8,39.1,36.0,44.38,7.78,14.44,2.22,Varsity Program,Winterset,Huskies
+239,25,Tipton,IA,2A,IHSAA 2A,3-5,3,5,0,8,39.0,39.0,-11.0,56.6,239,18.9,25.4,18.9,25.4,-6.5,42.9,48.0,57.31,13.12,24.38,3.75,Varsity Program,Tipton,Tigers
+240,64,East Mills,IA,A,IHSAA A,3-5,3,5,0,8,38.9,38.9,-11.06,46.2,240,26.0,42.8,26.0,42.8,-16.8,52.8,25.0,53.67,13.12,24.38,3.75,Varsity Program,Malvern,Wolverines
+241,65,BCLUW,IA,A,IHSAA A,4-5,4,5,0,9,38.9,38.9,-11.08,53.8,241,26.9,20.1,26.9,20.1,6.8,54.1,55.5,63.27,15.56,28.89,4.44,Varsity Program,Conrad,Comets
+242,26,Monticello,IA,2A,IHSAA 2A,1-7,1,7,0,8,38.6,38.6,-11.38,62.3,242,16.4,30.9,16.4,30.9,-14.5,39.4,40.3,34.3,4.38,8.12,1.25,Varsity Program,Monticello,Panthers
+243,66,St. Edmond,IA,A,IHSAA A,3-4,3,4,0,7,38.5,38.5,-11.54,47.0,243,29.4,50.6,29.4,50.6,-21.2,57.6,25.0,59.31,15.0,27.86,4.29,Varsity Program,Fort Dodge,Gaels
+244,27,Forest City,IA,2A,IHSAA 2A,1-8,1,8,0,9,38.3,38.3,-11.66,65.4,244,12.7,34.9,12.7,34.9,-22.2,34.2,34.7,34.0,3.89,7.22,1.11,Varsity Program,Forest City,Indians
+245,79,Carroll,IA,3A,IHSAA Conference,8-2,8,2,0,10,38.2,38.2,-11.8,43.8,245,37.2,18.5,37.2,18.5,18.7,68.5,57.7,95.33,34.84,34.84,34.84,Varsity Program,Carroll,Tigers
+246,20,Pocahontas,IA,1A,IHSAA 1A,3-5,3,5,0,8,37.9,37.9,-12.11,56.6,246,20.2,31.5,20.2,31.5,-11.3,44.7,39.5,57.31,13.12,24.38,3.75,Varsity Program,Pocahontas,Indians
+247,28,Osage,IA,2A,IHSAA Conference,8-2,8,2,0,10,37.7,37.7,-12.3,42.6,247,27.9,13.2,27.9,13.2,14.7,55.5,65.1,94.91,32.93,32.93,32.93,Varsity Program,Des Moines,Green Devils
+248,67,Clayton-Ridge,IA,A,IHSAA A,3-5,3,5,0,8,37.7,37.7,-12.32,52.8,248,26.8,25.4,26.8,25.4,1.4,53.9,48.0,55.98,13.12,24.38,3.75,Varsity Program,Guttenburg,Eagles
+249,68,North Iowa,IA,A,IHSAA A,2-6,2,6,0,8,37.6,37.6,-12.36,44.5,249,29.2,41.1,29.2,41.1,-11.9,57.3,26.1,40.58,8.75,16.25,2.5,Varsity Program,Buffalo Center,Bison
+250,29,Central Lee,IA,2A,IHSAA 2A,2-6,2,6,0,8,37.6,37.6,-12.42,59.7,250,20.1,33.8,20.1,33.8,-13.7,44.5,36.3,45.89,8.75,16.25,2.5,Varsity Program,Donnellson,Hawks
+251,69,AGWSR,IA,A,IHSAA A,2-7,2,7,0,9,37.5,37.5,-12.45,56.3,251,20.4,25.0,20.4,25.0,-4.6,45.0,48.6,41.93,7.78,14.44,2.22,Varsity Program,Ackley,Cougars
+252,80,Danville,IA,3A,IAHSAA 3A,5-4,5,4,0,9,37.5,37.5,-12.48,51.9,252,23.2,24.7,23.2,24.7,-1.5,48.9,49.0,73.72,19.44,36.11,5.56,Varsity Program,Des Moines,Bears
+253,81,Southwest Valley,IA,3A,IAHSAA 3A,4-5,4,5,0,9,37.5,37.5,-12.5,55.8,253,17.3,28.0,17.3,28.0,-10.7,40.6,44.4,63.97,15.56,28.89,4.44,Varsity Program,Des Moines,Valley
+254,82,Fort Madison,IA,3A,IHSAA 3A,3-6,3,6,0,9,37.5,37.5,-12.52,60.8,254,23.4,39.1,23.4,39.1,-15.7,49.2,28.9,54.61,11.67,21.67,3.33,Varsity Program,Fort Madison,Bloodhounds
+255,27,Waterloo East,IA,4A,IHSAA 4A,3-6,3,6,0,9,37.2,37.2,-12.75,61.6,255,19.1,35.1,19.1,35.1,-16.0,43.1,34.5,54.89,11.67,21.67,3.33,Varsity Program,Waterloo,Trojans
+256,83,Charles City,IA,3A,IHSAA 3A,2-7,2,7,0,9,36.8,36.8,-13.17,61.2,256,9.7,23.8,9.7,23.8,-14.1,30.0,50.3,43.64,7.78,14.44,2.22,Varsity Program,Charles City,Comets
+257,70,East Marshall,IA,A,IHSAA A,2-6,2,6,0,8,36.4,36.4,-13.6,62.0,257,11.2,32.2,11.2,32.2,-21.0,32.1,38.5,46.7,8.75,16.25,2.5,Varsity Program,Le Grand,Mustangs
+258,28,Denison-Schleswig,IA,4A,IHSAA 4A,3-6,3,6,0,9,36.3,36.3,-13.73,60.1,258,12.2,31.6,12.2,31.6,-19.4,33.5,39.4,54.37,11.67,21.67,3.33,Varsity Program,Denison,Monarchs
+259,29,Boone,IA,4A,IHSAA 4A,3-6,3,6,0,9,36.1,36.1,-13.89,60.2,259,6.2,22.4,6.2,22.4,-16.2,25.1,52.2,54.4,11.67,21.67,3.33,Varsity Program,Boone,Toreadors
+260,71,Westwood,IA,A,IHSAA A,2-6,2,6,0,8,35.8,35.8,-14.23,60.0,260,14.2,31.6,14.2,31.6,-17.4,36.3,39.4,46.0,8.75,16.25,2.5,Varsity Program,Sloan,Rebels
+261,30,South Tama County,IA,2A,IHSAA 2A,2-5,2,5,0,7,35.5,35.5,-14.45,58.3,261,15.4,30.4,15.4,30.4,-15.0,38.0,41.0,48.98,10.0,18.57,2.86,Varsity Program,Tama,Trojans
+262,31,Clarinda,IA,2A,IHSAA Conference,2-8,2,8,0,10,35.1,35.1,-14.9,47.0,262,19.3,32.7,19.3,32.7,-13.4,43.4,37.8,36.45,35.42,35.42,35.42,Varsity Program,Des Moines,Cardinals
+263,29,Dubuque Senior,IA,5A,IHSAA 5A,2-7,2,7,0,9,34.8,34.8,-15.24,59.9,263,18.1,37.3,18.1,37.3,-19.2,41.7,31.4,43.19,7.78,14.44,2.22,Varsity Program,Dubuque,Rams
+264,21,South Hamilton,IA,1A,IHSAA 1A,1-7,1,7,0,8,34.5,34.5,-15.46,59.9,264,19.0,38.1,19.0,38.1,-19.1,43.0,30.3,33.47,4.38,8.12,1.25,Varsity Program,Jewell,Hawks
+265,72,Maquoketa Valley,IA,A,IHSAA Conference,5-6,5,6,0,11,34.5,34.5,-15.5,40.6,265,19.8,26.9,19.8,26.9,-7.1,44.1,45.9,59.66,41.1,41.1,41.1,Varsity Program,Des Moines,Wildcats
+266,30,Davenport Central,IA,5A,IHSAA 5A,3-6,3,6,0,9,34.5,34.5,-15.55,58.6,266,20.6,37.8,20.6,37.8,-17.2,45.2,30.7,53.84,11.67,21.67,3.33,Varsity Program,Davenport,Blue Devils
+267,73,MMCRU,IA,A,IHSAA Conference,2-7,2,7,0,9,34.2,34.2,-15.8,47.6,267,17.8,32.2,17.8,32.2,-14.4,41.3,38.5,38.88,42.88,42.88,42.88,Varsity Program,Des Moines,Varsity
+268,32,Woodward-Granger,IA,2A,IHSAA 2A,1-7,1,7,0,8,34.2,34.2,-15.8,60.0,268,15.0,31.6,15.0,31.6,-16.6,37.4,39.4,33.5,4.38,8.12,1.25,Varsity Program,Woodward,Hawks
+269,33,Estherville Lincoln Central,IA,2A,IHSAA 2A,0-9,0,9,0,9,34.2,34.2,-15.81,67.3,269,10.6,39.9,10.6,39.9,-29.3,31.2,27.7,23.55,0.0,0.0,0.0,Varsity Program,Estherville,Midgets And Midgettes
+270,74,Tripoli,IA,A,IHSAA A,2-6,2,6,0,8,34.0,34.0,-16.05,44.5,270,26.4,46.5,26.4,46.5,-20.1,53.4,25.0,40.58,8.75,16.25,2.5,Varsity Program,Tripoli,Panthers
+271,31,Sioux City North,IA,5A,IHSAA 5A,0-9,0,9,0,9,33.5,33.5,-16.52,65.8,271,13.3,44.6,13.3,44.6,-31.3,35.0,25.0,23.03,0.0,0.0,0.0,Varsity Program,Sioux City,Stars
+272,75,Griswold,IA,A,IHSAA A,3-7,3,7,0,10,33.4,33.4,-16.58,45.2,272,16.4,40.8,16.4,40.8,-24.4,39.4,26.5,45.82,10.5,19.5,3.0,Varsity Program,Griswold,Tigers
+273,32,Ottumwa,IA,5A,IHSAA 5A,2-7,2,7,0,9,33.2,33.2,-16.82,63.0,273,10.3,33.9,10.3,33.9,-23.6,30.8,36.1,44.27,7.78,14.44,2.22,Varsity Program,Ottumwa,Bulldogs
+274,76,Hartley-Melvin-Sanborn,IA,A,IHSAA A,1-6,1,6,0,7,32.8,32.8,-17.2,60.6,274,14.1,36.6,14.1,36.6,-22.5,36.1,32.4,35.5,5.0,9.29,1.43,Varsity Program,Hartley,Hawks
+275,77,Glidden-Ralston,IA,A,IHSAA A,2-6,2,6,0,8,32.6,32.6,-17.44,44.5,275,32.8,56.0,32.8,56.0,-23.2,62.3,25.0,40.58,8.75,16.25,2.5,Varsity Program,Glidden,Wildcats
+276,84,West Central Valley,IA,3A,IAHSAA 3A,3-7,3,7,0,10,32.2,32.2,-17.75,56.7,276,14.9,26.1,14.9,26.1,-11.2,37.3,47.1,49.84,10.5,19.5,3.0,Varsity Program,Des Moines,Wildcats
+277,22,Emmetsburg,IA,1A,IHSAA Conference,1-9,1,9,0,10,32.0,32.0,-18.0,51.5,277,14.3,34.6,14.3,34.6,-20.3,36.4,35.2,28.02,38.25,38.25,38.25,Varsity Program,Emmetsburg,Ehawks
+278,78,West Fork,IA,A,IHSAA Conference,10-1,10,1,0,11,31.5,31.5,-18.5,39.7,278,34.5,18.2,34.5,18.2,16.3,64.7,58.1,104.8,38.74,38.74,38.74,Varsity Program,Des Moines,Spartans
+279,79,Northwood-Kensett,IA,A,IHSAA A,2-5,2,5,0,7,31.4,31.4,-18.6,45.0,279,20.7,49.1,20.7,49.1,-28.4,45.4,25.0,44.32,10.0,18.57,2.86,Varsity Program,Northwood,Vikings
+280,23,Garner-Hayfield/Ventura,IA,1A,IHSAA 1A,0-8,0,8,0,8,31.4,31.4,-18.61,66.5,280,13.4,45.9,13.4,45.9,-32.5,35.2,25.0,23.27,0.0,0.0,0.0,Varsity Program,Garner,Cardinals
+281,24,Ogden,IA,1A,IHSAA 1A,2-6,2,6,0,8,31.3,31.3,-18.72,56.7,281,10.4,24.8,10.4,24.8,-14.4,31.0,48.9,44.84,8.75,16.25,2.5,Varsity Program,Ogden,Bulldogs
+282,33,Muscatine,IA,5A,IHSAA 5A,1-8,1,8,0,9,31.0,31.0,-18.99,61.9,282,14.8,39.1,14.8,39.1,-24.3,37.1,28.9,32.78,3.89,7.22,1.11,Varsity Program,Muscatine,Muskies
+283,80,Dunkerton,IA,A,IHSAA A,2-6,2,6,0,8,30.7,30.7,-19.29,44.5,283,21.2,48.5,21.2,48.5,-27.3,46.1,25.0,40.58,8.75,16.25,2.5,Varsity Program,Dunkerton,Raiders
+284,25,Missouri Valley,IA,1A,IHSAA 1A,1-8,1,8,0,9,30.7,30.7,-19.31,60.6,284,7.9,32.6,7.9,32.6,-24.7,27.5,38.0,32.32,3.89,7.22,1.11,Varsity Program,Missouri Valley,Big Reds
+285,81,West Central,IA,A,IHSAA A,1-6,1,6,0,7,30.6,30.6,-19.36,43.0,285,28.3,49.1,28.3,49.1,-20.8,56.0,25.0,29.34,5.0,9.29,1.43,Varsity Program,Maynard,Blue Devils
+286,26,Sigourney/Keota,IA,1A,IHSAA Conference,5-5,5,5,0,10,30.6,30.6,-19.4,43.0,286,29.7,21.0,29.7,21.0,8.7,58.0,54.2,65.05,41.0,41.0,41.0,Varsity Program,Des Moines,Cobras
+287,30,Mason City,IA,4A,IHSAA 4A,1-8,1,8,0,9,30.6,30.6,-19.41,63.4,287,11.1,37.9,11.1,37.9,-26.8,31.9,30.5,33.3,3.89,7.22,1.11,Varsity Program,Mason City,Riverhawks
+288,85,Independence,IA,3A,IHSAA Conference,3-6,3,6,0,9,29.8,29.8,-20.2,43.3,288,19.9,23.2,19.9,23.2,-3.3,44.3,51.1,48.49,24.95,24.95,24.95,Varsity Program,Des Moines,Mustangs
+289,82,ACGC,IA,A,IHSAA Conference,2-8,2,8,0,10,29.8,29.8,-20.2,42.1,289,18.2,31.2,18.2,31.2,-13.0,41.9,39.9,34.73,40.2,40.2,40.2,Varsity Program,Des Moines,Varsity
+290,86,Cardinal,IA,3A,IAHSAA 3A,3-6,3,6,0,9,29.8,29.8,-20.25,57.4,290,14.9,33.4,14.9,33.4,-18.5,37.3,36.8,53.42,11.67,21.67,3.33,Varsity Program,Des Moines,Comets
+291,31,Storm Lake,IA,4A,IHSAA 4A,1-8,1,8,0,9,29.8,29.8,-20.25,61.3,291,8.1,34.2,8.1,34.2,-26.1,27.7,35.7,32.57,3.89,7.22,1.11,Varsity Program,Storm Lake,Tornadoes
+292,32,Jefferson,IA,4A,IHSAA 4A,0-9,0,9,0,9,29.7,29.7,-20.27,61.2,292,5.1,34.9,5.1,34.9,-29.8,25.0,34.7,21.42,0.0,0.0,0.0,Varsity Program,Council Bluffs,Yellowjackets
+293,83,Twin Cedars,IA,A,IHSAA A,2-7,2,7,0,9,29.6,29.6,-20.38,44.1,293,18.9,48.1,18.9,48.1,-29.2,42.9,25.0,37.66,7.78,14.44,2.22,Varsity Program,Bussey,Sabers
+294,87,Keokuk,IA,3A,IHSAA 3A,1-8,1,8,0,9,29.6,29.6,-20.41,62.1,294,16.9,49.4,16.9,49.4,-32.5,40.1,25.0,32.85,3.89,7.22,1.11,Varsity Program,Keokuk,Chiefs
+295,33,LeMars,IA,4A,IHSAA Conference,4-5,4,5,0,9,28.8,28.8,-21.2,46.2,295,19.1,22.3,19.1,22.3,-3.2,43.1,52.4,60.61,30.84,30.84,30.84,Varsity Program,Des Moines,Bulldogs
+296,34,Des Moines East,IA,5A,IHSAA 5A,1-8,1,8,0,9,28.5,28.5,-21.52,59.4,296,13.1,32.2,13.1,32.2,-19.1,34.7,38.5,31.9,3.89,7.22,1.11,Varsity Program,Des Moines,Scarlets
+297,84,Calamus-Wheatland,IA,A,IHSAA A,1-5,1,5,0,6,28.1,28.1,-21.93,43.3,297,22.3,60.2,22.3,60.2,-37.9,47.6,25.0,31.82,5.83,10.83,1.67,Varsity Program,Wheatland,Warriors
+298,88,Van Buren County,IA,3A,IAHSAA 3A,4-4,4,4,0,8,28.0,28.0,-21.96,52.2,298,15.8,31.5,15.8,31.5,-15.7,38.5,39.5,68.27,17.5,32.5,5.0,Varsity Program,Des Moines,Warriors
+299,85,St. Albert,IA,A,IHSAA Conference,9-2,9,2,0,11,28.0,28.0,-22.0,32.3,299,29.3,18.7,29.3,18.7,10.6,57.4,57.4,93.12,41.45,41.45,41.45,Varsity Program,Des Moines,Falcons
+300,86,Cedar Ridge Christian,IA,A,IHSAA A,1-6,1,6,0,7,27.4,27.4,-22.6,43.0,300,15.7,46.9,15.7,46.9,-31.2,38.4,25.0,29.34,5.0,9.29,1.43,Varsity Program,Waterloo,Regents
+301,87,Seymour,IA,A,IHSAA A,1-6,1,6,0,7,27.4,27.4,-22.6,43.0,301,21.7,50.9,21.7,50.9,-29.2,46.8,25.0,29.34,5.0,9.29,1.43,Varsity Program,Seymour,Warriors
+302,35,Hempstead,IA,5A,IHSAA 5A,1-8,1,8,0,9,27.2,27.2,-22.75,63.5,302,9.9,41.8,9.9,41.8,-31.9,30.3,25.1,33.34,3.89,7.22,1.11,Varsity Program,Dubuque,Mustangs
+303,88,Collins-Maxwell,IA,A,IHSAA A,1-7,1,7,0,8,26.9,26.9,-23.1,42.8,303,18.5,52.2,18.5,52.2,-33.7,42.3,25.0,27.48,4.38,8.12,1.25,Varsity Program,Maxwell,Maxwell
+304,89,Colfax-Mingo,IA,A,IHSAA A,3-6,3,6,0,9,26.8,26.8,-23.16,53.4,304,18.6,35.4,18.6,35.4,-16.8,42.4,34.0,52.02,11.67,21.67,3.33,Varsity Program,Colfax,Tigerhawks
+305,90,South Winneshiek,IA,A,IHSAA A,1-7,1,7,0,8,26.7,26.7,-23.31,56.8,305,10.4,37.2,10.4,37.2,-26.8,31.0,31.5,32.38,4.38,8.12,1.25,Varsity Program,Calmar,Warriors
+306,89,Knoxville,IA,3A,IHSAA 3A,1-8,1,8,0,9,26.6,26.6,-23.35,61.6,306,14.1,40.7,14.1,40.7,-26.6,36.1,26.6,32.67,3.89,7.22,1.11,Varsity Program,Knoxville,Panthers
+307,91,South O'Brien,IA,A,IHSAA A,0-7,0,7,0,7,26.5,26.5,-23.54,61.0,307,5.4,31.7,5.4,31.7,-26.3,25.0,39.2,21.35,0.0,0.0,0.0,Varsity Program,Paullina,Wolverines
+308,27,West Marshall,IA,1A,IHSAA Conference,7-3,7,3,0,10,26.2,26.2,-23.8,34.0,308,28.2,18.1,28.2,18.1,10.1,55.9,58.3,81.9,27.92,27.92,27.92,Varsity Program,Des Moines,Trojans
+309,90,Maquoketa,IA,3A,IHSAA 3A,0-9,0,9,0,9,26.0,26.0,-24.04,61.7,309,9.1,39.3,9.1,39.3,-30.2,29.1,28.6,21.59,0.0,0.0,0.0,Varsity Program,Maquoketa,Cardinals
+310,34,Burlington,IA,4A,IHSAA 4A,2-7,2,7,0,9,25.8,25.8,-24.2,57.2,310,18.8,41.3,18.8,41.3,-22.5,42.7,25.8,42.24,7.78,14.44,2.22,Varsity Program,Burlington,Grayhounds
+311,92,Riverside,IA,A,IHSAA Conference,7-3,7,3,0,10,25.7,25.7,-24.3,32.9,311,31.8,13.6,31.8,13.6,18.2,60.9,64.6,81.52,28.24,28.24,28.24,Varsity Program,Des Moines,Bulldogs
+312,28,Durant,IA,1A,IHSAA 1A,1-8,1,8,0,9,25.7,25.7,-24.32,59.7,312,13.2,40.6,13.2,40.6,-27.4,34.9,26.8,32.01,3.89,7.22,1.11,Varsity Program,Durant,Wildcats
+313,29,Panorama,IA,1A,IHSAA 1A,1-8,1,8,0,9,25.4,25.4,-24.59,57.1,313,8.0,44.4,8.0,44.4,-36.4,27.6,25.0,31.1,3.89,7.22,1.11,Varsity Program,Panora,Panthers
+314,30,Jesup,IA,1A,IHSAA 1A,0-8,0,8,0,8,25.2,25.2,-24.8,63.0,314,9.8,46.2,9.8,46.2,-36.4,30.1,25.0,22.05,0.0,0.0,0.0,Varsity Program,Jesup,Hawks
+315,34,Clarke,IA,2A,IHSAA 2A,1-7,1,7,0,8,25.1,25.1,-24.87,58.1,315,17.1,38.9,17.1,38.9,-21.8,40.3,29.1,32.84,4.38,8.12,1.25,Varsity Program,Osceola,Indians
+316,36,Marshalltown,IA,5A,IHSAA 5A,1-8,1,8,0,9,25.1,25.1,-24.94,61.4,316,8.3,37.8,8.3,37.8,-29.5,28.0,30.7,32.6,3.89,7.22,1.11,Varsity Program,Marshalltown,Bobcats
+317,35,Sheldon,IA,2A,IHSAA 2A,0-8,0,8,0,8,25.0,25.0,-25.02,67.2,317,7.2,46.1,7.2,46.1,-38.9,26.5,25.0,23.52,0.0,0.0,0.0,Varsity Program,Sheldon,Orabs
+318,91,Perry,IA,3A,IHSAA 3A,2-7,2,7,0,9,24.9,24.9,-25.08,55.1,318,14.9,31.7,14.9,31.7,-16.8,37.3,39.2,41.51,7.78,14.44,2.22,Varsity Program,Perry,Bluejays
+319,93,Pekin,IA,A,IHSAA Conference,8-1,8,1,0,9,24.2,24.2,-25.8,35.8,319,43.8,14.9,43.8,14.9,28.9,77.7,62.7,101.42,33.76,33.76,33.76,Varsity Program,Des Moines,Panthers
+320,35,Oskaloosa,IA,4A,IHSAA 4A,0-9,0,9,0,9,24.2,24.2,-25.83,61.2,320,10.7,38.4,10.7,38.4,-27.7,31.4,29.8,21.42,0.0,0.0,0.0,Varsity Program,Oskaloosa,Indians
+321,94,North Mahaska,IA,A,IHSAA A,0-8,0,8,0,8,24.1,24.1,-25.86,60.6,321,9.8,43.1,9.8,43.1,-33.3,30.1,25.0,21.21,0.0,0.0,0.0,Varsity Program,New Sharon,Warhawks
+322,31,Camanche,IA,1A,IHSAA 1A,1-8,1,8,0,9,23.9,23.9,-26.07,58.0,322,13.8,47.1,13.8,47.1,-33.3,35.7,25.0,31.41,3.89,7.22,1.11,Varsity Program,Camanche,Indians
+323,95,Highland,IA,A,IHSAA A,2-6,2,6,0,8,23.7,23.7,-26.27,52.1,323,9.9,27.9,9.9,27.9,-18.0,30.3,44.5,43.23,8.75,16.25,2.5,Varsity Program,Riverside,Huskies
+324,96,Ar-We-Va,IA,A,IHSAA A,0-7,0,7,0,7,23.4,23.4,-26.6,41.0,324,9.4,55.1,9.4,55.1,-45.7,29.6,25.0,14.35,0.0,0.0,0.0,Varsity Program,Westside,Rockets
+325,97,Belle Plaine,IA,A,IHSAA A,0-8,0,8,0,8,23.4,23.4,-26.6,41.0,325,18.8,51.9,18.8,51.9,-33.1,42.7,25.0,14.35,0.0,0.0,0.0,Varsity Program,Belle Plaine,Plainsman
+326,98,Easton Valley,IA,A,IHSAA A,0-8,0,8,0,8,23.4,23.4,-26.6,41.0,326,10.6,65.4,10.6,65.4,-54.8,31.2,25.0,14.35,0.0,0.0,0.0,Varsity Program,Preston,Valley
+327,99,Harris-Lake Park,IA,A,IHSAA A,0-7,0,7,0,7,23.4,23.4,-26.6,41.0,327,3.7,62.9,3.7,62.9,-59.2,25.0,25.0,14.35,0.0,0.0,0.0,Varsity Program,Lake Park,Wolves
+328,100,Melcher-Dallas,IA,A,IHSAA A,0-8,0,8,0,8,23.4,23.4,-26.6,41.0,328,13.2,68.0,13.2,68.0,-54.8,34.9,25.0,14.35,0.0,0.0,0.0,Varsity Program,Melcher,Saints
+329,101,Meskwaki Settlement,IA,A,IHSAA A,0-8,0,8,0,8,23.4,23.4,-26.6,41.0,329,3.5,31.5,3.5,31.5,-28.0,25.0,39.5,14.35,0.0,0.0,0.0,Varsity Program,Tama,Warriors
+330,102,Sidney,IA,A,IHSAA A,0-8,0,8,0,8,23.4,23.4,-26.6,41.0,330,14.0,59.9,14.0,59.9,-45.9,36.0,25.0,14.35,0.0,0.0,0.0,Varsity Program,Sidney,Cowboys And Cowgirls
+331,36,West Branch,IA,2A,IHSAA Conference,4-5,4,5,0,9,22.8,22.8,-27.2,42.1,331,18.1,21.7,18.1,21.7,-3.6,41.7,53.2,59.18,22.71,22.71,22.71,Varsity Program,Des Moines,Bears
+332,32,Pleasantville,IA,1A,IHSAA Conference,7-3,7,3,0,10,22.7,22.7,-27.3,41.2,332,31.8,19.9,31.8,19.9,11.9,60.9,55.7,84.42,29.7,29.7,29.7,Varsity Program,Des Moines,Trojans
+333,33,Louisa-Muscatine,IA,1A,IHSAA 1A,1-7,1,7,0,8,22.1,22.1,-27.92,55.8,333,12.5,38.5,12.5,38.5,-26.0,33.9,29.7,32.03,4.38,8.12,1.25,Varsity Program,Letts,Falcons
+334,34,Alta-Aurelia,IA,1A,IHSAA 1A,0-8,0,8,0,8,19.5,19.5,-30.53,61.8,334,10.2,51.8,10.2,51.8,-41.6,30.7,25.0,21.63,0.0,0.0,0.0,Varsity Program,Alta,Warriors
+335,103,Nodaway Valley,IA,A,IHSAA A,0-8,0,8,0,8,19.1,19.1,-30.94,59.5,335,2.2,38.0,2.2,38.0,-35.8,25.0,30.4,20.82,0.0,0.0,0.0,Varsity Program,Greenfield,Wolverines
+336,104,Columbus,IA,A,IHSAA A,1-8,1,8,0,9,18.9,18.9,-31.09,55.0,336,11.1,43.1,11.1,43.1,-32.0,31.9,25.0,30.36,3.89,7.22,1.11,Varsity Program,Columbus Junction,Wildcats
+337,35,Red Oak,IA,1A,IHSAA 1A,0-9,0,9,0,9,17.9,17.9,-32.14,60.2,337,6.4,44.4,6.4,44.4,-38.0,25.4,25.0,21.07,0.0,0.0,0.0,Varsity Program,Red Oak,Tigers
+338,105,Lake Mills,IA,A,IHSAA A,0-8,0,8,0,8,16.7,16.7,-33.34,58.4,338,5.8,43.6,5.8,43.6,-37.8,25.0,25.0,20.44,0.0,0.0,0.0,Varsity Program,Lake Mills,Bulldogs
+339,37,Oelwein,IA,2A,IHSAA 2A,0-8,0,8,0,8,16.1,16.1,-33.87,63.3,339,4.1,49.2,4.1,49.2,-45.1,25.0,25.0,22.15,0.0,0.0,0.0,Varsity Program,Oelwein,Huskies
+340,106,North Cedar,IA,A,IHSAA A,1-7,1,7,0,8,15.8,15.8,-34.22,59.5,340,3.9,51.8,3.9,51.8,-47.9,25.0,25.0,33.33,4.38,8.12,1.25,Varsity Program,Stanwood,Knights
+341,36,Davenport West,IA,4A,IHSAA 4A,0-9,0,9,0,9,15.7,15.7,-34.28,62.3,341,4.2,42.9,4.2,42.9,-38.7,25.0,25.0,21.8,0.0,0.0,0.0,Varsity Program,Davenport,Falcons
+342,107,Wapello,IA,A,IHSAA A,0-7,0,7,0,7,15.4,15.4,-34.57,47.8,342,8.6,29.3,8.6,29.3,-20.7,28.4,42.6,16.73,0.0,0.0,0.0,Varsity Program,Wapello,Indians
+343,92,Saydel,IA,3A,IHSAA 3A,1-7,1,7,0,8,14.0,14.0,-36.0,51.5,343,7.8,49.0,7.8,49.0,-41.2,27.3,25.0,30.52,4.38,8.12,1.25,Varsity Program,Des Moines,Eagles
+344,37,Des Moines North,IA,4A,IHSAA 4A,0-9,0,9,0,9,14.0,14.0,-36.0,57.9,344,7.6,51.6,7.6,51.6,-44.0,27.0,25.0,20.26,0.0,0.0,0.0,Varsity Program,Des Moines,Polar Bears
+345,108,Postville,IA,A,IHSAA A,0-8,0,8,0,8,14.0,14.0,-36.0,55.5,345,4.4,48.0,4.4,48.0,-43.6,25.0,25.0,19.42,0.0,0.0,0.0,Varsity Program,Postville,Pirates
