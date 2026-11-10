@@ -1,223 +1,223 @@
 rank,division_rank,team,state,division,region,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_off,ppg_def,net_margin,harbin_avg,ppa,pqs,l1_pts,l2_pts,contender_tier
-1,1,Trinity,KY,6A,2,KHSAA Class 6A,10-1,10,1,0,11,96.6,96.6,54.1,80.3,2,45.2,7.5,37.7,23.84,23.84,23.84,65.0,359.4,State Title Contender
-2,2,Frederick Douglass,KY,6A,2,KHSAA Class 6A,10-0,10,0,0,10,90.8,90.8,42.08,78.0,4,34.6,11.0,23.6,23.6,23.6,23.6,65.0,344.4,State Title Contender
-3,1,Highlands,KY,4A,1,KHSAA Class 4A,9-2,9,2,0,11,90.8,90.8,42.06,76.5,10,43.4,13.7,29.7,19.13,19.13,19.13,49.5,301.1,State Title Contender
-4,3,DuPont Manual,KY,6A,2,KHSAA Class 6A,10-1,10,1,0,11,86.8,86.8,37.14,76.8,9,34.0,10.5,23.5,21.07,21.07,21.07,65.0,336.4,State Title Contender
-5,2,Boyle County,KY,4A,4,KHSAA Class 4A,7-2,7,2,0,9,84.6,84.6,34.7,74.1,17,34.8,11.9,22.9,17.14,17.14,17.14,38.5,223.6,State Title Contender
-6,1,Beechwood,KY,2A,1,KHSAA Class 2A,10-0,10,0,0,10,81.8,81.8,31.83,65.0,127,54.8,5.1,49.7,17.41,17.41,17.41,45.0,259.8,State Title Contender
-7,3,Covington Catholic,KY,4A,4,KHSAA Class 4A,7-4,7,4,0,11,81.8,81.8,31.82,75.6,11,36.0,19.7,16.3,14.65,14.65,14.65,38.5,230.3,State Title Contender
-8,1,Christian Academy-Louisville,KY,3A,1,KHSAA Class 3A,10-0,10,0,0,10,78.2,78.2,28.21,69.5,62,51.8,6.2,45.6,18.51,18.51,18.51,50.0,289.3,State Title Contender
-9,4,Madison Central,KY,6A,4,KHSAA Class 6A,10-1,10,1,0,11,77.5,77.5,27.5,74.6,15,39.5,13.4,26.1,19.46,19.46,19.46,65.0,322.1,State Title Contender
-10,5,St. Xavier,KY,6A,3,KHSAA Class 6A,5-7,5,7,0,12,77.3,77.3,27.27,81.4,1,21.6,26.8,-5.2,11.33,11.33,11.33,32.5,183.4,Semifinal Contender
-11,1,Pulaski County,KY,5A,2,KHSAA Class 5A,10-0,10,0,0,10,73.8,73.8,23.81,72.2,30,45.9,14.4,31.5,19.61,19.61,19.61,60.0,307.1,State Title Contender
-12,4,Paducah Tilghman,KY,4A,3,KHSAA Class 4A,9-0,9,0,0,9,73.1,73.1,23.11,69.9,60,47.9,11.4,36.5,18.49,18.49,18.49,49.5,262.8,State Title Contender
-13,6,South Warren,KY,6A,2,KHSAA Class 6A,7-2,7,2,0,9,72.3,72.3,22.29,71.6,37,41.0,13.8,27.2,15.98,15.98,15.98,45.5,212.1,Semifinal Contender
-14,7,Bryan Station,KY,6A,4,KHSAA Class 6A,6-4,6,4,0,10,71.8,71.8,21.8,77.3,6,20.7,19.0,1.7,13.65,13.65,13.65,39.0,203.9,Semifinal Contender
-15,2,Owensboro Catholic,KY,2A,3,KHSAA Class 2A,8-0,8,0,0,8,71.7,71.7,21.65,66.0,109,53.4,10.0,43.4,16.44,16.44,16.44,36.0,213.5,State Title Contender
-16,2,Bowling Green,KY,5A,2,KHSAA Class 5A,5-4,5,4,0,9,70.5,70.5,20.48,75.2,13,36.7,33.4,3.3,12.13,12.13,12.13,30.0,163.0,State Title Contender
-17,3,Woodford County,KY,5A,3,KHSAA Class 5A,9-1,9,1,0,10,70.3,70.3,20.28,71.2,44,43.5,16.3,27.2,17.29,17.29,17.29,54.0,270.2,State Title Contender
-18,1,Pikeville,KY,1A,3,KHSAA Class 1A,9-1,9,1,0,10,69.6,69.6,19.64,69.3,65,38.2,11.6,26.6,15.03,15.03,15.03,36.0,259.1,State Title Contender
-19,4,Scott County,KY,5A,4,KHSAA Class 5A,8-3,8,3,0,11,69.3,69.3,19.26,73.6,20,41.8,24.8,17.0,14.72,14.72,14.72,48.0,252.7,State Title Contender
-20,3,Lexington Christian,KY,2A,1,KHSAA Class 2A,9-1,9,1,0,10,68.8,68.8,18.8,71.7,36,41.1,18.3,22.8,15.87,15.87,15.87,40.5,273.3,State Title Contender
-21,5,Owensboro,KY,5A,3,KHSAA Class 5A,9-2,9,2,0,11,68.5,68.5,18.47,71.9,34,38.6,12.4,26.2,15.85,15.85,15.85,54.0,274.2,Semifinal Contender
-22,2,Lexington Catholic,KY,3A,3,KHSAA Class 3A,8-2,8,2,0,10,68.5,68.5,18.45,68.2,76,36.7,12.4,24.3,14.07,14.07,14.07,40.0,224.5,State Title Contender
-23,5,Corbin,KY,4A,4,KHSAA Class 4A,9-1,9,1,0,10,68.3,68.3,18.32,69.3,66,40.7,11.4,29.3,16.21,16.21,16.21,49.5,259.0,Semifinal Contender
-24,4,Belfry,KY,2A,4,KHSAA Class 2A,9-1,9,1,0,10,67.8,67.8,17.78,65.5,118,42.2,8.8,33.4,14.49,14.49,14.49,40.5,237.2,State Title Contender
+1,1,Trinity,KY,6A,4,KHSAA Class 6A,10-1,10,1,0,11,96.6,96.6,54.1,80.3,2,45.2,7.5,37.7,23.84,23.84,23.84,65.0,359.4,State Title Contender
+2,2,Frederick Douglass,KY,6A,3,KHSAA Class 6A,11-0,11,0,0,11,90.8,90.8,42.08,78.0,4,35.0,10.2,24.8,23.6,23.6,23.6,71.5,378.8,State Title Contender
+3,1,Highlands,KY,4A,3,KHSAA Class 4A,9-2,9,2,0,11,90.8,90.8,42.06,76.5,10,43.4,13.7,29.7,19.13,19.13,19.13,49.5,301.1,State Title Contender
+4,3,DuPont Manual,KY,6A,1,KHSAA Class 6A,10-1,10,1,0,11,86.8,86.8,37.14,76.8,9,34.0,10.5,23.5,21.07,21.07,21.07,65.0,336.4,State Title Contender
+5,2,Boyle County,KY,4A,4,KHSAA Class 4A,9-2,9,2,0,11,84.6,84.6,34.7,74.1,17,36.8,10.9,25.9,17.81,17.81,17.81,49.5,287.5,State Title Contender
+6,1,Beechwood,KY,2A,4,KHSAA Class 2A,10-0,10,0,0,10,81.8,81.8,31.83,65.0,127,54.8,5.1,49.7,17.41,17.41,17.41,45.0,259.8,State Title Contender
+7,3,Covington Catholic,KY,4A,1,KHSAA Class 4A,7-4,7,4,0,11,81.8,81.8,31.82,75.6,11,36.0,19.7,16.3,14.65,14.65,14.65,38.5,230.3,State Title Contender
+8,1,Christian Academy-Louisville,KY,3A,4,KHSAA Class 3A,11-0,11,0,0,11,78.2,78.2,28.21,69.5,62,53.0,5.6,47.4,18.51,18.51,18.51,55.0,318.2,State Title Contender
+9,4,Madison Central,KY,6A,3,KHSAA Class 6A,10-1,10,1,0,11,77.5,77.5,27.5,74.6,15,39.5,13.4,26.1,19.46,19.46,19.46,65.0,322.1,State Title Contender
+10,5,St. Xavier,KY,6A,4,KHSAA Class 6A,5-6,5,6,0,11,77.3,77.3,27.27,81.4,1,21.6,26.8,-5.2,12.06,12.06,12.06,32.5,183.4,Semifinal Contender
+11,1,Pulaski County,KY,5A,4,KHSAA Class 5A,11-0,11,0,0,11,73.8,73.8,23.81,72.2,30,42.4,13.1,29.3,19.61,19.61,19.61,66.0,337.8,State Title Contender
+12,4,Paducah Tilghman,KY,4A,3,KHSAA Class 4A,11-0,11,0,0,11,73.1,73.1,23.11,69.9,60,45.1,12.6,32.5,18.49,18.49,18.49,60.5,321.2,State Title Contender
+13,6,South Warren,KY,6A,3,KHSAA Class 6A,8-2,8,2,0,10,72.3,72.3,22.29,71.6,37,42.5,12.4,30.1,16.36,16.36,16.36,52.0,242.4,Semifinal Contender
+14,7,Bryan Station,KY,6A,2,KHSAA Class 6A,6-5,6,5,0,11,71.8,71.8,21.8,77.3,6,18.8,20.5,-1.7,12.65,12.65,12.65,39.0,203.9,Semifinal Contender
+15,2,Owensboro Catholic,KY,2A,4,KHSAA Class 2A,10-1,10,1,0,11,71.7,71.7,21.65,66.0,109,51.5,14.1,37.4,15.18,15.18,15.18,45.0,266.8,State Title Contender
+16,2,Bowling Green,KY,5A,1,KHSAA Class 5A,7-4,7,4,0,11,70.5,70.5,20.48,75.2,13,37.5,28.0,9.5,13.54,13.54,13.54,42.0,228.2,State Title Contender
+17,3,Woodford County,KY,5A,4,KHSAA Class 5A,10-1,10,1,0,11,70.3,70.3,20.28,71.2,44,44.5,16.0,28.5,17.44,17.44,17.44,60.0,300.2,State Title Contender
+18,1,Pikeville,KY,1A,3,KHSAA Class 1A,10-1,10,1,0,11,69.6,69.6,19.64,69.3,65,37.5,10.5,27.0,15.15,15.15,15.15,40.0,287.9,State Title Contender
+19,4,Scott County,KY,5A,2,KHSAA Class 5A,8-3,8,3,0,11,69.3,69.3,19.26,73.6,20,41.8,24.8,17.0,14.72,14.72,14.72,48.0,252.7,State Title Contender
+20,3,Lexington Christian,KY,2A,1,KHSAA Class 2A,9-2,9,2,0,11,68.8,68.8,18.8,71.7,36,38.4,15.8,22.6,14.63,14.63,14.63,40.5,273.3,State Title Contender
+21,5,Owensboro,KY,5A,2,KHSAA Class 5A,9-2,9,2,0,11,68.5,68.5,18.47,71.9,34,38.9,11.8,27.1,15.85,15.85,15.85,54.0,274.2,Semifinal Contender
+22,2,Lexington Catholic,KY,3A,3,KHSAA Class 3A,9-2,9,2,0,11,68.5,68.5,18.45,68.2,76,33.5,11.3,22.2,14.34,14.34,14.34,45.0,252.5,State Title Contender
+23,5,Corbin,KY,4A,4,KHSAA Class 4A,9-2,9,2,0,11,68.3,68.3,18.32,69.3,66,37.0,11.3,25.7,14.94,14.94,14.94,49.5,259.0,Semifinal Contender
+24,4,Belfry,KY,2A,4,KHSAA Class 2A,10-1,10,1,0,11,67.8,67.8,17.78,65.5,118,42.0,8.0,34.0,14.61,14.61,14.61,45.0,263.6,State Title Contender
 25,2,Raceland,KY,1A,3,KHSAA Class 1A,8-2,8,2,0,10,66.8,66.8,16.81,64.5,132,46.8,12.3,34.5,12.4,12.4,12.4,32.0,205.2,State Title Contender
-26,3,Sayre,KY,1A,4,KHSAA Class 1A,9-0,9,0,0,9,65.9,65.9,15.92,61.9,166,38.9,7.9,31.0,14.29,14.29,14.29,36.0,215.6,State Title Contender
-27,5,Somerset,KY,2A,1,KHSAA Class 2A,9-1,9,1,0,10,64.7,64.7,14.66,66.1,106,38.7,9.3,29.4,14.22,14.22,14.22,40.5,240.4,Semifinal Contender
-28,8,Male,KY,6A,1,KHSAA Class 6A,5-5,5,5,0,10,64.5,64.5,14.52,73.8,19,23.8,19.4,4.4,10.54,10.54,10.54,32.5,158.5,Semifinal Contender
-29,6,Blazer,KY,4A,4,KHSAA Class 4A,10-1,10,1,0,11,64.0,64.0,13.96,70.8,50,37.6,17.2,20.4,16.15,16.15,16.15,55.0,297.7,Semifinal Contender
-30,3,Lawrence County,KY,3A,1,KHSAA Class 3A,9-1,9,1,0,10,63.3,63.3,13.26,65.4,120,37.1,9.7,27.4,14.37,14.37,14.37,45.0,236.6,State Title Contender
-31,7,Johnson Central,KY,4A,2,KHSAA Class 4A,2-8,2,8,0,10,62.7,62.7,12.69,77.1,7,20.9,31.2,-10.3,4.99,4.99,4.99,11.0,67.7,Semifinal Contender
-32,6,Atherton,KY,5A,3,KHSAA Class 5A,7-2,7,2,0,9,62.2,62.2,12.21,64.0,139,42.7,9.8,32.9,13.03,13.03,13.03,42.0,177.5,Semifinal Contender
-33,9,Ballard,KY,6A,3,KHSAA Class 6A,1-9,1,9,0,10,61.7,61.7,11.74,79.9,3,11.9,35.4,-23.5,3.31,3.31,3.31,6.5,35.7,Quarterfinal Contender
-34,4,Rockcastle County,KY,3A,1,KHSAA Class 3A,9-0,9,0,0,9,61.7,61.7,11.67,61.0,182,41.7,6.6,35.1,14.58,14.58,14.58,45.0,210.4,State Title Contender
-35,4,Kentucky Country Day,KY,1A,1,KHSAA Class 1A,8-2,8,2,0,10,61.2,61.2,11.2,68.7,73,31.2,13.2,18.0,12.5,12.5,12.5,32.0,227.2,State Title Contender
-36,5,Murray,KY,3A,2,KHSAA Class 3A,9-1,9,1,0,10,60.8,60.8,10.79,63.9,140,49.4,20.0,29.4,13.76,13.76,13.76,45.0,227.7,Semifinal Contender
-37,6,Larue County,KY,3A,1,KHSAA Class 3A,11-0,11,0,0,11,60.6,60.6,10.63,63.5,148,41.5,10.5,31.0,15.04,15.04,15.04,55.0,275.6,Semifinal Contender
-38,7,Glasgow,KY,3A,4,KHSAA Class 3A,9-1,9,1,0,10,60.6,60.6,10.62,65.6,117,42.4,16.6,25.8,14.09,14.09,14.09,45.0,237.5,Semifinal Contender
-39,7,West Jessamine,KY,5A,4,KHSAA Class 5A,11-0,11,0,0,11,60.6,60.6,10.58,67.0,92,37.3,10.4,26.9,16.82,16.82,16.82,66.0,300.2,Semifinal Contender
-40,6,Mayfield,KY,2A,2,KHSAA Class 2A,7-2,7,2,0,9,60.5,60.5,10.53,63.9,141,40.8,23.7,17.1,11.65,11.65,11.65,31.5,177.1,Semifinal Contender
+26,3,Sayre,KY,1A,3,KHSAA Class 1A,11-0,11,0,0,11,65.9,65.9,15.92,61.9,166,32.0,6.5,25.5,14.29,14.29,14.29,44.0,263.5,State Title Contender
+27,5,Somerset,KY,2A,2,KHSAA Class 2A,10-1,10,1,0,11,64.7,64.7,14.66,66.1,106,39.0,9.1,29.9,14.35,14.35,14.35,45.0,267.2,Semifinal Contender
+28,8,Male,KY,6A,1,KHSAA Class 6A,6-5,6,5,0,11,64.5,64.5,14.52,73.8,19,25.5,17.6,7.9,11.34,11.34,11.34,39.0,190.2,Semifinal Contender
+29,6,Blazer,KY,4A,3,KHSAA Class 4A,10-1,10,1,0,11,64.0,64.0,13.96,70.8,50,37.6,17.2,20.4,16.15,16.15,16.15,55.0,297.7,Semifinal Contender
+30,3,Lawrence County,KY,3A,1,KHSAA Class 3A,10-1,10,1,0,11,63.3,63.3,13.26,65.4,120,36.9,10.1,26.8,14.5,14.5,14.5,50.0,262.9,State Title Contender
+31,7,Johnson Central,KY,4A,3,KHSAA Class 4A,3-8,3,8,0,11,62.7,62.7,12.69,77.1,7,21.7,28.9,-7.2,6.25,6.25,6.25,16.5,101.5,Semifinal Contender
+32,6,Atherton,KY,5A,3,KHSAA Class 5A,9-2,9,2,0,11,62.2,62.2,12.21,64.0,139,44.4,9.3,35.1,13.64,13.64,13.64,54.0,228.2,Semifinal Contender
+33,9,Ballard,KY,6A,2,KHSAA Class 6A,2-9,2,9,0,11,61.7,61.7,11.74,79.9,3,13.4,32.2,-18.8,4.86,4.86,4.86,13.0,71.4,Quarterfinal Contender
+34,4,Rockcastle County,KY,3A,4,KHSAA Class 3A,11-0,11,0,0,11,61.7,61.7,11.67,61.0,182,38.5,7.1,31.4,14.58,14.58,14.58,55.0,257.1,State Title Contender
+35,4,Kentucky Country Day,KY,1A,4,KHSAA Class 1A,8-2,8,2,0,10,61.2,61.2,11.2,68.7,73,31.2,13.2,18.0,12.5,12.5,12.5,32.0,227.2,State Title Contender
+36,5,Murray,KY,3A,4,KHSAA Class 3A,10-1,10,1,0,11,60.8,60.8,10.79,63.9,140,50.7,19.8,30.9,13.89,13.89,13.89,50.0,253.0,Semifinal Contender
+37,6,Larue County,KY,3A,3,KHSAA Class 3A,11-0,11,0,0,11,60.6,60.6,10.63,63.5,148,41.5,10.5,31.0,15.04,15.04,15.04,55.0,275.6,Semifinal Contender
+38,7,Glasgow,KY,3A,4,KHSAA Class 3A,10-1,10,1,0,11,60.6,60.6,10.62,65.6,117,41.7,15.6,26.1,14.21,14.21,14.21,50.0,263.8,Semifinal Contender
+39,7,West Jessamine,KY,5A,3,KHSAA Class 5A,11-0,11,0,0,11,60.6,60.6,10.58,67.0,92,37.3,10.4,26.9,16.82,16.82,16.82,66.0,300.2,Semifinal Contender
+40,6,Mayfield,KY,2A,4,KHSAA Class 2A,9-2,9,2,0,11,60.5,60.5,10.53,63.9,141,33.6,19.4,14.2,12.19,12.19,12.19,40.5,227.7,Semifinal Contender
 41,8,Bourbon County,KY,3A,3,KHSAA Class 3A,10-1,10,1,0,11,59.6,59.6,9.57,63.1,155,44.5,12.9,31.6,13.57,13.57,13.57,50.0,247.6,Semifinal Contender
-42,8,Madisonville-North Hopkins,KY,5A,3,KHSAA Class 5A,8-2,8,2,0,10,58.0,58.0,7.97,69.0,70,36.6,21.0,15.6,13.77,13.77,13.77,48.0,228.9,Semifinal Contender
+42,8,Madisonville-North Hopkins,KY,5A,1,KHSAA Class 5A,9-2,9,2,0,11,58.0,58.0,7.97,69.0,70,37.6,20.4,17.2,14.06,14.06,14.06,54.0,257.5,Semifinal Contender
 43,9,Collins,KY,5A,3,KHSAA Class 5A,8-3,8,3,0,11,57.9,57.9,7.89,70.2,58,46.2,27.7,18.5,12.79,12.79,12.79,48.0,235.0,Quarterfinal Contender
-44,10,George Rogers Clark,KY,6A,4,KHSAA Class 6A,6-5,6,5,0,11,57.7,57.7,7.67,73.8,18,32.5,29.7,2.8,10.52,10.52,10.52,39.0,190.3,Quarterfinal Contender
-45,8,North Oldham,KY,4A,4,KHSAA Class 4A,8-1,8,1,0,9,57.4,57.4,7.43,63.4,151,39.7,10.7,29.0,13.55,13.55,13.55,44.0,199.7,Semifinal Contender
-46,7,Prestonsburg,KY,2A,1,KHSAA Class 2A,10-0,10,0,0,10,57.4,57.4,7.35,61.8,167,48.7,12.9,35.8,13.75,13.75,13.75,45.0,239.2,Semifinal Contender
-47,9,Lloyd Memorial,KY,3A,1,KHSAA Class 3A,8-1,8,1,0,9,57.3,57.3,7.28,64.4,133,37.9,15.6,22.3,13.29,13.29,13.29,40.0,205.0,Quarterfinal Contender
-48,9,Logan County,KY,4A,1,KHSAA Class 4A,8-3,8,3,0,11,56.8,56.8,6.79,67.3,88,39.3,20.2,19.1,11.82,11.82,11.82,44.0,220.2,Quarterfinal Contender
-49,11,Bullitt East,KY,6A,3,KHSAA Class 6A,9-1,9,1,0,10,56.7,56.7,6.69,69.2,67,39.8,17.9,21.9,15.7,15.7,15.7,58.5,258.5,Quarterfinal Contender
-50,10,Cooper,KY,5A,3,KHSAA Class 5A,9-2,9,2,0,11,55.9,55.9,5.87,71.2,43,21.4,14.1,7.3,14.21,14.21,14.21,54.0,270.3,Quarterfinal Contender
-51,5,Middlesboro,KY,1A,3,KHSAA Class 1A,8-1,8,1,0,9,55.8,55.8,5.8,60.2,190,40.9,11.6,29.3,11.37,11.37,11.37,32.0,183.1,Semifinal Contender
-52,8,Danville,KY,2A,1,KHSAA Class 2A,7-2,7,2,0,9,55.8,55.8,5.8,65.9,110,36.8,19.4,17.4,11.43,11.43,11.43,31.5,186.0,Semifinal Contender
-53,6,Paintsville,KY,1A,4,KHSAA Class 1A,9-1,9,1,0,10,55.4,55.4,5.44,63.1,156,35.6,14.0,21.6,12.05,12.05,12.05,36.0,222.7,Semifinal Contender
-54,10,Russell,KY,3A,4,KHSAA Class 3A,8-2,8,2,0,10,55.4,55.4,5.36,65.5,119,29.3,11.3,18.0,12.02,12.02,12.02,40.0,210.8,Quarterfinal Contender
-55,12,North Hardin,KY,6A,1,KHSAA Class 6A,6-4,6,4,0,10,55.0,55.0,4.96,73.3,24,27.1,21.5,5.6,11.09,11.09,11.09,39.0,188.4,Quarterfinal Contender
-56,11,Central,KY,3A,4,KHSAA Class 3A,6-5,6,5,0,11,54.7,54.7,4.73,71.4,39,26.8,18.0,8.8,9.05,9.05,9.05,30.0,180.9,Quarterfinal Contender
-57,10,Spencer County,KY,4A,2,KHSAA Class 4A,8-3,8,3,0,11,54.2,54.2,4.2,65.2,122,41.5,22.5,19.0,11.16,11.16,11.16,44.0,209.1,Quarterfinal Contender
+44,10,George Rogers Clark,KY,6A,1,KHSAA Class 6A,6-5,6,5,0,11,57.7,57.7,7.67,73.8,18,32.5,29.7,2.8,10.52,10.52,10.52,39.0,190.3,Quarterfinal Contender
+45,8,North Oldham,KY,4A,1,KHSAA Class 4A,10-1,10,1,0,11,57.4,57.4,7.43,63.4,151,40.5,9.8,30.7,13.83,13.83,13.83,55.0,249.6,Semifinal Contender
+46,7,Prestonsburg,KY,2A,1,KHSAA Class 2A,10-1,10,1,0,11,57.4,57.4,7.35,61.8,167,44.3,14.5,29.8,12.58,12.58,12.58,45.0,239.2,Semifinal Contender
+47,9,Lloyd Memorial,KY,3A,4,KHSAA Class 3A,10-1,10,1,0,11,57.3,57.3,7.28,64.4,133,35.5,14.5,21.0,13.57,13.57,13.57,50.0,256.3,Quarterfinal Contender
+48,9,Logan County,KY,4A,3,KHSAA Class 4A,8-3,8,3,0,11,56.8,56.8,6.79,67.3,88,39.3,20.2,19.1,11.82,11.82,11.82,44.0,220.2,Quarterfinal Contender
+49,11,Bullitt East,KY,6A,4,KHSAA Class 6A,9-2,9,2,0,11,56.7,56.7,6.69,69.2,67,36.8,19.4,17.4,14.35,14.35,14.35,58.5,258.5,Quarterfinal Contender
+50,10,Cooper,KY,5A,2,KHSAA Class 5A,9-2,9,2,0,11,55.9,55.9,5.87,71.2,43,21.4,14.1,7.3,14.21,14.21,14.21,54.0,270.3,Quarterfinal Contender
+51,5,Middlesboro,KY,1A,3,KHSAA Class 1A,10-1,10,1,0,11,55.8,55.8,5.8,60.2,190,40.8,12.1,28.7,11.62,11.62,11.62,40.0,228.9,Semifinal Contender
+52,8,Danville,KY,2A,3,KHSAA Class 2A,9-2,9,2,0,11,55.8,55.8,5.8,65.9,110,40.4,22.1,18.3,11.99,11.99,11.99,40.5,239.2,Semifinal Contender
+53,6,Paintsville,KY,1A,1,KHSAA Class 1A,10-1,10,1,0,11,55.4,55.4,5.44,63.1,156,32.5,12.7,19.8,12.16,12.16,12.16,40.0,247.5,Semifinal Contender
+54,10,Russell,KY,3A,3,KHSAA Class 3A,9-2,9,2,0,11,55.4,55.4,5.36,65.5,119,32.1,10.8,21.3,12.28,12.28,12.28,45.0,237.2,Quarterfinal Contender
+55,12,North Hardin,KY,6A,3,KHSAA Class 6A,6-4,6,4,0,10,55.0,55.0,4.96,73.3,24,27.1,21.5,5.6,11.09,11.09,11.09,39.0,188.4,Quarterfinal Contender
+56,11,Central,KY,3A,2,KHSAA Class 3A,6-5,6,5,0,11,54.7,54.7,4.73,71.4,39,26.8,18.0,8.8,9.05,9.05,9.05,30.0,180.9,Quarterfinal Contender
+57,10,Spencer County,KY,4A,4,KHSAA Class 4A,8-3,8,3,0,11,54.2,54.2,4.2,65.2,122,41.5,22.5,19.0,11.16,11.16,11.16,44.0,209.1,Quarterfinal Contender
 58,13,Ryle,KY,6A,1,KHSAA Class 6A,6-5,6,5,0,11,54.1,54.1,4.06,73.6,21,16.6,18.5,-1.9,10.06,10.06,10.06,39.0,189.5,Quarterfinal Contender
-59,11,Barren County,KY,5A,2,KHSAA Class 5A,7-3,7,3,0,10,53.9,53.9,3.92,66.8,96,35.5,15.7,19.8,11.33,11.33,11.33,42.0,190.4,Quarterfinal Contender
-60,12,North Laurel,KY,5A,4,KHSAA Class 5A,6-4,6,4,0,10,53.7,53.7,3.68,72.1,32,28.4,20.6,7.8,10.47,10.47,10.47,36.0,183.7,Quarterfinal Contender
-61,9,Breathitt County,KY,2A,2,KHSAA Class 2A,9-1,9,1,0,10,53.3,53.3,3.26,61.0,179,47.6,18.8,28.8,11.82,11.82,11.82,40.5,210.7,Quarterfinal Contender
-62,14,McCracken County,KY,6A,4,KHSAA Class 6A,8-2,8,2,0,10,53.0,53.0,2.99,71.5,38,41.6,30.2,11.4,14.02,14.02,14.02,52.0,241.7,Quarterfinal Contender
-63,11,Nelson County,KY,4A,3,KHSAA Class 4A,9-1,9,1,0,10,52.7,52.7,2.66,65.8,113,31.9,13.9,18.0,13.62,13.62,13.62,49.5,238.5,Quarterfinal Contender
-64,7,Bethlehem,KY,1A,1,KHSAA Class 1A,10-1,10,1,0,11,52.3,52.3,2.32,60.4,187,36.3,8.7,27.6,11.23,11.23,11.23,40.0,229.8,Semifinal Contender
-65,12,Greenup County,KY,4A,2,KHSAA Class 4A,8-2,8,2,0,10,52.3,52.3,2.29,66.3,103,40.1,19.0,21.1,12.19,12.19,12.19,44.0,214.7,Quarterfinal Contender
-66,15,Oldham County,KY,6A,4,KHSAA Class 6A,5-5,5,5,0,10,52.1,52.1,2.13,73.5,23,23.4,26.0,-2.6,9.03,9.03,9.03,32.5,157.7,Quarterfinal Contender
-67,13,Franklin County,KY,4A,4,KHSAA Class 4A,7-5,7,5,0,12,51.9,51.9,1.9,67.9,80,40.5,24.2,16.3,9.14,9.14,9.14,38.5,195.4,Quarterfinal Contender
-68,13,Fairdale,KY,5A,1,KHSAA Class 5A,7-1,7,1,0,8,51.1,51.1,1.12,63.8,145,34.2,14.5,19.7,13.1,13.1,13.1,42.0,176.4,Quarterfinal Contender
+59,11,Barren County,KY,5A,3,KHSAA Class 5A,8-3,8,3,0,11,53.9,53.9,3.92,66.8,96,35.2,15.6,19.6,11.76,11.76,11.76,48.0,217.6,Quarterfinal Contender
+60,12,North Laurel,KY,5A,3,KHSAA Class 5A,6-5,6,5,0,11,53.7,53.7,3.68,72.1,32,27.1,21.9,5.2,9.56,9.56,9.56,36.0,183.7,Quarterfinal Contender
+61,9,Breathitt County,KY,2A,2,KHSAA Class 2A,9-2,9,2,0,11,53.3,53.3,3.26,61.0,179,46.5,20.4,26.1,10.78,10.78,10.78,40.5,210.7,Quarterfinal Contender
+62,14,McCracken County,KY,6A,3,KHSAA Class 6A,8-3,8,3,0,11,53.0,53.0,2.99,71.5,38,41.1,33.3,7.8,12.78,12.78,12.78,52.0,241.7,Quarterfinal Contender
+63,11,Nelson County,KY,4A,2,KHSAA Class 4A,10-1,10,1,0,11,52.7,52.7,2.66,65.8,113,33.3,13.3,20.0,13.75,13.75,13.75,55.0,265.0,Quarterfinal Contender
+64,7,Bethlehem,KY,1A,4,KHSAA Class 1A,10-1,10,1,0,11,52.3,52.3,2.32,60.4,187,36.3,8.7,27.6,11.23,11.23,11.23,40.0,229.8,Semifinal Contender
+65,12,Greenup County,KY,4A,4,KHSAA Class 4A,9-2,9,2,0,11,52.3,52.3,2.29,66.3,103,40.5,20.3,20.2,12.46,12.46,12.46,49.5,241.5,Quarterfinal Contender
+66,15,Oldham County,KY,6A,4,KHSAA Class 6A,6-5,6,5,0,11,52.1,52.1,2.13,73.5,23,22.5,24.7,-2.2,9.82,9.82,9.82,39.0,189.3,Quarterfinal Contender
+67,13,Franklin County,KY,4A,1,KHSAA Class 4A,6-5,6,5,0,11,51.9,51.9,1.9,67.9,80,40.5,24.2,16.3,8.56,8.56,8.56,33.0,167.5,Quarterfinal Contender
+68,13,Fairdale,KY,5A,3,KHSAA Class 5A,10-1,10,1,0,11,51.1,51.1,1.12,63.8,145,32.5,13.6,18.9,13.61,13.61,13.61,60.0,252.1,Quarterfinal Contender
 69,16,Christian County,KY,6A,2,KHSAA Class 6A,4-7,4,7,0,11,49.9,49.9,-0.15,74.8,14,26.4,28.5,-2.1,6.48,6.48,6.48,26.0,129.4,Quarterfinal Contender
-70,10,W.E.B. DuBois Academy,KY,2A,1,KHSAA Class 2A,6-3,6,3,0,9,49.3,49.3,-0.71,64.2,138,28.8,20.6,8.2,8.94,8.94,8.94,27.0,152.7,Quarterfinal Contender
-71,14,Apollo,KY,5A,1,KHSAA Class 5A,5-6,5,6,0,11,48.8,48.8,-1.24,71.1,46,33.9,35.6,-1.7,7.5,7.5,7.5,30.0,149.9,Quarterfinal Contender
-72,17,Simon Kenton,KY,6A,2,KHSAA Class 6A,6-5,6,5,0,11,48.6,48.6,-1.41,71.4,40,22.5,19.0,3.5,9.3,9.3,9.3,39.0,180.8,Dark Horse
-73,14,Elizabethtown,KY,4A,1,KHSAA Class 4A,7-3,7,3,0,10,48.2,48.2,-1.78,67.7,84,37.3,19.4,17.9,10.64,10.64,10.64,38.5,194.1,Quarterfinal Contender
-74,15,South Laurel,KY,5A,2,KHSAA Class 5A,7-3,7,3,0,10,48.1,48.1,-1.88,69.0,71,32.2,26.5,5.7,11.21,11.21,11.21,42.0,200.2,Quarterfinal Contender
-75,16,Graves County,KY,5A,4,KHSAA Class 5A,3-7,3,7,0,10,48.0,48.0,-2.02,73.6,22,20.7,30.0,-9.3,5.12,5.12,5.12,18.0,94.8,Quarterfinal Contender
-76,18,Eastern,KY,6A,1,KHSAA Class 6A,6-4,6,4,0,10,48.0,48.0,-2.03,72.7,28,25.4,24.5,0.9,10.41,10.41,10.41,39.0,185.9,Dark Horse
-77,8,Holy Cross-Louisville,KY,1A,4,KHSAA Class 1A,15-5,15,5,0,20,47.9,47.9,-2.06,66.3,104,29.6,14.0,15.6,10.04,10.04,10.04,60.0,402.4,Semifinal Contender
-78,12,Knox Central,KY,3A,2,KHSAA Class 3A,8-2,8,2,0,10,47.7,47.7,-2.28,64.8,129,41.4,16.8,24.6,11.24,11.24,11.24,40.0,206.9,Quarterfinal Contender
-79,17,Grayson County,KY,5A,4,KHSAA Class 5A,7-3,7,3,0,10,47.3,47.3,-2.67,66.1,107,28.5,17.2,11.3,10.75,10.75,10.75,42.0,187.0,Dark Horse
+70,10,W.E.B. DuBois Academy,KY,2A,1,KHSAA Class 2A,8-3,8,3,0,11,49.3,49.3,-0.71,64.2,138,28.9,19.1,9.8,9.75,9.75,9.75,36.0,203.6,Quarterfinal Contender
+71,14,Apollo,KY,5A,2,KHSAA Class 5A,5-6,5,6,0,11,48.8,48.8,-1.24,71.1,46,33.9,35.6,-1.7,7.5,7.5,7.5,30.0,149.9,Quarterfinal Contender
+72,17,Simon Kenton,KY,6A,4,KHSAA Class 6A,6-5,6,5,0,11,48.6,48.6,-1.41,71.4,40,25.3,17.4,7.9,9.3,9.3,9.3,39.0,180.8,Dark Horse
+73,14,Elizabethtown,KY,4A,4,KHSAA Class 4A,7-4,7,4,0,11,48.2,48.2,-1.78,67.7,84,35.7,22.0,13.7,9.68,9.68,9.68,38.5,194.1,Quarterfinal Contender
+74,15,South Laurel,KY,5A,2,KHSAA Class 5A,8-3,8,3,0,11,48.1,48.1,-1.88,69.0,71,32.1,24.7,7.4,11.64,11.64,11.64,48.0,228.8,Quarterfinal Contender
+75,16,Graves County,KY,5A,3,KHSAA Class 5A,4-7,4,7,0,11,48.0,48.0,-2.02,73.6,22,22.5,29.2,-6.7,6.2,6.2,6.2,24.0,126.3,Quarterfinal Contender
+76,18,Eastern,KY,6A,3,KHSAA Class 6A,6-5,6,5,0,11,48.0,48.0,-2.03,72.7,28,24.4,27.3,-2.9,9.46,9.46,9.46,39.0,185.9,Dark Horse
+77,8,Holy Cross-Louisville,KY,1A,4,KHSAA Class 1A,8-3,8,3,0,11,47.9,47.9,-2.06,66.3,104,24.2,14.7,9.5,9.74,9.74,9.74,32.0,214.6,Semifinal Contender
+78,12,Knox Central,KY,3A,4,KHSAA Class 3A,8-3,8,3,0,11,47.7,47.7,-2.28,64.8,129,41.5,21.8,19.7,10.22,10.22,10.22,40.0,206.9,Quarterfinal Contender
+79,17,Grayson County,KY,5A,2,KHSAA Class 5A,8-3,8,3,0,11,47.3,47.3,-2.67,66.1,107,31.0,15.6,15.4,11.16,11.16,11.16,48.0,213.7,Dark Horse
 80,19,Lafayette,KY,6A,2,KHSAA Class 6A,7-4,7,4,0,11,47.3,47.3,-2.74,68.8,72,25.5,17.2,8.3,10.47,10.47,10.47,45.5,199.2,Dark Horse
 81,20,Campbell County,KY,6A,3,KHSAA Class 6A,4-7,4,7,0,11,45.7,45.7,-4.34,72.9,27,19.6,25.7,-6.1,6.33,6.33,6.33,26.0,124.6,Dark Horse
-82,18,Dixie Heights,KY,5A,4,KHSAA Class 5A,3-7,3,7,0,10,45.0,45.0,-4.96,71.3,41,22.9,30.5,-7.6,4.96,4.96,4.96,18.0,90.4,Dark Horse
-83,11,Caldwell County,KY,2A,1,KHSAA Class 2A,8-2,8,2,0,10,45.0,45.0,-4.99,58.9,203,39.3,16.5,22.8,9.77,9.77,9.77,36.0,176.3,Quarterfinal Contender
-84,13,Bardstown,KY,3A,3,KHSAA Class 3A,6-4,6,4,0,10,44.9,44.9,-5.13,67.7,82,31.2,26.6,4.6,8.83,8.83,8.83,30.0,166.6,Quarterfinal Contender
-85,14,DeSales,KY,3A,2,KHSAA Class 3A,4-6,4,6,0,10,44.2,44.2,-5.8,69.0,69,18.9,21.3,-2.4,6.01,6.01,6.01,20.0,114.5,Quarterfinal Contender
-86,21,Henderson County,KY,6A,4,KHSAA Class 6A,5-6,5,6,0,11,43.6,43.6,-6.42,71.2,45,32.5,32.5,0.0,7.73,7.73,7.73,32.5,150.0,Dark Horse
-87,15,Boyd County,KY,4A,4,KHSAA Class 4A,6-4,6,4,0,10,43.3,43.3,-6.69,69.4,64,28.8,28.2,0.6,9.36,9.36,9.36,33.0,173.2,Quarterfinal Contender
-88,19,Madison Southern,KY,5A,4,KHSAA Class 5A,6-4,6,4,0,10,43.2,43.2,-6.75,67.7,83,26.4,18.4,8.0,9.43,9.43,9.43,36.0,166.6,Dark Horse
-89,12,Green County,KY,2A,1,KHSAA Class 2A,7-3,7,3,0,10,42.1,42.1,-7.85,65.7,115,31.4,27.6,3.8,9.64,9.64,9.64,31.5,185.3,Quarterfinal Contender
-90,15,Butler County,KY,3A,4,KHSAA Class 3A,7-4,7,4,0,11,42.1,42.1,-7.9,62.7,161,34.2,16.2,18.0,8.64,8.64,8.64,35.0,171.5,Quarterfinal Contender
-91,9,Eminence,KY,1A,1,KHSAA Class 1A,8-2,8,2,0,10,42.0,42.0,-8.02,57.0,215,33.9,14.0,19.9,9.03,9.03,9.03,32.0,166.6,Quarterfinal Contender
-92,16,Wayne County,KY,4A,2,KHSAA Class 4A,5-5,5,5,0,10,40.6,40.6,-9.4,70.5,55,23.2,26.7,-3.5,7.93,7.93,7.93,27.5,148.0,Quarterfinal Contender
-93,20,Conner,KY,5A,4,KHSAA Class 5A,4-6,4,6,0,10,39.8,39.8,-10.18,70.5,56,27.3,32.2,-4.9,6.54,6.54,6.54,24.0,118.4,Dark Horse
-94,22,Paul Laurence Dunbar,KY,6A,1,KHSAA Class 6A,5-5,5,5,0,10,39.8,39.8,-10.24,70.5,57,15.1,20.4,-5.3,8.42,8.42,8.42,32.5,147.8,Dark Horse
+82,18,Dixie Heights,KY,5A,3,KHSAA Class 5A,4-7,4,7,0,11,45.0,45.0,-4.96,71.3,41,24.8,28.5,-3.7,6.02,6.02,6.02,24.0,120.5,Dark Horse
+83,11,Caldwell County,KY,2A,2,KHSAA Class 2A,9-2,9,2,0,11,45.0,45.0,-4.99,58.9,203,35.8,15.0,20.8,9.99,9.99,9.99,40.5,198.3,Quarterfinal Contender
+84,13,Bardstown,KY,3A,1,KHSAA Class 3A,7-4,7,4,0,11,44.9,44.9,-5.13,67.7,82,32.7,25.5,7.2,9.37,9.37,9.37,35.0,194.4,Quarterfinal Contender
+85,14,DeSales,KY,3A,4,KHSAA Class 3A,5-6,5,6,0,11,44.2,44.2,-5.8,69.0,69,20.4,19.4,1.0,6.83,6.83,6.83,25.0,143.1,Quarterfinal Contender
+86,21,Henderson County,KY,6A,3,KHSAA Class 6A,5-6,5,6,0,11,43.6,43.6,-6.42,71.2,45,32.5,32.5,0.0,7.73,7.73,7.73,32.5,150.0,Dark Horse
+87,15,Boyd County,KY,4A,1,KHSAA Class 4A,6-5,6,5,0,11,43.3,43.3,-6.69,69.4,64,29.2,29.6,-0.4,8.51,8.51,8.51,33.0,173.2,Quarterfinal Contender
+88,19,Madison Southern,KY,5A,3,KHSAA Class 5A,6-5,6,5,0,11,43.2,43.2,-6.75,67.7,83,26.4,20.2,6.2,8.57,8.57,8.57,36.0,166.6,Dark Horse
+89,12,Green County,KY,2A,1,KHSAA Class 2A,7-4,7,4,0,11,42.1,42.1,-7.85,65.7,115,31.5,26.7,4.8,8.76,8.76,8.76,31.5,185.3,Quarterfinal Contender
+90,15,Butler County,KY,3A,1,KHSAA Class 3A,7-4,7,4,0,11,42.1,42.1,-7.9,62.7,161,34.2,16.2,18.0,8.64,8.64,8.64,35.0,171.5,Quarterfinal Contender
+91,9,Eminence,KY,1A,2,KHSAA Class 1A,9-2,9,2,0,11,42.0,42.0,-8.02,57.0,215,34.7,13.5,21.2,9.24,9.24,9.24,36.0,187.4,Quarterfinal Contender
+92,16,Wayne County,KY,4A,1,KHSAA Class 4A,5-6,5,6,0,11,40.6,40.6,-9.4,70.5,55,21.7,28.1,-6.4,7.21,7.21,7.21,27.5,148.0,Quarterfinal Contender
+93,20,Conner,KY,5A,3,KHSAA Class 5A,4-7,4,7,0,11,39.8,39.8,-10.18,70.5,56,25.5,33.3,-7.8,5.95,5.95,5.95,24.0,118.4,Dark Horse
+94,22,Paul Laurence Dunbar,KY,6A,3,KHSAA Class 6A,5-6,5,6,0,11,39.8,39.8,-10.24,70.5,57,14.4,21.4,-7.0,7.66,7.66,7.66,32.5,147.8,Dark Horse
 95,17,Warren East,KY,4A,1,KHSAA Class 4A,6-5,6,5,0,11,39.6,39.6,-10.44,66.7,98,20.5,19.5,1.0,8.17,8.17,8.17,33.0,162.6,Dark Horse
-96,10,Holy Cross-Covington,KY,1A,3,KHSAA Class 1A,1-0,1,0,0,1,39.5,39.5,-10.49,57.5,212,25.3,23.4,1.9,11.38,11.38,11.38,4.0,21.1,Quarterfinal Contender
-97,11,Williamsburg,KY,1A,3,KHSAA Class 1A,6-3,6,3,0,9,39.4,39.4,-10.62,60.5,185,37.3,25.8,11.5,8.05,8.05,8.05,24.0,138.5,Quarterfinal Contender
-98,18,Taylor County,KY,4A,1,KHSAA Class 4A,4-6,4,6,0,10,39.3,39.3,-10.73,67.5,86,22.2,26.5,-4.3,6.07,6.07,6.07,22.0,110.5,Dark Horse
-99,13,Walton-Verona,KY,2A,3,KHSAA Class 2A,9-2,9,2,0,11,39.2,39.2,-10.75,57.7,211,33.1,12.1,21.0,9.76,9.76,9.76,40.5,191.1,Quarterfinal Contender
-100,16,Henry County,KY,3A,2,KHSAA Class 3A,5-5,5,5,0,10,39.1,39.1,-10.85,67.3,90,21.9,18.9,3.0,7.31,7.31,7.31,25.0,137.4,Quarterfinal Contender
-101,12,Newport Central Catholic,KY,1A,2,KHSAA Class 1A,6-5,6,5,0,11,38.5,38.5,-11.52,64.3,135,22.8,20.5,2.3,7.07,7.07,7.07,24.0,153.5,Quarterfinal Contender
-102,21,Anderson County,KY,5A,1,KHSAA Class 5A,4-7,4,7,0,11,38.1,38.1,-11.88,70.6,54,16.9,25.6,-8.7,5.96,5.96,5.96,24.0,118.6,Dark Horse
+96,10,Holy Cross-Covington,KY,1A,1,KHSAA Class 1A,9-2,9,2,0,11,39.5,39.5,-10.49,57.5,212,35.1,13.0,22.1,9.31,9.31,9.31,36.0,189.9,Quarterfinal Contender
+97,11,Williamsburg,KY,1A,4,KHSAA Class 1A,7-3,7,3,0,10,39.4,39.4,-10.62,60.5,185,33.8,23.2,10.6,8.46,8.46,8.46,28.0,161.6,Quarterfinal Contender
+98,18,Taylor County,KY,4A,4,KHSAA Class 4A,5-6,5,6,0,11,39.3,39.3,-10.73,67.5,86,23.9,25.7,-1.8,6.89,6.89,6.89,27.5,138.1,Dark Horse
+99,13,Walton-Verona,KY,2A,4,KHSAA Class 2A,9-2,9,2,0,11,39.2,39.2,-10.75,57.7,211,33.1,12.1,21.0,9.76,9.76,9.76,40.5,191.1,Quarterfinal Contender
+100,16,Henry County,KY,3A,4,KHSAA Class 3A,5-6,5,6,0,11,39.1,39.1,-10.85,67.3,90,20.5,18.5,2.0,6.64,6.64,6.64,25.0,137.4,Quarterfinal Contender
+101,12,Newport Central Catholic,KY,1A,4,KHSAA Class 1A,6-5,6,5,0,11,38.5,38.5,-11.52,64.3,135,22.8,20.5,2.3,7.07,7.07,7.07,24.0,153.5,Quarterfinal Contender
+102,21,Anderson County,KY,5A,4,KHSAA Class 5A,4-7,4,7,0,11,38.1,38.1,-11.88,70.6,54,16.9,25.6,-8.7,5.96,5.96,5.96,24.0,118.6,Dark Horse
 103,19,Calloway County,KY,4A,4,KHSAA Class 4A,7-4,7,4,0,11,37.8,37.8,-12.16,65.1,125,35.1,29.0,6.1,9.3,9.3,9.3,38.5,182.3,Dark Horse
-104,17,Letcher County Central,KY,3A,3,KHSAA Class 3A,5-5,5,5,0,10,37.6,37.6,-12.43,67.9,81,25.3,28.0,-2.7,7.39,7.39,7.39,25.0,139.6,Dark Horse
-105,22,Southwestern,KY,5A,4,KHSAA Class 5A,2-9,2,9,0,11,37.2,37.2,-12.78,74.2,16,18.9,35.4,-16.5,3.13,3.13,3.13,12.0,64.0,Dark Horse
+104,17,Letcher County Central,KY,3A,2,KHSAA Class 3A,5-6,5,6,0,11,37.6,37.6,-12.43,67.9,81,23.5,28.2,-4.7,6.71,6.71,6.71,25.0,139.6,Dark Horse
+105,22,Southwestern,KY,5A,3,KHSAA Class 5A,2-9,2,9,0,11,37.2,37.2,-12.78,74.2,16,18.9,35.4,-16.5,3.13,3.13,3.13,12.0,64.0,Dark Horse
 106,23,Great Crossing,KY,6A,1,KHSAA Class 6A,1-10,1,10,0,11,37.2,37.2,-12.78,77.0,8,14.5,39.1,-24.6,1.67,1.67,1.67,6.5,33.8,Dark Horse
-107,20,Franklin-Simpson,KY,4A,3,KHSAA Class 4A,3-7,3,7,0,10,36.5,36.5,-13.51,68.2,75,29.7,32.6,-2.9,4.6,4.6,4.6,16.5,84.2,Dark Horse
-108,24,Tates Creek,KY,6A,2,KHSAA Class 6A,2-8,2,8,0,10,36.3,36.3,-13.67,75.4,12,16.4,35.5,-19.1,3.59,3.59,3.59,13.0,65.5,Dark Horse
-109,18,East Carter,KY,3A,2,KHSAA Class 3A,4-7,4,7,0,11,36.2,36.2,-13.8,68.0,79,27.3,30.9,-3.6,5.37,5.37,5.37,20.0,111.7,Dark Horse
-110,19,Estill County,KY,3A,3,KHSAA Class 3A,7-4,7,4,0,11,36.1,36.1,-13.93,63.5,149,39.7,30.9,8.8,8.76,8.76,8.76,35.0,175.3,Dark Horse
-111,20,Union County,KY,3A,1,KHSAA Class 3A,5-5,5,5,0,10,35.6,35.6,-14.36,65.7,116,23.1,27.6,-4.5,7.13,7.13,7.13,25.0,132.3,Dark Horse
-112,14,Monroe County,KY,2A,2,KHSAA Class 2A,4-6,4,6,0,10,35.5,35.5,-14.47,64.9,128,24.0,25.9,-1.9,5.43,5.43,5.43,18.0,103.8,Quarterfinal Contender
-113,21,Lincoln County,KY,4A,3,KHSAA Class 4A,2-9,2,9,0,11,35.0,35.0,-14.96,70.7,53,20.9,36.1,-15.2,2.89,2.89,2.89,11.0,59.4,Dark Horse
-114,21,Fleming County,KY,3A,1,KHSAA Class 3A,6-5,6,5,0,11,34.9,34.9,-15.07,63.0,158,31.8,25.4,6.4,7.44,7.44,7.44,30.0,148.0,Dark Horse
-115,23,Greenwood,KY,5A,2,KHSAA Class 5A,2-7,2,7,0,9,34.9,34.9,-15.08,73.0,26,14.0,34.7,-20.7,3.76,3.76,3.76,12.0,62.4,Dark Horse
-116,22,Hart County,KY,3A,2,KHSAA Class 3A,5-5,5,5,0,10,34.5,34.5,-15.5,64.2,137,26.4,32.3,-5.9,6.96,6.96,6.96,25.0,127.5,Dark Horse
-117,25,Muhlenberg County,KY,6A,1,KHSAA Class 6A,6-2,6,2,0,8,34.4,34.4,-15.6,63.9,142,26.9,14.1,12.8,11.51,11.51,11.51,39.0,151.7,Dark Horse
-118,22,Perry County Central,KY,4A,1,KHSAA Class 4A,5-5,5,5,0,10,34.1,34.1,-15.85,65.1,124,25.2,27.1,-1.9,7.31,7.31,7.31,27.5,130.4,Dark Horse
-119,15,East Ridge,KY,2A,4,KHSAA Class 2A,7-3,7,3,0,10,34.1,34.1,-15.87,62.5,162,33.9,24.4,9.5,9.11,9.11,9.11,31.5,170.4,Quarterfinal Contender
-120,24,South Oldham,KY,5A,1,KHSAA Class 5A,1-8,1,8,0,9,34.1,34.1,-15.9,73.1,25,11.4,34.1,-22.7,1.88,1.88,1.88,6.0,31.3,Dark Horse
-121,23,Mason County,KY,4A,1,KHSAA Class 4A,5-6,5,6,0,11,33.3,33.3,-16.72,68.1,77,19.8,27.9,-8.1,6.96,6.96,6.96,27.5,140.1,Dark Horse
-122,23,Garrard County,KY,3A,2,KHSAA Class 3A,3-7,3,7,0,10,33.2,33.2,-16.82,68.5,74,13.8,24.7,-10.9,4.47,4.47,4.47,15.0,84.9,Dark Horse
-123,25,Bullitt Central,KY,5A,1,KHSAA Class 5A,4-5,4,5,0,9,33.2,33.2,-16.83,65.3,121,25.3,27.0,-1.7,6.74,6.74,6.74,24.0,104.8,Dark Horse
-124,26,North Bullitt,KY,5A,4,KHSAA Class 5A,7-4,7,4,0,11,32.7,32.7,-17.27,63.6,147,23.2,21.0,2.2,9.41,9.41,9.41,42.0,175.6,Dark Horse
-125,24,Marion County,KY,4A,4,KHSAA Class 4A,3-5,3,5,0,8,32.2,32.2,-17.77,69.1,68,21.8,29.1,-7.3,5.82,5.82,5.82,16.5,86.0,Dark Horse
-126,16,Washington County,KY,2A,1,KHSAA Class 2A,3-7,3,7,0,10,32.2,32.2,-17.8,66.8,97,21.2,26.9,-5.7,4.21,4.21,4.21,13.5,81.6,Quarterfinal Contender
-127,13,Bishop Brossart,KY,1A,3,KHSAA Class 1A,7-4,7,4,0,11,31.8,31.8,-18.18,61.5,172,25.5,21.9,3.6,7.83,7.83,7.83,28.0,166.1,Quarterfinal Contender
-128,17,Leslie County,KY,2A,1,KHSAA Class 2A,4-7,4,7,0,11,31.4,31.4,-18.56,63.9,143,24.5,30.1,-5.6,4.85,4.85,4.85,18.0,101.1,Dark Horse
-129,14,Newport,KY,1A,4,KHSAA Class 1A,6-5,6,5,0,11,30.8,30.8,-19.24,61.3,175,26.0,21.6,4.4,6.69,6.69,6.69,24.0,141.6,Quarterfinal Contender
-130,26,Meade County,KY,6A,2,KHSAA Class 6A,3-7,3,7,0,10,30.7,30.7,-19.34,70.8,51,16.3,33.9,-17.6,5.08,5.08,5.08,19.5,89.3,Dark Horse
-131,18,Shelby Valley,KY,2A,2,KHSAA Class 2A,4-4,4,4,0,8,30.6,30.6,-19.39,62.8,159,29.0,30.4,-1.4,6.55,6.55,6.55,18.0,98.3,Dark Horse
-132,24,Adair County,KY,3A,4,KHSAA Class 3A,5-5,5,5,0,10,30.5,30.5,-19.48,64.3,136,26.8,29.7,-2.9,6.97,6.97,6.97,25.0,127.8,Dark Horse
-133,25,Rowan County,KY,4A,3,KHSAA Class 4A,5-5,5,5,0,10,30.4,30.4,-19.56,65.8,112,26.7,32.1,-5.4,7.39,7.39,7.39,27.5,132.7,Dark Horse
-134,25,Carroll County,KY,3A,3,KHSAA Class 3A,5-5,5,5,0,10,30.4,30.4,-19.65,60.6,183,21.3,18.2,3.1,6.55,6.55,6.55,25.0,115.6,Dark Horse
-135,27,East Jessamine,KY,5A,2,KHSAA Class 5A,4-7,4,7,0,11,30.3,30.3,-19.74,68.0,78,18.8,32.5,-13.7,5.74,5.74,5.74,24.0,111.9,Dark Horse
-136,26,John Hardin,KY,4A,3,KHSAA Class 4A,2-6,2,6,0,8,30.2,30.2,-19.78,67.0,93,8.5,24.8,-16.3,3.76,3.76,3.76,11.0,54.5,Dark Horse
-137,19,Martin County,KY,2A,4,KHSAA Class 2A,4-7,4,7,0,11,30.0,30.0,-20.0,66.6,99,26.5,38.8,-12.3,5.08,5.08,5.08,18.0,108.2,Dark Horse
-138,26,Clay County,KY,3A,4,KHSAA Class 3A,6-6,6,6,0,12,29.8,29.8,-20.2,61.6,169,23.8,26.0,-2.2,6.67,6.67,6.67,30.0,142.8,Dark Horse
-139,27,Breckinridge County,KY,4A,3,KHSAA Class 4A,6-3,6,3,0,9,29.8,29.8,-20.21,59.3,199,30.7,25.1,5.6,8.87,8.87,8.87,33.0,133.8,Dark Horse
-140,27,Pleasure Ridge Park,KY,6A,4,KHSAA Class 6A,1-9,1,9,0,10,29.7,29.7,-20.3,77.4,5,9.5,45.1,-35.6,1.84,1.84,1.84,6.5,34.1,Dark Horse
-141,28,Shelby County,KY,4A,2,KHSAA Class 4A,4-5,4,5,0,9,29.4,29.4,-20.61,66.1,105,22.8,26.6,-3.8,6.6,6.6,6.6,22.0,106.9,Dark Horse
-142,28,Seneca,KY,5A,2,KHSAA Class 5A,5-1,5,1,0,6,29.0,29.0,-20.98,61.6,170,25.8,12.2,13.6,11.94,11.94,11.94,30.0,118.9,Dark Horse
-143,29,Harlan County,KY,4A,4,KHSAA Class 4A,5-6,5,6,0,11,28.9,28.9,-21.05,65.2,123,23.9,33.4,-9.5,6.66,6.66,6.66,27.5,130.6,Dark Horse
-144,29,Butler,KY,5A,4,KHSAA Class 5A,2-8,2,8,0,10,28.8,28.8,-21.16,66.6,100,11.3,24.0,-12.7,3.09,3.09,3.09,12.0,54.1,Dark Horse
-145,30,Valley,KY,4A,3,KHSAA Class 4A,4-4,4,4,0,8,28.5,28.5,-21.52,60.4,188,23.5,23.0,0.5,6.77,6.77,6.77,22.0,91.9,Dark Horse
-146,30,Jeffersontown,KY,5A,1,KHSAA Class 5A,3-6,3,6,0,9,28.2,28.2,-21.8,62.2,163,22.6,27.4,-4.8,4.82,4.82,4.82,18.0,72.6,Dark Horse
-147,15,Phelps,KY,1A,4,KHSAA Class 1A,5-2,5,2,0,7,27.5,27.5,-22.49,55.9,220,28.9,16.3,12.6,7.87,7.87,7.87,20.0,100.3,Quarterfinal Contender
-148,28,Fern Creek,KY,6A,3,KHSAA Class 6A,1-8,1,8,0,9,27.4,27.4,-22.55,71.0,48,12.7,37.9,-25.2,1.88,1.88,1.88,6.5,29.9,Dark Horse
-149,16,Dayton,KY,1A,3,KHSAA Class 1A,8-3,8,3,0,11,27.3,27.3,-22.66,55.4,221,35.2,17.4,17.8,7.94,7.94,7.94,32.0,158.0,Quarterfinal Contender
-150,17,Campbellsville,KY,1A,4,KHSAA Class 1A,3-6,3,6,0,9,26.9,26.9,-23.07,63.4,150,12.9,26.1,-13.2,4.25,4.25,4.25,12.0,74.9,Dark Horse
-151,20,McLean County,KY,2A,1,KHSAA Class 2A,6-4,6,4,0,10,26.9,26.9,-23.13,58.8,204,23.9,17.0,6.9,7.32,7.32,7.32,27.0,132.0,Dark Horse
-152,29,Henry Clay,KY,6A,4,KHSAA Class 6A,0-11,0,11,0,11,26.7,26.7,-23.28,71.8,35,14.0,38.4,-24.4,0.0,0.0,0.0,0.0,0.0,Dark Horse
-153,18,Nicholas County,KY,1A,2,KHSAA Class 1A,6-4,6,4,0,10,26.5,26.5,-23.49,57.2,214,25.0,16.2,8.8,6.79,6.79,6.79,24.0,125.5,Dark Horse
-154,21,St. Henry,KY,2A,1,KHSAA Class 2A,5-4,5,4,0,9,26.5,26.5,-23.49,59.9,195,28.0,28.2,-0.2,6.91,6.91,6.91,22.5,113.5,Dark Horse
-155,27,McCreary Central,KY,3A,2,KHSAA Class 3A,4-7,4,7,0,11,26.5,26.5,-23.52,64.8,130,23.3,33.7,-10.4,5.11,5.11,5.11,20.0,103.4,Dark Horse
-156,31,Scott,KY,5A,3,KHSAA Class 5A,3-8,3,8,0,11,26.1,26.1,-23.93,66.4,102,17.9,29.9,-12.0,4.2,4.2,4.2,18.0,80.7,Dark Horse
-157,19,Hazard,KY,1A,1,KHSAA Class 1A,1-8,1,8,0,9,25.8,25.8,-24.24,69.5,63,11.6,37.2,-25.6,1.57,1.57,1.57,4.0,28.9,Dark Horse
-158,28,Bell County,KY,3A,3,KHSAA Class 3A,2-8,2,8,0,10,25.2,25.2,-24.77,66.5,101,22.5,40.2,-17.7,2.89,2.89,2.89,10.0,54.0,Dark Horse
-159,31,Russell County,KY,4A,3,KHSAA Class 4A,1-10,1,10,0,11,24.9,24.9,-25.05,71.1,47,13.2,38.2,-25.0,1.45,1.45,1.45,5.5,30.0,Dark Horse
-160,22,West Carter,KY,2A,3,KHSAA Class 2A,3-8,3,8,0,11,24.9,24.9,-25.05,62.2,164,21.8,25.3,-3.5,3.53,3.53,3.53,13.5,72.5,Dark Horse
-161,20,Ludlow,KY,1A,1,KHSAA Class 1A,5-5,5,5,0,10,24.8,24.8,-25.18,58.3,207,24.5,27.2,-2.7,5.79,5.79,5.79,20.0,108.3,Dark Horse
-162,23,Knott County Central,KY,2A,4,KHSAA Class 2A,4-5,4,5,0,9,24.6,24.6,-25.37,58.9,202,30.1,31.4,-1.3,5.43,5.43,5.43,18.0,88.2,Dark Horse
+107,20,Franklin-Simpson,KY,4A,1,KHSAA Class 4A,3-7,3,7,0,10,36.5,36.5,-13.51,68.2,75,29.7,32.6,-2.9,4.6,4.6,4.6,16.5,84.2,Dark Horse
+108,24,Tates Creek,KY,6A,1,KHSAA Class 6A,2-9,2,9,0,11,36.3,36.3,-13.67,75.4,12,16.1,37.3,-21.2,3.27,3.27,3.27,13.0,65.5,Dark Horse
+109,18,East Carter,KY,3A,1,KHSAA Class 3A,4-7,4,7,0,11,36.2,36.2,-13.8,68.0,79,27.3,30.9,-3.6,5.37,5.37,5.37,20.0,111.7,Dark Horse
+110,19,Estill County,KY,3A,2,KHSAA Class 3A,7-4,7,4,0,11,36.1,36.1,-13.93,63.5,149,39.7,30.9,8.8,8.76,8.76,8.76,35.0,175.3,Dark Horse
+111,20,Union County,KY,3A,4,KHSAA Class 3A,6-5,6,5,0,11,35.6,35.6,-14.36,65.7,116,24.3,26.4,-2.1,7.78,7.78,7.78,30.0,158.8,Dark Horse
+112,14,Monroe County,KY,2A,2,KHSAA Class 2A,5-6,5,6,0,11,35.5,35.5,-14.47,64.9,128,23.8,23.8,0.0,6.17,6.17,6.17,22.5,129.7,Quarterfinal Contender
+113,21,Lincoln County,KY,4A,2,KHSAA Class 4A,2-9,2,9,0,11,35.0,35.0,-14.96,70.7,53,20.9,36.1,-15.2,2.89,2.89,2.89,11.0,59.4,Dark Horse
+114,21,Fleming County,KY,3A,3,KHSAA Class 3A,6-5,6,5,0,11,34.9,34.9,-15.07,63.0,158,31.8,25.4,6.4,7.44,7.44,7.44,30.0,148.0,Dark Horse
+115,23,Greenwood,KY,5A,4,KHSAA Class 5A,2-9,2,9,0,11,34.9,34.9,-15.08,73.0,26,13.4,35.2,-21.8,3.08,3.08,3.08,12.0,62.4,Dark Horse
+116,22,Hart County,KY,3A,3,KHSAA Class 3A,6-5,6,5,0,11,34.5,34.5,-15.5,64.2,137,28.5,29.4,-0.9,7.6,7.6,7.6,30.0,153.0,Dark Horse
+117,24,Muhlenberg County,KY,5A,2,KHSAA Class 5A,6-4,6,4,0,10,34.4,34.4,-15.6,63.9,142,25.0,20.2,4.8,8.91,8.91,8.91,36.0,151.7,Dark Horse
+118,22,Perry County Central,KY,4A,4,KHSAA Class 4A,6-5,6,5,0,11,34.1,34.1,-15.85,65.1,124,26.5,26.5,0.0,7.98,7.98,7.98,33.0,156.5,Dark Horse
+119,15,East Ridge,KY,2A,1,KHSAA Class 2A,7-4,7,4,0,11,34.1,34.1,-15.87,62.5,162,30.8,25.8,5.0,8.29,8.29,8.29,31.5,170.4,Quarterfinal Contender
+120,25,South Oldham,KY,5A,4,KHSAA Class 5A,1-9,1,9,0,10,34.1,34.1,-15.9,73.1,25,11.5,32.1,-20.6,1.7,1.7,1.7,6.0,31.3,Dark Horse
+121,23,Mason County,KY,4A,2,KHSAA Class 4A,5-6,5,6,0,11,33.3,33.3,-16.72,68.1,77,19.8,27.9,-8.1,6.96,6.96,6.96,27.5,140.1,Dark Horse
+122,23,Garrard County,KY,3A,3,KHSAA Class 3A,3-7,3,7,0,10,33.2,33.2,-16.82,68.5,74,13.8,24.7,-10.9,4.47,4.47,4.47,15.0,84.9,Dark Horse
+123,26,Bullitt Central,KY,5A,4,KHSAA Class 5A,5-6,5,6,0,11,33.2,33.2,-16.83,65.3,121,24.5,27.4,-2.9,6.89,6.89,6.89,30.0,130.9,Dark Horse
+124,27,North Bullitt,KY,5A,4,KHSAA Class 5A,7-4,7,4,0,11,32.7,32.7,-17.27,63.6,147,23.2,21.0,2.2,9.41,9.41,9.41,42.0,175.6,Dark Horse
+125,24,Marion County,KY,4A,1,KHSAA Class 4A,3-8,3,8,0,11,32.2,32.2,-17.77,69.1,68,18.8,29.0,-10.2,4.24,4.24,4.24,16.5,86.0,Dark Horse
+126,16,Washington County,KY,2A,2,KHSAA Class 2A,3-8,3,8,0,11,32.2,32.2,-17.8,66.8,97,21.6,28.2,-6.6,3.82,3.82,3.82,13.5,81.6,Quarterfinal Contender
+127,13,Bishop Brossart,KY,1A,1,KHSAA Class 1A,7-4,7,4,0,11,31.8,31.8,-18.18,61.5,172,25.5,21.9,3.6,7.83,7.83,7.83,28.0,166.1,Quarterfinal Contender
+128,17,Leslie County,KY,2A,4,KHSAA Class 2A,4-7,4,7,0,11,31.4,31.4,-18.56,63.9,143,24.5,30.1,-5.6,4.85,4.85,4.85,18.0,101.1,Dark Horse
+129,14,Newport,KY,1A,1,KHSAA Class 1A,6-5,6,5,0,11,30.8,30.8,-19.24,61.3,175,26.0,21.6,4.4,6.69,6.69,6.69,24.0,141.6,Quarterfinal Contender
+130,25,Meade County,KY,6A,1,KHSAA Class 6A,3-8,3,8,0,11,30.7,30.7,-19.34,70.8,51,14.8,35.9,-21.1,4.61,4.61,4.61,19.5,89.3,Dark Horse
+131,18,Shelby Valley,KY,2A,1,KHSAA Class 2A,6-5,6,5,0,11,30.6,30.6,-19.39,62.8,159,30.5,26.3,4.2,7.15,7.15,7.15,27.0,147.5,Dark Horse
+132,24,Adair County,KY,3A,3,KHSAA Class 3A,5-5,5,5,0,10,30.5,30.5,-19.48,64.3,136,26.8,29.7,-2.9,6.97,6.97,6.97,25.0,127.8,Dark Horse
+133,25,Rowan County,KY,4A,2,KHSAA Class 4A,5-5,5,5,0,10,30.4,30.4,-19.56,65.8,112,26.7,32.1,-5.4,7.39,7.39,7.39,27.5,132.7,Dark Horse
+134,25,Carroll County,KY,3A,4,KHSAA Class 3A,6-5,6,5,0,11,30.4,30.4,-19.65,60.6,183,23.8,17.2,6.6,7.14,7.14,7.14,30.0,138.8,Dark Horse
+135,28,East Jessamine,KY,5A,2,KHSAA Class 5A,4-7,4,7,0,11,30.3,30.3,-19.74,68.0,78,18.8,32.5,-13.7,5.74,5.74,5.74,24.0,111.9,Dark Horse
+136,26,John Hardin,KY,4A,3,KHSAA Class 4A,3-7,3,7,0,10,30.2,30.2,-19.78,67.0,93,11.4,25.8,-14.4,4.51,4.51,4.51,16.5,81.8,Dark Horse
+137,19,Martin County,KY,2A,2,KHSAA Class 2A,4-7,4,7,0,11,30.0,30.0,-20.0,66.6,99,26.5,38.8,-12.3,5.08,5.08,5.08,18.0,108.2,Dark Horse
+138,26,Clay County,KY,3A,4,KHSAA Class 3A,6-5,6,5,0,11,29.8,29.8,-20.2,61.6,169,23.8,26.0,-2.2,7.27,7.27,7.27,30.0,142.8,Dark Horse
+139,27,Breckinridge County,KY,4A,2,KHSAA Class 4A,7-4,7,4,0,11,29.8,29.8,-20.21,59.3,199,30.2,24.7,5.5,8.47,8.47,8.47,38.5,156.1,Dark Horse
+140,26,Pleasure Ridge Park,KY,6A,1,KHSAA Class 6A,2-9,2,9,0,11,29.7,29.7,-20.3,77.4,5,11.2,42.2,-31.0,3.35,3.35,3.35,13.0,68.2,Dark Horse
+141,28,Shelby County,KY,4A,3,KHSAA Class 4A,4-7,4,7,0,11,29.4,29.4,-20.61,66.1,105,20.3,25.5,-5.2,5.4,5.4,5.4,22.0,106.9,Dark Horse
+142,29,Seneca,KY,5A,1,KHSAA Class 5A,7-4,7,4,0,11,29.0,29.0,-20.98,61.6,170,22.9,18.6,4.3,9.11,9.11,9.11,42.0,166.4,Dark Horse
+143,29,Harlan County,KY,4A,2,KHSAA Class 4A,5-6,5,6,0,11,28.9,28.9,-21.05,65.2,123,23.9,33.4,-9.5,6.66,6.66,6.66,27.5,130.6,Dark Horse
+144,30,Butler,KY,5A,3,KHSAA Class 5A,3-8,3,8,0,11,28.8,28.8,-21.16,66.6,100,11.5,22.9,-11.4,4.22,4.22,4.22,18.0,81.1,Dark Horse
+145,30,Valley,KY,4A,1,KHSAA Class 4A,5-5,5,5,0,10,28.5,28.5,-21.52,60.4,188,24.2,19.8,4.4,6.77,6.77,6.77,27.5,114.9,Dark Horse
+146,31,Jeffersontown,KY,5A,1,KHSAA Class 5A,5-6,5,6,0,11,28.2,28.2,-21.8,62.2,163,21.5,23.7,-2.2,6.58,6.58,6.58,30.0,121.1,Dark Horse
+147,15,Phelps,KY,1A,4,KHSAA Class 1A,6-3,6,3,0,9,27.5,27.5,-22.49,55.9,220,30.7,21.7,9.0,7.35,7.35,7.35,24.0,120.4,Quarterfinal Contender
+148,27,Fern Creek,KY,6A,4,KHSAA Class 6A,2-9,2,9,0,11,27.4,27.4,-22.55,71.0,48,12.7,35.5,-22.8,3.09,3.09,3.09,13.0,59.9,Dark Horse
+149,16,Dayton,KY,1A,4,KHSAA Class 1A,8-3,8,3,0,11,27.3,27.3,-22.66,55.4,221,35.2,17.4,17.8,7.94,7.94,7.94,32.0,158.0,Quarterfinal Contender
+150,17,Campbellsville,KY,1A,3,KHSAA Class 1A,4-7,4,7,0,11,26.9,26.9,-23.07,63.4,150,13.0,23.4,-10.4,4.63,4.63,4.63,16.0,99.9,Dark Horse
+151,20,McLean County,KY,2A,1,KHSAA Class 2A,7-4,7,4,0,11,26.9,26.9,-23.13,58.8,204,23.6,16.7,6.9,7.76,7.76,7.76,31.5,154.0,Dark Horse
+152,28,Henry Clay,KY,6A,2,KHSAA Class 6A,0-11,0,11,0,11,26.7,26.7,-23.28,71.8,35,13.8,40.5,-26.7,0.0,0.0,0.0,0.0,0.0,Dark Horse
+153,18,Nicholas County,KY,1A,4,KHSAA Class 1A,7-4,7,4,0,11,26.5,26.5,-23.49,57.2,214,22.8,14.7,8.1,7.21,7.21,7.21,28.0,146.5,Dark Horse
+154,21,St. Henry,KY,2A,4,KHSAA Class 2A,6-5,6,5,0,11,26.5,26.5,-23.49,59.9,195,30.1,27.5,2.6,6.79,6.79,6.79,27.0,136.2,Dark Horse
+155,27,McCreary Central,KY,3A,1,KHSAA Class 3A,4-7,4,7,0,11,26.5,26.5,-23.52,64.8,130,23.3,33.7,-10.4,5.11,5.11,5.11,20.0,103.4,Dark Horse
+156,32,Scott,KY,5A,1,KHSAA Class 5A,3-8,3,8,0,11,26.1,26.1,-23.93,66.4,102,20.0,29.2,-9.2,4.2,4.2,4.2,18.0,80.7,Dark Horse
+157,19,Hazard,KY,1A,1,KHSAA Class 1A,2-9,2,9,0,11,25.8,25.8,-24.24,69.5,63,13.3,35.7,-22.4,2.57,2.57,2.57,8.0,57.8,Dark Horse
+158,28,Bell County,KY,3A,1,KHSAA Class 3A,2-8,2,8,0,10,25.2,25.2,-24.77,66.5,101,22.5,40.2,-17.7,2.89,2.89,2.89,10.0,54.0,Dark Horse
+159,31,Russell County,KY,4A,2,KHSAA Class 4A,1-10,1,10,0,11,24.9,24.9,-25.05,71.1,47,13.2,38.2,-25.0,1.45,1.45,1.45,5.5,30.0,Dark Horse
+160,22,West Carter,KY,2A,2,KHSAA Class 2A,3-8,3,8,0,11,24.9,24.9,-25.05,62.2,164,21.8,25.3,-3.5,3.53,3.53,3.53,13.5,72.5,Dark Horse
+161,20,Ludlow,KY,1A,1,KHSAA Class 1A,6-5,6,5,0,11,24.8,24.8,-25.18,58.3,207,24.6,26.4,-1.8,6.32,6.32,6.32,24.0,129.9,Dark Horse
+162,23,Knott County Central,KY,2A,1,KHSAA Class 2A,4-5,4,5,0,9,24.6,24.6,-25.37,58.9,202,30.1,31.4,-1.3,5.43,5.43,5.43,18.0,88.2,Dark Horse
 163,24,Trigg County,KY,2A,4,KHSAA Class 2A,4-7,4,7,0,11,24.4,24.4,-25.59,61.1,177,28.1,32.5,-4.4,4.62,4.62,4.62,18.0,93.9,Dark Horse
-164,25,Floyd Central,KY,2A,1,KHSAA Class 2A,5-5,5,5,0,10,24.3,24.3,-25.68,63.0,157,33.8,38.7,-4.9,6.57,6.57,6.57,22.5,123.4,Dark Horse
-165,29,Edmonson County,KY,3A,1,KHSAA Class 3A,2-7,2,7,0,9,23.4,23.4,-26.63,65.8,111,21.6,35.3,-13.7,3.18,3.18,3.18,10.0,53.1,Dark Horse
-166,26,Metcalfe County,KY,2A,3,KHSAA Class 2A,2-7,2,7,0,9,23.1,23.1,-26.9,67.6,85,9.1,29.6,-20.5,3.15,3.15,3.15,9.0,55.4,Dark Horse
-167,30,Mercer County,KY,3A,1,KHSAA Class 3A,2-8,2,8,0,10,23.1,23.1,-26.92,70.8,52,10.2,39.2,-29.0,3.08,3.08,3.08,10.0,59.5,Dark Horse
-168,21,Harlan,KY,1A,2,KHSAA Class 1A,6-5,6,5,0,11,22.9,22.9,-27.08,58.2,209,31.0,28.1,2.9,6.3,6.3,6.3,24.0,129.4,Dark Horse
-169,32,Moore,KY,5A,4,KHSAA Class 5A,3-5,3,5,0,8,22.7,22.7,-27.31,61.5,171,23.2,23.8,-0.6,5.37,5.37,5.37,18.0,71.3,Dark Horse
-170,33,Marshall County,KY,5A,2,KHSAA Class 5A,2-8,2,8,0,10,21.6,21.6,-28.45,69.8,61,11.9,41.2,-29.3,3.24,3.24,3.24,12.0,58.2,Playoff Bubble
-171,31,Hopkins County Central,KY,3A,1,KHSAA Class 3A,5-5,5,5,0,10,20.6,20.6,-29.4,62.7,160,25.3,36.2,-10.9,6.79,6.79,6.79,25.0,122.6,Dark Horse
+164,25,Floyd Central,KY,2A,3,KHSAA Class 2A,5-6,5,6,0,11,24.3,24.3,-25.68,63.0,157,33.8,40.0,-6.2,5.97,5.97,5.97,22.5,123.4,Dark Horse
+165,29,Edmonson County,KY,3A,1,KHSAA Class 3A,2-8,2,8,0,10,23.4,23.4,-26.63,65.8,111,20.0,35.3,-15.3,2.86,2.86,2.86,10.0,53.1,Dark Horse
+166,26,Metcalfe County,KY,2A,1,KHSAA Class 2A,2-9,2,9,0,11,23.1,23.1,-26.9,67.6,85,8.9,33.0,-24.1,2.58,2.58,2.58,9.0,55.4,Dark Horse
+167,30,Mercer County,KY,3A,2,KHSAA Class 3A,2-9,2,9,0,11,23.1,23.1,-26.92,70.8,52,9.9,39.1,-29.2,2.8,2.8,2.8,10.0,59.5,Dark Horse
+168,21,Harlan,KY,1A,3,KHSAA Class 1A,6-5,6,5,0,11,22.9,22.9,-27.08,58.2,209,31.0,28.1,2.9,6.3,6.3,6.3,24.0,129.4,Dark Horse
+169,33,Moore,KY,5A,1,KHSAA Class 5A,3-7,3,7,0,10,22.7,22.7,-27.31,61.5,171,22.1,24.9,-2.8,4.3,4.3,4.3,18.0,71.3,Playoff Bubble
+170,34,Marshall County,KY,5A,3,KHSAA Class 5A,2-8,2,8,0,10,21.6,21.6,-28.45,69.8,61,11.9,41.2,-29.3,3.24,3.24,3.24,12.0,58.2,Playoff Bubble
+171,31,Hopkins County Central,KY,3A,2,KHSAA Class 3A,5-6,5,6,0,11,20.6,20.6,-29.4,62.7,160,24.6,38.7,-14.1,6.17,6.17,6.17,25.0,122.6,Dark Horse
 172,27,Crittenden County,KY,2A,4,KHSAA Class 2A,4-7,4,7,0,11,20.6,20.6,-29.44,59.4,198,22.8,25.9,-3.1,4.48,4.48,4.48,18.0,89.5,Dark Horse
-173,30,Warren Central,KY,6A,3,KHSAA Class 6A,1-8,1,8,0,9,20.2,20.2,-29.79,67.4,87,11.9,25.1,-13.2,1.8,1.8,1.8,6.5,27.6,Dark Horse
-174,32,Powell County,KY,3A,4,KHSAA Class 3A,2-9,2,9,0,11,19.9,19.9,-30.13,67.0,94,14.7,36.3,-21.6,2.64,2.64,2.64,10.0,54.5,Dark Horse
-175,34,Montgomery County,KY,5A,4,KHSAA Class 5A,0-10,0,10,0,10,19.2,19.2,-30.76,71.3,42,19.4,53.9,-34.5,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-176,32,Harrison County,KY,4A,3,KHSAA Class 4A,0-11,0,11,0,11,18.6,18.6,-31.37,71.9,33,6.4,37.7,-31.3,0.0,0.0,0.0,0.0,0.0,Dark Horse
-177,28,Hancock County,KY,2A,4,KHSAA Class 2A,2-8,2,8,0,10,18.6,18.6,-31.42,65.0,126,10.5,32.6,-22.1,2.72,2.72,2.72,9.0,52.0,Dark Horse
-178,33,Magoffin County,KY,3A,4,KHSAA Class 3A,2-7,2,7,0,9,18.5,18.5,-31.47,64.4,134,17.4,42.3,-24.9,3.1,3.1,3.1,10.0,51.2,Playoff Bubble
-179,31,Boone County,KY,6A,4,KHSAA Class 6A,2-7,2,7,0,9,18.4,18.4,-31.64,66.1,108,18.7,38.2,-19.5,3.52,3.52,3.52,13.0,53.4,Dark Horse
-180,33,Allen County-Scottsville,KY,4A,2,KHSAA Class 4A,1-9,1,9,0,10,18.2,18.2,-31.79,70.1,59,10.8,40.4,-29.6,1.58,1.58,1.58,5.5,29.3,Playoff Bubble
-181,32,Daviess County,KY,6A,4,KHSAA Class 6A,1-10,1,10,0,11,18.1,18.1,-31.92,72.2,31,9.4,45.5,-36.1,1.57,1.57,1.57,6.5,30.7,Dark Horse
-182,33,Central Hardin,KY,6A,2,KHSAA Class 6A,0-10,0,10,0,10,18.0,18.0,-31.97,72.7,29,5.7,39.2,-33.5,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-183,34,Betsy Layne,KY,6A,4,KHSAA Class 6A,2-7,2,7,0,9,17.9,17.9,-32.11,63.8,144,24.0,43.9,-19.9,3.41,3.41,3.41,13.0,50.5,Playoff Bubble
-184,29,Bracken County,KY,2A,2,KHSAA Class 2A,2-8,2,8,0,10,16.8,16.8,-33.22,66.9,95,12.1,34.0,-21.9,2.81,2.81,2.81,9.0,54.5,Dark Horse
-185,22,Ballard Memorial,KY,1A,4,KHSAA Class 1A,4-5,4,5,0,9,16.8,16.8,-33.25,54.9,222,29.3,24.7,4.6,4.8,4.8,4.8,16.0,77.8,Dark Horse
-186,23,Paris,KY,1A,4,KHSAA Class 1A,2-9,2,9,0,11,14.9,14.9,-35.09,63.1,154,14.7,32.3,-17.6,2.31,2.31,2.31,8.0,49.6,Dark Horse
-187,34,Holmes,KY,4A,1,KHSAA Class 4A,3-6,3,6,0,9,13.2,13.2,-36.75,59.0,201,14.1,29.9,-15.8,4.41,4.41,4.41,16.5,66.2,Playoff Bubble
-188,30,Pike County Central,KY,2A,1,KHSAA Class 2A,2-8,2,8,0,10,12.9,12.9,-37.15,65.7,114,15.4,44.0,-28.6,2.75,2.75,2.75,9.0,53.0,Dark Horse
-189,34,Lewis County,KY,3A,4,KHSAA Class 3A,4-5,4,5,0,9,12.8,12.8,-37.17,59.7,197,17.1,28.2,-11.1,5.73,5.73,5.73,20.0,90.1,Playoff Bubble
-190,35,Western Hills,KY,4A,1,KHSAA Class 4A,2-10,2,10,0,12,12.7,12.7,-37.34,63.7,146,17.0,38.0,-21.0,2.38,2.38,2.38,11.0,50.3,Playoff Bubble
-191,24,Fairview,KY,1A,1,KHSAA Class 1A,4-6,4,6,0,10,11.5,11.5,-38.52,57.4,213,16.7,31.6,-14.9,4.54,4.54,4.54,16.0,84.1,Dark Horse
-192,36,Waggener,KY,4A,1,KHSAA Class 4A,4-7,4,7,0,11,10.6,10.6,-39.44,60.1,191,19.5,32.4,-12.9,4.9,4.9,4.9,22.0,91.2,Playoff Bubble
-193,35,Iroquois,KY,5A,3,KHSAA Class 5A,4-5,4,5,0,9,10.4,10.4,-39.59,59.2,200,14.9,27.0,-12.1,6.12,6.12,6.12,24.0,88.8,Playoff Bubble
-194,25,Fulton County,KY,1A,3,KHSAA Class 1A,3-7,3,7,0,10,10.3,10.3,-39.68,56.2,219,19.1,26.4,-7.3,3.33,3.33,3.33,12.0,60.8,Dark Horse
-195,36,Ohio County,KY,5A,3,KHSAA Class 5A,2-6,2,6,0,8,10.2,10.2,-39.81,60.4,186,14.1,30.8,-16.7,3.51,3.51,3.51,12.0,46.0,Playoff Bubble
-196,35,Southern,KY,6A,1,KHSAA Class 6A,1-7,1,7,0,8,9.2,9.2,-40.84,67.3,89,9.0,39.9,-30.9,2.02,2.02,2.02,6.5,27.5,Playoff Bubble
-197,35,Casey County,KY,3A,3,KHSAA Class 3A,2-7,2,7,0,9,8.9,8.9,-41.13,60.5,184,20.0,38.9,-18.9,2.91,2.91,2.91,10.0,46.2,Playoff Bubble
-198,26,Pineville,KY,1A,4,KHSAA Class 1A,3-6,3,6,0,9,8.8,8.8,-41.23,58.8,205,19.6,28.2,-8.6,3.9,3.9,3.9,12.0,66.0,Dark Horse
-199,37,Whitley County,KY,4A,2,KHSAA Class 4A,0-10,0,10,0,10,8.4,8.4,-41.64,70.9,49,5.4,43.6,-38.2,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-200,38,Thomas Nelson,KY,4A,3,KHSAA Class 4A,2-8,2,8,0,10,7.6,7.6,-43.1,61.2,176,8.5,28.0,-19.5,2.75,2.75,2.75,11.0,47.1,Playoff Bubble
-201,27,Russellville,KY,1A,2,KHSAA Class 1A,1-9,1,9,0,10,7.3,7.3,-43.97,64.6,131,14.7,43.1,-28.4,1.3,1.3,1.3,4.0,25.8,Dark Horse
-202,36,Pendleton County,KY,3A,4,KHSAA Class 3A,2-5,2,5,0,7,7.3,7.3,-44.14,61.1,178,11.4,35.1,-23.7,3.77,3.77,3.77,10.0,46.9,Playoff Bubble
-203,37,Morgan County,KY,3A,3,KHSAA Class 3A,2-8,2,8,0,10,7.2,7.2,-44.18,58.0,210,11.9,29.6,-17.7,2.5,2.5,2.5,10.0,43.0,Playoff Bubble
-204,38,Bath County,KY,3A,3,KHSAA Class 3A,0-9,0,9,0,9,7.2,7.2,-44.25,61.7,168,12.1,44.1,-32.0,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-205,28,Bellevue,KY,1A,3,KHSAA Class 1A,1-10,1,10,0,11,7.2,7.2,-44.35,60.0,192,14.2,38.6,-24.4,1.09,1.09,1.09,4.0,22.8,Dark Horse
-206,31,Jackson County,KY,2A,4,KHSAA Class 2A,5-7,5,7,0,12,6.9,6.9,-45.15,56.5,218,19.1,28.6,-9.5,4.86,4.86,4.86,22.5,102.2,Dark Horse
-207,29,Frankfort,KY,1A,2,KHSAA Class 1A,2-4,2,4,0,6,6.8,6.8,-45.29,61.0,180,28.3,34.2,-5.9,4.06,4.06,4.06,8.0,46.8,Dark Horse
-208,32,Shawnee,KY,2A,1,KHSAA Class 2A,1-8,1,8,0,9,6.5,6.5,-46.3,62.0,165,6.3,35.2,-28.9,1.44,1.44,1.44,4.5,24.1,Dark Horse
-209,33,Fort Knox,KY,2A,2,KHSAA Class 2A,1-7,1,7,0,8,6.1,6.1,-47.48,61.0,181,12.5,33.5,-21.0,1.59,1.59,1.59,4.5,23.4,Playoff Bubble
-210,34,Fort Campbell,KY,2A,2,KHSAA Class 2A,2-8,2,8,0,10,5.8,5.8,-48.38,56.9,216,17.7,35.4,-17.7,2.35,2.35,2.35,9.0,41.5,Playoff Bubble
-211,39,Owen County,KY,3A,2,KHSAA Class 3A,1-8,1,8,0,9,5.3,5.3,-49.72,60.0,193,7.7,38.4,-30.7,1.44,1.44,1.44,5.0,22.8,Playoff Bubble
-212,37,Doss,KY,5A,1,KHSAA Class 5A,1-7,1,7,0,8,4.9,4.9,-50.73,59.9,196,9.2,37.4,-28.2,1.74,1.74,1.74,6.0,22.7,Playoff Bubble
-213,30,Trimble County,KY,1A,3,KHSAA Class 1A,1-9,1,9,0,10,4.5,4.5,-51.9,58.3,208,14.4,35.9,-21.5,1.16,1.16,1.16,4.0,21.6,Dark Horse
-214,40,Webster County,KY,3A,2,KHSAA Class 3A,0-10,0,10,0,10,4.5,4.5,-51.97,63.3,152,7.0,50.9,-43.9,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-215,35,Clinton County,KY,2A,2,KHSAA Class 2A,1-9,1,9,0,10,4.3,4.3,-52.61,61.5,173,14.8,46.6,-31.8,1.28,1.28,1.28,4.5,23.7,Playoff Bubble
-216,39,Grant County,KY,4A,2,KHSAA Class 4A,0-10,0,10,0,10,3.7,3.7,-54.35,63.3,153,5.0,39.3,-34.3,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-217,41,Western,KY,3A,2,KHSAA Class 3A,0-8,0,8,0,8,3.7,3.7,-54.4,67.1,91,3.1,34.1,-31.0,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-218,42,Gallatin County,KY,3A,3,KHSAA Class 3A,1-8,1,8,0,9,3.2,3.2,-55.63,61.4,174,4.2,47.7,-43.5,1.47,1.47,1.47,5.0,23.6,Playoff Bubble
-219,31,Lynn Camp,KY,1A,2,KHSAA Class 1A,1-10,1,10,0,11,2.5,2.5,-59.18,60.0,194,7.3,44.4,-37.1,1.09,1.09,1.09,4.0,22.8,Dark Horse
-220,32,Berea,KY,1A,4,KHSAA Class 1A,0-6,0,6,0,6,2.5,2.5,-71.52,56.8,217,6.3,46.5,-40.2,0.0,0.0,0.0,0.0,0.0,Dark Horse
-221,33,Caverna,KY,1A,2,KHSAA Class 1A,0-7,0,7,0,7,2.5,2.5,-72.16,58.4,206,4.4,59.4,-55.0,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-222,36,Todd County Central,KY,2A,1,KHSAA Class 2A,0-6,0,6,0,6,2.5,2.5,-73.64,60.3,189,8.3,56.5,-48.2,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
+173,35,Warren Central,KY,5A,3,KHSAA Class 5A,1-9,1,9,0,10,20.2,20.2,-29.79,67.4,87,10.7,27.5,-16.8,1.57,1.57,1.57,6.0,27.6,Playoff Bubble
+174,32,Powell County,KY,3A,4,KHSAA Class 3A,2-9,2,9,0,11,19.9,19.9,-30.13,67.0,94,13.5,37.2,-23.7,2.64,2.64,2.64,10.0,54.5,Dark Horse
+175,36,Montgomery County,KY,5A,2,KHSAA Class 5A,0-11,0,11,0,11,19.2,19.2,-30.76,71.3,42,20.7,52.8,-32.1,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
+176,32,Harrison County,KY,4A,4,KHSAA Class 4A,0-11,0,11,0,11,18.6,18.6,-31.37,71.9,33,6.4,37.7,-31.3,0.0,0.0,0.0,0.0,0.0,Dark Horse
+177,28,Hancock County,KY,2A,2,KHSAA Class 2A,2-9,2,9,0,11,18.6,18.6,-31.42,65.0,126,10.8,31.5,-20.7,2.47,2.47,2.47,9.0,52.0,Dark Horse
+178,33,Magoffin County,KY,3A,4,KHSAA Class 3A,3-7,3,7,0,10,18.5,18.5,-31.47,64.4,134,21.0,41.5,-20.5,4.19,4.19,4.19,15.0,76.8,Playoff Bubble
+179,37,Boone County,KY,5A,4,KHSAA Class 5A,2-8,2,8,0,10,18.4,18.4,-31.64,66.1,108,18.9,38.7,-19.8,3.07,3.07,3.07,12.0,53.4,Playoff Bubble
+180,33,Allen County-Scottsville,KY,4A,3,KHSAA Class 4A,1-9,1,9,0,10,18.2,18.2,-31.79,70.1,59,10.8,40.4,-29.6,1.58,1.58,1.58,5.5,29.3,Playoff Bubble
+181,29,Daviess County,KY,6A,2,KHSAA Class 6A,1-10,1,10,0,11,18.1,18.1,-31.92,72.2,31,9.4,45.5,-36.1,1.57,1.57,1.57,6.5,30.7,Dark Horse
+182,30,Central Hardin,KY,6A,4,KHSAA Class 6A,0-11,0,11,0,11,18.0,18.0,-31.97,72.7,29,5.2,41.5,-36.3,0.0,0.0,0.0,0.0,0.0,Dark Horse
+183,29,Betsy Layne,KY,2A,2,KHSAA Class 2A,2-8,2,8,0,10,17.9,17.9,-32.11,63.8,144,24.8,45.7,-20.9,2.67,2.67,2.67,9.0,50.5,Dark Horse
+184,30,Bracken County,KY,2A,2,KHSAA Class 2A,2-9,2,9,0,11,16.8,16.8,-33.22,66.9,95,13.0,36.5,-23.5,2.55,2.55,2.55,9.0,54.5,Dark Horse
+185,22,Ballard Memorial,KY,1A,3,KHSAA Class 1A,5-5,5,5,0,10,16.8,16.8,-33.25,54.9,222,32.0,23.6,8.4,5.4,5.4,5.4,20.0,97.2,Dark Horse
+186,23,Paris,KY,1A,1,KHSAA Class 1A,2-9,2,9,0,11,14.9,14.9,-35.09,63.1,154,14.7,32.3,-17.6,2.31,2.31,2.31,8.0,49.6,Dark Horse
+187,34,Holmes,KY,4A,4,KHSAA Class 4A,4-6,4,6,0,10,13.2,13.2,-36.75,59.0,201,14.1,28.2,-14.1,5.29,5.29,5.29,22.0,88.3,Playoff Bubble
+188,31,Pike County Central,KY,2A,3,KHSAA Class 2A,2-9,2,9,0,11,12.9,12.9,-37.15,65.7,114,14.5,43.8,-29.3,2.5,2.5,2.5,9.0,53.0,Dark Horse
+189,34,Lewis County,KY,3A,2,KHSAA Class 3A,5-6,5,6,0,11,12.8,12.8,-37.17,59.7,197,14.6,28.5,-13.9,5.86,5.86,5.86,25.0,112.6,Playoff Bubble
+190,35,Western Hills,KY,4A,1,KHSAA Class 4A,2-9,2,9,0,11,12.7,12.7,-37.34,63.7,146,17.0,38.0,-21.0,2.6,2.6,2.6,11.0,50.3,Playoff Bubble
+191,24,Fairview,KY,1A,2,KHSAA Class 1A,5-6,5,6,0,11,11.5,11.5,-38.52,57.4,213,15.3,28.7,-13.4,5.17,5.17,5.17,20.0,105.2,Dark Horse
+192,36,Waggener,KY,4A,2,KHSAA Class 4A,4-7,4,7,0,11,10.6,10.6,-39.44,60.1,191,19.5,32.4,-12.9,4.9,4.9,4.9,22.0,91.2,Playoff Bubble
+193,38,Iroquois,KY,5A,1,KHSAA Class 5A,4-6,4,6,0,10,10.4,10.4,-39.59,59.2,200,13.4,28.2,-14.8,5.51,5.51,5.51,24.0,88.8,Playoff Bubble
+194,25,Fulton County,KY,1A,1,KHSAA Class 1A,4-7,4,7,0,11,10.3,10.3,-39.68,56.2,219,21.2,24.6,-3.4,4.03,4.03,4.03,16.0,81.0,Dark Horse
+195,39,Ohio County,KY,5A,3,KHSAA Class 5A,2-8,2,8,0,10,10.2,10.2,-39.81,60.4,186,12.6,31.6,-19.0,2.81,2.81,2.81,12.0,46.0,Playoff Bubble
+196,31,Southern,KY,6A,1,KHSAA Class 6A,1-10,1,10,0,11,9.2,9.2,-40.84,67.3,89,7.0,41.2,-34.2,1.47,1.47,1.47,6.5,27.5,Dark Horse
+197,35,Casey County,KY,3A,4,KHSAA Class 3A,3-7,3,7,0,10,8.9,8.9,-41.13,60.5,184,18.1,35.0,-16.9,3.93,3.93,3.93,15.0,69.3,Playoff Bubble
+198,26,Pineville,KY,1A,2,KHSAA Class 1A,3-8,3,8,0,11,8.8,8.8,-41.23,58.8,205,17.1,30.1,-13.0,3.19,3.19,3.19,12.0,66.0,Dark Horse
+199,37,Whitley County,KY,4A,3,KHSAA Class 4A,0-11,0,11,0,11,8.4,8.4,-41.64,70.9,49,6.2,42.8,-36.6,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
+200,38,Thomas Nelson,KY,4A,4,KHSAA Class 4A,2-8,2,8,0,10,7.6,7.6,-43.1,61.2,176,8.5,28.0,-19.5,2.75,2.75,2.75,11.0,47.1,Playoff Bubble
+201,27,Russellville,KY,1A,3,KHSAA Class 1A,1-10,1,10,0,11,7.3,7.3,-43.97,64.6,131,13.4,39.3,-25.9,1.18,1.18,1.18,4.0,25.8,Dark Horse
+202,36,Pendleton County,KY,3A,2,KHSAA Class 3A,3-7,3,7,0,10,7.3,7.3,-44.14,61.1,178,14.1,34.2,-20.1,3.96,3.96,3.96,15.0,70.3,Playoff Bubble
+203,32,Morgan County,KY,2A,4,KHSAA Class 2A,2-8,2,8,0,10,7.2,7.2,-44.18,58.0,210,11.9,29.6,-17.7,2.4,2.4,2.4,9.0,43.0,Dark Horse
+204,37,Bath County,KY,3A,4,KHSAA Class 3A,1-9,1,9,0,10,7.2,7.2,-44.25,61.7,168,14.4,40.3,-25.9,1.34,1.34,1.34,5.0,23.9,Playoff Bubble
+205,28,Bellevue,KY,1A,1,KHSAA Class 1A,1-9,1,9,0,10,7.2,7.2,-44.35,60.0,192,14.9,38.4,-23.5,1.2,1.2,1.2,4.0,22.8,Dark Horse
+206,33,Jackson County,KY,2A,1,KHSAA Class 2A,4-7,4,7,0,11,6.9,6.9,-45.15,56.5,218,19.1,28.6,-9.5,4.24,4.24,4.24,18.0,81.8,Playoff Bubble
+207,29,Frankfort,KY,1A,4,KHSAA Class 1A,2-9,2,9,0,11,6.8,6.8,-45.29,61.0,180,16.2,23.0,-6.8,2.22,2.22,2.22,8.0,46.8,Dark Horse
+208,34,Shawnee,KY,2A,3,KHSAA Class 2A,2-8,2,8,0,10,6.5,6.5,-46.3,62.0,165,8.9,33.0,-24.1,2.58,2.58,2.58,9.0,48.1,Playoff Bubble
+209,35,Fort Knox,KY,2A,4,KHSAA Class 2A,1-10,1,10,0,11,6.1,6.1,-47.48,61.0,181,10.3,33.6,-23.3,1.15,1.15,1.15,4.5,23.4,Playoff Bubble
+210,36,Fort Campbell,KY,2A,3,KHSAA Class 2A,2-8,2,8,0,10,5.8,5.8,-48.38,56.9,216,17.7,35.4,-17.7,2.35,2.35,2.35,9.0,41.5,Playoff Bubble
+211,37,Owen County,KY,2A,4,KHSAA Class 2A,2-8,2,8,0,10,5.3,5.3,-49.72,60.0,193,9.2,35.4,-26.2,2.49,2.49,2.49,9.0,45.5,Playoff Bubble
+212,39,Doss,KY,4A,4,KHSAA Class 4A,1-9,1,9,0,10,4.9,4.9,-50.73,59.9,196,8.6,38.8,-30.2,1.34,1.34,1.34,5.5,22.7,Playoff Bubble
+213,30,Trimble County,KY,1A,3,KHSAA Class 1A,1-10,1,10,0,11,4.5,4.5,-51.9,58.3,208,13.8,34.7,-20.9,1.05,1.05,1.05,4.0,21.6,Dark Horse
+214,38,Webster County,KY,3A,4,KHSAA Class 3A,1-10,1,10,0,11,4.5,4.5,-51.97,63.3,152,11.5,46.3,-34.8,1.25,1.25,1.25,5.0,24.9,Playoff Bubble
+215,38,Clinton County,KY,2A,1,KHSAA Class 2A,1-9,1,9,0,10,4.3,4.3,-52.61,61.5,173,14.8,46.6,-31.8,1.28,1.28,1.28,4.5,23.7,Playoff Bubble
+216,40,Grant County,KY,4A,2,KHSAA Class 4A,0-10,0,10,0,10,3.7,3.7,-54.35,63.3,153,5.0,39.3,-34.3,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
+217,39,Western,KY,3A,3,KHSAA Class 3A,0-10,0,10,0,10,3.7,3.7,-54.4,67.1,91,2.5,30.9,-28.4,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
+218,39,Gallatin County,KY,2A,3,KHSAA Class 2A,1-9,1,9,0,10,3.2,3.2,-55.63,61.4,174,5.0,47.1,-42.1,1.28,1.28,1.28,4.5,23.6,Playoff Bubble
+219,31,Lynn Camp,KY,1A,4,KHSAA Class 1A,1-10,1,10,0,11,2.5,2.5,-59.18,60.0,194,6.7,44.3,-37.6,1.09,1.09,1.09,4.0,22.8,Dark Horse
+220,32,Berea,KY,1A,2,KHSAA Class 1A,0-10,0,10,0,10,2.5,2.5,-71.52,56.8,217,3.8,28.3,-24.5,0.0,0.0,0.0,0.0,0.0,Dark Horse
+221,33,Caverna,KY,1A,3,KHSAA Class 1A,0-9,0,9,0,9,2.5,2.5,-72.16,58.4,206,3.4,51.9,-48.5,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
+222,40,Todd County Central,KY,2A,3,KHSAA Class 2A,0-10,0,10,0,10,2.5,2.5,-73.64,60.3,189,6.4,45.3,-38.9,0.0,0.0,0.0,0.0,0.0,Playoff Bubble

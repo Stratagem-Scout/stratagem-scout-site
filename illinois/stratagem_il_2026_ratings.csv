@@ -1,457 +1,504 @@
 rank,division_rank,team,state,division,region,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_off,ppg_def,net_margin,harbin_avg,ppa,pqs,l1_pts,l2_pts,contender_tier
-1,1,Lincoln-Way East,IL,8A,3,IHSA Class 8A,12-0,12,0,0,12,97.2,97.2,56.2,78.4,11,35.2,8.4,26.8,25.9,25.9,25.9,84.0,416.7,State Title Contender
-2,1,Brother Rice,IL,7A,2,IHSA Class 7A,11-2,11,2,0,13,97.1,97.1,55.84,81.4,3,45.2,11.8,33.4,23.05,23.05,23.05,71.5,403.1,State Title Contender
-3,2,Chicago Mt. Carmel,IL,8A,2,IHSA Class 8A,9-1,9,1,0,10,96.3,96.3,53.23,84.0,1,45.7,18.9,26.8,24.77,24.77,24.77,63.0,345.3,State Title Contender
-4,3,Loyola Academy,IL,8A,3,IHSA Class 8A,9-1,9,1,0,10,95.8,95.8,51.56,81.9,2,35.5,12.8,22.7,24.14,24.14,24.14,63.0,332.8,State Title Contender
-5,2,East St. Louis,IL,7A,1,IHSA Class 7A,8-1,8,1,0,9,95.5,95.5,50.89,74.9,37,53.3,6.1,47.2,21.98,21.98,21.98,52.0,259.5,State Title Contender
-6,1,IC Catholic Prep,IL,3A,2,IHSA Class 3A,11-1,11,1,0,12,92.7,92.7,45.13,76.9,20,34.1,11.8,22.3,20.37,20.37,20.37,49.5,371.2,State Title Contender
-7,4,Saint Ignatius College Prep,IL,8A,4,IHSA Class 8A,10-1,10,1,0,11,92.5,92.5,44.72,78.5,10,42.4,16.5,25.9,22.79,22.79,22.79,70.0,347.6,State Title Contender
-8,1,Geneva,IL,6A,1,IHSA Class 6A,10-2,10,2,0,12,91.0,91.0,42.45,78.2,12,43.6,27.6,16.0,20.19,20.19,20.19,60.0,346.1,State Title Contender
-9,3,Batavia,IL,7A,1,IHSA Class 7A,8-4,8,4,0,12,88.9,88.9,39.61,80.8,5,34.4,30.3,4.1,17.55,17.55,17.55,52.0,290.1,State Title Contender
+1,1,Lincoln-Way East,IL,8A,4,IHSA Class 8A,11-0,11,0,0,11,97.2,97.2,56.2,78.4,11,35.2,8.4,26.8,25.9,25.9,25.9,77.0,382.0,State Title Contender
+2,1,Brother Rice,IL,7A,1,IHSA Class 7A,9-2,9,2,0,11,97.1,97.1,55.84,81.4,3,45.2,11.8,33.4,22.51,22.51,22.51,58.5,329.8,State Title Contender
+3,2,Chicago Mt. Carmel,IL,8A,4,IHSA Class 8A,9-2,9,2,0,11,96.3,96.3,53.23,84.0,1,43.6,21.0,22.6,23.1,23.1,23.1,63.0,345.3,State Title Contender
+4,3,Loyola Academy,IL,8A,3,IHSA Class 8A,10-1,10,1,0,11,95.8,95.8,51.56,81.9,2,36.2,12.1,24.1,24.32,24.32,24.32,70.0,369.8,State Title Contender
+5,2,East St. Louis,IL,7A,4,IHSA Class 7A,10-1,10,1,0,11,95.5,95.5,50.89,74.9,37,49.6,9.0,40.6,22.34,22.34,22.34,65.0,324.4,State Title Contender
+6,1,IC Catholic Prep,IL,3A,2,IHSA Class 3A,10-1,10,1,0,11,92.7,92.7,45.13,76.9,20,34.1,11.8,22.3,20.24,20.24,20.24,45.0,337.4,State Title Contender
+7,4,Saint Ignatius College Prep,IL,8A,4,IHSA Class 8A,9-2,9,2,0,11,92.5,92.5,44.72,78.5,10,39.4,18.3,21.1,21.05,21.05,21.05,63.0,312.9,State Title Contender
+8,1,Geneva,IL,6A,1,IHSA Class 6A,9-2,9,2,0,11,91.0,91.0,42.45,78.2,12,43.6,27.6,16.0,19.91,19.91,19.91,54.0,311.5,State Title Contender
+9,3,Batavia,IL,7A,4,IHSA Class 7A,8-3,8,3,0,11,88.9,88.9,39.61,80.8,5,34.4,30.3,4.1,18.71,18.71,18.71,52.0,290.1,State Title Contender
 10,2,Wheaton-Warrenville South,IL,6A,2,IHSA Class 6A,8-3,8,3,0,11,88.8,88.8,39.46,77.9,16,28.3,13.6,14.7,17.86,17.86,17.86,48.0,275.2,State Title Contender
-11,1,Providence Catholic,IL,5A,3,IHSA Class 5A,11-3,11,3,0,14,88.6,88.6,39.27,79.3,7,33.3,23.4,9.9,18.73,18.73,18.73,60.5,388.0,State Title Contender
-12,3,Fenwick,IL,6A,2,IHSA Class 6A,9-3,9,3,0,12,88.4,88.4,38.96,78.1,13,32.0,19.0,13.0,18.24,18.24,18.24,54.0,310.9,State Title Contender
-13,4,Hersey,IL,7A,1,IHSA Class 7A,10-0,10,0,0,10,88.2,88.2,38.77,72.6,60,45.6,14.0,31.6,21.97,21.97,21.97,65.0,309.2,State Title Contender
-14,5,Glenbard West,IL,7A,4,IHSA Class 7A,6-3,6,3,0,9,88.1,88.1,38.59,76.7,23,37.6,15.1,22.5,16.8,16.8,16.8,39.0,201.6,State Title Contender
+11,1,Providence Catholic,IL,5A,3,IHSA Class 5A,9-3,9,3,0,12,88.6,88.6,39.27,79.3,7,34.3,22.7,11.6,18.1,18.1,18.1,49.5,317.5,State Title Contender
+12,3,Fenwick,IL,6A,3,IHSA Class 6A,8-3,8,3,0,11,88.4,88.4,38.96,78.1,13,32.0,19.0,13.0,17.83,17.83,17.83,48.0,276.3,State Title Contender
+13,4,Hersey,IL,7A,2,IHSA Class 7A,11-0,11,0,0,11,88.2,88.2,38.77,72.6,60,41.2,12.2,29.0,21.97,21.97,21.97,71.5,340.1,State Title Contender
+14,5,Glenbard West,IL,7A,3,IHSA Class 7A,7-4,7,4,0,11,88.1,88.1,38.59,76.7,23,36.6,18.6,18.0,16.25,16.25,16.25,45.5,235.2,State Title Contender
 15,5,Homewood-Flossmoor,IL,8A,4,IHSA Class 8A,8-3,8,3,0,11,87.8,87.8,38.23,75.9,29,30.3,12.6,17.7,18.1,18.1,18.1,56.0,264.7,State Title Contender
-16,4,Nazareth Academy,IL,6A,2,IHSA Class 6A,9-5,9,5,0,14,87.2,87.2,37.54,78.8,9,30.2,15.9,14.3,16.23,16.23,16.23,54.0,314.6,State Title Contender
-17,6,St. Rita,IL,7A,2,IHSA Class 7A,5-4,5,4,0,9,86.7,86.7,37.03,80.8,4,24.4,24.0,0.4,15.11,15.11,15.11,32.5,181.3,State Title Contender
-18,2,St. Francis,IL,5A,4,IHSA Class 5A,8-5,8,5,0,13,85.7,85.7,35.88,75.8,32,34.2,19.0,15.2,14.8,14.8,14.8,44.0,264.0,State Title Contender
-19,1,Morris,IL,4A,3,IHSA Class 4A,11-0,11,0,0,11,84.9,84.9,35.05,73.2,54,47.3,7.5,39.8,20.17,20.17,20.17,55.0,344.5,State Title Contender
-20,6,Marist,IL,8A,3,IHSA Class 8A,4-5,4,5,0,9,84.1,84.1,34.21,80.4,6,25.6,32.4,-6.8,12.82,12.82,12.82,28.0,144.1,State Title Contender
-21,7,Sandburg,IL,8A,2,IHSA Class 8A,7-3,7,3,0,10,84.0,84.0,34.08,76.3,26,28.2,19.0,9.2,17.16,17.16,17.16,49.0,233.3,State Title Contender
-22,5,Joliet Catholic,IL,6A,3,IHSA Class 6A,5-5,5,5,0,10,83.6,83.6,33.65,79.2,8,20.7,18.1,2.6,13.2,13.2,13.2,30.0,176.0,State Title Contender
-23,7,Downers Grove North,IL,7A,4,IHSA Class 7A,10-1,10,1,0,11,83.5,83.5,33.55,73.2,55,33.1,7.5,25.6,19.9,19.9,19.9,65.0,313.2,State Title Contender
-24,8,Oswego,IL,8A,1,IHSA Class 8A,10-1,10,1,0,11,83.3,83.3,33.29,74.7,42,35.7,18.5,17.2,20.64,20.64,20.64,70.0,323.1,State Title Contender
-25,6,Wheaton North,IL,6A,2,IHSA Class 6A,8-3,8,3,0,11,82.9,82.9,32.97,76.5,25,23.8,17.3,6.5,16.84,16.84,16.84,48.0,267.7,State Title Contender
-26,2,Montini Catholic,IL,4A,1,IHSA Class 4A,9-4,9,4,0,13,82.6,82.6,32.63,74.3,46,34.5,24.8,9.7,15.14,15.14,15.14,45.0,288.4,State Title Contender
-27,9,Lyons,IL,8A,2,IHSA Class 8A,8-5,8,5,0,13,82.2,82.2,32.2,74.5,45,28.9,17.1,11.8,15.09,15.09,15.09,56.0,257.1,State Title Contender
-28,10,Barrington,IL,8A,2,IHSA Class 8A,6-4,6,4,0,10,82.0,82.0,32.02,77.0,19,27.9,19.2,8.7,15.14,15.14,15.14,42.0,202.7,State Title Contender
-29,2,Byron,IL,3A,1,IHSA Class 3A,13-0,13,0,0,13,81.6,81.6,31.63,64.9,284,50.4,5.9,44.5,17.38,17.38,17.38,58.5,337.5,State Title Contender
-30,11,Naperville North,IL,8A,1,IHSA Class 8A,8-3,8,3,0,11,81.2,81.2,31.18,76.0,28,24.6,18.6,6.0,17.27,17.27,17.27,56.0,265.3,Semifinal Contender
-31,12,York,IL,8A,4,IHSA Class 8A,7-5,7,5,0,12,80.8,80.8,30.8,75.5,33,23.4,19.6,3.8,14.48,14.48,14.48,49.0,229.6,Semifinal Contender
-32,8,Lincoln-Way Central,IL,7A,2,IHSA Class 7A,5-4,5,4,0,9,80.7,80.7,30.66,76.9,21,24.8,21.7,3.1,13.85,13.85,13.85,32.5,168.6,Semifinal Contender
-33,9,St. Charles North,IL,7A,1,IHSA Class 7A,6-6,6,6,0,12,80.4,80.4,30.42,77.4,18,28.1,31.2,-3.1,12.86,12.86,12.86,39.0,204.5,Semifinal Contender
-34,13,Hinsdale Central,IL,8A,2,IHSA Class 8A,9-4,9,4,0,13,80.3,80.3,30.33,74.8,38,31.5,16.1,15.4,16.34,16.34,16.34,63.0,291.6,Semifinal Contender
-35,3,Rochester,IL,4A,1,IHSA Class 4A,10-1,10,1,0,11,80.3,80.3,30.26,70.6,97,47.7,17.3,30.4,17.61,17.61,17.61,50.0,296.4,State Title Contender
-36,7,Carmel,IL,6A,2,IHSA Class 6A,4-8,4,8,0,12,80.2,80.2,30.21,76.9,22,24.8,28.7,-3.9,9.56,9.56,9.56,24.0,134.8,Semifinal Contender
-37,10,Glenbard North,IL,7A,4,IHSA Class 7A,5-8,5,8,0,13,79.6,79.6,29.58,76.6,24,24.7,23.1,1.6,10.57,10.57,10.57,32.5,167.8,Semifinal Contender
-38,1,El Paso-Gridley,IL,2A,3,IHSA Class 2A,11-0,11,0,0,11,79.3,79.3,29.27,66.6,228,41.7,8.1,33.6,16.98,16.98,16.98,44.0,297.4,State Title Contender
-39,4,Coal City,IL,4A,3,IHSA Class 4A,11-1,11,1,0,12,79.2,79.2,29.19,70.3,107,41.6,8.0,33.6,17.52,17.52,17.52,55.0,323.6,State Title Contender
-40,14,Lockport,IL,8A,2,IHSA Class 8A,6-5,6,5,0,11,79.1,79.1,29.12,74.8,39,27.5,20.2,7.3,13.49,13.49,13.49,42.0,194.3,Semifinal Contender
-41,11,Prospect,IL,7A,1,IHSA Class 7A,9-1,9,1,0,10,78.1,78.1,28.11,71.7,73,47.0,14.6,32.4,18.79,18.79,18.79,58.5,273.4,Semifinal Contender
-42,3,St. Joseph-Ogden,IL,3A,1,IHSA Class 3A,13-0,13,0,0,13,77.2,77.2,27.16,69.9,118,53.9,22.5,31.4,17.98,17.98,17.98,58.5,379.7,State Title Contender
-43,4,Richmond-Burton,IL,3A,1,IHSA Class 3A,13-0,13,0,0,13,77.2,77.2,27.15,66.5,231,46.5,10.3,36.2,17.2,17.2,17.2,58.5,350.8,State Title Contender
-44,15,Bolingbrook,IL,8A,1,IHSA Class 8A,10-1,10,1,0,11,76.8,76.8,26.85,72.5,63,33.1,11.2,21.9,19.41,19.41,19.41,70.0,308.7,Semifinal Contender
-45,16,Huntley,IL,8A,4,IHSA Class 8A,11-0,11,0,0,11,76.7,76.7,26.71,68.5,160,47.4,7.5,39.9,20.1,20.1,20.1,77.0,311.0,Semifinal Contender
-46,5,Sacred Heart-Griffin,IL,4A,3,IHSA Class 4A,10-0,10,0,0,10,76.7,76.7,26.65,69.8,120,46.8,12.4,34.4,18.4,18.4,18.4,50.0,291.5,Semifinal Contender
-47,3,Morgan Park,IL,5A,2,IHSA Class 5A,3-3,3,3,0,6,76.1,76.1,26.09,71.7,75,32.0,24.7,7.3,11.19,11.19,11.19,16.5,91.0,State Title Contender
-48,17,Maine South,IL,8A,1,IHSA Class 8A,9-3,9,3,0,12,76.1,76.1,26.06,71.2,82,43.6,20.8,22.8,16.27,16.27,16.27,63.0,270.6,Semifinal Contender
-49,4,Mahomet-Seymour,IL,5A,2,IHSA Class 5A,12-0,12,0,0,12,75.9,75.9,25.92,65.9,250,45.5,13.2,32.3,17.91,17.91,17.91,66.0,318.9,State Title Contender
-50,5,Morton,IL,5A,4,IHSA Class 5A,11-1,11,1,0,12,75.9,75.9,25.91,69.4,132,45.6,13.4,32.2,17.41,17.41,17.41,60.5,317.6,Semifinal Contender
-51,18,Oak Park-River Forest,IL,8A,1,IHSA Class 8A,5-5,5,5,0,10,75.9,75.9,25.86,75.0,36,27.4,22.6,4.8,12.28,12.28,12.28,35.0,162.3,Semifinal Contender
-52,2,Wilmington,IL,2A,3,IHSA Class 2A,11-1,11,1,0,12,75.7,75.7,25.73,68.1,172,39.2,12.5,26.7,15.74,15.74,15.74,44.0,308.1,State Title Contender
-53,8,Niles Notre Dame,IL,6A,4,IHSA Class 6A,9-3,9,3,0,12,75.7,75.7,25.66,73.5,51,38.6,24.2,14.4,15.86,15.86,15.86,54.0,284.0,Semifinal Contender
-54,19,Naperville Central,IL,8A,3,IHSA Class 8A,6-5,6,5,0,11,74.8,74.8,24.77,75.8,30,20.9,23.0,-2.1,13.1,13.1,13.1,42.0,198.2,Semifinal Contender
-55,20,New Trier,IL,8A,2,IHSA Class 8A,10-0,10,0,0,10,74.8,74.8,24.76,70.4,103,41.9,10.5,31.4,20.31,20.31,20.31,70.0,295.4,Semifinal Contender
-56,6,Kankakee,IL,5A,1,IHSA Class 5A,6-3,6,3,0,9,74.5,74.5,24.45,71.3,81,33.1,13.2,19.9,13.62,13.62,13.62,33.0,180.5,Semifinal Contender
-57,9,Harlem,IL,6A,4,IHSA Class 6A,10-0,10,0,0,10,73.9,73.9,23.87,66.5,232,34.3,11.1,23.2,18.31,18.31,18.31,60.0,269.8,Quarterfinal Contender
-58,10,St. Charles East,IL,6A,2,IHSA Class 6A,4-7,4,7,0,11,73.9,73.9,23.86,76.3,27,22.0,25.5,-3.5,9.29,9.29,9.29,24.0,133.3,Quarterfinal Contender
-59,1,Stockton,IL,1A,1,IHSA Class 1A,12-1,12,1,0,13,73.2,73.2,23.23,69.7,121,34.9,12.8,22.1,15.41,15.41,15.41,42.0,348.8,State Title Contender
-60,2,Heyworth,IL,1A,4,IHSA Class 1A,12-0,12,0,0,12,72.9,72.9,22.91,63.9,328,41.2,7.8,33.4,15.09,15.09,15.09,42.0,303.2,State Title Contender
-61,3,Tri-Valley,IL,2A,3,IHSA Class 2A,10-3,10,3,0,13,72.2,72.2,22.17,69.1,142,40.9,16.6,24.3,13.46,13.46,13.46,40.0,286.7,State Title Contender
-62,3,Brown County,IL,1A,2,IHSA Class 1A,11-0,11,0,0,11,72.0,72.0,22.03,61.3,384,48.2,10.0,38.2,14.4,14.4,14.4,38.5,259.4,State Title Contender
-63,4,Calhoun/Brussels,IL,1A,2,IHSA Class 1A,11-1,11,1,0,12,72.0,72.0,22.02,62.8,350,42.7,5.5,37.2,13.73,13.73,13.73,38.5,270.3,State Title Contender
-64,12,Normal Community,IL,7A,3,IHSA Class 7A,13-0,13,0,0,13,71.5,71.5,21.5,65.0,278,46.1,19.0,27.1,18.19,18.19,18.19,84.5,338.4,Quarterfinal Contender
-65,13,DePaul College Prep,IL,7A,1,IHSA Class 7A,4-7,4,7,0,11,71.4,71.4,21.43,78.1,14,17.0,28.8,-11.8,9.33,9.33,9.33,26.0,138.0,Quarterfinal Contender
-66,6,Centralia,IL,4A,1,IHSA Class 4A,11-0,11,0,0,11,71.0,71.0,21.02,66.3,240,44.6,13.9,30.7,16.91,16.91,16.91,55.0,295.1,Semifinal Contender
-67,21,Fremd,IL,8A,3,IHSA Class 8A,7-3,7,3,0,10,70.6,70.6,20.61,72.5,62,28.5,15.2,13.3,14.94,14.94,14.94,49.0,216.2,Quarterfinal Contender
-68,5,Tolono Unity,IL,3A,4,IHSA Class 3A,10-4,10,4,0,14,70.5,70.5,20.51,70.5,102,35.6,20.0,15.6,13.06,13.06,13.06,45.0,295.5,Semifinal Contender
-69,7,Cahokia,IL,4A,3,IHSA Class 4A,9-5,9,5,0,14,70.5,70.5,20.47,73.6,50,32.8,20.4,12.4,12.78,12.78,12.78,45.0,284.5,Semifinal Contender
-70,14,Kenwood,IL,7A,2,IHSA Class 7A,3-3,3,3,0,6,70.3,70.3,20.26,71.6,76,42.3,24.8,17.5,10.98,10.98,10.98,19.5,90.9,Quarterfinal Contender
-71,15,St. Laurence,IL,7A,2,IHSA Class 7A,6-8,6,8,0,14,70.1,70.1,20.11,74.7,43,19.6,19.6,0.0,10.04,10.04,10.04,39.0,193.8,Quarterfinal Contender
-72,16,St. Patrick,IL,7A,1,IHSA Class 7A,8-4,8,4,0,12,69.8,69.8,19.79,73.9,49,32.9,29.1,3.8,14.12,14.12,14.12,52.0,254.1,Quarterfinal Contender
+16,4,Nazareth Academy,IL,6A,1,IHSA Class 6A,7-5,7,5,0,12,87.2,87.2,37.54,78.8,9,30.2,15.9,14.3,15.14,15.14,15.14,42.0,244.7,State Title Contender
+17,6,St. Rita,IL,7A,4,IHSA Class 7A,7-4,7,4,0,11,86.7,86.7,37.03,80.8,4,27.1,24.6,2.5,16.66,16.66,16.66,45.5,253.9,State Title Contender
+18,2,St. Francis,IL,5A,2,IHSA Class 5A,7-5,7,5,0,12,85.7,85.7,35.88,75.8,32,34.2,19.0,15.2,14.25,14.25,14.25,38.5,231.0,State Title Contender
+19,1,Morris,IL,4A,2,IHSA Class 4A,11-0,11,0,0,11,84.9,84.9,35.05,73.2,54,47.0,9.1,37.9,20.17,20.17,20.17,55.0,344.5,State Title Contender
+20,6,Marist,IL,8A,1,IHSA Class 8A,6-5,6,5,0,11,84.1,84.1,34.21,80.4,6,28.8,29.7,-0.9,14.8,14.8,14.8,42.0,216.2,State Title Contender
+21,7,Sandburg,IL,8A,4,IHSA Class 8A,7-3,7,3,0,10,84.0,84.0,34.08,76.3,26,28.2,19.0,9.2,17.16,17.16,17.16,49.0,233.3,State Title Contender
+22,5,Joliet Catholic,IL,6A,2,IHSA Class 6A,6-5,6,5,0,11,83.6,83.6,33.65,79.2,8,20.7,17.7,3.0,14.03,14.03,14.03,36.0,211.2,State Title Contender
+23,7,Downers Grove North,IL,7A,1,IHSA Class 7A,10-1,10,1,0,11,83.5,83.5,33.55,73.2,55,33.1,7.5,25.6,19.9,19.9,19.9,65.0,313.2,State Title Contender
+24,8,Oswego,IL,8A,4,IHSA Class 8A,10-1,10,1,0,11,83.3,83.3,33.29,74.7,42,35.7,18.5,17.2,20.64,20.64,20.64,70.0,323.1,State Title Contender
+25,6,Wheaton North,IL,6A,4,IHSA Class 6A,8-3,8,3,0,11,82.9,82.9,32.97,76.5,25,23.8,17.3,6.5,16.84,16.84,16.84,48.0,267.7,State Title Contender
+26,2,Montini Catholic,IL,4A,4,IHSA Class 4A,8-3,8,3,0,11,82.6,82.6,32.63,74.3,46,34.5,24.8,9.7,15.71,15.71,15.71,40.0,256.4,State Title Contender
+27,9,Lyons,IL,8A,1,IHSA Class 8A,8-4,8,4,0,12,82.2,82.2,32.2,74.5,45,29.0,16.5,12.5,16.03,16.03,16.03,56.0,257.1,State Title Contender
+28,10,Barrington,IL,8A,3,IHSA Class 8A,7-5,7,5,0,12,82.0,82.0,32.02,77.0,19,27.3,19.2,8.1,14.82,14.82,14.82,49.0,236.5,State Title Contender
+29,2,Byron,IL,3A,3,IHSA Class 3A,11-0,11,0,0,11,81.6,81.6,31.63,64.9,306,50.4,5.9,44.5,17.38,17.38,17.38,49.5,285.6,State Title Contender
+30,11,Naperville North,IL,8A,2,IHSA Class 8A,8-3,8,3,0,11,81.2,81.2,31.18,76.0,28,24.6,18.6,6.0,17.27,17.27,17.27,56.0,265.3,Semifinal Contender
+31,12,York,IL,8A,4,IHSA Class 8A,8-4,8,4,0,12,80.8,80.8,30.8,75.5,33,23.5,19.8,3.7,16.02,16.02,16.02,56.0,262.4,Semifinal Contender
+32,8,Lincoln-Way Central,IL,7A,3,IHSA Class 7A,6-5,6,5,0,11,80.7,80.7,30.66,76.9,21,24.3,21.4,2.9,13.66,13.66,13.66,39.0,202.3,Semifinal Contender
+33,9,St. Charles North,IL,7A,3,IHSA Class 7A,6-5,6,5,0,11,80.4,80.4,30.42,77.4,18,30.1,29.3,0.8,13.7,13.7,13.7,39.0,204.5,Semifinal Contender
+34,13,Hinsdale Central,IL,8A,1,IHSA Class 8A,8-4,8,4,0,12,80.3,80.3,30.33,74.8,38,30.9,17.9,13.0,15.87,15.87,15.87,56.0,259.2,Semifinal Contender
+35,3,Rochester,IL,4A,3,IHSA Class 4A,10-1,10,1,0,11,80.3,80.3,30.26,70.6,99,47.7,17.3,30.4,17.61,17.61,17.61,50.0,296.4,State Title Contender
+36,7,Carmel,IL,6A,3,IHSA Class 6A,4-7,4,7,0,11,80.2,80.2,30.21,76.9,22,24.8,28.7,-3.9,10.1,10.1,10.1,24.0,134.8,Semifinal Contender
+37,10,Glenbard North,IL,7A,3,IHSA Class 7A,5-7,5,7,0,12,79.6,79.6,29.58,76.6,24,24.7,23.1,1.6,11.15,11.15,11.15,32.5,167.8,Semifinal Contender
+38,1,El Paso-Gridley,IL,2A,2,IHSA Class 2A,11-0,11,0,0,11,79.3,79.3,29.27,66.6,240,38.3,7.4,30.9,16.98,16.98,16.98,44.0,297.4,State Title Contender
+39,4,Coal City,IL,4A,2,IHSA Class 4A,10-1,10,1,0,11,79.2,79.2,29.19,70.3,109,41.6,8.0,33.6,17.41,17.41,17.41,50.0,294.2,State Title Contender
+40,14,Lockport,IL,8A,4,IHSA Class 8A,6-5,6,5,0,11,79.1,79.1,29.12,74.8,39,27.5,20.2,7.3,13.49,13.49,13.49,42.0,194.3,Semifinal Contender
+41,11,Prospect,IL,7A,2,IHSA Class 7A,10-1,10,1,0,11,78.1,78.1,28.11,71.7,74,45.9,15.2,30.7,18.95,18.95,18.95,65.0,303.7,Semifinal Contender
+42,3,St. Joseph-Ogden,IL,3A,2,IHSA Class 3A,11-0,11,0,0,11,77.2,77.2,27.16,69.9,120,53.9,22.5,31.4,17.98,17.98,17.98,49.5,321.2,State Title Contender
+43,4,Richmond-Burton,IL,3A,3,IHSA Class 3A,11-0,11,0,0,11,77.2,77.2,27.15,66.5,244,46.5,10.3,36.2,17.2,17.2,17.2,49.5,296.8,State Title Contender
+44,15,Bolingbrook,IL,8A,1,IHSA Class 8A,10-1,10,1,0,11,76.8,76.8,26.85,72.5,63,33.4,10.8,22.6,19.41,19.41,19.41,70.0,308.7,Semifinal Contender
+45,16,Huntley,IL,8A,1,IHSA Class 8A,11-0,11,0,0,11,76.7,76.7,26.71,68.5,163,47.4,7.5,39.9,20.1,20.1,20.1,77.0,311.0,Semifinal Contender
+46,5,Sacred Heart-Griffin,IL,4A,1,IHSA Class 4A,10-1,10,1,0,11,76.7,76.7,26.65,69.8,122,42.4,14.0,28.4,17.02,17.02,17.02,50.0,291.5,Semifinal Contender
+47,3,Morgan Park,IL,5A,2,IHSA Class 5A,9-2,9,2,0,11,76.1,76.1,26.09,71.7,76,34.4,15.2,19.2,16.32,16.32,16.32,49.5,273.0,State Title Contender
+48,17,Maine South,IL,8A,4,IHSA Class 8A,9-2,9,2,0,11,76.1,76.1,26.06,71.2,83,42.9,21.4,21.5,17.46,17.46,17.46,63.0,270.6,Semifinal Contender
+49,4,Mahomet-Seymour,IL,5A,1,IHSA Class 5A,11-0,11,0,0,11,75.9,75.9,25.92,65.9,267,45.5,13.2,32.3,17.91,17.91,17.91,60.5,292.3,State Title Contender
+50,5,Morton,IL,5A,1,IHSA Class 5A,10-1,10,1,0,11,75.9,75.9,25.91,69.4,134,45.6,13.4,32.2,17.3,17.3,17.3,55.0,288.7,Semifinal Contender
+51,18,Oak Park-River Forest,IL,8A,2,IHSA Class 8A,5-6,5,6,0,11,75.9,75.9,25.86,75.0,36,26.8,24.1,2.7,11.45,11.45,11.45,35.0,162.3,Semifinal Contender
+52,2,Wilmington,IL,2A,1,IHSA Class 2A,10-1,10,1,0,11,75.7,75.7,25.73,68.1,176,39.2,12.5,26.7,15.64,15.64,15.64,40.0,280.1,State Title Contender
+53,8,Niles Notre Dame,IL,6A,4,IHSA Class 6A,8-4,8,4,0,12,75.7,75.7,25.66,73.5,51,36.9,22.6,14.3,14.44,14.44,14.44,48.0,252.5,Semifinal Contender
+54,19,Naperville Central,IL,8A,4,IHSA Class 8A,6-5,6,5,0,11,74.8,74.8,24.77,75.8,30,20.9,23.0,-2.1,13.1,13.1,13.1,42.0,198.2,Semifinal Contender
+55,20,New Trier,IL,8A,1,IHSA Class 8A,10-1,10,1,0,11,74.8,74.8,24.76,70.4,105,40.6,12.7,27.9,18.73,18.73,18.73,70.0,295.4,Semifinal Contender
+56,6,Kankakee,IL,5A,3,IHSA Class 5A,7-3,7,3,0,10,74.5,74.5,24.45,71.3,82,32.7,13.3,19.4,14.15,14.15,14.15,38.5,210.6,Semifinal Contender
+57,9,Harlem,IL,6A,4,IHSA Class 6A,11-0,11,0,0,11,73.9,73.9,23.87,66.5,245,35.8,10.1,25.7,18.3,18.3,18.3,66.0,296.7,Quarterfinal Contender
+58,10,St. Charles East,IL,6A,4,IHSA Class 6A,4-7,4,7,0,11,73.9,73.9,23.86,76.3,27,22.0,25.5,-3.5,9.29,9.29,9.29,24.0,133.3,Quarterfinal Contender
+59,1,Stockton,IL,1A,4,IHSA Class 1A,10-1,10,1,0,11,73.2,73.2,23.23,69.7,123,34.9,12.8,22.1,15.22,15.22,15.22,35.0,290.7,State Title Contender
+60,2,Heyworth,IL,1A,3,IHSA Class 1A,11-0,11,0,0,11,72.9,72.9,22.91,63.9,351,41.2,7.8,33.4,15.09,15.09,15.09,38.5,277.9,State Title Contender
+61,3,Tri-Valley,IL,2A,3,IHSA Class 2A,9-2,9,2,0,11,72.2,72.2,22.17,69.1,144,40.9,16.6,24.3,14.14,14.14,14.14,36.0,258.0,State Title Contender
+62,3,Brown County,IL,1A,1,IHSA Class 1A,11-0,11,0,0,11,72.0,72.0,22.03,61.3,416,49.0,9.0,40.0,14.4,14.4,14.4,38.5,259.4,State Title Contender
+63,4,Calhoun/Brussels,IL,1A,4,IHSA Class 1A,10-1,10,1,0,11,72.0,72.0,22.02,62.8,378,44.1,5.6,38.5,13.65,13.65,13.65,35.0,245.8,State Title Contender
+64,12,Normal Community,IL,7A,3,IHSA Class 7A,11-0,11,0,0,11,71.5,71.5,21.5,65.0,299,46.1,19.0,27.1,18.19,18.19,18.19,71.5,286.4,Quarterfinal Contender
+65,13,DePaul College Prep,IL,7A,4,IHSA Class 7A,4-7,4,7,0,11,71.4,71.4,21.43,78.1,14,18.7,29.2,-10.5,9.33,9.33,9.33,26.0,138.0,Quarterfinal Contender
+66,6,Centralia,IL,4A,3,IHSA Class 4A,11-0,11,0,0,11,71.0,71.0,21.02,66.3,254,44.6,13.9,30.7,16.91,16.91,16.91,55.0,295.1,Semifinal Contender
+67,21,Fremd,IL,8A,4,IHSA Class 8A,7-4,7,4,0,11,70.6,70.6,20.61,72.5,62,27.8,17.0,10.8,13.81,13.81,13.81,49.0,216.2,Quarterfinal Contender
+68,5,Tolono Unity,IL,3A,1,IHSA Class 3A,9-3,9,3,0,12,70.5,70.5,20.51,70.5,104,37.9,19.7,18.2,13.59,13.59,13.59,40.5,265.9,Semifinal Contender
+69,7,Cahokia,IL,4A,1,IHSA Class 4A,8-4,8,4,0,12,70.5,70.5,20.47,73.6,50,32.8,20.4,12.4,13.17,13.17,13.17,40.0,252.9,Semifinal Contender
+70,14,Kenwood,IL,7A,1,IHSA Class 7A,7-4,7,4,0,11,70.3,70.3,20.26,71.6,77,39.0,17.2,21.8,13.32,13.32,13.32,45.5,212.2,Quarterfinal Contender
+71,15,St. Laurence,IL,7A,4,IHSA Class 7A,5-7,5,7,0,12,70.1,70.1,20.11,74.7,43,19.9,19.4,0.5,9.83,9.83,9.83,32.5,161.5,Quarterfinal Contender
+72,16,St. Patrick,IL,7A,3,IHSA Class 7A,8-4,8,4,0,12,69.8,69.8,19.79,73.9,49,32.9,29.1,3.8,14.12,14.12,14.12,52.0,254.1,Quarterfinal Contender
 73,17,Lincoln-Way West,IL,7A,3,IHSA Class 7A,8-4,8,4,0,12,69.7,69.7,19.66,75.4,34,21.4,15.1,6.3,14.34,14.34,14.34,52.0,262.1,Quarterfinal Contender
-74,7,Kaneland,IL,5A,3,IHSA Class 5A,8-2,8,2,0,10,69.2,69.2,19.21,71.0,87,35.1,18.1,17.0,15.08,15.08,15.08,44.0,239.3,Semifinal Contender
-75,22,Glenbrook South,IL,8A,3,IHSA Class 8A,4-5,4,5,0,9,69.0,69.0,19.0,70.6,96,33.2,18.7,14.5,10.0,10.0,10.0,28.0,118.6,Quarterfinal Contender
-76,8,Crete-Monee,IL,5A,3,IHSA Class 5A,8-4,8,4,0,12,68.7,68.7,18.68,68.5,162,38.2,14.6,23.6,12.5,12.5,12.5,44.0,225.9,Semifinal Contender
-77,23,Lake Park,IL,8A,3,IHSA Class 8A,2-8,2,8,0,10,68.7,68.7,18.67,77.9,15,18.8,31.4,-12.6,6.05,6.05,6.05,14.0,68.8,Quarterfinal Contender
-78,11,Hononegah,IL,6A,3,IHSA Class 6A,9-3,9,3,0,12,68.2,68.2,18.23,66.7,225,35.7,14.7,21.0,13.81,13.81,13.81,54.0,244.1,Quarterfinal Contender
-79,18,Edwardsville,IL,7A,2,IHSA Class 7A,5-7,5,7,0,12,68.0,68.0,18.04,73.3,52,22.2,19.2,3.0,9.45,9.45,9.45,32.5,157.0,Quarterfinal Contender
-80,8,Breese Central,IL,4A,4,IHSA Class 4A,8-2,8,2,0,10,68.0,68.0,18.04,66.6,230,36.0,16.6,19.4,13.73,13.73,13.73,40.0,216.1,Semifinal Contender
-81,9,Cary-Grove,IL,5A,1,IHSA Class 5A,10-2,10,2,0,12,67.8,67.8,17.84,69.1,144,41.0,18.6,22.4,15.09,15.09,15.09,55.0,286.7,Quarterfinal Contender
-82,5,Camp Point Central,IL,1A,1,IHSA Class 1A,10-1,10,1,0,11,67.7,67.7,17.73,61.2,386,37.3,9.0,28.3,12.79,12.79,12.79,35.0,235.0,Semifinal Contender
-83,24,Neuqua Valley,IL,8A,4,IHSA Class 8A,3-7,3,7,0,10,67.6,67.6,17.58,75.8,31,21.6,31.2,-9.6,7.68,7.68,7.68,21.0,99.1,Quarterfinal Contender
-84,9,Carterville,IL,4A,4,IHSA Class 4A,11-2,11,2,0,13,67.5,67.5,17.46,64.5,302,44.7,19.5,25.2,13.94,13.94,13.94,55.0,282.8,Quarterfinal Contender
-85,6,Bloomington Central Catholic,IL,3A,3,IHSA Class 3A,7-4,7,4,0,11,67.4,67.4,17.4,70.9,90,32.2,22.6,9.6,11.6,11.6,11.6,31.5,208.8,Semifinal Contender
-86,12,Dunlap,IL,6A,1,IHSA Class 6A,8-3,8,3,0,11,67.3,67.3,17.31,68.6,157,33.7,20.7,13.0,13.65,13.65,13.65,48.0,226.7,Quarterfinal Contender
-87,10,Antioch,IL,5A,1,IHSA Class 5A,9-2,9,2,0,11,67.2,67.2,17.17,64.8,289,39.5,18.1,21.4,13.98,13.98,13.98,49.5,233.1,Quarterfinal Contender
-88,4,Aurora Christian,IL,2A,2,IHSA Class 2A,11-1,11,1,0,12,67.0,67.0,17.01,68.1,170,33.9,14.6,19.3,14.7,14.7,14.7,44.0,308.2,State Title Contender
-89,5,Maroa-Forsyth,IL,2A,4,IHSA Class 2A,9-3,9,3,0,12,66.4,66.4,16.43,64.8,292,42.2,14.0,28.2,11.76,11.76,11.76,36.0,232.6,Semifinal Contender
+74,7,Kaneland,IL,5A,2,IHSA Class 5A,8-2,8,2,0,10,69.2,69.2,19.21,71.0,89,35.1,18.1,17.0,15.08,15.08,15.08,44.0,239.3,Semifinal Contender
+75,22,Glenbrook South,IL,8A,1,IHSA Class 8A,6-5,6,5,0,11,69.0,69.0,19.0,70.6,98,35.3,16.7,18.6,11.76,11.76,11.76,42.0,177.9,Quarterfinal Contender
+76,8,Crete-Monee,IL,5A,1,IHSA Class 5A,8-3,8,3,0,11,68.7,68.7,18.68,68.5,165,38.6,13.9,24.7,13.43,13.43,13.43,44.0,225.9,Semifinal Contender
+77,23,Lake Park,IL,8A,1,IHSA Class 8A,2-8,2,8,0,10,68.7,68.7,18.67,77.9,15,18.8,31.4,-12.6,6.05,6.05,6.05,14.0,68.8,Quarterfinal Contender
+78,11,Hononegah,IL,6A,1,IHSA Class 6A,9-2,9,2,0,11,68.2,68.2,18.23,66.7,237,35.7,14.7,21.0,14.86,14.86,14.86,54.0,244.1,Quarterfinal Contender
+79,18,Edwardsville,IL,7A,4,IHSA Class 7A,5-6,5,6,0,11,68.0,68.0,18.04,73.3,52,23.7,17.7,6.0,10.11,10.11,10.11,32.5,157.0,Quarterfinal Contender
+80,8,Breese Central,IL,4A,3,IHSA Class 4A,8-2,8,2,0,10,68.0,68.0,18.04,66.6,242,36.0,16.6,19.4,13.73,13.73,13.73,40.0,216.1,Semifinal Contender
+81,9,Cary-Grove,IL,5A,3,IHSA Class 5A,9-2,9,2,0,11,67.8,67.8,17.84,69.1,146,41.0,18.6,22.4,14.85,14.85,14.85,49.5,258.0,Quarterfinal Contender
+82,5,Camp Point Central,IL,1A,1,IHSA Class 1A,10-1,10,1,0,11,67.7,67.7,17.73,61.2,418,36.2,7.8,28.4,12.79,12.79,12.79,35.0,235.0,Semifinal Contender
+83,24,Neuqua Valley,IL,8A,3,IHSA Class 8A,3-7,3,7,0,10,67.6,67.6,17.58,75.8,31,21.6,31.2,-9.6,7.68,7.68,7.68,21.0,99.1,Quarterfinal Contender
+84,9,Carterville,IL,4A,2,IHSA Class 4A,10-1,10,1,0,11,67.5,67.5,17.46,64.5,324,44.7,19.5,25.2,14.82,14.82,14.82,50.0,257.1,Quarterfinal Contender
+85,6,Bloomington Central Catholic,IL,3A,2,IHSA Class 3A,7-3,7,3,0,10,67.4,67.4,17.4,70.9,92,32.2,22.6,9.6,12.55,12.55,12.55,31.5,208.8,Semifinal Contender
+86,12,Dunlap,IL,6A,4,IHSA Class 6A,8-2,8,2,0,10,67.3,67.3,17.31,68.6,160,33.7,20.7,13.0,14.81,14.81,14.81,48.0,226.7,Quarterfinal Contender
+87,10,Antioch,IL,5A,2,IHSA Class 5A,10-1,10,1,0,11,67.2,67.2,17.17,64.8,311,42.6,18.3,24.3,15.3,15.3,15.3,55.0,259.0,Quarterfinal Contender
+88,4,Aurora Christian,IL,2A,1,IHSA Class 2A,10-1,10,1,0,11,67.0,67.0,17.01,68.1,174,33.9,14.6,19.3,14.59,14.59,14.59,40.0,280.2,State Title Contender
+89,5,Maroa-Forsyth,IL,2A,4,IHSA Class 2A,9-2,9,2,0,11,66.4,66.4,16.43,64.8,314,42.2,14.0,28.2,12.65,12.65,12.65,36.0,232.6,Semifinal Contender
 90,19,Yorkville,IL,7A,1,IHSA Class 7A,5-6,5,6,0,11,66.2,66.2,16.22,74.5,44,22.5,21.5,1.0,10.02,10.02,10.02,32.5,161.0,Quarterfinal Contender
-91,13,Libertyville,IL,6A,4,IHSA Class 6A,8-4,8,4,0,12,65.8,65.8,15.82,68.8,148,33.6,14.6,19.0,12.55,12.55,12.55,48.0,228.0,Quarterfinal Contender
-92,7,Monticello,IL,3A,4,IHSA Class 3A,11-2,11,2,0,13,65.5,65.5,15.5,70.0,114,34.0,16.2,17.8,14.33,14.33,14.33,49.5,321.6,Semifinal Contender
-93,20,Plainfield North,IL,7A,1,IHSA Class 7A,7-3,7,3,0,10,65.5,65.5,15.47,72.2,65,19.8,14.4,5.4,13.93,13.93,13.93,45.5,214.9,Quarterfinal Contender
-94,10,Metamora,IL,4A,1,IHSA Class 4A,8-5,8,5,0,13,65.4,65.4,15.39,71.0,88,29.2,19.8,9.4,11.36,11.36,11.36,40.0,239.1,Quarterfinal Contender
-95,14,Normal West,IL,6A,3,IHSA Class 6A,11-1,11,1,0,12,64.9,64.9,14.91,64.5,304,45.3,19.1,26.2,15.52,15.52,15.52,66.0,282.2,Quarterfinal Contender
-96,6,Forreston,IL,1A,1,IHSA Class 1A,9-4,9,4,0,13,64.7,64.7,14.65,69.6,127,30.5,19.2,11.3,11.21,11.21,11.21,31.5,261.0,Semifinal Contender
-97,11,Triad,IL,5A,3,IHSA Class 5A,9-3,9,3,0,12,64.1,64.1,14.06,67.3,202,33.2,21.5,11.7,13.03,13.03,13.03,49.5,247.3,Quarterfinal Contender
-98,11,Rochelle,IL,4A,3,IHSA Class 4A,10-4,10,4,0,14,63.9,63.9,13.94,67.4,196,38.1,13.5,24.6,12.13,12.13,12.13,50.0,275.4,Quarterfinal Contender
-99,8,Bishop McNamara,IL,3A,2,IHSA Class 3A,7-3,7,3,0,10,63.5,63.5,13.55,69.2,141,30.3,17.6,12.7,11.81,11.81,11.81,31.5,200.9,Semifinal Contender
-100,12,Wheaton Academy,IL,5A,4,IHSA Class 5A,7-3,7,3,0,10,63.4,63.4,13.36,68.8,149,31.9,17.6,14.3,12.43,12.43,12.43,38.5,199.4,Quarterfinal Contender
-101,7,Lena-Winslow,IL,1A,4,IHSA Class 1A,7-5,7,5,0,12,63.2,63.2,13.2,69.9,119,26.3,19.5,6.8,9.58,9.58,9.58,24.5,204.3,Semifinal Contender
-102,8,Arthur-Lovington/Atwood-Hammond,IL,1A,2,IHSA Class 1A,2-0,2,0,0,2,63.1,63.1,13.1,60.8,398,33.6,15.8,17.8,13.23,13.23,13.23,7.0,46.6,Semifinal Contender
-103,6,Riverdale,IL,2A,1,IHSA Class 2A,8-2,8,2,0,10,63.1,63.1,13.08,64.0,319,30.6,12.4,18.2,11.87,11.87,11.87,32.0,202.9,Semifinal Contender
-104,21,Jacobs,IL,7A,2,IHSA Class 7A,8-2,8,2,0,10,62.9,62.9,12.93,69.6,126,29.9,19.6,10.3,14.88,14.88,14.88,52.0,232.1,Dark Horse
-105,12,Jacksonville,IL,4A,2,IHSA Class 4A,8-3,8,3,0,11,62.5,62.5,12.45,65.2,272,40.0,22.9,17.1,11.78,11.78,11.78,40.0,208.9,Quarterfinal Contender
-106,7,Frankfort,IL,2A,2,IHSA Class 2A,12-1,12,1,0,13,62.3,62.3,12.3,65.6,259,44.8,22.5,22.3,13.7,13.7,13.7,48.0,316.8,Semifinal Contender
-107,25,O'Fallon,IL,8A,1,IHSA Class 8A,6-6,6,6,0,12,62.2,62.2,12.24,73.2,53,23.2,28.1,-4.9,10.45,10.45,10.45,42.0,188.0,Dark Horse
-108,13,Geneseo,IL,4A,2,IHSA Class 4A,6-5,6,5,0,11,62.2,62.2,12.21,70.0,115,30.0,23.7,6.3,9.77,9.77,9.77,30.0,175.4,Quarterfinal Contender
-109,9,Durand/Pecatonica,IL,3A,2,IHSA Class 3A,8-3,8,3,0,11,62.2,62.2,12.21,65.2,269,31.5,16.1,15.4,11.39,11.39,11.39,36.0,209.2,Quarterfinal Contender
-110,22,Guilford,IL,7A,2,IHSA Class 7A,8-3,8,3,0,11,62.0,62.0,11.97,67.3,200,30.2,14.9,15.3,13.16,13.16,13.16,52.0,219.9,Dark Horse
-111,23,Benet Academy,IL,7A,1,IHSA Class 7A,1-7,1,7,0,8,61.8,61.8,11.83,77.7,17,23.5,38.2,-14.7,3.73,3.73,3.73,6.5,34.2,Dark Horse
-112,24,Richards,IL,7A,4,IHSA Class 7A,11-3,11,3,0,14,61.8,61.8,11.75,68.0,176,29.2,18.2,11.0,14.19,14.19,14.19,71.5,307.1,Dark Horse
-113,9,Clifton Central,IL,1A,3,IHSA Class 1A,10-1,10,1,0,11,61.7,61.7,11.72,63.3,341,40.6,13.6,27.0,12.51,12.51,12.51,35.0,248.9,Quarterfinal Contender
-114,8,Johnston City,IL,2A,1,IHSA Class 2A,10-0,10,0,0,10,61.6,61.6,11.56,60.8,397,35.7,9.1,26.6,13.54,13.54,13.54,40.0,232.9,Semifinal Contender
-115,9,Nashville,IL,2A,4,IHSA Class 2A,11-2,11,2,0,13,61.4,61.4,11.39,66.4,236,41.3,22.5,18.8,12.71,12.71,12.71,44.0,295.7,Quarterfinal Contender
-116,10,Johnsburg,IL,3A,4,IHSA Class 3A,8-4,8,4,0,12,61.3,61.3,11.28,67.4,198,30.0,17.2,12.8,10.78,10.78,10.78,36.0,220.3,Quarterfinal Contender
-117,11,Macomb,IL,3A,3,IHSA Class 3A,10-3,10,3,0,13,61.2,61.2,11.22,61.7,379,40.5,15.3,25.2,11.23,11.23,11.23,45.0,238.5,Quarterfinal Contender
-118,14,Mt. Zion,IL,4A,1,IHSA Class 4A,7-3,7,3,0,10,61.1,61.1,11.12,66.6,229,35.5,18.4,17.1,11.46,11.46,11.46,35.0,189.2,Quarterfinal Contender
-119,13,Carbondale,IL,5A,2,IHSA Class 5A,10-2,10,2,0,12,61.1,61.1,11.11,66.8,220,38.2,17.7,20.5,13.84,13.84,13.84,55.0,271.8,Quarterfinal Contender
-120,12,Williamsville,IL,3A,2,IHSA Class 3A,12-1,12,1,0,13,61.0,61.0,11.0,65.0,281,41.8,19.4,22.4,13.88,13.88,13.88,54.0,312.2,Quarterfinal Contender
-121,15,Pekin,IL,6A,4,IHSA Class 6A,7-4,7,4,0,11,61.0,61.0,10.97,69.4,136,32.0,19.7,12.3,11.56,11.56,11.56,42.0,201.8,Quarterfinal Contender
-122,10,Tuscola,IL,1A,1,IHSA Class 1A,9-4,9,4,0,13,60.9,60.9,10.89,68.4,164,33.6,17.8,15.8,10.56,10.56,10.56,31.5,253.7,Quarterfinal Contender
-123,16,Central,IL,6A,4,IHSA Class 6A,7-4,7,4,0,11,60.9,60.9,10.85,69.1,145,24.0,15.5,8.5,11.5,11.5,11.5,42.0,200.6,Quarterfinal Contender
-124,10,Peotone,IL,2A,3,IHSA Class 2A,10-2,10,2,0,12,60.7,60.7,10.71,67.3,199,34.6,14.9,19.7,12.64,12.64,12.64,40.0,275.1,Quarterfinal Contender
-125,13,Mt. Carmel,IL,3A,4,IHSA Class 3A,13-0,13,0,0,13,60.6,60.6,10.62,63.3,342,38.4,16.8,21.6,14.49,14.49,14.49,58.5,323.6,Quarterfinal Contender
-126,15,Sterling,IL,4A,1,IHSA Class 4A,9-2,9,2,0,11,60.6,60.6,10.61,69.7,124,35.9,21.1,14.8,13.68,13.68,13.68,45.0,261.3,Quarterfinal Contender
-127,14,Benton,IL,3A,1,IHSA Class 3A,10-3,10,3,0,13,60.0,60.0,10.0,65.2,271,34.2,16.0,18.2,11.7,11.7,11.7,45.0,261.4,Quarterfinal Contender
+91,13,Libertyville,IL,6A,3,IHSA Class 6A,8-3,8,3,0,11,65.8,65.8,15.82,68.8,151,34.2,15.5,18.7,13.52,13.52,13.52,48.0,228.0,Quarterfinal Contender
+92,7,Monticello,IL,3A,2,IHSA Class 3A,9-2,9,2,0,11,65.5,65.5,15.5,70.0,116,34.0,16.2,17.8,13.91,13.91,13.91,40.5,263.1,Semifinal Contender
+93,20,Plainfield North,IL,7A,4,IHSA Class 7A,7-3,7,3,0,10,65.5,65.5,15.47,72.2,65,19.8,14.4,5.4,13.93,13.93,13.93,45.5,214.9,Quarterfinal Contender
+94,10,Metamora,IL,4A,2,IHSA Class 4A,8-4,8,4,0,12,65.4,65.4,15.39,71.0,90,29.2,19.8,9.4,12.15,12.15,12.15,40.0,239.1,Quarterfinal Contender
+95,14,Normal West,IL,6A,1,IHSA Class 6A,10-1,10,1,0,11,64.9,64.9,14.91,64.5,326,45.3,19.1,26.2,15.41,15.41,15.41,60.0,256.6,Quarterfinal Contender
+96,6,Forreston,IL,1A,3,IHSA Class 1A,8-3,8,3,0,11,64.7,64.7,14.65,69.6,129,30.5,19.2,11.3,11.69,11.69,11.69,28.0,232.0,Semifinal Contender
+97,11,Triad,IL,5A,4,IHSA Class 5A,9-2,9,2,0,11,64.1,64.1,14.06,67.3,210,33.2,21.5,11.7,14.06,14.06,14.06,49.5,247.3,Quarterfinal Contender
+98,11,Rochelle,IL,4A,3,IHSA Class 4A,8-4,8,4,0,12,63.9,63.9,13.94,67.4,203,38.1,13.5,24.6,11.43,11.43,11.43,40.0,220.3,Quarterfinal Contender
+99,8,Bishop McNamara,IL,3A,1,IHSA Class 3A,7-3,7,3,0,10,63.5,63.5,13.55,69.2,143,30.3,17.6,12.7,11.81,11.81,11.81,31.5,200.9,Semifinal Contender
+100,12,Wheaton Academy,IL,5A,3,IHSA Class 5A,7-3,7,3,0,10,63.4,63.4,13.36,68.8,152,31.9,17.6,14.3,12.43,12.43,12.43,38.5,199.4,Quarterfinal Contender
+101,7,Lena-Winslow,IL,1A,3,IHSA Class 1A,7-4,7,4,0,11,63.2,63.2,13.2,69.9,121,27.8,18.9,8.9,10.31,10.31,10.31,24.5,204.3,Semifinal Contender
+102,8,Arthur-Lovington/Atwood-Hammond,IL,1A,4,IHSA Class 1A,10-1,10,1,0,11,63.1,63.1,13.1,60.8,430,46.8,13.9,32.9,12.16,12.16,12.16,35.0,232.8,Semifinal Contender
+103,6,Riverdale,IL,2A,3,IHSA Class 2A,9-1,9,1,0,10,63.1,63.1,13.08,64.0,342,30.4,12.4,18.0,13.16,13.16,13.16,36.0,228.2,Semifinal Contender
+104,21,Jacobs,IL,7A,1,IHSA Class 7A,8-2,8,2,0,10,62.9,62.9,12.93,69.6,128,29.9,19.6,10.3,14.88,14.88,14.88,52.0,232.1,Dark Horse
+105,12,Jacksonville,IL,4A,1,IHSA Class 4A,8-2,8,2,0,10,62.5,62.5,12.45,65.2,293,40.0,22.9,17.1,12.81,12.81,12.81,40.0,208.9,Quarterfinal Contender
+106,7,Frankfort,IL,2A,4,IHSA Class 2A,10-1,10,1,0,11,62.3,62.3,12.3,65.6,278,44.8,22.5,22.3,13.51,13.51,13.51,40.0,264.0,Semifinal Contender
+107,25,O'Fallon,IL,8A,2,IHSA Class 8A,6-5,6,5,0,11,62.2,62.2,12.24,73.2,53,24.2,26.4,-2.2,11.27,11.27,11.27,42.0,188.0,Dark Horse
+108,13,Geneseo,IL,4A,4,IHSA Class 4A,6-4,6,4,0,10,62.2,62.2,12.21,70.0,117,31.0,22.9,8.1,10.6,10.6,10.6,30.0,175.4,Quarterfinal Contender
+109,9,Durand/Pecatonica,IL,3A,1,IHSA Class 3A,8-2,8,2,0,10,62.2,62.2,12.21,65.2,289,31.5,16.1,15.4,12.39,12.39,12.39,36.0,209.2,Quarterfinal Contender
+110,22,Guilford,IL,7A,4,IHSA Class 7A,8-3,8,3,0,11,62.0,62.0,11.97,67.3,208,30.2,14.9,15.3,13.16,13.16,13.16,52.0,219.9,Dark Horse
+111,23,Benet Academy,IL,7A,4,IHSA Class 7A,2-8,2,8,0,10,61.8,61.8,11.83,77.7,17,21.5,36.2,-14.7,5.12,5.12,5.12,13.0,68.5,Dark Horse
+112,24,Richards,IL,7A,3,IHSA Class 7A,9-2,9,2,0,11,61.8,61.8,11.75,68.0,180,31.5,17.3,14.2,14.72,14.72,14.72,58.5,251.3,Dark Horse
+113,9,Clifton Central,IL,1A,1,IHSA Class 1A,10-1,10,1,0,11,61.7,61.7,11.72,63.3,366,37.2,12.9,24.3,12.51,12.51,12.51,35.0,248.9,Quarterfinal Contender
+114,8,Johnston City,IL,2A,3,IHSA Class 2A,11-0,11,0,0,11,61.6,61.6,11.56,60.8,429,36.5,8.3,28.2,13.54,13.54,13.54,44.0,256.2,Semifinal Contender
+115,9,Nashville,IL,2A,1,IHSA Class 2A,9-2,9,2,0,11,61.4,61.4,11.39,66.4,250,41.3,22.5,18.8,12.34,12.34,12.34,36.0,242.0,Quarterfinal Contender
+116,10,Johnsburg,IL,3A,3,IHSA Class 3A,8-3,8,3,0,11,61.3,61.3,11.28,67.4,205,30.0,17.2,12.8,11.64,11.64,11.64,36.0,220.3,Quarterfinal Contender
+117,11,Macomb,IL,3A,2,IHSA Class 3A,9-2,9,2,0,11,61.2,61.2,11.22,61.7,410,40.5,15.3,25.2,11.86,11.86,11.86,40.5,214.6,Quarterfinal Contender
+118,14,Mt. Zion,IL,4A,3,IHSA Class 4A,8-3,8,3,0,11,61.1,61.1,11.12,66.6,241,32.4,16.7,15.7,11.85,11.85,11.85,40.0,216.3,Quarterfinal Contender
+119,13,Carbondale,IL,5A,4,IHSA Class 5A,10-2,10,2,0,12,61.1,61.1,11.11,66.8,232,38.4,15.4,23.0,13.84,13.84,13.84,55.0,271.8,Quarterfinal Contender
+120,12,Williamsville,IL,3A,4,IHSA Class 3A,10-1,10,1,0,11,61.0,61.0,11.0,65.0,302,41.8,19.4,22.4,13.69,13.69,13.69,45.0,260.2,Quarterfinal Contender
+121,15,Pekin,IL,6A,4,IHSA Class 6A,7-4,7,4,0,11,61.0,61.0,10.97,69.4,138,32.0,19.7,12.3,11.56,11.56,11.56,42.0,201.8,Quarterfinal Contender
+122,10,Tuscola,IL,1A,2,IHSA Class 1A,8-3,8,3,0,11,60.9,60.9,10.89,68.4,167,33.6,17.8,15.8,11.03,11.03,11.03,28.0,225.5,Quarterfinal Contender
+123,16,Central,IL,6A,2,IHSA Class 6A,8-4,8,4,0,12,60.9,60.9,10.85,69.1,147,23.1,14.4,8.7,11.99,11.99,11.99,48.0,229.2,Quarterfinal Contender
+124,10,Peotone,IL,2A,3,IHSA Class 2A,9-2,9,2,0,11,60.7,60.7,10.71,67.3,206,34.1,14.2,19.9,12.44,12.44,12.44,36.0,247.6,Quarterfinal Contender
+125,13,Mt. Carmel,IL,3A,4,IHSA Class 3A,11-0,11,0,0,11,60.6,60.6,10.62,63.3,367,38.4,16.8,21.6,14.49,14.49,14.49,49.5,273.8,Quarterfinal Contender
+126,15,Sterling,IL,4A,1,IHSA Class 4A,9-2,9,2,0,11,60.6,60.6,10.61,69.7,126,35.9,21.1,14.8,13.68,13.68,13.68,45.0,261.3,Quarterfinal Contender
+127,14,Benton,IL,3A,3,IHSA Class 3A,9-2,9,2,0,11,60.0,60.0,10.0,65.2,291,34.2,16.0,18.2,12.37,12.37,12.37,40.5,235.3,Quarterfinal Contender
 128,26,Minooka,IL,8A,3,IHSA Class 8A,5-6,5,6,0,11,59.9,59.9,9.85,74.0,48,17.2,23.3,-6.1,9.43,9.43,9.43,35.0,159.2,Dark Horse
-129,11,Oakwood,IL,1A,2,IHSA Class 1A,8-5,8,5,0,13,59.8,59.8,9.8,66.4,233,36.0,18.0,18.0,9.13,9.13,9.13,28.0,215.4,Quarterfinal Contender
-130,17,Riverside-Brookfield,IL,6A,2,IHSA Class 6A,9-2,9,2,0,11,59.8,59.8,9.8,65.3,267,37.8,23.4,14.4,13.59,13.59,13.59,54.0,235.8,Dark Horse
-131,25,Belleville East,IL,7A,3,IHSA Class 7A,5-5,5,5,0,10,59.3,59.3,9.33,72.4,64,23.7,25.3,-1.6,9.76,9.76,9.76,32.5,154.0,Dark Horse
-132,27,Warren Township,IL,8A,3,IHSA Class 8A,3-6,3,6,0,9,59.2,59.2,9.22,70.9,89,23.1,22.8,0.3,6.92,6.92,6.92,21.0,89.5,Dark Horse
-133,18,Lake Zurich,IL,6A,1,IHSA Class 6A,5-4,5,4,0,9,59.1,59.1,9.15,68.9,146,15.6,16.8,-1.2,9.98,9.98,9.98,30.0,142.7,Dark Horse
-134,26,Hoffman Estates,IL,7A,4,IHSA Class 7A,4-5,4,5,0,9,59.1,59.1,9.07,73.1,57,16.1,21.6,-5.5,8.84,8.84,8.84,26.0,125.0,Dark Horse
-135,14,King,IL,5A,2,IHSA Class 5A,3-2,3,2,0,5,58.9,58.9,8.88,70.0,113,17.0,26.0,-9.0,10.51,10.51,10.51,16.5,87.8,Quarterfinal Contender
-136,19,Oak Lawn,IL,6A,2,IHSA Class 6A,7-3,7,3,0,10,58.8,58.8,8.75,63.3,343,38.3,16.9,21.4,11.35,11.35,11.35,42.0,174.2,Dark Horse
-137,11,Flora,IL,2A,2,IHSA Class 2A,10-1,10,1,0,11,58.6,58.6,8.57,61.1,389,32.7,9.1,23.6,12.13,12.13,12.13,40.0,234.6,Quarterfinal Contender
-138,15,Manteno,IL,3A,4,IHSA Class 3A,8-5,8,5,0,13,58.5,58.5,8.54,69.1,143,31.9,23.5,8.4,9.97,9.97,9.97,36.0,229.4,Quarterfinal Contender
-139,16,Highland,IL,4A,3,IHSA Class 4A,11-4,11,4,0,15,58.5,58.5,8.53,70.4,104,45.2,37.5,7.7,12.27,12.27,12.27,55.0,324.9,Quarterfinal Contender
-140,27,Moline,IL,7A,4,IHSA Class 7A,6-5,6,5,0,11,58.4,58.4,8.39,71.6,78,23.5,30.6,-7.1,10.33,10.33,10.33,39.0,181.7,Dark Horse
-141,12,Galena,IL,1A,2,IHSA Class 1A,6-6,6,6,0,12,58.4,58.4,8.39,67.5,192,33.2,20.6,12.6,7.59,7.59,7.59,21.0,165.6,Quarterfinal Contender
-142,28,Downers Grove South,IL,8A,1,IHSA Class 8A,7-3,7,3,0,10,58.3,58.3,8.33,69.5,129,30.5,25.6,4.9,12.99,12.99,12.99,49.0,202.5,Dark Horse
-143,15,Wauconda,IL,5A,3,IHSA Class 5A,8-2,8,2,0,10,58.1,58.1,8.13,64.5,303,39.5,16.9,22.6,12.56,12.56,12.56,44.0,205.3,Quarterfinal Contender
-144,28,Palatine,IL,7A,1,IHSA Class 7A,2-6,2,6,0,8,58.1,58.1,8.1,71.8,70,18.4,25.4,-7.0,5.26,5.26,5.26,13.0,60.9,Dark Horse
-145,13,Greenfield/Northwestern,IL,1A,3,IHSA Class 1A,7-4,7,4,0,11,58.0,58.0,8.02,61.8,375,27.1,11.4,15.7,8.51,8.51,8.51,24.5,167.3,Quarterfinal Contender
-146,12,Pearl City-Eastland,IL,2A,3,IHSA Class 2A,6-7,6,7,0,13,57.9,57.9,7.92,67.8,182,23.9,17.5,6.4,7.28,7.28,7.28,24.0,166.7,Quarterfinal Contender
-147,20,Bradley-Bourbonnais,IL,6A,4,IHSA Class 6A,4-6,4,6,0,10,57.8,57.8,7.81,74.8,40,20.6,30.5,-9.9,7.87,7.87,7.87,24.0,129.4,Dark Horse
-148,21,Simeon,IL,6A,4,IHSA Class 6A,2-2,2,2,0,4,57.8,57.8,7.77,72.2,66,19.0,32.0,-13.0,9.3,9.3,9.3,12.0,61.4,Dark Horse
-149,16,Sycamore,IL,5A,3,IHSA Class 5A,8-4,8,4,0,12,57.7,57.7,7.69,71.7,74,28.5,21.9,6.6,11.68,11.68,11.68,44.0,243.0,Quarterfinal Contender
-150,17,Freeburg,IL,4A,3,IHSA Class 4A,7-4,7,4,0,11,57.5,57.5,7.46,66.4,235,32.2,21.5,10.7,10.07,10.07,10.07,35.0,188.2,Dark Horse
-151,22,Glenwood,IL,6A,1,IHSA Class 6A,6-6,6,6,0,12,57.4,57.4,7.43,68.8,152,34.9,29.9,5.0,8.87,8.87,8.87,36.0,170.8,Dark Horse
-152,16,Hillsboro,IL,3A,4,IHSA Class 3A,9-2,9,2,0,11,57.3,57.3,7.34,60.9,394,42.0,21.8,20.2,11.25,11.25,11.25,40.5,210.1,Quarterfinal Contender
-153,17,Olympia,IL,3A,2,IHSA Class 3A,8-4,8,4,0,12,57.0,57.0,7.04,65.0,282,37.5,22.9,14.6,9.91,9.91,9.91,36.0,208.0,Dark Horse
-154,29,Buffalo Grove,IL,7A,2,IHSA Class 7A,7-3,7,3,0,10,57.0,57.0,7.01,70.8,91,27.1,22.2,4.9,12.69,12.69,12.69,45.5,208.6,Dark Horse
-155,23,East Moline United,IL,6A,3,IHSA Class 6A,7-6,7,6,0,13,57.0,57.0,6.95,68.3,167,34.4,22.8,11.6,9.37,9.37,9.37,42.0,196.9,Dark Horse
-156,24,Goode STEM Academy,IL,6A,3,IHSA Class 6A,1-1,1,1,0,2,56.7,56.7,6.73,64.1,316,26.4,21.8,4.6,8.25,8.25,8.25,6.0,25.4,Dark Horse
-157,18,Chicago Hope Academy,IL,3A,3,IHSA Class 3A,8-4,8,4,0,12,56.7,56.7,6.72,69.5,130,24.8,18.8,6.0,10.55,10.55,10.55,36.0,231.2,Dark Horse
-158,29,Lane Tech,IL,8A,1,IHSA Class 8A,6-3,6,3,0,9,56.7,56.7,6.66,68.4,163,23.1,15.1,8.0,12.05,12.05,12.05,42.0,169.2,Dark Horse
-159,30,Plainfield South,IL,7A,4,IHSA Class 7A,8-3,8,3,0,11,56.6,56.6,6.65,67.1,208,30.6,21.3,9.3,12.5,12.5,12.5,52.0,219.1,Dark Horse
-160,14,Marquette,IL,1A,2,IHSA Class 1A,7-5,7,5,0,12,56.6,56.6,6.56,67.0,210,31.1,25.3,5.8,8.4,8.4,8.4,24.5,191.1,Quarterfinal Contender
-161,30,Oswego East,IL,8A,1,IHSA Class 8A,5-6,5,6,0,11,56.5,56.5,6.52,70.4,106,21.9,19.1,2.8,8.66,8.66,8.66,35.0,147.6,Dark Horse
-162,15,Fulton,IL,1A,4,IHSA Class 1A,11-3,11,3,0,14,56.2,56.2,6.24,66.9,213,37.5,19.9,17.6,10.99,10.99,10.99,38.5,299.8,Quarterfinal Contender
-163,31,Conant,IL,8A,2,IHSA Class 8A,6-3,6,3,0,9,56.1,56.1,6.12,69.9,117,19.2,14.8,4.4,12.22,12.22,12.22,42.0,175.3,Dark Horse
-164,17,Woodstock,IL,5A,1,IHSA Class 5A,9-4,9,4,0,13,55.9,55.9,5.93,65.6,257,29.0,20.1,8.9,10.92,10.92,10.92,49.5,237.7,Dark Horse
-165,19,Sparta/Steeleville,IL,3A,3,IHSA Class 3A,7-4,7,4,0,11,55.5,55.5,5.55,60.5,401,43.4,21.5,21.9,8.67,8.67,8.67,31.5,161.4,Dark Horse
-166,18,Lemont,IL,5A,4,IHSA Class 5A,6-5,6,5,0,11,55.4,55.4,5.39,69.5,131,29.0,19.5,9.5,9.16,9.16,9.16,33.0,173.4,Dark Horse
-167,18,Evergreen Park,IL,4A,4,IHSA Class 4A,7-4,7,4,0,11,55.0,55.0,4.99,63.6,334,26.8,12.8,14.0,9.36,9.36,9.36,35.0,175.5,Dark Horse
-168,19,MacArthur,IL,4A,4,IHSA Class 4A,7-3,7,3,0,10,54.8,54.8,4.76,65.1,275,35.4,20.3,15.1,10.46,10.46,10.46,35.0,182.5,Dark Horse
-169,20,Dixon,IL,4A,1,IHSA Class 4A,9-5,9,5,0,14,54.5,54.5,4.54,66.9,217,24.0,18.9,5.1,9.88,9.88,9.88,45.0,244.9,Dark Horse
-170,31,Hampshire,IL,7A,3,IHSA Class 7A,5-5,5,5,0,10,54.4,54.4,4.44,69.7,122,23.1,22.6,0.5,8.86,8.86,8.86,32.5,145.2,Dark Horse
-171,20,Pontiac,IL,3A,4,IHSA Class 3A,6-8,6,8,0,14,54.4,54.4,4.43,71.6,79,24.6,26.9,-2.3,7.0,7.0,7.0,27.0,181.7,Dark Horse
-172,19,Hinsdale South,IL,5A,4,IHSA Class 5A,6-5,6,5,0,11,54.4,54.4,4.42,67.8,179,31.7,26.7,5.0,8.85,8.85,8.85,33.0,167.1,Dark Horse
-173,20,Washington,IL,5A,3,IHSA Class 5A,4-7,4,7,0,11,54.4,54.4,4.37,71.2,84,25.5,26.5,-1.0,6.35,6.35,6.35,22.0,120.1,Dark Horse
-174,21,Leo,IL,4A,3,IHSA Class 4A,3-3,3,3,0,6,53.9,53.9,3.91,70.2,108,16.3,25.5,-9.2,8.11,8.11,8.11,15.0,88.2,Dark Horse
-175,32,West Aurora,IL,8A,3,IHSA Class 8A,7-4,7,4,0,11,53.8,53.8,3.84,65.1,277,36.4,22.0,14.4,10.72,10.72,10.72,49.0,182.5,Dark Horse
-176,21,LaSalle-Peru,IL,5A,4,IHSA Class 5A,5-7,5,7,0,12,53.8,53.8,3.75,69.7,123,21.0,26.2,-5.2,6.98,6.98,6.98,27.5,145.2,Dark Horse
-177,21,Prairie Central,IL,3A,2,IHSA Class 3A,5-7,5,7,0,12,53.7,53.7,3.71,71.8,72,24.6,29.6,-5.0,6.75,6.75,6.75,22.5,152.0,Dark Horse
-178,16,Rockridge,IL,1A,1,IHSA Class 1A,7-3,7,3,0,10,53.5,53.5,3.55,64.6,297,21.1,16.7,4.4,9.19,9.19,9.19,24.5,180.3,Quarterfinal Contender
-179,22,Quincy Notre Dame,IL,4A,4,IHSA Class 4A,4-6,4,6,0,10,53.2,53.2,3.19,68.8,150,24.8,22.0,2.8,6.37,6.37,6.37,20.0,113.9,Dark Horse
-180,22,Oak Forest,IL,5A,4,IHSA Class 5A,6-6,6,6,0,12,53.0,53.0,2.98,65.8,251,32.1,20.5,11.6,7.75,7.75,7.75,33.0,159.0,Dark Horse
-181,13,Warrensburg-Latham,IL,2A,2,IHSA Class 2A,9-5,9,5,0,14,52.9,52.9,2.93,68.0,174,24.1,21.4,2.7,9.21,9.21,9.21,36.0,251.4,Quarterfinal Contender
-182,25,Quincy,IL,6A,1,IHSA Class 6A,8-3,8,3,0,11,52.9,52.9,2.88,66.7,227,39.2,33.6,5.6,11.6,11.6,11.6,48.0,216.6,Dark Horse
-183,14,DuQuoin,IL,2A,2,IHSA Class 2A,6-6,6,6,0,12,52.7,52.7,2.73,66.1,243,33.0,24.8,8.2,7.0,7.0,7.0,24.0,160.1,Quarterfinal Contender
-184,33,South Elgin,IL,8A,2,IHSA Class 8A,6-3,6,3,0,9,52.6,52.6,2.57,62.5,360,34.7,18.8,15.9,10.66,10.66,10.66,42.0,146.1,Playoff Bubble
-185,22,Althoff Catholic,IL,3A,2,IHSA Class 3A,7-5,7,5,0,12,52.6,52.6,2.56,67.4,194,36.2,39.2,-3.0,8.56,8.56,8.56,31.5,193.0,Dark Horse
-186,23,Paris,IL,3A,4,IHSA Class 3A,6-4,6,4,0,10,52.5,52.5,2.47,63.3,340,28.5,19.0,9.5,8.23,8.23,8.23,27.0,149.4,Dark Horse
-187,17,Dwight,IL,1A,1,IHSA Class 1A,8-5,8,5,0,13,52.3,52.3,2.26,66.9,214,22.2,23.8,-1.6,8.29,8.29,8.29,28.0,218.0,Dark Horse
-188,26,Shepard,IL,6A,3,IHSA Class 6A,5-5,5,5,0,10,52.2,52.2,2.25,67.8,181,25.0,19.6,5.4,8.14,8.14,8.14,30.0,139.2,Dark Horse
-189,23,Peoria Notre Dame,IL,4A,1,IHSA Class 4A,5-4,5,4,0,9,52.2,52.2,2.24,64.1,317,37.8,28.0,9.8,7.99,7.99,7.99,25.0,127.0,Dark Horse
-190,23,Belvidere North,IL,5A,4,IHSA Class 5A,7-5,7,5,0,12,52.2,52.2,2.22,66.8,219,28.1,25.7,2.4,9.03,9.03,9.03,38.5,190.3,Dark Horse
-191,34,Waubonsie Valley,IL,8A,3,IHSA Class 8A,3-7,3,7,0,10,52.2,52.2,2.17,74.7,41,13.1,26.4,-13.3,5.76,5.76,5.76,21.0,97.0,Playoff Bubble
-192,24,Marian Central Catholic,IL,3A,1,IHSA Class 3A,4-7,4,7,0,11,52.1,52.1,2.11,70.0,116,26.4,22.9,3.5,5.61,5.61,5.61,18.0,116.9,Dark Horse
-193,32,Glenbard East,IL,7A,2,IHSA Class 7A,7-4,7,4,0,11,51.8,51.8,1.8,64.2,311,30.7,17.9,12.8,10.03,10.03,10.03,45.5,178.5,Dark Horse
-194,15,Vandalia,IL,2A,4,IHSA Class 2A,9-4,9,4,0,13,51.6,51.6,1.59,61.1,390,38.7,22.7,16.0,8.64,8.64,8.64,36.0,211.0,Quarterfinal Contender
-195,35,Stevenson,IL,8A,2,IHSA Class 8A,4-5,4,5,0,9,51.5,51.5,1.53,70.5,101,20.9,22.4,-1.5,7.9,7.9,7.9,28.0,118.3,Playoff Bubble
-196,25,Chicago Christian,IL,3A,2,IHSA Class 3A,5-5,5,5,0,10,51.5,51.5,1.45,68.3,166,22.9,20.7,2.2,7.35,7.35,7.35,22.5,140.7,Dark Horse
-197,26,St. Bede,IL,3A,2,IHSA Class 3A,5-3,5,3,0,8,51.4,51.4,1.44,63.9,325,30.5,22.6,7.9,8.52,8.52,8.52,22.5,126.4,Dark Horse
-198,33,Westinghouse,IL,7A,4,IHSA Class 7A,3-2,3,2,0,5,51.4,51.4,1.35,61.8,373,31.4,20.2,11.2,9.09,9.09,9.09,19.5,71.8,Playoff Bubble
-199,18,Sullivan,IL,1A,3,IHSA Class 1A,9-3,9,3,0,12,51.3,51.3,1.34,60.2,404,35.8,26.7,9.1,8.79,8.79,8.79,31.5,205.7,Dark Horse
-200,36,Metea Valley,IL,8A,4,IHSA Class 8A,3-7,3,7,0,10,51.3,51.3,1.31,72.5,61,19.5,27.4,-7.9,5.5,5.5,5.5,21.0,92.7,Playoff Bubble
-201,19,Newman Central Catholic,IL,1A,2,IHSA Class 1A,6-4,6,4,0,10,51.1,51.1,1.1,64.9,287,26.1,15.2,10.9,7.68,7.68,7.68,21.0,155.6,Dark Horse
-202,24,Marmion,IL,4A,4,IHSA Class 4A,4-7,4,7,0,11,51.0,51.0,1.01,71.6,80,20.2,28.6,-8.4,5.79,5.79,5.79,20.0,121.1,Dark Horse
-203,37,Evanston,IL,8A,2,IHSA Class 8A,5-4,5,4,0,9,51.0,51.0,1.0,67.5,191,29.9,22.6,7.3,9.38,9.38,9.38,35.0,138.0,Playoff Bubble
-204,27,Thornwood,IL,6A,2,IHSA Class 6A,5-5,5,5,0,10,51.0,51.0,0.99,68.9,147,20.2,22.2,-2.0,8.11,8.11,8.11,30.0,142.5,Dark Horse
-205,24,Belvidere,IL,5A,4,IHSA Class 5A,6-4,6,4,0,10,51.0,51.0,0.98,66.7,226,27.6,22.8,4.8,9.11,9.11,9.11,33.0,162.6,Dark Horse
-206,28,Plainfield East,IL,6A,1,IHSA Class 6A,5-5,5,5,0,10,50.9,50.9,0.85,62.8,351,33.4,14.7,18.7,7.4,7.4,7.4,30.0,122.8,Dark Horse
-207,29,Addison Trail,IL,6A,1,IHSA Class 6A,5-4,5,4,0,9,50.8,50.8,0.75,64.8,291,37.0,27.8,9.2,8.46,8.46,8.46,30.0,129.4,Dark Horse
-208,20,Salt Fork,IL,1A,3,IHSA Class 1A,8-4,8,4,0,12,50.6,50.6,0.57,63.8,330,27.8,19.2,8.6,8.29,8.29,8.29,28.0,201.9,Dark Horse
-209,30,Grant Community,IL,6A,4,IHSA Class 6A,6-3,6,3,0,9,50.5,50.5,0.51,65.1,274,27.3,21.8,5.5,10.15,10.15,10.15,36.0,156.5,Dark Horse
-210,34,Zion-Benton,IL,7A,4,IHSA Class 7A,6-4,6,4,0,10,50.4,50.4,0.43,65.5,262,29.5,20.8,8.7,9.48,9.48,9.48,39.0,157.9,Playoff Bubble
-211,25,Jersey,IL,4A,4,IHSA Class 4A,5-6,5,6,0,11,50.4,50.4,0.37,68.7,155,22.9,22.3,0.6,6.83,6.83,6.83,25.0,141.9,Dark Horse
-212,16,St. Teresa,IL,2A,4,IHSA Class 2A,5-6,5,6,0,11,50.3,50.3,0.3,70.1,111,27.7,30.8,-3.1,6.52,6.52,6.52,20.0,146.7,Quarterfinal Contender
-213,17,Chester,IL,2A,2,IHSA Class 2A,6-4,6,4,0,10,50.2,50.2,0.25,64.3,310,30.5,16.5,14.0,7.8,7.8,7.8,24.0,153.4,Dark Horse
-214,27,Roxana,IL,3A,2,IHSA Class 3A,9-5,9,5,0,14,50.0,50.0,0.04,64.2,312,39.6,34.6,5.0,8.63,8.63,8.63,40.5,229.3,Dark Horse
-215,18,Auburn,IL,2A,2,IHSA Class 2A,8-6,8,6,0,14,49.5,49.5,-0.46,64.4,308,39.5,27.4,12.1,7.41,7.41,7.41,32.0,205.0,Dark Horse
-216,21,Annawan-Wethersfield,IL,1A,3,IHSA Class 1A,8-2,8,2,0,10,49.5,49.5,-0.48,60.9,396,30.4,16.6,13.8,9.33,9.33,9.33,28.0,186.7,Dark Horse
-217,25,Thornton Fractional North,IL,5A,4,IHSA Class 5A,6-4,6,4,0,10,49.5,49.5,-0.5,67.1,209,20.9,20.9,0.0,9.04,9.04,9.04,33.0,164.0,Dark Horse
-218,19,Winnebago,IL,2A,4,IHSA Class 2A,6-5,6,5,0,11,49.4,49.4,-0.57,66.0,244,34.3,26.4,7.9,7.27,7.27,7.27,24.0,160.0,Dark Horse
-219,26,Waterloo,IL,4A,2,IHSA Class 4A,5-6,5,6,0,11,49.3,49.3,-0.72,70.2,110,22.4,27.7,-5.3,6.94,6.94,6.94,25.0,146.8,Dark Horse
-220,27,Taylorville,IL,4A,2,IHSA Class 4A,6-3,6,3,0,9,49.3,49.3,-0.74,66.4,237,28.7,19.0,9.7,9.61,9.61,9.61,30.0,161.3,Dark Horse
-221,26,Galesburg,IL,5A,2,IHSA Class 5A,4-6,4,6,0,10,49.2,49.2,-0.83,68.2,168,36.3,38.2,-1.9,6.13,6.13,6.13,22.0,112.3,Dark Horse
-222,31,Bulls College Prep,IL,6A,4,IHSA Class 6A,2-2,2,2,0,4,49.1,49.1,-0.86,68.6,156,22.0,22.0,0.0,7.96,7.96,7.96,12.0,56.7,Dark Horse
-223,27,Marion,IL,5A,3,IHSA Class 5A,5-6,5,6,0,11,49.0,49.0,-1.02,68.3,165,34.9,32.0,2.9,6.98,6.98,6.98,27.5,140.8,Dark Horse
-224,28,Hillcrest,IL,4A,1,IHSA Class 4A,8-5,8,5,0,13,48.9,48.9,-1.06,65.3,265,28.0,19.7,8.3,8.72,8.72,8.72,40.0,209.7,Dark Horse
-225,29,Phoenix Military,IL,4A,2,IHSA Class 4A,2-2,2,2,0,4,48.9,48.9,-1.06,60.2,403,31.0,21.0,10.0,6.51,6.51,6.51,10.0,45.8,Dark Horse
-226,32,Highland Park,IL,6A,3,IHSA Class 6A,6-4,6,4,0,10,48.9,48.9,-1.07,64.7,293,28.7,27.0,1.7,9.03,9.03,9.03,36.0,155.0,Dark Horse
-227,28,Agricultural Science,IL,5A,1,IHSA Class 5A,1-2,1,2,0,3,48.9,48.9,-1.1,63.7,333,14.7,25.0,-10.3,4.76,4.76,4.76,5.5,25.1,Dark Horse
-228,20,Westville,IL,2A,2,IHSA Class 2A,5-4,5,4,0,9,48.7,48.7,-1.26,63.2,344,28.3,24.3,4.0,7.05,7.05,7.05,20.0,124.1,Dark Horse
-229,21,Pana,IL,2A,3,IHSA Class 2A,6-4,6,4,0,10,48.6,48.6,-1.4,61.4,382,32.7,19.0,13.7,7.36,7.36,7.36,24.0,141.8,Dark Horse
-230,29,Mascoutah,IL,5A,3,IHSA Class 5A,5-4,5,4,0,9,48.5,48.5,-1.46,63.5,337,41.4,31.1,10.3,7.92,7.92,7.92,27.5,125.2,Dark Horse
-231,28,Harrisburg,IL,3A,1,IHSA Class 3A,5-5,5,5,0,10,48.2,48.2,-1.75,65.7,256,29.5,19.4,10.1,6.87,6.87,6.87,22.5,132.1,Dark Horse
-232,22,Newton,IL,2A,3,IHSA Class 2A,7-4,7,4,0,11,48.2,48.2,-1.79,64.0,320,37.1,20.3,16.8,8.19,8.19,8.19,28.0,177.5,Dark Horse
-233,22,West Central co-op [Winchester-Bluffs],IL,1A,3,IHSA Class 1A,1-1,1,1,0,2,48.0,48.0,-1.95,62.5,356,23.3,24.6,-1.3,6.02,6.02,6.02,3.5,24.4,Dark Horse
-234,33,Kennedy,IL,6A,3,IHSA Class 6A,2-2,2,2,0,4,47.9,47.9,-2.14,59.6,409,27.5,27.2,0.3,6.94,6.94,6.94,12.0,45.0,Playoff Bubble
-235,38,Perspectives Leadership/IIT/Joslin/Tech,IL,8A,3,IHSA Class 8A,0-1,0,1,0,1,47.8,47.8,-2.23,64.7,294,18.2,28.7,-10.5,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
+129,11,Oakwood,IL,1A,2,IHSA Class 1A,8-4,8,4,0,12,59.8,59.8,9.8,66.4,246,38.8,17.3,21.5,9.79,9.79,9.79,28.0,215.4,Quarterfinal Contender
+130,17,Riverside-Brookfield,IL,6A,4,IHSA Class 6A,9-2,9,2,0,11,59.8,59.8,9.8,65.3,287,37.8,23.4,14.4,13.59,13.59,13.59,54.0,235.8,Dark Horse
+131,25,Belleville East,IL,7A,3,IHSA Class 7A,5-5,5,5,0,10,59.3,59.3,9.33,72.4,64,23.0,25.3,-2.3,9.76,9.76,9.76,32.5,154.0,Dark Horse
+132,27,Warren Township,IL,8A,3,IHSA Class 8A,4-6,4,6,0,10,59.2,59.2,9.22,70.9,91,24.2,21.1,3.1,8.09,8.09,8.09,28.0,119.4,Dark Horse
+133,18,Lake Zurich,IL,6A,1,IHSA Class 6A,6-4,6,4,0,10,59.1,59.1,9.15,68.9,148,19.1,15.1,4.0,10.69,10.69,10.69,36.0,171.3,Dark Horse
+134,26,Hoffman Estates,IL,7A,3,IHSA Class 7A,5-5,5,5,0,10,59.1,59.1,9.07,73.1,57,18.0,20.9,-2.9,9.81,9.81,9.81,32.5,156.3,Dark Horse
+135,14,King,IL,5A,4,IHSA Class 5A,8-3,8,3,0,11,58.9,58.9,8.88,70.0,115,25.0,20.8,4.2,12.51,12.51,12.51,44.0,234.0,Quarterfinal Contender
+136,19,Oak Lawn,IL,6A,2,IHSA Class 6A,7-3,7,3,0,10,58.8,58.8,8.75,63.3,368,38.3,16.9,21.4,11.35,11.35,11.35,42.0,174.2,Dark Horse
+137,11,Flora,IL,2A,2,IHSA Class 2A,10-1,10,1,0,11,58.6,58.6,8.57,61.1,421,33.7,7.7,26.0,12.13,12.13,12.13,40.0,234.6,Quarterfinal Contender
+138,15,Manteno,IL,3A,3,IHSA Class 3A,8-4,8,4,0,12,58.5,58.5,8.54,69.1,145,34.1,22.3,11.8,10.72,10.72,10.72,36.0,229.4,Quarterfinal Contender
+139,16,Highland,IL,4A,3,IHSA Class 4A,9-3,9,3,0,12,58.5,58.5,8.53,70.4,106,47.4,38.1,9.3,12.53,12.53,12.53,45.0,265.8,Quarterfinal Contender
+140,27,Moline,IL,7A,1,IHSA Class 7A,7-4,7,4,0,11,58.4,58.4,8.39,71.6,79,23.5,30.6,-7.1,11.89,11.89,11.89,45.5,211.9,Dark Horse
+141,12,Galena,IL,1A,4,IHSA Class 1A,6-5,6,5,0,11,58.4,58.4,8.39,67.5,199,36.2,19.5,16.7,8.18,8.18,8.18,21.0,165.6,Quarterfinal Contender
+142,28,Downers Grove South,IL,8A,4,IHSA Class 8A,7-3,7,3,0,10,58.3,58.3,8.33,69.5,131,30.5,25.6,4.9,12.99,12.99,12.99,49.0,202.5,Dark Horse
+143,15,Wauconda,IL,5A,1,IHSA Class 5A,9-2,9,2,0,11,58.1,58.1,8.13,64.5,325,40.4,16.1,24.3,12.83,12.83,12.83,49.5,231.0,Quarterfinal Contender
+144,28,Palatine,IL,7A,4,IHSA Class 7A,4-6,4,6,0,10,58.1,58.1,8.1,71.8,71,19.5,24.2,-4.7,7.83,7.83,7.83,26.0,121.7,Dark Horse
+145,13,Greenfield/Northwestern,IL,1A,1,IHSA Class 1A,7-3,7,3,0,10,58.0,58.0,8.02,61.8,406,27.1,11.4,15.7,9.27,9.27,9.27,24.5,167.3,Quarterfinal Contender
+146,12,Pearl City-Eastland,IL,2A,2,IHSA Class 2A,6-6,6,6,0,12,57.9,57.9,7.92,67.8,187,26.9,16.1,10.8,7.81,7.81,7.81,24.0,166.7,Quarterfinal Contender
+147,20,Bradley-Bourbonnais,IL,6A,2,IHSA Class 6A,4-6,4,6,0,10,57.8,57.8,7.81,74.8,40,20.6,30.5,-9.9,7.87,7.87,7.87,24.0,129.4,Dark Horse
+148,21,Simeon,IL,6A,3,IHSA Class 6A,6-6,6,6,0,12,57.8,57.8,7.77,72.2,66,25.1,24.6,0.5,9.3,9.3,9.3,36.0,184.2,Dark Horse
+149,16,Sycamore,IL,5A,4,IHSA Class 5A,8-4,8,4,0,12,57.7,57.7,7.69,71.7,75,27.8,21.3,6.5,11.68,11.68,11.68,44.0,243.0,Quarterfinal Contender
+150,17,Freeburg,IL,4A,2,IHSA Class 4A,7-3,7,3,0,10,57.5,57.5,7.46,66.4,248,32.2,21.5,10.7,10.98,10.98,10.98,35.0,188.2,Dark Horse
+151,22,Glenwood,IL,6A,2,IHSA Class 6A,6-5,6,5,0,11,57.4,57.4,7.43,68.8,155,36.1,28.1,8.0,9.6,9.6,9.6,36.0,170.8,Dark Horse
+152,16,Hillsboro,IL,3A,2,IHSA Class 3A,9-1,9,1,0,10,57.3,57.3,7.34,60.9,426,42.0,21.8,20.2,12.28,12.28,12.28,40.5,210.1,Quarterfinal Contender
+153,17,Olympia,IL,3A,2,IHSA Class 3A,8-3,8,3,0,11,57.0,57.0,7.04,65.0,304,37.5,22.9,14.6,10.74,10.74,10.74,36.0,208.0,Dark Horse
+154,29,Buffalo Grove,IL,7A,1,IHSA Class 7A,7-4,7,4,0,11,57.0,57.0,7.01,70.8,93,26.6,23.5,3.1,11.61,11.61,11.61,45.5,208.6,Dark Horse
+155,23,East Moline United,IL,6A,2,IHSA Class 6A,6-5,6,5,0,11,57.0,57.0,6.95,68.3,170,34.4,22.8,11.6,9.48,9.48,9.48,36.0,168.8,Dark Horse
+156,24,Goode STEM Academy,IL,6A,3,IHSA Class 6A,6-3,6,3,0,9,56.7,56.7,6.73,64.1,339,41.0,23.6,17.4,10.73,10.73,10.73,36.0,152.4,Dark Horse
+157,18,Chicago Hope Academy,IL,3A,2,IHSA Class 3A,8-4,8,4,0,12,56.7,56.7,6.72,69.5,132,25.2,18.8,6.4,10.55,10.55,10.55,36.0,231.2,Dark Horse
+158,29,Lane Tech,IL,8A,4,IHSA Class 8A,8-4,8,4,0,12,56.7,56.7,6.66,68.4,166,25.0,15.8,9.2,12.05,12.05,12.05,56.0,225.6,Dark Horse
+159,30,Plainfield South,IL,7A,3,IHSA Class 7A,8-2,8,2,0,10,56.6,56.6,6.65,67.1,220,30.6,21.3,9.3,13.67,13.67,13.67,52.0,219.1,Dark Horse
+160,14,Marquette,IL,1A,4,IHSA Class 1A,7-4,7,4,0,11,56.6,56.6,6.56,67.0,222,31.1,25.3,5.8,9.09,9.09,9.09,24.5,191.1,Quarterfinal Contender
+161,30,Oswego East,IL,8A,1,IHSA Class 8A,5-6,5,6,0,11,56.5,56.5,6.52,70.4,108,24.2,18.2,6.0,8.66,8.66,8.66,35.0,147.6,Dark Horse
+162,15,Fulton,IL,1A,3,IHSA Class 1A,9-3,9,3,0,12,56.2,56.2,6.24,66.9,225,39.7,19.6,20.1,10.53,10.53,10.53,31.5,245.3,Quarterfinal Contender
+163,31,Conant,IL,8A,4,IHSA Class 8A,7-4,7,4,0,11,56.1,56.1,6.12,69.9,119,19.1,17.9,1.2,11.7,11.7,11.7,49.0,204.5,Dark Horse
+164,17,Woodstock,IL,5A,2,IHSA Class 5A,8-3,8,3,0,11,55.9,55.9,5.93,65.6,276,29.0,20.1,8.9,11.43,11.43,11.43,44.0,211.3,Dark Horse
+165,19,Sparta/Steeleville,IL,3A,1,IHSA Class 3A,8-3,8,3,0,11,55.5,55.5,5.55,60.5,434,43.6,19.7,23.9,9.81,9.81,9.81,36.0,184.5,Dark Horse
+166,18,Lemont,IL,5A,1,IHSA Class 5A,6-5,6,5,0,11,55.4,55.4,5.39,69.5,133,29.0,19.5,9.5,9.16,9.16,9.16,33.0,173.4,Dark Horse
+167,18,Evergreen Park,IL,4A,2,IHSA Class 4A,7-3,7,3,0,10,55.0,55.0,4.99,63.6,359,26.8,12.8,14.0,10.24,10.24,10.24,35.0,175.5,Dark Horse
+168,19,MacArthur,IL,4A,1,IHSA Class 4A,8-3,8,3,0,11,54.8,54.8,4.76,65.1,296,35.4,19.0,16.4,10.84,10.84,10.84,40.0,208.6,Dark Horse
+169,20,Dixon,IL,4A,4,IHSA Class 4A,8-4,8,4,0,12,54.5,54.5,4.54,66.9,229,24.0,18.9,5.1,10.23,10.23,10.23,40.0,217.7,Dark Horse
+170,31,Hampshire,IL,7A,3,IHSA Class 7A,5-5,5,5,0,10,54.4,54.4,4.44,69.7,124,24.1,23.9,0.2,8.86,8.86,8.86,32.5,145.2,Dark Horse
+171,20,Pontiac,IL,3A,4,IHSA Class 3A,5-7,5,7,0,12,54.4,54.4,4.43,71.6,80,25.9,26.9,-1.0,6.82,6.82,6.82,22.5,151.4,Dark Horse
+172,19,Hinsdale South,IL,5A,2,IHSA Class 5A,6-5,6,5,0,11,54.4,54.4,4.42,67.8,184,31.7,26.7,5.0,8.85,8.85,8.85,33.0,167.1,Dark Horse
+173,20,Washington,IL,5A,2,IHSA Class 5A,4-7,4,7,0,11,54.4,54.4,4.37,71.2,85,25.5,26.5,-1.0,6.35,6.35,6.35,22.0,120.1,Dark Horse
+174,21,Leo,IL,4A,4,IHSA Class 4A,6-5,6,5,0,11,53.9,53.9,3.91,70.2,110,21.3,19.4,1.9,8.81,8.81,8.81,30.0,176.4,Dark Horse
+175,32,West Aurora,IL,8A,1,IHSA Class 8A,7-4,7,4,0,11,53.8,53.8,3.84,65.1,298,36.4,22.0,14.4,10.72,10.72,10.72,49.0,182.5,Dark Horse
+176,21,LaSalle-Peru,IL,5A,3,IHSA Class 5A,6-6,6,6,0,12,53.8,53.8,3.75,69.7,125,22.0,24.7,-2.7,8.28,8.28,8.28,33.0,174.3,Dark Horse
+177,21,Prairie Central,IL,3A,1,IHSA Class 3A,5-6,5,6,0,11,53.7,53.7,3.71,71.8,73,24.6,29.6,-5.0,7.33,7.33,7.33,22.5,152.0,Dark Horse
+178,16,Rockridge,IL,1A,3,IHSA Class 1A,8-2,8,2,0,10,53.5,53.5,3.55,64.6,319,21.1,16.7,4.4,10.44,10.44,10.44,28.0,206.0,Quarterfinal Contender
+179,22,Quincy Notre Dame,IL,4A,4,IHSA Class 4A,4-6,4,6,0,10,53.2,53.2,3.19,68.8,153,24.8,22.0,2.8,6.37,6.37,6.37,20.0,113.9,Dark Horse
+180,22,Oak Forest,IL,5A,3,IHSA Class 5A,6-5,6,5,0,11,53.0,53.0,2.98,65.8,269,32.1,20.5,11.6,8.42,8.42,8.42,33.0,159.0,Dark Horse
+181,13,Warrensburg-Latham,IL,2A,3,IHSA Class 2A,8-4,8,4,0,12,52.9,52.9,2.93,68.0,178,24.1,21.4,2.7,9.54,9.54,9.54,32.0,223.5,Quarterfinal Contender
+182,25,Quincy,IL,6A,4,IHSA Class 6A,9-3,9,3,0,12,52.9,52.9,2.88,66.7,239,43.4,29.1,14.3,11.95,11.95,11.95,54.0,243.7,Dark Horse
+183,14,DuQuoin,IL,2A,4,IHSA Class 2A,6-5,6,5,0,11,52.7,52.7,2.73,66.1,259,33.2,22.8,10.4,7.6,7.6,7.6,24.0,160.1,Quarterfinal Contender
+184,33,South Elgin,IL,8A,1,IHSA Class 8A,7-3,7,3,0,10,52.6,52.6,2.57,62.5,391,33.3,17.5,15.8,11.17,11.17,11.17,49.0,170.4,Playoff Bubble
+185,22,Althoff Catholic,IL,3A,3,IHSA Class 3A,7-4,7,4,0,11,52.6,52.6,2.56,67.4,201,34.5,37.1,-2.6,9.31,9.31,9.31,31.5,193.0,Dark Horse
+186,23,Paris,IL,3A,1,IHSA Class 3A,8-3,8,3,0,11,52.5,52.5,2.47,63.3,365,28.7,18.4,10.3,9.91,9.91,9.91,36.0,199.3,Dark Horse
+187,17,Dwight,IL,1A,2,IHSA Class 1A,8-4,8,4,0,12,52.3,52.3,2.26,66.9,226,22.2,23.8,-1.6,8.96,8.96,8.96,28.0,218.0,Dark Horse
+188,26,Shepard,IL,6A,2,IHSA Class 6A,5-5,5,5,0,10,52.2,52.2,2.25,67.8,186,25.0,19.6,5.4,8.14,8.14,8.14,30.0,139.2,Dark Horse
+189,23,Peoria Notre Dame,IL,4A,2,IHSA Class 4A,6-4,6,4,0,10,52.2,52.2,2.24,64.1,340,37.5,26.2,11.3,8.6,8.6,8.6,30.0,152.4,Dark Horse
+190,23,Belvidere North,IL,5A,4,IHSA Class 5A,7-5,7,5,0,12,52.2,52.2,2.22,66.8,231,28.1,25.7,2.4,9.03,9.03,9.03,38.5,190.3,Dark Horse
+191,34,Waubonsie Valley,IL,8A,1,IHSA Class 8A,3-7,3,7,0,10,52.2,52.2,2.17,74.7,41,13.1,26.4,-13.3,5.76,5.76,5.76,21.0,97.0,Playoff Bubble
+192,24,Marian Central Catholic,IL,3A,1,IHSA Class 3A,4-7,4,7,0,11,52.1,52.1,2.11,70.0,118,28.8,22.2,6.6,5.61,5.61,5.61,18.0,116.9,Dark Horse
+193,32,Glenbard East,IL,7A,2,IHSA Class 7A,7-4,7,4,0,11,51.8,51.8,1.8,64.2,334,30.7,17.9,12.8,10.03,10.03,10.03,45.5,178.5,Dark Horse
+194,15,Vandalia,IL,2A,2,IHSA Class 2A,8-3,8,3,0,11,51.6,51.6,1.59,61.1,422,38.7,22.7,16.0,9.07,9.07,9.07,32.0,187.5,Quarterfinal Contender
+195,35,Stevenson,IL,8A,4,IHSA Class 8A,4-6,4,6,0,10,51.5,51.5,1.53,70.5,103,21.1,24.4,-3.3,7.12,7.12,7.12,28.0,118.3,Playoff Bubble
+196,25,Chicago Christian,IL,3A,4,IHSA Class 3A,5-5,5,5,0,10,51.5,51.5,1.45,68.3,169,22.9,20.7,2.2,7.35,7.35,7.35,22.5,140.7,Dark Horse
+197,26,St. Bede,IL,3A,4,IHSA Class 3A,7-3,7,3,0,10,51.4,51.4,1.44,63.9,348,32.6,21.0,11.6,9.52,9.52,9.52,31.5,177.0,Dark Horse
+198,33,Westinghouse,IL,7A,2,IHSA Class 7A,7-3,7,3,0,10,51.4,51.4,1.35,61.8,404,36.6,17.0,19.6,10.57,10.57,10.57,45.5,167.5,Playoff Bubble
+199,18,Sullivan,IL,1A,2,IHSA Class 1A,9-2,9,2,0,11,51.3,51.3,1.34,60.2,439,37.2,25.7,11.5,9.57,9.57,9.57,31.5,205.7,Dark Horse
+200,36,Metea Valley,IL,8A,2,IHSA Class 8A,3-7,3,7,0,10,51.3,51.3,1.31,72.5,61,19.5,27.4,-7.9,5.5,5.5,5.5,21.0,92.7,Playoff Bubble
+201,19,Newman Central Catholic,IL,1A,1,IHSA Class 1A,7-5,7,5,0,12,51.1,51.1,1.1,64.9,309,26.2,14.1,12.1,7.47,7.47,7.47,24.5,181.5,Dark Horse
+202,24,Marmion,IL,4A,4,IHSA Class 4A,4-7,4,7,0,11,51.0,51.0,1.01,71.6,81,21.8,26.2,-4.4,5.79,5.79,5.79,20.0,121.1,Dark Horse
+203,37,Evanston,IL,8A,3,IHSA Class 8A,5-5,5,5,0,10,51.0,51.0,1.0,67.5,198,27.8,23.6,4.2,8.45,8.45,8.45,35.0,138.0,Playoff Bubble
+204,27,Thornwood,IL,6A,3,IHSA Class 6A,6-5,6,5,0,11,51.0,51.0,0.99,68.9,150,20.0,20.8,-0.8,8.84,8.84,8.84,36.0,171.1,Dark Horse
+205,24,Belvidere,IL,5A,3,IHSA Class 5A,6-4,6,4,0,10,51.0,51.0,0.98,66.7,238,27.6,22.8,4.8,9.11,9.11,9.11,33.0,162.6,Dark Horse
+206,28,Plainfield East,IL,6A,2,IHSA Class 6A,5-5,5,5,0,10,50.9,50.9,0.85,62.8,380,33.4,14.7,18.7,7.4,7.4,7.4,30.0,122.8,Dark Horse
+207,29,Addison Trail,IL,6A,2,IHSA Class 6A,6-4,6,4,0,10,50.8,50.8,0.75,64.8,313,37.0,27.0,10.0,9.13,9.13,9.13,36.0,155.3,Dark Horse
+208,20,Salt Fork,IL,1A,2,IHSA Class 1A,8-3,8,3,0,11,50.6,50.6,0.57,63.8,353,26.7,18.3,8.4,9.04,9.04,9.04,28.0,201.9,Dark Horse
+209,30,Grant Community,IL,6A,2,IHSA Class 6A,7-3,7,3,0,10,50.5,50.5,0.51,65.1,295,27.8,22.5,5.3,10.65,10.65,10.65,42.0,182.6,Dark Horse
+210,34,Zion-Benton,IL,7A,3,IHSA Class 7A,7-4,7,4,0,11,50.4,50.4,0.43,65.5,282,30.6,21.0,9.6,10.05,10.05,10.05,45.5,184.2,Playoff Bubble
+211,25,Jersey,IL,4A,1,IHSA Class 4A,5-6,5,6,0,11,50.4,50.4,0.37,68.7,158,23.3,22.2,1.1,6.83,6.83,6.83,25.0,141.9,Dark Horse
+212,16,St. Teresa,IL,2A,1,IHSA Class 2A,5-6,5,6,0,11,50.3,50.3,0.3,70.1,113,26.0,29.4,-3.4,6.52,6.52,6.52,20.0,146.7,Quarterfinal Contender
+213,17,Chester,IL,2A,4,IHSA Class 2A,6-5,6,5,0,11,50.2,50.2,0.25,64.3,333,30.0,17.5,12.5,7.09,7.09,7.09,24.0,153.4,Dark Horse
+214,27,Roxana,IL,3A,4,IHSA Class 3A,8-4,8,4,0,12,50.0,50.0,0.04,64.2,335,40.9,33.9,7.0,8.95,8.95,8.95,36.0,203.8,Dark Horse
+215,18,Auburn,IL,2A,1,IHSA Class 2A,7-5,7,5,0,12,49.5,49.5,-0.46,64.4,331,40.5,26.1,14.4,7.57,7.57,7.57,28.0,179.4,Dark Horse
+216,21,Annawan-Wethersfield,IL,1A,4,IHSA Class 1A,8-2,8,2,0,10,49.5,49.5,-0.48,60.9,428,30.4,16.6,13.8,9.33,9.33,9.33,28.0,186.7,Dark Horse
+217,25,Thornton Fractional North,IL,5A,1,IHSA Class 5A,7-3,7,3,0,10,49.5,49.5,-0.5,67.1,221,19.1,19.0,0.1,10.55,10.55,10.55,38.5,191.4,Dark Horse
+218,19,Winnebago,IL,2A,3,IHSA Class 2A,6-5,6,5,0,11,49.4,49.4,-0.57,66.0,260,34.3,26.4,7.9,7.27,7.27,7.27,24.0,160.0,Dark Horse
+219,26,Waterloo,IL,4A,2,IHSA Class 4A,5-6,5,6,0,11,49.3,49.3,-0.72,70.2,112,22.4,27.7,-5.3,6.94,6.94,6.94,25.0,146.8,Dark Horse
+220,27,Taylorville,IL,4A,4,IHSA Class 4A,6-4,6,4,0,10,49.3,49.3,-0.74,66.4,251,26.5,21.9,4.6,8.65,8.65,8.65,30.0,161.3,Dark Horse
+221,26,Galesburg,IL,5A,4,IHSA Class 5A,4-6,4,6,0,10,49.2,49.2,-0.83,68.2,171,36.3,38.2,-1.9,6.13,6.13,6.13,22.0,112.3,Dark Horse
+222,31,Bulls College Prep,IL,6A,3,IHSA Class 6A,4-7,4,7,0,11,49.1,49.1,-0.86,68.6,159,21.8,22.5,-0.7,5.79,5.79,5.79,24.0,113.4,Dark Horse
+223,27,Marion,IL,5A,3,IHSA Class 5A,5-6,5,6,0,11,49.0,49.0,-1.02,68.3,168,35.3,29.9,5.4,6.98,6.98,6.98,27.5,140.8,Dark Horse
+224,28,Hillcrest,IL,4A,1,IHSA Class 4A,7-5,7,5,0,12,48.9,48.9,-1.06,65.3,285,28.0,19.7,8.3,8.27,8.27,8.27,35.0,183.5,Dark Horse
+225,29,Phoenix Military,IL,4A,4,IHSA Class 4A,7-3,7,3,0,10,48.9,48.9,-1.06,60.2,438,30.4,14.4,16.0,9.11,9.11,9.11,35.0,160.3,Dark Horse
+226,32,Highland Park,IL,6A,1,IHSA Class 6A,7-4,7,4,0,11,48.9,48.9,-1.07,64.7,315,30.5,25.2,5.3,9.57,9.57,9.57,42.0,180.8,Dark Horse
+227,28,Agricultural Science,IL,5A,1,IHSA Class 5A,9-2,9,2,0,11,48.9,48.9,-1.1,63.7,358,21.5,12.3,9.2,11.7,11.7,11.7,49.5,226.2,Dark Horse
+228,20,Westville,IL,2A,1,IHSA Class 2A,6-4,6,4,0,10,48.7,48.7,-1.26,63.2,370,25.7,23.1,2.6,7.61,7.61,7.61,24.0,148.9,Dark Horse
+229,21,Pana,IL,2A,2,IHSA Class 2A,7-3,7,3,0,10,48.6,48.6,-1.4,61.4,414,32.7,19.0,13.7,8.59,8.59,8.59,28.0,165.5,Dark Horse
+230,29,Mascoutah,IL,5A,4,IHSA Class 5A,6-4,6,4,0,10,48.5,48.5,-1.46,63.5,362,37.4,28.0,9.4,8.56,8.56,8.56,33.0,150.2,Dark Horse
+231,28,Harrisburg,IL,3A,3,IHSA Class 3A,5-5,5,5,0,10,48.2,48.2,-1.75,65.7,275,27.9,18.8,9.1,6.87,6.87,6.87,22.5,132.1,Dark Horse
+232,22,Newton,IL,2A,4,IHSA Class 2A,7-4,7,4,0,11,48.2,48.2,-1.79,64.0,343,37.1,20.3,16.8,8.19,8.19,8.19,28.0,177.5,Dark Horse
+233,22,West Central co-op [Winchester-Bluffs],IL,1A,2,IHSA Class 1A,8-4,8,4,0,12,48.0,48.0,-1.95,62.5,387,27.5,17.2,10.3,8.03,8.03,8.03,28.0,195.2,Dark Horse
+234,33,Kennedy,IL,6A,1,IHSA Class 6A,8-2,8,2,0,10,47.9,47.9,-2.14,59.6,449,30.3,19.0,11.3,11.1,11.1,11.1,48.0,180.0,Playoff Bubble
+235,38,Perspectives Leadership/IIT/Joslin/Tech,IL,8A,3,IHSA Class 8A,7-3,7,3,0,10,47.8,47.8,-2.23,64.7,316,18.8,16.4,2.4,11.23,11.23,11.23,49.0,180.8,Playoff Bubble
 236,35,Andrew,IL,7A,2,IHSA Class 7A,2-8,2,8,0,10,47.8,47.8,-2.25,75.3,35,16.5,36.8,-20.3,3.59,3.59,3.59,13.0,65.3,Playoff Bubble
-237,29,Sandwich,IL,3A,1,IHSA Class 3A,8-6,8,6,0,14,47.7,47.7,-2.29,68.0,173,23.6,25.6,-2.0,8.16,8.16,8.16,36.0,223.6,Dark Horse
-238,39,Von Steuben,IL,8A,3,IHSA Class 8A,3-2,3,2,0,5,47.6,47.6,-2.36,58.6,423,25.4,26.4,-1.0,8.79,8.79,8.79,21.0,65.6,Playoff Bubble
-239,30,Glenbard South,IL,5A,1,IHSA Class 5A,6-5,6,5,0,11,47.6,47.6,-2.39,63.9,326,30.8,19.0,11.8,7.83,7.83,7.83,33.0,151.7,Dark Horse
-240,23,Erie-Prophetstown,IL,2A,4,IHSA Class 2A,7-4,7,4,0,11,47.4,47.4,-2.57,63.4,338,25.5,17.4,8.1,8.1,8.1,8.1,28.0,174.7,Dark Horse
-241,34,Rolling Meadows,IL,6A,3,IHSA Class 6A,3-7,3,7,0,10,47.4,47.4,-2.62,72.1,67,19.4,32.1,-12.7,5.01,5.01,5.01,18.0,91.8,Playoff Bubble
-242,24,Central A & M,IL,2A,2,IHSA Class 2A,5-6,5,6,0,11,47.3,47.3,-2.7,66.4,234,20.6,20.1,0.5,6.1,6.1,6.1,20.0,134.6,Dark Horse
-243,30,Fairfield,IL,3A,1,IHSA Class 3A,8-4,8,4,0,12,47.1,47.1,-2.93,61.9,369,27.5,20.2,7.3,8.59,8.59,8.59,36.0,191.8,Dark Horse
-244,25,Farmington,IL,2A,2,IHSA Class 2A,6-5,6,5,0,11,47.0,47.0,-3.01,64.9,286,31.1,28.3,2.8,7.14,7.14,7.14,24.0,155.7,Dark Horse
-245,36,DeKalb,IL,7A,3,IHSA Class 7A,1-7,1,7,0,8,46.6,46.6,-3.39,71.1,85,20.4,31.6,-11.2,2.12,2.12,2.12,6.5,29.9,Playoff Bubble
-246,31,Deerfield,IL,5A,4,IHSA Class 5A,5-6,5,6,0,11,46.3,46.3,-3.72,66.8,224,22.4,22.6,-0.2,6.82,6.82,6.82,27.5,135.7,Dark Horse
-247,35,Willowbrook,IL,6A,4,IHSA Class 6A,5-4,5,4,0,9,46.2,46.2,-3.75,65.7,252,20.1,18.4,1.7,8.48,8.48,8.48,30.0,132.4,Playoff Bubble
-248,23,LeRoy,IL,1A,2,IHSA Class 1A,4-5,4,5,0,9,46.0,46.0,-4.05,66.8,221,19.0,23.3,-4.3,5.78,5.78,5.78,14.0,108.6,Dark Horse
-249,30,Civic Memorial,IL,4A,2,IHSA Class 4A,5-6,5,6,0,11,45.8,45.8,-4.17,69.3,137,25.8,34.7,-8.9,6.86,6.86,6.86,25.0,144.1,Dark Horse
-250,24,Abingdon/Avon,IL,1A,2,IHSA Class 1A,8-4,8,4,0,12,45.7,45.7,-4.26,59.0,416,34.5,18.2,16.3,7.49,7.49,7.49,28.0,176.8,Dark Horse
-251,25,Fisher,IL,1A,1,IHSA Class 1A,8-2,8,2,0,10,45.7,45.7,-4.27,61.0,391,37.3,21.1,16.2,9.35,9.35,9.35,28.0,187.0,Dark Horse
-252,31,PORTA/Ashland-Chandlerville Central/Greenview,IL,3A,1,IHSA Class 3A,0-1,0,1,0,1,45.6,45.6,-4.36,64.4,307,17.5,29.4,-11.9,0.0,0.0,0.0,0.0,0.0,Dark Horse
-253,32,Hansberry,IL,3A,3,IHSA Class 3A,0-2,0,2,0,2,45.4,45.4,-4.64,56.8,433,17.4,29.5,-12.1,0.0,0.0,0.0,0.0,0.0,Dark Horse
-254,33,Eureka,IL,3A,3,IHSA Class 3A,3-6,3,6,0,9,45.3,45.3,-4.73,67.6,187,17.6,24.3,-6.7,4.73,4.73,4.73,13.5,83.1,Playoff Bubble
-255,26,Reed-Custer,IL,2A,4,IHSA Class 2A,4-6,4,6,0,10,45.2,45.2,-4.8,67.9,178,23.6,27.4,-3.8,5.51,5.51,5.51,16.0,111.6,Dark Horse
-256,37,Mundelein,IL,7A,1,IHSA Class 7A,3-6,3,6,0,9,45.2,45.2,-4.8,67.5,189,20.2,21.1,-0.9,5.39,5.39,5.39,19.5,83.0,Playoff Bubble
-257,40,Dundee-Crown,IL,8A,1,IHSA Class 8A,3-6,3,6,0,9,45.1,45.1,-4.87,70.0,112,17.7,27.6,-9.9,5.75,5.75,5.75,21.0,87.8,Playoff Bubble
-258,32,Mt. Vernon,IL,5A,1,IHSA Class 5A,2-7,2,7,0,9,45.0,45.0,-5.0,71.8,71,20.6,41.1,-20.5,3.59,3.59,3.59,11.0,60.8,Dark Horse
-259,34,Princeton,IL,3A,2,IHSA Class 3A,5-7,5,7,0,12,44.9,44.9,-5.06,65.9,247,26.6,23.6,3.0,5.75,5.75,5.75,22.5,133.0,Playoff Bubble
-260,33,Schurz,IL,5A,4,IHSA Class 5A,3-1,3,1,0,4,44.7,44.7,-5.27,56.8,434,22.5,20.0,2.5,9.55,9.55,9.55,16.5,62.0,Playoff Bubble
-261,31,Illinois Valley Central,IL,4A,3,IHSA Class 4A,3-7,3,7,0,10,44.7,44.7,-5.27,70.8,92,21.5,31.8,-10.3,4.63,4.63,4.63,15.0,89.3,Dark Horse
-262,35,Woodlawn,IL,3A,2,IHSA Class 3A,0-3,0,3,0,3,44.4,44.4,-5.57,60.3,402,8.0,49.7,-41.7,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-263,41,Joliet West,IL,8A,2,IHSA Class 8A,4-6,4,6,0,10,44.2,44.2,-5.75,67.8,180,24.7,28.0,-3.3,6.7,6.7,6.7,28.0,111.4,Playoff Bubble
-264,34,Corliss/Butler College Prep,IL,5A,4,IHSA Class 5A,2-2,2,2,0,4,44.1,44.1,-5.92,60.9,395,26.5,30.0,-3.5,6.84,6.84,6.84,11.0,46.7,Playoff Bubble
-265,42,Whitney Young,IL,8A,2,IHSA Class 8A,1-4,1,4,0,5,44.0,44.0,-5.96,65.9,248,7.6,27.4,-19.8,3.26,3.26,3.26,7.0,26.6,Playoff Bubble
-266,26,Athens,IL,1A,1,IHSA Class 1A,5-7,5,7,0,12,44.0,44.0,-5.97,65.6,258,31.3,32.7,-1.4,5.31,5.31,5.31,17.5,132.0,Dark Horse
-267,38,Rich Township,IL,7A,4,IHSA Class 7A,3-6,3,6,0,9,44.0,44.0,-5.98,67.0,211,28.7,28.4,0.3,5.35,5.35,5.35,19.5,81.9,Playoff Bubble
-268,36,Elk Grove,IL,6A,1,IHSA Class 6A,4-5,4,5,0,9,44.0,44.0,-6.03,70.6,95,16.9,27.9,-11.0,7.28,7.28,7.28,24.0,118.6,Playoff Bubble
-269,35,Prairie Ridge,IL,5A,3,IHSA Class 5A,3-9,3,9,0,12,44.0,44.0,-6.05,69.4,135,16.2,27.3,-11.1,3.9,3.9,3.9,16.5,86.6,Playoff Bubble
-270,37,Lake View,IL,6A,4,IHSA Class 6A,1-1,1,1,0,2,43.9,43.9,-6.09,58.7,421,21.9,25.9,-4.0,6.83,6.83,6.83,6.0,21.9,Playoff Bubble
-271,36,Kewanee,IL,3A,2,IHSA Class 3A,5-5,5,5,0,10,43.9,43.9,-6.11,65.2,273,25.7,22.1,3.6,6.82,6.82,6.82,22.5,130.5,Playoff Bubble
-272,37,Genoa-Kingston,IL,3A,1,IHSA Class 3A,6-5,6,5,0,11,43.4,43.4,-6.59,67.4,193,24.2,25.3,-1.1,7.72,7.72,7.72,27.0,165.5,Playoff Bubble
-273,38,Lindblom,IL,6A,4,IHSA Class 6A,0-1,0,1,0,1,43.3,43.3,-6.66,63.5,335,16.7,30.1,-13.4,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-274,32,Rauner,IL,4A,1,IHSA Class 4A,2-2,2,2,0,4,43.2,43.2,-6.83,58.9,419,17.0,8.5,8.5,6.36,6.36,6.36,10.0,44.1,Dark Horse
-275,27,Shelbyville,IL,2A,1,IHSA Class 2A,4-9,4,9,0,13,42.9,42.9,-7.06,69.4,134,16.1,26.1,-10.0,4.34,4.34,4.34,16.0,115.4,Dark Horse
-276,28,Stillman Valley,IL,2A,2,IHSA Class 2A,5-6,5,6,0,11,42.9,42.9,-7.08,67.4,197,24.5,30.2,-5.7,6.2,6.2,6.2,20.0,137.7,Dark Horse
-277,38,Greenville,IL,3A,1,IHSA Class 3A,7-5,7,5,0,12,42.7,42.7,-7.32,62.9,349,26.3,22.4,3.9,7.65,7.65,7.65,31.5,172.4,Playoff Bubble
-278,29,Bismarck-Henning/Rossville-Alvin,IL,2A,1,IHSA Class 2A,1-1,1,1,0,2,42.6,42.6,-7.37,64.5,306,21.4,26.4,-5.0,6.48,6.48,6.48,4.0,25.6,Dark Horse
-279,36,Marian Catholic,IL,5A,1,IHSA Class 5A,2-6,2,6,0,8,42.1,42.1,-7.9,72.6,59,15.6,38.4,-22.8,4.08,4.08,4.08,11.0,61.9,Playoff Bubble
-280,43,Lake Forest,IL,8A,4,IHSA Class 8A,2-6,2,6,0,8,41.9,41.9,-8.11,68.1,171,18.5,25.4,-6.9,4.2,4.2,4.2,14.0,56.0,Playoff Bubble
-281,33,Woodstock North,IL,4A,4,IHSA Class 4A,4-6,4,6,0,10,41.6,41.6,-8.43,65.7,254,21.5,23.4,-1.9,5.7,5.7,5.7,20.0,105.8,Playoff Bubble
-282,37,Payton College Prep,IL,5A,1,IHSA Class 5A,1-1,1,1,0,2,41.4,41.4,-8.57,65.0,280,21.0,26.7,-5.7,7.3,7.3,7.3,5.5,26.0,Playoff Bubble
-283,39,Thornton,IL,6A,2,IHSA Class 6A,7-4,7,4,0,11,41.2,41.2,-8.83,63.9,322,26.0,23.7,2.3,9.46,9.46,9.46,42.0,177.2,Playoff Bubble
-284,34,Marengo,IL,4A,3,IHSA Class 4A,3-7,3,7,0,10,41.1,41.1,-8.92,67.7,184,20.6,24.6,-4.0,4.42,4.42,4.42,15.0,83.3,Playoff Bubble
-285,27,Havana,IL,1A,1,IHSA Class 1A,7-5,7,5,0,12,41.0,41.0,-8.97,59.3,410,42.4,33.3,9.1,6.59,6.59,6.59,24.5,156.0,Dark Horse
-286,39,Niles North,IL,7A,2,IHSA Class 7A,6-4,6,4,0,10,41.0,41.0,-9.0,61.7,376,29.2,29.4,-0.2,8.91,8.91,8.91,39.0,143.2,Playoff Bubble
-287,39,Mater Dei,IL,3A,2,IHSA Class 3A,5-5,5,5,0,10,41.0,41.0,-9.0,64.1,315,28.2,30.8,-2.6,6.69,6.69,6.69,22.5,127.0,Playoff Bubble
-288,28,Carlyle,IL,1A,1,IHSA Class 1A,7-5,7,5,0,12,41.0,41.0,-9.0,61.4,383,23.7,22.1,1.6,6.87,6.87,6.87,24.5,165.4,Dark Horse
-289,35,Salem,IL,4A,1,IHSA Class 4A,6-6,6,6,0,12,40.9,40.9,-9.08,65.9,249,21.6,28.8,-7.2,7.15,7.15,7.15,30.0,159.5,Playoff Bubble
-290,30,Oregon,IL,2A,1,IHSA Class 2A,4-7,4,7,0,11,40.9,40.9,-9.09,66.8,222,21.5,28.5,-7.0,4.91,4.91,4.91,16.0,108.6,Dark Horse
-291,38,Lakes,IL,5A,4,IHSA Class 5A,5-5,5,5,0,10,40.8,40.8,-9.24,63.5,336,20.6,19.3,1.3,7.13,7.13,7.13,27.5,125.2,Playoff Bubble
-292,29,Stark County,IL,1A,1,IHSA Class 1A,7-4,7,4,0,11,40.5,40.5,-9.54,62.4,362,27.2,31.5,-4.3,7.65,7.65,7.65,24.5,170.3,Dark Horse
-293,44,Saint Viator,IL,8A,1,IHSA Class 8A,1-6,1,6,0,7,40.5,40.5,-9.55,74.0,47,13.3,39.3,-26.0,2.59,2.59,2.59,7.0,31.9,Playoff Bubble
-294,36,Richland County,IL,4A,4,IHSA Class 4A,3-5,3,5,0,8,40.5,40.5,-9.55,63.9,327,27.9,30.2,-2.3,5.19,5.19,5.19,15.0,75.8,Playoff Bubble
-295,40,Lincoln Park,IL,7A,1,IHSA Class 7A,2-4,2,4,0,6,40.4,40.4,-9.58,67.5,190,9.5,22.2,-12.7,5.39,5.39,5.39,13.0,55.2,Playoff Bubble
-296,40,North Boone,IL,3A,4,IHSA Class 3A,4-6,4,6,0,10,40.3,40.3,-9.73,65.9,246,26.3,30.2,-3.9,5.52,5.52,5.52,18.0,106.4,Playoff Bubble
-297,41,Massac County,IL,3A,2,IHSA Class 3A,5-4,5,4,0,9,40.2,40.2,-9.76,62.4,361,22.2,27.3,-5.1,7.23,7.23,7.23,22.5,121.7,Playoff Bubble
-298,37,Marquette Catholic,IL,4A,3,IHSA Class 4A,2-5,2,5,0,7,39.9,39.9,-10.15,61.9,368,27.6,34.0,-6.4,3.83,3.83,3.83,10.0,48.0,Playoff Bubble
-299,42,Columbia,IL,3A,4,IHSA Class 3A,1-8,1,8,0,9,39.7,39.7,-10.33,69.2,139,20.2,37.0,-16.8,1.62,1.62,1.62,4.5,28.7,Playoff Bubble
-300,41,McHenry,IL,7A,2,IHSA Class 7A,3-7,3,7,0,10,39.7,39.7,-10.34,70.8,93,12.6,33.8,-21.2,5.07,5.07,5.07,19.5,89.2,Playoff Bubble
-301,31,Red Bud,IL,2A,1,IHSA Class 2A,5-5,5,5,0,10,39.7,39.7,-10.34,63.1,345,21.6,27.0,-5.4,6.34,6.34,6.34,20.0,123.9,Dark Horse
-302,39,Freeport,IL,5A,4,IHSA Class 5A,3-6,3,6,0,9,39.2,39.2,-10.76,66.9,215,20.1,32.3,-12.2,5.01,5.01,5.01,16.5,81.7,Playoff Bubble
-303,30,Orion,IL,1A,2,IHSA Class 1A,5-6,5,6,0,11,39.1,39.1,-10.85,64.6,300,21.3,25.6,-4.3,5.68,5.68,5.68,17.5,128.6,Dark Horse
-304,43,Staunton/Bunker Hill,IL,3A,4,IHSA Class 3A,3-6,3,6,0,9,39.1,39.1,-10.88,62.0,367,28.6,26.4,2.2,4.3,4.3,4.3,13.5,72.1,Playoff Bubble
-305,45,Illinois Crusaders,IL,8A,1,IHSA Class 8A,0-0,0,0,0,1,39.1,39.1,-10.92,56.0,442,15.2,31.5,-16.3,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-306,46,Belleville West,IL,8A,4,IHSA Class 8A,1-8,1,8,0,9,39.0,39.0,-10.99,71.6,77,17.1,39.2,-22.1,1.96,1.96,1.96,7.0,30.3,Playoff Bubble
-307,40,Amundsen,IL,6A,2,IHSA Class 6A,1-3,1,3,0,4,39.0,39.0,-11.01,65.3,266,9.2,20.8,-11.6,3.79,3.79,3.79,6.0,26.2,Playoff Bubble
-308,40,Peoria,IL,5A,4,IHSA Class 5A,4-6,4,6,0,10,39.0,39.0,-11.02,62.5,358,31.6,32.3,-0.7,5.61,5.61,5.61,22.0,97.4,Playoff Bubble
-309,41,Champaign Central,IL,6A,2,IHSA Class 6A,5-5,5,5,0,10,39.0,39.0,-11.03,63.9,324,23.7,24.5,-0.8,7.43,7.43,7.43,30.0,126.5,Playoff Bubble
-310,47,Leyden,IL,8A,4,IHSA Class 8A,2-7,2,7,0,9,38.8,38.8,-11.23,67.6,188,14.4,28.6,-14.2,3.71,3.71,3.71,14.0,55.4,Playoff Bubble
-311,42,Brooks,IL,6A,4,IHSA Class 6A,1-1,1,1,0,2,38.6,38.6,-11.35,61.8,374,20.0,27.6,-7.6,7.18,7.18,7.18,6.0,23.9,Playoff Bubble
-312,41,Springfield,IL,5A,4,IHSA Class 5A,2-7,2,7,0,9,38.6,38.6,-11.36,67.2,206,18.4,29.6,-11.2,3.35,3.35,3.35,11.0,54.8,Playoff Bubble
-313,42,Grayslake Central,IL,5A,3,IHSA Class 5A,4-5,4,5,0,9,38.6,38.6,-11.39,64.9,285,27.3,32.1,-4.8,6.48,6.48,6.48,22.0,103.8,Playoff Bubble
-314,31,Villa Grove/Heritage,IL,1A,3,IHSA Class 1A,6-5,6,5,0,11,38.6,38.6,-11.42,59.1,414,28.9,24.0,4.9,6.14,6.14,6.14,21.0,133.0,Dark Horse
-315,38,Tinley Park,IL,4A,3,IHSA Class 4A,5-6,5,6,0,11,38.5,38.5,-11.5,64.9,288,24.2,28.0,-3.8,6.39,6.39,6.39,25.0,129.5,Playoff Bubble
-316,32,Carrollton,IL,1A,4,IHSA Class 1A,4-4,4,4,0,8,38.5,38.5,-11.53,62.6,355,22.2,26.2,-4.0,6.03,6.03,6.03,14.0,97.8,Dark Horse
-317,32,Carlinville,IL,2A,1,IHSA Class 2A,5-5,5,5,0,10,38.4,38.4,-11.59,63.7,331,31.6,30.4,1.2,6.4,6.4,6.4,20.0,125.7,Dark Horse
-318,33,Seneca,IL,2A,2,IHSA Class 2A,1-7,1,7,0,8,38.3,38.3,-11.71,66.9,216,17.8,29.4,-11.6,1.69,1.69,1.69,4.0,27.2,Playoff Bubble
-319,48,Schaumburg,IL,8A,4,IHSA Class 8A,0-8,0,8,0,8,38.2,38.2,-11.84,71.1,86,16.8,42.6,-25.8,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-320,49,Taft,IL,8A,1,IHSA Class 8A,3-4,3,4,0,7,38.1,38.1,-11.94,66.0,245,24.7,18.6,6.1,7.0,7.0,7.0,21.0,80.0,Rebuilding
-321,43,Grayslake North,IL,5A,2,IHSA Class 5A,4-5,4,5,0,9,38.0,38.0,-11.96,64.5,305,24.3,31.1,-6.8,6.43,6.43,6.43,22.0,102.6,Playoff Bubble
-322,34,Hamilton County,IL,2A,3,IHSA Class 2A,6-5,6,5,0,11,38.0,38.0,-12.03,61.1,387,19.3,18.5,0.8,6.67,6.67,6.67,24.0,141.0,Playoff Bubble
-323,39,Normal University,IL,4A,1,IHSA Class 4A,1-7,1,7,0,8,37.9,37.9,-12.09,72.0,69,17.8,43.6,-25.8,1.96,1.96,1.96,5.0,30.5,Playoff Bubble
-324,35,Illini West,IL,2A,4,IHSA Class 2A,7-4,7,4,0,11,37.9,37.9,-12.15,61.7,377,28.4,33.1,-4.7,7.86,7.86,7.86,28.0,167.1,Playoff Bubble
-325,42,Jefferson,IL,7A,3,IHSA Class 7A,3-7,3,7,0,10,37.7,37.7,-12.28,68.0,175,17.1,31.0,-13.9,4.88,4.88,4.88,19.5,83.8,Playoff Bubble
-326,43,Hubbard,IL,6A,4,IHSA Class 6A,3-2,3,2,0,5,37.7,37.7,-12.3,57.4,430,31.6,9.6,22.0,8.02,8.02,8.02,18.0,63.2,Playoff Bubble
-327,44,Bloomington,IL,5A,3,IHSA Class 5A,4-6,4,6,0,10,37.7,37.7,-12.3,64.6,301,22.8,28.3,-5.5,5.8,5.8,5.8,22.0,102.9,Playoff Bubble
-328,43,Reavis,IL,7A,1,IHSA Class 7A,5-6,5,6,0,11,37.7,37.7,-12.32,65.2,270,22.5,32.0,-9.5,7.11,7.11,7.11,32.5,130.7,Playoff Bubble
-329,50,Blue Island Eisenhower,IL,8A,3,IHSA Class 8A,1-6,1,6,0,7,37.7,37.7,-12.33,67.8,183,8.6,21.3,-12.7,2.39,2.39,2.39,7.0,27.8,Rebuilding
-330,45,Herrin,IL,5A,1,IHSA Class 5A,1-8,1,8,0,9,37.6,37.6,-12.35,69.4,133,15.1,31.2,-16.1,1.73,1.73,1.73,5.5,28.9,Playoff Bubble
-331,33,Tremont,IL,1A,4,IHSA Class 1A,4-5,4,5,0,9,37.6,37.6,-12.38,66.2,241,14.7,26.8,-12.1,5.72,5.72,5.72,14.0,107.1,Playoff Bubble
-332,44,Maine West,IL,6A,1,IHSA Class 6A,3-6,3,6,0,9,37.5,37.5,-12.54,66.8,218,20.3,28.0,-7.7,5.17,5.17,5.17,18.0,81.6,Playoff Bubble
-333,34,Red Hill,IL,1A,3,IHSA Class 1A,2-5,2,5,0,7,37.4,37.4,-12.56,62.3,365,8.3,24.6,-16.3,3.42,3.42,3.42,7.0,48.5,Playoff Bubble
-334,40,Murphysboro,IL,4A,3,IHSA Class 4A,1-8,1,8,0,9,37.4,37.4,-12.58,68.6,158,15.8,34.3,-18.5,1.66,1.66,1.66,5.0,28.3,Playoff Bubble
-335,41,Clark,IL,4A,1,IHSA Class 4A,4-2,4,2,0,6,37.4,37.4,-12.61,57.9,428,30.0,22.0,8.0,8.33,8.33,8.33,20.0,85.6,Playoff Bubble
-336,42,Plano,IL,4A,1,IHSA Class 4A,2-8,2,8,0,10,37.3,37.3,-12.67,67.9,177,20.9,30.8,-9.9,2.95,2.95,2.95,10.0,55.8,Playoff Bubble
-337,46,Crystal Lake South,IL,5A,4,IHSA Class 5A,2-8,2,8,0,10,37.0,37.0,-12.96,70.5,99,15.5,37.4,-21.9,3.17,3.17,3.17,11.0,59.2,Playoff Bubble
-338,36,Carmi-White County,IL,2A,4,IHSA Class 2A,5-5,5,5,0,10,36.7,36.7,-13.31,61.6,380,25.8,18.8,7.0,6.17,6.17,6.17,20.0,119.0,Playoff Bubble
-339,45,Canton,IL,6A,4,IHSA Class 6A,2-7,2,7,0,9,36.6,36.6,-13.37,68.7,154,19.1,32.8,-13.7,3.54,3.54,3.54,12.0,56.8,Playoff Bubble
-340,44,Elgin,IL,7A,2,IHSA Class 7A,5-5,5,5,0,10,36.4,36.4,-13.63,61.9,370,27.8,33.3,-5.5,7.44,7.44,7.44,32.5,119.8,Playoff Bubble
-341,44,Monmouth-Roseville,IL,3A,1,IHSA Class 3A,4-6,4,6,0,10,36.3,36.3,-13.68,63.1,346,22.1,25.9,-3.8,5.26,5.26,5.26,18.0,99.0,Playoff Bubble
-342,45,Lisle,IL,3A,2,IHSA Class 3A,4-6,4,6,0,10,36.1,36.1,-13.9,68.2,169,22.4,36.6,-14.2,5.73,5.73,5.73,18.0,112.2,Playoff Bubble
-343,37,Pleasant Plains,IL,2A,2,IHSA Class 2A,3-7,3,7,0,10,36.0,36.0,-13.96,65.1,276,25.1,34.2,-9.1,3.94,3.94,3.94,12.0,78.2,Playoff Bubble
-344,35,Cumberland,IL,1A,3,IHSA Class 1A,4-5,4,5,0,9,35.9,35.9,-14.14,59.3,411,24.4,23.8,0.6,5.02,5.02,5.02,14.0,89.1,Playoff Bubble
-345,45,Ridgeview/Lexington,IL,7A,1,IHSA Class 7A,2-7,2,7,0,9,35.8,35.8,-14.19,67.4,195,15.2,26.9,-11.7,3.59,3.59,3.59,13.0,55.1,Playoff Bubble
-346,51,Curie,IL,8A,2,IHSA Class 8A,0-2,0,2,0,2,35.7,35.7,-14.3,60.6,399,14.0,32.6,-18.6,0.0,0.0,0.0,0.0,0.0,Rebuilding
-347,46,Little Village,IL,7A,2,IHSA Class 7A,2-2,2,2,0,4,35.4,35.4,-14.57,54.2,449,28.5,25.2,3.3,6.57,6.57,6.57,13.0,38.0,Playoff Bubble
-348,47,Comer,IL,5A,2,IHSA Class 5A,4-4,4,4,0,8,35.4,35.4,-14.59,60.9,393,28.0,30.9,-2.9,6.84,6.84,6.84,22.0,93.4,Playoff Bubble
-349,36,Astoria/VIT,IL,1A,4,IHSA Class 1A,5-4,5,4,0,9,35.4,35.4,-14.62,58.7,422,23.7,21.6,2.1,6.2,6.2,6.2,17.5,109.5,Playoff Bubble
-350,47,West Chicago,IL,7A,1,IHSA Class 7A,5-6,5,6,0,11,35.3,35.3,-14.7,62.8,353,30.1,34.0,-3.9,6.86,6.86,6.86,32.5,122.8,Playoff Bubble
-351,43,East Peoria,IL,4A,4,IHSA Class 4A,4-6,4,6,0,10,35.2,35.2,-14.78,66.9,212,20.6,37.8,-17.2,5.81,5.81,5.81,20.0,109.0,Playoff Bubble
-352,38,Riverton,IL,2A,1,IHSA Class 2A,4-6,4,6,0,10,35.2,35.2,-14.84,64.7,295,22.4,39.4,-17.0,5.21,5.21,5.21,16.0,103.2,Playoff Bubble
-353,48,Collinsville,IL,7A,1,IHSA Class 7A,3-6,3,6,0,9,35.1,35.1,-14.94,67.2,204,21.7,37.2,-15.5,5.37,5.37,5.37,19.5,82.4,Playoff Bubble
-354,44,Effingham,IL,4A,2,IHSA Class 4A,2-8,2,8,0,10,34.4,34.4,-15.6,70.4,105,14.6,36.5,-21.9,3.07,3.07,3.07,10.0,59.1,Playoff Bubble
-355,49,Chicago Academy/Disney II,IL,7A,1,IHSA Class 7A,2-3,2,3,0,5,34.4,34.4,-15.62,53.5,450,12.8,17.4,-4.6,5.2,5.2,5.2,13.0,37.1,Rebuilding
-356,45,Paxton-Buckley-Loda,IL,4A,4,IHSA Class 4A,2-7,2,7,0,9,34.3,34.3,-15.69,70.7,94,12.9,35.0,-22.1,3.42,3.42,3.42,10.0,59.4,Playoff Bubble
-357,46,Deer Creek-Mackinaw,IL,4A,4,IHSA Class 4A,1-7,1,7,0,8,34.2,34.2,-15.79,66.3,238,11.5,34.5,-23.0,1.8,1.8,1.8,5.0,26.9,Playoff Bubble
-358,39,Elmwood/Brimfield,IL,2A,3,IHSA Class 2A,4-6,4,6,0,10,34.1,34.1,-15.88,61.6,381,24.6,29.3,-4.7,4.93,4.93,4.93,16.0,95.2,Playoff Bubble
-359,46,ITW David Speer Academy,IL,6A,2,IHSA Class 6A,4-3,4,3,0,7,34.0,34.0,-16.05,58.2,426,16.0,17.4,-1.4,7.75,7.75,7.75,24.0,86.4,Playoff Bubble
-360,37,Casey-Westfield,IL,1A,4,IHSA Class 1A,4-8,4,8,0,12,33.9,33.9,-16.09,63.0,347,16.2,27.4,-11.2,4.05,4.05,4.05,14.0,98.9,Playoff Bubble
-361,47,Richwoods,IL,6A,4,IHSA Class 6A,3-7,3,7,0,10,33.9,33.9,-16.1,63.0,348,32.4,39.3,-6.9,4.39,4.39,4.39,18.0,74.0,Playoff Bubble
-362,48,Collins,IL,6A,3,IHSA Class 6A,0-1,0,1,0,1,33.7,33.7,-16.32,55.5,445,13.3,33.2,-19.9,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-363,40,Southwestern,IL,2A,4,IHSA Class 2A,2-7,2,7,0,9,33.6,33.6,-16.41,62.4,363,15.9,24.1,-8.2,2.78,2.78,2.78,8.0,48.6,Playoff Bubble
-364,47,North Lawndale,IL,4A,1,IHSA Class 4A,3-2,3,2,0,5,33.4,33.4,-16.62,59.8,407,17.2,21.6,-4.4,7.75,7.75,7.75,15.0,67.8,Playoff Bubble
-365,41,Chicago Marshall,IL,2A,2,IHSA Class 2A,2-3,2,3,0,5,33.3,33.3,-16.73,58.3,425,16.8,21.4,-4.6,4.63,4.63,4.63,8.0,43.3,Playoff Bubble
-366,46,Robinson,IL,3A,1,IHSA Class 3A,3-6,3,6,0,9,33.2,33.2,-16.77,65.2,268,15.4,38.0,-22.6,4.55,4.55,4.55,13.5,78.5,Playoff Bubble
-367,52,Bloom,IL,8A,4,IHSA Class 8A,3-5,3,5,0,8,33.0,33.0,-16.98,65.7,255,15.8,26.4,-10.6,6.1,6.1,6.1,21.0,79.4,Rebuilding
-368,38,Princeville,IL,1A,1,IHSA Class 1A,3-7,3,7,0,10,32.8,32.8,-17.22,62.5,357,22.5,30.9,-8.4,3.61,3.61,3.61,10.5,73.2,Playoff Bubble
-369,50,Prosser,IL,7A,4,IHSA Class 7A,5-3,5,3,0,8,32.5,32.5,-17.55,57.7,429,25.8,20.2,5.6,8.71,8.71,8.71,32.5,106.3,Rebuilding
-370,49,Rockford East,IL,6A,3,IHSA Class 6A,2-7,2,7,0,9,32.4,32.4,-17.64,67.7,185,20.4,33.4,-13.0,3.49,3.49,3.49,12.0,55.5,Rebuilding
-371,47,South Shore International,IL,3A,1,IHSA Class 3A,2-2,2,2,0,4,32.0,32.0,-17.95,58.2,427,22.5,24.0,-1.5,6.02,6.02,6.02,9.0,43.1,Playoff Bubble
-372,53,Joliet Central,IL,8A,2,IHSA Class 8A,7-3,7,3,0,10,31.9,31.9,-18.13,56.2,435,8.2,36.0,-27.8,9.87,9.87,9.87,49.0,142.0,Rebuilding
-373,39,Dupo,IL,1A,4,IHSA Class 1A,7-3,7,3,0,10,31.9,31.9,-18.13,56.2,436,9.8,32.5,-22.7,7.42,7.42,7.42,24.5,142.0,Playoff Bubble
-374,50,UIC College Prep,IL,6A,4,IHSA Class 6A,7-3,7,3,0,10,31.9,31.9,-18.13,56.2,437,3.2,24.0,-20.8,9.17,9.17,9.17,42.0,142.0,Rebuilding
-375,48,Corliss,IL,5A,1,IHSA Class 5A,7-3,7,3,0,10,31.9,31.9,-18.13,56.2,438,19.7,28.2,-8.5,8.82,8.82,8.82,38.5,142.0,Playoff Bubble
-376,48,Johnson,IL,4A,2,IHSA Class 4A,7-3,7,3,0,10,31.9,31.9,-18.13,56.2,439,7.0,40.2,-33.2,8.47,8.47,8.47,35.0,142.0,Playoff Bubble
-377,42,Sangamon Valley/Tri-City,IL,2A,1,IHSA Class 2A,7-3,7,3,0,10,31.9,31.9,-18.13,56.2,440,14.5,29.2,-14.7,7.77,7.77,7.77,28.0,142.0,Playoff Bubble
-378,51,Glenbrook North,IL,7A,3,IHSA Class 7A,3-6,3,6,0,9,31.8,31.8,-18.2,64.4,309,16.2,28.6,-12.4,5.15,5.15,5.15,19.5,76.8,Rebuilding
-379,51,Thornton Fractional South,IL,6A,1,IHSA Class 6A,3-7,3,7,0,10,31.6,31.6,-18.38,63.3,339,18.2,29.4,-11.2,4.42,4.42,4.42,18.0,74.8,Rebuilding
-380,49,Centennial,IL,5A,2,IHSA Class 5A,2-7,2,7,0,9,31.4,31.4,-18.55,61.2,385,21.4,33.9,-12.5,3.05,3.05,3.05,11.0,47.0,Rebuilding
-381,52,Dunbar,IL,6A,4,IHSA Class 6A,1-1,1,1,0,2,31.3,31.3,-18.72,53.1,453,17.4,30.0,-12.6,6.18,6.18,6.18,6.0,18.2,Rebuilding
-382,43,Christopher-Zeigler-Royalton,IL,2A,2,IHSA Class 2A,1-7,1,7,0,8,31.2,31.2,-18.82,62.3,364,12.5,29.5,-17.0,1.56,1.56,1.56,4.0,24.3,Playoff Bubble
-383,44,Beardstown,IL,2A,4,IHSA Class 2A,3-6,3,6,0,9,31.1,31.1,-18.89,63.9,323,19.3,34.6,-15.3,4.29,4.29,4.29,12.0,75.9,Playoff Bubble
-384,49,Gibson City-Melvin-Sibley,IL,4A,3,IHSA Class 4A,1-7,1,7,0,8,31.1,31.1,-18.95,67.3,203,7.5,33.4,-25.9,1.83,1.83,1.83,5.0,27.5,Rebuilding
-385,52,Stagg,IL,7A,1,IHSA Class 7A,2-7,2,7,0,9,30.8,30.8,-19.19,70.6,98,6.1,36.3,-30.2,3.75,3.75,3.75,13.0,59.2,Rebuilding
-386,53,Ottawa,IL,6A,1,IHSA Class 6A,2-7,2,7,0,9,30.6,30.6,-19.39,68.8,151,12.4,41.9,-29.5,3.55,3.55,3.55,12.0,56.9,Rebuilding
-387,53,Rock Island,IL,7A,4,IHSA Class 7A,0-9,0,9,0,9,30.6,30.6,-19.45,72.8,58,11.8,43.4,-31.6,0.0,0.0,0.0,0.0,0.0,Rebuilding
-388,50,Herscher,IL,5A,1,IHSA Class 5A,1-8,1,8,0,9,30.5,30.5,-19.51,70.2,109,14.2,43.6,-29.4,1.75,1.75,1.75,5.5,29.4,Rebuilding
-389,45,Marshall,IL,2A,1,IHSA Class 2A,2-5,2,5,0,7,30.5,30.5,-19.52,64.1,318,10.7,30.3,-19.6,3.68,3.68,3.68,8.0,50.8,Playoff Bubble
-390,50,Mercer County,IL,4A,1,IHSA Class 4A,1-7,1,7,0,8,30.4,30.4,-19.55,64.0,321,17.4,33.2,-15.8,1.73,1.73,1.73,5.0,25.3,Rebuilding
-391,51,Aurora Central Catholic,IL,4A,4,IHSA Class 4A,6-6,6,6,0,12,30.4,30.4,-19.59,61.9,371,19.2,24.8,-5.6,6.69,6.69,6.69,30.0,143.8,Rebuilding
-392,51,Berwyn/Cicero Morton,IL,5A,4,IHSA Class 5A,1-8,1,8,0,9,30.4,30.4,-19.63,67.2,205,14.7,35.9,-21.2,1.68,1.68,1.68,5.5,27.4,Rebuilding
-393,40,Bureau Valley,IL,1A,2,IHSA Class 1A,3-7,3,7,0,10,30.3,30.3,-19.69,61.8,372,23.8,28.8,-5.0,3.56,3.56,3.56,10.5,71.8,Playoff Bubble
-394,54,Bartlett,IL,7A,1,IHSA Class 7A,2-8,2,8,0,10,30.3,30.3,-19.71,64.1,314,20.9,32.4,-11.5,3.08,3.08,3.08,13.0,50.8,Rebuilding
-395,41,Sesser-Valier/Waltonville,IL,1A,3,IHSA Class 1A,2-6,2,6,0,8,30.1,30.1,-19.85,62.2,366,15.2,27.9,-12.7,2.99,2.99,2.99,7.0,48.4,Playoff Bubble
-396,52,Christ the King,IL,5A,2,IHSA Class 5A,0-7,0,7,0,7,30.1,30.1,-19.93,68.5,161,8.3,36.6,-28.3,0.0,0.0,0.0,0.0,0.0,Rebuilding
-397,54,Muchin College Prep,IL,6A,1,IHSA Class 6A,1-4,1,4,0,5,30.0,30.0,-19.96,59.2,413,7.2,42.6,-35.4,2.75,2.75,2.75,6.0,22.2,Rebuilding
-398,48,Dyett,IL,3A,4,IHSA Class 3A,1-3,1,3,0,4,29.9,29.9,-20.1,59.0,417,25.5,34.8,-9.3,3.06,3.06,3.06,4.5,22.1,Playoff Bubble
-399,53,Steinmetz College Prep,IL,5A,2,IHSA Class 5A,2-1,2,1,0,3,29.9,29.9,-20.11,55.2,447,13.3,10.7,2.6,8.24,8.24,8.24,11.0,39.2,Rebuilding
-400,55,Mattoon,IL,6A,1,IHSA Class 6A,2-7,2,7,0,9,29.5,29.5,-20.48,66.3,239,10.6,33.7,-23.1,3.42,3.42,3.42,12.0,53.7,Rebuilding
-401,52,ROWVA/Williamsfield,IL,4A,3,IHSA Class 4A,2-7,2,7,0,9,29.4,29.4,-20.63,59.2,412,22.0,25.9,-3.9,2.84,2.84,2.84,10.0,44.5,Rebuilding
-402,53,Crane Medical,IL,4A,2,IHSA Class 4A,0-3,0,3,0,3,29.0,29.0,-20.97,58.7,420,9.3,16.7,-7.4,0.0,0.0,0.0,0.0,0.0,Rebuilding
-403,54,Uplift/Alcott/DeVry Advantage Academy,IL,4A,2,IHSA Class 4A,0-0,0,0,0,1,28.6,28.6,-21.36,53.2,452,11.5,34.8,-23.3,0.0,0.0,0.0,0.0,0.0,Rebuilding
-404,54,Danville,IL,5A,1,IHSA Class 5A,4-6,4,6,0,10,28.5,28.5,-21.53,61.0,392,28.8,34.8,-6.0,5.47,5.47,5.47,22.0,93.5,Rebuilding
-405,55,Carver,IL,4A,1,IHSA Class 4A,2-1,2,1,0,3,28.4,28.4,-21.62,55.6,443,22.7,16.3,6.4,7.98,7.98,7.98,10.0,39.8,Rebuilding
-406,49,Julian,IL,3A,3,IHSA Class 3A,1-2,1,2,0,3,28.3,28.3,-21.74,56.1,441,14.0,26.7,-12.7,3.86,3.86,3.86,4.5,20.2,Rebuilding
-407,55,Crystal Lake Central,IL,7A,1,IHSA Class 7A,0-9,0,9,0,9,28.2,28.2,-21.79,70.5,100,12.8,34.3,-21.5,0.0,0.0,0.0,0.0,0.0,Rebuilding
-408,46,Georgetown-Ridge Farm/Chrisman,IL,2A,1,IHSA Class 2A,2-7,2,7,0,9,28.2,28.2,-21.82,65.0,279,16.6,40.9,-24.3,2.92,2.92,2.92,8.0,52.1,Playoff Bubble
-409,56,Charleston,IL,6A,1,IHSA Class 6A,0-9,0,9,0,9,28.2,28.2,-21.82,69.5,128,21.0,43.7,-22.7,0.0,0.0,0.0,0.0,0.0,Rebuilding
-410,50,Mendota,IL,3A,4,IHSA Class 3A,2-7,2,7,0,9,28.1,28.1,-21.87,64.7,296,14.3,38.1,-23.8,3.0,3.0,3.0,9.0,51.5,Rebuilding
-411,56,St. Edward,IL,4A,3,IHSA Class 4A,2-7,2,7,0,9,27.7,27.7,-22.32,66.8,223,13.0,40.2,-27.2,3.22,3.22,3.22,10.0,54.3,Rebuilding
-412,54,Alton,IL,8A,2,IHSA Class 8A,1-7,1,7,0,8,27.5,27.5,-22.52,69.3,138,18.5,42.1,-23.6,2.13,2.13,2.13,7.0,28.8,Rebuilding
-413,42,Momence,IL,1A,4,IHSA Class 1A,3-7,3,7,0,10,27.4,27.4,-22.57,64.1,313,17.3,35.4,-18.1,3.72,3.72,3.72,10.5,76.3,Playoff Bubble
-414,43,Monmouth United,IL,1A,3,IHSA Class 1A,3-7,3,7,0,10,27.4,27.4,-22.58,60.6,400,27.5,38.9,-11.4,3.48,3.48,3.48,10.5,69.4,Playoff Bubble
-415,51,Pritzker,IL,3A,3,IHSA Class 3A,0-2,0,2,0,2,27.2,27.2,-22.8,53.3,451,11.0,35.3,-24.3,0.0,0.0,0.0,0.0,0.0,Rebuilding
-416,57,Streator,IL,6A,4,IHSA Class 6A,1-8,1,8,0,9,27.0,27.0,-22.96,69.2,140,11.6,39.2,-27.6,1.78,1.78,1.78,6.0,28.7,Rebuilding
-417,55,Foreman,IL,5A,1,IHSA Class 5A,0-0,0,0,0,1,26.9,26.9,-23.09,54.5,448,10.9,35.4,-24.5,0.0,0.0,0.0,0.0,0.0,Rebuilding
-418,44,Pleasant Hill/Western,IL,1A,2,IHSA Class 1A,2-7,2,7,0,9,26.9,26.9,-23.13,65.6,260,15.0,34.1,-19.1,2.83,2.83,2.83,7.0,52.8,Playoff Bubble
-419,56,Boylan Catholic,IL,7A,4,IHSA Class 7A,1-8,1,8,0,9,26.7,26.7,-23.28,67.3,201,10.1,34.9,-24.8,1.79,1.79,1.79,6.5,27.5,Rebuilding
-420,47,Wesclin,IL,2A,4,IHSA Class 2A,2-8,2,8,0,10,26.5,26.5,-23.5,63.7,332,15.6,33.3,-17.7,2.56,2.56,2.56,8.0,50.3,Playoff Bubble
-421,52,Bowen/Baker College Prep,IL,3A,2,IHSA Class 3A,1-2,1,2,0,3,26.3,26.3,-23.66,55.6,444,17.3,23.3,-6.0,3.82,3.82,3.82,4.5,19.9,Rebuilding
-422,57,North Chicago,IL,4A,1,IHSA Class 4A,2-7,2,7,0,9,26.2,26.2,-23.77,65.0,283,18.4,34.1,-15.7,3.13,3.13,3.13,10.0,51.9,Rebuilding
-423,53,Vernon Hills,IL,3A,2,IHSA Class 3A,1-7,1,7,0,8,25.9,25.9,-24.06,64.8,290,15.5,35.5,-20.0,1.7,1.7,1.7,4.5,25.9,Rebuilding
-424,45,Morrison,IL,1A,1,IHSA Class 1A,1-8,1,8,0,9,25.5,25.5,-24.51,72.0,68,6.0,45.6,-39.6,1.58,1.58,1.58,3.5,30.6,Playoff Bubble
-425,55,Romeoville,IL,8A,2,IHSA Class 8A,2-7,2,7,0,9,25.3,25.3,-24.72,64.6,298,8.4,35.0,-26.6,3.56,3.56,3.56,14.0,51.5,Rebuilding
-426,48,Longwood,IL,2A,2,IHSA Class 2A,1-1,1,1,0,2,25.0,25.0,-25.02,58.3,424,15.2,32.0,-16.8,5.8,5.8,5.8,4.0,21.7,Playoff Bubble
-427,58,Westmont,IL,4A,3,IHSA Class 4A,3-1,3,1,0,4,24.7,24.7,-25.27,51.3,455,24.5,17.0,7.5,8.23,8.23,8.23,15.0,51.2,Rebuilding
-428,49,DuSable/Tilden/Air Force Academy,IL,2A,1,IHSA Class 2A,0-0,0,0,0,1,24.6,24.6,-25.43,52.4,454,10.1,36.1,-26.0,0.0,0.0,0.0,0.0,0.0,Rebuilding
-429,46,Nokomis,IL,1A,4,IHSA Class 1A,4-4,4,4,0,8,24.4,24.4,-25.57,59.9,406,21.6,26.2,-4.6,5.72,5.72,5.72,14.0,90.7,Playoff Bubble
-430,54,Knoxville,IL,3A,4,IHSA Class 3A,2-7,2,7,0,9,24.4,24.4,-25.62,59.0,418,20.2,31.4,-11.2,2.71,2.71,2.71,9.0,44.1,Rebuilding
-431,55,Dakota,IL,3A,2,IHSA Class 3A,0-8,0,8,0,8,24.4,24.4,-25.65,68.7,153,10.5,48.5,-38.0,0.0,0.0,0.0,0.0,0.0,Rebuilding
-432,59,Rushville-Industry,IL,4A,2,IHSA Class 4A,1-8,1,8,0,9,24.0,24.0,-25.96,61.7,378,15.1,34.6,-19.5,1.48,1.48,1.48,5.0,23.9,Rebuilding
-433,58,Bremen,IL,6A,4,IHSA Class 6A,1-8,1,8,0,9,23.8,23.8,-26.21,65.5,263,8.0,42.9,-34.9,1.69,1.69,1.69,6.0,26.3,Rebuilding
-434,50,Proviso East,IL,2A,4,IHSA Class 2A,0-6,0,6,0,6,23.5,23.5,-26.52,67.7,186,5.8,46.2,-40.4,0.0,0.0,0.0,0.0,0.0,Rebuilding
-435,56,Senn,IL,5A,3,IHSA Class 5A,1-2,1,2,0,3,23.3,23.3,-26.69,57.2,431,13.3,26.7,-13.4,4.27,4.27,4.27,5.5,20.9,Rebuilding
-436,56,Plainfield Central,IL,8A,2,IHSA Class 8A,1-8,1,8,0,9,23.1,23.1,-26.92,66.1,242,12.1,41.8,-29.7,1.82,1.82,1.82,7.0,26.7,Rebuilding
-437,57,Aurora East,IL,8A,1,IHSA Class 8A,5-5,5,5,0,10,23.0,23.0,-27.04,60.0,405,25.9,36.4,-10.5,7.48,7.48,7.48,35.0,113.8,Rebuilding
-438,47,Hall/Putnam County,IL,1A,1,IHSA Class 1A,0-7,0,7,0,7,22.9,22.9,-27.1,62.8,354,15.9,35.3,-19.4,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-439,56,Bogan,IL,3A,4,IHSA Class 3A,0-2,0,2,0,2,22.9,22.9,-27.15,57.0,432,10.0,36.7,-26.7,0.0,0.0,0.0,0.0,0.0,Rebuilding
-440,48,Anna-Jonesboro,IL,1A,4,IHSA Class 1A,1-8,1,8,0,9,22.7,22.7,-27.26,68.5,159,13.1,47.7,-34.6,1.49,1.49,1.49,3.5,28.3,Playoff Bubble
-441,51,Hamilton/Warsaw,IL,2A,4,IHSA Class 2A,2-8,2,8,0,10,22.6,22.6,-27.37,62.5,359,25.6,45.3,-19.7,2.5,2.5,2.5,8.0,48.7,Rebuilding
-442,57,Round Lake,IL,7A,1,IHSA Class 7A,2-6,2,6,0,8,22.4,22.4,-27.59,62.8,352,17.9,40.6,-22.7,3.77,3.77,3.77,13.0,49.1,Rebuilding
-443,59,Streamwood,IL,6A,3,IHSA Class 6A,3-7,3,7,0,10,22.4,22.4,-27.59,59.1,415,25.5,35.6,-10.1,4.13,4.13,4.13,18.0,66.5,Rebuilding
-444,60,Lincoln,IL,4A,1,IHSA Class 4A,3-7,3,7,0,10,22.4,22.4,-27.61,64.6,299,13.4,41.4,-28.0,4.2,4.2,4.2,15.0,77.2,Rebuilding
-445,57,Fenton,IL,5A,1,IHSA Class 5A,4-6,4,6,0,10,22.1,22.1,-27.85,59.6,408,20.5,30.2,-9.7,5.35,5.35,5.35,22.0,90.1,Rebuilding
-446,52,Pittsfield,IL,2A,4,IHSA Class 2A,1-8,1,8,0,9,22.1,22.1,-27.9,65.7,253,20.0,52.1,-32.1,1.47,1.47,1.47,4.0,26.5,Rebuilding
-447,49,Triopia/Meredosia-Chambersburg/Virginia,IL,1A,3,IHSA Class 1A,0-1,0,1,0,1,22.0,22.0,-28.01,63.8,329,10.0,37.0,-27.0,0.0,0.0,0.0,0.0,0.0,Rebuilding
-448,50,Hyde Park,IL,1A,1,IHSA Class 1A,0-1,0,1,0,1,21.3,21.3,-28.68,65.3,264,10.0,37.2,-27.2,0.0,0.0,0.0,0.0,0.0,Rebuilding
-449,51,Orr,IL,1A,3,IHSA Class 1A,0-2,0,2,0,2,21.1,21.1,-28.95,55.3,446,10.0,37.3,-27.3,0.0,0.0,0.0,0.0,0.0,Rebuilding
-450,58,Proviso West,IL,8A,3,IHSA Class 8A,0-5,0,5,0,5,21.0,21.0,-28.98,73.2,56,4.8,48.4,-43.6,0.0,0.0,0.0,0.0,0.0,Rebuilding
-451,61,Ridgewood,IL,4A,4,IHSA Class 4A,2-8,2,8,0,10,20.9,20.9,-29.07,61.1,388,22.7,39.0,-16.3,2.65,2.65,2.65,10.0,47.0,Rebuilding
-452,59,Niles West,IL,8A,2,IHSA Class 8A,0-8,0,8,0,8,20.8,20.8,-29.21,67.2,207,7.4,39.8,-32.4,0.0,0.0,0.0,0.0,0.0,Rebuilding
-453,52,Back of the Yards College Prep,IL,1A,2,IHSA Class 1A,0-0,0,0,0,1,20.8,20.8,-29.25,49.1,456,10.0,37.4,-27.4,0.0,0.0,0.0,0.0,0.0,Rebuilding
-454,58,De La Salle,IL,7A,2,IHSA Class 7A,0-9,0,9,0,9,19.3,19.3,-30.74,69.7,125,11.8,44.9,-33.1,0.0,0.0,0.0,0.0,0.0,Rebuilding
-455,58,Rantoul,IL,5A,4,IHSA Class 5A,0-9,0,9,0,9,19.2,19.2,-30.78,71.2,83,18.9,51.4,-32.5,0.0,0.0,0.0,0.0,0.0,Rebuilding
-456,53,Routt Catholic/Lutheran,IL,2A,3,IHSA Class 2A,1-3,1,3,0,4,19.2,19.2,-30.84,65.6,261,11.2,41.5,-30.3,3.31,3.31,3.31,4.0,26.4,Rebuilding
+237,29,Sandwich,IL,3A,1,IHSA Class 3A,7-5,7,5,0,12,47.7,47.7,-2.29,68.0,177,23.6,25.6,-2.0,8.33,8.33,8.33,31.5,195.7,Dark Horse
+238,39,Von Steuben,IL,8A,3,IHSA Class 8A,7-2,7,2,0,9,47.6,47.6,-2.36,58.6,464,29.2,18.2,11.0,11.4,11.4,11.4,49.0,153.1,Playoff Bubble
+239,30,Glenbard South,IL,5A,3,IHSA Class 5A,6-5,6,5,0,11,47.6,47.6,-2.39,63.9,349,30.8,19.0,11.8,7.83,7.83,7.83,33.0,151.7,Dark Horse
+240,23,Erie-Prophetstown,IL,2A,2,IHSA Class 2A,8-3,8,3,0,11,47.4,47.4,-2.57,63.4,363,22.9,17.8,5.1,9.26,9.26,9.26,32.0,199.7,Dark Horse
+241,34,Rolling Meadows,IL,6A,2,IHSA Class 6A,3-8,3,8,0,11,47.4,47.4,-2.62,72.1,67,19.5,31.7,-12.2,4.56,4.56,4.56,18.0,91.8,Playoff Bubble
+242,24,Central A & M,IL,2A,3,IHSA Class 2A,6-5,6,5,0,11,47.3,47.3,-2.7,66.4,247,19.0,18.4,0.6,7.32,7.32,7.32,24.0,161.5,Dark Horse
+243,30,Fairfield,IL,3A,3,IHSA Class 3A,8-3,8,3,0,11,47.1,47.1,-2.93,61.9,400,27.8,19.2,8.6,9.38,9.38,9.38,36.0,191.8,Dark Horse
+244,25,Farmington,IL,2A,4,IHSA Class 2A,6-5,6,5,0,11,47.0,47.0,-3.01,64.9,308,30.5,27.1,3.4,7.14,7.14,7.14,24.0,155.7,Dark Horse
+245,36,DeKalb,IL,7A,2,IHSA Class 7A,1-8,1,8,0,9,46.6,46.6,-3.39,71.1,87,19.7,30.3,-10.6,1.88,1.88,1.88,6.5,29.9,Playoff Bubble
+246,31,Deerfield,IL,5A,2,IHSA Class 5A,6-5,6,5,0,11,46.3,46.3,-3.72,66.8,236,23.7,22.9,0.8,8.18,8.18,8.18,33.0,162.8,Dark Horse
+247,35,Willowbrook,IL,6A,4,IHSA Class 6A,6-5,6,5,0,11,46.2,46.2,-3.75,65.7,271,24.5,17.9,6.6,8.33,8.33,8.33,36.0,158.9,Playoff Bubble
+248,23,LeRoy,IL,1A,4,IHSA Class 1A,5-5,5,5,0,10,46.0,46.0,-4.05,66.8,233,20.5,21.5,-1.0,6.5,6.5,6.5,17.5,135.8,Dark Horse
+249,30,Civic Memorial,IL,4A,4,IHSA Class 4A,5-6,5,6,0,11,45.8,45.8,-4.17,69.3,139,25.8,34.7,-8.9,6.86,6.86,6.86,25.0,144.1,Dark Horse
+250,24,Abingdon/Avon,IL,1A,1,IHSA Class 1A,8-3,8,3,0,11,45.7,45.7,-4.26,59.0,457,34.5,18.2,16.3,8.17,8.17,8.17,28.0,176.8,Dark Horse
+251,25,Fisher,IL,1A,2,IHSA Class 1A,8-3,8,3,0,11,45.7,45.7,-4.27,61.0,423,37.0,22.2,14.8,8.5,8.5,8.5,28.0,187.0,Dark Horse
+252,31,PORTA/Ashland-Chandlerville Central/Greenview,IL,3A,2,IHSA Class 3A,5-5,5,5,0,10,45.6,45.6,-4.36,64.4,330,26.2,28.0,-1.8,6.73,6.73,6.73,22.5,128.1,Dark Horse
+253,32,Hansberry,IL,3A,2,IHSA Class 3A,7-2,7,2,0,9,45.4,45.4,-4.64,56.8,480,25.3,13.3,12.0,9.13,9.13,9.13,31.5,144.7,Dark Horse
+254,33,Eureka,IL,3A,1,IHSA Class 3A,4-6,4,6,0,10,45.3,45.3,-4.73,67.6,192,15.6,21.4,-5.8,5.68,5.68,5.68,18.0,110.8,Playoff Bubble
+255,26,Reed-Custer,IL,2A,2,IHSA Class 2A,4-6,4,6,0,10,45.2,45.2,-4.8,67.9,182,23.6,27.4,-3.8,5.51,5.51,5.51,16.0,111.6,Dark Horse
+256,37,Mundelein,IL,7A,1,IHSA Class 7A,3-7,3,7,0,10,45.2,45.2,-4.8,67.5,194,18.8,22.4,-3.6,4.85,4.85,4.85,19.5,83.0,Playoff Bubble
+257,40,Dundee-Crown,IL,8A,3,IHSA Class 8A,3-7,3,7,0,10,45.1,45.1,-4.87,70.0,114,16.2,26.1,-9.9,5.17,5.17,5.17,21.0,87.8,Playoff Bubble
+258,32,Mt. Vernon,IL,5A,3,IHSA Class 5A,3-7,3,7,0,10,45.0,45.0,-5.0,71.8,72,22.1,41.2,-19.1,4.84,4.84,4.84,16.5,91.2,Dark Horse
+259,34,Princeton,IL,3A,1,IHSA Class 3A,5-6,5,6,0,11,44.9,44.9,-5.06,65.9,264,29.5,23.3,6.2,6.28,6.28,6.28,22.5,133.0,Playoff Bubble
+260,33,Schurz,IL,5A,4,IHSA Class 5A,7-2,7,2,0,9,44.7,44.7,-5.27,56.8,481,26.9,19.1,7.8,9.9,9.9,9.9,38.5,144.6,Playoff Bubble
+261,31,Illinois Valley Central,IL,4A,1,IHSA Class 4A,3-7,3,7,0,10,44.7,44.7,-5.27,70.8,94,21.5,31.8,-10.3,4.63,4.63,4.63,15.0,89.3,Dark Horse
+262,35,Woodlawn,IL,3A,2,IHSA Class 3A,7-3,7,3,0,10,44.4,44.4,-5.57,60.3,437,27.3,19.5,7.8,8.76,8.76,8.76,31.5,160.4,Playoff Bubble
+263,41,Joliet West,IL,8A,4,IHSA Class 8A,4-6,4,6,0,10,44.2,44.2,-5.75,67.8,185,23.0,28.7,-5.7,6.7,6.7,6.7,28.0,111.4,Playoff Bubble
+264,34,Corliss/Butler College Prep,IL,5A,4,IHSA Class 5A,7-3,7,3,0,10,44.1,44.1,-5.92,60.9,427,29.1,18.2,10.9,9.57,9.57,9.57,38.5,163.4,Playoff Bubble
+265,42,Whitney Young,IL,8A,3,IHSA Class 8A,4-6,4,6,0,10,44.0,44.0,-5.96,65.9,265,14.8,19.7,-4.9,6.52,6.52,6.52,28.0,106.4,Playoff Bubble
+266,26,Athens,IL,1A,4,IHSA Class 1A,5-6,5,6,0,11,44.0,44.0,-5.97,65.6,277,32.6,31.2,1.4,5.79,5.79,5.79,17.5,132.0,Dark Horse
+267,38,Rich Township,IL,7A,1,IHSA Class 7A,3-7,3,7,0,10,44.0,44.0,-5.98,67.0,223,28.5,30.3,-1.8,4.82,4.82,4.82,19.5,81.9,Playoff Bubble
+268,36,Elk Grove,IL,6A,2,IHSA Class 6A,4-6,4,6,0,10,44.0,44.0,-6.03,70.6,97,16.7,28.6,-11.9,6.55,6.55,6.55,24.0,118.6,Playoff Bubble
+269,35,Prairie Ridge,IL,5A,2,IHSA Class 5A,3-8,3,8,0,11,44.0,44.0,-6.05,69.4,137,18.4,26.2,-7.8,4.26,4.26,4.26,16.5,86.6,Playoff Bubble
+270,37,Lake View,IL,6A,1,IHSA Class 6A,6-3,6,3,0,9,43.9,43.9,-6.09,58.7,462,34.4,28.0,6.4,9.11,9.11,9.11,36.0,131.4,Playoff Bubble
+271,36,Kewanee,IL,3A,4,IHSA Class 3A,5-5,5,5,0,10,43.9,43.9,-6.11,65.2,294,24.6,25.2,-0.6,6.82,6.82,6.82,22.5,130.5,Playoff Bubble
+272,37,Genoa-Kingston,IL,3A,2,IHSA Class 3A,6-5,6,5,0,11,43.4,43.4,-6.59,67.4,200,24.2,25.3,-1.1,7.72,7.72,7.72,27.0,165.5,Playoff Bubble
+273,38,Lindblom,IL,6A,3,IHSA Class 6A,5-5,5,5,0,10,43.3,43.3,-6.66,63.5,360,24.5,21.5,3.0,7.38,7.38,7.38,30.0,125.2,Playoff Bubble
+274,32,Rauner,IL,4A,4,IHSA Class 4A,7-3,7,3,0,10,43.2,43.2,-6.83,58.9,460,21.8,10.1,11.7,8.9,8.9,8.9,35.0,154.2,Dark Horse
+275,27,Shelbyville,IL,2A,2,IHSA Class 2A,4-8,4,8,0,12,42.9,42.9,-7.06,69.4,136,16.8,23.0,-6.2,4.7,4.7,4.7,16.0,115.4,Dark Horse
+276,28,Stillman Valley,IL,2A,3,IHSA Class 2A,5-6,5,6,0,11,42.9,42.9,-7.08,67.4,204,24.5,30.2,-5.7,6.2,6.2,6.2,20.0,137.7,Dark Horse
+277,38,Greenville,IL,3A,3,IHSA Class 3A,7-4,7,4,0,11,42.7,42.7,-7.32,62.9,376,26.2,22.8,3.4,8.35,8.35,8.35,31.5,172.4,Playoff Bubble
+278,29,Bismarck-Henning/Rossville-Alvin,IL,2A,1,IHSA Class 2A,7-5,7,5,0,12,42.6,42.6,-7.37,64.5,328,31.1,32.5,-1.4,7.57,7.57,7.57,28.0,179.5,Dark Horse
+279,36,Marian Catholic,IL,5A,1,IHSA Class 5A,2-7,2,7,0,9,42.1,42.1,-7.9,72.6,59,16.2,37.4,-21.2,3.63,3.63,3.63,11.0,61.9,Playoff Bubble
+280,39,Lake Forest,IL,6A,2,IHSA Class 6A,2-7,2,7,0,9,41.9,41.9,-8.11,68.1,175,19.3,27.1,-7.8,3.51,3.51,3.51,12.0,56.0,Playoff Bubble
+281,33,Woodstock North,IL,4A,4,IHSA Class 4A,4-6,4,6,0,10,41.6,41.6,-8.43,65.7,273,21.5,23.4,-1.9,5.7,5.7,5.7,20.0,105.8,Playoff Bubble
+282,37,Payton College Prep,IL,5A,3,IHSA Class 5A,5-5,5,5,0,10,41.4,41.4,-8.57,65.0,301,18.9,25.1,-6.2,7.3,7.3,7.3,27.5,130.1,Playoff Bubble
+283,40,Thornton,IL,6A,3,IHSA Class 6A,7-4,7,4,0,11,41.2,41.2,-8.83,63.9,345,26.0,23.7,2.3,9.46,9.46,9.46,42.0,177.2,Playoff Bubble
+284,34,Marengo,IL,4A,2,IHSA Class 4A,3-7,3,7,0,10,41.1,41.1,-8.92,67.7,189,19.4,24.7,-5.3,4.42,4.42,4.42,15.0,83.3,Playoff Bubble
+285,27,Havana,IL,1A,1,IHSA Class 1A,7-4,7,4,0,11,41.0,41.0,-8.97,59.3,451,43.5,32.9,10.6,7.19,7.19,7.19,24.5,156.0,Dark Horse
+286,39,Niles North,IL,7A,2,IHSA Class 7A,7-4,7,4,0,11,41.0,41.0,-9.0,61.7,407,30.9,32.8,-1.9,9.45,9.45,9.45,45.5,167.1,Playoff Bubble
+287,39,Mater Dei,IL,3A,4,IHSA Class 3A,5-5,5,5,0,10,41.0,41.0,-9.0,64.1,338,26.8,32.9,-6.1,6.69,6.69,6.69,22.5,127.0,Playoff Bubble
+288,28,Carlyle,IL,1A,3,IHSA Class 1A,7-4,7,4,0,11,41.0,41.0,-9.0,61.4,415,25.0,20.9,4.1,7.49,7.49,7.49,24.5,165.4,Dark Horse
+289,35,Salem,IL,4A,4,IHSA Class 4A,6-5,6,5,0,11,40.9,40.9,-9.08,65.9,266,21.6,28.8,-7.2,7.8,7.8,7.8,30.0,159.5,Playoff Bubble
+290,30,Oregon,IL,2A,4,IHSA Class 2A,4-7,4,7,0,11,40.9,40.9,-9.09,66.8,234,22.7,28.3,-5.6,4.91,4.91,4.91,16.0,108.6,Dark Horse
+291,38,Lakes,IL,5A,2,IHSA Class 5A,5-6,5,6,0,11,40.8,40.8,-9.24,63.5,361,23.2,18.8,4.4,6.48,6.48,6.48,27.5,125.2,Playoff Bubble
+292,29,Stark County,IL,1A,3,IHSA Class 1A,7-3,7,3,0,10,40.5,40.5,-9.54,62.4,393,27.2,31.5,-4.3,8.41,8.41,8.41,24.5,170.3,Dark Horse
+293,43,Saint Viator,IL,8A,2,IHSA Class 8A,2-7,2,7,0,9,40.5,40.5,-9.55,74.0,47,14.6,37.3,-22.7,4.04,4.04,4.04,14.0,63.8,Playoff Bubble
+294,36,Richland County,IL,4A,1,IHSA Class 4A,4-6,4,6,0,10,40.5,40.5,-9.55,63.9,350,30.5,29.7,0.8,5.54,5.54,5.54,20.0,101.1,Playoff Bubble
+295,40,Lincoln Park,IL,7A,3,IHSA Class 7A,5-7,5,7,0,12,40.4,40.4,-9.58,67.5,197,9.4,22.5,-13.1,6.74,6.74,6.74,32.5,138.1,Playoff Bubble
+296,40,North Boone,IL,3A,3,IHSA Class 3A,4-6,4,6,0,10,40.3,40.3,-9.73,65.9,263,26.3,30.2,-3.9,5.52,5.52,5.52,18.0,106.4,Playoff Bubble
+297,41,Massac County,IL,3A,3,IHSA Class 3A,6-4,6,4,0,10,40.2,40.2,-9.76,62.4,392,24.1,27.8,-3.7,7.81,7.81,7.81,27.0,146.0,Playoff Bubble
+298,37,Marquette Catholic,IL,4A,3,IHSA Class 4A,4-6,4,6,0,10,39.9,39.9,-10.15,61.9,399,29.9,27.5,2.4,5.36,5.36,5.36,20.0,95.9,Playoff Bubble
+299,42,Columbia,IL,3A,3,IHSA Class 3A,2-8,2,8,0,10,39.7,39.7,-10.33,69.2,141,23.6,33.3,-9.7,2.91,2.91,2.91,9.0,57.5,Playoff Bubble
+300,41,McHenry,IL,7A,1,IHSA Class 7A,3-7,3,7,0,10,39.7,39.7,-10.34,70.8,95,12.0,35.6,-23.6,5.07,5.07,5.07,19.5,89.2,Playoff Bubble
+301,31,Red Bud,IL,2A,4,IHSA Class 2A,6-4,6,4,0,10,39.7,39.7,-10.34,63.1,371,21.9,26.5,-4.6,7.6,7.6,7.6,24.0,148.7,Dark Horse
+302,39,Freeport,IL,5A,2,IHSA Class 5A,4-6,4,6,0,10,39.2,39.2,-10.76,66.9,227,20.9,29.1,-8.2,6.01,6.01,6.01,22.0,108.9,Playoff Bubble
+303,30,Orion,IL,1A,4,IHSA Class 1A,5-6,5,6,0,11,39.1,39.1,-10.85,64.6,322,20.5,24.3,-3.8,5.68,5.68,5.68,17.5,128.6,Dark Horse
+304,43,Staunton/Bunker Hill,IL,3A,4,IHSA Class 3A,4-6,4,6,0,10,39.1,39.1,-10.88,62.0,398,26.4,27.0,-0.6,5.17,5.17,5.17,18.0,96.2,Playoff Bubble
+305,44,Illinois Crusaders,IL,8A,4,IHSA Class 8A,8-1,8,1,0,9,39.1,39.1,-10.92,56.0,485,41.8,22.3,19.5,12.49,12.49,12.49,56.0,161.1,Playoff Bubble
+306,45,Belleville West,IL,8A,4,IHSA Class 8A,1-8,1,8,0,9,39.0,39.0,-10.99,71.6,78,17.1,39.2,-22.1,1.96,1.96,1.96,7.0,30.3,Playoff Bubble
+307,41,Amundsen,IL,6A,2,IHSA Class 6A,3-7,3,7,0,10,39.0,39.0,-11.01,65.3,286,15.8,26.7,-10.9,4.55,4.55,4.55,18.0,78.6,Playoff Bubble
+308,40,Peoria,IL,5A,3,IHSA Class 5A,4-6,4,6,0,10,39.0,39.0,-11.02,62.5,389,31.6,32.3,-0.7,5.61,5.61,5.61,22.0,97.4,Playoff Bubble
+309,42,Champaign Central,IL,6A,1,IHSA Class 6A,5-5,5,5,0,10,39.0,39.0,-11.03,63.9,347,23.7,24.5,-0.8,7.43,7.43,7.43,30.0,126.5,Playoff Bubble
+310,46,Leyden,IL,8A,2,IHSA Class 8A,3-7,3,7,0,10,38.8,38.8,-11.23,67.6,193,15.8,26.3,-10.5,5.01,5.01,5.01,21.0,83.1,Playoff Bubble
+311,43,Brooks,IL,6A,1,IHSA Class 6A,5-5,5,5,0,10,38.6,38.6,-11.35,61.8,405,21.9,23.2,-1.3,7.19,7.19,7.19,30.0,119.7,Playoff Bubble
+312,41,Springfield,IL,5A,3,IHSA Class 5A,3-7,3,7,0,10,38.6,38.6,-11.36,67.2,216,18.2,27.9,-9.7,4.53,4.53,4.53,16.5,82.3,Playoff Bubble
+313,42,Grayslake Central,IL,5A,4,IHSA Class 5A,4-6,4,6,0,10,38.6,38.6,-11.39,64.9,307,26.7,36.5,-9.8,5.83,5.83,5.83,22.0,103.8,Playoff Bubble
+314,31,Villa Grove/Heritage,IL,1A,3,IHSA Class 1A,7-4,7,4,0,11,38.6,38.6,-11.42,59.1,455,30.8,21.2,9.6,7.17,7.17,7.17,24.5,155.2,Dark Horse
+315,38,Tinley Park,IL,4A,2,IHSA Class 4A,5-6,5,6,0,11,38.5,38.5,-11.5,64.9,310,24.2,28.0,-3.8,6.39,6.39,6.39,25.0,129.5,Playoff Bubble
+316,32,Carrollton,IL,1A,1,IHSA Class 1A,5-5,5,5,0,10,38.5,38.5,-11.53,62.6,385,21.3,29.0,-7.7,6.03,6.03,6.03,17.5,122.2,Dark Horse
+317,32,Carlinville,IL,2A,1,IHSA Class 2A,5-6,5,6,0,11,38.4,38.4,-11.59,63.7,354,30.4,30.9,-0.5,5.82,5.82,5.82,20.0,125.7,Dark Horse
+318,33,Seneca,IL,2A,1,IHSA Class 2A,1-8,1,8,0,9,38.3,38.3,-11.71,66.9,228,18.1,30.3,-12.2,1.5,1.5,1.5,4.0,27.2,Playoff Bubble
+319,47,Schaumburg,IL,8A,4,IHSA Class 8A,1-8,1,8,0,9,38.2,38.2,-11.84,71.1,88,18.2,38.7,-20.5,1.94,1.94,1.94,7.0,29.9,Playoff Bubble
+320,48,Taft,IL,8A,4,IHSA Class 8A,3-7,3,7,0,10,38.1,38.1,-11.94,66.0,261,20.7,23.8,-3.1,4.9,4.9,4.9,21.0,80.0,Playoff Bubble
+321,43,Grayslake North,IL,5A,1,IHSA Class 5A,5-5,5,5,0,10,38.0,38.0,-11.96,64.5,327,24.8,30.7,-5.9,7.24,7.24,7.24,27.5,128.3,Playoff Bubble
+322,34,Hamilton County,IL,2A,3,IHSA Class 2A,6-5,6,5,0,11,38.0,38.0,-12.03,61.1,419,17.7,19.9,-2.2,6.67,6.67,6.67,24.0,141.0,Playoff Bubble
+323,39,Normal University,IL,4A,1,IHSA Class 4A,1-8,1,8,0,9,37.9,37.9,-12.09,72.0,69,17.3,41.2,-23.9,1.74,1.74,1.74,5.0,30.5,Playoff Bubble
+324,35,Illini West,IL,2A,4,IHSA Class 2A,8-3,8,3,0,11,37.9,37.9,-12.15,61.7,408,26.7,30.3,-3.6,8.99,8.99,8.99,32.0,191.0,Playoff Bubble
+325,42,Jefferson,IL,7A,4,IHSA Class 7A,3-7,3,7,0,10,37.7,37.7,-12.28,68.0,179,17.1,31.0,-13.9,4.88,4.88,4.88,19.5,83.8,Playoff Bubble
+326,44,Hubbard,IL,6A,1,IHSA Class 6A,4-5,4,5,0,9,37.7,37.7,-12.3,57.4,474,25.1,18.4,6.7,5.94,5.94,5.94,24.0,84.3,Playoff Bubble
+327,44,Bloomington,IL,5A,3,IHSA Class 5A,4-6,4,6,0,10,37.7,37.7,-12.3,64.6,323,21.4,29.4,-8.0,5.8,5.8,5.8,22.0,102.9,Playoff Bubble
+328,43,Reavis,IL,7A,4,IHSA Class 7A,5-6,5,6,0,11,37.7,37.7,-12.32,65.2,290,22.5,32.0,-9.5,7.11,7.11,7.11,32.5,130.7,Playoff Bubble
+329,49,Blue Island Eisenhower,IL,8A,3,IHSA Class 8A,1-8,1,8,0,9,37.7,37.7,-12.33,67.8,188,7.3,21.0,-13.7,1.86,1.86,1.86,7.0,27.8,Rebuilding
+330,45,Herrin,IL,5A,3,IHSA Class 5A,1-8,1,8,0,9,37.6,37.6,-12.35,69.4,135,15.1,31.2,-16.1,1.73,1.73,1.73,5.5,28.9,Playoff Bubble
+331,33,Tremont,IL,1A,3,IHSA Class 1A,4-6,4,6,0,10,37.6,37.6,-12.38,66.2,255,13.1,29.2,-16.1,5.15,5.15,5.15,14.0,107.1,Playoff Bubble
+332,45,Maine West,IL,6A,4,IHSA Class 6A,3-7,3,7,0,10,37.5,37.5,-12.54,66.8,230,19.0,30.4,-11.4,4.66,4.66,4.66,18.0,81.6,Playoff Bubble
+333,34,Red Hill,IL,1A,3,IHSA Class 1A,5-6,5,6,0,11,37.4,37.4,-12.56,62.3,396,15.9,21.4,-5.5,5.45,5.45,5.45,17.5,121.3,Playoff Bubble
+334,40,Murphysboro,IL,4A,2,IHSA Class 4A,1-8,1,8,0,9,37.4,37.4,-12.58,68.6,161,15.8,34.3,-18.5,1.66,1.66,1.66,5.0,28.3,Playoff Bubble
+335,41,Clark,IL,4A,4,IHSA Class 4A,8-2,8,2,0,10,37.4,37.4,-12.61,57.9,472,19.2,17.8,1.4,10.0,10.0,10.0,40.0,171.3,Playoff Bubble
+336,42,Plano,IL,4A,1,IHSA Class 4A,2-8,2,8,0,10,37.3,37.3,-12.67,67.9,181,20.9,30.8,-9.9,2.95,2.95,2.95,10.0,55.8,Playoff Bubble
+337,46,Crystal Lake South,IL,5A,2,IHSA Class 5A,2-8,2,8,0,10,37.0,37.0,-12.96,70.5,101,15.5,37.4,-21.9,3.17,3.17,3.17,11.0,59.2,Playoff Bubble
+338,36,Carmi-White County,IL,2A,2,IHSA Class 2A,5-5,5,5,0,10,36.7,36.7,-13.31,61.6,411,24.0,20.9,3.1,6.17,6.17,6.17,20.0,119.0,Playoff Bubble
+339,46,Canton,IL,6A,4,IHSA Class 6A,2-7,2,7,0,9,36.6,36.6,-13.37,68.7,157,19.1,32.8,-13.7,3.54,3.54,3.54,12.0,56.8,Playoff Bubble
+340,44,Elgin,IL,7A,4,IHSA Class 7A,5-5,5,5,0,10,36.4,36.4,-13.63,61.9,401,27.8,33.3,-5.5,7.44,7.44,7.44,32.5,119.8,Playoff Bubble
+341,44,Monmouth-Roseville,IL,3A,3,IHSA Class 3A,4-6,4,6,0,10,36.3,36.3,-13.68,63.1,372,22.1,25.9,-3.8,5.26,5.26,5.26,18.0,99.0,Playoff Bubble
+342,45,Lisle,IL,3A,3,IHSA Class 3A,4-6,4,6,0,10,36.1,36.1,-13.9,68.2,173,22.4,36.6,-14.2,5.73,5.73,5.73,18.0,112.2,Playoff Bubble
+343,37,Pleasant Plains,IL,2A,2,IHSA Class 2A,3-7,3,7,0,10,36.0,36.0,-13.96,65.1,297,24.1,33.3,-9.2,3.94,3.94,3.94,12.0,78.2,Playoff Bubble
+344,35,Cumberland,IL,1A,4,IHSA Class 1A,5-5,5,5,0,10,35.9,35.9,-14.14,59.3,452,27.5,24.0,3.5,5.65,5.65,5.65,17.5,111.4,Playoff Bubble
+345,36,Ridgeview/Lexington,IL,1A,4,IHSA Class 1A,2-7,2,7,0,9,35.8,35.8,-14.19,67.4,202,15.2,26.9,-11.7,2.92,2.92,2.92,7.0,55.1,Playoff Bubble
+346,50,Curie,IL,8A,3,IHSA Class 8A,5-5,5,5,0,10,35.7,35.7,-14.3,60.6,431,17.5,22.4,-4.9,7.56,7.56,7.56,35.0,115.9,Rebuilding
+347,51,Little Village,IL,8A,2,IHSA Class 8A,4-4,4,4,0,8,35.4,35.4,-14.57,54.2,493,24.2,24.5,-0.3,6.82,6.82,6.82,28.0,76.0,Rebuilding
+348,47,Comer,IL,5A,4,IHSA Class 5A,5-5,5,5,0,10,35.4,35.4,-14.59,60.9,425,27.1,28.9,-1.8,6.84,6.84,6.84,27.5,116.8,Playoff Bubble
+349,37,Astoria/VIT,IL,1A,3,IHSA Class 1A,6-4,6,4,0,10,35.4,35.4,-14.62,58.7,463,25.5,19.5,6.0,6.7,6.7,6.7,21.0,131.4,Playoff Bubble
+350,45,West Chicago,IL,7A,1,IHSA Class 7A,5-6,5,6,0,11,35.3,35.3,-14.7,62.8,382,31.6,33.2,-1.6,6.86,6.86,6.86,32.5,122.8,Playoff Bubble
+351,43,East Peoria,IL,4A,2,IHSA Class 4A,4-6,4,6,0,10,35.2,35.2,-14.78,66.9,224,20.6,37.8,-17.2,5.81,5.81,5.81,20.0,109.0,Playoff Bubble
+352,38,Riverton,IL,2A,3,IHSA Class 2A,4-6,4,6,0,10,35.2,35.2,-14.84,64.7,317,22.4,39.4,-17.0,5.21,5.21,5.21,16.0,103.2,Playoff Bubble
+353,46,Collinsville,IL,7A,2,IHSA Class 7A,3-7,3,7,0,10,35.1,35.1,-14.94,67.2,212,22.9,38.0,-15.1,4.83,4.83,4.83,19.5,82.4,Playoff Bubble
+354,44,Effingham,IL,4A,3,IHSA Class 4A,2-8,2,8,0,10,34.4,34.4,-15.6,70.4,107,13.8,36.4,-22.6,3.07,3.07,3.07,10.0,59.1,Playoff Bubble
+355,52,Chicago Academy/Disney II,IL,8A,3,IHSA Class 8A,6-3,6,3,0,9,34.4,34.4,-15.62,53.5,494,20.2,11.4,8.8,8.99,8.99,8.99,42.0,111.2,Rebuilding
+356,46,Paxton-Buckley-Loda,IL,3A,3,IHSA Class 3A,2-7,2,7,0,9,34.3,34.3,-15.69,70.7,96,12.9,35.0,-22.1,3.31,3.31,3.31,9.0,59.4,Playoff Bubble
+357,39,Deer Creek-Mackinaw,IL,2A,2,IHSA Class 2A,2-7,2,7,0,9,34.2,34.2,-15.79,66.3,252,14.9,32.2,-17.3,2.98,2.98,2.98,8.0,53.8,Playoff Bubble
+358,40,Elmwood/Brimfield,IL,2A,1,IHSA Class 2A,4-6,4,6,0,10,34.1,34.1,-15.88,61.6,412,24.6,29.3,-4.7,4.93,4.93,4.93,16.0,95.2,Playoff Bubble
+359,53,ITW David Speer Academy,IL,8A,2,IHSA Class 8A,4-4,4,4,0,8,34.0,34.0,-16.05,58.2,469,14.0,16.0,-2.0,7.28,7.28,7.28,28.0,86.4,Rebuilding
+360,38,Casey-Westfield,IL,1A,1,IHSA Class 1A,4-7,4,7,0,11,33.9,33.9,-16.09,63.0,373,15.9,25.8,-9.9,4.42,4.42,4.42,14.0,98.9,Playoff Bubble
+361,47,Richwoods,IL,6A,4,IHSA Class 6A,3-7,3,7,0,10,33.9,33.9,-16.1,63.0,375,32.4,39.3,-6.9,4.39,4.39,4.39,18.0,74.0,Playoff Bubble
+362,47,Collins,IL,7A,3,IHSA Class 7A,4-5,4,5,0,9,33.7,33.7,-16.32,55.5,489,17.4,14.9,2.5,5.98,5.98,5.98,26.0,79.4,Playoff Bubble
+363,41,Southwestern,IL,2A,3,IHSA Class 2A,4-6,4,6,0,10,33.6,33.6,-16.41,62.4,394,16.8,19.7,-2.9,5.0,5.0,5.0,16.0,97.1,Playoff Bubble
+364,45,North Lawndale,IL,4A,4,IHSA Class 4A,5-5,5,5,0,10,33.4,33.4,-16.62,59.8,447,15.5,21.0,-5.5,6.46,6.46,6.46,25.0,113.0,Playoff Bubble
+365,42,Chicago Marshall,IL,2A,4,IHSA Class 2A,4-6,4,6,0,10,33.3,33.3,-16.73,58.3,468,21.3,19.3,2.0,4.63,4.63,4.63,16.0,86.5,Playoff Bubble
+366,47,Robinson,IL,3A,4,IHSA Class 3A,4-6,4,6,0,10,33.2,33.2,-16.77,65.2,288,18.4,40.1,-21.7,5.46,5.46,5.46,18.0,104.7,Playoff Bubble
+367,54,Bloom,IL,8A,1,IHSA Class 8A,3-7,3,7,0,10,33.0,33.0,-16.98,65.7,274,13.9,27.2,-13.3,4.88,4.88,4.88,21.0,79.4,Rebuilding
+368,39,Princeville,IL,1A,4,IHSA Class 1A,3-7,3,7,0,10,32.8,32.8,-17.22,62.5,388,22.5,30.9,-8.4,3.61,3.61,3.61,10.5,73.2,Playoff Bubble
+369,48,Prosser,IL,7A,2,IHSA Class 7A,5-5,5,5,0,10,32.5,32.5,-17.55,57.7,473,25.0,23.8,1.2,6.97,6.97,6.97,32.5,106.3,Playoff Bubble
+370,48,Rockford East,IL,6A,1,IHSA Class 6A,2-8,2,8,0,10,32.4,32.4,-17.64,67.7,190,18.4,32.9,-14.5,3.14,3.14,3.14,12.0,55.5,Playoff Bubble
+371,48,South Shore International,IL,3A,1,IHSA Class 3A,5-5,5,5,0,10,32.0,32.0,-17.95,58.2,471,22.5,22.8,-0.3,6.02,6.02,6.02,22.5,107.8,Playoff Bubble
+372,48,Corliss,IL,5A,2,IHSA Class 5A,7-3,7,3,0,10,31.9,31.9,-18.13,56.2,483,19.7,28.2,-8.5,8.82,8.82,8.82,38.5,142.0,Playoff Bubble
+373,49,Glenbrook North,IL,7A,4,IHSA Class 7A,3-7,3,7,0,10,31.8,31.8,-18.2,64.4,332,18.2,31.2,-13.0,4.64,4.64,4.64,19.5,76.8,Rebuilding
+374,49,Thornton Fractional South,IL,6A,4,IHSA Class 6A,3-7,3,7,0,10,31.6,31.6,-18.38,63.3,364,18.2,29.4,-11.2,4.42,4.42,4.42,18.0,74.8,Rebuilding
+375,49,Centennial,IL,5A,3,IHSA Class 5A,3-7,3,7,0,10,31.4,31.4,-18.55,61.2,417,22.4,29.9,-7.5,4.12,4.12,4.12,16.5,70.6,Rebuilding
+376,50,Dunbar,IL,7A,1,IHSA Class 7A,5-4,5,4,0,9,31.3,31.3,-18.72,53.1,498,19.6,11.3,8.3,7.16,7.16,7.16,32.5,91.2,Rebuilding
+377,43,Christopher-Zeigler-Royalton,IL,2A,3,IHSA Class 2A,3-7,3,7,0,10,31.2,31.2,-18.82,62.3,395,14.2,26.1,-11.9,3.75,3.75,3.75,12.0,72.8,Playoff Bubble
+378,44,Beardstown,IL,2A,2,IHSA Class 2A,4-6,4,6,0,10,31.1,31.1,-18.89,63.9,346,21.4,32.7,-11.3,5.14,5.14,5.14,16.0,101.2,Playoff Bubble
+379,40,Gibson City-Melvin-Sibley,IL,1A,4,IHSA Class 1A,1-8,1,8,0,9,31.1,31.1,-18.95,67.3,211,6.7,30.6,-23.9,1.46,1.46,1.46,3.5,27.5,Playoff Bubble
+380,51,Stagg,IL,7A,3,IHSA Class 7A,2-7,2,7,0,9,30.8,30.8,-19.19,70.6,100,6.1,36.3,-30.2,3.75,3.75,3.75,13.0,59.2,Rebuilding
+381,50,Ottawa,IL,6A,3,IHSA Class 6A,2-7,2,7,0,9,30.6,30.6,-19.39,68.8,154,12.4,41.9,-29.5,3.55,3.55,3.55,12.0,56.9,Rebuilding
+382,52,Rock Island,IL,7A,2,IHSA Class 7A,0-10,0,10,0,10,30.6,30.6,-19.45,72.8,58,11.8,43.4,-31.6,0.0,0.0,0.0,0.0,0.0,Rebuilding
+383,50,Herscher,IL,5A,2,IHSA Class 5A,1-8,1,8,0,9,30.5,30.5,-19.51,70.2,111,14.2,43.6,-29.4,1.75,1.75,1.75,5.5,29.4,Rebuilding
+384,45,Marshall,IL,2A,4,IHSA Class 2A,3-7,3,7,0,10,30.5,30.5,-19.52,64.1,341,15.0,30.9,-15.9,3.87,3.87,3.87,12.0,76.2,Playoff Bubble
+385,46,Mercer County,IL,4A,2,IHSA Class 4A,2-7,2,7,0,9,30.4,30.4,-19.55,64.0,344,15.6,29.6,-14.0,3.08,3.08,3.08,10.0,50.7,Playoff Bubble
+386,47,Aurora Central Catholic,IL,4A,4,IHSA Class 4A,5-7,5,7,0,12,30.4,30.4,-19.59,61.9,402,19.5,24.9,-5.4,5.58,5.58,5.58,25.0,119.8,Playoff Bubble
+387,53,Berwyn/Cicero Morton,IL,7A,1,IHSA Class 7A,1-8,1,8,0,9,30.4,30.4,-19.63,67.2,214,14.7,35.9,-21.2,1.79,1.79,1.79,6.5,27.4,Rebuilding
+388,41,Bureau Valley,IL,1A,1,IHSA Class 1A,3-7,3,7,0,10,30.3,30.3,-19.69,61.8,403,23.8,28.8,-5.0,3.56,3.56,3.56,10.5,71.8,Playoff Bubble
+389,54,Bartlett,IL,7A,4,IHSA Class 7A,2-8,2,8,0,10,30.3,30.3,-19.71,64.1,337,20.9,32.4,-11.5,3.08,3.08,3.08,13.0,50.8,Rebuilding
+390,42,Sesser-Valier/Waltonville,IL,1A,4,IHSA Class 1A,3-7,3,7,0,10,30.1,30.1,-19.85,62.2,397,16.4,27.5,-11.1,3.59,3.59,3.59,10.5,72.5,Playoff Bubble
+391,55,Christ the King,IL,7A,2,IHSA Class 7A,1-8,1,8,0,9,30.1,30.1,-19.93,68.5,164,11.1,31.8,-20.7,1.82,1.82,1.82,6.5,28.3,Rebuilding
+392,51,Muchin College Prep,IL,6A,4,IHSA Class 6A,6-5,6,5,0,11,30.0,30.0,-19.96,59.2,454,18.2,26.3,-8.1,7.51,7.51,7.51,36.0,133.3,Rebuilding
+393,49,Dyett,IL,3A,3,IHSA Class 3A,6-4,6,4,0,10,29.9,29.9,-20.1,59.0,458,24.7,24.3,0.4,7.34,7.34,7.34,27.0,132.6,Rebuilding
+394,56,Steinmetz College Prep,IL,7A,3,IHSA Class 7A,5-4,5,4,0,9,29.9,29.9,-20.11,55.2,491,18.7,16.0,2.7,7.43,7.43,7.43,32.5,98.1,Rebuilding
+395,52,Mattoon,IL,6A,1,IHSA Class 6A,2-7,2,7,0,9,29.5,29.5,-20.48,66.3,253,10.6,33.7,-23.1,3.42,3.42,3.42,12.0,53.7,Rebuilding
+396,57,ROWVA/Williamsfield,IL,7A,1,IHSA Class 7A,2-7,2,7,0,9,29.4,29.4,-20.63,59.2,453,22.0,25.9,-3.9,3.17,3.17,3.17,13.0,44.5,Rebuilding
+397,53,Crane Medical,IL,6A,3,IHSA Class 6A,0-8,0,8,0,8,29.0,29.0,-20.97,58.7,461,8.2,21.9,-13.7,0.0,0.0,0.0,0.0,0.0,Rebuilding
+398,54,Uplift/Alcott/DeVry Advantage Academy,IL,6A,3,IHSA Class 6A,5-3,5,3,0,8,28.6,28.6,-21.36,53.2,497,23.5,16.0,7.5,7.76,7.76,7.76,30.0,91.7,Rebuilding
+399,51,Danville,IL,5A,3,IHSA Class 5A,4-6,4,6,0,10,28.5,28.5,-21.53,61.0,424,28.8,34.8,-6.0,5.47,5.47,5.47,22.0,93.5,Rebuilding
+400,48,Carver,IL,4A,3,IHSA Class 4A,6-3,6,3,0,9,28.4,28.4,-21.62,55.6,486,20.2,26.4,-6.2,7.98,7.98,7.98,30.0,119.5,Playoff Bubble
+401,50,Julian,IL,3A,1,IHSA Class 3A,4-5,4,5,0,9,28.3,28.3,-21.74,56.1,484,13.6,20.0,-6.4,5.15,5.15,5.15,18.0,80.9,Rebuilding
+402,58,Crystal Lake Central,IL,7A,2,IHSA Class 7A,0-9,0,9,0,9,28.2,28.2,-21.79,70.5,102,12.8,34.3,-21.5,0.0,0.0,0.0,0.0,0.0,Rebuilding
+403,46,Georgetown-Ridge Farm/Chrisman,IL,2A,4,IHSA Class 2A,3-7,3,7,0,10,28.2,28.2,-21.82,65.0,300,15.0,36.8,-21.8,3.93,3.93,3.93,12.0,78.1,Playoff Bubble
+404,55,Charleston,IL,6A,1,IHSA Class 6A,0-9,0,9,0,9,28.2,28.2,-21.82,69.5,130,21.0,43.7,-22.7,0.0,0.0,0.0,0.0,0.0,Rebuilding
+405,51,Mendota,IL,3A,3,IHSA Class 3A,3-7,3,7,0,10,28.1,28.1,-21.87,64.7,318,13.6,40.5,-26.9,4.06,4.06,4.06,13.5,77.3,Rebuilding
+406,49,St. Edward,IL,4A,3,IHSA Class 4A,2-7,2,7,0,9,27.7,27.7,-22.32,66.8,235,13.0,40.2,-27.2,3.22,3.22,3.22,10.0,54.3,Rebuilding
+407,55,Alton,IL,8A,1,IHSA Class 8A,1-8,1,8,0,9,27.5,27.5,-22.52,69.3,140,17.2,41.2,-24.0,1.9,1.9,1.9,7.0,28.8,Rebuilding
+408,43,Momence,IL,1A,3,IHSA Class 1A,3-7,3,7,0,10,27.4,27.4,-22.57,64.1,336,16.8,36.4,-19.6,3.72,3.72,3.72,10.5,76.3,Playoff Bubble
+409,44,Monmouth United,IL,1A,1,IHSA Class 1A,3-7,3,7,0,10,27.4,27.4,-22.58,60.6,432,26.4,41.7,-15.3,3.48,3.48,3.48,10.5,69.4,Playoff Bubble
+410,56,Pritzker,IL,6A,3,IHSA Class 6A,4-4,4,4,0,8,27.2,27.2,-22.8,53.3,496,22.8,17.0,5.8,6.22,6.22,6.22,24.0,73.6,Rebuilding
+411,57,Streator,IL,6A,1,IHSA Class 6A,1-8,1,8,0,9,27.0,27.0,-22.96,69.2,142,11.6,39.2,-27.6,1.78,1.78,1.78,6.0,28.7,Rebuilding
+412,52,Foreman,IL,5A,2,IHSA Class 5A,2-6,2,6,0,8,26.9,26.9,-23.09,54.5,492,7.6,20.1,-12.5,3.05,3.05,3.05,11.0,38.4,Rebuilding
+413,45,Pleasant Hill/Western,IL,1A,3,IHSA Class 1A,2-8,2,8,0,10,26.9,26.9,-23.13,65.6,279,14.5,34.0,-19.5,2.55,2.55,2.55,7.0,52.8,Playoff Bubble
+414,50,Boylan Catholic,IL,4A,1,IHSA Class 4A,1-8,1,8,0,9,26.7,26.7,-23.28,67.3,209,10.1,34.9,-24.8,1.62,1.62,1.62,5.0,27.5,Rebuilding
+415,47,Wesclin,IL,2A,2,IHSA Class 2A,2-8,2,8,0,10,26.5,26.5,-23.5,63.7,355,15.6,33.3,-17.7,2.56,2.56,2.56,8.0,50.3,Playoff Bubble
+416,58,Bowen/Baker College Prep,IL,6A,2,IHSA Class 6A,2-6,2,6,0,8,26.3,26.3,-23.66,55.6,487,14.2,25.0,-10.8,3.24,3.24,3.24,12.0,39.8,Rebuilding
+417,51,North Chicago,IL,4A,1,IHSA Class 4A,2-8,2,8,0,10,26.2,26.2,-23.77,65.0,305,17.1,36.2,-19.1,2.82,2.82,2.82,10.0,51.9,Rebuilding
+418,59,Vernon Hills,IL,6A,1,IHSA Class 6A,2-7,2,7,0,9,25.9,25.9,-24.06,64.8,312,15.1,32.3,-17.2,3.35,3.35,3.35,12.0,51.8,Rebuilding
+419,46,Morrison,IL,1A,2,IHSA Class 1A,1-8,1,8,0,9,25.5,25.5,-24.51,72.0,68,6.0,45.6,-39.6,1.58,1.58,1.58,3.5,30.6,Playoff Bubble
+420,56,Romeoville,IL,8A,3,IHSA Class 8A,2-7,2,7,0,9,25.3,25.3,-24.72,64.6,320,8.4,35.0,-26.6,3.56,3.56,3.56,14.0,51.5,Rebuilding
+421,53,Longwood,IL,5A,1,IHSA Class 5A,3-6,3,6,0,9,25.0,25.0,-25.02,58.3,467,15.1,29.2,-14.1,4.36,4.36,4.36,16.5,65.0,Rebuilding
+422,54,DuSable/Tilden/Air Force Academy,IL,5A,1,IHSA Class 5A,6-3,6,3,0,9,24.6,24.6,-25.43,52.4,499,17.2,16.1,1.1,7.82,7.82,7.82,33.0,106.9,Rebuilding
+423,47,Nokomis,IL,1A,4,IHSA Class 1A,4-6,4,6,0,10,24.4,24.4,-25.57,59.9,445,19.3,32.3,-13.0,4.57,4.57,4.57,14.0,90.7,Playoff Bubble
+424,52,Knoxville,IL,3A,3,IHSA Class 3A,2-7,2,7,0,9,24.4,24.4,-25.62,59.0,459,20.2,31.4,-11.2,2.71,2.71,2.71,9.0,44.1,Rebuilding
+425,53,Dakota,IL,3A,3,IHSA Class 3A,1-8,1,8,0,9,24.4,24.4,-25.65,68.7,156,13.1,44.7,-31.6,1.6,1.6,1.6,4.5,28.4,Rebuilding
+426,48,Rushville-Industry,IL,1A,4,IHSA Class 1A,1-8,1,8,0,9,24.0,24.0,-25.96,61.7,409,15.1,34.6,-19.5,1.32,1.32,1.32,3.5,23.9,Playoff Bubble
+427,60,Bremen,IL,6A,2,IHSA Class 6A,1-8,1,8,0,9,23.8,23.8,-26.21,65.5,283,8.0,42.9,-34.9,1.69,1.69,1.69,6.0,26.3,Rebuilding
+428,55,Proviso East,IL,5A,1,IHSA Class 5A,1-8,1,8,0,9,23.5,23.5,-26.52,67.7,191,8.0,39.7,-31.7,1.69,1.69,1.69,5.5,27.7,Rebuilding
+429,56,Senn,IL,5A,4,IHSA Class 5A,5-5,5,5,0,10,23.3,23.3,-26.69,57.2,477,11.8,22.4,-10.6,6.41,6.41,6.41,27.5,104.7,Rebuilding
+430,57,Plainfield Central,IL,8A,4,IHSA Class 8A,1-8,1,8,0,9,23.1,23.1,-26.92,66.1,258,12.1,41.8,-29.7,1.82,1.82,1.82,7.0,26.7,Rebuilding
+431,58,Aurora East,IL,8A,2,IHSA Class 8A,5-5,5,5,0,10,23.0,23.0,-27.04,60.0,443,25.9,36.4,-10.5,7.48,7.48,7.48,35.0,113.8,Rebuilding
+432,57,Hall/Putnam County,IL,5A,4,IHSA Class 5A,1-7,1,7,0,8,22.9,22.9,-27.1,62.8,383,14.0,30.9,-16.9,1.76,1.76,1.76,5.5,24.6,Rebuilding
+433,54,Bogan,IL,3A,2,IHSA Class 3A,1-8,1,8,0,9,22.9,22.9,-27.15,57.0,479,11.8,28.0,-16.2,1.31,1.31,1.31,4.5,20.8,Rebuilding
+434,49,Anna-Jonesboro,IL,1A,2,IHSA Class 1A,1-8,1,8,0,9,22.7,22.7,-27.26,68.5,162,13.1,47.7,-34.6,1.49,1.49,1.49,3.5,28.3,Rebuilding
+435,48,Hamilton/Warsaw,IL,2A,4,IHSA Class 2A,2-8,2,8,0,10,22.6,22.6,-27.37,62.5,390,25.6,45.3,-19.7,2.5,2.5,2.5,8.0,48.7,Playoff Bubble
+436,59,Round Lake,IL,7A,3,IHSA Class 7A,2-7,2,7,0,9,22.4,22.4,-27.59,62.8,381,18.9,39.3,-20.4,3.35,3.35,3.35,13.0,49.1,Rebuilding
+437,61,Streamwood,IL,6A,3,IHSA Class 6A,3-7,3,7,0,10,22.4,22.4,-27.59,59.1,456,25.5,35.6,-10.1,4.13,4.13,4.13,18.0,66.5,Rebuilding
+438,52,Lincoln,IL,4A,1,IHSA Class 4A,3-7,3,7,0,10,22.4,22.4,-27.61,64.6,321,13.4,41.4,-28.0,4.2,4.2,4.2,15.0,77.2,Rebuilding
+439,58,Fenton,IL,5A,1,IHSA Class 5A,4-6,4,6,0,10,22.1,22.1,-27.85,59.6,448,20.5,30.2,-9.7,5.35,5.35,5.35,22.0,90.1,Rebuilding
+440,49,Pittsfield,IL,2A,4,IHSA Class 2A,1-8,1,8,0,9,22.1,22.1,-27.9,65.7,272,20.0,52.1,-32.1,1.47,1.47,1.47,4.0,26.5,Rebuilding
+441,50,Triopia/Meredosia-Chambersburg/Virginia,IL,1A,1,IHSA Class 1A,3-7,3,7,0,10,22.0,22.0,-28.01,63.8,352,13.5,36.3,-22.8,3.7,3.7,3.7,10.5,75.7,Rebuilding
+442,59,Hyde Park,IL,5A,2,IHSA Class 5A,0-8,0,8,0,8,21.3,21.3,-28.68,65.3,284,4.5,38.6,-34.1,0.0,0.0,0.0,0.0,0.0,Rebuilding
+443,51,Orr,IL,1A,1,IHSA Class 1A,5-4,5,4,0,9,21.1,21.1,-28.95,55.3,490,12.4,23.1,-10.7,5.77,5.77,5.77,17.5,98.4,Rebuilding
+444,59,Proviso West,IL,8A,2,IHSA Class 8A,1-8,1,8,0,9,21.0,21.0,-28.98,73.2,56,10.0,41.2,-31.2,1.99,1.99,1.99,7.0,31.3,Rebuilding
+445,53,Ridgewood,IL,4A,1,IHSA Class 4A,2-8,2,8,0,10,20.9,20.9,-29.07,61.1,420,22.7,39.0,-16.3,2.65,2.65,2.65,10.0,47.0,Rebuilding
+446,60,Niles West,IL,8A,2,IHSA Class 8A,0-9,0,9,0,9,20.8,20.8,-29.21,67.2,217,7.3,36.7,-29.4,0.0,0.0,0.0,0.0,0.0,Rebuilding
+447,60,Back of the Yards College Prep,IL,5A,2,IHSA Class 5A,5-4,5,4,0,9,20.8,20.8,-29.25,49.1,503,15.0,12.4,2.6,6.1,6.1,6.1,27.5,78.4,Rebuilding
+448,60,De La Salle,IL,7A,1,IHSA Class 7A,0-9,0,9,0,9,19.3,19.3,-30.74,69.7,127,11.8,44.9,-33.1,0.0,0.0,0.0,0.0,0.0,Rebuilding
+449,61,Rantoul,IL,5A,4,IHSA Class 5A,0-9,0,9,0,9,19.2,19.2,-30.78,71.2,84,18.9,51.4,-32.5,0.0,0.0,0.0,0.0,0.0,Rebuilding
+450,50,Routt Catholic/Lutheran,IL,2A,3,IHSA Class 2A,2-8,2,8,0,10,19.2,19.2,-30.84,65.6,280,7.5,42.0,-34.5,2.64,2.64,2.64,8.0,52.7,Rebuilding
+451,61,Joliet Central,IL,8A,1,IHSA Class 8A,3-7,3,7,0,10,19.1,19.1,-30.9,65.0,303,8.2,36.0,-27.8,4.83,4.83,4.83,21.0,78.1,Rebuilding
+452,54,The Noble Academy,IL,4A,1,IHSA Class 4A,2-7,2,7,0,9,18.9,18.9,-31.05,58.4,466,10.4,34.7,-24.3,2.8,2.8,2.8,10.0,43.4,Rebuilding
+453,51,North Mac,IL,2A,1,IHSA Class 2A,2-7,2,7,0,9,18.9,18.9,-31.08,62.6,384,12.2,40.2,-28.0,2.79,2.79,2.79,8.0,48.9,Rebuilding
+454,52,Sangamon Valley/Tri-City,IL,2A,3,IHSA Class 2A,3-7,3,7,0,10,18.1,18.1,-31.91,59.9,444,14.5,29.2,-14.7,3.58,3.58,3.58,12.0,68.1,Rebuilding
+455,62,UIC College Prep,IL,6A,1,IHSA Class 6A,3-7,3,7,0,10,17.5,17.5,-32.45,58.5,465,7.8,21.8,-14.0,4.09,4.09,4.09,18.0,65.3,Rebuilding
+456,55,Arcola,IL,4A,3,IHSA Class 4A,1-7,1,7,0,8,17.1,17.1,-32.91,58.2,470,15.0,32.0,-17.0,1.57,1.57,1.57,5.0,21.6,Rebuilding
+457,56,Urban Prep-Bronzeville/Urban Prep-Englewood,IL,4A,2,IHSA Class 4A,1-8,1,8,0,9,17.0,17.0,-33.05,60.5,435,8.4,35.4,-27.0,1.45,1.45,1.45,5.0,23.1,Rebuilding
+458,57,Tri-County [Kansas/Shiloh/Oakland],IL,4A,1,IHSA Class 4A,1-8,1,8,0,9,16.3,16.3,-33.71,60.0,440,12.0,32.2,-20.2,1.44,1.44,1.44,5.0,22.8,Rebuilding
+459,58,Rock Falls,IL,4A,2,IHSA Class 4A,1-8,1,8,0,9,16.1,16.1,-33.94,67.1,218,7.4,45.4,-38.0,1.62,1.62,1.62,5.0,27.4,Rebuilding
+460,61,Thornridge,IL,7A,1,IHSA Class 7A,0-9,0,9,0,9,15.9,15.9,-34.07,66.6,243,8.3,41.1,-32.8,0.0,0.0,0.0,0.0,0.0,Rebuilding
+461,62,Harvard,IL,5A,3,IHSA Class 5A,1-8,1,8,0,9,15.2,15.2,-34.8,67.2,215,6.8,42.6,-35.8,1.68,1.68,1.68,5.5,27.4,Rebuilding
+462,62,Wheeling,IL,8A,2,IHSA Class 8A,0-9,0,9,0,9,14.8,14.8,-35.2,71.9,70,3.7,39.2,-35.5,0.0,0.0,0.0,0.0,0.0,Rebuilding
+463,59,Limestone,IL,4A,2,IHSA Class 4A,0-9,0,9,0,9,14.6,14.6,-35.4,71.2,86,8.3,53.3,-45.0,0.0,0.0,0.0,0.0,0.0,Rebuilding
+464,52,Dupo,IL,1A,2,IHSA Class 1A,3-7,3,7,0,10,14.4,14.4,-35.59,60.0,441,8.9,32.6,-23.7,3.44,3.44,3.44,10.5,68.3,Rebuilding
+465,60,Iroquois West,IL,4A,2,IHSA Class 4A,1-8,1,8,0,9,14.3,14.3,-35.73,63.7,356,13.6,42.1,-28.5,1.53,1.53,1.53,5.0,25.1,Rebuilding
+466,63,Phillips,IL,6A,1,IHSA Class 6A,0-9,0,9,0,9,14.0,14.0,-35.99,68.2,172,3.3,49.6,-46.3,0.0,0.0,0.0,0.0,0.0,Rebuilding
+467,64,Mather,IL,6A,1,IHSA Class 6A,2-6,2,6,0,8,13.9,13.9,-36.11,57.3,475,9.2,35.2,-26.0,3.34,3.34,3.34,12.0,42.0,Rebuilding
+468,61,Johnson,IL,4A,4,IHSA Class 4A,3-7,3,7,0,10,13.6,13.6,-36.36,57.1,478,11.0,36.1,-25.1,3.69,3.69,3.69,15.0,62.7,Rebuilding
+469,53,Lawrenceville,IL,2A,1,IHSA Class 2A,0-9,0,9,0,9,13.6,13.6,-36.39,65.5,281,9.3,43.3,-34.0,0.0,0.0,0.0,0.0,0.0,Rebuilding
+470,62,Elmwood Park,IL,4A,2,IHSA Class 4A,1-8,1,8,0,9,13.5,13.5,-36.53,59.8,446,19.0,37.6,-18.6,1.43,1.43,1.43,5.0,22.6,Rebuilding
+471,63,Rockford Auburn,IL,8A,2,IHSA Class 8A,0-9,0,9,0,9,13.3,13.3,-36.74,67.9,183,6.4,43.2,-36.8,0.0,0.0,0.0,0.0,0.0,Rebuilding
+472,63,Edwards County,IL,4A,1,IHSA Class 4A,1-8,1,8,0,9,12.9,12.9,-37.12,62.6,386,5.6,45.7,-40.1,1.5,1.5,1.5,5.0,24.4,Rebuilding
+473,55,Rowe-Clark,IL,3A,1,IHSA Class 3A,3-5,3,5,0,8,12.8,12.8,-37.21,51.1,500,20.0,25.0,-5.0,3.91,3.91,3.91,13.5,50.9,Rebuilding
+474,65,Springfield Southeast,IL,6A,4,IHSA Class 6A,2-7,2,7,0,9,11.6,11.6,-38.36,65.2,292,13.9,43.9,-30.0,3.37,3.37,3.37,12.0,52.3,Rebuilding
+475,56,New Berlin/Franklin/Waverly,IL,3A,2,IHSA Class 3A,0-9,0,9,0,9,11.6,11.6,-38.38,66.2,256,3.9,48.2,-44.3,0.0,0.0,0.0,0.0,0.0,Rebuilding
+476,64,Granite City,IL,8A,2,IHSA Class 8A,0-9,0,9,0,9,11.5,11.5,-38.46,67.2,213,5.9,40.1,-34.2,0.0,0.0,0.0,0.0,0.0,Rebuilding
+477,54,Pinckneyville,IL,2A,3,IHSA Class 2A,0-9,0,9,0,9,10.5,10.5,-39.54,65.8,270,13.3,51.7,-38.4,0.0,0.0,0.0,0.0,0.0,Rebuilding
+478,62,Argo,IL,7A,3,IHSA Class 7A,0-9,0,9,0,9,10.2,10.2,-39.76,66.2,257,6.4,45.7,-39.3,0.0,0.0,0.0,0.0,0.0,Rebuilding
+479,64,Clemente,IL,4A,3,IHSA Class 4A,1-8,1,8,0,9,10.1,10.1,-39.86,59.6,450,6.2,29.7,-23.5,1.43,1.43,1.43,5.0,22.5,Rebuilding
+480,57,Argenta-Oreana,IL,3A,2,IHSA Class 3A,1-8,1,8,0,9,9.4,9.4,-40.63,60.3,436,10.9,45.0,-34.1,1.39,1.39,1.39,4.5,22.9,Rebuilding
+481,55,North Greene,IL,2A,4,IHSA Class 2A,0-9,0,9,0,9,9.2,9.2,-40.77,67.1,219,6.6,43.1,-36.5,0.0,0.0,0.0,0.0,0.0,Rebuilding
+482,58,Chicago Vocational,IL,3A,1,IHSA Class 3A,2-7,2,7,0,9,9.0,9.0,-41.01,56.6,482,5.1,33.4,-28.3,2.6,2.6,2.6,9.0,41.1,Rebuilding
+483,56,Eldorado,IL,2A,1,IHSA Class 2A,0-9,0,9,0,9,8.7,8.7,-41.27,62.9,377,2.2,40.0,-37.8,0.0,0.0,0.0,0.0,0.0,Rebuilding
+484,59,Solorio,IL,3A,4,IHSA Class 3A,2-7,2,7,0,9,8.2,8.2,-41.75,57.3,476,6.0,33.6,-27.6,2.63,2.63,2.63,9.0,42.0,Rebuilding
+485,63,East Alton-Wood River,IL,5A,3,IHSA Class 5A,0-9,0,9,0,9,8.2,8.2,-41.78,67.5,195,5.1,45.2,-40.1,0.0,0.0,0.0,0.0,0.0,Rebuilding
+486,66,Lanphier,IL,6A,4,IHSA Class 6A,0-9,0,9,0,9,8.0,8.0,-42.11,66.4,249,13.2,48.9,-35.7,0.0,0.0,0.0,0.0,0.0,Rebuilding
+487,53,Lutheran,IL,1A,1,IHSA Class 1A,0-9,0,9,0,9,7.9,7.9,-42.23,67.5,196,11.8,56.0,-44.2,0.0,0.0,0.0,0.0,0.0,Rebuilding
+488,65,Chicago Sullivan,IL,4A,1,IHSA Class 4A,1-8,1,8,0,9,7.9,7.9,-42.39,55.6,488,2.9,25.3,-22.4,1.33,1.33,1.33,5.0,19.9,Rebuilding
+489,57,Marine Leadership Academy,IL,2A,2,IHSA Class 2A,2-6,2,6,0,8,7.7,7.7,-42.96,53.5,495,8.5,22.9,-14.4,2.62,2.62,2.62,8.0,37.1,Rebuilding
+490,58,Hoopeston/Armstrong,IL,2A,2,IHSA Class 2A,0-8,0,8,0,8,7.4,7.4,-43.8,66.0,262,4.7,24.7,-20.0,0.0,0.0,0.0,0.0,0.0,Rebuilding
+491,59,Madison,IL,2A,1,IHSA Class 2A,0-8,0,8,0,8,7.2,7.2,-44.42,65.8,268,9.2,49.9,-40.7,0.0,0.0,0.0,0.0,0.0,Rebuilding
+492,60,Noble Street College Prep,IL,2A,4,IHSA Class 2A,2-6,2,6,0,8,6.8,6.8,-45.32,50.5,501,10.2,27.1,-16.9,2.45,2.45,2.45,8.0,33.2,Rebuilding
+493,65,Larkin,IL,8A,3,IHSA Class 8A,0-9,0,9,0,9,6.7,6.7,-45.69,61.5,413,10.7,44.8,-34.1,0.0,0.0,0.0,0.0,0.0,Rebuilding
+494,63,Waukegan,IL,7A,4,IHSA Class 7A,0-9,0,9,0,9,6.6,6.6,-46.0,67.3,207,4.0,50.4,-46.4,0.0,0.0,0.0,0.0,0.0,Rebuilding
+495,61,Clinton,IL,2A,4,IHSA Class 2A,0-8,0,8,0,8,6.4,6.4,-46.65,68.9,149,2.2,25.4,-23.2,0.0,0.0,0.0,0.0,0.0,Rebuilding
+496,64,Urbana,IL,7A,3,IHSA Class 7A,0-8,0,8,0,8,6.2,6.2,-47.23,63.0,374,4.8,51.6,-46.8,0.0,0.0,0.0,0.0,0.0,Rebuilding
+497,62,Unity/Seymour,IL,2A,2,IHSA Class 2A,0-9,0,9,0,9,6.2,6.2,-47.28,64.5,329,6.4,44.8,-38.4,0.0,0.0,0.0,0.0,0.0,Rebuilding
+498,64,Gillespie,IL,5A,2,IHSA Class 5A,1-8,1,8,0,9,6.0,6.0,-47.64,63.3,369,1.2,48.7,-47.5,1.58,1.58,1.58,5.5,24.9,Rebuilding
+499,63,Walther Christian Academy,IL,2A,2,IHSA Class 2A,0-8,0,8,0,8,6.0,6.0,-47.7,60.0,442,9.5,37.1,-27.6,0.0,0.0,0.0,0.0,0.0,Rebuilding
+500,54,Manual,IL,1A,3,IHSA Class 1A,0-9,0,9,0,9,5.3,5.3,-49.73,62.8,379,3.6,52.2,-48.6,0.0,0.0,0.0,0.0,0.0,Rebuilding
+501,60,Gage Park,IL,3A,3,IHSA Class 3A,1-7,1,7,0,8,4.9,4.9,-50.74,49.9,502,14.5,29.0,-14.5,1.27,1.27,1.27,4.5,16.2,Rebuilding
+502,66,Maine East,IL,8A,1,IHSA Class 8A,0-9,0,9,0,9,4.4,4.4,-52.22,63.7,357,3.7,47.3,-43.6,0.0,0.0,0.0,0.0,0.0,Rebuilding
+503,55,Lewistown/Cuba/Spoon River Valley,IL,1A,1,IHSA Class 1A,0-9,0,9,0,9,3.1,3.1,-55.99,60.6,433,4.8,50.8,-46.0,0.0,0.0,0.0,0.0,0.0,Rebuilding

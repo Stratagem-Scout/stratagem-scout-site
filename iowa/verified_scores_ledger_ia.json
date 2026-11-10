@@ -89,7 +89,7 @@
       {
         "date": "Aug 28, 2026",
         "date_iso": "2026-08-28",
-        "opponent": "MVAOCOU (CO-OP)",
+        "opponent": "Maple Valley-Anthon-Oto/Charter Oak-Ute",
         "result": "L",
         "team_score": 0,
         "opp_score": 28,
@@ -545,6 +545,15 @@
         "team_score": 15,
         "opp_score": 48,
         "is_playoff": false
+      },
+      {
+        "date": "Oct 22, 2026",
+        "date_iso": "2026-10-22",
+        "opponent": "AGWSR",
+        "result": "L",
+        "team_score": 20,
+        "opp_score": 37,
+        "is_playoff": true
       }
     ],
     "Saydel": [
@@ -658,6 +667,15 @@
         "result": "W",
         "team_score": 35,
         "opp_score": 14,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 17, 2026",
+        "date_iso": "2026-09-17",
+        "opponent": "Davenport West",
+        "result": "W",
+        "team_score": 51,
+        "opp_score": 0,
         "is_playoff": false
       },
       {
@@ -937,6 +955,15 @@
         "is_playoff": false
       },
       {
+        "date": "Sep 24, 2026",
+        "date_iso": "2026-09-24",
+        "opponent": "Van Buren County",
+        "result": "W",
+        "team_score": 55,
+        "opp_score": 14,
+        "is_playoff": false
+      },
+      {
         "date": "Oct 2, 2026",
         "date_iso": "2026-10-02",
         "opponent": "North Mahaska",
@@ -981,6 +1008,15 @@
         "result": "L",
         "team_score": 12,
         "opp_score": 27,
+        "is_playoff": false
+      },
+      {
+        "date": "Aug 31, 2026",
+        "date_iso": "2026-08-31",
+        "opponent": "North Mahaska",
+        "result": "W",
+        "team_score": 54,
+        "opp_score": 6,
         "is_playoff": false
       },
       {
@@ -1388,6 +1424,338 @@
         "is_playoff": false
       }
     ],
+    "Des Moines East": [
+      {
+        "date": "Aug 27, 2026",
+        "date_iso": "2026-08-27",
+        "opponent": "Des Moines North",
+        "result": "W",
+        "team_score": 49,
+        "opp_score": 12,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 3, 2026",
+        "date_iso": "2026-09-03",
+        "opponent": "Roosevelt",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 20,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 11, 2026",
+        "date_iso": "2026-09-11",
+        "opponent": "Ottumwa",
+        "result": "L",
+        "team_score": 13,
+        "opp_score": 20,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 18, 2026",
+        "date_iso": "2026-09-18",
+        "opponent": "Marshalltown",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 17,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 25, 2026",
+        "date_iso": "2026-09-25",
+        "opponent": "Northwest",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 49,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 2, 2026",
+        "date_iso": "2026-10-02",
+        "opponent": "Norwalk",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 21,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 9, 2026",
+        "date_iso": "2026-10-09",
+        "opponent": "Iowa City",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 56,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 16, 2026",
+        "date_iso": "2026-10-16",
+        "opponent": "Lincoln-Des Moines",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 41,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 23, 2026",
+        "date_iso": "2026-10-23",
+        "opponent": "Southeast Polk",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 54,
+        "is_playoff": true
+      }
+    ],
+    "Des Moines North": [
+      {
+        "date": "Aug 27, 2026",
+        "date_iso": "2026-08-27",
+        "opponent": "Des Moines East",
+        "result": "L",
+        "team_score": 12,
+        "opp_score": 49,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 4, 2026",
+        "date_iso": "2026-09-04",
+        "opponent": "Lincoln-Des Moines",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 56,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 11, 2026",
+        "date_iso": "2026-09-11",
+        "opponent": "Saydel",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 28,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 18, 2026",
+        "date_iso": "2026-09-18",
+        "opponent": "Perry",
+        "result": "L",
+        "team_score": 12,
+        "opp_score": 58,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 25, 2026",
+        "date_iso": "2026-09-25",
+        "opponent": "Carlisle",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 51,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 2, 2026",
+        "date_iso": "2026-10-02",
+        "opponent": "Ballard",
+        "result": "L",
+        "team_score": 8,
+        "opp_score": 56,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 8, 2026",
+        "date_iso": "2026-10-08",
+        "opponent": "North Polk",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 48,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 16, 2026",
+        "date_iso": "2026-10-16",
+        "opponent": "Gilbert",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 64,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 23, 2026",
+        "date_iso": "2026-10-23",
+        "opponent": "Bondurant-Farrar",
+        "result": "L",
+        "team_score": 8,
+        "opp_score": 54,
+        "is_playoff": true
+      }
+    ],
+    "Kennedy": [
+      {
+        "date": "Aug 27, 2026",
+        "date_iso": "2026-08-27",
+        "opponent": "Hempstead",
+        "result": "W",
+        "team_score": 49,
+        "opp_score": 13,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 4, 2026",
+        "date_iso": "2026-09-04",
+        "opponent": "Prairie",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 29,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 11, 2026",
+        "date_iso": "2026-09-11",
+        "opponent": "Waukee",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 39,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 18, 2026",
+        "date_iso": "2026-09-18",
+        "opponent": "Linn-Mar",
+        "result": "W",
+        "team_score": 21,
+        "opp_score": 17,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 25, 2026",
+        "date_iso": "2026-09-25",
+        "opponent": "Marshalltown",
+        "result": "W",
+        "team_score": 57,
+        "opp_score": 0,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 2, 2026",
+        "date_iso": "2026-10-02",
+        "opponent": "Dowling Catholic",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 36,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 9, 2026",
+        "date_iso": "2026-10-09",
+        "opponent": "Waterloo West",
+        "result": "W",
+        "team_score": 42,
+        "opp_score": 9,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 16, 2026",
+        "date_iso": "2026-10-16",
+        "opponent": "Bettendorf",
+        "result": "W",
+        "team_score": 37,
+        "opp_score": 0,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 23, 2026",
+        "date_iso": "2026-10-23",
+        "opponent": "Dallas Center-Grimes",
+        "result": "L",
+        "team_score": 29,
+        "opp_score": 47,
+        "is_playoff": true
+      }
+    ],
+    "Hempstead": [
+      {
+        "date": "Aug 27, 2026",
+        "date_iso": "2026-08-27",
+        "opponent": "Kennedy",
+        "result": "L",
+        "team_score": 13,
+        "opp_score": 49,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 4, 2026",
+        "date_iso": "2026-09-04",
+        "opponent": "Iowa City West",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 53,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 11, 2026",
+        "date_iso": "2026-09-11",
+        "opponent": "Waterloo West",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 35,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 18, 2026",
+        "date_iso": "2026-09-18",
+        "opponent": "Pleasant Valley",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 14,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 25, 2026",
+        "date_iso": "2026-09-25",
+        "opponent": "Cedar Falls",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 35,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 2, 2026",
+        "date_iso": "2026-10-02",
+        "opponent": "Prairie",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 70,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 9, 2026",
+        "date_iso": "2026-10-09",
+        "opponent": "Dubuque Senior",
+        "result": "W",
+        "team_score": 41,
+        "opp_score": 40,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 15, 2026",
+        "date_iso": "2026-10-15",
+        "opponent": "Jefferson",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 42,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 23, 2026",
+        "date_iso": "2026-10-23",
+        "opponent": "Bettendorf",
+        "result": "L",
+        "team_score": 8,
+        "opp_score": 38,
+        "is_playoff": true
+      }
+    ],
     "A-D-M": [
       {
         "date": "Aug 28, 2026",
@@ -1437,7 +1805,7 @@
       {
         "date": "Oct 2, 2026",
         "date_iso": "2026-10-02",
-        "opponent": "Jefferson",
+        "opponent": "Jefferson-Council Bluffs",
         "result": "W",
         "team_score": 49,
         "opp_score": 0,
@@ -1659,7 +2027,7 @@
       {
         "date": "Aug 28, 2026",
         "date_iso": "2026-08-28",
-        "opponent": "MMCRU (CO-OP)",
+        "opponent": "Marcus-Meriden-Cleghorn/Remsen-Union",
         "result": "W",
         "team_score": 18,
         "opp_score": 13,
@@ -1729,7 +2097,7 @@
         "is_playoff": false
       }
     ],
-    "MMCRU (CO-OP)": [
+    "Marcus-Meriden-Cleghorn/Remsen-Union": [
       {
         "date": "Aug 28, 2026",
         "date_iso": "2026-08-28",
@@ -1980,6 +2348,15 @@
         "is_playoff": false
       },
       {
+        "date": "Sep 10, 2026",
+        "date_iso": "2026-09-10",
+        "opponent": "Regina",
+        "result": "L",
+        "team_score": 12,
+        "opp_score": 28,
+        "is_playoff": false
+      },
+      {
         "date": "Sep 18, 2026",
         "date_iso": "2026-09-18",
         "opponent": "Tipton",
@@ -2207,6 +2584,15 @@
         "team_score": 3,
         "opp_score": 42,
         "is_playoff": false
+      },
+      {
+        "date": "Oct 22, 2026",
+        "date_iso": "2026-10-22",
+        "opponent": "Sioux City East",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 35,
+        "is_playoff": true
       }
     ],
     "Marshalltown": [
@@ -2437,6 +2823,15 @@
         "result": "L",
         "team_score": 20,
         "opp_score": 40,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 19, 2026",
+        "date_iso": "2026-10-19",
+        "opponent": "Central DeWitt",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 42,
         "is_playoff": false
       },
       {
@@ -3252,7 +3647,7 @@
       {
         "date": "Oct 9, 2026",
         "date_iso": "2026-10-09",
-        "opponent": "Jefferson",
+        "opponent": "Jefferson-Council Bluffs",
         "result": "W",
         "team_score": 14,
         "opp_score": 7,
@@ -3382,7 +3777,7 @@
       {
         "date": "Sep 11, 2026",
         "date_iso": "2026-09-11",
-        "opponent": "OABCIG",
+        "opponent": "Odebolt Arthur Battle Creek Ida Grove",
         "result": "L",
         "team_score": 0,
         "opp_score": 34,
@@ -3391,7 +3786,7 @@
       {
         "date": "Sep 18, 2026",
         "date_iso": "2026-09-18",
-        "opponent": "CLGLR (CO-OP)",
+        "opponent": "Central Lyon/George-Little Rock",
         "result": "L",
         "team_score": 15,
         "opp_score": 31,
@@ -3474,7 +3869,7 @@
       {
         "date": "Sep 25, 2026",
         "date_iso": "2026-09-25",
-        "opponent": "MMCRU (CO-OP)",
+        "opponent": "Marcus-Meriden-Cleghorn/Remsen-Union",
         "result": "L",
         "team_score": 6,
         "opp_score": 23,
@@ -3514,172 +3909,6 @@
         "result": "L",
         "team_score": 7,
         "opp_score": 48,
-        "is_playoff": true
-      }
-    ],
-    "CLGLR (CO-OP)": [
-      {
-        "date": "Aug 28, 2026",
-        "date_iso": "2026-08-28",
-        "opponent": "MOC-Floyd Valley",
-        "result": "W",
-        "team_score": 16,
-        "opp_score": 6,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 4, 2026",
-        "date_iso": "2026-09-04",
-        "opponent": "West Lyon",
-        "result": "W",
-        "team_score": 14,
-        "opp_score": 13,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 18, 2026",
-        "date_iso": "2026-09-18",
-        "opponent": "Boyden-Hull/Rock Valley",
-        "result": "W",
-        "team_score": 31,
-        "opp_score": 15,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 25, 2026",
-        "date_iso": "2026-09-25",
-        "opponent": "Cherokee Washington",
-        "result": "W",
-        "team_score": 52,
-        "opp_score": 0,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 2, 2026",
-        "date_iso": "2026-10-02",
-        "opponent": "Western Christian",
-        "result": "W",
-        "team_score": 30,
-        "opp_score": 18,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 9, 2026",
-        "date_iso": "2026-10-09",
-        "opponent": "Sheldon",
-        "result": "W",
-        "team_score": 55,
-        "opp_score": 3,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 16, 2026",
-        "date_iso": "2026-10-16",
-        "opponent": "Unity Christian",
-        "result": "W",
-        "team_score": 36,
-        "opp_score": 13,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 23, 2026",
-        "date_iso": "2026-10-23",
-        "opponent": "Southeast Valley",
-        "result": "W",
-        "team_score": 38,
-        "opp_score": 14,
-        "is_playoff": true
-      },
-      {
-        "date": "Oct 30, 2026",
-        "date_iso": "2026-10-30",
-        "opponent": "Clarinda",
-        "result": "W",
-        "team_score": 49,
-        "opp_score": 0,
-        "is_playoff": true
-      }
-    ],
-    "MOC-Floyd Valley": [
-      {
-        "date": "Aug 28, 2026",
-        "date_iso": "2026-08-28",
-        "opponent": "CLGLR (CO-OP)",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 16,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 4, 2026",
-        "date_iso": "2026-09-04",
-        "opponent": "Unity Christian",
-        "result": "W",
-        "team_score": 14,
-        "opp_score": 12,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 11, 2026",
-        "date_iso": "2026-09-11",
-        "opponent": "Storm Lake",
-        "result": "W",
-        "team_score": 28,
-        "opp_score": 14,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 18, 2026",
-        "date_iso": "2026-09-18",
-        "opponent": "Le Mars",
-        "result": "L",
-        "team_score": 12,
-        "opp_score": 20,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 25, 2026",
-        "date_iso": "2026-09-25",
-        "opponent": "Algona",
-        "result": "L",
-        "team_score": 21,
-        "opp_score": 38,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 2, 2026",
-        "date_iso": "2026-10-02",
-        "opponent": "Bishop Heelan Catholic",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 33,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 9, 2026",
-        "date_iso": "2026-10-09",
-        "opponent": "Humboldt",
-        "result": "W",
-        "team_score": 13,
-        "opp_score": 7,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 16, 2026",
-        "date_iso": "2026-10-16",
-        "opponent": "Sioux Center",
-        "result": "L",
-        "team_score": 13,
-        "opp_score": 20,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 23, 2026",
-        "date_iso": "2026-10-23",
-        "opponent": "Webster City",
-        "result": "W",
-        "team_score": 34,
-        "opp_score": 21,
         "is_playoff": true
       }
     ],
@@ -4549,6 +4778,15 @@
         "is_playoff": false
       },
       {
+        "date": "Sep 24, 2026",
+        "date_iso": "2026-09-24",
+        "opponent": "Pekin",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 55,
+        "is_playoff": false
+      },
+      {
         "date": "Oct 2, 2026",
         "date_iso": "2026-10-02",
         "opponent": "Highland",
@@ -4573,6 +4811,181 @@
         "result": "L",
         "team_score": 0,
         "opp_score": 69,
+        "is_playoff": true
+      }
+    ],
+    "Central Lyon/George-Little Rock": [
+      {
+        "date": "Aug 28, 2026",
+        "date_iso": "2026-08-28",
+        "opponent": "MOC-Floyd Valley",
+        "result": "W",
+        "team_score": 16,
+        "opp_score": 6,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 4, 2026",
+        "date_iso": "2026-09-04",
+        "opponent": "West Lyon",
+        "result": "W",
+        "team_score": 14,
+        "opp_score": 13,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 18, 2026",
+        "date_iso": "2026-09-18",
+        "opponent": "Boyden-Hull/Rock Valley",
+        "result": "W",
+        "team_score": 31,
+        "opp_score": 15,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 25, 2026",
+        "date_iso": "2026-09-25",
+        "opponent": "Cherokee Washington",
+        "result": "W",
+        "team_score": 52,
+        "opp_score": 0,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 2, 2026",
+        "date_iso": "2026-10-02",
+        "opponent": "Western Christian",
+        "result": "W",
+        "team_score": 30,
+        "opp_score": 18,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 9, 2026",
+        "date_iso": "2026-10-09",
+        "opponent": "Sheldon",
+        "result": "W",
+        "team_score": 55,
+        "opp_score": 3,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 16, 2026",
+        "date_iso": "2026-10-16",
+        "opponent": "Unity Christian",
+        "result": "W",
+        "team_score": 36,
+        "opp_score": 13,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 23, 2026",
+        "date_iso": "2026-10-23",
+        "opponent": "Southeast Valley",
+        "result": "W",
+        "team_score": 38,
+        "opp_score": 14,
+        "is_playoff": true
+      },
+      {
+        "date": "Oct 30, 2026",
+        "date_iso": "2026-10-30",
+        "opponent": "Clarinda",
+        "result": "W",
+        "team_score": 49,
+        "opp_score": 0,
+        "is_playoff": true
+      },
+      {
+        "date": "Nov 6, 2026",
+        "date_iso": "2026-11-06",
+        "opponent": "Odebolt Arthur Battle Creek Ida Grove",
+        "result": "W",
+        "team_score": 45,
+        "opp_score": 26,
+        "is_playoff": true
+      }
+    ],
+    "MOC-Floyd Valley": [
+      {
+        "date": "Aug 28, 2026",
+        "date_iso": "2026-08-28",
+        "opponent": "Central Lyon/George-Little Rock",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 16,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 4, 2026",
+        "date_iso": "2026-09-04",
+        "opponent": "Unity Christian",
+        "result": "W",
+        "team_score": 14,
+        "opp_score": 12,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 11, 2026",
+        "date_iso": "2026-09-11",
+        "opponent": "Storm Lake",
+        "result": "W",
+        "team_score": 28,
+        "opp_score": 14,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 18, 2026",
+        "date_iso": "2026-09-18",
+        "opponent": "Le Mars",
+        "result": "L",
+        "team_score": 12,
+        "opp_score": 20,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 25, 2026",
+        "date_iso": "2026-09-25",
+        "opponent": "Algona",
+        "result": "L",
+        "team_score": 21,
+        "opp_score": 38,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 2, 2026",
+        "date_iso": "2026-10-02",
+        "opponent": "Bishop Heelan Catholic",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 33,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 9, 2026",
+        "date_iso": "2026-10-09",
+        "opponent": "Humboldt",
+        "result": "W",
+        "team_score": 13,
+        "opp_score": 7,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 16, 2026",
+        "date_iso": "2026-10-16",
+        "opponent": "Sioux Center",
+        "result": "L",
+        "team_score": 13,
+        "opp_score": 20,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 23, 2026",
+        "date_iso": "2026-10-23",
+        "opponent": "Webster City",
+        "result": "W",
+        "team_score": 34,
+        "opp_score": 21,
         "is_playoff": true
       }
     ],
@@ -4818,15 +5231,6 @@
       {
         "date": "Oct 30, 2026",
         "date_iso": "2026-10-30",
-        "opponent": "CLGLR (CO-OP)",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 49,
-        "is_playoff": true
-      },
-      {
-        "date": "Oct 30, 2026",
-        "date_iso": "2026-10-30",
         "opponent": "Central Lyon/George-Little Rock",
         "result": "L",
         "team_score": 0,
@@ -5044,6 +5448,15 @@
         "result": "W",
         "team_score": 28,
         "opp_score": 21,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 17, 2026",
+        "date_iso": "2026-09-17",
+        "opponent": "Lake Mills",
+        "result": "W",
+        "team_score": 34,
+        "opp_score": 0,
         "is_playoff": false
       },
       {
@@ -5370,6 +5783,15 @@
         "is_playoff": false
       },
       {
+        "date": "Sep 17, 2026",
+        "date_iso": "2026-09-17",
+        "opponent": "Assumption",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 51,
+        "is_playoff": false
+      },
+      {
         "date": "Sep 25, 2026",
         "date_iso": "2026-09-25",
         "opponent": "North Scott",
@@ -5404,6 +5826,15 @@
         "team_score": 0,
         "opp_score": 49,
         "is_playoff": false
+      },
+      {
+        "date": "Oct 22, 2026",
+        "date_iso": "2026-10-22",
+        "opponent": "Clinton",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 43,
+        "is_playoff": true
       }
     ],
     "Clear Lake": [
@@ -5554,6 +5985,15 @@
         "is_playoff": false
       },
       {
+        "date": "Sep 17, 2026",
+        "date_iso": "2026-09-17",
+        "opponent": "Waukon",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 52,
+        "is_playoff": false
+      },
+      {
         "date": "Sep 25, 2026",
         "date_iso": "2026-09-25",
         "opponent": "Crestwood",
@@ -5588,6 +6028,15 @@
         "team_score": 6,
         "opp_score": 40,
         "is_playoff": false
+      },
+      {
+        "date": "Oct 22, 2026",
+        "date_iso": "2026-10-22",
+        "opponent": "Estherville Lincoln Central",
+        "result": "W",
+        "team_score": 28,
+        "opp_score": 6,
+        "is_playoff": true
       }
     ],
     "Clinton": [
@@ -5612,7 +6061,7 @@
       {
         "date": "Sep 11, 2026",
         "date_iso": "2026-09-11",
-        "opponent": "Washington",
+        "opponent": "Washington-Cedar Rapids",
         "result": "L",
         "team_score": 7,
         "opp_score": 49,
@@ -5637,6 +6086,15 @@
         "is_playoff": false
       },
       {
+        "date": "Oct 1, 2026",
+        "date_iso": "2026-10-01",
+        "opponent": "Davenport North",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 21,
+        "is_playoff": false
+      },
+      {
         "date": "Oct 9, 2026",
         "date_iso": "2026-10-09",
         "opponent": "North Scott",
@@ -5653,6 +6111,15 @@
         "team_score": 0,
         "opp_score": 41,
         "is_playoff": false
+      },
+      {
+        "date": "Oct 22, 2026",
+        "date_iso": "2026-10-22",
+        "opponent": "Davenport West",
+        "result": "W",
+        "team_score": 43,
+        "opp_score": 6,
+        "is_playoff": true
       }
     ],
     "Central DeWitt": [
@@ -5708,6 +6175,15 @@
         "result": "L",
         "team_score": 10,
         "opp_score": 17,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 19, 2026",
+        "date_iso": "2026-10-19",
+        "opponent": "Maquoketa",
+        "result": "W",
+        "team_score": 42,
+        "opp_score": 0,
         "is_playoff": false
       },
       {
@@ -6119,7 +6595,7 @@
       {
         "date": "Oct 9, 2026",
         "date_iso": "2026-10-09",
-        "opponent": "Lincoln",
+        "opponent": "Lincoln-Des Moines",
         "result": "W",
         "team_score": 40,
         "opp_score": 13,
@@ -6218,6 +6694,15 @@
         "is_playoff": false
       },
       {
+        "date": "Oct 15, 2026",
+        "date_iso": "2026-10-15",
+        "opponent": "Muscatine",
+        "result": "L",
+        "team_score": 13,
+        "opp_score": 28,
+        "is_playoff": false
+      },
+      {
         "date": "Oct 23, 2026",
         "date_iso": "2026-10-23",
         "opponent": "Pleasant Valley",
@@ -6274,6 +6759,15 @@
         "is_playoff": false
       },
       {
+        "date": "Oct 1, 2026",
+        "date_iso": "2026-10-01",
+        "opponent": "Jefferson",
+        "result": "L",
+        "team_score": 15,
+        "opp_score": 32,
+        "is_playoff": false
+      },
+      {
         "date": "Oct 9, 2026",
         "date_iso": "2026-10-09",
         "opponent": "Hempstead",
@@ -6321,6 +6815,15 @@
         "is_playoff": false
       },
       {
+        "date": "Sep 10, 2026",
+        "date_iso": "2026-09-10",
+        "opponent": "Marion",
+        "result": "W",
+        "team_score": 38,
+        "opp_score": 0,
+        "is_playoff": false
+      },
+      {
         "date": "Sep 18, 2026",
         "date_iso": "2026-09-18",
         "opponent": "Davenport Central",
@@ -6336,6 +6839,15 @@
         "result": "L",
         "team_score": 21,
         "opp_score": 49,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 1, 2026",
+        "date_iso": "2026-10-01",
+        "opponent": "Clinton",
+        "result": "W",
+        "team_score": 21,
+        "opp_score": 14,
         "is_playoff": false
       },
       {
@@ -6449,6 +6961,15 @@
         "is_playoff": false
       },
       {
+        "date": "Oct 15, 2026",
+        "date_iso": "2026-10-15",
+        "opponent": "Davenport Central",
+        "result": "W",
+        "team_score": 28,
+        "opp_score": 13,
+        "is_playoff": false
+      },
+      {
         "date": "Oct 23, 2026",
         "date_iso": "2026-10-23",
         "opponent": "Liberty",
@@ -6507,7 +7028,7 @@
       {
         "date": "Oct 2, 2026",
         "date_iso": "2026-10-02",
-        "opponent": "Washington",
+        "opponent": "Washington-Cedar Rapids",
         "result": "W",
         "team_score": 28,
         "opp_score": 10,
@@ -6567,6 +7088,15 @@
         "result": "L",
         "team_score": 8,
         "opp_score": 28,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 17, 2026",
+        "date_iso": "2026-09-17",
+        "opponent": "Forest City",
+        "result": "W",
+        "team_score": 52,
+        "opp_score": 6,
         "is_playoff": false
       },
       {
@@ -6664,7 +7194,7 @@
       {
         "date": "Sep 25, 2026",
         "date_iso": "2026-09-25",
-        "opponent": "Jefferson",
+        "opponent": "Jefferson-Council Bluffs",
         "result": "W",
         "team_score": 20,
         "opp_score": 19,
@@ -6720,7 +7250,7 @@
       {
         "date": "Sep 4, 2026",
         "date_iso": "2026-09-04",
-        "opponent": "Jefferson",
+        "opponent": "Jefferson-Council Bluffs",
         "result": "W",
         "team_score": 7,
         "opp_score": 6,
@@ -7086,15 +7616,6 @@
       {
         "date": "Oct 30, 2026",
         "date_iso": "2026-10-30",
-        "opponent": "OABCIG",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 14,
-        "is_playoff": true
-      },
-      {
-        "date": "Oct 30, 2026",
-        "date_iso": "2026-10-30",
         "opponent": "Odebolt Arthur Battle Creek Ida Grove",
         "result": "L",
         "team_score": 7,
@@ -7119,6 +7640,15 @@
         "result": "L",
         "team_score": 24,
         "opp_score": 37,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 10, 2026",
+        "date_iso": "2026-09-10",
+        "opponent": "Osage",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 60,
         "is_playoff": false
       },
       {
@@ -7342,6 +7872,15 @@
         "is_playoff": false
       },
       {
+        "date": "Oct 22, 2026",
+        "date_iso": "2026-10-22",
+        "opponent": "Lincoln-Des Moines",
+        "result": "W",
+        "team_score": 56,
+        "opp_score": 0,
+        "is_playoff": true
+      },
+      {
         "date": "Oct 30, 2026",
         "date_iso": "2026-10-30",
         "opponent": "Dallas Center-Grimes",
@@ -7469,6 +8008,15 @@
         "result": "L",
         "team_score": 6,
         "opp_score": 36,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 17, 2026",
+        "date_iso": "2026-09-17",
+        "opponent": "Belmond-Klemme",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 34,
         "is_playoff": false
       },
       {
@@ -7853,7 +8401,7 @@
       {
         "date": "Sep 11, 2026",
         "date_iso": "2026-09-11",
-        "opponent": "MVAOCOU (CO-OP)",
+        "opponent": "Maple Valley-Anthon-Oto/Charter Oak-Ute",
         "result": "W",
         "team_score": 29,
         "opp_score": 14,
@@ -8120,7 +8668,7 @@
       {
         "date": "Oct 2, 2026",
         "date_iso": "2026-10-02",
-        "opponent": "OABCIG",
+        "opponent": "Odebolt Arthur Battle Creek Ida Grove",
         "result": "L",
         "team_score": 0,
         "opp_score": 43,
@@ -8143,6 +8691,15 @@
         "team_score": 0,
         "opp_score": 56,
         "is_playoff": false
+      },
+      {
+        "date": "Oct 22, 2026",
+        "date_iso": "2026-10-22",
+        "opponent": "Forest City",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 28,
+        "is_playoff": true
       }
     ],
     "Fairfield": [
@@ -8479,7 +9036,7 @@
       {
         "date": "Oct 16, 2026",
         "date_iso": "2026-10-16",
-        "opponent": "Washington",
+        "opponent": "Washington-Cedar Rapids",
         "result": "L",
         "team_score": 13,
         "opp_score": 33,
@@ -8710,7 +9267,7 @@
       {
         "date": "Oct 2, 2026",
         "date_iso": "2026-10-02",
-        "opponent": "MMCRU (CO-OP)",
+        "opponent": "Marcus-Meriden-Cleghorn/Remsen-Union",
         "result": "L",
         "team_score": 14,
         "opp_score": 27,
@@ -8757,7 +9314,7 @@
       {
         "date": "Sep 4, 2026",
         "date_iso": "2026-09-04",
-        "opponent": "MMCRU (CO-OP)",
+        "opponent": "Marcus-Meriden-Cleghorn/Remsen-Union",
         "result": "W",
         "team_score": 32,
         "opp_score": 7,
@@ -8793,7 +9350,7 @@
       {
         "date": "Oct 2, 2026",
         "date_iso": "2026-10-02",
-        "opponent": "MVAOCOU (CO-OP)",
+        "opponent": "Maple Valley-Anthon-Oto/Charter Oak-Ute",
         "result": "W",
         "team_score": 43,
         "opp_score": 38,
@@ -8903,7 +9460,7 @@
       {
         "date": "Oct 16, 2026",
         "date_iso": "2026-10-16",
-        "opponent": "Jefferson",
+        "opponent": "Jefferson-Council Bluffs",
         "result": "W",
         "team_score": 56,
         "opp_score": 12,
@@ -9064,6 +9621,15 @@
         "result": "L",
         "team_score": 13,
         "opp_score": 40,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 17, 2026",
+        "date_iso": "2026-09-17",
+        "opponent": "Washington-Cedar Rapids",
+        "result": "W",
+        "team_score": 35,
+        "opp_score": 21,
         "is_playoff": false
       },
       {
@@ -9926,7 +10492,7 @@
       {
         "date": "Sep 18, 2026",
         "date_iso": "2026-09-18",
-        "opponent": "OABCIG",
+        "opponent": "Odebolt Arthur Battle Creek Ida Grove",
         "result": "W",
         "team_score": 35,
         "opp_score": 20,
@@ -10036,7 +10602,7 @@
       {
         "date": "Sep 25, 2026",
         "date_iso": "2026-09-25",
-        "opponent": "CLGLR (CO-OP)",
+        "opponent": "Central Lyon/George-Little Rock",
         "result": "L",
         "team_score": 0,
         "opp_score": 52,
@@ -10182,39 +10748,12 @@
         "is_playoff": false
       },
       {
-        "date": "Aug 28, 2026",
-        "date_iso": "2026-08-28",
-        "opponent": "Roosevelt",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 19,
-        "is_playoff": false
-      },
-      {
         "date": "Sep 4, 2026",
         "date_iso": "2026-09-04",
         "opponent": "Sioux City North",
         "result": "W",
         "team_score": 41,
         "opp_score": 22,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 4, 2026",
-        "date_iso": "2026-09-04",
-        "opponent": "Des Moines North",
-        "result": "W",
-        "team_score": 56,
-        "opp_score": 14,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 11, 2026",
-        "date_iso": "2026-09-11",
-        "opponent": "Ankeny Centennial",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 45,
         "is_playoff": false
       },
       {
@@ -10229,19 +10768,10 @@
       {
         "date": "Sep 18, 2026",
         "date_iso": "2026-09-18",
-        "opponent": "Jefferson",
+        "opponent": "Jefferson-Council Bluffs",
         "result": "W",
         "team_score": 35,
         "opp_score": 2,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 18, 2026",
-        "date_iso": "2026-09-18",
-        "opponent": "Ottumwa",
-        "result": "W",
-        "team_score": 29,
-        "opp_score": 8,
         "is_playoff": false
       },
       {
@@ -10263,39 +10793,12 @@
         "is_playoff": false
       },
       {
-        "date": "Oct 2, 2026",
-        "date_iso": "2026-10-02",
-        "opponent": "Indianola",
-        "result": "L",
-        "team_score": 16,
-        "opp_score": 42,
-        "is_playoff": false
-      },
-      {
         "date": "Oct 9, 2026",
         "date_iso": "2026-10-09",
         "opponent": "Roosevelt",
         "result": "L",
         "team_score": 6,
         "opp_score": 29,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 9, 2026",
-        "date_iso": "2026-10-09",
-        "opponent": "Urbandale",
-        "result": "L",
-        "team_score": 13,
-        "opp_score": 40,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 16, 2026",
-        "date_iso": "2026-10-16",
-        "opponent": "Des Moines East",
-        "result": "W",
-        "team_score": 41,
-        "opp_score": 14,
         "is_playoff": false
       },
       {
@@ -10393,7 +10896,7 @@
       {
         "date": "Oct 23, 2026",
         "date_iso": "2026-10-23",
-        "opponent": "Jefferson",
+        "opponent": "Jefferson-Council Bluffs",
         "result": "W",
         "team_score": 55,
         "opp_score": 0,
@@ -10470,6 +10973,15 @@
         "opponent": "Bondurant-Farrar",
         "result": "W",
         "team_score": 42,
+        "opp_score": 0,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 8, 2026",
+        "date_iso": "2026-10-08",
+        "opponent": "Des Moines North",
+        "result": "W",
+        "team_score": 48,
         "opp_score": 0,
         "is_playoff": false
       },
@@ -10934,80 +11446,6 @@
         "is_playoff": false
       }
     ],
-    "MVAOCOU (CO-OP)": [
-      {
-        "date": "Aug 28, 2026",
-        "date_iso": "2026-08-28",
-        "opponent": "Missouri Valley",
-        "result": "W",
-        "team_score": 28,
-        "opp_score": 0,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 4, 2026",
-        "date_iso": "2026-09-04",
-        "opponent": "Northwest Webster",
-        "result": "W",
-        "team_score": 41,
-        "opp_score": 30,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 11, 2026",
-        "date_iso": "2026-09-11",
-        "opponent": "East Sac County",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 29,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 18, 2026",
-        "date_iso": "2026-09-18",
-        "opponent": "Lawton-Bronson",
-        "result": "L",
-        "team_score": 30,
-        "opp_score": 41,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 25, 2026",
-        "date_iso": "2026-09-25",
-        "opponent": "Alta-Aurelia",
-        "result": "W",
-        "team_score": 55,
-        "opp_score": 16,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 2, 2026",
-        "date_iso": "2026-10-02",
-        "opponent": "Hinton",
-        "result": "L",
-        "team_score": 38,
-        "opp_score": 43,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 9, 2026",
-        "date_iso": "2026-10-09",
-        "opponent": "West Lyon",
-        "result": "L",
-        "team_score": 12,
-        "opp_score": 56,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 16, 2026",
-        "date_iso": "2026-10-16",
-        "opponent": "Ridge View",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 33,
-        "is_playoff": false
-      }
-    ],
     "Madrid": [
       {
         "date": "Aug 28, 2026",
@@ -11174,6 +11612,80 @@
         "is_playoff": false
       }
     ],
+    "Maple Valley-Anthon-Oto/Charter Oak-Ute": [
+      {
+        "date": "Aug 28, 2026",
+        "date_iso": "2026-08-28",
+        "opponent": "Missouri Valley",
+        "result": "W",
+        "team_score": 28,
+        "opp_score": 0,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 4, 2026",
+        "date_iso": "2026-09-04",
+        "opponent": "Northwest Webster",
+        "result": "W",
+        "team_score": 41,
+        "opp_score": 30,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 11, 2026",
+        "date_iso": "2026-09-11",
+        "opponent": "East Sac County",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 29,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 18, 2026",
+        "date_iso": "2026-09-18",
+        "opponent": "Lawton-Bronson",
+        "result": "L",
+        "team_score": 30,
+        "opp_score": 41,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 25, 2026",
+        "date_iso": "2026-09-25",
+        "opponent": "Alta-Aurelia",
+        "result": "W",
+        "team_score": 55,
+        "opp_score": 16,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 2, 2026",
+        "date_iso": "2026-10-02",
+        "opponent": "Hinton",
+        "result": "L",
+        "team_score": 38,
+        "opp_score": 43,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 9, 2026",
+        "date_iso": "2026-10-09",
+        "opponent": "West Lyon",
+        "result": "L",
+        "team_score": 12,
+        "opp_score": 56,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 16, 2026",
+        "date_iso": "2026-10-16",
+        "opponent": "Ridge View",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 33,
+        "is_playoff": false
+      }
+    ],
     "Maquoketa Valley": [
       {
         "date": "Aug 28, 2026",
@@ -11337,6 +11849,15 @@
         "result": "L",
         "team_score": 7,
         "opp_score": 24,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 15, 2026",
+        "date_iso": "2026-10-15",
+        "opponent": "South Winneshiek",
+        "result": "W",
+        "team_score": 46,
+        "opp_score": 0,
         "is_playoff": false
       },
       {
@@ -11544,24 +12065,6 @@
         "is_playoff": false
       },
       {
-        "date": "Aug 28, 2026",
-        "date_iso": "2026-08-28",
-        "opponent": "Jefferson",
-        "result": "W",
-        "team_score": 38,
-        "opp_score": 13,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 4, 2026",
-        "date_iso": "2026-09-04",
-        "opponent": "North Scott",
-        "result": "L",
-        "team_score": 3,
-        "opp_score": 21,
-        "is_playoff": false
-      },
-      {
         "date": "Sep 4, 2026",
         "date_iso": "2026-09-04",
         "opponent": "Independence",
@@ -11577,15 +12080,6 @@
         "result": "W",
         "team_score": 49,
         "opp_score": 19,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 11, 2026",
-        "date_iso": "2026-09-11",
-        "opponent": "Clinton",
-        "result": "W",
-        "team_score": 49,
-        "opp_score": 7,
         "is_playoff": false
       },
       {
@@ -11607,24 +12101,6 @@
         "is_playoff": false
       },
       {
-        "date": "Sep 25, 2026",
-        "date_iso": "2026-09-25",
-        "opponent": "Xavier",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 42,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 2, 2026",
-        "date_iso": "2026-10-02",
-        "opponent": "Decorah-North Winneshiek",
-        "result": "L",
-        "team_score": 10,
-        "opp_score": 28,
-        "is_playoff": false
-      },
-      {
         "date": "Oct 2, 2026",
         "date_iso": "2026-10-02",
         "opponent": "Fairfield",
@@ -11643,30 +12119,12 @@
         "is_playoff": false
       },
       {
-        "date": "Oct 9, 2026",
-        "date_iso": "2026-10-09",
-        "opponent": "Waverly-Shell Rock",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 42,
-        "is_playoff": false
-      },
-      {
         "date": "Oct 16, 2026",
         "date_iso": "2026-10-16",
         "opponent": "Fort Madison",
         "result": "W",
         "team_score": 49,
         "opp_score": 6,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 16, 2026",
-        "date_iso": "2026-10-16",
-        "opponent": "Mason City",
-        "result": "W",
-        "team_score": 33,
-        "opp_score": 13,
         "is_playoff": false
       },
       {
@@ -11779,6 +12237,15 @@
         "result": "L",
         "team_score": 13,
         "opp_score": 56,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 17, 2026",
+        "date_iso": "2026-09-17",
+        "opponent": "South Winneshiek",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 28,
         "is_playoff": false
       },
       {
@@ -12359,6 +12826,15 @@
         "team_score": 26,
         "opp_score": 48,
         "is_playoff": false
+      },
+      {
+        "date": "Oct 22, 2026",
+        "date_iso": "2026-10-22",
+        "opponent": "Colfax-Mingo",
+        "result": "W",
+        "team_score": 37,
+        "opp_score": 20,
+        "is_playoff": true
       }
     ],
     "New Hampton": [
@@ -13180,6 +13656,15 @@
         "team_score": 19,
         "opp_score": 59,
         "is_playoff": false
+      },
+      {
+        "date": "Oct 22, 2026",
+        "date_iso": "2026-10-22",
+        "opponent": "Camanche",
+        "result": "L",
+        "team_score": 32,
+        "opp_score": 44,
+        "is_playoff": true
       }
     ],
     "Norwalk": [
@@ -13314,7 +13799,7 @@
       {
         "date": "Oct 2, 2026",
         "date_iso": "2026-10-02",
-        "opponent": "Lincoln",
+        "opponent": "Lincoln-Des Moines",
         "result": "W",
         "team_score": 42,
         "opp_score": 16,
@@ -13357,7 +13842,7 @@
         "is_playoff": true
       }
     ],
-    "OABCIG": [
+    "Odebolt Arthur Battle Creek Ida Grove": [
       {
         "date": "Aug 28, 2026",
         "date_iso": "2026-08-28",
@@ -13447,13 +13932,22 @@
         "team_score": 14,
         "opp_score": 7,
         "is_playoff": true
+      },
+      {
+        "date": "Nov 6, 2026",
+        "date_iso": "2026-11-06",
+        "opponent": "Central Lyon/George-Little Rock",
+        "result": "L",
+        "team_score": 26,
+        "opp_score": 45,
+        "is_playoff": true
       }
     ],
     "Ridge View": [
       {
         "date": "Aug 28, 2026",
         "date_iso": "2026-08-28",
-        "opponent": "OABCIG",
+        "opponent": "Odebolt Arthur Battle Creek Ida Grove",
         "result": "L",
         "team_score": 6,
         "opp_score": 35,
@@ -13516,7 +14010,7 @@
       {
         "date": "Oct 16, 2026",
         "date_iso": "2026-10-16",
-        "opponent": "MVAOCOU (CO-OP)",
+        "opponent": "Maple Valley-Anthon-Oto/Charter Oak-Ute",
         "result": "W",
         "team_score": 33,
         "opp_score": 6,
@@ -13747,7 +14241,7 @@
       {
         "date": "Oct 9, 2026",
         "date_iso": "2026-10-09",
-        "opponent": "OABCIG",
+        "opponent": "Odebolt Arthur Battle Creek Ida Grove",
         "result": "L",
         "team_score": 7,
         "opp_score": 33,
@@ -13821,7 +14315,7 @@
       {
         "date": "Oct 16, 2026",
         "date_iso": "2026-10-16",
-        "opponent": "MMCRU (CO-OP)",
+        "opponent": "Marcus-Meriden-Cleghorn/Remsen-Union",
         "result": "L",
         "team_score": 13,
         "opp_score": 42,
@@ -13845,6 +14339,15 @@
         "result": "W",
         "team_score": 46,
         "opp_score": 0,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 10, 2026",
+        "date_iso": "2026-09-10",
+        "opponent": "Jesup",
+        "result": "W",
+        "team_score": 60,
+        "opp_score": 14,
         "is_playoff": false
       },
       {
@@ -14025,7 +14528,7 @@
       {
         "date": "Sep 18, 2026",
         "date_iso": "2026-09-18",
-        "opponent": "Lincoln",
+        "opponent": "Lincoln-Des Moines",
         "result": "L",
         "team_score": 8,
         "opp_score": 29,
@@ -14678,7 +15181,7 @@
       {
         "date": "Sep 18, 2026",
         "date_iso": "2026-09-18",
-        "opponent": "MMCRU (CO-OP)",
+        "opponent": "Marcus-Meriden-Cleghorn/Remsen-Union",
         "result": "L",
         "team_score": 20,
         "opp_score": 26,
@@ -14922,6 +15425,15 @@
         "result": "W",
         "team_score": 49,
         "opp_score": 6,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 10, 2026",
+        "date_iso": "2026-09-10",
+        "opponent": "Alburnett",
+        "result": "W",
+        "team_score": 28,
+        "opp_score": 12,
         "is_playoff": false
       },
       {
@@ -15277,10 +15789,19 @@
       {
         "date": "Aug 28, 2026",
         "date_iso": "2026-08-28",
-        "opponent": "Lincoln",
+        "opponent": "Lincoln-Des Moines",
         "result": "W",
         "team_score": 19,
         "opp_score": 6,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 3, 2026",
+        "date_iso": "2026-09-03",
+        "opponent": "Des Moines East",
+        "result": "W",
+        "team_score": 20,
+        "opp_score": 14,
         "is_playoff": false
       },
       {
@@ -15311,6 +15832,15 @@
         "is_playoff": false
       },
       {
+        "date": "Oct 1, 2026",
+        "date_iso": "2026-10-01",
+        "opponent": "Sioux City East",
+        "result": "L",
+        "team_score": 28,
+        "opp_score": 35,
+        "is_playoff": false
+      },
+      {
         "date": "Oct 9, 2026",
         "date_iso": "2026-10-09",
         "opponent": "Lincoln",
@@ -15338,6 +15868,89 @@
         "is_playoff": true
       }
     ],
+    "Lincoln-Des Moines": [
+      {
+        "date": "Aug 28, 2026",
+        "date_iso": "2026-08-28",
+        "opponent": "Roosevelt",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 19,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 4, 2026",
+        "date_iso": "2026-09-04",
+        "opponent": "Des Moines North",
+        "result": "W",
+        "team_score": 56,
+        "opp_score": 14,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 11, 2026",
+        "date_iso": "2026-09-11",
+        "opponent": "Ankeny Centennial",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 45,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 18, 2026",
+        "date_iso": "2026-09-18",
+        "opponent": "Ottumwa",
+        "result": "W",
+        "team_score": 29,
+        "opp_score": 8,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 24, 2026",
+        "date_iso": "2026-09-24",
+        "opponent": "Sioux City North",
+        "result": "W",
+        "team_score": 27,
+        "opp_score": 17,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 2, 2026",
+        "date_iso": "2026-10-02",
+        "opponent": "Indianola",
+        "result": "L",
+        "team_score": 16,
+        "opp_score": 42,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 9, 2026",
+        "date_iso": "2026-10-09",
+        "opponent": "Urbandale",
+        "result": "L",
+        "team_score": 13,
+        "opp_score": 40,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 16, 2026",
+        "date_iso": "2026-10-16",
+        "opponent": "Des Moines East",
+        "result": "W",
+        "team_score": 41,
+        "opp_score": 14,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 22, 2026",
+        "date_iso": "2026-10-22",
+        "opponent": "Valley",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 56,
+        "is_playoff": true
+      }
+    ],
     "Sergeant Bluff-Luton": [
       {
         "date": "Aug 28, 2026",
@@ -15360,7 +15973,7 @@
       {
         "date": "Sep 11, 2026",
         "date_iso": "2026-09-11",
-        "opponent": "Jefferson",
+        "opponent": "Jefferson-Council Bluffs",
         "result": "W",
         "team_score": 49,
         "opp_score": 0,
@@ -16011,7 +16624,7 @@
       {
         "date": "Oct 16, 2026",
         "date_iso": "2026-10-16",
-        "opponent": "CLGLR (CO-OP)",
+        "opponent": "Central Lyon/George-Little Rock",
         "result": "L",
         "team_score": 13,
         "opp_score": 36,
@@ -16074,6 +16687,15 @@
         "is_playoff": false
       },
       {
+        "date": "Oct 1, 2026",
+        "date_iso": "2026-10-01",
+        "opponent": "Roosevelt",
+        "result": "W",
+        "team_score": 35,
+        "opp_score": 28,
+        "is_playoff": false
+      },
+      {
         "date": "Oct 9, 2026",
         "date_iso": "2026-10-09",
         "opponent": "Johnston",
@@ -16090,6 +16712,15 @@
         "team_score": 55,
         "opp_score": 7,
         "is_playoff": false
+      },
+      {
+        "date": "Oct 22, 2026",
+        "date_iso": "2026-10-22",
+        "opponent": "Ames",
+        "result": "W",
+        "team_score": 35,
+        "opp_score": 0,
+        "is_playoff": true
       },
       {
         "date": "Oct 30, 2026",
@@ -16121,12 +16752,30 @@
         "is_playoff": false
       },
       {
+        "date": "Sep 10, 2026",
+        "date_iso": "2026-09-10",
+        "opponent": "Sioux City West",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 7,
+        "is_playoff": false
+      },
+      {
         "date": "Sep 18, 2026",
         "date_iso": "2026-09-18",
         "opponent": "Bishop Heelan Catholic",
         "result": "L",
         "team_score": 14,
         "opp_score": 51,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 24, 2026",
+        "date_iso": "2026-09-24",
+        "opponent": "Lincoln-Des Moines",
+        "result": "L",
+        "team_score": 17,
+        "opp_score": 27,
         "is_playoff": false
       },
       {
@@ -16170,10 +16819,28 @@
       {
         "date": "Aug 28, 2026",
         "date_iso": "2026-08-28",
-        "opponent": "Jefferson",
+        "opponent": "Jefferson-Council Bluffs",
         "result": "W",
         "team_score": 29,
         "opp_score": 0,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 3, 2026",
+        "date_iso": "2026-09-03",
+        "opponent": "South Sioux City",
+        "result": "W",
+        "team_score": 30,
+        "opp_score": 0,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 10, 2026",
+        "date_iso": "2026-09-10",
+        "opponent": "Sioux City North",
+        "result": "W",
+        "team_score": 7,
+        "opp_score": 6,
         "is_playoff": false
       },
       {
@@ -16222,7 +16889,7 @@
         "is_playoff": true
       }
     ],
-    "Jefferson": [
+    "Jefferson-Council Bluffs": [
       {
         "date": "Aug 28, 2026",
         "date_iso": "2026-08-28",
@@ -16233,39 +16900,12 @@
         "is_playoff": false
       },
       {
-        "date": "Aug 28, 2026",
-        "date_iso": "2026-08-28",
-        "opponent": "Washington",
-        "result": "L",
-        "team_score": 13,
-        "opp_score": 38,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 4, 2026",
-        "date_iso": "2026-09-04",
-        "opponent": "Muscatine",
-        "result": "W",
-        "team_score": 29,
-        "opp_score": 22,
-        "is_playoff": false
-      },
-      {
         "date": "Sep 4, 2026",
         "date_iso": "2026-09-04",
         "opponent": "Storm Lake",
         "result": "L",
         "team_score": 6,
         "opp_score": 7,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 11, 2026",
-        "date_iso": "2026-09-11",
-        "opponent": "Indianola",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 44,
         "is_playoff": false
       },
       {
@@ -16287,15 +16927,6 @@
         "is_playoff": false
       },
       {
-        "date": "Sep 18, 2026",
-        "date_iso": "2026-09-18",
-        "opponent": "Urbandale",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 49,
-        "is_playoff": false
-      },
-      {
         "date": "Sep 25, 2026",
         "date_iso": "2026-09-25",
         "opponent": "Denison-Schleswig",
@@ -16305,30 +16936,12 @@
         "is_playoff": false
       },
       {
-        "date": "Sep 25, 2026",
-        "date_iso": "2026-09-25",
-        "opponent": "Prairie",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 70,
-        "is_playoff": false
-      },
-      {
         "date": "Oct 2, 2026",
         "date_iso": "2026-10-02",
         "opponent": "A-D-M",
         "result": "L",
         "team_score": 0,
         "opp_score": 49,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 9, 2026",
-        "date_iso": "2026-10-09",
-        "opponent": "Bettendorf",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 50,
         "is_playoff": false
       },
       {
@@ -16348,15 +16961,6 @@
         "team_score": 12,
         "opp_score": 56,
         "is_playoff": false
-      },
-      {
-        "date": "Oct 23, 2026",
-        "date_iso": "2026-10-23",
-        "opponent": "Cedar Falls",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 42,
-        "is_playoff": true
       },
       {
         "date": "Oct 23, 2026",
@@ -17117,7 +17721,7 @@
       {
         "date": "Sep 11, 2026",
         "date_iso": "2026-09-11",
-        "opponent": "Lincoln",
+        "opponent": "Lincoln-Des Moines",
         "result": "W",
         "team_score": 45,
         "opp_score": 7,
@@ -17245,20 +17849,11 @@
       {
         "date": "Oct 16, 2026",
         "date_iso": "2026-10-16",
-        "opponent": "OABCIG",
+        "opponent": "Odebolt Arthur Battle Creek Ida Grove",
         "result": "L",
         "team_score": 0,
         "opp_score": 35,
         "is_playoff": false
-      },
-      {
-        "date": "Oct 23, 2026",
-        "date_iso": "2026-10-23",
-        "opponent": "CLGLR (CO-OP)",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 38,
-        "is_playoff": true
       },
       {
         "date": "Oct 23, 2026",
@@ -17283,7 +17878,7 @@
       {
         "date": "Sep 4, 2026",
         "date_iso": "2026-09-04",
-        "opponent": "MVAOCOU (CO-OP)",
+        "opponent": "Maple Valley-Anthon-Oto/Charter Oak-Ute",
         "result": "L",
         "team_score": 30,
         "opp_score": 41,
@@ -17568,7 +18163,7 @@
       {
         "date": "Sep 25, 2026",
         "date_iso": "2026-09-25",
-        "opponent": "OABCIG",
+        "opponent": "Odebolt Arthur Battle Creek Ida Grove",
         "result": "L",
         "team_score": 27,
         "opp_score": 28,
@@ -17862,7 +18457,7 @@
       {
         "date": "Sep 4, 2026",
         "date_iso": "2026-09-04",
-        "opponent": "OABCIG",
+        "opponent": "Odebolt Arthur Battle Creek Ida Grove",
         "result": "L",
         "team_score": 7,
         "opp_score": 33,
@@ -18118,6 +18713,15 @@
         "is_playoff": false
       },
       {
+        "date": "Sep 3, 2026",
+        "date_iso": "2026-09-03",
+        "opponent": "Denver",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 35,
+        "is_playoff": false
+      },
+      {
         "date": "Sep 11, 2026",
         "date_iso": "2026-09-11",
         "opponent": "North Fayette Valley",
@@ -18210,6 +18814,15 @@
         "is_playoff": false
       },
       {
+        "date": "Sep 17, 2026",
+        "date_iso": "2026-09-17",
+        "opponent": "Postville",
+        "result": "W",
+        "team_score": 28,
+        "opp_score": 0,
+        "is_playoff": false
+      },
+      {
         "date": "Sep 25, 2026",
         "date_iso": "2026-09-25",
         "opponent": "Clayton-Ridge",
@@ -18234,6 +18847,15 @@
         "result": "L",
         "team_score": 20,
         "opp_score": 39,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 15, 2026",
+        "date_iso": "2026-10-15",
+        "opponent": "Starmont",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 46,
         "is_playoff": false
       }
     ],
@@ -18383,6 +19005,15 @@
         "team_score": 8,
         "opp_score": 49,
         "is_playoff": false
+      },
+      {
+        "date": "Oct 22, 2026",
+        "date_iso": "2026-10-22",
+        "opponent": "Durant",
+        "result": "W",
+        "team_score": 44,
+        "opp_score": 32,
+        "is_playoff": true
       }
     ],
     "Treynor": [
@@ -18791,6 +19422,15 @@
         "is_playoff": false
       },
       {
+        "date": "Sep 3, 2026",
+        "date_iso": "2026-09-03",
+        "opponent": "Sumner-Fredericksburg",
+        "result": "W",
+        "team_score": 35,
+        "opp_score": 0,
+        "is_playoff": false
+      },
+      {
         "date": "Sep 11, 2026",
         "date_iso": "2026-09-11",
         "opponent": "Charles City",
@@ -18843,6 +19483,172 @@
         "team_score": 20,
         "opp_score": 25,
         "is_playoff": false
+      }
+    ],
+    "Washington-Cedar Rapids": [
+      {
+        "date": "Aug 28, 2026",
+        "date_iso": "2026-08-28",
+        "opponent": "Jefferson",
+        "result": "W",
+        "team_score": 38,
+        "opp_score": 13,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 4, 2026",
+        "date_iso": "2026-09-04",
+        "opponent": "North Scott",
+        "result": "L",
+        "team_score": 3,
+        "opp_score": 21,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 11, 2026",
+        "date_iso": "2026-09-11",
+        "opponent": "Clinton",
+        "result": "W",
+        "team_score": 49,
+        "opp_score": 7,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 17, 2026",
+        "date_iso": "2026-09-17",
+        "opponent": "Grinnell",
+        "result": "L",
+        "team_score": 21,
+        "opp_score": 35,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 25, 2026",
+        "date_iso": "2026-09-25",
+        "opponent": "Xavier",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 42,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 2, 2026",
+        "date_iso": "2026-10-02",
+        "opponent": "Decorah-North Winneshiek",
+        "result": "L",
+        "team_score": 10,
+        "opp_score": 28,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 9, 2026",
+        "date_iso": "2026-10-09",
+        "opponent": "Waverly-Shell Rock",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 42,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 16, 2026",
+        "date_iso": "2026-10-16",
+        "opponent": "Mason City",
+        "result": "W",
+        "team_score": 33,
+        "opp_score": 13,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 22, 2026",
+        "date_iso": "2026-10-22",
+        "opponent": "Waterloo East",
+        "result": "W",
+        "team_score": 52,
+        "opp_score": 20,
+        "is_playoff": true
+      }
+    ],
+    "Jefferson": [
+      {
+        "date": "Aug 28, 2026",
+        "date_iso": "2026-08-28",
+        "opponent": "Washington-Cedar Rapids",
+        "result": "L",
+        "team_score": 13,
+        "opp_score": 38,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 4, 2026",
+        "date_iso": "2026-09-04",
+        "opponent": "Muscatine",
+        "result": "W",
+        "team_score": 29,
+        "opp_score": 22,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 11, 2026",
+        "date_iso": "2026-09-11",
+        "opponent": "Indianola",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 44,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 18, 2026",
+        "date_iso": "2026-09-18",
+        "opponent": "Urbandale",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 49,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 25, 2026",
+        "date_iso": "2026-09-25",
+        "opponent": "Prairie",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 70,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 1, 2026",
+        "date_iso": "2026-10-01",
+        "opponent": "Dubuque Senior",
+        "result": "W",
+        "team_score": 32,
+        "opp_score": 15,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 9, 2026",
+        "date_iso": "2026-10-09",
+        "opponent": "Bettendorf",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 50,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 15, 2026",
+        "date_iso": "2026-10-15",
+        "opponent": "Hempstead",
+        "result": "W",
+        "team_score": 42,
+        "opp_score": 6,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct 23, 2026",
+        "date_iso": "2026-10-23",
+        "opponent": "Cedar Falls",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 42,
+        "is_playoff": true
       }
     ],
     "Waterloo West": [
@@ -19000,6 +19806,15 @@
         "team_score": 0,
         "opp_score": 48,
         "is_playoff": false
+      },
+      {
+        "date": "Oct 22, 2026",
+        "date_iso": "2026-10-22",
+        "opponent": "Washington-Cedar Rapids",
+        "result": "L",
+        "team_score": 20,
+        "opp_score": 52,
+        "is_playoff": true
       }
     ],
     "Waverly-Shell Rock": [
@@ -19060,7 +19875,7 @@
       {
         "date": "Oct 9, 2026",
         "date_iso": "2026-10-09",
-        "opponent": "Washington",
+        "opponent": "Washington-Cedar Rapids",
         "result": "W",
         "team_score": 42,
         "opp_score": 0,
@@ -19580,6 +20395,15 @@
         "result": "L",
         "team_score": 7,
         "opp_score": 30,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep 10, 2026",
+        "date_iso": "2026-09-10",
+        "opponent": "Davenport North",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 38,
         "is_playoff": false
       },
       {
@@ -20157,7 +20981,7 @@
       {
         "date": "Sep 4, 2026",
         "date_iso": "2026-09-04",
-        "opponent": "CLGLR (CO-OP)",
+        "opponent": "Central Lyon/George-Little Rock",
         "result": "L",
         "team_score": 13,
         "opp_score": 14,
@@ -20202,7 +21026,7 @@
       {
         "date": "Oct 9, 2026",
         "date_iso": "2026-10-09",
-        "opponent": "MVAOCOU (CO-OP)",
+        "opponent": "Maple Valley-Anthon-Oto/Charter Oak-Ute",
         "result": "W",
         "team_score": 56,
         "opp_score": 12,
@@ -20294,7 +21118,7 @@
       {
         "date": "Oct 2, 2026",
         "date_iso": "2026-10-02",
-        "opponent": "CLGLR (CO-OP)",
+        "opponent": "Central Lyon/George-Little Rock",
         "result": "L",
         "team_score": 18,
         "opp_score": 30,
@@ -20317,15 +21141,6 @@
         "team_score": 41,
         "opp_score": 42,
         "is_playoff": false
-      },
-      {
-        "date": "Oct 23, 2026",
-        "date_iso": "2026-10-23",
-        "opponent": "OABCIG",
-        "result": "L",
-        "team_score": 21,
-        "opp_score": 28,
-        "is_playoff": true
       },
       {
         "date": "Oct 23, 2026",
@@ -20413,15 +21228,6 @@
       {
         "date": "Oct 23, 2026",
         "date_iso": "2026-10-23",
-        "opponent": "MMCRU (CO-OP)",
-        "result": "W",
-        "team_score": 46,
-        "opp_score": 28,
-        "is_playoff": true
-      },
-      {
-        "date": "Oct 23, 2026",
-        "date_iso": "2026-10-23",
         "opponent": "Marcus-Meriden-Cleghorn/Remsen-Union",
         "result": "W",
         "team_score": 46,
@@ -20451,7 +21257,7 @@
       {
         "date": "Sep 11, 2026",
         "date_iso": "2026-09-11",
-        "opponent": "MMCRU (CO-OP)",
+        "opponent": "Marcus-Meriden-Cleghorn/Remsen-Union",
         "result": "L",
         "team_score": 0,
         "opp_score": 17,
@@ -20561,7 +21367,7 @@
       {
         "date": "Oct 9, 2026",
         "date_iso": "2026-10-09",
-        "opponent": "MMCRU (CO-OP)",
+        "opponent": "Marcus-Meriden-Cleghorn/Remsen-Union",
         "result": "W",
         "team_score": 57,
         "opp_score": 0,
@@ -20662,7 +21468,7 @@
       {
         "date": "Oct 9, 2026",
         "date_iso": "2026-10-09",
-        "opponent": "CLGLR (CO-OP)",
+        "opponent": "Central Lyon/George-Little Rock",
         "result": "L",
         "team_score": 3,
         "opp_score": 55,
@@ -21012,7 +21818,7 @@
       {
         "date": "Sep 25, 2026",
         "date_iso": "2026-09-25",
-        "opponent": "MVAOCOU (CO-OP)",
+        "opponent": "Maple Valley-Anthon-Oto/Charter Oak-Ute",
         "result": "L",
         "team_score": 16,
         "opp_score": 55,
@@ -21362,7 +22168,7 @@
       {
         "date": "Sep 18, 2026",
         "date_iso": "2026-09-18",
-        "opponent": "MVAOCOU (CO-OP)",
+        "opponent": "Maple Valley-Anthon-Oto/Charter Oak-Ute",
         "result": "W",
         "team_score": 41,
         "opp_score": 30,
@@ -21454,7 +22260,7 @@
       {
         "date": "Sep 25, 2026",
         "date_iso": "2026-09-25",
-        "opponent": "Washington",
+        "opponent": "Washington-Cedar Rapids",
         "result": "W",
         "team_score": 42,
         "opp_score": 14,
@@ -21546,7 +22352,7 @@
       {
         "date": "Sep 4, 2026",
         "date_iso": "2026-09-04",
-        "opponent": "Washington",
+        "opponent": "Washington-Cedar Rapids",
         "result": "W",
         "team_score": 21,
         "opp_score": 3,
@@ -21616,137 +22422,16 @@
         "is_playoff": true
       }
     ],
-    "Hempstead": [
-      {
-        "date": "Sep 4, 2026",
-        "date_iso": "2026-09-04",
-        "opponent": "Iowa City West",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 53,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 11, 2026",
-        "date_iso": "2026-09-11",
-        "opponent": "Waterloo West",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 35,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 18, 2026",
-        "date_iso": "2026-09-18",
-        "opponent": "Pleasant Valley",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 14,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 25, 2026",
-        "date_iso": "2026-09-25",
-        "opponent": "Cedar Falls",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 35,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 2, 2026",
-        "date_iso": "2026-10-02",
-        "opponent": "Prairie",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 70,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 9, 2026",
-        "date_iso": "2026-10-09",
-        "opponent": "Dubuque Senior",
-        "result": "W",
-        "team_score": 41,
-        "opp_score": 40,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 23, 2026",
-        "date_iso": "2026-10-23",
-        "opponent": "Bettendorf",
-        "result": "L",
-        "team_score": 8,
-        "opp_score": 38,
-        "is_playoff": true
-      }
-    ],
-    "Des Moines North": [
-      {
-        "date": "Sep 4, 2026",
-        "date_iso": "2026-09-04",
-        "opponent": "Lincoln",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 56,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 11, 2026",
-        "date_iso": "2026-09-11",
-        "opponent": "Saydel",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 28,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 18, 2026",
-        "date_iso": "2026-09-18",
-        "opponent": "Perry",
-        "result": "L",
-        "team_score": 12,
-        "opp_score": 58,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 25, 2026",
-        "date_iso": "2026-09-25",
-        "opponent": "Carlisle",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 51,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 2, 2026",
-        "date_iso": "2026-10-02",
-        "opponent": "Ballard",
-        "result": "L",
-        "team_score": 8,
-        "opp_score": 56,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 16, 2026",
-        "date_iso": "2026-10-16",
-        "opponent": "Gilbert",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 64,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 23, 2026",
-        "date_iso": "2026-10-23",
-        "opponent": "Bondurant-Farrar",
-        "result": "L",
-        "team_score": 8,
-        "opp_score": 54,
-        "is_playoff": true
-      }
-    ],
     "North Mahaska": [
+      {
+        "date": "Aug 31, 2026",
+        "date_iso": "2026-08-31",
+        "opponent": "Eddyville-Blakesburg-Fremont",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 54,
+        "is_playoff": false
+      },
       {
         "date": "Sep 4, 2026",
         "date_iso": "2026-09-04",
@@ -21811,143 +22496,15 @@
         "is_playoff": false
       }
     ],
-    "Kennedy": [
+    "South Sioux City": [
       {
-        "date": "Sep 4, 2026",
-        "date_iso": "2026-09-04",
-        "opponent": "Prairie",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 29,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 11, 2026",
-        "date_iso": "2026-09-11",
-        "opponent": "Waukee",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 39,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 18, 2026",
-        "date_iso": "2026-09-18",
-        "opponent": "Linn-Mar",
-        "result": "W",
-        "team_score": 21,
-        "opp_score": 17,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 25, 2026",
-        "date_iso": "2026-09-25",
-        "opponent": "Marshalltown",
-        "result": "W",
-        "team_score": 57,
-        "opp_score": 0,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 2, 2026",
-        "date_iso": "2026-10-02",
-        "opponent": "Dowling Catholic",
+        "date": "Sep 3, 2026",
+        "date_iso": "2026-09-03",
+        "opponent": "Sioux City West",
         "result": "L",
         "team_score": 0,
-        "opp_score": 36,
+        "opp_score": 30,
         "is_playoff": false
-      },
-      {
-        "date": "Oct 9, 2026",
-        "date_iso": "2026-10-09",
-        "opponent": "Waterloo West",
-        "result": "W",
-        "team_score": 42,
-        "opp_score": 9,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 16, 2026",
-        "date_iso": "2026-10-16",
-        "opponent": "Bettendorf",
-        "result": "W",
-        "team_score": 37,
-        "opp_score": 0,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 23, 2026",
-        "date_iso": "2026-10-23",
-        "opponent": "Dallas Center-Grimes",
-        "result": "L",
-        "team_score": 29,
-        "opp_score": 47,
-        "is_playoff": true
-      }
-    ],
-    "Des Moines East": [
-      {
-        "date": "Sep 11, 2026",
-        "date_iso": "2026-09-11",
-        "opponent": "Ottumwa",
-        "result": "L",
-        "team_score": 13,
-        "opp_score": 20,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 18, 2026",
-        "date_iso": "2026-09-18",
-        "opponent": "Marshalltown",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 17,
-        "is_playoff": false
-      },
-      {
-        "date": "Sep 25, 2026",
-        "date_iso": "2026-09-25",
-        "opponent": "Northwest",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 49,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 2, 2026",
-        "date_iso": "2026-10-02",
-        "opponent": "Norwalk",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 21,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 9, 2026",
-        "date_iso": "2026-10-09",
-        "opponent": "Iowa City",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 56,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 16, 2026",
-        "date_iso": "2026-10-16",
-        "opponent": "Lincoln",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 41,
-        "is_playoff": false
-      },
-      {
-        "date": "Oct 23, 2026",
-        "date_iso": "2026-10-23",
-        "opponent": "Southeast Polk",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 54,
-        "is_playoff": true
       }
     ],
     "GMG": [
@@ -21958,75 +22515,6 @@
         "result": "L",
         "team_score": 6,
         "opp_score": 70,
-        "is_playoff": true
-      }
-    ],
-    "Central Lyon/George-Little Rock": [
-      {
-        "date": "Oct 23, 2026",
-        "date_iso": "2026-10-23",
-        "opponent": "Southeast Valley",
-        "result": "W",
-        "team_score": 38,
-        "opp_score": 14,
-        "is_playoff": true
-      },
-      {
-        "date": "Oct 30, 2026",
-        "date_iso": "2026-10-30",
-        "opponent": "Clarinda",
-        "result": "W",
-        "team_score": 49,
-        "opp_score": 0,
-        "is_playoff": true
-      },
-      {
-        "date": "Nov 6, 2026",
-        "date_iso": "2026-11-06",
-        "opponent": "Odebolt Arthur Battle Creek Ida Grove",
-        "result": "W",
-        "team_score": 45,
-        "opp_score": 26,
-        "is_playoff": true
-      }
-    ],
-    "Odebolt Arthur Battle Creek Ida Grove": [
-      {
-        "date": "Oct 23, 2026",
-        "date_iso": "2026-10-23",
-        "opponent": "Western Christian",
-        "result": "W",
-        "team_score": 28,
-        "opp_score": 21,
-        "is_playoff": true
-      },
-      {
-        "date": "Oct 30, 2026",
-        "date_iso": "2026-10-30",
-        "opponent": "Dike-New Hartford",
-        "result": "W",
-        "team_score": 14,
-        "opp_score": 7,
-        "is_playoff": true
-      },
-      {
-        "date": "Nov 6, 2026",
-        "date_iso": "2026-11-06",
-        "opponent": "Central Lyon/George-Little Rock",
-        "result": "L",
-        "team_score": 26,
-        "opp_score": 45,
-        "is_playoff": true
-      }
-    ],
-    "Marcus-Meriden-Cleghorn/Remsen-Union": [
-      {
-        "date": "Oct 23, 2026",
-        "date_iso": "2026-10-23",
-        "opponent": "West Monona",
-        "result": "L",
-        "team_score": 28,
-        "opp_score": 46,
         "is_playoff": true
       }
     ]
@@ -22124,6 +22612,26 @@
     },
     {
       "season": "2026",
+      "date": "Aug 27, 2026",
+      "date_iso": "2026-08-27",
+      "winner": "Des Moines East",
+      "winner_score": 49,
+      "loser": "Des Moines North",
+      "loser_score": 12,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Aug 27, 2026",
+      "date_iso": "2026-08-27",
+      "winner": "Kennedy",
+      "winner_score": 49,
+      "loser": "Hempstead",
+      "loser_score": 13,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
       "date": "Aug 28, 2026",
       "date_iso": "2026-08-28",
       "winner": "A-D-M",
@@ -22148,7 +22656,7 @@
       "date_iso": "2026-08-28",
       "winner": "Akron-Westfield",
       "winner_score": 18,
-      "loser": "MMCRU (CO-OP)",
+      "loser": "Marcus-Meriden-Cleghorn/Remsen-Union",
       "loser_score": 13,
       "round": "Regular Season"
     },
@@ -22266,16 +22774,6 @@
       "season": "2026",
       "date": "Aug 28, 2026",
       "date_iso": "2026-08-28",
-      "winner": "CLGLR (CO-OP)",
-      "winner_score": 16,
-      "loser": "MOC-Floyd Valley",
-      "loser_score": 6,
-      "round": "Regular Season"
-    },
-    {
-      "season": "2026",
-      "date": "Aug 28, 2026",
-      "date_iso": "2026-08-28",
       "winner": "Carlisle",
       "winner_score": 10,
       "loser": "Newton",
@@ -22320,6 +22818,16 @@
       "winner_score": 38,
       "loser": "Van Buren County",
       "loser_score": 12,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Aug 28, 2026",
+      "date_iso": "2026-08-28",
+      "winner": "Central Lyon/George-Little Rock",
+      "winner_score": 16,
+      "loser": "MOC-Floyd Valley",
+      "loser_score": 6,
       "round": "Regular Season"
     },
     {
@@ -22706,20 +23214,20 @@
       "season": "2026",
       "date": "Aug 28, 2026",
       "date_iso": "2026-08-28",
-      "winner": "MVAOCOU (CO-OP)",
-      "winner_score": 28,
-      "loser": "Missouri Valley",
-      "loser_score": 0,
+      "winner": "Madrid",
+      "winner_score": 32,
+      "loser": "Woodward-Granger",
+      "loser_score": 8,
       "round": "Regular Season"
     },
     {
       "season": "2026",
       "date": "Aug 28, 2026",
       "date_iso": "2026-08-28",
-      "winner": "Madrid",
-      "winner_score": 32,
-      "loser": "Woodward-Granger",
-      "loser_score": 8,
+      "winner": "Maple Valley-Anthon-Oto/Charter Oak-Ute",
+      "winner_score": 28,
+      "loser": "Missouri Valley",
+      "loser_score": 0,
       "round": "Regular Season"
     },
     {
@@ -22856,7 +23364,7 @@
       "season": "2026",
       "date": "Aug 28, 2026",
       "date_iso": "2026-08-28",
-      "winner": "OABCIG",
+      "winner": "Odebolt Arthur Battle Creek Ida Grove",
       "winner_score": 35,
       "loser": "Ridge View",
       "loser_score": 6,
@@ -22968,7 +23476,7 @@
       "date_iso": "2026-08-28",
       "winner": "Roosevelt",
       "winner_score": 19,
-      "loser": "Lincoln",
+      "loser": "Lincoln-Des Moines",
       "loser_score": 6,
       "round": "Regular Season"
     },
@@ -23028,7 +23536,7 @@
       "date_iso": "2026-08-28",
       "winner": "Sioux City West",
       "winner_score": 29,
-      "loser": "Jefferson",
+      "loser": "Jefferson-Council Bluffs",
       "loser_score": 0,
       "round": "Regular Season"
     },
@@ -23196,7 +23704,7 @@
       "season": "2026",
       "date": "Aug 28, 2026",
       "date_iso": "2026-08-28",
-      "winner": "Washington",
+      "winner": "Washington-Cedar Rapids",
       "winner_score": 38,
       "loser": "Jefferson",
       "loser_score": 13,
@@ -23364,6 +23872,46 @@
     },
     {
       "season": "2026",
+      "date": "Aug 31, 2026",
+      "date_iso": "2026-08-31",
+      "winner": "Eddyville-Blakesburg-Fremont",
+      "winner_score": 54,
+      "loser": "North Mahaska",
+      "loser_score": 6,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Sep 3, 2026",
+      "date_iso": "2026-09-03",
+      "winner": "Denver",
+      "winner_score": 35,
+      "loser": "Sumner-Fredericksburg",
+      "loser_score": 0,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Sep 3, 2026",
+      "date_iso": "2026-09-03",
+      "winner": "Roosevelt",
+      "winner_score": 20,
+      "loser": "Des Moines East",
+      "loser_score": 14,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Sep 3, 2026",
+      "date_iso": "2026-09-03",
+      "winner": "Sioux City West",
+      "winner_score": 30,
+      "loser": "South Sioux City",
+      "loser_score": 0,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
       "date": "Sep 4, 2026",
       "date_iso": "2026-09-04",
       "winner": "A-D-M",
@@ -23516,16 +24064,6 @@
       "season": "2026",
       "date": "Sep 4, 2026",
       "date_iso": "2026-09-04",
-      "winner": "CLGLR (CO-OP)",
-      "winner_score": 14,
-      "loser": "West Lyon",
-      "loser_score": 13,
-      "round": "Regular Season"
-    },
-    {
-      "season": "2026",
-      "date": "Sep 4, 2026",
-      "date_iso": "2026-09-04",
       "winner": "Carlisle",
       "winner_score": 27,
       "loser": "Indianola",
@@ -23580,6 +24118,16 @@
       "winner_score": 20,
       "loser": "Albia",
       "loser_score": 14,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Sep 4, 2026",
+      "date_iso": "2026-09-04",
+      "winner": "Central Lyon/George-Little Rock",
+      "winner_score": 14,
+      "loser": "West Lyon",
+      "loser_score": 13,
       "round": "Regular Season"
     },
     {
@@ -23868,7 +24416,7 @@
       "date_iso": "2026-09-04",
       "winner": "Hinton",
       "winner_score": 32,
-      "loser": "MMCRU (CO-OP)",
+      "loser": "Marcus-Meriden-Cleghorn/Remsen-Union",
       "loser_score": 7,
       "round": "Regular Season"
     },
@@ -23936,7 +24484,7 @@
       "season": "2026",
       "date": "Sep 4, 2026",
       "date_iso": "2026-09-04",
-      "winner": "Lincoln",
+      "winner": "Lincoln-Des Moines",
       "winner_score": 56,
       "loser": "Des Moines North",
       "loser_score": 14,
@@ -23996,20 +24544,20 @@
       "season": "2026",
       "date": "Sep 4, 2026",
       "date_iso": "2026-09-04",
-      "winner": "MVAOCOU (CO-OP)",
-      "winner_score": 41,
-      "loser": "Northwest Webster",
-      "loser_score": 30,
+      "winner": "Madrid",
+      "winner_score": 36,
+      "loser": "North Mahaska",
+      "loser_score": 8,
       "round": "Regular Season"
     },
     {
       "season": "2026",
       "date": "Sep 4, 2026",
       "date_iso": "2026-09-04",
-      "winner": "Madrid",
-      "winner_score": 36,
-      "loser": "North Mahaska",
-      "loser_score": 8,
+      "winner": "Maple Valley-Anthon-Oto/Charter Oak-Ute",
+      "winner_score": 41,
+      "loser": "Northwest Webster",
+      "loser_score": 30,
       "round": "Regular Season"
     },
     {
@@ -24128,7 +24676,7 @@
       "date_iso": "2026-09-04",
       "winner": "North Scott",
       "winner_score": 21,
-      "loser": "Washington",
+      "loser": "Washington-Cedar Rapids",
       "loser_score": 3,
       "round": "Regular Season"
     },
@@ -24146,7 +24694,7 @@
       "season": "2026",
       "date": "Sep 4, 2026",
       "date_iso": "2026-09-04",
-      "winner": "OABCIG",
+      "winner": "Odebolt Arthur Battle Creek Ida Grove",
       "winner_score": 33,
       "loser": "Tri-Center",
       "loser_score": 7,
@@ -24358,7 +24906,7 @@
       "date_iso": "2026-09-04",
       "winner": "Storm Lake",
       "winner_score": 7,
-      "loser": "Jefferson",
+      "loser": "Jefferson-Council Bluffs",
       "loser_score": 6,
       "round": "Regular Season"
     },
@@ -24584,6 +25132,46 @@
     },
     {
       "season": "2026",
+      "date": "Sep 10, 2026",
+      "date_iso": "2026-09-10",
+      "winner": "Davenport North",
+      "winner_score": 38,
+      "loser": "Marion",
+      "loser_score": 0,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Sep 10, 2026",
+      "date_iso": "2026-09-10",
+      "winner": "Osage",
+      "winner_score": 60,
+      "loser": "Jesup",
+      "loser_score": 14,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Sep 10, 2026",
+      "date_iso": "2026-09-10",
+      "winner": "Regina",
+      "winner_score": 28,
+      "loser": "Alburnett",
+      "loser_score": 12,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Sep 10, 2026",
+      "date_iso": "2026-09-10",
+      "winner": "Sioux City West",
+      "winner_score": 7,
+      "loser": "Sioux City North",
+      "loser_score": 6,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
       "date": "Sep 11, 2026",
       "date_iso": "2026-09-11",
       "winner": "Adair-Casey/Guthrie Center",
@@ -24638,7 +25226,7 @@
       "date_iso": "2026-09-11",
       "winner": "Ankeny Centennial",
       "winner_score": 45,
-      "loser": "Lincoln",
+      "loser": "Lincoln-Des Moines",
       "loser_score": 7,
       "round": "Regular Season"
     },
@@ -24898,7 +25486,7 @@
       "date_iso": "2026-09-11",
       "winner": "East Sac County",
       "winner_score": 29,
-      "loser": "MVAOCOU (CO-OP)",
+      "loser": "Maple Valley-Anthon-Oto/Charter Oak-Ute",
       "loser_score": 14,
       "round": "Regular Season"
     },
@@ -25106,16 +25694,6 @@
       "season": "2026",
       "date": "Sep 11, 2026",
       "date_iso": "2026-09-11",
-      "winner": "MMCRU (CO-OP)",
-      "winner_score": 17,
-      "loser": "South O'Brien",
-      "loser_score": 0,
-      "round": "Regular Season"
-    },
-    {
-      "season": "2026",
-      "date": "Sep 11, 2026",
-      "date_iso": "2026-09-11",
       "winner": "MOC-Floyd Valley",
       "winner_score": 28,
       "loser": "Storm Lake",
@@ -25130,6 +25708,16 @@
       "winner_score": 26,
       "loser": "B-G-M",
       "loser_score": 6,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Sep 11, 2026",
+      "date_iso": "2026-09-11",
+      "winner": "Marcus-Meriden-Cleghorn/Remsen-Union",
+      "winner_score": 17,
+      "loser": "South O'Brien",
+      "loser_score": 0,
       "round": "Regular Season"
     },
     {
@@ -25276,7 +25864,7 @@
       "season": "2026",
       "date": "Sep 11, 2026",
       "date_iso": "2026-09-11",
-      "winner": "OABCIG",
+      "winner": "Odebolt Arthur Battle Creek Ida Grove",
       "winner_score": 34,
       "loser": "Boyden-Hull/Rock Valley",
       "loser_score": 0,
@@ -25408,7 +25996,7 @@
       "date_iso": "2026-09-11",
       "winner": "Sergeant Bluff-Luton",
       "winner_score": 49,
-      "loser": "Jefferson",
+      "loser": "Jefferson-Council Bluffs",
       "loser_score": 0,
       "round": "Regular Season"
     },
@@ -25636,7 +26224,7 @@
       "season": "2026",
       "date": "Sep 11, 2026",
       "date_iso": "2026-09-11",
-      "winner": "Washington",
+      "winner": "Washington-Cedar Rapids",
       "winner_score": 49,
       "loser": "Clinton",
       "loser_score": 7,
@@ -25794,6 +26382,56 @@
     },
     {
       "season": "2026",
+      "date": "Sep 17, 2026",
+      "date_iso": "2026-09-17",
+      "winner": "Assumption",
+      "winner_score": 51,
+      "loser": "Davenport West",
+      "loser_score": 0,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Sep 17, 2026",
+      "date_iso": "2026-09-17",
+      "winner": "Belmond-Klemme",
+      "winner_score": 34,
+      "loser": "Lake Mills",
+      "loser_score": 0,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Sep 17, 2026",
+      "date_iso": "2026-09-17",
+      "winner": "Grinnell",
+      "winner_score": 35,
+      "loser": "Washington-Cedar Rapids",
+      "loser_score": 21,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Sep 17, 2026",
+      "date_iso": "2026-09-17",
+      "winner": "South Winneshiek",
+      "winner_score": 28,
+      "loser": "Postville",
+      "loser_score": 0,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Sep 17, 2026",
+      "date_iso": "2026-09-17",
+      "winner": "Waukon",
+      "winner_score": 52,
+      "loser": "Forest City",
+      "loser_score": 6,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
       "date": "Sep 18, 2026",
       "date_iso": "2026-09-18",
       "winner": "A-D-M",
@@ -25926,16 +26564,6 @@
       "season": "2026",
       "date": "Sep 18, 2026",
       "date_iso": "2026-09-18",
-      "winner": "CLGLR (CO-OP)",
-      "winner_score": 31,
-      "loser": "Boyden-Hull/Rock Valley",
-      "loser_score": 15,
-      "round": "Regular Season"
-    },
-    {
-      "season": "2026",
-      "date": "Sep 18, 2026",
-      "date_iso": "2026-09-18",
       "winner": "Carlisle",
       "winner_score": 44,
       "loser": "Winterset",
@@ -25970,6 +26598,16 @@
       "winner_score": 26,
       "loser": "Iowa City",
       "loser_score": 13,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Sep 18, 2026",
+      "date_iso": "2026-09-18",
+      "winner": "Central Lyon/George-Little Rock",
+      "winner_score": 31,
+      "loser": "Boyden-Hull/Rock Valley",
+      "loser_score": 15,
       "round": "Regular Season"
     },
     {
@@ -26328,7 +26966,7 @@
       "date_iso": "2026-09-18",
       "winner": "Kuemper",
       "winner_score": 35,
-      "loser": "OABCIG",
+      "loser": "Odebolt Arthur Battle Creek Ida Grove",
       "loser_score": 20,
       "round": "Regular Season"
     },
@@ -26338,7 +26976,7 @@
       "date_iso": "2026-09-18",
       "winner": "Lawton-Bronson",
       "winner_score": 41,
-      "loser": "MVAOCOU (CO-OP)",
+      "loser": "Maple Valley-Anthon-Oto/Charter Oak-Ute",
       "loser_score": 30,
       "round": "Regular Season"
     },
@@ -26358,7 +26996,7 @@
       "date_iso": "2026-09-18",
       "winner": "Lincoln",
       "winner_score": 35,
-      "loser": "Jefferson",
+      "loser": "Jefferson-Council Bluffs",
       "loser_score": 2,
       "round": "Regular Season"
     },
@@ -26366,7 +27004,7 @@
       "season": "2026",
       "date": "Sep 18, 2026",
       "date_iso": "2026-09-18",
-      "winner": "Lincoln",
+      "winner": "Lincoln-Des Moines",
       "winner_score": 29,
       "loser": "Ottumwa",
       "loser_score": 8,
@@ -26396,16 +27034,6 @@
       "season": "2026",
       "date": "Sep 18, 2026",
       "date_iso": "2026-09-18",
-      "winner": "MMCRU (CO-OP)",
-      "winner_score": 26,
-      "loser": "Sioux Central",
-      "loser_score": 20,
-      "round": "Regular Season"
-    },
-    {
-      "season": "2026",
-      "date": "Sep 18, 2026",
-      "date_iso": "2026-09-18",
       "winner": "Madrid",
       "winner_score": 43,
       "loser": "Earlham",
@@ -26420,6 +27048,16 @@
       "winner_score": 44,
       "loser": "East Marshall",
       "loser_score": 6,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Sep 18, 2026",
+      "date_iso": "2026-09-18",
+      "winner": "Marcus-Meriden-Cleghorn/Remsen-Union",
+      "winner_score": 26,
+      "loser": "Sioux Central",
+      "loser_score": 20,
       "round": "Regular Season"
     },
     {
@@ -27014,6 +27652,26 @@
     },
     {
       "season": "2026",
+      "date": "Sep 24, 2026",
+      "date_iso": "2026-09-24",
+      "winner": "Lincoln-Des Moines",
+      "winner_score": 27,
+      "loser": "Sioux City North",
+      "loser_score": 17,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Sep 24, 2026",
+      "date_iso": "2026-09-24",
+      "winner": "Pekin",
+      "winner_score": 55,
+      "loser": "Van Buren County",
+      "loser_score": 14,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
       "date": "Sep 25, 2026",
       "date_iso": "2026-09-25",
       "winner": "A-D-M",
@@ -27166,16 +27824,6 @@
       "season": "2026",
       "date": "Sep 25, 2026",
       "date_iso": "2026-09-25",
-      "winner": "CLGLR (CO-OP)",
-      "winner_score": 52,
-      "loser": "Cherokee Washington",
-      "loser_score": 0,
-      "round": "Regular Season"
-    },
-    {
-      "season": "2026",
-      "date": "Sep 25, 2026",
-      "date_iso": "2026-09-25",
       "winner": "Carlisle",
       "winner_score": 51,
       "loser": "Des Moines North",
@@ -27210,6 +27858,16 @@
       "winner_score": 30,
       "loser": "Pella Christian",
       "loser_score": 12,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Sep 25, 2026",
+      "date_iso": "2026-09-25",
+      "winner": "Central Lyon/George-Little Rock",
+      "winner_score": 52,
+      "loser": "Cherokee Washington",
+      "loser_score": 0,
       "round": "Regular Season"
     },
     {
@@ -27308,7 +27966,7 @@
       "date_iso": "2026-09-25",
       "winner": "Denison-Schleswig",
       "winner_score": 20,
-      "loser": "Jefferson",
+      "loser": "Jefferson-Council Bluffs",
       "loser_score": 19,
       "round": "Regular Season"
     },
@@ -27596,26 +28254,6 @@
       "season": "2026",
       "date": "Sep 25, 2026",
       "date_iso": "2026-09-25",
-      "winner": "MMCRU (CO-OP)",
-      "winner_score": 23,
-      "loser": "Sibley-Ocheyedan",
-      "loser_score": 6,
-      "round": "Regular Season"
-    },
-    {
-      "season": "2026",
-      "date": "Sep 25, 2026",
-      "date_iso": "2026-09-25",
-      "winner": "MVAOCOU (CO-OP)",
-      "winner_score": 55,
-      "loser": "Alta-Aurelia",
-      "loser_score": 16,
-      "round": "Regular Season"
-    },
-    {
-      "season": "2026",
-      "date": "Sep 25, 2026",
-      "date_iso": "2026-09-25",
       "winner": "Madrid",
       "winner_score": 17,
       "loser": "Adair-Casey/Guthrie Center",
@@ -27626,9 +28264,29 @@
       "season": "2026",
       "date": "Sep 25, 2026",
       "date_iso": "2026-09-25",
+      "winner": "Maple Valley-Anthon-Oto/Charter Oak-Ute",
+      "winner_score": 55,
+      "loser": "Alta-Aurelia",
+      "loser_score": 16,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Sep 25, 2026",
+      "date_iso": "2026-09-25",
       "winner": "Maquoketa Valley",
       "winner_score": 7,
       "loser": "Wapsie Valley",
+      "loser_score": 6,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Sep 25, 2026",
+      "date_iso": "2026-09-25",
+      "winner": "Marcus-Meriden-Cleghorn/Remsen-Union",
+      "winner_score": 23,
+      "loser": "Sibley-Ocheyedan",
       "loser_score": 6,
       "round": "Regular Season"
     },
@@ -27766,7 +28424,7 @@
       "season": "2026",
       "date": "Sep 25, 2026",
       "date_iso": "2026-09-25",
-      "winner": "OABCIG",
+      "winner": "Odebolt Arthur Battle Creek Ida Grove",
       "winner_score": 28,
       "loser": "Spirit Lake",
       "loser_score": 27,
@@ -28258,8 +28916,38 @@
       "date_iso": "2026-09-25",
       "winner": "Xavier",
       "winner_score": 42,
-      "loser": "Washington",
+      "loser": "Washington-Cedar Rapids",
       "loser_score": 14,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Oct 1, 2026",
+      "date_iso": "2026-10-01",
+      "winner": "Davenport North",
+      "winner_score": 21,
+      "loser": "Clinton",
+      "loser_score": 14,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Oct 1, 2026",
+      "date_iso": "2026-10-01",
+      "winner": "Jefferson",
+      "winner_score": 32,
+      "loser": "Dubuque Senior",
+      "loser_score": 15,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Oct 1, 2026",
+      "date_iso": "2026-10-01",
+      "winner": "Sioux City East",
+      "winner_score": 35,
+      "loser": "Roosevelt",
+      "loser_score": 28,
       "round": "Regular Season"
     },
     {
@@ -28268,7 +28956,7 @@
       "date_iso": "2026-10-02",
       "winner": "A-D-M",
       "winner_score": 49,
-      "loser": "Jefferson",
+      "loser": "Jefferson-Council Bluffs",
       "loser_score": 0,
       "round": "Regular Season"
     },
@@ -28406,16 +29094,6 @@
       "season": "2026",
       "date": "Oct 2, 2026",
       "date_iso": "2026-10-02",
-      "winner": "CLGLR (CO-OP)",
-      "winner_score": 30,
-      "loser": "Western Christian",
-      "loser_score": 18,
-      "round": "Regular Season"
-    },
-    {
-      "season": "2026",
-      "date": "Oct 2, 2026",
-      "date_iso": "2026-10-02",
       "winner": "Cardinal",
       "winner_score": 14,
       "loser": "Durant",
@@ -28470,6 +29148,16 @@
       "winner_score": 22,
       "loser": "Wahlert",
       "loser_score": 19,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Oct 2, 2026",
+      "date_iso": "2026-10-02",
+      "winner": "Central Lyon/George-Little Rock",
+      "winner_score": 30,
+      "loser": "Western Christian",
+      "loser_score": 18,
       "round": "Regular Season"
     },
     {
@@ -28568,7 +29256,7 @@
       "date_iso": "2026-10-02",
       "winner": "Decorah-North Winneshiek",
       "winner_score": 28,
-      "loser": "Washington",
+      "loser": "Washington-Cedar Rapids",
       "loser_score": 10,
       "round": "Regular Season"
     },
@@ -28688,7 +29376,7 @@
       "date_iso": "2026-10-02",
       "winner": "Hinton",
       "winner_score": 43,
-      "loser": "MVAOCOU (CO-OP)",
+      "loser": "Maple Valley-Anthon-Oto/Charter Oak-Ute",
       "loser_score": 38,
       "round": "Regular Season"
     },
@@ -28708,7 +29396,7 @@
       "date_iso": "2026-10-02",
       "winner": "Indianola",
       "winner_score": 42,
-      "loser": "Lincoln",
+      "loser": "Lincoln-Des Moines",
       "loser_score": 16,
       "round": "Regular Season"
     },
@@ -28806,16 +29494,6 @@
       "season": "2026",
       "date": "Oct 2, 2026",
       "date_iso": "2026-10-02",
-      "winner": "MMCRU (CO-OP)",
-      "winner_score": 27,
-      "loser": "Gehlen Catholic",
-      "loser_score": 14,
-      "round": "Regular Season"
-    },
-    {
-      "season": "2026",
-      "date": "Oct 2, 2026",
-      "date_iso": "2026-10-02",
       "winner": "Madrid",
       "winner_score": 14,
       "loser": "Lynnville-Sully",
@@ -28830,6 +29508,16 @@
       "winner_score": 42,
       "loser": "Midland",
       "loser_score": 6,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Oct 2, 2026",
+      "date_iso": "2026-10-02",
+      "winner": "Marcus-Meriden-Cleghorn/Remsen-Union",
+      "winner_score": 27,
+      "loser": "Gehlen Catholic",
+      "loser_score": 14,
       "round": "Regular Season"
     },
     {
@@ -28996,7 +29684,7 @@
       "season": "2026",
       "date": "Oct 2, 2026",
       "date_iso": "2026-10-02",
-      "winner": "OABCIG",
+      "winner": "Odebolt Arthur Battle Creek Ida Grove",
       "winner_score": 43,
       "loser": "Estherville Lincoln Central",
       "loser_score": 0,
@@ -29494,6 +30182,16 @@
     },
     {
       "season": "2026",
+      "date": "Oct 8, 2026",
+      "date_iso": "2026-10-08",
+      "winner": "North Polk",
+      "winner_score": 48,
+      "loser": "Des Moines North",
+      "loser_score": 0,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
       "date": "Oct 9, 2026",
       "date_iso": "2026-10-09",
       "winner": "AHSTW",
@@ -29618,18 +30316,8 @@
       "date_iso": "2026-10-09",
       "winner": "Boone",
       "winner_score": 14,
-      "loser": "Jefferson",
+      "loser": "Jefferson-Council Bluffs",
       "loser_score": 7,
-      "round": "Regular Season"
-    },
-    {
-      "season": "2026",
-      "date": "Oct 9, 2026",
-      "date_iso": "2026-10-09",
-      "winner": "CLGLR (CO-OP)",
-      "winner_score": 55,
-      "loser": "Sheldon",
-      "loser_score": 3,
       "round": "Regular Season"
     },
     {
@@ -29690,6 +30378,16 @@
       "winner_score": 40,
       "loser": "Albia",
       "loser_score": 8,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Oct 9, 2026",
+      "date_iso": "2026-10-09",
+      "winner": "Central Lyon/George-Little Rock",
+      "winner_score": 55,
+      "loser": "Sheldon",
+      "loser_score": 3,
       "round": "Regular Season"
     },
     {
@@ -30256,7 +30954,7 @@
       "season": "2026",
       "date": "Oct 9, 2026",
       "date_iso": "2026-10-09",
-      "winner": "OABCIG",
+      "winner": "Odebolt Arthur Battle Creek Ida Grove",
       "winner_score": 33,
       "loser": "Okoboji",
       "loser_score": 7,
@@ -30548,7 +31246,7 @@
       "date_iso": "2026-10-09",
       "winner": "Urbandale",
       "winner_score": 40,
-      "loser": "Lincoln",
+      "loser": "Lincoln-Des Moines",
       "loser_score": 13,
       "round": "Regular Season"
     },
@@ -30608,7 +31306,7 @@
       "date_iso": "2026-10-09",
       "winner": "Waverly-Shell Rock",
       "winner_score": 42,
-      "loser": "Washington",
+      "loser": "Washington-Cedar Rapids",
       "loser_score": 0,
       "round": "Regular Season"
     },
@@ -30658,7 +31356,7 @@
       "date_iso": "2026-10-09",
       "winner": "West Lyon",
       "winner_score": 56,
-      "loser": "MVAOCOU (CO-OP)",
+      "loser": "Maple Valley-Anthon-Oto/Charter Oak-Ute",
       "loser_score": 12,
       "round": "Regular Season"
     },
@@ -30688,7 +31386,7 @@
       "date_iso": "2026-10-09",
       "winner": "West Sioux",
       "winner_score": 57,
-      "loser": "MMCRU (CO-OP)",
+      "loser": "Marcus-Meriden-Cleghorn/Remsen-Union",
       "loser_score": 0,
       "round": "Regular Season"
     },
@@ -30749,6 +31447,36 @@
       "winner": "Xavier",
       "winner_score": 42,
       "loser": "Waterloo East",
+      "loser_score": 0,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Oct 15, 2026",
+      "date_iso": "2026-10-15",
+      "winner": "Jefferson",
+      "winner_score": 42,
+      "loser": "Hempstead",
+      "loser_score": 6,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Oct 15, 2026",
+      "date_iso": "2026-10-15",
+      "winner": "Muscatine",
+      "winner_score": 28,
+      "loser": "Davenport Central",
+      "loser_score": 13,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Oct 15, 2026",
+      "date_iso": "2026-10-15",
+      "winner": "Starmont",
+      "winner_score": 46,
+      "loser": "South Winneshiek",
       "loser_score": 0,
       "round": "Regular Season"
     },
@@ -30856,16 +31584,6 @@
       "season": "2026",
       "date": "Oct 16, 2026",
       "date_iso": "2026-10-16",
-      "winner": "CLGLR (CO-OP)",
-      "winner_score": 36,
-      "loser": "Unity Christian",
-      "loser_score": 13,
-      "round": "Regular Season"
-    },
-    {
-      "season": "2026",
-      "date": "Oct 16, 2026",
-      "date_iso": "2026-10-16",
       "winner": "Carlisle",
       "winner_score": 28,
       "loser": "North Polk",
@@ -30900,6 +31618,16 @@
       "winner_score": 35,
       "loser": "Linn-Mar",
       "loser_score": 7,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Oct 16, 2026",
+      "date_iso": "2026-10-16",
+      "winner": "Central Lyon/George-Little Rock",
+      "winner_score": 36,
+      "loser": "Unity Christian",
+      "loser_score": 13,
       "round": "Regular Season"
     },
     {
@@ -31098,7 +31826,7 @@
       "date_iso": "2026-10-16",
       "winner": "Glenwood",
       "winner_score": 56,
-      "loser": "Jefferson",
+      "loser": "Jefferson-Council Bluffs",
       "loser_score": 12,
       "round": "Regular Season"
     },
@@ -31236,7 +31964,7 @@
       "season": "2026",
       "date": "Oct 16, 2026",
       "date_iso": "2026-10-16",
-      "winner": "Lincoln",
+      "winner": "Lincoln-Des Moines",
       "winner_score": 41,
       "loser": "Des Moines East",
       "loser_score": 14,
@@ -31276,20 +32004,20 @@
       "season": "2026",
       "date": "Oct 16, 2026",
       "date_iso": "2026-10-16",
-      "winner": "MMCRU (CO-OP)",
-      "winner_score": 42,
-      "loser": "Hartley-Melvin-Sanborn",
-      "loser_score": 13,
+      "winner": "Madrid",
+      "winner_score": 48,
+      "loser": "Colfax-Mingo",
+      "loser_score": 15,
       "round": "Regular Season"
     },
     {
       "season": "2026",
       "date": "Oct 16, 2026",
       "date_iso": "2026-10-16",
-      "winner": "Madrid",
-      "winner_score": 48,
-      "loser": "Colfax-Mingo",
-      "loser_score": 15,
+      "winner": "Marcus-Meriden-Cleghorn/Remsen-Union",
+      "winner_score": 42,
+      "loser": "Hartley-Melvin-Sanborn",
+      "loser_score": 13,
       "round": "Regular Season"
     },
     {
@@ -31436,7 +32164,7 @@
       "season": "2026",
       "date": "Oct 16, 2026",
       "date_iso": "2026-10-16",
-      "winner": "OABCIG",
+      "winner": "Odebolt Arthur Battle Creek Ida Grove",
       "winner_score": 35,
       "loser": "Southeast Valley",
       "loser_score": 0,
@@ -31538,7 +32266,7 @@
       "date_iso": "2026-10-16",
       "winner": "Ridge View",
       "winner_score": 33,
-      "loser": "MVAOCOU (CO-OP)",
+      "loser": "Maple Valley-Anthon-Oto/Charter Oak-Ute",
       "loser_score": 6,
       "round": "Regular Season"
     },
@@ -31806,7 +32534,7 @@
       "season": "2026",
       "date": "Oct 16, 2026",
       "date_iso": "2026-10-16",
-      "winner": "Washington",
+      "winner": "Washington-Cedar Rapids",
       "winner_score": 33,
       "loser": "Mason City",
       "loser_score": 13,
@@ -31984,6 +32712,86 @@
     },
     {
       "season": "2026",
+      "date": "Oct 19, 2026",
+      "date_iso": "2026-10-19",
+      "winner": "Central DeWitt",
+      "winner_score": 42,
+      "loser": "Maquoketa",
+      "loser_score": 0,
+      "round": "Regular Season"
+    },
+    {
+      "season": "2026",
+      "date": "Oct 22, 2026",
+      "date_iso": "2026-10-22",
+      "winner": "AGWSR",
+      "winner_score": 37,
+      "loser": "Colfax-Mingo",
+      "loser_score": 20,
+      "round": "Playoffs"
+    },
+    {
+      "season": "2026",
+      "date": "Oct 22, 2026",
+      "date_iso": "2026-10-22",
+      "winner": "Camanche",
+      "winner_score": 44,
+      "loser": "Durant",
+      "loser_score": 32,
+      "round": "Playoffs"
+    },
+    {
+      "season": "2026",
+      "date": "Oct 22, 2026",
+      "date_iso": "2026-10-22",
+      "winner": "Clinton",
+      "winner_score": 43,
+      "loser": "Davenport West",
+      "loser_score": 6,
+      "round": "Playoffs"
+    },
+    {
+      "season": "2026",
+      "date": "Oct 22, 2026",
+      "date_iso": "2026-10-22",
+      "winner": "Forest City",
+      "winner_score": 28,
+      "loser": "Estherville Lincoln Central",
+      "loser_score": 6,
+      "round": "Playoffs"
+    },
+    {
+      "season": "2026",
+      "date": "Oct 22, 2026",
+      "date_iso": "2026-10-22",
+      "winner": "Sioux City East",
+      "winner_score": 35,
+      "loser": "Ames",
+      "loser_score": 0,
+      "round": "Playoffs"
+    },
+    {
+      "season": "2026",
+      "date": "Oct 22, 2026",
+      "date_iso": "2026-10-22",
+      "winner": "Valley",
+      "winner_score": 56,
+      "loser": "Lincoln-Des Moines",
+      "loser_score": 0,
+      "round": "Playoffs"
+    },
+    {
+      "season": "2026",
+      "date": "Oct 22, 2026",
+      "date_iso": "2026-10-22",
+      "winner": "Washington-Cedar Rapids",
+      "winner_score": 52,
+      "loser": "Waterloo East",
+      "loser_score": 20,
+      "round": "Playoffs"
+    },
+    {
+      "season": "2026",
       "date": "Oct 23, 2026",
       "date_iso": "2026-10-23",
       "winner": "A-D-M",
@@ -32080,16 +32888,6 @@
       "winner_score": 54,
       "loser": "Des Moines North",
       "loser_score": 8,
-      "round": "Playoffs"
-    },
-    {
-      "season": "2026",
-      "date": "Oct 23, 2026",
-      "date_iso": "2026-10-23",
-      "winner": "CLGLR (CO-OP)",
-      "winner_score": 38,
-      "loser": "Southeast Valley",
-      "loser_score": 14,
       "round": "Playoffs"
     },
     {
@@ -32398,7 +33196,7 @@
       "date_iso": "2026-10-23",
       "winner": "Lewis Central",
       "winner_score": 55,
-      "loser": "Jefferson",
+      "loser": "Jefferson-Council Bluffs",
       "loser_score": 0,
       "round": "Playoffs"
     },
@@ -32570,16 +33368,6 @@
       "winner_score": 21,
       "loser": "Northwest",
       "loser_score": 3,
-      "round": "Playoffs"
-    },
-    {
-      "season": "2026",
-      "date": "Oct 23, 2026",
-      "date_iso": "2026-10-23",
-      "winner": "OABCIG",
-      "winner_score": 28,
-      "loser": "Western Christian",
-      "loser_score": 21,
       "round": "Playoffs"
     },
     {
@@ -32928,16 +33716,6 @@
       "date_iso": "2026-10-23",
       "winner": "West Monona",
       "winner_score": 46,
-      "loser": "MMCRU (CO-OP)",
-      "loser_score": 28,
-      "round": "Playoffs"
-    },
-    {
-      "season": "2026",
-      "date": "Oct 23, 2026",
-      "date_iso": "2026-10-23",
-      "winner": "West Monona",
-      "winner_score": 46,
       "loser": "Marcus-Meriden-Cleghorn/Remsen-Union",
       "loser_score": 28,
       "round": "Playoffs"
@@ -33050,16 +33828,6 @@
       "winner_score": 28,
       "loser": "Sioux Center",
       "loser_score": 21,
-      "round": "Playoffs"
-    },
-    {
-      "season": "2026",
-      "date": "Oct 30, 2026",
-      "date_iso": "2026-10-30",
-      "winner": "CLGLR (CO-OP)",
-      "winner_score": 49,
-      "loser": "Clarinda",
-      "loser_score": 0,
       "round": "Playoffs"
     },
     {
@@ -33240,16 +34008,6 @@
       "winner_score": 16,
       "loser": "Newman Catholic",
       "loser_score": 14,
-      "round": "Playoffs"
-    },
-    {
-      "season": "2026",
-      "date": "Oct 30, 2026",
-      "date_iso": "2026-10-30",
-      "winner": "OABCIG",
-      "winner_score": 14,
-      "loser": "Dike-New Hartford",
-      "loser_score": 7,
       "round": "Playoffs"
     },
     {

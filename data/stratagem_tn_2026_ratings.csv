@@ -1,355 +1,354 @@
 rank,division_rank,team,state,division,region,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_off,ppg_def,net_margin,harbin_avg,ppa,pqs,l1_pts,l2_pts,contender_tier
-1,1,Baylor,TN,DII-AAA,2,TSSAA Class DII-AAA,9-0,9,0,0,9,96.8,96.8,54.6,84.2,2,38.7,13.8,24.9,26.52,26.52,26.52,58.5,346.3,State Title Contender
-2,2,Brentwood Academy,TN,DII-AAA,3,TSSAA Class DII-AAA,8-1,8,1,0,9,91.7,91.7,43.47,81.9,5,39.3,11.1,28.2,22.51,22.51,22.51,52.0,296.0,State Title Contender
-3,3,Briarcrest Christian,TN,DII-AAA,2,TSSAA Class DII-AAA,7-1,7,1,0,8,84.9,84.9,35.01,77.3,10,37.1,20.6,16.5,20.3,20.3,20.3,45.5,238.0,State Title Contender
-4,4,Lipscomb Academy,TN,DII-AAA,4,TSSAA Class DII-AAA,6-4,6,4,0,10,83.9,83.9,33.97,81.6,6,29.2,16.3,12.9,15.7,15.7,15.7,39.0,220.8,State Title Contender
-5,5,Montgomery Bell Academy,TN,DII-AAA,3,TSSAA Class DII-AAA,9-1,9,1,0,10,80.9,80.9,30.9,78.4,9,30.6,18.8,11.8,20.5,20.5,20.5,58.5,312.6,Semifinal Contender
-6,6,Knoxville Catholic,TN,DII-AAA,3,TSSAA Class DII-AAA,5-3,5,3,0,8,79.2,79.2,29.16,83.5,4,17.0,19.6,-2.6,15.88,15.88,15.88,32.5,190.1,Semifinal Contender
-7,7,Ensworth,TN,DII-AAA,1,TSSAA Class DII-AAA,4-5,4,5,0,9,78.7,78.7,28.74,84.0,3,18.6,25.9,-7.3,12.31,12.31,12.31,26.0,153.5,Semifinal Contender
-8,8,McCallie,TN,DII-AAA,3,TSSAA Class DII-AAA,5-6,5,6,0,11,78.4,78.4,28.41,81.5,7,26.5,26.5,0.0,12.21,12.21,12.21,32.5,183.6,Semifinal Contender
-9,1,Riverdale,TN,6A,1,TSSAA Class 6A,8-0,8,0,0,8,77.2,77.2,27.18,74.0,24,45.8,11.5,34.3,20.9,20.9,20.9,52.0,254.7,State Title Contender
-10,2,Houston,TN,6A,1,TSSAA Class 6A,4-4,4,4,0,8,76.5,76.5,26.55,76.9,12,34.8,26.8,8.0,12.34,12.34,12.34,26.0,135.0,State Title Contender
+1,1,Baylor,TN,DII-AAA,4,TSSAA Class DII-AAA,10-0,10,0,0,10,96.8,96.8,54.6,84.2,2,38.6,14.4,24.2,26.52,26.52,26.52,65.0,384.7,State Title Contender
+2,2,Brentwood Academy,TN,DII-AAA,4,TSSAA Class DII-AAA,8-2,8,2,0,10,91.7,91.7,43.47,81.9,5,37.4,13.8,23.6,20.78,20.78,20.78,52.0,296.0,State Title Contender
+3,3,Briarcrest Christian,TN,DII-AAA,3,TSSAA Class DII-AAA,9-1,9,1,0,10,84.9,84.9,35.01,77.3,10,39.0,17.2,21.8,20.76,20.76,20.76,58.5,306.0,State Title Contender
+4,4,Lipscomb Academy,TN,DII-AAA,1,TSSAA Class DII-AAA,6-4,6,4,0,10,83.9,83.9,33.97,81.6,6,29.2,16.3,12.9,15.7,15.7,15.7,39.0,220.8,State Title Contender
+5,5,Montgomery Bell Academy,TN,DII-AAA,1,TSSAA Class DII-AAA,9-2,9,2,0,11,80.9,80.9,30.9,78.4,9,29.1,18.5,10.6,18.97,18.97,18.97,58.5,312.6,Semifinal Contender
+6,6,Knoxville Catholic,TN,DII-AAA,4,TSSAA Class DII-AAA,7-3,7,3,0,10,79.2,79.2,29.16,83.5,4,19.7,19.2,0.5,17.36,17.36,17.36,45.5,266.1,Semifinal Contender
+7,7,Ensworth,TN,DII-AAA,4,TSSAA Class DII-AAA,5-5,5,5,0,10,78.7,78.7,28.74,84.0,3,18.2,24.7,-6.5,13.42,13.42,13.42,32.5,191.9,Semifinal Contender
+8,8,McCallie,TN,DII-AAA,1,TSSAA Class DII-AAA,5-6,5,6,0,11,78.4,78.4,28.41,81.5,7,26.5,26.5,0.0,12.21,12.21,12.21,32.5,183.6,Semifinal Contender
+9,1,Riverdale,TN,6A,3,TSSAA Class 6A,10-1,10,1,0,11,77.2,77.2,27.18,74.0,24,42.3,11.9,30.4,19.3,19.3,19.3,65.0,318.4,State Title Contender
+10,2,Houston,TN,6A,2,TSSAA Class 6A,5-5,5,5,0,10,76.5,76.5,26.55,76.9,12,35.4,26.2,9.2,12.34,12.34,12.34,32.5,168.7,State Title Contender
 11,3,Ravenwood,TN,6A,1,TSSAA Class 6A,9-2,9,2,0,11,76.4,76.4,26.4,73.6,30,35.6,11.4,24.2,17.53,17.53,17.53,58.5,284.1,State Title Contender
-12,4,Oakland,TN,6A,4,TSSAA Class 6A,6-2,6,2,0,8,75.9,75.9,25.91,73.9,26,36.1,15.8,20.3,16.33,16.33,16.33,39.0,190.8,State Title Contender
-13,9,Christian Brothers,TN,DII-AAA,1,TSSAA Class DII-AAA,5-5,5,5,0,10,75.9,75.9,25.91,77.0,11,23.5,22.8,0.7,12.27,12.27,12.27,32.5,168.9,Semifinal Contender
+12,4,Oakland,TN,6A,4,TSSAA Class 6A,9-2,9,2,0,11,75.9,75.9,25.91,73.9,26,39.1,13.3,25.8,17.53,17.53,17.53,58.5,286.2,State Title Contender
+13,9,Christian Brothers,TN,DII-AAA,1,TSSAA Class DII-AAA,6-5,6,5,0,11,75.9,75.9,25.91,77.0,11,26.5,21.3,5.2,13.1,13.1,13.1,39.0,202.7,Semifinal Contender
 14,1,Alcoa,TN,4A,3,TSSAA Class 4A,11-0,11,0,0,11,75.7,75.7,25.74,69.6,89,49.7,12.9,36.8,18.74,18.74,18.74,60.5,318.9,State Title Contender
-15,5,Maryville,TN,6A,4,TSSAA Class 6A,9-1,9,1,0,10,75.7,75.7,25.7,73.3,36,43.8,12.6,31.2,18.82,18.82,18.82,58.5,282.6,Semifinal Contender
-16,6,Whitehaven,TN,6A,4,TSSAA Class 6A,8-2,8,2,0,10,75.5,75.5,25.52,75.3,17,26.5,13.1,13.4,17.42,17.42,17.42,52.0,261.6,Semifinal Contender
-17,10,Christ Presbyterian Academy,TN,DII-AAA,2,TSSAA Class DII-AAA,2-7,2,7,0,9,75.3,75.3,25.29,85.1,1,15.1,28.2,-13.1,7.52,7.52,7.52,13.0,78.2,Semifinal Contender
-18,1,Battle Ground Academy,TN,DII-AA,4,TSSAA Class DII-AA,9-1,9,1,0,10,74.6,74.6,24.61,73.4,34,45.2,12.4,32.8,17.8,17.8,17.8,49.5,282.9,State Title Contender
-19,1,Westview,TN,3A,2,TSSAA Class 3A,8-0,8,0,0,8,74.0,74.0,24.01,67.3,148,47.2,10.4,36.8,17.51,17.51,17.51,40.0,220.1,State Title Contender
-20,2,Greeneville,TN,4A,4,TSSAA Class 4A,10-0,10,0,0,10,72.7,72.7,22.68,67.5,139,52.3,14.6,37.7,17.89,17.89,17.89,55.0,276.1,State Title Contender
-21,1,Page,TN,5A,4,TSSAA Class 5A,9-1,9,1,0,10,72.4,72.4,22.39,71.7,60,38.0,7.7,30.3,17.66,17.66,17.66,54.0,273.4,State Title Contender
-22,7,Brentwood,TN,6A,4,TSSAA Class 6A,8-2,8,2,0,10,71.6,71.6,21.57,73.9,27,30.2,14.2,16.0,16.68,16.68,16.68,52.0,254.1,Semifinal Contender
-23,8,Antioch,TN,6A,1,TSSAA Class 6A,10-0,10,0,0,10,70.3,70.3,20.28,67.3,149,38.3,7.3,31.0,18.56,18.56,18.56,65.0,275.1,Semifinal Contender
-24,2,Franklin Road Academy,TN,DII-AA,3,TSSAA Class DII-AA,8-2,8,2,0,10,70.3,70.3,20.26,73.5,32,45.2,16.1,29.1,15.65,15.65,15.65,44.0,252.1,State Title Contender
-25,3,Pearl-Cohn,TN,4A,4,TSSAA Class 4A,7-3,7,3,0,10,69.6,69.6,19.56,72.7,46,36.5,17.4,19.1,13.79,13.79,13.79,38.5,216.9,State Title Contender
-26,1,Huntingdon,TN,2A,1,TSSAA Class 2A,9-0,9,0,0,9,69.5,69.5,19.5,64.9,209,44.6,11.1,33.5,15.92,15.92,15.92,40.5,233.4,State Title Contender
-27,2,Beech,TN,5A,2,TSSAA Class 5A,8-1,8,1,0,9,69.2,69.2,19.17,69.9,80,40.4,14.2,26.2,16.71,16.71,16.71,48.0,233.3,State Title Contender
-28,3,Grace Christian Academy,TN,DII-AA,3,TSSAA Class DII-AA,15-4,15,4,0,19,69.0,69.0,18.95,71.7,61,35.4,16.0,19.4,15.0,15.0,15.0,82.5,455.2,State Title Contender
-29,9,University School of Jackson,TN,6A,4,TSSAA Class 6A,8-1,8,1,0,9,68.4,68.4,18.43,66.5,166,36.2,6.3,29.9,16.39,16.39,16.39,52.0,215.9,Quarterfinal Contender
-30,10,Southwind,TN,6A,2,TSSAA Class 6A,9-1,9,1,0,10,68.2,68.2,18.16,71.8,56,40.2,16.4,23.8,17.6,17.6,17.6,58.5,273.5,Quarterfinal Contender
-31,1,South Pittsburg,TN,1A,4,TSSAA Class 1A,8-1,8,1,0,9,67.7,67.7,17.72,57.7,331,54.4,6.8,47.6,12.29,12.29,12.29,32.0,169.8,State Title Contender
-32,3,Munford,TN,5A,1,TSSAA Class 5A,9-1,9,1,0,10,67.5,67.5,17.45,69.1,104,42.8,13.9,28.9,16.52,16.52,16.52,54.0,257.9,State Title Contender
-33,2,Tyner Academy,TN,3A,4,TSSAA Class 3A,8-1,8,1,0,9,66.8,66.8,16.82,66.8,159,39.2,16.8,22.4,14.92,14.92,14.92,40.0,217.4,State Title Contender
-34,11,Collierville,TN,6A,3,TSSAA Class 6A,6-2,6,2,0,8,66.6,66.6,16.58,72.9,43,41.0,12.5,28.5,15.04,15.04,15.04,39.0,186.8,Quarterfinal Contender
-35,12,Green Hill,TN,6A,2,TSSAA Class 6A,8-2,8,2,0,10,66.2,66.2,16.24,73.0,42,23.5,15.6,7.9,15.9,15.9,15.9,52.0,249.9,Quarterfinal Contender
-36,2,East Nashville Magnet,TN,2A,4,TSSAA Class 2A,7-2,7,2,0,9,66.0,66.0,16.05,69.5,92,43.4,15.3,28.1,13.3,13.3,13.3,31.5,202.5,State Title Contender
-37,4,White County,TN,4A,4,TSSAA Class 4A,10-0,10,0,0,10,65.3,65.3,15.28,67.1,153,36.2,11.0,25.2,16.9,16.9,16.9,55.0,273.4,State Title Contender
-38,13,Cookeville,TN,6A,1,TSSAA Class 6A,5-6,5,6,0,11,65.1,65.1,15.12,75.5,16,21.2,19.5,1.7,9.99,9.99,9.99,32.5,164.1,Quarterfinal Contender
-39,2,McKenzie,TN,1A,1,TSSAA Class 1A,8-2,8,2,0,10,64.2,64.2,14.22,64.1,230,49.3,11.0,38.3,12.03,12.03,12.03,32.0,203.5,State Title Contender
-40,5,Lexington,TN,4A,4,TSSAA Class 4A,10-0,10,0,0,10,64.1,64.1,14.13,66.1,178,43.7,15.2,28.5,16.55,16.55,16.55,55.0,267.3,Semifinal Contender
-41,3,Marion County,TN,2A,4,TSSAA Class 2A,11-0,11,0,0,11,64.0,64.0,14.04,63.3,252,38.5,5.4,33.1,14.9,14.9,14.9,49.5,273.9,State Title Contender
-42,3,Meigs County,TN,3A,1,TSSAA Class 3A,10-0,10,0,0,10,63.8,63.8,13.81,64.8,213,41.8,10.0,31.8,15.72,15.72,15.72,50.0,259.0,State Title Contender
-43,4,Lausanne Collegiate,TN,DII-AA,1,TSSAA Class DII-AA,5-3,5,3,0,8,63.8,63.8,13.8,73.5,31,43.1,27.8,15.3,12.0,12.0,12.0,27.5,157.8,State Title Contender
-44,6,Springfield,TN,4A,4,TSSAA Class 4A,10-1,10,1,0,11,63.8,63.8,13.76,66.9,156,37.5,11.5,26.0,15.32,15.32,15.32,55.0,272.3,Semifinal Contender
-45,7,Crockett County,TN,4A,1,TSSAA Class 4A,9-1,9,1,0,10,63.7,63.7,13.74,64.6,219,49.1,9.5,39.6,14.71,14.71,14.71,49.5,231.7,Semifinal Contender
-46,11,Memphis University School,TN,DII-AAA,4,TSSAA Class DII-AAA,3-6,3,6,0,9,63.7,63.7,13.67,76.8,13,24.1,31.2,-7.1,7.73,7.73,7.73,19.5,101.0,Quarterfinal Contender
-47,14,Blackman,TN,6A,4,TSSAA Class 6A,3-5,3,5,0,8,63.6,63.6,13.58,73.3,37,17.8,22.4,-4.6,8.18,8.18,8.18,19.5,94.1,Quarterfinal Contender
-48,4,Nolensville,TN,5A,2,TSSAA Class 5A,8-1,8,1,0,9,63.2,63.2,13.25,69.9,79,28.9,9.1,19.8,16.0,16.0,16.0,48.0,233.5,State Title Contender
-49,5,Christian Academy of Knoxville,TN,DII-AA,4,TSSAA Class DII-AA,8-1,8,1,0,9,63.2,63.2,13.25,71.5,62,37.2,14.8,22.4,15.88,15.88,15.88,44.0,241.8,Semifinal Contender
-50,5,Sevier County,TN,5A,1,TSSAA Class 5A,6-2,6,2,0,8,63.2,63.2,13.23,69.5,93,40.0,15.5,24.5,13.68,13.68,13.68,36.0,173.5,Semifinal Contender
-51,6,Knoxville Central,TN,5A,3,TSSAA Class 5A,8-0,8,0,0,8,63.2,63.2,13.18,68.0,127,47.5,14.8,32.7,17.37,17.37,17.37,48.0,223.7,Semifinal Contender
-52,7,Lincoln County,TN,5A,3,TSSAA Class 5A,8-1,8,1,0,9,62.5,62.5,12.52,69.3,99,35.7,16.6,19.1,15.79,15.79,15.79,48.0,230.2,Semifinal Contender
-53,8,Columbia Central,TN,5A,2,TSSAA Class 5A,9-1,9,1,0,10,62.5,62.5,12.47,69.0,106,39.4,19.6,19.8,15.91,15.91,15.91,54.0,257.5,Semifinal Contender
-54,12,Father Ryan,TN,DII-AAA,4,TSSAA Class DII-AAA,3-8,3,8,0,11,62.3,62.3,12.29,79.5,8,16.6,31.5,-14.9,6.63,6.63,6.63,19.5,106.2,Quarterfinal Contender
-55,3,Coalfield,TN,1A,4,TSSAA Class 1A,9-1,9,1,0,10,61.9,61.9,11.9,62.0,280,42.1,10.5,31.6,12.6,12.6,12.6,36.0,216.3,State Title Contender
-56,15,Cleveland,TN,6A,3,TSSAA Class 6A,9-1,9,1,0,10,61.8,61.8,11.84,72.7,47,32.1,15.6,16.5,17.03,17.03,17.03,58.5,278.9,Quarterfinal Contender
-57,8,Macon County,TN,4A,4,TSSAA Class 4A,8-1,8,1,0,9,61.5,61.5,11.54,67.4,145,33.7,8.1,25.6,14.84,14.84,14.84,44.0,220.4,Semifinal Contender
-58,16,Smyrna,TN,6A,1,TSSAA Class 6A,7-2,7,2,0,9,61.5,61.5,11.53,72.9,44,27.4,15.2,12.2,14.91,14.91,14.91,45.5,217.8,Quarterfinal Contender
-59,4,Forrest,TN,3A,3,TSSAA Class 3A,9-0,9,0,0,9,61.0,61.0,10.97,63.0,257,46.4,14.7,31.7,14.97,14.97,14.97,45.0,222.4,State Title Contender
+15,5,Maryville,TN,6A,1,TSSAA Class 6A,10-1,10,1,0,11,75.7,75.7,25.7,73.3,36,44.2,13.0,31.2,18.98,18.98,18.98,65.0,314.0,Semifinal Contender
+16,6,Whitehaven,TN,6A,2,TSSAA Class 6A,8-2,8,2,0,10,75.5,75.5,25.52,75.3,17,26.5,13.1,13.4,17.42,17.42,17.42,52.0,261.6,Semifinal Contender
+17,10,Christ Presbyterian Academy,TN,DII-AAA,4,TSSAA Class DII-AAA,2-9,2,9,0,11,75.3,75.3,25.29,85.1,1,14.2,29.8,-15.6,6.7,6.7,6.7,13.0,78.2,Semifinal Contender
+18,1,Battle Ground Academy,TN,DII-AA,2,TSSAA Class DII-AA,10-1,10,1,0,11,74.6,74.6,24.61,73.4,34,44.8,12.9,31.9,17.95,17.95,17.95,55.0,314.3,State Title Contender
+19,1,Westview,TN,3A,3,TSSAA Class 3A,11-0,11,0,0,11,74.0,74.0,24.01,67.3,148,49.1,11.2,37.9,17.51,17.51,17.51,55.0,302.7,State Title Contender
+20,2,Greeneville,TN,4A,1,TSSAA Class 4A,11-0,11,0,0,11,72.7,72.7,22.68,67.5,139,52.0,13.9,38.1,17.88,17.88,17.88,60.5,303.7,State Title Contender
+21,1,Page,TN,5A,1,TSSAA Class 5A,10-1,10,1,0,11,72.4,72.4,22.39,71.7,60,35.2,7.3,27.9,17.8,17.8,17.8,60.0,303.7,State Title Contender
+22,7,Brentwood,TN,6A,2,TSSAA Class 6A,9-2,9,2,0,11,71.6,71.6,21.57,73.9,27,29.5,13.2,16.3,17.0,17.0,17.0,58.5,285.9,Semifinal Contender
+23,8,Antioch,TN,6A,2,TSSAA Class 6A,11-0,11,0,0,11,70.3,70.3,20.28,67.3,149,37.9,9.5,28.4,18.56,18.56,18.56,71.5,302.6,Semifinal Contender
+24,2,Franklin Road Academy,TN,DII-AA,2,TSSAA Class DII-AA,8-3,8,3,0,11,70.3,70.3,20.26,73.5,32,43.9,17.7,26.2,14.45,14.45,14.45,44.0,252.1,State Title Contender
+25,3,Pearl-Cohn,TN,4A,3,TSSAA Class 4A,8-3,8,3,0,11,69.6,69.6,19.56,72.7,46,34.8,17.0,17.8,14.23,14.23,14.23,44.0,247.9,State Title Contender
+26,1,Huntingdon,TN,2A,4,TSSAA Class 2A,11-0,11,0,0,11,69.5,69.5,19.5,64.9,209,47.2,12.5,34.7,15.92,15.92,15.92,49.5,285.3,State Title Contender
+27,2,Beech,TN,5A,4,TSSAA Class 5A,10-1,10,1,0,11,69.2,69.2,19.17,69.9,80,40.7,15.4,25.3,17.04,17.04,17.04,60.0,291.7,State Title Contender
+28,3,Grace Christian Academy,TN,DII-AA,4,TSSAA Class DII-AA,10-1,10,1,0,11,69.0,69.0,18.95,71.7,61,46.5,17.5,29.0,16.93,16.93,16.93,55.0,303.5,State Title Contender
+29,9,University School of Jackson,TN,6A,1,TSSAA Class 6A,9-1,9,1,0,10,68.4,68.4,18.43,66.5,166,37.5,6.4,31.1,16.56,16.56,16.56,58.5,242.8,Quarterfinal Contender
+30,10,Southwind,TN,6A,1,TSSAA Class 6A,9-1,9,1,0,10,68.2,68.2,18.16,71.8,56,40.2,16.4,23.8,17.6,17.6,17.6,58.5,273.5,Quarterfinal Contender
+31,1,South Pittsburg,TN,1A,3,TSSAA Class 1A,10-1,10,1,0,11,67.7,67.7,17.72,57.7,330,50.9,6.2,44.7,12.52,12.52,12.52,40.0,212.3,State Title Contender
+32,3,Munford,TN,5A,3,TSSAA Class 5A,10-1,10,1,0,11,67.5,67.5,17.45,69.1,104,44.2,12.6,31.6,16.66,16.66,16.66,60.0,286.5,State Title Contender
+33,2,Tyner Academy,TN,3A,1,TSSAA Class 3A,10-1,10,1,0,11,66.8,66.8,16.82,66.8,159,37.2,13.7,23.5,15.21,15.21,15.21,50.0,271.7,State Title Contender
+34,11,Collierville,TN,6A,1,TSSAA Class 6A,7-4,7,4,0,11,66.6,66.6,16.58,72.9,43,37.5,18.5,19.0,13.06,13.06,13.06,45.5,217.9,Quarterfinal Contender
+35,12,Green Hill,TN,6A,2,TSSAA Class 6A,9-2,9,2,0,11,66.2,66.2,16.24,73.0,42,25.7,14.2,11.5,16.21,16.21,16.21,58.5,281.1,Quarterfinal Contender
+36,2,East Nashville Magnet,TN,2A,2,TSSAA Class 2A,8-3,8,3,0,11,66.0,66.0,16.05,69.5,92,40.4,16.4,24.0,12.56,12.56,12.56,36.0,231.4,State Title Contender
+37,4,White County,TN,4A,4,TSSAA Class 4A,11-0,11,0,0,11,65.3,65.3,15.28,67.1,153,37.3,10.6,26.7,16.9,16.9,16.9,60.5,300.7,State Title Contender
+38,13,Cookeville,TN,6A,2,TSSAA Class 6A,5-6,5,6,0,11,65.1,65.1,15.12,75.5,16,21.2,19.5,1.7,9.99,9.99,9.99,32.5,164.1,Quarterfinal Contender
+39,2,McKenzie,TN,1A,3,TSSAA Class 1A,9-2,9,2,0,11,64.2,64.2,14.22,64.1,230,49.3,10.5,38.8,12.27,12.27,12.27,36.0,229.0,State Title Contender
+40,5,Lexington,TN,4A,1,TSSAA Class 4A,11-0,11,0,0,11,64.1,64.1,14.13,66.1,178,44.2,14.4,29.8,16.55,16.55,16.55,60.5,294.1,Semifinal Contender
+41,3,Marion County,TN,2A,1,TSSAA Class 2A,11-0,11,0,0,11,64.0,64.0,14.04,63.3,251,38.5,5.4,33.1,14.9,14.9,14.9,49.5,273.9,State Title Contender
+42,3,Meigs County,TN,3A,2,TSSAA Class 3A,11-0,11,0,0,11,63.8,63.8,13.81,64.8,213,40.5,10.7,29.8,15.72,15.72,15.72,55.0,284.9,State Title Contender
+43,4,Lausanne Collegiate,TN,DII-AA,1,TSSAA Class DII-AA,7-3,7,3,0,10,63.8,63.8,13.8,73.5,31,43.6,27.0,16.6,13.24,13.24,13.24,38.5,220.9,State Title Contender
+44,6,Springfield,TN,4A,3,TSSAA Class 4A,10-1,10,1,0,11,63.8,63.8,13.76,66.9,156,37.5,11.5,26.0,15.32,15.32,15.32,55.0,272.3,Semifinal Contender
+45,7,Crockett County,TN,4A,1,TSSAA Class 4A,10-1,10,1,0,11,63.7,63.7,13.74,64.6,219,48.2,10.5,37.7,14.84,14.84,14.84,55.0,257.5,Semifinal Contender
+46,11,Memphis University School,TN,DII-AAA,4,TSSAA Class DII-AAA,4-7,4,7,0,11,63.7,63.7,13.67,76.8,13,23.5,31.3,-7.8,8.29,8.29,8.29,26.0,134.7,Quarterfinal Contender
+47,14,Blackman,TN,6A,4,TSSAA Class 6A,6-5,6,5,0,11,63.6,63.6,13.58,73.3,37,22.6,16.3,6.3,11.17,11.17,11.17,39.0,188.3,Quarterfinal Contender
+48,4,Nolensville,TN,5A,3,TSSAA Class 5A,10-1,10,1,0,11,63.2,63.2,13.25,69.9,79,28.4,8.7,19.7,16.33,16.33,16.33,60.0,291.9,State Title Contender
+49,5,Christian Academy of Knoxville,TN,DII-AA,2,TSSAA Class DII-AA,10-1,10,1,0,11,63.2,63.2,13.25,71.5,62,38.5,16.4,22.1,16.21,16.21,16.21,55.0,302.2,Semifinal Contender
+50,5,Sevier County,TN,5A,2,TSSAA Class 5A,8-3,8,3,0,11,63.2,63.2,13.23,69.5,93,41.7,17.1,24.6,13.31,13.31,13.31,48.0,231.3,Semifinal Contender
+51,6,Knoxville Central,TN,5A,2,TSSAA Class 5A,10-1,10,1,0,11,63.2,63.2,13.18,68.0,127,44.5,19.8,24.7,15.93,15.93,15.93,60.0,279.6,Semifinal Contender
+52,7,Lincoln County,TN,5A,2,TSSAA Class 5A,9-1,9,1,0,10,62.5,62.5,12.52,69.3,99,38.3,16.8,21.5,15.96,15.96,15.96,54.0,258.9,Semifinal Contender
+53,8,Columbia Central,TN,5A,4,TSSAA Class 5A,10-1,10,1,0,11,62.5,62.5,12.47,69.0,106,38.6,17.8,20.8,16.05,16.05,16.05,60.0,286.1,Semifinal Contender
+54,12,Father Ryan,TN,DII-AAA,2,TSSAA Class DII-AAA,3-8,3,8,0,11,62.3,62.3,12.29,79.5,8,16.6,31.5,-14.9,6.63,6.63,6.63,19.5,106.2,Quarterfinal Contender
+55,3,Coalfield,TN,1A,3,TSSAA Class 1A,10-1,10,1,0,11,61.9,61.9,11.9,62.0,279,41.3,9.5,31.8,12.71,12.71,12.71,40.0,240.4,State Title Contender
+56,15,Cleveland,TN,6A,1,TSSAA Class 6A,10-1,10,1,0,11,61.8,61.8,11.84,72.7,47,33.5,16.0,17.5,17.19,17.19,17.19,65.0,309.9,Quarterfinal Contender
+57,8,Macon County,TN,4A,2,TSSAA Class 4A,10-1,10,1,0,11,61.5,61.5,11.54,67.4,145,32.4,9.5,22.9,15.15,15.15,15.15,55.0,275.5,Semifinal Contender
+58,16,Smyrna,TN,6A,1,TSSAA Class 6A,8-3,8,3,0,11,61.5,61.5,11.53,72.9,44,26.3,17.1,9.2,14.03,14.03,14.03,52.0,248.9,Quarterfinal Contender
+59,4,Forrest,TN,3A,1,TSSAA Class 3A,10-0,10,0,0,10,61.0,61.0,10.97,63.0,256,46.7,14.6,32.1,14.96,14.96,14.96,50.0,247.1,State Title Contender
 60,6,Nashville Christian,TN,DII-AA,2,TSSAA Class DII-AA,8-2,8,2,0,10,60.8,60.8,10.75,64.6,220,36.1,16.5,19.6,12.89,12.89,12.89,44.0,205.7,Semifinal Contender
-61,5,Sweetwater,TN,3A,2,TSSAA Class 3A,9-1,9,1,0,10,60.7,60.7,10.66,64.5,221,42.8,12.2,30.6,13.87,13.87,13.87,45.0,231.3,Semifinal Contender
-62,17,Germantown,TN,6A,4,TSSAA Class 6A,3-7,3,7,0,10,60.1,60.1,10.06,74.5,20,21.6,19.1,2.5,6.53,6.53,6.53,19.5,96.5,Dark Horse
-63,18,Lebanon,TN,6A,3,TSSAA Class 6A,7-3,7,3,0,10,60.0,60.0,10.0,71.3,64,27.6,14.4,13.2,13.12,13.12,13.12,45.5,210.5,Dark Horse
-64,6,Giles County,TN,3A,4,TSSAA Class 3A,6-3,6,3,0,9,59.9,59.9,9.91,69.7,85,32.0,25.0,7.0,11.3,11.3,11.3,30.0,174.4,Semifinal Contender
-65,9,Powell,TN,5A,3,TSSAA Class 5A,7-1,7,1,0,8,59.7,59.7,9.7,66.6,164,38.5,12.8,25.7,14.7,14.7,14.7,42.0,189.5,Quarterfinal Contender
-66,19,Trinity Christian Academy,TN,6A,4,TSSAA Class 6A,8-1,8,1,0,9,59.6,59.6,9.65,63.5,249,43.1,11.4,31.7,14.72,14.72,14.72,52.0,200.2,Dark Horse
-67,9,Gibbs,TN,4A,4,TSSAA Class 4A,8-1,8,1,0,9,59.6,59.6,9.57,68.4,120,39.0,20.0,19.0,14.81,14.81,14.81,44.0,225.6,Quarterfinal Contender
-68,20,Dobyns-Bennett,TN,6A,3,TSSAA Class 6A,7-3,7,3,0,10,59.2,59.2,9.25,69.8,83,34.6,22.2,12.4,12.79,12.79,12.79,45.5,203.7,Dark Horse
-69,10,Haywood,TN,4A,2,TSSAA Class 4A,9-1,9,1,0,10,58.8,58.8,8.8,64.8,214,44.6,13.7,30.9,14.15,14.15,14.15,49.5,232.8,Quarterfinal Contender
+61,5,Sweetwater,TN,3A,4,TSSAA Class 3A,10-1,10,1,0,11,60.7,60.7,10.66,64.5,221,43.4,11.7,31.7,14.0,14.0,14.0,50.0,257.0,Semifinal Contender
+62,17,Germantown,TN,6A,4,TSSAA Class 6A,3-8,3,8,0,11,60.1,60.1,10.06,74.5,20,20.8,21.2,-0.4,6.05,6.05,6.05,19.5,96.5,Dark Horse
+63,18,Lebanon,TN,6A,4,TSSAA Class 6A,7-4,7,4,0,11,60.0,60.0,10.0,71.3,64,26.4,15.0,11.4,12.03,12.03,12.03,45.5,210.5,Dark Horse
+64,6,Giles County,TN,3A,1,TSSAA Class 3A,7-3,7,3,0,10,59.9,59.9,9.91,69.7,85,34.9,23.2,11.7,11.81,11.81,11.81,35.0,203.5,Semifinal Contender
+65,9,Powell,TN,5A,3,TSSAA Class 5A,10-1,10,1,0,11,59.7,59.7,9.7,66.6,164,40.6,18.9,21.7,15.23,15.23,15.23,60.0,270.7,Quarterfinal Contender
+66,19,Trinity Christian Academy,TN,6A,1,TSSAA Class 6A,9-1,9,1,0,10,59.6,59.6,9.65,63.5,248,41.6,11.7,29.9,14.89,14.89,14.89,58.5,225.2,Dark Horse
+67,9,Gibbs,TN,4A,4,TSSAA Class 4A,10-1,10,1,0,11,59.6,59.6,9.57,68.4,120,37.5,20.3,17.2,15.12,15.12,15.12,55.0,282.0,Quarterfinal Contender
+68,20,Dobyns-Bennett,TN,6A,2,TSSAA Class 6A,8-3,8,3,0,11,59.2,59.2,9.25,69.8,83,36.0,21.4,14.6,13.24,13.24,13.24,52.0,232.8,Dark Horse
+69,10,Haywood,TN,4A,4,TSSAA Class 4A,9-2,9,2,0,11,58.8,58.8,8.8,64.8,214,43.1,15.3,27.8,12.96,12.96,12.96,49.5,232.8,Quarterfinal Contender
 70,7,Lakeway Christian Academy,TN,DII-AA,1,TSSAA Class DII-AA,8-3,8,3,0,11,58.7,58.7,8.69,71.3,63,35.6,13.8,21.8,12.71,12.71,12.71,44.0,240.9,Semifinal Contender
-71,21,Oak Ridge,TN,6A,2,TSSAA Class 6A,7-3,7,3,0,10,58.3,58.3,8.26,72.1,53,34.9,21.1,13.8,13.05,13.05,13.05,45.5,214.4,Dark Horse
-72,11,Anderson County,TN,4A,1,TSSAA Class 4A,7-1,7,1,0,8,58.2,58.2,8.17,71.7,59,39.1,21.4,17.7,15.1,15.1,15.1,38.5,212.7,Quarterfinal Contender
-73,22,Science Hill,TN,6A,1,TSSAA Class 6A,8-2,8,2,0,10,58.1,58.1,8.06,71.1,68,37.2,21.2,16.0,14.56,14.56,14.56,52.0,239.9,Dark Horse
-74,7,Covington,TN,3A,2,TSSAA Class 3A,8-2,8,2,0,10,57.6,57.6,7.62,66.0,184,45.5,15.4,30.1,12.38,12.38,12.38,40.0,213.2,Semifinal Contender
-75,4,Memphis Academy of Science and Engineering,TN,2A,1,TSSAA Class 2A,1-0,1,0,0,1,57.5,57.5,7.5,65.0,208,31.6,17.6,14.0,14.5,14.5,14.5,4.5,26.0,State Title Contender
-76,23,Hardin Valley Academy,TN,6A,4,TSSAA Class 6A,5-4,5,4,0,9,57.5,57.5,7.49,69.9,78,34.8,22.2,12.6,10.19,10.19,10.19,32.5,146.0,Dark Horse
-77,4,Greenback,TN,1A,3,TSSAA Class 1A,10-1,10,1,0,11,57.4,57.4,7.43,62.1,278,40.7,10.3,30.4,12.2,12.2,12.2,40.0,241.2,State Title Contender
-78,10,Memphis Central,TN,5A,4,TSSAA Class 5A,8-2,8,2,0,10,57.4,57.4,7.35,67.7,135,36.7,15.4,21.3,13.45,13.45,13.45,48.0,222.0,Quarterfinal Contender
-79,5,Gordonsville,TN,2A,1,TSSAA Class 2A,9-1,9,1,0,10,57.3,57.3,7.29,64.3,223,28.8,9.1,19.7,12.97,12.97,12.97,40.5,229.9,Semifinal Contender
-80,8,Fairview,TN,3A,1,TSSAA Class 3A,9-0,9,0,0,9,57.1,57.1,7.12,61.1,291,38.6,6.6,32.0,14.08,14.08,14.08,45.0,211.5,Semifinal Contender
-81,24,Middle Tennessee Christian,TN,6A,4,TSSAA Class 6A,7-1,7,1,0,8,56.9,56.9,6.89,62.5,269,42.1,9.5,32.6,13.97,13.97,13.97,45.5,170.5,Dark Horse
-82,11,Walker Valley,TN,5A,1,TSSAA Class 5A,9-1,9,1,0,10,56.7,56.7,6.74,67.5,141,38.4,13.0,25.4,14.9,14.9,14.9,54.0,248.3,Quarterfinal Contender
-83,25,Bartlett,TN,6A,1,TSSAA Class 6A,4-6,4,6,0,10,56.5,56.5,6.45,73.3,35,24.1,25.2,-1.1,7.77,7.77,7.77,26.0,125.7,Dark Horse
+71,21,Oak Ridge,TN,6A,1,TSSAA Class 6A,7-4,7,4,0,11,58.3,58.3,8.26,72.1,53,33.3,23.5,9.8,11.95,11.95,11.95,45.5,214.4,Dark Horse
+72,11,Anderson County,TN,4A,4,TSSAA Class 4A,7-4,7,4,0,11,58.2,58.2,8.17,71.7,59,37.0,28.2,8.8,11.25,11.25,11.25,38.5,212.7,Quarterfinal Contender
+73,22,Science Hill,TN,6A,2,TSSAA Class 6A,8-2,8,2,0,10,58.1,58.1,8.06,71.1,68,37.2,21.2,16.0,14.56,14.56,14.56,52.0,239.9,Dark Horse
+74,7,Covington,TN,3A,4,TSSAA Class 3A,8-3,8,3,0,11,57.6,57.6,7.62,66.0,184,43.8,19.7,24.1,11.33,11.33,11.33,40.0,213.2,Semifinal Contender
+75,4,Memphis Academy of Science and Engineering,TN,2A,1,TSSAA Class 2A,8-3,8,3,0,11,57.5,57.5,7.5,65.0,208,33.1,8.1,25.0,10.79,10.79,10.79,36.0,208.0,State Title Contender
+76,23,Hardin Valley Academy,TN,6A,4,TSSAA Class 6A,7-4,7,4,0,11,57.5,57.5,7.49,69.9,78,36.0,18.8,17.2,11.54,11.54,11.54,45.5,204.4,Dark Horse
+77,4,Greenback,TN,1A,4,TSSAA Class 1A,10-1,10,1,0,11,57.4,57.4,7.43,62.1,277,40.7,10.3,30.4,12.2,12.2,12.2,40.0,241.2,State Title Contender
+78,10,Memphis Central,TN,5A,1,TSSAA Class 5A,9-2,9,2,0,11,57.4,57.4,7.35,67.7,135,38.6,14.5,24.1,13.74,13.74,13.74,54.0,249.7,Quarterfinal Contender
+79,5,Gordonsville,TN,2A,3,TSSAA Class 2A,10-1,10,1,0,11,57.3,57.3,7.29,64.3,223,30.5,8.3,22.2,13.09,13.09,13.09,45.0,255.4,Semifinal Contender
+80,8,Fairview,TN,3A,2,TSSAA Class 3A,11-0,11,0,0,11,57.1,57.1,7.12,61.1,290,38.5,5.9,32.6,14.08,14.08,14.08,55.0,258.5,Semifinal Contender
+81,24,Middle Tennessee Christian,TN,6A,2,TSSAA Class 6A,9-1,9,1,0,10,56.9,56.9,6.89,62.5,268,39.1,9.5,29.6,14.35,14.35,14.35,58.5,219.2,Dark Horse
+82,11,Walker Valley,TN,5A,4,TSSAA Class 5A,9-2,9,2,0,11,56.7,56.7,6.74,67.5,141,36.7,16.2,20.5,13.62,13.62,13.62,54.0,248.3,Quarterfinal Contender
+83,25,Bartlett,TN,6A,4,TSSAA Class 6A,5-6,5,6,0,11,56.5,56.5,6.45,73.3,35,25.7,23.5,2.2,8.73,8.73,8.73,32.5,157.1,Dark Horse
 84,8,Silverdale Academy,TN,DII-AA,4,TSSAA Class DII-AA,7-3,7,3,0,10,56.2,56.2,6.22,74.1,23,27.1,24.8,2.3,12.42,12.42,12.42,38.5,223.5,Semifinal Contender
-85,12,McMinn County,TN,5A,4,TSSAA Class 5A,6-5,6,5,0,11,55.7,55.7,5.7,71.0,69,30.7,18.5,12.2,9.67,9.67,9.67,36.0,179.6,Quarterfinal Contender
-86,13,Kirkwood,TN,5A,4,TSSAA Class 5A,8-1,8,1,0,9,55.4,55.4,5.44,63.7,244,36.6,5.3,31.3,13.81,13.81,13.81,48.0,201.3,Quarterfinal Contender
+85,12,McMinn County,TN,5A,2,TSSAA Class 5A,6-5,6,5,0,11,55.7,55.7,5.7,71.0,69,30.7,18.5,12.2,9.67,9.67,9.67,36.0,179.6,Quarterfinal Contender
+86,13,Kirkwood,TN,5A,1,TSSAA Class 5A,10-1,10,1,0,11,55.4,55.4,5.44,63.7,243,36.8,7.5,29.3,14.11,14.11,14.11,60.0,251.6,Quarterfinal Contender
 87,14,Rhea County,TN,5A,3,TSSAA Class 5A,9-2,9,2,0,11,55.4,55.4,5.42,68.4,118,33.2,13.2,20.0,13.64,13.64,13.64,54.0,254.0,Quarterfinal Contender
-88,9,Boyd-Buchanan,TN,DII-AA,2,TSSAA Class DII-AA,6-4,6,4,0,10,54.7,54.7,4.74,73.1,40,24.6,28.3,-3.7,10.44,10.44,10.44,33.0,187.7,Quarterfinal Contender
-89,26,Gallatin,TN,6A,3,TSSAA Class 6A,7-3,7,3,0,10,54.6,54.6,4.63,73.2,39,24.7,19.0,5.7,12.77,12.77,12.77,45.5,219.1,Dark Horse
-90,6,East Robertson,TN,2A,1,TSSAA Class 2A,8-2,8,2,0,10,54.5,54.5,4.46,66.0,182,36.4,19.4,17.0,11.6,11.6,11.6,36.0,213.4,Semifinal Contender
-91,27,Mt. Juliet,TN,6A,2,TSSAA Class 6A,4-5,4,5,0,9,54.3,54.3,4.33,73.7,29,24.0,23.3,0.7,8.33,8.33,8.33,26.0,126.5,Dark Horse
-92,28,Bradley Central,TN,6A,2,TSSAA Class 6A,4-5,4,5,0,9,53.5,53.5,3.52,73.1,41,25.4,28.6,-3.2,8.17,8.17,8.17,26.0,125.0,Dark Horse
-93,7,Adamsville,TN,2A,1,TSSAA Class 2A,9-1,9,1,0,10,52.6,52.6,2.56,63.1,255,42.1,17.2,24.9,12.16,12.16,12.16,40.5,222.9,Semifinal Contender
-94,10,Friendship Christian,TN,DII-AA,2,TSSAA Class DII-AA,8-2,8,2,0,10,52.5,52.5,2.5,62.4,271,32.8,13.8,19.0,11.5,11.5,11.5,44.0,194.3,Quarterfinal Contender
-95,12,Jackson Christian,TN,4A,4,TSSAA Class 4A,9-0,9,0,0,9,52.5,52.5,2.5,66.1,180,38.8,17.0,21.8,15.16,15.16,15.16,49.5,240.6,Quarterfinal Contender
-96,8,Happy Valley,TN,2A,4,TSSAA Class 2A,10-1,10,1,0,11,52.5,52.5,2.48,56.2,340,45.1,8.3,36.8,10.83,10.83,10.83,45.0,202.6,Semifinal Contender
-97,11,Goodpasture Christian,TN,DII-AA,4,TSSAA Class DII-AA,6-3,6,3,0,9,52.5,52.5,2.45,66.5,167,29.1,18.7,10.4,10.26,10.26,10.26,33.0,161.9,Quarterfinal Contender
-98,15,Henry County,TN,5A,2,TSSAA Class 5A,4-4,4,4,0,8,52.4,52.4,2.43,71.8,57,24.0,22.2,1.8,8.61,8.61,8.61,24.0,121.6,Quarterfinal Contender
-99,16,Halls,TN,5A,1,TSSAA Class 5A,7-10,7,10,0,17,52.4,52.4,2.43,68.6,111,29.2,24.7,4.5,6.84,6.84,6.84,42.0,198.3,Quarterfinal Contender
-100,13,Liberty Creek,TN,4A,2,TSSAA Class 4A,7-4,7,4,0,11,52.4,52.4,2.37,67.6,136,29.5,14.6,14.9,9.96,9.96,9.96,38.5,194.0,Quarterfinal Contender
-101,9,Milan,TN,2A,3,TSSAA Class 2A,9-1,9,1,0,10,52.0,52.0,1.99,64.0,240,36.6,10.4,26.2,12.27,12.27,12.27,40.5,227.9,Quarterfinal Contender
-102,17,Tennessee,TN,5A,2,TSSAA Class 5A,6-4,6,4,0,10,51.8,51.8,1.84,68.0,128,36.6,25.1,11.5,9.68,9.68,9.68,36.0,167.5,Dark Horse
-103,9,Kingston - Roane County,TN,3A,1,TSSAA Class 3A,8-2,8,2,0,10,51.7,51.7,1.74,64.7,218,40.2,20.6,19.6,11.43,11.43,11.43,40.0,206.2,Quarterfinal Contender
-104,29,Independence,TN,6A,4,TSSAA Class 6A,4-6,4,6,0,10,51.7,51.7,1.74,74.4,21,25.5,31.9,-6.4,7.31,7.31,7.31,26.0,128.5,Dark Horse
-105,12,Evangelical Christian,TN,DII-AA,2,TSSAA Class DII-AA,7-2,7,2,0,9,51.7,51.7,1.72,69.7,87,25.3,14.4,10.9,12.39,12.39,12.39,38.5,203.2,Quarterfinal Contender
-106,30,Clarksville,TN,6A,1,TSSAA Class 6A,6-3,6,3,0,9,51.4,51.4,1.43,66.8,160,28.9,14.9,14.0,10.84,10.84,10.84,39.0,162.8,Dark Horse
-107,14,Elizabethton,TN,4A,4,TSSAA Class 4A,6-5,6,5,0,11,51.0,51.0,1.01,69.1,102,28.5,22.0,6.5,8.59,8.59,8.59,33.0,172.0,Quarterfinal Contender
-108,15,Marshall County,TN,4A,2,TSSAA Class 4A,4-5,4,5,0,9,50.7,50.7,0.73,71.2,65,26.1,26.1,0.0,7.21,7.21,7.21,22.0,120.2,Quarterfinal Contender
-109,16,Jackson North Side,TN,4A,4,TSSAA Class 4A,4-4,4,4,0,8,50.4,50.4,0.43,68.5,116,29.0,27.9,1.1,7.75,7.75,7.75,22.0,113.0,Quarterfinal Contender
-110,10,Bledsoe County,TN,2A,3,TSSAA Class 2A,9-2,9,2,0,11,50.3,50.3,0.3,65.0,207,35.4,20.2,15.2,11.17,11.17,11.17,40.5,234.3,Quarterfinal Contender
-111,18,Rockvale,TN,5A,3,TSSAA Class 5A,5-3,5,3,0,8,50.0,50.0,0.03,72.5,50,25.4,20.2,5.2,10.5,10.5,10.5,30.0,154.3,Dark Horse
-112,10,Unicoi County,TN,3A,3,TSSAA Class 3A,9-1,9,1,0,10,50.0,50.0,-0.03,61.1,292,39.6,18.2,21.4,11.89,11.89,11.89,45.0,211.1,Quarterfinal Contender
-113,17,Upperman,TN,4A,3,TSSAA Class 4A,7-4,7,4,0,11,49.9,49.9,-0.11,71.2,66,24.0,21.8,2.2,10.19,10.19,10.19,38.5,210.3,Dark Horse
-114,5,Humboldt,TN,1A,4,TSSAA Class 1A,10-1,10,1,0,11,49.6,49.6,-0.42,57.2,334,45.6,14.4,31.2,10.29,10.29,10.29,40.0,209.0,Semifinal Contender
-115,19,Hendersonville,TN,5A,3,TSSAA Class 5A,6-4,6,4,0,10,49.1,49.1,-0.85,70.4,75,27.6,23.0,4.6,9.8,9.8,9.8,36.0,177.1,Dark Horse
-116,11,Dyersburg,TN,3A,3,TSSAA Class 3A,6-3,6,3,0,9,49.1,49.1,-0.86,66.7,161,43.1,25.1,18.0,9.65,9.65,9.65,30.0,162.5,Quarterfinal Contender
-117,11,Fairley,TN,2A,1,TSSAA Class 2A,5-2,5,2,0,7,49.0,49.0,-0.97,64.0,239,33.9,15.7,18.2,9.55,9.55,9.55,22.5,126.7,Quarterfinal Contender
-118,31,Concord Christian,TN,6A,4,TSSAA Class 6A,8-2,8,2,0,10,49.0,49.0,-0.97,65.9,186,40.1,22.9,17.2,12.65,12.65,12.65,52.0,212.8,Dark Horse
-119,20,Station Camp,TN,5A,4,TSSAA Class 5A,5-5,5,5,0,10,49.0,49.0,-1.04,68.6,113,36.5,29.7,6.8,7.96,7.96,7.96,30.0,141.6,Dark Horse
-120,12,Whites Creek,TN,3A,3,TSSAA Class 3A,8-1,8,1,0,9,47.9,47.9,-2.07,62.5,267,26.9,9.2,17.7,12.02,12.02,12.02,40.0,194.9,Quarterfinal Contender
-121,18,Seymour,TN,4A,2,TSSAA Class 4A,8-2,8,2,0,10,47.9,47.9,-2.09,65.3,202,30.3,17.7,12.6,11.74,11.74,11.74,44.0,209.6,Dark Horse
-122,13,Chattanooga Prep,TN,3A,2,TSSAA Class 3A,1-7,1,7,0,8,47.7,47.7,-2.26,69.8,81,17.2,29.0,-11.8,1.9,1.9,1.9,5.0,29.1,Quarterfinal Contender
-123,6,Cornersville,TN,1A,4,TSSAA Class 1A,10-0,10,0,0,10,47.4,47.4,-2.56,60.7,297,41.2,21.6,19.6,12.12,12.12,12.12,40.0,232.1,Semifinal Contender
+88,9,Boyd-Buchanan,TN,DII-AA,3,TSSAA Class DII-AA,6-4,6,4,0,10,54.7,54.7,4.74,73.1,40,24.6,28.3,-3.7,10.44,10.44,10.44,33.0,187.7,Quarterfinal Contender
+89,26,Gallatin,TN,6A,2,TSSAA Class 6A,7-4,7,4,0,11,54.6,54.6,4.63,73.2,39,23.4,19.6,3.8,11.66,11.66,11.66,45.5,219.1,Dark Horse
+90,6,East Robertson,TN,2A,4,TSSAA Class 2A,9-2,9,2,0,11,54.5,54.5,4.46,66.0,182,37.5,18.8,18.7,11.85,11.85,11.85,40.5,240.0,Semifinal Contender
+91,27,Mt. Juliet,TN,6A,2,TSSAA Class 6A,5-5,5,5,0,10,54.3,54.3,4.33,73.7,29,24.2,22.0,2.2,9.3,9.3,9.3,32.5,158.1,Dark Horse
+92,28,Bradley Central,TN,6A,1,TSSAA Class 6A,5-5,5,5,0,10,53.5,53.5,3.52,73.1,41,26.4,27.8,-1.4,9.14,9.14,9.14,32.5,156.2,Dark Horse
+93,7,Adamsville,TN,2A,1,TSSAA Class 2A,10-1,10,1,0,11,52.6,52.6,2.56,63.1,254,41.5,16.2,25.3,12.28,12.28,12.28,45.0,247.7,Semifinal Contender
+94,10,Friendship Christian,TN,DII-AA,4,TSSAA Class DII-AA,9-2,9,2,0,11,52.5,52.5,2.5,62.4,270,29.9,12.5,17.4,11.76,11.76,11.76,49.5,218.6,Quarterfinal Contender
+95,12,Jackson Christian,TN,4A,2,TSSAA Class 4A,9-2,9,2,0,11,52.5,52.5,2.5,66.1,180,33.6,20.9,12.7,12.46,12.46,12.46,49.5,240.6,Quarterfinal Contender
+96,8,Happy Valley,TN,2A,2,TSSAA Class 2A,10-1,10,1,0,11,52.5,52.5,2.48,56.2,339,45.1,8.3,36.8,10.83,10.83,10.83,45.0,202.6,Semifinal Contender
+97,11,Goodpasture Christian,TN,DII-AA,1,TSSAA Class DII-AA,8-3,8,3,0,11,52.5,52.5,2.45,66.5,167,32.1,17.7,14.4,11.16,11.16,11.16,44.0,215.8,Quarterfinal Contender
+98,15,Henry County,TN,5A,4,TSSAA Class 5A,6-5,6,5,0,11,52.4,52.4,2.43,71.8,57,27.3,21.5,5.8,9.37,9.37,9.37,36.0,182.4,Quarterfinal Contender
+99,16,Halls,TN,5A,3,TSSAA Class 5A,6-5,6,5,0,11,52.4,52.4,2.43,68.6,111,35.0,21.5,13.5,8.97,8.97,8.97,36.0,170.0,Quarterfinal Contender
+100,13,Liberty Creek,TN,4A,4,TSSAA Class 4A,7-4,7,4,0,11,52.4,52.4,2.37,67.6,136,29.5,14.6,14.9,9.96,9.96,9.96,38.5,194.0,Quarterfinal Contender
+101,9,Milan,TN,2A,4,TSSAA Class 2A,9-2,9,2,0,11,52.0,52.0,1.99,64.0,240,34.5,12.0,22.5,11.17,11.17,11.17,40.5,227.9,Quarterfinal Contender
+102,17,Tennessee,TN,5A,3,TSSAA Class 5A,7-4,7,4,0,11,51.8,51.8,1.84,68.0,128,37.1,24.0,13.1,10.26,10.26,10.26,42.0,195.4,Dark Horse
+103,9,Kingston - Roane County,TN,3A,2,TSSAA Class 3A,8-3,8,3,0,11,51.7,51.7,1.74,64.7,218,38.2,21.3,16.9,10.41,10.41,10.41,40.0,206.2,Quarterfinal Contender
+104,29,Independence,TN,6A,4,TSSAA Class 6A,4-7,4,7,0,11,51.7,51.7,1.74,74.4,21,23.5,29.6,-6.1,6.66,6.66,6.66,26.0,128.5,Dark Horse
+105,12,Evangelical Christian,TN,DII-AA,3,TSSAA Class DII-AA,8-3,8,3,0,11,51.7,51.7,1.72,69.7,87,27.3,15.8,11.5,11.59,11.59,11.59,44.0,232.2,Quarterfinal Contender
+106,30,Clarksville,TN,6A,1,TSSAA Class 6A,8-3,8,3,0,11,51.4,51.4,1.43,66.8,160,29.2,15.7,13.5,11.81,11.81,11.81,52.0,217.1,Dark Horse
+107,14,Elizabethton,TN,4A,2,TSSAA Class 4A,6-5,6,5,0,11,51.0,51.0,1.01,69.1,102,28.5,22.0,6.5,8.59,8.59,8.59,33.0,172.0,Quarterfinal Contender
+108,15,Marshall County,TN,4A,3,TSSAA Class 4A,6-5,6,5,0,11,50.7,50.7,0.73,71.2,65,30.3,25.4,4.9,8.82,8.82,8.82,33.0,180.3,Quarterfinal Contender
+109,16,Jackson North Side,TN,4A,3,TSSAA Class 4A,7-4,7,4,0,11,50.4,50.4,0.43,68.5,116,34.6,21.7,12.9,9.85,9.85,9.85,38.5,197.8,Quarterfinal Contender
+110,10,Bledsoe County,TN,2A,1,TSSAA Class 2A,9-2,9,2,0,11,50.3,50.3,0.3,65.0,207,35.4,20.2,15.2,11.17,11.17,11.17,40.5,234.3,Quarterfinal Contender
+111,31,Rockvale,TN,6A,3,TSSAA Class 6A,5-5,5,5,0,10,50.0,50.0,0.03,72.5,50,23.1,22.0,1.1,8.65,8.65,8.65,32.5,154.3,Dark Horse
+112,10,Unicoi County,TN,3A,3,TSSAA Class 3A,10-1,10,1,0,11,50.0,50.0,-0.03,61.1,291,39.8,17.1,22.7,12.01,12.01,12.01,50.0,234.5,Quarterfinal Contender
+113,17,Upperman,TN,4A,2,TSSAA Class 4A,7-4,7,4,0,11,49.9,49.9,-0.11,71.2,66,24.0,21.8,2.2,10.19,10.19,10.19,38.5,210.3,Dark Horse
+114,5,Humboldt,TN,1A,2,TSSAA Class 1A,10-1,10,1,0,11,49.6,49.6,-0.42,57.2,333,45.6,14.4,31.2,10.29,10.29,10.29,40.0,209.0,Semifinal Contender
+115,18,Hendersonville,TN,5A,1,TSSAA Class 5A,6-5,6,5,0,11,49.1,49.1,-0.85,70.4,75,25.7,25.4,0.3,8.91,8.91,8.91,36.0,177.1,Dark Horse
+116,11,Dyersburg,TN,3A,4,TSSAA Class 3A,7-4,7,4,0,11,49.1,49.1,-0.86,66.7,161,41.3,25.3,16.0,9.21,9.21,9.21,35.0,189.6,Quarterfinal Contender
+117,11,Fairley,TN,2A,2,TSSAA Class 2A,8-3,8,3,0,11,49.0,49.0,-0.97,64.0,239,29.2,13.5,15.7,9.72,9.72,9.72,36.0,202.6,Quarterfinal Contender
+118,32,Concord Christian,TN,6A,2,TSSAA Class 6A,8-3,8,3,0,11,49.0,49.0,-0.97,65.9,186,38.3,26.0,12.3,11.5,11.5,11.5,52.0,212.8,Dark Horse
+119,19,Station Camp,TN,5A,1,TSSAA Class 5A,6-5,6,5,0,11,49.0,49.0,-1.04,68.6,113,37.0,27.5,9.5,8.68,8.68,8.68,36.0,169.9,Dark Horse
+120,12,Whites Creek,TN,3A,3,TSSAA Class 3A,9-1,9,1,0,10,47.9,47.9,-2.07,62.5,266,27.5,10.1,17.4,12.18,12.18,12.18,45.0,219.3,Quarterfinal Contender
+121,18,Seymour,TN,4A,2,TSSAA Class 4A,9-2,9,2,0,11,47.9,47.9,-2.09,65.3,202,32.1,16.1,16.0,12.0,12.0,12.0,49.5,235.8,Dark Horse
+122,13,Chattanooga Prep,TN,3A,1,TSSAA Class 3A,4-7,4,7,0,11,47.7,47.7,-2.26,69.8,81,24.0,22.4,1.6,5.52,5.52,5.52,20.0,116.5,Quarterfinal Contender
+123,6,Cornersville,TN,1A,1,TSSAA Class 1A,11-0,11,0,0,11,47.4,47.4,-2.56,60.7,296,40.6,21.5,19.1,12.12,12.12,12.12,44.0,255.3,Semifinal Contender
 124,14,Sequatchie County,TN,3A,3,TSSAA Class 3A,6-5,6,5,0,11,47.4,47.4,-2.57,69.1,105,30.2,25.5,4.7,8.19,8.19,8.19,30.0,171.8,Quarterfinal Contender
-125,13,Grace Christian Academy-Franklin,TN,DII-AA,2,TSSAA Class DII-AA,0-1,0,1,0,1,47.4,47.4,-2.59,69.5,91,18.1,28.8,-10.7,0.0,0.0,0.0,0.0,0.0,Quarterfinal Contender
-126,19,Spring Hill,TN,4A,1,TSSAA Class 4A,8-2,8,2,0,10,47.4,47.4,-2.64,64.7,217,30.2,11.3,18.9,11.62,11.62,11.62,44.0,206.2,Dark Horse
-127,20,Fulton,TN,4A,4,TSSAA Class 4A,5-5,5,5,0,10,47.2,47.2,-2.78,72.8,45,27.2,28.7,-1.5,8.19,8.19,8.19,27.5,155.4,Dark Horse
-128,14,Summit,TN,DII-AA,2,TSSAA Class DII-AA,3-7,3,7,0,10,47.2,47.2,-2.82,73.5,33,17.4,23.4,-6.0,4.96,4.96,4.96,16.5,94.5,Quarterfinal Contender
-129,12,Jackson Central Merry,TN,2A,2,TSSAA Class 2A,5-6,5,6,0,11,47.0,47.0,-2.95,66.1,179,25.5,22.4,3.1,6.3,6.3,6.3,22.5,133.7,Quarterfinal Contender
-130,21,West,TN,5A,4,TSSAA Class 5A,5-4,5,4,0,9,46.8,46.8,-3.19,70.5,72,25.9,26.3,-0.4,9.09,9.09,9.09,30.0,147.9,Dark Horse
-131,7,Cosby,TN,1A,4,TSSAA Class 1A,9-1,9,1,0,10,46.7,46.7,-3.28,57.4,332,45.3,19.3,26.0,10.24,10.24,10.24,36.0,189.7,Semifinal Contender
-132,21,South-Doyle,TN,4A,4,TSSAA Class 4A,6-4,6,4,0,10,46.4,46.4,-3.63,69.0,107,26.5,23.1,3.4,9.31,9.31,9.31,33.0,171.6,Dark Horse
-133,22,Red Bank,TN,4A,2,TSSAA Class 4A,6-5,6,5,0,11,46.1,46.1,-3.93,67.6,137,24.9,18.0,6.9,8.28,8.28,8.28,33.0,166.1,Dark Horse
-134,13,Tellico Plains,TN,2A,4,TSSAA Class 2A,8-3,8,3,0,11,46.0,46.0,-4.0,64.1,234,32.8,19.3,13.5,9.73,9.73,9.73,36.0,203.1,Quarterfinal Contender
-135,15,Webb,TN,DII-AA,2,TSSAA Class DII-AA,2-9,2,9,0,11,45.7,45.7,-4.27,75.1,18,20.8,32.3,-11.5,3.07,3.07,3.07,11.0,65.1,Quarterfinal Contender
-136,14,Mitchell,TN,2A,1,TSSAA Class 2A,4-3,4,3,0,7,45.7,45.7,-4.29,60.8,295,35.1,8.1,27.0,7.23,7.23,7.23,18.0,93.1,Quarterfinal Contender
-137,32,Notre Dame,TN,6A,4,TSSAA Class 6A,4-6,4,6,0,10,45.5,45.5,-4.52,72.1,54,26.0,27.7,-1.7,6.89,6.89,6.89,26.0,122.5,Dark Horse
-138,15,Riverside,TN,2A,4,TSSAA Class 2A,8-2,8,2,0,10,45.4,45.4,-4.64,65.6,199,30.1,14.2,15.9,10.98,10.98,10.98,36.0,210.9,Quarterfinal Contender
-139,33,Jefferson County,TN,6A,3,TSSAA Class 6A,5-6,5,6,0,11,45.3,45.3,-4.67,70.5,73,26.2,29.2,-3.0,7.66,7.66,7.66,32.5,147.9,Playoff Bubble
-140,22,David Crockett,TN,5A,2,TSSAA Class 5A,7-4,7,4,0,11,45.3,45.3,-4.74,67.3,150,26.6,19.9,6.7,9.95,9.95,9.95,42.0,192.6,Dark Horse
-141,16,Cannon County,TN,2A,2,TSSAA Class 2A,8-2,8,2,0,10,45.1,45.1,-4.88,60.1,305,36.2,13.4,22.8,9.99,9.99,9.99,36.0,182.6,Quarterfinal Contender
-142,8,Austin-East,TN,1A,3,TSSAA Class 1A,6-4,6,4,0,10,45.0,45.0,-5.05,66.2,177,34.0,27.5,6.5,8.03,8.03,8.03,24.0,160.8,Semifinal Contender
-143,34,Siegel,TN,6A,4,TSSAA Class 6A,3-5,3,5,0,8,44.6,44.6,-5.36,74.4,22,15.0,26.6,-11.6,6.66,6.66,6.66,19.5,96.4,Playoff Bubble
-144,35,Franklin,TN,6A,3,TSSAA Class 6A,6-4,6,4,0,10,44.6,44.6,-5.39,70.8,71,19.7,19.1,0.6,10.15,10.15,10.15,39.0,178.6,Playoff Bubble
-145,36,White Station,TN,6A,4,TSSAA Class 6A,3-7,3,7,0,10,44.4,44.4,-5.64,71.8,58,14.6,24.8,-10.2,5.14,5.14,5.14,19.5,91.2,Playoff Bubble
-146,17,Grundy County,TN,2A,2,TSSAA Class 2A,7-4,7,4,0,11,43.8,43.8,-6.2,58.2,327,39.8,14.1,25.7,7.67,7.67,7.67,31.5,151.1,Dark Horse
-147,16,Pope John Paul II,TN,DII-AA,4,TSSAA Class DII-AA,2-8,2,8,0,10,43.8,43.8,-6.24,74.7,19,18.1,32.8,-14.7,3.36,3.36,3.36,11.0,64.6,Quarterfinal Contender
-148,37,West Ridge,TN,6A,1,TSSAA Class 6A,4-6,4,6,0,10,43.4,43.4,-6.59,70.9,70,26.8,31.9,-5.1,6.78,6.78,6.78,26.0,119.3,Playoff Bubble
-149,38,Donelson Christian Academy,TN,6A,2,TSSAA Class 6A,4-4,4,4,0,8,43.1,43.1,-6.94,63.9,241,29.8,21.2,8.6,7.67,7.67,7.67,26.0,101.1,Playoff Bubble
-150,18,Peabody,TN,2A,3,TSSAA Class 2A,5-5,5,5,0,10,42.9,42.9,-7.15,63.5,250,24.9,18.9,6.0,6.62,6.62,6.62,22.5,125.0,Dark Horse
-151,23,Lakeland Preparatory,TN,4A,2,TSSAA Class 4A,6-3,6,3,0,9,42.8,42.8,-7.2,64.9,210,36.4,22.7,13.7,9.72,9.72,9.72,33.0,155.6,Dark Horse
-152,24,Dyer County,TN,4A,1,TSSAA Class 4A,3-6,3,6,0,9,42.8,42.8,-7.24,69.3,97,25.6,36.0,-10.4,5.19,5.19,5.19,16.5,86.4,Dark Horse
-153,23,Centennial,TN,5A,2,TSSAA Class 5A,1-8,1,8,0,9,42.7,42.7,-7.27,73.9,25,9.7,23.3,-13.6,1.9,1.9,1.9,6.0,31.8,Dark Horse
-154,39,PURE Academy,TN,6A,2,TSSAA Class 6A,1-8,1,8,0,9,42.7,42.7,-7.29,73.8,28,16.9,38.2,-21.3,1.95,1.95,1.95,6.5,31.7,Playoff Bubble
-155,24,Tullahoma,TN,5A,3,TSSAA Class 5A,2-8,2,8,0,10,42.5,42.5,-7.53,72.5,49,13.7,25.1,-11.4,3.36,3.36,3.36,12.0,61.8,Dark Horse
-156,17,Davidson Academy,TN,DII-AA,2,TSSAA Class DII-AA,4-6,4,6,0,10,41.9,41.9,-8.09,69.4,96,23.0,29.2,-6.2,6.24,6.24,6.24,22.0,115.4,Dark Horse
-157,25,Loudon,TN,4A,2,TSSAA Class 4A,7-4,7,4,0,11,41.4,41.4,-8.63,64.3,222,30.6,20.9,9.7,9.2,9.2,9.2,38.5,179.0,Dark Horse
-158,25,Northeast,TN,5A,3,TSSAA Class 5A,3-6,3,6,0,9,41.3,41.3,-8.66,67.2,151,20.9,25.1,-4.2,5.2,5.2,5.2,18.0,82.3,Dark Horse
-159,40,Stone Memorial,TN,6A,1,TSSAA Class 6A,3-6,3,6,0,9,41.2,41.2,-8.78,67.5,138,21.6,20.7,0.9,5.39,5.39,5.39,19.5,83.0,Playoff Bubble
-160,26,Cherokee,TN,4A,3,TSSAA Class 4A,6-5,6,5,0,11,41.2,41.2,-8.84,67.0,155,29.5,27.8,1.7,8.21,8.21,8.21,33.0,163.7,Dark Horse
-161,15,McMinn Central,TN,3A,4,TSSAA Class 3A,6-5,6,5,0,11,41.0,41.0,-9.04,66.4,172,27.0,25.5,1.5,7.86,7.86,7.86,30.0,161.3,Quarterfinal Contender
-162,26,Morristown-Hamblen West,TN,5A,3,TSSAA Class 5A,4-5,4,5,0,9,40.9,40.9,-9.09,69.5,95,27.6,28.8,-1.2,7.16,7.16,7.16,24.0,115.6,Dark Horse
-163,9,McEwen,TN,1A,1,TSSAA Class 1A,5-4,5,4,0,9,40.8,40.8,-9.22,62.0,279,27.9,16.6,11.3,6.9,6.9,6.9,20.0,120.2,Quarterfinal Contender
-164,19,Summertown,TN,2A,3,TSSAA Class 2A,7-3,7,3,0,10,40.8,40.8,-9.22,63.6,246,26.8,19.4,7.4,9.3,9.3,9.3,31.5,175.7,Dark Horse
-165,41,Heritage,TN,6A,2,TSSAA Class 6A,4-5,4,5,0,9,40.7,40.7,-9.26,69.8,82,29.2,32.4,-3.2,7.42,7.42,7.42,26.0,116.5,Playoff Bubble
-166,10,South Fulton,TN,1A,3,TSSAA Class 1A,8-1,8,1,0,9,40.5,40.5,-9.5,57.3,333,34.7,20.7,14.0,10.09,10.09,10.09,32.0,167.9,Quarterfinal Contender
-167,11,Fayetteville,TN,1A,2,TSSAA Class 1A,3-6,3,6,0,9,40.1,40.1,-9.89,65.6,197,21.8,28.7,-6.9,4.41,4.41,4.41,12.0,79.2,Quarterfinal Contender
-168,27,Chester County,TN,5A,4,TSSAA Class 5A,4-5,4,5,0,9,39.9,39.9,-10.11,66.8,158,23.6,27.8,-4.2,6.89,6.89,6.89,24.0,108.7,Dark Horse
-169,28,Brighton,TN,5A,3,TSSAA Class 5A,4-6,4,6,0,10,39.8,39.8,-10.17,69.1,103,20.9,28.3,-7.4,6.41,6.41,6.41,24.0,114.7,Dark Horse
-170,29,Lawrence County,TN,5A,1,TSSAA Class 5A,4-6,4,6,0,10,39.8,39.8,-10.23,69.2,100,20.4,26.7,-6.3,6.42,6.42,6.42,24.0,114.8,Dark Horse
-171,42,Providence Christian Academy,TN,6A,2,TSSAA Class 6A,6-3,6,3,0,9,39.6,39.6,-10.44,65.8,193,28.9,26.8,2.1,10.52,10.52,10.52,39.0,159.0,Playoff Bubble
-172,16,Gatlinburg-Pittman,TN,3A,2,TSSAA Class 3A,5-5,5,5,0,10,39.5,39.5,-10.51,61.9,282,35.2,27.4,7.8,6.7,6.7,6.7,25.0,120.1,Quarterfinal Contender
-173,20,York Institute,TN,2A,3,TSSAA Class 2A,4-7,4,7,0,11,39.2,39.2,-10.8,69.5,94,21.1,27.8,-6.7,5.32,5.32,5.32,18.0,115.7,Dark Horse
-174,17,Melrose,TN,3A,1,TSSAA Class 3A,4-4,4,4,0,8,38.5,38.5,-11.55,60.6,299,27.0,21.6,5.4,6.55,6.55,6.55,20.0,92.6,Dark Horse
-175,18,Arlington,TN,DII-AA,1,TSSAA Class DII-AA,5-4,5,4,0,9,38.4,38.4,-11.56,63.8,242,31.8,21.2,10.6,7.96,7.96,7.96,27.5,126.0,Dark Horse
-176,13,Volunteer,TN,DII-AAA,4,TSSAA Class DII-AAA,5-5,5,5,0,10,38.2,38.2,-11.78,64.0,238,31.6,25.4,6.2,7.69,7.69,7.69,32.5,126.8,Quarterfinal Contender
-177,27,East Ridge,TN,4A,4,TSSAA Class 4A,8-3,8,3,0,11,38.0,38.0,-12.03,58.3,326,38.6,15.9,22.7,9.51,9.51,9.51,44.0,173.1,Dark Horse
-178,30,Lawson,TN,5A,2,TSSAA Class 5A,4-5,4,5,0,9,37.9,37.9,-12.09,68.1,125,12.0,20.6,-8.6,7.03,7.03,7.03,24.0,112.2,Dark Horse
-179,19,St. George's,TN,DII-AA,3,TSSAA Class DII-AA,5-4,5,4,0,9,37.9,37.9,-12.09,64.2,228,25.7,19.3,6.4,8.01,8.01,8.01,27.5,127.4,Dark Horse
-180,31,Dickson County,TN,5A,2,TSSAA Class 5A,3-6,3,6,0,9,37.5,37.5,-12.47,68.3,121,17.6,21.7,-4.1,5.29,5.29,5.29,18.0,84.5,Dark Horse
-181,21,Eagleton College & Career Academy,TN,2A,1,TSSAA Class 2A,1-0,1,0,0,1,37.5,37.5,-12.49,61.4,287,24.6,24.0,0.6,12.79,12.79,12.79,4.5,23.7,Dark Horse
-182,43,Fayette Academy,TN,6A,2,TSSAA Class 6A,4-5,4,5,0,9,37.4,37.4,-12.58,64.9,211,24.4,24.2,0.2,6.92,6.92,6.92,26.0,103.6,Playoff Bubble
-183,28,South Gibson,TN,4A,3,TSSAA Class 4A,3-7,3,7,0,10,37.4,37.4,-12.6,69.7,86,16.4,28.4,-12.0,4.7,4.7,4.7,16.5,87.1,Dark Horse
-184,12,Greenfield,TN,1A,2,TSSAA Class 1A,6-4,6,4,0,10,36.9,36.9,-13.13,58.1,328,28.6,19.3,9.3,6.92,6.92,6.92,24.0,129.1,Quarterfinal Contender
-185,32,Soddy Daisy,TN,5A,3,TSSAA Class 5A,4-6,4,6,0,10,36.8,36.8,-13.23,68.4,119,20.2,30.9,-10.7,6.35,6.35,6.35,24.0,112.8,Dark Horse
-186,33,Shelbyville Central,TN,5A,2,TSSAA Class 5A,1-8,1,8,0,9,36.8,36.8,-13.23,72.3,51,18.1,32.7,-14.6,1.86,1.86,1.86,6.0,30.7,Playoff Bubble
-187,34,Hillsboro,TN,5A,4,TSSAA Class 5A,5-5,5,5,0,10,36.8,36.8,-13.24,70.2,76,17.1,23.4,-6.3,8.14,8.14,8.14,30.0,146.9,Playoff Bubble
-188,18,Scott,TN,3A,3,TSSAA Class 3A,5-4,5,4,0,9,36.4,36.4,-13.57,65.4,201,22.8,22.8,0.0,7.89,7.89,7.89,25.0,131.4,Dark Horse
-189,22,Trousdale County,TN,2A,2,TSSAA Class 2A,4-6,4,6,0,10,36.1,36.1,-13.91,65.6,196,21.2,23.0,-1.8,5.5,5.5,5.5,18.0,105.7,Dark Horse
-190,35,McNairy Central,TN,5A,4,TSSAA Class 5A,5-4,5,4,0,9,36.1,36.1,-13.91,65.8,192,26.1,34.1,-8.0,8.49,8.49,8.49,30.0,132.7,Playoff Bubble
-191,44,Rossview,TN,6A,2,TSSAA Class 6A,3-7,3,7,0,10,36.0,36.0,-14.03,69.7,84,12.1,22.5,-10.4,5.0,5.0,5.0,19.5,87.2,Playoff Bubble
-192,19,Stratford,TN,3A,1,TSSAA Class 3A,1-6,1,6,0,7,35.9,35.9,-14.1,67.9,131,9.7,25.6,-15.9,2.11,2.11,2.11,5.0,27.9,Dark Horse
+125,13,Grace Christian Academy-Franklin,TN,DII-AA,4,TSSAA Class DII-AA,6-5,6,5,0,11,47.4,47.4,-2.59,69.5,91,23.5,20.5,3.0,8.53,8.53,8.53,33.0,173.7,Quarterfinal Contender
+126,19,Spring Hill,TN,4A,3,TSSAA Class 4A,9-2,9,2,0,11,47.4,47.4,-2.64,64.7,217,30.0,10.9,19.1,11.88,11.88,11.88,49.5,232.0,Dark Horse
+127,20,Fulton,TN,4A,3,TSSAA Class 4A,5-6,5,6,0,11,47.2,47.2,-2.78,72.8,45,25.8,28.9,-3.1,7.44,7.44,7.44,27.5,155.4,Dark Horse
+128,33,Summit,TN,6A,4,TSSAA Class 6A,3-7,3,7,0,10,47.2,47.2,-2.82,73.5,33,17.4,23.4,-6.0,5.26,5.26,5.26,19.5,94.5,Playoff Bubble
+129,12,Jackson Central Merry,TN,2A,3,TSSAA Class 2A,6-5,6,5,0,11,47.0,47.0,-2.95,66.1,179,28.1,18.3,9.8,7.56,7.56,7.56,27.0,160.4,Quarterfinal Contender
+130,20,West,TN,5A,2,TSSAA Class 5A,5-6,5,6,0,11,46.8,46.8,-3.19,70.5,72,25.8,28.5,-2.7,7.43,7.43,7.43,30.0,147.9,Dark Horse
+131,7,Cosby,TN,1A,1,TSSAA Class 1A,10-1,10,1,0,11,46.7,46.7,-3.28,57.4,331,45.2,19.5,25.7,10.34,10.34,10.34,40.0,210.8,Semifinal Contender
+132,21,South-Doyle,TN,4A,3,TSSAA Class 4A,6-4,6,4,0,10,46.4,46.4,-3.63,69.0,107,26.5,23.1,3.4,9.31,9.31,9.31,33.0,171.6,Dark Horse
+133,22,Red Bank,TN,4A,4,TSSAA Class 4A,6-5,6,5,0,11,46.1,46.1,-3.93,67.6,137,24.9,18.0,6.9,8.28,8.28,8.28,33.0,166.1,Dark Horse
+134,13,Tellico Plains,TN,2A,3,TSSAA Class 2A,8-3,8,3,0,11,46.0,46.0,-4.0,64.1,234,32.8,19.3,13.5,9.73,9.73,9.73,36.0,203.1,Quarterfinal Contender
+135,14,Webb,TN,DII-AA,3,TSSAA Class DII-AA,2-9,2,9,0,11,45.7,45.7,-4.27,75.1,18,20.8,32.3,-11.5,3.07,3.07,3.07,11.0,65.1,Quarterfinal Contender
+136,14,Mitchell,TN,2A,4,TSSAA Class 2A,6-5,6,5,0,11,45.7,45.7,-4.29,60.8,294,32.7,8.2,24.5,6.9,6.9,6.9,27.0,139.7,Quarterfinal Contender
+137,15,Notre Dame,TN,DII-AA,3,TSSAA Class DII-AA,4-6,4,6,0,10,45.5,45.5,-4.52,72.1,54,26.0,27.7,-1.7,6.49,6.49,6.49,22.0,122.5,Quarterfinal Contender
+138,15,Riverside,TN,2A,4,TSSAA Class 2A,8-3,8,3,0,11,45.4,45.4,-4.64,65.6,199,28.0,18.0,10.0,9.98,9.98,9.98,36.0,210.9,Quarterfinal Contender
+139,34,Jefferson County,TN,6A,3,TSSAA Class 6A,5-6,5,6,0,11,45.3,45.3,-4.67,70.5,73,26.2,29.2,-3.0,7.66,7.66,7.66,32.5,147.9,Playoff Bubble
+140,21,David Crockett,TN,5A,2,TSSAA Class 5A,7-4,7,4,0,11,45.3,45.3,-4.74,67.3,150,26.6,19.9,6.7,9.95,9.95,9.95,42.0,192.6,Dark Horse
+141,16,Cannon County,TN,2A,1,TSSAA Class 2A,9-2,9,2,0,11,45.1,45.1,-4.88,60.1,304,36.0,12.2,23.8,10.22,10.22,10.22,40.5,205.5,Quarterfinal Contender
+142,15,Austin-East,TN,3A,2,TSSAA Class 3A,6-4,6,4,0,10,45.0,45.0,-5.05,66.2,177,34.0,27.5,6.5,8.63,8.63,8.63,30.0,160.8,Quarterfinal Contender
+143,35,Siegel,TN,6A,1,TSSAA Class 6A,3-7,3,7,0,10,44.6,44.6,-5.36,74.4,22,13.8,29.9,-16.1,5.32,5.32,5.32,19.5,96.4,Playoff Bubble
+144,36,Franklin,TN,6A,1,TSSAA Class 6A,6-5,6,5,0,11,44.6,44.6,-5.39,70.8,71,18.2,19.5,-1.3,9.23,9.23,9.23,39.0,178.6,Playoff Bubble
+145,37,White Station,TN,6A,2,TSSAA Class 6A,4-7,4,7,0,11,44.4,44.4,-5.64,71.8,58,18.4,22.5,-4.1,6.23,6.23,6.23,26.0,121.6,Playoff Bubble
+146,17,Grundy County,TN,2A,2,TSSAA Class 2A,7-4,7,4,0,11,43.8,43.8,-6.2,58.2,326,39.8,14.1,25.7,7.67,7.67,7.67,31.5,151.1,Dark Horse
+147,16,Pope John Paul II,TN,DII-AA,4,TSSAA Class DII-AA,2-9,2,9,0,11,43.8,43.8,-6.24,74.7,19,18.9,33.0,-14.1,3.06,3.06,3.06,11.0,64.6,Quarterfinal Contender
+148,38,West Ridge,TN,6A,3,TSSAA Class 6A,4-7,4,7,0,11,43.4,43.4,-6.59,70.9,70,25.9,31.5,-5.6,6.16,6.16,6.16,26.0,119.3,Playoff Bubble
+149,22,Donelson Christian Academy,TN,5A,3,TSSAA Class 5A,6-5,6,5,0,11,43.1,43.1,-6.94,63.9,241,28.2,19.9,8.3,8.1,8.1,8.1,36.0,151.7,Dark Horse
+150,18,Peabody,TN,2A,1,TSSAA Class 2A,5-5,5,5,0,10,42.9,42.9,-7.15,63.5,249,24.9,18.9,6.0,6.62,6.62,6.62,22.5,125.0,Dark Horse
+151,23,Lakeland Preparatory,TN,4A,1,TSSAA Class 4A,8-3,8,3,0,11,42.8,42.8,-7.2,64.9,210,38.3,22.4,15.9,10.6,10.6,10.6,44.0,207.4,Dark Horse
+152,24,Dyer County,TN,4A,2,TSSAA Class 4A,4-6,4,6,0,10,42.8,42.8,-7.24,69.3,97,25.0,33.9,-8.9,6.24,6.24,6.24,22.0,115.3,Dark Horse
+153,23,Centennial,TN,5A,3,TSSAA Class 5A,1-9,1,9,0,10,42.7,42.7,-7.27,73.9,25,8.7,24.1,-15.4,1.71,1.71,1.71,6.0,31.8,Dark Horse
+154,24,PURE Academy,TN,5A,3,TSSAA Class 5A,2-8,2,8,0,10,42.7,42.7,-7.29,73.8,28,15.4,34.4,-19.0,3.42,3.42,3.42,12.0,63.4,Dark Horse
+155,25,Tullahoma,TN,5A,1,TSSAA Class 5A,2-9,2,9,0,11,42.5,42.5,-7.53,72.5,49,12.5,25.6,-13.1,3.06,3.06,3.06,12.0,61.8,Dark Horse
+156,17,Davidson Academy,TN,DII-AA,1,TSSAA Class DII-AA,5-6,5,6,0,11,41.9,41.9,-8.09,69.4,96,24.1,29.0,-4.9,7.09,7.09,7.09,27.5,144.2,Dark Horse
+157,25,Loudon,TN,4A,1,TSSAA Class 4A,7-4,7,4,0,11,41.4,41.4,-8.63,64.3,222,30.6,20.9,9.7,9.2,9.2,9.2,38.5,179.0,Dark Horse
+158,26,Northeast,TN,5A,4,TSSAA Class 5A,5-6,5,6,0,11,41.3,41.3,-8.66,67.2,151,24.8,22.3,2.5,7.09,7.09,7.09,30.0,137.2,Dark Horse
+159,26,Stone Memorial,TN,4A,1,TSSAA Class 4A,3-7,3,7,0,10,41.2,41.2,-8.78,67.5,138,21.4,20.8,0.6,4.55,4.55,4.55,16.5,83.0,Dark Horse
+160,27,Cherokee,TN,4A,1,TSSAA Class 4A,6-5,6,5,0,11,41.2,41.2,-8.84,67.0,155,29.5,27.8,1.7,8.21,8.21,8.21,33.0,163.7,Dark Horse
+161,16,McMinn Central,TN,3A,3,TSSAA Class 3A,6-5,6,5,0,11,41.0,41.0,-9.04,66.4,172,27.0,25.5,1.5,7.86,7.86,7.86,30.0,161.3,Quarterfinal Contender
+162,27,Morristown-Hamblen West,TN,5A,4,TSSAA Class 5A,5-6,5,6,0,11,40.9,40.9,-9.09,69.5,95,25.6,30.2,-4.6,7.32,7.32,7.32,30.0,144.5,Dark Horse
+163,8,McEwen,TN,1A,4,TSSAA Class 1A,6-5,6,5,0,11,40.8,40.8,-9.22,62.0,278,26.8,19.8,7.0,6.77,6.77,6.77,24.0,144.3,Semifinal Contender
+164,19,Summertown,TN,2A,4,TSSAA Class 2A,8-3,8,3,0,11,40.8,40.8,-9.22,63.6,245,28.2,19.9,8.3,9.66,9.66,9.66,36.0,200.8,Dark Horse
+165,28,Heritage,TN,4A,2,TSSAA Class 4A,4-6,4,6,0,10,40.7,40.7,-9.26,69.8,82,27.7,31.3,-3.6,6.28,6.28,6.28,22.0,116.5,Dark Horse
+166,9,South Fulton,TN,1A,4,TSSAA Class 1A,10-1,10,1,0,11,40.5,40.5,-9.5,57.3,332,37.2,18.2,19.0,10.31,10.31,10.31,40.0,209.8,Quarterfinal Contender
+167,10,Fayetteville,TN,1A,1,TSSAA Class 1A,4-6,4,6,0,10,40.1,40.1,-9.89,65.6,197,22.3,26.8,-4.5,5.3,5.3,5.3,16.0,105.6,Quarterfinal Contender
+168,29,Chester County,TN,4A,1,TSSAA Class 4A,4-6,4,6,0,10,39.9,39.9,-10.11,66.8,158,22.7,27.0,-4.3,6.0,6.0,6.0,22.0,108.7,Dark Horse
+169,28,Brighton,TN,5A,1,TSSAA Class 5A,5-6,5,6,0,11,39.8,39.8,-10.17,69.1,103,23.5,27.5,-4.0,7.29,7.29,7.29,30.0,143.3,Dark Horse
+170,29,Lawrence County,TN,5A,1,TSSAA Class 5A,4-7,4,7,0,11,39.8,39.8,-10.23,69.2,100,21.4,27.7,-6.3,5.83,5.83,5.83,24.0,114.8,Dark Horse
+171,30,Providence Christian Academy,TN,5A,4,TSSAA Class 5A,7-4,7,4,0,11,39.6,39.6,-10.44,65.8,193,27.8,24.5,3.3,9.72,9.72,9.72,42.0,185.5,Dark Horse
+172,17,Gatlinburg-Pittman,TN,3A,1,TSSAA Class 3A,6-5,6,5,0,11,39.5,39.5,-10.51,61.9,281,35.6,26.8,8.8,7.31,7.31,7.31,30.0,144.1,Dark Horse
+173,20,York Institute,TN,2A,4,TSSAA Class 2A,4-7,4,7,0,11,39.2,39.2,-10.8,69.5,94,21.1,27.8,-6.7,5.32,5.32,5.32,18.0,115.7,Dark Horse
+174,18,Melrose,TN,3A,2,TSSAA Class 3A,6-4,6,4,0,10,38.5,38.5,-11.55,60.6,298,31.2,17.3,13.9,7.87,7.87,7.87,30.0,139.0,Dark Horse
+175,39,Arlington,TN,6A,2,TSSAA Class 6A,5-5,5,5,0,10,38.4,38.4,-11.56,63.8,242,29.2,23.2,6.0,7.66,7.66,7.66,32.5,126.0,Playoff Bubble
+176,30,Volunteer,TN,4A,2,TSSAA Class 4A,5-5,5,5,0,10,38.2,38.2,-11.78,64.0,238,31.6,25.4,6.2,7.19,7.19,7.19,27.5,126.8,Dark Horse
+177,31,East Ridge,TN,4A,1,TSSAA Class 4A,8-3,8,3,0,11,38.0,38.0,-12.03,58.3,325,38.6,15.9,22.7,9.51,9.51,9.51,44.0,173.1,Dark Horse
+178,31,Lawson,TN,5A,3,TSSAA Class 5A,6-5,6,5,0,11,37.9,37.9,-12.09,68.1,125,15.6,19.6,-4.0,8.62,8.62,8.62,36.0,168.2,Dark Horse
+179,18,St. George's,TN,DII-AA,3,TSSAA Class DII-AA,6-5,6,5,0,11,37.9,37.9,-12.09,64.2,228,23.8,20.9,2.9,7.86,7.86,7.86,33.0,152.8,Dark Horse
+180,32,Dickson County,TN,5A,2,TSSAA Class 5A,4-7,4,7,0,11,37.5,37.5,-12.47,68.3,121,17.3,20.8,-3.5,5.77,5.77,5.77,24.0,112.7,Dark Horse
+181,21,Eagleton College & Career Academy,TN,2A,1,TSSAA Class 2A,7-3,7,3,0,10,37.5,37.5,-12.49,61.4,286,30.4,19.6,10.8,8.95,8.95,8.95,31.5,165.7,Dark Horse
+182,32,Fayette Academy,TN,4A,4,TSSAA Class 4A,6-5,6,5,0,11,37.4,37.4,-12.58,64.9,211,24.1,23.7,0.4,7.95,7.95,7.95,33.0,155.5,Dark Horse
+183,33,South Gibson,TN,4A,2,TSSAA Class 4A,4-7,4,7,0,11,37.4,37.4,-12.6,69.7,86,19.3,26.4,-7.1,5.7,5.7,5.7,22.0,116.2,Playoff Bubble
+184,11,Greenfield,TN,1A,3,TSSAA Class 1A,7-4,7,4,0,11,36.9,36.9,-13.13,58.1,327,30.9,18.1,12.8,7.34,7.34,7.34,28.0,150.7,Quarterfinal Contender
+185,33,Soddy Daisy,TN,5A,1,TSSAA Class 5A,5-6,5,6,0,11,36.8,36.8,-13.23,68.4,119,20.8,29.6,-8.8,7.22,7.22,7.22,30.0,141.1,Playoff Bubble
+186,40,Shelbyville Central,TN,6A,4,TSSAA Class 6A,1-9,1,9,0,10,36.8,36.8,-13.23,72.3,51,18.5,33.7,-15.2,1.72,1.72,1.72,6.5,30.7,Playoff Bubble
+187,34,Hillsboro,TN,5A,2,TSSAA Class 5A,5-6,5,6,0,11,36.8,36.8,-13.24,70.2,76,15.5,23.6,-8.1,7.4,7.4,7.4,30.0,146.9,Playoff Bubble
+188,19,Scott,TN,3A,1,TSSAA Class 3A,5-5,5,5,0,10,36.4,36.4,-13.57,65.4,201,21.2,25.4,-4.2,7.1,7.1,7.1,25.0,131.4,Dark Horse
+189,22,Trousdale County,TN,2A,3,TSSAA Class 2A,4-7,4,7,0,11,36.1,36.1,-13.91,65.6,196,21.6,23.5,-1.9,5.0,5.0,5.0,18.0,105.7,Dark Horse
+190,20,McNairy Central,TN,3A,2,TSSAA Class 3A,6-4,6,4,0,10,36.1,36.1,-13.91,65.8,192,26.3,31.9,-5.6,8.57,8.57,8.57,30.0,159.2,Dark Horse
+191,41,Rossview,TN,6A,1,TSSAA Class 6A,4-7,4,7,0,11,36.0,36.0,-14.03,69.7,84,13.0,22.4,-9.4,6.06,6.06,6.06,26.0,116.3,Playoff Bubble
+192,21,Stratford,TN,3A,3,TSSAA Class 3A,4-7,4,7,0,11,35.9,35.9,-14.1,67.9,131,19.0,20.6,-1.6,5.37,5.37,5.37,20.0,111.5,Dark Horse
 193,23,Hickman County,TN,2A,3,TSSAA Class 2A,6-5,6,5,0,11,35.9,35.9,-14.12,65.7,195,23.5,25.2,-1.7,7.5,7.5,7.5,27.0,158.6,Dark Horse
-194,24,Lewis County,TN,2A,4,TSSAA Class 2A,2-7,2,7,0,9,35.8,35.8,-14.19,65.2,203,21.3,20.0,1.3,3.03,3.03,3.03,9.0,52.3,Dark Horse
-195,25,Jackson County,TN,2A,4,TSSAA Class 2A,6-5,6,5,0,11,35.8,35.8,-14.19,60.3,303,27.6,20.1,7.5,6.83,6.83,6.83,27.0,137.5,Dark Horse
-196,26,Union City,TN,2A,2,TSSAA Class 2A,5-6,5,6,0,11,35.7,35.7,-14.28,67.5,140,19.0,26.3,-7.3,6.44,6.44,6.44,22.5,138.0,Dark Horse
-197,20,Waverly Central,TN,3A,3,TSSAA Class 3A,5-5,5,5,0,10,35.3,35.3,-14.67,63.7,245,24.2,17.2,7.0,6.9,6.9,6.9,25.0,125.7,Dark Horse
-198,21,Westmoreland,TN,3A,3,TSSAA Class 3A,6-4,6,4,0,10,35.2,35.2,-14.76,63.4,251,25.0,22.7,2.3,8.24,8.24,8.24,30.0,149.6,Dark Horse
-199,13,Rockwood,TN,1A,3,TSSAA Class 1A,6-5,6,5,0,11,35.1,35.1,-14.85,61.6,284,28.5,23.9,4.6,6.73,6.73,6.73,24.0,142.8,Quarterfinal Contender
-200,36,Cascade,TN,5A,4,TSSAA Class 5A,3-6,3,6,0,9,35.0,35.0,-15.05,66.0,185,22.0,29.0,-7.0,5.11,5.11,5.11,18.0,80.0,Playoff Bubble
-201,20,Chattanooga Christian,TN,DII-AA,3,TSSAA Class DII-AA,2-8,2,8,0,10,34.9,34.9,-15.12,73.2,38,12.2,31.1,-18.9,3.29,3.29,3.29,11.0,62.7,Dark Horse
-202,29,Kirby,TN,4A,4,TSSAA Class 4A,4-4,4,4,0,8,34.8,34.8,-15.25,65.1,206,26.2,25.4,0.8,7.31,7.31,7.31,22.0,104.3,Dark Horse
-203,30,Stewarts Creek,TN,4A,4,TSSAA Class 4A,3-4,3,4,0,7,34.5,34.5,-15.47,72.3,52,14.4,28.6,-14.2,6.97,6.97,6.97,16.5,92.2,Dark Horse
-204,22,Watertown,TN,3A,2,TSSAA Class 3A,4-6,4,6,0,10,34.4,34.4,-15.63,67.7,134,18.3,28.5,-10.2,5.88,5.88,5.88,20.0,111.0,Dark Horse
-205,31,Maplewood,TN,4A,2,TSSAA Class 4A,3-5,3,5,0,8,34.2,34.2,-15.75,64.7,215,20.6,22.2,-1.6,5.45,5.45,5.45,16.5,77.4,Dark Horse
-206,32,Livingston Academy,TN,4A,1,TSSAA Class 4A,6-5,6,5,0,11,33.8,33.8,-16.16,64.1,235,21.4,19.5,1.9,7.85,7.85,7.85,33.0,152.3,Dark Horse
-207,37,Coffee County Central,TN,5A,3,TSSAA Class 5A,3-7,3,7,0,10,33.8,33.8,-16.25,70.0,77,17.9,30.8,-12.9,4.87,4.87,4.87,18.0,87.7,Playoff Bubble
-208,21,Hardin County,TN,DII-AA,3,TSSAA Class DII-AA,4-5,4,5,0,9,33.7,33.7,-16.28,68.1,126,21.0,29.9,-8.9,6.81,6.81,6.81,22.0,112.2,Dark Horse
-209,14,Jellico,TN,1A,4,TSSAA Class 1A,10-0,10,0,0,10,33.7,33.7,-16.29,54.2,348,40.9,12.9,28.0,10.65,10.65,10.65,40.0,190.1,Quarterfinal Contender
-210,15,Wayne County,TN,1A,2,TSSAA Class 1A,5-5,5,5,0,10,33.4,33.4,-16.6,64.0,237,20.5,24.6,-4.1,6.44,6.44,6.44,20.0,126.9,Quarterfinal Contender
-211,38,Northview Academy,TN,5A,2,TSSAA Class 5A,5-4,5,4,0,9,33.3,33.3,-16.73,66.7,162,24.4,27.9,-3.5,8.6,8.6,8.6,30.0,135.4,Playoff Bubble
-212,39,Ezell-Harding Christian,TN,5A,3,TSSAA Class 5A,6-4,6,4,0,10,33.3,33.3,-16.73,62.6,263,27.5,26.7,0.8,8.73,8.73,8.73,36.0,146.6,Playoff Bubble
-213,23,Stewart County,TN,3A,1,TSSAA Class 3A,7-2,7,2,0,9,33.1,33.1,-16.94,60.8,296,24.6,23.2,1.4,10.22,10.22,10.22,35.0,162.8,Dark Horse
-214,40,Liberty Tech Magnet,TN,5A,4,TSSAA Class 5A,7-1,7,1,0,8,33.0,33.0,-17.01,54.9,345,36.5,8.9,27.6,11.2,11.2,11.2,42.0,135.9,Playoff Bubble
+194,24,Lewis County,TN,2A,2,TSSAA Class 2A,2-8,2,8,0,10,35.8,35.8,-14.19,65.2,203,19.8,21.6,-1.8,2.73,2.73,2.73,9.0,52.3,Dark Horse
+195,25,Jackson County,TN,2A,1,TSSAA Class 2A,7-4,7,4,0,11,35.8,35.8,-14.19,60.3,302,27.7,20.6,7.1,7.97,7.97,7.97,31.5,160.4,Dark Horse
+196,26,Union City,TN,2A,1,TSSAA Class 2A,5-6,5,6,0,11,35.7,35.7,-14.28,67.5,140,19.0,26.3,-7.3,6.44,6.44,6.44,22.5,138.0,Dark Horse
+197,22,Waverly Central,TN,3A,4,TSSAA Class 3A,5-6,5,6,0,11,35.3,35.3,-14.67,63.7,244,22.5,19.5,3.0,6.27,6.27,6.27,25.0,125.7,Dark Horse
+198,23,Westmoreland,TN,3A,1,TSSAA Class 3A,6-5,6,5,0,11,35.2,35.2,-14.76,63.4,250,26.5,24.5,2.0,7.49,7.49,7.49,30.0,149.6,Dark Horse
+199,12,Rockwood,TN,1A,1,TSSAA Class 1A,6-5,6,5,0,11,35.1,35.1,-14.85,61.6,283,28.5,23.9,4.6,6.73,6.73,6.73,24.0,142.8,Quarterfinal Contender
+200,24,Cascade,TN,3A,4,TSSAA Class 3A,4-6,4,6,0,10,35.0,35.0,-15.05,66.0,185,25.4,26.1,-0.7,5.73,5.73,5.73,20.0,106.6,Dark Horse
+201,19,Chattanooga Christian,TN,DII-AA,4,TSSAA Class DII-AA,2-8,2,8,0,10,34.9,34.9,-15.12,73.2,38,12.2,31.1,-18.9,3.29,3.29,3.29,11.0,62.7,Dark Horse
+202,34,Kirby,TN,4A,2,TSSAA Class 4A,5-6,5,6,0,11,34.8,34.8,-15.25,65.1,206,27.5,26.2,1.3,6.65,6.65,6.65,27.5,130.4,Playoff Bubble
+203,42,Stewarts Creek,TN,6A,4,TSSAA Class 6A,3-7,3,7,0,10,34.5,34.5,-15.47,72.3,52,12.8,31.5,-18.7,5.18,5.18,5.18,19.5,92.2,Playoff Bubble
+204,25,Watertown,TN,3A,2,TSSAA Class 3A,4-7,4,7,0,11,34.4,34.4,-15.63,67.7,134,17.9,30.4,-12.5,5.35,5.35,5.35,20.0,111.0,Dark Horse
+205,26,Maplewood,TN,3A,1,TSSAA Class 3A,4-6,4,6,0,10,34.2,34.2,-15.75,64.7,215,20.3,22.4,-2.1,5.61,5.61,5.61,20.0,103.2,Dark Horse
+206,35,Livingston Academy,TN,4A,3,TSSAA Class 4A,6-5,6,5,0,11,33.8,33.8,-16.16,64.1,235,21.4,19.5,1.9,7.85,7.85,7.85,33.0,152.3,Playoff Bubble
+207,43,Coffee County Central,TN,6A,2,TSSAA Class 6A,3-7,3,7,0,10,33.8,33.8,-16.25,70.0,77,17.9,30.8,-12.9,5.02,5.02,5.02,19.5,87.7,Playoff Bubble
+208,36,Hardin County,TN,4A,1,TSSAA Class 4A,4-6,4,6,0,10,33.7,33.7,-16.28,68.1,126,19.9,33.2,-13.3,6.13,6.13,6.13,22.0,112.2,Playoff Bubble
+209,13,Jellico,TN,1A,1,TSSAA Class 1A,10-1,10,1,0,11,33.7,33.7,-16.29,54.2,347,39.1,15.7,23.4,9.69,9.69,9.69,40.0,190.1,Quarterfinal Contender
+210,14,Wayne County,TN,1A,1,TSSAA Class 1A,5-6,5,6,0,11,33.4,33.4,-16.6,64.0,237,20.7,27.3,-6.6,5.86,5.86,5.86,20.0,126.9,Quarterfinal Contender
+211,37,Northview Academy,TN,4A,2,TSSAA Class 4A,5-5,5,5,0,10,33.3,33.3,-16.73,66.7,162,22.7,30.0,-7.3,7.49,7.49,7.49,27.5,135.4,Playoff Bubble
+212,38,Ezell-Harding Christian,TN,4A,4,TSSAA Class 4A,6-5,6,5,0,11,33.3,33.3,-16.73,62.6,262,26.3,26.2,0.1,7.66,7.66,7.66,33.0,146.6,Playoff Bubble
+213,27,Stewart County,TN,3A,3,TSSAA Class 3A,9-2,9,2,0,11,33.1,33.1,-16.94,60.8,295,27.3,20.3,7.0,10.75,10.75,10.75,45.0,209.3,Dark Horse
+214,28,Liberty Tech Magnet,TN,3A,4,TSSAA Class 3A,7-3,7,3,0,10,33.0,33.0,-17.01,54.9,344,31.0,14.1,16.9,8.26,8.26,8.26,35.0,135.9,Dark Horse
 215,27,Oneida,TN,2A,3,TSSAA Class 2A,5-6,5,6,0,11,33.0,33.0,-17.02,66.5,170,17.5,26.7,-9.2,6.33,6.33,6.33,22.5,134.8,Dark Horse
-216,16,Eagleville,TN,1A,3,TSSAA Class 1A,7-3,7,3,0,10,33.0,33.0,-17.04,60.7,298,24.3,17.4,6.9,8.48,8.48,8.48,28.0,162.3,Quarterfinal Contender
-217,33,Creek Wood,TN,4A,2,TSSAA Class 4A,4-6,4,6,0,10,32.9,32.9,-17.13,67.9,129,15.8,25.9,-10.1,6.11,6.11,6.11,22.0,111.6,Playoff Bubble
-218,45,Farragut,TN,6A,4,TSSAA Class 6A,1-7,1,7,0,8,32.7,32.7,-17.34,75.6,15,5.2,32.9,-27.7,2.25,2.25,2.25,6.5,32.9,Playoff Bubble
-219,17,Hampton,TN,1A,3,TSSAA Class 1A,6-4,6,4,0,10,32.6,32.6,-17.36,58.3,324,40.4,22.0,18.4,6.95,6.95,6.95,24.0,130.0,Dark Horse
-220,46,Cordova,TN,6A,1,TSSAA Class 6A,4-6,4,6,0,10,32.5,32.5,-17.51,68.7,110,15.2,26.3,-11.1,6.57,6.57,6.57,26.0,113.5,Playoff Bubble
-221,28,Mt. Pleasant,TN,2A,2,TSSAA Class 2A,4-5,4,5,0,9,32.2,32.2,-17.75,63.6,247,23.6,35.9,-12.3,5.9,5.9,5.9,18.0,100.3,Dark Horse
-222,41,The King's Academy,TN,5A,2,TSSAA Class 5A,8-2,8,2,0,10,32.2,32.2,-17.79,58.9,318,33.8,20.3,13.5,10.97,10.97,10.97,48.0,176.2,Playoff Bubble
-223,24,Bolton,TN,3A,2,TSSAA Class 3A,7-3,7,3,0,10,32.2,32.2,-17.81,59.2,312,18.3,12.4,5.9,8.94,8.94,8.94,35.0,155.5,Dark Horse
-224,18,Perry County,TN,1A,3,TSSAA Class 1A,5-5,5,5,0,10,31.8,31.8,-18.16,60.9,293,37.1,37.6,-0.5,6.08,6.08,6.08,20.0,116.7,Dark Horse
+216,15,Eagleville,TN,1A,3,TSSAA Class 1A,7-4,7,4,0,11,33.0,33.0,-17.04,60.7,297,23.0,18.3,4.7,7.71,7.71,7.71,28.0,162.3,Quarterfinal Contender
+217,39,Creek Wood,TN,4A,4,TSSAA Class 4A,4-7,4,7,0,11,32.9,32.9,-17.13,67.9,129,15.0,27.6,-12.6,5.55,5.55,5.55,22.0,111.6,Playoff Bubble
+218,44,Farragut,TN,6A,2,TSSAA Class 6A,1-9,1,9,0,10,32.7,32.7,-17.34,75.6,15,4.9,33.3,-28.4,1.8,1.8,1.8,6.5,32.9,Playoff Bubble
+219,16,Hampton,TN,1A,4,TSSAA Class 1A,6-5,6,5,0,11,32.6,32.6,-17.36,58.3,323,38.2,22.4,15.8,6.32,6.32,6.32,24.0,130.0,Quarterfinal Contender
+220,45,Cordova,TN,6A,1,TSSAA Class 6A,4-7,4,7,0,11,32.5,32.5,-17.51,68.7,110,14.5,27.7,-13.2,5.97,5.97,5.97,26.0,113.5,Playoff Bubble
+221,28,Mt. Pleasant,TN,2A,1,TSSAA Class 2A,6-5,6,5,0,11,32.2,32.2,-17.75,63.6,246,25.6,30.2,-4.6,7.24,7.24,7.24,27.0,150.4,Dark Horse
+222,29,The King's Academy,TN,3A,2,TSSAA Class 3A,8-2,8,2,0,10,32.2,32.2,-17.79,58.9,317,34.7,19.7,15.0,10.17,10.17,10.17,40.0,176.2,Dark Horse
+223,30,Bolton,TN,3A,4,TSSAA Class 3A,8-3,8,3,0,11,32.2,32.2,-17.81,59.2,311,18.5,12.5,6.0,9.29,9.29,9.29,40.0,177.7,Dark Horse
+224,17,Perry County,TN,1A,1,TSSAA Class 1A,6-5,6,5,0,11,31.8,31.8,-18.16,60.9,292,38.6,36.3,2.3,6.64,6.64,6.64,24.0,140.1,Dark Horse
 225,29,Houston County,TN,2A,3,TSSAA Class 2A,5-6,5,6,0,11,31.8,31.8,-18.24,66.7,163,16.5,30.2,-13.7,6.35,6.35,6.35,22.5,135.4,Dark Horse
-226,34,DeKalb County,TN,4A,2,TSSAA Class 4A,4-6,4,6,0,10,31.6,31.6,-18.38,68.5,115,9.0,23.9,-14.9,6.16,6.16,6.16,22.0,113.2,Playoff Bubble
-227,47,Halls-Nashville,TN,6A,4,TSSAA Class 6A,0-0,0,0,0,1,31.2,31.2,-18.76,66.2,176,12.4,34.0,-21.6,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-228,19,Huntland,TN,1A,3,TSSAA Class 1A,5-5,5,5,0,10,31.2,31.2,-18.8,62.5,268,23.9,24.6,-0.7,6.26,6.26,6.26,20.0,121.8,Dark Horse
-229,35,St. Benedict at Auburndale,TN,4A,4,TSSAA Class 4A,1-4,1,4,0,5,30.4,30.4,-19.56,66.8,157,12.4,35.0,-22.6,3.0,3.0,3.0,5.5,27.2,Playoff Bubble
-230,48,Cane Ridge,TN,6A,1,TSSAA Class 6A,4-4,4,4,0,8,30.4,30.4,-19.61,64.7,216,20.6,24.8,-4.2,7.76,7.76,7.76,26.0,103.2,Playoff Bubble
-231,30,Warren County,TN,2A,2,TSSAA Class 2A,5-4,5,4,0,9,30.4,30.4,-19.63,60.5,301,26.9,20.8,6.1,6.99,6.99,6.99,22.5,115.4,Dark Horse
-232,25,Cheatham County Central,TN,3A,2,TSSAA Class 3A,7-3,7,3,0,10,30.4,30.4,-19.64,59.1,313,37.2,28.8,8.4,8.94,8.94,8.94,35.0,155.3,Dark Horse
-233,26,White House-Heritage,TN,3A,4,TSSAA Class 3A,4-5,4,5,0,9,30.3,30.3,-19.74,62.4,270,26.3,25.2,1.1,6.0,6.0,6.0,20.0,97.2,Dark Horse
-234,27,Bolivar Central,TN,3A,3,TSSAA Class 3A,3-5,3,5,0,8,30.2,30.2,-19.77,67.1,152,17.1,37.2,-20.1,5.47,5.47,5.47,15.0,82.2,Dark Horse
-235,20,Cloudland,TN,1A,1,TSSAA Class 1A,4-6,4,6,0,10,30.2,30.2,-19.77,60.9,294,30.2,32.0,-1.8,4.86,4.86,4.86,16.0,93.2,Dark Horse
-236,42,Clinton,TN,5A,1,TSSAA Class 5A,2-6,2,6,0,8,30.2,30.2,-19.77,68.2,123,27.8,40.0,-12.2,3.96,3.96,3.96,12.0,56.2,Playoff Bubble
-237,36,White House,TN,4A,3,TSSAA Class 4A,2-8,2,8,0,10,30.2,30.2,-19.82,66.6,165,17.7,30.9,-13.2,2.99,2.99,2.99,11.0,54.1,Playoff Bubble
-238,14,Karns,TN,DII-AAA,1,TSSAA Class DII-AAA,2-5,2,5,0,7,30.1,30.1,-19.91,67.4,144,16.1,37.0,-20.9,4.61,4.61,4.61,13.0,55.1,Quarterfinal Contender
-239,37,Montgomery Central,TN,4A,4,TSSAA Class 4A,4-4,4,4,0,8,30.0,30.0,-20.02,62.0,281,25.8,26.6,-0.8,6.95,6.95,6.95,22.0,96.1,Playoff Bubble
-240,28,Carter,TN,3A,2,TSSAA Class 3A,1-9,1,9,0,10,29.8,29.8,-20.21,71.9,55,16.0,38.9,-22.9,1.57,1.57,1.57,5.0,30.5,Dark Horse
-241,38,Franklin Christian Academy,TN,4A,3,TSSAA Class 4A,5-6,5,6,0,11,29.8,29.8,-20.23,61.4,288,24.8,26.3,-1.5,6.26,6.26,6.26,27.5,118.3,Playoff Bubble
-242,22,Harding Academy,TN,DII-AA,2,TSSAA Class DII-AA,3-6,3,6,0,9,29.7,29.7,-20.26,65.9,188,12.0,29.6,-17.6,4.93,4.93,4.93,16.5,79.7,Dark Horse
-243,21,Dresden,TN,1A,2,TSSAA Class 1A,5-4,5,4,0,9,29.6,29.6,-20.42,61.3,290,21.3,25.9,-4.6,6.81,6.81,6.81,20.0,117.9,Dark Horse
-244,39,Harpeth,TN,4A,2,TSSAA Class 4A,1-7,1,7,0,8,29.2,29.2,-20.83,65.8,191,20.5,29.5,-9.0,1.85,1.85,1.85,5.5,26.6,Playoff Bubble
-245,43,Overton,TN,5A,1,TSSAA Class 5A,6-11,6,11,0,17,29.1,29.1,-20.86,65.6,198,16.2,32.2,-16.0,5.37,5.37,5.37,36.0,158.2,Playoff Bubble
-246,22,Midway,TN,1A,2,TSSAA Class 1A,4-5,4,5,0,9,28.8,28.8,-21.23,62.2,275,23.1,32.6,-9.5,5.55,5.55,5.55,16.0,96.9,Dark Horse
-247,40,Camden Central,TN,4A,1,TSSAA Class 4A,1-7,1,7,0,8,28.6,28.6,-21.41,67.8,133,18.2,39.6,-21.4,1.9,1.9,1.9,5.5,27.8,Playoff Bubble
-248,23,Middle College,TN,1A,2,TSSAA Class 1A,3-2,3,2,0,5,28.6,28.6,-21.43,54.4,347,25.2,24.2,1.0,6.41,6.41,6.41,12.0,57.3,Dark Horse
-249,44,Columbia Academy,TN,5A,4,TSSAA Class 5A,2-8,2,8,0,10,28.5,28.5,-21.54,71.2,67,13.6,36.0,-22.4,3.3,3.3,3.3,12.0,60.1,Playoff Bubble
-250,41,Richland,TN,4A,2,TSSAA Class 4A,2-7,2,7,0,9,28.4,28.4,-21.56,62.7,262,16.6,25.0,-8.4,3.13,3.13,3.13,11.0,49.0,Playoff Bubble
-251,42,Millington Central,TN,4A,3,TSSAA Class 4A,1-8,1,8,0,9,27.9,27.9,-22.12,67.0,154,11.0,35.4,-24.4,1.67,1.67,1.67,5.5,27.3,Playoff Bubble
-252,49,Lenoir City,TN,6A,4,TSSAA Class 6A,3-6,3,6,0,9,27.8,27.8,-22.16,68.6,112,18.4,39.1,-20.7,5.47,5.47,5.47,19.5,85.0,Rebuilding
-253,43,Ooltewah,TN,4A,4,TSSAA Class 4A,2-8,2,8,0,10,27.7,27.7,-22.3,68.6,114,23.1,39.8,-16.7,3.08,3.08,3.08,11.0,56.6,Playoff Bubble
-254,29,Pigeon Forge,TN,3A,1,TSSAA Class 3A,4-6,4,6,0,10,27.4,27.4,-22.61,62.2,276,19.7,28.6,-8.9,5.39,5.39,5.39,20.0,96.8,Dark Horse
-255,44,Providence Academy,TN,4A,1,TSSAA Class 4A,4-7,4,7,0,11,27.3,27.3,-22.67,63.1,254,21.6,25.1,-3.5,5.15,5.15,5.15,22.0,99.1,Playoff Bubble
-256,24,Whitwell,TN,1A,4,TSSAA Class 1A,5-4,5,4,0,9,27.1,27.1,-22.88,60.5,300,27.8,24.2,3.6,6.71,6.71,6.71,20.0,115.5,Dark Horse
-257,45,Fayette Ware,TN,4A,1,TSSAA Class 4A,3-5,3,5,0,8,26.9,26.9,-23.08,62.5,266,20.5,21.9,-1.4,5.26,5.26,5.26,16.5,73.1,Playoff Bubble
-258,46,Tipton-Rosemark Academy,TN,4A,4,TSSAA Class 4A,1-7,1,7,0,8,26.8,26.8,-23.19,68.3,122,11.9,35.6,-23.7,1.92,1.92,1.92,5.5,28.1,Playoff Bubble
-259,30,Obion County,TN,3A,3,TSSAA Class 3A,4-5,4,5,0,9,26.8,26.8,-23.25,62.8,261,25.0,33.9,-8.9,6.04,6.04,6.04,20.0,98.2,Dark Horse
-260,31,East Hamilton,TN,2A,4,TSSAA Class 2A,3-7,3,7,0,10,26.6,26.6,-23.41,65.7,194,19.4,33.2,-13.8,4.13,4.13,4.13,13.5,79.3,Dark Horse
-261,50,Bearden,TN,6A,1,TSSAA Class 6A,0-8,0,8,0,8,26.6,26.6,-23.45,76.5,14,5.4,36.8,-31.4,0.0,0.0,0.0,0.0,0.0,Rebuilding
-262,31,Chuckey-Doak,TN,3A,3,TSSAA Class 3A,4-5,4,5,0,9,26.4,26.4,-23.57,60.2,304,27.8,28.1,-0.3,5.78,5.78,5.78,20.0,91.6,Dark Horse
-263,45,Kenwood,TN,5A,2,TSSAA Class 5A,2-5,2,5,0,7,26.3,26.3,-23.68,66.3,174,13.1,31.6,-18.5,4.39,4.39,4.39,12.0,53.6,Playoff Bubble
-264,47,Signal Mountain,TN,4A,2,TSSAA Class 4A,4-7,4,7,0,11,26.0,26.0,-24.0,62.9,259,22.2,25.5,-3.3,5.14,5.14,5.14,22.0,98.6,Playoff Bubble
-265,32,Cumberland Gap,TN,2A,2,TSSAA Class 2A,7-4,7,4,0,11,25.6,25.6,-24.36,58.6,323,25.4,22.3,3.1,7.72,7.72,7.72,31.5,152.7,Dark Horse
-266,23,Overton-Nashville,TN,DII-AA,1,TSSAA Class DII-AA,0-0,0,0,0,1,25.4,25.4,-24.6,66.3,173,10.4,35.9,-25.5,0.0,0.0,0.0,0.0,0.0,Dark Horse
-267,15,Smith County,TN,DII-AAA,1,TSSAA Class DII-AAA,2-7,2,7,0,9,24.9,24.9,-25.11,64.8,212,12.3,23.7,-11.4,3.46,3.46,3.46,13.0,51.8,Quarterfinal Contender
-268,25,Clay County,TN,1A,4,TSSAA Class 1A,4-5,4,5,0,9,24.7,24.7,-25.31,59.4,311,27.8,25.2,2.6,5.26,5.26,5.26,16.0,89.5,Dark Horse
-269,32,Franklin County,TN,3A,4,TSSAA Class 3A,2-7,2,7,0,9,24.4,24.4,-25.62,66.0,183,23.7,30.8,-7.1,3.18,3.18,3.18,10.0,53.3,Dark Horse
-270,24,Northpoint Christian,TN,DII-AA,2,TSSAA Class DII-AA,7-3,7,3,0,10,24.4,24.4,-25.62,56.2,339,13.8,33.1,-19.3,8.82,8.82,8.82,38.5,142.0,Dark Horse
-271,26,Jo Byrns,TN,1A,2,TSSAA Class 1A,7-3,7,3,0,10,24.3,24.3,-25.66,53.0,353,35.4,18.8,16.6,7.25,7.25,7.25,28.0,127.2,Dark Horse
-272,33,Memphis Business Academy,TN,2A,1,TSSAA Class 2A,0-4,0,4,0,4,23.6,23.6,-26.41,66.5,168,3.5,52.5,-49.0,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-273,33,LaVergne,TN,3A,4,TSSAA Class 3A,0-9,0,9,0,9,23.6,23.6,-26.43,72.7,48,5.1,39.9,-34.8,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-274,34,Hillcrest,TN,3A,1,TSSAA Class 3A,1-1,1,1,0,2,23.5,23.5,-26.47,56.9,335,14.7,32.5,-17.8,6.12,6.12,6.12,5.0,20.7,Playoff Bubble
-275,34,Polk County,TN,2A,4,TSSAA Class 2A,1-10,1,10,0,11,23.4,23.4,-26.58,68.9,108,6.6,32.4,-25.8,1.32,1.32,1.32,4.5,28.5,Playoff Bubble
-276,35,Battle Creek,TN,3A,1,TSSAA Class 3A,2-8,2,8,0,10,23.4,23.4,-26.64,66.2,175,26.2,40.2,-14.0,2.88,2.88,2.88,10.0,53.6,Playoff Bubble
-277,36,Morristown-Hamblen East,TN,3A,4,TSSAA Class 3A,1-8,1,8,0,9,22.8,22.8,-27.18,70.4,74,12.2,34.9,-22.7,1.7,1.7,1.7,5.0,29.5,Playoff Bubble
-278,46,Portland,TN,5A,1,TSSAA Class 5A,2-8,2,8,0,10,22.8,22.8,-27.21,69.5,90,13.7,40.6,-26.9,3.23,3.23,3.23,12.0,57.9,Playoff Bubble
-279,37,Grainger,TN,3A,3,TSSAA Class 3A,2-8,2,8,0,10,22.5,22.5,-27.54,65.5,200,20.0,36.6,-16.6,2.84,2.84,2.84,10.0,52.7,Playoff Bubble
-280,16,William Blount,TN,DII-AAA,4,TSSAA Class DII-AAA,0-9,0,9,0,9,22.0,22.0,-27.99,67.9,130,13.1,41.9,-28.8,0.0,0.0,0.0,0.0,0.0,Quarterfinal Contender
-281,47,Daniel Boone,TN,5A,1,TSSAA Class 5A,2-7,2,7,0,9,22.0,22.0,-28.04,67.3,146,14.6,34.9,-20.3,3.47,3.47,3.47,12.0,55.0,Playoff Bubble
-282,38,Wartburg Central,TN,3A,2,TSSAA Class 3A,3-6,3,6,0,9,21.0,21.0,-28.99,61.4,286,15.2,27.6,-12.4,4.43,4.43,4.43,15.0,71.0,Playoff Bubble
-283,27,Harriman,TN,1A,1,TSSAA Class 1A,1-8,1,8,0,9,20.2,20.2,-29.78,64.1,233,17.4,39.1,-21.7,1.43,1.43,1.43,4.0,25.4,Dark Horse
-284,28,Wilson Central,TN,1A,2,TSSAA Class 1A,0-10,0,10,0,10,20.2,20.2,-29.83,69.1,101,3.8,30.3,-26.5,0.0,0.0,0.0,0.0,0.0,Dark Horse
-285,39,Wooddale,TN,3A,4,TSSAA Class 3A,4-6,4,6,0,10,20.0,20.0,-29.99,59.9,307,14.1,25.7,-11.6,5.17,5.17,5.17,20.0,90.7,Playoff Bubble
-286,35,South Greene,TN,2A,2,TSSAA Class 2A,2-8,2,8,0,10,19.5,19.5,-30.49,61.8,283,17.8,32.8,-15.0,2.57,2.57,2.57,9.0,47.8,Playoff Bubble
-287,40,Greenbrier,TN,3A,2,TSSAA Class 3A,1-7,1,7,0,8,19.2,19.2,-30.78,67.4,142,12.8,34.5,-21.7,1.83,1.83,1.83,5.0,27.6,Playoff Bubble
-288,29,Westwood,TN,1A,2,TSSAA Class 1A,3-3,3,3,0,6,18.4,18.4,-31.61,51.9,354,20.7,15.2,5.5,5.06,5.06,5.06,12.0,52.4,Dark Horse
-289,30,Oakhaven,TN,1A,4,TSSAA Class 1A,3-5,3,5,0,8,18.3,18.3,-31.72,55.4,343,19.6,23.4,-3.8,4.09,4.09,4.09,12.0,59.3,Dark Horse
-290,48,Ripley,TN,5A,3,TSSAA Class 5A,1-6,1,6,0,7,18.1,18.1,-31.87,67.4,143,15.9,34.6,-18.7,2.24,2.24,2.24,6.0,27.6,Playoff Bubble
-291,31,Sale Creek,TN,1A,1,TSSAA Class 1A,6-5,6,5,0,11,17.0,17.0,-33.04,53.0,352,27.2,20.0,7.2,5.66,5.66,5.66,24.0,109.4,Dark Horse
-292,36,Monterey,TN,2A,1,TSSAA Class 2A,2-8,2,8,0,10,16.6,16.6,-33.41,63.0,258,14.1,31.0,-16.9,2.63,2.63,2.63,9.0,49.4,Playoff Bubble
-293,37,North Greene,TN,2A,1,TSSAA Class 2A,2-6,2,6,0,8,15.8,15.8,-34.16,56.8,336,27.0,42.5,-15.5,2.94,2.94,2.94,9.0,41.4,Playoff Bubble
-294,38,West Greene,TN,2A,2,TSSAA Class 2A,1-9,1,9,0,10,15.3,15.3,-34.69,63.6,248,15.5,35.3,-19.8,1.33,1.33,1.33,4.5,25.1,Playoff Bubble
-295,51,Collinwood,TN,6A,2,TSSAA Class 6A,2-8,2,8,0,10,15.1,15.1,-34.92,62.3,274,19.0,37.3,-18.3,2.99,2.99,2.99,13.0,48.4,Rebuilding
-296,41,Raleigh-Egypt,TN,3A,3,TSSAA Class 3A,2-4,2,4,0,6,15.1,15.1,-34.94,57.7,330,11.7,32.7,-21.0,4.15,4.15,4.15,10.0,42.5,Playoff Bubble
-297,39,Northwest,TN,2A,1,TSSAA Class 2A,2-5,2,5,0,7,14.4,14.4,-35.56,64.2,224,11.6,24.4,-12.8,3.84,3.84,3.84,9.0,51.0,Playoff Bubble
-298,40,Union County,TN,2A,1,TSSAA Class 2A,1-9,1,9,0,10,13.9,13.9,-36.09,69.3,98,18.2,49.4,-31.2,1.46,1.46,1.46,4.5,28.8,Playoff Bubble
-299,32,Oliver Springs,TN,1A,3,TSSAA Class 1A,1-8,1,8,0,9,13.5,13.5,-36.45,62.4,272,14.9,33.2,-18.3,1.39,1.39,1.39,4.0,24.3,Dark Horse
-300,33,Jackson South Side,TN,1A,1,TSSAA Class 1A,0-9,0,9,0,9,13.3,13.3,-36.68,69.6,88,5.0,44.1,-39.1,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-301,52,Kingsbury,TN,6A,2,TSSAA Class 6A,2-5,2,5,0,7,13.0,13.0,-37.01,61.5,285,22.3,33.9,-11.6,4.23,4.23,4.23,13.0,47.5,Rebuilding
-302,41,Sycamore,TN,2A,3,TSSAA Class 2A,1-8,1,8,0,9,13.0,13.0,-37.05,64.2,225,11.6,46.8,-35.2,1.49,1.49,1.49,4.5,25.5,Playoff Bubble
-303,42,Hollow Rock-Bruceton Central,TN,2A,3,TSSAA Class 2A,4-6,4,6,0,10,12.7,12.7,-37.28,58.9,319,18.0,32.4,-14.4,4.88,4.88,4.88,18.0,88.1,Playoff Bubble
-304,17,Sullivan East,TN,DII-AAA,1,TSSAA Class DII-AAA,0-9,0,9,0,9,12.4,12.4,-37.57,65.9,187,14.4,47.9,-33.5,0.0,0.0,0.0,0.0,0.0,Dark Horse
-305,34,Lake County,TN,1A,2,TSSAA Class 1A,3-5,3,5,0,8,12.3,12.3,-37.73,58.9,320,16.6,26.6,-10.0,4.39,4.39,4.39,12.0,66.0,Playoff Bubble
-306,43,Grace Baptist Academy,TN,2A,4,TSSAA Class 2A,2-7,2,7,0,9,12.0,12.0,-38.04,64.2,226,15.0,41.6,-26.6,2.98,2.98,2.98,9.0,51.0,Playoff Bubble
-307,44,East Hickman County,TN,2A,3,TSSAA Class 2A,0-9,0,9,0,9,12.0,12.0,-38.05,68.5,117,4.9,37.2,-32.3,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-308,48,West Creek,TN,4A,1,TSSAA Class 4A,1-6,1,6,0,7,11.5,11.5,-38.53,65.2,204,13.7,40.7,-27.0,2.09,2.09,2.09,5.5,26.1,Playoff Bubble
-309,35,Loretto,TN,1A,3,TSSAA Class 1A,1-7,1,7,0,8,11.1,11.1,-38.87,64.1,232,15.5,39.2,-23.7,1.61,1.61,1.61,4.0,25.4,Playoff Bubble
-310,36,Moore County,TN,1A,1,TSSAA Class 1A,1-8,1,8,0,9,10.8,10.8,-39.24,62.3,273,8.1,29.3,-21.2,1.39,1.39,1.39,4.0,24.3,Playoff Bubble
-311,37,Sequoyah,TN,1A,3,TSSAA Class 1A,2-8,2,8,0,10,10.5,10.5,-39.46,64.1,236,7.0,32.5,-25.5,2.58,2.58,2.58,8.0,50.8,Playoff Bubble
-312,49,Hixson,TN,4A,4,TSSAA Class 4A,1-9,1,9,0,10,9.9,9.9,-40.1,62.9,260,12.1,33.5,-21.4,1.41,1.41,1.41,5.5,24.6,Rebuilding
-313,45,Trezevant,TN,2A,1,TSSAA Class 2A,1-2,1,2,0,3,9.8,9.8,-40.2,58.8,321,12.7,39.3,-26.6,4.07,4.07,4.07,4.5,22.0,Playoff Bubble
-314,38,Zion Christian Academy,TN,1A,2,TSSAA Class 1A,1-6,1,6,0,7,8.9,8.9,-41.09,58.3,325,13.4,32.9,-19.5,1.65,1.65,1.65,4.0,21.6,Playoff Bubble
-315,50,Ridgeway,TN,4A,2,TSSAA Class 4A,1-6,1,6,0,7,8.6,8.6,-41.35,67.3,147,7.9,48.6,-40.7,2.16,2.16,2.16,5.5,27.5,Rebuilding
-316,46,Glencliff,TN,2A,1,TSSAA Class 2A,0-8,0,8,0,8,8.3,8.3,-41.74,65.9,189,4.1,42.0,-37.9,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-317,39,Manassas,TN,1A,2,TSSAA Class 1A,1-4,1,4,0,5,7.8,7.8,-42.44,54.0,349,12.0,35.0,-23.0,2.12,2.12,2.12,4.0,18.9,Playoff Bubble
-318,40,McGavock,TN,1A,4,TSSAA Class 1A,1-9,1,9,0,10,7.8,7.8,-42.7,66.1,181,11.8,44.4,-32.6,1.33,1.33,1.33,4.0,26.7,Playoff Bubble
-319,25,Gibson County,TN,DII-AA,2,TSSAA Class DII-AA,1-8,1,8,0,9,7.7,7.7,-42.85,65.1,205,10.4,42.6,-32.2,1.63,1.63,1.63,5.5,26.1,Dark Horse
-320,41,Hamilton,TN,1A,2,TSSAA Class 1A,1-6,1,6,0,7,7.6,7.6,-43.1,61.4,289,9.1,25.9,-16.8,1.76,1.76,1.76,4.0,23.7,Playoff Bubble
-321,42,First Assembly Christian,TN,1A,3,TSSAA Class 1A,0-8,0,8,0,8,7.4,7.4,-43.74,66.4,171,4.5,40.4,-35.9,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-322,43,Chattanooga Central,TN,1A,2,TSSAA Class 1A,2-6,2,6,0,8,7.4,7.4,-43.8,62.6,265,6.4,35.1,-28.7,3.13,3.13,3.13,8.0,48.8,Playoff Bubble
-323,44,Howard Tech,TN,1A,2,TSSAA Class 1A,3-6,3,6,0,9,7.3,7.3,-44.1,54.8,346,14.7,29.6,-14.9,3.59,3.59,3.59,12.0,58.0,Playoff Bubble
-324,26,Craigmont,TN,DII-AA,2,TSSAA Class DII-AA,0-6,0,6,0,6,7.1,7.1,-44.64,64.1,231,7.3,46.5,-39.2,0.0,0.0,0.0,0.0,0.0,Dark Horse
-325,45,KIPP Collegiate,TN,1A,1,TSSAA Class 1A,1-3,1,3,0,4,6.8,6.8,-45.33,56.4,337,11.0,32.0,-21.0,2.78,2.78,2.78,4.0,20.4,Playoff Bubble
-326,46,Johnson County,TN,1A,3,TSSAA Class 1A,2-5,2,5,0,7,6.6,6.6,-46.13,59.5,310,14.0,35.3,-21.3,3.39,3.39,3.39,8.0,44.9,Playoff Bubble
-327,18,Oakdale,TN,DII-AAA,3,TSSAA Class DII-AAA,2-7,2,7,0,9,6.4,6.4,-46.61,59.5,309,8.1,32.9,-24.8,3.19,3.19,3.19,13.0,44.9,Dark Horse
-328,47,Bluff City,TN,2A,4,TSSAA Class 2A,1-5,1,5,0,6,6.3,6.3,-46.9,59.9,306,9.7,38.0,-28.3,2.07,2.07,2.07,4.5,22.7,Playoff Bubble
-329,19,KIPP Nashville Collegiate,TN,DII-AAA,1,TSSAA Class DII-AAA,1-5,1,5,0,6,6.3,6.3,-46.91,63.8,243,11.3,44.0,-32.7,2.55,2.55,2.55,6.5,25.2,Dark Horse
-330,51,Campbell County,TN,4A,3,TSSAA Class 4A,0-9,0,9,0,9,6.3,6.3,-46.95,68.8,109,17.6,58.8,-41.2,0.0,0.0,0.0,0.0,0.0,Rebuilding
-331,20,Douglass,TN,DII-AAA,1,TSSAA Class DII-AAA,1-5,1,5,0,6,6.3,6.3,-46.99,58.9,317,9.0,43.0,-34.0,2.37,2.37,2.37,6.5,22.0,Dark Horse
-332,47,Copper Basin,TN,1A,3,TSSAA Class 1A,2-9,2,9,0,11,5.4,5.4,-49.44,55.7,342,16.2,32.4,-16.2,2.0,2.0,2.0,8.0,39.9,Playoff Bubble
-333,21,Mt. Juliet Christian Academy,TN,DII-AAA,3,TSSAA Class DII-AAA,1-6,1,6,0,7,5.4,5.4,-49.51,63.2,253,11.7,44.1,-32.4,2.17,2.17,2.17,6.5,24.8,Dark Horse
-334,49,Cumberland County,TN,5A,2,TSSAA Class 5A,0-10,0,10,0,10,5.3,5.3,-49.8,64.2,229,5.9,44.7,-38.8,0.0,0.0,0.0,0.0,0.0,Rebuilding
-335,48,Brainerd,TN,2A,2,TSSAA Class 2A,0-7,0,7,0,7,5.2,5.2,-50.07,67.9,132,2.6,50.3,-47.7,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-336,22,Claiborne,TN,DII-AAA,4,TSSAA Class DII-AAA,0-8,0,8,0,8,5.2,5.2,-50.12,64.2,227,9.4,42.8,-33.4,0.0,0.0,0.0,0.0,0.0,Dark Horse
-337,23,Cocke County,TN,DII-AAA,3,TSSAA Class DII-AAA,0-8,0,8,0,8,5.2,5.2,-50.13,68.2,124,4.5,53.2,-48.7,0.0,0.0,0.0,0.0,0.0,Dark Horse
-338,53,Scotts Hill,TN,6A,4,TSSAA Class 6A,0-10,0,10,0,10,4.9,4.9,-50.76,62.6,264,7.8,35.1,-27.3,0.0,0.0,0.0,0.0,0.0,Rebuilding
-339,24,Sunbright,TN,DII-AAA,3,TSSAA Class DII-AAA,3-6,3,6,0,9,4.9,4.9,-50.81,54.0,350,23.3,43.3,-20.0,4.37,4.37,4.37,19.5,56.6,Dark Horse
-340,42,West Carroll,TN,3A,1,TSSAA Class 3A,1-8,1,8,0,9,4.4,4.4,-52.25,59.1,314,8.4,34.1,-25.7,1.42,1.42,1.42,5.0,22.1,Playoff Bubble
-341,25,Community,TN,DII-AAA,2,TSSAA Class DII-AAA,0-8,0,8,0,8,4.2,4.2,-52.95,65.9,190,4.1,40.9,-36.8,0.0,0.0,0.0,0.0,0.0,Dark Horse
-342,49,Hunters Lane,TN,2A,3,TSSAA Class 2A,0-7,0,7,0,7,3.5,3.5,-54.88,66.5,169,5.4,41.9,-36.5,0.0,0.0,0.0,0.0,0.0,Rebuilding
-343,26,Booker T. Washington,TN,DII-AAA,4,TSSAA Class DII-AAA,1-3,1,3,0,4,2.5,2.5,-57.86,53.8,351,12.5,35.5,-23.0,3.26,3.26,3.26,6.5,18.7,Dark Horse
-344,27,Hancock County,TN,DII-AA,4,TSSAA Class DII-AA,1-7,1,7,0,8,2.5,2.5,-57.93,58.7,322,6.8,43.9,-37.1,1.65,1.65,1.65,5.5,21.9,Dark Horse
-345,28,Unaka,TN,DII-AA,3,TSSAA Class DII-AA,0-9,0,9,0,9,2.5,2.5,-58.98,59.0,315,14.2,50.8,-36.6,0.0,0.0,0.0,0.0,0.0,Dark Horse
-346,29,Lookout Valley,TN,DII-AA,1,TSSAA Class DII-AA,2-8,2,8,0,10,2.5,2.5,-60.25,55.3,344,10.4,45.7,-35.3,2.48,2.48,2.48,11.0,39.4,Dark Horse
-347,30,Clarksville Academy,TN,DII-AA,2,TSSAA Class DII-AA,0-6,0,6,0,6,2.5,2.5,-60.31,62.1,277,8.7,48.3,-39.6,0.0,0.0,0.0,0.0,0.0,Dark Horse
-348,48,Sheffield,TN,1A,3,TSSAA Class 1A,0-5,0,5,0,5,2.5,2.5,-61.61,63.0,256,0.0,45.6,-45.6,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-349,31,Gleason,TN,DII-AA,2,TSSAA Class DII-AA,0-8,0,8,0,8,2.5,2.5,-61.71,59.7,308,2.5,39.0,-36.5,0.0,0.0,0.0,0.0,0.0,Dark Horse
-350,32,Pickett County,TN,DII-AA,4,TSSAA Class DII-AA,0-8,0,8,0,8,2.5,2.5,-65.76,56.3,338,12.2,45.1,-32.9,0.0,0.0,0.0,0.0,0.0,Dark Horse
-351,49,Innovation Academy,TN,1A,2,TSSAA Class 1A,0-9,0,9,0,9,2.5,2.5,-67.34,58.1,329,1.3,49.2,-47.9,0.0,0.0,0.0,0.0,0.0,Rebuilding
-352,50,Red Boiling Springs,TN,1A,2,TSSAA Class 1A,0-8,0,8,0,8,2.5,2.5,-68.0,60.4,302,4.8,51.1,-46.3,0.0,0.0,0.0,0.0,0.0,Rebuilding
-353,33,Memphis East,TN,DII-AA,3,TSSAA Class DII-AA,0-6,0,6,0,6,2.5,2.5,-68.66,58.9,316,0.0,47.3,-47.3,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-354,34,Middleton,TN,DII-AA,4,TSSAA Class DII-AA,0-7,0,7,0,7,2.5,2.5,-69.19,55.8,341,4.9,43.4,-38.5,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
+226,40,DeKalb County,TN,4A,1,TSSAA Class 4A,4-6,4,6,0,10,31.6,31.6,-18.38,68.5,115,9.0,23.9,-14.9,6.16,6.16,6.16,22.0,113.2,Playoff Bubble
+227,30,Halls (2A),TN,2A,4,TSSAA Class 2A,3-7,3,7,0,10,31.2,31.2,-18.76,66.2,176,21.4,31.0,-9.6,4.16,4.16,4.16,13.5,80.4,Dark Horse
+228,18,Huntland,TN,1A,2,TSSAA Class 1A,5-6,5,6,0,11,31.2,31.2,-18.8,62.5,267,23.5,25.5,-2.0,5.69,5.69,5.69,20.0,121.8,Dark Horse
+229,20,St. Benedict at Auburndale,TN,DII-AA,1,TSSAA Class DII-AA,2-8,2,8,0,10,30.4,30.4,-19.56,66.8,157,18.3,31.4,-13.1,3.0,3.0,3.0,11.0,54.4,Dark Horse
+230,46,Cane Ridge,TN,6A,3,TSSAA Class 6A,5-6,5,6,0,11,30.4,30.4,-19.61,64.7,216,20.5,26.1,-5.6,7.06,7.06,7.06,32.5,129.0,Playoff Bubble
+231,31,Warren County,TN,2A,2,TSSAA Class 2A,5-6,5,6,0,11,30.4,30.4,-19.63,60.5,300,23.9,23.3,0.6,5.72,5.72,5.72,22.5,115.4,Dark Horse
+232,31,Cheatham County Central,TN,3A,1,TSSAA Class 3A,8-3,8,3,0,11,30.4,30.4,-19.64,59.1,312,37.9,26.2,11.7,9.28,9.28,9.28,40.0,177.5,Dark Horse
+233,32,White House-Heritage,TN,3A,1,TSSAA Class 3A,5-6,5,6,0,11,30.3,30.3,-19.74,62.4,269,26.1,26.4,-0.3,6.14,6.14,6.14,25.0,121.5,Dark Horse
+234,33,Bolivar Central,TN,3A,2,TSSAA Class 3A,5-6,5,6,0,11,30.2,30.2,-19.77,67.1,152,20.9,33.3,-12.4,6.63,6.63,6.63,25.0,136.9,Playoff Bubble
+235,19,Cloudland,TN,1A,3,TSSAA Class 1A,5-6,5,6,0,11,30.2,30.2,-19.77,60.9,293,29.8,30.5,-0.7,5.52,5.52,5.52,20.0,116.5,Dark Horse
+236,35,Clinton,TN,5A,4,TSSAA Class 5A,3-7,3,7,0,10,30.2,30.2,-19.77,68.2,123,25.0,37.9,-12.9,4.75,4.75,4.75,18.0,84.3,Playoff Bubble
+237,41,White House,TN,4A,4,TSSAA Class 4A,3-8,3,8,0,11,30.2,30.2,-19.82,66.6,165,19.0,29.8,-10.8,4.08,4.08,4.08,16.5,81.1,Playoff Bubble
+238,36,Karns,TN,5A,3,TSSAA Class 5A,3-7,3,7,0,10,30.1,30.1,-19.91,67.4,144,19.7,32.7,-13.0,4.69,4.69,4.69,18.0,82.7,Playoff Bubble
+239,42,Montgomery Central,TN,4A,3,TSSAA Class 4A,6-5,6,5,0,11,30.0,30.0,-20.02,62.0,280,25.2,27.5,-2.3,7.59,7.59,7.59,33.0,144.2,Playoff Bubble
+240,43,Carter,TN,4A,2,TSSAA Class 4A,1-9,1,9,0,10,29.8,29.8,-20.21,71.9,55,16.0,38.9,-22.9,1.62,1.62,1.62,5.5,30.5,Playoff Bubble
+241,34,Franklin Christian Academy,TN,3A,2,TSSAA Class 3A,5-6,5,6,0,11,29.8,29.8,-20.23,61.4,287,24.8,26.3,-1.5,6.04,6.04,6.04,25.0,118.3,Playoff Bubble
+242,21,Harding Academy,TN,DII-AA,2,TSSAA Class DII-AA,4-6,4,6,0,10,29.7,29.7,-20.26,65.9,188,12.2,27.4,-15.2,5.92,5.92,5.92,22.0,106.3,Dark Horse
+243,20,Dresden,TN,1A,1,TSSAA Class 1A,6-5,6,5,0,11,29.6,29.6,-20.42,61.3,289,21.8,25.9,-4.1,6.68,6.68,6.68,24.0,141.5,Dark Horse
+244,35,Harpeth,TN,3A,2,TSSAA Class 3A,2-8,2,8,0,10,29.2,29.2,-20.83,65.8,191,19.5,28.5,-9.0,2.86,2.86,2.86,10.0,53.1,Playoff Bubble
+245,37,Overton,TN,5A,1,TSSAA Class 5A,5-6,5,6,0,11,29.1,29.1,-20.86,65.6,198,18.7,29.4,-10.7,6.92,6.92,6.92,30.0,131.9,Playoff Bubble
+246,21,Midway,TN,1A,1,TSSAA Class 1A,6-5,6,5,0,11,28.8,28.8,-21.23,62.2,274,24.1,30.7,-6.6,6.81,6.81,6.81,24.0,145.3,Dark Horse
+247,36,Camden Central,TN,3A,1,TSSAA Class 3A,2-8,2,8,0,10,28.6,28.6,-21.41,67.8,133,20.4,38.0,-17.6,2.95,2.95,2.95,10.0,55.6,Playoff Bubble
+248,22,Middle College,TN,1A,2,TSSAA Class 1A,7-3,7,3,0,10,28.6,28.6,-21.43,54.4,346,27.4,19.3,8.1,7.48,7.48,7.48,28.0,133.8,Dark Horse
+249,22,Columbia Academy,TN,DII-AA,4,TSSAA Class DII-AA,2-8,2,8,0,10,28.5,28.5,-21.54,71.2,67,13.6,36.0,-22.4,3.2,3.2,3.2,11.0,60.1,Dark Horse
+250,23,Richland,TN,1A,3,TSSAA Class 1A,3-7,3,7,0,10,28.4,28.4,-21.56,62.7,261,19.0,25.2,-6.2,3.77,3.77,3.77,12.0,73.5,Dark Horse
+251,44,Millington Central,TN,4A,4,TSSAA Class 4A,3-8,3,8,0,11,27.9,27.9,-22.12,67.0,154,16.7,29.0,-12.3,4.11,4.11,4.11,16.5,81.9,Playoff Bubble
+252,38,Lenoir City,TN,5A,4,TSSAA Class 5A,3-7,3,7,0,10,27.8,27.8,-22.16,68.6,112,18.3,37.9,-19.6,4.78,4.78,4.78,18.0,85.0,Playoff Bubble
+253,39,Ooltewah,TN,5A,3,TSSAA Class 5A,2-8,2,8,0,10,27.7,27.7,-22.3,68.6,114,23.1,39.8,-16.7,3.18,3.18,3.18,12.0,56.6,Playoff Bubble
+254,37,Pigeon Forge,TN,3A,2,TSSAA Class 3A,5-6,5,6,0,11,27.4,27.4,-22.61,62.2,275,24.2,26.7,-2.5,6.12,6.12,6.12,25.0,121.0,Playoff Bubble
+255,32,Providence Academy,TN,2A,1,TSSAA Class 2A,4-7,4,7,0,11,27.3,27.3,-22.67,63.1,253,21.6,25.1,-3.5,4.79,4.79,4.79,18.0,99.1,Dark Horse
+256,24,Whitwell,TN,1A,1,TSSAA Class 1A,5-6,5,6,0,11,27.1,27.1,-22.88,60.5,299,25.9,28.7,-2.8,5.49,5.49,5.49,20.0,115.5,Dark Horse
+257,45,Fayette Ware,TN,4A,4,TSSAA Class 4A,4-6,4,6,0,10,26.9,26.9,-23.08,62.5,265,18.4,23.8,-5.4,5.61,5.61,5.61,22.0,97.5,Playoff Bubble
+258,33,Tipton-Rosemark Academy,TN,2A,3,TSSAA Class 2A,1-9,1,9,0,10,26.8,26.8,-23.19,68.3,122,12.0,32.7,-20.7,1.43,1.43,1.43,4.5,28.1,Playoff Bubble
+259,38,Obion County,TN,3A,4,TSSAA Class 3A,4-6,4,6,0,10,26.8,26.8,-23.25,62.8,260,23.8,35.2,-11.4,5.44,5.44,5.44,20.0,98.2,Playoff Bubble
+260,40,East Hamilton,TN,5A,2,TSSAA Class 5A,3-7,3,7,0,10,26.6,26.6,-23.41,65.7,194,19.4,33.2,-13.8,4.58,4.58,4.58,18.0,79.3,Playoff Bubble
+261,47,Bearden,TN,6A,3,TSSAA Class 6A,0-10,0,10,0,10,26.6,26.6,-23.45,76.5,14,7.1,37.7,-30.6,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
+262,39,Chuckey-Doak,TN,3A,3,TSSAA Class 3A,5-6,5,6,0,11,26.4,26.4,-23.57,60.2,303,26.5,27.7,-1.2,5.92,5.92,5.92,25.0,114.5,Playoff Bubble
+263,41,Kenwood,TN,5A,1,TSSAA Class 5A,3-7,3,7,0,10,26.3,26.3,-23.68,66.3,174,14.5,29.6,-15.1,4.62,4.62,4.62,18.0,80.5,Playoff Bubble
+264,46,Signal Mountain,TN,4A,3,TSSAA Class 4A,4-7,4,7,0,11,26.0,26.0,-24.0,62.9,258,22.2,25.5,-3.3,5.14,5.14,5.14,22.0,98.6,Playoff Bubble
+265,34,Cumberland Gap,TN,2A,1,TSSAA Class 2A,7-4,7,4,0,11,25.6,25.6,-24.36,58.6,322,25.4,22.3,3.1,7.72,7.72,7.72,31.5,152.7,Playoff Bubble
+266,48,Overton-Nashville,TN,6A,2,TSSAA Class 6A,3-7,3,7,0,10,25.4,25.4,-24.6,66.3,173,16.0,30.9,-14.9,4.77,4.77,4.77,19.5,80.5,Playoff Bubble
+267,35,Smith County,TN,2A,2,TSSAA Class 2A,2-8,2,8,0,10,24.9,24.9,-25.11,64.8,212,11.1,24.7,-13.6,2.71,2.71,2.71,9.0,51.8,Playoff Bubble
+268,25,Clay County,TN,1A,4,TSSAA Class 1A,5-6,5,6,0,11,24.7,24.7,-25.31,59.4,310,27.6,28.4,-0.8,5.38,5.38,5.38,20.0,111.8,Dark Horse
+269,42,Franklin County,TN,5A,1,TSSAA Class 5A,2-8,2,8,0,10,24.4,24.4,-25.62,66.0,183,23.2,33.9,-10.7,3.07,3.07,3.07,12.0,53.3,Playoff Bubble
+270,23,Northpoint Christian,TN,DII-AA,4,TSSAA Class DII-AA,7-3,7,3,0,10,24.4,24.4,-25.62,56.2,338,15.6,31.4,-15.8,8.82,8.82,8.82,38.5,142.0,Dark Horse
+271,26,Jo Byrns,TN,1A,4,TSSAA Class 1A,7-4,7,4,0,11,24.3,24.3,-25.66,53.0,352,36.3,21.3,15.0,6.59,6.59,6.59,28.0,127.2,Dark Horse
+272,36,Memphis Business Academy,TN,2A,4,TSSAA Class 2A,4-7,4,7,0,11,23.6,23.6,-26.41,66.5,168,13.9,39.0,-25.1,5.07,5.07,5.07,18.0,107.9,Playoff Bubble
+273,49,LaVergne,TN,6A,2,TSSAA Class 6A,1-10,1,10,0,11,23.6,23.6,-26.43,72.7,48,6.1,37.4,-31.3,1.58,1.58,1.58,6.5,31.0,Rebuilding
+274,37,Hillcrest,TN,2A,1,TSSAA Class 2A,6-4,6,4,0,10,23.5,23.5,-26.47,56.9,334,22.1,18.7,3.4,7.05,7.05,7.05,27.0,124.4,Playoff Bubble
+275,38,Polk County,TN,2A,2,TSSAA Class 2A,1-10,1,10,0,11,23.4,23.4,-26.58,68.9,108,6.6,32.4,-25.8,1.32,1.32,1.32,4.5,28.5,Playoff Bubble
+276,47,Battle Creek,TN,4A,2,TSSAA Class 4A,2-8,2,8,0,10,23.4,23.4,-26.64,66.2,175,26.2,40.2,-14.0,2.98,2.98,2.98,11.0,53.6,Playoff Bubble
+277,50,Morristown-Hamblen East,TN,6A,2,TSSAA Class 6A,1-9,1,9,0,10,22.8,22.8,-27.18,70.4,74,12.3,35.6,-23.3,1.68,1.68,1.68,6.5,29.5,Rebuilding
+278,43,Portland,TN,5A,4,TSSAA Class 5A,2-9,2,9,0,11,22.8,22.8,-27.21,69.5,90,13.0,40.7,-27.7,2.93,2.93,2.93,12.0,57.9,Playoff Bubble
+279,48,Grainger,TN,4A,4,TSSAA Class 4A,2-8,2,8,0,10,22.5,22.5,-27.54,65.5,200,20.0,36.6,-16.6,2.94,2.94,2.94,11.0,52.7,Playoff Bubble
+280,44,William Blount,TN,5A,2,TSSAA Class 5A,1-9,1,9,0,10,22.0,22.0,-27.99,67.9,130,17.1,38.4,-21.3,1.58,1.58,1.58,6.0,27.9,Playoff Bubble
+281,45,Daniel Boone,TN,5A,4,TSSAA Class 5A,2-8,2,8,0,10,22.0,22.0,-28.04,67.3,146,14.4,35.6,-21.2,3.12,3.12,3.12,12.0,55.0,Playoff Bubble
+282,27,Wartburg Central,TN,1A,1,TSSAA Class 1A,3-7,3,7,0,10,21.0,21.0,-28.99,61.4,285,15.4,27.6,-12.2,3.68,3.68,3.68,12.0,71.0,Dark Horse
+283,28,Harriman,TN,1A,1,TSSAA Class 1A,2-8,2,8,0,10,20.2,20.2,-29.78,64.1,233,19.1,35.9,-16.8,2.58,2.58,2.58,8.0,50.8,Dark Horse
+284,51,Wilson Central,TN,6A,1,TSSAA Class 6A,0-10,0,10,0,10,20.2,20.2,-29.83,69.1,101,3.8,30.3,-26.5,0.0,0.0,0.0,0.0,0.0,Rebuilding
+285,40,Wooddale,TN,3A,3,TSSAA Class 3A,5-6,5,6,0,11,20.0,20.0,-29.99,59.9,306,15.2,24.5,-9.3,5.88,5.88,5.88,25.0,113.4,Playoff Bubble
+286,39,South Greene,TN,2A,3,TSSAA Class 2A,3-8,3,8,0,11,19.5,19.5,-30.49,61.8,282,20.5,30.4,-9.9,3.51,3.51,3.51,13.5,71.7,Playoff Bubble
+287,49,Greenbrier,TN,4A,2,TSSAA Class 4A,2-8,2,8,0,10,19.2,19.2,-30.78,67.4,142,14.3,32.8,-18.5,3.03,3.03,3.03,11.0,55.2,Rebuilding
+288,29,Westwood,TN,1A,1,TSSAA Class 1A,6-4,6,4,0,10,18.4,18.4,-31.61,51.9,353,24.6,16.1,8.5,6.06,6.06,6.06,24.0,104.7,Dark Horse
+289,30,Oakhaven,TN,1A,3,TSSAA Class 1A,5-6,5,6,0,11,18.3,18.3,-31.72,55.4,342,23.3,21.0,2.3,4.96,4.96,4.96,20.0,98.8,Dark Horse
+290,41,Ripley,TN,3A,1,TSSAA Class 3A,1-9,1,9,0,10,18.1,18.1,-31.87,67.4,143,13.0,37.0,-24.0,1.47,1.47,1.47,5.0,27.6,Playoff Bubble
+291,31,Sale Creek,TN,1A,1,TSSAA Class 1A,6-5,6,5,0,11,17.0,17.0,-33.04,53.0,351,27.2,20.0,7.2,5.66,5.66,5.66,24.0,109.4,Dark Horse
+292,40,Monterey,TN,2A,4,TSSAA Class 2A,2-8,2,8,0,10,16.6,16.6,-33.41,63.0,257,14.1,31.0,-16.9,2.63,2.63,2.63,9.0,49.4,Playoff Bubble
+293,32,North Greene,TN,1A,4,TSSAA Class 1A,4-6,4,6,0,10,15.8,15.8,-34.16,56.8,335,33.5,35.8,-2.3,4.49,4.49,4.49,16.0,82.7,Dark Horse
+294,41,West Greene,TN,2A,3,TSSAA Class 2A,1-9,1,9,0,10,15.3,15.3,-34.69,63.6,247,15.3,33.3,-18.0,1.33,1.33,1.33,4.5,25.1,Playoff Bubble
+295,33,Collinwood,TN,1A,2,TSSAA Class 1A,2-8,2,8,0,10,15.1,15.1,-34.92,62.3,273,19.0,37.3,-18.3,2.49,2.49,2.49,8.0,48.4,Playoff Bubble
+296,42,Raleigh-Egypt,TN,3A,1,TSSAA Class 3A,5-6,5,6,0,11,15.1,15.1,-34.94,57.7,329,15.6,22.0,-6.4,5.65,5.65,5.65,25.0,106.2,Playoff Bubble
+297,46,Northwest,TN,5A,4,TSSAA Class 5A,2-8,2,8,0,10,14.4,14.4,-35.56,64.2,224,12.8,31.0,-18.2,2.98,2.98,2.98,12.0,51.0,Playoff Bubble
+298,50,Union County,TN,4A,4,TSSAA Class 4A,1-9,1,9,0,10,13.9,13.9,-36.09,69.3,98,18.2,49.4,-31.2,1.56,1.56,1.56,5.5,28.8,Rebuilding
+299,34,Oliver Springs,TN,1A,4,TSSAA Class 1A,2-9,2,9,0,11,13.5,13.5,-36.45,62.4,271,14.9,30.9,-16.0,2.27,2.27,2.27,8.0,48.6,Playoff Bubble
+300,51,Jackson South Side,TN,4A,1,TSSAA Class 4A,0-10,0,10,0,10,13.3,13.3,-36.68,69.6,88,4.5,44.1,-39.6,0.0,0.0,0.0,0.0,0.0,Rebuilding
+301,47,Kingsbury,TN,5A,1,TSSAA Class 5A,4-6,4,6,0,10,13.0,13.0,-37.01,61.5,284,25.8,32.1,-6.3,5.72,5.72,5.72,24.0,94.9,Playoff Bubble
+302,43,Sycamore,TN,3A,4,TSSAA Class 3A,1-9,1,9,0,10,13.0,13.0,-37.05,64.2,225,13.6,46.5,-32.9,1.39,1.39,1.39,5.0,25.5,Playoff Bubble
+303,35,Hollow Rock-Bruceton Central,TN,1A,3,TSSAA Class 1A,4-6,4,6,0,10,12.7,12.7,-37.28,58.9,318,18.0,32.4,-14.4,4.68,4.68,4.68,16.0,88.1,Playoff Bubble
+304,52,Sullivan East,TN,4A,2,TSSAA Class 4A,1-9,1,9,0,10,12.4,12.4,-37.57,65.9,187,17.1,43.1,-26.0,1.48,1.48,1.48,5.5,26.6,Rebuilding
+305,36,Lake County,TN,1A,1,TSSAA Class 1A,4-6,4,6,0,10,12.3,12.3,-37.73,58.9,319,15.4,27.9,-12.5,4.68,4.68,4.68,16.0,88.0,Playoff Bubble
+306,42,Grace Baptist Academy,TN,2A,2,TSSAA Class 2A,2-8,2,8,0,10,12.0,12.0,-38.04,64.2,226,16.9,41.0,-24.1,2.68,2.68,2.68,9.0,51.0,Playoff Bubble
+307,43,East Hickman County,TN,2A,2,TSSAA Class 2A,0-10,0,10,0,10,12.0,12.0,-38.05,68.5,117,5.7,38.4,-32.7,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
+308,52,West Creek,TN,6A,2,TSSAA Class 6A,1-9,1,9,0,10,11.5,11.5,-38.53,65.2,204,13.6,38.2,-24.6,1.56,1.56,1.56,6.5,26.1,Rebuilding
+309,44,Loretto,TN,2A,2,TSSAA Class 2A,1-9,1,9,0,10,11.1,11.1,-38.87,64.1,232,14.9,39.2,-24.3,1.34,1.34,1.34,4.5,25.4,Playoff Bubble
+310,37,Moore County,TN,1A,1,TSSAA Class 1A,1-9,1,9,0,10,10.8,10.8,-39.24,62.3,272,10.0,30.5,-20.5,1.25,1.25,1.25,4.0,24.3,Playoff Bubble
+311,53,Sequoyah,TN,4A,2,TSSAA Class 4A,2-8,2,8,0,10,10.5,10.5,-39.46,64.1,236,7.0,32.5,-25.5,2.88,2.88,2.88,11.0,50.8,Rebuilding
+312,54,Hixson,TN,4A,1,TSSAA Class 4A,1-9,1,9,0,10,9.9,9.9,-40.1,62.9,259,12.1,33.5,-21.4,1.41,1.41,1.41,5.5,24.6,Rebuilding
+313,45,Trezevant,TN,2A,2,TSSAA Class 2A,4-6,4,6,0,10,9.8,9.8,-40.2,58.8,320,13.0,28.5,-15.5,4.88,4.88,4.88,18.0,88.0,Playoff Bubble
+314,38,Zion Christian Academy,TN,1A,3,TSSAA Class 1A,2-7,2,7,0,9,8.9,8.9,-41.09,58.3,324,16.0,29.3,-13.3,2.57,2.57,2.57,8.0,43.3,Playoff Bubble
+315,55,Ridgeway,TN,4A,3,TSSAA Class 4A,1-9,1,9,0,10,8.6,8.6,-41.35,67.3,147,6.9,41.2,-34.3,1.51,1.51,1.51,5.5,27.5,Rebuilding
+316,46,Glencliff,TN,2A,1,TSSAA Class 2A,1-9,1,9,0,10,8.3,8.3,-41.74,65.9,189,7.1,39.2,-32.1,1.38,1.38,1.38,4.5,26.6,Playoff Bubble
+317,39,Manassas,TN,1A,4,TSSAA Class 1A,3-7,3,7,0,10,7.8,7.8,-42.44,54.0,348,16.2,22.9,-6.7,3.18,3.18,3.18,12.0,56.6,Playoff Bubble
+318,53,McGavock,TN,6A,4,TSSAA Class 6A,1-9,1,9,0,10,7.8,7.8,-42.7,66.1,181,11.8,44.4,-32.6,1.58,1.58,1.58,6.5,26.7,Rebuilding
+319,47,Gibson County,TN,2A,3,TSSAA Class 2A,1-9,1,9,0,10,7.7,7.7,-42.85,65.1,205,10.8,42.1,-31.3,1.36,1.36,1.36,4.5,26.1,Playoff Bubble
+320,44,Hamilton,TN,3A,1,TSSAA Class 3A,1-8,1,8,0,9,7.6,7.6,-43.1,61.4,288,7.1,30.1,-23.0,1.48,1.48,1.48,5.0,23.7,Playoff Bubble
+321,40,First Assembly Christian,TN,1A,3,TSSAA Class 1A,0-9,0,9,0,9,7.4,7.4,-43.74,66.4,171,4.7,39.8,-35.1,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
+322,45,Chattanooga Central,TN,3A,1,TSSAA Class 3A,2-8,2,8,0,10,7.4,7.4,-43.8,62.6,264,5.1,38.6,-33.5,2.71,2.71,2.71,10.0,48.8,Playoff Bubble
+323,13,Howard Tech,TN,DII-AAA,1,TSSAA Class DII-AAA,4-6,4,6,0,10,7.3,7.3,-44.1,54.8,345,14.6,27.4,-12.8,5.31,5.31,5.31,26.0,77.4,Quarterfinal Contender
+324,56,Craigmont,TN,4A,3,TSSAA Class 4A,1-9,1,9,0,10,7.1,7.1,-44.64,64.1,231,9.0,42.2,-33.2,1.44,1.44,1.44,5.5,25.4,Rebuilding
+325,41,KIPP Collegiate,TN,1A,4,TSSAA Class 1A,4-7,4,7,0,11,6.8,6.8,-45.33,56.4,336,8.4,24.5,-16.1,4.05,4.05,4.05,16.0,81.6,Playoff Bubble
+326,46,Johnson County,TN,3A,4,TSSAA Class 3A,2-8,2,8,0,10,6.6,6.6,-46.13,59.5,309,11.0,37.8,-26.8,2.57,2.57,2.57,10.0,44.9,Playoff Bubble
+327,42,Oakdale,TN,1A,3,TSSAA Class 1A,2-8,2,8,0,10,6.4,6.4,-46.61,59.5,308,8.0,33.0,-25.0,2.37,2.37,2.37,8.0,44.9,Playoff Bubble
+328,48,Bluff City,TN,2A,1,TSSAA Class 2A,1-9,1,9,0,10,6.3,6.3,-46.9,59.9,305,12.2,34.7,-22.5,1.24,1.24,1.24,4.5,22.7,Playoff Bubble
+329,48,Campbell County,TN,5A,3,TSSAA Class 5A,0-10,0,10,0,10,6.3,6.3,-46.95,68.8,109,16.5,58.2,-41.7,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
+330,47,Douglass,TN,3A,2,TSSAA Class 3A,2-8,2,8,0,10,6.3,6.3,-46.99,58.9,316,12.2,33.2,-21.0,2.54,2.54,2.54,10.0,44.1,Playoff Bubble
+331,43,Copper Basin,TN,1A,2,TSSAA Class 1A,2-9,2,9,0,11,5.4,5.4,-49.44,55.7,341,16.2,32.4,-16.2,2.0,2.0,2.0,8.0,39.9,Playoff Bubble
+332,14,Mt. Juliet Christian Academy,TN,DII-AAA,2,TSSAA Class DII-AAA,1-7,1,7,0,8,5.4,5.4,-49.51,63.2,252,11.2,43.4,-32.2,1.9,1.9,1.9,6.5,24.8,Quarterfinal Contender
+333,49,Cumberland County,TN,5A,2,TSSAA Class 5A,0-10,0,10,0,10,5.3,5.3,-49.8,64.2,229,5.9,44.7,-38.8,0.0,0.0,0.0,0.0,0.0,Rebuilding
+334,48,Brainerd,TN,3A,3,TSSAA Class 3A,0-10,0,10,0,10,5.2,5.2,-50.07,67.9,132,2.6,41.5,-38.9,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
+335,49,Claiborne,TN,3A,1,TSSAA Class 3A,0-10,0,10,0,10,5.2,5.2,-50.12,64.2,227,9.6,46.1,-36.5,0.0,0.0,0.0,0.0,0.0,Rebuilding
+336,50,Cocke County,TN,5A,1,TSSAA Class 5A,0-9,0,9,0,9,5.2,5.2,-50.13,68.2,124,4.0,52.9,-48.9,0.0,0.0,0.0,0.0,0.0,Rebuilding
+337,49,Scotts Hill,TN,2A,1,TSSAA Class 2A,0-10,0,10,0,10,4.9,4.9,-50.76,62.6,263,7.8,35.1,-27.3,0.0,0.0,0.0,0.0,0.0,Rebuilding
+338,44,Sunbright,TN,1A,4,TSSAA Class 1A,4-6,4,6,0,10,4.9,4.9,-50.81,54.0,349,24.2,41.0,-16.8,4.24,4.24,4.24,16.0,75.4,Playoff Bubble
+339,45,West Carroll,TN,1A,2,TSSAA Class 1A,1-9,1,9,0,10,4.4,4.4,-52.25,59.1,313,9.0,36.3,-27.3,1.17,1.17,1.17,4.0,22.1,Playoff Bubble
+340,50,Community,TN,3A,1,TSSAA Class 3A,0-10,0,10,0,10,4.2,4.2,-52.95,65.9,190,4.0,44.4,-40.4,0.0,0.0,0.0,0.0,0.0,Rebuilding
+341,51,Hunters Lane,TN,5A,4,TSSAA Class 5A,0-9,0,9,0,9,3.5,3.5,-54.88,66.5,169,4.9,43.8,-38.9,0.0,0.0,0.0,0.0,0.0,Rebuilding
+342,46,Booker T. Washington,TN,1A,1,TSSAA Class 1A,1-8,1,8,0,9,2.5,2.5,-57.86,53.8,350,6.9,34.4,-27.5,1.17,1.17,1.17,4.0,18.7,Playoff Bubble
+343,47,Hancock County,TN,1A,2,TSSAA Class 1A,1-10,1,10,0,11,2.5,2.5,-57.93,58.7,321,7.5,42.5,-35.0,1.06,1.06,1.06,4.0,21.9,Playoff Bubble
+344,48,Unaka,TN,1A,3,TSSAA Class 1A,0-10,0,10,0,10,2.5,2.5,-58.98,59.0,314,14.6,52.1,-37.5,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
+345,49,Lookout Valley,TN,1A,2,TSSAA Class 1A,2-8,2,8,0,10,2.5,2.5,-60.25,55.3,343,10.4,45.7,-35.3,2.18,2.18,2.18,8.0,39.4,Rebuilding
+346,24,Clarksville Academy,TN,DII-AA,2,TSSAA Class DII-AA,0-9,0,9,0,9,2.5,2.5,-60.31,62.1,276,5.8,36.7,-30.9,0.0,0.0,0.0,0.0,0.0,Dark Horse
+347,50,Sheffield,TN,2A,1,TSSAA Class 2A,0-10,0,10,0,10,2.5,2.5,-61.61,63.0,255,0.6,45.4,-44.8,0.0,0.0,0.0,0.0,0.0,Rebuilding
+348,50,Gleason,TN,1A,3,TSSAA Class 1A,0-10,0,10,0,10,2.5,2.5,-61.71,59.7,307,2.6,40.7,-38.1,0.0,0.0,0.0,0.0,0.0,Rebuilding
+349,25,Pickett County,TN,DII-AA,3,TSSAA Class DII-AA,0-9,0,9,0,9,2.5,2.5,-65.76,56.3,337,10.9,44.7,-33.8,0.0,0.0,0.0,0.0,0.0,Dark Horse
+350,51,Innovation Academy,TN,1A,1,TSSAA Class 1A,1-10,1,10,0,11,2.5,2.5,-67.34,58.1,328,2.9,45.5,-42.6,1.05,1.05,1.05,4.0,21.5,Rebuilding
+351,52,Red Boiling Springs,TN,1A,3,TSSAA Class 1A,0-11,0,11,0,11,2.5,2.5,-68.0,60.4,301,4.9,43.4,-38.5,0.0,0.0,0.0,0.0,0.0,Rebuilding
+352,51,Memphis East,TN,3A,4,TSSAA Class 3A,0-10,0,10,0,10,2.5,2.5,-68.66,58.9,315,0.0,45.2,-45.2,0.0,0.0,0.0,0.0,0.0,Rebuilding
+353,53,Middleton,TN,1A,1,TSSAA Class 1A,0-10,0,10,0,10,2.5,2.5,-69.19,55.8,340,5.4,42.3,-36.9,0.0,0.0,0.0,0.0,0.0,Rebuilding

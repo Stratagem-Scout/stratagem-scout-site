@@ -1627,6 +1627,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2025,"Oct. 30, 2025",2025-10-30,Kentucky Country Day,32,Sayre,17,Playoffs
 2025,"Nov. 6, 2025",2025-11-06,Raceland,24,Pikeville,16,Playoffs
 2025,"Nov. 6, 2025",2025-11-06,Kentucky Country Day,26,Campbellsville,23,Playoffs
+2026,"Aug 20, 2026",2026-08-20,Ballard Memorial,56,Todd County Central,14,Regular Season
 2026,"Aug 21, 2026",2026-08-21,Adair County,37,Russell County,13,Regular Season
 2026,"Aug 21, 2026",2026-08-21,Anderson County,33,Washington County,7,Regular Season
 2026,"Aug 21, 2026",2026-08-21,Atherton,44,Central Hardin,0,Regular Season
@@ -1670,7 +1671,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Aug 21, 2026",2026-08-21,Harlan County,27,Clay County,20,Regular Season
 2026,"Aug 21, 2026",2026-08-21,Hart County,56,Russellville,20,Regular Season
 2026,"Aug 21, 2026",2026-08-21,Henry County,36,Harrison County,9,Regular Season
-2026,"Aug 21, 2026",2026-08-21,Holy Cross-Louisville,33,St. Henry,7,Regular Season
+2026,"Aug 21, 2026",2026-08-21,Holy Cross-Covington,33,St. Henry,7,Regular Season
 2026,"Aug 21, 2026",2026-08-21,Iroquois,33,Shawnee,14,Regular Season
 2026,"Aug 21, 2026",2026-08-21,Jackson County,43,Clinton County,14,Regular Season
 2026,"Aug 21, 2026",2026-08-21,Jackson County,46,Berea,0,Regular Season
@@ -1729,6 +1730,20 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Aug 21, 2026",2026-08-21,Westmoreland,43,Allen County-Scottsville,15,Regular Season
 2026,"Aug 21, 2026",2026-08-21,Whites Creek,28,Franklin-Simpson,24,Regular Season
 2026,"Aug 21, 2026",2026-08-21,Williamsburg,44,Leslie County,7,Regular Season
+2026,"Aug 22, 2026",2026-08-22,Bowling Green,34,Bullitt East,7,Regular Season
+2026,"Aug 22, 2026",2026-08-22,Boyle County,55,Owensboro Catholic,24,Regular Season
+2026,"Aug 22, 2026",2026-08-22,Fairdale,38,Mercer County,7,Regular Season
+2026,"Aug 22, 2026",2026-08-22,Hazard,42,Montgomery County,34,Regular Season
+2026,"Aug 22, 2026",2026-08-22,Holy Cross-Louisville,19,W.E.B. DuBois Academy,18,Regular Season
+2026,"Aug 22, 2026",2026-08-22,Johnson Central,30,Letcher County Central,6,Regular Season
+2026,"Aug 22, 2026",2026-08-22,Middlesboro,36,Breathitt County,35,Regular Season
+2026,"Aug 22, 2026",2026-08-22,Nelson County,47,Metcalfe County,7,Regular Season
+2026,"Aug 22, 2026",2026-08-22,Paducah Tilghman,64,McCracken County,36,Regular Season
+2026,"Aug 22, 2026",2026-08-22,Pleasure Ridge Park,28,Shelby Valley,13,Regular Season
+2026,"Aug 22, 2026",2026-08-22,Somerset,42,Wayne County,7,Regular Season
+2026,"Aug 22, 2026",2026-08-22,South Laurel,31,Paul Laurence Dunbar,7,Regular Season
+2026,"Aug 22, 2026",2026-08-22,Taylor County,41,Shelby County,18,Regular Season
+2026,"Aug 22, 2026",2026-08-22,Woodford County,55,Tates Creek,13,Regular Season
 2026,"Aug 28, 2026",2026-08-28,Adair County,14,Metcalfe County,6,Regular Season
 2026,"Aug 28, 2026",2026-08-28,Apollo,29,Heritage Hills,28,Regular Season
 2026,"Aug 28, 2026",2026-08-28,Atherton,45,Southern,0,Regular Season
@@ -1773,8 +1788,8 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Aug 28, 2026",2026-08-28,Hart County,40,Trigg County,7,Regular Season
 2026,"Aug 28, 2026",2026-08-28,Hazard,31,Whitley County,0,Regular Season
 2026,"Aug 28, 2026",2026-08-28,Highlands,45,Cooper,6,Regular Season
+2026,"Aug 28, 2026",2026-08-28,Holy Cross-Covington,41,Bracken County,6,Regular Season
 2026,"Aug 28, 2026",2026-08-28,Holy Cross-Louisville,41,Providence,31,Regular Season
-2026,"Aug 28, 2026",2026-08-28,Holy Cross-Louisville,41,Bracken County,6,Regular Season
 2026,"Aug 28, 2026",2026-08-28,Hopkins County Central,66,Todd County Central,18,Regular Season
 2026,"Aug 28, 2026",2026-08-28,Iroquois,29,Fort Knox,6,Regular Season
 2026,"Aug 28, 2026",2026-08-28,Jeffersontown,42,Waggener,8,Regular Season
@@ -1815,6 +1830,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Aug 28, 2026",2026-08-28,Paintsville,22,Newport Central Catholic,7,Regular Season
 2026,"Aug 28, 2026",2026-08-28,Perry County Central,35,Bell County,20,Regular Season
 2026,"Aug 28, 2026",2026-08-28,Raceland,56,Pleasure Ridge Park,18,Regular Season
+2026,"Aug 28, 2026",2026-08-28,Rockcastle County,1,Russellville,0,Regular Season
 2026,"Aug 28, 2026",2026-08-28,Russell,28,Greenup County,22,Regular Season
 2026,"Aug 28, 2026",2026-08-28,Ryle,36,Conner,21,Regular Season
 2026,"Aug 28, 2026",2026-08-28,Sayre,42,Bishop Brossart,0,Regular Season
@@ -1833,6 +1849,19 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Aug 28, 2026",2026-08-28,West Jessamine,42,Wayne County,7,Regular Season
 2026,"Aug 28, 2026",2026-08-28,Williamsburg,44,Paris,16,Regular Season
 2026,"Aug 28, 2026",2026-08-28,Woodford County,35,Bourbon County,20,Regular Season
+2026,"Aug 29, 2026",2026-08-29,Bath County,35,Pineville,6,Regular Season
+2026,"Aug 29, 2026",2026-08-29,Boyle County,35,Bryan Station,0,Regular Season
+2026,"Aug 29, 2026",2026-08-29,Danville,72,Knox Central,42,Regular Season
+2026,"Aug 29, 2026",2026-08-29,Fairdale,44,Marion County,27,Regular Season
+2026,"Aug 29, 2026",2026-08-29,John Hardin,32,Seneca,12,Regular Season
+2026,"Aug 29, 2026",2026-08-29,Magoffin County,53,Floyd Central,34,Regular Season
+2026,"Aug 29, 2026",2026-08-29,Pikeville,30,Prestonsburg,0,Regular Season
+2026,"Aug 29, 2026",2026-08-29,Pulaski County,7,Lexington Christian,0,Regular Season
+2026,"Aug 29, 2026",2026-08-29,Shelby Valley,49,Phelps,12,Regular Season
+2026,"Sep 1, 2026",2026-09-01,Valley,42,Southern,0,Regular Season
+2026,"Sep 3, 2026",2026-09-03,Bardstown,48,John Hardin,14,Regular Season
+2026,"Sep 3, 2026",2026-09-03,Bullitt Central,34,Breckinridge County,16,Regular Season
+2026,"Sep 3, 2026",2026-09-03,Hart County,50,Caverna,0,Regular Season
 2026,"Sep 4, 2026",2026-09-04,Adair County,69,Casey County,18,Regular Season
 2026,"Sep 4, 2026",2026-09-04,Allen County-Scottsville,21,Warren Central,13,Regular Season
 2026,"Sep 4, 2026",2026-09-04,Atherton,60,Mercer County,0,Regular Season
@@ -1864,6 +1893,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Sep 4, 2026",2026-09-04,Dayton,56,Owen County,0,Regular Season
 2026,"Sep 4, 2026",2026-09-04,East Ridge,51,Harlan County,32,Regular Season
 2026,"Sep 4, 2026",2026-09-04,Eastern,34,Fairdale,28,Regular Season
+2026,"Sep 4, 2026",2026-09-04,Fairview,1,Berea,0,Regular Season
 2026,"Sep 4, 2026",2026-09-04,Floyd Central,46,Pike County Central,8,Regular Season
 2026,"Sep 4, 2026",2026-09-04,Fort Knox,29,Fort Campbell,23,Regular Season
 2026,"Sep 4, 2026",2026-09-04,Franklin County,56,Pleasure Ridge Park,13,Regular Season
@@ -1878,7 +1908,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Sep 4, 2026",2026-09-04,Henderson County,63,Henry Clay,34,Regular Season
 2026,"Sep 4, 2026",2026-09-04,Henry County,51,Western Hills,15,Regular Season
 2026,"Sep 4, 2026",2026-09-04,Highlands,55,Campbell County,14,Regular Season
-2026,"Sep 4, 2026",2026-09-04,Holy Cross-Louisville,21,Clermont Northeastern,8,Regular Season
+2026,"Sep 4, 2026",2026-09-04,Holy Cross-Covington,21,Clermont Northeastern,8,Regular Season
 2026,"Sep 4, 2026",2026-09-04,Holy Cross-Louisville,27,DeSales,21,Regular Season
 2026,"Sep 4, 2026",2026-09-04,Iroquois,27,Trimble County,10,Regular Season
 2026,"Sep 4, 2026",2026-09-04,Jackson,42,Ballard,6,Regular Season
@@ -1938,7 +1968,12 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Sep 4, 2026",2026-09-04,Warren East,21,Central Hardin,0,Regular Season
 2026,"Sep 4, 2026",2026-09-04,Wayne County,48,Bell County,28,Regular Season
 2026,"Sep 4, 2026",2026-09-04,West Jessamine,38,Lincoln County,0,Regular Season
+2026,"Sep 4, 2026",2026-09-04,Williamsburg,2,Frankfort,0,Regular Season
 2026,"Sep 4, 2026",2026-09-04,Woodford County,42,Great Crossing,0,Regular Season
+2026,"Sep 5, 2026",2026-09-05,Fern Creek,26,Moore,21,Regular Season
+2026,"Sep 10, 2026",2026-09-10,Butler,14,Valley,12,Regular Season
+2026,"Sep 10, 2026",2026-09-10,Seneca,34,Southern,12,Regular Season
+2026,"Sep 10, 2026",2026-09-10,W.E.B. DuBois Academy,41,Marion County,6,Regular Season
 2026,"Sep 11, 2026",2026-09-11,Adair County,26,McCreary Central,21,Regular Season
 2026,"Sep 11, 2026",2026-09-11,Anderson County,24,Harrison County,7,Regular Season
 2026,"Sep 11, 2026",2026-09-11,Apollo,43,Hancock County,0,Regular Season
@@ -1989,8 +2024,8 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Sep 11, 2026",2026-09-11,Harlan County,43,Bell County,14,Regular Season
 2026,"Sep 11, 2026",2026-09-11,Hart County,38,McLean County,0,Regular Season
 2026,"Sep 11, 2026",2026-09-11,Highlands,41,Boyle County,21,Regular Season
+2026,"Sep 11, 2026",2026-09-11,Holy Cross-Covington,42,Holmes,12,Regular Season
 2026,"Sep 11, 2026",2026-09-11,Holy Cross-Louisville,40,Jeffersontown,8,Regular Season
-2026,"Sep 11, 2026",2026-09-11,Holy Cross-Louisville,42,Holmes,12,Regular Season
 2026,"Sep 11, 2026",2026-09-11,Hopkins County Central,41,Fort Campbell,20,Regular Season
 2026,"Sep 11, 2026",2026-09-11,Ironton,35,Somerset,9,Regular Season
 2026,"Sep 11, 2026",2026-09-11,Jo Byrns,56,Todd County Central,0,Regular Season
@@ -1999,6 +2034,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Sep 11, 2026",2026-09-11,Lafayette,46,Shelby County,0,Regular Season
 2026,"Sep 11, 2026",2026-09-11,Larue County,36,Green County,35,Regular Season
 2026,"Sep 11, 2026",2026-09-11,Letcher County Central,28,Perry County Central,23,Regular Season
+2026,"Sep 11, 2026",2026-09-11,Lewis County,1,Berea,0,Regular Season
 2026,"Sep 11, 2026",2026-09-11,Lexington Catholic,35,Great Crossing,14,Regular Season
 2026,"Sep 11, 2026",2026-09-11,Lexington Christian,40,Franklin County,21,Regular Season
 2026,"Sep 11, 2026",2026-09-11,Lloyd Memorial,32,Aiken,14,Regular Season
@@ -2044,6 +2080,11 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Sep 11, 2026",2026-09-11,Washington County,33,Western Hills,12,Regular Season
 2026,"Sep 11, 2026",2026-09-11,Wayne County,28,Madison Southern,15,Regular Season
 2026,"Sep 11, 2026",2026-09-11,West Jessamine,39,Paul Laurence Dunbar,8,Regular Season
+2026,"Sep 12, 2026",2026-09-12,Fulton County,42,Vienna/Goreville,7,Regular Season
+2026,"Sep 12, 2026",2026-09-12,Owen County,23,Trimble County,8,Regular Season
+2026,"Sep 12, 2026",2026-09-12,Pendleton County,42,Gallatin County,12,Regular Season
+2026,"Sep 17, 2026",2026-09-17,Christian Academy-Louisville,65,Central Hardin,0,Regular Season
+2026,"Sep 17, 2026",2026-09-17,Shawnee,32,Fort Knox,13,Regular Season
 2026,"Sep 18, 2026",2026-09-18,Anderson County,14,Carroll County,0,Regular Season
 2026,"Sep 18, 2026",2026-09-18,Apollo,34,Muhlenberg County,7,Regular Season
 2026,"Sep 18, 2026",2026-09-18,Ballard Memorial,49,Vienna/Goreville,7,Regular Season
@@ -2086,6 +2127,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Sep 18, 2026",2026-09-18,Henderson County,42,Daviess County,3,Regular Season
 2026,"Sep 18, 2026",2026-09-18,Highlands,28,Ryle,0,Regular Season
 2026,"Sep 18, 2026",2026-09-18,Jackson County,26,Lynn Camp,0,Regular Season
+2026,"Sep 18, 2026",2026-09-18,Jeffersontown,1,Caverna,0,Regular Season
 2026,"Sep 18, 2026",2026-09-18,Kentucky Country Day,56,Hopkins County Central,6,Regular Season
 2026,"Sep 18, 2026",2026-09-18,Knott County Central,56,Phelps,24,Regular Season
 2026,"Sep 18, 2026",2026-09-18,Larue County,41,Butler County,14,Regular Season
@@ -2111,6 +2153,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Sep 18, 2026",2026-09-18,Owensboro,49,Graves County,7,Regular Season
 2026,"Sep 18, 2026",2026-09-18,Owensboro Catholic,49,Bardstown,12,Regular Season
 2026,"Sep 18, 2026",2026-09-18,Paducah Tilghman,70,Franklin-Simpson,28,Regular Season
+2026,"Sep 18, 2026",2026-09-18,Paintsville,1,Frankfort,0,Regular Season
 2026,"Sep 18, 2026",2026-09-18,Paul Laurence Dunbar,35,Great Crossing,0,Regular Season
 2026,"Sep 18, 2026",2026-09-18,Pendleton County,15,Grant County,6,Regular Season
 2026,"Sep 18, 2026",2026-09-18,Pikeville,21,Belfry,14,Regular Season
@@ -2136,6 +2179,16 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Sep 18, 2026",2026-09-18,West Jessamine,24,Lafayette,9,Regular Season
 2026,"Sep 18, 2026",2026-09-18,Winfield,42,Magoffin County,12,Regular Season
 2026,"Sep 18, 2026",2026-09-18,Woodford County,62,George Rogers Clark,20,Regular Season
+2026,"Sep 19, 2026",2026-09-19,Campbellsville,24,Hazard,0,Regular Season
+2026,"Sep 19, 2026",2026-09-19,Danville,41,Washington County,26,Regular Season
+2026,"Sep 19, 2026",2026-09-19,Oldham County,14,South Oldham,12,Regular Season
+2026,"Sep 20, 2026",2026-09-20,Atherton,55,Eastern,14,Regular Season
+2026,"Sep 20, 2026",2026-09-20,Holy Cross-Louisville,42,Bullitt Central,7,Regular Season
+2026,"Sep 20, 2026",2026-09-20,North Oldham,39,Seneca,12,Regular Season
+2026,"Sep 21, 2026",2026-09-21,Frederick Douglass,10,Corbin,0,Regular Season
+2026,"Sep 21, 2026",2026-09-21,Rockcastle County,38,Madison Southern,26,Regular Season
+2026,"Sep 24, 2026",2026-09-24,Lloyd Memorial,35,Pendleton County,12,Regular Season
+2026,"Sep 24, 2026",2026-09-24,North Oldham,49,Doss,0,Regular Season
 2026,"Sep 25, 2026",2026-09-25,Anderson County,28,South Oldham,20,Regular Season
 2026,"Sep 25, 2026",2026-09-25,Atherton,42,Fern Creek,7,Regular Season
 2026,"Sep 25, 2026",2026-09-25,Bardstown,57,Mercer County,13,Regular Season
@@ -2164,7 +2217,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Sep 25, 2026",2026-09-25,East Ridge,42,Betsy Layne,14,Regular Season
 2026,"Sep 25, 2026",2026-09-25,Eastern,28,Wayne County,15,Regular Season
 2026,"Sep 25, 2026",2026-09-25,Elizabethtown,34,Taylor County,21,Regular Season
-2026,"Sep 25, 2026",2026-09-25,Eminence,34,Holy Cross-Louisville,14,Regular Season
+2026,"Sep 25, 2026",2026-09-25,Eminence,34,Holy Cross-Covington,14,Regular Season
 2026,"Sep 25, 2026",2026-09-25,Estill County,74,Magoffin County,38,Regular Season
 2026,"Sep 25, 2026",2026-09-25,Fairdale,32,Jeffersontown,6,Regular Season
 2026,"Sep 25, 2026",2026-09-25,Floyd Central,44,Leslie County,42,Regular Season
@@ -2197,6 +2250,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Sep 25, 2026",2026-09-25,Male,41,Pleasure Ridge Park,7,Regular Season
 2026,"Sep 25, 2026",2026-09-25,Marion County,42,Thomas Nelson,20,Regular Season
 2026,"Sep 25, 2026",2026-09-25,Martin County,47,Knott County Central,12,Regular Season
+2026,"Sep 25, 2026",2026-09-25,Mayfield,1,Todd County Central,0,Regular Season
 2026,"Sep 25, 2026",2026-09-25,McCracken County,48,Murray,42,Regular Season
 2026,"Sep 25, 2026",2026-09-25,McCreary Central,47,Bell County,36,Regular Season
 2026,"Sep 25, 2026",2026-09-25,McLean County,29,Daviess County,21,Regular Season
@@ -2236,6 +2290,18 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Sep 25, 2026",2026-09-25,Walton-Verona,27,Bracken County,10,Regular Season
 2026,"Sep 25, 2026",2026-09-25,Warren East,31,Franklin-Simpson,28,Regular Season
 2026,"Sep 25, 2026",2026-09-25,West Jessamine,28,George Rogers Clark,26,Regular Season
+2026,"Oct 1, 2026",2026-10-01,Ballard,28,Fern Creek,0,Regular Season
+2026,"Oct 1, 2026",2026-10-01,Barren County,32,Greenwood,15,Regular Season
+2026,"Oct 1, 2026",2026-10-01,Belfry,40,East Ridge,0,Regular Season
+2026,"Oct 1, 2026",2026-10-01,Bowling Green,49,Warren Central,0,Regular Season
+2026,"Oct 1, 2026",2026-10-01,Grayson County,56,Ohio County,0,Regular Season
+2026,"Oct 1, 2026",2026-10-01,Green County,33,Metcalfe County,18,Regular Season
+2026,"Oct 1, 2026",2026-10-01,Greenup County,44,Boyd County,33,Regular Season
+2026,"Oct 1, 2026",2026-10-01,Madisonville-North Hopkins,48,Muhlenberg County,14,Regular Season
+2026,"Oct 1, 2026",2026-10-01,Monroe County,22,Campbellsville,3,Regular Season
+2026,"Oct 1, 2026",2026-10-01,Phelps,62,Betsy Layne,32,Regular Season
+2026,"Oct 1, 2026",2026-10-01,Shelby Valley,42,Pike County Central,6,Regular Season
+2026,"Oct 1, 2026",2026-10-01,South Warren,56,Meade County,0,Regular Season
 2026,"Oct 2, 2026",2026-10-02,Ballard Memorial,42,Russellville,13,Regular Season
 2026,"Oct 2, 2026",2026-10-02,Bardstown,50,Casey County,0,Regular Season
 2026,"Oct 2, 2026",2026-10-02,Beechwood,63,Walton-Verona,7,Regular Season
@@ -2265,7 +2331,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Oct 2, 2026",2026-10-02,George Rogers Clark,53,Henderson County,48,Regular Season
 2026,"Oct 2, 2026",2026-10-02,Glasgow,46,Butler County,6,Regular Season
 2026,"Oct 2, 2026",2026-10-02,Graves County,42,Apollo,28,Regular Season
-2026,"Oct 2, 2026",2026-10-02,Harlan County,28,Holy Cross-Louisville,21,Regular Season
+2026,"Oct 2, 2026",2026-10-02,Harlan County,28,Holy Cross-Covington,21,Regular Season
 2026,"Oct 2, 2026",2026-10-02,Hart County,30,Adair County,21,Regular Season
 2026,"Oct 2, 2026",2026-10-02,Henry County,20,Carroll County,0,Regular Season
 2026,"Oct 2, 2026",2026-10-02,Highlands,38,Covington Catholic,20,Regular Season
@@ -2313,6 +2379,20 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Oct 2, 2026",2026-10-02,Western Hills,35,Grant County,0,Regular Season
 2026,"Oct 2, 2026",2026-10-02,Williamsburg,48,Pineville,6,Regular Season
 2026,"Oct 2, 2026",2026-10-02,Woodford County,43,South Oldham,6,Regular Season
+2026,"Oct 8, 2026",2026-10-08,Carroll County,49,Pendleton County,7,Regular Season
+2026,"Oct 8, 2026",2026-10-08,DeSales,35,Western,0,Regular Season
+2026,"Oct 8, 2026",2026-10-08,Dixie Heights,44,Conner,8,Regular Season
+2026,"Oct 8, 2026",2026-10-08,Eminence,43,Frankfort,8,Regular Season
+2026,"Oct 8, 2026",2026-10-08,Jeffersontown,33,Moore,14,Regular Season
+2026,"Oct 8, 2026",2026-10-08,Lloyd Memorial,14,Henry County,7,Regular Season
+2026,"Oct 8, 2026",2026-10-08,Male,43,Southern,0,Regular Season
+2026,"Oct 8, 2026",2026-10-08,McLean County,21,Hancock County,14,Regular Season
+2026,"Oct 8, 2026",2026-10-08,Middlesboro,42,Pineville,6,Regular Season
+2026,"Oct 8, 2026",2026-10-08,Owensboro Catholic,68,Fort Knox,0,Regular Season
+2026,"Oct 8, 2026",2026-10-08,Perry County Central,39,Whitley County,20,Regular Season
+2026,"Oct 8, 2026",2026-10-08,Russell,60,Lewis County,6,Regular Season
+2026,"Oct 8, 2026",2026-10-08,Scott,43,Boone County,21,Regular Season
+2026,"Oct 8, 2026",2026-10-08,Seneca,39,Iroquois,0,Regular Season
 2026,"Oct 9, 2026",2026-10-09,Atherton,49,Butler,0,Regular Season
 2026,"Oct 9, 2026",2026-10-09,Bardstown,27,Garrard County,12,Regular Season
 2026,"Oct 9, 2026",2026-10-09,Beechwood,62,St. Henry,0,Regular Season
@@ -2339,7 +2419,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Oct 9, 2026",2026-10-09,Great Crossing,21,Simon Kenton,14,Regular Season
 2026,"Oct 9, 2026",2026-10-09,Harlan,28,Thomas Walker,20,Regular Season
 2026,"Oct 9, 2026",2026-10-09,Henderson County,37,Christian County,33,Regular Season
-2026,"Oct 9, 2026",2026-10-09,Holy Cross-Louisville,41,Bishop Brossart,14,Regular Season
+2026,"Oct 9, 2026",2026-10-09,Holy Cross-Covington,41,Bishop Brossart,14,Regular Season
 2026,"Oct 9, 2026",2026-10-09,Johnson Central,49,Rowan County,15,Regular Season
 2026,"Oct 9, 2026",2026-10-09,Kentucky Country Day,14,Holy Cross-Louisville,0,Regular Season
 2026,"Oct 9, 2026",2026-10-09,Knox Central,70,Bell County,20,Regular Season
@@ -2365,6 +2445,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Oct 9, 2026",2026-10-09,Pulaski County,66,South Laurel,31,Regular Season
 2026,"Oct 9, 2026",2026-10-09,Raceland,57,Fairview,0,Regular Season
 2026,"Oct 9, 2026",2026-10-09,Ryle,13,Campbell County,6,Regular Season
+2026,"Oct 9, 2026",2026-10-09,Sayre,1,Berea,0,Regular Season
 2026,"Oct 9, 2026",2026-10-09,Scott County,55,South Oldham,18,Regular Season
 2026,"Oct 9, 2026",2026-10-09,Shelby Valley,49,Betsy Layne,12,Regular Season
 2026,"Oct 9, 2026",2026-10-09,Spencer County,42,Shelby County,7,Regular Season
@@ -2374,6 +2455,10 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Oct 9, 2026",2026-10-09,West Carter,54,Jackson County,6,Regular Season
 2026,"Oct 9, 2026",2026-10-09,Williamsburg,56,Lynn Camp,6,Regular Season
 2026,"Oct 9, 2026",2026-10-09,Woodford County,56,Collins,34,Regular Season
+2026,"Oct 10, 2026",2026-10-10,Holmes,14,Ohio County,13,Regular Season
+2026,"Oct 15, 2026",2026-10-15,Atherton,49,Seneca,0,Regular Season
+2026,"Oct 15, 2026",2026-10-15,Breckinridge County,40,Doss,12,Regular Season
+2026,"Oct 15, 2026",2026-10-15,St. Henry,61,Bracken County,22,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Ballard Memorial,20,Fulton County,14,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Beechwood,69,Gallatin County,0,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Belfry,54,Betsy Layne,0,Regular Season
@@ -2386,6 +2471,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Oct 16, 2026",2026-10-16,Bullitt East,49,Southern,6,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Butler,34,Iroquois,7,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Butler County,40,Hart County,0,Regular Season
+2026,"Oct 16, 2026",2026-10-16,Caldwell County,1,Todd County Central,0,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Calloway County,43,Allen County-Scottsville,22,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Central,18,DeSales,14,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Christian Academy-Louisville,42,Western,0,Regular Season
@@ -2413,7 +2499,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Oct 16, 2026",2026-10-16,Henry County,47,Pendleton County,6,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Highlands,61,Mason County,0,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Holmes,27,Thomas Nelson,7,Regular Season
-2026,"Oct 16, 2026",2026-10-16,Holy Cross-Louisville,49,Trimble County,6,Regular Season
+2026,"Oct 16, 2026",2026-10-16,Holy Cross-Covington,49,Trimble County,6,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Holy Cross-Louisville,35,Campbellsville,9,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Hopkins County Central,34,Webster County,8,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Jackson County,36,Morgan County,12,Regular Season
@@ -2453,6 +2539,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Oct 16, 2026",2026-10-16,Russell,53,Bath County,16,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Russellville,60,Caverna,0,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Ryle,27,Great Crossing,6,Regular Season
+2026,"Oct 16, 2026",2026-10-16,Sayre,1,Frankfort,0,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Shelby Valley,40,East Ridge,24,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Simon Kenton,13,Campbell County,12,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Somerset,41,Monroe County,14,Regular Season
@@ -2467,6 +2554,9 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Oct 16, 2026",2026-10-16,Wayne County,41,Russell County,25,Regular Season
 2026,"Oct 16, 2026",2026-10-16,West Jessamine,47,East Jessamine,15,Regular Season
 2026,"Oct 16, 2026",2026-10-16,Woodford County,44,Scott County,35,Regular Season
+2026,"Oct 22, 2026",2026-10-22,Glasgow,35,Edmonson County,6,Regular Season
+2026,"Oct 22, 2026",2026-10-22,Graves County,41,Muhlenberg County,21,Regular Season
+2026,"Oct 22, 2026",2026-10-22,Murray,64,Hopkins County Central,18,Regular Season
 2026,"Oct 23, 2026",2026-10-23,Apollo,35,Marshall County,7,Regular Season
 2026,"Oct 23, 2026",2026-10-23,Atherton,58,Iroquois,0,Regular Season
 2026,"Oct 23, 2026",2026-10-23,Ballard,35,Eastern,34,Regular Season
@@ -2516,7 +2606,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Oct 23, 2026",2026-10-23,Harlan County,42,Whitley County,18,Regular Season
 2026,"Oct 23, 2026",2026-10-23,Highlands,34,Scott County,13,Regular Season
 2026,"Oct 23, 2026",2026-10-23,Holmes,28,Lewis County,22,Regular Season
-2026,"Oct 23, 2026",2026-10-23,Holy Cross-Louisville,35,Ludlow,14,Regular Season
+2026,"Oct 23, 2026",2026-10-23,Holy Cross-Covington,35,Ludlow,14,Regular Season
 2026,"Oct 23, 2026",2026-10-23,Kentucky Country Day,42,Campbellsville,0,Regular Season
 2026,"Oct 23, 2026",2026-10-23,Larue County,50,Hart County,6,Regular Season
 2026,"Oct 23, 2026",2026-10-23,Lawrence County,41,Magoffin County,16,Regular Season
@@ -2570,6 +2660,12 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Oct 23, 2026",2026-10-23,West Jessamine,16,Madison Southern,14,Regular Season
 2026,"Oct 23, 2026",2026-10-23,Williamsburg,56,Harlan,13,Regular Season
 2026,"Oct 23, 2026",2026-10-23,Woodford County,42,Anderson County,8,Regular Season
+2026,"Oct 27, 2026",2026-10-27,Lawrence County,35,North Laurel,14,Regular Season
+2026,"Oct 29, 2026",2026-10-29,Fairdale,1,Shelby County,0,Regular Season
+2026,"Oct 29, 2026",2026-10-29,Ludlow,26,St. Henry,18,Regular Season
+2026,"Oct 29, 2026",2026-10-29,Owensboro Catholic,48,Elizabethtown,20,Regular Season
+2026,"Oct 29, 2026",2026-10-29,Union County,36,Greenwood,14,Regular Season
+2026,"Oct 29, 2026",2026-10-29,Webster County,56,Todd County Central,0,Regular Season
 2026,"Oct 30, 2026",2026-10-30,Adair County,35,Campbellsville,19,Regular Season
 2026,"Oct 30, 2026",2026-10-30,Apollo,54,Daviess County,14,Regular Season
 2026,"Oct 30, 2026",2026-10-30,Bardstown,35,Washington County,21,Regular Season
@@ -2587,6 +2683,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Oct 30, 2026",2026-10-30,Butler County,54,Russellville,6,Regular Season
 2026,"Oct 30, 2026",2026-10-30,Calloway County,48,Marshall County,6,Regular Season
 2026,"Oct 30, 2026",2026-10-30,Carroll County,56,Gallatin County,0,Regular Season
+2026,"Oct 30, 2026",2026-10-30,Casey County,1,Berea,0,Regular Season
 2026,"Oct 30, 2026",2026-10-30,Central,26,Mayfield,14,Regular Season
 2026,"Oct 30, 2026",2026-10-30,Christian Academy-Louisville,49,Fern Creek,13,Regular Season
 2026,"Oct 30, 2026",2026-10-30,Clay County,49,Lynn Camp,12,Regular Season
@@ -2609,8 +2706,8 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Oct 30, 2026",2026-10-30,Green County,42,East Jessamine,33,Regular Season
 2026,"Oct 30, 2026",2026-10-30,Greenup County,63,Montgomery County,29,Regular Season
 2026,"Oct 30, 2026",2026-10-30,Harlan County,28,Shelby Valley,21,Regular Season
+2026,"Oct 30, 2026",2026-10-30,Holy Cross-Covington,48,Bellevue,7,Regular Season
 2026,"Oct 30, 2026",2026-10-30,Holy Cross-Louisville,13,Butler,7,Regular Season
-2026,"Oct 30, 2026",2026-10-30,Holy Cross-Louisville,48,Bellevue,7,Regular Season
 2026,"Oct 30, 2026",2026-10-30,Hopkins County Central,33,Crittenden County,26,Regular Season
 2026,"Oct 30, 2026",2026-10-30,Jackson County,28,Pineville,22,Regular Season
 2026,"Oct 30, 2026",2026-10-30,Jeffersontown,46,Southern,7,Regular Season
@@ -2668,6 +2765,14 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Oct 30, 2026",2026-10-30,West Jessamine,45,Tates Creek,14,Regular Season
 2026,"Oct 30, 2026",2026-10-30,Western Hills,56,Frankfort,16,Regular Season
 2026,"Oct 30, 2026",2026-10-30,Woodford County,45,Ballard,0,Regular Season
+2026,"Nov 5, 2026",2026-11-05,Boyle County,38,Whitley County,0,Playoffs
+2026,"Nov 5, 2026",2026-11-05,Frederick Douglass,64,Henry Clay,12,Playoffs
+2026,"Nov 5, 2026",2026-11-05,Lexington Catholic,1,Western,0,Playoffs
+2026,"Nov 5, 2026",2026-11-05,Lexington Christian,50,Metcalfe County,0,Playoffs
+2026,"Nov 5, 2026",2026-11-05,Middlesboro,44,Lynn Camp,0,Playoffs
+2026,"Nov 5, 2026",2026-11-05,Owensboro,42,Greenwood,6,Playoffs
+2026,"Nov 5, 2026",2026-11-05,Rockcastle County,48,Powell County,0,Playoffs
+2026,"Nov 5, 2026",2026-11-05,Simon Kenton,56,Southern,0,Playoffs
 2026,"Nov 6, 2026",2026-11-06,Atherton,45,Jeffersontown,12,Playoffs
 2026,"Nov 6, 2026",2026-11-06,Barren County,41,Graves County,0,Playoffs
 2026,"Nov 6, 2026",2026-11-06,Belfry,56,Martin County,8,Playoffs
@@ -2708,7 +2813,6 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Nov 6, 2026",2026-11-06,Highlands,50,Boyd County,0,Playoffs
 2026,"Nov 6, 2026",2026-11-06,Holy Cross-Covington,41,Bellevue,7,Playoffs
 2026,"Nov 6, 2026",2026-11-06,Holy Cross-Louisville,43,Fulton County,8,Playoffs
-2026,"Nov 6, 2026",2026-11-06,Holy Cross-Louisville,41,Bellevue,7,Playoffs
 2026,"Nov 6, 2026",2026-11-06,Knox Central,48,Letcher County Central,21,Playoffs
 2026,"Nov 6, 2026",2026-11-06,Larue County,49,Webster County,12,Playoffs
 2026,"Nov 6, 2026",2026-11-06,Lawrence County,51,McCreary Central,8,Playoffs
@@ -2718,6 +2822,7 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Nov 6, 2026",2026-11-06,Madison Central,56,Tates Creek,20,Playoffs
 2026,"Nov 6, 2026",2026-11-06,Madisonville-North Hopkins,22,Grayson County,14,Playoffs
 2026,"Nov 6, 2026",2026-11-06,Male,37,Campbell County,7,Playoffs
+2026,"Nov 6, 2026",2026-11-06,Mayfield,2,Fort Knox,0,Playoffs
 2026,"Nov 6, 2026",2026-11-06,McCracken County,49,Central Hardin,14,Playoffs
 2026,"Nov 6, 2026",2026-11-06,McLean County,34,Crittenden County,14,Playoffs
 2026,"Nov 6, 2026",2026-11-06,Middlesboro,44,Lynn Camp,0,Playoffs
@@ -2725,12 +2830,14 @@ season,date,date_iso,winner,winner_score,loser,loser_score,round
 2026,"Nov 6, 2026",2026-11-06,Nelson County,29,Warren East,21,Playoffs
 2026,"Nov 6, 2026",2026-11-06,Newport,44,Ludlow,22,Playoffs
 2026,"Nov 6, 2026",2026-11-06,Newport Central Catholic,35,Trimble County,0,Playoffs
+2026,"Nov 6, 2026",2026-11-06,Nicholas County,1,Frankfort,0,Playoffs
 2026,"Nov 6, 2026",2026-11-06,North Bullitt,20,Butler,0,Playoffs
 2026,"Nov 6, 2026",2026-11-06,North Hardin,21,Oldham County,0,Playoffs
 2026,"Nov 6, 2026",2026-11-06,North Laurel,42,East Jessamine,0,Playoffs
 2026,"Nov 6, 2026",2026-11-06,North Oldham,57,Western Hills,0,Playoffs
 2026,"Nov 6, 2026",2026-11-06,Owensboro,42,Greenwood,6,Playoffs
 2026,"Nov 6, 2026",2026-11-06,Owensboro Catholic,54,Trigg County,6,Playoffs
+2026,"Nov 6, 2026",2026-11-06,Paducah Tilghman,1,Marion County,0,Playoffs
 2026,"Nov 6, 2026",2026-11-06,Paintsville,48,Harlan,20,Playoffs
 2026,"Nov 6, 2026",2026-11-06,Perry County Central,29,Lincoln County,28,Playoffs
 2026,"Nov 6, 2026",2026-11-06,Pikeville,46,Pineville,0,Playoffs
