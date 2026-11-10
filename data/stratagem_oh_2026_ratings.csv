@@ -1,47 +1,47 @@
 rank,division_rank,team,state,division,region,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_off,ppg_def,net_margin,harbin_avg,ppa,pqs,l1_pts,l2_pts,contender_tier
-1,1,Bishop Watterson Eagles,OH,D2,7,OHSAA Region 7,10-0,10,0,0,10,99.8,99.8,61.5,70.0,15,38.9,4.5,34.4,40.154,40.154,40.154,40.15,40.15,Finals Contender
-2,1,Liberty Center Tigers,OH,D6,22,OHSAA Region 22,11-0,11,0,0,11,94.9,94.9,52.22,56.3,253,52.0,7.6,44.4,27.4,27.4,27.4,27.4,27.4,Finals Contender
-3,1,Ironton Fighting Tigers,OH,D5,19,OHSAA Region 19,10-1,10,1,0,11,93.6,93.6,49.9,66.8,39,42.2,9.1,33.1,33.5206,33.521,33.521,33.52,33.52,Finals Contender
-4,1,Austintown-Fitch Falcons,OH,D1,1,OHSAA Region 1,8-2,8,2,0,10,92.5,92.5,47.98,69.8,18,44.1,12.5,31.6,30.0996,30.1,30.1,30.1,30.1,Finals Contender
-5,2,Big Walnut Golden Eagles,OH,D2,7,OHSAA Region 7,11-0,11,0,0,11,91.2,91.2,45.77,64.4,69,43.4,11.1,32.3,37.25,37.25,37.25,37.25,37.25,Finals Contender
-6,2,Pickerington North Panthers,OH,D1,3,OHSAA Region 3,9-3,9,3,0,12,90.8,90.8,45.1,69.1,22,32.0,8.4,23.6,24.35,24.35,24.35,24.35,24.35,Finals Contender
-7,1,Tippecanoe Red Devils,OH,D3,12,OHSAA Region 12,10-1,10,1,0,11,89.7,89.7,43.3,54.7,294,45.8,4.9,40.9,27.85,27.85,27.85,27.85,27.85,Finals Contender
-8,2,Perry Pirates,OH,D5,17,OHSAA Region 17,11-0,11,0,0,11,89.4,89.4,42.82,56.5,249,45.4,5.8,39.6,32.1,32.1,32.1,32.1,32.1,Finals Contender
-9,1,Marion Local Flyers,OH,D7,28,OHSAA Region 28,11-0,11,0,0,11,89.0,89.0,42.19,63.4,83,37.2,7.3,29.9,24.95,24.95,24.95,24.95,24.95,Finals Contender
-10,3,Archbold Blue Streaks,OH,D5,18,OHSAA Region 18,10-1,10,1,0,11,87.6,87.6,40.01,59.8,151,43.1,9.1,34.0,21.25,21.25,21.25,21.25,21.25,Finals Contender
-11,3,Princeton Vikings,OH,D1,4,OHSAA Region 4,11-0,11,0,0,11,87.4,87.4,39.71,62.3,108,40.9,11.2,29.7,36.65,36.65,36.65,36.65,36.65,Finals Contender
-12,3,Massillon Washington Tigers,OH,D2,7,OHSAA Region 7,10-1,10,1,0,11,86.7,86.7,38.66,72.0,11,32.0,11.0,21.0,32.3117,32.312,32.312,32.31,32.31,Finals Contender
-13,4,Anderson Raptors,OH,D2,8,OHSAA Region 8,10-1,10,1,0,11,86.6,86.6,38.6,57.9,198,55.5,22.5,33.0,30.85,30.85,30.85,30.85,30.85,Finals Contender
-14,5,Walsh Jesuit Warriors,OH,D2,5,OHSAA Region 5,8-2,8,2,0,10,86.3,86.3,38.5,77.3,1,26.0,12.9,13.1,35.1318,35.132,35.132,35.13,35.13,Finals Contender
-15,4,Perrysburg Yellow Jackets,OH,D1,2,OHSAA Region 2,10-1,10,1,0,11,85.9,85.9,38.24,59.6,162,39.7,9.1,30.6,28.75,28.75,28.75,28.75,28.75,Finals Contender
-16,5,Archbishop Moeller Crusaders,OH,D1,4,OHSAA Region 4,8-3,8,3,0,11,85.2,85.2,37.74,76.6,3,32.4,18.3,14.1,25.7979,25.798,25.798,25.8,25.8,Finals Contender
-17,6,Gahanna Lincoln Golden Lions,OH,D1,3,OHSAA Region 3,11-0,11,0,0,11,85.1,85.1,37.65,71.0,12,26.2,8.4,17.8,42.2,42.2,42.2,42.2,42.2,Finals Contender
-18,1,London Red Raiders,OH,D4,16,OHSAA Region 16,9-2,9,2,0,11,84.4,84.4,36.9,62.5,104,34.5,7.8,26.7,23.6,23.6,23.6,23.6,23.6,Finals Contender
-19,7,Elder Panthers,OH,D1,4,OHSAA Region 4,9-2,9,2,0,11,84.3,84.3,36.7,72.2,10,36.9,15.5,21.4,32.4881,32.488,32.488,32.49,32.49,Finals Contender
-20,8,St Edward Eagles,OH,D1,1,OHSAA Region 1,10-1,10,1,0,11,84.0,84.0,36.41,77.0,2,29.8,17.7,12.1,38.0,38.0,38.0,38.0,38.0,Finals Contender
-21,6,Highland Hornets,OH,D2,5,OHSAA Region 5,10-1,10,1,0,11,84.0,84.0,36.2,68.8,24,34.0,15.9,18.1,36.5086,36.509,36.509,36.51,36.51,Finals Contender
-22,9,Hudson Explorers,OH,D1,1,OHSAA Region 1,9-3,9,3,0,12,84.0,84.0,36.12,66.6,42,36.6,15.2,21.4,22.9859,22.986,22.986,22.99,22.99,Finals Contender
-23,10,Upper Arlington Golden Bears,OH,D1,3,OHSAA Region 3,9-2,9,2,0,11,84.0,84.0,36.1,69.0,23,29.0,10.3,18.7,30.55,30.55,30.55,30.55,30.55,Finals Contender
-24,2,South Range Raiders,OH,D6,21,OHSAA Region 21,10-1,10,1,0,11,84.0,84.0,35.93,60.5,138,46.4,16.5,29.9,21.7959,21.796,21.796,21.8,21.8,Finals Contender
-25,2,Steubenville Big Red,OH,D3,11,OHSAA Region 11,9-2,9,2,0,11,84.0,84.0,34.84,73.4,7,34.5,17.7,16.8,32.272,32.272,32.272,32.27,32.27,Finals Contender
-26,3,Bellbrook Golden Eagles,OH,D3,12,OHSAA Region 12,11-0,11,0,0,11,84.0,84.0,34.84,62.0,112,33.4,7.4,26.0,32.8,32.8,32.8,32.8,32.8,Finals Contender
-27,11,Lakota West Firebirds,OH,D1,4,OHSAA Region 4,9-2,9,2,0,11,84.0,84.0,34.84,62.6,97,37.2,14.0,23.2,29.15,29.15,29.15,29.15,29.15,Finals Contender
-28,2,Shelby Whippets,OH,D4,14,OHSAA Region 14,11-0,11,0,0,11,84.0,84.0,34.84,55.1,281,40.4,8.5,31.9,28.3,28.3,28.3,28.3,28.3,Finals Contender
-29,7,Avon Eagles,OH,D2,6,OHSAA Region 6,9-2,9,2,0,11,84.0,84.0,34.84,61.6,121,41.4,20.1,21.3,26.9202,26.92,26.92,26.92,26.92,Finals Contender
-30,12,Canton McKinley Bulldogs,OH,D1,1,OHSAA Region 1,9-3,9,3,0,12,83.0,83.0,33.52,67.4,34,31.8,14.0,17.8,19.4541,19.454,19.454,19.45,19.45,Finals Contender
-31,3,Kirtland Hornets,OH,D6,21,OHSAA Region 21,10-1,10,1,0,11,82.8,82.8,33.26,49.2,405,42.7,8.0,34.7,22.2122,22.212,22.212,22.21,22.21,Finals Contender
-32,2,Danville Blue Devils,OH,D7,27,OHSAA Region 27,11-0,11,0,0,11,82.6,82.6,33.01,45.5,479,46.2,5.3,40.9,21.1727,21.173,21.173,21.17,21.17,Finals Contender
-33,13,Whitmer Panthers,OH,D1,2,OHSAA Region 2,9-2,9,2,0,11,82.6,82.6,33.01,63.6,79,37.1,16.6,20.5,33.9848,33.985,33.985,33.98,33.98,Finals Contender
-34,14,Springfield Wildcats,OH,D1,2,OHSAA Region 2,9-2,9,2,0,11,82.5,82.5,32.88,68.5,27,25.8,10.0,15.8,29.0776,29.078,29.078,29.08,29.08,Finals Contender
-35,8,Trotwood-Madison Rams,OH,D2,8,OHSAA Region 8,8-2,8,2,0,10,82.2,82.2,32.51,65.2,60,32.4,10.8,21.6,27.1717,27.172,27.172,27.17,27.17,Finals Contender
-36,9,Nordonia Knights,OH,D2,5,OHSAA Region 5,10-1,10,1,0,11,81.8,81.8,32.02,65.0,62,38.2,19.1,19.1,33.25,33.25,33.25,33.25,33.25,Semifinal Contender
-37,4,Barnesville Shamrocks,OH,D5,17,OHSAA Region 17,11-0,11,0,0,11,81.7,81.7,31.9,58.1,196,40.1,14.6,25.5,27.8838,27.884,27.884,27.88,27.88,Finals Contender
-38,3,Indian Valley Braves,OH,D4,15,OHSAA Region 15,10-0,10,0,0,10,81.7,81.7,31.9,62.0,113,34.7,12.8,21.9,29.3889,29.389,29.389,29.39,29.39,Finals Contender
-39,10,Central Catholic Fighting Irish,OH,D2,6,OHSAA Region 6,9-2,9,2,0,11,81.5,81.5,31.67,66.3,47,34.1,16.5,17.6,32.2587,32.259,32.259,32.26,32.26,Semifinal Contender
-40,4,St Henry Redskins,OH,D6,24,OHSAA Region 24,9-3,9,3,0,12,81.5,81.5,31.67,66.2,49,35.1,15.0,20.1,15.9,15.9,15.9,15.9,15.9,Finals Contender
-41,15,Winton Woods Warriors,OH,D1,4,OHSAA Region 4,9-3,9,3,0,12,81.0,81.0,31.08,61.2,130,34.0,12.0,22.0,25.15,25.15,25.15,25.15,25.15,Semifinal Contender
-42,11,Wadsworth Grizzlies,OH,D2,5,OHSAA Region 5,9-3,9,3,0,12,80.9,80.9,30.97,65.6,51,32.1,16.0,16.1,24.95,24.95,24.95,24.95,24.95,Semifinal Contender
-43,16,St Ignatius Wildcats,OH,D1,1,OHSAA Region 1,6-6,6,6,0,12,80.8,80.8,30.86,74.4,4,32.0,21.8,10.2,18.6415,18.642,18.642,18.64,18.64,Semifinal Contender
+1,1,Bishop Watterson Eagles,OH,D2,7,OHSAA Region 7,10-0,10,0,0,10,111.5,111.5,61.5,70.0,15,38.9,4.5,34.4,40.154,40.154,40.154,40.15,40.15,Finals Contender
+2,1,Liberty Center Tigers,OH,D6,22,OHSAA Region 22,11-0,11,0,0,11,102.2,102.2,52.22,56.3,253,52.0,7.6,44.4,27.4,27.4,27.4,27.4,27.4,Finals Contender
+3,1,Ironton Fighting Tigers,OH,D5,19,OHSAA Region 19,10-1,10,1,0,11,99.9,99.9,49.9,66.8,39,42.2,9.1,33.1,33.5206,33.521,33.521,33.52,33.52,Finals Contender
+4,1,Austintown-Fitch Falcons,OH,D1,1,OHSAA Region 1,8-2,8,2,0,10,98.0,98.0,47.98,69.8,18,44.1,12.5,31.6,30.0996,30.1,30.1,30.1,30.1,Finals Contender
+5,2,Big Walnut Golden Eagles,OH,D2,7,OHSAA Region 7,11-0,11,0,0,11,95.8,95.8,45.77,64.4,69,43.4,11.1,32.3,37.25,37.25,37.25,37.25,37.25,Finals Contender
+6,2,Pickerington North Panthers,OH,D1,3,OHSAA Region 3,9-3,9,3,0,12,95.1,95.1,45.1,69.1,22,32.0,8.4,23.6,24.35,24.35,24.35,24.35,24.35,Finals Contender
+7,1,Tippecanoe Red Devils,OH,D3,12,OHSAA Region 12,10-1,10,1,0,11,93.3,93.3,43.3,54.7,294,45.8,4.9,40.9,27.85,27.85,27.85,27.85,27.85,Finals Contender
+8,2,Perry Pirates,OH,D5,17,OHSAA Region 17,11-0,11,0,0,11,92.8,92.8,42.82,56.5,249,45.4,5.8,39.6,32.1,32.1,32.1,32.1,32.1,Finals Contender
+9,1,Marion Local Flyers,OH,D7,28,OHSAA Region 28,11-0,11,0,0,11,92.2,92.2,42.19,63.4,83,37.2,7.3,29.9,24.95,24.95,24.95,24.95,24.95,Finals Contender
+10,3,Archbold Blue Streaks,OH,D5,18,OHSAA Region 18,10-1,10,1,0,11,90.0,90.0,40.01,59.8,151,43.1,9.1,34.0,21.25,21.25,21.25,21.25,21.25,Finals Contender
+11,3,Princeton Vikings,OH,D1,4,OHSAA Region 4,11-0,11,0,0,11,89.7,89.7,39.71,62.3,108,40.9,11.2,29.7,36.65,36.65,36.65,36.65,36.65,Finals Contender
+12,3,Massillon Washington Tigers,OH,D2,7,OHSAA Region 7,10-1,10,1,0,11,88.7,88.7,38.66,72.0,11,32.0,11.0,21.0,32.3117,32.312,32.312,32.31,32.31,Finals Contender
+13,4,Anderson Raptors,OH,D2,8,OHSAA Region 8,10-1,10,1,0,11,88.6,88.6,38.6,57.9,198,55.5,22.5,33.0,30.85,30.85,30.85,30.85,30.85,Finals Contender
+14,5,Walsh Jesuit Warriors,OH,D2,5,OHSAA Region 5,8-2,8,2,0,10,88.5,88.5,38.5,77.3,1,26.0,12.9,13.1,35.1318,35.132,35.132,35.13,35.13,Finals Contender
+15,4,Perrysburg Yellow Jackets,OH,D1,2,OHSAA Region 2,10-1,10,1,0,11,88.2,88.2,38.24,59.6,162,39.7,9.1,30.6,28.75,28.75,28.75,28.75,28.75,Finals Contender
+16,5,Archbishop Moeller Crusaders,OH,D1,4,OHSAA Region 4,8-3,8,3,0,11,87.7,87.7,37.74,76.6,3,32.4,18.3,14.1,25.7979,25.798,25.798,25.8,25.8,Finals Contender
+17,6,Gahanna Lincoln Golden Lions,OH,D1,3,OHSAA Region 3,11-0,11,0,0,11,87.7,87.7,37.65,71.0,12,26.2,8.4,17.8,42.2,42.2,42.2,42.2,42.2,Finals Contender
+18,1,London Red Raiders,OH,D4,16,OHSAA Region 16,9-2,9,2,0,11,86.9,86.9,36.9,62.5,104,34.5,7.8,26.7,23.6,23.6,23.6,23.6,23.6,Finals Contender
+19,7,Elder Panthers,OH,D1,4,OHSAA Region 4,9-2,9,2,0,11,86.7,86.7,36.7,72.2,10,36.9,15.5,21.4,32.4881,32.488,32.488,32.49,32.49,Finals Contender
+20,8,St Edward Eagles,OH,D1,1,OHSAA Region 1,10-1,10,1,0,11,86.4,86.4,36.41,77.0,2,29.8,17.7,12.1,38.0,38.0,38.0,38.0,38.0,Finals Contender
+21,6,Highland Hornets,OH,D2,5,OHSAA Region 5,10-1,10,1,0,11,86.2,86.2,36.2,68.8,24,34.0,15.9,18.1,36.5086,36.509,36.509,36.51,36.51,Finals Contender
+22,9,Hudson Explorers,OH,D1,1,OHSAA Region 1,9-3,9,3,0,12,86.1,86.1,36.12,66.6,42,36.6,15.2,21.4,22.9859,22.986,22.986,22.99,22.99,Finals Contender
+23,10,Upper Arlington Golden Bears,OH,D1,3,OHSAA Region 3,9-2,9,2,0,11,86.1,86.1,36.1,69.0,23,29.0,10.3,18.7,30.55,30.55,30.55,30.55,30.55,Finals Contender
+24,2,South Range Raiders,OH,D6,21,OHSAA Region 21,10-1,10,1,0,11,85.9,85.9,35.93,60.5,138,46.4,16.5,29.9,21.7959,21.796,21.796,21.8,21.8,Finals Contender
+25,2,Steubenville Big Red,OH,D3,11,OHSAA Region 11,9-2,9,2,0,11,84.8,84.8,34.84,73.4,7,34.5,17.7,16.8,32.272,32.272,32.272,32.27,32.27,Finals Contender
+26,3,Bellbrook Golden Eagles,OH,D3,12,OHSAA Region 12,11-0,11,0,0,11,84.8,84.8,34.84,62.0,112,33.4,7.4,26.0,32.8,32.8,32.8,32.8,32.8,Finals Contender
+27,11,Lakota West Firebirds,OH,D1,4,OHSAA Region 4,9-2,9,2,0,11,84.8,84.8,34.84,62.6,97,37.2,14.0,23.2,29.15,29.15,29.15,29.15,29.15,Finals Contender
+28,2,Shelby Whippets,OH,D4,14,OHSAA Region 14,11-0,11,0,0,11,84.8,84.8,34.84,55.1,281,40.4,8.5,31.9,28.3,28.3,28.3,28.3,28.3,Finals Contender
+29,7,Avon Eagles,OH,D2,6,OHSAA Region 6,9-2,9,2,0,11,84.8,84.8,34.84,61.6,121,41.4,20.1,21.3,26.9202,26.92,26.92,26.92,26.92,Finals Contender
+30,12,Canton McKinley Bulldogs,OH,D1,1,OHSAA Region 1,9-3,9,3,0,12,83.5,83.5,33.52,67.4,34,31.8,14.0,17.8,19.4541,19.454,19.454,19.45,19.45,Finals Contender
+31,3,Kirtland Hornets,OH,D6,21,OHSAA Region 21,10-1,10,1,0,11,83.3,83.3,33.26,49.2,405,42.7,8.0,34.7,22.2122,22.212,22.212,22.21,22.21,Finals Contender
+32,2,Danville Blue Devils,OH,D7,27,OHSAA Region 27,11-0,11,0,0,11,83.0,83.0,33.01,45.5,479,46.2,5.3,40.9,21.1727,21.173,21.173,21.17,21.17,Finals Contender
+33,13,Whitmer Panthers,OH,D1,2,OHSAA Region 2,9-2,9,2,0,11,83.0,83.0,33.01,63.6,79,37.1,16.6,20.5,33.9848,33.985,33.985,33.98,33.98,Finals Contender
+34,14,Springfield Wildcats,OH,D1,2,OHSAA Region 2,9-2,9,2,0,11,82.9,82.9,32.88,68.5,27,25.8,10.0,15.8,29.0776,29.078,29.078,29.08,29.08,Finals Contender
+35,8,Trotwood-Madison Rams,OH,D2,8,OHSAA Region 8,8-2,8,2,0,10,82.5,82.5,32.51,65.2,60,32.4,10.8,21.6,27.1717,27.172,27.172,27.17,27.17,Finals Contender
+36,9,Nordonia Knights,OH,D2,5,OHSAA Region 5,10-1,10,1,0,11,82.0,82.0,32.02,65.0,62,38.2,19.1,19.1,33.25,33.25,33.25,33.25,33.25,Semifinal Contender
+37,4,Barnesville Shamrocks,OH,D5,17,OHSAA Region 17,11-0,11,0,0,11,81.9,81.9,31.9,58.1,196,40.1,14.6,25.5,27.8838,27.884,27.884,27.88,27.88,Finals Contender
+38,3,Indian Valley Braves,OH,D4,15,OHSAA Region 15,10-0,10,0,0,10,81.9,81.9,31.9,62.0,113,34.7,12.8,21.9,29.3889,29.389,29.389,29.39,29.39,Finals Contender
+39,10,Central Catholic Fighting Irish,OH,D2,6,OHSAA Region 6,9-2,9,2,0,11,81.7,81.7,31.67,66.3,47,34.1,16.5,17.6,32.2587,32.259,32.259,32.26,32.26,Semifinal Contender
+40,4,St Henry Redskins,OH,D6,24,OHSAA Region 24,9-3,9,3,0,12,81.7,81.7,31.67,66.2,49,35.1,15.0,20.1,15.9,15.9,15.9,15.9,15.9,Finals Contender
+41,15,Winton Woods Warriors,OH,D1,4,OHSAA Region 4,9-3,9,3,0,12,81.1,81.1,31.08,61.2,130,34.0,12.0,22.0,25.15,25.15,25.15,25.15,25.15,Semifinal Contender
+42,11,Wadsworth Grizzlies,OH,D2,5,OHSAA Region 5,9-3,9,3,0,12,81.0,81.0,30.97,65.6,51,32.1,16.0,16.1,24.95,24.95,24.95,24.95,24.95,Semifinal Contender
+43,16,St Ignatius Wildcats,OH,D1,1,OHSAA Region 1,6-6,6,6,0,12,80.9,80.9,30.86,74.4,4,32.0,21.8,10.2,18.6415,18.642,18.642,18.64,18.64,Semifinal Contender
 44,4,Perkins Pirates,OH,D4,14,OHSAA Region 14,11-0,11,0,0,11,80.5,80.5,30.55,51.6,357,42.4,11.5,30.9,24.0,24.0,24.0,24.0,24.0,Finals Contender
 45,5,Girard Indians,OH,D5,17,OHSAA Region 17,11-0,11,0,0,11,80.5,80.5,30.53,58.2,194,44.3,19.0,25.3,26.4146,26.415,26.415,26.41,26.41,Semifinal Contender
 46,5,West Branch Warriors,OH,D4,13,OHSAA Region 13,10-1,10,1,0,11,80.3,80.3,30.33,54.6,298,34.9,7.3,27.6,24.15,24.15,24.15,24.15,24.15,Semifinal Contender
