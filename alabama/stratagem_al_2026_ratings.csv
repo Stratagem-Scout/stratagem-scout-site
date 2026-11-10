@@ -1,415 +1,415 @@
 rank,division_rank,team,state,division,region,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_off,ppg_def,net_margin,harbin_avg,ppa,pqs,l1_pts,l2_pts,contender_tier
-1,1,Prattville,AL,7A,4,AHSAA Class 7A,10-0,10,0,0,10,97.1,97.1,55.8,79.8,8,40.3,16.2,24.1,26.17,26.17,26.17,70.0,356.5,State Title Contender
-2,2,Thompson,AL,7A,1,AHSAA Class 7A,8-1,8,1,0,9,97.0,97.0,55.66,82.9,2,42.7,11.9,30.8,24.6,24.6,24.6,56.0,300.9,State Title Contender
-3,3,Central-Phenix City,AL,7A,4,AHSAA Class 7A,9-1,9,1,0,10,94.7,94.7,48.95,78.6,10,46.7,13.6,33.1,23.14,23.14,23.14,63.0,313.3,State Title Contender
-4,4,Vestavia Hills,AL,7A,1,AHSAA Class 7A,8-2,8,2,0,10,90.6,90.6,41.85,80.9,6,26.3,14.9,11.4,20.79,20.79,20.79,56.0,290.6,State Title Contender
-5,1,Hillcrest,AL,6A,1,AHSAA Class 6A,10-0,10,0,0,10,87.8,87.8,38.23,71.5,83,52.1,12.9,39.2,21.67,21.67,21.67,65.0,302.3,State Title Contender
-6,5,Hewitt-Trussville,AL,7A,3,AHSAA Class 7A,7-4,7,4,0,11,87.8,87.8,38.22,81.6,3,35.0,33.4,1.6,17.23,17.23,17.23,49.0,257.3,State Title Contender
-7,6,Spain Park,AL,7A,2,AHSAA Class 7A,7-4,7,4,0,11,87.7,87.7,38.13,80.5,7,32.7,24.3,8.4,17.06,17.06,17.06,49.0,252.5,State Title Contender
-8,7,Hoover,AL,7A,3,AHSAA Class 7A,5-6,5,6,0,11,87.3,87.3,37.68,81.1,5,28.1,17.6,10.5,13.51,13.51,13.51,35.0,182.4,State Title Contender
-9,2,Clay-Chalkville,AL,6A,3,AHSAA Class 6A,8-2,8,2,0,10,86.5,86.5,36.73,77.7,12,49.5,17.2,32.3,19.19,19.19,19.19,52.0,273.9,State Title Contender
-10,8,Auburn,AL,7A,1,AHSAA Class 7A,7-3,7,3,0,10,86.0,86.0,36.15,79.0,9,32.8,22.8,10.0,17.83,17.83,17.83,49.0,245.5,State Title Contender
-11,9,Opelika,AL,7A,4,AHSAA Class 7A,5-5,5,5,0,10,84.3,84.3,34.34,77.8,11,29.0,19.6,9.4,13.63,13.63,13.63,35.0,171.6,State Title Contender
-12,3,Gulf Shores,AL,6A,3,AHSAA Class 6A,11-0,11,0,0,11,81.8,81.8,31.81,72.4,63,37.1,9.5,27.6,21.09,21.09,21.09,71.5,338.6,State Title Contender
-13,4,Saraland,AL,6A,3,AHSAA Class 6A,10-1,10,1,0,11,81.8,81.8,31.79,72.5,61,52.9,16.3,36.6,19.55,19.55,19.55,65.0,308.7,State Title Contender
-14,5,Parker,AL,6A,4,AHSAA Class 6A,10-1,10,1,0,11,80.2,80.2,30.25,73.6,34,41.9,12.9,29.0,19.59,19.59,19.59,65.0,316.0,Semifinal Contender
+1,1,Prattville,AL,7A,2,AHSAA Class 7A,10-0,10,0,0,10,105.8,105.8,55.8,79.8,8,40.3,16.2,24.1,26.17,26.17,26.17,70.0,356.5,State Title Contender
+2,2,Thompson,AL,7A,3,AHSAA Class 7A,8-1,8,1,0,9,105.7,105.7,55.66,82.9,2,42.7,11.9,30.8,24.6,24.6,24.6,56.0,300.9,State Title Contender
+3,3,Central-Phenix City,AL,7A,2,AHSAA Class 7A,9-1,9,1,0,10,99.0,99.0,48.95,78.6,10,46.7,13.6,33.1,23.14,23.14,23.14,63.0,313.3,State Title Contender
+4,4,Vestavia Hills,AL,7A,2,AHSAA Class 7A,8-2,8,2,0,10,91.8,91.8,41.85,80.9,6,26.3,14.9,11.4,20.79,20.79,20.79,56.0,290.6,State Title Contender
+5,1,Hillcrest,AL,6A,2,AHSAA Class 6A,10-0,10,0,0,10,88.2,88.2,38.23,71.5,83,52.1,12.9,39.2,21.67,21.67,21.67,65.0,302.3,State Title Contender
+6,5,Hewitt-Trussville,AL,7A,3,AHSAA Class 7A,7-4,7,4,0,11,88.2,88.2,38.22,81.6,3,35.0,33.4,1.6,17.23,17.23,17.23,49.0,257.3,State Title Contender
+7,6,Spain Park,AL,7A,2,AHSAA Class 7A,7-4,7,4,0,11,88.1,88.1,38.13,80.5,7,32.7,24.3,8.4,17.06,17.06,17.06,49.0,252.5,State Title Contender
+8,7,Hoover,AL,7A,3,AHSAA Class 7A,5-6,5,6,0,11,87.7,87.7,37.68,81.1,5,28.1,17.6,10.5,13.51,13.51,13.51,35.0,182.4,State Title Contender
+9,2,Clay-Chalkville,AL,6A,3,AHSAA Class 6A,8-2,8,2,0,10,86.7,86.7,36.73,77.7,12,49.5,17.2,32.3,19.19,19.19,19.19,52.0,273.9,State Title Contender
+10,8,Auburn,AL,7A,3,AHSAA Class 7A,7-3,7,3,0,10,86.2,86.2,36.15,79.0,9,32.8,22.8,10.0,17.83,17.83,17.83,49.0,245.5,State Title Contender
+11,9,Opelika,AL,7A,2,AHSAA Class 7A,5-5,5,5,0,10,84.3,84.3,34.34,77.8,11,29.0,19.6,9.4,13.63,13.63,13.63,35.0,171.6,State Title Contender
+12,3,Gulf Shores,AL,6A,4,AHSAA Class 6A,11-0,11,0,0,11,81.8,81.8,31.81,72.4,63,37.1,9.5,27.6,21.09,21.09,21.09,71.5,338.6,State Title Contender
+13,4,Saraland,AL,6A,2,AHSAA Class 6A,10-1,10,1,0,11,81.8,81.8,31.79,72.5,61,52.9,16.3,36.6,19.55,19.55,19.55,65.0,308.7,State Title Contender
+14,5,Parker,AL,6A,3,AHSAA Class 6A,10-1,10,1,0,11,80.2,80.2,30.25,73.6,34,41.9,12.9,29.0,19.59,19.59,19.59,65.0,316.0,Semifinal Contender
 15,10,Carver Montgomery,AL,7A,1,AHSAA Class 7A,7-4,7,4,0,11,79.7,79.7,29.67,75.6,18,31.5,21.5,10.0,15.34,15.34,15.34,49.0,230.2,Semifinal Contender
-16,11,Enterprise,AL,7A,2,AHSAA Class 7A,6-5,6,5,0,11,77.1,77.1,27.08,76.4,15,32.1,29.1,3.0,13.44,13.44,13.44,42.0,200.4,Semifinal Contender
-17,12,Montgomery Academy,AL,7A,4,AHSAA Class 7A,11-0,11,0,0,11,75.6,75.6,25.63,65.8,185,45.1,5.5,39.6,19.35,19.35,19.35,77.0,291.6,Semifinal Contender
-18,1,Briarwood Christian,AL,4A,1,AHSAA Class 4A,11-0,11,0,0,11,74.7,74.7,24.74,68.0,137,36.3,8.9,27.4,18.26,18.26,18.26,60.5,307.7,State Title Contender
-19,6,Benjamin Russell,AL,6A,3,AHSAA Class 6A,8-2,8,2,0,10,74.5,74.5,24.48,73.4,39,27.9,11.1,16.8,16.94,16.94,16.94,52.0,251.6,Semifinal Contender
+16,11,Enterprise,AL,7A,4,AHSAA Class 7A,6-5,6,5,0,11,77.1,77.1,27.08,76.4,15,32.1,29.1,3.0,13.44,13.44,13.44,42.0,200.4,Semifinal Contender
+17,12,Montgomery Academy,AL,7A,3,AHSAA Class 7A,11-0,11,0,0,11,75.6,75.6,25.63,65.8,185,45.1,5.5,39.6,19.35,19.35,19.35,77.0,291.6,Semifinal Contender
+18,1,Briarwood Christian,AL,4A,3,AHSAA Class 4A,11-0,11,0,0,11,74.7,74.7,24.74,68.0,137,36.3,8.9,27.4,18.26,18.26,18.26,60.5,307.7,State Title Contender
+19,6,Benjamin Russell,AL,6A,2,AHSAA Class 6A,8-2,8,2,0,10,74.5,74.5,24.48,73.4,39,27.9,11.1,16.8,16.94,16.94,16.94,52.0,251.6,Semifinal Contender
 20,1,Maplesville,AL,1A,3,AHSAA Class 1A,8-2,8,2,0,10,74.0,74.0,24.01,60.6,347,51.3,7.6,43.7,12.57,12.57,12.57,32.0,185.4,State Title Contender
-21,7,Homewood,AL,6A,1,AHSAA Class 6A,10-1,10,1,0,11,73.8,73.8,23.84,72.4,62,31.1,10.6,20.5,18.58,18.58,18.58,65.0,308.3,Semifinal Contender
-22,13,Oak Mountain,AL,7A,3,AHSAA Class 7A,2-8,2,8,0,10,73.8,73.8,23.8,81.4,4,22.6,35.8,-13.2,6.82,6.82,6.82,14.0,73.4,Quarterfinal Contender
-23,1,Williamson,AL,5A,1,AHSAA Class 5A,8-1,8,1,0,9,73.4,73.4,23.43,71.9,76,35.2,4.1,31.1,17.62,17.62,17.62,48.0,243.7,State Title Contender
+21,7,Homewood,AL,6A,4,AHSAA Class 6A,10-1,10,1,0,11,73.8,73.8,23.84,72.4,62,31.1,10.6,20.5,18.58,18.58,18.58,65.0,308.3,Semifinal Contender
+22,13,Oak Mountain,AL,7A,2,AHSAA Class 7A,2-8,2,8,0,10,73.8,73.8,23.8,81.4,4,22.6,35.8,-13.2,6.82,6.82,6.82,14.0,73.4,Quarterfinal Contender
+23,1,Williamson,AL,5A,3,AHSAA Class 5A,8-1,8,1,0,9,73.4,73.4,23.43,71.9,76,35.2,4.1,31.1,17.62,17.62,17.62,48.0,243.7,State Title Contender
 24,8,Oxford,AL,6A,2,AHSAA Class 6A,7-3,7,3,0,10,73.3,73.3,23.26,73.8,30,31.9,19.7,12.2,15.12,15.12,15.12,45.5,222.3,Semifinal Contender
-25,1,Reeltown,AL,2A,3,AHSAA Class 2A,11-0,11,0,0,11,73.2,73.2,23.23,63.2,260,45.4,4.8,40.6,15.98,15.98,15.98,49.5,273.1,State Title Contender
-26,9,Pike Road,AL,6A,2,AHSAA Class 6A,8-3,8,3,0,11,72.9,72.9,22.86,72.0,72,40.2,18.2,22.0,15.25,15.25,15.25,52.0,244.5,Quarterfinal Contender
-27,2,Vigor,AL,5A,2,AHSAA Class 5A,9-2,9,2,0,11,72.7,72.7,22.69,72.9,48,32.1,9.2,22.9,16.55,16.55,16.55,54.0,280.2,State Title Contender
+25,1,Reeltown,AL,2A,1,AHSAA Class 2A,11-0,11,0,0,11,73.2,73.2,23.23,63.2,260,45.4,4.8,40.6,15.98,15.98,15.98,49.5,273.1,State Title Contender
+26,9,Pike Road,AL,6A,1,AHSAA Class 6A,8-3,8,3,0,11,72.9,72.9,22.86,72.0,72,40.2,18.2,22.0,15.25,15.25,15.25,52.0,244.5,Quarterfinal Contender
+27,2,Vigor,AL,5A,3,AHSAA Class 5A,9-2,9,2,0,11,72.7,72.7,22.69,72.9,48,32.1,9.2,22.9,16.55,16.55,16.55,54.0,280.2,State Title Contender
 28,10,Muscle Shoals,AL,6A,2,AHSAA Class 6A,7-3,7,3,0,10,72.2,72.2,22.24,73.3,42,30.0,13.8,16.2,14.9,14.9,14.9,45.5,219.6,Quarterfinal Contender
-29,2,Piedmont,AL,2A,3,AHSAA Class 2A,10-1,10,1,0,11,71.7,71.7,21.69,66.1,171,39.5,10.9,28.6,15.19,15.19,15.19,45.0,267.1,State Title Contender
+29,2,Piedmont,AL,2A,4,AHSAA Class 2A,10-1,10,1,0,11,71.7,71.7,21.69,66.1,171,39.5,10.9,28.6,15.19,15.19,15.19,45.0,267.1,State Title Contender
 30,3,Leeds,AL,5A,3,AHSAA Class 5A,9-1,9,1,0,10,71.6,71.6,21.63,72.2,66,39.4,11.1,28.3,17.67,17.67,17.67,54.0,276.4,State Title Contender
-31,4,Alexandria,AL,5A,1,AHSAA Class 5A,10-1,10,1,0,11,70.9,70.9,20.93,72.1,70,40.4,20.5,19.9,17.71,17.71,17.71,60.0,306.3,State Title Contender
+31,4,Alexandria,AL,5A,2,AHSAA Class 5A,10-1,10,1,0,11,70.9,70.9,20.93,72.1,70,40.4,20.5,19.9,17.71,17.71,17.71,60.0,306.3,State Title Contender
 32,3,Cottonwood,AL,2A,1,AHSAA Class 2A,11-0,11,0,0,11,70.3,70.3,20.32,61.1,332,47.8,4.5,43.3,15.15,15.15,15.15,49.5,258.2,State Title Contender
 33,5,Westbrook Christian,AL,5A,4,AHSAA Class 5A,11-0,11,0,0,11,70.3,70.3,20.28,64.9,209,39.4,10.1,29.3,17.52,17.52,17.52,66.0,285.6,Semifinal Contender
-34,6,Scottsboro,AL,5A,4,AHSAA Class 5A,11-0,11,0,0,11,70.2,70.2,20.18,62.1,302,46.7,6.5,40.2,16.86,16.86,16.86,66.0,265.3,Semifinal Contender
-35,4,Luverne,AL,2A,2,AHSAA Class 2A,10-1,10,1,0,11,70.2,70.2,20.16,65.5,190,51.5,15.5,36.0,14.89,14.89,14.89,45.0,263.3,State Title Contender
-36,14,Daphne,AL,7A,4,AHSAA Class 7A,7-3,7,3,0,10,69.9,69.9,19.91,73.4,38,27.5,15.8,11.7,15.0,15.0,15.0,49.0,220.2,Quarterfinal Contender
+34,6,Scottsboro,AL,5A,3,AHSAA Class 5A,11-0,11,0,0,11,70.2,70.2,20.18,62.1,302,46.7,6.5,40.2,16.86,16.86,16.86,66.0,265.3,Semifinal Contender
+35,4,Luverne,AL,2A,1,AHSAA Class 2A,10-1,10,1,0,11,70.2,70.2,20.16,65.5,190,51.5,15.5,36.0,14.89,14.89,14.89,45.0,263.3,State Title Contender
+36,14,Daphne,AL,7A,1,AHSAA Class 7A,7-3,7,3,0,10,69.9,69.9,19.91,73.4,38,27.5,15.8,11.7,15.0,15.0,15.0,49.0,220.2,Quarterfinal Contender
 37,2,American Christian Academy,AL,4A,1,AHSAA Class 4A,10-1,10,1,0,11,69.9,69.9,19.89,68.2,133,42.8,14.0,28.8,16.32,16.32,16.32,55.0,280.7,State Title Contender
-38,1,Hatton,AL,3A,2,AHSAA Class 3A,11-0,11,0,0,11,69.8,69.8,19.76,65.4,193,38.7,10.2,28.5,16.57,16.57,16.57,55.0,289.1,State Title Contender
-39,2,Cleburne County,AL,3A,4,AHSAA Class 3A,11-0,11,0,0,11,69.4,69.4,19.39,63.1,263,48.1,6.7,41.4,15.99,15.99,15.99,55.0,272.3,State Title Contender
+38,1,Hatton,AL,3A,3,AHSAA Class 3A,11-0,11,0,0,11,69.8,69.8,19.76,65.4,193,38.7,10.2,28.5,16.57,16.57,16.57,55.0,289.1,State Title Contender
+39,2,Cleburne County,AL,3A,3,AHSAA Class 3A,11-0,11,0,0,11,69.4,69.4,19.39,63.1,263,48.1,6.7,41.4,15.99,15.99,15.99,55.0,272.3,State Title Contender
 40,15,Mary G. Montgomery,AL,7A,4,AHSAA Class 7A,7-3,7,3,0,10,69.0,69.0,19.02,74.2,27,20.2,18.6,1.6,15.02,15.02,15.02,49.0,223.9,Quarterfinal Contender
-41,16,Fairhope,AL,7A,3,AHSAA Class 7A,8-2,8,2,0,10,68.9,68.9,18.88,73.2,44,28.5,19.9,8.6,16.63,16.63,16.63,56.0,250.5,Quarterfinal Contender
-42,11,Mountain Brook,AL,6A,2,AHSAA Class 6A,6-4,6,4,0,10,68.6,68.6,18.58,72.3,65,25.8,12.5,13.3,12.58,12.58,12.58,39.0,184.4,Quarterfinal Contender
+41,16,Fairhope,AL,7A,1,AHSAA Class 7A,8-2,8,2,0,10,68.9,68.9,18.88,73.2,44,28.5,19.9,8.6,16.63,16.63,16.63,56.0,250.5,Quarterfinal Contender
+42,11,Mountain Brook,AL,6A,3,AHSAA Class 6A,6-4,6,4,0,10,68.6,68.6,18.58,72.3,65,25.8,12.5,13.3,12.58,12.58,12.58,39.0,184.4,Quarterfinal Contender
 43,12,Pell City,AL,6A,3,AHSAA Class 6A,4-6,4,6,0,10,68.3,68.3,18.26,77.5,13,23.1,36.3,-13.2,9.57,9.57,9.57,26.0,136.5,Quarterfinal Contender
-44,3,Mars Hill Bible,AL,3A,2,AHSAA Class 3A,9-2,9,2,0,11,68.1,68.1,18.14,66.4,167,33.4,12.0,21.4,13.97,13.97,13.97,45.0,242.0,State Title Contender
-45,3,McGill-Toolen,AL,4A,2,AHSAA Class 4A,9-2,9,2,0,11,68.1,68.1,18.14,73.3,41,30.6,15.5,15.1,15.67,15.67,15.67,49.5,282.6,State Title Contender
-46,5,Gordo,AL,2A,3,AHSAA Class 2A,10-1,10,1,0,11,67.5,67.5,17.54,65.7,186,44.1,13.7,30.4,14.62,14.62,14.62,45.0,264.7,Semifinal Contender
-47,17,Baker,AL,7A,4,AHSAA Class 7A,6-5,6,5,0,11,67.5,67.5,17.49,73.9,28,26.6,24.4,2.2,11.99,11.99,11.99,42.0,190.8,Quarterfinal Contender
+44,3,Mars Hill Bible,AL,3A,3,AHSAA Class 3A,9-2,9,2,0,11,68.1,68.1,18.14,66.4,167,33.4,12.0,21.4,13.97,13.97,13.97,45.0,242.0,State Title Contender
+45,3,McGill-Toolen,AL,4A,4,AHSAA Class 4A,9-2,9,2,0,11,68.1,68.1,18.14,73.3,41,30.6,15.5,15.1,15.67,15.67,15.67,49.5,282.6,State Title Contender
+46,5,Gordo,AL,2A,1,AHSAA Class 2A,10-1,10,1,0,11,67.5,67.5,17.54,65.7,186,44.1,13.7,30.4,14.62,14.62,14.62,45.0,264.7,Semifinal Contender
+47,17,Baker,AL,7A,3,AHSAA Class 7A,6-5,6,5,0,11,67.5,67.5,17.49,73.9,28,26.6,24.4,2.2,11.99,11.99,11.99,42.0,190.8,Quarterfinal Contender
 48,13,Florence,AL,6A,3,AHSAA Class 6A,10-1,10,1,0,11,67.5,67.5,17.47,71.4,86,34.7,15.0,19.7,17.61,17.61,17.61,65.0,301.8,Quarterfinal Contender
 49,4,UMS-Wright Prep,AL,4A,2,AHSAA Class 4A,10-1,10,1,0,11,67.3,67.3,17.32,72.7,56,31.5,18.2,13.3,16.95,16.95,16.95,55.0,310.1,State Title Contender
 50,7,Northside,AL,5A,4,AHSAA Class 5A,10-1,10,1,0,11,67.3,67.3,17.29,66.8,160,43.1,14.5,28.6,16.17,16.17,16.17,60.0,271.6,Semifinal Contender
-51,18,Patrician Academy,AL,7A,1,AHSAA Class 7A,11-0,11,0,0,11,67.1,67.1,17.14,64.4,226,39.3,15.4,23.9,18.01,18.01,18.01,77.0,281.5,Quarterfinal Contender
+51,18,Patrician Academy,AL,7A,3,AHSAA Class 7A,11-0,11,0,0,11,67.1,67.1,17.14,64.4,226,39.3,15.4,23.9,18.01,18.01,18.01,77.0,281.5,Quarterfinal Contender
 52,8,Deshler,AL,5A,1,AHSAA Class 5A,9-2,9,2,0,11,66.8,66.8,16.78,69.5,118,40.2,15.5,24.7,15.21,15.21,15.21,54.0,260.6,Semifinal Contender
-53,2,Winterboro,AL,1A,4,AHSAA Class 1A,11-0,11,0,0,11,66.3,66.3,16.34,62.2,296,41.8,11.2,30.6,14.42,14.42,14.42,44.0,265.8,State Title Contender
+53,2,Winterboro,AL,1A,1,AHSAA Class 1A,11-0,11,0,0,11,66.3,66.3,16.34,62.2,296,41.8,11.2,30.6,14.42,14.42,14.42,44.0,265.8,State Title Contender
 54,19,Dothan,AL,7A,3,AHSAA Class 7A,3-7,3,7,0,10,66.3,66.3,16.26,76.8,14,21.5,33.3,-11.8,7.59,7.59,7.59,21.0,101.0,Quarterfinal Contender
 55,14,Spanish Fort,AL,6A,2,AHSAA Class 6A,8-3,8,3,0,11,66.2,66.2,16.24,72.7,57,23.3,15.7,7.6,14.56,14.56,14.56,52.0,247.9,Quarterfinal Contender
-56,4,Plainview,AL,3A,1,AHSAA Class 3A,11-0,11,0,0,11,66.1,66.1,16.13,64.0,235,39.8,13.4,26.4,15.8,15.8,15.8,55.0,278.6,State Title Contender
-57,6,Fyffe,AL,2A,3,AHSAA Class 2A,10-1,10,1,0,11,66.1,66.1,16.13,62.3,290,43.5,6.5,37.0,13.74,13.74,13.74,45.0,242.4,Semifinal Contender
+56,4,Plainview,AL,3A,3,AHSAA Class 3A,11-0,11,0,0,11,66.1,66.1,16.13,64.0,235,39.8,13.4,26.4,15.8,15.8,15.8,55.0,278.6,State Title Contender
+57,6,Fyffe,AL,2A,4,AHSAA Class 2A,10-1,10,1,0,11,66.1,66.1,16.13,62.3,290,43.5,6.5,37.0,13.74,13.74,13.74,45.0,242.4,Semifinal Contender
 58,15,Bessemer City,AL,6A,3,AHSAA Class 6A,7-4,7,4,0,11,65.6,65.6,15.56,73.2,43,31.4,17.8,13.6,12.99,12.99,12.99,45.5,219.5,Quarterfinal Contender
 59,20,James Clemens,AL,7A,1,AHSAA Class 7A,8-2,8,2,0,10,65.4,65.4,15.4,72.6,59,36.9,22.4,14.5,16.11,16.11,16.11,56.0,247.6,Quarterfinal Contender
-60,21,Sparkman,AL,7A,3,AHSAA Class 7A,8-2,8,2,0,10,65.4,65.4,15.37,71.1,92,34.0,15.7,18.3,15.84,15.84,15.84,56.0,239.9,Quarterfinal Contender
-61,3,Addison,AL,1A,1,AHSAA Class 1A,11-0,11,0,0,11,65.3,65.3,15.26,55.9,408,48.9,3.5,45.4,12.85,12.85,12.85,44.0,220.7,State Title Contender
-62,16,Russellville,AL,6A,3,AHSAA Class 6A,10-1,10,1,0,11,65.2,65.2,15.16,72.3,64,35.6,20.4,15.2,17.51,17.51,17.51,65.0,307.4,Quarterfinal Contender
-63,9,Hamilton,AL,5A,1,AHSAA Class 5A,8-3,8,3,0,11,65.1,65.1,15.12,68.1,134,46.3,21.0,25.3,13.31,13.31,13.31,48.0,224.0,Quarterfinal Contender
-64,5,Montgomery Catholic,AL,4A,4,AHSAA Class 4A,5-6,5,6,0,11,65.0,65.0,14.95,74.4,25,25.1,17.5,7.6,9.4,9.4,9.4,27.5,160.5,Semifinal Contender
-65,7,Tuscaloosa Academy,AL,2A,2,AHSAA Class 2A,9-1,9,1,0,10,64.6,64.6,14.59,63.3,256,41.5,11.7,29.8,13.64,13.64,13.64,40.5,224.1,Semifinal Contender
-66,4,Bayside Academy,AL,1A,4,AHSAA Class 1A,9-2,9,2,0,11,64.2,64.2,14.23,65.3,196,39.3,16.5,22.8,12.48,12.48,12.48,36.0,235.6,State Title Contender
-67,5,Oneonta,AL,3A,2,AHSAA Class 3A,10-1,10,1,0,11,64.1,64.1,14.11,64.0,234,45.5,17.2,28.3,14.31,14.31,14.31,50.0,253.8,Semifinal Contender
-68,6,Jackson,AL,3A,3,AHSAA Class 3A,8-3,8,3,0,11,63.8,63.8,13.8,67.4,146,32.1,15.7,16.4,12.31,12.31,12.31,40.0,220.6,Semifinal Contender
-69,17,McAdory,AL,6A,2,AHSAA Class 6A,9-2,9,2,0,11,63.5,63.5,13.49,71.5,85,41.2,28.6,12.6,15.59,15.59,15.59,58.5,271.8,Dark Horse
-70,18,Central-Tuscaloosa,AL,6A,2,AHSAA Class 6A,7-3,7,3,0,10,63.3,63.3,13.34,71.4,88,32.7,21.6,11.1,13.54,13.54,13.54,45.5,211.0,Dark Horse
-71,6,St. Michael Catholic,AL,4A,4,AHSAA Class 4A,6-5,6,5,0,11,62.9,62.9,12.9,74.5,22,31.8,30.4,1.4,10.69,10.69,10.69,33.0,192.9,Semifinal Contender
-72,7,Bullock County,AL,3A,2,AHSAA Class 3A,10-0,10,0,0,10,62.4,62.4,12.37,64.6,220,32.5,10.1,22.4,15.49,15.49,15.49,50.0,257.3,Semifinal Contender
-73,8,Bibb County,AL,3A,3,AHSAA Class 3A,9-2,9,2,0,11,62.3,62.3,12.32,66.1,172,40.4,19.4,21.0,13.22,13.22,13.22,45.0,240.3,Semifinal Contender
-74,5,Loachapoka,AL,1A,1,AHSAA Class 1A,9-2,9,2,0,11,61.9,61.9,11.91,63.2,258,35.9,10.5,25.4,11.82,11.82,11.82,36.0,223.7,Semifinal Contender
-75,22,Chambers Academy,AL,7A,4,AHSAA Class 7A,9-2,9,2,0,11,61.5,61.5,11.52,59.3,372,40.5,12.8,27.7,13.5,13.5,13.5,63.0,200.7,Dark Horse
-76,10,Jacksonville,AL,5A,1,AHSAA Class 5A,6-4,6,4,0,10,61.1,61.1,11.09,73.9,29,29.7,21.5,8.2,11.61,11.61,11.61,36.0,190.7,Quarterfinal Contender
-77,9,Fayette County,AL,3A,4,AHSAA Class 3A,9-2,9,2,0,11,60.9,60.9,10.93,66.5,166,35.4,12.2,23.2,13.12,13.12,13.12,45.0,242.7,Quarterfinal Contender
-78,11,Citronelle,AL,5A,1,AHSAA Class 5A,8-3,8,3,0,11,60.9,60.9,10.91,69.3,121,25.5,14.5,11.0,13.0,13.0,13.0,48.0,230.4,Quarterfinal Contender
-79,12,West Morgan,AL,5A,2,AHSAA Class 5A,7-4,7,4,0,11,60.9,60.9,10.88,69.2,125,40.5,21.5,19.0,11.52,11.52,11.52,42.0,200.9,Quarterfinal Contender
-80,19,Ramsay,AL,6A,1,AHSAA Class 6A,6-5,6,5,0,11,60.8,60.8,10.75,72.8,52,21.5,16.5,5.0,10.76,10.76,10.76,39.0,186.3,Dark Horse
+60,21,Sparkman,AL,7A,1,AHSAA Class 7A,8-2,8,2,0,10,65.4,65.4,15.37,71.1,92,34.0,15.7,18.3,15.84,15.84,15.84,56.0,239.9,Quarterfinal Contender
+61,3,Addison,AL,1A,4,AHSAA Class 1A,11-0,11,0,0,11,65.3,65.3,15.26,55.9,408,48.9,3.5,45.4,12.85,12.85,12.85,44.0,220.7,State Title Contender
+62,16,Russellville,AL,6A,1,AHSAA Class 6A,10-1,10,1,0,11,65.2,65.2,15.16,72.3,64,35.6,20.4,15.2,17.51,17.51,17.51,65.0,307.4,Quarterfinal Contender
+63,9,Hamilton,AL,5A,4,AHSAA Class 5A,8-3,8,3,0,11,65.1,65.1,15.12,68.1,134,46.3,21.0,25.3,13.31,13.31,13.31,48.0,224.0,Quarterfinal Contender
+64,5,Montgomery Catholic,AL,4A,3,AHSAA Class 4A,5-6,5,6,0,11,65.0,65.0,14.95,74.4,25,25.1,17.5,7.6,9.4,9.4,9.4,27.5,160.5,Semifinal Contender
+65,7,Tuscaloosa Academy,AL,2A,1,AHSAA Class 2A,9-1,9,1,0,10,64.6,64.6,14.59,63.3,256,41.5,11.7,29.8,13.64,13.64,13.64,40.5,224.1,Semifinal Contender
+66,4,Bayside Academy,AL,1A,1,AHSAA Class 1A,9-2,9,2,0,11,64.2,64.2,14.23,65.3,196,39.3,16.5,22.8,12.48,12.48,12.48,36.0,235.6,State Title Contender
+67,5,Oneonta,AL,3A,3,AHSAA Class 3A,10-1,10,1,0,11,64.1,64.1,14.11,64.0,234,45.5,17.2,28.3,14.31,14.31,14.31,50.0,253.8,Semifinal Contender
+68,6,Jackson,AL,3A,1,AHSAA Class 3A,8-3,8,3,0,11,63.8,63.8,13.8,67.4,146,32.1,15.7,16.4,12.31,12.31,12.31,40.0,220.6,Semifinal Contender
+69,17,McAdory,AL,6A,3,AHSAA Class 6A,9-2,9,2,0,11,63.5,63.5,13.49,71.5,85,41.2,28.6,12.6,15.59,15.59,15.59,58.5,271.8,Dark Horse
+70,18,Central-Tuscaloosa,AL,6A,4,AHSAA Class 6A,7-3,7,3,0,10,63.3,63.3,13.34,71.4,88,32.7,21.6,11.1,13.54,13.54,13.54,45.5,211.0,Dark Horse
+71,6,St. Michael Catholic,AL,4A,2,AHSAA Class 4A,6-5,6,5,0,11,62.9,62.9,12.9,74.5,22,31.8,30.4,1.4,10.69,10.69,10.69,33.0,192.9,Semifinal Contender
+72,7,Bullock County,AL,3A,3,AHSAA Class 3A,10-0,10,0,0,10,62.4,62.4,12.37,64.6,220,32.5,10.1,22.4,15.49,15.49,15.49,50.0,257.3,Semifinal Contender
+73,8,Bibb County,AL,3A,1,AHSAA Class 3A,9-2,9,2,0,11,62.3,62.3,12.32,66.1,172,40.4,19.4,21.0,13.22,13.22,13.22,45.0,240.3,Semifinal Contender
+74,5,Loachapoka,AL,1A,2,AHSAA Class 1A,9-2,9,2,0,11,61.9,61.9,11.91,63.2,258,35.9,10.5,25.4,11.82,11.82,11.82,36.0,223.7,Semifinal Contender
+75,22,Chambers Academy,AL,7A,2,AHSAA Class 7A,9-2,9,2,0,11,61.5,61.5,11.52,59.3,372,40.5,12.8,27.7,13.5,13.5,13.5,63.0,200.7,Dark Horse
+76,10,Jacksonville,AL,5A,3,AHSAA Class 5A,6-4,6,4,0,10,61.1,61.1,11.09,73.9,29,29.7,21.5,8.2,11.61,11.61,11.61,36.0,190.7,Quarterfinal Contender
+77,9,Fayette County,AL,3A,3,AHSAA Class 3A,9-2,9,2,0,11,60.9,60.9,10.93,66.5,166,35.4,12.2,23.2,13.12,13.12,13.12,45.0,242.7,Quarterfinal Contender
+78,11,Citronelle,AL,5A,2,AHSAA Class 5A,8-3,8,3,0,11,60.9,60.9,10.91,69.3,121,25.5,14.5,11.0,13.0,13.0,13.0,48.0,230.4,Quarterfinal Contender
+79,12,West Morgan,AL,5A,4,AHSAA Class 5A,7-4,7,4,0,11,60.9,60.9,10.88,69.2,125,40.5,21.5,19.0,11.52,11.52,11.52,42.0,200.9,Quarterfinal Contender
+80,19,Ramsay,AL,6A,2,AHSAA Class 6A,6-5,6,5,0,11,60.8,60.8,10.75,72.8,52,21.5,16.5,5.0,10.76,10.76,10.76,39.0,186.3,Dark Horse
 81,13,Selma,AL,5A,3,AHSAA Class 5A,10-1,10,1,0,11,60.6,60.6,10.57,62.2,297,48.9,13.1,35.8,14.41,14.41,14.41,60.0,241.6,Quarterfinal Contender
-82,14,Moody,AL,5A,4,AHSAA Class 5A,6-5,6,5,0,11,60.2,60.2,10.23,74.5,23,26.3,31.7,-5.4,10.64,10.64,10.64,36.0,192.9,Quarterfinal Contender
-83,6,Hubbertville,AL,1A,3,AHSAA Class 1A,10-1,10,1,0,11,60.2,60.2,10.23,60.7,345,41.7,15.1,26.6,12.24,12.24,12.24,40.0,231.9,Semifinal Contender
-84,20,Pelham,AL,6A,1,AHSAA Class 6A,8-3,8,3,0,11,60.2,60.2,10.23,72.8,51,32.0,28.8,3.2,13.86,13.86,13.86,52.0,248.5,Dark Horse
-85,10,Geraldine,AL,3A,2,AHSAA Class 3A,9-2,9,2,0,11,59.9,59.9,9.92,60.9,339,42.0,10.4,31.6,11.97,11.97,11.97,45.0,210.1,Quarterfinal Contender
-86,23,South Choctaw Academy,AL,7A,2,AHSAA Class 7A,8-2,8,2,0,10,59.9,59.9,9.89,63.9,236,35.2,13.5,21.7,13.87,13.87,13.87,56.0,202.5,Dark Horse
+82,14,Moody,AL,5A,2,AHSAA Class 5A,6-5,6,5,0,11,60.2,60.2,10.23,74.5,23,26.3,31.7,-5.4,10.64,10.64,10.64,36.0,192.9,Quarterfinal Contender
+83,6,Hubbertville,AL,1A,2,AHSAA Class 1A,10-1,10,1,0,11,60.2,60.2,10.23,60.7,345,41.7,15.1,26.6,12.24,12.24,12.24,40.0,231.9,Semifinal Contender
+84,20,Pelham,AL,6A,3,AHSAA Class 6A,8-3,8,3,0,11,60.2,60.2,10.23,72.8,51,32.0,28.8,3.2,13.86,13.86,13.86,52.0,248.5,Dark Horse
+85,10,Geraldine,AL,3A,1,AHSAA Class 3A,9-2,9,2,0,11,59.9,59.9,9.92,60.9,339,42.0,10.4,31.6,11.97,11.97,11.97,45.0,210.1,Quarterfinal Contender
+86,23,South Choctaw Academy,AL,7A,3,AHSAA Class 7A,8-2,8,2,0,10,59.9,59.9,9.89,63.9,236,35.2,13.5,21.7,13.87,13.87,13.87,56.0,202.5,Dark Horse
 87,7,University Charter,AL,1A,2,AHSAA Class 1A,10-1,10,1,0,11,59.8,59.8,9.78,55.5,411,48.4,5.5,42.9,11.12,11.12,11.12,40.0,198.2,Semifinal Contender
-88,21,St. Clair County,AL,6A,4,AHSAA Class 6A,5-6,5,6,0,11,59.8,59.8,9.77,74.2,26,24.6,24.0,0.6,9.22,9.22,9.22,32.5,160.1,Dark Horse
-89,15,Charles Henderson,AL,5A,1,AHSAA Class 5A,8-3,8,3,0,11,59.6,59.6,9.64,67.3,149,33.1,18.2,14.9,12.51,12.51,12.51,48.0,219.8,Quarterfinal Contender
+88,21,St. Clair County,AL,6A,3,AHSAA Class 6A,5-6,5,6,0,11,59.8,59.8,9.77,74.2,26,24.6,24.0,0.6,9.22,9.22,9.22,32.5,160.1,Dark Horse
+89,15,Charles Henderson,AL,5A,2,AHSAA Class 5A,8-3,8,3,0,11,59.6,59.6,9.64,67.3,149,33.1,18.2,14.9,12.51,12.51,12.51,48.0,219.8,Quarterfinal Contender
 90,22,Austin,AL,6A,2,AHSAA Class 6A,6-5,6,5,0,11,59.6,59.6,9.63,75.0,21,26.8,30.3,-3.5,10.91,10.91,10.91,39.0,195.0,Dark Horse
 91,16,Central of Clay County,AL,5A,1,AHSAA Class 5A,5-6,5,6,0,11,59.4,59.4,9.38,73.8,32,21.5,22.7,-1.2,8.9,8.9,8.9,30.0,158.6,Quarterfinal Contender
-92,24,Cottage Hill Christian Academy,AL,7A,4,AHSAA Class 7A,9-2,9,2,0,11,59.0,59.0,8.97,59.6,369,41.3,10.4,30.9,13.24,13.24,13.24,63.0,202.4,Dark Horse
-93,11,Pleasant Grove,AL,3A,1,AHSAA Class 3A,9-2,9,2,0,11,59.0,59.0,8.96,66.9,157,40.4,23.1,17.3,12.96,12.96,12.96,45.0,244.9,Quarterfinal Contender
-94,25,Foley,AL,7A,2,AHSAA Class 7A,7-4,7,4,0,11,58.2,58.2,8.25,73.3,40,35.7,30.3,5.4,12.44,12.44,12.44,49.0,220.0,Dark Horse
-95,23,Helena,AL,6A,4,AHSAA Class 6A,7-4,7,4,0,11,58.1,58.1,8.07,73.4,37,18.4,21.5,-3.1,12.12,12.12,12.12,45.5,220.4,Dark Horse
-96,24,Douglas,AL,6A,3,AHSAA Class 6A,10-1,10,1,0,11,58.0,58.0,7.97,67.2,152,36.5,17.7,18.8,15.59,15.59,15.59,65.0,274.2,Dark Horse
+92,24,Cottage Hill Christian Academy,AL,7A,3,AHSAA Class 7A,9-2,9,2,0,11,59.0,59.0,8.97,59.6,369,41.3,10.4,30.9,13.24,13.24,13.24,63.0,202.4,Dark Horse
+93,11,Pleasant Grove,AL,3A,4,AHSAA Class 3A,9-2,9,2,0,11,59.0,59.0,8.96,66.9,157,40.4,23.1,17.3,12.96,12.96,12.96,45.0,244.9,Quarterfinal Contender
+94,25,Foley,AL,7A,3,AHSAA Class 7A,7-4,7,4,0,11,58.2,58.2,8.25,73.3,40,35.7,30.3,5.4,12.44,12.44,12.44,49.0,220.0,Dark Horse
+95,23,Helena,AL,6A,2,AHSAA Class 6A,7-4,7,4,0,11,58.1,58.1,8.07,73.4,37,18.4,21.5,-3.1,12.12,12.12,12.12,45.5,220.4,Dark Horse
+96,24,Douglas,AL,6A,1,AHSAA Class 6A,10-1,10,1,0,11,58.0,58.0,7.97,67.2,152,36.5,17.7,18.8,15.59,15.59,15.59,65.0,274.2,Dark Horse
 97,17,Orange Beach,AL,5A,1,AHSAA Class 5A,9-2,9,2,0,11,57.7,57.7,7.73,68.1,135,29.4,16.2,13.2,13.85,13.85,13.85,54.0,251.9,Dark Horse
-98,25,Stanhope Elmore,AL,6A,4,AHSAA Class 6A,6-5,6,5,0,11,57.7,57.7,7.72,73.6,35,27.8,28.0,-0.2,10.5,10.5,10.5,39.0,189.4,Dark Horse
+98,25,Stanhope Elmore,AL,6A,1,AHSAA Class 6A,6-5,6,5,0,11,57.7,57.7,7.72,73.6,35,27.8,28.0,-0.2,10.5,10.5,10.5,39.0,189.4,Dark Horse
 99,8,Thomasville,AL,2A,1,AHSAA Class 2A,9-2,9,2,0,11,57.5,57.5,7.52,65.5,191,34.7,19.2,15.5,12.12,12.12,12.12,40.5,236.9,Semifinal Contender
-100,18,Marbury,AL,5A,1,AHSAA Class 5A,10-1,10,1,0,11,57.4,57.4,7.44,66.0,173,33.4,12.1,21.3,14.84,14.84,14.84,60.0,266.8,Dark Horse
-101,12,Trinity Presbyterian,AL,3A,1,AHSAA Class 3A,7-4,7,4,0,11,57.1,57.1,7.06,69.3,122,25.0,15.0,10.0,10.44,10.44,10.44,35.0,201.5,Quarterfinal Contender
-102,9,Dadeville,AL,2A,2,AHSAA Class 2A,7-4,7,4,0,11,57.0,57.0,6.99,66.0,179,28.8,11.9,16.9,9.63,9.63,9.63,31.5,186.4,Quarterfinal Contender
-103,13,T.R. Miller,AL,3A,1,AHSAA Class 3A,9-2,9,2,0,11,57.0,57.0,6.97,66.3,169,30.4,15.4,15.0,12.61,12.61,12.61,45.0,241.4,Quarterfinal Contender
+100,18,Marbury,AL,5A,3,AHSAA Class 5A,10-1,10,1,0,11,57.4,57.4,7.44,66.0,173,33.4,12.1,21.3,14.84,14.84,14.84,60.0,266.8,Dark Horse
+101,12,Trinity Presbyterian,AL,3A,2,AHSAA Class 3A,7-4,7,4,0,11,57.1,57.1,7.06,69.3,122,25.0,15.0,10.0,10.44,10.44,10.44,35.0,201.5,Quarterfinal Contender
+102,9,Dadeville,AL,2A,3,AHSAA Class 2A,7-4,7,4,0,11,57.0,57.0,6.99,66.0,179,28.8,11.9,16.9,9.63,9.63,9.63,31.5,186.4,Quarterfinal Contender
+103,13,T.R. Miller,AL,3A,3,AHSAA Class 3A,9-2,9,2,0,11,57.0,57.0,6.97,66.3,169,30.4,15.4,15.0,12.61,12.61,12.61,45.0,241.4,Quarterfinal Contender
 104,26,Russell County,AL,6A,2,AHSAA Class 6A,7-4,7,4,0,11,57.0,57.0,6.96,70.2,107,33.1,27.1,6.0,11.52,11.52,11.52,45.5,205.9,Dark Horse
-105,7,Glenwood,AL,4A,2,AHSAA Class 4A,6-5,6,5,0,11,56.9,56.9,6.93,72.8,49,29.6,26.7,2.9,9.77,9.77,9.77,33.0,186.6,Semifinal Contender
-106,27,Theodore,AL,6A,4,AHSAA Class 6A,5-6,5,6,0,11,56.9,56.9,6.86,73.1,46,22.0,26.5,-4.5,8.75,8.75,8.75,32.5,156.2,Dark Horse
-107,28,Hartselle,AL,6A,3,AHSAA Class 6A,5-5,5,5,0,10,56.6,56.6,6.64,72.0,74,23.5,20.4,3.1,9.39,9.39,9.39,32.5,152.6,Dark Horse
-108,29,Mobile Christian,AL,6A,4,AHSAA Class 6A,9-2,9,2,0,11,56.6,56.6,6.64,62.2,293,34.3,11.2,23.1,13.05,13.05,13.05,58.5,217.9,Dark Horse
+105,7,Glenwood,AL,4A,3,AHSAA Class 4A,6-5,6,5,0,11,56.9,56.9,6.93,72.8,49,29.6,26.7,2.9,9.77,9.77,9.77,33.0,186.6,Semifinal Contender
+106,27,Theodore,AL,6A,3,AHSAA Class 6A,5-6,5,6,0,11,56.9,56.9,6.86,73.1,46,22.0,26.5,-4.5,8.75,8.75,8.75,32.5,156.2,Dark Horse
+107,28,Hartselle,AL,6A,1,AHSAA Class 6A,5-5,5,5,0,10,56.6,56.6,6.64,72.0,74,23.5,20.4,3.1,9.39,9.39,9.39,32.5,152.6,Dark Horse
+108,29,Mobile Christian,AL,6A,3,AHSAA Class 6A,9-2,9,2,0,11,56.6,56.6,6.64,62.2,293,34.3,11.2,23.1,13.05,13.05,13.05,58.5,217.9,Dark Horse
 109,10,Isabella,AL,2A,2,AHSAA Class 2A,10-1,10,1,0,11,56.5,56.5,6.47,62.0,304,37.9,17.5,20.4,12.51,12.51,12.51,45.0,240.2,Quarterfinal Contender
 110,8,Madison Academy,AL,4A,2,AHSAA Class 4A,6-5,6,5,0,11,55.8,55.8,5.77,69.9,113,33.5,24.0,9.5,9.26,9.26,9.26,33.0,175.1,Semifinal Contender
-111,9,St. Paul's Episcopal,AL,4A,2,AHSAA Class 4A,5-6,5,6,0,11,55.5,55.5,5.52,74.5,24,24.8,25.0,-0.2,8.28,8.28,8.28,27.5,160.7,Quarterfinal Contender
-112,19,Andalusia,AL,5A,2,AHSAA Class 5A,7-4,7,4,0,11,55.4,55.4,5.4,68.0,136,26.7,15.6,11.1,10.7,10.7,10.7,42.0,195.9,Dark Horse
-113,14,Corner,AL,3A,4,AHSAA Class 3A,5-6,5,6,0,11,54.9,54.9,4.94,67.7,142,29.5,22.7,6.8,7.29,7.29,7.29,25.0,138.9,Quarterfinal Contender
+111,9,St. Paul's Episcopal,AL,4A,1,AHSAA Class 4A,5-6,5,6,0,11,55.5,55.5,5.52,74.5,24,24.8,25.0,-0.2,8.28,8.28,8.28,27.5,160.7,Quarterfinal Contender
+112,19,Andalusia,AL,5A,3,AHSAA Class 5A,7-4,7,4,0,11,55.4,55.4,5.4,68.0,136,26.7,15.6,11.1,10.7,10.7,10.7,42.0,195.9,Dark Horse
+113,14,Corner,AL,3A,3,AHSAA Class 3A,5-6,5,6,0,11,54.9,54.9,4.94,67.7,142,29.5,22.7,6.8,7.29,7.29,7.29,25.0,138.9,Quarterfinal Contender
 114,30,Southside,AL,6A,4,AHSAA Class 6A,6-4,6,4,0,10,54.7,54.7,4.68,70.4,105,26.4,18.6,7.8,10.65,10.65,10.65,39.0,176.9,Dark Horse
-115,11,Cold Springs,AL,2A,2,AHSAA Class 2A,10-1,10,1,0,11,54.6,54.6,4.62,62.7,275,35.5,15.7,19.8,12.44,12.44,12.44,45.0,244.9,Quarterfinal Contender
-116,31,Athens,AL,6A,4,AHSAA Class 6A,3-7,3,7,0,10,54.5,54.5,4.52,72.5,60,24.6,25.3,-0.7,5.74,5.74,5.74,19.5,92.7,Dark Horse
-117,32,Arab,AL,6A,1,AHSAA Class 6A,8-3,8,3,0,11,54.2,54.2,4.25,67.2,151,30.5,20.8,9.7,12.22,12.22,12.22,52.0,219.5,Dark Horse
-118,33,Jasper,AL,6A,1,AHSAA Class 6A,5-5,5,5,0,10,54.1,54.1,4.08,72.8,55,30.3,33.7,-3.4,9.17,9.17,9.17,32.5,155.2,Playoff Bubble
-119,34,Minor,AL,6A,2,AHSAA Class 6A,8-3,8,3,0,11,53.9,53.9,3.88,70.3,106,29.3,19.4,9.9,12.7,12.7,12.7,52.0,235.8,Playoff Bubble
-120,15,Handley,AL,3A,1,AHSAA Class 3A,7-3,7,3,0,10,53.8,53.8,3.82,65.2,197,36.0,28.4,7.6,10.37,10.37,10.37,35.0,183.1,Quarterfinal Contender
-121,16,Opp,AL,3A,1,AHSAA Class 3A,7-3,7,3,0,10,53.8,53.8,3.76,63.5,251,33.1,17.5,15.6,10.08,10.08,10.08,35.0,175.2,Quarterfinal Contender
-122,20,Valley,AL,5A,1,AHSAA Class 5A,6-4,6,4,0,10,53.6,53.6,3.61,68.6,130,26.5,19.6,6.9,9.99,9.99,9.99,36.0,170.1,Dark Horse
-123,21,Cherokee County,AL,5A,3,AHSAA Class 5A,8-3,8,3,0,11,53.6,53.6,3.57,64.2,229,30.6,16.4,14.2,11.28,11.28,11.28,48.0,203.8,Dark Horse
-124,35,Boaz,AL,6A,1,AHSAA Class 6A,9-2,9,2,0,11,53.5,53.5,3.55,69.5,116,32.4,23.2,9.2,14.04,14.04,14.04,58.5,260.6,Playoff Bubble
-125,36,Northridge,AL,6A,4,AHSAA Class 6A,5-5,5,5,0,10,53.5,53.5,3.46,72.8,53,26.2,29.1,-2.9,9.1,9.1,9.1,32.5,155.2,Playoff Bubble
-126,22,Eufaula,AL,5A,3,AHSAA Class 5A,8-3,8,3,0,11,53.5,53.5,3.45,67.5,145,24.2,11.8,12.4,11.81,11.81,11.81,48.0,221.0,Dark Horse
-127,23,Sipsey Valley,AL,5A,1,AHSAA Class 5A,9-2,9,2,0,11,53.2,53.2,3.17,64.5,222,43.3,25.5,17.8,12.65,12.65,12.65,54.0,231.4,Dark Horse
-128,24,Brooks,AL,5A,1,AHSAA Class 5A,6-5,6,5,0,11,53.0,53.0,3.01,70.5,100,30.2,31.4,-1.2,9.28,9.28,9.28,36.0,177.5,Dark Horse
-129,12,Pleasant Valley,AL,2A,3,AHSAA Class 2A,9-2,9,2,0,11,53.0,53.0,2.95,63.5,253,35.1,18.3,16.8,11.19,11.19,11.19,40.5,224.9,Quarterfinal Contender
-130,37,Mae Jemison,AL,6A,2,AHSAA Class 6A,5-5,5,5,0,10,52.8,52.8,2.79,71.2,91,23.6,22.5,1.1,8.84,8.84,8.84,32.5,150.1,Playoff Bubble
+115,11,Cold Springs,AL,2A,3,AHSAA Class 2A,10-1,10,1,0,11,54.6,54.6,4.62,62.7,275,35.5,15.7,19.8,12.44,12.44,12.44,45.0,244.9,Quarterfinal Contender
+116,31,Athens,AL,6A,2,AHSAA Class 6A,3-7,3,7,0,10,54.5,54.5,4.52,72.5,60,24.6,25.3,-0.7,5.74,5.74,5.74,19.5,92.7,Dark Horse
+117,32,Arab,AL,6A,4,AHSAA Class 6A,8-3,8,3,0,11,54.2,54.2,4.25,67.2,151,30.5,20.8,9.7,12.22,12.22,12.22,52.0,219.5,Dark Horse
+118,33,Jasper,AL,6A,2,AHSAA Class 6A,5-5,5,5,0,10,54.1,54.1,4.08,72.8,55,30.3,33.7,-3.4,9.17,9.17,9.17,32.5,155.2,Playoff Bubble
+119,34,Minor,AL,6A,3,AHSAA Class 6A,8-3,8,3,0,11,53.9,53.9,3.88,70.3,106,29.3,19.4,9.9,12.7,12.7,12.7,52.0,235.8,Playoff Bubble
+120,15,Handley,AL,3A,2,AHSAA Class 3A,7-3,7,3,0,10,53.8,53.8,3.82,65.2,197,36.0,28.4,7.6,10.37,10.37,10.37,35.0,183.1,Quarterfinal Contender
+121,16,Opp,AL,3A,3,AHSAA Class 3A,7-3,7,3,0,10,53.8,53.8,3.76,63.5,251,33.1,17.5,15.6,10.08,10.08,10.08,35.0,175.2,Quarterfinal Contender
+122,20,Valley,AL,5A,3,AHSAA Class 5A,6-4,6,4,0,10,53.6,53.6,3.61,68.6,130,26.5,19.6,6.9,9.99,9.99,9.99,36.0,170.1,Dark Horse
+123,21,Cherokee County,AL,5A,4,AHSAA Class 5A,8-3,8,3,0,11,53.6,53.6,3.57,64.2,229,30.6,16.4,14.2,11.28,11.28,11.28,48.0,203.8,Dark Horse
+124,35,Boaz,AL,6A,3,AHSAA Class 6A,9-2,9,2,0,11,53.5,53.5,3.55,69.5,116,32.4,23.2,9.2,14.04,14.04,14.04,58.5,260.6,Playoff Bubble
+125,36,Northridge,AL,6A,3,AHSAA Class 6A,5-5,5,5,0,10,53.5,53.5,3.46,72.8,53,26.2,29.1,-2.9,9.1,9.1,9.1,32.5,155.2,Playoff Bubble
+126,22,Eufaula,AL,5A,1,AHSAA Class 5A,8-3,8,3,0,11,53.5,53.5,3.45,67.5,145,24.2,11.8,12.4,11.81,11.81,11.81,48.0,221.0,Dark Horse
+127,23,Sipsey Valley,AL,5A,2,AHSAA Class 5A,9-2,9,2,0,11,53.2,53.2,3.17,64.5,222,43.3,25.5,17.8,12.65,12.65,12.65,54.0,231.4,Dark Horse
+128,24,Brooks,AL,5A,3,AHSAA Class 5A,6-5,6,5,0,11,53.0,53.0,3.01,70.5,100,30.2,31.4,-1.2,9.28,9.28,9.28,36.0,177.5,Dark Horse
+129,12,Pleasant Valley,AL,2A,4,AHSAA Class 2A,9-2,9,2,0,11,53.0,53.0,2.95,63.5,253,35.1,18.3,16.8,11.19,11.19,11.19,40.5,224.9,Quarterfinal Contender
+130,37,Mae Jemison,AL,6A,3,AHSAA Class 6A,5-5,5,5,0,10,52.8,52.8,2.79,71.2,91,23.6,22.5,1.1,8.84,8.84,8.84,32.5,150.1,Playoff Bubble
 131,38,Mortimer Jordan,AL,6A,2,AHSAA Class 6A,6-5,6,5,0,11,52.8,52.8,2.77,71.0,96,29.0,26.7,2.3,9.59,9.59,9.59,39.0,179.4,Playoff Bubble
-132,25,LeFlore,AL,5A,1,AHSAA Class 5A,6-4,6,4,0,10,52.3,52.3,2.34,69.5,117,21.5,16.7,4.8,9.96,9.96,9.96,36.0,173.7,Dark Horse
-133,8,Kinston,AL,1A,2,AHSAA Class 1A,10-1,10,1,0,11,52.3,52.3,2.26,59.5,370,40.5,15.1,25.4,11.03,11.03,11.03,40.0,223.9,Semifinal Contender
-134,10,Randolph School,AL,4A,3,AHSAA Class 4A,7-4,7,4,0,11,51.9,51.9,1.89,67.4,147,33.6,21.2,12.4,9.86,9.86,9.86,38.5,192.8,Quarterfinal Contender
-135,17,Lauderdale County,AL,3A,2,AHSAA Class 3A,8-3,8,3,0,11,51.8,51.8,1.79,61.6,319,40.2,17.5,22.7,9.91,9.91,9.91,40.0,190.3,Dark Horse
-136,39,Fort Payne,AL,6A,1,AHSAA Class 6A,3-7,3,7,0,10,51.7,51.7,1.73,70.9,98,23.9,24.9,-1.0,5.29,5.29,5.29,19.5,89.4,Playoff Bubble
-137,26,Buckhorn,AL,7A,1,AHSAA Class 7A,6-5,6,5,0,11,51.7,51.7,1.68,71.4,87,31.7,28.5,3.2,9.78,9.78,9.78,42.0,181.0,Dark Horse
+132,25,LeFlore,AL,5A,2,AHSAA Class 5A,6-4,6,4,0,10,52.3,52.3,2.34,69.5,117,21.5,16.7,4.8,9.96,9.96,9.96,36.0,173.7,Dark Horse
+133,8,Kinston,AL,1A,3,AHSAA Class 1A,10-1,10,1,0,11,52.3,52.3,2.26,59.5,370,40.5,15.1,25.4,11.03,11.03,11.03,40.0,223.9,Semifinal Contender
+134,10,Randolph School,AL,4A,1,AHSAA Class 4A,7-4,7,4,0,11,51.9,51.9,1.89,67.4,147,33.6,21.2,12.4,9.86,9.86,9.86,38.5,192.8,Quarterfinal Contender
+135,17,Lauderdale County,AL,3A,4,AHSAA Class 3A,8-3,8,3,0,11,51.8,51.8,1.79,61.6,319,40.2,17.5,22.7,9.91,9.91,9.91,40.0,190.3,Dark Horse
+136,39,Fort Payne,AL,6A,3,AHSAA Class 6A,3-7,3,7,0,10,51.7,51.7,1.73,70.9,98,23.9,24.9,-1.0,5.29,5.29,5.29,19.5,89.4,Playoff Bubble
+137,26,Buckhorn,AL,7A,2,AHSAA Class 7A,6-5,6,5,0,11,51.7,51.7,1.68,71.4,87,31.7,28.5,3.2,9.78,9.78,9.78,42.0,181.0,Dark Horse
 138,13,Wellborn,AL,2A,2,AHSAA Class 2A,9-2,9,2,0,11,51.7,51.7,1.68,62.5,282,45.2,19.5,25.7,10.86,10.86,10.86,40.5,219.3,Quarterfinal Contender
-139,27,Banks Academy,AL,7A,2,AHSAA Class 7A,7-3,7,3,0,10,51.7,51.7,1.67,65.0,205,30.6,18.9,11.7,11.48,11.48,11.48,49.0,182.2,Dark Horse
-140,14,Lanett,AL,2A,3,AHSAA Class 2A,7-4,7,4,0,11,51.6,51.6,1.64,64.8,214,31.4,22.0,9.4,8.82,8.82,8.82,31.5,181.1,Quarterfinal Contender
-141,18,W.S. Neal,AL,3A,3,AHSAA Class 3A,7-4,7,4,0,11,51.5,51.5,1.55,67.7,143,31.2,26.2,5.0,9.55,9.55,9.55,35.0,194.2,Dark Horse
-142,40,Calera,AL,6A,1,AHSAA Class 6A,5-5,5,5,0,10,51.5,51.5,1.53,70.9,97,25.5,23.5,2.0,8.65,8.65,8.65,32.5,149.1,Playoff Bubble
-143,41,Gardendale,AL,6A,4,AHSAA Class 6A,5-6,5,6,0,11,51.4,51.4,1.43,71.6,82,27.5,29.1,-1.6,7.95,7.95,7.95,32.5,151.5,Playoff Bubble
-144,9,Leroy,AL,1A,4,AHSAA Class 1A,9-2,9,2,0,11,51.2,51.2,1.2,58.6,384,34.7,14.2,20.5,9.68,9.68,9.68,36.0,196.8,Quarterfinal Contender
+139,27,Banks Academy,AL,7A,1,AHSAA Class 7A,7-3,7,3,0,10,51.7,51.7,1.67,65.0,205,30.6,18.9,11.7,11.48,11.48,11.48,49.0,182.2,Dark Horse
+140,14,Lanett,AL,2A,2,AHSAA Class 2A,7-4,7,4,0,11,51.6,51.6,1.64,64.8,214,31.4,22.0,9.4,8.82,8.82,8.82,31.5,181.1,Quarterfinal Contender
+141,18,W.S. Neal,AL,3A,4,AHSAA Class 3A,7-4,7,4,0,11,51.5,51.5,1.55,67.7,143,31.2,26.2,5.0,9.55,9.55,9.55,35.0,194.2,Dark Horse
+142,40,Calera,AL,6A,4,AHSAA Class 6A,5-5,5,5,0,10,51.5,51.5,1.53,70.9,97,25.5,23.5,2.0,8.65,8.65,8.65,32.5,149.1,Playoff Bubble
+143,41,Gardendale,AL,6A,2,AHSAA Class 6A,5-6,5,6,0,11,51.4,51.4,1.43,71.6,82,27.5,29.1,-1.6,7.95,7.95,7.95,32.5,151.5,Playoff Bubble
+144,9,Leroy,AL,1A,2,AHSAA Class 1A,9-2,9,2,0,11,51.2,51.2,1.2,58.6,384,34.7,14.2,20.5,9.68,9.68,9.68,36.0,196.8,Quarterfinal Contender
 145,42,Wetumpka,AL,6A,3,AHSAA Class 6A,5-5,5,5,0,10,51.1,51.1,1.07,70.1,109,24.5,21.8,2.7,8.51,8.51,8.51,32.5,146.7,Playoff Bubble
-146,28,Monroe Academy,AL,7A,2,AHSAA Class 7A,6-4,6,4,0,10,50.8,50.8,0.83,63.0,265,27.8,15.8,12.0,9.49,9.49,9.49,42.0,148.3,Dark Horse
+146,28,Monroe Academy,AL,7A,4,AHSAA Class 7A,6-4,6,4,0,10,50.8,50.8,0.83,63.0,265,27.8,15.8,12.0,9.49,9.49,9.49,42.0,148.3,Dark Horse
 147,10,McKenzie,AL,1A,3,AHSAA Class 1A,10-1,10,1,0,11,50.6,50.6,0.56,60.3,357,33.5,19.1,14.4,11.0,11.0,11.0,40.0,229.3,Quarterfinal Contender
-148,19,Flomaton,AL,3A,4,AHSAA Class 3A,5-5,5,5,0,10,50.3,50.3,0.27,64.9,210,27.5,14.6,12.9,7.08,7.08,7.08,25.0,129.8,Dark Horse
-149,29,JAG,AL,7A,3,AHSAA Class 7A,3-8,3,8,0,11,50.2,50.2,0.22,76.0,16,15.5,35.8,-20.3,5.1,5.1,5.1,21.0,99.5,Dark Horse
-150,15,Lexington,AL,2A,1,AHSAA Class 2A,10-1,10,1,0,11,50.2,50.2,0.2,59.7,367,42.2,14.0,28.2,11.29,11.29,11.29,45.0,225.4,Quarterfinal Contender
-151,11,Elba,AL,1A,4,AHSAA Class 1A,10-1,10,1,0,11,50.1,50.1,0.14,60.1,362,38.8,18.1,20.7,10.91,10.91,10.91,40.0,228.1,Quarterfinal Contender
-152,30,Bob Jones,AL,7A,3,AHSAA Class 7A,5-6,5,6,0,11,50.0,50.0,0.0,72.2,67,24.6,30.2,-5.6,8.07,8.07,8.07,35.0,153.5,Dark Horse
-153,43,Whitesburg Christian Academy,AL,6A,4,AHSAA Class 6A,8-3,8,3,0,11,49.8,49.8,-0.21,62.2,298,38.0,16.7,21.3,10.87,10.87,10.87,52.0,193.2,Playoff Bubble
-154,16,Lamar County,AL,2A,4,AHSAA Class 2A,7-4,7,4,0,11,49.7,49.7,-0.33,65.9,180,29.1,23.5,5.6,8.79,8.79,8.79,31.5,186.2,Quarterfinal Contender
-155,44,Blount,AL,6A,1,AHSAA Class 6A,5-5,5,5,0,10,49.7,49.7,-0.34,71.3,90,28.4,27.8,0.6,8.51,8.51,8.51,32.5,150.4,Playoff Bubble
-156,20,North Jackson,AL,3A,2,AHSAA Class 3A,6-4,6,4,0,10,49.3,49.3,-0.68,65.2,201,33.3,25.6,7.7,8.48,8.48,8.48,30.0,156.7,Dark Horse
-157,31,Gadsden City,AL,7A,1,AHSAA Class 7A,5-6,5,6,0,11,49.3,49.3,-0.7,71.7,79,31.1,31.6,-0.5,8.01,8.01,8.01,35.0,151.8,Dark Horse
-158,21,Central-Florence,AL,3A,2,AHSAA Class 3A,8-3,8,3,0,11,49.3,49.3,-0.74,63.4,254,33.4,19.5,13.9,9.99,9.99,9.99,40.0,199.6,Dark Horse
-159,17,Aliceville,AL,2A,1,AHSAA Class 2A,10-1,10,1,0,11,49.3,49.3,-0.74,60.1,360,35.5,12.6,22.9,11.36,11.36,11.36,45.0,228.3,Dark Horse
+148,19,Flomaton,AL,3A,2,AHSAA Class 3A,5-5,5,5,0,10,50.3,50.3,0.27,64.9,210,27.5,14.6,12.9,7.08,7.08,7.08,25.0,129.8,Dark Horse
+149,29,JAG,AL,7A,2,AHSAA Class 7A,3-8,3,8,0,11,50.2,50.2,0.22,76.0,16,15.5,35.8,-20.3,5.1,5.1,5.1,21.0,99.5,Dark Horse
+150,15,Lexington,AL,2A,4,AHSAA Class 2A,10-1,10,1,0,11,50.2,50.2,0.2,59.7,367,42.2,14.0,28.2,11.29,11.29,11.29,45.0,225.4,Quarterfinal Contender
+151,11,Elba,AL,1A,1,AHSAA Class 1A,10-1,10,1,0,11,50.1,50.1,0.14,60.1,362,38.8,18.1,20.7,10.91,10.91,10.91,40.0,228.1,Quarterfinal Contender
+152,30,Bob Jones,AL,7A,1,AHSAA Class 7A,5-6,5,6,0,11,50.0,50.0,0.0,72.2,67,24.6,30.2,-5.6,8.07,8.07,8.07,35.0,153.5,Dark Horse
+153,43,Whitesburg Christian Academy,AL,6A,2,AHSAA Class 6A,8-3,8,3,0,11,49.8,49.8,-0.21,62.2,298,38.0,16.7,21.3,10.87,10.87,10.87,52.0,193.2,Playoff Bubble
+154,16,Lamar County,AL,2A,3,AHSAA Class 2A,7-4,7,4,0,11,49.7,49.7,-0.33,65.9,180,29.1,23.5,5.6,8.79,8.79,8.79,31.5,186.2,Quarterfinal Contender
+155,44,Blount,AL,6A,2,AHSAA Class 6A,5-5,5,5,0,10,49.7,49.7,-0.34,71.3,90,28.4,27.8,0.6,8.51,8.51,8.51,32.5,150.4,Playoff Bubble
+156,20,North Jackson,AL,3A,3,AHSAA Class 3A,6-4,6,4,0,10,49.3,49.3,-0.68,65.2,201,33.3,25.6,7.7,8.48,8.48,8.48,30.0,156.7,Dark Horse
+157,31,Gadsden City,AL,7A,4,AHSAA Class 7A,5-6,5,6,0,11,49.3,49.3,-0.7,71.7,79,31.1,31.6,-0.5,8.01,8.01,8.01,35.0,151.8,Dark Horse
+158,21,Central-Florence,AL,3A,4,AHSAA Class 3A,8-3,8,3,0,11,49.3,49.3,-0.74,63.4,254,33.4,19.5,13.9,9.99,9.99,9.99,40.0,199.6,Dark Horse
+159,17,Aliceville,AL,2A,2,AHSAA Class 2A,10-1,10,1,0,11,49.3,49.3,-0.74,60.1,360,35.5,12.6,22.9,11.36,11.36,11.36,45.0,228.3,Dark Horse
 160,45,Baldwin County,AL,6A,4,AHSAA Class 6A,3-7,3,7,0,10,49.2,49.2,-0.77,72.7,58,23.5,30.4,-6.9,5.2,5.2,5.2,19.5,92.9,Playoff Bubble
-161,46,Huffman,AL,6A,3,AHSAA Class 6A,5-4,5,4,0,9,49.0,49.0,-0.96,70.5,102,28.7,25.3,3.4,9.35,9.35,9.35,32.5,147.7,Playoff Bubble
-162,12,Woodville,AL,1A,2,AHSAA Class 1A,10-1,10,1,0,11,48.9,48.9,-1.11,57.4,400,53.6,16.9,36.7,10.34,10.34,10.34,40.0,210.7,Quarterfinal Contender
-163,47,Southern Academy,AL,6A,1,AHSAA Class 6A,6-4,6,4,0,10,48.7,48.7,-1.3,64.8,215,25.0,19.3,5.7,9.34,9.34,9.34,39.0,155.3,Playoff Bubble
-164,22,Escambia County,AL,3A,2,AHSAA Class 3A,6-5,6,5,0,11,48.7,48.7,-1.33,66.0,177,28.3,19.3,9.0,7.82,7.82,7.82,30.0,160.1,Dark Horse
-165,18,Collinsville,AL,2A,2,AHSAA Class 2A,9-2,9,2,0,11,48.6,48.6,-1.36,60.9,340,35.3,13.6,21.7,10.37,10.37,10.37,40.5,210.1,Dark Horse
-166,48,Hope Christian Academy,AL,6A,3,AHSAA Class 6A,7-3,7,3,0,10,48.6,48.6,-1.38,62.1,301,28.6,16.4,12.2,10.46,10.46,10.46,45.5,168.9,Playoff Bubble
-167,19,Ariton,AL,2A,3,AHSAA Class 2A,8-3,8,3,0,11,48.4,48.4,-1.58,62.4,285,30.3,18.2,12.1,9.46,9.46,9.46,36.0,194.6,Dark Horse
-168,49,Pinson Valley,AL,6A,3,AHSAA Class 6A,1-9,1,9,0,10,48.2,48.2,-1.77,75.0,20,24.1,40.9,-16.8,1.79,1.79,1.79,6.5,32.5,Rebuilding
+161,46,Huffman,AL,6A,4,AHSAA Class 6A,5-4,5,4,0,9,49.0,49.0,-0.96,70.5,102,28.7,25.3,3.4,9.35,9.35,9.35,32.5,147.7,Playoff Bubble
+162,12,Woodville,AL,1A,3,AHSAA Class 1A,10-1,10,1,0,11,48.9,48.9,-1.11,57.4,400,53.6,16.9,36.7,10.34,10.34,10.34,40.0,210.7,Quarterfinal Contender
+163,47,Southern Academy,AL,6A,4,AHSAA Class 6A,6-4,6,4,0,10,48.7,48.7,-1.3,64.8,215,25.0,19.3,5.7,9.34,9.34,9.34,39.0,155.3,Playoff Bubble
+164,22,Escambia County,AL,3A,1,AHSAA Class 3A,6-5,6,5,0,11,48.7,48.7,-1.33,66.0,177,28.3,19.3,9.0,7.82,7.82,7.82,30.0,160.1,Dark Horse
+165,18,Collinsville,AL,2A,4,AHSAA Class 2A,9-2,9,2,0,11,48.6,48.6,-1.36,60.9,340,35.3,13.6,21.7,10.37,10.37,10.37,40.5,210.1,Dark Horse
+166,48,Hope Christian Academy,AL,6A,1,AHSAA Class 6A,7-3,7,3,0,10,48.6,48.6,-1.38,62.1,301,28.6,16.4,12.2,10.46,10.46,10.46,45.5,168.9,Playoff Bubble
+167,19,Ariton,AL,2A,1,AHSAA Class 2A,8-3,8,3,0,11,48.4,48.4,-1.58,62.4,285,30.3,18.2,12.1,9.46,9.46,9.46,36.0,194.6,Dark Horse
+168,49,Pinson Valley,AL,6A,4,AHSAA Class 6A,1-9,1,9,0,10,48.2,48.2,-1.77,75.0,20,24.1,40.9,-16.8,1.79,1.79,1.79,6.5,32.5,Rebuilding
 169,32,Huntsville,AL,7A,1,AHSAA Class 7A,4-7,4,7,0,11,47.9,47.9,-2.12,73.1,45,21.1,27.4,-6.3,6.52,6.52,6.52,28.0,125.0,Dark Horse
-170,26,Sylacauga,AL,5A,3,AHSAA Class 5A,5-5,5,5,0,10,47.7,47.7,-2.28,70.1,111,31.5,33.1,-1.6,8.13,8.13,8.13,30.0,146.5,Dark Horse
+170,26,Sylacauga,AL,5A,4,AHSAA Class 5A,5-5,5,5,0,10,47.7,47.7,-2.28,70.1,111,31.5,33.1,-1.6,8.13,8.13,8.13,30.0,146.5,Dark Horse
 171,27,Elmore County,AL,5A,4,AHSAA Class 5A,6-5,6,5,0,11,47.6,47.6,-2.41,69.2,123,25.1,29.3,-4.2,8.76,8.76,8.76,36.0,172.6,Dark Horse
-172,50,Alabama Christian Academy,AL,6A,3,AHSAA Class 6A,7-4,7,4,0,11,47.6,47.6,-2.42,65.0,206,31.0,21.5,9.5,9.93,9.93,9.93,45.5,182.1,Rebuilding
-173,13,Brantley,AL,1A,1,AHSAA Class 1A,8-3,8,3,0,11,47.4,47.4,-2.64,62.6,277,28.1,14.5,13.6,9.14,9.14,9.14,32.0,195.8,Quarterfinal Contender
+172,50,Alabama Christian Academy,AL,6A,4,AHSAA Class 6A,7-4,7,4,0,11,47.6,47.6,-2.42,65.0,206,31.0,21.5,9.5,9.93,9.93,9.93,45.5,182.1,Rebuilding
+173,13,Brantley,AL,1A,4,AHSAA Class 1A,8-3,8,3,0,11,47.4,47.4,-2.64,62.6,277,28.1,14.5,13.6,9.14,9.14,9.14,32.0,195.8,Quarterfinal Contender
 174,28,Ashford,AL,5A,2,AHSAA Class 5A,6-5,6,5,0,11,47.1,47.1,-2.93,66.0,174,24.6,18.3,6.3,8.37,8.37,8.37,36.0,160.1,Dark Horse
-175,29,Good Hope,AL,5A,2,AHSAA Class 5A,8-3,8,3,0,11,47.1,47.1,-2.94,62.9,272,33.9,20.4,13.5,10.63,10.63,10.63,48.0,196.8,Dark Horse
-176,30,Oak Grove,AL,5A,3,AHSAA Class 5A,10-1,10,1,0,11,47.0,47.0,-3.0,63.6,248,31.5,17.6,13.9,13.44,13.44,13.44,60.0,251.1,Dark Horse
-177,31,Anniston,AL,5A,4,AHSAA Class 5A,1-9,1,9,0,10,47.0,47.0,-3.03,73.7,33,22.2,41.8,-19.6,1.71,1.71,1.71,6.0,31.7,Dark Horse
-178,23,Cordova,AL,3A,1,AHSAA Class 3A,8-3,8,3,0,11,46.8,46.8,-3.19,65.0,208,35.5,25.5,10.0,10.26,10.26,10.26,40.0,208.1,Dark Horse
+175,29,Good Hope,AL,5A,4,AHSAA Class 5A,8-3,8,3,0,11,47.1,47.1,-2.94,62.9,272,33.9,20.4,13.5,10.63,10.63,10.63,48.0,196.8,Dark Horse
+176,30,Oak Grove,AL,5A,4,AHSAA Class 5A,10-1,10,1,0,11,47.0,47.0,-3.0,63.6,248,31.5,17.6,13.9,13.44,13.44,13.44,60.0,251.1,Dark Horse
+177,31,Anniston,AL,5A,2,AHSAA Class 5A,1-9,1,9,0,10,47.0,47.0,-3.03,73.7,33,22.2,41.8,-19.6,1.71,1.71,1.71,6.0,31.7,Dark Horse
+178,23,Cordova,AL,3A,4,AHSAA Class 3A,8-3,8,3,0,11,46.8,46.8,-3.19,65.0,208,35.5,25.5,10.0,10.26,10.26,10.26,40.0,208.1,Dark Horse
 179,20,Thorsby,AL,2A,3,AHSAA Class 2A,8-3,8,3,0,11,46.4,46.4,-3.64,60.6,349,38.4,22.3,16.1,9.17,9.17,9.17,36.0,185.2,Dark Horse
-180,51,Cullman,AL,6A,1,AHSAA Class 6A,3-7,3,7,0,10,46.3,46.3,-3.74,72.8,50,20.6,29.5,-8.9,5.22,5.22,5.22,19.5,93.3,Rebuilding
-181,52,Autauga Academy,AL,6A,1,AHSAA Class 6A,8-2,8,2,0,10,46.2,46.2,-3.78,57.8,395,44.7,19.5,25.2,11.17,11.17,11.17,52.0,170.7,Rebuilding
+180,51,Cullman,AL,6A,2,AHSAA Class 6A,3-7,3,7,0,10,46.3,46.3,-3.74,72.8,50,20.6,29.5,-8.9,5.22,5.22,5.22,19.5,93.3,Rebuilding
+181,52,Autauga Academy,AL,6A,2,AHSAA Class 6A,8-2,8,2,0,10,46.2,46.2,-3.78,57.8,395,44.7,19.5,25.2,11.17,11.17,11.17,52.0,170.7,Rebuilding
 182,14,Wadley,AL,1A,1,AHSAA Class 1A,6-4,6,4,0,10,45.9,45.9,-4.1,62.3,292,26.8,21.2,5.6,7.49,7.49,7.49,24.0,145.4,Quarterfinal Contender
-183,32,Lincoln,AL,5A,1,AHSAA Class 5A,2-8,2,8,0,10,45.8,45.8,-4.25,72.0,73,25.7,30.2,-4.5,3.34,3.34,3.34,12.0,61.1,Dark Horse
+183,32,Lincoln,AL,5A,2,AHSAA Class 5A,2-8,2,8,0,10,45.8,45.8,-4.25,72.0,73,25.7,30.2,-4.5,3.34,3.34,3.34,12.0,61.1,Dark Horse
 184,11,John Carroll Catholic,AL,4A,2,AHSAA Class 4A,5-6,5,6,0,11,45.4,45.4,-4.62,71.0,95,18.9,25.1,-6.2,7.26,7.26,7.26,27.5,149.5,Quarterfinal Contender
-185,33,Wenonah,AL,5A,1,AHSAA Class 5A,5-5,5,5,0,10,45.4,45.4,-4.63,64.7,217,30.0,16.7,13.3,7.52,7.52,7.52,30.0,129.0,Playoff Bubble
-186,12,Lee-Scott Academy,AL,4A,4,AHSAA Class 4A,3-8,3,8,0,11,45.3,45.3,-4.73,70.5,101,19.6,27.3,-7.7,4.32,4.32,4.32,16.5,88.6,Quarterfinal Contender
+185,33,Wenonah,AL,5A,2,AHSAA Class 5A,5-5,5,5,0,10,45.4,45.4,-4.63,64.7,217,30.0,16.7,13.3,7.52,7.52,7.52,30.0,129.0,Playoff Bubble
+186,12,Lee-Scott Academy,AL,4A,1,AHSAA Class 4A,3-8,3,8,0,11,45.3,45.3,-4.73,70.5,101,19.6,27.3,-7.7,4.32,4.32,4.32,16.5,88.6,Quarterfinal Contender
 187,24,Talladega,AL,3A,4,AHSAA Class 3A,5-6,5,6,0,11,45.2,45.2,-4.75,65.2,198,32.9,19.3,13.6,6.43,6.43,6.43,25.0,130.8,Dark Horse
-188,25,Etowah,AL,3A,4,AHSAA Class 3A,7-4,7,4,0,11,44.9,44.9,-5.06,65.5,192,26.3,18.7,7.6,9.04,9.04,9.04,35.0,184.2,Dark Horse
-189,26,White Plains,AL,3A,3,AHSAA Class 3A,6-5,6,5,0,11,44.8,44.8,-5.2,66.0,178,28.1,24.1,4.0,7.82,7.82,7.82,30.0,160.0,Dark Horse
-190,27,Hale County,AL,3A,1,AHSAA Class 3A,5-5,5,5,0,10,44.5,44.5,-5.52,65.7,187,27.2,26.3,0.9,7.13,7.13,7.13,25.0,132.3,Dark Horse
-191,28,Pike County,AL,3A,1,AHSAA Class 3A,7-4,7,4,0,11,44.3,44.3,-5.69,64.1,233,31.5,24.9,6.6,8.84,8.84,8.84,35.0,177.8,Dark Horse
+188,25,Etowah,AL,3A,3,AHSAA Class 3A,7-4,7,4,0,11,44.9,44.9,-5.06,65.5,192,26.3,18.7,7.6,9.04,9.04,9.04,35.0,184.2,Dark Horse
+189,26,White Plains,AL,3A,4,AHSAA Class 3A,6-5,6,5,0,11,44.8,44.8,-5.2,66.0,178,28.1,24.1,4.0,7.82,7.82,7.82,30.0,160.0,Dark Horse
+190,27,Hale County,AL,3A,3,AHSAA Class 3A,5-5,5,5,0,10,44.5,44.5,-5.52,65.7,187,27.2,26.3,0.9,7.13,7.13,7.13,25.0,132.3,Dark Horse
+191,28,Pike County,AL,3A,2,AHSAA Class 3A,7-4,7,4,0,11,44.3,44.3,-5.69,64.1,233,31.5,24.9,6.6,8.84,8.84,8.84,35.0,177.8,Dark Horse
 192,15,Sulligent,AL,1A,4,AHSAA Class 1A,7-4,7,4,0,11,44.0,44.0,-6.0,63.2,261,35.1,28.4,6.7,8.08,8.08,8.08,28.0,173.8,Quarterfinal Contender
-193,16,Appalachian,AL,1A,1,AHSAA Class 1A,7-4,7,4,0,11,43.7,43.7,-6.33,61.0,337,30.2,21.4,8.8,7.75,7.75,7.75,28.0,163.7,Quarterfinal Contender
+193,16,Appalachian,AL,1A,3,AHSAA Class 1A,7-4,7,4,0,11,43.7,43.7,-6.33,61.0,337,30.2,21.4,8.8,7.75,7.75,7.75,28.0,163.7,Quarterfinal Contender
 194,21,Colbert County,AL,2A,3,AHSAA Class 2A,7-4,7,4,0,11,43.6,43.6,-6.43,61.6,320,34.0,24.9,9.1,8.16,8.16,8.16,31.5,166.5,Dark Horse
-195,34,Dale County,AL,5A,3,AHSAA Class 5A,6-4,6,4,0,10,43.5,43.5,-6.51,65.9,182,23.9,20.9,3.0,9.19,9.19,9.19,36.0,159.6,Playoff Bubble
-196,29,East Lawrence,AL,3A,1,AHSAA Class 3A,6-5,6,5,0,11,43.4,43.4,-6.61,64.8,216,29.5,24.1,5.4,7.66,7.66,7.66,30.0,155.1,Dark Horse
-197,22,Ranburne,AL,2A,1,AHSAA Class 2A,7-4,7,4,0,11,43.1,43.1,-6.93,65.2,200,21.6,21.4,0.2,8.69,8.69,8.69,31.5,183.0,Dark Horse
-198,33,Bryant,AL,7A,2,AHSAA Class 7A,3-8,3,8,0,11,43.0,43.0,-7.03,73.0,47,17.3,31.5,-14.2,4.89,4.89,4.89,21.0,93.7,Playoff Bubble
+195,34,Dale County,AL,5A,2,AHSAA Class 5A,6-4,6,4,0,10,43.5,43.5,-6.51,65.9,182,23.9,20.9,3.0,9.19,9.19,9.19,36.0,159.6,Playoff Bubble
+196,29,East Lawrence,AL,3A,2,AHSAA Class 3A,6-5,6,5,0,11,43.4,43.4,-6.61,64.8,216,29.5,24.1,5.4,7.66,7.66,7.66,30.0,155.1,Dark Horse
+197,22,Ranburne,AL,2A,3,AHSAA Class 2A,7-4,7,4,0,11,43.1,43.1,-6.93,65.2,200,21.6,21.4,0.2,8.69,8.69,8.69,31.5,183.0,Dark Horse
+198,33,Bryant,AL,7A,3,AHSAA Class 7A,3-8,3,8,0,11,43.0,43.0,-7.03,73.0,47,17.3,31.5,-14.2,4.89,4.89,4.89,21.0,93.7,Playoff Bubble
 199,35,Carroll,AL,5A,1,AHSAA Class 5A,6-5,6,5,0,11,43.0,43.0,-7.03,66.9,155,20.6,21.9,-1.3,8.47,8.47,8.47,36.0,163.4,Playoff Bubble
-200,53,Albertville,AL,6A,4,AHSAA Class 6A,5-5,5,5,0,10,42.9,42.9,-7.07,67.6,144,22.1,22.7,-0.6,8.09,8.09,8.09,32.5,138.4,Rebuilding
-201,23,Ohatchee,AL,2A,2,AHSAA Class 2A,6-5,6,5,0,11,42.8,42.8,-7.16,64.1,231,31.4,28.5,2.9,7.31,7.31,7.31,27.0,152.6,Dark Horse
+200,53,Albertville,AL,6A,2,AHSAA Class 6A,5-5,5,5,0,10,42.9,42.9,-7.07,67.6,144,22.1,22.7,-0.6,8.09,8.09,8.09,32.5,138.4,Rebuilding
+201,23,Ohatchee,AL,2A,3,AHSAA Class 2A,6-5,6,5,0,11,42.8,42.8,-7.16,64.1,231,31.4,28.5,2.9,7.31,7.31,7.31,27.0,152.6,Dark Horse
 202,30,Booker T. Washington,AL,3A,1,AHSAA Class 3A,5-6,5,6,0,11,42.5,42.5,-7.46,65.9,183,21.7,23.8,-2.1,6.5,6.5,6.5,25.0,132.9,Dark Horse
-203,31,New Hope,AL,3A,3,AHSAA Class 3A,7-4,7,4,0,11,42.5,42.5,-7.5,63.6,247,28.7,23.8,4.9,8.78,8.78,8.78,35.0,175.8,Dark Horse
-204,17,South Lamar,AL,1A,1,AHSAA Class 1A,5-5,5,5,0,10,42.5,42.5,-7.55,61.7,313,28.8,19.8,9.0,6.18,6.18,6.18,20.0,119.4,Dark Horse
-205,54,Coosa Christian,AL,6A,2,AHSAA Class 6A,3-7,3,7,0,10,42.4,42.4,-7.6,69.6,115,20.7,34.6,-13.9,5.0,5.0,5.0,19.5,87.0,Rebuilding
-206,24,Phil Campbell,AL,2A,4,AHSAA Class 2A,7-4,7,4,0,11,42.2,42.2,-7.83,61.8,310,34.2,26.6,7.6,8.19,8.19,8.19,31.5,167.4,Dark Horse
-207,36,Priceville,AL,5A,2,AHSAA Class 5A,5-5,5,5,0,10,42.0,42.0,-7.99,66.0,175,29.1,31.5,-2.4,7.67,7.67,7.67,30.0,133.4,Playoff Bubble
-208,34,Robertsdale,AL,7A,3,AHSAA Class 7A,2-9,2,9,0,11,41.7,41.7,-8.31,72.8,54,16.7,32.1,-15.4,3.25,3.25,3.25,14.0,62.1,Playoff Bubble
-209,25,Blacksher,AL,2A,4,AHSAA Class 2A,7-4,7,4,0,11,41.7,41.7,-8.31,62.6,278,25.5,20.9,4.6,8.31,8.31,8.31,31.5,171.3,Dark Horse
-210,18,Hackleburg,AL,1A,2,AHSAA Class 1A,8-3,8,3,0,11,41.6,41.6,-8.39,58.1,392,36.7,22.0,14.7,8.38,8.38,8.38,32.0,171.9,Dark Horse
+203,31,New Hope,AL,3A,4,AHSAA Class 3A,7-4,7,4,0,11,42.5,42.5,-7.5,63.6,247,28.7,23.8,4.9,8.78,8.78,8.78,35.0,175.8,Dark Horse
+204,17,South Lamar,AL,1A,2,AHSAA Class 1A,5-5,5,5,0,10,42.5,42.5,-7.55,61.7,313,28.8,19.8,9.0,6.18,6.18,6.18,20.0,119.4,Dark Horse
+205,54,Coosa Christian,AL,6A,4,AHSAA Class 6A,3-7,3,7,0,10,42.4,42.4,-7.6,69.6,115,20.7,34.6,-13.9,5.0,5.0,5.0,19.5,87.0,Rebuilding
+206,24,Phil Campbell,AL,2A,3,AHSAA Class 2A,7-4,7,4,0,11,42.2,42.2,-7.83,61.8,310,34.2,26.6,7.6,8.19,8.19,8.19,31.5,167.4,Dark Horse
+207,36,Priceville,AL,5A,3,AHSAA Class 5A,5-5,5,5,0,10,42.0,42.0,-7.99,66.0,175,29.1,31.5,-2.4,7.67,7.67,7.67,30.0,133.4,Playoff Bubble
+208,34,Robertsdale,AL,7A,1,AHSAA Class 7A,2-9,2,9,0,11,41.7,41.7,-8.31,72.8,54,16.7,32.1,-15.4,3.25,3.25,3.25,14.0,62.1,Playoff Bubble
+209,25,Blacksher,AL,2A,1,AHSAA Class 2A,7-4,7,4,0,11,41.7,41.7,-8.31,62.6,278,25.5,20.9,4.6,8.31,8.31,8.31,31.5,171.3,Dark Horse
+210,18,Hackleburg,AL,1A,1,AHSAA Class 1A,8-3,8,3,0,11,41.6,41.6,-8.39,58.1,392,36.7,22.0,14.7,8.38,8.38,8.38,32.0,171.9,Dark Horse
 211,32,Vinemont,AL,3A,1,AHSAA Class 3A,7-4,7,4,0,11,41.6,41.6,-8.4,63.0,267,25.7,16.2,9.5,8.69,8.69,8.69,35.0,173.0,Dark Horse
-212,55,Abbeville Christian Academy,AL,6A,1,AHSAA Class 6A,8-3,8,3,0,11,41.5,41.5,-8.54,58.7,381,31.2,16.2,15.0,10.3,10.3,10.3,52.0,175.1,Rebuilding
-213,37,Morgan Academy,AL,5A,2,AHSAA Class 5A,7-4,7,4,0,11,41.5,41.5,-8.55,62.2,299,33.8,27.0,6.8,9.2,9.2,9.2,42.0,169.1,Playoff Bubble
-214,26,Clarke County,AL,2A,2,AHSAA Class 2A,8-3,8,3,0,11,41.4,41.4,-8.56,63.3,257,24.6,20.0,4.6,9.61,9.61,9.61,36.0,199.1,Dark Horse
-215,33,Wilson,AL,3A,1,AHSAA Class 3A,7-4,7,4,0,11,41.2,41.2,-8.83,61.8,312,34.0,19.2,14.8,8.51,8.51,8.51,35.0,167.3,Playoff Bubble
-216,27,Cleveland,AL,2A,1,AHSAA Class 2A,7-4,7,4,0,11,41.1,41.1,-8.91,64.3,227,28.9,26.4,2.5,8.56,8.56,8.56,31.5,179.0,Dark Horse
-217,38,Guntersville,AL,5A,2,AHSAA Class 5A,5-6,5,6,0,11,41.1,41.1,-8.91,63.8,243,20.2,14.8,5.4,6.74,6.74,6.74,30.0,126.2,Playoff Bubble
-218,34,Curry,AL,3A,2,AHSAA Class 3A,7-4,7,4,0,11,40.9,40.9,-9.13,65.3,195,27.4,23.1,4.3,9.01,9.01,9.01,35.0,183.3,Playoff Bubble
+212,55,Abbeville Christian Academy,AL,6A,4,AHSAA Class 6A,8-3,8,3,0,11,41.5,41.5,-8.54,58.7,381,31.2,16.2,15.0,10.3,10.3,10.3,52.0,175.1,Rebuilding
+213,37,Morgan Academy,AL,5A,1,AHSAA Class 5A,7-4,7,4,0,11,41.5,41.5,-8.55,62.2,299,33.8,27.0,6.8,9.2,9.2,9.2,42.0,169.1,Playoff Bubble
+214,26,Clarke County,AL,2A,1,AHSAA Class 2A,8-3,8,3,0,11,41.4,41.4,-8.56,63.3,257,24.6,20.0,4.6,9.61,9.61,9.61,36.0,199.1,Dark Horse
+215,33,Wilson,AL,3A,2,AHSAA Class 3A,7-4,7,4,0,11,41.2,41.2,-8.83,61.8,312,34.0,19.2,14.8,8.51,8.51,8.51,35.0,167.3,Playoff Bubble
+216,27,Cleveland,AL,2A,4,AHSAA Class 2A,7-4,7,4,0,11,41.1,41.1,-8.91,64.3,227,28.9,26.4,2.5,8.56,8.56,8.56,31.5,179.0,Dark Horse
+217,38,Guntersville,AL,5A,3,AHSAA Class 5A,5-6,5,6,0,11,41.1,41.1,-8.91,63.8,243,20.2,14.8,5.4,6.74,6.74,6.74,30.0,126.2,Playoff Bubble
+218,34,Curry,AL,3A,3,AHSAA Class 3A,7-4,7,4,0,11,40.9,40.9,-9.13,65.3,195,27.4,23.1,4.3,9.01,9.01,9.01,35.0,183.3,Playoff Bubble
 219,39,Fairfield,AL,5A,3,AHSAA Class 5A,6-5,6,5,0,11,40.8,40.8,-9.22,64.3,228,24.1,17.9,6.2,8.15,8.15,8.15,36.0,153.3,Playoff Bubble
-220,40,Shelby County,AL,5A,3,AHSAA Class 5A,4-7,4,7,0,11,40.7,40.7,-9.31,67.8,140,24.4,28.5,-4.1,5.72,5.72,5.72,24.0,111.2,Playoff Bubble
+220,40,Shelby County,AL,5A,4,AHSAA Class 5A,4-7,4,7,0,11,40.7,40.7,-9.31,67.8,140,24.4,28.5,-4.1,5.72,5.72,5.72,24.0,111.2,Playoff Bubble
 221,41,Shades Valley,AL,5A,2,AHSAA Class 5A,5-6,5,6,0,11,40.4,40.4,-9.6,65.3,194,21.7,15.5,6.2,6.9,6.9,6.9,30.0,131.1,Playoff Bubble
 222,56,Paul W. Bryant,AL,6A,2,AHSAA Class 6A,3-7,3,7,0,10,40.4,40.4,-9.63,71.5,84,23.0,31.0,-8.0,5.12,5.12,5.12,19.5,90.7,Rebuilding
-223,19,Linden,AL,1A,2,AHSAA Class 1A,9-2,9,2,0,11,40.0,40.0,-10.02,56.0,407,28.6,11.5,17.1,9.05,9.05,9.05,36.0,181.5,Dark Horse
-224,42,Center Point,AL,5A,2,AHSAA Class 5A,5-6,5,6,0,11,40.0,40.0,-10.04,66.8,162,19.3,18.4,0.9,7.04,7.04,7.04,30.0,135.7,Playoff Bubble
-225,43,Tallassee,AL,5A,2,AHSAA Class 5A,3-7,3,7,0,10,39.9,39.9,-10.15,68.8,127,22.5,32.2,-9.7,4.79,4.79,4.79,18.0,85.3,Playoff Bubble
+223,19,Linden,AL,1A,3,AHSAA Class 1A,9-2,9,2,0,11,40.0,40.0,-10.02,56.0,407,28.6,11.5,17.1,9.05,9.05,9.05,36.0,181.5,Dark Horse
+224,42,Center Point,AL,5A,4,AHSAA Class 5A,5-6,5,6,0,11,40.0,40.0,-10.04,66.8,162,19.3,18.4,0.9,7.04,7.04,7.04,30.0,135.7,Playoff Bubble
+225,43,Tallassee,AL,5A,4,AHSAA Class 5A,3-7,3,7,0,10,39.9,39.9,-10.15,68.8,127,22.5,32.2,-9.7,4.79,4.79,4.79,18.0,85.3,Playoff Bubble
 226,20,Red Bay,AL,1A,4,AHSAA Class 1A,7-4,7,4,0,11,39.8,39.8,-10.21,59.2,373,31.2,21.1,10.1,7.5,7.5,7.5,28.0,155.8,Dark Horse
-227,44,Providence Christian,AL,5A,4,AHSAA Class 5A,5-6,5,6,0,11,39.8,39.8,-10.24,65.1,202,27.1,29.9,-2.8,6.88,6.88,6.88,30.0,130.4,Playoff Bubble
+227,44,Providence Christian,AL,5A,1,AHSAA Class 5A,5-6,5,6,0,11,39.8,39.8,-10.24,65.1,202,27.1,29.9,-2.8,6.88,6.88,6.88,30.0,130.4,Playoff Bubble
 228,45,Hooper Academy,AL,5A,2,AHSAA Class 5A,8-3,8,3,0,11,39.6,39.6,-10.41,58.3,388,38.4,23.9,14.5,9.87,9.87,9.87,48.0,173.1,Playoff Bubble
-229,46,Bessemer Academy,AL,5A,4,AHSAA Class 5A,6-5,6,5,0,11,39.6,39.6,-10.41,63.5,252,24.4,20.9,3.5,8.05,8.05,8.05,36.0,150.0,Playoff Bubble
-230,35,Hokes Bluff,AL,3A,4,AHSAA Class 3A,6-5,6,5,0,11,39.6,39.6,-10.42,63.6,249,25.9,25.2,0.7,7.51,7.51,7.51,30.0,150.4,Playoff Bubble
-231,57,Rehobeth,AL,6A,3,AHSAA Class 6A,2-8,2,8,0,10,39.0,39.0,-10.95,70.2,108,14.0,25.3,-11.3,3.35,3.35,3.35,13.0,58.7,Rebuilding
-232,47,Fairview,AL,5A,2,AHSAA Class 5A,5-4,5,4,0,9,38.5,38.5,-11.45,61.7,315,21.0,19.8,1.2,7.96,7.96,7.96,30.0,119.1,Playoff Bubble
+229,46,Bessemer Academy,AL,5A,3,AHSAA Class 5A,6-5,6,5,0,11,39.6,39.6,-10.41,63.5,252,24.4,20.9,3.5,8.05,8.05,8.05,36.0,150.0,Playoff Bubble
+230,35,Hokes Bluff,AL,3A,3,AHSAA Class 3A,6-5,6,5,0,11,39.6,39.6,-10.42,63.6,249,25.9,25.2,0.7,7.51,7.51,7.51,30.0,150.4,Playoff Bubble
+231,57,Rehobeth,AL,6A,4,AHSAA Class 6A,2-8,2,8,0,10,39.0,39.0,-10.95,70.2,108,14.0,25.3,-11.3,3.35,3.35,3.35,13.0,58.7,Rebuilding
+232,47,Fairview,AL,5A,1,AHSAA Class 5A,5-4,5,4,0,9,38.5,38.5,-11.45,61.7,315,21.0,19.8,1.2,7.96,7.96,7.96,30.0,119.1,Playoff Bubble
 233,36,Glencoe,AL,3A,2,AHSAA Class 3A,5-5,5,5,0,10,38.5,38.5,-11.46,62.1,303,27.7,20.0,7.7,6.72,6.72,6.72,25.0,120.6,Playoff Bubble
-234,35,Davidson,AL,7A,4,AHSAA Class 7A,1-9,1,9,0,10,38.5,38.5,-11.55,72.1,71,17.1,33.0,-15.9,1.77,1.77,1.77,7.0,30.6,Playoff Bubble
-235,37,Winfield,AL,3A,3,AHSAA Class 3A,3-7,3,7,0,10,38.2,38.2,-11.83,68.6,129,30.1,40.8,-10.7,4.48,4.48,4.48,15.0,85.1,Playoff Bubble
+234,35,Davidson,AL,7A,2,AHSAA Class 7A,1-9,1,9,0,10,38.5,38.5,-11.55,72.1,71,17.1,33.0,-15.9,1.77,1.77,1.77,7.0,30.6,Playoff Bubble
+235,37,Winfield,AL,3A,1,AHSAA Class 3A,3-7,3,7,0,10,38.2,38.2,-11.83,68.6,129,30.1,40.8,-10.7,4.48,4.48,4.48,15.0,85.1,Playoff Bubble
 236,48,Lawrence County,AL,5A,1,AHSAA Class 5A,4-6,4,6,0,10,38.1,38.1,-11.86,69.5,119,21.4,35.8,-14.4,6.45,6.45,6.45,24.0,115.8,Playoff Bubble
-237,49,Demopolis,AL,5A,4,AHSAA Class 5A,3-7,3,7,0,10,38.1,38.1,-11.87,68.5,131,28.6,37.5,-8.9,4.77,4.77,4.77,18.0,84.8,Rebuilding
-238,36,Smiths Station,AL,7A,1,AHSAA Class 7A,1-9,1,9,0,10,38.1,38.1,-11.94,75.9,17,13.1,38.7,-25.6,1.86,1.86,1.86,7.0,33.1,Playoff Bubble
+237,49,Demopolis,AL,5A,1,AHSAA Class 5A,3-7,3,7,0,10,38.1,38.1,-11.87,68.5,131,28.6,37.5,-8.9,4.77,4.77,4.77,18.0,84.8,Rebuilding
+238,36,Smiths Station,AL,7A,4,AHSAA Class 7A,1-9,1,9,0,10,38.1,38.1,-11.94,75.9,17,13.1,38.7,-25.6,1.86,1.86,1.86,7.0,33.1,Playoff Bubble
 239,50,Greenville,AL,5A,3,AHSAA Class 5A,3-7,3,7,0,10,37.9,37.9,-12.07,66.8,161,19.2,23.0,-3.8,4.65,4.65,4.65,18.0,81.5,Rebuilding
-240,58,Percy Julian,AL,6A,3,AHSAA Class 6A,2-8,2,8,0,10,37.9,37.9,-12.12,72.2,68,12.6,32.6,-20.0,3.45,3.45,3.45,13.0,61.4,Rebuilding
-241,59,Jackson-Olin,AL,6A,3,AHSAA Class 6A,2-8,2,8,0,10,37.9,37.9,-12.14,71.7,81,17.2,33.2,-16.0,3.42,3.42,3.42,13.0,60.7,Rebuilding
+240,58,Percy Julian,AL,6A,2,AHSAA Class 6A,2-8,2,8,0,10,37.9,37.9,-12.12,72.2,68,12.6,32.6,-20.0,3.45,3.45,3.45,13.0,61.4,Rebuilding
+241,59,Jackson-Olin,AL,6A,4,AHSAA Class 6A,2-8,2,8,0,10,37.9,37.9,-12.14,71.7,81,17.2,33.2,-16.0,3.42,3.42,3.42,13.0,60.7,Rebuilding
 242,60,Hueytown,AL,6A,3,AHSAA Class 6A,1-9,1,9,0,10,37.7,37.7,-12.28,75.1,19,21.6,49.2,-27.6,1.79,1.79,1.79,6.5,32.5,Rebuilding
 243,28,Gaston,AL,2A,1,AHSAA Class 2A,6-4,6,4,0,10,37.7,37.7,-12.29,63.6,246,35.7,35.5,0.2,7.97,7.97,7.97,27.0,150.7,Dark Horse
-244,29,Vincent,AL,2A,3,AHSAA Class 2A,4-6,4,6,0,10,37.7,37.7,-12.31,63.9,237,24.5,27.1,-2.6,5.34,5.34,5.34,18.0,101.1,Dark Horse
-245,61,Chelsea,AL,6A,2,AHSAA Class 6A,1-9,1,9,0,10,37.5,37.5,-12.49,73.8,31,11.9,37.4,-25.5,1.76,1.76,1.76,6.5,31.7,Rebuilding
-246,38,Slocomb,AL,3A,1,AHSAA Class 3A,6-4,6,4,0,10,37.5,37.5,-12.52,63.9,240,21.2,23.1,-1.9,8.31,8.31,8.31,30.0,151.6,Playoff Bubble
-247,39,Wicksburg,AL,3A,1,AHSAA Class 3A,4-6,4,6,0,10,37.5,37.5,-12.54,64.5,224,24.7,30.6,-5.9,5.59,5.59,5.59,20.0,102.7,Playoff Bubble
-248,30,Hillcrest-Evergreen,AL,2A,3,AHSAA Class 2A,3-7,3,7,0,10,37.4,37.4,-12.6,67.3,150,19.4,30.9,-11.5,4.23,4.23,4.23,13.5,82.4,Dark Horse
-249,13,Faith Academy,AL,4A,2,AHSAA Class 4A,3-8,3,8,0,11,37.1,37.1,-12.93,71.8,78,11.8,29.4,-17.6,4.4,4.4,4.4,16.5,91.2,Quarterfinal Contender
+244,29,Vincent,AL,2A,2,AHSAA Class 2A,4-6,4,6,0,10,37.7,37.7,-12.31,63.9,237,24.5,27.1,-2.6,5.34,5.34,5.34,18.0,101.1,Dark Horse
+245,61,Chelsea,AL,6A,3,AHSAA Class 6A,1-9,1,9,0,10,37.5,37.5,-12.49,73.8,31,11.9,37.4,-25.5,1.76,1.76,1.76,6.5,31.7,Rebuilding
+246,38,Slocomb,AL,3A,4,AHSAA Class 3A,6-4,6,4,0,10,37.5,37.5,-12.52,63.9,240,21.2,23.1,-1.9,8.31,8.31,8.31,30.0,151.6,Playoff Bubble
+247,39,Wicksburg,AL,3A,4,AHSAA Class 3A,4-6,4,6,0,10,37.5,37.5,-12.54,64.5,224,24.7,30.6,-5.9,5.59,5.59,5.59,20.0,102.7,Playoff Bubble
+248,30,Hillcrest-Evergreen,AL,2A,4,AHSAA Class 2A,3-7,3,7,0,10,37.4,37.4,-12.6,67.3,150,19.4,30.9,-11.5,4.23,4.23,4.23,13.5,82.4,Dark Horse
+249,13,Faith Academy,AL,4A,1,AHSAA Class 4A,3-8,3,8,0,11,37.1,37.1,-12.93,71.8,78,11.8,29.4,-17.6,4.4,4.4,4.4,16.5,91.2,Quarterfinal Contender
 250,51,Victory Christian,AL,5A,3,AHSAA Class 5A,5-5,5,5,0,10,36.8,36.8,-13.18,60.8,342,31.7,25.7,6.0,7.07,7.07,7.07,30.0,116.3,Rebuilding
 251,62,Chilton County,AL,6A,4,AHSAA Class 6A,1-9,1,9,0,10,36.7,36.7,-13.33,71.9,77,17.4,35.9,-18.5,1.72,1.72,1.72,6.5,30.5,Rebuilding
-252,63,Decatur,AL,6A,2,AHSAA Class 6A,2-8,2,8,0,10,36.6,36.6,-13.39,72.2,69,11.3,27.6,-16.3,3.45,3.45,3.45,13.0,61.3,Rebuilding
-253,52,Holtville,AL,5A,2,AHSAA Class 5A,4-6,4,6,0,10,36.6,36.6,-13.42,68.0,138,24.3,35.7,-11.4,6.31,6.31,6.31,24.0,111.7,Rebuilding
+252,63,Decatur,AL,6A,1,AHSAA Class 6A,2-8,2,8,0,10,36.6,36.6,-13.39,72.2,69,11.3,27.6,-16.3,3.45,3.45,3.45,13.0,61.3,Rebuilding
+253,52,Holtville,AL,5A,1,AHSAA Class 5A,4-6,4,6,0,10,36.6,36.6,-13.42,68.0,138,24.3,35.7,-11.4,6.31,6.31,6.31,24.0,111.7,Rebuilding
 254,31,Long,AL,2A,1,AHSAA Class 2A,6-5,6,5,0,11,36.6,36.6,-13.43,62.3,289,27.9,27.2,0.7,7.08,7.08,7.08,27.0,145.5,Dark Horse
-255,32,Midfield,AL,2A,4,AHSAA Class 2A,3-6,3,6,0,9,35.7,35.7,-14.27,65.5,189,18.6,25.2,-6.6,4.58,4.58,4.58,13.5,79.1,Dark Horse
-256,40,Childersburg,AL,3A,4,AHSAA Class 3A,6-4,6,4,0,10,35.6,35.6,-14.44,62.2,294,27.0,24.2,2.8,8.07,8.07,8.07,30.0,145.0,Playoff Bubble
-257,21,Woodland,AL,1A,4,AHSAA Class 1A,3-7,3,7,0,10,35.2,35.2,-14.75,63.5,250,30.7,32.7,-2.0,3.83,3.83,3.83,12.0,75.1,Dark Horse
-258,33,Pisgah,AL,2A,2,AHSAA Class 2A,5-6,5,6,0,11,35.2,35.2,-14.81,63.0,266,26.5,28.7,-2.2,5.98,5.98,5.98,22.5,123.6,Playoff Bubble
+255,32,Midfield,AL,2A,2,AHSAA Class 2A,3-6,3,6,0,9,35.7,35.7,-14.27,65.5,189,18.6,25.2,-6.6,4.58,4.58,4.58,13.5,79.1,Dark Horse
+256,40,Childersburg,AL,3A,1,AHSAA Class 3A,6-4,6,4,0,10,35.6,35.6,-14.44,62.2,294,27.0,24.2,2.8,8.07,8.07,8.07,30.0,145.0,Playoff Bubble
+257,21,Woodland,AL,1A,3,AHSAA Class 1A,3-7,3,7,0,10,35.2,35.2,-14.75,63.5,250,30.7,32.7,-2.0,3.83,3.83,3.83,12.0,75.1,Dark Horse
+258,33,Pisgah,AL,2A,4,AHSAA Class 2A,5-6,5,6,0,11,35.2,35.2,-14.81,63.0,266,26.5,28.7,-2.2,5.98,5.98,5.98,22.5,123.6,Playoff Bubble
 259,41,Fultondale,AL,3A,1,AHSAA Class 3A,3-7,3,7,0,10,35.2,35.2,-14.83,66.9,154,21.4,25.8,-4.4,4.36,4.36,4.36,15.0,81.8,Playoff Bubble
-260,14,Houston Academy,AL,4A,1,AHSAA Class 4A,1-9,1,9,0,10,35.1,35.1,-14.94,73.5,36,9.9,34.4,-24.5,1.65,1.65,1.65,5.5,31.5,Quarterfinal Contender
-261,42,Madison County,AL,3A,2,AHSAA Class 3A,3-7,3,7,0,10,35.0,35.0,-15.04,63.0,269,29.0,32.0,-3.0,4.09,4.09,4.09,15.0,74.0,Playoff Bubble
-262,22,Florala,AL,1A,1,AHSAA Class 1A,6-4,6,4,0,10,35.0,35.0,-15.05,60.3,355,30.0,26.2,3.8,7.22,7.22,7.22,24.0,137.7,Dark Horse
-263,53,New Brockton,AL,5A,2,AHSAA Class 5A,2-8,2,8,0,10,34.8,34.8,-15.16,67.8,139,12.7,26.9,-14.2,3.15,3.15,3.15,12.0,55.6,Rebuilding
+260,14,Houston Academy,AL,4A,4,AHSAA Class 4A,1-9,1,9,0,10,35.1,35.1,-14.94,73.5,36,9.9,34.4,-24.5,1.65,1.65,1.65,5.5,31.5,Quarterfinal Contender
+261,42,Madison County,AL,3A,1,AHSAA Class 3A,3-7,3,7,0,10,35.0,35.0,-15.04,63.0,269,29.0,32.0,-3.0,4.09,4.09,4.09,15.0,74.0,Playoff Bubble
+262,22,Florala,AL,1A,2,AHSAA Class 1A,6-4,6,4,0,10,35.0,35.0,-15.05,60.3,355,30.0,26.2,3.8,7.22,7.22,7.22,24.0,137.7,Dark Horse
+263,53,New Brockton,AL,5A,3,AHSAA Class 5A,2-8,2,8,0,10,34.8,34.8,-15.16,67.8,139,12.7,26.9,-14.2,3.15,3.15,3.15,12.0,55.6,Rebuilding
 264,23,Pleasant Home,AL,1A,1,AHSAA Class 1A,5-5,5,5,0,10,34.8,34.8,-15.19,61.1,331,25.4,23.1,2.3,6.11,6.11,6.11,20.0,117.4,Dark Horse
 265,54,Pickens Academy,AL,5A,4,AHSAA Class 5A,8-3,8,3,0,11,34.5,34.5,-15.46,57.1,402,31.0,22.0,9.0,9.68,9.68,9.68,48.0,167.1,Rebuilding
-266,55,Rain,AL,5A,4,AHSAA Class 5A,0-10,0,10,0,10,34.5,34.5,-15.5,71.7,80,14.5,38.2,-23.7,0.0,0.0,0.0,0.0,0.0,Rebuilding
+266,55,Rain,AL,5A,3,AHSAA Class 5A,0-10,0,10,0,10,34.5,34.5,-15.5,71.7,80,14.5,38.2,-23.7,0.0,0.0,0.0,0.0,0.0,Rebuilding
 267,43,Sylvania,AL,3A,3,AHSAA Class 3A,4-6,4,6,0,10,34.5,34.5,-15.53,65.0,207,15.2,30.1,-14.9,5.64,5.64,5.64,20.0,104.1,Playoff Bubble
 268,64,Brookwood,AL,6A,2,AHSAA Class 6A,2-8,2,8,0,10,34.4,34.4,-15.6,71.1,94,24.0,38.5,-14.5,3.4,3.4,3.4,13.0,60.0,Rebuilding
-269,65,Park Crossing,AL,6A,3,AHSAA Class 6A,3-7,3,7,0,10,34.4,34.4,-15.61,69.2,124,19.3,31.5,-12.2,4.97,4.97,4.97,19.5,86.2,Rebuilding
-270,24,Spring Garden,AL,1A,4,AHSAA Class 1A,6-5,6,5,0,11,34.3,34.3,-15.69,61.9,307,23.5,23.5,0.0,6.76,6.76,6.76,24.0,143.8,Dark Horse
-271,44,West Limestone,AL,3A,2,AHSAA Class 3A,4-6,4,6,0,10,34.2,34.2,-15.75,61.6,321,20.3,16.4,3.9,5.33,5.33,5.33,20.0,95.1,Playoff Bubble
-272,56,Straughn,AL,5A,3,AHSAA Class 5A,2-8,2,8,0,10,34.2,34.2,-15.77,68.2,132,13.9,24.8,-10.9,3.17,3.17,3.17,12.0,56.2,Rebuilding
-273,34,Highland Home,AL,2A,3,AHSAA Class 2A,4-7,4,7,0,11,34.2,34.2,-15.78,64.2,230,22.9,29.0,-6.1,4.88,4.88,4.88,18.0,101.8,Playoff Bubble
+269,65,Park Crossing,AL,6A,2,AHSAA Class 6A,3-7,3,7,0,10,34.4,34.4,-15.61,69.2,124,19.3,31.5,-12.2,4.97,4.97,4.97,19.5,86.2,Rebuilding
+270,24,Spring Garden,AL,1A,2,AHSAA Class 1A,6-5,6,5,0,11,34.3,34.3,-15.69,61.9,307,23.5,23.5,0.0,6.76,6.76,6.76,24.0,143.8,Dark Horse
+271,44,West Limestone,AL,3A,4,AHSAA Class 3A,4-6,4,6,0,10,34.2,34.2,-15.75,61.6,321,20.3,16.4,3.9,5.33,5.33,5.33,20.0,95.1,Playoff Bubble
+272,56,Straughn,AL,5A,2,AHSAA Class 5A,2-8,2,8,0,10,34.2,34.2,-15.77,68.2,132,13.9,24.8,-10.9,3.17,3.17,3.17,12.0,56.2,Rebuilding
+273,34,Highland Home,AL,2A,2,AHSAA Class 2A,4-7,4,7,0,11,34.2,34.2,-15.78,64.2,230,22.9,29.0,-6.1,4.88,4.88,4.88,18.0,101.8,Playoff Bubble
 274,15,Saint James,AL,4A,2,AHSAA Class 4A,3-8,3,8,0,11,34.1,34.1,-15.94,67.3,148,15.8,32.6,-16.8,4.12,4.12,4.12,16.5,82.5,Quarterfinal Contender
 275,16,Prattville Christian Academy,AL,4A,1,AHSAA Class 4A,5-5,5,5,0,10,34.0,34.0,-16.05,61.6,317,25.3,25.9,-0.6,6.92,6.92,6.92,27.5,119.0,Quarterfinal Contender
-276,45,Beulah,AL,3A,1,AHSAA Class 3A,5-5,5,5,0,10,33.9,33.9,-16.15,61.1,333,27.5,27.3,0.2,6.61,6.61,6.61,25.0,117.3,Playoff Bubble
-277,57,Satsuma,AL,5A,3,AHSAA Class 5A,4-6,4,6,0,10,33.8,33.8,-16.17,66.8,158,20.0,27.8,-7.8,6.2,6.2,6.2,24.0,108.7,Rebuilding
+276,45,Beulah,AL,3A,3,AHSAA Class 3A,5-5,5,5,0,10,33.9,33.9,-16.15,61.1,333,27.5,27.3,0.2,6.61,6.61,6.61,25.0,117.3,Playoff Bubble
+277,57,Satsuma,AL,5A,4,AHSAA Class 5A,4-6,4,6,0,10,33.8,33.8,-16.17,66.8,158,20.0,27.8,-7.8,6.2,6.2,6.2,24.0,108.7,Rebuilding
 278,46,Haleyville,AL,3A,4,AHSAA Class 3A,4-6,4,6,0,10,33.8,33.8,-16.19,65.8,184,24.3,28.1,-3.8,5.71,5.71,5.71,20.0,106.1,Playoff Bubble
-279,25,Meek,AL,1A,1,AHSAA Class 1A,7-4,7,4,0,11,33.7,33.7,-16.29,58.9,377,30.4,26.3,4.1,7.45,7.45,7.45,28.0,154.3,Dark Horse
-280,58,Headland,AL,5A,2,AHSAA Class 5A,3-7,3,7,0,10,33.4,33.4,-16.58,66.5,165,14.4,26.2,-11.8,4.63,4.63,4.63,18.0,80.9,Rebuilding
-281,35,Central of Coosa County,AL,2A,2,AHSAA Class 2A,4-6,4,6,0,10,33.1,33.1,-16.86,64.6,219,25.0,32.6,-7.6,5.4,5.4,5.4,18.0,103.0,Playoff Bubble
-282,47,Ashville,AL,3A,2,AHSAA Class 3A,3-7,3,7,0,10,33.0,33.0,-16.96,65.9,181,15.4,31.4,-16.0,4.29,4.29,4.29,15.0,79.8,Playoff Bubble
+279,25,Meek,AL,1A,2,AHSAA Class 1A,7-4,7,4,0,11,33.7,33.7,-16.29,58.9,377,30.4,26.3,4.1,7.45,7.45,7.45,28.0,154.3,Dark Horse
+280,58,Headland,AL,5A,1,AHSAA Class 5A,3-7,3,7,0,10,33.4,33.4,-16.58,66.5,165,14.4,26.2,-11.8,4.63,4.63,4.63,18.0,80.9,Rebuilding
+281,35,Central of Coosa County,AL,2A,4,AHSAA Class 2A,4-6,4,6,0,10,33.1,33.1,-16.86,64.6,219,25.0,32.6,-7.6,5.4,5.4,5.4,18.0,103.0,Playoff Bubble
+282,47,Ashville,AL,3A,1,AHSAA Class 3A,3-7,3,7,0,10,33.0,33.0,-16.96,65.9,181,15.4,31.4,-16.0,4.29,4.29,4.29,15.0,79.8,Playoff Bubble
 283,26,Sweet Water,AL,1A,3,AHSAA Class 1A,5-6,5,6,0,11,32.7,32.7,-17.28,60.3,358,24.9,26.9,-2.0,5.46,5.46,5.46,20.0,114.6,Dark Horse
-284,27,Billingsley,AL,1A,1,AHSAA Class 1A,7-4,7,4,0,11,32.4,32.4,-17.65,60.6,348,19.0,24.9,-5.9,7.7,7.7,7.7,28.0,162.1,Dark Horse
-285,36,Greensboro,AL,2A,4,AHSAA Class 2A,4-7,4,7,0,11,32.1,32.1,-17.91,63.8,242,15.5,21.7,-6.2,4.85,4.85,4.85,18.0,101.0,Playoff Bubble
-286,37,Greene County,AL,2A,3,AHSAA Class 2A,5-4,5,4,0,9,32.1,32.1,-17.93,58.8,380,21.4,19.9,1.5,6.77,6.77,6.77,22.5,109.7,Playoff Bubble
-287,28,Verbena,AL,1A,2,AHSAA Class 1A,6-5,6,5,0,11,32.0,32.0,-18.04,60.0,363,24.3,27.9,-3.6,6.52,6.52,6.52,24.0,136.4,Dark Horse
+284,27,Billingsley,AL,1A,3,AHSAA Class 1A,7-4,7,4,0,11,32.4,32.4,-17.65,60.6,348,19.0,24.9,-5.9,7.7,7.7,7.7,28.0,162.1,Dark Horse
+285,36,Greensboro,AL,2A,3,AHSAA Class 2A,4-7,4,7,0,11,32.1,32.1,-17.91,63.8,242,15.5,21.7,-6.2,4.85,4.85,4.85,18.0,101.0,Playoff Bubble
+286,37,Greene County,AL,2A,2,AHSAA Class 2A,5-4,5,4,0,9,32.1,32.1,-17.93,58.8,380,21.4,19.9,1.5,6.77,6.77,6.77,22.5,109.7,Playoff Bubble
+287,28,Verbena,AL,1A,3,AHSAA Class 1A,6-5,6,5,0,11,32.0,32.0,-18.04,60.0,363,24.3,27.9,-3.6,6.52,6.52,6.52,24.0,136.4,Dark Horse
 288,37,Hazel Green,AL,7A,1,AHSAA Class 7A,2-8,2,8,0,10,31.9,31.9,-18.1,70.4,104,22.1,46.8,-24.7,3.46,3.46,3.46,14.0,59.0,Playoff Bubble
-289,29,Fayetteville,AL,1A,1,AHSAA Class 1A,3-8,3,8,0,11,31.7,31.7,-18.28,64.1,232,20.9,31.9,-11.0,3.52,3.52,3.52,12.0,76.3,Dark Horse
-290,30,Gaylesville,AL,1A,4,AHSAA Class 1A,5-4,5,4,0,9,31.4,31.4,-18.61,59.0,376,26.0,26.0,0.0,6.52,6.52,6.52,20.0,110.5,Dark Horse
-291,38,Locust Fork,AL,2A,4,AHSAA Class 2A,3-7,3,7,0,10,31.2,31.2,-18.8,63.7,244,22.4,31.6,-9.2,3.99,3.99,3.99,13.5,75.5,Playoff Bubble
-292,17,St. Luke's Episcopal,AL,4A,4,AHSAA Class 4A,5-5,5,5,0,10,31.0,31.0,-19.01,60.0,364,26.2,26.0,0.2,6.73,6.73,6.73,27.5,113.6,Dark Horse
-293,48,Oakman,AL,3A,2,AHSAA Class 3A,3-7,3,7,0,10,30.8,30.8,-19.19,67.0,153,16.2,30.8,-14.6,4.37,4.37,4.37,15.0,81.9,Playoff Bubble
-294,59,Holt,AL,5A,1,AHSAA Class 5A,4-6,4,6,0,10,30.7,30.7,-19.26,63.2,262,25.1,29.1,-4.0,5.88,5.88,5.88,24.0,99.3,Rebuilding
-295,38,Tuscaloosa County,AL,7A,2,AHSAA Class 7A,0-10,0,10,0,10,30.4,30.4,-19.6,83.4,1,4.8,53.5,-48.7,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-296,66,Lee,AL,6A,4,AHSAA Class 6A,1-9,1,9,0,10,30.3,30.3,-19.72,69.9,112,16.9,41.0,-24.1,1.67,1.67,1.67,6.5,29.2,Rebuilding
-297,49,Rogers,AL,3A,2,AHSAA Class 3A,5-6,5,6,0,11,30.2,30.2,-19.79,62.4,287,29.2,37.2,-8.0,6.14,6.14,6.14,25.0,121.5,Rebuilding
-298,60,Ardmore,AL,5A,4,AHSAA Class 5A,2-8,2,8,0,10,29.7,29.7,-20.26,68.9,126,18.4,40.6,-22.2,3.19,3.19,3.19,12.0,57.0,Rebuilding
+289,29,Fayetteville,AL,1A,4,AHSAA Class 1A,3-8,3,8,0,11,31.7,31.7,-18.28,64.1,232,20.9,31.9,-11.0,3.52,3.52,3.52,12.0,76.3,Dark Horse
+290,30,Gaylesville,AL,1A,3,AHSAA Class 1A,5-4,5,4,0,9,31.4,31.4,-18.61,59.0,376,26.0,26.0,0.0,6.52,6.52,6.52,20.0,110.5,Dark Horse
+291,38,Locust Fork,AL,2A,2,AHSAA Class 2A,3-7,3,7,0,10,31.2,31.2,-18.8,63.7,244,22.4,31.6,-9.2,3.99,3.99,3.99,13.5,75.5,Playoff Bubble
+292,17,St. Luke's Episcopal,AL,4A,3,AHSAA Class 4A,5-5,5,5,0,10,31.0,31.0,-19.01,60.0,364,26.2,26.0,0.2,6.73,6.73,6.73,27.5,113.6,Dark Horse
+293,48,Oakman,AL,3A,4,AHSAA Class 3A,3-7,3,7,0,10,30.8,30.8,-19.19,67.0,153,16.2,30.8,-14.6,4.37,4.37,4.37,15.0,81.9,Playoff Bubble
+294,59,Holt,AL,5A,4,AHSAA Class 5A,4-6,4,6,0,10,30.7,30.7,-19.26,63.2,262,25.1,29.1,-4.0,5.88,5.88,5.88,24.0,99.3,Rebuilding
+295,38,Tuscaloosa County,AL,7A,3,AHSAA Class 7A,0-10,0,10,0,10,30.4,30.4,-19.6,83.4,1,4.8,53.5,-48.7,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
+296,66,Lee,AL,6A,2,AHSAA Class 6A,1-9,1,9,0,10,30.3,30.3,-19.72,69.9,112,16.9,41.0,-24.1,1.67,1.67,1.67,6.5,29.2,Rebuilding
+297,49,Rogers,AL,3A,3,AHSAA Class 3A,5-6,5,6,0,11,30.2,30.2,-19.79,62.4,287,29.2,37.2,-8.0,6.14,6.14,6.14,25.0,121.5,Rebuilding
+298,60,Ardmore,AL,5A,3,AHSAA Class 5A,2-8,2,8,0,10,29.7,29.7,-20.26,68.9,126,18.4,40.6,-22.2,3.19,3.19,3.19,12.0,57.0,Rebuilding
 299,61,West Point,AL,5A,4,AHSAA Class 5A,0-10,0,10,0,10,29.4,29.4,-20.59,70.1,110,18.1,43.7,-25.6,0.0,0.0,0.0,0.0,0.0,Rebuilding
-300,31,Choctaw County,AL,1A,2,AHSAA Class 1A,6-5,6,5,0,11,29.4,29.4,-20.59,58.0,394,34.3,28.9,5.4,6.27,6.27,6.27,24.0,128.5,Dark Horse
-301,32,Southern Choctaw,AL,1A,1,AHSAA Class 1A,4-7,4,7,0,11,29.4,29.4,-20.62,59.9,366,15.1,18.5,-3.4,4.34,4.34,4.34,16.0,90.8,Dark Horse
-302,39,Ider,AL,2A,4,AHSAA Class 2A,6-5,6,5,0,11,29.0,29.0,-21.03,60.5,350,30.8,32.5,-1.7,6.86,6.86,6.86,27.0,138.4,Playoff Bubble
+300,31,Choctaw County,AL,1A,4,AHSAA Class 1A,6-5,6,5,0,11,29.4,29.4,-20.59,58.0,394,34.3,28.9,5.4,6.27,6.27,6.27,24.0,128.5,Dark Horse
+301,32,Southern Choctaw,AL,1A,4,AHSAA Class 1A,4-7,4,7,0,11,29.4,29.4,-20.62,59.9,366,15.1,18.5,-3.4,4.34,4.34,4.34,16.0,90.8,Dark Horse
+302,39,Ider,AL,2A,3,AHSAA Class 2A,6-5,6,5,0,11,29.0,29.0,-21.03,60.5,350,30.8,32.5,-1.7,6.86,6.86,6.86,27.0,138.4,Playoff Bubble
 303,67,Columbia,AL,6A,3,AHSAA Class 6A,3-7,3,7,0,10,28.9,28.9,-21.15,66.7,163,22.8,35.6,-12.8,4.8,4.8,4.8,19.5,81.4,Rebuilding
-304,33,Samson,AL,1A,4,AHSAA Class 1A,5-6,5,6,0,11,28.8,28.8,-21.17,61.6,322,18.7,29.3,-10.6,5.6,5.6,5.6,20.0,118.9,Playoff Bubble
-305,34,Berry,AL,1A,4,AHSAA Class 1A,4-7,4,7,0,11,28.8,28.8,-21.25,61.9,306,29.5,40.3,-10.8,4.51,4.51,4.51,16.0,95.9,Playoff Bubble
+304,33,Samson,AL,1A,3,AHSAA Class 1A,5-6,5,6,0,11,28.8,28.8,-21.17,61.6,322,18.7,29.3,-10.6,5.6,5.6,5.6,20.0,118.9,Playoff Bubble
+305,34,Berry,AL,1A,1,AHSAA Class 1A,4-7,4,7,0,11,28.8,28.8,-21.25,61.9,306,29.5,40.3,-10.8,4.51,4.51,4.51,16.0,95.9,Playoff Bubble
 306,35,McIntosh,AL,1A,2,AHSAA Class 1A,5-6,5,6,0,11,28.7,28.7,-21.3,60.4,353,17.7,24.5,-6.8,5.48,5.48,5.48,20.0,115.1,Playoff Bubble
-307,40,Tanner,AL,2A,4,AHSAA Class 2A,4-6,4,6,0,10,28.3,28.3,-21.67,58.7,382,25.2,26.8,-1.6,4.86,4.86,4.86,18.0,87.5,Playoff Bubble
-308,36,Belgreen,AL,1A,2,AHSAA Class 1A,4-5,4,5,0,9,28.3,28.3,-21.68,57.5,398,26.3,30.3,-4.0,5.06,5.06,5.06,16.0,84.5,Playoff Bubble
-309,41,Randolph County,AL,2A,2,AHSAA Class 2A,3-7,3,7,0,10,28.2,28.2,-21.76,64.5,225,16.7,30.4,-13.7,4.04,4.04,4.04,13.5,76.9,Playoff Bubble
+307,40,Tanner,AL,2A,2,AHSAA Class 2A,4-6,4,6,0,10,28.3,28.3,-21.67,58.7,382,25.2,26.8,-1.6,4.86,4.86,4.86,18.0,87.5,Playoff Bubble
+308,36,Belgreen,AL,1A,4,AHSAA Class 1A,4-5,4,5,0,9,28.3,28.3,-21.68,57.5,398,26.3,30.3,-4.0,5.06,5.06,5.06,16.0,84.5,Playoff Bubble
+309,41,Randolph County,AL,2A,1,AHSAA Class 2A,3-7,3,7,0,10,28.2,28.2,-21.76,64.5,225,16.7,30.4,-13.7,4.04,4.04,4.04,13.5,76.9,Playoff Bubble
 310,39,Grissom,AL,7A,2,AHSAA Class 7A,1-8,1,8,0,9,28.2,28.2,-21.8,69.7,114,16.6,37.7,-21.1,1.91,1.91,1.91,7.0,29.0,Playoff Bubble
-311,18,Lowndes Academy,AL,4A,1,AHSAA Class 4A,5-6,5,6,0,11,28.0,28.0,-22.04,58.2,389,23.0,26.4,-3.4,5.93,5.93,5.93,27.5,107.8,Dark Horse
-312,68,Murphy,AL,6A,4,AHSAA Class 6A,1-9,1,9,0,10,27.9,27.9,-22.09,70.4,103,8.4,33.6,-25.2,1.68,1.68,1.68,6.5,29.5,Rebuilding
-313,19,Donoho,AL,4A,3,AHSAA Class 4A,4-5,4,5,0,9,27.6,27.6,-22.38,59.7,368,22.4,28.9,-6.5,5.95,5.95,5.95,22.0,90.2,Dark Horse
-314,37,Shields,AL,1A,3,AHSAA Class 1A,5-5,5,5,0,10,27.3,27.3,-22.73,56.7,403,30.8,22.8,8.0,5.6,5.6,5.6,20.0,103.0,Playoff Bubble
+311,18,Lowndes Academy,AL,4A,2,AHSAA Class 4A,5-6,5,6,0,11,28.0,28.0,-22.04,58.2,389,23.0,26.4,-3.4,5.93,5.93,5.93,27.5,107.8,Dark Horse
+312,68,Murphy,AL,6A,3,AHSAA Class 6A,1-9,1,9,0,10,27.9,27.9,-22.09,70.4,103,8.4,33.6,-25.2,1.68,1.68,1.68,6.5,29.5,Rebuilding
+313,19,Donoho,AL,4A,2,AHSAA Class 4A,4-5,4,5,0,9,27.6,27.6,-22.38,59.7,368,22.4,28.9,-6.5,5.95,5.95,5.95,22.0,90.2,Dark Horse
+314,37,Shields,AL,1A,1,AHSAA Class 1A,5-5,5,5,0,10,27.3,27.3,-22.73,56.7,403,30.8,22.8,8.0,5.6,5.6,5.6,20.0,103.0,Playoff Bubble
 315,42,Falkville,AL,2A,4,AHSAA Class 2A,5-5,5,5,0,10,27.2,27.2,-22.82,59.0,375,20.2,27.9,-7.7,6.12,6.12,6.12,22.5,110.5,Playoff Bubble
-316,43,Geneva County,AL,2A,4,AHSAA Class 2A,3-7,3,7,0,10,27.0,27.0,-23.03,61.6,324,29.0,33.8,-4.8,3.85,3.85,3.85,13.5,71.3,Playoff Bubble
+316,43,Geneva County,AL,2A,1,AHSAA Class 2A,3-7,3,7,0,10,27.0,27.0,-23.03,61.6,324,29.0,33.8,-4.8,3.85,3.85,3.85,13.5,71.3,Playoff Bubble
 317,62,Brewer,AL,5A,3,AHSAA Class 5A,3-7,3,7,0,10,26.8,26.8,-23.21,62.8,273,20.9,32.9,-12.0,4.38,4.38,4.38,18.0,73.7,Rebuilding
-318,44,Monroe County,AL,2A,2,AHSAA Class 2A,2-8,2,8,0,10,26.7,26.7,-23.32,66.8,159,11.7,33.0,-21.3,2.8,2.8,2.8,9.0,54.4,Playoff Bubble
-319,20,Fort Dale Academy,AL,4A,2,AHSAA Class 4A,3-7,3,7,0,10,26.2,26.2,-23.8,63.2,259,14.7,29.3,-14.6,4.26,4.26,4.26,16.5,74.6,Dark Horse
+318,44,Monroe County,AL,2A,3,AHSAA Class 2A,2-8,2,8,0,10,26.7,26.7,-23.32,66.8,159,11.7,33.0,-21.3,2.8,2.8,2.8,9.0,54.4,Playoff Bubble
+319,20,Fort Dale Academy,AL,4A,4,AHSAA Class 4A,3-7,3,7,0,10,26.2,26.2,-23.8,63.2,259,14.7,29.3,-14.6,4.26,4.26,4.26,16.5,74.6,Dark Horse
 320,38,Cedar Bluff,AL,1A,4,AHSAA Class 1A,5-6,5,6,0,11,26.0,26.0,-23.97,61.1,334,20.9,33.0,-12.1,5.55,5.55,5.55,20.0,117.3,Playoff Bubble
-321,69,East Limestone,AL,6A,2,AHSAA Class 6A,0-10,0,10,0,10,25.8,25.8,-24.17,71.1,93,13.5,39.8,-26.3,0.0,0.0,0.0,0.0,0.0,Rebuilding
-322,39,Lynn,AL,1A,2,AHSAA Class 1A,3-7,3,7,0,10,25.8,25.8,-24.24,60.9,338,23.6,31.0,-7.4,3.65,3.65,3.65,12.0,70.1,Playoff Bubble
+321,69,East Limestone,AL,6A,4,AHSAA Class 6A,0-10,0,10,0,10,25.8,25.8,-24.17,71.1,93,13.5,39.8,-26.3,0.0,0.0,0.0,0.0,0.0,Rebuilding
+322,39,Lynn,AL,1A,3,AHSAA Class 1A,3-7,3,7,0,10,25.8,25.8,-24.24,60.9,338,23.6,31.0,-7.4,3.65,3.65,3.65,12.0,70.1,Playoff Bubble
 323,45,Southeastern,AL,2A,3,AHSAA Class 2A,3-7,3,7,0,10,25.6,25.6,-24.35,63.0,270,19.3,30.6,-11.3,3.94,3.94,3.94,13.5,74.0,Playoff Bubble
-324,63,Dora,AL,5A,4,AHSAA Class 5A,2-8,2,8,0,10,25.1,25.1,-24.88,64.8,212,12.7,33.6,-20.9,3.01,3.01,3.01,12.0,51.8,Rebuilding
-325,46,West End,AL,2A,4,AHSAA Class 2A,2-8,2,8,0,10,25.1,25.1,-24.94,63.7,245,19.6,34.0,-14.4,2.66,2.66,2.66,9.0,50.3,Playoff Bubble
-326,40,Georgiana,AL,1A,1,AHSAA Class 1A,3-7,3,7,0,10,25.0,25.0,-24.98,62.4,284,11.6,30.9,-19.3,3.75,3.75,3.75,12.0,73.0,Playoff Bubble
-327,64,Jemison,AL,5A,1,AHSAA Class 5A,2-8,2,8,0,10,24.9,24.9,-25.06,66.3,168,19.3,39.3,-20.0,3.08,3.08,3.08,12.0,53.7,Rebuilding
-328,47,North Sand Mountain,AL,2A,3,AHSAA Class 2A,3-7,3,7,0,10,24.9,24.9,-25.11,61.9,305,22.9,40.4,-17.5,3.87,3.87,3.87,13.5,72.0,Playoff Bubble
-329,21,Clarke Prep,AL,4A,3,AHSAA Class 4A,4-8,4,8,0,12,24.5,24.5,-25.5,61.3,327,19.2,25.6,-6.4,4.58,4.58,4.58,22.0,94.3,Dark Horse
-330,50,Wilcox Academy,AL,3A,4,AHSAA Class 3A,1-9,1,9,0,10,24.2,24.2,-25.75,65.1,204,11.4,28.9,-17.5,1.41,1.41,1.41,5.0,26.1,Rebuilding
-331,51,Kate Duncan Smith DAR,AL,3A,2,AHSAA Class 3A,3-7,3,7,0,10,24.1,24.1,-25.93,60.8,341,24.6,32.9,-8.3,3.95,3.95,3.95,15.0,69.9,Rebuilding
-332,48,Pennington,AL,2A,4,AHSAA Class 2A,4-7,4,7,0,11,23.9,23.9,-26.1,61.8,309,23.0,34.7,-11.7,4.68,4.68,4.68,18.0,95.8,Playoff Bubble
-333,70,Springville,AL,6A,3,AHSAA Class 6A,1-9,1,9,0,10,23.9,23.9,-26.12,72.0,75,8.3,45.6,-37.3,1.72,1.72,1.72,6.5,30.5,Rebuilding
-334,49,Comer,AL,2A,4,AHSAA Class 2A,3-7,3,7,0,10,23.7,23.7,-26.32,64.5,223,16.3,33.5,-17.2,4.05,4.05,4.05,13.5,77.1,Rebuilding
-335,41,Abbeville,AL,1A,4,AHSAA Class 1A,2-8,2,8,0,10,23.4,23.4,-26.59,62.5,283,18.8,33.2,-14.4,2.5,2.5,2.5,8.0,48.7,Playoff Bubble
-336,52,Munford,AL,3A,3,AHSAA Class 3A,2-8,2,8,0,10,23.4,23.4,-26.6,66.2,170,10.1,37.1,-27.0,2.88,2.88,2.88,10.0,53.6,Rebuilding
-337,50,Sand Rock,AL,2A,1,AHSAA Class 2A,3-6,3,6,0,9,23.2,23.2,-26.75,60.7,344,21.6,35.9,-14.3,4.21,4.21,4.21,13.5,69.7,Rebuilding
+324,63,Dora,AL,5A,1,AHSAA Class 5A,2-8,2,8,0,10,25.1,25.1,-24.88,64.8,212,12.7,33.6,-20.9,3.01,3.01,3.01,12.0,51.8,Rebuilding
+325,46,West End,AL,2A,1,AHSAA Class 2A,2-8,2,8,0,10,25.1,25.1,-24.94,63.7,245,19.6,34.0,-14.4,2.66,2.66,2.66,9.0,50.3,Playoff Bubble
+326,40,Georgiana,AL,1A,3,AHSAA Class 1A,3-7,3,7,0,10,25.0,25.0,-24.98,62.4,284,11.6,30.9,-19.3,3.75,3.75,3.75,12.0,73.0,Playoff Bubble
+327,64,Jemison,AL,5A,2,AHSAA Class 5A,2-8,2,8,0,10,24.9,24.9,-25.06,66.3,168,19.3,39.3,-20.0,3.08,3.08,3.08,12.0,53.7,Rebuilding
+328,47,North Sand Mountain,AL,2A,2,AHSAA Class 2A,3-7,3,7,0,10,24.9,24.9,-25.11,61.9,305,22.9,40.4,-17.5,3.87,3.87,3.87,13.5,72.0,Playoff Bubble
+329,21,Clarke Prep,AL,4A,4,AHSAA Class 4A,4-8,4,8,0,12,24.5,24.5,-25.5,61.3,327,19.2,25.6,-6.4,4.58,4.58,4.58,22.0,94.3,Dark Horse
+330,50,Wilcox Academy,AL,3A,3,AHSAA Class 3A,1-9,1,9,0,10,24.2,24.2,-25.75,65.1,204,11.4,28.9,-17.5,1.41,1.41,1.41,5.0,26.1,Rebuilding
+331,51,Kate Duncan Smith DAR,AL,3A,3,AHSAA Class 3A,3-7,3,7,0,10,24.1,24.1,-25.93,60.8,341,24.6,32.9,-8.3,3.95,3.95,3.95,15.0,69.9,Rebuilding
+332,48,Pennington,AL,2A,2,AHSAA Class 2A,4-7,4,7,0,11,23.9,23.9,-26.1,61.8,309,23.0,34.7,-11.7,4.68,4.68,4.68,18.0,95.8,Playoff Bubble
+333,70,Springville,AL,6A,2,AHSAA Class 6A,1-9,1,9,0,10,23.9,23.9,-26.12,72.0,75,8.3,45.6,-37.3,1.72,1.72,1.72,6.5,30.5,Rebuilding
+334,49,Comer,AL,2A,3,AHSAA Class 2A,3-7,3,7,0,10,23.7,23.7,-26.32,64.5,223,16.3,33.5,-17.2,4.05,4.05,4.05,13.5,77.1,Rebuilding
+335,41,Abbeville,AL,1A,2,AHSAA Class 1A,2-8,2,8,0,10,23.4,23.4,-26.59,62.5,283,18.8,33.2,-14.4,2.5,2.5,2.5,8.0,48.7,Playoff Bubble
+336,52,Munford,AL,3A,4,AHSAA Class 3A,2-8,2,8,0,10,23.4,23.4,-26.6,66.2,170,10.1,37.1,-27.0,2.88,2.88,2.88,10.0,53.6,Rebuilding
+337,50,Sand Rock,AL,2A,3,AHSAA Class 2A,3-6,3,6,0,9,23.2,23.2,-26.75,60.7,344,21.6,35.9,-14.3,4.21,4.21,4.21,13.5,69.7,Rebuilding
 338,65,Woodlawn,AL,5A,2,AHSAA Class 5A,2-8,2,8,0,10,23.2,23.2,-26.77,63.9,241,13.1,34.7,-21.6,2.97,2.97,2.97,12.0,50.5,Rebuilding
-339,53,Pike Liberal Arts,AL,3A,1,AHSAA Class 3A,2-8,2,8,0,10,23.2,23.2,-26.83,64.8,213,23.2,42.3,-19.1,2.81,2.81,2.81,10.0,51.8,Rebuilding
-340,42,Pickens County,AL,1A,3,AHSAA Class 1A,2-7,2,7,0,9,23.1,23.1,-26.9,61.6,318,25.1,42.8,-17.7,2.74,2.74,2.74,8.0,47.6,Playoff Bubble
+339,53,Pike Liberal Arts,AL,3A,4,AHSAA Class 3A,2-8,2,8,0,10,23.2,23.2,-26.83,64.8,213,23.2,42.3,-19.1,2.81,2.81,2.81,10.0,51.8,Rebuilding
+340,42,Pickens County,AL,1A,2,AHSAA Class 1A,2-7,2,7,0,9,23.1,23.1,-26.9,61.6,318,25.1,42.8,-17.7,2.74,2.74,2.74,8.0,47.6,Playoff Bubble
 341,54,Geneva,AL,3A,1,AHSAA Class 3A,3-7,3,7,0,10,23.1,23.1,-26.9,62.5,280,19.4,32.7,-13.3,4.06,4.06,4.06,15.0,73.2,Rebuilding
-342,55,West Blocton,AL,3A,2,AHSAA Class 3A,1-9,1,9,0,10,23.0,23.0,-26.99,67.8,141,12.5,35.0,-22.5,1.47,1.47,1.47,5.0,27.8,Rebuilding
-343,43,Washington County,AL,1A,2,AHSAA Class 1A,3-7,3,7,0,10,22.6,22.6,-27.43,60.2,359,25.1,33.8,-8.7,3.6,3.6,3.6,12.0,68.6,Playoff Bubble
-344,44,Marion County,AL,1A,1,AHSAA Class 1A,3-7,3,7,0,10,22.4,22.4,-27.56,61.1,330,26.6,39.9,-13.3,3.67,3.67,3.67,12.0,70.5,Playoff Bubble
+342,55,West Blocton,AL,3A,3,AHSAA Class 3A,1-9,1,9,0,10,23.0,23.0,-26.99,67.8,141,12.5,35.0,-22.5,1.47,1.47,1.47,5.0,27.8,Rebuilding
+343,43,Washington County,AL,1A,1,AHSAA Class 1A,3-7,3,7,0,10,22.6,22.6,-27.43,60.2,359,25.1,33.8,-8.7,3.6,3.6,3.6,12.0,68.6,Playoff Bubble
+344,44,Marion County,AL,1A,3,AHSAA Class 1A,3-7,3,7,0,10,22.4,22.4,-27.56,61.1,330,26.6,39.9,-13.3,3.67,3.67,3.67,12.0,70.5,Playoff Bubble
 345,66,Hayden,AL,5A,4,AHSAA Class 5A,2-8,2,8,0,10,21.8,21.8,-28.2,62.5,281,16.3,28.8,-12.5,2.91,2.91,2.91,12.0,48.8,Rebuilding
-346,56,Susan Moore,AL,3A,3,AHSAA Class 3A,3-7,3,7,0,10,21.5,21.5,-28.51,62.3,288,17.3,31.5,-14.2,4.05,4.05,4.05,15.0,72.8,Rebuilding
-347,45,Keith,AL,1A,3,AHSAA Class 1A,5-6,5,6,0,11,20.9,20.9,-29.1,56.4,405,30.8,31.9,-1.1,5.07,5.07,5.07,20.0,102.2,Playoff Bubble
-348,71,Elberta,AL,6A,1,AHSAA Class 6A,1-9,1,9,0,10,20.7,20.7,-29.28,71.3,89,9.4,41.0,-31.6,1.7,1.7,1.7,6.5,30.1,Rebuilding
-349,51,Southside-Selma,AL,2A,1,AHSAA Class 2A,1-9,1,9,0,10,20.4,20.4,-29.64,62.4,286,14.7,35.6,-20.9,1.3,1.3,1.3,4.5,24.3,Rebuilding
-350,57,Holy Spirit Catholic,AL,3A,1,AHSAA Class 3A,2-7,2,7,0,9,20.0,20.0,-30.04,60.0,365,23.3,34.6,-11.3,2.88,2.88,2.88,10.0,45.4,Rebuilding
-351,58,Wilcox Central,AL,3A,1,AHSAA Class 3A,2-8,2,8,0,10,19.9,19.9,-30.05,64.6,218,12.0,35.9,-23.9,2.8,2.8,2.8,10.0,51.5,Rebuilding
-352,46,Marengo,AL,1A,2,AHSAA Class 1A,3-7,3,7,0,10,19.7,19.7,-30.28,56.4,406,22.2,25.4,-3.2,3.34,3.34,3.34,12.0,61.2,Playoff Bubble
+346,56,Susan Moore,AL,3A,4,AHSAA Class 3A,3-7,3,7,0,10,21.5,21.5,-28.51,62.3,288,17.3,31.5,-14.2,4.05,4.05,4.05,15.0,72.8,Rebuilding
+347,45,Keith,AL,1A,2,AHSAA Class 1A,5-6,5,6,0,11,20.9,20.9,-29.1,56.4,405,30.8,31.9,-1.1,5.07,5.07,5.07,20.0,102.2,Playoff Bubble
+348,71,Elberta,AL,6A,2,AHSAA Class 6A,1-9,1,9,0,10,20.7,20.7,-29.28,71.3,89,9.4,41.0,-31.6,1.7,1.7,1.7,6.5,30.1,Rebuilding
+349,51,Southside-Selma,AL,2A,2,AHSAA Class 2A,1-9,1,9,0,10,20.4,20.4,-29.64,62.4,286,14.7,35.6,-20.9,1.3,1.3,1.3,4.5,24.3,Rebuilding
+350,57,Holy Spirit Catholic,AL,3A,2,AHSAA Class 3A,2-7,2,7,0,9,20.0,20.0,-30.04,60.0,365,23.3,34.6,-11.3,2.88,2.88,2.88,10.0,45.4,Rebuilding
+351,58,Wilcox Central,AL,3A,2,AHSAA Class 3A,2-8,2,8,0,10,19.9,19.9,-30.05,64.6,218,12.0,35.9,-23.9,2.8,2.8,2.8,10.0,51.5,Rebuilding
+352,46,Marengo,AL,1A,4,AHSAA Class 1A,3-7,3,7,0,10,19.7,19.7,-30.28,56.4,406,22.2,25.4,-3.2,3.34,3.34,3.34,12.0,61.2,Playoff Bubble
 353,47,Ragland,AL,1A,1,AHSAA Class 1A,2-8,2,8,0,10,19.5,19.5,-30.49,61.4,326,27.5,45.1,-17.6,2.46,2.46,2.46,8.0,47.3,Playoff Bubble
-354,59,Edgewood Academy,AL,3A,4,AHSAA Class 3A,5-6,5,6,0,11,19.2,19.2,-30.75,58.6,386,14.5,24.8,-10.3,5.74,5.74,5.74,25.0,109.1,Rebuilding
-355,60,Decatur Heritage Christian Academy,AL,3A,3,AHSAA Class 3A,3-6,3,6,0,9,18.8,18.8,-31.25,62.7,276,15.2,32.0,-16.8,4.52,4.52,4.52,15.0,73.5,Rebuilding
-356,61,Valiant Cross Academy,AL,3A,3,AHSAA Class 3A,3-7,3,7,0,10,17.9,17.9,-32.09,59.0,374,18.7,28.9,-10.2,3.82,3.82,3.82,15.0,66.4,Rebuilding
+354,59,Edgewood Academy,AL,3A,2,AHSAA Class 3A,5-6,5,6,0,11,19.2,19.2,-30.75,58.6,386,14.5,24.8,-10.3,5.74,5.74,5.74,25.0,109.1,Rebuilding
+355,60,Decatur Heritage Christian Academy,AL,3A,1,AHSAA Class 3A,3-6,3,6,0,9,18.8,18.8,-31.25,62.7,276,15.2,32.0,-16.8,4.52,4.52,4.52,15.0,73.5,Rebuilding
+356,61,Valiant Cross Academy,AL,3A,1,AHSAA Class 3A,3-7,3,7,0,10,17.9,17.9,-32.09,59.0,374,18.7,28.9,-10.2,3.82,3.82,3.82,15.0,66.4,Rebuilding
 357,48,Red Level,AL,1A,4,AHSAA Class 1A,2-8,2,8,0,10,17.8,17.8,-32.18,61.6,323,17.6,30.2,-12.6,2.47,2.47,2.47,8.0,47.6,Playoff Bubble
-358,62,Holly Pond,AL,3A,1,AHSAA Class 3A,2-8,2,8,0,10,17.4,17.4,-32.56,62.8,274,15.8,33.1,-17.3,2.72,2.72,2.72,10.0,49.1,Rebuilding
+358,62,Holly Pond,AL,3A,3,AHSAA Class 3A,2-8,2,8,0,10,17.4,17.4,-32.56,62.8,274,15.8,33.1,-17.3,2.72,2.72,2.72,10.0,49.1,Rebuilding
 359,22,Westminster Christian Academy,AL,4A,3,AHSAA Class 4A,1-10,1,10,0,11,17.2,17.2,-32.8,70.8,99,9.5,46.8,-37.3,1.45,1.45,1.45,5.5,29.8,Dark Horse
-360,63,Excel,AL,3A,1,AHSAA Class 3A,1-9,1,9,0,10,17.1,17.1,-32.85,66.9,156,14.4,49.8,-35.4,1.45,1.45,1.45,5.0,27.2,Rebuilding
+360,63,Excel,AL,3A,2,AHSAA Class 3A,1-9,1,9,0,10,17.1,17.1,-32.85,66.9,156,14.4,49.8,-35.4,1.45,1.45,1.45,5.0,27.2,Rebuilding
 361,52,Carbon Hill,AL,2A,1,AHSAA Class 2A,2-8,2,8,0,10,17.0,17.0,-32.98,62.2,295,25.5,40.2,-14.7,2.59,2.59,2.59,9.0,48.3,Rebuilding
 362,53,Dallas County,AL,2A,2,AHSAA Class 2A,5-5,5,5,0,10,16.9,16.9,-33.15,57.8,396,22.5,33.3,-10.8,5.98,5.98,5.98,22.5,106.6,Rebuilding
-363,54,Bayshore Christian,AL,2A,4,AHSAA Class 2A,3-6,3,6,0,9,16.0,16.0,-34.05,60.4,354,17.8,29.1,-11.3,4.18,4.18,4.18,13.5,68.9,Rebuilding
+363,54,Bayshore Christian,AL,2A,1,AHSAA Class 2A,3-6,3,6,0,9,16.0,16.0,-34.05,60.4,354,17.8,29.1,-11.3,4.18,4.18,4.18,13.5,68.9,Rebuilding
 364,49,LaFayette,AL,1A,2,AHSAA Class 1A,2-8,2,8,0,10,15.6,15.6,-34.36,63.0,268,20.0,42.2,-22.2,2.53,2.53,2.53,8.0,49.4,Rebuilding
-365,67,Beauregard,AL,5A,1,AHSAA Class 5A,0-10,0,10,0,10,14.6,14.6,-35.39,68.7,128,10.1,41.7,-31.6,0.0,0.0,0.0,0.0,0.0,Rebuilding
-366,55,Zion Chapel,AL,2A,4,AHSAA Class 2A,2-8,2,8,0,10,14.5,14.5,-35.48,62.3,291,13.0,34.6,-21.6,2.6,2.6,2.6,9.0,48.5,Rebuilding
-367,56,Lindsay Lane Christian Academy,AL,2A,2,AHSAA Class 2A,4-6,4,6,0,10,13.9,13.9,-36.08,58.6,385,14.1,27.5,-13.4,4.86,4.86,4.86,18.0,87.3,Rebuilding
+365,67,Beauregard,AL,5A,3,AHSAA Class 5A,0-10,0,10,0,10,14.6,14.6,-35.39,68.7,128,10.1,41.7,-31.6,0.0,0.0,0.0,0.0,0.0,Rebuilding
+366,55,Zion Chapel,AL,2A,3,AHSAA Class 2A,2-8,2,8,0,10,14.5,14.5,-35.48,62.3,291,13.0,34.6,-21.6,2.6,2.6,2.6,9.0,48.5,Rebuilding
+367,56,Lindsay Lane Christian Academy,AL,2A,3,AHSAA Class 2A,4-6,4,6,0,10,13.9,13.9,-36.08,58.6,385,14.1,27.5,-13.4,4.86,4.86,4.86,18.0,87.3,Rebuilding
 368,57,Valley Head,AL,2A,4,AHSAA Class 2A,1-9,1,9,0,10,13.8,13.8,-36.16,60.5,351,16.5,37.2,-20.7,1.26,1.26,1.26,4.5,23.1,Rebuilding
-369,58,Southern Prep Academy,AL,2A,4,AHSAA Class 2A,3-8,3,8,0,11,13.8,13.8,-36.24,58.9,379,22.5,32.5,-10.0,3.33,3.33,3.33,13.5,66.0,Rebuilding
-370,59,Sheffield,AL,2A,1,AHSAA Class 2A,2-8,2,8,0,10,13.7,13.7,-36.32,60.3,356,19.0,38.8,-19.8,2.51,2.51,2.51,9.0,45.9,Rebuilding
-371,68,Carver Birmingham,AL,5A,2,AHSAA Class 5A,0-8,0,8,0,8,13.5,13.5,-36.47,66.0,176,7.2,45.2,-38.0,0.0,0.0,0.0,0.0,0.0,Rebuilding
+369,58,Southern Prep Academy,AL,2A,1,AHSAA Class 2A,3-8,3,8,0,11,13.8,13.8,-36.24,58.9,379,22.5,32.5,-10.0,3.33,3.33,3.33,13.5,66.0,Rebuilding
+370,59,Sheffield,AL,2A,4,AHSAA Class 2A,2-8,2,8,0,10,13.7,13.7,-36.32,60.3,356,19.0,38.8,-19.8,2.51,2.51,2.51,9.0,45.9,Rebuilding
+371,68,Carver Birmingham,AL,5A,1,AHSAA Class 5A,0-8,0,8,0,8,13.5,13.5,-36.47,66.0,176,7.2,45.2,-38.0,0.0,0.0,0.0,0.0,0.0,Rebuilding
 372,64,Daleville,AL,3A,1,AHSAA Class 3A,1-9,1,9,0,10,13.2,13.2,-36.81,61.7,314,10.4,30.6,-20.2,1.33,1.33,1.33,5.0,23.8,Rebuilding
 373,50,Barbour County,AL,1A,4,AHSAA Class 1A,2-7,2,7,0,9,13.0,13.0,-37.04,60.4,352,8.9,30.7,-21.8,2.68,2.68,2.68,8.0,46.1,Rebuilding
-374,69,Montevallo,AL,5A,1,AHSAA Class 5A,1-9,1,9,0,10,12.8,12.8,-37.16,65.2,199,14.9,44.4,-29.5,1.51,1.51,1.51,6.0,26.1,Rebuilding
-375,60,Chickasaw,AL,2A,4,AHSAA Class 2A,1-9,1,9,0,10,12.3,12.3,-37.72,64.9,211,9.0,39.3,-30.3,1.36,1.36,1.36,4.5,25.9,Rebuilding
-376,65,Colbert Heights,AL,3A,4,AHSAA Class 3A,2-8,2,8,0,10,12.2,12.2,-37.81,61.7,316,15.6,40.7,-25.1,2.67,2.67,2.67,10.0,47.7,Rebuilding
-377,66,Clements,AL,3A,2,AHSAA Class 3A,2-8,2,8,0,10,10.5,10.5,-39.52,60.1,361,12.8,35.1,-22.3,2.6,2.6,2.6,10.0,45.6,Rebuilding
-378,67,Elkmont,AL,3A,2,AHSAA Class 3A,2-8,2,8,0,10,10.4,10.4,-39.63,58.1,390,13.8,33.0,-19.2,2.5,2.5,2.5,10.0,43.0,Rebuilding
-379,61,Winston County,AL,2A,4,AHSAA Class 2A,0-10,0,10,0,10,10.2,10.2,-39.81,62.1,300,8.6,36.7,-28.1,0.0,0.0,0.0,0.0,0.0,Rebuilding
-380,62,Goshen,AL,2A,4,AHSAA Class 2A,1-9,1,9,0,10,10.0,10.0,-39.97,61.8,311,10.8,38.1,-27.3,1.29,1.29,1.29,4.5,23.9,Rebuilding
-381,70,Sardis,AL,5A,3,AHSAA Class 5A,1-9,1,9,0,10,9.9,9.9,-40.12,63.0,264,11.9,39.7,-27.8,1.46,1.46,1.46,6.0,24.7,Rebuilding
-382,51,Millry,AL,1A,3,AHSAA Class 1A,1-9,1,9,0,10,9.5,9.5,-40.45,60.7,346,7.1,38.8,-31.7,1.21,1.21,1.21,4.0,23.2,Rebuilding
-383,68,Weaver,AL,3A,2,AHSAA Class 3A,1-9,1,9,0,10,8.8,8.8,-41.18,65.1,203,10.5,43.6,-33.1,1.41,1.41,1.41,5.0,26.1,Rebuilding
-384,52,Central-Hayneville,AL,1A,4,AHSAA Class 1A,3-7,3,7,0,10,8.7,8.7,-41.27,56.6,404,15.8,31.3,-15.5,3.36,3.36,3.36,12.0,61.7,Rebuilding
+374,69,Montevallo,AL,5A,3,AHSAA Class 5A,1-9,1,9,0,10,12.8,12.8,-37.16,65.2,199,14.9,44.4,-29.5,1.51,1.51,1.51,6.0,26.1,Rebuilding
+375,60,Chickasaw,AL,2A,2,AHSAA Class 2A,1-9,1,9,0,10,12.3,12.3,-37.72,64.9,211,9.0,39.3,-30.3,1.36,1.36,1.36,4.5,25.9,Rebuilding
+376,65,Colbert Heights,AL,3A,2,AHSAA Class 3A,2-8,2,8,0,10,12.2,12.2,-37.81,61.7,316,15.6,40.7,-25.1,2.67,2.67,2.67,10.0,47.7,Rebuilding
+377,66,Clements,AL,3A,1,AHSAA Class 3A,2-8,2,8,0,10,10.5,10.5,-39.52,60.1,361,12.8,35.1,-22.3,2.6,2.6,2.6,10.0,45.6,Rebuilding
+378,67,Elkmont,AL,3A,4,AHSAA Class 3A,2-8,2,8,0,10,10.4,10.4,-39.63,58.1,390,13.8,33.0,-19.2,2.5,2.5,2.5,10.0,43.0,Rebuilding
+379,61,Winston County,AL,2A,2,AHSAA Class 2A,0-10,0,10,0,10,10.2,10.2,-39.81,62.1,300,8.6,36.7,-28.1,0.0,0.0,0.0,0.0,0.0,Rebuilding
+380,62,Goshen,AL,2A,3,AHSAA Class 2A,1-9,1,9,0,10,10.0,10.0,-39.97,61.8,311,10.8,38.1,-27.3,1.29,1.29,1.29,4.5,23.9,Rebuilding
+381,70,Sardis,AL,5A,4,AHSAA Class 5A,1-9,1,9,0,10,9.9,9.9,-40.12,63.0,264,11.9,39.7,-27.8,1.46,1.46,1.46,6.0,24.7,Rebuilding
+382,51,Millry,AL,1A,2,AHSAA Class 1A,1-9,1,9,0,10,9.5,9.5,-40.45,60.7,346,7.1,38.8,-31.7,1.21,1.21,1.21,4.0,23.2,Rebuilding
+383,68,Weaver,AL,3A,1,AHSAA Class 3A,1-9,1,9,0,10,8.8,8.8,-41.18,65.1,203,10.5,43.6,-33.1,1.41,1.41,1.41,5.0,26.1,Rebuilding
+384,52,Central-Hayneville,AL,1A,2,AHSAA Class 1A,3-7,3,7,0,10,8.7,8.7,-41.27,56.6,404,15.8,31.3,-15.5,3.36,3.36,3.36,12.0,61.7,Rebuilding
 385,63,Jackson Academy,AL,2A,1,AHSAA Class 2A,1-10,1,10,0,11,8.4,8.4,-41.6,63.9,239,6.3,33.8,-27.5,1.21,1.21,1.21,4.5,25.3,Rebuilding
-386,64,Section,AL,2A,1,AHSAA Class 2A,1-8,1,8,0,9,8.0,8.0,-42.11,61.1,335,13.6,42.7,-29.1,1.41,1.41,1.41,4.5,23.5,Rebuilding
-387,23,St. John Paul II,AL,4A,2,AHSAA Class 4A,0-11,0,11,0,11,7.9,7.9,-42.2,69.4,120,7.6,40.2,-32.6,0.0,0.0,0.0,0.0,0.0,Dark Horse
-388,53,Fruitdale,AL,1A,2,AHSAA Class 1A,1-9,1,9,0,10,7.3,7.3,-43.99,58.0,393,13.0,34.5,-21.5,1.15,1.15,1.15,4.0,21.4,Rebuilding
-389,65,Horseshoe Bend,AL,2A,2,AHSAA Class 2A,0-10,0,10,0,10,7.0,7.0,-44.81,65.6,188,9.3,43.2,-33.9,0.0,0.0,0.0,0.0,0.0,Rebuilding
-390,66,Brindlee Mountain,AL,2A,2,AHSAA Class 2A,2-8,2,8,0,10,6.9,6.9,-45.12,58.4,387,13.8,37.6,-23.8,2.42,2.42,2.42,9.0,43.5,Rebuilding
-391,67,Saks,AL,2A,2,AHSAA Class 2A,0-10,0,10,0,10,6.7,6.7,-45.6,64.6,221,10.7,43.1,-32.4,0.0,0.0,0.0,0.0,0.0,Rebuilding
-392,54,Waterloo,AL,1A,2,AHSAA Class 1A,3-7,3,7,0,10,6.7,6.7,-45.61,55.1,412,19.2,35.6,-16.4,3.25,3.25,3.25,12.0,58.7,Rebuilding
-393,68,Tharptown,AL,2A,3,AHSAA Class 2A,3-6,3,6,0,9,6.7,6.7,-45.7,50.1,414,23.7,32.7,-9.0,3.41,3.41,3.41,13.5,49.0,Rebuilding
-394,55,Notasulga,AL,1A,3,AHSAA Class 1A,1-8,1,8,0,9,6.4,6.4,-46.45,61.3,328,6.0,36.1,-30.1,1.36,1.36,1.36,4.0,23.6,Rebuilding
-395,56,Brilliant,AL,1A,4,AHSAA Class 1A,2-8,2,8,0,10,6.3,6.3,-46.93,57.5,399,15.6,42.6,-27.0,2.28,2.28,2.28,8.0,42.2,Rebuilding
-396,57,Cherokee,AL,1A,1,AHSAA Class 1A,3-7,3,7,0,10,6.0,6.0,-47.58,54.5,413,24.5,42.4,-17.9,3.21,3.21,3.21,12.0,57.5,Rebuilding
-397,69,Houston County,AL,2A,3,AHSAA Class 2A,0-10,0,10,0,10,6.0,6.0,-47.62,62.6,279,10.3,40.8,-30.5,0.0,0.0,0.0,0.0,0.0,Rebuilding
-398,69,Danville,AL,3A,3,AHSAA Class 3A,1-9,1,9,0,10,5.9,5.9,-47.9,63.9,238,7.6,42.8,-35.2,1.39,1.39,1.39,5.0,25.3,Rebuilding
-399,58,Hatch,AL,1A,1,AHSAA Class 1A,2-8,2,8,0,10,5.9,5.9,-48.06,58.1,391,9.6,42.3,-32.7,2.3,2.3,2.3,8.0,43.0,Rebuilding
-400,59,Marion,AL,1A,3,AHSAA Class 1A,2-7,2,7,0,9,5.8,5.8,-48.15,57.6,397,11.1,40.1,-29.0,2.54,2.54,2.54,8.0,42.4,Rebuilding
-401,60,Crenshaw Christian Academy,AL,1A,4,AHSAA Class 1A,1-10,1,10,0,11,5.8,5.8,-48.15,59.4,371,7.5,39.0,-31.5,1.08,1.08,1.08,4.0,22.4,Rebuilding
-402,70,Tarrant,AL,3A,3,AHSAA Class 3A,0-10,0,10,0,10,5.8,5.8,-48.2,66.5,164,4.9,45.7,-40.8,0.0,0.0,0.0,0.0,0.0,Rebuilding
-403,61,Northside Methodist Academy,AL,1A,3,AHSAA Class 1A,1-9,1,9,0,10,5.7,5.7,-48.52,61.4,325,11.6,47.5,-35.9,1.23,1.23,1.23,4.0,23.7,Rebuilding
-404,62,Snook Christian Academy,AL,1A,3,AHSAA Class 1A,1-7,1,7,0,8,5.5,5.5,-49.21,61.1,336,14.0,42.0,-28.0,1.52,1.52,1.52,4.0,23.4,Rebuilding
-405,63,Shoals Christian,AL,1A,1,AHSAA Class 1A,2-8,2,8,0,10,5.2,5.2,-50.04,58.9,378,8.9,36.1,-27.2,2.34,2.34,2.34,8.0,44.1,Rebuilding
-406,64,Calhoun,AL,1A,4,AHSAA Class 1A,1-9,1,9,0,10,5.2,5.2,-50.13,57.3,401,8.4,20.8,-12.4,1.14,1.14,1.14,4.0,21.0,Rebuilding
-407,71,Crossville,AL,5A,4,AHSAA Class 5A,1-9,1,9,0,10,4.0,4.0,-53.51,62.9,271,5.6,48.1,-42.5,1.46,1.46,1.46,6.0,24.7,Rebuilding
-408,65,Ellwood Christian,AL,1A,2,AHSAA Class 1A,0-9,0,9,0,9,3.5,3.5,-54.78,63.4,255,8.4,48.6,-40.2,0.0,0.0,0.0,0.0,0.0,Rebuilding
-409,70,Sumter Central,AL,2A,2,AHSAA Class 2A,0-10,0,10,0,10,2.5,2.5,-57.77,61.1,329,5.4,44.4,-39.0,0.0,0.0,0.0,0.0,0.0,Rebuilding
-410,66,Phillips,AL,1A,1,AHSAA Class 1A,1-9,1,9,0,10,2.5,2.5,-60.81,55.7,410,8.4,43.9,-35.5,1.1,1.1,1.1,4.0,19.9,Rebuilding
-411,71,Asbury,AL,3A,1,AHSAA Class 3A,0-10,0,10,0,10,2.5,2.5,-60.83,60.8,343,5.8,48.4,-42.6,0.0,0.0,0.0,0.0,0.0,Rebuilding
-412,72,Hanceville,AL,3A,3,AHSAA Class 3A,0-10,0,10,0,10,2.5,2.5,-60.9,61.9,308,7.4,52.2,-44.8,0.0,0.0,0.0,0.0,0.0,Rebuilding
-413,67,Breakthrough Charter,AL,1A,4,AHSAA Class 1A,0-10,0,10,0,10,2.5,2.5,-62.97,55.7,409,4.2,41.6,-37.4,0.0,0.0,0.0,0.0,0.0,Rebuilding
-414,68,Sparta Academy,AL,1A,2,AHSAA Class 1A,0-11,0,11,0,11,2.5,2.5,-63.23,58.7,383,2.5,45.0,-42.5,0.0,0.0,0.0,0.0,0.0,Rebuilding
+386,64,Section,AL,2A,3,AHSAA Class 2A,1-8,1,8,0,9,7.9,7.9,-42.11,61.1,335,13.6,42.7,-29.1,1.41,1.41,1.41,4.5,23.5,Rebuilding
+387,23,St. John Paul II,AL,4A,3,AHSAA Class 4A,0-11,0,11,0,11,7.8,7.8,-42.2,69.4,120,7.6,40.2,-32.6,0.0,0.0,0.0,0.0,0.0,Dark Horse
+388,53,Fruitdale,AL,1A,4,AHSAA Class 1A,1-9,1,9,0,10,6.0,6.0,-43.99,58.0,393,13.0,34.5,-21.5,1.15,1.15,1.15,4.0,21.4,Rebuilding
+389,65,Horseshoe Bend,AL,2A,2,AHSAA Class 2A,0-10,0,10,0,10,5.2,5.2,-44.81,65.6,188,9.3,43.2,-33.9,0.0,0.0,0.0,0.0,0.0,Rebuilding
+390,66,Brindlee Mountain,AL,2A,4,AHSAA Class 2A,2-8,2,8,0,10,4.9,4.9,-45.12,58.4,387,13.8,37.6,-23.8,2.42,2.42,2.42,9.0,43.5,Rebuilding
+391,67,Saks,AL,2A,1,AHSAA Class 2A,0-10,0,10,0,10,4.4,4.4,-45.6,64.6,221,10.7,43.1,-32.4,0.0,0.0,0.0,0.0,0.0,Rebuilding
+392,54,Waterloo,AL,1A,2,AHSAA Class 1A,3-7,3,7,0,10,4.4,4.4,-45.61,55.1,412,19.2,35.6,-16.4,3.25,3.25,3.25,12.0,58.7,Rebuilding
+393,68,Tharptown,AL,2A,1,AHSAA Class 2A,3-6,3,6,0,9,4.3,4.3,-45.7,50.1,414,23.7,32.7,-9.0,3.41,3.41,3.41,13.5,49.0,Rebuilding
+394,55,Notasulga,AL,1A,4,AHSAA Class 1A,1-8,1,8,0,9,3.5,3.5,-46.45,61.3,328,6.0,36.1,-30.1,1.36,1.36,1.36,4.0,23.6,Rebuilding
+395,56,Brilliant,AL,1A,3,AHSAA Class 1A,2-8,2,8,0,10,3.1,3.1,-46.93,57.5,399,15.6,42.6,-27.0,2.28,2.28,2.28,8.0,42.2,Rebuilding
+396,57,Cherokee,AL,1A,4,AHSAA Class 1A,3-7,3,7,0,10,2.4,2.4,-47.58,54.5,413,24.5,42.4,-17.9,3.21,3.21,3.21,12.0,57.5,Rebuilding
+397,69,Houston County,AL,2A,4,AHSAA Class 2A,0-10,0,10,0,10,2.4,2.4,-47.62,62.6,279,10.3,40.8,-30.5,0.0,0.0,0.0,0.0,0.0,Rebuilding
+398,69,Danville,AL,3A,1,AHSAA Class 3A,1-9,1,9,0,10,2.1,2.1,-47.9,63.9,238,7.6,42.8,-35.2,1.39,1.39,1.39,5.0,25.3,Rebuilding
+399,58,Hatch,AL,1A,3,AHSAA Class 1A,2-8,2,8,0,10,1.9,1.9,-48.06,58.1,391,9.6,42.3,-32.7,2.3,2.3,2.3,8.0,43.0,Rebuilding
+400,59,Marion,AL,1A,4,AHSAA Class 1A,2-7,2,7,0,9,1.9,1.9,-48.15,57.6,397,11.1,40.1,-29.0,2.54,2.54,2.54,8.0,42.4,Rebuilding
+401,60,Crenshaw Christian Academy,AL,1A,1,AHSAA Class 1A,1-10,1,10,0,11,1.9,1.9,-48.15,59.4,371,7.5,39.0,-31.5,1.08,1.08,1.08,4.0,22.4,Rebuilding
+402,70,Tarrant,AL,3A,3,AHSAA Class 3A,0-10,0,10,0,10,1.8,1.8,-48.2,66.5,164,4.9,45.7,-40.8,0.0,0.0,0.0,0.0,0.0,Rebuilding
+403,61,Northside Methodist Academy,AL,1A,2,AHSAA Class 1A,1-9,1,9,0,10,1.5,1.5,-48.52,61.4,325,11.6,47.5,-35.9,1.23,1.23,1.23,4.0,23.7,Rebuilding
+404,62,Snook Christian Academy,AL,1A,1,AHSAA Class 1A,1-7,1,7,0,8,0.8,0.8,-49.21,61.1,336,14.0,42.0,-28.0,1.52,1.52,1.52,4.0,23.4,Rebuilding
+405,63,Shoals Christian,AL,1A,3,AHSAA Class 1A,2-8,2,8,0,10,-0.0,-0.0,-50.04,58.9,378,8.9,36.1,-27.2,2.34,2.34,2.34,8.0,44.1,Rebuilding
+406,64,Calhoun,AL,1A,1,AHSAA Class 1A,1-9,1,9,0,10,-0.1,-0.1,-50.13,57.3,401,8.4,20.8,-12.4,1.14,1.14,1.14,4.0,21.0,Rebuilding
+407,71,Crossville,AL,5A,4,AHSAA Class 5A,1-9,1,9,0,10,-3.5,-3.5,-53.51,62.9,271,5.6,48.1,-42.5,1.46,1.46,1.46,6.0,24.7,Rebuilding
+408,65,Ellwood Christian,AL,1A,2,AHSAA Class 1A,0-9,0,9,0,9,-4.8,-4.8,-54.78,63.4,255,8.4,48.6,-40.2,0.0,0.0,0.0,0.0,0.0,Rebuilding
+409,70,Sumter Central,AL,2A,3,AHSAA Class 2A,0-10,0,10,0,10,-7.8,-7.8,-57.77,61.1,329,5.4,44.4,-39.0,0.0,0.0,0.0,0.0,0.0,Rebuilding
+410,66,Phillips,AL,1A,1,AHSAA Class 1A,1-9,1,9,0,10,-10.8,-10.8,-60.81,55.7,410,8.4,43.9,-35.5,1.1,1.1,1.1,4.0,19.9,Rebuilding
+411,71,Asbury,AL,3A,4,AHSAA Class 3A,0-10,0,10,0,10,-10.8,-10.8,-60.83,60.8,343,5.8,48.4,-42.6,0.0,0.0,0.0,0.0,0.0,Rebuilding
+412,72,Hanceville,AL,3A,1,AHSAA Class 3A,0-10,0,10,0,10,-10.9,-10.9,-60.9,61.9,308,7.4,52.2,-44.8,0.0,0.0,0.0,0.0,0.0,Rebuilding
+413,67,Breakthrough Charter,AL,1A,3,AHSAA Class 1A,0-10,0,10,0,10,-13.0,-13.0,-62.97,55.7,409,4.2,41.6,-37.4,0.0,0.0,0.0,0.0,0.0,Rebuilding
+414,68,Sparta Academy,AL,1A,1,AHSAA Class 1A,0-11,0,11,0,11,-13.2,-13.2,-63.23,58.7,383,2.5,45.0,-42.5,0.0,0.0,0.0,0.0,0.0,Rebuilding
