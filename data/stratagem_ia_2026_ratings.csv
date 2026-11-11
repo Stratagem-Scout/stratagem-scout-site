@@ -1,258 +1,299 @@
 rank,division_rank,team,state,division,region,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_off,ppg_def,net_margin,harbin_avg,ppa,pqs,l1_pts,l2_pts,contender_tier
-1,1,Southeast Polk,IA,5A,2,IHSAA Class 5A,11-0,11,0,0,11,103.8,103.8,53.8,71.6,11,39.8,18.8,21.0,23.56,23.56,23.56,71.5,333.3,State Title Contender
-2,2,Dowling Catholic,IA,5A,3,IHSAA Class 5A,10-1,10,1,0,11,103.8,103.8,53.79,71.9,7,36.3,10.4,25.9,22.07,22.07,22.07,65.0,305.1,State Title Contender
-3,3,Johnston,IA,5A,3,IHSAA Class 5A,9-2,9,2,0,11,101.7,101.7,51.7,73.9,1,34.5,10.8,23.7,20.62,20.62,20.62,58.5,286.0,State Title Contender
-4,1,Xavier,IA,4A,4,IHSAA Class 4A,11-0,11,0,0,11,101.3,101.3,51.33,69.4,41,39.8,7.9,31.9,22.26,22.26,22.26,66.0,317.3,State Title Contender
-5,1,Regina,IA,1A,3,IHSAA Class 1A,11-0,11,0,0,11,100.7,100.7,50.71,65.0,170,46.0,8.0,38.0,19.69,19.69,19.69,49.5,286.1,State Title Contender
-6,1,Woodbury Central,IA,A,3,IHSAA Class A,11-0,11,0,0,11,100.2,100.2,50.15,66.1,138,46.7,6.5,40.2,19.38,19.38,19.38,44.0,294.2,State Title Contender
-7,1,Clear Lake,IA,3A,4,IHSAA Class 3A,11-0,11,0,0,11,100.1,100.1,50.11,66.6,125,41.7,4.9,36.8,20.97,20.97,20.97,60.5,297.2,State Title Contender
-8,1,Central Lyon/George-Little Rock,IA,2A,1,IHSAA Class 2A,10-0,10,0,0,10,99.3,99.3,49.33,69.5,37,36.6,10.8,25.8,21.05,21.05,21.05,50.0,289.4,State Title Contender
-9,2,West Lyon,IA,1A,1,IHSAA Class 1A,10-1,10,1,0,11,99.3,99.3,49.31,67.5,88,41.7,6.8,34.9,18.8,18.8,18.8,45.0,276.4,State Title Contender
-10,2,Solon,IA,3A,2,IHSAA Class 3A,11-0,11,0,0,11,98.6,98.6,48.61,67.0,106,40.9,8.8,32.1,20.9,20.9,20.9,60.5,300.6,State Title Contender
-11,2,West Sioux,IA,A,2,IHSAA Class A,11-0,11,0,0,11,97.8,97.8,47.76,62.4,224,48.8,5.5,43.3,18.24,18.24,18.24,44.0,267.4,State Title Contender
-12,3,Des Moines Christian,IA,3A,3,IHSAA Class 3A,10-0,10,0,0,10,96.2,96.2,46.22,67.9,74,41.0,10.6,30.4,20.81,20.81,20.81,55.0,279.1,State Title Contender
-13,2,Western Dubuque,IA,4A,3,IHSAA Class 4A,10-1,10,1,0,11,95.4,95.4,45.42,69.0,49,36.7,13.0,23.7,20.01,20.01,20.01,60.0,286.1,State Title Contender
-14,2,Kuemper,IA,2A,2,IHSAA Class 2A,9-2,9,2,0,11,94.8,94.8,44.77,70.9,21,35.9,11.9,24.0,18.0,18.0,18.0,45.0,268.3,State Title Contender
-15,3,Sergeant Bluff-Luton,IA,4A,1,IHSAA Class 4A,11-0,11,0,0,11,93.9,93.9,43.88,67.4,98,35.8,10.1,25.7,20.9,20.9,20.9,66.0,302.9,State Title Contender
-16,4,Ankeny,IA,5A,1,IHSAA Class 5A,9-2,9,2,0,11,93.7,93.7,43.7,72.5,5,39.1,18.6,20.5,19.4,19.4,19.4,58.5,277.8,State Title Contender
-17,5,Valley,IA,5A,3,IHSAA Class 5A,7-4,7,4,0,11,93.5,93.5,43.48,73.2,3,35.6,24.5,11.1,16.33,16.33,16.33,45.5,219.4,State Title Contender
-18,3,Aplington-Parkersburg,IA,1A,2,IHSAA Class 1A,11-0,11,0,0,11,93.2,93.2,43.16,64.3,189,41.5,3.2,38.3,18.63,18.63,18.63,49.5,281.2,State Title Contender
-19,4,Lewis Central,IA,4A,2,IHSAA Class 4A,7-3,7,3,0,10,93.0,93.0,42.97,68.7,57,40.4,16.4,24.0,16.31,16.31,16.31,42.0,198.8,State Title Contender
-20,5,Waverly-Shell Rock,IA,4A,4,IHSAA Class 4A,8-3,8,3,0,11,92.8,92.8,42.78,70.8,23,31.5,12.2,19.3,17.07,17.07,17.07,48.0,238.1,State Title Contender
-21,3,North Linn,IA,A,1,IHSAA Class A,10-1,10,1,0,11,92.3,92.3,42.35,63.4,211,45.2,5.5,39.7,16.65,16.65,16.65,40.0,249.3,State Title Contender
-22,6,Waukee,IA,5A,3,IHSAA Class 5A,5-5,5,5,0,10,91.9,91.9,41.92,73.7,2,23.8,20.8,3.0,13.82,13.82,13.82,32.5,158.2,State Title Contender
-23,6,Carlisle,IA,4A,2,IHSAA Class 4A,11-0,11,0,0,11,91.9,91.9,41.91,66.9,111,35.8,11.1,24.7,20.56,20.56,20.56,66.0,299.6,State Title Contender
-24,4,West Delaware,IA,3A,1,IHSAA Class 3A,8-3,8,3,0,11,90.9,90.9,40.87,69.7,33,35.3,16.8,18.5,16.3,16.3,16.3,44.0,232.3,State Title Contender
-25,7,Sioux City East,IA,5A,4,IHSAA Class 5A,7-3,7,3,0,10,90.2,90.2,40.23,69.1,48,36.9,15.6,21.3,16.4,16.4,16.4,45.5,200.5,State Title Contender
-26,3,Van Meter,IA,2A,3,IHSAA Class 2A,9-2,9,2,0,11,89.8,89.8,39.84,67.4,96,39.5,18.5,21.0,16.77,16.77,16.77,45.0,248.3,State Title Contender
-27,4,Odebolt Arthur Battle Creek Ida Grove,IA,2A,2,IHSAA Class 2A,9-2,9,2,0,11,89.7,89.7,39.74,71.6,12,29.9,14.1,15.8,17.54,17.54,17.54,45.0,272.7,State Title Contender
-28,5,Spirit Lake,IA,2A,3,IHSAA Class 2A,9-1,9,1,0,10,89.4,89.4,39.43,72.0,6,28.8,16.3,12.5,18.86,18.86,18.86,45.0,275.2,State Title Contender
-29,6,Roland-Story,IA,2A,2,IHSAA Class 2A,9-2,9,2,0,11,88.8,88.8,38.79,68.7,60,34.8,11.7,23.1,16.88,16.88,16.88,45.0,255.5,State Title Contender
-30,8,Liberty,IA,5A,1,IHSAA Class 5A,7-4,7,4,0,11,88.7,88.7,38.66,71.6,13,31.5,21.2,10.3,15.52,15.52,15.52,45.5,211.9,State Title Contender
-31,7,Alburnett,IA,2A,3,IHSAA Class 2A,10-1,10,1,0,11,88.5,88.5,38.54,66.7,119,40.1,15.5,24.6,17.8,17.8,17.8,50.0,271.1,State Title Contender
-32,9,Northwest,IA,5A,2,IHSAA Class 5A,5-5,5,5,0,10,88.2,88.2,38.2,71.7,9,33.8,19.3,14.5,13.14,13.14,13.14,32.5,151.7,State Title Contender
-33,4,South Hardin,IA,1A,1,IHSAA Class 1A,7-3,7,3,0,10,88.2,88.2,38.2,67.5,93,33.1,15.7,17.4,14.5,14.5,14.5,31.5,193.3,State Title Contender
-34,7,Pella,IA,4A,4,IHSAA Class 4A,7-4,7,4,0,11,88.0,88.0,38.0,70.4,24,24.2,14.7,9.5,14.95,14.95,14.95,42.0,206.5,State Title Contender
-35,10,Indianola,IA,5A,3,IHSAA Class 5A,7-3,7,3,0,10,87.5,87.5,37.45,69.9,28,33.5,20.3,13.2,16.19,16.19,16.19,45.5,204.2,State Title Contender
-36,8,North Polk,IA,4A,3,IHSAA Class 4A,6-4,6,4,0,10,87.1,87.1,37.13,69.1,45,32.6,20.3,12.3,14.07,14.07,14.07,36.0,171.9,State Title Contender
-37,4,Wapsie Valley,IA,A,4,IHSAA Class A,7-3,7,3,0,10,86.6,86.6,36.57,65.0,172,31.4,11.9,19.5,13.56,13.56,13.56,28.0,182.0,State Title Contender
-38,11,Cedar Falls,IA,5A,1,IHSAA Class 5A,8-3,8,3,0,11,86.3,86.3,36.34,69.4,39,28.0,14.9,13.1,16.43,16.43,16.43,52.0,230.9,State Title Contender
-39,5,Carroll,IA,3A,1,IHSAA Class 3A,8-2,8,2,0,10,86.2,86.2,36.19,66.8,116,35.7,20.0,15.7,16.34,16.34,16.34,44.0,217.2,State Title Contender
-40,5,Underwood,IA,1A,1,IHSAA Class 1A,9-2,9,2,0,11,86.0,86.0,35.97,66.7,120,32.7,15.5,17.2,15.76,15.76,15.76,40.5,243.8,State Title Contender
-41,8,Dike-New Hartford,IA,2A,4,IHSAA Class 2A,7-3,7,3,0,10,85.8,85.8,35.83,67.5,90,29.3,12.1,17.2,14.57,14.57,14.57,35.0,193.4,State Title Contender
-42,6,Treynor,IA,1A,3,IHSAA Class 1A,10-1,10,1,0,11,85.2,85.2,35.17,65.9,147,28.1,9.5,18.6,16.78,16.78,16.78,45.0,266.1,State Title Contender
-43,6,Sioux Center,IA,3A,2,IHSAA Class 3A,8-2,8,2,0,10,84.7,84.7,34.7,67.0,107,30.9,20.0,10.9,16.2,16.2,16.2,44.0,218.3,State Title Contender
-44,9,Wilton,IA,2A,4,IHSAA Class 2A,8-3,8,3,0,11,84.3,84.3,34.35,67.2,101,33.6,14.2,19.4,14.75,14.75,14.75,40.0,219.7,State Title Contender
-45,7,Grundy Center,IA,1A,3,IHSAA Class 1A,8-3,8,3,0,11,84.3,84.3,34.31,68.9,54,29.6,20.3,9.3,14.66,14.66,14.66,36.0,228.4,State Title Contender
-46,10,Crestwood,IA,2A,2,IHSAA Class 2A,8-2,8,2,0,10,84.2,84.2,34.25,68.8,55,32.6,15.9,16.7,16.09,16.09,16.09,40.0,228.0,State Title Contender
-47,5,St. Ansgar,IA,A,3,IHSAA Class A,10-1,10,1,0,11,83.9,83.9,33.87,61.9,234,37.8,14.1,23.7,15.33,15.33,15.33,40.0,239.8,State Title Contender
-48,8,Beckman,IA,1A,4,IHSAA Class 1A,8-2,8,2,0,10,83.8,83.8,33.79,63.8,199,40.0,14.4,25.6,14.71,14.71,14.71,36.0,201.7,State Title Contender
-49,12,Dallas Center-Grimes,IA,5A,2,IHSAA Class 5A,7-3,7,3,0,10,83.7,83.7,33.67,67.8,76,33.0,15.2,17.8,15.42,15.42,15.42,45.5,195.0,State Title Contender
-50,11,Western Christian,IA,2A,4,IHSAA Class 2A,4-5,4,5,0,9,83.6,83.6,33.64,71.7,10,30.8,24.3,6.5,10.98,10.98,10.98,20.0,121.3,State Title Contender
-51,6,East Buchanan,IA,A,1,IHSAA Class A,8-2,8,2,0,10,83.6,83.6,33.6,63.5,207,36.1,10.4,25.7,14.23,14.23,14.23,32.0,200.0,State Title Contender
-52,7,Bishop Heelan Catholic,IA,3A,2,IHSAA Class 3A,7-4,7,4,0,11,83.2,83.2,33.22,69.7,30,23.2,17.5,5.7,13.96,13.96,13.96,38.5,203.4,State Title Contender
-53,8,Wahlert,IA,3A,3,IHSAA Class 3A,6-4,6,4,0,10,83.2,83.2,33.2,69.0,53,26.7,18.4,8.3,13.28,13.28,13.28,33.0,171.4,State Title Contender
-54,9,Algona,IA,3A,1,IHSAA Class 3A,7-4,7,4,0,11,82.4,82.4,32.38,71.0,19,25.1,17.9,7.2,14.04,14.04,14.04,38.5,209.2,State Title Contender
-55,7,St. Albert,IA,A,3,IHSAA Class A,9-2,9,2,0,11,82.3,82.3,32.3,68.6,64,29.3,18.7,10.6,15.26,15.26,15.26,36.0,254.8,State Title Contender
-56,13,Prairie,IA,5A,3,IHSAA Class 5A,8-3,8,3,0,11,82.1,82.1,32.08,69.0,50,33.2,17.5,15.7,15.85,15.85,15.85,52.0,228.6,State Title Contender
-57,9,Clarion-Goldfield/DOWS,IA,1A,3,IHSAA Class 1A,9-2,9,2,0,11,82.0,82.0,32.02,66.9,110,36.4,21.5,14.9,15.33,15.33,15.33,40.5,245.3,State Title Contender
-58,9,Newton,IA,4A,3,IHSAA Class 4A,7-4,7,4,0,11,81.8,81.8,31.81,70.4,25,26.6,26.3,0.3,14.2,14.2,14.2,42.0,206.4,Semifinal Contender
-59,10,Decorah-North Winneshiek,IA,4A,2,IHSAA Class 4A,4-5,4,5,0,9,81.6,81.6,31.59,71.3,15,20.1,19.7,0.4,11.14,11.14,11.14,24.0,120.5,Semifinal Contender
-60,12,Okoboji,IA,2A,3,IHSAA Class 2A,4-4,4,4,0,8,81.4,81.4,31.37,68.7,58,23.1,19.8,3.3,11.23,11.23,11.23,20.0,113.6,Semifinal Contender
-61,13,Waukon,IA,2A,2,IHSAA Class 2A,6-4,6,4,0,10,81.2,81.2,31.18,67.5,95,38.0,18.6,19.4,12.54,12.54,12.54,30.0,165.6,Semifinal Contender
-62,14,Osage,IA,2A,2,IHSAA Class 2A,8-2,8,2,0,10,81.1,81.1,31.14,65.8,150,27.9,13.2,14.7,15.16,15.16,15.16,40.0,212.2,Semifinal Contender
-63,11,Glenwood,IA,4A,3,IHSAA Class 4A,8-3,8,3,0,11,80.7,80.7,30.7,68.0,73,32.4,25.0,7.4,15.16,15.16,15.16,48.0,223.5,Semifinal Contender
-64,14,Pleasant Valley,IA,5A,4,IHSAA Class 5A,7-3,7,3,0,10,80.6,80.6,30.64,66.9,112,33.3,19.2,14.1,14.9,14.9,14.9,45.5,190.6,Semifinal Contender
-65,8,Pekin,IA,A,2,IHSAA Class A,8-1,8,1,0,9,80.6,80.6,30.57,55.7,256,43.8,14.9,28.9,13.42,13.42,13.42,32.0,159.4,Semifinal Contender
-66,12,North Scott,IA,4A,3,IHSAA Class 4A,5-4,5,4,0,9,80.3,80.3,30.33,67.5,89,23.7,18.4,5.3,12.35,12.35,12.35,30.0,138.2,Semifinal Contender
-67,15,Urbandale,IA,5A,4,IHSAA Class 5A,6-4,6,4,0,10,79.7,79.7,29.73,69.1,46,32.6,21.9,10.7,13.48,13.48,13.48,39.0,171.9,Semifinal Contender
-68,9,Maquoketa Valley,IA,A,4,IHSAA Class A,8-3,8,3,0,11,79.6,79.6,29.57,66.0,144,30.9,12.9,18.0,13.24,13.24,13.24,32.0,213.1,Semifinal Contender
-69,10,Lynnville-Sully,IA,A,1,IHSAA Class A,8-3,8,3,0,11,79.6,79.6,29.56,63.5,204,35.1,15.3,19.8,12.83,12.83,12.83,32.0,200.2,Semifinal Contender
-70,11,West Fork,IA,A,4,IHSAA Class A,10-1,10,1,0,11,79.6,79.6,29.56,63.2,214,34.5,18.2,16.3,15.07,15.07,15.07,40.0,248.0,Semifinal Contender
-71,12,Riverside,IA,A,4,IHSAA Class A,7-3,7,3,0,10,79.5,79.5,29.49,63.4,210,31.8,13.6,18.2,12.45,12.45,12.45,28.0,174.7,Semifinal Contender
-72,16,Norwalk,IA,5A,1,IHSAA Class 5A,5-4,5,4,0,9,79.5,79.5,29.47,69.4,40,15.1,18.1,-3.0,12.76,12.76,12.76,32.5,144.3,Semifinal Contender
-73,10,Ridge View,IA,1A,4,IHSAA Class 1A,5-4,5,4,0,9,79.5,79.5,29.45,68.6,63,23.3,18.1,5.2,11.55,11.55,11.55,22.5,141.8,Semifinal Contender
-74,10,Williamsburg,IA,3A,2,IHSAA Class 3A,6-4,6,4,0,10,79.1,79.1,29.14,67.2,103,24.2,18.8,5.4,12.55,12.55,12.55,33.0,164.5,Semifinal Contender
-75,15,Prairie City-Monroe,IA,2A,3,IHSAA Class 2A,5-4,5,4,0,9,79.1,79.1,29.06,68.1,72,27.1,18.8,8.3,11.71,11.71,11.71,25.0,140.0,Semifinal Contender
-76,11,Mt. Vernon,IA,3A,1,IHSAA Class 3A,8-3,8,3,0,11,78.8,78.8,28.83,67.9,75,25.6,20.5,5.1,14.55,14.55,14.55,44.0,222.9,Semifinal Contender
-77,12,Harlan,IA,3A,1,IHSAA Class 3A,5-5,5,5,0,10,78.8,78.8,28.83,68.1,70,32.4,26.5,5.9,11.12,11.12,11.12,27.5,140.2,Semifinal Contender
-78,13,Madrid,IA,A,2,IHSAA Class A,9-1,9,1,0,10,78.7,78.7,28.65,61.7,238,28.5,12.9,15.6,14.56,14.56,14.56,36.0,214.8,Semifinal Contender
-79,16,Centerville,IA,2A,1,IHSAA Class 2A,7-2,7,2,0,9,78.6,78.6,28.59,65.4,161,34.9,21.3,13.6,14.47,14.47,14.47,35.0,183.9,Semifinal Contender
-80,17,Bettendorf,IA,5A,3,IHSAA Class 5A,6-3,6,3,0,9,78.4,78.4,28.4,68.5,66,26.0,20.2,5.8,14.34,14.34,14.34,39.0,169.6,Semifinal Contender
-81,13,Iowa Falls-Alden,IA,3A,1,IHSAA Class 3A,6-4,6,4,0,10,78.3,78.3,28.26,69.3,42,19.8,17.8,2.0,12.74,12.74,12.74,33.0,172.8,Semifinal Contender
-82,14,Assumption,IA,3A,1,IHSAA Class 3A,6-4,6,4,0,10,78.0,78.0,28.05,66.5,128,27.9,19.1,8.8,12.33,12.33,12.33,33.0,161.8,Semifinal Contender
-83,11,South Central Calhoun,IA,1A,2,IHSAA Class 1A,8-2,8,2,0,10,78.0,78.0,28.05,64.7,179,27.8,12.1,15.7,14.19,14.19,14.19,36.0,206.4,Semifinal Contender
-84,12,West Marshall,IA,1A,1,IHSAA Class 1A,7-3,7,3,0,10,78.0,78.0,28.03,67.1,105,28.2,18.1,10.1,13.21,13.21,13.21,31.5,191.4,Semifinal Contender
-85,13,Clear Creek-Amana,IA,4A,4,IHSAA Class 4A,6-4,6,4,0,10,77.8,77.8,27.78,67.6,87,30.3,24.3,6.0,12.75,12.75,12.75,36.0,166.1,Semifinal Contender
-86,18,Kennedy,IA,5A,3,IHSAA Class 5A,5-4,5,4,0,9,77.4,77.4,27.43,68.1,71,28.3,21.1,7.2,12.35,12.35,12.35,32.5,140.1,Semifinal Contender
-87,15,Mt. Pleasant,IA,3A,2,IHSAA Class 3A,9-2,9,2,0,11,77.4,77.4,27.37,65.6,155,31.1,18.7,12.4,15.34,15.34,15.34,49.5,237.4,Semifinal Contender
-88,14,Spencer,IA,4A,1,IHSAA Class 4A,6-4,6,4,0,10,77.2,77.2,27.18,68.7,59,25.4,22.9,2.5,12.83,12.83,12.83,36.0,170.4,Semifinal Contender
-89,15,A-D-M,IA,4A,4,IHSAA Class 4A,6-4,6,4,0,10,77.0,77.0,26.96,66.5,129,26.8,23.5,3.3,12.49,12.49,12.49,36.0,161.7,Semifinal Contender
-90,17,Clarinda,IA,2A,2,IHSAA Class 2A,7-3,7,3,0,10,76.8,76.8,26.76,67.4,97,31.9,25.3,6.6,13.46,13.46,13.46,35.0,192.9,Semifinal Contender
-91,18,Southeast Valley,IA,2A,3,IHSAA Class 2A,5-4,5,4,0,9,76.7,76.7,26.74,69.7,31,22.2,19.1,3.1,11.64,11.64,11.64,25.0,145.3,Semifinal Contender
-92,19,Iowa City,IA,5A,1,IHSAA Class 5A,3-5,3,5,0,8,76.7,76.7,26.65,70.1,27,29.6,26.5,3.1,9.48,9.48,9.48,19.5,87.9,Semifinal Contender
-93,16,Nevada,IA,3A,3,IHSAA Class 3A,4-5,4,5,0,9,76.6,76.6,26.64,66.6,124,19.3,15.4,3.9,9.85,9.85,9.85,22.0,108.1,Semifinal Contender
-94,13,Pleasantville,IA,1A,2,IHSAA Class 1A,7-3,7,3,0,10,76.6,76.6,26.6,65.6,154,31.8,19.9,11.9,12.81,12.81,12.81,31.5,184.7,Semifinal Contender
-95,16,Ballard,IA,4A,1,IHSAA Class 4A,6-4,6,4,0,10,76.5,76.5,26.45,68.3,68,18.3,19.5,-1.2,12.68,12.68,12.68,36.0,168.7,Semifinal Contender
-96,19,Mid-Prairie,IA,2A,4,IHSAA Class 2A,7-3,7,3,0,10,76.3,76.3,26.27,68.7,61,32.8,27.8,5.0,13.61,13.61,13.61,35.0,198.7,Semifinal Contender
-97,14,Sigourney-Keota,IA,1A,1,IHSAA Class 1A,5-5,5,5,0,10,76.0,76.0,25.98,67.3,100,29.7,21.0,8.7,10.18,10.18,10.18,22.5,137.4,Semifinal Contender
-98,17,Gilbert,IA,4A,1,IHSAA Class 4A,5-4,5,4,0,9,75.7,75.7,25.66,64.2,193,27.6,18.1,9.5,11.36,11.36,11.36,30.0,127.3,Semifinal Contender
-99,18,Fort Dodge,IA,4A,4,IHSAA Class 4A,6-3,6,3,0,9,75.4,75.4,25.37,63.6,202,30.2,14.7,15.5,12.89,12.89,12.89,36.0,150.4,Semifinal Contender
-100,14,Newman Catholic,IA,A,1,IHSAA Class A,7-3,7,3,0,10,75.0,75.0,25.04,63.9,195,27.1,18.4,8.7,12.0,12.0,12.0,28.0,176.9,Semifinal Contender
-101,15,Eddyville-Blakesburg-Fremont,IA,1A,4,IHSAA Class 1A,6-3,6,3,0,9,74.4,74.4,24.43,62.3,228,36.0,16.1,19.9,11.58,11.58,11.58,27.0,145.3,Semifinal Contender
-102,19,Le Mars,IA,4A,1,IHSAA Class 4A,4-5,4,5,0,9,73.9,73.9,23.94,69.5,36,17.5,23.1,-5.6,10.04,10.04,10.04,24.0,115.8,Quarterfinal Contender
-103,20,Ankeny Centennial,IA,5A,2,IHSAA Class 5A,3-6,3,6,0,9,73.5,73.5,23.48,72.9,4,24.2,35.9,-11.7,8.62,8.62,8.62,19.5,93.4,Quarterfinal Contender
-104,20,Hampton-Dumont/CAL,IA,2A,2,IHSAA Class 2A,4-5,4,5,0,9,73.4,73.4,23.38,69.1,44,18.9,24.2,-5.3,9.49,9.49,9.49,20.0,114.7,Quarterfinal Contender
-105,15,West Monona,IA,A,1,IHSAA Class A,6-4,6,4,0,10,73.3,73.3,23.33,66.6,122,27.1,18.8,8.3,10.88,10.88,10.88,24.0,162.3,Quarterfinal Contender
-106,21,Unity Christian,IA,2A,1,IHSAA Class 2A,3-6,3,6,0,9,73.2,73.2,23.18,71.4,14,17.0,24.2,-7.2,7.97,7.97,7.97,15.0,90.5,Quarterfinal Contender
-107,22,Boyden-Hull/Rock Valley,IA,2A,4,IHSAA Class 2A,3-5,3,5,0,8,73.0,73.0,23.02,69.1,47,24.2,25.8,-1.6,8.4,8.4,8.4,15.0,86.0,Quarterfinal Contender
-108,23,Pella Christian,IA,2A,1,IHSAA Class 2A,2-6,2,6,0,8,72.7,72.7,22.72,69.6,35,21.2,23.2,-2.0,6.51,6.51,6.51,10.0,57.9,Quarterfinal Contender
-109,16,Interstate 35,IA,1A,4,IHSAA Class 1A,6-3,6,3,0,9,72.5,72.5,22.53,63.1,215,25.9,14.1,11.8,11.48,11.48,11.48,27.0,148.5,Quarterfinal Contender
-110,17,Central DeWitt,IA,3A,4,IHSAA Class 3A,4-4,4,4,0,8,72.4,72.4,22.37,64.3,191,24.4,19.5,4.9,9.91,9.91,9.91,22.0,102.2,Quarterfinal Contender
-111,24,Cherokee Washington,IA,2A,2,IHSAA Class 2A,3-6,3,6,0,9,72.3,72.3,22.34,69.6,34,20.8,26.7,-5.9,7.73,7.73,7.73,15.0,87.0,Quarterfinal Contender
-112,18,Atlantic,IA,3A,1,IHSAA Class 3A,5-4,5,4,0,9,72.3,72.3,22.32,65.3,162,31.4,26.4,5.0,10.83,10.83,10.83,27.5,131.1,Quarterfinal Contender
-113,16,West Hancock,IA,A,2,IHSAA Class A,7-3,7,3,0,10,71.7,71.7,21.65,63.4,209,30.2,24.2,6.0,11.52,11.52,11.52,28.0,174.8,Quarterfinal Contender
-114,17,Adair-Casey/Guthrie Center,IA,A,4,IHSAA Class A,5-4,5,4,0,9,71.3,71.3,21.29,61.8,236,23.2,13.0,10.2,9.43,9.43,9.43,20.0,119.6,Quarterfinal Contender
-115,19,Independence,IA,3A,1,IHSAA Class 3A,3-6,3,6,0,9,71.2,71.2,21.16,69.0,51,19.9,23.2,-3.3,7.71,7.71,7.71,16.5,85.7,Quarterfinal Contender
-116,21,Linn-Mar,IA,5A,2,IHSAA Class 5A,3-6,3,6,0,9,71.2,71.2,21.15,68.7,62,26.0,26.7,-0.7,8.01,8.01,8.01,19.5,85.1,Quarterfinal Contender
-117,17,Hinton,IA,1A,3,IHSAA Class 1A,5-5,5,5,0,10,71.1,71.1,21.14,67.3,99,23.7,23.4,0.3,9.6,9.6,9.6,22.5,137.6,Quarterfinal Contender
-118,18,Shenandoah,IA,1A,1,IHSAA Class 1A,5-5,5,5,0,10,71.0,71.0,20.96,67.7,84,27.7,28.8,-1.1,9.62,9.62,9.62,22.5,138.6,Quarterfinal Contender
-119,25,North Fayette Valley,IA,2A,4,IHSAA Class 2A,3-5,3,5,0,8,70.9,70.9,20.89,68.8,56,28.0,32.9,-4.9,8.12,8.12,8.12,15.0,85.4,Quarterfinal Contender
-120,26,Chariton,IA,2A,4,IHSAA Class 2A,3-5,3,5,0,8,70.9,70.9,20.87,66.0,142,23.1,21.0,2.1,7.88,7.88,7.88,15.0,80.0,Quarterfinal Contender
-121,19,Lawton-Bronson,IA,1A,2,IHSAA Class 1A,5-4,5,4,0,9,70.6,70.6,20.6,66.5,127,25.4,25.9,-0.5,10.22,10.22,10.22,22.5,135.0,Quarterfinal Contender
-122,18,IKM/Manning,IA,A,4,IHSAA Class A,2-6,2,6,0,8,70.5,70.5,20.45,68.5,67,15.2,26.0,-10.8,5.93,5.93,5.93,8.0,56.5,Quarterfinal Contender
-123,27,Grand View Christian,IA,2A,4,IHSAA Class 2A,5-4,5,4,0,9,70.3,70.3,20.35,65.3,163,22.6,21.4,1.2,10.32,10.32,10.32,25.0,131.1,Quarterfinal Contender
-124,28,Mediapolis,IA,2A,2,IHSAA Class 2A,4-4,4,4,0,8,70.0,70.0,20.05,65.7,151,25.8,30.5,-4.7,9.53,9.53,9.53,20.0,105.8,Quarterfinal Contender
-125,19,Martensdale-St. Mary's,IA,A,1,IHSAA Class A,7-3,7,3,0,10,70.0,70.0,20.04,60.5,245,33.7,14.4,19.3,10.85,10.85,10.85,28.0,161.4,Quarterfinal Contender
-126,20,MOC-Floyd Valley,IA,3A,4,IHSAA Class 3A,4-5,4,5,0,9,70.0,70.0,19.99,68.5,65,15.7,20.1,-4.4,9.24,9.24,9.24,22.0,113.1,Quarterfinal Contender
-127,20,Marcus-Meriden-Cleghorn/Remsen-Union,IA,A,1,IHSAA Class A,5-4,5,4,0,9,69.9,69.9,19.86,64.2,192,20.3,22.9,-2.6,9.56,9.56,9.56,20.0,127.3,Quarterfinal Contender
-128,21,Mount Ayr,IA,A,2,IHSAA Class A,4-5,4,5,0,9,69.8,69.8,19.83,63.5,205,28.6,21.1,7.5,8.05,8.05,8.05,16.0,100.1,Quarterfinal Contender
-129,20,Tri-Center,IA,1A,3,IHSAA Class 1A,2-7,2,7,0,9,69.6,69.6,19.58,69.0,52,27.3,32.2,-4.9,5.57,5.57,5.57,9.0,57.2,Quarterfinal Contender
-130,22,Iowa City West,IA,5A,4,IHSAA Class 5A,4-5,4,5,0,9,69.2,69.2,19.19,66.6,123,28.1,26.7,1.4,9.4,9.4,9.4,26.0,108.2,Quarterfinal Contender
-131,21,Northeast,IA,1A,2,IHSAA Class 1A,8-2,8,2,0,10,68.9,68.9,18.89,61.5,239,31.3,19.6,11.7,12.52,12.52,12.52,36.0,190.0,Quarterfinal Contender
-132,22,Nashua-Plainfield,IA,A,3,IHSAA Class A,7-2,7,2,0,9,68.8,68.8,18.82,59.4,249,23.1,13.0,10.1,11.46,11.46,11.46,28.0,156.7,Quarterfinal Contender
-133,22,Hudson,IA,1A,4,IHSAA Class 1A,5-4,5,4,0,9,68.8,68.8,18.78,66.8,115,18.3,19.8,-1.5,10.04,10.04,10.04,22.5,135.9,Quarterfinal Contender
-134,29,Denver,IA,2A,4,IHSAA Class 2A,3-5,3,5,0,8,68.5,68.5,18.54,66.3,136,21.0,19.4,1.6,7.62,7.62,7.62,15.0,80.5,Quarterfinal Contender
-135,21,Washington,IA,3A,2,IHSAA Class 3A,5-4,5,4,0,9,68.5,68.5,18.52,64.2,194,29.0,19.9,9.1,10.22,10.22,10.22,27.5,127.2,Quarterfinal Contender
-136,20,Washington-Cedar Rapids,IA,4A,3,IHSAA Class 4A,4-5,4,5,0,9,68.5,68.5,18.47,67.7,85,24.4,24.6,-0.2,9.2,9.2,9.2,24.0,110.9,Quarterfinal Contender
-137,21,Davenport North,IA,4A,1,IHSAA Class 4A,6-4,6,4,0,10,68.4,68.4,18.38,64.6,180,26.1,24.1,2.0,11.22,11.22,11.22,36.0,154.6,Quarterfinal Contender
-138,30,New Hampton,IA,2A,1,IHSAA Class 2A,4-4,4,4,0,8,68.2,68.2,18.22,68.2,69,18.5,26.9,-8.4,9.6,9.6,9.6,20.0,112.2,Quarterfinal Contender
-139,22,Grinnell,IA,4A,4,IHSAA Class 4A,4-5,4,5,0,9,68.0,68.0,18.03,67.5,91,23.8,28.2,-4.4,9.13,9.13,9.13,24.0,110.5,Quarterfinal Contender
-140,23,Logan-Magnolia,IA,A,4,IHSAA Class A,5-4,5,4,0,9,67.8,67.8,17.85,67.7,80,13.0,19.6,-6.6,9.76,9.76,9.76,20.0,138.8,Quarterfinal Contender
-141,23,East Sac County,IA,1A,3,IHSAA Class 1A,6-3,6,3,0,9,67.8,67.8,17.8,62.8,220,25.8,17.7,8.1,10.86,10.86,10.86,27.0,147.3,Quarterfinal Contender
-142,31,West Burlington/Notre Dame,IA,2A,2,IHSAA Class 2A,5-4,5,4,0,9,67.7,67.7,17.69,64.4,187,36.6,31.0,5.6,9.88,9.88,9.88,25.0,128.1,Quarterfinal Contender
-143,23,Roosevelt,IA,5A,4,IHSAA Class 5A,5-4,5,4,0,9,67.2,67.2,17.21,67.8,78,16.3,22.9,-6.6,11.08,11.08,11.08,32.5,139.0,Quarterfinal Contender
-144,24,Cascade,IA,1A,2,IHSAA Class 1A,5-4,5,4,0,9,67.1,67.1,17.13,64.4,188,23.9,22.8,1.1,9.54,9.54,9.54,22.5,128.1,Quarterfinal Contender
-145,24,Gehlen Catholic,IA,A,4,IHSAA Class A,5-4,5,4,0,9,67.1,67.1,17.1,66.7,117,18.3,26.6,-8.3,9.55,9.55,9.55,20.0,135.6,Quarterfinal Contender
-146,25,Akron-Westfield,IA,A,1,IHSAA Class A,3-5,3,5,0,8,66.9,66.9,16.9,69.7,32,11.8,27.0,-15.2,7.34,7.34,7.34,12.0,87.2,Quarterfinal Contender
-147,25,Maple Valley-Anthon-Oto/Charter Oak-Ute,IA,1A,3,IHSAA Class 1A,3-5,3,5,0,8,66.8,66.8,16.77,65.0,173,28.0,31.0,-3.0,7.11,7.11,7.11,13.5,77.9,Quarterfinal Contender
-148,22,Fairfield,IA,3A,3,IHSAA Class 3A,5-5,5,5,0,10,66.4,66.4,16.44,67.0,108,26.4,27.6,-1.2,9.5,9.5,9.5,27.5,136.4,Quarterfinal Contender
-149,26,MFL MarMac,IA,1A,4,IHSAA Class 1A,4-5,4,5,0,9,66.3,66.3,16.32,65.4,160,27.6,31.6,-4.0,8.05,8.05,8.05,18.0,105.1,Quarterfinal Contender
-150,32,West Liberty,IA,2A,3,IHSAA Class 2A,4-4,4,4,0,8,66.1,66.1,16.14,65.8,149,23.9,29.1,-5.2,9.08,9.08,9.08,20.0,106.2,Quarterfinal Contender
-151,33,West Branch,IA,2A,4,IHSAA Class 2A,4-5,4,5,0,9,64.9,64.9,14.88,66.1,140,18.1,21.7,-3.6,8.17,8.17,8.17,20.0,106.9,Quarterfinal Contender
-152,23,Humboldt,IA,3A,1,IHSAA Class 3A,0-9,0,9,0,9,64.2,64.2,14.15,71.9,8,9.0,26.8,-17.8,1.7,1.7,1.7,0.0,0.0,Quarterfinal Contender
-153,26,AHSTW,IA,A,1,IHSAA Class A,4-4,4,4,0,8,63.9,63.9,13.94,59.9,246,23.5,18.4,5.1,7.65,7.65,7.65,16.0,90.8,Dark Horse
-154,27,Sibley-Ocheyedan,IA,A,2,IHSAA Class A,3-6,3,6,0,9,63.6,63.6,13.63,66.4,131,18.3,26.1,-7.8,6.11,6.11,6.11,12.0,80.7,Dark Horse
-155,27,Emmetsburg,IA,1A,2,IHSAA Class 1A,5-4,5,4,0,9,63.4,63.4,13.37,64.5,185,14.8,21.0,-6.2,9.09,9.09,9.09,22.5,128.2,Dark Horse
-156,28,Starmont,IA,A,2,IHSAA Class A,4-5,4,5,0,9,62.7,62.7,12.66,62.8,221,21.6,19.6,2.0,7.12,7.12,7.12,16.0,98.2,Dark Horse
-157,24,Creston,IA,3A,3,IHSAA Class 3A,3-6,3,6,0,9,62.5,62.5,12.45,67.7,81,27.1,39.9,-12.8,6.57,6.57,6.57,16.5,83.3,Dark Horse
-158,29,Earlham,IA,A,4,IHSAA Class A,4-5,4,5,0,9,62.3,62.3,12.31,63.0,216,28.8,28.7,0.1,7.1,7.1,7.1,16.0,98.8,Dark Horse
-159,30,B-G-M,IA,A,4,IHSAA Class A,4-4,4,4,0,8,62.2,62.2,12.24,59.3,250,30.2,26.9,3.3,7.37,7.37,7.37,16.0,89.1,Dark Horse
-160,34,Bellevue,IA,2A,3,IHSAA Class 2A,3-6,3,6,0,9,61.9,61.9,11.93,64.4,186,28.8,31.1,-2.3,6.09,6.09,6.09,15.0,76.9,Playoff Bubble
-161,31,Belmond-Klemme,IA,A,3,IHSAA Class A,3-6,3,6,0,9,61.9,61.9,11.86,64.3,190,21.6,24.4,-2.8,5.74,5.74,5.74,12.0,76.7,Dark Horse
-162,28,Columbus Catholic,IA,1A,2,IHSAA Class 1A,2-7,2,7,0,9,61.8,61.8,11.81,67.6,86,20.0,29.2,-9.2,4.57,4.57,4.57,9.0,55.4,Dark Horse
-163,29,Northwest Webster,IA,1A,4,IHSAA Class 1A,4-5,4,5,0,9,61.3,61.3,11.33,63.9,197,18.1,21.7,-3.6,7.29,7.29,7.29,18.0,101.0,Dark Horse
-164,35,Albia,IA,2A,3,IHSAA Class 2A,3-5,3,5,0,8,61.2,61.2,11.17,65.5,156,16.6,26.9,-10.3,6.67,6.67,6.67,15.0,79.0,Playoff Bubble
-165,36,Vinton-Shellsburg,IA,2A,2,IHSAA Class 2A,4-5,4,5,0,9,61.0,61.0,11.02,65.2,164,20.4,26.3,-5.9,7.61,7.61,7.61,20.0,104.6,Playoff Bubble
-166,25,Benton,IA,3A,1,IHSAA Class 3A,1-8,1,8,0,9,60.9,60.9,10.88,71.0,17,11.6,35.1,-23.5,3.08,3.08,3.08,5.5,29.9,Dark Horse
-167,32,Sioux Central,IA,A,4,IHSAA Class A,3-5,3,5,0,8,60.5,60.5,10.45,62.9,217,23.9,27.5,-3.6,5.99,5.99,5.99,12.0,73.9,Dark Horse
-168,23,Sioux City West,IA,4A,4,IHSAA Class 4A,4-4,4,4,0,8,60.4,60.4,10.36,64.6,182,15.0,20.1,-5.1,8.75,8.75,8.75,24.0,102.9,Dark Horse
-169,30,Eagle Grove,IA,1A,3,IHSAA Class 1A,4-5,4,5,0,9,60.4,60.4,10.35,65.7,152,26.7,32.9,-6.2,7.35,7.35,7.35,18.0,105.7,Dark Horse
-170,24,Clinton,IA,4A,2,IHSAA Class 4A,3-5,3,5,0,8,60.0,60.0,9.99,62.8,218,24.3,23.9,0.4,6.68,6.68,6.68,18.0,73.8,Dark Horse
-171,25,Bondurant-Farrar,IA,4A,2,IHSAA Class 4A,1-8,1,8,0,9,59.9,59.9,9.9,69.2,43,13.6,29.1,-15.5,2.97,2.97,2.97,6.0,28.8,Dark Horse
-172,26,Webster City,IA,3A,1,IHSAA Class 3A,1-8,1,8,0,9,59.7,59.7,9.68,71.1,16,11.7,40.0,-28.3,2.94,2.94,2.94,5.5,30.0,Dark Horse
-173,24,Ames,IA,5A,4,IHSAA Class 5A,2-7,2,7,0,9,59.6,59.6,9.57,70.9,22,8.2,30.4,-22.2,4.91,4.91,4.91,13.0,59.6,Dark Horse
-174,27,Center Point-Urbana,IA,3A,2,IHSAA Class 3A,3-6,3,6,0,9,59.4,59.4,9.4,67.2,104,15.4,31.2,-15.8,6.16,6.16,6.16,16.5,82.2,Dark Horse
-175,31,Sumner-Fredericksburg,IA,1A,3,IHSAA Class 1A,4-5,4,5,0,9,59.4,59.4,9.35,63.9,196,23.6,30.7,-7.1,7.05,7.05,7.05,18.0,101.1,Dark Horse
-176,25,Waterloo West,IA,5A,2,IHSAA Class 5A,3-6,3,6,0,9,59.2,59.2,9.23,66.2,137,16.8,29.0,-12.2,6.4,6.4,6.4,19.5,80.4,Dark Horse
-177,37,Anamosa,IA,2A,4,IHSAA Class 2A,4-5,4,5,0,9,59.2,59.2,9.2,65.2,165,15.3,25.4,-10.1,7.39,7.39,7.39,20.0,104.6,Playoff Bubble
-178,32,Lisbon,IA,1A,1,IHSAA Class 1A,3-5,3,5,0,8,59.1,59.1,9.07,63.7,200,23.5,25.8,-2.3,6.08,6.08,6.08,13.5,75.5,Dark Horse
-179,33,North Butler,IA,A,3,IHSAA Class A,4-5,4,5,0,9,58.8,58.8,8.8,61.7,237,21.6,23.2,-1.6,6.55,6.55,6.55,16.0,95.5,Playoff Bubble
-180,26,Lincoln,IA,5A,2,IHSAA Class 5A,3-6,3,6,0,9,58.0,58.0,8.04,67.2,102,16.7,30.8,-14.1,6.33,6.33,6.33,19.5,82.3,Dark Horse
-181,28,Greene County,IA,3A,2,IHSAA Class 3A,3-6,3,6,0,9,57.6,57.6,7.57,61.8,235,19.8,24.2,-4.4,5.53,5.53,5.53,16.5,71.8,Dark Horse
-182,33,Central Springs,IA,1A,4,IHSAA Class 1A,2-6,2,6,0,8,57.5,57.5,7.5,65.1,169,19.9,29.5,-9.6,4.3,4.3,4.3,9.0,52.1,Playoff Bubble
-183,27,Lincoln-Des Moines,IA,5A,2,IHSAA Class 5A,4-5,4,5,0,9,57.4,57.4,7.43,63.5,206,21.7,28.3,-6.6,7.67,7.67,7.67,26.0,100.0,Dark Horse
-184,26,Marion,IA,4A,4,IHSAA Class 4A,3-6,3,6,0,9,56.9,56.9,6.88,66.3,133,17.0,33.4,-16.4,5.96,5.96,5.96,18.0,80.6,Dark Horse
-185,34,Midland,IA,A,3,IHSAA Class A,4-4,4,4,0,8,56.1,56.1,6.13,62.3,226,19.2,31.9,-12.7,6.98,6.98,6.98,16.0,97.0,Playoff Bubble
-186,34,Union,IA,1A,2,IHSAA Class 1A,3-5,3,5,0,8,56.0,56.0,5.95,62.2,232,17.2,21.5,-4.3,5.57,5.57,5.57,13.5,72.5,Playoff Bubble
-187,29,Winterset,IA,3A,2,IHSAA Class 3A,2-7,2,7,0,9,55.8,55.8,5.78,67.7,83,16.2,34.0,-17.8,4.07,4.07,4.07,11.0,55.5,Dark Horse
-188,38,Tipton,IA,2A,3,IHSAA Class 2A,3-5,3,5,0,8,55.8,55.8,5.76,62.2,230,18.9,25.4,-6.5,5.74,5.74,5.74,15.0,72.5,Playoff Bubble
-189,35,BCLUW,IA,A,4,IHSAA Class A,4-5,4,5,0,9,55.6,55.6,5.65,59.9,247,26.9,20.1,6.8,5.98,5.98,5.98,16.0,90.6,Playoff Bubble
-190,39,Monticello,IA,2A,3,IHSAA Class 2A,1-7,1,7,0,8,55.3,55.3,5.27,66.9,113,16.4,30.9,-14.5,2.45,2.45,2.45,5.0,27.2,Playoff Bubble
-191,40,Forest City,IA,2A,1,IHSAA Class 2A,1-8,1,8,0,9,54.9,54.9,4.91,69.5,38,12.7,34.9,-22.2,2.27,2.27,2.27,5.0,28.9,Playoff Bubble
-192,28,Jefferson,IA,5A,4,IHSAA Class 5A,3-6,3,6,0,9,54.4,54.4,4.44,67.0,109,15.9,37.3,-21.4,5.88,5.88,5.88,19.5,81.8,Dark Horse
-193,35,Pocahontas,IA,1A,1,IHSAA Class 1A,3-5,3,5,0,8,54.3,54.3,4.34,62.2,231,20.2,31.5,-11.3,5.38,5.38,5.38,13.5,72.5,Playoff Bubble
-194,36,Clayton-Ridge,IA,A,4,IHSAA Class A,3-5,3,5,0,8,54.1,54.1,4.07,59.1,251,26.8,25.4,1.4,4.89,4.89,4.89,12.0,66.4,Playoff Bubble
-195,41,Central Lee,IA,2A,4,IHSAA Class 2A,2-6,2,6,0,8,53.9,53.9,3.94,64.7,177,20.1,33.8,-13.7,3.98,3.98,3.98,10.0,51.7,Playoff Bubble
-196,37,AGWSR,IA,A,3,IHSAA Class A,2-7,2,7,0,9,53.9,53.9,3.9,61.9,233,20.4,25.0,-4.6,3.22,3.22,3.22,8.0,48.0,Playoff Bubble
-197,38,Danville,IA,A,1,IHSAA Class A,5-4,5,4,0,9,53.9,53.9,3.86,58.3,254,23.2,24.7,-1.5,6.89,6.89,6.89,20.0,108.2,Playoff Bubble
-198,39,Southwest Valley,IA,A,1,IHSAA Class A,4-5,4,5,0,9,53.8,53.8,3.84,61.5,241,17.3,28.0,-10.7,5.93,5.93,5.93,16.0,95.0,Playoff Bubble
-199,30,Fort Madison,IA,3A,4,IHSAA Class 3A,3-6,3,6,0,9,53.8,53.8,3.81,65.6,153,23.4,39.1,-15.7,5.37,5.37,5.37,16.5,79.2,Dark Horse
-200,27,Waterloo East,IA,4A,1,IHSAA Class 4A,3-6,3,6,0,9,53.5,53.5,3.51,66.3,134,19.1,35.1,-16.0,5.56,5.56,5.56,18.0,80.6,Dark Horse
-201,31,Charles City,IA,3A,3,IHSAA Class 3A,2-7,2,7,0,9,53.0,53.0,2.97,66.0,143,9.7,23.8,-14.1,3.65,3.65,3.65,11.0,53.3,Dark Horse
-202,40,East Marshall,IA,A,2,IHSAA Class A,2-6,2,6,0,8,52.4,52.4,2.42,66.7,121,11.2,32.2,-21.0,3.66,3.66,3.66,8.0,54.1,Playoff Bubble
-203,28,Denison-Schleswig,IA,4A,2,IHSAA Class 4A,3-6,3,6,0,9,52.3,52.3,2.26,65.1,168,12.2,31.6,-19.4,5.31,5.31,5.31,18.0,78.2,Dark Horse
-204,29,Boone,IA,4A,3,IHSAA Class 4A,3-6,3,6,0,9,52.0,52.0,2.05,65.1,167,6.2,22.4,-16.2,5.29,5.29,5.29,18.0,78.2,Dark Horse
-205,41,Westwood,IA,A,1,IHSAA Class A,2-6,2,6,0,8,51.6,51.6,1.62,65.0,171,14.2,31.6,-17.4,3.47,3.47,3.47,8.0,52.0,Playoff Bubble
-206,42,South Tama County,IA,2A,3,IHSAA Class 2A,2-5,2,5,0,7,51.3,51.3,1.34,63.5,203,15.4,30.4,-15.0,4.09,4.09,4.09,10.0,50.1,Playoff Bubble
-207,29,Dubuque Senior,IA,5A,1,IHSAA Class 5A,2-7,2,7,0,9,50.3,50.3,0.32,64.9,175,18.1,37.3,-19.2,3.5,3.5,3.5,13.0,51.9,Dark Horse
-208,36,South Hamilton,IA,1A,4,IHSAA Class 1A,1-7,1,7,0,8,50.0,50.0,0.04,64.9,176,19.0,38.1,-19.1,1.7,1.7,1.7,4.5,25.9,Playoff Bubble
-209,30,Davenport Central,IA,5A,2,IHSAA Class 5A,3-6,3,6,0,9,49.9,49.9,-0.08,63.9,198,20.6,37.8,-17.2,5.11,5.11,5.11,19.5,75.8,Dark Horse
-210,43,Woodward-Granger,IA,2A,1,IHSAA Class 2A,1-7,1,7,0,8,49.6,49.6,-0.4,65.0,174,15.0,31.6,-16.6,1.76,1.76,1.76,5.0,26.0,Playoff Bubble
-211,44,Estherville Lincoln Central,IA,2A,4,IHSAA Class 2A,0-9,0,9,0,9,49.6,49.6,-0.41,71.0,18,10.6,39.9,-29.3,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-212,31,Sioux City North,IA,5A,4,IHSAA Class 5A,0-9,0,9,0,9,48.7,48.7,-1.32,69.8,29,13.3,44.6,-31.3,0.0,0.0,0.0,0.0,0.0,Dark Horse
-213,32,Ottumwa,IA,5A,2,IHSAA Class 5A,2-7,2,7,0,9,48.3,48.3,-1.7,67.5,92,10.3,33.9,-23.6,3.59,3.59,3.59,13.0,55.2,Dark Horse
-214,42,Hartley-Melvin-Sanborn,IA,A,4,IHSAA Class A,1-6,1,6,0,7,47.8,47.8,-2.19,65.4,159,14.1,36.6,-22.5,1.89,1.89,1.89,4.0,26.3,Playoff Bubble
-215,37,West Central Valley,IA,1A,4,IHSAA Class 1A,3-7,3,7,0,10,47.1,47.1,-2.89,62.2,229,14.9,26.1,-11.2,3.89,3.89,3.89,13.5,72.6,Playoff Bubble
-216,38,Garner-Hayfield/Ventura,IA,1A,2,IHSAA Class 1A,0-8,0,8,0,8,46.0,46.0,-4.0,70.3,26,13.4,45.9,-32.5,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-217,39,Ogden,IA,1A,2,IHSAA Class 1A,2-6,2,6,0,8,45.9,45.9,-4.14,62.3,227,10.4,24.8,-14.4,3.25,3.25,3.25,9.0,48.5,Playoff Bubble
-218,33,Muscatine,IA,5A,4,IHSAA Class 5A,1-8,1,8,0,9,45.5,45.5,-4.48,66.6,126,14.8,39.1,-24.3,1.77,1.77,1.77,6.5,27.0,Playoff Bubble
-219,40,Missouri Valley,IA,1A,2,IHSAA Class 1A,1-8,1,8,0,9,45.1,45.1,-4.9,65.5,158,7.9,32.6,-24.7,1.52,1.52,1.52,4.5,26.3,Playoff Bubble
-220,30,Mason City,IA,4A,2,IHSAA Class 4A,1-8,1,8,0,9,45.0,45.0,-5.02,67.8,79,11.1,37.9,-26.8,1.75,1.75,1.75,6.0,27.8,Dark Horse
-221,41,Cardinal,IA,1A,2,IHSAA Class 1A,3-6,3,6,0,9,43.9,43.9,-6.1,62.8,219,14.9,33.4,-18.5,4.37,4.37,4.37,13.5,73.8,Playoff Bubble
-222,31,Storm Lake,IA,4A,1,IHSAA Class 4A,1-8,1,8,0,9,43.9,43.9,-6.1,66.1,141,8.1,34.2,-26.1,1.7,1.7,1.7,6.0,26.7,Dark Horse
-223,32,Jefferson-Council Bluffs,IA,4A,4,IHSAA Class 4A,0-9,0,9,0,9,43.9,43.9,-6.13,66.0,146,5.1,34.9,-29.8,0.0,0.0,0.0,0.0,0.0,Dark Horse
-224,32,Keokuk,IA,3A,3,IHSAA Class 3A,1-8,1,8,0,9,43.7,43.7,-6.31,66.7,118,16.9,49.4,-32.5,1.67,1.67,1.67,5.5,27.1,Dark Horse
-225,34,Des Moines East,IA,5A,4,IHSAA Class 5A,1-8,1,8,0,9,42.3,42.3,-7.73,64.5,184,13.1,32.2,-19.1,1.72,1.72,1.72,6.5,25.7,Playoff Bubble
-226,43,Van Buren County,IA,A,3,IHSAA Class A,4-4,4,4,0,8,41.7,41.7,-8.3,58.6,252,15.8,31.5,-15.7,5.82,5.82,5.82,16.0,87.3,Playoff Bubble
-227,35,Hempstead,IA,5A,3,IHSAA Class 5A,1-8,1,8,0,9,40.7,40.7,-9.31,67.8,77,9.9,41.8,-31.9,1.8,1.8,1.8,6.5,27.8,Playoff Bubble
-228,44,Colfax-Mingo,IA,A,1,IHSAA Class A,3-6,3,6,0,9,40.2,40.2,-9.83,59.5,248,18.6,35.4,-16.8,3.95,3.95,3.95,12.0,67.3,Playoff Bubble
-229,45,South Winneshiek,IA,A,4,IHSAA Class A,1-7,1,7,0,8,40.0,40.0,-10.02,62.4,225,10.4,37.2,-26.8,1.56,1.56,1.56,4.0,24.3,Playoff Bubble
-230,33,Knoxville,IA,3A,1,IHSAA Class 3A,1-8,1,8,0,9,39.9,39.9,-10.08,66.3,135,14.1,40.7,-26.6,1.65,1.65,1.65,5.5,26.8,Playoff Bubble
-231,46,South O'Brien,IA,A,1,IHSAA Class A,0-7,0,7,0,7,39.7,39.7,-10.32,65.8,148,5.4,31.7,-26.3,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-232,34,Maquoketa,IA,3A,2,IHSAA Class 3A,0-9,0,9,0,9,39.0,39.0,-10.96,66.4,132,9.1,39.3,-30.2,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-233,33,Burlington,IA,4A,4,IHSAA Class 4A,2-7,2,7,0,9,38.8,38.8,-11.17,62.6,222,18.8,41.3,-22.5,3.23,3.23,3.23,12.0,48.9,Playoff Bubble
-234,42,Durant,IA,1A,3,IHSAA Class 1A,1-8,1,8,0,9,38.7,38.7,-11.32,64.7,178,13.2,40.6,-27.4,1.5,1.5,1.5,4.5,25.8,Playoff Bubble
-235,43,Panorama,IA,1A,3,IHSAA Class 1A,1-8,1,8,0,9,38.3,38.3,-11.67,62.6,223,8.0,44.4,-36.4,1.45,1.45,1.45,4.5,24.4,Playoff Bubble
-236,44,Jesup,IA,1A,2,IHSAA Class 1A,0-8,0,8,0,8,38.1,38.1,-11.93,67.5,94,9.8,46.2,-36.4,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-237,45,Clarke,IA,2A,3,IHSAA Class 2A,1-7,1,7,0,8,38.0,38.0,-12.02,63.4,208,17.1,38.9,-21.8,1.72,1.72,1.72,5.0,25.0,Playoff Bubble
-238,36,Marshalltown,IA,5A,2,IHSAA Class 5A,1-8,1,8,0,9,37.9,37.9,-12.11,66.1,139,8.3,37.8,-29.5,1.76,1.76,1.76,6.5,26.7,Playoff Bubble
-239,46,Sheldon,IA,2A,4,IHSAA Class 2A,0-8,0,8,0,8,37.8,37.8,-12.22,70.9,20,7.2,46.1,-38.9,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-240,35,Perry,IA,3A,4,IHSAA Class 3A,2-7,2,7,0,9,37.7,37.7,-12.29,60.9,243,14.9,31.7,-16.8,3.04,3.04,3.04,11.0,46.7,Playoff Bubble
-241,34,Oskaloosa,IA,4A,3,IHSAA Class 4A,0-9,0,9,0,9,36.7,36.7,-13.26,66.0,145,10.7,38.4,-27.7,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-242,47,North Mahaska,IA,A,2,IHSAA Class A,0-8,0,8,0,8,36.7,36.7,-13.29,65.5,157,9.8,43.1,-33.3,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-243,45,Camanche,IA,1A,4,IHSAA Class 1A,1-8,1,8,0,9,36.4,36.4,-13.56,63.3,212,13.8,47.1,-33.3,1.47,1.47,1.47,4.5,24.9,Playoff Bubble
-244,48,Highland,IA,A,3,IHSAA Class A,2-6,2,6,0,8,36.2,36.2,-13.82,58.5,253,9.9,27.9,-18.0,2.9,2.9,2.9,8.0,43.5,Playoff Bubble
-245,46,Louisa-Muscatine,IA,1A,3,IHSAA Class 1A,1-7,1,7,0,8,34.1,34.1,-15.94,61.5,240,12.5,38.5,-26.0,1.6,1.6,1.6,4.5,23.8,Playoff Bubble
-246,47,Alta-Aurelia,IA,1A,4,IHSAA Class 1A,0-8,0,8,0,8,30.7,30.7,-19.28,66.5,130,10.2,51.8,-41.6,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-247,49,Nodaway Valley,IA,A,1,IHSAA Class A,0-8,0,8,0,8,30.2,30.2,-19.81,64.6,183,2.2,38.0,-35.8,0.0,0.0,0.0,0.0,0.0,Rebuilding
-248,50,Columbus,IA,A,3,IHSAA Class A,1-8,1,8,0,9,30.0,30.0,-20.0,60.8,244,11.1,43.1,-32.0,1.35,1.35,1.35,4.0,23.3,Rebuilding
-249,48,Red Oak,IA,1A,4,IHSAA Class 1A,0-9,0,9,0,9,28.7,28.7,-21.34,65.1,166,6.4,44.4,-38.0,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-250,51,Lake Mills,IA,A,3,IHSAA Class A,0-8,0,8,0,8,27.1,27.1,-22.89,63.7,201,5.8,43.6,-37.8,0.0,0.0,0.0,0.0,0.0,Rebuilding
-251,47,Oelwein,IA,2A,3,IHSAA Class 2A,0-8,0,8,0,8,26.4,26.4,-23.56,67.7,82,4.1,49.2,-45.1,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-252,52,North Cedar,IA,A,2,IHSAA Class A,1-7,1,7,0,8,26.0,26.0,-24.01,64.6,181,3.9,51.8,-47.9,1.62,1.62,1.62,4.0,25.7,Rebuilding
-253,35,Davenport West,IA,4A,2,IHSAA Class 4A,0-9,0,9,0,9,25.9,25.9,-24.09,66.8,114,4.2,42.9,-38.7,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
-254,53,Wapello,IA,A,3,IHSAA Class A,0-7,0,7,0,7,25.5,25.5,-24.46,54.9,257,8.6,29.3,-20.7,0.0,0.0,0.0,0.0,0.0,Rebuilding
-255,54,Postville,IA,A,1,IHSAA Class A,0-8,0,8,0,8,19.8,19.8,-30.22,61.3,242,4.4,48.0,-43.6,0.0,0.0,0.0,0.0,0.0,Rebuilding
-256,36,Saydel,IA,3A,1,IHSAA Class 3A,1-7,1,7,0,8,19.2,19.2,-30.77,57.9,255,7.8,49.0,-41.2,1.62,1.62,1.62,5.5,21.4,Playoff Bubble
-257,36,Des Moines North,IA,4A,2,IHSAA Class 4A,0-9,0,9,0,9,16.4,16.4,-33.64,63.3,213,7.6,51.6,-44.0,0.0,0.0,0.0,0.0,0.0,Playoff Bubble
+1,1,Southeast Polk,IA,5A,1,IHSAA Conference,11-0,11,0,0,11,103.8,103.8,53.8,87.1,2,38.4,17.9,20.5,77.57,77.57,77.57,100.0,72.84,State Title Contender
+2,2,Dowling Catholic,IA,5A,1,IHSAA Conference,10-1,10,1,0,11,102.0,102.0,52.05,86.7,4,37.0,18.4,18.6,73.34,73.34,73.34,88.89,70.37,State Title Contender
+3,3,Johnston,IA,5A,1,IHSAA Conference,11-0,11,0,0,11,100.2,100.2,50.15,81.0,20,37.5,15.3,22.2,70.7,70.7,70.7,100.0,49.38,State Title Contender
+4,4,Ankeny,IA,5A,1,IHSAA Conference,10-1,10,1,0,11,97.0,97.0,47.02,84.1,11,35.6,20.3,15.3,68.21,68.21,68.21,88.89,51.85,State Title Contender
+5,1,Xavier,IA,4A,1,IHSAA Conference,11-0,11,0,0,11,95.3,95.3,45.27,77.1,42,38.1,17.0,21.1,72.24,72.24,72.24,100.0,50.62,State Title Contender
+6,2,Sergeant Bluff-Luton,IA,4A,1,IHSAA Conference,11-0,11,0,0,11,95.0,95.0,44.98,71.9,71,40.7,14.2,26.5,65.33,65.33,65.33,100.0,30.86,State Title Contender
+7,3,Carlisle,IA,4A,1,IHSAA Conference,11-0,11,0,0,11,95.0,95.0,44.97,72.1,70,42.0,15.5,26.5,65.64,65.64,65.64,100.0,35.8,State Title Contender
+8,4,Western Dubuque,IA,4A,1,IHSAA Conference,10-0,10,0,0,10,91.6,91.6,41.56,72.3,67,36.3,14.5,21.8,65.33,65.33,65.33,100.0,25.93,State Title Contender
+9,5,Valley,IA,5A,1,IHSAA Conference,8-3,8,3,0,11,91.3,91.3,41.28,86.8,3,25.7,19.8,5.9,66.77,66.77,66.77,77.78,60.49,State Title Contender
+10,6,Iowa City West,IA,5A,1,IHSAA Conference,7-2,7,2,0,9,90.5,90.5,40.5,76.6,49,36.1,20.9,15.2,60.6,60.6,60.6,77.78,45.68,State Title Contender
+11,7,Prairie,IA,5A,1,IHSAA Conference,8-3,8,3,0,11,89.0,89.0,39.01,78.8,28,33.5,22.0,11.5,58.18,58.18,58.18,77.78,37.04,State Title Contender
+12,8,Waukee Northwest,IA,5A,1,IHSAA Conference,8-2,8,2,0,10,88.7,88.7,38.67,76.5,51,34.1,20.7,13.4,62.5,62.5,62.5,88.89,35.8,State Title Contender
+13,9,Ankeny Centennial,IA,5A,1,IHSAA Conference,6-3,6,3,0,9,88.6,88.6,38.63,86.5,5,26.9,23.9,3.0,63.72,63.72,63.72,66.67,64.2,State Title Contender
+14,5,Lewis Central,IA,4A,1,IHSAA Conference,9-1,9,1,0,10,88.5,88.5,38.53,77.8,36,32.7,20.5,12.2,67.68,67.68,67.68,88.89,46.91,State Title Contender
+15,1,Solon,IA,3A,1,IHSAA Conference,11-0,11,0,0,11,88.2,88.2,38.2,69.1,95,38.8,17.0,21.8,69.84,69.84,69.84,100.0,41.98,State Title Contender
+16,6,Pella,IA,4A,1,IHSAA Conference,9-1,9,1,0,10,88.2,88.2,38.17,74.7,57,33.1,17.7,15.4,63.13,63.13,63.13,88.89,32.1,State Title Contender
+17,10,Waukee,IA,5A,1,IHSAA Conference,7-3,7,3,0,10,88.1,88.1,38.12,82.5,17,30.3,23.5,6.8,63.37,63.37,63.37,77.78,53.09,State Title Contender
+18,11,Cedar Falls,IA,5A,1,IHSAA Conference,8-3,8,3,0,11,88.0,88.0,37.99,78.0,34,31.0,19.5,11.5,57.41,57.41,57.41,77.78,33.33,State Title Contender
+19,12,Indianola,IA,5A,1,IHSAA Conference,7-3,7,3,0,10,86.5,86.5,36.54,75.0,55,31.9,19.4,12.5,57.61,57.61,57.61,77.78,40.74,State Title Contender
+20,2,Des Moines Christian,IA,3A,1,IHSAA Conference,11-0,11,0,0,11,86.5,86.5,36.53,69.1,96,37.2,17.0,20.2,65.81,65.81,65.81,100.0,33.33,State Title Contender
+21,13,Iowa City High,IA,5A,1,IHSAA Conference,7-2,7,2,0,9,86.3,86.3,36.3,77.1,43,31.3,21.4,9.9,60.82,60.82,60.82,77.78,51.85,State Title Contender
+22,14,Linn-Mar,IA,5A,1,IHSAA Conference,5-4,5,4,0,9,86.2,86.2,36.16,85.3,9,27.7,26.2,1.5,58.68,58.68,58.68,55.56,67.9,State Title Contender
+23,3,Clear Lake,IA,3A,1,IHSAA Conference,11-0,11,0,0,11,86.1,86.1,36.07,67.4,117,38.5,17.0,21.5,63.51,63.51,63.51,100.0,20.99,State Title Contender
+24,15,Sioux City East,IA,5A,1,IHSAA Conference,7-3,7,3,0,10,86.0,86.0,35.98,74.1,62,32.4,19.7,12.7,55.88,55.88,55.88,77.78,34.57,State Title Contender
+25,16,Iowa City Liberty,IA,5A,1,IHSAA Conference,7-4,7,4,0,11,84.8,84.8,34.75,81.5,18,30.5,26.5,4.0,57.41,57.41,57.41,66.67,44.44,State Title Contender
+26,7,North Polk,IA,4A,1,IHSAA Conference,8-2,8,2,0,10,84.7,84.7,34.69,77.4,40,28.1,20.1,8.0,62.28,62.28,62.28,77.78,43.21,State Title Contender
+27,8,ADM,IA,4A,1,IHSAA Conference,8-2,8,2,0,10,84.4,84.4,34.39,75.3,54,30.8,20.5,10.3,59.53,59.53,59.53,77.78,38.27,State Title Contender
+28,9,Waverly-Shell Rock,IA,4A,1,IHSAA Conference,7-2,7,2,0,9,83.0,83.0,32.98,74.4,59,32.2,22.1,10.1,61.45,61.45,61.45,77.78,57.56,State Title Contender
+29,1,CL/GLR,IA,2A,1,IHSAA Conference,8-1,8,1,0,9,82.8,82.8,32.85,66.4,128,37.1,18.0,19.1,63.01,63.01,63.01,88.89,43.21,State Title Contender
+30,17,Pleasant Valley,IA,5A,1,IHSAA Conference,6-4,6,4,0,10,82.8,82.8,32.84,76.9,44,28.2,21.8,6.4,54.36,54.36,54.36,66.67,39.51,State Title Contender
+31,4,Williamsburg,IA,3A,1,IHSAA Conference,9-1,9,1,0,10,82.8,82.8,32.82,72.6,65,31.2,19.7,11.5,68.9,68.9,68.9,88.89,54.32,State Title Contender
+32,18,Cedar Rapids Kennedy,IA,5A,1,IHSAA Conference,6-3,6,3,0,9,82.7,82.7,32.66,81.0,21,28.8,26.3,2.5,59.12,59.12,59.12,66.67,56.79,State Title Contender
+33,19,Des Moines Roosevelt,IA,5A,1,IHSAA Conference,3-6,3,6,0,9,82.6,82.6,32.57,83.7,13,25.7,26.2,-0.5,48.9,48.9,48.9,33.33,65.43,State Title Contender
+34,5,Mount Vernon,IA,3A,1,IHSAA Conference,9-0,9,0,0,9,82.0,82.0,32.01,68.2,107,34.9,19.2,15.7,64.92,64.92,64.92,100.0,18.52,State Title Contender
+35,20,Bettendorf,IA,5A,1,IHSAA Conference,6-4,6,4,0,10,82.0,82.0,31.98,78.7,30,28.5,24.7,3.8,54.75,54.75,54.75,66.67,40.74,State Title Contender
+36,21,Urbandale,IA,5A,1,IHSAA Conference,6-4,6,4,0,10,81.1,81.1,31.1,80.1,24,28.2,26.7,1.5,56.28,56.28,56.28,66.67,44.44,Semifinal Contender
+37,22,Dallas Center-Grimes,IA,5A,1,IHSAA Conference,6-4,6,4,0,10,81.0,81.0,30.95,76.7,46,27.2,23.2,4.0,54.44,54.44,54.44,66.67,43.21,Semifinal Contender
+38,6,Algona,IA,3A,1,IHSAA Conference,9-0,9,0,0,9,80.3,80.3,30.26,67.4,119,32.3,18.4,13.9,64.09,64.09,64.09,100.0,20.99,Semifinal Contender
+39,10,Newton,IA,4A,1,IHSAA Conference,6-3,6,3,0,9,80.1,80.1,30.08,73.4,63,30.9,23.3,7.6,53.74,53.74,53.74,66.67,39.51,Semifinal Contender
+40,11,Decorah,IA,4A,1,IHSAA Conference,4-5,4,5,0,9,79.3,79.3,29.32,76.6,48,27.8,24.1,3.7,53.04,53.04,53.04,44.44,72.84,Semifinal Contender
+41,2,Central Lyon/George-Little Rock,IA,2A,1,IHSAA 2A,11-0,11,0,0,11,79.0,79.0,29.02,67.7,114,30.1,16.5,13.6,67.99,67.99,67.99,100.0,39.51,State Title Contender
+42,7,Harlan Community,IA,3A,1,IHSAA Conference,8-1,8,1,0,9,78.6,78.6,28.62,70.0,85,31.1,21.2,9.9,62.17,62.17,62.17,88.89,39.51,Semifinal Contender
+43,3,Van Meter,IA,2A,1,IHSAA Conference,9-0,9,0,0,9,78.6,78.6,28.58,72.2,69,28.3,19.9,8.4,72.39,72.39,72.39,100.0,43.21,State Title Contender
+44,12,Gilbert,IA,4A,1,IHSAA Conference,3-6,3,6,0,9,77.5,77.5,27.51,82.6,16,22.7,27.3,-4.6,50.85,50.85,50.85,33.33,77.78,Semifinal Contender
+45,1,Aplington-Parkersburg,IA,1A,1,IHSAA Conference,11-0,11,0,0,11,77.3,77.3,27.26,63.2,162,35.4,18.3,17.1,67.46,67.46,67.46,100.0,33.33,State Title Contender
+46,13,Fort Madison,IA,4A,1,IHSAA 3A,8-1,8,1,0,9,77.1,77.1,27.08,59.3,204,35.7,17.7,18.0,54.92,54.92,54.92,88.89,14.51,Semifinal Contender
+47,2,Grundy Center,IA,1A,1,IHSAA Conference,10-0,10,0,0,10,76.6,76.6,26.64,66.7,125,31.6,19.2,12.4,73.1,73.1,73.1,100.0,49.38,State Title Contender
+48,4,Spirit Lake,IA,2A,1,IHSAA Conference,9-0,9,0,0,9,76.3,76.3,26.31,69.7,89,27.6,19.0,8.6,70.01,70.01,70.01,100.0,37.04,State Title Contender
+49,5,Waukon,IA,2A,1,IHSAA Conference,5-4,5,4,0,9,76.0,76.0,26.05,68.8,99,30.6,21.4,9.2,56.82,56.82,56.82,55.56,72.84,Semifinal Contender
+50,6,Kuemper Catholic,IA,2A,1,IHSAA Conference,9-0,9,0,0,9,75.9,75.9,25.93,69.2,93,28.7,20.0,8.7,69.14,69.14,69.14,100.0,33.33,Semifinal Contender
+51,8,Bishop Heelan,IA,3A,1,IHSAA Conference,8-2,8,2,0,10,75.6,75.6,25.6,71.0,82,27.9,22.3,5.6,58.3,58.3,58.3,77.78,35.8,Semifinal Contender
+52,9,West Delaware,IA,3A,1,IHSAA Conference,8-2,8,2,0,10,75.4,75.4,25.41,70.3,83,27.9,22.1,5.8,58.45,58.45,58.45,77.78,32.1,Semifinal Contender
+53,1,Woodbury Central,IA,A,1,IHSAA Conference,11-0,11,0,0,11,75.4,75.4,25.38,61.3,179,33.6,16.2,17.4,70.83,70.83,70.83,100.0,41.98,State Title Contender
+54,23,Des Moines East,IA,5A,1,IHSAA 5A,3-6,3,6,0,9,75.3,75.3,25.34,80.9,22,25.1,31.3,-6.2,47.81,47.81,47.81,33.33,62.96,Semifinal Contender
+55,7,Roland-Story,IA,2A,1,IHSAA Conference,9-1,9,1,0,10,75.1,75.1,25.13,68.7,101,26.9,18.9,8.0,65.55,65.55,65.55,88.89,38.27,Semifinal Contender
+56,3,West Lyon,IA,1A,1,IHSAA Conference,10-0,10,0,0,10,75.1,75.1,25.11,63.2,161,33.0,19.0,14.0,68.31,68.31,68.31,100.0,33.33,State Title Contender
+57,4,Iowa City Regina,IA,1A,1,IHSAA Conference,11-0,11,0,0,11,74.8,74.8,24.84,60.6,186,34.0,16.8,17.2,64.71,64.71,64.71,100.0,28.4,State Title Contender
+58,14,Boone,IA,4A,1,IHSAA 4A,4-6,4,6,0,10,74.1,74.1,24.1,74.9,56,27.4,28.2,-0.8,47.3,47.3,47.3,44.44,41.98,Semifinal Contender
+59,5,MFL MarMac,IA,1A,1,IHSAA Conference,6-3,6,3,0,9,74.0,74.0,23.96,63.4,160,32.2,19.7,12.5,58.55,58.55,58.55,66.67,66.67,Semifinal Contender
+60,10,Humboldt,IA,3A,1,IHSAA Conference,6-3,6,3,0,9,73.7,73.7,23.74,71.7,76,25.8,23.3,2.5,59.33,59.33,59.33,66.67,64.2,Quarterfinal Contender
+61,15,Spencer,IA,4A,1,IHSAA Conference,2-8,2,8,0,10,73.7,73.7,23.71,85.9,6,18.7,31.2,-12.5,47.78,47.78,47.78,22.22,81.48,Quarterfinal Contender
+62,6,Regina,IA,1A,1,IHSAA Conference,8-1,8,1,0,9,73.5,73.5,23.54,62.4,169,33.0,20.0,13.0,63.03,63.03,63.03,88.89,41.98,Semifinal Contender
+63,16,Bondurant-Farrar,IA,4A,1,IHSAA Conference,4-5,4,5,0,9,73.4,73.4,23.4,77.3,41,22.4,26.4,-4.0,52.58,52.58,52.58,44.44,67.9,Quarterfinal Contender
+64,8,Alburnett,IA,2A,1,IHSAA Conference,9-1,9,1,0,10,73.3,73.3,23.31,67.3,121,28.8,21.2,7.6,63.1,63.1,63.1,88.89,29.63,Semifinal Contender
+65,11,Assumption,IA,3A,1,IHSAA Conference,5-4,5,4,0,9,73.2,73.2,23.2,74.5,58,27.1,27.6,-0.5,57.17,57.17,57.17,55.56,72.84,Quarterfinal Contender
+66,9,OABCIG,IA,2A,1,IHSAA Conference,6-3,6,3,0,9,73.1,73.1,23.11,68.9,98,28.0,22.8,5.2,58.78,58.78,58.78,66.67,64.2,Quarterfinal Contender
+67,24,Des Moines Lincoln,IA,5A,1,IHSAA Conference,3-6,3,6,0,9,73.0,73.0,23.01,82.6,15,19.4,30.4,-11.0,48.29,48.29,48.29,33.33,62.96,Quarterfinal Contender
+68,12,Clear Creek-Amana,IA,3A,1,IHSAA Conference,8-1,8,1,0,9,72.8,72.8,22.84,55.7,238,37.8,20.4,17.4,54.99,54.99,54.99,88.89,11.11,Quarterfinal Contender
+69,7,Dike-New Hartford,IA,1A,1,IHSAA Conference,9-1,9,1,0,10,72.6,72.6,22.64,65.0,143,30.3,21.4,8.9,67.25,67.25,67.25,88.89,41.98,Semifinal Contender
+70,17,Maquoketa,IA,4A,1,IHSAA 3A,5-3,5,3,0,8,72.5,72.5,22.52,62.7,164,33.9,23.4,10.5,51.19,51.19,51.19,62.5,36.98,Quarterfinal Contender
+71,18,Winterset,IA,4A,1,IHSAA 3A,3-7,3,7,0,10,72.4,72.4,22.43,79.5,27,23.5,30.9,-7.4,46.14,46.14,46.14,33.33,58.02,Quarterfinal Contender
+72,19,Ballard,IA,4A,1,IHSAA Conference,3-7,3,7,0,10,72.4,72.4,22.42,76.7,47,23.9,28.7,-4.8,44.9,44.9,44.9,33.33,51.85,Quarterfinal Contender
+73,25,Des Moines North,IA,5A,1,IHSAA 4A,2-7,2,7,0,9,72.4,72.4,22.37,85.7,7,20.3,35.4,-15.1,47.65,47.65,47.65,22.22,77.78,Quarterfinal Contender
+74,10,Mid-Prairie,IA,2A,1,IHSAA Conference,2-7,2,7,0,9,72.3,72.3,22.28,72.3,68,26.3,25.0,1.3,48.89,48.89,48.89,22.22,87.65,Quarterfinal Contender
+75,8,Underwood,IA,1A,1,IHSAA Conference,9-1,9,1,0,10,72.0,72.0,22.02,65.1,140,28.9,20.6,8.3,65.57,65.57,65.57,88.89,37.04,Semifinal Contender
+76,13,Vinton-Shellsburg,IA,3A,1,IHSAA Conference,6-3,6,3,0,9,71.8,71.8,21.81,61.6,176,32.8,22.1,10.7,51.9,51.9,51.9,66.67,28.4,Quarterfinal Contender
+77,14,Creston,IA,3A,1,IHSAA Conference,5-4,5,4,0,9,71.8,71.8,21.75,76.0,52,23.1,26.8,-3.7,56.55,56.55,56.55,55.56,67.9,Quarterfinal Contender
+78,15,South Tama,IA,3A,1,IHSAA Conference,6-3,6,3,0,9,71.7,71.7,21.73,62.2,174,31.1,20.9,10.2,53.33,53.33,53.33,66.67,34.57,Quarterfinal Contender
+79,20,Knoxville IA,IA,4A,1,IHSAA Conference,7-3,7,3,0,10,71.5,71.5,21.55,63.6,159,31.8,24.1,7.7,50.92,50.92,50.92,77.78,12.65,Quarterfinal Contender
+80,2,Saint Ansgar,IA,A,1,IHSAA Conference,10-0,10,0,0,10,71.5,71.5,21.52,59.8,199,31.6,17.5,14.1,70.63,70.63,70.63,100.0,41.98,State Title Contender
+81,3,Columbus Community,IA,A,1,IHSAA Conference,9-0,9,0,0,9,71.5,71.5,21.46,45.6,283,43.4,16.4,27.0,62.23,62.23,62.23,100.0,14.81,State Title Contender
+82,11,Cherokee,IA,2A,1,IHSAA Conference,2-8,2,8,0,10,71.3,71.3,21.32,69.8,88,27.2,25.2,2.0,46.24,46.24,46.24,22.22,70.37,Quarterfinal Contender
+83,21,North Scott,IA,4A,1,IHSAA 4A,2-8,2,8,0,10,71.3,71.3,21.3,83.7,12,19.0,32.3,-13.3,45.72,45.72,45.72,22.22,70.37,Quarterfinal Contender
+84,4,Madrid,IA,A,1,IHSAA Conference,10-0,10,0,0,10,71.3,71.3,21.27,59.4,203,32.6,17.8,14.8,69.63,69.63,69.63,100.0,41.98,State Title Contender
+85,22,Glenwood,IA,4A,1,IHSAA Conference,1-9,1,9,0,10,71.0,71.0,20.97,84.4,10,19.8,33.6,-13.8,42.88,42.88,42.88,11.11,76.54,Quarterfinal Contender
+86,23,Washington IA,IA,4A,1,IHSAA Conference,8-1,8,1,0,9,70.8,70.8,20.81,58.8,208,33.7,21.9,11.8,56.07,56.07,56.07,88.89,19.75,Quarterfinal Contender
+87,16,Benton Community,IA,3A,1,IHSAA Conference,3-6,3,6,0,9,70.5,70.5,20.54,67.9,112,26.7,24.1,2.6,45.54,45.54,45.54,33.33,50.62,Quarterfinal Contender
+88,12,West Liberty,IA,2A,1,IHSAA Conference,3-7,3,7,0,10,70.5,70.5,20.51,74.1,61,21.4,24.0,-2.6,53.6,53.6,53.6,33.33,87.65,Quarterfinal Contender
+89,9,Treynor,IA,1A,1,IHSAA Conference,9-1,9,1,0,10,70.4,70.4,20.36,62.5,167,31.8,22.3,9.5,63.63,63.63,63.63,88.89,35.8,Quarterfinal Contender
+90,13,Davis County,IA,2A,1,IHSAA 2A,8-1,8,1,0,9,70.3,70.3,20.3,51.9,261,36.4,17.6,18.8,56.34,56.34,56.34,88.89,13.73,Quarterfinal Contender
+91,14,PCM,IA,2A,1,IHSAA Conference,4-5,4,5,0,9,70.2,70.2,20.2,69.9,87,25.1,24.2,0.9,53.52,53.52,53.52,44.44,72.84,Quarterfinal Contender
+92,24,Oskaloosa,IA,4A,1,IHSAA 4A,6-4,6,4,0,10,70.2,70.2,20.17,71.8,73,25.7,27.7,-2.0,54.31,54.31,54.31,66.67,33.49,Quarterfinal Contender
+93,26,Des Moines Hoover,IA,5A,1,IHSAA Conference,2-7,2,7,0,9,70.0,70.0,20.04,82.9,14,18.1,32.3,-14.2,44.46,44.46,44.46,22.22,67.9,Quarterfinal Contender
+94,27,Ames,IA,5A,1,IHSAA 5A,2-7,2,7,0,9,69.9,69.9,19.92,80.4,23,21.1,33.0,-11.9,43.45,43.45,43.45,22.22,66.67,Quarterfinal Contender
+95,28,Muscatine,IA,5A,1,IHSAA 5A,4-5,4,5,0,9,69.6,69.6,19.61,71.4,79,25.7,28.6,-2.9,43.35,43.35,43.35,44.44,39.51,Quarterfinal Contender
+96,17,Mount Pleasant,IA,3A,1,IHSAA Conference,3-6,3,6,0,9,69.6,69.6,19.56,76.6,50,21.3,28.3,-7.0,50.29,50.29,50.29,33.33,76.54,Quarterfinal Contender
+97,18,Mount Vernon IA,IA,3A,1,IHSAA Conference,7-2,7,2,0,9,69.6,69.6,19.56,57.7,220,33.7,21.2,12.5,52.55,52.55,52.55,77.78,19.75,Quarterfinal Contender
+98,29,Cedar Rapids Jefferson,IA,5A,1,IHSAA Conference,2-7,2,7,0,9,68.8,68.8,18.75,77.8,37,19.3,29.7,-10.4,40.38,40.38,40.38,22.22,58.02,Quarterfinal Contender
+99,25,Keokuk,IA,4A,1,IHSAA 3A,8-1,8,1,0,9,68.7,68.7,18.73,57.2,227,30.6,19.2,11.4,56.04,56.04,56.04,88.89,21.76,Quarterfinal Contender
+100,26,LeMars,IA,4A,1,IHSAA Conference,1-9,1,9,0,10,68.7,68.7,18.67,89.2,1,15.9,36.9,-21.0,45.92,45.92,45.92,11.11,85.19,Quarterfinal Contender
+101,19,Greene County,IA,3A,1,IHSAA 3A,6-3,6,3,0,9,68.6,68.6,18.57,62.3,172,29.2,22.3,6.9,56.91,56.91,56.91,66.67,50.62,Quarterfinal Contender
+102,15,Louisa-Muscatine,IA,2A,1,IHSAA 1A,8-1,8,1,0,9,68.6,68.6,18.56,52.3,256,36.8,19.6,17.2,56.5,56.5,56.5,88.89,9.88,Quarterfinal Contender
+103,30,Waterloo West,IA,5A,1,IHSAA 5A,2-7,2,7,0,9,68.4,68.4,18.44,76.8,45,21.7,30.8,-9.1,39.49,39.49,39.49,22.22,55.56,Quarterfinal Contender
+104,5,Maquoketa Valley,IA,A,1,IHSAA Conference,10-1,10,1,0,11,68.3,68.3,18.26,60.6,184,30.2,20.3,9.9,68.72,68.72,68.72,100.0,43.21,Semifinal Contender
+105,20,Centerville IA,IA,3A,1,IHSAA Conference,6-3,6,3,0,9,68.2,68.2,18.24,58.9,207,31.2,21.6,9.6,51.18,51.18,51.18,66.67,28.4,Quarterfinal Contender
+106,21,Independence,IA,3A,1,IHSAA Conference,1-10,1,10,0,11,68.2,68.2,18.19,80.0,26,20.6,32.3,-11.7,43.93,43.93,43.93,11.11,82.72,Quarterfinal Contender
+107,22,Nevada,IA,3A,1,IHSAA Conference,1-9,1,9,0,10,68.2,68.2,18.19,77.8,35,21.6,31.9,-10.3,42.8,42.8,42.8,11.11,77.78,Quarterfinal Contender
+108,10,South Hardin,IA,1A,1,IHSAA Conference,4-5,4,5,0,9,68.0,68.0,18.04,68.7,102,25.3,24.4,0.9,54.6,54.6,54.6,44.44,79.01,Quarterfinal Contender
+109,31,Cedar Rapids Washington,IA,5A,1,IHSAA Conference,2-7,2,7,0,9,68.0,68.0,18.0,78.7,29,19.0,31.1,-12.1,40.64,40.64,40.64,22.22,56.79,Quarterfinal Contender
+110,16,Wilton,IA,2A,1,IHSAA Conference,2-8,2,8,0,10,67.8,67.8,17.76,72.6,66,23.0,27.3,-4.3,49.43,49.43,49.43,22.22,80.25,Quarterfinal Contender
+111,23,Iowa Falls-Alden,IA,3A,1,IHSAA Conference,4-6,4,6,0,10,67.7,67.7,17.71,69.6,90,25.2,27.8,-2.6,48.82,48.82,48.82,44.44,50.62,Quarterfinal Contender
+112,32,Davenport North,IA,5A,1,IHSAA 4A,4-5,4,5,0,9,67.7,67.7,17.7,71.8,74,23.3,28.3,-5.0,43.83,43.83,43.83,44.44,41.98,Quarterfinal Contender
+113,27,Norwalk,IA,4A,1,IHSAA Conference,1-8,1,8,0,9,67.7,67.7,17.68,85.6,8,17.3,36.6,-19.3,43.79,43.79,43.79,11.11,80.25,Quarterfinal Contender
+114,28,Grinnell,IA,4A,1,IHSAA 4A,3-7,3,7,0,10,67.7,67.7,17.66,71.7,75,25.3,30.3,-5.0,43.64,43.64,43.64,33.33,44.44,Quarterfinal Contender
+115,29,Newton IA,IA,4A,1,IHSAA Conference,4-6,4,6,0,10,67.5,67.5,17.5,72.6,64,23.3,29.8,-6.5,48.08,48.08,48.08,44.44,45.68,Quarterfinal Contender
+116,33,Mason City,IA,5A,1,IHSAA 4A,1-8,1,8,0,9,67.4,67.4,17.4,78.3,33,20.2,32.8,-12.6,35.67,35.67,35.67,11.11,58.02,Quarterfinal Contender
+117,34,Marshalltown,IA,5A,1,IHSAA 5A,1-8,1,8,0,9,67.2,67.2,17.2,80.1,25,18.3,32.4,-14.1,37.72,37.72,37.72,11.11,62.96,Quarterfinal Contender
+118,24,Carroll,IA,3A,1,IHSAA Conference,0-10,0,10,0,10,67.2,67.2,17.16,81.0,19,17.9,32.1,-14.2,41.26,41.26,41.26,0.0,93.83,Quarterfinal Contender
+119,25,Wahlert Catholic,IA,3A,1,IHSAA Conference,2-8,2,8,0,10,66.9,66.9,16.89,71.8,72,23.3,29.0,-5.7,44.02,44.02,44.02,22.22,65.43,Quarterfinal Contender
+120,26,Davenport Assumption,IA,3A,1,IHSAA Conference,8-1,8,1,0,9,66.8,66.8,16.82,56.3,234,31.7,21.2,10.5,54.22,54.22,54.22,88.89,12.35,Quarterfinal Contender
+121,27,MOC-Floyd Valley,IA,3A,1,IHSAA 3A,6-3,6,3,0,9,66.7,66.7,16.69,65.0,142,25.8,23.9,1.9,57.51,57.51,57.51,66.67,54.32,Quarterfinal Contender
+122,28,Fairfield IA,IA,3A,1,IHSAA Conference,7-2,7,2,0,9,66.5,66.5,16.52,58.9,206,29.0,21.6,7.4,55.8,55.8,55.8,77.78,25.93,Quarterfinal Contender
+123,35,Dubuque Hempstead,IA,5A,1,IHSAA Conference,3-6,3,6,0,9,66.5,66.5,16.5,67.8,113,24.6,27.2,-2.6,37.05,37.05,37.05,33.33,34.57,Quarterfinal Contender
+124,36,Fort Dodge,IA,5A,1,IHSAA 4A,3-6,3,6,0,9,66.5,66.5,16.49,77.7,38,19.4,32.3,-12.9,43.67,43.67,43.67,33.33,56.79,Quarterfinal Contender
+125,17,Panorama,IA,2A,1,IHSAA 1A,9-0,9,0,0,9,66.4,66.4,16.42,53.6,251,32.9,19.3,13.6,62.02,62.02,62.02,100.0,19.62,Quarterfinal Contender
+126,18,Central Lee,IA,2A,1,IHSAA 2A,7-2,7,2,0,9,66.4,66.4,16.4,53.2,254,33.1,20.3,12.8,53.0,53.0,53.0,77.78,16.05,Quarterfinal Contender
+127,37,Waterloo East,IA,5A,1,IHSAA 4A,2-7,2,7,0,9,66.4,66.4,16.37,77.6,39,20.4,32.6,-12.2,40.84,40.84,40.84,22.22,59.26,Quarterfinal Contender
+128,19,Interstate 35,IA,2A,1,IHSAA 1A,9-0,9,0,0,9,66.3,66.3,16.35,50.7,264,33.7,17.6,16.1,60.66,60.66,60.66,100.0,10.65,Quarterfinal Contender
+129,20,Albia,IA,2A,1,IHSAA Conference,8-1,8,1,0,9,66.1,66.1,16.14,50.5,266,36.7,20.9,15.8,55.83,55.83,55.83,88.89,8.64,Quarterfinal Contender
+130,11,West Hancock IA,IA,1A,1,IHSAA Conference,7-2,7,2,0,9,66.1,66.1,16.11,47.3,278,40.0,20.2,19.8,52.73,52.73,52.73,77.78,16.05,Quarterfinal Contender
+131,21,Camanche,IA,2A,1,IHSAA 1A,5-4,5,4,0,9,66.1,66.1,16.09,58.2,213,33.7,26.9,6.8,48.47,48.47,48.47,55.56,29.63,Quarterfinal Contender
+132,22,Eddyville-Blakesburg-Fremont,IA,2A,1,IHSAA 1A,9-0,9,0,0,9,65.9,65.9,15.91,48.3,273,36.3,18.1,18.2,58.8,58.8,58.8,100.0,5.25,Quarterfinal Contender
+133,12,Emmetsburg,IA,1A,1,IHSAA Conference,4-5,4,5,0,9,65.9,65.9,15.88,67.0,124,27.1,27.0,0.1,53.41,53.41,53.41,44.44,75.31,Quarterfinal Contender
+134,23,Mediapolis,IA,2A,1,IHSAA 2A,6-3,6,3,0,9,65.8,65.8,15.77,55.1,242,33.1,22.1,11.0,49.95,49.95,49.95,66.67,18.52,Quarterfinal Contender
+135,30,Center Point-Urbana,IA,4A,1,IHSAA 3A,5-3,5,3,0,8,65.7,65.7,15.73,62.3,173,28.1,25.0,3.1,49.56,49.56,49.56,62.5,35.59,Quarterfinal Contender
+136,29,Benton,IA,3A,1,IHSAA Conference,1-9,1,9,0,10,65.7,65.7,15.66,78.3,31,20.1,33.5,-13.4,42.37,42.37,42.37,11.11,76.54,Quarterfinal Contender
+137,24,Jesup,IA,2A,1,IHSAA 1A,7-1,7,1,0,8,65.6,65.6,15.63,54.1,247,31.5,19.9,11.6,59.2,59.2,59.2,87.5,23.09,Quarterfinal Contender
+138,30,Sioux Center,IA,3A,1,IHSAA Conference,5-4,5,4,0,9,65.5,65.5,15.46,64.0,158,25.8,24.4,1.4,52.67,52.67,52.67,55.56,55.56,Quarterfinal Contender
+139,31,Clarke,IA,3A,1,IHSAA 2A,6-3,6,3,0,9,65.3,65.3,15.29,60.7,183,25.3,21.0,4.3,54.58,54.58,54.58,66.67,40.74,Quarterfinal Contender
+140,31,Marion IA,IA,4A,1,IHSAA Conference,7-1,7,1,0,8,65.2,65.2,15.22,57.7,218,28.1,21.2,6.9,56.83,56.83,56.83,87.5,23.61,Quarterfinal Contender
+141,13,Hinton,IA,1A,1,IHSAA Conference,4-5,4,5,0,9,65.1,65.1,15.13,64.9,146,25.1,24.3,0.8,51.6,51.6,51.6,44.44,72.84,Quarterfinal Contender
+142,32,Clinton,IA,4A,1,IHSAA 4A,6-3,6,3,0,9,65.1,65.1,15.12,60.9,181,25.9,22.8,3.1,51.15,51.15,51.15,66.67,30.4,Quarterfinal Contender
+143,38,Council Bluffs Thomas Jefferson,IA,5A,1,IHSAA Conference,4-5,4,5,0,9,65.0,65.0,15.02,66.1,131,25.7,26.9,-1.2,39.3,39.3,39.3,44.44,29.63,Quarterfinal Contender
+144,25,Osage,IA,2A,1,IHSAA Conference,3-6,3,6,0,9,65.0,65.0,15.01,68.7,100,23.1,26.8,-3.7,50.27,50.27,50.27,33.33,70.37,Quarterfinal Contender
+145,6,Belle Plaine,IA,A,1,IHSAA A,9-0,9,0,0,9,64.9,64.9,14.9,40.3,297,42.1,16.9,25.2,60.39,60.39,60.39,100.0,11.11,Semifinal Contender
+146,26,Northeast Goose Lake,IA,2A,1,IHSAA Conference,5-4,5,4,0,9,64.8,64.8,14.83,57.5,223,29.8,22.7,7.1,47.81,47.81,47.81,55.56,27.16,Quarterfinal Contender
+147,27,Clarinda,IA,2A,1,IHSAA Conference,3-7,3,7,0,10,64.8,64.8,14.77,69.9,86,24.7,29.7,-5.0,51.39,51.39,51.39,33.33,76.54,Quarterfinal Contender
+148,39,Sioux City West,IA,5A,1,IHSAA 4A,5-4,5,4,0,9,64.8,64.8,14.76,67.1,123,24.0,27.4,-3.4,44.44,44.44,44.44,55.56,30.86,Quarterfinal Contender
+149,14,Clarion-Goldfield-Dows,IA,1A,1,IHSAA Conference,2-8,2,8,0,10,64.8,64.8,14.75,70.3,84,23.6,28.0,-4.4,48.05,48.05,48.05,22.22,81.48,Quarterfinal Contender
+150,32,Hampton-Dumont-CAL,IA,3A,1,IHSAA Conference,3-7,3,7,0,10,64.7,64.7,14.69,71.2,81,20.8,28.8,-8.0,46.09,46.09,46.09,33.33,55.56,Quarterfinal Contender
+151,7,North Butler,IA,A,1,IHSAA Conference,7-2,7,2,0,9,64.7,64.7,14.68,43.2,292,40.3,17.6,22.7,54.36,54.36,54.36,77.78,18.52,Semifinal Contender
+152,8,East Buchanan,IA,A,1,IHSAA Conference,5-4,5,4,0,9,64.7,64.7,14.66,62.5,168,27.0,23.1,3.9,58.33,58.33,58.33,55.56,75.31,Semifinal Contender
+153,33,Central DeWitt,IA,3A,1,IHSAA 3A,7-2,7,2,0,9,64.7,64.7,14.65,55.2,241,31.0,22.1,8.9,51.77,51.77,51.77,77.78,14.81,Quarterfinal Contender
+154,40,Davenport Central,IA,5A,1,IHSAA 5A,2-7,2,7,0,9,64.3,64.3,14.31,74.4,60,19.2,30.8,-11.6,37.76,37.76,37.76,22.22,46.91,Quarterfinal Contender
+155,9,North Linn,IA,A,1,IHSAA Conference,4-5,4,5,0,9,64.3,64.3,14.28,64.2,155,25.4,24.1,1.3,54.32,54.32,54.32,44.44,79.01,Quarterfinal Contender
+156,10,West Hancock,IA,A,1,IHSAA Conference,5-4,5,4,0,9,64.2,64.2,14.18,60.4,189,27.4,22.7,4.7,53.62,53.62,53.62,55.56,54.32,Quarterfinal Contender
+157,41,Dubuque Senior,IA,5A,1,IHSAA 5A,3-6,3,6,0,9,64.1,64.1,14.09,68.7,103,24.0,30.0,-6.0,37.5,37.5,37.5,33.33,34.57,Quarterfinal Contender
+158,42,Council Bluffs Abraham Lincoln,IA,5A,1,IHSAA Conference,4-5,4,5,0,9,64.0,64.0,13.95,66.5,127,23.4,27.2,-3.8,40.64,40.64,40.64,44.44,34.57,Quarterfinal Contender
+159,28,North Fayette Valley,IA,2A,1,IHSAA 2A,6-2,6,2,0,8,63.9,63.9,13.92,56.7,231,28.9,21.8,7.1,56.45,56.45,56.45,75.0,35.94,Dark Horse
+160,15,Lisbon,IA,1A,1,IHSAA 1A,4-6,4,6,0,10,63.7,63.7,13.73,60.1,194,28.9,25.4,3.5,48.9,48.9,48.9,44.44,49.38,Quarterfinal Contender
+161,34,West Burlington,IA,3A,1,IHSAA Conference,6-3,6,3,0,9,63.7,63.7,13.72,60.1,196,26.9,23.6,3.3,51.82,51.82,51.82,66.67,29.63,Playoff Bubble
+162,16,Hudson IA,IA,1A,1,IHSAA Conference,9-0,9,0,0,9,63.4,63.4,13.36,43.8,290,37.6,16.7,20.9,59.37,59.37,59.37,100.0,12.04,Quarterfinal Contender
+163,11,Highland Riverside,IA,A,1,IHSAA Conference,7-2,7,2,0,9,63.0,63.0,13.04,45.3,285,38.0,19.7,18.3,54.39,54.39,54.39,77.78,18.52,Quarterfinal Contender
+164,35,Adel ADM,IA,3A,1,IHSAA Conference,4-5,4,5,0,9,63.0,63.0,12.95,61.3,178,25.3,24.4,0.9,44.5,44.5,44.5,44.44,38.27,Playoff Bubble
+165,33,Storm Lake,IA,4A,1,IHSAA 4A,2-7,2,7,0,9,62.9,62.9,12.94,66.4,129,23.2,27.1,-3.9,39.84,39.84,39.84,22.22,58.64,Playoff Bubble
+166,36,Boyden-Hull/Rock Valley,IA,3A,1,IHSAA 2A,5-4,5,4,0,9,62.8,62.8,12.8,64.9,144,25.0,27.8,-2.8,54.37,54.37,54.37,55.56,61.73,Playoff Bubble
+167,17,Pleasantville,IA,1A,1,IHSAA Conference,2-7,2,7,0,9,62.7,62.7,12.68,66.6,126,25.3,29.0,-3.7,47.63,47.63,47.63,22.22,76.54,Dark Horse
+168,18,Clayton Ridge,IA,1A,1,IHSAA Conference,4-6,4,6,0,10,62.6,62.6,12.65,58.1,215,28.7,24.8,3.9,46.0,46.0,46.0,44.44,35.8,Dark Horse
+169,29,Monticello IA,IA,2A,1,IHSAA Conference,4-3,4,3,0,7,62.6,62.6,12.59,58.1,214,26.0,21.0,5.0,50.52,50.52,50.52,57.14,43.25,Dark Horse
+170,12,Danville IA,IA,A,1,IHSAA Conference,7-2,7,2,0,9,62.5,62.5,12.55,43.8,289,38.4,19.2,19.2,53.21,53.21,53.21,77.78,14.81,Quarterfinal Contender
+171,30,Cascade,IA,2A,1,IHSAA Conference,5-3,5,3,0,8,62.3,62.3,12.34,60.2,192,27.5,25.4,2.1,53.9,53.9,53.9,62.5,54.54,Dark Horse
+172,31,Sumner-Fredericksburg,IA,2A,1,IHSAA Conference,4-4,4,4,0,8,62.3,62.3,12.28,57.0,230,27.4,22.0,5.4,47.01,47.01,47.01,50.0,35.44,Dark Horse
+173,37,Chariton,IA,3A,1,IHSAA Conference,6-3,6,3,0,9,62.2,62.2,12.25,58.6,210,26.8,23.9,2.9,50.39,50.39,50.39,66.67,28.4,Playoff Bubble
+174,19,Lake Mills,IA,1A,1,IHSAA A,8-1,8,1,0,9,62.1,62.1,12.08,45.4,284,36.2,19.9,16.3,55.69,55.69,55.69,88.89,12.35,Dark Horse
+175,13,Wapello,IA,A,1,IHSAA A,7-3,7,3,0,10,62.0,62.0,12.05,49.5,270,35.8,23.1,12.7,55.62,55.62,55.62,77.78,23.46,Quarterfinal Contender
+176,20,Regina Catholic,IA,1A,1,IHSAA Conference,2-8,2,8,0,10,61.9,61.9,11.91,65.7,133,24.3,28.3,-4.0,46.14,46.14,46.14,22.22,72.84,Dark Horse
+177,21,Starmont,IA,1A,1,IHSAA Conference,5-5,5,5,0,10,61.8,61.8,11.81,61.4,177,27.9,27.4,0.5,52.94,52.94,52.94,55.56,45.68,Dark Horse
+178,32,Pella Christian,IA,2A,1,IHSAA Conference,9-0,9,0,0,9,61.8,61.8,11.8,50.4,268,32.8,21.4,11.4,60.1,60.1,60.1,100.0,13.27,Dark Horse
+179,22,Sioux Central,IA,1A,1,IHSAA A,7-1,7,1,0,8,61.6,61.6,11.57,52.1,260,31.5,21.5,10.0,62.66,62.66,62.66,87.5,41.87,Dark Horse
+180,33,Woodward-Granger,IA,2A,1,IHSAA 2A,7-2,7,2,0,9,61.5,61.5,11.49,52.8,255,30.1,21.1,9.0,54.26,54.26,54.26,77.78,18.98,Playoff Bubble
+181,38,Okoboji,IA,3A,1,IHSAA 2A,3-6,3,6,0,9,61.5,61.5,11.49,66.3,130,23.7,28.7,-5.0,45.44,45.44,45.44,33.33,65.43,Playoff Bubble
+182,14,West Sioux,IA,A,1,IHSAA Conference,4-5,4,5,0,9,61.5,61.5,11.48,62.4,171,25.2,25.3,-0.1,54.65,54.65,54.65,44.44,75.31,Quarterfinal Contender
+183,34,Central Lyon,IA,2A,1,IHSAA Conference,3-6,3,6,0,9,61.4,61.4,11.38,65.9,132,24.3,29.6,-5.3,46.12,46.12,46.12,33.33,53.09,Playoff Bubble
+184,35,West Branch,IA,2A,1,IHSAA Conference,3-6,3,6,0,9,61.3,61.3,11.29,65.5,134,25.2,29.4,-4.2,47.26,47.26,47.26,33.33,58.02,Playoff Bubble
+185,39,Fairfield,IA,3A,1,IHSAA Conference,0-10,0,10,0,10,61.3,61.3,11.27,78.3,32,18.7,36.7,-18.0,38.6,38.6,38.6,0.0,77.78,Playoff Bubble
+186,23,West Marshall,IA,1A,1,IHSAA Conference,1-8,1,8,0,9,61.1,61.1,11.12,69.4,92,22.6,30.9,-8.3,45.11,45.11,45.11,11.11,83.95,Dark Horse
+187,34,Glendwood,IA,4A,1,IHSAA Conference,3-6,3,6,0,9,60.6,60.6,10.63,69.0,97,21.8,31.2,-9.4,43.85,43.85,43.85,33.33,58.64,Playoff Bubble
+188,24,Nashua-Plainfield,IA,1A,1,IHSAA Conference,5-4,5,4,0,9,60.6,60.6,10.62,53.9,250,32.0,26.0,6.0,47.67,47.67,47.67,55.56,23.46,Dark Horse
+189,25,Sigourney/Keota,IA,1A,1,IHSAA Conference,2-8,2,8,0,10,60.6,60.6,10.57,71.5,78,21.2,32.0,-10.8,49.4,49.4,49.4,22.22,85.19,Dark Horse
+190,35,Independence IA,IA,4A,1,IHSAA Conference,4-4,4,4,0,8,60.2,60.2,10.19,62.1,175,23.8,27.2,-3.4,44.9,44.9,44.9,50.0,36.63,Playoff Bubble
+191,26,South Hamilton,IA,1A,1,IHSAA 1A,9-0,9,0,0,9,60.0,60.0,9.99,45.9,281,34.1,19.1,15.0,61.33,61.33,61.33,100.0,18.98,Dark Horse
+192,40,Garner-Hayfield-Ventura,IA,3A,1,IHSAA Conference,2-7,2,7,0,9,60.0,60.0,9.98,67.2,122,20.6,28.2,-7.6,41.55,41.55,41.55,22.22,67.9,Playoff Bubble
+193,27,Belmond-Klemme,IA,1A,1,IHSAA Conference,8-1,8,1,0,9,60.0,60.0,9.95,44.4,286,36.0,20.2,15.8,54.55,54.55,54.55,88.89,8.8,Dark Horse
+194,43,Sioux City North,IA,5A,1,IHSAA 5A,2-7,2,7,0,9,60.0,60.0,9.95,67.3,120,20.6,29.9,-9.3,33.54,33.54,33.54,22.22,37.04,Playoff Bubble
+195,28,Central Springs,IA,1A,1,IHSAA 1A,8-1,8,1,0,9,59.9,59.9,9.94,46.0,280,34.0,19.6,14.4,56.6,56.6,56.6,88.89,15.28,Dark Horse
+196,36,Anamosa,IA,2A,1,IHSAA Conference,3-5,3,5,0,8,59.6,59.6,9.57,59.7,201,25.4,26.0,-0.6,46.84,46.84,46.84,37.5,57.81,Playoff Bubble
+197,44,Burlington IA,IA,5A,1,IHSAA Conference,2-7,2,7,0,9,59.4,59.4,9.35,68.6,104,20.7,31.3,-10.6,33.3,33.3,33.3,22.22,37.04,Playoff Bubble
+198,37,Denver IA,IA,2A,1,IHSAA Conference,5-4,5,4,0,9,59.3,59.3,9.26,55.5,239,26.0,22.8,3.2,46.41,46.41,46.41,55.56,25.33,Playoff Bubble
+199,15,MMCRU,IA,A,1,IHSAA Conference,4-5,4,5,0,9,59.2,59.2,9.17,59.8,200,26.6,27.2,-0.6,53.28,53.28,53.28,44.44,67.9,Quarterfinal Contender
+200,16,Wapsie Valley,IA,A,1,IHSAA Conference,4-5,4,5,0,9,59.1,59.1,9.14,62.4,170,23.0,26.2,-3.2,52.59,52.59,52.59,44.44,75.31,Quarterfinal Contender
+201,29,South Winneshiek,IA,1A,1,IHSAA A,5-5,5,5,0,10,59.0,59.0,9.04,57.1,228,27.6,25.9,1.7,49.4,49.4,49.4,55.56,29.63,Dark Horse
+202,17,North Union,IA,A,1,IHSAA A,9-0,9,0,0,9,59.0,59.0,9.01,47.6,276,31.4,18.9,12.5,66.29,66.29,66.29,100.0,33.33,Dark Horse
+203,18,Lynnville-Sully,IA,A,1,IHSAA Conference,2-7,2,7,0,9,59.0,59.0,9.0,64.8,148,23.4,29.1,-5.7,47.7,47.7,47.7,22.22,83.95,Dark Horse
+204,19,Mason City Newman,IA,A,1,IHSAA Conference,8-1,8,1,0,9,58.9,58.9,8.89,46.6,279,34.1,20.8,13.3,59.48,59.48,59.48,88.89,25.93,Dark Horse
+205,20,ACGC,IA,A,1,IHSAA Conference,2-7,2,7,0,9,58.9,58.9,8.88,60.0,197,26.7,27.4,-0.7,45.99,45.99,45.99,22.22,66.67,Dark Horse
+206,36,Webster City,IA,4A,1,IHSAA 3A,1-7,1,7,0,8,58.8,58.8,8.83,64.6,153,20.8,28.1,-7.3,35.78,35.78,35.78,12.5,61.63,Playoff Bubble
+207,21,BGM Brooklyn,IA,A,1,IHSAA Conference,9-0,9,0,0,9,58.8,58.8,8.81,39.8,298,36.3,17.4,18.9,59.67,59.67,59.67,100.0,11.11,Dark Horse
+208,22,North Mahaska,IA,A,1,IHSAA A,9-0,9,0,0,9,58.8,58.8,8.8,41.3,295,36.4,18.7,17.7,60.77,60.77,60.77,100.0,11.11,Dark Horse
+209,30,South Central Calhoun,IA,1A,1,IHSAA Conference,6-2,6,2,0,8,58.5,58.5,8.53,50.7,265,29.6,21.8,7.8,55.87,55.87,55.87,75.0,30.75,Dark Horse
+210,38,Tipton,IA,2A,1,IHSAA 2A,6-3,6,3,0,9,58.1,58.1,8.09,54.0,249,28.9,26.2,2.7,48.65,48.65,48.65,66.67,12.35,Playoff Bubble
+211,41,Forest City,IA,3A,1,IHSAA 2A,1-8,1,8,0,9,58.0,58.0,8.05,67.7,115,19.0,29.7,-10.7,38.22,38.22,38.22,11.11,71.6,Playoff Bubble
+212,23,New London,IA,A,1,IHSAA A,7-2,7,2,0,9,57.8,57.8,7.8,42.0,293,36.7,21.0,15.7,52.35,52.35,52.35,77.78,9.88,Dark Horse
+213,24,West Fork,IA,A,1,IHSAA Conference,4-5,4,5,0,9,57.8,57.8,7.76,56.3,235,26.2,24.8,1.4,51.63,51.63,51.63,44.44,55.56,Dark Horse
+214,45,Davenport West,IA,5A,1,IHSAA 4A,0-9,0,9,0,9,57.5,57.5,7.47,75.8,53,16.2,36.7,-20.5,29.72,29.72,29.72,0.0,48.15,Playoff Bubble
+215,42,Sheldon,IA,3A,1,IHSAA 2A,1-8,1,8,0,9,57.3,57.3,7.34,64.3,154,20.3,28.8,-8.5,36.06,36.06,36.06,11.11,61.73,Playoff Bubble
+216,25,Van Buren County,IA,A,1,IHSAA Conference,8-1,8,1,0,9,57.3,57.3,7.28,41.3,294,35.7,19.6,16.1,55.88,55.88,55.88,88.89,11.11,Dark Horse
+217,37,Harlan,IA,4A,1,IHSAA 3A,2-7,2,7,0,9,57.3,57.3,7.26,68.0,110,22.0,34.1,-12.1,40.16,40.16,40.16,22.22,64.2,Playoff Bubble
+218,31,Turkey Valley,IA,1A,1,IHSAA A,5-5,5,5,0,10,57.2,57.2,7.16,53.6,252,30.5,27.2,3.3,46.53,46.53,46.53,55.56,19.75,Dark Horse
+219,26,St. Albert,IA,A,1,IHSAA Conference,4-6,4,6,0,10,57.0,57.0,7.01,54.3,246,30.9,28.1,2.8,47.46,47.46,47.46,44.44,39.51,Dark Horse
+220,38,Perry,IA,4A,1,IHSAA 3A,0-9,0,9,0,9,57.0,57.0,6.98,71.6,77,17.6,33.0,-15.4,32.36,32.36,32.36,0.0,67.28,Playoff Bubble
+221,27,Edgewood-Colesburg,IA,A,1,IHSAA A,5-4,5,4,0,9,57.0,57.0,6.97,51.2,263,30.8,24.4,6.4,52.71,52.71,52.71,55.56,50.62,Dark Horse
+222,28,Riverside,IA,A,1,IHSAA Conference,5-5,5,5,0,10,56.9,56.9,6.94,56.2,237,26.1,25.1,1.0,54.03,54.03,54.03,55.56,46.91,Dark Horse
+223,46,Ottumwa,IA,5A,1,IHSAA 5A,1-8,1,8,0,9,56.3,56.3,6.29,68.3,106,20.2,34.8,-14.6,28.91,28.91,28.91,11.11,35.8,Playoff Bubble
+224,29,Lone Tree,IA,A,1,IHSAA A,6-3,6,3,0,9,56.1,56.1,6.15,44.0,288,34.1,22.4,11.7,49.61,49.61,49.61,66.67,13.58,Dark Horse
+225,39,Denison-Schleswig,IA,4A,1,IHSAA 4A,1-7,1,7,0,8,55.9,55.9,5.85,67.5,116,20.0,33.5,-13.5,39.6,39.6,39.6,12.5,76.56,Playoff Bubble
+226,30,Newman Catholic,IA,A,1,IHSAA Conference,7-2,7,2,0,9,55.4,55.4,5.39,45.8,282,29.8,20.0,9.8,56.34,56.34,56.34,77.78,25.93,Dark Horse
+227,32,Ogden,IA,1A,1,IHSAA 1A,6-3,6,3,0,9,55.3,55.3,5.33,50.5,267,27.0,22.9,4.1,52.86,52.86,52.86,66.67,30.73,Dark Horse
+228,33,Columbus Catholic,IA,1A,1,IHSAA Conference,8-1,8,1,0,9,55.1,55.1,5.1,47.8,275,28.8,21.8,7.0,58.07,58.07,58.07,88.89,19.93,Playoff Bubble
+229,31,Pekin,IA,A,1,IHSAA Conference,5-5,5,5,0,10,54.6,54.6,4.62,52.2,259,27.5,25.1,2.4,49.64,49.64,49.64,55.56,29.63,Dark Horse
+230,39,Bellevue Ia,IA,2A,1,IHSAA Conference,1-7,1,7,0,8,54.3,54.3,4.33,63.0,163,19.9,30.0,-10.1,38.59,38.59,38.59,12.5,71.21,Playoff Bubble
+231,34,Denver,IA,1A,1,IHSAA 2A,7-2,7,2,0,9,54.0,54.0,4.04,43.7,291,30.8,20.8,10.0,50.62,50.62,50.62,77.78,10.21,Playoff Bubble
+232,32,Midland Wyoming,IA,A,1,IHSAA Conference,6-3,6,3,0,9,53.9,53.9,3.88,52.3,257,27.3,25.8,1.5,56.65,56.65,56.65,66.67,51.85,Dark Horse
+233,33,Postville,IA,A,1,IHSAA A,6-3,6,3,0,9,53.8,53.8,3.76,50.1,269,26.3,22.9,3.4,55.49,55.49,55.49,66.67,44.44,Playoff Bubble
+234,40,Beckman Catholic,IA,2A,1,IHSAA Conference,2-6,2,6,0,8,53.1,53.1,3.1,62.5,166,20.4,31.1,-10.7,44.18,44.18,44.18,25.0,72.05,Playoff Bubble
+235,35,Hartley-Melvin-Sanborn,IA,1A,1,IHSAA A,3-5,3,5,0,8,53.1,53.1,3.07,52.3,258,27.1,27.4,-0.3,45.62,45.62,45.62,37.5,54.17,Playoff Bubble
+236,41,OA-BCIG,IA,2A,1,IHSAA Conference,1-8,1,8,0,9,53.0,53.0,3.01,65.3,139,18.9,31.8,-12.9,37.72,37.72,37.72,11.11,75.93,Playoff Bubble
+237,36,East Sac County,IA,1A,1,IHSAA Conference,5-3,5,3,0,8,53.0,53.0,3.01,49.2,271,27.0,23.8,3.2,51.22,51.22,51.22,62.5,36.63,Playoff Bubble
+238,40,Nevada IA,IA,4A,1,IHSAA Conference,0-9,0,9,0,9,53.0,53.0,3.0,71.3,80,16.2,36.1,-19.9,31.6,31.6,31.6,0.0,62.81,Playoff Bubble
+239,37,Durant,IA,1A,1,IHSAA 1A,2-8,2,8,0,10,52.8,52.8,2.75,65.5,135,21.6,35.8,-14.2,44.39,44.39,44.39,22.22,62.96,Playoff Bubble
+240,34,Martensdale-St. Marys,IA,A,1,IHSAA Conference,3-6,3,6,0,9,52.4,52.4,2.39,56.3,236,21.9,26.1,-4.2,47.63,47.63,47.63,33.33,70.37,Playoff Bubble
+241,38,Sibley-Ocheyedan,IA,1A,1,IHSAA Conference,4-3,4,3,0,7,52.4,52.4,2.37,54.4,244,25.7,28.1,-2.4,53.68,53.68,53.68,57.14,58.33,Playoff Bubble
+242,42,Southeast Valley,IA,2A,1,IHSAA Conference,1-8,1,8,0,9,52.3,52.3,2.27,64.2,156,18.6,31.8,-13.2,39.68,39.68,39.68,11.11,76.87,Playoff Bubble
+243,35,Northwood-Kensett,IA,A,1,IHSAA A,5-4,5,4,0,9,52.0,52.0,2.01,49.1,272,24.6,21.8,2.8,51.71,51.71,51.71,55.56,43.21,Playoff Bubble
+244,43,Estherville Lincoln Central,IA,3A,1,IHSAA 2A,1-8,1,8,0,9,51.9,51.9,1.86,65.1,141,20.7,36.2,-15.5,37.02,37.02,37.02,11.11,66.67,Playoff Bubble
+245,44,Crestwood,IA,3A,1,IHSAA Conference,0-9,0,9,0,9,51.8,51.8,1.84,67.4,118,19.2,36.2,-17.0,31.65,31.65,31.65,0.0,64.2,Playoff Bubble
+246,43,Eagle Grove,IA,2A,1,IHSAA Conference,1-8,1,8,0,9,51.7,51.7,1.69,62.6,165,22.1,35.3,-13.2,39.04,39.04,39.04,11.11,74.38,Playoff Bubble
+247,44,Pocahontas Area,IA,2A,1,IHSAA Conference,1-8,1,8,0,9,51.5,51.5,1.46,64.9,147,20.1,35.4,-15.3,40.67,40.67,40.67,11.11,83.95,Playoff Bubble
+248,36,Bishop Garrigan,IA,A,1,IHSAA A,6-3,6,3,0,9,51.4,51.4,1.44,47.9,274,26.8,24.3,2.5,54.15,54.15,54.15,66.67,37.04,Playoff Bubble
+249,45,New Hampton,IA,3A,1,IHSAA Conference,0-9,0,9,0,9,51.4,51.4,1.39,67.9,111,17.8,35.9,-18.1,33.81,33.81,33.81,0.0,71.6,Playoff Bubble
+250,37,Rockford IA,IA,A,1,IHSAA Conference,6-3,6,3,0,9,51.3,51.3,1.34,44.1,287,26.2,19.1,7.1,49.59,49.59,49.59,66.67,19.75,Playoff Bubble
+251,45,Unity Christian,IA,2A,1,IHSAA Conference,0-9,0,9,0,9,51.3,51.3,1.26,64.7,151,19.7,34.1,-14.4,36.31,36.31,36.31,0.0,87.19,Playoff Bubble
+252,39,Manson Northwest Webster,IA,1A,1,IHSAA Conference,5-3,5,3,0,8,51.0,51.0,1.0,47.6,277,26.6,24.6,2.0,48.34,48.34,48.34,62.5,22.74,Playoff Bubble
+253,40,Lawton-Bronson,IA,1A,1,IHSAA Conference,1-7,1,7,0,8,50.9,50.9,0.9,57.3,225,22.4,30.2,-7.8,41.77,41.77,41.77,12.5,78.67,Playoff Bubble
+254,38,Prince of Peace,IA,A,1,IHSAA Conference,4-5,4,5,0,9,50.9,50.9,0.9,53.4,253,24.2,26.8,-2.6,50.53,50.53,50.53,44.44,65.43,Playoff Bubble
+255,39,Calamus-Wheatland,IA,A,1,IHSAA A,4-5,4,5,0,9,50.8,50.8,0.82,54.4,245,27.0,30.8,-3.8,50.24,50.24,50.24,44.44,61.73,Playoff Bubble
+256,46,Western Christian,IA,2A,1,IHSAA Conference,1-8,1,8,0,9,49.8,49.8,-0.2,64.1,157,19.1,35.4,-16.3,38.68,38.68,38.68,11.11,77.34,Playoff Bubble
+257,40,North Tama,IA,A,1,IHSAA A,5-4,5,4,0,9,49.6,49.6,-0.36,41.2,296,29.7,22.1,7.6,43.59,43.59,43.59,55.56,13.58,Playoff Bubble
+258,46,Union La Porte City,IA,3A,1,IHSAA Conference,0-9,0,9,0,9,49.4,49.4,-0.64,68.0,109,16.9,36.7,-19.8,31.28,31.28,31.28,0.0,59.26,Playoff Bubble
+259,41,AHSTW,IA,1A,1,IHSAA A,1-8,1,8,0,9,49.2,49.2,-0.75,57.6,222,21.1,30.3,-9.2,37.3,37.3,37.3,11.11,71.91,Playoff Bubble
+260,47,MVAOCOU,IA,2A,1,IHSAA Conference,0-9,0,9,0,9,48.6,48.6,-1.38,64.7,149,19.6,36.2,-16.6,32.95,32.95,32.95,0.0,72.84,Playoff Bubble
+261,48,Ridge View,IA,2A,1,IHSAA Conference,0-9,0,9,0,9,48.5,48.5,-1.47,64.9,145,19.9,37.7,-17.8,34.95,34.95,34.95,0.0,83.8,Playoff Bubble
+262,41,Atlantic,IA,4A,1,IHSAA 3A,0-9,0,9,0,9,48.2,48.2,-1.82,68.5,105,15.7,38.6,-22.9,32.28,32.28,32.28,0.0,62.5,Playoff Bubble
+263,42,Tri-Center,IA,1A,1,IHSAA Conference,2-7,2,7,0,9,48.1,48.1,-1.92,57.7,221,19.7,30.4,-10.7,43.02,43.02,43.02,22.22,77.31,Playoff Bubble
+264,43,Gehlen Catholic,IA,1A,1,IHSAA Conference,3-5,3,5,0,8,48.1,48.1,-1.94,54.9,243,22.4,31.0,-8.6,46.89,46.89,46.89,37.5,63.89,Playoff Bubble
+265,42,Saydel,IA,4A,1,IHSAA 3A,0-9,0,9,0,9,47.9,47.9,-2.14,69.5,91,17.0,40.9,-23.9,32.11,32.11,32.11,0.0,61.27,Playoff Bubble
+266,41,Kingsley-Pierson,IA,A,1,IHSAA A,0-9,0,9,0,9,47.8,47.8,-2.17,57.8,216,20.8,31.3,-10.5,33.18,33.18,33.18,0.0,75.31,Playoff Bubble
+267,47,Oelwein,IA,3A,1,IHSAA 2A,0-9,0,9,0,9,47.5,47.5,-2.53,68.1,108,17.2,39.7,-22.5,32.77,32.77,32.77,0.0,67.9,Playoff Bubble
+268,49,Missouri Valley,IA,2A,1,IHSAA 1A,0-9,0,9,0,9,47.4,47.4,-2.62,65.3,138,18.6,37.9,-19.3,32.88,32.88,32.88,0.0,69.14,Rebuilding
+269,48,East Marshall,IA,3A,1,IHSAA A,0-9,0,9,0,9,47.4,47.4,-2.62,69.2,94,18.0,41.2,-23.2,30.97,30.97,30.97,0.0,59.26,Playoff Bubble
+270,44,Riverside Oakland,IA,1A,1,IHSAA Conference,0-9,0,9,0,9,46.6,46.6,-3.42,57.8,217,21.1,33.3,-12.2,33.35,33.35,33.35,0.0,75.0,Playoff Bubble
+271,42,East Union,IA,A,1,IHSAA A,1-8,1,8,0,9,46.0,46.0,-3.95,55.3,240,19.4,29.7,-10.3,38.79,38.79,38.79,11.11,75.31,Playoff Bubble
+272,50,Red Oak,IA,2A,1,IHSAA 1A,0-9,0,9,0,9,45.6,45.6,-4.41,64.6,152,18.2,38.2,-20.0,31.96,31.96,31.96,0.0,69.14,Rebuilding
+273,45,Akron-Westfield,IA,1A,1,IHSAA A,2-7,2,7,0,9,45.6,45.6,-4.44,56.4,232,20.8,33.3,-12.5,42.23,42.23,42.23,22.22,69.91,Playoff Bubble
+274,43,Walkertown,IA,A,1,IHSAA Conference,0-9,0,9,0,9,45.5,45.5,-4.45,60.3,190,17.7,33.4,-15.7,36.15,36.15,36.15,0.0,83.95,Playoff Bubble
+275,46,IKM-Manning,IA,1A,1,IHSAA Conference,0-9,0,9,0,9,45.5,45.5,-4.52,57.5,224,18.3,32.4,-14.1,36.18,36.18,36.18,0.0,78.42,Playoff Bubble
+276,44,Southwest Valley,IA,A,1,IHSAA Conference,1-8,1,8,0,9,45.1,45.1,-4.88,58.4,211,20.4,35.1,-14.7,39.83,39.83,39.83,11.11,79.01,Playoff Bubble
+277,45,Bedford IA,IA,A,1,IHSAA Conference,1-8,1,8,0,9,44.8,44.8,-5.18,56.3,233,19.7,32.2,-12.5,38.32,38.32,38.32,11.11,76.54,Playoff Bubble
+278,51,West Monona,IA,2A,1,IHSAA Conference,0-9,0,9,0,9,44.0,44.0,-6.05,64.7,150,14.4,37.9,-23.5,33.7,33.7,33.7,0.0,77.78,Rebuilding
+279,46,Easton Valley,IA,A,1,IHSAA A,2-7,2,7,0,9,43.6,43.6,-6.41,51.7,262,21.3,31.1,-9.8,40.24,40.24,40.24,22.22,55.56,Playoff Bubble
+280,47,Southeast Warren,IA,A,1,IHSAA A,1-8,1,8,0,9,43.3,43.3,-6.66,57.0,229,19.0,34.6,-15.6,39.15,39.15,39.15,11.11,74.07,Playoff Bubble
+281,47,Mount Ayr,IA,1A,1,IHSAA Conference,0-9,0,9,0,9,43.0,43.0,-6.96,58.2,212,16.9,33.4,-16.5,31.87,31.87,31.87,0.0,70.37,Playoff Bubble
+282,48,Earlham,IA,A,1,IHSAA Conference,2-7,2,7,0,9,42.1,42.1,-7.85,54.0,248,19.9,34.1,-14.2,42.87,42.87,42.87,22.22,71.6,Playoff Bubble
+283,48,Nodaway Valley,IA,1A,1,IHSAA A,0-9,0,9,0,9,41.6,41.6,-8.44,60.6,185,19.0,39.8,-20.8,34.43,34.43,34.43,0.0,77.31,Playoff Bubble
+284,49,Logan-Magnolia,IA,1A,1,IHSAA Conference,0-9,0,9,0,9,40.9,40.9,-9.06,59.2,205,17.1,37.7,-20.6,34.67,34.67,34.67,0.0,78.09,Rebuilding
+285,50,Wayne Corydon,IA,1A,1,IHSAA Conference,0-9,0,9,0,9,40.3,40.3,-9.67,60.4,188,16.8,38.1,-21.3,33.5,33.5,33.5,0.0,71.6,Rebuilding
+286,52,Central Decatur,IA,2A,1,IHSAA A,0-9,0,9,0,9,37.7,37.7,-12.28,65.4,136,14.9,43.9,-29.0,31.03,31.03,31.03,0.0,60.49,Rebuilding
+287,53,Shenandoah,IA,2A,1,IHSAA Conference,0-9,0,9,0,9,36.0,36.0,-14.04,65.3,137,14.6,45.9,-31.3,31.1,31.1,31.1,0.0,59.26,Rebuilding
+288,51,Sigourney-Keota,IA,1A,1,IHSAA Conference,0-9,0,9,0,9,35.9,35.9,-14.07,59.6,202,16.9,42.3,-25.4,31.61,31.61,31.61,0.0,66.67,Rebuilding
+289,49,Exira-EHK,IA,A,1,IHSAA A,1-8,1,8,0,9,35.5,35.5,-14.52,57.2,226,18.0,41.1,-23.1,38.2,38.2,38.2,11.11,77.78,Rebuilding
+290,50,South O'Brien,IA,A,1,IHSAA A,0-9,0,9,0,9,34.5,34.5,-15.49,60.1,195,16.2,43.1,-26.9,34.67,34.67,34.67,0.0,79.01,Rebuilding
+291,52,Pekin Packwood,IA,1A,1,IHSAA Conference,0-9,0,9,0,9,34.1,34.1,-15.94,61.2,180,17.1,46.4,-29.3,31.16,31.16,31.16,0.0,60.49,Rebuilding
+292,51,Sidney IA,IA,A,1,IHSAA Conference,0-9,0,9,0,9,32.5,32.5,-17.52,60.0,198,15.6,45.2,-29.6,36.52,36.52,36.52,0.0,83.95,Rebuilding
+293,52,BCLUW,IA,A,1,IHSAA A,0-9,0,9,0,9,31.2,31.2,-18.82,60.3,191,16.8,47.0,-30.2,34.28,34.28,34.28,0.0,67.9,Rebuilding
+294,53,Fort Dodge St Edmond,IA,A,1,IHSAA Conference,0-9,0,9,0,9,31.2,31.2,-18.84,58.6,209,17.0,45.9,-28.9,32.56,32.56,32.56,0.0,67.9,Rebuilding
+295,54,St. Edmond,IA,A,1,IHSAA A,0-9,0,9,0,9,30.6,30.6,-19.41,60.5,187,14.4,45.3,-30.9,33.49,33.49,33.49,0.0,72.84,Rebuilding
+296,55,Alta-Aurelia,IA,A,1,IHSAA 1A,0-9,0,9,0,9,29.0,29.0,-20.96,57.7,219,15.3,46.1,-30.8,32.15,32.15,32.15,0.0,70.37,Rebuilding
+297,56,AGWSR,IA,A,1,IHSAA A,0-9,0,9,0,9,28.4,28.4,-21.65,60.1,193,15.8,48.6,-32.8,33.68,33.68,33.68,0.0,69.14,Rebuilding
+298,53,Colfax-Mingo,IA,1A,1,IHSAA A,0-9,0,9,0,9,28.2,28.2,-21.8,60.7,182,14.7,48.3,-33.6,30.5,30.5,30.5,0.0,59.26,Rebuilding

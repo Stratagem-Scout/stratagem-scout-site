@@ -12,7 +12,7 @@
     "D6",
     "D7"
   ],
-  "updated_at": "2026-11-11T01:22:52.433104",
+  "updated_at": "2026-11-11T02:17:18.868257",
   "summary": {
     "total_teams": 698,
     "total_2026_games": 3782,
@@ -2281,139 +2281,6 @@
       ]
     },
     {
-      "team": "Whitmer Panthers",
-      "state": "OH",
-      "division": "D1",
-      "region": 2,
-      "conference": "OHSAA Region 2",
-      "city": "Columbus",
-      "wins": 9,
-      "losses": 2,
-      "ties": 0,
-      "games_played": 11,
-      "record": "9-2",
-      "power_index": 93.6,
-      "spi": 93.6,
-      "raw_rating": 43.61,
-      "sos_index": 76.3,
-      "sos_raw": 26.34,
-      "ppg_scored": 37.1,
-      "ppg_off": 37.1,
-      "ppg_allowed": 16.6,
-      "ppg_def": 16.6,
-      "net_margin": 20.5,
-      "harbin_avg": 33.9848,
-      "pqs": 33.985,
-      "ppa": 33.985,
-      "l1_pts": 33.98,
-      "l2_pts": 33.98,
-      "rank": 18,
-      "division_rank": 11,
-      "sos_rank": 72,
-      "contender_tier": "Finals Contender",
-      "schedule_2026": [
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Clay Eagles",
-          "result": "W",
-          "team_score": 56,
-          "opp_score": 35,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Fremont Ross Little Giants",
-          "result": "W",
-          "team_score": 49,
-          "opp_score": 2,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Findlay Trojans",
-          "result": "W",
-          "team_score": 45,
-          "opp_score": 24,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Springfield Blue Devils",
-          "result": "W",
-          "team_score": 57,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Anthony Wayne Generals",
-          "result": "W",
-          "team_score": 10,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Sylvania Southview Cougars",
-          "result": "W",
-          "team_score": 37,
-          "opp_score": 6,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Sylvania Northview Wildcats",
-          "result": "W",
-          "team_score": 56,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Reynoldsburg Raiders",
-          "result": "W",
-          "team_score": 42,
-          "opp_score": 23,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Detroit King (MI)",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 27,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Perrysburg Yellow Jackets",
-          "result": "W",
-          "team_score": 28,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Nov. 6, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Hilliard Darby Panthers",
-          "result": "L",
-          "team_score": 21,
-          "opp_score": 24,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
       "team": "Springfield Wildcats",
       "state": "OH",
       "division": "D1",
@@ -2440,8 +2307,8 @@
       "ppa": 29.078,
       "l1_pts": 29.08,
       "l2_pts": 29.08,
-      "rank": 19,
-      "division_rank": 12,
+      "rank": 18,
+      "division_rank": 11,
       "sos_rank": 19,
       "contender_tier": "Finals Contender",
       "schedule_2026": [
@@ -2542,6 +2409,139 @@
           "result": "W",
           "team_score": 38,
           "opp_score": 0,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "team": "Whitmer Panthers",
+      "state": "OH",
+      "division": "D1",
+      "region": 2,
+      "conference": "OHSAA Region 2",
+      "city": "Columbus",
+      "wins": 9,
+      "losses": 2,
+      "ties": 0,
+      "games_played": 11,
+      "record": "9-2",
+      "power_index": 93.6,
+      "spi": 93.6,
+      "raw_rating": 43.61,
+      "sos_index": 76.3,
+      "sos_raw": 26.34,
+      "ppg_scored": 37.1,
+      "ppg_off": 37.1,
+      "ppg_allowed": 16.6,
+      "ppg_def": 16.6,
+      "net_margin": 20.5,
+      "harbin_avg": 33.9848,
+      "pqs": 33.985,
+      "ppa": 33.985,
+      "l1_pts": 33.98,
+      "l2_pts": 33.98,
+      "rank": 19,
+      "division_rank": 12,
+      "sos_rank": 72,
+      "contender_tier": "Finals Contender",
+      "schedule_2026": [
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Clay Eagles",
+          "result": "W",
+          "team_score": 56,
+          "opp_score": 35,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Fremont Ross Little Giants",
+          "result": "W",
+          "team_score": 49,
+          "opp_score": 2,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Findlay Trojans",
+          "result": "W",
+          "team_score": 45,
+          "opp_score": 24,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Springfield Blue Devils",
+          "result": "W",
+          "team_score": 57,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Anthony Wayne Generals",
+          "result": "W",
+          "team_score": 10,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Sylvania Southview Cougars",
+          "result": "W",
+          "team_score": 37,
+          "opp_score": 6,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Sylvania Northview Wildcats",
+          "result": "W",
+          "team_score": 56,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Reynoldsburg Raiders",
+          "result": "W",
+          "team_score": 42,
+          "opp_score": 23,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Detroit King (MI)",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 27,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Perrysburg Yellow Jackets",
+          "result": "W",
+          "team_score": 28,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Nov. 6, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Hilliard Darby Panthers",
+          "result": "L",
+          "team_score": 21,
+          "opp_score": 24,
           "is_playoff": false
         }
       ]
@@ -12560,6 +12560,139 @@
       ]
     },
     {
+      "team": "Riverside Beavers",
+      "state": "OH",
+      "division": "D2",
+      "region": 5,
+      "conference": "OHSAA Region 5",
+      "city": "Columbus",
+      "wins": 7,
+      "losses": 4,
+      "ties": 0,
+      "games_played": 11,
+      "record": "7-4",
+      "power_index": 81.2,
+      "spi": 81.2,
+      "raw_rating": 31.25,
+      "sos_index": 75.4,
+      "sos_raw": 25.44,
+      "ppg_scored": 31.2,
+      "ppg_off": 31.2,
+      "ppg_allowed": 23.6,
+      "ppg_def": 23.6,
+      "net_margin": 7.6,
+      "harbin_avg": 21.4707,
+      "pqs": 21.471,
+      "ppa": 21.471,
+      "l1_pts": 21.47,
+      "l2_pts": 21.47,
+      "rank": 94,
+      "division_rank": 27,
+      "sos_rank": 84,
+      "contender_tier": "Semifinal Contender",
+      "schedule_2026": [
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Aurora Greenmen",
+          "result": "W",
+          "team_score": 40,
+          "opp_score": 13,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Steubenville Big Red",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 35,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Austintown-Fitch Falcons",
+          "result": "L",
+          "team_score": 10,
+          "opp_score": 42,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 10, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Shaker Heights Red Raiders",
+          "result": "W",
+          "team_score": 33,
+          "opp_score": 3,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Mentor Cardinals",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 35,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Strongsville Mustangs",
+          "result": "W",
+          "team_score": 48,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Cleveland Heights Tigers",
+          "result": "W",
+          "team_score": 21,
+          "opp_score": 18,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Brunswick Blue Devils",
+          "result": "W",
+          "team_score": 50,
+          "opp_score": 31,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Euclid Panthers",
+          "result": "W",
+          "team_score": 34,
+          "opp_score": 13,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Lorain Titans",
+          "result": "W",
+          "team_score": 63,
+          "opp_score": 28,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 30, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Brecksville Bees",
+          "result": "L",
+          "team_score": 16,
+          "opp_score": 28,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
       "team": "Jackson Ironmen",
       "state": "OH",
       "division": "D3",
@@ -12586,7 +12719,7 @@
       "ppa": 17.4,
       "l1_pts": 17.4,
       "l2_pts": 17.4,
-      "rank": 94,
+      "rank": 95,
       "division_rank": 15,
       "sos_rank": 160,
       "contender_tier": "Semifinal Contender",
@@ -12697,139 +12830,6 @@
           "result": "W",
           "team_score": 48,
           "opp_score": 7,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
-      "team": "Riverside Beavers",
-      "state": "OH",
-      "division": "D2",
-      "region": 5,
-      "conference": "OHSAA Region 5",
-      "city": "Columbus",
-      "wins": 7,
-      "losses": 4,
-      "ties": 0,
-      "games_played": 11,
-      "record": "7-4",
-      "power_index": 81.2,
-      "spi": 81.2,
-      "raw_rating": 31.25,
-      "sos_index": 75.4,
-      "sos_raw": 25.44,
-      "ppg_scored": 31.2,
-      "ppg_off": 31.2,
-      "ppg_allowed": 23.6,
-      "ppg_def": 23.6,
-      "net_margin": 7.6,
-      "harbin_avg": 21.4707,
-      "pqs": 21.471,
-      "ppa": 21.471,
-      "l1_pts": 21.47,
-      "l2_pts": 21.47,
-      "rank": 95,
-      "division_rank": 27,
-      "sos_rank": 84,
-      "contender_tier": "Semifinal Contender",
-      "schedule_2026": [
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Aurora Greenmen",
-          "result": "W",
-          "team_score": 40,
-          "opp_score": 13,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Steubenville Big Red",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 35,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Austintown-Fitch Falcons",
-          "result": "L",
-          "team_score": 10,
-          "opp_score": 42,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 10, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Shaker Heights Red Raiders",
-          "result": "W",
-          "team_score": 33,
-          "opp_score": 3,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Mentor Cardinals",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 35,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Strongsville Mustangs",
-          "result": "W",
-          "team_score": 48,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Cleveland Heights Tigers",
-          "result": "W",
-          "team_score": 21,
-          "opp_score": 18,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Brunswick Blue Devils",
-          "result": "W",
-          "team_score": 50,
-          "opp_score": 31,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Euclid Panthers",
-          "result": "W",
-          "team_score": 34,
-          "opp_score": 13,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Lorain Titans",
-          "result": "W",
-          "team_score": 63,
-          "opp_score": 28,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 30, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Brecksville Bees",
-          "result": "L",
-          "team_score": 16,
-          "opp_score": 28,
           "is_playoff": false
         }
       ]
@@ -25711,139 +25711,6 @@
       ]
     },
     {
-      "team": "Liberty Leopards",
-      "state": "OH",
-      "division": "D5",
-      "region": 17,
-      "conference": "OHSAA Region 17",
-      "city": "Columbus",
-      "wins": 9,
-      "losses": 2,
-      "ties": 0,
-      "games_played": 11,
-      "record": "9-2",
-      "power_index": 74.3,
-      "spi": 74.3,
-      "raw_rating": 24.3,
-      "sos_index": 55.0,
-      "sos_raw": 4.95,
-      "ppg_scored": 32.5,
-      "ppg_off": 32.5,
-      "ppg_allowed": 8.6,
-      "ppg_def": 8.6,
-      "net_margin": 23.9,
-      "harbin_avg": 18.15,
-      "pqs": 18.15,
-      "ppa": 18.15,
-      "l1_pts": 18.15,
-      "l2_pts": 18.15,
-      "rank": 192,
-      "division_rank": 17,
-      "sos_rank": 506,
-      "contender_tier": "Semifinal Contender",
-      "schedule_2026": [
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Niles McKinley Red Dragons",
-          "result": "W",
-          "team_score": 34,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Boardman Spartans",
-          "result": "W",
-          "team_score": 27,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Garrettsville Garfield G-Men",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 43,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 20, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Campbell Memorial Red Devils",
-          "result": "W",
-          "team_score": 45,
-          "opp_score": 2,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Crestview Rebels",
-          "result": "W",
-          "team_score": 37,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Brookfield Warriors",
-          "result": "W",
-          "team_score": 28,
-          "opp_score": 8,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Newton Falls Tigers",
-          "result": "W",
-          "team_score": 56,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "LaBrae Vikings",
-          "result": "W",
-          "team_score": 35,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Champion Golden Flashes",
-          "result": "W",
-          "team_score": 41,
-          "opp_score": 6,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Southeast Pirates",
-          "result": "W",
-          "team_score": 41,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 30, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Canton Central Catholic Crusaders",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 1,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
       "team": "Heath Bulldogs",
       "state": "OH",
       "division": "D4",
@@ -25870,7 +25737,7 @@
       "ppa": 15.95,
       "l1_pts": 15.95,
       "l2_pts": 15.95,
-      "rank": 193,
+      "rank": 192,
       "division_rank": 30,
       "sos_rank": 321,
       "contender_tier": "Semifinal Contender",
@@ -25981,6 +25848,139 @@
           "result": "W",
           "team_score": 58,
           "opp_score": 0,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "team": "Liberty Leopards",
+      "state": "OH",
+      "division": "D5",
+      "region": 17,
+      "conference": "OHSAA Region 17",
+      "city": "Columbus",
+      "wins": 9,
+      "losses": 2,
+      "ties": 0,
+      "games_played": 11,
+      "record": "9-2",
+      "power_index": 74.3,
+      "spi": 74.3,
+      "raw_rating": 24.3,
+      "sos_index": 55.0,
+      "sos_raw": 4.95,
+      "ppg_scored": 32.5,
+      "ppg_off": 32.5,
+      "ppg_allowed": 8.6,
+      "ppg_def": 8.6,
+      "net_margin": 23.9,
+      "harbin_avg": 18.15,
+      "pqs": 18.15,
+      "ppa": 18.15,
+      "l1_pts": 18.15,
+      "l2_pts": 18.15,
+      "rank": 193,
+      "division_rank": 17,
+      "sos_rank": 506,
+      "contender_tier": "Semifinal Contender",
+      "schedule_2026": [
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Niles McKinley Red Dragons",
+          "result": "W",
+          "team_score": 34,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Boardman Spartans",
+          "result": "W",
+          "team_score": 27,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Garrettsville Garfield G-Men",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 43,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 20, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Campbell Memorial Red Devils",
+          "result": "W",
+          "team_score": 45,
+          "opp_score": 2,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Crestview Rebels",
+          "result": "W",
+          "team_score": 37,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Brookfield Warriors",
+          "result": "W",
+          "team_score": 28,
+          "opp_score": 8,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Newton Falls Tigers",
+          "result": "W",
+          "team_score": 56,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "LaBrae Vikings",
+          "result": "W",
+          "team_score": 35,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Champion Golden Flashes",
+          "result": "W",
+          "team_score": 41,
+          "opp_score": 6,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Southeast Pirates",
+          "result": "W",
+          "team_score": 41,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 30, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Canton Central Catholic Crusaders",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 1,
           "is_playoff": false
         }
       ]
@@ -34577,139 +34577,6 @@
       ]
     },
     {
-      "team": "Brunswick Blue Devils",
-      "state": "OH",
-      "division": "D1",
-      "region": 1,
-      "conference": "OHSAA Region 1",
-      "city": "Columbus",
-      "wins": 6,
-      "losses": 5,
-      "ties": 0,
-      "games_played": 11,
-      "record": "6-5",
-      "power_index": 68.8,
-      "spi": 68.8,
-      "raw_rating": 18.77,
-      "sos_index": 75.1,
-      "sos_raw": 25.14,
-      "ppg_scored": 27.5,
-      "ppg_off": 27.5,
-      "ppg_allowed": 36.2,
-      "ppg_def": 36.2,
-      "net_margin": -8.7,
-      "harbin_avg": 14.35,
-      "pqs": 14.35,
-      "ppa": 14.35,
-      "l1_pts": 14.35,
-      "l2_pts": 14.35,
-      "rank": 259,
-      "division_rank": 59,
-      "sos_rank": 88,
-      "contender_tier": "Regional Contender",
-      "schedule_2026": [
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Riverside Beavers",
-          "result": "L",
-          "team_score": 31,
-          "opp_score": 50,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Shaker Heights Red Raiders",
-          "result": "W",
-          "team_score": 31,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Olmsted Falls Bulldogs",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 42,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Mentor Cardinals",
-          "result": "L",
-          "team_score": 18,
-          "opp_score": 63,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Strongsville Mustangs",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 52,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 30, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Canton McKinley Bulldogs",
-          "result": "L",
-          "team_score": 28,
-          "opp_score": 62,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Berea-Midpark Titans",
-          "result": "W",
-          "team_score": 47,
-          "opp_score": 42,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Medina Battling Bees",
-          "result": "W",
-          "team_score": 44,
-          "opp_score": 36,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Lorain Titans",
-          "result": "W",
-          "team_score": 53,
-          "opp_score": 19,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Euclid Panthers",
-          "result": "W",
-          "team_score": 15,
-          "opp_score": 6,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Cleveland Heights Tigers",
-          "result": "W",
-          "team_score": 14,
-          "opp_score": 12,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
       "team": "Mineral Ridge Rams",
       "state": "OH",
       "division": "D6",
@@ -34736,7 +34603,7 @@
       "ppa": 17.491,
       "l1_pts": 17.49,
       "l2_pts": 17.49,
-      "rank": 260,
+      "rank": 259,
       "division_rank": 22,
       "sos_rank": 536,
       "contender_tier": "Regional Contender",
@@ -34847,6 +34714,139 @@
           "result": "W",
           "team_score": 59,
           "opp_score": 14,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "team": "Brunswick Blue Devils",
+      "state": "OH",
+      "division": "D1",
+      "region": 1,
+      "conference": "OHSAA Region 1",
+      "city": "Columbus",
+      "wins": 6,
+      "losses": 5,
+      "ties": 0,
+      "games_played": 11,
+      "record": "6-5",
+      "power_index": 68.8,
+      "spi": 68.8,
+      "raw_rating": 18.77,
+      "sos_index": 75.1,
+      "sos_raw": 25.14,
+      "ppg_scored": 27.5,
+      "ppg_off": 27.5,
+      "ppg_allowed": 36.2,
+      "ppg_def": 36.2,
+      "net_margin": -8.7,
+      "harbin_avg": 14.35,
+      "pqs": 14.35,
+      "ppa": 14.35,
+      "l1_pts": 14.35,
+      "l2_pts": 14.35,
+      "rank": 260,
+      "division_rank": 59,
+      "sos_rank": 88,
+      "contender_tier": "Regional Contender",
+      "schedule_2026": [
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Riverside Beavers",
+          "result": "L",
+          "team_score": 31,
+          "opp_score": 50,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Shaker Heights Red Raiders",
+          "result": "W",
+          "team_score": 31,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Olmsted Falls Bulldogs",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 42,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Mentor Cardinals",
+          "result": "L",
+          "team_score": 18,
+          "opp_score": 63,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Strongsville Mustangs",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 52,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 30, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Canton McKinley Bulldogs",
+          "result": "L",
+          "team_score": 28,
+          "opp_score": 62,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Berea-Midpark Titans",
+          "result": "W",
+          "team_score": 47,
+          "opp_score": 42,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Medina Battling Bees",
+          "result": "W",
+          "team_score": 44,
+          "opp_score": 36,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Lorain Titans",
+          "result": "W",
+          "team_score": 53,
+          "opp_score": 19,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Euclid Panthers",
+          "result": "W",
+          "team_score": 15,
+          "opp_score": 6,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Cleveland Heights Tigers",
+          "result": "W",
+          "team_score": 14,
+          "opp_score": 12,
           "is_playoff": false
         }
       ]
@@ -49034,139 +49034,6 @@
       ]
     },
     {
-      "team": "Toronto Red Knights",
-      "state": "OH",
-      "division": "D7",
-      "region": 27,
-      "conference": "OHSAA Region 27",
-      "city": "Columbus",
-      "wins": 10,
-      "losses": 1,
-      "ties": 0,
-      "games_played": 11,
-      "record": "10-1",
-      "power_index": 60.6,
-      "spi": 60.6,
-      "raw_rating": 10.56,
-      "sos_index": 53.9,
-      "sos_raw": 3.89,
-      "ppg_scored": 26.1,
-      "ppg_off": 26.1,
-      "ppg_allowed": 16.2,
-      "ppg_def": 16.2,
-      "net_margin": 9.9,
-      "harbin_avg": 19.6294,
-      "pqs": 19.629,
-      "ppa": 19.629,
-      "l1_pts": 19.63,
-      "l2_pts": 19.63,
-      "rank": 370,
-      "division_rank": 18,
-      "sos_rank": 520,
-      "contender_tier": "Regional Contender",
-      "schedule_2026": [
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Catholic Central Crusaders",
-          "result": "W",
-          "team_score": 33,
-          "opp_score": 6,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Southern Indians",
-          "result": "W",
-          "team_score": 33,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Newcomerstown Trojans",
-          "result": "W",
-          "team_score": 27,
-          "opp_score": 20,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Brookfield Warriors",
-          "result": "W",
-          "team_score": 7,
-          "opp_score": 6,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Oak Glen (WV)",
-          "result": "W",
-          "team_score": 28,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Edison Wildcats",
-          "result": "W",
-          "team_score": 40,
-          "opp_score": 25,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Tuslaw Mustangs",
-          "result": "W",
-          "team_score": 29,
-          "opp_score": 28,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Monroe Central Seminoles",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 39,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Buckeye Local Panthers",
-          "result": "W",
-          "team_score": 42,
-          "opp_score": 13,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Cameron (WV)",
-          "result": "W",
-          "team_score": 28,
-          "opp_score": 21,
-          "is_playoff": false
-        },
-        {
-          "date": "Nov. 6, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Strasburg Tigers",
-          "result": "W",
-          "team_score": 20,
-          "opp_score": 13,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
       "team": "Maumee Panthers",
       "state": "OH",
       "division": "D3",
@@ -49193,7 +49060,7 @@
       "ppa": 10.9,
       "l1_pts": 10.9,
       "l2_pts": 10.9,
-      "rank": 371,
+      "rank": 370,
       "division_rank": 70,
       "sos_rank": 371,
       "contender_tier": "Rebuilding",
@@ -49295,6 +49162,139 @@
           "result": "L",
           "team_score": 7,
           "opp_score": 29,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "team": "Toronto Red Knights",
+      "state": "OH",
+      "division": "D7",
+      "region": 27,
+      "conference": "OHSAA Region 27",
+      "city": "Columbus",
+      "wins": 10,
+      "losses": 1,
+      "ties": 0,
+      "games_played": 11,
+      "record": "10-1",
+      "power_index": 60.6,
+      "spi": 60.6,
+      "raw_rating": 10.56,
+      "sos_index": 53.9,
+      "sos_raw": 3.89,
+      "ppg_scored": 26.1,
+      "ppg_off": 26.1,
+      "ppg_allowed": 16.2,
+      "ppg_def": 16.2,
+      "net_margin": 9.9,
+      "harbin_avg": 19.6294,
+      "pqs": 19.629,
+      "ppa": 19.629,
+      "l1_pts": 19.63,
+      "l2_pts": 19.63,
+      "rank": 371,
+      "division_rank": 18,
+      "sos_rank": 520,
+      "contender_tier": "Regional Contender",
+      "schedule_2026": [
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Catholic Central Crusaders",
+          "result": "W",
+          "team_score": 33,
+          "opp_score": 6,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Southern Indians",
+          "result": "W",
+          "team_score": 33,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Newcomerstown Trojans",
+          "result": "W",
+          "team_score": 27,
+          "opp_score": 20,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Brookfield Warriors",
+          "result": "W",
+          "team_score": 7,
+          "opp_score": 6,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Oak Glen (WV)",
+          "result": "W",
+          "team_score": 28,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Edison Wildcats",
+          "result": "W",
+          "team_score": 40,
+          "opp_score": 25,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Tuslaw Mustangs",
+          "result": "W",
+          "team_score": 29,
+          "opp_score": 28,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Monroe Central Seminoles",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 39,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Buckeye Local Panthers",
+          "result": "W",
+          "team_score": 42,
+          "opp_score": 13,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Cameron (WV)",
+          "result": "W",
+          "team_score": 28,
+          "opp_score": 21,
+          "is_playoff": false
+        },
+        {
+          "date": "Nov. 6, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Strasburg Tigers",
+          "result": "W",
+          "team_score": 20,
+          "opp_score": 13,
           "is_playoff": false
         }
       ]
@@ -51728,139 +51728,6 @@
       ]
     },
     {
-      "team": "Rossford Bulldogs",
-      "state": "OH",
-      "division": "D4",
-      "region": 14,
-      "conference": "OHSAA Region 14",
-      "city": "Columbus",
-      "wins": 5,
-      "losses": 6,
-      "ties": 0,
-      "games_played": 11,
-      "record": "5-6",
-      "power_index": 58.9,
-      "spi": 58.9,
-      "raw_rating": 8.9,
-      "sos_index": 58.7,
-      "sos_raw": 8.67,
-      "ppg_scored": 30.1,
-      "ppg_off": 30.1,
-      "ppg_allowed": 30.6,
-      "ppg_def": 30.6,
-      "net_margin": -0.5,
-      "harbin_avg": 9.65,
-      "pqs": 9.65,
-      "ppa": 9.65,
-      "l1_pts": 9.65,
-      "l2_pts": 9.65,
-      "rank": 391,
-      "division_rank": 62,
-      "sos_rank": 433,
-      "contender_tier": "Rebuilding",
-      "schedule_2026": [
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Waite Indians",
-          "result": "L",
-          "team_score": 21,
-          "opp_score": 28,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Rogers Rams",
-          "result": "W",
-          "team_score": 35,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Maumee Panthers",
-          "result": "W",
-          "team_score": 33,
-          "opp_score": 21,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Otsego Knights",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 41,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 30, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Firelands Falcons",
-          "result": "L",
-          "team_score": 30,
-          "opp_score": 34,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Northwood Rangers",
-          "result": "L",
-          "team_score": 24,
-          "opp_score": 27,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Eastwood Eagles",
-          "result": "L",
-          "team_score": 34,
-          "opp_score": 42,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Lake Flyers",
-          "result": "W",
-          "team_score": 57,
-          "opp_score": 56,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Genoa Area Comets",
-          "result": "L",
-          "team_score": 13,
-          "opp_score": 55,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Fostoria Redmen",
-          "result": "W",
-          "team_score": 49,
-          "opp_score": 13,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Oak Harbor Rockets",
-          "result": "W",
-          "team_score": 21,
-          "opp_score": 6,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
       "team": "Upper Sandusky Rams",
       "state": "OH",
       "division": "D4",
@@ -51887,8 +51754,8 @@
       "ppa": 10.45,
       "l1_pts": 10.45,
       "l2_pts": 10.45,
-      "rank": 392,
-      "division_rank": 63,
+      "rank": 391,
+      "division_rank": 62,
       "sos_rank": 528,
       "contender_tier": "Rebuilding",
       "schedule_2026": [
@@ -51989,6 +51856,139 @@
           "result": "W",
           "team_score": 14,
           "opp_score": 7,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "team": "Rossford Bulldogs",
+      "state": "OH",
+      "division": "D4",
+      "region": 14,
+      "conference": "OHSAA Region 14",
+      "city": "Columbus",
+      "wins": 5,
+      "losses": 6,
+      "ties": 0,
+      "games_played": 11,
+      "record": "5-6",
+      "power_index": 58.9,
+      "spi": 58.9,
+      "raw_rating": 8.9,
+      "sos_index": 58.7,
+      "sos_raw": 8.67,
+      "ppg_scored": 30.1,
+      "ppg_off": 30.1,
+      "ppg_allowed": 30.6,
+      "ppg_def": 30.6,
+      "net_margin": -0.5,
+      "harbin_avg": 9.65,
+      "pqs": 9.65,
+      "ppa": 9.65,
+      "l1_pts": 9.65,
+      "l2_pts": 9.65,
+      "rank": 392,
+      "division_rank": 63,
+      "sos_rank": 433,
+      "contender_tier": "Rebuilding",
+      "schedule_2026": [
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Waite Indians",
+          "result": "L",
+          "team_score": 21,
+          "opp_score": 28,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Rogers Rams",
+          "result": "W",
+          "team_score": 35,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Maumee Panthers",
+          "result": "W",
+          "team_score": 33,
+          "opp_score": 21,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Otsego Knights",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 41,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 30, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Firelands Falcons",
+          "result": "L",
+          "team_score": 30,
+          "opp_score": 34,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Northwood Rangers",
+          "result": "L",
+          "team_score": 24,
+          "opp_score": 27,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Eastwood Eagles",
+          "result": "L",
+          "team_score": 34,
+          "opp_score": 42,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Lake Flyers",
+          "result": "W",
+          "team_score": 57,
+          "opp_score": 56,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Genoa Area Comets",
+          "result": "L",
+          "team_score": 13,
+          "opp_score": 55,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Fostoria Redmen",
+          "result": "W",
+          "team_score": 49,
+          "opp_score": 13,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Oak Harbor Rockets",
+          "result": "W",
+          "team_score": 21,
+          "opp_score": 6,
           "is_playoff": false
         }
       ]
@@ -56284,130 +56284,6 @@
       ]
     },
     {
-      "team": "Warrensville Heights Tigers",
-      "state": "OH",
-      "division": "D4",
-      "region": 13,
-      "conference": "OHSAA Region 13",
-      "city": "Columbus",
-      "wins": 4,
-      "losses": 6,
-      "ties": 0,
-      "games_played": 10,
-      "record": "4-6",
-      "power_index": 56.2,
-      "spi": 56.2,
-      "raw_rating": 6.23,
-      "sos_index": 59.3,
-      "sos_raw": 9.31,
-      "ppg_scored": 18.8,
-      "ppg_off": 18.8,
-      "ppg_allowed": 22.4,
-      "ppg_def": 22.4,
-      "net_margin": -3.6,
-      "harbin_avg": 6.0904,
-      "pqs": 6.09,
-      "ppa": 6.09,
-      "l1_pts": 6.09,
-      "l2_pts": 6.09,
-      "rank": 426,
-      "division_rank": 69,
-      "sos_rank": 412,
-      "contender_tier": "Rebuilding",
-      "schedule_2026": [
-        {
-          "date": "Oct. 8, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Garfield Heights Bulldogs",
-          "result": "L",
-          "team_score": 19,
-          "opp_score": 44,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Maple Heights Mustangs",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 48,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Bedford Bearcats",
-          "result": "W",
-          "team_score": 24,
-          "opp_score": 18,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 12, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Cleveland Central Catholic Ironmen",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Lutheran East Falcons",
-          "result": "L",
-          "team_score": 16,
-          "opp_score": 26,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Marlington Dukes",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 31,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 29, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "John F Kennedy Fighting Eagles",
-          "result": "W",
-          "team_score": 57,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Westlake Demons",
-          "result": "W",
-          "team_score": 24,
-          "opp_score": 8,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Brush Arcs",
-          "result": "L",
-          "team_score": 21,
-          "opp_score": 35,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Richmond Heights Spartans",
-          "result": "W",
-          "team_score": 14,
-          "opp_score": 0,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
       "team": "Lakota Raiders",
       "state": "OH",
       "division": "D6",
@@ -56434,7 +56310,7 @@
       "ppa": 8.011,
       "l1_pts": 8.01,
       "l2_pts": 8.01,
-      "rank": 427,
+      "rank": 426,
       "division_rank": 51,
       "sos_rank": 616,
       "contender_tier": "Rebuilding",
@@ -56527,6 +56403,130 @@
           "result": "W",
           "team_score": 34,
           "opp_score": 15,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "team": "Warrensville Heights Tigers",
+      "state": "OH",
+      "division": "D4",
+      "region": 13,
+      "conference": "OHSAA Region 13",
+      "city": "Columbus",
+      "wins": 4,
+      "losses": 6,
+      "ties": 0,
+      "games_played": 10,
+      "record": "4-6",
+      "power_index": 56.2,
+      "spi": 56.2,
+      "raw_rating": 6.23,
+      "sos_index": 59.3,
+      "sos_raw": 9.31,
+      "ppg_scored": 18.8,
+      "ppg_off": 18.8,
+      "ppg_allowed": 22.4,
+      "ppg_def": 22.4,
+      "net_margin": -3.6,
+      "harbin_avg": 6.0904,
+      "pqs": 6.09,
+      "ppa": 6.09,
+      "l1_pts": 6.09,
+      "l2_pts": 6.09,
+      "rank": 427,
+      "division_rank": 69,
+      "sos_rank": 412,
+      "contender_tier": "Rebuilding",
+      "schedule_2026": [
+        {
+          "date": "Oct. 8, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Garfield Heights Bulldogs",
+          "result": "L",
+          "team_score": 19,
+          "opp_score": 44,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Maple Heights Mustangs",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 48,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Bedford Bearcats",
+          "result": "W",
+          "team_score": 24,
+          "opp_score": 18,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 12, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Cleveland Central Catholic Ironmen",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Lutheran East Falcons",
+          "result": "L",
+          "team_score": 16,
+          "opp_score": 26,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Marlington Dukes",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 31,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 29, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "John F Kennedy Fighting Eagles",
+          "result": "W",
+          "team_score": 57,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Westlake Demons",
+          "result": "W",
+          "team_score": 24,
+          "opp_score": 8,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Brush Arcs",
+          "result": "L",
+          "team_score": 21,
+          "opp_score": 35,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Richmond Heights Spartans",
+          "result": "W",
+          "team_score": 14,
+          "opp_score": 0,
           "is_playoff": false
         }
       ]
@@ -62689,130 +62689,6 @@
       ]
     },
     {
-      "team": "John Hay Hornets",
-      "state": "OH",
-      "division": "D2",
-      "region": 5,
-      "conference": "OHSAA Region 5",
-      "city": "Columbus",
-      "wins": 3,
-      "losses": 7,
-      "ties": 0,
-      "games_played": 10,
-      "record": "3-7",
-      "power_index": 52.7,
-      "spi": 52.7,
-      "raw_rating": 2.7,
-      "sos_index": 58.8,
-      "sos_raw": 8.83,
-      "ppg_scored": 15.0,
-      "ppg_off": 15.0,
-      "ppg_allowed": 26.0,
-      "ppg_def": 26.0,
-      "net_margin": -11.0,
-      "harbin_avg": 3.7917,
-      "pqs": 3.792,
-      "ppa": 3.792,
-      "l1_pts": 3.79,
-      "l2_pts": 3.79,
-      "rank": 477,
-      "division_rank": 85,
-      "sos_rank": 429,
-      "contender_tier": "Rebuilding",
-      "schedule_2026": [
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "University School Preppers",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 33,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Gilmour Academy Lancers",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 40,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Glenville Tarblooders",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 46,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Cleveland Central Catholic Ironmen",
-          "result": "L",
-          "team_score": 18,
-          "opp_score": 49,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "John F Kennedy Fighting Eagles",
-          "result": "W",
-          "team_score": 35,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Orange Lions",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 26,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Scott Bulldogs",
-          "result": "W",
-          "team_score": 35,
-          "opp_score": 22,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "East Technical Scarabs",
-          "result": "W",
-          "team_score": 44,
-          "opp_score": 12,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 8, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Rhodes Rams",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 16,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "John Adams Rebels",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 16,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
       "team": "Valley Forge Patriots",
       "state": "OH",
       "division": "D2",
@@ -62839,8 +62715,8 @@
       "ppa": 2.3,
       "l1_pts": 2.3,
       "l2_pts": 2.3,
-      "rank": 478,
-      "division_rank": 86,
+      "rank": 477,
+      "division_rank": 85,
       "sos_rank": 265,
       "contender_tier": "Rebuilding",
       "schedule_2026": [
@@ -62932,6 +62808,130 @@
           "result": "L",
           "team_score": 13,
           "opp_score": 25,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "team": "John Hay Hornets",
+      "state": "OH",
+      "division": "D2",
+      "region": 5,
+      "conference": "OHSAA Region 5",
+      "city": "Columbus",
+      "wins": 3,
+      "losses": 7,
+      "ties": 0,
+      "games_played": 10,
+      "record": "3-7",
+      "power_index": 52.7,
+      "spi": 52.7,
+      "raw_rating": 2.7,
+      "sos_index": 58.8,
+      "sos_raw": 8.83,
+      "ppg_scored": 15.0,
+      "ppg_off": 15.0,
+      "ppg_allowed": 26.0,
+      "ppg_def": 26.0,
+      "net_margin": -11.0,
+      "harbin_avg": 3.7917,
+      "pqs": 3.792,
+      "ppa": 3.792,
+      "l1_pts": 3.79,
+      "l2_pts": 3.79,
+      "rank": 478,
+      "division_rank": 86,
+      "sos_rank": 429,
+      "contender_tier": "Rebuilding",
+      "schedule_2026": [
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "University School Preppers",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 33,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Gilmour Academy Lancers",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 40,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Glenville Tarblooders",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 46,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Cleveland Central Catholic Ironmen",
+          "result": "L",
+          "team_score": 18,
+          "opp_score": 49,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "John F Kennedy Fighting Eagles",
+          "result": "W",
+          "team_score": 35,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Orange Lions",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 26,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Scott Bulldogs",
+          "result": "W",
+          "team_score": 35,
+          "opp_score": 22,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "East Technical Scarabs",
+          "result": "W",
+          "team_score": 44,
+          "opp_score": 12,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 8, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Rhodes Rams",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 16,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "John Adams Rebels",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 16,
           "is_playoff": false
         }
       ]
@@ -66003,130 +66003,6 @@
       ]
     },
     {
-      "team": "Lake Flyers",
-      "state": "OH",
-      "division": "D4",
-      "region": 14,
-      "conference": "OHSAA Region 14",
-      "city": "Columbus",
-      "wins": 4,
-      "losses": 6,
-      "ties": 0,
-      "games_played": 10,
-      "record": "4-6",
-      "power_index": 50.9,
-      "spi": 50.9,
-      "raw_rating": 0.93,
-      "sos_index": 59.6,
-      "sos_raw": 9.58,
-      "ppg_scored": 26.0,
-      "ppg_off": 26.0,
-      "ppg_allowed": 37.0,
-      "ppg_def": 37.0,
-      "net_margin": -11.0,
-      "harbin_avg": 8.05,
-      "pqs": 8.05,
-      "ppa": 8.05,
-      "l1_pts": 8.05,
-      "l2_pts": 8.05,
-      "rank": 503,
-      "division_rank": 80,
-      "sos_rank": 401,
-      "contender_tier": "Rebuilding",
-      "schedule_2026": [
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Maumee Panthers",
-          "result": "L",
-          "team_score": 17,
-          "opp_score": 40,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Otsego Knights",
-          "result": "W",
-          "team_score": 35,
-          "opp_score": 33,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Rossford Bulldogs",
-          "result": "L",
-          "team_score": 56,
-          "opp_score": 57,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Hopewell-Loudon Chieftains",
-          "result": "L",
-          "team_score": 13,
-          "opp_score": 49,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Northwood Rangers",
-          "result": "W",
-          "team_score": 36,
-          "opp_score": 35,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Evergreen Vikings",
-          "result": "W",
-          "team_score": 26,
-          "opp_score": 8,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Fostoria Redmen",
-          "result": "W",
-          "team_score": 45,
-          "opp_score": 27,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Oak Harbor Rockets",
-          "result": "L",
-          "team_score": 12,
-          "opp_score": 44,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Eastwood Eagles",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 21,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Genoa Area Comets",
-          "result": "L",
-          "team_score": 20,
-          "opp_score": 56,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
       "team": "East Canton Hornets",
       "state": "OH",
       "division": "D7",
@@ -66153,7 +66029,7 @@
       "ppa": 11.9,
       "l1_pts": 11.9,
       "l2_pts": 11.9,
-      "rank": 504,
+      "rank": 503,
       "division_rank": 35,
       "sos_rank": 651,
       "contender_tier": "Dark Horse",
@@ -66255,6 +66131,130 @@
           "result": "L",
           "team_score": 20,
           "opp_score": 21,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "team": "Lake Flyers",
+      "state": "OH",
+      "division": "D4",
+      "region": 14,
+      "conference": "OHSAA Region 14",
+      "city": "Columbus",
+      "wins": 4,
+      "losses": 6,
+      "ties": 0,
+      "games_played": 10,
+      "record": "4-6",
+      "power_index": 50.9,
+      "spi": 50.9,
+      "raw_rating": 0.93,
+      "sos_index": 59.6,
+      "sos_raw": 9.58,
+      "ppg_scored": 26.0,
+      "ppg_off": 26.0,
+      "ppg_allowed": 37.0,
+      "ppg_def": 37.0,
+      "net_margin": -11.0,
+      "harbin_avg": 8.05,
+      "pqs": 8.05,
+      "ppa": 8.05,
+      "l1_pts": 8.05,
+      "l2_pts": 8.05,
+      "rank": 504,
+      "division_rank": 80,
+      "sos_rank": 401,
+      "contender_tier": "Rebuilding",
+      "schedule_2026": [
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Maumee Panthers",
+          "result": "L",
+          "team_score": 17,
+          "opp_score": 40,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Otsego Knights",
+          "result": "W",
+          "team_score": 35,
+          "opp_score": 33,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Rossford Bulldogs",
+          "result": "L",
+          "team_score": 56,
+          "opp_score": 57,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Hopewell-Loudon Chieftains",
+          "result": "L",
+          "team_score": 13,
+          "opp_score": 49,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Northwood Rangers",
+          "result": "W",
+          "team_score": 36,
+          "opp_score": 35,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Evergreen Vikings",
+          "result": "W",
+          "team_score": 26,
+          "opp_score": 8,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Fostoria Redmen",
+          "result": "W",
+          "team_score": 45,
+          "opp_score": 27,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Oak Harbor Rockets",
+          "result": "L",
+          "team_score": 12,
+          "opp_score": 44,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Eastwood Eagles",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 21,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Genoa Area Comets",
+          "result": "L",
+          "team_score": 20,
+          "opp_score": 56,
           "is_playoff": false
         }
       ]
@@ -69511,6 +69511,130 @@
       ]
     },
     {
+      "team": "Grandview Heights Bobcats",
+      "state": "OH",
+      "division": "D6",
+      "region": 23,
+      "conference": "OHSAA Region 23",
+      "city": "Columbus",
+      "wins": 4,
+      "losses": 6,
+      "ties": 0,
+      "games_played": 10,
+      "record": "4-6",
+      "power_index": 48.3,
+      "spi": 48.3,
+      "raw_rating": -1.72,
+      "sos_index": 55.4,
+      "sos_raw": 5.39,
+      "ppg_scored": 22.1,
+      "ppg_off": 22.1,
+      "ppg_allowed": 28.8,
+      "ppg_def": 28.8,
+      "net_margin": -6.7,
+      "harbin_avg": 5.75,
+      "pqs": 5.75,
+      "ppa": 5.75,
+      "l1_pts": 5.75,
+      "l2_pts": 5.75,
+      "rank": 531,
+      "division_rank": 72,
+      "sos_rank": 494,
+      "contender_tier": "Rebuilding",
+      "schedule_2026": [
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Linden McKinley Panthers",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 46,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 10, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Bexley Lions",
+          "result": "L",
+          "team_score": 3,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Centennial Stars",
+          "result": "W",
+          "team_score": 26,
+          "opp_score": 18,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Whetstone Braves",
+          "result": "W",
+          "team_score": 53,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Mifflin Punchers",
+          "result": "W",
+          "team_score": 57,
+          "opp_score": 12,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Northridge Vikings",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 49,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Fort Frye Cadets",
+          "result": "L",
+          "team_score": 23,
+          "opp_score": 54,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Worthington Christian Warriors",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 40,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Grove City Christian Eagles",
+          "result": "W",
+          "team_score": 21,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Valley Indians",
+          "result": "L",
+          "team_score": 3,
+          "opp_score": 41,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
       "team": "St Paul Flyers",
       "state": "OH",
       "division": "D7",
@@ -69537,7 +69661,7 @@
       "ppa": 6.659,
       "l1_pts": 6.66,
       "l2_pts": 6.66,
-      "rank": 531,
+      "rank": 532,
       "division_rank": 37,
       "sos_rank": 624,
       "contender_tier": "First-Round / Bubble",
@@ -69639,130 +69763,6 @@
           "result": "L",
           "team_score": 7,
           "opp_score": 34,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
-      "team": "Grandview Heights Bobcats",
-      "state": "OH",
-      "division": "D6",
-      "region": 23,
-      "conference": "OHSAA Region 23",
-      "city": "Columbus",
-      "wins": 4,
-      "losses": 6,
-      "ties": 0,
-      "games_played": 10,
-      "record": "4-6",
-      "power_index": 48.3,
-      "spi": 48.3,
-      "raw_rating": -1.72,
-      "sos_index": 55.4,
-      "sos_raw": 5.39,
-      "ppg_scored": 22.1,
-      "ppg_off": 22.1,
-      "ppg_allowed": 28.8,
-      "ppg_def": 28.8,
-      "net_margin": -6.7,
-      "harbin_avg": 5.75,
-      "pqs": 5.75,
-      "ppa": 5.75,
-      "l1_pts": 5.75,
-      "l2_pts": 5.75,
-      "rank": 532,
-      "division_rank": 72,
-      "sos_rank": 494,
-      "contender_tier": "Rebuilding",
-      "schedule_2026": [
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Linden McKinley Panthers",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 46,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 10, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Bexley Lions",
-          "result": "L",
-          "team_score": 3,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Centennial Stars",
-          "result": "W",
-          "team_score": 26,
-          "opp_score": 18,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Whetstone Braves",
-          "result": "W",
-          "team_score": 53,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Mifflin Punchers",
-          "result": "W",
-          "team_score": 57,
-          "opp_score": 12,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Northridge Vikings",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 49,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Fort Frye Cadets",
-          "result": "L",
-          "team_score": 23,
-          "opp_score": 54,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Worthington Christian Warriors",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 40,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Grove City Christian Eagles",
-          "result": "W",
-          "team_score": 21,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Valley Indians",
-          "result": "L",
-          "team_score": 3,
-          "opp_score": 41,
           "is_playoff": false
         }
       ]
@@ -73276,130 +73276,6 @@
       ]
     },
     {
-      "team": "Lutheran West Longhorns",
-      "state": "OH",
-      "division": "D3",
-      "region": 10,
-      "conference": "OHSAA Region 10",
-      "city": "Columbus",
-      "wins": 1,
-      "losses": 9,
-      "ties": 0,
-      "games_played": 10,
-      "record": "1-9",
-      "power_index": 45.7,
-      "spi": 45.7,
-      "raw_rating": -4.27,
-      "sos_index": 69.0,
-      "sos_raw": 19.03,
-      "ppg_scored": 8.6,
-      "ppg_off": 8.6,
-      "ppg_allowed": 37.5,
-      "ppg_def": 37.5,
-      "net_margin": -28.9,
-      "harbin_avg": 2.1157,
-      "pqs": 2.116,
-      "ppa": 2.116,
-      "l1_pts": 2.12,
-      "l2_pts": 2.12,
-      "rank": 561,
-      "division_rank": 97,
-      "sos_rank": 187,
-      "contender_tier": "Rebuilding",
-      "schedule_2026": [
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "South Rebels",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 47,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Hawken Hawks",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 36,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Benedictine Bengals",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 41,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Lakeside Dragons",
-          "result": "L",
-          "team_score": 13,
-          "opp_score": 27,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Harvey Red Raiders",
-          "result": "W",
-          "team_score": 16,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Chardon Hilltoppers",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 58,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Madison Blue Streaks",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 38,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 10, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Orange Lions",
-          "result": "L",
-          "team_score": 24,
-          "opp_score": 32,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "North Rangers",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 35,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Elyria Catholic Panthers",
-          "result": "L",
-          "team_score": 13,
-          "opp_score": 47,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
       "team": "Struthers Wildcats",
       "state": "OH",
       "division": "D4",
@@ -73426,7 +73302,7 @@
       "ppa": 0.0,
       "l1_pts": 0.0,
       "l2_pts": 0,
-      "rank": 562,
+      "rank": 561,
       "division_rank": 88,
       "sos_rank": 127,
       "contender_tier": "Rebuilding",
@@ -73519,6 +73395,130 @@
           "result": "L",
           "team_score": 12,
           "opp_score": 28,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "team": "Lutheran West Longhorns",
+      "state": "OH",
+      "division": "D3",
+      "region": 10,
+      "conference": "OHSAA Region 10",
+      "city": "Columbus",
+      "wins": 1,
+      "losses": 9,
+      "ties": 0,
+      "games_played": 10,
+      "record": "1-9",
+      "power_index": 45.7,
+      "spi": 45.7,
+      "raw_rating": -4.27,
+      "sos_index": 69.0,
+      "sos_raw": 19.03,
+      "ppg_scored": 8.6,
+      "ppg_off": 8.6,
+      "ppg_allowed": 37.5,
+      "ppg_def": 37.5,
+      "net_margin": -28.9,
+      "harbin_avg": 2.1157,
+      "pqs": 2.116,
+      "ppa": 2.116,
+      "l1_pts": 2.12,
+      "l2_pts": 2.12,
+      "rank": 562,
+      "division_rank": 97,
+      "sos_rank": 187,
+      "contender_tier": "Rebuilding",
+      "schedule_2026": [
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "South Rebels",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 47,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Hawken Hawks",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 36,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Benedictine Bengals",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 41,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Lakeside Dragons",
+          "result": "L",
+          "team_score": 13,
+          "opp_score": 27,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Harvey Red Raiders",
+          "result": "W",
+          "team_score": 16,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Chardon Hilltoppers",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 58,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Madison Blue Streaks",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 38,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 10, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Orange Lions",
+          "result": "L",
+          "team_score": 24,
+          "opp_score": 32,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "North Rangers",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 35,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Elyria Catholic Panthers",
+          "result": "L",
+          "team_score": 13,
+          "opp_score": 47,
           "is_playoff": false
         }
       ]
@@ -92561,139 +92561,6 @@
       ]
     },
     {
-      "team": "Whitmer Panthers",
-      "state": "OH",
-      "division": "D1",
-      "region": 2,
-      "conference": "OHSAA Region 2",
-      "city": "Columbus",
-      "wins": 9,
-      "losses": 2,
-      "ties": 0,
-      "games_played": 11,
-      "record": "9-2",
-      "power_index": 93.6,
-      "spi": 93.6,
-      "raw_rating": 43.61,
-      "sos_index": 76.3,
-      "sos_raw": 26.34,
-      "ppg_scored": 37.1,
-      "ppg_off": 37.1,
-      "ppg_allowed": 16.6,
-      "ppg_def": 16.6,
-      "net_margin": 20.5,
-      "harbin_avg": 33.9848,
-      "pqs": 33.985,
-      "ppa": 33.985,
-      "l1_pts": 33.98,
-      "l2_pts": 33.98,
-      "rank": 18,
-      "division_rank": 11,
-      "sos_rank": 72,
-      "contender_tier": "Finals Contender",
-      "schedule_2026": [
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Clay Eagles",
-          "result": "W",
-          "team_score": 56,
-          "opp_score": 35,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Fremont Ross Little Giants",
-          "result": "W",
-          "team_score": 49,
-          "opp_score": 2,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Findlay Trojans",
-          "result": "W",
-          "team_score": 45,
-          "opp_score": 24,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Springfield Blue Devils",
-          "result": "W",
-          "team_score": 57,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Anthony Wayne Generals",
-          "result": "W",
-          "team_score": 10,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Sylvania Southview Cougars",
-          "result": "W",
-          "team_score": 37,
-          "opp_score": 6,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Sylvania Northview Wildcats",
-          "result": "W",
-          "team_score": 56,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Reynoldsburg Raiders",
-          "result": "W",
-          "team_score": 42,
-          "opp_score": 23,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Detroit King (MI)",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 27,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Perrysburg Yellow Jackets",
-          "result": "W",
-          "team_score": 28,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Nov. 6, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Hilliard Darby Panthers",
-          "result": "L",
-          "team_score": 21,
-          "opp_score": 24,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
       "team": "Springfield Wildcats",
       "state": "OH",
       "division": "D1",
@@ -92720,8 +92587,8 @@
       "ppa": 29.078,
       "l1_pts": 29.08,
       "l2_pts": 29.08,
-      "rank": 19,
-      "division_rank": 12,
+      "rank": 18,
+      "division_rank": 11,
       "sos_rank": 19,
       "contender_tier": "Finals Contender",
       "schedule_2026": [
@@ -92822,6 +92689,139 @@
           "result": "W",
           "team_score": 38,
           "opp_score": 0,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "team": "Whitmer Panthers",
+      "state": "OH",
+      "division": "D1",
+      "region": 2,
+      "conference": "OHSAA Region 2",
+      "city": "Columbus",
+      "wins": 9,
+      "losses": 2,
+      "ties": 0,
+      "games_played": 11,
+      "record": "9-2",
+      "power_index": 93.6,
+      "spi": 93.6,
+      "raw_rating": 43.61,
+      "sos_index": 76.3,
+      "sos_raw": 26.34,
+      "ppg_scored": 37.1,
+      "ppg_off": 37.1,
+      "ppg_allowed": 16.6,
+      "ppg_def": 16.6,
+      "net_margin": 20.5,
+      "harbin_avg": 33.9848,
+      "pqs": 33.985,
+      "ppa": 33.985,
+      "l1_pts": 33.98,
+      "l2_pts": 33.98,
+      "rank": 19,
+      "division_rank": 12,
+      "sos_rank": 72,
+      "contender_tier": "Finals Contender",
+      "schedule_2026": [
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Clay Eagles",
+          "result": "W",
+          "team_score": 56,
+          "opp_score": 35,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Fremont Ross Little Giants",
+          "result": "W",
+          "team_score": 49,
+          "opp_score": 2,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Findlay Trojans",
+          "result": "W",
+          "team_score": 45,
+          "opp_score": 24,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Springfield Blue Devils",
+          "result": "W",
+          "team_score": 57,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Anthony Wayne Generals",
+          "result": "W",
+          "team_score": 10,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Sylvania Southview Cougars",
+          "result": "W",
+          "team_score": 37,
+          "opp_score": 6,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Sylvania Northview Wildcats",
+          "result": "W",
+          "team_score": 56,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Reynoldsburg Raiders",
+          "result": "W",
+          "team_score": 42,
+          "opp_score": 23,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Detroit King (MI)",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 27,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Perrysburg Yellow Jackets",
+          "result": "W",
+          "team_score": 28,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Nov. 6, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Hilliard Darby Panthers",
+          "result": "L",
+          "team_score": 21,
+          "opp_score": 24,
           "is_playoff": false
         }
       ]
@@ -102840,6 +102840,139 @@
       ]
     },
     {
+      "team": "Riverside Beavers",
+      "state": "OH",
+      "division": "D2",
+      "region": 5,
+      "conference": "OHSAA Region 5",
+      "city": "Columbus",
+      "wins": 7,
+      "losses": 4,
+      "ties": 0,
+      "games_played": 11,
+      "record": "7-4",
+      "power_index": 81.2,
+      "spi": 81.2,
+      "raw_rating": 31.25,
+      "sos_index": 75.4,
+      "sos_raw": 25.44,
+      "ppg_scored": 31.2,
+      "ppg_off": 31.2,
+      "ppg_allowed": 23.6,
+      "ppg_def": 23.6,
+      "net_margin": 7.6,
+      "harbin_avg": 21.4707,
+      "pqs": 21.471,
+      "ppa": 21.471,
+      "l1_pts": 21.47,
+      "l2_pts": 21.47,
+      "rank": 94,
+      "division_rank": 27,
+      "sos_rank": 84,
+      "contender_tier": "Semifinal Contender",
+      "schedule_2026": [
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Aurora Greenmen",
+          "result": "W",
+          "team_score": 40,
+          "opp_score": 13,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Steubenville Big Red",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 35,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Austintown-Fitch Falcons",
+          "result": "L",
+          "team_score": 10,
+          "opp_score": 42,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 10, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Shaker Heights Red Raiders",
+          "result": "W",
+          "team_score": 33,
+          "opp_score": 3,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Mentor Cardinals",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 35,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Strongsville Mustangs",
+          "result": "W",
+          "team_score": 48,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Cleveland Heights Tigers",
+          "result": "W",
+          "team_score": 21,
+          "opp_score": 18,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Brunswick Blue Devils",
+          "result": "W",
+          "team_score": 50,
+          "opp_score": 31,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Euclid Panthers",
+          "result": "W",
+          "team_score": 34,
+          "opp_score": 13,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Lorain Titans",
+          "result": "W",
+          "team_score": 63,
+          "opp_score": 28,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 30, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Brecksville Bees",
+          "result": "L",
+          "team_score": 16,
+          "opp_score": 28,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
       "team": "Jackson Ironmen",
       "state": "OH",
       "division": "D3",
@@ -102866,7 +102999,7 @@
       "ppa": 17.4,
       "l1_pts": 17.4,
       "l2_pts": 17.4,
-      "rank": 94,
+      "rank": 95,
       "division_rank": 15,
       "sos_rank": 160,
       "contender_tier": "Semifinal Contender",
@@ -102977,139 +103110,6 @@
           "result": "W",
           "team_score": 48,
           "opp_score": 7,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
-      "team": "Riverside Beavers",
-      "state": "OH",
-      "division": "D2",
-      "region": 5,
-      "conference": "OHSAA Region 5",
-      "city": "Columbus",
-      "wins": 7,
-      "losses": 4,
-      "ties": 0,
-      "games_played": 11,
-      "record": "7-4",
-      "power_index": 81.2,
-      "spi": 81.2,
-      "raw_rating": 31.25,
-      "sos_index": 75.4,
-      "sos_raw": 25.44,
-      "ppg_scored": 31.2,
-      "ppg_off": 31.2,
-      "ppg_allowed": 23.6,
-      "ppg_def": 23.6,
-      "net_margin": 7.6,
-      "harbin_avg": 21.4707,
-      "pqs": 21.471,
-      "ppa": 21.471,
-      "l1_pts": 21.47,
-      "l2_pts": 21.47,
-      "rank": 95,
-      "division_rank": 27,
-      "sos_rank": 84,
-      "contender_tier": "Semifinal Contender",
-      "schedule_2026": [
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Aurora Greenmen",
-          "result": "W",
-          "team_score": 40,
-          "opp_score": 13,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Steubenville Big Red",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 35,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Austintown-Fitch Falcons",
-          "result": "L",
-          "team_score": 10,
-          "opp_score": 42,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 10, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Shaker Heights Red Raiders",
-          "result": "W",
-          "team_score": 33,
-          "opp_score": 3,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Mentor Cardinals",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 35,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Strongsville Mustangs",
-          "result": "W",
-          "team_score": 48,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Cleveland Heights Tigers",
-          "result": "W",
-          "team_score": 21,
-          "opp_score": 18,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Brunswick Blue Devils",
-          "result": "W",
-          "team_score": 50,
-          "opp_score": 31,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Euclid Panthers",
-          "result": "W",
-          "team_score": 34,
-          "opp_score": 13,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Lorain Titans",
-          "result": "W",
-          "team_score": 63,
-          "opp_score": 28,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 30, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Brecksville Bees",
-          "result": "L",
-          "team_score": 16,
-          "opp_score": 28,
           "is_playoff": false
         }
       ]
@@ -115991,139 +115991,6 @@
       ]
     },
     {
-      "team": "Liberty Leopards",
-      "state": "OH",
-      "division": "D5",
-      "region": 17,
-      "conference": "OHSAA Region 17",
-      "city": "Columbus",
-      "wins": 9,
-      "losses": 2,
-      "ties": 0,
-      "games_played": 11,
-      "record": "9-2",
-      "power_index": 74.3,
-      "spi": 74.3,
-      "raw_rating": 24.3,
-      "sos_index": 55.0,
-      "sos_raw": 4.95,
-      "ppg_scored": 32.5,
-      "ppg_off": 32.5,
-      "ppg_allowed": 8.6,
-      "ppg_def": 8.6,
-      "net_margin": 23.9,
-      "harbin_avg": 18.15,
-      "pqs": 18.15,
-      "ppa": 18.15,
-      "l1_pts": 18.15,
-      "l2_pts": 18.15,
-      "rank": 192,
-      "division_rank": 17,
-      "sos_rank": 506,
-      "contender_tier": "Semifinal Contender",
-      "schedule_2026": [
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Niles McKinley Red Dragons",
-          "result": "W",
-          "team_score": 34,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Boardman Spartans",
-          "result": "W",
-          "team_score": 27,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Garrettsville Garfield G-Men",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 43,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 20, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Campbell Memorial Red Devils",
-          "result": "W",
-          "team_score": 45,
-          "opp_score": 2,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Crestview Rebels",
-          "result": "W",
-          "team_score": 37,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Brookfield Warriors",
-          "result": "W",
-          "team_score": 28,
-          "opp_score": 8,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Newton Falls Tigers",
-          "result": "W",
-          "team_score": 56,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "LaBrae Vikings",
-          "result": "W",
-          "team_score": 35,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Champion Golden Flashes",
-          "result": "W",
-          "team_score": 41,
-          "opp_score": 6,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Southeast Pirates",
-          "result": "W",
-          "team_score": 41,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 30, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Canton Central Catholic Crusaders",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 1,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
       "team": "Heath Bulldogs",
       "state": "OH",
       "division": "D4",
@@ -116150,7 +116017,7 @@
       "ppa": 15.95,
       "l1_pts": 15.95,
       "l2_pts": 15.95,
-      "rank": 193,
+      "rank": 192,
       "division_rank": 30,
       "sos_rank": 321,
       "contender_tier": "Semifinal Contender",
@@ -116261,6 +116128,139 @@
           "result": "W",
           "team_score": 58,
           "opp_score": 0,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "team": "Liberty Leopards",
+      "state": "OH",
+      "division": "D5",
+      "region": 17,
+      "conference": "OHSAA Region 17",
+      "city": "Columbus",
+      "wins": 9,
+      "losses": 2,
+      "ties": 0,
+      "games_played": 11,
+      "record": "9-2",
+      "power_index": 74.3,
+      "spi": 74.3,
+      "raw_rating": 24.3,
+      "sos_index": 55.0,
+      "sos_raw": 4.95,
+      "ppg_scored": 32.5,
+      "ppg_off": 32.5,
+      "ppg_allowed": 8.6,
+      "ppg_def": 8.6,
+      "net_margin": 23.9,
+      "harbin_avg": 18.15,
+      "pqs": 18.15,
+      "ppa": 18.15,
+      "l1_pts": 18.15,
+      "l2_pts": 18.15,
+      "rank": 193,
+      "division_rank": 17,
+      "sos_rank": 506,
+      "contender_tier": "Semifinal Contender",
+      "schedule_2026": [
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Niles McKinley Red Dragons",
+          "result": "W",
+          "team_score": 34,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Boardman Spartans",
+          "result": "W",
+          "team_score": 27,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Garrettsville Garfield G-Men",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 43,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 20, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Campbell Memorial Red Devils",
+          "result": "W",
+          "team_score": 45,
+          "opp_score": 2,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Crestview Rebels",
+          "result": "W",
+          "team_score": 37,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Brookfield Warriors",
+          "result": "W",
+          "team_score": 28,
+          "opp_score": 8,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Newton Falls Tigers",
+          "result": "W",
+          "team_score": 56,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "LaBrae Vikings",
+          "result": "W",
+          "team_score": 35,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Champion Golden Flashes",
+          "result": "W",
+          "team_score": 41,
+          "opp_score": 6,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Southeast Pirates",
+          "result": "W",
+          "team_score": 41,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 30, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Canton Central Catholic Crusaders",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 1,
           "is_playoff": false
         }
       ]
@@ -124857,139 +124857,6 @@
       ]
     },
     {
-      "team": "Brunswick Blue Devils",
-      "state": "OH",
-      "division": "D1",
-      "region": 1,
-      "conference": "OHSAA Region 1",
-      "city": "Columbus",
-      "wins": 6,
-      "losses": 5,
-      "ties": 0,
-      "games_played": 11,
-      "record": "6-5",
-      "power_index": 68.8,
-      "spi": 68.8,
-      "raw_rating": 18.77,
-      "sos_index": 75.1,
-      "sos_raw": 25.14,
-      "ppg_scored": 27.5,
-      "ppg_off": 27.5,
-      "ppg_allowed": 36.2,
-      "ppg_def": 36.2,
-      "net_margin": -8.7,
-      "harbin_avg": 14.35,
-      "pqs": 14.35,
-      "ppa": 14.35,
-      "l1_pts": 14.35,
-      "l2_pts": 14.35,
-      "rank": 259,
-      "division_rank": 59,
-      "sos_rank": 88,
-      "contender_tier": "Regional Contender",
-      "schedule_2026": [
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Riverside Beavers",
-          "result": "L",
-          "team_score": 31,
-          "opp_score": 50,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Shaker Heights Red Raiders",
-          "result": "W",
-          "team_score": 31,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Olmsted Falls Bulldogs",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 42,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Mentor Cardinals",
-          "result": "L",
-          "team_score": 18,
-          "opp_score": 63,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Strongsville Mustangs",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 52,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 30, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Canton McKinley Bulldogs",
-          "result": "L",
-          "team_score": 28,
-          "opp_score": 62,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Berea-Midpark Titans",
-          "result": "W",
-          "team_score": 47,
-          "opp_score": 42,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Medina Battling Bees",
-          "result": "W",
-          "team_score": 44,
-          "opp_score": 36,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Lorain Titans",
-          "result": "W",
-          "team_score": 53,
-          "opp_score": 19,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Euclid Panthers",
-          "result": "W",
-          "team_score": 15,
-          "opp_score": 6,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Cleveland Heights Tigers",
-          "result": "W",
-          "team_score": 14,
-          "opp_score": 12,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
       "team": "Mineral Ridge Rams",
       "state": "OH",
       "division": "D6",
@@ -125016,7 +124883,7 @@
       "ppa": 17.491,
       "l1_pts": 17.49,
       "l2_pts": 17.49,
-      "rank": 260,
+      "rank": 259,
       "division_rank": 22,
       "sos_rank": 536,
       "contender_tier": "Regional Contender",
@@ -125127,6 +124994,139 @@
           "result": "W",
           "team_score": 59,
           "opp_score": 14,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "team": "Brunswick Blue Devils",
+      "state": "OH",
+      "division": "D1",
+      "region": 1,
+      "conference": "OHSAA Region 1",
+      "city": "Columbus",
+      "wins": 6,
+      "losses": 5,
+      "ties": 0,
+      "games_played": 11,
+      "record": "6-5",
+      "power_index": 68.8,
+      "spi": 68.8,
+      "raw_rating": 18.77,
+      "sos_index": 75.1,
+      "sos_raw": 25.14,
+      "ppg_scored": 27.5,
+      "ppg_off": 27.5,
+      "ppg_allowed": 36.2,
+      "ppg_def": 36.2,
+      "net_margin": -8.7,
+      "harbin_avg": 14.35,
+      "pqs": 14.35,
+      "ppa": 14.35,
+      "l1_pts": 14.35,
+      "l2_pts": 14.35,
+      "rank": 260,
+      "division_rank": 59,
+      "sos_rank": 88,
+      "contender_tier": "Regional Contender",
+      "schedule_2026": [
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Riverside Beavers",
+          "result": "L",
+          "team_score": 31,
+          "opp_score": 50,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Shaker Heights Red Raiders",
+          "result": "W",
+          "team_score": 31,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Olmsted Falls Bulldogs",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 42,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Mentor Cardinals",
+          "result": "L",
+          "team_score": 18,
+          "opp_score": 63,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Strongsville Mustangs",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 52,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 30, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Canton McKinley Bulldogs",
+          "result": "L",
+          "team_score": 28,
+          "opp_score": 62,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Berea-Midpark Titans",
+          "result": "W",
+          "team_score": 47,
+          "opp_score": 42,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Medina Battling Bees",
+          "result": "W",
+          "team_score": 44,
+          "opp_score": 36,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Lorain Titans",
+          "result": "W",
+          "team_score": 53,
+          "opp_score": 19,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Euclid Panthers",
+          "result": "W",
+          "team_score": 15,
+          "opp_score": 6,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Cleveland Heights Tigers",
+          "result": "W",
+          "team_score": 14,
+          "opp_score": 12,
           "is_playoff": false
         }
       ]
@@ -139314,139 +139314,6 @@
       ]
     },
     {
-      "team": "Toronto Red Knights",
-      "state": "OH",
-      "division": "D7",
-      "region": 27,
-      "conference": "OHSAA Region 27",
-      "city": "Columbus",
-      "wins": 10,
-      "losses": 1,
-      "ties": 0,
-      "games_played": 11,
-      "record": "10-1",
-      "power_index": 60.6,
-      "spi": 60.6,
-      "raw_rating": 10.56,
-      "sos_index": 53.9,
-      "sos_raw": 3.89,
-      "ppg_scored": 26.1,
-      "ppg_off": 26.1,
-      "ppg_allowed": 16.2,
-      "ppg_def": 16.2,
-      "net_margin": 9.9,
-      "harbin_avg": 19.6294,
-      "pqs": 19.629,
-      "ppa": 19.629,
-      "l1_pts": 19.63,
-      "l2_pts": 19.63,
-      "rank": 370,
-      "division_rank": 18,
-      "sos_rank": 520,
-      "contender_tier": "Regional Contender",
-      "schedule_2026": [
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Catholic Central Crusaders",
-          "result": "W",
-          "team_score": 33,
-          "opp_score": 6,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Southern Indians",
-          "result": "W",
-          "team_score": 33,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Newcomerstown Trojans",
-          "result": "W",
-          "team_score": 27,
-          "opp_score": 20,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Brookfield Warriors",
-          "result": "W",
-          "team_score": 7,
-          "opp_score": 6,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Oak Glen (WV)",
-          "result": "W",
-          "team_score": 28,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Edison Wildcats",
-          "result": "W",
-          "team_score": 40,
-          "opp_score": 25,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Tuslaw Mustangs",
-          "result": "W",
-          "team_score": 29,
-          "opp_score": 28,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Monroe Central Seminoles",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 39,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Buckeye Local Panthers",
-          "result": "W",
-          "team_score": 42,
-          "opp_score": 13,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Cameron (WV)",
-          "result": "W",
-          "team_score": 28,
-          "opp_score": 21,
-          "is_playoff": false
-        },
-        {
-          "date": "Nov. 6, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Strasburg Tigers",
-          "result": "W",
-          "team_score": 20,
-          "opp_score": 13,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
       "team": "Maumee Panthers",
       "state": "OH",
       "division": "D3",
@@ -139473,7 +139340,7 @@
       "ppa": 10.9,
       "l1_pts": 10.9,
       "l2_pts": 10.9,
-      "rank": 371,
+      "rank": 370,
       "division_rank": 70,
       "sos_rank": 371,
       "contender_tier": "Rebuilding",
@@ -139575,6 +139442,139 @@
           "result": "L",
           "team_score": 7,
           "opp_score": 29,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "team": "Toronto Red Knights",
+      "state": "OH",
+      "division": "D7",
+      "region": 27,
+      "conference": "OHSAA Region 27",
+      "city": "Columbus",
+      "wins": 10,
+      "losses": 1,
+      "ties": 0,
+      "games_played": 11,
+      "record": "10-1",
+      "power_index": 60.6,
+      "spi": 60.6,
+      "raw_rating": 10.56,
+      "sos_index": 53.9,
+      "sos_raw": 3.89,
+      "ppg_scored": 26.1,
+      "ppg_off": 26.1,
+      "ppg_allowed": 16.2,
+      "ppg_def": 16.2,
+      "net_margin": 9.9,
+      "harbin_avg": 19.6294,
+      "pqs": 19.629,
+      "ppa": 19.629,
+      "l1_pts": 19.63,
+      "l2_pts": 19.63,
+      "rank": 371,
+      "division_rank": 18,
+      "sos_rank": 520,
+      "contender_tier": "Regional Contender",
+      "schedule_2026": [
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Catholic Central Crusaders",
+          "result": "W",
+          "team_score": 33,
+          "opp_score": 6,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Southern Indians",
+          "result": "W",
+          "team_score": 33,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Newcomerstown Trojans",
+          "result": "W",
+          "team_score": 27,
+          "opp_score": 20,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Brookfield Warriors",
+          "result": "W",
+          "team_score": 7,
+          "opp_score": 6,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Oak Glen (WV)",
+          "result": "W",
+          "team_score": 28,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Edison Wildcats",
+          "result": "W",
+          "team_score": 40,
+          "opp_score": 25,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Tuslaw Mustangs",
+          "result": "W",
+          "team_score": 29,
+          "opp_score": 28,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Monroe Central Seminoles",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 39,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Buckeye Local Panthers",
+          "result": "W",
+          "team_score": 42,
+          "opp_score": 13,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Cameron (WV)",
+          "result": "W",
+          "team_score": 28,
+          "opp_score": 21,
+          "is_playoff": false
+        },
+        {
+          "date": "Nov. 6, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Strasburg Tigers",
+          "result": "W",
+          "team_score": 20,
+          "opp_score": 13,
           "is_playoff": false
         }
       ]
@@ -142008,139 +142008,6 @@
       ]
     },
     {
-      "team": "Rossford Bulldogs",
-      "state": "OH",
-      "division": "D4",
-      "region": 14,
-      "conference": "OHSAA Region 14",
-      "city": "Columbus",
-      "wins": 5,
-      "losses": 6,
-      "ties": 0,
-      "games_played": 11,
-      "record": "5-6",
-      "power_index": 58.9,
-      "spi": 58.9,
-      "raw_rating": 8.9,
-      "sos_index": 58.7,
-      "sos_raw": 8.67,
-      "ppg_scored": 30.1,
-      "ppg_off": 30.1,
-      "ppg_allowed": 30.6,
-      "ppg_def": 30.6,
-      "net_margin": -0.5,
-      "harbin_avg": 9.65,
-      "pqs": 9.65,
-      "ppa": 9.65,
-      "l1_pts": 9.65,
-      "l2_pts": 9.65,
-      "rank": 391,
-      "division_rank": 62,
-      "sos_rank": 433,
-      "contender_tier": "Rebuilding",
-      "schedule_2026": [
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Waite Indians",
-          "result": "L",
-          "team_score": 21,
-          "opp_score": 28,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Rogers Rams",
-          "result": "W",
-          "team_score": 35,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Maumee Panthers",
-          "result": "W",
-          "team_score": 33,
-          "opp_score": 21,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Otsego Knights",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 41,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 30, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Firelands Falcons",
-          "result": "L",
-          "team_score": 30,
-          "opp_score": 34,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Northwood Rangers",
-          "result": "L",
-          "team_score": 24,
-          "opp_score": 27,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Eastwood Eagles",
-          "result": "L",
-          "team_score": 34,
-          "opp_score": 42,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Lake Flyers",
-          "result": "W",
-          "team_score": 57,
-          "opp_score": 56,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Genoa Area Comets",
-          "result": "L",
-          "team_score": 13,
-          "opp_score": 55,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Fostoria Redmen",
-          "result": "W",
-          "team_score": 49,
-          "opp_score": 13,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Oak Harbor Rockets",
-          "result": "W",
-          "team_score": 21,
-          "opp_score": 6,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
       "team": "Upper Sandusky Rams",
       "state": "OH",
       "division": "D4",
@@ -142167,8 +142034,8 @@
       "ppa": 10.45,
       "l1_pts": 10.45,
       "l2_pts": 10.45,
-      "rank": 392,
-      "division_rank": 63,
+      "rank": 391,
+      "division_rank": 62,
       "sos_rank": 528,
       "contender_tier": "Rebuilding",
       "schedule_2026": [
@@ -142269,6 +142136,139 @@
           "result": "W",
           "team_score": 14,
           "opp_score": 7,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "team": "Rossford Bulldogs",
+      "state": "OH",
+      "division": "D4",
+      "region": 14,
+      "conference": "OHSAA Region 14",
+      "city": "Columbus",
+      "wins": 5,
+      "losses": 6,
+      "ties": 0,
+      "games_played": 11,
+      "record": "5-6",
+      "power_index": 58.9,
+      "spi": 58.9,
+      "raw_rating": 8.9,
+      "sos_index": 58.7,
+      "sos_raw": 8.67,
+      "ppg_scored": 30.1,
+      "ppg_off": 30.1,
+      "ppg_allowed": 30.6,
+      "ppg_def": 30.6,
+      "net_margin": -0.5,
+      "harbin_avg": 9.65,
+      "pqs": 9.65,
+      "ppa": 9.65,
+      "l1_pts": 9.65,
+      "l2_pts": 9.65,
+      "rank": 392,
+      "division_rank": 63,
+      "sos_rank": 433,
+      "contender_tier": "Rebuilding",
+      "schedule_2026": [
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Waite Indians",
+          "result": "L",
+          "team_score": 21,
+          "opp_score": 28,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Rogers Rams",
+          "result": "W",
+          "team_score": 35,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Maumee Panthers",
+          "result": "W",
+          "team_score": 33,
+          "opp_score": 21,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Otsego Knights",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 41,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 30, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Firelands Falcons",
+          "result": "L",
+          "team_score": 30,
+          "opp_score": 34,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Northwood Rangers",
+          "result": "L",
+          "team_score": 24,
+          "opp_score": 27,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Eastwood Eagles",
+          "result": "L",
+          "team_score": 34,
+          "opp_score": 42,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Lake Flyers",
+          "result": "W",
+          "team_score": 57,
+          "opp_score": 56,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Genoa Area Comets",
+          "result": "L",
+          "team_score": 13,
+          "opp_score": 55,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Fostoria Redmen",
+          "result": "W",
+          "team_score": 49,
+          "opp_score": 13,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Oak Harbor Rockets",
+          "result": "W",
+          "team_score": 21,
+          "opp_score": 6,
           "is_playoff": false
         }
       ]
@@ -146564,130 +146564,6 @@
       ]
     },
     {
-      "team": "Warrensville Heights Tigers",
-      "state": "OH",
-      "division": "D4",
-      "region": 13,
-      "conference": "OHSAA Region 13",
-      "city": "Columbus",
-      "wins": 4,
-      "losses": 6,
-      "ties": 0,
-      "games_played": 10,
-      "record": "4-6",
-      "power_index": 56.2,
-      "spi": 56.2,
-      "raw_rating": 6.23,
-      "sos_index": 59.3,
-      "sos_raw": 9.31,
-      "ppg_scored": 18.8,
-      "ppg_off": 18.8,
-      "ppg_allowed": 22.4,
-      "ppg_def": 22.4,
-      "net_margin": -3.6,
-      "harbin_avg": 6.0904,
-      "pqs": 6.09,
-      "ppa": 6.09,
-      "l1_pts": 6.09,
-      "l2_pts": 6.09,
-      "rank": 426,
-      "division_rank": 69,
-      "sos_rank": 412,
-      "contender_tier": "Rebuilding",
-      "schedule_2026": [
-        {
-          "date": "Oct. 8, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Garfield Heights Bulldogs",
-          "result": "L",
-          "team_score": 19,
-          "opp_score": 44,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Maple Heights Mustangs",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 48,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Bedford Bearcats",
-          "result": "W",
-          "team_score": 24,
-          "opp_score": 18,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 12, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Cleveland Central Catholic Ironmen",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Lutheran East Falcons",
-          "result": "L",
-          "team_score": 16,
-          "opp_score": 26,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Marlington Dukes",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 31,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 29, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "John F Kennedy Fighting Eagles",
-          "result": "W",
-          "team_score": 57,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Westlake Demons",
-          "result": "W",
-          "team_score": 24,
-          "opp_score": 8,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Brush Arcs",
-          "result": "L",
-          "team_score": 21,
-          "opp_score": 35,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Richmond Heights Spartans",
-          "result": "W",
-          "team_score": 14,
-          "opp_score": 0,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
       "team": "Lakota Raiders",
       "state": "OH",
       "division": "D6",
@@ -146714,7 +146590,7 @@
       "ppa": 8.011,
       "l1_pts": 8.01,
       "l2_pts": 8.01,
-      "rank": 427,
+      "rank": 426,
       "division_rank": 51,
       "sos_rank": 616,
       "contender_tier": "Rebuilding",
@@ -146807,6 +146683,130 @@
           "result": "W",
           "team_score": 34,
           "opp_score": 15,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "team": "Warrensville Heights Tigers",
+      "state": "OH",
+      "division": "D4",
+      "region": 13,
+      "conference": "OHSAA Region 13",
+      "city": "Columbus",
+      "wins": 4,
+      "losses": 6,
+      "ties": 0,
+      "games_played": 10,
+      "record": "4-6",
+      "power_index": 56.2,
+      "spi": 56.2,
+      "raw_rating": 6.23,
+      "sos_index": 59.3,
+      "sos_raw": 9.31,
+      "ppg_scored": 18.8,
+      "ppg_off": 18.8,
+      "ppg_allowed": 22.4,
+      "ppg_def": 22.4,
+      "net_margin": -3.6,
+      "harbin_avg": 6.0904,
+      "pqs": 6.09,
+      "ppa": 6.09,
+      "l1_pts": 6.09,
+      "l2_pts": 6.09,
+      "rank": 427,
+      "division_rank": 69,
+      "sos_rank": 412,
+      "contender_tier": "Rebuilding",
+      "schedule_2026": [
+        {
+          "date": "Oct. 8, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Garfield Heights Bulldogs",
+          "result": "L",
+          "team_score": 19,
+          "opp_score": 44,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Maple Heights Mustangs",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 48,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Bedford Bearcats",
+          "result": "W",
+          "team_score": 24,
+          "opp_score": 18,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 12, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Cleveland Central Catholic Ironmen",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Lutheran East Falcons",
+          "result": "L",
+          "team_score": 16,
+          "opp_score": 26,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Marlington Dukes",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 31,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 29, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "John F Kennedy Fighting Eagles",
+          "result": "W",
+          "team_score": 57,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Westlake Demons",
+          "result": "W",
+          "team_score": 24,
+          "opp_score": 8,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Brush Arcs",
+          "result": "L",
+          "team_score": 21,
+          "opp_score": 35,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Richmond Heights Spartans",
+          "result": "W",
+          "team_score": 14,
+          "opp_score": 0,
           "is_playoff": false
         }
       ]
@@ -152969,130 +152969,6 @@
       ]
     },
     {
-      "team": "John Hay Hornets",
-      "state": "OH",
-      "division": "D2",
-      "region": 5,
-      "conference": "OHSAA Region 5",
-      "city": "Columbus",
-      "wins": 3,
-      "losses": 7,
-      "ties": 0,
-      "games_played": 10,
-      "record": "3-7",
-      "power_index": 52.7,
-      "spi": 52.7,
-      "raw_rating": 2.7,
-      "sos_index": 58.8,
-      "sos_raw": 8.83,
-      "ppg_scored": 15.0,
-      "ppg_off": 15.0,
-      "ppg_allowed": 26.0,
-      "ppg_def": 26.0,
-      "net_margin": -11.0,
-      "harbin_avg": 3.7917,
-      "pqs": 3.792,
-      "ppa": 3.792,
-      "l1_pts": 3.79,
-      "l2_pts": 3.79,
-      "rank": 477,
-      "division_rank": 85,
-      "sos_rank": 429,
-      "contender_tier": "Rebuilding",
-      "schedule_2026": [
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "University School Preppers",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 33,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Gilmour Academy Lancers",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 40,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Glenville Tarblooders",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 46,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Cleveland Central Catholic Ironmen",
-          "result": "L",
-          "team_score": 18,
-          "opp_score": 49,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "John F Kennedy Fighting Eagles",
-          "result": "W",
-          "team_score": 35,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Orange Lions",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 26,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Scott Bulldogs",
-          "result": "W",
-          "team_score": 35,
-          "opp_score": 22,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "East Technical Scarabs",
-          "result": "W",
-          "team_score": 44,
-          "opp_score": 12,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 8, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Rhodes Rams",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 16,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "John Adams Rebels",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 16,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
       "team": "Valley Forge Patriots",
       "state": "OH",
       "division": "D2",
@@ -153119,8 +152995,8 @@
       "ppa": 2.3,
       "l1_pts": 2.3,
       "l2_pts": 2.3,
-      "rank": 478,
-      "division_rank": 86,
+      "rank": 477,
+      "division_rank": 85,
       "sos_rank": 265,
       "contender_tier": "Rebuilding",
       "schedule_2026": [
@@ -153212,6 +153088,130 @@
           "result": "L",
           "team_score": 13,
           "opp_score": 25,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "team": "John Hay Hornets",
+      "state": "OH",
+      "division": "D2",
+      "region": 5,
+      "conference": "OHSAA Region 5",
+      "city": "Columbus",
+      "wins": 3,
+      "losses": 7,
+      "ties": 0,
+      "games_played": 10,
+      "record": "3-7",
+      "power_index": 52.7,
+      "spi": 52.7,
+      "raw_rating": 2.7,
+      "sos_index": 58.8,
+      "sos_raw": 8.83,
+      "ppg_scored": 15.0,
+      "ppg_off": 15.0,
+      "ppg_allowed": 26.0,
+      "ppg_def": 26.0,
+      "net_margin": -11.0,
+      "harbin_avg": 3.7917,
+      "pqs": 3.792,
+      "ppa": 3.792,
+      "l1_pts": 3.79,
+      "l2_pts": 3.79,
+      "rank": 478,
+      "division_rank": 86,
+      "sos_rank": 429,
+      "contender_tier": "Rebuilding",
+      "schedule_2026": [
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "University School Preppers",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 33,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Gilmour Academy Lancers",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 40,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Glenville Tarblooders",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 46,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Cleveland Central Catholic Ironmen",
+          "result": "L",
+          "team_score": 18,
+          "opp_score": 49,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "John F Kennedy Fighting Eagles",
+          "result": "W",
+          "team_score": 35,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Orange Lions",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 26,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Scott Bulldogs",
+          "result": "W",
+          "team_score": 35,
+          "opp_score": 22,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "East Technical Scarabs",
+          "result": "W",
+          "team_score": 44,
+          "opp_score": 12,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 8, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Rhodes Rams",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 16,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "John Adams Rebels",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 16,
           "is_playoff": false
         }
       ]
@@ -156283,130 +156283,6 @@
       ]
     },
     {
-      "team": "Lake Flyers",
-      "state": "OH",
-      "division": "D4",
-      "region": 14,
-      "conference": "OHSAA Region 14",
-      "city": "Columbus",
-      "wins": 4,
-      "losses": 6,
-      "ties": 0,
-      "games_played": 10,
-      "record": "4-6",
-      "power_index": 50.9,
-      "spi": 50.9,
-      "raw_rating": 0.93,
-      "sos_index": 59.6,
-      "sos_raw": 9.58,
-      "ppg_scored": 26.0,
-      "ppg_off": 26.0,
-      "ppg_allowed": 37.0,
-      "ppg_def": 37.0,
-      "net_margin": -11.0,
-      "harbin_avg": 8.05,
-      "pqs": 8.05,
-      "ppa": 8.05,
-      "l1_pts": 8.05,
-      "l2_pts": 8.05,
-      "rank": 503,
-      "division_rank": 80,
-      "sos_rank": 401,
-      "contender_tier": "Rebuilding",
-      "schedule_2026": [
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Maumee Panthers",
-          "result": "L",
-          "team_score": 17,
-          "opp_score": 40,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Otsego Knights",
-          "result": "W",
-          "team_score": 35,
-          "opp_score": 33,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Rossford Bulldogs",
-          "result": "L",
-          "team_score": 56,
-          "opp_score": 57,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Hopewell-Loudon Chieftains",
-          "result": "L",
-          "team_score": 13,
-          "opp_score": 49,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Northwood Rangers",
-          "result": "W",
-          "team_score": 36,
-          "opp_score": 35,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Evergreen Vikings",
-          "result": "W",
-          "team_score": 26,
-          "opp_score": 8,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Fostoria Redmen",
-          "result": "W",
-          "team_score": 45,
-          "opp_score": 27,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Oak Harbor Rockets",
-          "result": "L",
-          "team_score": 12,
-          "opp_score": 44,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Eastwood Eagles",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 21,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Genoa Area Comets",
-          "result": "L",
-          "team_score": 20,
-          "opp_score": 56,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
       "team": "East Canton Hornets",
       "state": "OH",
       "division": "D7",
@@ -156433,7 +156309,7 @@
       "ppa": 11.9,
       "l1_pts": 11.9,
       "l2_pts": 11.9,
-      "rank": 504,
+      "rank": 503,
       "division_rank": 35,
       "sos_rank": 651,
       "contender_tier": "Dark Horse",
@@ -156535,6 +156411,130 @@
           "result": "L",
           "team_score": 20,
           "opp_score": 21,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "team": "Lake Flyers",
+      "state": "OH",
+      "division": "D4",
+      "region": 14,
+      "conference": "OHSAA Region 14",
+      "city": "Columbus",
+      "wins": 4,
+      "losses": 6,
+      "ties": 0,
+      "games_played": 10,
+      "record": "4-6",
+      "power_index": 50.9,
+      "spi": 50.9,
+      "raw_rating": 0.93,
+      "sos_index": 59.6,
+      "sos_raw": 9.58,
+      "ppg_scored": 26.0,
+      "ppg_off": 26.0,
+      "ppg_allowed": 37.0,
+      "ppg_def": 37.0,
+      "net_margin": -11.0,
+      "harbin_avg": 8.05,
+      "pqs": 8.05,
+      "ppa": 8.05,
+      "l1_pts": 8.05,
+      "l2_pts": 8.05,
+      "rank": 504,
+      "division_rank": 80,
+      "sos_rank": 401,
+      "contender_tier": "Rebuilding",
+      "schedule_2026": [
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Maumee Panthers",
+          "result": "L",
+          "team_score": 17,
+          "opp_score": 40,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Otsego Knights",
+          "result": "W",
+          "team_score": 35,
+          "opp_score": 33,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Rossford Bulldogs",
+          "result": "L",
+          "team_score": 56,
+          "opp_score": 57,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Hopewell-Loudon Chieftains",
+          "result": "L",
+          "team_score": 13,
+          "opp_score": 49,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Northwood Rangers",
+          "result": "W",
+          "team_score": 36,
+          "opp_score": 35,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Evergreen Vikings",
+          "result": "W",
+          "team_score": 26,
+          "opp_score": 8,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Fostoria Redmen",
+          "result": "W",
+          "team_score": 45,
+          "opp_score": 27,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Oak Harbor Rockets",
+          "result": "L",
+          "team_score": 12,
+          "opp_score": 44,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Eastwood Eagles",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 21,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Genoa Area Comets",
+          "result": "L",
+          "team_score": 20,
+          "opp_score": 56,
           "is_playoff": false
         }
       ]
@@ -159791,6 +159791,130 @@
       ]
     },
     {
+      "team": "Grandview Heights Bobcats",
+      "state": "OH",
+      "division": "D6",
+      "region": 23,
+      "conference": "OHSAA Region 23",
+      "city": "Columbus",
+      "wins": 4,
+      "losses": 6,
+      "ties": 0,
+      "games_played": 10,
+      "record": "4-6",
+      "power_index": 48.3,
+      "spi": 48.3,
+      "raw_rating": -1.72,
+      "sos_index": 55.4,
+      "sos_raw": 5.39,
+      "ppg_scored": 22.1,
+      "ppg_off": 22.1,
+      "ppg_allowed": 28.8,
+      "ppg_def": 28.8,
+      "net_margin": -6.7,
+      "harbin_avg": 5.75,
+      "pqs": 5.75,
+      "ppa": 5.75,
+      "l1_pts": 5.75,
+      "l2_pts": 5.75,
+      "rank": 531,
+      "division_rank": 72,
+      "sos_rank": 494,
+      "contender_tier": "Rebuilding",
+      "schedule_2026": [
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Linden McKinley Panthers",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 46,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 10, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Bexley Lions",
+          "result": "L",
+          "team_score": 3,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Centennial Stars",
+          "result": "W",
+          "team_score": 26,
+          "opp_score": 18,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Whetstone Braves",
+          "result": "W",
+          "team_score": 53,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Mifflin Punchers",
+          "result": "W",
+          "team_score": 57,
+          "opp_score": 12,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Northridge Vikings",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 49,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Fort Frye Cadets",
+          "result": "L",
+          "team_score": 23,
+          "opp_score": 54,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Worthington Christian Warriors",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 40,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Grove City Christian Eagles",
+          "result": "W",
+          "team_score": 21,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Valley Indians",
+          "result": "L",
+          "team_score": 3,
+          "opp_score": 41,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
       "team": "St Paul Flyers",
       "state": "OH",
       "division": "D7",
@@ -159817,7 +159941,7 @@
       "ppa": 6.659,
       "l1_pts": 6.66,
       "l2_pts": 6.66,
-      "rank": 531,
+      "rank": 532,
       "division_rank": 37,
       "sos_rank": 624,
       "contender_tier": "First-Round / Bubble",
@@ -159919,130 +160043,6 @@
           "result": "L",
           "team_score": 7,
           "opp_score": 34,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
-      "team": "Grandview Heights Bobcats",
-      "state": "OH",
-      "division": "D6",
-      "region": 23,
-      "conference": "OHSAA Region 23",
-      "city": "Columbus",
-      "wins": 4,
-      "losses": 6,
-      "ties": 0,
-      "games_played": 10,
-      "record": "4-6",
-      "power_index": 48.3,
-      "spi": 48.3,
-      "raw_rating": -1.72,
-      "sos_index": 55.4,
-      "sos_raw": 5.39,
-      "ppg_scored": 22.1,
-      "ppg_off": 22.1,
-      "ppg_allowed": 28.8,
-      "ppg_def": 28.8,
-      "net_margin": -6.7,
-      "harbin_avg": 5.75,
-      "pqs": 5.75,
-      "ppa": 5.75,
-      "l1_pts": 5.75,
-      "l2_pts": 5.75,
-      "rank": 532,
-      "division_rank": 72,
-      "sos_rank": 494,
-      "contender_tier": "Rebuilding",
-      "schedule_2026": [
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Linden McKinley Panthers",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 46,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 10, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Bexley Lions",
-          "result": "L",
-          "team_score": 3,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Centennial Stars",
-          "result": "W",
-          "team_score": 26,
-          "opp_score": 18,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Whetstone Braves",
-          "result": "W",
-          "team_score": 53,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Mifflin Punchers",
-          "result": "W",
-          "team_score": 57,
-          "opp_score": 12,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Northridge Vikings",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 49,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Fort Frye Cadets",
-          "result": "L",
-          "team_score": 23,
-          "opp_score": 54,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Worthington Christian Warriors",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 40,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Grove City Christian Eagles",
-          "result": "W",
-          "team_score": 21,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Valley Indians",
-          "result": "L",
-          "team_score": 3,
-          "opp_score": 41,
           "is_playoff": false
         }
       ]
@@ -163556,130 +163556,6 @@
       ]
     },
     {
-      "team": "Lutheran West Longhorns",
-      "state": "OH",
-      "division": "D3",
-      "region": 10,
-      "conference": "OHSAA Region 10",
-      "city": "Columbus",
-      "wins": 1,
-      "losses": 9,
-      "ties": 0,
-      "games_played": 10,
-      "record": "1-9",
-      "power_index": 45.7,
-      "spi": 45.7,
-      "raw_rating": -4.27,
-      "sos_index": 69.0,
-      "sos_raw": 19.03,
-      "ppg_scored": 8.6,
-      "ppg_off": 8.6,
-      "ppg_allowed": 37.5,
-      "ppg_def": 37.5,
-      "net_margin": -28.9,
-      "harbin_avg": 2.1157,
-      "pqs": 2.116,
-      "ppa": 2.116,
-      "l1_pts": 2.12,
-      "l2_pts": 2.12,
-      "rank": 561,
-      "division_rank": 97,
-      "sos_rank": 187,
-      "contender_tier": "Rebuilding",
-      "schedule_2026": [
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "South Rebels",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 47,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Hawken Hawks",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 36,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Benedictine Bengals",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 41,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Lakeside Dragons",
-          "result": "L",
-          "team_score": 13,
-          "opp_score": 27,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Harvey Red Raiders",
-          "result": "W",
-          "team_score": 16,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Chardon Hilltoppers",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 58,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Madison Blue Streaks",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 38,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 10, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Orange Lions",
-          "result": "L",
-          "team_score": 24,
-          "opp_score": 32,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "North Rangers",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 35,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-09-15",
-          "opponent": "Elyria Catholic Panthers",
-          "result": "L",
-          "team_score": 13,
-          "opp_score": 47,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
       "team": "Struthers Wildcats",
       "state": "OH",
       "division": "D4",
@@ -163706,7 +163582,7 @@
       "ppa": 0.0,
       "l1_pts": 0.0,
       "l2_pts": 0,
-      "rank": 562,
+      "rank": 561,
       "division_rank": 88,
       "sos_rank": 127,
       "contender_tier": "Rebuilding",
@@ -163799,6 +163675,130 @@
           "result": "L",
           "team_score": 12,
           "opp_score": 28,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "team": "Lutheran West Longhorns",
+      "state": "OH",
+      "division": "D3",
+      "region": 10,
+      "conference": "OHSAA Region 10",
+      "city": "Columbus",
+      "wins": 1,
+      "losses": 9,
+      "ties": 0,
+      "games_played": 10,
+      "record": "1-9",
+      "power_index": 45.7,
+      "spi": 45.7,
+      "raw_rating": -4.27,
+      "sos_index": 69.0,
+      "sos_raw": 19.03,
+      "ppg_scored": 8.6,
+      "ppg_off": 8.6,
+      "ppg_allowed": 37.5,
+      "ppg_def": 37.5,
+      "net_margin": -28.9,
+      "harbin_avg": 2.1157,
+      "pqs": 2.116,
+      "ppa": 2.116,
+      "l1_pts": 2.12,
+      "l2_pts": 2.12,
+      "rank": 562,
+      "division_rank": 97,
+      "sos_rank": 187,
+      "contender_tier": "Rebuilding",
+      "schedule_2026": [
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "South Rebels",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 47,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Hawken Hawks",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 36,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Benedictine Bengals",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 41,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Lakeside Dragons",
+          "result": "L",
+          "team_score": 13,
+          "opp_score": 27,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Harvey Red Raiders",
+          "result": "W",
+          "team_score": 16,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Chardon Hilltoppers",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 58,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Madison Blue Streaks",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 38,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 10, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Orange Lions",
+          "result": "L",
+          "team_score": 24,
+          "opp_score": 32,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "North Rangers",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 35,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-09-15",
+          "opponent": "Elyria Catholic Panthers",
+          "result": "L",
+          "team_score": 13,
+          "opp_score": 47,
           "is_playoff": false
         }
       ]
@@ -191227,26 +191227,6 @@
         "Elite Scoring Defense: Allowing just 9.1 PPG. Attack perimeter space horizontally and prioritize special-teams hidden yardage."
       ]
     },
-    "whitmer panthers": {
-      "team": "Whitmer Panthers",
-      "state": "OH",
-      "division": "D1",
-      "region": 2,
-      "record": "9-2",
-      "games_played": 11,
-      "avg_points_scored": 37.1,
-      "avg_points_allowed": 16.6,
-      "season_net_margin": 20.5,
-      "last_3_game_margin": -3.0,
-      "momentum_trend": -23.5,
-      "close_game_record": "1-1",
-      "mercy_rule_wins": 4,
-      "verified_press_intel": [],
-      "keys_to_victory": [
-        "Explosive Separation Profile: Whitmer Panthers has triggered the 30-point OHSAA 2nd-half running clock 4 times.",
-        "Late-Season Margin Compression: Net differential dipped -23.5 PPG over the last 3 weeks against tougher fronts."
-      ]
-    },
     "springfield wildcats": {
       "team": "Springfield Wildcats",
       "state": "OH",
@@ -191266,6 +191246,26 @@
         "Explosive Separation Profile: Springfield Wildcats has triggered the 30-point OHSAA 2nd-half running clock 3 times.",
         "Peaking Entering Regional Play: Net margin has surged +14.2 PPG over the last 3 games (+30.0 PPG).",
         "Elite Scoring Defense: Allowing just 10.0 PPG. Attack perimeter space horizontally and prioritize special-teams hidden yardage."
+      ]
+    },
+    "whitmer panthers": {
+      "team": "Whitmer Panthers",
+      "state": "OH",
+      "division": "D1",
+      "region": 2,
+      "record": "9-2",
+      "games_played": 11,
+      "avg_points_scored": 37.1,
+      "avg_points_allowed": 16.6,
+      "season_net_margin": 20.5,
+      "last_3_game_margin": -3.0,
+      "momentum_trend": -23.5,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 4,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Explosive Separation Profile: Whitmer Panthers has triggered the 30-point OHSAA 2nd-half running clock 4 times.",
+        "Late-Season Margin Compression: Net differential dipped -23.5 PPG over the last 3 weeks against tougher fronts."
       ]
     },
     "winton woods warriors": {
@@ -192728,25 +192728,6 @@
         "Elite Scoring Defense: Allowing just 9.0 PPG. Attack perimeter space horizontally and prioritize special-teams hidden yardage."
       ]
     },
-    "jackson ironmen": {
-      "team": "Jackson Ironmen",
-      "state": "OH",
-      "division": "D3",
-      "region": 11,
-      "record": "8-4",
-      "games_played": 12,
-      "avg_points_scored": 32.6,
-      "avg_points_allowed": 18.8,
-      "season_net_margin": 13.8,
-      "last_3_game_margin": 10.0,
-      "momentum_trend": -3.8,
-      "close_game_record": "0-1",
-      "mercy_rule_wins": 4,
-      "verified_press_intel": [],
-      "keys_to_victory": [
-        "Explosive Separation Profile: Jackson Ironmen has triggered the 30-point OHSAA 2nd-half running clock 4 times."
-      ]
-    },
     "riverside beavers": {
       "team": "Riverside Beavers",
       "state": "OH",
@@ -192765,6 +192746,25 @@
       "keys_to_victory": [
         "Explosive Separation Profile: Riverside Beavers has triggered the 30-point OHSAA 2nd-half running clock 3 times.",
         "Peaking Entering Regional Play: Net margin has surged +7.1 PPG over the last 3 games (+14.7 PPG)."
+      ]
+    },
+    "jackson ironmen": {
+      "team": "Jackson Ironmen",
+      "state": "OH",
+      "division": "D3",
+      "region": 11,
+      "record": "8-4",
+      "games_played": 12,
+      "avg_points_scored": 32.6,
+      "avg_points_allowed": 18.8,
+      "season_net_margin": 13.8,
+      "last_3_game_margin": 10.0,
+      "momentum_trend": -3.8,
+      "close_game_record": "0-1",
+      "mercy_rule_wins": 4,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Explosive Separation Profile: Jackson Ironmen has triggered the 30-point OHSAA 2nd-half running clock 4 times."
       ]
     },
     "symmes valley vikings": {
@@ -194647,26 +194647,6 @@
         "Late-Season Margin Compression: Net differential dipped -12.5 PPG over the last 3 weeks against tougher fronts."
       ]
     },
-    "liberty leopards": {
-      "team": "Liberty Leopards",
-      "state": "OH",
-      "division": "D5",
-      "region": 17,
-      "record": "9-2",
-      "games_played": 11,
-      "avg_points_scored": 32.5,
-      "avg_points_allowed": 8.6,
-      "season_net_margin": 23.9,
-      "last_3_game_margin": 22.7,
-      "momentum_trend": -1.2,
-      "close_game_record": "0-1",
-      "mercy_rule_wins": 6,
-      "verified_press_intel": [],
-      "keys_to_victory": [
-        "Explosive Separation Profile: Liberty Leopards has triggered the 30-point OHSAA 2nd-half running clock 6 times.",
-        "Elite Scoring Defense: Allowing just 8.6 PPG. Attack perimeter space horizontally and prioritize special-teams hidden yardage."
-      ]
-    },
     "heath bulldogs": {
       "team": "Heath Bulldogs",
       "state": "OH",
@@ -194685,6 +194665,26 @@
       "keys_to_victory": [
         "Explosive Separation Profile: Heath Bulldogs has triggered the 30-point OHSAA 2nd-half running clock 5 times.",
         "Peaking Entering Regional Play: Net margin has surged +35.1 PPG over the last 3 games (+49.3 PPG)."
+      ]
+    },
+    "liberty leopards": {
+      "team": "Liberty Leopards",
+      "state": "OH",
+      "division": "D5",
+      "region": 17,
+      "record": "9-2",
+      "games_played": 11,
+      "avg_points_scored": 32.5,
+      "avg_points_allowed": 8.6,
+      "season_net_margin": 23.9,
+      "last_3_game_margin": 22.7,
+      "momentum_trend": -1.2,
+      "close_game_record": "0-1",
+      "mercy_rule_wins": 6,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Explosive Separation Profile: Liberty Leopards has triggered the 30-point OHSAA 2nd-half running clock 6 times.",
+        "Elite Scoring Defense: Allowing just 8.6 PPG. Attack perimeter space horizontally and prioritize special-teams hidden yardage."
       ]
     },
     "green bulldogs": {
@@ -195943,25 +195943,6 @@
         "Four-Quarter Grinder: Zero 30-point running-clock blowouts; thrives in physical Ohio field-position and red-zone trench battles."
       ]
     },
-    "brunswick blue devils": {
-      "team": "Brunswick Blue Devils",
-      "state": "OH",
-      "division": "D1",
-      "region": 1,
-      "record": "6-5",
-      "games_played": 11,
-      "avg_points_scored": 27.5,
-      "avg_points_allowed": 36.2,
-      "season_net_margin": -8.7,
-      "last_3_game_margin": 15.0,
-      "momentum_trend": 23.7,
-      "close_game_record": "3-0",
-      "mercy_rule_wins": 1,
-      "verified_press_intel": [],
-      "keys_to_victory": [
-        "Peaking Entering Regional Play: Net margin has surged +23.7 PPG over the last 3 games (+15.0 PPG)."
-      ]
-    },
     "mineral ridge rams": {
       "team": "Mineral Ridge Rams",
       "state": "OH",
@@ -195979,6 +195960,25 @@
       "verified_press_intel": [],
       "keys_to_victory": [
         "Explosive Separation Profile: Mineral Ridge Rams has triggered the 30-point OHSAA 2nd-half running clock 6 times."
+      ]
+    },
+    "brunswick blue devils": {
+      "team": "Brunswick Blue Devils",
+      "state": "OH",
+      "division": "D1",
+      "region": 1,
+      "record": "6-5",
+      "games_played": 11,
+      "avg_points_scored": 27.5,
+      "avg_points_allowed": 36.2,
+      "season_net_margin": -8.7,
+      "last_3_game_margin": 15.0,
+      "momentum_trend": 23.7,
+      "close_game_record": "3-0",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Peaking Entering Regional Play: Net margin has surged +23.7 PPG over the last 3 games (+15.0 PPG)."
       ]
     },
     "alliance aviators": {
@@ -198088,25 +198088,6 @@
         "Peaking Entering Regional Play: Net margin has surged +39.8 PPG over the last 3 games (+34.3 PPG)."
       ]
     },
-    "toronto red knights": {
-      "team": "Toronto Red Knights",
-      "state": "OH",
-      "division": "D7",
-      "region": 27,
-      "record": "10-1",
-      "games_played": 11,
-      "avg_points_scored": 26.1,
-      "avg_points_allowed": 16.2,
-      "season_net_margin": 9.9,
-      "last_3_game_margin": 14.3,
-      "momentum_trend": 4.4,
-      "close_game_record": "5-0",
-      "mercy_rule_wins": 1,
-      "verified_press_intel": [],
-      "keys_to_victory": [
-        "Win 1st-down efficiency, protect the football, and force long-field drives."
-      ]
-    },
     "maumee panthers": {
       "team": "Maumee Panthers",
       "state": "OH",
@@ -198124,6 +198105,25 @@
       "verified_press_intel": [],
       "keys_to_victory": [
         "Late-Season Margin Compression: Net differential dipped -10.2 PPG over the last 3 weeks against tougher fronts."
+      ]
+    },
+    "toronto red knights": {
+      "team": "Toronto Red Knights",
+      "state": "OH",
+      "division": "D7",
+      "region": 27,
+      "record": "10-1",
+      "games_played": 11,
+      "avg_points_scored": 26.1,
+      "avg_points_allowed": 16.2,
+      "season_net_margin": 9.9,
+      "last_3_game_margin": 14.3,
+      "momentum_trend": 4.4,
+      "close_game_record": "5-0",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Win 1st-down efficiency, protect the football, and force long-field drives."
       ]
     },
     "westlake demons": {
@@ -198490,25 +198490,6 @@
         "Four-Quarter Grinder: Zero 30-point running-clock blowouts; thrives in physical Ohio field-position and red-zone trench battles."
       ]
     },
-    "rossford bulldogs": {
-      "team": "Rossford Bulldogs",
-      "state": "OH",
-      "division": "D4",
-      "region": 14,
-      "record": "5-6",
-      "games_played": 11,
-      "avg_points_scored": 30.1,
-      "avg_points_allowed": 30.6,
-      "season_net_margin": -0.5,
-      "last_3_game_margin": 3.0,
-      "momentum_trend": 3.5,
-      "close_game_record": "1-4",
-      "mercy_rule_wins": 1,
-      "verified_press_intel": [],
-      "keys_to_victory": [
-        "Win 1st-down efficiency, protect the football, and force long-field drives."
-      ]
-    },
     "upper sandusky rams": {
       "team": "Upper Sandusky Rams",
       "state": "OH",
@@ -198527,6 +198508,25 @@
       "keys_to_victory": [
         "Explosive Separation Profile: Upper Sandusky Rams has triggered the 30-point OHSAA 2nd-half running clock 3 times.",
         "Peaking Entering Regional Play: Net margin has surged +15.3 PPG over the last 3 games (+19.0 PPG)."
+      ]
+    },
+    "rossford bulldogs": {
+      "team": "Rossford Bulldogs",
+      "state": "OH",
+      "division": "D4",
+      "region": 14,
+      "record": "5-6",
+      "games_played": 11,
+      "avg_points_scored": 30.1,
+      "avg_points_allowed": 30.6,
+      "season_net_margin": -0.5,
+      "last_3_game_margin": 3.0,
+      "momentum_trend": 3.5,
+      "close_game_record": "1-4",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Win 1st-down efficiency, protect the football, and force long-field drives."
       ]
     },
     "pandora-gilboa rockets": {
@@ -199166,25 +199166,6 @@
         "Late-Season Margin Compression: Net differential dipped -19.3 PPG over the last 3 weeks against tougher fronts."
       ]
     },
-    "warrensville heights tigers": {
-      "team": "Warrensville Heights Tigers",
-      "state": "OH",
-      "division": "D4",
-      "region": 13,
-      "record": "4-6",
-      "games_played": 10,
-      "avg_points_scored": 18.8,
-      "avg_points_allowed": 22.4,
-      "season_net_margin": -3.6,
-      "last_3_game_margin": 5.3,
-      "momentum_trend": 8.9,
-      "close_game_record": "1-0",
-      "mercy_rule_wins": 1,
-      "verified_press_intel": [],
-      "keys_to_victory": [
-        "Peaking Entering Regional Play: Net margin has surged +8.9 PPG over the last 3 games (+5.3 PPG)."
-      ]
-    },
     "lakota raiders": {
       "team": "Lakota Raiders",
       "state": "OH",
@@ -199202,6 +199183,25 @@
       "verified_press_intel": [],
       "keys_to_victory": [
         "Late-Season Margin Compression: Net differential dipped -8.4 PPG over the last 3 weeks against tougher fronts."
+      ]
+    },
+    "warrensville heights tigers": {
+      "team": "Warrensville Heights Tigers",
+      "state": "OH",
+      "division": "D4",
+      "region": 13,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 18.8,
+      "avg_points_allowed": 22.4,
+      "season_net_margin": -3.6,
+      "last_3_game_margin": 5.3,
+      "momentum_trend": 8.9,
+      "close_game_record": "1-0",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Peaking Entering Regional Play: Net margin has surged +8.9 PPG over the last 3 games (+5.3 PPG)."
       ]
     },
     "john adams rebels": {
@@ -200149,25 +200149,6 @@
         "Peaking Entering Regional Play: Net margin has surged +8.4 PPG over the last 3 games (+11.0 PPG)."
       ]
     },
-    "john hay hornets": {
-      "team": "John Hay Hornets",
-      "state": "OH",
-      "division": "D2",
-      "region": 5,
-      "record": "3-7",
-      "games_played": 10,
-      "avg_points_scored": 15.0,
-      "avg_points_allowed": 26.0,
-      "season_net_margin": -11.0,
-      "last_3_game_margin": 4.0,
-      "momentum_trend": 15.0,
-      "close_game_record": "0-0",
-      "mercy_rule_wins": 2,
-      "verified_press_intel": [],
-      "keys_to_victory": [
-        "Peaking Entering Regional Play: Net margin has surged +15.0 PPG over the last 3 games (+4.0 PPG)."
-      ]
-    },
     "valley forge patriots": {
       "team": "Valley Forge Patriots",
       "state": "OH",
@@ -200185,6 +200166,25 @@
       "verified_press_intel": [],
       "keys_to_victory": [
         "Peaking Entering Regional Play: Net margin has surged +23.2 PPG over the last 3 games (+6.0 PPG)."
+      ]
+    },
+    "john hay hornets": {
+      "team": "John Hay Hornets",
+      "state": "OH",
+      "division": "D2",
+      "region": 5,
+      "record": "3-7",
+      "games_played": 10,
+      "avg_points_scored": 15.0,
+      "avg_points_allowed": 26.0,
+      "season_net_margin": -11.0,
+      "last_3_game_margin": 4.0,
+      "momentum_trend": 15.0,
+      "close_game_record": "0-0",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Peaking Entering Regional Play: Net margin has surged +15.0 PPG over the last 3 games (+4.0 PPG)."
       ]
     },
     "sidney yellow jackets": {
@@ -200649,6 +200649,25 @@
         "Late-Season Margin Compression: Net differential dipped -9.0 PPG over the last 3 weeks against tougher fronts."
       ]
     },
+    "east canton hornets": {
+      "team": "East Canton Hornets",
+      "state": "OH",
+      "division": "D7",
+      "region": 25,
+      "record": "7-4",
+      "games_played": 11,
+      "avg_points_scored": 25.6,
+      "avg_points_allowed": 18.5,
+      "season_net_margin": 7.1,
+      "last_3_game_margin": -0.7,
+      "momentum_trend": -7.8,
+      "close_game_record": "0-1",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Late-Season Margin Compression: Net differential dipped -7.8 PPG over the last 3 weeks against tougher fronts."
+      ]
+    },
     "lake flyers": {
       "team": "Lake Flyers",
       "state": "OH",
@@ -200667,25 +200686,6 @@
       "keys_to_victory": [
         "Four-Quarter Grinder: Zero 30-point running-clock blowouts; thrives in physical Ohio field-position and red-zone trench battles.",
         "Late-Season Margin Compression: Net differential dipped -18.7 PPG over the last 3 weeks against tougher fronts."
-      ]
-    },
-    "east canton hornets": {
-      "team": "East Canton Hornets",
-      "state": "OH",
-      "division": "D7",
-      "region": 25,
-      "record": "7-4",
-      "games_played": 11,
-      "avg_points_scored": 25.6,
-      "avg_points_allowed": 18.5,
-      "season_net_margin": 7.1,
-      "last_3_game_margin": -0.7,
-      "momentum_trend": -7.8,
-      "close_game_record": "0-1",
-      "mercy_rule_wins": 1,
-      "verified_press_intel": [],
-      "keys_to_victory": [
-        "Late-Season Margin Compression: Net differential dipped -7.8 PPG over the last 3 weeks against tougher fronts."
       ]
     },
     "garfield golden rams": {
@@ -201191,6 +201191,25 @@
         "Peaking Entering Regional Play: Net margin has surged +16.3 PPG over the last 3 games (+15.7 PPG)."
       ]
     },
+    "grandview heights bobcats": {
+      "team": "Grandview Heights Bobcats",
+      "state": "OH",
+      "division": "D6",
+      "region": 23,
+      "record": "4-6",
+      "games_played": 10,
+      "avg_points_scored": 22.1,
+      "avg_points_allowed": 28.8,
+      "season_net_margin": -6.7,
+      "last_3_game_margin": -19.0,
+      "momentum_trend": -12.3,
+      "close_game_record": "2-0",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Late-Season Margin Compression: Net differential dipped -12.3 PPG over the last 3 weeks against tougher fronts."
+      ]
+    },
     "st paul flyers": {
       "team": "St Paul Flyers",
       "state": "OH",
@@ -201209,25 +201228,6 @@
       "keys_to_victory": [
         "Explosive Separation Profile: St Paul Flyers has triggered the 30-point OHSAA 2nd-half running clock 4 times.",
         "Peaking Entering Regional Play: Net margin has surged +17.1 PPG over the last 3 games (+19.0 PPG)."
-      ]
-    },
-    "grandview heights bobcats": {
-      "team": "Grandview Heights Bobcats",
-      "state": "OH",
-      "division": "D6",
-      "region": 23,
-      "record": "4-6",
-      "games_played": 10,
-      "avg_points_scored": 22.1,
-      "avg_points_allowed": 28.8,
-      "season_net_margin": -6.7,
-      "last_3_game_margin": -19.0,
-      "momentum_trend": -12.3,
-      "close_game_record": "2-0",
-      "mercy_rule_wins": 2,
-      "verified_press_intel": [],
-      "keys_to_victory": [
-        "Late-Season Margin Compression: Net differential dipped -12.3 PPG over the last 3 weeks against tougher fronts."
       ]
     },
     "scott bulldogs": {
@@ -201770,25 +201770,6 @@
         "Four-Quarter Grinder: Zero 30-point running-clock blowouts; thrives in physical Ohio field-position and red-zone trench battles."
       ]
     },
-    "lutheran west longhorns": {
-      "team": "Lutheran West Longhorns",
-      "state": "OH",
-      "division": "D3",
-      "region": 10,
-      "record": "1-9",
-      "games_played": 10,
-      "avg_points_scored": 8.6,
-      "avg_points_allowed": 37.5,
-      "season_net_margin": -28.9,
-      "last_3_game_margin": -25.7,
-      "momentum_trend": 3.2,
-      "close_game_record": "1-1",
-      "mercy_rule_wins": 0,
-      "verified_press_intel": [],
-      "keys_to_victory": [
-        "Four-Quarter Grinder: Zero 30-point running-clock blowouts; thrives in physical Ohio field-position and red-zone trench battles."
-      ]
-    },
     "struthers wildcats": {
       "team": "Struthers Wildcats",
       "state": "OH",
@@ -201802,6 +201783,25 @@
       "last_3_game_margin": -34.3,
       "momentum_trend": -3.7,
       "close_game_record": "0-0",
+      "mercy_rule_wins": 0,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Four-Quarter Grinder: Zero 30-point running-clock blowouts; thrives in physical Ohio field-position and red-zone trench battles."
+      ]
+    },
+    "lutheran west longhorns": {
+      "team": "Lutheran West Longhorns",
+      "state": "OH",
+      "division": "D3",
+      "region": 10,
+      "record": "1-9",
+      "games_played": 10,
+      "avg_points_scored": 8.6,
+      "avg_points_allowed": 37.5,
+      "season_net_margin": -28.9,
+      "last_3_game_margin": -25.7,
+      "momentum_trend": 3.2,
+      "close_game_record": "1-1",
       "mercy_rule_wins": 0,
       "verified_press_intel": [],
       "keys_to_victory": [

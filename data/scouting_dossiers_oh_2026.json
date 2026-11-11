@@ -340,26 +340,6 @@
       "Elite Scoring Defense: Allowing just 9.1 PPG. Attack perimeter space horizontally and prioritize special-teams hidden yardage."
     ]
   },
-  "whitmer panthers": {
-    "team": "Whitmer Panthers",
-    "state": "OH",
-    "division": "D1",
-    "region": 2,
-    "record": "9-2",
-    "games_played": 11,
-    "avg_points_scored": 37.1,
-    "avg_points_allowed": 16.6,
-    "season_net_margin": 20.5,
-    "last_3_game_margin": -3.0,
-    "momentum_trend": -23.5,
-    "close_game_record": "1-1",
-    "mercy_rule_wins": 4,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Whitmer Panthers has triggered the 30-point OHSAA 2nd-half running clock 4 times.",
-      "Late-Season Margin Compression: Net differential dipped -23.5 PPG over the last 3 weeks against tougher fronts."
-    ]
-  },
   "springfield wildcats": {
     "team": "Springfield Wildcats",
     "state": "OH",
@@ -379,6 +359,26 @@
       "Explosive Separation Profile: Springfield Wildcats has triggered the 30-point OHSAA 2nd-half running clock 3 times.",
       "Peaking Entering Regional Play: Net margin has surged +14.2 PPG over the last 3 games (+30.0 PPG).",
       "Elite Scoring Defense: Allowing just 10.0 PPG. Attack perimeter space horizontally and prioritize special-teams hidden yardage."
+    ]
+  },
+  "whitmer panthers": {
+    "team": "Whitmer Panthers",
+    "state": "OH",
+    "division": "D1",
+    "region": 2,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 37.1,
+    "avg_points_allowed": 16.6,
+    "season_net_margin": 20.5,
+    "last_3_game_margin": -3.0,
+    "momentum_trend": -23.5,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Whitmer Panthers has triggered the 30-point OHSAA 2nd-half running clock 4 times.",
+      "Late-Season Margin Compression: Net differential dipped -23.5 PPG over the last 3 weeks against tougher fronts."
     ]
   },
   "winton woods warriors": {
@@ -1841,25 +1841,6 @@
       "Elite Scoring Defense: Allowing just 9.0 PPG. Attack perimeter space horizontally and prioritize special-teams hidden yardage."
     ]
   },
-  "jackson ironmen": {
-    "team": "Jackson Ironmen",
-    "state": "OH",
-    "division": "D3",
-    "region": 11,
-    "record": "8-4",
-    "games_played": 12,
-    "avg_points_scored": 32.6,
-    "avg_points_allowed": 18.8,
-    "season_net_margin": 13.8,
-    "last_3_game_margin": 10.0,
-    "momentum_trend": -3.8,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 4,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Jackson Ironmen has triggered the 30-point OHSAA 2nd-half running clock 4 times."
-    ]
-  },
   "riverside beavers": {
     "team": "Riverside Beavers",
     "state": "OH",
@@ -1878,6 +1859,25 @@
     "keys_to_victory": [
       "Explosive Separation Profile: Riverside Beavers has triggered the 30-point OHSAA 2nd-half running clock 3 times.",
       "Peaking Entering Regional Play: Net margin has surged +7.1 PPG over the last 3 games (+14.7 PPG)."
+    ]
+  },
+  "jackson ironmen": {
+    "team": "Jackson Ironmen",
+    "state": "OH",
+    "division": "D3",
+    "region": 11,
+    "record": "8-4",
+    "games_played": 12,
+    "avg_points_scored": 32.6,
+    "avg_points_allowed": 18.8,
+    "season_net_margin": 13.8,
+    "last_3_game_margin": 10.0,
+    "momentum_trend": -3.8,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Jackson Ironmen has triggered the 30-point OHSAA 2nd-half running clock 4 times."
     ]
   },
   "symmes valley vikings": {
@@ -3760,26 +3760,6 @@
       "Late-Season Margin Compression: Net differential dipped -12.5 PPG over the last 3 weeks against tougher fronts."
     ]
   },
-  "liberty leopards": {
-    "team": "Liberty Leopards",
-    "state": "OH",
-    "division": "D5",
-    "region": 17,
-    "record": "9-2",
-    "games_played": 11,
-    "avg_points_scored": 32.5,
-    "avg_points_allowed": 8.6,
-    "season_net_margin": 23.9,
-    "last_3_game_margin": 22.7,
-    "momentum_trend": -1.2,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 6,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Liberty Leopards has triggered the 30-point OHSAA 2nd-half running clock 6 times.",
-      "Elite Scoring Defense: Allowing just 8.6 PPG. Attack perimeter space horizontally and prioritize special-teams hidden yardage."
-    ]
-  },
   "heath bulldogs": {
     "team": "Heath Bulldogs",
     "state": "OH",
@@ -3798,6 +3778,26 @@
     "keys_to_victory": [
       "Explosive Separation Profile: Heath Bulldogs has triggered the 30-point OHSAA 2nd-half running clock 5 times.",
       "Peaking Entering Regional Play: Net margin has surged +35.1 PPG over the last 3 games (+49.3 PPG)."
+    ]
+  },
+  "liberty leopards": {
+    "team": "Liberty Leopards",
+    "state": "OH",
+    "division": "D5",
+    "region": 17,
+    "record": "9-2",
+    "games_played": 11,
+    "avg_points_scored": 32.5,
+    "avg_points_allowed": 8.6,
+    "season_net_margin": 23.9,
+    "last_3_game_margin": 22.7,
+    "momentum_trend": -1.2,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 6,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Liberty Leopards has triggered the 30-point OHSAA 2nd-half running clock 6 times.",
+      "Elite Scoring Defense: Allowing just 8.6 PPG. Attack perimeter space horizontally and prioritize special-teams hidden yardage."
     ]
   },
   "green bulldogs": {
@@ -5056,25 +5056,6 @@
       "Four-Quarter Grinder: Zero 30-point running-clock blowouts; thrives in physical Ohio field-position and red-zone trench battles."
     ]
   },
-  "brunswick blue devils": {
-    "team": "Brunswick Blue Devils",
-    "state": "OH",
-    "division": "D1",
-    "region": 1,
-    "record": "6-5",
-    "games_played": 11,
-    "avg_points_scored": 27.5,
-    "avg_points_allowed": 36.2,
-    "season_net_margin": -8.7,
-    "last_3_game_margin": 15.0,
-    "momentum_trend": 23.7,
-    "close_game_record": "3-0",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Peaking Entering Regional Play: Net margin has surged +23.7 PPG over the last 3 games (+15.0 PPG)."
-    ]
-  },
   "mineral ridge rams": {
     "team": "Mineral Ridge Rams",
     "state": "OH",
@@ -5092,6 +5073,25 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Explosive Separation Profile: Mineral Ridge Rams has triggered the 30-point OHSAA 2nd-half running clock 6 times."
+    ]
+  },
+  "brunswick blue devils": {
+    "team": "Brunswick Blue Devils",
+    "state": "OH",
+    "division": "D1",
+    "region": 1,
+    "record": "6-5",
+    "games_played": 11,
+    "avg_points_scored": 27.5,
+    "avg_points_allowed": 36.2,
+    "season_net_margin": -8.7,
+    "last_3_game_margin": 15.0,
+    "momentum_trend": 23.7,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking Entering Regional Play: Net margin has surged +23.7 PPG over the last 3 games (+15.0 PPG)."
     ]
   },
   "alliance aviators": {
@@ -7201,25 +7201,6 @@
       "Peaking Entering Regional Play: Net margin has surged +39.8 PPG over the last 3 games (+34.3 PPG)."
     ]
   },
-  "toronto red knights": {
-    "team": "Toronto Red Knights",
-    "state": "OH",
-    "division": "D7",
-    "region": 27,
-    "record": "10-1",
-    "games_played": 11,
-    "avg_points_scored": 26.1,
-    "avg_points_allowed": 16.2,
-    "season_net_margin": 9.9,
-    "last_3_game_margin": 14.3,
-    "momentum_trend": 4.4,
-    "close_game_record": "5-0",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
   "maumee panthers": {
     "team": "Maumee Panthers",
     "state": "OH",
@@ -7237,6 +7218,25 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Late-Season Margin Compression: Net differential dipped -10.2 PPG over the last 3 weeks against tougher fronts."
+    ]
+  },
+  "toronto red knights": {
+    "team": "Toronto Red Knights",
+    "state": "OH",
+    "division": "D7",
+    "region": 27,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 26.1,
+    "avg_points_allowed": 16.2,
+    "season_net_margin": 9.9,
+    "last_3_game_margin": 14.3,
+    "momentum_trend": 4.4,
+    "close_game_record": "5-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
   "westlake demons": {
@@ -7603,25 +7603,6 @@
       "Four-Quarter Grinder: Zero 30-point running-clock blowouts; thrives in physical Ohio field-position and red-zone trench battles."
     ]
   },
-  "rossford bulldogs": {
-    "team": "Rossford Bulldogs",
-    "state": "OH",
-    "division": "D4",
-    "region": 14,
-    "record": "5-6",
-    "games_played": 11,
-    "avg_points_scored": 30.1,
-    "avg_points_allowed": 30.6,
-    "season_net_margin": -0.5,
-    "last_3_game_margin": 3.0,
-    "momentum_trend": 3.5,
-    "close_game_record": "1-4",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
   "upper sandusky rams": {
     "team": "Upper Sandusky Rams",
     "state": "OH",
@@ -7640,6 +7621,25 @@
     "keys_to_victory": [
       "Explosive Separation Profile: Upper Sandusky Rams has triggered the 30-point OHSAA 2nd-half running clock 3 times.",
       "Peaking Entering Regional Play: Net margin has surged +15.3 PPG over the last 3 games (+19.0 PPG)."
+    ]
+  },
+  "rossford bulldogs": {
+    "team": "Rossford Bulldogs",
+    "state": "OH",
+    "division": "D4",
+    "region": 14,
+    "record": "5-6",
+    "games_played": 11,
+    "avg_points_scored": 30.1,
+    "avg_points_allowed": 30.6,
+    "season_net_margin": -0.5,
+    "last_3_game_margin": 3.0,
+    "momentum_trend": 3.5,
+    "close_game_record": "1-4",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
   "pandora-gilboa rockets": {
@@ -8279,25 +8279,6 @@
       "Late-Season Margin Compression: Net differential dipped -19.3 PPG over the last 3 weeks against tougher fronts."
     ]
   },
-  "warrensville heights tigers": {
-    "team": "Warrensville Heights Tigers",
-    "state": "OH",
-    "division": "D4",
-    "region": 13,
-    "record": "4-6",
-    "games_played": 10,
-    "avg_points_scored": 18.8,
-    "avg_points_allowed": 22.4,
-    "season_net_margin": -3.6,
-    "last_3_game_margin": 5.3,
-    "momentum_trend": 8.9,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Peaking Entering Regional Play: Net margin has surged +8.9 PPG over the last 3 games (+5.3 PPG)."
-    ]
-  },
   "lakota raiders": {
     "team": "Lakota Raiders",
     "state": "OH",
@@ -8315,6 +8296,25 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Late-Season Margin Compression: Net differential dipped -8.4 PPG over the last 3 weeks against tougher fronts."
+    ]
+  },
+  "warrensville heights tigers": {
+    "team": "Warrensville Heights Tigers",
+    "state": "OH",
+    "division": "D4",
+    "region": 13,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 18.8,
+    "avg_points_allowed": 22.4,
+    "season_net_margin": -3.6,
+    "last_3_game_margin": 5.3,
+    "momentum_trend": 8.9,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking Entering Regional Play: Net margin has surged +8.9 PPG over the last 3 games (+5.3 PPG)."
     ]
   },
   "john adams rebels": {
@@ -9262,25 +9262,6 @@
       "Peaking Entering Regional Play: Net margin has surged +8.4 PPG over the last 3 games (+11.0 PPG)."
     ]
   },
-  "john hay hornets": {
-    "team": "John Hay Hornets",
-    "state": "OH",
-    "division": "D2",
-    "region": 5,
-    "record": "3-7",
-    "games_played": 10,
-    "avg_points_scored": 15.0,
-    "avg_points_allowed": 26.0,
-    "season_net_margin": -11.0,
-    "last_3_game_margin": 4.0,
-    "momentum_trend": 15.0,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Peaking Entering Regional Play: Net margin has surged +15.0 PPG over the last 3 games (+4.0 PPG)."
-    ]
-  },
   "valley forge patriots": {
     "team": "Valley Forge Patriots",
     "state": "OH",
@@ -9298,6 +9279,25 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Peaking Entering Regional Play: Net margin has surged +23.2 PPG over the last 3 games (+6.0 PPG)."
+    ]
+  },
+  "john hay hornets": {
+    "team": "John Hay Hornets",
+    "state": "OH",
+    "division": "D2",
+    "region": 5,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 15.0,
+    "avg_points_allowed": 26.0,
+    "season_net_margin": -11.0,
+    "last_3_game_margin": 4.0,
+    "momentum_trend": 15.0,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking Entering Regional Play: Net margin has surged +15.0 PPG over the last 3 games (+4.0 PPG)."
     ]
   },
   "sidney yellow jackets": {
@@ -9762,6 +9762,25 @@
       "Late-Season Margin Compression: Net differential dipped -9.0 PPG over the last 3 weeks against tougher fronts."
     ]
   },
+  "east canton hornets": {
+    "team": "East Canton Hornets",
+    "state": "OH",
+    "division": "D7",
+    "region": 25,
+    "record": "7-4",
+    "games_played": 11,
+    "avg_points_scored": 25.6,
+    "avg_points_allowed": 18.5,
+    "season_net_margin": 7.1,
+    "last_3_game_margin": -0.7,
+    "momentum_trend": -7.8,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -7.8 PPG over the last 3 weeks against tougher fronts."
+    ]
+  },
   "lake flyers": {
     "team": "Lake Flyers",
     "state": "OH",
@@ -9780,25 +9799,6 @@
     "keys_to_victory": [
       "Four-Quarter Grinder: Zero 30-point running-clock blowouts; thrives in physical Ohio field-position and red-zone trench battles.",
       "Late-Season Margin Compression: Net differential dipped -18.7 PPG over the last 3 weeks against tougher fronts."
-    ]
-  },
-  "east canton hornets": {
-    "team": "East Canton Hornets",
-    "state": "OH",
-    "division": "D7",
-    "region": 25,
-    "record": "7-4",
-    "games_played": 11,
-    "avg_points_scored": 25.6,
-    "avg_points_allowed": 18.5,
-    "season_net_margin": 7.1,
-    "last_3_game_margin": -0.7,
-    "momentum_trend": -7.8,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Late-Season Margin Compression: Net differential dipped -7.8 PPG over the last 3 weeks against tougher fronts."
     ]
   },
   "garfield golden rams": {
@@ -10304,6 +10304,25 @@
       "Peaking Entering Regional Play: Net margin has surged +16.3 PPG over the last 3 games (+15.7 PPG)."
     ]
   },
+  "grandview heights bobcats": {
+    "team": "Grandview Heights Bobcats",
+    "state": "OH",
+    "division": "D6",
+    "region": 23,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 22.1,
+    "avg_points_allowed": 28.8,
+    "season_net_margin": -6.7,
+    "last_3_game_margin": -19.0,
+    "momentum_trend": -12.3,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -12.3 PPG over the last 3 weeks against tougher fronts."
+    ]
+  },
   "st paul flyers": {
     "team": "St Paul Flyers",
     "state": "OH",
@@ -10322,25 +10341,6 @@
     "keys_to_victory": [
       "Explosive Separation Profile: St Paul Flyers has triggered the 30-point OHSAA 2nd-half running clock 4 times.",
       "Peaking Entering Regional Play: Net margin has surged +17.1 PPG over the last 3 games (+19.0 PPG)."
-    ]
-  },
-  "grandview heights bobcats": {
-    "team": "Grandview Heights Bobcats",
-    "state": "OH",
-    "division": "D6",
-    "region": 23,
-    "record": "4-6",
-    "games_played": 10,
-    "avg_points_scored": 22.1,
-    "avg_points_allowed": 28.8,
-    "season_net_margin": -6.7,
-    "last_3_game_margin": -19.0,
-    "momentum_trend": -12.3,
-    "close_game_record": "2-0",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Late-Season Margin Compression: Net differential dipped -12.3 PPG over the last 3 weeks against tougher fronts."
     ]
   },
   "scott bulldogs": {
@@ -10883,25 +10883,6 @@
       "Four-Quarter Grinder: Zero 30-point running-clock blowouts; thrives in physical Ohio field-position and red-zone trench battles."
     ]
   },
-  "lutheran west longhorns": {
-    "team": "Lutheran West Longhorns",
-    "state": "OH",
-    "division": "D3",
-    "region": 10,
-    "record": "1-9",
-    "games_played": 10,
-    "avg_points_scored": 8.6,
-    "avg_points_allowed": 37.5,
-    "season_net_margin": -28.9,
-    "last_3_game_margin": -25.7,
-    "momentum_trend": 3.2,
-    "close_game_record": "1-1",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 30-point running-clock blowouts; thrives in physical Ohio field-position and red-zone trench battles."
-    ]
-  },
   "struthers wildcats": {
     "team": "Struthers Wildcats",
     "state": "OH",
@@ -10915,6 +10896,25 @@
     "last_3_game_margin": -34.3,
     "momentum_trend": -3.7,
     "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 30-point running-clock blowouts; thrives in physical Ohio field-position and red-zone trench battles."
+    ]
+  },
+  "lutheran west longhorns": {
+    "team": "Lutheran West Longhorns",
+    "state": "OH",
+    "division": "D3",
+    "region": 10,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 8.6,
+    "avg_points_allowed": 37.5,
+    "season_net_margin": -28.9,
+    "last_3_game_margin": -25.7,
+    "momentum_trend": 3.2,
+    "close_game_record": "1-1",
     "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
