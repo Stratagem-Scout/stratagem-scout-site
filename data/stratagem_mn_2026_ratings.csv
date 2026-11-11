@@ -1,306 +1,447 @@
-rank,division_rank,team,state,division,region,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_off,ppg_def,net_margin,harbin_avg,ppa,pqs,l1_pts,l2_pts,contender_tier
-1,1,Champlin Park,MN,6A,1,MSHSL Conference,11-0,11,0,0,11,103.6,103.6,53.6,71.9,108,47.1,12.8,34.3,87.87,87.87,87.87,58.5,156.0,State Title Contender
-2,2,Shakopee,MN,6A,1,MSHSL Conference,11-0,11,0,0,11,102.9,102.9,52.94,76.2,70,43.0,13.5,29.5,85.86,85.86,85.86,58.5,123.5,State Title Contender
-3,3,Minnetonka,MN,6A,1,MSHSL Conference,9-1,9,1,0,10,101.8,101.8,51.79,88.3,12,30.9,16.2,14.7,91.12,91.12,91.12,45.5,227.5,State Title Contender
-4,4,Rosemount,MN,6A,1,MSHSL Conference,8-2,8,2,0,10,98.5,98.5,48.51,73.6,93,41.6,13.7,27.9,67.9,67.9,67.9,39.0,26.0,State Title Contender
-5,5,Maple Grove,MN,6A,1,MSHSL Conference,8-2,8,2,0,10,97.8,97.8,47.78,88.7,9,30.0,20.2,9.8,89.23,89.23,89.23,45.5,214.5,State Title Contender
-6,6,Moorhead,MN,6A,1,MSHSL Conference,9-1,9,1,0,10,97.2,97.2,47.25,69.5,132,43.5,14.5,29.0,86.08,86.08,86.08,52.0,104.0,State Title Contender
-7,7,Lakeville South,MN,6A,1,MSHSL Conference,9-1,9,1,0,10,96.6,96.6,46.6,84.3,26,36.8,23.5,13.3,85.5,85.5,85.5,45.5,169.0,State Title Contender
-8,1,Mankato West,MN,5A,1,MSHSL Conference,10-0,10,0,0,10,96.5,96.5,46.55,79.1,47,37.2,17.4,19.8,83.37,83.37,83.37,54.0,144.0,State Title Contender
-9,8,Eden Prairie,MN,6A,1,MSHSL Conference,9-1,9,1,0,10,96.2,96.2,46.23,78.3,56,37.1,17.8,19.3,88.48,88.48,88.48,52.0,143.0,State Title Contender
-10,9,Centennial,MN,6A,1,MSHSL Conference,10-1,10,1,0,11,95.9,95.9,45.88,79.1,46,36.0,16.9,19.1,80.22,80.22,80.22,52.0,117.0,State Title Contender
-11,10,Mounds View,MN,6A,1,MSHSL Conference,8-2,8,2,0,10,94.7,94.7,44.71,74.0,89,38.9,17.2,21.7,77.46,77.46,77.46,45.5,71.5,State Title Contender
-12,11,Forest Lake,MN,6A,1,MSHSL Conference,9-2,9,2,0,11,94.7,94.7,44.66,76.2,72,37.8,18.1,19.7,74.22,74.22,74.22,45.5,97.5,State Title Contender
-13,12,Blaine,MN,6A,1,MSHSL Conference,8-2,8,2,0,10,93.1,93.1,43.1,71.6,111,39.6,16.5,23.1,76.12,76.12,76.12,45.5,71.5,State Title Contender
-14,13,Prior Lake,MN,6A,1,MSHSL Conference,8-2,8,2,0,10,92.2,92.2,42.23,78.7,51,32.6,17.1,15.5,71.18,71.18,71.18,39.0,65.0,State Title Contender
-15,2,Monticello,MN,5A,1,MSHSL 5A,10-0,10,0,0,10,92.0,92.0,42.04,76.7,68,33.4,15.8,17.6,80.78,80.78,80.78,54.0,108.0,State Title Contender
-16,3,Andover,MN,5A,1,MSHSL Conference,7-3,7,3,0,10,91.9,91.9,41.91,77.2,65,35.7,19.9,15.8,74.49,74.49,74.49,42.0,150.0,State Title Contender
-17,4,Cretin-Derham Hall,MN,5A,1,MSHSL Conference,10-0,10,0,0,10,91.9,91.9,41.86,77.5,63,33.6,17.0,16.6,81.21,81.21,81.21,54.0,114.0,State Title Contender
-18,5,Chanhassen,MN,5A,1,MSHSL Conference,8-1,8,1,0,9,91.7,91.7,41.68,84.9,19,26.6,19.3,7.3,82.17,82.17,82.17,48.0,228.0,State Title Contender
-19,14,East Ridge,MN,6A,1,MSHSL Conference,5-3,5,3,0,8,91.7,91.7,41.67,74.9,84,38.5,21.2,17.3,66.74,66.74,66.74,32.5,26.0,State Title Contender
-20,6,Mankato East,MN,5A,1,MSHSL Conference,8-1,8,1,0,9,91.2,91.2,41.17,76.7,67,34.6,18.9,15.7,79.58,79.58,79.58,48.0,156.0,State Title Contender
-21,1,Orono,MN,4A,1,MSHSL Conference,10-0,10,0,0,10,91.0,91.0,41.04,78.2,57,32.4,17.1,15.3,82.83,82.83,82.83,49.5,176.0,State Title Contender
-22,7,Brainerd,MN,5A,1,MSHSL Conference,9-0,9,0,0,9,91.0,91.0,40.97,80.2,40,29.8,17.0,12.8,80.78,80.78,80.78,54.0,108.0,State Title Contender
-23,1,Annandale,MN,3A,1,MSHSL Conference,10-0,10,0,0,10,90.6,90.6,40.56,73.5,94,36.2,17.2,19.0,77.53,77.53,77.53,45.0,145.0,State Title Contender
-24,8,Elk River,MN,5A,1,MSHSL Conference,8-1,8,1,0,9,90.5,90.5,40.55,83.1,30,28.4,20.6,7.8,77.42,77.42,77.42,48.0,120.0,State Title Contender
-25,2,Rocori,MN,4A,1,MSHSL Conference,7-2,7,2,0,9,90.2,90.2,40.19,75.1,82,35.8,19.0,16.8,74.84,74.84,74.84,38.5,176.0,State Title Contender
-26,9,St. Thomas Academy,MN,5A,1,MSHSL Conference,8-1,8,1,0,9,90.2,90.2,40.17,83.5,28,27.7,20.1,7.6,80.44,80.44,80.44,48.0,162.0,State Title Contender
-27,10,Rogers,MN,5A,1,MSHSL Conference,6-4,6,4,0,10,89.8,89.8,39.76,79.5,43,32.9,21.9,11.0,69.84,69.84,69.84,36.0,150.0,State Title Contender
-28,15,Eagan,MN,6A,1,MSHSL Conference,7-3,7,3,0,10,88.9,88.9,38.9,72.9,99,37.3,19.3,18.0,69.41,69.41,69.41,39.0,39.0,State Title Contender
-29,3,Byron,MN,4A,1,MSHSL Conference,9-0,9,0,0,9,88.3,88.3,38.26,80.0,41,30.2,20.1,10.1,85.42,85.42,85.42,49.5,209.0,State Title Contender
-30,16,Stillwater,MN,6A,1,MSHSL Conference,5-3,5,3,0,8,88.0,88.0,38.04,77.7,59,34.2,23.8,10.4,62.6,62.6,62.6,32.5,45.5,State Title Contender
-31,2,Dassel-Cokato,MN,3A,1,MSHSL Conference,9-0,9,0,0,9,87.6,87.6,37.61,74.5,86,33.7,19.3,14.4,77.96,77.96,77.96,45.0,150.0,State Title Contender
-32,3,Stewartville,MN,3A,1,MSHSL Conference,9-0,9,0,0,9,87.3,87.3,37.34,75.7,80,32.7,19.7,13.0,79.26,79.26,79.26,45.0,165.0,State Title Contender
-33,4,Grand Rapids,MN,4A,1,MSHSL Conference,10-0,10,0,0,10,87.0,87.0,37.03,75.9,79,34.6,20.1,14.5,78.07,78.07,78.07,49.5,115.5,State Title Contender
-34,5,Becker,MN,4A,1,MSHSL Conference,8-1,8,1,0,9,86.1,86.1,36.13,81.7,36,27.0,22.1,4.9,79.91,79.91,79.91,44.0,187.0,State Title Contender
-35,6,Willmar,MN,4A,1,MSHSL Conference,10-0,10,0,0,10,86.0,86.0,36.05,75.9,76,32.0,19.4,12.6,78.51,78.51,78.51,49.5,121.0,State Title Contender
-36,11,Hastings,MN,5A,1,MSHSL Conference,9-0,9,0,0,9,86.0,86.0,36.0,76.0,74,28.7,16.1,12.6,81.21,81.21,81.21,54.0,114.0,State Title Contender
-37,17,St. Michael-Albertville,MN,6A,1,MSHSL Conference,6-4,6,4,0,10,85.5,85.5,35.51,77.5,62,30.2,21.3,8.9,61.13,61.13,61.13,32.5,19.5,State Title Contender
-38,18,Wayzata,MN,6A,1,MSHSL Conference,7-3,7,3,0,10,85.3,85.3,35.34,78.9,49,33.1,26.6,6.5,69.05,69.05,69.05,39.0,39.0,State Title Contender
-39,19,Lakeville North,MN,6A,1,MSHSL Conference,5-4,5,4,0,9,85.3,85.3,35.26,79.0,48,27.3,22.0,5.3,59.59,59.59,59.59,32.5,45.5,State Title Contender
-40,7,Hutchinson,MN,4A,1,MSHSL Conference,7-2,7,2,0,9,84.9,84.9,34.86,77.1,66,30.0,22.1,7.9,67.49,67.49,67.49,38.5,104.5,State Title Contender
-41,12,Spring Lake Park,MN,5A,1,MSHSL Conference,8-1,8,1,0,9,84.2,84.2,34.25,79.4,44,27.8,21.8,6.0,72.23,72.23,72.23,48.0,48.0,State Title Contender
-42,1,Caledonia,MN,2A,1,MSHSL Conference,10-0,10,0,0,10,84.1,84.1,34.14,70.5,119,33.9,18.7,15.2,76.56,76.56,76.56,40.5,162.0,State Title Contender
-43,13,Northfield,MN,5A,1,MSHSL 5A,8-1,8,1,0,9,83.6,83.6,33.59,75.9,78,29.1,20.0,9.1,76.12,76.12,76.12,48.0,102.0,State Title Contender
-44,2,Aitkin,MN,2A,1,MSHSL Conference,10-0,10,0,0,10,83.6,83.6,33.58,72.1,104,32.7,18.4,14.3,78.28,78.28,78.28,40.5,180.0,State Title Contender
-45,14,Sartell,MN,5A,1,MSHSL Conference,2-7,2,7,0,9,83.3,83.3,33.34,89.2,4,21.8,26.6,-4.8,48.2,48.2,48.2,12.0,90.0,State Title Contender
-46,15,Alexandria,MN,5A,1,MSHSL Conference,4-5,4,5,0,9,82.9,82.9,32.91,81.5,38,25.4,24.0,1.4,56.64,56.64,56.64,24.0,132.0,State Title Contender
-47,8,Hill-Murray,MN,4A,1,MSHSL Conference,9-0,9,0,0,9,82.8,82.8,32.78,76.4,69,29.4,21.1,8.3,78.51,78.51,78.51,49.5,121.0,State Title Contender
-48,4,Watertown-Mayer,MN,3A,1,MSHSL Conference,7-2,7,2,0,9,82.6,82.6,32.58,74.6,85,30.8,21.4,9.4,68.27,68.27,68.27,35.0,125.0,State Title Contender
-49,16,Bemidji,MN,5A,1,MSHSL Conference,4-5,4,5,0,9,82.6,82.6,32.56,84.8,20,25.2,26.3,-1.1,58.37,58.37,58.37,24.0,108.0,State Title Contender
-50,3,Jackson County Central,MN,2A,1,MSHSL Conference,10-0,10,0,0,10,82.6,82.6,32.56,69.3,136,32.8,17.6,15.2,76.12,76.12,76.12,40.5,157.5,State Title Contender
-51,5,Pierz,MN,3A,1,MSHSL 3A,10-0,10,0,0,10,82.5,82.5,32.52,72.9,98,32.3,19.3,13.0,79.26,79.26,79.26,45.0,165.0,State Title Contender
-52,9,Totino-Grace,MN,4A,1,MSHSL Conference,8-1,8,1,0,9,82.2,82.2,32.16,78.6,52,27.3,22.3,5.0,75.16,75.16,75.16,44.0,126.5,State Title Contender
-53,20,Edina,MN,6A,1,MSHSL Conference,5-3,5,3,0,8,81.8,81.8,31.78,83.1,29,24.5,26.9,-2.4,69.26,69.26,69.26,32.5,58.5,Semifinal Contender
-54,17,Bloomington Jefferson,MN,5A,1,MSHSL Conference,7-2,7,2,0,9,81.6,81.6,31.56,78.4,55,27.6,23.7,3.9,71.04,71.04,71.04,42.0,96.0,Semifinal Contender
-55,10,Benilde-St. Margaret's,MN,4A,1,MSHSL Conference,5-4,5,4,0,9,81.4,81.4,31.43,78.4,54,27.8,23.4,4.4,62.96,62.96,62.96,27.5,126.5,Semifinal Contender
-56,6,Cannon Falls,MN,3A,1,MSHSL Conference,7-2,7,2,0,9,81.4,81.4,31.4,64.3,197,37.9,19.4,18.5,63.95,63.95,63.95,35.0,65.0,Semifinal Contender
-57,11,Kasson-Mantorville,MN,4A,1,MSHSL Conference,5-4,5,4,0,9,80.9,80.9,30.92,79.4,45,26.7,24.9,1.8,63.83,63.83,63.83,27.5,159.5,Semifinal Contender
-58,1,Minneota,MN,1A,1,MSHSL Conference,10-0,10,0,0,10,80.8,80.8,30.76,66.3,168,33.3,17.9,15.4,72.99,72.99,72.99,36.0,148.0,State Title Contender
-59,4,Barnesville,MN,2A,1,MSHSL Conference,6-3,6,3,0,9,80.7,80.7,30.66,69.9,128,32.8,21.3,11.5,67.02,67.02,67.02,27.0,171.0,State Title Contender
-60,7,Waseca,MN,3A,1,MSHSL Conference,9-0,9,0,0,9,80.3,80.3,30.3,74.3,87,28.6,19.8,8.8,79.26,79.26,79.26,45.0,165.0,Semifinal Contender
-61,2,Springfield,MN,1A,1,MSHSL Conference,10-0,10,0,0,10,79.9,79.9,29.86,65.3,179,32.6,16.7,15.9,72.12,72.12,72.12,36.0,140.0,State Title Contender
-62,12,Mound Westonka,MN,4A,1,MSHSL Conference,4-5,4,5,0,9,79.3,79.3,29.35,81.7,37,25.8,27.0,-1.2,58.75,58.75,58.75,22.0,121.0,Semifinal Contender
-63,8,Litchfield,MN,3A,1,MSHSL Conference,6-3,6,3,0,9,79.2,79.2,29.24,73.3,95,30.1,23.7,6.4,67.53,67.53,67.53,30.0,165.0,Semifinal Contender
-64,13,North Branch,MN,4A,1,MSHSL Conference,2-7,2,7,0,9,79.1,79.1,29.07,76.2,71,30.0,26.7,3.3,41.26,41.26,41.26,11.0,0.0,Semifinal Contender
-65,18,Robbinsdale Armstrong,MN,5A,1,MSHSL Conference,0-9,0,9,0,9,79.0,79.0,29.05,87.0,15,20.7,28.4,-7.7,31.11,31.11,31.11,0.0,0,Semifinal Contender
-66,19,Waconia,MN,5A,1,MSHSL Conference,1-8,1,8,0,9,78.9,78.9,28.92,84.5,23,21.4,27.0,-5.6,36.63,36.63,36.63,6.0,0.0,Semifinal Contender
-67,5,Chatfield,MN,2A,1,MSHSL Conference,8-1,8,1,0,9,78.9,78.9,28.86,70.1,125,29.9,21.2,8.7,72.37,72.37,72.37,36.0,148.5,Semifinal Contender
-68,20,Sauk Rapids-Rice,MN,5A,1,MSHSL Conference,2-7,2,7,0,9,78.4,78.4,28.42,84.7,21,22.4,28.1,-5.7,42.58,42.58,42.58,12.0,54.0,Semifinal Contender
-69,9,New London-Spicer,MN,3A,1,MSHSL Conference,3-6,3,6,0,9,77.8,77.8,27.8,77.9,58,24.8,24.6,0.2,49.32,49.32,49.32,15.0,90.0,Semifinal Contender
-70,10,Albany,MN,3A,1,MSHSL Conference,4-5,4,5,0,9,77.7,77.7,27.65,77.6,61,25.2,24.6,0.6,56.54,56.54,56.54,20.0,115.0,Semifinal Contender
-71,21,Anoka,MN,6A,1,MSHSL Conference,3-6,3,6,0,9,77.5,77.5,27.5,82.6,31,25.6,30.8,-5.2,46.07,46.07,46.07,19.5,19.5,Semifinal Contender
-72,21,Rochester Mayo,MN,5A,1,MSHSL Conference,0-10,0,10,0,10,77.3,77.3,27.3,89.3,3,17.2,29.5,-12.3,31.54,31.54,31.54,0.0,0,Semifinal Contender
-73,14,Delano,MN,4A,1,MSHSL Conference,3-6,3,6,0,9,77.3,77.3,27.28,81.8,35,22.9,26.4,-3.5,51.52,51.52,51.52,16.5,77.0,Semifinal Contender
-74,15,Cloquet,MN,4A,1,MSHSL Conference,4-5,4,5,0,9,77.0,77.0,26.96,70.6,118,31.4,24.9,6.5,47.95,47.95,47.95,22.0,27.5,Semifinal Contender
-75,16,Hermantown,MN,4A,1,MSHSL Conference,2-7,2,7,0,9,76.8,76.8,26.79,78.8,50,26.3,28.1,-1.8,39.96,39.96,39.96,11.0,0.0,Semifinal Contender
-76,22,Duluth Denfeld,MN,5A,1,MSHSL Conference,7-2,7,2,0,9,76.7,76.7,26.67,67.9,150,29.4,20.3,9.1,70.17,70.17,70.17,42.0,126.0,Semifinal Contender
-77,6,Eden Valley-Watkins,MN,2A,1,MSHSL Conference,4-5,4,5,0,9,76.6,76.6,26.59,73.8,90,29.0,25.2,3.8,55.2,55.2,55.2,18.0,112.5,Semifinal Contender
-78,23,Big Lake,MN,5A,1,MSHSL 4A,7-2,7,2,0,9,76.5,76.5,26.45,65.1,184,33.6,22.0,11.6,67.15,67.15,67.15,42.0,72.0,Semifinal Contender
-79,17,Marshall,MN,4A,1,MSHSL Conference,5-4,5,4,0,9,76.4,76.4,26.44,67.2,157,32.6,23.1,9.5,51.3,51.3,51.3,27.5,44.0,Semifinal Contender
-80,11,Dilworth-Glyndon-Felton,MN,3A,1,MSHSL Conference,3-6,3,6,0,9,76.4,76.4,26.43,80.8,39,25.0,29.0,-4.0,52.35,52.35,52.35,15.0,95.0,Semifinal Contender
-81,24,Mahtomedi,MN,5A,1,MSHSL Conference,1-9,1,9,0,10,76.1,76.1,26.1,89.1,5,19.0,31.8,-12.8,39.65,39.65,39.65,6.0,24.0,Semifinal Contender
-82,18,Chisago Lakes,MN,4A,1,MSHSL Conference,1-9,1,9,0,10,75.6,75.6,25.57,81.9,34,22.1,27.4,-5.3,37.05,37.05,37.05,5.5,0.0,Semifinal Contender
-83,19,Rock Ridge,MN,4A,1,MSHSL Conference,7-2,7,2,0,9,75.5,75.5,25.53,59.9,234,36.8,20.2,16.6,59.93,59.93,59.93,38.5,38.5,Semifinal Contender
-84,3,Upsala/Swanville,MN,1A,1,MSHSL Conference,10-0,10,0,0,10,75.5,75.5,25.45,65.6,175,31.6,18.5,13.1,72.56,72.56,72.56,36.0,144.0,State Title Contender
-85,12,Melrose,MN,3A,1,MSHSL 3A,9-0,9,0,0,9,75.4,75.4,25.43,52.1,275,41.0,16.1,24.9,70.62,70.62,70.62,45.0,60.0,Semifinal Contender
-86,13,Pequot Lakes,MN,3A,1,MSHSL Conference,3-6,3,6,0,9,75.3,75.3,25.34,76.0,75,26.1,26.3,-0.2,48.46,48.46,48.46,15.0,50.0,Semifinal Contender
-87,20,SMB Wolfpack,MN,4A,1,MSHSL Conference,4-5,4,5,0,9,75.1,75.1,25.14,69.8,129,30.4,24.2,6.2,44.49,44.49,44.49,22.0,16.5,Semifinal Contender
-88,25,St. Cloud Apollo,MN,5A,1,MSHSL Conference,7-2,7,2,0,9,75.1,75.1,25.1,65.7,173,35.0,25.7,9.3,68.01,68.01,68.01,42.0,108.0,Semifinal Contender
-89,21,Zimmerman,MN,4A,1,MSHSL Conference,2-8,2,8,0,10,75.1,75.1,25.08,84.3,25,21.3,29.7,-8.4,46.44,46.44,46.44,11.0,60.5,Semifinal Contender
-90,26,St. Cloud Tech,MN,5A,1,MSHSL Conference,8-1,8,1,0,9,75.0,75.0,24.95,63.9,201,32.9,21.7,11.2,72.23,72.23,72.23,48.0,78.0,Semifinal Contender
-91,14,Esko,MN,3A,1,MSHSL Conference,3-6,3,6,0,9,74.6,74.6,24.63,77.6,60,25.9,28.2,-2.3,48.89,48.89,48.89,15.0,55.0,Semifinal Contender
-92,27,Owatonna,MN,5A,1,MSHSL Conference,1-9,1,9,0,10,74.6,74.6,24.61,88.6,10,18.6,32.8,-14.2,38.79,38.79,38.79,6.0,12.0,Semifinal Contender
-93,22,Princeton,MN,4A,1,MSHSL Conference,2-8,2,8,0,10,74.6,74.6,24.6,80.0,42,24.9,30.2,-5.3,44.28,44.28,44.28,11.0,27.5,Semifinal Contender
-94,28,Two Rivers,MN,5A,1,MSHSL Conference,3-6,3,6,0,9,74.5,74.5,24.54,77.4,64,27.3,30.1,-2.8,45.07,45.07,45.07,18.0,6.0,Semifinal Contender
-95,15,Plainview-Elgin-Millville,MN,3A,1,MSHSL Conference,5-4,5,4,0,9,74.4,74.4,24.44,60.2,229,36.6,21.6,15.0,43.46,43.46,43.46,25.0,5.0,Semifinal Contender
-96,29,Apple Valley,MN,5A,1,MSHSL Conference,3-6,3,6,0,9,74.4,74.4,24.42,75.6,81,25.3,27.2,-1.9,46.37,46.37,46.37,18.0,12.0,Semifinal Contender
-97,23,Fergus Falls,MN,4A,1,MSHSL 4A,5-4,5,4,0,9,74.2,74.2,24.17,65.2,180,31.7,22.4,9.3,48.7,48.7,48.7,27.5,16.5,Semifinal Contender
-98,4,Mahnomen/Waubun,MN,1A,1,MSHSL Conference,7-2,7,2,0,9,74.2,74.2,24.15,66.7,164,31.6,23.3,8.3,64.21,64.21,64.21,28.0,116.0,State Title Contender
-99,24,Hibbing,MN,4A,1,MSHSL 3A,7-2,7,2,0,9,74.0,74.0,24.02,56.6,253,37.2,19.4,17.8,58.53,58.53,58.53,38.5,27.5,Semifinal Contender
-100,16,Zumbrota-Mazeppa,MN,3A,1,MSHSL 3A,8-1,8,1,0,9,73.4,73.4,23.43,54.2,266,40.3,19.9,20.4,60.8,60.8,60.8,40.0,20.0,Quarterfinal Contender
-101,7,Osakis,MN,2A,1,MSHSL Conference,5-4,5,4,0,9,73.3,73.3,23.29,69.7,131,28.9,24.6,4.3,57.22,57.22,57.22,22.5,85.5,Semifinal Contender
-102,22,Coon Rapids,MN,6A,1,MSHSL Conference,1-7,1,7,0,8,73.3,73.3,23.28,84.7,22,22.8,35.5,-12.7,30.68,30.68,30.68,6.5,6.5,Quarterfinal Contender
-103,17,Minneapolis North,MN,3A,1,MSHSL Conference,5-4,5,4,0,9,73.2,73.2,23.23,70.3,122,29.9,25.7,4.2,55.56,55.56,55.56,25.0,55.0,Quarterfinal Contender
-104,30,Chaska,MN,5A,1,MSHSL Conference,1-8,1,8,0,9,73.2,73.2,23.19,85.4,18,20.2,32.8,-12.6,37.49,37.49,37.49,6.0,6.0,Quarterfinal Contender
-105,18,Fairmont,MN,3A,1,MSHSL Conference,7-2,7,2,0,9,72.9,72.9,22.92,60.2,230,34.1,20.4,13.7,57.9,57.9,57.9,35.0,35.0,Quarterfinal Contender
-106,25,Little Falls,MN,4A,1,MSHSL 4A,7-2,7,2,0,9,72.8,72.8,22.82,60.9,223,33.0,21.1,11.9,63.01,63.01,63.01,38.5,77.0,Quarterfinal Contender
-107,31,Irondale,MN,5A,1,MSHSL 5A,4-5,4,5,0,9,72.6,72.6,22.63,72.2,103,26.9,27.3,-0.4,49.3,49.3,49.3,24.0,24.0,Quarterfinal Contender
-108,26,Grand Rapids MN,MN,4A,1,MSHSL Conference,7-2,7,2,0,9,72.3,72.3,22.32,60.2,231,34.0,21.3,12.7,59.72,59.72,59.72,38.5,22.0,Quarterfinal Contender
-109,23,Woodbury,MN,6A,1,MSHSL Conference,2-8,2,8,0,10,72.0,72.0,22.0,86.1,17,18.3,34.6,-16.3,39.36,39.36,39.36,13.0,26.0,Quarterfinal Contender
-110,27,Princeton Mn,MN,4A,1,MSHSL Conference,7-2,7,2,0,9,71.9,71.9,21.92,57.4,249,36.4,22.2,14.2,58.85,58.85,58.85,38.5,27.5,Quarterfinal Contender
-111,19,Providence Academy,MN,3A,1,MSHSL Conference,4-5,4,5,0,9,71.7,71.7,21.67,70.4,121,29.1,27.0,2.1,48.77,48.77,48.77,20.0,15.0,Quarterfinal Contender
-112,32,Robbinsdale Cooper,MN,5A,1,MSHSL 5A,6-3,6,3,0,9,71.7,71.7,21.67,62.3,213,32.4,23.1,9.3,56.88,56.88,56.88,36.0,54.0,Quarterfinal Contender
-113,5,Breckenridge,MN,1A,1,MSHSL Conference,5-4,5,4,0,9,71.7,71.7,21.67,63.8,202,32.6,23.2,9.4,53.7,53.7,53.7,20.0,68.0,Semifinal Contender
-114,28,Simley,MN,4A,1,MSHSL Conference,3-6,3,6,0,9,71.7,71.7,21.65,73.1,96,26.3,28.6,-2.3,40.28,40.28,40.28,16.5,0.0,Quarterfinal Contender
-115,6,New Richland-H-E-G,MN,1A,1,MSHSL Conference,9-0,9,0,0,9,71.3,71.3,21.33,42.6,303,45.9,16.2,29.7,60.89,60.89,60.89,36.0,36.0,Semifinal Contender
-116,33,Academy of Holy Angels,MN,5A,1,MSHSL 4A,6-3,6,3,0,9,71.2,71.2,21.25,64.9,190,29.6,23.7,5.9,61.63,61.63,61.63,36.0,90.0,Quarterfinal Contender
-117,24,Farmington,MN,6A,1,MSHSL Conference,2-8,2,8,0,10,71.2,71.2,21.18,88.9,7,18.1,37.1,-19.0,42.25,42.25,42.25,13.0,39.0,Quarterfinal Contender
-118,34,St. Francis MN,MN,5A,1,MSHSL Conference,4-5,4,5,0,9,71.1,71.1,21.12,72.4,100,26.0,27.4,-1.4,46.7,46.7,46.7,24.0,12.0,Quarterfinal Contender
-119,8,Hawley,MN,2A,1,MSHSL Conference,2-7,2,7,0,9,71.0,71.0,20.95,71.5,112,25.9,25.7,0.2,39.48,39.48,39.48,9.0,18.0,Semifinal Contender
-120,25,Eastview,MN,6A,1,MSHSL 6A,1-9,1,9,0,10,70.7,70.7,20.68,88.9,6,17.5,38.3,-20.8,33.69,33.69,33.69,6.5,6.5,Quarterfinal Contender
-121,20,Pine Island,MN,3A,1,MSHSL Conference,4-5,4,5,0,9,70.6,70.6,20.61,64.8,191,31.9,25.2,6.7,42.28,42.28,42.28,20.0,10.0,Quarterfinal Contender
-122,35,Monticello MN,MN,5A,1,MSHSL Conference,4-5,4,5,0,9,70.5,70.5,20.52,69.5,133,27.0,26.6,0.4,44.54,44.54,44.54,24.0,6.0,Quarterfinal Contender
-123,36,St. Louis Park,MN,5A,1,MSHSL 5A,6-3,6,3,0,9,70.5,70.5,20.47,65.7,172,30.1,26.2,3.9,62.93,62.93,62.93,36.0,108.0,Quarterfinal Contender
-124,29,Litchfield MN,MN,4A,1,MSHSL Conference,6-2,6,2,0,8,70.5,70.5,20.45,59.9,235,34.4,23.1,11.3,61.6,61.6,61.6,33.0,33.0,Quarterfinal Contender
-125,26,White Bear Lake,MN,6A,1,MSHSL Conference,0-9,0,9,0,9,70.3,70.3,20.33,92.8,1,15.6,38.9,-23.3,29.03,29.03,29.03,0.0,0,Quarterfinal Contender
-126,21,Luverne,MN,3A,1,MSHSL Conference,6-3,6,3,0,9,70.0,70.0,19.95,56.8,252,33.2,20.3,12.9,47.65,47.65,47.65,30.0,5.0,Quarterfinal Contender
-127,9,Holdingford,MN,2A,1,MSHSL 2A,9-0,9,0,0,9,69.9,69.9,19.93,49.6,287,37.7,16.7,21.0,64.02,64.02,64.02,40.5,31.5,Quarterfinal Contender
-128,22,Two Harbors,MN,3A,1,MSHSL Conference,2-8,2,8,0,10,69.9,69.9,19.92,75.9,77,24.0,29.8,-5.8,39.94,39.94,39.94,10.0,0.0,Quarterfinal Contender
-129,27,Stillwater Area,MN,6A,1,MSHSL Conference,1-9,1,9,0,10,69.8,69.8,19.83,87.3,14,17.0,35.7,-18.7,29.89,29.89,29.89,6.5,13.0,Quarterfinal Contender
-130,10,Staples-Motley,MN,2A,1,MSHSL Conference,4-5,4,5,0,9,69.6,69.6,19.58,67.6,153,27.2,25.3,1.9,51.74,51.74,51.74,18.0,81.0,Quarterfinal Contender
-131,30,Glencoe-Silver Lake,MN,4A,1,MSHSL 3A,6-2,6,2,0,8,69.6,69.6,19.58,62.1,215,27.6,20.5,7.1,61.78,61.78,61.78,33.0,66.0,Quarterfinal Contender
-132,11,St Clair Mn,MN,2A,1,MSHSL Conference,9-0,9,0,0,9,69.6,69.6,19.56,47.8,291,41.3,17.8,23.5,64.46,64.46,64.46,40.5,36.0,Quarterfinal Contender
-133,12,Kimball,MN,2A,1,MSHSL Conference,4-5,4,5,0,9,69.5,69.5,19.54,65.2,182,30.8,25.4,5.4,46.56,46.56,46.56,18.0,18.0,Quarterfinal Contender
-134,28,Park,MN,6A,1,MSHSL 6A,1-9,1,9,0,10,69.2,69.2,19.17,91.6,2,17.5,41.4,-23.9,33.4,33.4,33.4,6.5,6.5,Quarterfinal Contender
-135,13,Norwood Young America,MN,2A,1,MSHSL Conference,4-6,4,6,0,10,69.1,69.1,19.09,64.0,200,32.0,25.5,6.5,40.94,40.94,40.94,18.0,0.0,Quarterfinal Contender
-136,14,Pelican Rapids,MN,2A,1,MSHSL Conference,3-6,3,6,0,9,69.0,69.0,18.95,66.6,166,28.4,25.8,2.6,43.23,43.23,43.23,13.5,27.0,Quarterfinal Contender
-137,31,Thief River Falls,MN,4A,1,MSHSL 3A,8-1,8,1,0,9,68.9,68.9,18.89,57.6,247,31.2,20.0,11.2,68.3,68.3,68.3,44.0,55.0,Quarterfinal Contender
-138,15,Redwood Valley,MN,2A,1,MSHSL Conference,7-2,7,2,0,9,68.9,68.9,18.86,53.4,269,39.0,22.1,16.9,52.2,52.2,52.2,31.5,9.0,Quarterfinal Contender
-139,16,Goodhue,MN,2A,1,MSHSL Conference,6-4,6,4,0,10,68.8,68.8,18.84,59.3,236,32.2,22.0,10.2,48.88,48.88,48.88,27.0,9.0,Quarterfinal Contender
-140,32,Detroit Lakes,MN,4A,1,MSHSL 4A,6-3,6,3,0,9,68.8,68.8,18.84,60.7,225,30.2,21.9,8.3,55.57,55.57,55.57,33.0,27.5,Quarterfinal Contender
-141,37,Park Cottage Grove,MN,5A,1,MSHSL Conference,3-6,3,6,0,9,68.7,68.7,18.7,71.8,109,22.4,25.7,-3.3,43.78,43.78,43.78,18.0,54.0,Quarterfinal Contender
-142,33,New Ulm,MN,4A,1,MSHSL 4A,5-3,5,3,0,8,68.5,68.5,18.55,66.0,169,28.2,26.2,2.0,60.14,60.14,60.14,27.5,110.0,Quarterfinal Contender
-143,23,Sauk Centre,MN,3A,1,MSHSL 3A,9-0,9,0,0,9,68.4,68.4,18.44,53.3,270,34.3,18.1,16.2,73.21,73.21,73.21,45.0,85.0,Quarterfinal Contender
-144,34,Byron MN,MN,4A,1,MSHSL Conference,5-4,5,4,0,9,68.4,68.4,18.43,67.1,159,27.7,27.2,0.5,49.14,49.14,49.14,27.5,22.0,Quarterfinal Contender
-145,7,BOLD,MN,1A,1,MSHSL Conference,4-5,4,5,0,9,68.4,68.4,18.42,66.8,163,28.1,25.9,2.2,51.69,51.69,51.69,16.0,76.0,Semifinal Contender
-146,38,Cambridge-Isanti,MN,5A,1,MSHSL 5A,4-5,4,5,0,9,68.4,68.4,18.41,72.4,101,24.3,28.9,-4.6,48.0,48.0,48.0,24.0,30.0,Quarterfinal Contender
-147,8,Mayer Lutheran,MN,1A,1,MSHSL Conference,4-5,4,5,0,9,68.2,68.2,18.21,64.4,196,25.2,21.1,4.1,50.4,50.4,50.4,16.0,72.0,Semifinal Contender
-148,39,Minneapolis Washburn,MN,5A,1,MSHSL Conference,4-5,4,5,0,9,68.2,68.2,18.18,67.6,154,26.2,26.6,-0.4,49.73,49.73,49.73,24.0,72.0,Quarterfinal Contender
-149,17,Maple River,MN,2A,1,MSHSL 2A,8-1,8,1,0,9,68.2,68.2,18.15,51.7,277,36.1,19.0,17.1,60.27,60.27,60.27,36.0,40.5,Quarterfinal Contender
-150,24,Tri-City United,MN,3A,1,MSHSL Conference,6-3,6,3,0,9,68.1,68.1,18.1,58.5,240,34.1,23.7,10.4,50.68,50.68,50.68,30.0,20.0,Quarterfinal Contender
-151,35,East Grand Forks,MN,4A,1,MSHSL 3A,8-1,8,1,0,9,68.0,68.0,18.01,58.4,241,31.6,22.0,9.6,69.66,69.66,69.66,44.0,77.0,Quarterfinal Contender
-152,25,Mora,MN,3A,1,MSHSL Conference,2-8,2,8,0,10,68.0,68.0,18.01,76.1,73,23.5,31.7,-8.2,39.51,39.51,39.51,10.0,0.0,Quarterfinal Contender
-153,40,St. Paul Central,MN,5A,1,MSHSL 5A,5-4,5,4,0,9,68.0,68.0,18.0,69.2,138,25.7,27.7,-2.0,58.27,58.27,58.27,30.0,78.0,Quarterfinal Contender
-154,36,Virginia MN,MN,4A,1,MSHSL Conference,7-2,7,2,0,9,68.0,68.0,17.95,58.4,242,29.3,19.8,9.5,60.15,60.15,60.15,38.5,22.0,Quarterfinal Contender
-155,37,Jordan,MN,4A,1,MSHSL 3A,4-4,4,4,0,8,67.8,67.8,17.81,63.7,205,26.8,23.4,3.4,48.66,48.66,48.66,22.0,88.0,Quarterfinal Contender
-156,26,Howard Lake-Waverly-Winsted,MN,3A,1,MSHSL 3A,8-1,8,1,0,9,67.8,67.8,17.8,54.4,265,31.6,17.7,13.9,65.83,65.83,65.83,40.0,70.0,Quarterfinal Contender
-157,41,Minneapolis Southwest,MN,5A,1,MSHSL 5A,3-6,3,6,0,9,67.8,67.8,17.75,69.5,134,25.2,27.9,-2.7,45.07,45.07,45.07,18.0,102.0,Quarterfinal Contender
-158,18,Janesville-Waldorf-Pemberton,MN,2A,1,MSHSL 2A,9-0,9,0,0,9,67.7,67.7,17.74,49.6,286,38.3,20.1,18.2,64.89,64.89,64.89,40.5,40.5,Quarterfinal Contender
-159,9,Lester Prairie,MN,1A,1,MSHSL Conference,3-6,3,6,0,9,67.7,67.7,17.72,68.7,140,24.9,25.3,-0.4,47.09,47.09,47.09,12.0,68.0,Quarterfinal Contender
-160,10,Grand Meadow,MN,1A,1,MSHSL 1A,9-0,9,0,0,9,67.6,67.6,17.57,42.7,302,41.4,15.2,26.2,58.73,58.73,58.73,36.0,16.0,Quarterfinal Contender
-161,27,Milaca,MN,3A,1,MSHSL 3A,8-1,8,1,0,9,67.5,67.5,17.55,51.0,281,34.4,18.0,16.4,63.07,63.07,63.07,40.0,25.0,Quarterfinal Contender
-162,28,St. Croix Lutheran,MN,3A,1,MSHSL Conference,6-3,6,3,0,9,67.5,67.5,17.54,56.8,251,31.4,21.1,10.3,51.33,51.33,51.33,30.0,20.0,Quarterfinal Contender
-163,19,Waterville-Elysian-Morristown,MN,2A,1,MSHSL 2A,8-1,8,1,0,9,67.5,67.5,17.52,51.1,280,36.8,20.0,16.8,57.68,57.68,57.68,36.0,18.0,Quarterfinal Contender
-164,11,Parkers Prairie,MN,1A,1,MSHSL Conference,8-2,8,2,0,10,67.2,67.2,17.24,52.7,271,37.5,21.9,15.6,58.88,58.88,58.88,32.0,56.0,Quarterfinal Contender
-165,38,Foley,MN,4A,1,MSHSL 3A,7-2,7,2,0,9,67.1,67.1,17.11,60.5,226,29.2,23.6,5.6,64.04,64.04,64.04,38.5,82.5,Quarterfinal Contender
-166,39,Worthington,MN,4A,1,MSHSL 3A,6-3,6,3,0,9,67.0,67.0,17.02,65.2,181,26.2,24.7,1.5,64.21,64.21,64.21,33.0,115.5,Quarterfinal Contender
-167,42,Duluth East,MN,5A,1,MSHSL 5A,5-4,5,4,0,9,67.0,67.0,17.01,66.7,165,27.1,27.8,-0.7,50.93,50.93,50.93,30.0,66.0,Quarterfinal Contender
-168,12,Springfield MN,MN,1A,1,MSHSL Conference,8-1,8,1,0,9,66.9,66.9,16.9,43.9,301,41.4,17.4,24.0,54.12,54.12,54.12,32.0,16.0,Quarterfinal Contender
-169,43,St. Paul Highland Park,MN,5A,1,MSHSL Conference,4-5,4,5,0,9,66.7,66.7,16.72,68.3,145,24.0,26.6,-2.6,51.46,51.46,51.46,24.0,78.0,Quarterfinal Contender
-170,20,Warroad,MN,2A,1,MSHSL Conference,7-2,7,2,0,9,66.7,66.7,16.7,54.1,267,35.3,22.0,13.3,53.49,53.49,53.49,31.5,18.0,Quarterfinal Contender
-171,21,Royalton,MN,2A,1,MSHSL 2A,8-1,8,1,0,9,66.5,66.5,16.51,52.2,274,35.3,21.0,14.3,59.41,59.41,59.41,36.0,27.0,Quarterfinal Contender
-172,13,Mabel-Canton,MN,1A,1,MSHSL 1A,9-0,9,0,0,9,66.3,66.3,16.28,44.7,299,41.8,18.3,23.5,59.59,59.59,59.59,36.0,24.0,Quarterfinal Contender
-173,14,Lanesboro,MN,1A,1,MSHSL 1A,9-0,9,0,0,9,66.2,66.2,16.2,39.1,305,42.7,15.2,27.5,58.3,58.3,58.3,36.0,12.0,Quarterfinal Contender
-174,15,Bethlehem Academy,MN,1A,1,MSHSL Conference,9-0,9,0,0,9,66.2,66.2,16.16,44.4,300,40.6,17.4,23.2,60.46,60.46,60.46,36.0,32.0,Quarterfinal Contender
-175,29,Blake,MN,3A,1,MSHSL Conference,5-3,5,3,0,8,65.7,65.7,15.69,56.3,256,32.1,22.6,9.5,52.29,52.29,52.29,25.0,25.0,Quarterfinal Contender
-176,22,St James Mn,MN,2A,1,MSHSL Conference,8-1,8,1,0,9,65.7,65.7,15.69,54.4,263,32.4,20.2,12.2,63.3,63.3,63.3,36.0,63.0,Quarterfinal Contender
-177,29,White Bear Lake Area,MN,6A,1,MSHSL Conference,1-9,1,9,0,10,65.6,65.6,15.57,86.9,16,18.1,41.7,-23.6,33.83,33.83,33.83,6.5,6.5,Quarterfinal Contender
-178,44,Bloomington Kennedy,MN,5A,1,MSHSL Conference,4-5,4,5,0,9,65.5,65.5,15.55,67.8,151,22.7,26.8,-4.1,46.27,46.27,46.27,24.0,66.0,Quarterfinal Contender
-179,16,Southland,MN,1A,1,MSHSL 1A,8-1,8,1,0,9,65.4,65.4,15.44,48.2,290,36.3,18.1,18.2,55.42,55.42,55.42,32.0,28.0,Quarterfinal Contender
-180,40,St Peter,MN,4A,1,MSHSL Conference,4-3,4,3,0,7,65.1,65.1,15.14,65.4,176,25.4,26.4,-1.0,59.36,59.36,59.36,22.0,121.0,Quarterfinal Contender
-181,30,Belle Plaine,MN,3A,1,MSHSL 3A,6-2,6,2,0,8,65.1,65.1,15.09,61.1,222,26.1,22.0,4.1,67.65,67.65,67.65,30.0,120.0,Quarterfinal Contender
-182,30,Roseville Area,MN,6A,1,MSHSL Conference,1-9,1,9,0,10,64.9,64.9,14.89,88.9,8,16.7,41.3,-24.6,33.26,33.26,33.26,6.5,0.0,Quarterfinal Contender
-183,23,Lake Crystal Wellcome Memorial,MN,2A,1,MSHSL Conference,9-0,9,0,0,9,64.8,64.8,14.79,51.7,278,35.2,21.2,14.0,69.21,69.21,69.21,40.5,85.5,Quarterfinal Contender
-184,24,Tracy-Milroy-Balaton,MN,2A,1,MSHSL 1A,7-2,7,2,0,9,64.7,64.7,14.65,53.9,268,31.6,20.2,11.4,58.68,58.68,58.68,31.5,72.0,Quarterfinal Contender
-185,45,Richfield,MN,5A,1,MSHSL 4A,2-7,2,7,0,9,64.5,64.5,14.51,67.3,156,22.9,27.6,-4.7,32.64,32.64,32.64,12.0,48.0,Quarterfinal Contender
-186,31,Park Center,MN,6A,1,MSHSL 4A,2-7,2,7,0,9,64.4,64.4,14.44,82.1,33,19.7,38.1,-18.4,37.96,37.96,37.96,13.0,13.0,Quarterfinal Contender
-187,25,Pipestone Area,MN,2A,1,MSHSL Conference,6-3,6,3,0,9,64.4,64.4,14.38,56.1,258,33.9,24.2,9.7,48.44,48.44,48.44,27.0,22.5,Quarterfinal Contender
-188,31,Proctor,MN,3A,1,MSHSL Conference,7-2,7,2,0,9,64.4,64.4,14.38,52.4,273,32.4,20.8,11.6,54.23,54.23,54.23,35.0,5.0,Quarterfinal Contender
-189,32,Pine City,MN,3A,1,MSHSL 3A,8-1,8,1,0,9,64.3,64.3,14.32,54.5,262,31.1,21.6,9.5,64.53,64.53,64.53,40.0,45.0,Quarterfinal Contender
-190,17,Belgrade-Brooten-Elrosa,MN,1A,1,MSHSL Conference,6-3,6,3,0,9,64.3,64.3,14.3,50.2,284,37.4,21.8,15.6,44.05,44.05,44.05,24.0,12.0,Quarterfinal Contender
-191,33,Brooklyn Center,MN,3A,1,MSHSL Conference,6-2,6,2,0,8,64.3,64.3,14.26,59.2,237,28.6,23.5,5.1,64.24,64.24,64.24,30.0,75.0,Quarterfinal Contender
-192,26,Maple Lake,MN,2A,1,MSHSL Conference,8-1,8,1,0,9,64.1,64.1,14.08,50.5,283,35.1,21.0,14.1,58.98,58.98,58.98,36.0,22.5,Quarterfinal Contender
-193,18,Fillmore Central,MN,1A,1,MSHSL Conference,3-6,3,6,0,9,64.0,64.0,14.02,68.6,141,24.0,29.8,-5.8,46.22,46.22,46.22,12.0,56.0,Quarterfinal Contender
-194,19,Kingsland,MN,1A,1,MSHSL 1A,9-0,9,0,0,9,64.0,64.0,13.96,46.7,295,37.4,18.9,18.5,60.46,60.46,60.46,36.0,32.0,Quarterfinal Contender
-195,34,Breck,MN,3A,1,MSHSL 3A,5-3,5,3,0,8,63.8,63.8,13.8,55.6,260,30.5,21.9,8.6,49.68,49.68,49.68,25.0,35.0,Playoff Bubble
-196,35,Concordia Academy,MN,3A,1,MSHSL Conference,5-3,5,3,0,8,63.7,63.7,13.67,57.6,248,28.4,22.9,5.5,53.08,53.08,53.08,25.0,70.0,Playoff Bubble
-197,20,Dawson-Boyd,MN,1A,1,MSHSL Conference,4-5,4,5,0,9,63.5,63.5,13.5,61.9,217,30.4,28.9,1.5,47.8,47.8,47.8,16.0,40.0,Dark Horse
-198,27,Hlww,MN,2A,1,MSHSL Conference,9-0,9,0,0,9,63.5,63.5,13.49,46.5,296,36.7,18.8,17.9,62.73,62.73,62.73,40.5,18.0,Dark Horse
-199,28,Triton,MN,2A,1,MSHSL Conference,5-5,5,5,0,10,63.4,63.4,13.44,63.5,206,28.1,27.7,0.4,47.28,47.28,47.28,22.5,18.0,Dark Horse
-200,41,Red Wing,MN,4A,1,MSHSL 3A,2-7,2,7,0,9,63.4,63.4,13.4,72.0,105,21.2,30.3,-9.1,41.42,41.42,41.42,11.0,66.0,Playoff Bubble
-201,21,Murray County Central,MN,1A,1,MSHSL Conference,4-6,4,6,0,10,63.3,63.3,13.33,57.1,250,30.6,23.6,7.0,37.0,37.0,37.0,16.0,0.0,Dark Horse
-202,29,Paynesville,MN,2A,1,MSHSL Conference,4-5,4,5,0,9,63.2,63.2,13.21,67.2,158,26.2,29.4,-3.2,46.99,46.99,46.99,18.0,22.5,Dark Horse
-203,22,Spring Grove,MN,1A,1,MSHSL 1A,8-1,8,1,0,9,63.1,63.1,13.11,41.4,304,40.4,18.9,21.5,52.83,52.83,52.83,32.0,8.0,Dark Horse
-204,23,Braham,MN,1A,1,MSHSL Conference,3-6,3,6,0,9,62.7,62.7,12.7,59.1,238,30.1,26.3,3.8,37.58,37.58,37.58,12.0,0.0,Dark Horse
-205,30,NRHEG,MN,2A,1,MSHSL Conference,7-2,7,2,0,9,62.2,62.2,12.21,49.2,288,31.9,18.9,13.0,52.63,52.63,52.63,31.5,45.0,Dark Horse
-206,24,Deer River,MN,1A,1,MSHSL Conference,4-5,4,5,0,9,62.0,62.0,12.05,61.2,221,28.9,27.1,1.8,43.05,43.05,43.05,16.0,16.0,Dark Horse
-207,42,Faribault,MN,4A,1,MSHSL 6A,2-6,2,6,0,8,61.8,61.8,11.84,70.6,117,21.1,31.1,-10.0,41.74,41.74,41.74,11.0,60.5,Playoff Bubble
-208,43,St. Peter,MN,4A,1,MSHSL 4A,2-6,2,6,0,8,61.7,61.7,11.69,68.9,139,21.6,30.8,-9.2,39.85,39.85,39.85,11.0,33.0,Playoff Bubble
-209,31,West Central Area,MN,2A,1,MSHSL 1A,5-4,5,4,0,9,61.6,61.6,11.6,58.9,239,27.8,25.2,2.6,52.47,52.47,52.47,22.5,49.5,Dark Horse
-210,32,Maccray,MN,2A,1,MSHSL Conference,7-2,7,2,0,9,61.6,61.6,11.58,56.4,254,27.4,22.2,5.2,60.41,60.41,60.41,31.5,90.0,Dark Horse
-211,32,Osseo,MN,6A,1,MSHSL 6A,1-9,1,9,0,10,61.3,61.3,11.32,87.3,13,14.9,44.1,-29.2,28.93,28.93,28.93,6.5,6.5,Dark Horse
-212,25,Park Christian,MN,1A,1,MSHSL Conference,6-3,6,3,0,9,61.2,61.2,11.23,47.1,294,36.6,22.3,14.3,43.62,43.62,43.62,24.0,4.0,Dark Horse
-213,33,Renville County West,MN,2A,1,MSHSL 1A,5-4,5,4,0,9,61.1,61.1,11.13,56.4,255,29.1,24.3,4.8,48.58,48.58,48.58,22.5,54.0,Playoff Bubble
-214,44,Belle Plaine MN,MN,4A,1,MSHSL Conference,1-7,1,7,0,8,61.0,61.0,11.05,65.3,178,24.0,29.9,-5.9,28.99,28.99,28.99,5.5,0.0,Playoff Bubble
-215,26,Rushford-Peterson,MN,1A,1,MSHSL Conference,5-5,5,5,0,10,61.0,61.0,10.95,58.0,245,29.1,25.3,3.8,45.49,45.49,45.49,20.0,12.0,Dark Horse
-216,36,Blue Earth Area,MN,3A,1,MSHSL Conference,4-4,4,4,0,8,60.7,60.7,10.66,64.6,193,22.4,26.6,-4.2,55.23,55.23,55.23,20.0,75.0,Playoff Bubble
-217,45,St. Anthony Village,MN,4A,1,MSHSL 4A,3-6,3,6,0,9,60.6,60.6,10.56,68.5,142,22.2,31.0,-8.8,45.96,45.96,45.96,16.5,77.0,Playoff Bubble
-218,46,Washburn,MN,5A,1,MSHSL 5A,3-6,3,6,0,9,60.6,60.6,10.56,64.9,188,23.6,30.1,-6.5,39.89,39.89,39.89,18.0,60.0,Playoff Bubble
-219,37,Le Sueur-Henderson,MN,3A,1,MSHSL Conference,4-4,4,4,0,8,60.5,60.5,10.52,63.2,208,24.9,28.0,-3.1,55.89,55.89,55.89,20.0,90.0,Playoff Bubble
-220,46,Austin MN,MN,4A,1,MSHSL Conference,2-7,2,7,0,9,59.4,59.4,9.35,70.2,123,20.7,33.0,-12.3,39.64,39.64,39.64,11.0,71.5,Playoff Bubble
-221,33,Roseville,MN,6A,1,MSHSL 6A,2-7,2,7,0,9,59.3,59.3,9.27,84.4,24,17.6,42.6,-25.0,38.18,38.18,38.18,13.0,13.0,Playoff Bubble
-222,38,Rockford MN,MN,3A,1,MSHSL Conference,5-4,5,4,0,9,59.1,59.1,9.12,56.0,259,26.1,23.8,2.3,46.75,46.75,46.75,25.0,25.0,Playoff Bubble
-223,27,Martin County West,MN,1A,1,MSHSL 1A,9-0,9,0,0,9,59.0,59.0,9.03,45.5,297,35.2,20.9,14.3,61.75,61.75,61.75,36.0,44.0,Dark Horse
-224,47,Marshall MN,MN,5A,1,MSHSL Conference,1-8,1,8,0,9,59.0,59.0,8.95,73.0,97,17.9,33.4,-15.5,24.53,24.53,24.53,6.0,12.0,Playoff Bubble
-225,34,Hopkins,MN,6A,1,MSHSL 6A,0-10,0,10,0,10,58.8,58.8,8.78,88.5,11,14.3,44.9,-30.6,23.14,23.14,23.14,0.0,0,Playoff Bubble
-226,35,Burnsville,MN,6A,1,MSHSL 5A,1-6,1,6,0,7,58.7,58.7,8.69,84.3,27,15.6,42.4,-26.8,32.32,32.32,32.32,6.5,6.5,Playoff Bubble
-227,28,Sleepy Eye St. Mary's,MN,1A,1,MSHSL Conference,6-3,6,3,0,9,58.0,58.0,7.99,47.8,292,30.2,19.2,11.0,45.35,45.35,45.35,24.0,24.0,Dark Horse
-228,39,Spectrum,MN,3A,1,MSHSL 3A,3-5,3,5,0,8,57.9,57.9,7.9,61.9,216,23.5,28.4,-4.9,41.81,41.81,41.81,15.0,45.0,Playoff Bubble
-229,34,Pillager,MN,2A,1,MSHSL 2A,1-8,1,8,0,9,57.5,57.5,7.51,62.3,214,22.3,27.6,-5.3,32.7,32.7,32.7,4.5,31.5,Playoff Bubble
-230,48,Rochester Century,MN,5A,1,MSHSL Conference,1-8,1,8,0,9,57.3,57.3,7.34,70.0,127,19.6,34.8,-15.2,25.83,25.83,25.83,6.0,30.0,Playoff Bubble
-231,29,Buffalo Lake-Hector-Stewart,MN,1A,1,MSHSL 1A,6-3,6,3,0,9,57.1,57.1,7.15,51.3,279,28.1,22.4,5.7,52.69,52.69,52.69,24.0,104.0,Dark Horse
-232,47,Winona,MN,4A,1,MSHSL 4A,0-9,0,9,0,9,57.0,57.0,6.95,68.1,148,18.2,31.7,-13.5,24.04,24.04,24.04,0.0,0,Playoff Bubble
-233,35,Fcl,MN,2A,1,MSHSL Conference,3-6,3,6,0,9,56.9,56.9,6.94,60.4,227,25.9,29.7,-3.8,40.21,40.21,40.21,13.5,40.5,Playoff Bubble
-234,30,United South Central,MN,1A,1,MSHSL Conference,8-1,8,1,0,9,56.9,56.9,6.85,45.5,298,32.3,21.3,11.0,57.15,57.15,57.15,32.0,36.0,Dark Horse
-235,31,New Ulm Cathedral,MN,1A,1,MSHSL 1A,6-3,6,3,0,9,56.5,56.5,6.49,48.9,289,29.0,20.9,8.1,50.1,50.1,50.1,24.0,56.0,Dark Horse
-236,49,Tartan,MN,5A,1,MSHSL 5A,1-8,1,8,0,9,56.4,56.4,6.41,71.3,113,18.4,35.6,-17.2,30.15,30.15,30.15,6.0,18.0,Rebuilding
-237,40,Sibley East,MN,3A,1,MSHSL 2A,1-7,1,7,0,8,56.4,56.4,6.4,63.5,207,20.2,29.2,-9.0,30.55,30.55,30.55,5.0,25.0,Playoff Bubble
-238,36,Farmington MN,MN,6A,1,MSHSL Conference,1-7,1,7,0,8,56.3,56.3,6.28,82.4,32,17.0,43.6,-26.6,31.86,31.86,31.86,6.5,13.0,Playoff Bubble
-239,32,Canby,MN,1A,1,MSHSL 1A,6-3,6,3,0,9,55.9,55.9,5.91,54.4,264,26.0,24.3,1.7,57.88,57.88,57.88,24.0,100.0,Dark Horse
-240,37,Buffalo MN,MN,6A,1,MSHSL Conference,1-7,1,7,0,8,55.9,55.9,5.9,78.5,53,15.8,39.4,-23.6,26.59,26.59,26.59,6.5,13.0,Playoff Bubble
-241,33,Wabasso,MN,1A,1,MSHSL 1A,6-3,6,3,0,9,55.6,55.6,5.62,52.0,276,24.3,20.7,3.6,54.42,54.42,54.42,24.0,96.0,Playoff Bubble
-242,48,Albert Lea,MN,4A,1,MSHSL 3A,1-8,1,8,0,9,55.5,55.5,5.46,68.4,144,21.6,36.4,-14.8,33.11,33.11,33.11,5.5,22.0,Playoff Bubble
-243,34,Adrian/Ellsworth,MN,1A,1,MSHSL 1A,6-3,6,3,0,9,55.4,55.4,5.43,50.6,282,28.7,24.3,4.4,50.96,50.96,50.96,24.0,44.0,Playoff Bubble
-244,35,GFW,MN,1A,1,MSHSL Conference,7-2,7,2,0,9,55.2,55.2,5.23,49.9,285,27.8,22.3,5.5,54.27,54.27,54.27,28.0,60.0,Playoff Bubble
-245,49,DeLaSalle,MN,4A,1,MSHSL 4A,0-9,0,9,0,9,54.7,54.7,4.67,73.7,91,17.7,37.9,-20.2,24.52,24.52,24.52,0.0,0,Rebuilding
-246,36,Sleepy Eye United,MN,1A,1,MSHSL Conference,7-2,7,2,0,9,54.3,54.3,4.33,47.7,293,26.7,20.0,6.7,53.41,53.41,53.41,28.0,36.0,Playoff Bubble
-247,41,Windom,MN,3A,1,MSHSL 2A,2-7,2,7,0,9,54.3,54.3,4.29,65.0,186,22.3,34.9,-12.6,37.24,37.24,37.24,10.0,20.0,Playoff Bubble
-248,36,Menahga,MN,2A,1,MSHSL 2A,3-6,3,6,0,9,54.3,54.3,4.28,61.6,219,23.4,31.9,-8.5,42.8,42.8,42.8,13.5,31.5,Playoff Bubble
-249,50,Columbia Heights,MN,4A,1,MSHSL 4A,1-8,1,8,0,9,54.2,54.2,4.16,72.3,102,17.7,36.9,-19.2,32.94,32.94,32.94,5.5,22.0,Rebuilding
-250,50,New Prague,MN,5A,1,MSHSL 5A,0-9,0,9,0,9,53.5,53.5,3.47,73.6,92,17.8,39.1,-21.3,18.58,18.58,18.58,0.0,0,Rebuilding
-251,42,Morris Area,MN,3A,1,MSHSL Conference,0-9,0,9,0,9,53.4,53.4,3.42,66.8,162,19.8,35.0,-15.2,25.33,25.33,25.33,0.0,0,Playoff Bubble
-252,37,Benson,MN,2A,1,MSHSL 1A,4-5,4,5,0,9,52.6,52.6,2.63,58.1,244,21.2,28.0,-6.8,43.1,43.1,43.1,18.0,31.5,Playoff Bubble
-253,51,St. Paul Johnson,MN,4A,1,MSHSL Conference,0-9,0,9,0,9,52.5,52.5,2.51,70.7,116,18.4,37.8,-19.4,20.74,20.74,20.74,0.0,0,Rebuilding
-254,38,Moose Lake/Willow River,MN,2A,1,MSHSL 2A,2-7,2,7,0,9,52.4,52.4,2.42,63.7,204,20.6,33.0,-12.4,41.64,41.64,41.64,9.0,31.5,Playoff Bubble
-255,51,South St. Paul,MN,5A,1,MSHSL 4A,0-9,0,9,0,9,52.1,52.1,2.14,70.7,115,20.0,41.1,-21.1,20.74,20.74,20.74,0.0,0,Rebuilding
-256,43,Roseau,MN,3A,1,MSHSL 2A,1-8,1,8,0,9,52.1,52.1,2.1,69.3,137,17.8,35.8,-18.0,32.55,32.55,32.55,5.0,25.0,Playoff Bubble
-257,44,Montevideo,MN,3A,1,MSHSL 3A,0-9,0,9,0,9,51.7,51.7,1.73,66.4,167,18.6,35.4,-16.8,26.84,26.84,26.84,0.0,0,Playoff Bubble
-258,45,Minnewaska,MN,3A,1,MSHSL Conference,1-8,1,8,0,9,51.7,51.7,1.72,67.5,155,17.4,35.0,-17.6,33.31,33.31,33.31,5.0,25.0,Playoff Bubble
-259,39,Barnum,MN,2A,1,MSHSL 1A,0-9,0,9,0,9,51.6,51.6,1.59,64.6,194,19.4,34.0,-14.6,28.09,28.09,28.09,0.0,0,Playoff Bubble
-260,40,Crosby-Ironton,MN,2A,1,MSHSL 2A,1-8,1,8,0,9,51.5,51.5,1.55,62.6,211,20.2,32.8,-12.6,32.27,32.27,32.27,4.5,31.5,Playoff Bubble
-261,46,Pipestone,MN,3A,1,MSHSL 2A,0-9,0,9,0,9,51.2,51.2,1.17,65.4,177,17.8,34.6,-16.8,26.2,26.2,26.2,0.0,0,Playoff Bubble
-262,37,Kerkhoven-Murdock-Sunburg,MN,1A,1,MSHSL 2A,2-7,2,7,0,9,50.5,50.5,0.5,59.9,233,21.4,32.4,-11.0,41.62,41.62,41.62,8.0,52.0,Playoff Bubble
-263,38,Browerville,MN,1A,1,MSHSL Conference,1-8,1,8,0,9,50.0,50.0,-0.01,60.8,224,17.9,29.4,-11.5,36.58,36.58,36.58,4.0,24.0,Playoff Bubble
-264,39,Lakeview MN,MN,1A,1,MSHSL Conference,4-5,4,5,0,9,49.8,49.8,-0.24,55.3,261,23.8,30.4,-6.6,47.37,47.37,47.37,16.0,56.0,Playoff Bubble
-265,52,St. Paul Como Park,MN,4A,1,MSHSL Conference,0-9,0,9,0,9,49.7,49.7,-0.32,72.0,106,14.8,39.0,-24.2,19.01,19.01,19.01,0.0,0,Rebuilding
-266,41,Frazee,MN,2A,1,MSHSL 2A,1-8,1,8,0,9,49.3,49.3,-0.69,60.2,228,20.9,33.0,-12.1,29.25,29.25,29.25,4.5,4.5,Playoff Bubble
-267,53,Fridley,MN,4A,1,MSHSL 4A,0-9,0,9,0,9,49.3,49.3,-0.72,70.2,124,16.8,40.6,-23.8,22.79,22.79,22.79,0.0,0,Rebuilding
-268,42,Greenway,MN,2A,1,MSHSL Conference,0-9,0,9,0,9,48.9,48.9,-1.15,65.1,185,18.1,36.7,-18.6,29.81,29.81,29.81,0.0,0,Playoff Bubble
-269,54,St. Paul Harding,MN,4A,1,MSHSL Conference,0-9,0,9,0,9,48.3,48.3,-1.68,75.0,83,17.2,45.4,-28.2,22.04,22.04,22.04,0.0,0,Rebuilding
-270,40,Walker-Hackensack-Akeley,MN,1A,1,MSHSL 1A,0-9,0,9,0,9,47.9,47.9,-2.15,62.9,210,20.3,35.7,-15.4,31.11,31.11,31.11,0.0,0,Playoff Bubble
-271,43,Rush City,MN,2A,1,MSHSL 2A,0-9,0,9,0,9,47.7,47.7,-2.27,66.9,161,18.0,38.9,-20.9,30.68,30.68,30.68,0.0,0,Playoff Bubble
-272,41,Red Rock Central,MN,1A,1,MSHSL 1A,3-6,3,6,0,9,47.4,47.4,-2.65,52.7,272,23.1,29.7,-6.6,37.15,37.15,37.15,12.0,8.0,Playoff Bubble
-273,42,Wadena-Deer Creek,MN,1A,1,MSHSL 2A,1-8,1,8,0,9,47.0,47.0,-2.99,61.5,220,20.6,35.8,-15.2,35.28,35.28,35.28,4.0,24.0,Playoff Bubble
-274,47,Park Rapids,MN,3A,1,MSHSL 3A,0-9,0,9,0,9,47.0,47.0,-3.0,69.4,135,16.8,40.8,-24.0,26.2,26.2,26.2,0.0,0,Playoff Bubble
-275,48,Lake City,MN,3A,1,MSHSL 3A,0-9,0,9,0,9,46.9,46.9,-3.14,70.0,126,17.2,42.2,-25.0,25.49,25.49,25.49,0.0,0,Playoff Bubble
-276,44,Kenyon-Wanamingo,MN,2A,1,MSHSL 2A,0-9,0,9,0,9,46.6,46.6,-3.38,67.7,152,17.7,40.3,-22.6,29.38,29.38,29.38,0.0,0,Playoff Bubble
-277,43,Yellow Medicine East,MN,1A,1,MSHSL 1A,1-8,1,8,0,9,46.2,46.2,-3.81,56.1,257,21.1,32.8,-11.7,29.23,29.23,29.23,4.0,24.0,Playoff Bubble
-278,49,Perham,MN,3A,1,MSHSL 3A,1-8,1,8,0,9,46.2,46.2,-3.83,68.2,146,16.4,40.2,-23.8,32.82,32.82,32.82,5.0,25.0,Rebuilding
-279,44,Long Prairie-Grey Eagle,MN,1A,1,MSHSL 1A,1-8,1,8,0,9,46.1,46.1,-3.87,58.1,243,19.7,33.2,-13.5,32.26,32.26,32.26,4.0,24.0,Playoff Bubble
-280,45,Onamia,MN,2A,1,MSHSL Conference,0-9,0,9,0,9,45.8,45.8,-4.24,65.1,183,18.0,39.2,-21.2,28.52,28.52,28.52,0.0,0,Playoff Bubble
-281,45,RTR,MN,1A,1,MSHSL Conference,1-8,1,8,0,9,45.6,45.6,-4.35,57.7,246,21.0,34.9,-13.9,31.83,31.83,31.83,4.0,4.0,Playoff Bubble
-282,46,Blooming Prairie,MN,2A,1,MSHSL 2A,1-8,1,8,0,9,45.6,45.6,-4.39,65.0,187,18.8,39.8,-21.0,34.0,34.0,34.0,4.5,31.5,Playoff Bubble
-283,47,International Falls,MN,2A,1,MSHSL 3A,0-9,0,9,0,9,45.4,45.4,-4.58,64.9,189,17.3,39.1,-21.8,28.52,28.52,28.52,0.0,0,Playoff Bubble
-284,50,La Crescent,MN,3A,1,MSHSL 3A,0-9,0,9,0,9,44.6,44.6,-5.44,69.8,130,15.0,41.9,-26.9,23.77,23.77,23.77,0.0,0,Rebuilding
-285,46,New York Mills,MN,1A,1,MSHSL 1A,0-9,0,9,0,9,44.5,44.5,-5.53,61.9,218,17.7,37.1,-19.4,31.11,31.11,31.11,0.0,0,Playoff Bubble
-286,52,Rochester John Marshall,MN,5A,1,MSHSL Conference,0-9,0,9,0,9,44.3,44.3,-5.66,71.8,110,15.9,46.7,-30.8,19.44,19.44,19.44,0.0,0,Rebuilding
-287,47,Ada-Borup-West,MN,1A,1,MSHSL Conference,0-9,0,9,0,9,44.1,44.1,-5.9,63.1,209,18.2,38.0,-19.8,29.38,29.38,29.38,0.0,0,Playoff Bubble
-288,51,St. Charles MN,MN,3A,1,MSHSL Conference,0-9,0,9,0,9,43.8,43.8,-6.25,72.0,107,15.7,45.0,-29.3,21.6,21.6,21.6,0.0,0,Rebuilding
-289,52,Dover-Eyota,MN,3A,1,MSHSL 2A,0-9,0,9,0,9,43.4,43.4,-6.64,70.5,120,17.3,45.7,-28.4,21.6,21.6,21.6,0.0,0,Rebuilding
-290,48,Otc,MN,1A,1,MSHSL Conference,0-9,0,9,0,9,42.6,42.6,-7.37,60.0,232,16.6,35.9,-19.3,27.65,27.65,27.65,0.0,0,Playoff Bubble
-291,48,Filmore Central,MN,2A,1,MSHSL Conference,0-9,0,9,0,9,41.9,41.9,-8.12,68.2,147,16.7,44.3,-27.6,25.49,25.49,25.49,0.0,0,Playoff Bubble
-292,53,Rochester Lourdes,MN,3A,1,MSHSL Conference,0-9,0,9,0,9,41.2,41.2,-8.82,71.2,114,14.6,46.0,-31.4,24.2,24.2,24.2,0.0,0,Rebuilding
-293,49,Root River,MN,2A,1,MSHSL Conference,0-9,0,9,0,9,40.4,40.4,-9.64,66.9,160,16.0,43.7,-27.7,23.33,23.33,23.33,0.0,0,Rebuilding
-294,55,St. Paul Humboldt,MN,4A,1,MSHSL Conference,0-9,0,9,0,9,40.3,40.3,-9.67,74.2,88,15.0,50.1,-35.1,20.31,20.31,20.31,0.0,0,Rebuilding
-295,50,Medford,MN,2A,1,MSHSL 2A,0-9,0,9,0,9,40.3,40.3,-9.68,68.1,149,15.8,44.6,-28.8,27.65,27.65,27.65,0.0,0,Rebuilding
-296,51,Lewiston-Altura,MN,2A,1,MSHSL 1A,0-9,0,9,0,9,39.0,39.0,-10.99,65.9,170,17.0,45.2,-28.2,25.49,25.49,25.49,0.0,0,Rebuilding
-297,49,Hinckley-Finlayson,MN,1A,1,MSHSL 1A,0-9,0,9,0,9,37.3,37.3,-12.68,65.6,174,16.8,46.2,-29.4,27.22,27.22,27.22,0.0,0,Rebuilding
-298,50,Red Lake County,MN,1A,1,MSHSL Conference,0-9,0,9,0,9,37.2,37.2,-12.84,63.8,203,15.8,43.9,-28.1,29.81,29.81,29.81,0.0,0,Rebuilding
-299,51,Polk County West,MN,1A,1,MSHSL Conference,0-9,0,9,0,9,36.8,36.8,-13.22,64.2,198,14.2,43.2,-29.0,28.95,28.95,28.95,0.0,0,Rebuilding
-300,52,Bagley,MN,1A,1,MSHSL 1A,0-9,0,9,0,9,36.0,36.0,-13.99,62.6,212,17.3,45.6,-28.3,29.81,29.81,29.81,0.0,0,Rebuilding
-301,53,East Central,MN,1A,1,MSHSL 1A,0-9,0,9,0,9,35.5,35.5,-14.55,64.1,199,16.0,46.2,-30.2,27.65,27.65,27.65,0.0,0,Rebuilding
-302,54,Mille Lacs,MN,1A,1,MSHSL Conference,0-9,0,9,0,9,34.5,34.5,-15.46,65.9,171,16.0,48.1,-32.1,25.06,25.06,25.06,0.0,0,Rebuilding
-303,52,Hayfield,MN,2A,1,MSHSL 1A,0-9,0,9,0,9,34.1,34.1,-15.88,68.4,143,15.9,51.3,-35.4,23.33,23.33,23.33,0.0,0,Rebuilding
-304,55,Ogilvie,MN,1A,1,MSHSL 1A,0-9,0,9,0,9,29.9,29.9,-20.07,64.8,192,14.4,50.0,-35.6,25.93,25.93,25.93,0.0,0,Rebuilding
-305,56,Isle,MN,1A,1,MSHSL Conference,0-9,0,9,0,9,24.0,24.0,-25.99,64.4,195,12.3,53.1,-40.8,23.77,23.77,23.77,0.0,0,Rebuilding
+rank,division_rank,team,state,division,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_scored,ppg_allowed,ppg_off,ppg_def,net_margin,off_index,def_index,playoff_points,harbin_avg,ppa,pqs,contender_tier,city,mascot
+1,1,Champlin Park,MN,6A,MSHSL Conference,11-0,11,0,0,11,103.6,103.6,53.6,71.9,1,26.9,20.3,26.9,20.3,6.6,54.1,55.2,125.16,87.87,87.87,87.87,State Title Contender,Champlin,Rebels
+2,2,Shakopee,MN,6A,MSHSL Conference,11-0,11,0,0,11,102.9,102.9,52.9,76.2,2,22.9,17.8,22.9,17.8,5.1,48.5,58.7,126.67,85.86,85.86,85.86,State Title Contender,Shakopee,Sabers
+3,3,Minnetonka,MN,6A,MSHSL Conference,9-1,9,1,0,10,101.8,101.8,51.8,88.3,3,30.6,15.5,30.6,15.5,15.1,59.2,61.9,120.91,91.12,91.12,91.12,State Title Contender,Minnetonka,Skippers
+4,4,Rosemount,MN,6A,MSHSL Conference,8-2,8,2,0,10,98.5,98.5,48.5,73.6,4,26.6,10.5,26.6,10.5,16.1,53.6,68.9,105.76,67.9,67.9,67.9,State Title Contender,Rosemount,Irish
+5,5,Maple Grove,MN,6A,MSHSL Conference,8-2,8,2,0,10,97.8,97.8,47.8,88.7,5,41.1,18.1,41.1,18.1,23.0,73.9,58.3,111.05,89.23,89.23,89.23,State Title Contender,Maple Grove,Crimson
+6,1,Jackson County Central,MN,2A,MSHSL Conference,13-0,13,0,0,13,80.2,80.2,30.24,58.8,6,49.4,10.3,49.4,10.3,39.1,85.6,69.2,120.58,76.12,76.12,76.12,Regional Contender,Jackson,Huskies
+7,1,Minneota,MN,1A,MSHSL Conference,13-0,13,0,0,13,77.7,77.7,27.65,54.7,7,51.2,7.8,51.2,7.8,43.4,88.1,72.7,119.14,72.99,72.99,72.99,Regional Contender,Minneota,Vikings
+8,2,Hills-Beaver Creek,MN,1A,MSHSL 1A,13-0,13,0,0,13,76.6,76.6,26.6,55.0,8,49.5,10.5,49.5,10.5,39.0,85.7,68.9,119.25,35.0,65.0,10.0,Regional Contender,Hills,Patriots
+9,3,Springfield,MN,1A,MSHSL Conference,10-0,10,0,0,10,76.2,76.2,26.15,55.0,9,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,72.12,72.12,72.12,Regional Contender,Minneapolis,Varsity
+10,4,Bethlehem Academy,MN,1A,MSHSL Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,10,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,60.46,60.46,60.46,Regional Contender,Minneapolis,Varsity
+11,2,Hlww,MN,2A,MSHSL Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,11,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,62.73,62.73,62.73,Regional Contender,Minneapolis,Varsity
+12,5,New Richland-H-E-G,MN,1A,MSHSL Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,12,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,60.89,60.89,60.89,Regional Contender,Minneapolis,Varsity
+13,3,St Clair Mn,MN,2A,MSHSL Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,13,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,64.46,64.46,64.46,Regional Contender,Minneapolis,Varsity
+14,1,Marshall,MN,4A,MSHSL Conference,11-1,11,1,0,12,74.7,74.7,24.7,64.3,14,31.2,6.9,31.2,6.9,24.3,60.1,73.9,114.17,51.3,51.3,51.3,Regional Contender,Marshall,Tigers
+15,1,Spring Lake Park,MN,5A,MSHSL Conference,13-0,13,0,0,13,73.9,73.9,23.9,58.5,15,33.0,13.2,33.0,13.2,19.8,62.6,65.1,120.47,72.23,72.23,72.23,Playoff Qualifier,Spring Lake Park,Panthers
+16,2,Alexandria,MN,5A,MSHSL Conference,9-2,9,2,0,11,73.3,73.3,23.26,63.6,16,37.8,16.9,37.8,16.9,20.9,69.3,59.9,104.08,56.64,56.64,56.64,Playoff Qualifier,Alexandria,Cardinals
+17,4,Holdingford,MN,2A,MSHSL 2A,12-1,12,1,0,13,73.1,73.1,23.11,55.8,17,42.5,11.2,42.5,11.2,31.3,75.9,67.9,111.84,64.02,64.02,64.02,Playoff Qualifier,Holdingford,Huskers
+18,6,Hillcrest Lutheran Academy/Bermel HomeSchool/Peterson HomeSchool,MN,1A,MSHSL 1A,12-1,12,1,0,13,73.1,73.1,23.1,53.9,18,42.9,17.9,42.9,17.9,25.0,76.5,58.5,111.17,32.31,60.0,9.23,Playoff Qualifier,Fergus Falls,Homeschool
+19,2,Orono,MN,4A,MSHSL Conference,10-3,10,3,0,13,72.5,72.5,22.46,62.3,19,28.3,12.0,28.3,12.0,16.3,56.0,66.8,98.73,82.83,82.83,82.83,Playoff Qualifier,Long Lake,Spartans
+20,3,Chanhassen,MN,5A,MSHSL Conference,11-2,11,2,0,13,72.1,72.1,22.1,63.7,20,31.2,15.7,31.2,15.7,15.5,60.1,61.6,106.91,82.17,82.17,82.17,Playoff Qualifier,Chanhassen,Storm
+21,1,Annandale,MN,3A,MSHSL Conference,13-0,13,0,0,13,71.7,71.7,21.74,52.6,21,40.2,6.9,40.2,6.9,33.3,72.7,73.9,118.41,77.53,77.53,77.53,Playoff Qualifier,Annandale,Cardinals
+22,5,Goodhue,MN,2A,MSHSL Conference,12-1,12,1,0,13,71.6,71.6,21.6,54.5,22,36.8,9.9,36.8,9.9,26.9,67.9,69.7,111.38,48.88,48.88,48.88,Playoff Qualifier,Goodhue,Wildcats
+23,4,Elk River,MN,5A,MSHSL Conference,9-3,9,3,0,12,71.1,71.1,21.1,63.4,23,42.0,24.8,42.0,24.8,17.2,75.2,48.9,97.19,77.42,77.42,77.42,Playoff Qualifier,Elk River,Elks
+24,7,Edgerton,MN,1A,MSHSL 1A,8-2,8,2,0,10,71.0,71.0,21.0,52.2,24,42.2,13.1,42.2,13.1,29.1,75.5,65.3,98.27,28.0,52.0,8.0,Playoff Qualifier,Edgerton,Flying Dutchmen
+25,8,Red Rock Central,MN,1A,MSHSL 1A,10-1,10,1,0,11,71.0,71.0,20.95,53.7,25,38.7,17.6,38.7,17.6,21.1,70.6,59.0,109.7,37.15,37.15,37.15,Playoff Qualifier,Lamberton,Falcons
+26,9,Mabel-Canton,MN,1A,MSHSL 1A,11-1,11,1,0,12,70.7,70.7,20.67,53.8,26,37.8,17.8,37.8,17.8,20.0,69.3,58.7,110.5,59.59,59.59,59.59,Playoff Qualifier,Mabel,Cougars
+27,3,Byron,MN,4A,MSHSL Conference,9-1,9,1,0,10,70.5,70.5,20.52,58.5,27,37.3,13.2,37.3,13.2,24.1,68.6,65.1,110.47,85.42,85.42,85.42,Playoff Qualifier,Byron,Bears
+28,6,Maple Lake,MN,2A,MSHSL Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,28,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,58.98,58.98,58.98,Playoff Qualifier,Minneapolis,Varsity
+29,10,Springfield MN,MN,1A,MSHSL Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,29,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,54.12,54.12,54.12,Playoff Qualifier,Minneapolis,Varsity
+30,7,St James Mn,MN,2A,MSHSL Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,30,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,63.3,63.3,63.3,Playoff Qualifier,Minneapolis,Varsity
+31,5,St. Cloud Tech,MN,5A,MSHSL Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,31,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,72.23,72.23,72.23,Playoff Qualifier,St. Cloud,Varsity
+32,11,United South Central,MN,1A,MSHSL Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,32,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,57.15,57.15,57.15,Playoff Qualifier,Minneapolis,Varsity
+33,12,Breckenridge,MN,1A,MSHSL Conference,13-1,13,1,0,14,69.5,69.5,19.51,53.8,33,40.9,14.4,40.9,14.4,26.5,73.7,63.4,111.69,53.7,53.7,53.7,Playoff Qualifier,Breckenridge,Cowboys
+34,6,Monticello,MN,5A,MSHSL 5A,8-2,8,2,0,10,69.3,69.3,19.3,62.9,34,34.6,16.5,34.6,16.5,18.1,64.8,60.5,102.02,80.78,80.78,80.78,Playoff Qualifier,Monticello,Magic
+35,7,St. Thomas Academy,MN,5A,MSHSL Conference,11-1,11,1,0,12,69.1,69.1,19.08,59.1,35,33.8,15.5,33.8,15.5,18.3,63.7,61.9,112.35,80.44,80.44,80.44,Playoff Qualifier,Mendota Heights,Cadets
+36,13,Springfield/Comfrey,MN,1A,MSHSL 1A,9-1,9,1,0,10,68.9,68.9,18.86,56.4,36,43.9,12.0,43.9,12.0,31.9,77.9,66.8,109.74,31.5,58.5,9.0,Playoff Qualifier,Springfield,Comfrey
+37,4,Kasson-Mantorville,MN,4A,MSHSL Conference,11-2,11,2,0,13,68.7,68.7,18.72,56.3,37,32.0,16.5,32.0,16.5,15.5,61.2,60.5,104.32,63.83,63.83,63.83,Playoff Qualifier,Kasson,Komets
+38,14,Cook County,MN,1A,MSHSL 1A,9-1,9,1,0,10,68.5,68.5,18.54,53.6,38,26.9,10.6,26.9,10.6,16.3,54.1,68.8,108.76,31.5,58.5,9.0,Playoff Qualifier,Grand Marais,Vikings
+39,15,Kittson Central/Lancaster,MN,1A,MSHSL 1A,10-1,10,1,0,11,68.3,68.3,18.34,53.7,39,30.8,15.5,30.8,15.5,15.3,59.5,61.9,109.7,31.82,59.09,9.09,Playoff Qualifier,Hallock,Bearcats
+40,2,North Community,MN,3A,MSHSL 3A,10-1,10,1,0,11,68.1,68.1,18.14,52.3,40,42.8,16.7,42.8,16.7,26.1,76.3,60.2,109.21,31.82,59.09,9.09,Playoff Qualifier,Minneapolis,Polars
+41,3,Dilworth-Glyndon-Felton,MN,3A,MSHSL Conference,9-3,9,3,0,12,67.9,67.9,17.93,59.0,41,30.9,12.8,30.9,12.8,18.1,59.7,65.7,95.65,52.35,52.35,52.35,Playoff Qualifier,Glyndon,Rebels
+42,16,Mahnomen/Waubun,MN,1A,MSHSL Conference,11-1,11,1,0,12,67.8,67.8,17.78,48.8,42,36.7,4.8,36.7,4.8,31.9,67.8,76.9,108.75,64.21,64.21,64.21,Playoff Qualifier,Mahnomen,Thunderbirds
+43,5,Rocori,MN,4A,MSHSL Conference,8-2,8,2,0,10,67.6,67.6,17.57,62.8,43,22.0,15.8,22.0,15.8,6.2,47.2,61.5,101.98,74.84,74.84,74.84,Playoff Qualifier,Cold Spring,Spartans
+44,17,Murray County Central,MN,1A,MSHSL Conference,9-3,9,3,0,12,67.3,67.3,17.35,57.6,44,35.2,13.8,35.2,13.8,21.4,65.7,64.3,95.16,37.0,37.0,37.0,Playoff Qualifier,Slayton,Rebels
+45,18,Stephen-Argyle Central,MN,1A,MSHSL 1A,9-2,9,2,0,11,67.1,67.1,17.14,52.5,45,32.7,14.4,32.7,14.4,18.3,62.2,63.4,100.19,28.64,53.18,8.18,Playoff Qualifier,Stephen,Storm
+46,8,Pillager,MN,2A,MSHSL 2A,8-1,8,1,0,9,67.1,67.1,17.06,57.5,46,32.9,13.2,32.9,13.2,19.7,62.5,65.1,109.01,32.7,32.7,32.7,Playoff Qualifier,Pillager,Huskies
+47,9,Eden Valley-Watkins,MN,2A,MSHSL Conference,9-3,9,3,0,12,67.0,67.0,16.99,58.6,47,29.8,14.8,29.8,14.8,15.0,58.1,62.9,95.51,55.2,55.2,55.2,Playoff Qualifier,Eden Valley,Eagles
+48,19,Bertha-Hewitt,MN,1A,MSHSL 1A,9-2,9,2,0,11,67.0,67.0,16.96,52.5,48,37.6,19.7,37.6,19.7,17.9,69.0,56.0,100.19,28.64,53.18,8.18,Playoff Qualifier,Bertha,Bears
+49,4,Waseca,MN,3A,MSHSL Conference,12-1,12,1,0,13,66.8,66.8,16.85,55.3,49,24.6,8.5,24.6,8.5,16.1,50.8,71.7,111.66,79.26,79.26,79.26,Playoff Qualifier,Waseca,Bluejays
+50,20,Wabasso,MN,1A,MSHSL 1A,8-2,8,2,0,10,66.7,66.7,16.68,52.2,50,35.7,17.3,35.7,17.3,18.4,66.4,59.4,98.27,54.42,54.42,54.42,Playoff Qualifier,Wabasso,Rabbits
+51,5,Pierz,MN,3A,MSHSL 3A,10-1,10,1,0,11,66.3,66.3,16.27,49.7,51,37.5,7.8,37.5,7.8,29.7,68.9,72.7,108.3,79.26,79.26,79.26,Playoff Qualifier,Pierz,Pioneers
+52,10,Staples-Motley,MN,2A,MSHSL Conference,8-2,8,2,0,10,65.5,65.5,15.55,56.2,52,37.2,17.9,37.2,17.9,19.3,68.5,58.5,99.67,51.74,51.74,51.74,Playoff Qualifier,Staples,Cardinals
+53,21,Littlefork-Big Falls,MN,1A,MSHSL 1A,8-3,8,3,0,11,65.4,65.4,15.36,51.2,53,34.6,14.6,34.6,14.6,20.0,64.8,63.2,90.65,25.45,47.27,7.27,Playoff Qualifier,Littlefork,Vikings
+54,6,Pine Island,MN,3A,MSHSL Conference,10-1,10,1,0,11,65.3,65.3,15.26,49.2,54,38.6,7.5,38.6,7.5,31.1,70.4,73.1,108.13,42.28,42.28,42.28,Playoff Qualifier,Pine Island,Panthers
+55,6,Grand Rapids,MN,4A,MSHSL Conference,10-2,10,2,0,12,65.0,65.0,15.05,49.1,55,43.2,8.4,43.2,8.4,34.8,76.9,71.8,100.52,78.07,78.07,78.07,Playoff Qualifier,Grand Rapids,Thunderhawks
+56,11,Waterville-Elysian-Morristown,MN,2A,MSHSL 2A,10-1,10,1,0,11,65.0,65.0,14.98,49.1,56,37.8,11.5,37.8,11.5,26.3,69.3,67.5,108.09,57.68,57.68,57.68,Playoff Qualifier,Waterville,Buccaneers
+57,12,Caledonia,MN,2A,MSHSL Conference,9-3,9,3,0,12,64.7,64.7,14.69,57.4,57,25.1,11.2,25.1,11.2,13.9,51.5,67.9,95.09,76.56,76.56,76.56,Playoff Qualifier,Caledonia,Warriors
+58,22,Ogilvie,MN,1A,MSHSL 1A,7-3,7,3,0,10,64.7,64.7,14.69,50.8,58,37.6,17.4,37.6,17.4,20.2,69.0,59.2,87.78,25.93,25.93,25.93,Playoff Qualifier,Ogilvie,Lions
+59,8,Bloomington Jefferson,MN,5A,MSHSL Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,59,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,71.04,71.04,71.04,Playoff Qualifier,Minneapolis,Varsity
+60,7,Cannon Falls,MN,3A,MSHSL Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,60,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,63.95,63.95,63.95,Playoff Qualifier,Minneapolis,Varsity
+61,9,Duluth Denfeld,MN,5A,MSHSL Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,61,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,70.17,70.17,70.17,Playoff Qualifier,Duluth,Varsity
+62,8,Fairmont,MN,3A,MSHSL Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,62,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,57.9,57.9,57.9,Playoff Qualifier,Fairmont,Varsity
+63,23,GFW,MN,1A,MSHSL Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,63,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,54.27,54.27,54.27,Playoff Qualifier,Minneapolis,Varsity
+64,7,Grand Rapids MN,MN,4A,MSHSL Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,64,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,59.72,59.72,59.72,Playoff Qualifier,Grand Rapids,Varsity
+65,13,NRHEG,MN,2A,MSHSL Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,65,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,52.63,52.63,52.63,Playoff Qualifier,Minneapolis,Varsity
+66,8,Princeton Mn,MN,4A,MSHSL Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,66,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,58.85,58.85,58.85,Playoff Qualifier,Minneapolis,Varsity
+67,9,Proctor,MN,3A,MSHSL Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,67,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,54.23,54.23,54.23,Playoff Qualifier,Minneapolis,Varsity
+68,9,Rock Ridge,MN,4A,MSHSL Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,68,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,59.93,59.93,59.93,Playoff Qualifier,Minneapolis,Varsity
+69,24,Sleepy Eye United,MN,1A,MSHSL Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,69,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,53.41,53.41,53.41,Playoff Qualifier,Minneapolis,Varsity
+70,10,St. Cloud Apollo,MN,5A,MSHSL Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,70,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,68.01,68.01,68.01,Playoff Qualifier,St. Cloud,Varsity
+71,10,Virginia MN,MN,4A,MSHSL Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,71,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,60.15,60.15,60.15,Playoff Qualifier,Minneapolis,Varsity
+72,6,Edina,MN,6A,MSHSL Conference,9-4,9,4,0,13,64.2,64.2,14.18,60.1,72,32.1,28.8,32.1,28.8,3.3,61.3,43.3,90.27,69.26,69.26,69.26,Playoff Qualifier,Edina,Hornets
+73,14,Le Sueur-Henderson/Minnesota New Country,MN,2A,MSHSL 2A,8-3,8,3,0,11,64.0,64.0,13.97,57.5,73,30.7,12.5,30.7,12.5,18.2,59.4,66.1,92.85,25.45,47.27,7.27,Playoff Qualifier,Le Sueur,Giants
+74,15,Osakis,MN,2A,MSHSL Conference,9-2,9,2,0,11,63.9,63.9,13.9,55.0,74,31.5,18.2,31.5,18.2,13.3,60.5,58.1,101.07,57.22,57.22,57.22,Playoff Qualifier,Osakis,Silverstreaks
+75,25,Fertile-Beltrami,MN,1A,MSHSL 1A,8-4,8,4,0,12,63.8,63.8,13.8,50.3,75,35.6,15.3,35.6,15.3,20.3,66.2,62.2,84.27,23.33,43.33,6.67,Playoff Qualifier,Fertile,Falcons
+76,26,Fillmore Central,MN,1A,MSHSL Conference,10-1,10,1,0,11,63.8,63.8,13.75,49.0,76,40.5,11.7,40.5,11.7,28.8,73.1,67.2,108.06,46.22,46.22,46.22,Playoff Qualifier,Harmony,Falcons
+77,11,Fergus Falls,MN,4A,MSHSL 4A,8-3,8,3,0,11,63.5,63.5,13.46,60.1,77,27.5,20.8,27.5,20.8,6.7,54.9,54.5,93.76,48.7,48.7,48.7,Playoff Qualifier,Fergus Falls,Otters
+78,7,Eden Prairie,MN,6A,MSHSL Conference,8-3,8,3,0,11,63.3,63.3,13.32,57.0,78,31.2,17.5,31.2,17.5,13.7,60.1,59.1,92.68,88.48,88.48,88.48,Playoff Qualifier,Eden Prairie,Eagles
+79,27,Parkers Prairie,MN,1A,MSHSL Conference,9-2,9,2,0,11,63.2,63.2,13.25,52.0,79,34.6,13.0,34.6,13.0,21.6,64.8,65.4,100.02,58.88,58.88,58.88,Playoff Qualifier,Parkers Prairie,Panthers
+80,12,Hill-Murray,MN,4A,MSHSL Conference,9-2,9,2,0,11,63.2,63.2,13.18,52.3,80,33.9,15.5,33.9,15.5,18.4,63.9,61.9,100.12,78.51,78.51,78.51,Playoff Qualifier,Maplewood,Pioneers
+81,28,Dawson-Boyd,MN,1A,MSHSL Conference,8-3,8,3,0,11,63.2,63.2,13.18,54.9,81,36.0,15.5,36.0,15.5,20.5,66.8,61.9,91.94,47.8,47.8,47.8,Playoff Qualifier,Dawson,Blackjacks
+82,11,Chaska,MN,5A,MSHSL Conference,7-3,7,3,0,10,63.2,63.2,13.18,59.0,82,23.0,15.2,23.0,15.2,7.8,48.6,62.3,90.65,37.49,37.49,37.49,Playoff Qualifier,Chaska,Hawks
+83,10,Brooklyn Center,MN,3A,MSHSL Conference,6-2,6,2,0,8,63.1,63.1,13.07,51.5,83,31.0,17.5,31.0,17.5,13.5,59.8,59.1,93.03,64.24,64.24,64.24,Playoff Qualifier,Minneapolis,Varsity
+84,13,Litchfield MN,MN,4A,MSHSL Conference,6-2,6,2,0,8,63.1,63.1,13.07,51.5,84,31.0,17.5,31.0,17.5,13.5,59.8,59.1,93.03,61.6,61.6,61.6,Playoff Qualifier,Litchfield,Varsity
+85,12,Bemidji,MN,5A,MSHSL Conference,5-5,5,5,0,10,62.8,62.8,12.82,64.3,85,33.1,26.3,33.1,26.3,6.8,62.7,46.8,72.5,58.37,58.37,58.37,Playoff Qualifier,Bemidji,Lumberjacks
+86,11,Stewartville,MN,3A,MSHSL Conference,7-3,7,3,0,10,62.7,62.7,12.67,54.5,86,33.3,10.4,33.3,10.4,22.9,63.0,69.0,89.08,79.26,79.26,79.26,Playoff Qualifier,Stewartville,Tigers
+87,29,Spring Grove,MN,1A,MSHSL 1A,8-3,8,3,0,11,62.7,62.7,12.66,51.2,87,28.2,14.2,28.2,14.2,14.0,55.9,63.7,90.65,52.83,52.83,52.83,Playoff Qualifier,Spring Grove,Lions
+88,8,Lakeville South,MN,6A,MSHSL Conference,9-3,9,3,0,12,62.6,62.6,12.6,55.1,88,28.9,15.8,28.9,15.8,13.1,56.9,61.5,94.28,85.5,85.5,85.5,Playoff Qualifier,Lakeville,Cougars
+89,16,Moose Lake/Willow River,MN,2A,MSHSL 2A,10-1,10,1,0,11,62.5,62.5,12.53,47.8,89,38.9,11.6,38.9,11.6,27.3,70.9,67.4,107.64,41.64,41.64,41.64,Playoff Qualifier,Moose Lake,Rebels
+90,14,Zimmerman,MN,4A,MSHSL Conference,7-3,7,3,0,10,62.5,62.5,12.46,57.7,90,29.9,18.5,29.9,18.5,11.4,58.3,57.7,90.19,46.44,46.44,46.44,Playoff Qualifier,Zimmerman,Thunder
+91,30,Goodridge/Grygla,MN,1A,MSHSL 1A,7-3,7,3,0,10,62.4,62.4,12.44,50.8,91,28.4,13.2,28.4,13.2,15.2,56.2,65.1,87.78,24.5,45.5,7.0,Playoff Qualifier,Goodridge,Chargers
+92,31,Border West,MN,1A,MSHSL 1A,7-3,7,3,0,10,62.3,62.3,12.3,50.8,92,29.6,14.7,29.6,14.7,14.9,57.8,63.0,87.78,24.5,45.5,7.0,Playoff Qualifier,Wheaton,West
+93,32,Adrian/Ellsworth,MN,1A,MSHSL 1A,7-3,7,3,0,10,62.0,62.0,11.95,50.8,93,37.0,22.9,37.0,22.9,14.1,68.2,51.5,87.78,50.96,50.96,50.96,Playoff Qualifier,Adrian,Dragons
+94,13,Cretin-Derham Hall,MN,5A,MSHSL Conference,7-4,7,4,0,11,61.8,61.8,11.81,55.3,94,38.5,21.7,38.5,21.7,16.8,70.3,53.2,82.99,81.21,81.21,81.21,Playoff Qualifier,St Paul,Raiders
+95,12,Holy Family Catholic,MN,3A,MSHSL 3A,8-3,8,3,0,11,61.7,61.7,11.66,56.4,95,28.7,20.4,28.7,20.4,8.3,56.6,55.0,92.47,25.45,47.27,7.27,Playoff Qualifier,Victoria,Fire
+96,9,Centennial,MN,6A,MSHSL Conference,9-2,9,2,0,11,61.3,61.3,11.3,51.4,96,31.4,13.8,31.4,13.8,17.6,60.4,64.3,99.81,80.22,80.22,80.22,Playoff Qualifier,Circle Pines,Cougars
+97,15,Willmar,MN,4A,MSHSL Conference,6-4,6,4,0,10,61.3,61.3,11.3,57.9,97,31.6,17.4,31.6,17.4,14.2,60.6,59.2,80.27,78.51,78.51,78.51,Playoff Qualifier,Willmar,Cardinals
+98,13,Albany,MN,3A,MSHSL Conference,8-2,8,2,0,10,61.2,61.2,11.23,50.6,98,33.5,11.6,33.5,11.6,21.9,63.3,67.4,97.71,56.54,56.54,56.54,Playoff Qualifier,Albany,Huskies
+99,10,Moorhead,MN,6A,MSHSL Conference,8-5,8,5,0,13,61.2,61.2,11.23,59.6,99,34.9,32.3,34.9,32.3,2.6,65.3,38.4,82.4,86.08,86.08,86.08,Playoff Qualifier,Moorhead,Spuds
+100,17,Triton,MN,2A,MSHSL Conference,7-4,7,4,0,11,61.2,61.2,11.23,59.6,100,23.5,15.7,23.5,15.7,7.8,49.3,61.6,84.5,47.28,47.28,47.28,Playoff Qualifier,Dodge Center,Cobras
+101,33,Upsala/Swanville,MN,1A,MSHSL Conference,9-2,9,2,0,11,61.1,61.1,11.09,45.4,101,42.5,9.5,42.5,9.5,33.0,75.9,70.3,97.71,72.56,72.56,72.56,Playoff Qualifier,Upsala,Patriots
+102,16,Hutchinson,MN,4A,MSHSL Conference,5-5,5,5,0,10,60.9,60.9,10.87,61.9,102,25.3,22.0,25.3,22.0,3.3,51.8,52.8,71.66,67.49,67.49,67.49,Playoff Qualifier,Hutchinson,Tigers
+103,14,Mahtomedi,MN,5A,MSHSL Conference,8-2,8,2,0,10,60.8,60.8,10.8,54.3,103,31.8,16.6,31.8,16.6,15.2,60.9,60.4,99.0,39.65,39.65,39.65,Playoff Qualifier,Mahtomedi,Zephyrs
+104,34,Red Lake County Central/Red Lake Falls,MN,1A,MSHSL 1A,9-2,9,2,0,11,60.6,60.6,10.58,44.3,104,41.5,12.7,41.5,12.7,28.8,74.5,65.8,97.32,28.64,53.18,8.18,Playoff Qualifier,Oklee,Rebels
+105,18,St. Cloud Cathedral,MN,2A,MSHSL 2A,7-4,7,4,0,11,60.3,60.3,10.3,54.0,105,32.5,18.6,32.5,18.6,13.9,61.9,57.6,82.54,22.27,41.36,6.36,Playoff Qualifier,St Cloud,Crusaders
+106,14,Luverne,MN,3A,MSHSL Conference,8-3,8,3,0,11,60.1,60.1,10.15,55.5,106,23.8,13.0,23.8,13.0,10.8,49.7,65.4,92.15,47.65,47.65,47.65,Playoff Qualifier,Luverne,Cardinals
+107,19,Chatfield,MN,2A,MSHSL Conference,6-3,6,3,0,9,60.0,60.0,10.01,58.5,107,20.1,13.7,20.1,13.7,6.4,44.5,64.4,87.14,72.37,72.37,72.37,Playoff Qualifier,Chatfield,Gophers
+108,15,Buffalo,MN,5A,MSHSL 5A,6-4,6,4,0,10,59.8,59.8,9.79,59.4,108,25.6,22.5,25.6,22.5,3.1,52.2,52.1,80.79,21.0,39.0,6.0,Playoff Qualifier,Buffalo,Bison
+109,20,Barnesville,MN,2A,MSHSL Conference,8-4,8,4,0,12,59.7,59.7,9.72,55.4,109,35.2,26.8,35.2,26.8,8.4,65.7,46.1,86.06,67.02,67.02,67.02,Playoff Qualifier,Barnesville,Trojans
+110,35,Mille Lacs co-op [Isle/Onamia],MN,1A,MSHSL 1A,7-3,7,3,0,10,59.6,59.6,9.6,50.8,110,29.4,20.5,29.4,20.5,8.9,57.6,54.9,87.78,24.5,45.5,7.0,Playoff Qualifier,Isle,Raiders
+111,15,Litchfield,MN,3A,MSHSL Conference,8-4,8,4,0,12,59.4,59.4,9.43,51.1,111,38.7,15.7,38.7,15.7,23.0,70.6,61.6,84.55,67.53,67.53,67.53,Playoff Qualifier,Litchfield,Dragons
+112,21,Lourdes,MN,2A,MSHSL 2A,7-4,7,4,0,11,59.4,59.4,9.36,56.9,112,16.8,13.7,16.8,13.7,3.1,39.9,64.4,83.55,22.27,41.36,6.36,Playoff Qualifier,Rochester,Eagles
+113,36,Park Christian,MN,1A,MSHSL Conference,6-3,6,3,0,9,58.7,58.7,8.72,50.3,113,28.7,19.7,28.7,19.7,9.0,56.6,56.0,84.27,43.62,43.62,43.62,Playoff Qualifier,Minneapolis,Varsity
+114,22,Pipestone Area,MN,2A,MSHSL Conference,6-3,6,3,0,9,58.7,58.7,8.72,50.3,114,28.7,19.7,28.7,19.7,9.0,56.6,56.0,84.27,48.44,48.44,48.44,Playoff Qualifier,Pipestone,Varsity
+115,16,St. Croix Lutheran,MN,3A,MSHSL Conference,6-3,6,3,0,9,58.7,58.7,8.72,50.3,115,28.7,19.7,28.7,19.7,9.0,56.6,56.0,84.27,51.33,51.33,51.33,Playoff Qualifier,Minneapolis,Varsity
+116,17,Tri-City United,MN,3A,MSHSL Conference,6-3,6,3,0,9,58.7,58.7,8.72,50.3,116,28.7,19.7,28.7,19.7,9.0,56.6,56.0,84.27,50.68,50.68,50.68,Playoff Qualifier,Minneapolis,Varsity
+117,17,Delano,MN,4A,MSHSL Conference,6-4,6,4,0,10,58.6,58.6,8.57,58.8,117,17.7,16.7,17.7,16.7,1.0,41.2,60.2,80.58,51.52,51.52,51.52,Playoff Qualifier,Delano,Tigers
+118,37,Cleveland/Immanuel Lutheran,MN,1A,MSHSL 1A,8-1,8,1,0,9,58.4,58.4,8.42,49.6,118,25.6,7.6,25.6,7.6,18.0,52.2,73.0,106.25,31.11,57.78,8.89,Playoff Qualifier,Cleveland,Lutheran
+119,16,Mankato West,MN,5A,MSHSL Conference,4-6,4,6,0,10,58.4,58.4,8.42,60.0,119,26.4,23.7,26.4,23.7,2.7,53.4,50.4,61.0,83.37,83.37,83.37,Playoff Qualifier,Mankato,Scarlets
+120,17,Mankato East,MN,5A,MSHSL Conference,6-3,6,3,0,9,58.4,58.4,8.35,57.6,120,24.9,23.0,24.9,23.0,1.9,51.3,51.4,86.83,79.58,79.58,79.58,Playoff Qualifier,Mankato,Cougars
+121,18,St. Peter,MN,4A,MSHSL 4A,7-2,7,2,0,9,58.2,58.2,8.21,52.1,121,24.3,10.2,24.3,10.2,14.1,50.4,69.3,96.01,39.85,39.85,39.85,Playoff Qualifier,St Peter,Saints
+122,18,Washburn,MN,5A,MSHSL 5A,8-4,8,4,0,12,57.8,57.8,7.78,51.8,122,32.8,18.8,32.8,18.8,14.0,62.3,57.3,84.8,39.89,39.89,39.89,Varsity Program,Minneapolis,Millers
+123,38,Alden-Conger,MN,1A,MSHSL 1A,6-4,6,4,0,10,57.7,57.7,7.71,49.4,123,35.2,24.3,35.2,24.3,10.9,65.7,49.6,77.29,21.0,39.0,6.0,Varsity Program,Alden,Knights
+124,19,Becker,MN,4A,MSHSL Conference,5-5,5,5,0,10,57.6,57.6,7.63,59.1,124,20.4,15.9,20.4,15.9,4.5,45.0,61.3,70.69,79.91,79.91,79.91,Varsity Program,Becker,Bulldogs
+125,39,Kingsland,MN,1A,MSHSL 1A,6-3,6,3,0,9,57.5,57.5,7.5,50.3,125,24.4,18.1,24.4,18.1,6.3,50.6,58.3,84.27,60.46,60.46,60.46,Varsity Program,Spring Valley,Knights
+126,18,Pequot Lakes,MN,3A,MSHSL Conference,9-1,9,1,0,10,57.3,57.3,7.34,42.1,126,38.7,8.7,38.7,8.7,30.0,70.6,71.4,104.73,48.46,48.46,48.46,Varsity Program,Pequot Lakes,Patriots
+127,20,Totino-Grace,MN,4A,MSHSL Conference,6-5,6,5,0,11,57.3,57.3,7.27,52.3,127,28.9,17.4,28.9,17.4,11.5,56.9,59.2,72.85,75.16,75.16,75.16,Varsity Program,Fridley,Eagles
+128,21,Hermantown,MN,4A,MSHSL Conference,8-2,8,2,0,10,57.2,57.2,7.2,47.5,128,40.0,19.3,40.0,19.3,20.7,72.4,56.6,96.62,39.96,39.96,39.96,Varsity Program,Hermantown,Hawks
+129,19,St. Croix Lutheran/New Life Academy/Unity/Meadow Lake Woods Academy,MN,3A,MSHSL 3A,10-1,10,1,0,11,57.1,57.1,7.13,40.1,129,46.1,13.6,46.1,13.6,32.5,80.9,64.6,104.94,31.82,59.09,9.09,Varsity Program,West St Paul,Academy
+130,20,Cotter/Hope Lutheran/Riverway/Meinke HomeSchool,MN,3A,MSHSL 3A,9-2,9,2,0,11,57.0,57.0,6.98,46.1,130,38.0,18.5,38.0,18.5,19.5,69.6,57.7,97.95,28.64,53.18,8.18,Varsity Program,Winona,Homeschool
+131,23,Lester Prairie/Holy Trinity,MN,2A,MSHSL 2A,7-5,7,5,0,12,57.0,57.0,6.98,52.5,131,26.3,21.8,26.3,21.8,4.5,53.2,53.1,76.71,20.42,37.92,5.83,Varsity Program,Lester Prairie,Varsity
+132,11,St. Michael-Albertville,MN,6A,MSHSL Conference,5-6,5,6,0,11,56.8,56.8,6.84,59.8,132,21.2,25.1,21.2,25.1,-3.9,46.1,48.5,66.38,61.13,61.13,61.13,Varsity Program,Albertville,Knights
+133,19,Mayo,MN,5A,MSHSL 5A,6-5,6,5,0,11,56.8,56.8,6.77,56.6,133,25.7,22.4,25.7,22.4,3.3,52.4,52.2,74.36,19.09,35.45,5.45,Varsity Program,Rochester,Spartans
+134,40,Fosston,MN,1A,MSHSL 1A,8-4,8,4,0,12,56.7,56.7,6.74,50.3,134,27.4,22.8,27.4,22.8,4.6,54.8,51.7,84.27,23.33,43.33,6.67,Varsity Program,Fosston,Greyhounds
+135,20,Two Rivers,MN,5A,MSHSL Conference,5-5,5,5,0,10,56.5,56.5,6.55,58.0,135,22.7,24.9,22.7,24.9,-2.2,48.2,48.7,70.3,45.07,45.07,45.07,Varsity Program,Mendota Heights,Warriors
+136,21,Blake,MN,3A,MSHSL Conference,5-3,5,3,0,8,56.5,56.5,6.51,49.8,136,27.5,20.8,27.5,20.8,6.7,54.9,54.5,79.93,52.29,52.29,52.29,Varsity Program,Minneapolis,Varsity
+137,22,Concordia Academy,MN,3A,MSHSL Conference,5-3,5,3,0,8,56.5,56.5,6.51,49.8,137,27.5,20.8,27.5,20.8,6.7,54.9,54.5,79.93,53.08,53.08,53.08,Varsity Program,Minneapolis,Varsity
+138,24,Lake Crystal-Wellcome Memorial,MN,2A,MSHSL Conference,6-4,6,4,0,10,56.4,56.4,6.41,57.2,138,19.6,19.2,19.6,19.2,0.4,43.8,56.7,80.02,69.21,69.21,69.21,Varsity Program,Lake Crystal,Knights
+139,41,Lewiston-Altura,MN,1A,MSHSL 1A,6-4,6,4,0,10,56.3,56.3,6.34,52.2,139,28.1,17.6,28.1,17.6,10.5,55.7,59.0,78.27,25.49,25.49,25.49,Varsity Program,Lewiston,Cardinals
+140,42,Barnum,MN,1A,MSHSL 1A,10-2,10,2,0,12,56.0,56.0,6.05,40.6,140,36.9,14.2,36.9,14.2,22.7,68.1,63.7,97.54,28.09,28.09,28.09,Varsity Program,Barnum,Bombers
+141,12,Forest Lake,MN,6A,MSHSL Conference,8-2,8,2,0,10,56.0,56.0,5.98,48.4,141,31.1,11.4,31.1,11.4,19.7,59.9,67.6,96.94,74.22,74.22,74.22,Varsity Program,Forest Lake,Rangers
+142,23,Jordan,MN,3A,MSHSL 3A,7-4,7,4,0,11,56.0,56.0,5.98,55.8,142,24.7,27.0,24.7,27.0,-2.3,51.0,45.8,83.17,48.66,48.66,48.66,Varsity Program,Jordan,Hubmen And Jaguars
+143,24,Dassel-Cokato,MN,3A,MSHSL Conference,6-4,6,4,0,10,56.0,56.0,5.98,53.1,143,31.1,21.1,31.1,21.1,10.0,59.9,54.1,78.59,77.96,77.96,77.96,Varsity Program,Cokato,Chargers
+144,22,South St. Paul,MN,4A,MSHSL 4A,8-2,8,2,0,10,55.8,55.8,5.83,48.1,144,31.7,17.2,31.7,17.2,14.5,60.8,59.5,96.84,20.74,20.74,20.74,Varsity Program,South St Paul,Packers
+145,25,Redwood Valley,MN,2A,MSHSL Conference,7-3,7,3,0,10,55.7,55.7,5.69,48.6,145,37.4,16.8,37.4,16.8,20.6,68.8,60.1,87.01,52.2,52.2,52.2,Varsity Program,Redwood Falls,Cardinals
+146,21,St. Francis,MN,5A,MSHSL 5A,6-4,6,4,0,10,55.7,55.7,5.69,55.7,146,25.4,26.3,25.4,26.3,-0.9,52.0,46.8,79.5,21.0,39.0,6.0,Varsity Program,St Francis,Saints
+147,26,Maple River,MN,2A,MSHSL 2A,8-3,8,3,0,11,55.5,55.5,5.54,49.6,147,34.5,15.9,34.5,15.9,18.6,64.7,61.3,90.09,60.27,60.27,60.27,Varsity Program,Mapleton,Eagles
+148,25,Howard Lake-Waverly-Winsted,MN,3A,MSHSL 3A,7-3,7,3,0,10,55.5,55.5,5.47,52.6,148,26.1,18.7,26.1,18.7,7.4,52.9,57.4,88.41,65.83,65.83,65.83,Varsity Program,Howard Lake,Lakers
+149,43,Russell-Tyler-Ruthton,MN,1A,MSHSL 1A,7-3,7,3,0,10,55.5,55.5,5.47,52.7,149,21.5,18.4,21.5,18.4,3.1,46.5,57.8,88.44,24.5,45.5,7.0,Varsity Program,Tyler,Knights
+150,26,Perham,MN,3A,MSHSL 3A,5-5,5,5,0,10,55.3,55.3,5.26,59.6,150,12.8,21.3,12.8,21.3,-8.5,34.3,53.8,70.86,32.82,32.82,32.82,Varsity Program,Perham,Yellowjackets
+151,22,Waconia,MN,5A,MSHSL Conference,5-4,5,4,0,9,55.2,55.2,5.18,58.0,151,24.3,21.1,24.3,21.1,3.2,50.4,54.1,75.86,36.63,36.63,36.63,Varsity Program,Waconia,Wildcats
+152,23,Academy of Holy Angels,MN,4A,MSHSL 4A,8-2,8,2,0,10,55.1,55.1,5.11,46.4,152,30.3,12.7,30.3,12.7,17.6,58.8,65.8,96.24,61.63,61.63,61.63,Varsity Program,Richfield,Stars
+153,44,South Ridge,MN,1A,MSHSL 1A,5-4,5,4,0,9,55.1,55.1,5.07,48.8,153,22.1,14.3,22.1,14.3,7.8,47.3,63.6,72.64,19.44,36.11,5.56,Varsity Program,Culver,Panthers
+154,24,Benilde-St. Margaret's,MN,4A,MSHSL Conference,8-4,8,4,0,12,55.0,55.0,5.04,48.8,154,25.7,18.5,25.7,18.5,7.2,52.4,57.7,83.75,62.96,62.96,62.96,Varsity Program,St Louis Park,Knights
+155,13,Prior Lake,MN,6A,MSHSL Conference,5-5,5,5,0,10,55.0,55.0,5.04,55.3,155,25.9,20.7,25.9,20.7,5.2,52.7,54.6,69.35,71.18,71.18,71.18,Varsity Program,Prior Lake,Lakers
+156,27,Dover-Eyota,MN,2A,MSHSL 2A,4-5,4,5,0,9,55.0,55.0,4.97,55.2,156,21.9,15.6,21.9,15.6,6.3,47.1,61.8,63.76,21.6,21.6,21.6,Varsity Program,Eyota,Eagles
+157,27,Minnewaska Area,MN,3A,MSHSL 3A,6-4,6,4,0,10,54.8,54.8,4.75,53.2,157,30.7,19.7,30.7,19.7,11.0,59.4,56.0,78.62,21.0,39.0,6.0,Varsity Program,Glenwood,Lakers
+158,23,Robbinsdale Armstrong,MN,5A,MSHSL Conference,5-5,5,5,0,10,54.8,54.8,4.75,57.0,158,23.3,23.6,23.3,23.6,-0.3,49.0,50.6,69.95,31.11,31.11,31.11,Varsity Program,Plymouth,Falcons
+159,24,Cambridge-Isanti,MN,5A,MSHSL 5A,4-5,4,5,0,9,54.5,54.5,4.54,60.8,159,24.3,34.4,24.3,34.4,-10.1,50.4,35.4,65.72,48.0,48.0,48.0,Varsity Program,Cambridge,Bluejackets
+160,28,Albert Lea,MN,3A,MSHSL 3A,7-3,7,3,0,10,54.5,54.5,4.46,48.1,160,32.8,13.7,32.8,13.7,19.1,62.3,64.4,86.84,33.11,33.11,33.11,Varsity Program,Albert Lea,Tigers
+161,29,Foley,MN,3A,MSHSL 3A,6-5,6,5,0,11,54.3,54.3,4.32,52.5,161,25.3,19.1,25.3,19.1,6.2,51.8,56.9,72.92,64.04,64.04,64.04,Varsity Program,Foley,Falcons
+162,28,Central,MN,2A,MSHSL 2A,4-6,4,6,0,10,54.2,54.2,4.18,55.9,162,17.4,19.0,17.4,19.0,-1.6,40.8,57.0,59.56,14.0,26.0,4.0,Varsity Program,Norwood Young America,Raiders
+163,29,Randolph/Fit Academy Charter,MN,2A,MSHSL 2A,5-6,5,6,0,11,54.0,54.0,3.96,55.2,163,20.1,23.0,20.1,23.0,-2.9,44.5,51.4,64.77,15.91,29.55,4.55,Varsity Program,Randolph,Charter
+164,45,Gibbon-Fairfax-Winthrop,MN,1A,MSHSL 1A,6-5,6,5,0,11,53.9,53.9,3.89,51.3,164,26.7,17.1,26.7,17.1,9.6,53.8,59.7,72.5,19.09,35.45,5.45,Varsity Program,Winthrop,Thunderbirds
+165,25,Brainerd,MN,5A,MSHSL Conference,3-6,3,6,0,9,53.8,53.8,3.82,61.5,165,25.8,29.0,25.8,29.0,-3.2,52.5,43.0,54.86,80.78,80.78,80.78,Varsity Program,Brainerd,Warriors
+166,46,St. James,MN,1A,MSHSL 1A,7-3,7,3,0,10,53.7,53.7,3.74,48.8,166,28.9,12.9,28.9,12.9,16.0,56.9,65.5,87.08,24.5,45.5,7.0,Varsity Program,St James,Saints
+167,47,Walker-Hackensack-Akeley,MN,1A,MSHSL 1A,8-2,8,2,0,10,53.7,53.7,3.67,43.3,167,27.9,16.2,27.9,16.2,11.7,55.5,60.9,95.16,31.11,31.11,31.11,Varsity Program,Walker,Wolves
+168,14,Woodbury,MN,6A,MSHSL Conference,7-3,7,3,0,10,53.1,53.1,3.1,50.0,168,26.3,24.0,26.3,24.0,2.3,53.2,50.0,87.5,39.36,39.36,39.36,Varsity Program,Woodbury,Royals
+169,26,Northfield,MN,5A,MSHSL 5A,6-4,6,4,0,10,53.0,53.0,3.02,49.6,169,24.5,16.5,24.5,16.5,8.0,50.7,60.5,77.36,76.12,76.12,76.12,Varsity Program,Northfield,Raiders
+170,27,Sauk Rapids-Rice,MN,5A,MSHSL Conference,2-8,2,8,0,10,53.0,53.0,3.02,63.8,170,21.1,40.1,21.1,40.1,-19.0,45.9,27.5,42.33,42.58,42.58,42.58,Varsity Program,Sauk Rapids,Storm
+171,30,Frazee,MN,2A,MSHSL 2A,6-3,6,3,0,9,53.0,53.0,2.95,50.0,171,27.1,17.2,27.1,17.2,9.9,54.3,59.5,84.17,29.25,29.25,29.25,Varsity Program,Frazee,Hornets
+172,25,Byron MN,MN,4A,MSHSL Conference,5-4,5,4,0,9,52.9,52.9,2.91,48.8,172,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,49.14,49.14,49.14,Varsity Program,Byron,Varsity
+173,30,Minneapolis North,MN,3A,MSHSL Conference,5-4,5,4,0,9,52.9,52.9,2.91,48.8,173,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,55.56,55.56,55.56,Varsity Program,Minneapolis,Varsity
+174,31,Rockford MN,MN,3A,MSHSL Conference,5-4,5,4,0,9,52.9,52.9,2.91,48.8,174,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,46.75,46.75,46.75,Varsity Program,Minneapolis,Varsity
+175,28,Sartell-St. Stephen,MN,5A,MSHSL 5A,4-5,4,5,0,9,52.8,52.8,2.81,58.0,175,18.4,22.1,18.4,22.1,-3.7,42.2,52.7,64.74,15.56,28.89,4.44,Varsity Program,Sartell,Sabres
+176,31,Aitkin,MN,2A,MSHSL Conference,9-2,9,2,0,11,52.6,52.6,2.59,42.2,176,34.1,15.6,34.1,15.6,18.5,64.1,61.8,96.59,78.28,78.28,78.28,Varsity Program,Aitkin,Gobblers
+177,32,Pipestone,MN,2A,MSHSL 2A,4-5,4,5,0,9,52.6,52.6,2.59,57.5,177,21.3,25.7,21.3,25.7,-4.4,46.2,47.6,64.57,26.2,26.2,26.2,Varsity Program,Pipestone,Arrows
+178,48,Cedar Mountain,MN,1A,MSHSL 1A,5-5,5,5,0,10,52.6,52.6,2.56,48.0,178,31.9,26.2,31.9,26.2,5.7,61.1,46.9,66.8,17.5,32.5,5.0,Varsity Program,Morgan,Cougars
+179,29,Hastings,MN,5A,MSHSL Conference,4-5,4,5,0,9,52.5,52.5,2.52,55.8,179,26.9,26.9,26.9,26.9,0.0,54.1,45.9,63.97,81.21,81.21,81.21,Varsity Program,Hastings,Raiders
+180,49,Otter Tail Central co-op [Battle Lake/Henning],MN,1A,MSHSL 1A,6-4,6,4,0,10,52.2,52.2,2.16,51.3,180,20.6,23.1,20.6,23.1,-2.5,45.2,51.3,77.95,21.0,39.0,6.0,Varsity Program,Battle Lake,Bulldogs
+181,50,LeRoy-Ostrander/Lyle/Pacelli,MN,1A,MSHSL 1A,5-5,5,5,0,10,52.2,52.2,2.16,48.0,181,32.9,28.1,32.9,28.1,4.8,62.5,44.3,66.8,17.5,32.5,5.0,Varsity Program,Leroy,Pacelli
+182,32,Zumbrota-Mazeppa,MN,3A,MSHSL 3A,7-3,7,3,0,10,52.1,52.1,2.09,44.3,182,34.0,12.6,34.0,12.6,21.4,64.0,66.0,85.5,60.8,60.8,60.8,Varsity Program,Zumbrota,Cougars
+183,26,Thief River Falls,MN,4A,MSHSL 3A,5-6,5,6,0,11,52.1,52.1,2.09,55.2,183,19.8,25.4,19.8,25.4,-5.6,44.1,48.0,64.77,68.3,68.3,68.3,Varsity Program,Thief River Falls,Prowlers
+184,30,Minneapolis Southwest,MN,5A,MSHSL 5A,6-4,6,4,0,10,51.9,51.9,1.87,50.5,184,23.0,20.1,23.0,20.1,2.9,48.6,55.5,77.67,45.07,45.07,45.07,Varsity Program,Minneapolis,Lakers
+185,51,Houston,MN,1A,MSHSL 1A,5-4,5,4,0,9,51.6,51.6,1.65,48.8,185,26.2,26.0,26.2,26.0,0.2,53.1,47.2,72.64,19.44,36.11,5.56,Varsity Program,Houston,Hurricanes
+186,52,Clearbrook-Gonvick,MN,1A,MSHSL 1A,5-5,5,5,0,10,51.6,51.6,1.62,48.0,186,27.8,24.2,27.8,24.2,3.6,55.3,49.7,66.8,17.5,32.5,5.0,Varsity Program,Clearbrook,Bears
+187,33,Windom,MN,2A,MSHSL 2A,4-6,4,6,0,10,51.6,51.6,1.58,58.5,187,17.3,38.2,17.3,38.2,-20.9,40.6,30.1,60.47,37.24,37.24,37.24,Varsity Program,Windom,Eagles
+188,15,Blaine,MN,6A,MSHSL Conference,5-4,5,4,0,9,51.5,51.5,1.51,51.4,188,27.0,22.9,27.0,22.9,4.1,54.2,51.5,73.55,76.12,76.12,76.12,Varsity Program,Blaine,Bengals
+189,53,Hancock,MN,1A,MSHSL 1A,5-5,5,5,0,10,51.5,51.5,1.49,48.0,189,24.6,21.3,24.6,21.3,3.3,50.8,53.8,66.8,17.5,32.5,5.0,Varsity Program,Hancock,Owls
+190,27,North Branch,MN,4A,MSHSL Conference,7-3,7,3,0,10,51.4,51.4,1.37,46.9,190,33.7,23.3,33.7,23.3,10.4,63.6,51.0,86.41,41.26,41.26,41.26,Varsity Program,North Branch,Vikings
+191,33,East Grand Forks,MN,3A,MSHSL 3A,4-5,4,5,0,9,51.2,51.2,1.22,53.8,191,22.7,19.4,22.7,19.4,3.3,48.2,56.4,63.27,69.66,69.66,69.66,Varsity Program,East Grand Forks,Green Wave
+192,31,Robbinsdale Cooper,MN,5A,MSHSL 5A,3-7,3,7,0,10,51.1,51.1,1.15,56.7,192,21.4,26.2,21.4,26.2,-4.8,46.4,46.9,49.84,56.88,56.88,56.88,Varsity Program,New Hope,Hawks
+193,54,Westonka,MN,1A,MSHSL 1A,3-7,3,7,0,10,51.1,51.1,1.08,61.9,193,18.4,29.2,18.4,29.2,-10.8,42.2,42.7,51.66,10.5,19.5,3.0,Varsity Program,Mound,Varsity
+194,34,Melrose,MN,3A,MSHSL 3A,5-5,5,5,0,10,50.7,50.7,0.72,51.1,194,34.9,30.4,34.9,30.4,4.5,65.3,41.0,67.88,70.62,70.62,70.62,Varsity Program,Melrose,Dutchmen
+195,35,Morris Area/Chokio-Alberta,MN,3A,MSHSL 3A,5-4,5,4,0,9,50.7,50.7,0.72,50.5,195,24.9,20.6,24.9,20.6,4.3,51.3,54.8,73.23,19.44,36.11,5.56,Varsity Program,Morris,Tigers
+196,55,Sleepy Eye/St. Mary's,MN,1A,MSHSL Conference,4-6,4,6,0,10,50.7,50.7,0.72,54.4,196,18.1,23.7,18.1,23.7,-5.6,41.7,50.4,59.04,45.35,45.35,45.35,Varsity Program,Sleepy Eye,Marys
+197,32,Andover,MN,5A,MSHSL Conference,5-4,5,4,0,9,50.6,50.6,0.65,50.3,197,33.7,28.4,33.7,28.4,5.3,63.6,43.8,73.16,74.49,74.49,74.49,Varsity Program,Andover,Huskies
+198,56,Lakeview,MN,1A,MSHSL 1A,6-4,6,4,0,10,50.6,50.6,0.58,49.8,198,30.6,23.3,30.6,23.3,7.3,59.2,51.0,77.43,21.0,39.0,6.0,Varsity Program,Cottonwood,Lakers
+199,57,Park Christian/Synstelien HomeSchool/Pettys HomeSchool,MN,1A,MSHSL 1A,7-3,7,3,0,10,50.5,50.5,0.5,48.2,199,25.6,17.9,25.6,17.9,7.7,52.2,58.5,86.87,24.5,45.5,7.0,Varsity Program,Moorhead,Homeschool
+200,58,Southland,MN,1A,MSHSL 1A,5-5,5,5,0,10,50.5,50.5,0.5,50.7,200,30.5,22.3,30.5,22.3,8.2,59.1,52.4,67.75,55.42,55.42,55.42,Varsity Program,Adams,Rebels
+201,34,Cannon Falls/Learning for Life HomeSchool,MN,2A,MSHSL 2A,4-5,4,5,0,9,50.5,50.5,0.5,54.4,201,21.1,20.7,21.1,20.7,0.4,45.9,54.6,63.48,15.56,28.89,4.44,Varsity Program,Cannon Falls,Bombers
+202,35,Hawley,MN,2A,MSHSL Conference,3-7,3,7,0,10,50.4,50.4,0.43,56.9,202,19.4,26.3,19.4,26.3,-6.9,43.6,46.8,49.91,39.48,39.48,39.48,Varsity Program,Hawley,Nuggets
+203,36,Tri-City United [Montgomery-Lonsdale/Le Center],MN,3A,MSHSL 3A,4-6,4,6,0,10,50.4,50.4,0.36,53.3,203,18.9,25.1,18.9,25.1,-6.2,42.9,48.5,58.66,14.0,26.0,4.0,Varsity Program,Montgomery,Titans
+204,33,Apple Valley,MN,5A,MSHSL Conference,4-6,4,6,0,10,50.2,50.2,0.22,54.7,204,23.1,29.2,23.1,29.2,-6.1,48.7,42.7,59.14,46.37,46.37,46.37,Varsity Program,Apple Valley,Eagles
+205,37,Esko,MN,3A,MSHSL Conference,7-3,7,3,0,10,50.1,50.1,0.14,43.1,205,28.2,13.2,28.2,13.2,15.0,55.9,65.1,85.08,48.89,48.89,48.89,Varsity Program,Esko,Eskomos
+206,16,Mounds View,MN,6A,MSHSL Conference,5-5,5,5,0,10,50.1,50.1,0.07,53.2,206,20.2,25.0,20.2,25.0,-4.8,44.7,48.6,68.62,77.46,77.46,77.46,Varsity Program,Arden Hills,Mustangs
+207,38,Blue Earth Area,MN,3A,MSHSL Conference,4-4,4,4,0,8,50.0,50.0,0.0,48.0,207,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,55.23,55.23,55.23,Varsity Program,Minneapolis,Varsity
+208,39,Le Sueur-Henderson,MN,3A,MSHSL Conference,4-4,4,4,0,8,50.0,50.0,0.0,48.0,208,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,55.89,55.89,55.89,Varsity Program,Minneapolis,Varsity
+209,28,Princeton,MN,4A,MSHSL Conference,3-7,3,7,0,10,50.0,50.0,0.0,55.5,209,19.3,21.4,19.3,21.4,-2.1,43.4,53.6,49.42,44.28,44.28,44.28,Varsity Program,Princeton,Royal Tigers
+210,59,Ada-Borup,MN,1A,MSHSL 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,210,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Ada,Cougars
+211,60,Alden-Conger/Glenville-Emmons,MN,1A,MSHSL 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,211,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Alden,Emmons
+212,17,Anoka/Legacy Christian Academy,MN,6A,MSHSL 6A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,212,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Anoka,Tornadoes
+213,61,Bethlehem Academy/Discovery/Foxhoven HomeSchool,MN,1A,MSHSL 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,213,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,MN,Varsity
+214,62,Browerville/Eagle Valley,MN,1A,MSHSL 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,214,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Browerville,Tigers
+215,63,Cleveland,MN,1A,MSHSL 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,215,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Cleveland,Clippers
+216,64,Cromwell/Floodwood,MN,1A,MSHSL 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,216,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Cromwell,Floodwood
+217,29,Faribault/Shattuck-St. Mary's,MN,4A,MSHSL 4A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,217,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Faribault,Marys
+218,40,Howard Lake-Waverly-Winsted/Holy Trinity,MN,3A,MSHSL 3A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,218,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Howard Lake,Trinity
+219,36,International Falls/Cornerstone Christian,MN,2A,MSHSL 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,219,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,MN,Varsity
+220,30,Minneapolis South,MN,4A,MSHSL 4A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,220,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Minneapolis,Tigers
+221,34,Osseo/Park Center,MN,5A,MSHSL 5A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,221,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Osseo,Center
+222,41,Two Harbors/Lakeview Christian Academy/Marshall,MN,3A,MSHSL 3A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,222,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,MN,Varsity
+223,31,Venture Academy/Exploration/Hiawatha Collegiate,MN,4A,MSHSL 4A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,223,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Minneapolis,Collegiate
+224,32,Westonka/Southwest Christian,MN,4A,MSHSL 4A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,224,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Mound,White Hawks
+225,18,East Ridge,MN,6A,MSHSL Conference,5-5,5,5,0,10,49.6,49.6,-0.36,52.0,225,15.9,23.3,15.9,23.3,-7.4,38.7,51.0,68.2,66.74,66.74,66.74,Varsity Program,Woodbury,Raptors
+226,37,Kimball,MN,2A,MSHSL Conference,4-6,4,6,0,10,49.5,49.5,-0.5,53.4,226,20.0,17.3,20.0,17.3,2.7,44.4,59.4,58.69,46.56,46.56,46.56,Varsity Program,Kimball,Cubs
+227,65,New Ulm Cathedral,MN,1A,MSHSL 1A,5-5,5,5,0,10,49.4,49.4,-0.59,48.0,227,20.5,21.8,20.5,21.8,-1.3,45.1,53.1,66.8,50.1,50.1,50.1,Varsity Program,New Ulm,Greyhounds
+228,66,Rushford-Peterson,MN,1A,MSHSL Conference,3-6,3,6,0,9,49.2,49.2,-0.79,56.3,228,14.9,21.9,14.9,21.9,-7.0,37.3,52.9,53.04,45.49,45.49,45.49,Varsity Program,Rushford,Trojans
+229,42,Spectrum,MN,3A,MSHSL 3A,6-3,6,3,0,9,49.1,49.1,-0.94,47.8,229,28.4,17.2,28.4,17.2,11.2,56.2,59.5,83.4,41.81,41.81,41.81,Varsity Program,Elk River,Sting
+230,43,New London-Spicer,MN,3A,MSHSL Conference,4-6,4,6,0,10,49.0,49.0,-1.01,53.6,230,14.6,17.4,14.6,17.4,-2.8,36.8,59.2,58.76,49.32,49.32,49.32,Varsity Program,New London,Wildcats
+231,38,Tracy-Milroy-Balaton,MN,2A,MSHSL 1A,4-5,4,5,0,9,49.0,49.0,-1.01,53.2,231,22.9,27.9,22.9,27.9,-5.0,48.5,44.5,63.06,58.68,58.68,58.68,Varsity Program,Tracy,Panthers
+232,33,Detroit Lakes,MN,4A,MSHSL 4A,2-8,2,8,0,10,48.9,48.9,-1.08,58.0,232,13.6,27.9,13.6,27.9,-14.3,35.4,44.5,40.3,55.57,55.57,55.57,Varsity Program,Detroit Lakes,Lakers
+233,35,Minneapolis South/Roosevelt,MN,5A,MSHSL 5A,1-3,1,3,0,4,48.8,48.8,-1.22,50.8,233,17.0,30.5,17.0,30.5,-13.5,40.2,40.9,42.78,8.75,16.25,2.5,Varsity Program,Minneapolis,Varsity
+234,36,Owatonna,MN,5A,MSHSL Conference,5-5,5,5,0,10,48.7,48.7,-1.3,51.6,234,17.5,20.2,17.5,20.2,-2.7,40.9,55.3,68.06,38.79,38.79,38.79,Varsity Program,Owatonna,Huskies
+235,19,Farmington,MN,6A,MSHSL Conference,4-5,4,5,0,9,48.7,48.7,-1.3,52.6,235,14.9,20.6,14.9,20.6,-5.7,37.3,54.8,62.85,42.25,42.25,42.25,Varsity Program,Farmington,Tigers
+236,44,Fairmont/Martin Luther,MN,3A,MSHSL 3A,4-5,4,5,0,9,48.5,48.5,-1.51,49.5,236,27.7,16.4,27.7,16.4,11.3,55.2,60.6,61.77,15.56,28.89,4.44,Varsity Program,Fairmont,Luther
+237,34,PACT Charter,MN,4A,MSHSL 4A,2-4,2,4,0,6,48.4,48.4,-1.58,49.0,237,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,50.48,11.67,21.67,3.33,Varsity Program,Ramsey,Varsity
+238,35,Johnson,MN,4A,MSHSL 4A,6-3,6,3,0,9,48.2,48.2,-1.8,45.1,238,28.1,27.2,28.1,27.2,0.9,55.7,45.5,82.45,23.33,43.33,6.67,Varsity Program,St Paul,Governors
+239,20,Osseo,MN,6A,MSHSL 6A,4-5,4,5,0,9,48.2,48.2,-1.8,52.3,239,22.3,27.4,22.3,27.4,-5.1,47.6,45.2,62.75,28.93,28.93,28.93,Varsity Program,Osseo,Orioles
+240,37,Tartan,MN,5A,MSHSL 5A,6-4,6,4,0,10,47.8,47.8,-2.16,45.9,240,29.2,22.8,29.2,22.8,6.4,57.3,51.7,76.06,30.15,30.15,30.15,Varsity Program,Oakdale,Titans
+241,67,Blackduck,MN,1A,MSHSL 1A,5-5,5,5,0,10,47.7,47.7,-2.3,48.0,241,24.0,29.1,24.0,29.1,-5.1,50.0,42.9,66.8,17.5,32.5,5.0,Varsity Program,Blackduck,Drakes
+242,39,Janesville-Waldorf-Pemberton,MN,2A,MSHSL 2A,5-5,5,5,0,10,47.5,47.5,-2.52,48.8,242,24.2,28.8,24.2,28.8,-4.6,50.3,43.3,67.08,64.89,64.89,64.89,Varsity Program,Janesville,Bulldogs
+243,40,Pelican Rapids,MN,2A,MSHSL Conference,4-5,4,5,0,9,47.3,47.3,-2.74,50.8,243,32.8,31.8,32.8,31.8,1.0,62.3,39.1,62.22,43.23,43.23,43.23,Varsity Program,Pelican Rapids,Vikings
+244,45,Lake City,MN,3A,MSHSL 3A,4-6,4,6,0,10,47.1,47.1,-2.88,52.8,244,26.5,36.0,26.5,36.0,-9.5,53.5,33.2,58.48,25.49,25.49,25.49,Varsity Program,Lake City,Tigers
+245,38,Bloomington Kennedy,MN,5A,MSHSL Conference,4-5,4,5,0,9,47.1,47.1,-2.91,47.2,245,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,46.27,46.27,46.27,Varsity Program,Minneapolis,Varsity
+246,68,Lakeview MN,MN,1A,MSHSL Conference,4-5,4,5,0,9,47.1,47.1,-2.91,47.2,246,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,47.37,47.37,47.37,Varsity Program,Minneapolis,Varsity
+247,39,Minneapolis Washburn,MN,5A,MSHSL Conference,4-5,4,5,0,9,47.1,47.1,-2.91,47.2,247,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,49.73,49.73,49.73,Varsity Program,Minneapolis,Varsity
+248,40,Monticello MN,MN,5A,MSHSL Conference,4-5,4,5,0,9,47.1,47.1,-2.91,47.2,248,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,44.54,44.54,44.54,Varsity Program,Monticello,Varsity
+249,36,Mound Westonka,MN,4A,MSHSL Conference,4-5,4,5,0,9,47.1,47.1,-2.91,47.2,249,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,58.75,58.75,58.75,Varsity Program,Mound,Varsity
+250,46,Providence Academy,MN,3A,MSHSL Conference,4-5,4,5,0,9,47.1,47.1,-2.91,47.2,250,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,48.77,48.77,48.77,Varsity Program,Minneapolis,Varsity
+251,37,SMB Wolfpack,MN,4A,MSHSL Conference,4-5,4,5,0,9,47.1,47.1,-2.91,47.2,251,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,44.49,44.49,44.49,Varsity Program,Minneapolis,Varsity
+252,69,Sebeka,MN,1A,MSHSL 1A,4-5,4,5,0,9,47.1,47.1,-2.91,47.2,252,30.7,33.7,30.7,33.7,-3.0,59.4,36.4,60.96,15.56,28.89,4.44,Varsity Program,Sebeka,Trojans
+253,41,St. Francis MN,MN,5A,MSHSL Conference,4-5,4,5,0,9,47.1,47.1,-2.91,47.2,253,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,46.7,46.7,46.7,Varsity Program,Minneapolis,Varsity
+254,42,St. Paul Highland Park,MN,5A,MSHSL Conference,4-5,4,5,0,9,47.1,47.1,-2.91,47.2,254,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,51.46,51.46,51.46,Varsity Program,St. Paul,Varsity
+255,43,New Prague,MN,5A,MSHSL 5A,3-7,3,7,0,10,47.0,47.0,-2.95,52.4,255,22.1,25.3,22.1,25.3,-3.2,47.3,48.2,48.34,18.58,18.58,18.58,Varsity Program,New Prague,Trojans
+256,21,Stillwater,MN,6A,MSHSL Conference,3-6,3,6,0,9,47.0,47.0,-2.95,51.8,256,23.3,25.8,23.3,25.8,-2.5,49.0,47.5,51.46,62.6,62.6,62.6,Varsity Program,Stillwater,Ponies
+257,38,Providence Academy/Heritage Christian Academy/Maranatha Christian Academy/West Lutheran,MN,4A,MSHSL 4A,2-7,2,7,0,9,47.0,47.0,-2.95,57.1,257,20.0,27.3,20.0,27.3,-7.3,44.4,45.4,42.21,7.78,14.44,2.22,Varsity Program,Plymouth,Lutheran
+258,70,United South Central/Genesis Classical Academy,MN,1A,MSHSL 1A,5-5,5,5,0,10,47.0,47.0,-3.02,49.7,258,18.6,20.6,18.6,20.6,-2.0,42.4,54.8,67.39,17.5,32.5,5.0,Varsity Program,Wells,Academy
+259,41,Paynesville,MN,2A,MSHSL Conference,4-5,4,5,0,9,46.9,46.9,-3.1,50.1,259,23.6,25.9,23.6,25.9,-2.3,49.4,47.3,61.98,46.99,46.99,46.99,Varsity Program,Paynesville,Bulldogs
+260,47,Belle Plaine,MN,3A,MSHSL 3A,3-6,3,6,0,9,46.8,46.8,-3.24,53.4,260,16.0,25.8,16.0,25.8,-9.8,38.8,47.5,52.02,67.65,67.65,67.65,Varsity Program,Belle Plaine,Tigers
+261,42,St. Charles,MN,2A,MSHSL 2A,2-7,2,7,0,9,46.7,46.7,-3.31,57.3,261,15.8,31.8,15.8,31.8,-16.0,38.5,39.1,42.28,7.78,14.44,2.22,Varsity Program,St Charles,Saints
+262,44,Jefferson,MN,5A,MSHSL 5A,3-6,3,6,0,9,46.6,46.6,-3.38,54.7,262,13.2,23.9,13.2,23.9,-10.7,34.9,50.1,52.48,11.67,21.67,3.33,Varsity Program,Bloomington,Senior Jaguars
+263,71,Badger/Greenbush-Middle River,MN,1A,MSHSL 1A,4-6,4,6,0,10,46.6,46.6,-3.43,46.6,263,24.0,25.4,24.0,25.4,-1.4,50.0,48.0,56.31,14.0,26.0,4.0,Varsity Program,Badger,Gators
+264,43,Minnesota Valley Lutheran,MN,2A,MSHSL 2A,1-8,1,8,0,9,46.5,46.5,-3.46,61.3,264,11.7,26.6,11.7,26.6,-14.9,32.8,46.4,32.57,3.89,7.22,1.11,Varsity Program,New Ulm,Chargers
+265,72,Belgrade-Brooten-Elrosa,MN,1A,MSHSL Conference,5-4,5,4,0,9,46.5,46.5,-3.53,47.3,265,16.2,22.8,16.2,22.8,-6.6,39.1,51.7,72.11,44.05,44.05,44.05,Varsity Program,Belgrade,Jaguars
+266,73,Wabasha-Kellogg,MN,1A,MSHSL 1A,4-6,4,6,0,10,46.2,46.2,-3.75,46.6,266,24.2,26.3,24.2,26.3,-2.1,50.3,46.8,56.31,14.0,26.0,4.0,Varsity Program,Wabasha,Falcons
+267,74,Mountain Iron-Buhl,MN,1A,MSHSL 1A,7-3,7,3,0,10,46.2,46.2,-3.82,40.6,267,28.2,21.3,28.2,21.3,6.9,55.9,53.8,84.21,24.5,45.5,7.0,Varsity Program,Mountain Iron,Rangers
+268,44,Rush City,MN,2A,MSHSL 2A,6-4,6,4,0,10,46.2,46.2,-3.82,45.0,268,28.4,24.1,28.4,24.1,4.3,56.2,49.9,75.75,30.68,30.68,30.68,Varsity Program,Rush City,Tigers
+269,22,Wayzata,MN,6A,MSHSL Conference,1-8,1,8,0,9,46.0,46.0,-3.96,59.6,269,17.0,29.2,17.0,29.2,-12.2,40.2,42.7,31.97,69.05,69.05,69.05,Varsity Program,Plymouth,Trojans
+270,39,Glencoe-Silver Lake,MN,4A,MSHSL 3A,3-6,3,6,0,9,45.8,45.8,-4.18,54.0,270,18.2,27.2,18.2,27.2,-9.0,41.9,45.5,52.23,61.78,61.78,61.78,Varsity Program,Glencoe,Panthers
+271,75,Deer River,MN,1A,MSHSL Conference,6-4,6,4,0,10,45.8,45.8,-4.25,38.8,271,26.6,13.2,26.6,13.2,13.4,53.6,65.1,73.58,43.05,43.05,43.05,Varsity Program,Deer River,Warriors
+272,76,Mayer Lutheran,MN,1A,MSHSL Conference,4-5,4,5,0,9,45.8,45.8,-4.25,49.3,272,15.1,17.7,15.1,17.7,-2.6,37.5,58.8,61.7,50.4,50.4,50.4,Varsity Program,Mayer,Knights
+273,77,Lake Park-Audubon,MN,1A,MSHSL 1A,4-5,4,5,0,9,45.7,45.7,-4.32,49.7,273,21.2,21.9,21.2,21.9,-0.7,46.1,52.9,61.84,15.56,28.89,4.44,Varsity Program,Lake Park,Raiders
+274,48,Park Rapids,MN,3A,MSHSL 3A,3-6,3,6,0,9,45.7,45.7,-4.32,54.6,274,17.7,30.3,17.7,30.3,-12.6,41.2,41.2,52.44,26.2,26.2,26.2,Varsity Program,Park Rapids,Panthers
+275,45,Rogers,MN,5A,MSHSL Conference,3-6,3,6,0,9,45.6,45.6,-4.39,53.4,275,18.9,29.1,18.9,29.1,-10.2,42.9,42.9,52.02,69.84,69.84,69.84,Varsity Program,Rogers,Royals
+276,45,MACCRAY,MN,2A,MSHSL Conference,3-7,3,7,0,10,45.5,45.5,-4.46,54.4,276,9.0,26.2,9.0,26.2,-17.2,29.0,46.9,49.04,60.41,60.41,60.41,Varsity Program,Clara City,Wolverines
+277,49,Watertown-Mayer,MN,3A,MSHSL Conference,2-7,2,7,0,9,45.5,45.5,-4.54,54.2,277,17.6,29.7,17.6,29.7,-12.1,41.0,42.0,41.19,68.27,68.27,68.27,Varsity Program,Watertown,Royals
+278,78,Canby,MN,1A,MSHSL 1A,3-6,3,6,0,9,45.4,45.4,-4.61,55.8,278,14.9,34.0,14.9,34.0,-19.1,37.3,36.0,52.86,57.88,57.88,57.88,Varsity Program,Canby,Lancers
+279,40,Winona,MN,4A,MSHSL 4A,3-7,3,7,0,10,45.2,45.2,-4.75,50.9,279,20.4,24.9,20.4,24.9,-4.5,45.0,48.7,47.81,24.04,24.04,24.04,Varsity Program,Winona,Hawks
+280,79,B O L D,MN,1A,MSHSL Conference,2-7,2,7,0,9,45.2,45.2,-4.82,55.2,280,16.9,30.2,16.9,30.2,-13.3,40.1,41.3,41.54,51.69,51.69,51.69,Varsity Program,Olivia,Warriors
+281,80,New York Mills,MN,1A,MSHSL 1A,2-7,2,7,0,9,45.0,45.0,-5.04,53.5,281,18.4,26.3,18.4,26.3,-7.9,42.2,46.8,40.95,31.11,31.11,31.11,Varsity Program,New York Mills,Eagles
+282,46,Ada-Borup/Norman County West,MN,5A,MSHSL 5A,4-6,4,6,0,10,44.9,44.9,-5.11,47.4,282,21.2,26.6,21.2,26.6,-5.4,46.1,46.4,56.59,14.0,26.0,4.0,Varsity Program,Ada,Varsity
+283,81,North Woods,MN,1A,MSHSL 1A,4-5,4,5,0,9,44.9,44.9,-5.11,47.2,283,17.8,25.7,17.8,25.7,-7.9,41.3,47.6,60.96,15.56,28.89,4.44,Varsity Program,Cook,Grizzlies
+284,82,Bagley,MN,1A,MSHSL 1A,5-4,5,4,0,9,44.8,44.8,-5.18,42.7,284,29.6,19.0,29.6,19.0,10.6,57.8,57.0,70.5,29.81,29.81,29.81,Varsity Program,Bagley,Flyers
+285,23,Lakeville North,MN,6A,MSHSL Conference,1-8,1,8,0,9,44.8,44.8,-5.18,56.5,285,9.0,21.8,9.0,21.8,-12.8,29.0,53.1,30.89,59.59,59.59,59.59,Varsity Program,Lakeville,Panthers
+286,46,Norwood Young America,MN,2A,MSHSL Conference,4-6,4,6,0,10,44.8,44.8,-5.23,46.6,286,21.2,26.6,21.2,26.6,-5.4,46.1,46.4,56.31,40.94,40.94,40.94,Varsity Program,Minneapolis,Varsity
+287,47,Royalton,MN,2A,MSHSL 2A,3-6,3,6,0,9,44.7,44.7,-5.26,54.0,287,17.7,37.6,17.7,37.6,-19.9,41.2,31.0,52.23,59.41,59.41,59.41,Varsity Program,Royalton,Royals
+288,47,Big Lake,MN,5A,MSHSL 4A,2-7,2,7,0,9,44.7,44.7,-5.33,55.8,288,23.3,35.4,23.3,35.4,-12.1,49.0,34.0,41.75,67.15,67.15,67.15,Varsity Program,Big Lake,Hornets
+289,24,Anoka,MN,6A,MSHSL Conference,0-9,0,9,0,9,44.6,44.6,-5.4,57.0,289,29.2,38.9,29.2,38.9,-9.7,57.3,29.1,19.95,46.07,46.07,46.07,Varsity Program,Anoka,Tornadoes
+290,50,Rockford,MN,3A,MSHSL 3A,1-8,1,8,0,9,44.4,44.4,-5.62,56.5,290,9.3,21.2,9.3,21.2,-11.9,29.4,53.9,30.89,3.89,7.22,1.11,Varsity Program,Rockford,Rockets
+291,48,St. Clair/Loyola,MN,2A,MSHSL 2A,4-6,4,6,0,10,44.3,44.3,-5.69,48.2,291,15.9,24.4,15.9,24.4,-8.5,38.7,49.4,56.87,14.0,26.0,4.0,Varsity Program,St Clair,Loyola
+292,48,St. Louis Park,MN,5A,MSHSL 5A,2-7,2,7,0,9,44.2,44.2,-5.76,52.3,292,16.6,23.4,16.6,23.4,-6.8,39.6,50.8,40.53,62.93,62.93,62.93,Varsity Program,St Louis Park,Orioles
+293,41,Blake/Hope Academy/Minnehaha Academy/St. Paul Academy-Summit,MN,4A,MSHSL 4A,6-2,6,2,0,8,44.2,44.2,-5.83,43.8,293,30.9,17.1,30.9,17.1,13.8,59.7,59.7,90.33,26.25,48.75,7.5,Varsity Program,Minneapolis,Wolfpack
+294,42,Simley,MN,4A,MSHSL Conference,2-7,2,7,0,9,44.0,44.0,-5.98,55.3,294,18.1,30.9,18.1,30.9,-12.8,41.7,40.3,41.58,40.28,40.28,40.28,Varsity Program,Inver Grove Heights,Spartans
+295,51,Camden/FAIR Downtown,MN,3A,MSHSL 3A,3-6,3,6,0,9,43.7,43.7,-6.26,47.4,295,14.4,23.1,14.4,23.1,-8.7,36.6,51.3,49.92,11.67,21.67,3.33,Varsity Program,Minneapolis,Downtown
+296,25,Hopkins,MN,6A,MSHSL 6A,4-5,4,5,0,9,43.7,43.7,-6.34,48.7,296,23.0,33.0,23.0,33.0,-10.0,48.6,37.4,61.49,23.14,23.14,23.14,Varsity Program,Minnetonka,Royals
+297,49,Greenway/Nashwauk-Keewatin,MN,2A,MSHSL 2A,4-6,4,6,0,10,43.6,43.6,-6.41,47.0,297,18.8,27.0,18.8,27.0,-8.2,42.7,45.8,56.45,14.0,26.0,4.0,Varsity Program,Coleraine,Raiders
+298,83,Ashby/Brandon/Evansville,MN,1A,MSHSL 1A,5-5,5,5,0,10,43.5,43.5,-6.48,42.3,298,21.6,19.8,21.6,19.8,1.8,46.6,55.9,64.8,17.5,32.5,5.0,Varsity Program,Brandon,Evansville
+299,43,New Ulm,MN,4A,MSHSL 4A,2-7,2,7,0,9,43.5,43.5,-6.48,51.4,299,19.9,24.6,19.9,24.6,-4.7,44.3,49.2,40.21,60.14,60.14,60.14,Varsity Program,New Ulm,Eagles
+300,50,International Falls,MN,2A,MSHSL 3A,5-4,5,4,0,9,43.5,43.5,-6.55,42.1,300,25.6,22.6,25.6,22.6,3.0,52.2,52.0,70.29,28.52,28.52,28.52,Varsity Program,MN,Varsity
+301,84,Verndale,MN,1A,MSHSL 1A,3-6,3,6,0,9,43.4,43.4,-6.56,45.7,301,19.6,23.8,19.6,23.8,-4.2,43.8,50.3,49.33,11.67,21.67,3.33,Varsity Program,Verndale,Pirates
+302,51,Browerville/Lafreniere HomeSchool,MN,2A,MSHSL 2A,5-5,5,5,0,10,43.4,43.4,-6.62,45.3,302,24.0,24.0,24.0,24.0,0.0,50.0,50.0,65.86,17.5,32.5,5.0,Varsity Program,Browerville,Varsity
+303,85,Two Harbors/Marshall/Kelley,MN,1A,MSHSL 1A,5-4,5,4,0,9,43.3,43.3,-6.7,42.7,303,25.6,22.6,25.6,22.6,3.0,52.2,52.0,70.5,19.44,36.11,5.56,Varsity Program,Two Harbors,Varsity
+304,86,Benson,MN,1A,MSHSL 1A,4-5,4,5,0,9,43.3,43.3,-6.7,45.3,304,27.8,21.8,27.8,21.8,6.0,55.3,53.1,60.3,43.1,43.1,43.1,Varsity Program,Benson,Varsity
+305,52,Maple Lake/Holy Spirit Academy/Aasen HomeSchool,MN,2A,MSHSL 2A,5-4,5,4,0,9,43.2,43.2,-6.77,42.4,305,23.3,20.0,23.3,20.0,3.3,49.0,55.6,70.4,19.44,36.11,5.56,Varsity Program,Maple Lake,Homeschool
+306,26,Eagan,MN,6A,MSHSL Conference,2-7,2,7,0,9,43.0,43.0,-6.98,52.7,306,12.0,26.3,12.0,26.3,-14.3,33.2,46.8,40.67,69.41,69.41,69.41,Varsity Program,Eagan,Wildcats
+307,53,Warroad,MN,2A,MSHSL Conference,2-7,2,7,0,9,42.8,42.8,-7.2,52.9,307,15.7,30.6,15.7,30.6,-14.9,38.4,40.8,40.74,53.49,53.49,53.49,Varsity Program,Warroad,Warriors
+308,49,Highland Park,MN,5A,MSHSL 5A,4-6,4,6,0,10,42.7,42.7,-7.27,44.9,308,21.9,25.2,21.9,25.2,-3.3,47.1,48.3,55.71,14.0,26.0,4.0,Varsity Program,St Paul,Scots
+309,44,Chisago Lakes Area,MN,4A,MSHSL 4A,2-8,2,8,0,10,42.7,42.7,-7.27,51.8,309,18.0,31.0,18.0,31.0,-13.0,41.6,40.2,38.13,7.0,13.0,2.0,Varsity Program,Lindstrom,Wildcats
+310,45,Hibbing,MN,4A,MSHSL 3A,5-5,5,5,0,10,42.7,42.7,-7.34,44.3,310,14.2,19.8,14.2,19.8,-5.6,36.3,55.9,65.5,58.53,58.53,58.53,Varsity Program,Hibbing,Bluejackets
+311,46,North,MN,4A,MSHSL 4A,4-5,4,5,0,9,42.7,42.7,-7.34,45.0,311,26.0,25.0,26.0,25.0,1.0,52.8,48.6,60.19,15.56,28.89,4.44,Varsity Program,North St Paul,Polars
+312,50,Century,MN,5A,MSHSL 5A,2-7,2,7,0,9,42.4,42.4,-7.63,51.5,312,16.1,27.6,16.1,27.6,-11.5,38.9,45.0,40.25,7.78,14.44,2.22,Varsity Program,Rochester,Panthers
+313,51,Irondale,MN,5A,MSHSL 5A,2-7,2,7,0,9,42.1,42.1,-7.85,54.9,313,14.2,32.0,14.2,32.0,-17.8,36.3,38.8,41.44,49.3,49.3,49.3,Varsity Program,New Brighton,Knights
+314,52,Breck,MN,3A,MSHSL 3A,5-4,5,4,0,9,42.0,42.0,-7.99,43.6,314,20.6,28.6,20.6,28.6,-8.0,45.2,43.6,70.82,49.68,49.68,49.68,Varsity Program,Minneapolis,Mustangs
+315,53,Concordia Academy/St. Croix Prep/Hand in Hand Christian Montessori,MN,3A,MSHSL 3A,5-4,5,4,0,9,41.9,41.9,-8.06,42.8,315,26.8,25.9,26.8,25.9,0.9,53.9,47.3,70.54,19.44,36.11,5.56,Varsity Program,Roseville,Montessori
+316,87,Rothsay,MN,1A,MSHSL 1A,3-7,3,7,0,10,41.9,41.9,-8.08,45.2,316,20.6,26.1,20.6,26.1,-5.5,45.2,47.1,45.82,10.5,19.5,3.0,Varsity Program,Rothsay,Tigers
+317,54,Plainview-Elgin-Millville,MN,3A,MSHSL Conference,3-6,3,6,0,9,41.8,41.8,-8.21,48.5,317,19.6,25.3,19.6,25.3,-5.7,43.8,48.2,50.31,43.46,43.46,43.46,Varsity Program,Elgin,Bulldogs
+318,88,Braham/Rysdam Academy,MN,1A,MSHSL 1A,7-3,7,3,0,10,41.5,41.5,-8.5,36.1,318,35.3,20.3,35.3,20.3,15.0,65.8,55.2,82.64,24.5,45.5,7.0,Varsity Program,Braham,Academy
+319,89,Pine River-Backus,MN,1A,MSHSL 1A,3-6,3,6,0,9,41.5,41.5,-8.5,49.8,319,22.6,31.6,22.6,31.6,-9.0,48.0,39.4,50.76,11.67,21.67,3.33,Varsity Program,Pine River,Tigers
+320,47,Denfeld,MN,4A,MSHSL 4A,3-7,3,7,0,10,41.4,41.4,-8.57,50.8,320,13.1,34.4,13.1,34.4,-21.3,34.7,35.4,47.78,10.5,19.5,3.0,Varsity Program,Duluth,Hunters
+321,90,Braham,MN,1A,MSHSL Conference,3-6,3,6,0,9,41.3,41.3,-8.72,45.7,321,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,37.58,37.58,37.58,Varsity Program,Minneapolis,Varsity
+322,54,Fcl,MN,2A,MSHSL Conference,3-6,3,6,0,9,41.3,41.3,-8.72,45.7,322,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,40.21,40.21,40.21,Varsity Program,Minneapolis,Varsity
+323,91,Lester Prairie,MN,1A,MSHSL Conference,3-6,3,6,0,9,41.3,41.3,-8.72,45.7,323,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,47.09,47.09,47.09,Varsity Program,Lester Prairie,Bulldogs
+324,52,Park Cottage Grove,MN,5A,MSHSL Conference,3-6,3,6,0,9,41.3,41.3,-8.72,45.7,324,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,43.78,43.78,43.78,Varsity Program,Cottage Grove,Varsity
+325,92,Northern Freeze co-op [Marshall County Central/Tri-County],MN,1A,MSHSL 1A,3-6,3,6,0,9,41.1,41.1,-8.9,45.7,325,17.4,26.8,17.4,26.8,-9.4,40.8,46.1,49.33,11.67,21.67,3.33,Varsity Program,Newfolden,Northern Freeze
+326,27,Park Center,MN,6A,MSHSL 4A,2-7,2,7,0,9,41.1,41.1,-8.93,51.3,326,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,40.18,37.96,37.96,37.96,Varsity Program,Brooklyn Park,Varsity
+327,53,Kennedy,MN,5A,MSHSL 5A,3-6,3,6,0,9,40.9,40.9,-9.07,46.1,327,14.7,21.3,14.7,21.3,-6.6,37.0,53.8,49.47,11.67,21.67,3.33,Varsity Program,Bloomington,Eagles
+328,54,Burnsville,MN,5A,MSHSL 5A,1-8,1,8,0,9,40.7,40.7,-9.29,58.1,328,15.6,42.9,15.6,42.9,-27.3,38.2,25.0,31.45,32.32,32.32,32.32,Varsity Program,Burnsville,Blaze
+329,55,John Marshall,MN,5A,MSHSL 5A,1-8,1,8,0,9,40.6,40.6,-9.36,52.8,329,20.1,37.2,20.1,37.2,-17.1,44.5,31.5,29.59,3.89,7.22,1.11,Varsity Program,Rochester,Rockets
+330,93,Renville County West,MN,1A,MSHSL 1A,3-6,3,6,0,9,40.6,40.6,-9.44,45.7,330,22.4,33.0,22.4,33.0,-10.6,47.8,37.4,49.33,48.58,48.58,48.58,Varsity Program,Renville,Jaguars
+331,48,St. Cloud Tech/St. John's Prep,MN,4A,MSHSL 4A,2-7,2,7,0,9,40.5,40.5,-9.5,53.4,331,8.8,29.2,8.8,29.2,-20.4,28.7,42.7,40.91,7.78,14.44,2.22,Varsity Program,St Cloud,Prep
+332,94,Warren-Alvarado-Oslo,MN,1A,MSHSL 1A,3-6,3,6,0,9,40.5,40.5,-9.53,45.7,332,15.3,26.1,15.3,26.1,-10.8,37.8,47.1,49.33,11.67,21.67,3.33,Varsity Program,Warren,Ponies
+333,49,Cloquet,MN,4A,MSHSL Conference,3-6,3,6,0,9,40.3,40.3,-9.72,46.9,333,19.7,24.6,19.7,24.6,-4.9,44.0,49.2,49.75,47.95,47.95,47.95,Varsity Program,Cloquet,Lumberjacks
+334,55,Blooming Prairie,MN,2A,MSHSL 2A,2-7,2,7,0,9,40.1,40.1,-9.86,50.3,334,12.3,25.9,12.3,25.9,-13.6,33.6,47.3,39.83,34.0,34.0,34.0,Varsity Program,Blooming Prairie,Blossoms
+335,56,Duluth East,MN,5A,MSHSL 5A,2-7,2,7,0,9,40.1,40.1,-9.94,50.5,335,15.7,29.9,15.7,29.9,-14.2,38.4,41.7,39.9,50.93,50.93,50.93,Varsity Program,Duluth,Greyhounds
+336,28,White Bear Lake,MN,6A,MSHSL Conference,2-7,2,7,0,9,39.8,39.8,-10.22,48.8,336,18.3,27.6,18.3,27.6,-9.3,42.0,45.0,39.3,29.03,29.03,29.03,Varsity Program,White Bear Lake,Bears
+337,56,Roseau,MN,2A,MSHSL 2A,1-8,1,8,0,9,39.4,39.4,-10.58,54.2,337,18.6,41.6,18.6,41.6,-23.0,42.4,25.4,30.08,32.55,32.55,32.55,Varsity Program,Roseau,Rams
+338,95,Polk County West [Climax/Fisher],MN,1A,MSHSL 1A,3-6,3,6,0,9,39.3,39.3,-10.73,44.3,338,20.9,21.8,20.9,21.8,-0.9,45.7,53.1,48.84,11.67,21.67,3.33,Varsity Program,Climax,Knights
+339,50,Richfield,MN,4A,MSHSL 4A,4-5,4,5,0,9,39.1,39.1,-10.87,43.1,339,24.0,28.4,24.0,28.4,-4.4,50.0,43.8,59.53,32.64,32.64,32.64,Varsity Program,Richfield,Spartans
+340,51,Roosevelt,MN,4A,MSHSL 4A,3-6,3,6,0,9,39.1,39.1,-10.87,46.1,340,17.2,32.3,17.2,32.3,-15.1,40.5,38.4,49.47,11.67,21.67,3.33,Varsity Program,Minneapolis,Teddies
+341,96,Martin County West,MN,1A,MSHSL 1A,1-8,1,8,0,9,39.1,39.1,-10.87,51.7,341,11.6,26.4,11.6,26.4,-14.8,32.6,46.6,29.21,61.75,61.75,61.75,Varsity Program,Sherburn,Mavericks
+342,97,Heron Lake-Okabena/Fulda,MN,1A,MSHSL 1A,2-7,2,7,0,9,39.1,39.1,-10.88,44.1,342,23.1,30.0,23.1,30.0,-6.9,48.7,41.6,37.66,7.78,14.44,2.22,Varsity Program,Okabena,Coyotes
+343,29,Eastview,MN,6A,MSHSL 6A,2-7,2,7,0,9,38.8,38.8,-11.16,48.7,343,18.6,32.9,18.6,32.9,-14.3,42.4,37.5,39.27,33.69,33.69,33.69,Varsity Program,Apple Valley,Lightning
+344,57,Crosby-Ironton,MN,2A,MSHSL 2A,3-7,3,7,0,10,38.7,38.7,-11.3,44.2,344,16.7,25.5,16.7,25.5,-8.8,39.8,47.9,45.47,32.27,32.27,32.27,Varsity Program,Crosby,Rangers
+345,58,Mesabi East,MN,2A,MSHSL 2A,3-6,3,6,0,9,38.3,38.3,-11.74,45.3,345,16.4,22.0,16.4,22.0,-5.6,39.4,52.8,49.19,11.67,21.67,3.33,Varsity Program,Aurora,Giants
+346,98,Granada-Huntley-East Chain/Truman,MN,1A,MSHSL 1A,3-5,3,5,0,8,38.2,38.2,-11.78,46.2,346,25.2,43.6,25.2,43.6,-18.4,51.7,25.0,53.67,13.12,24.38,3.75,Varsity Program,Granada,Mustangs
+347,52,Fridley,MN,4A,MSHSL 4A,4-6,4,6,0,10,38.2,38.2,-11.81,41.7,347,17.1,22.7,17.1,22.7,-5.6,40.3,51.8,54.59,22.79,22.79,22.79,Varsity Program,Fridley,Tigers
+348,99,Nevis,MN,1A,MSHSL 1A,3-6,3,6,0,9,38.2,38.2,-11.81,46.4,348,21.8,34.4,21.8,34.4,-12.6,46.9,35.4,49.57,11.67,21.67,3.33,Varsity Program,Nevis,Tigers
+349,55,Sauk Centre,MN,3A,MSHSL 3A,0-9,0,9,0,9,38.0,38.0,-12.02,58.6,349,11.1,41.7,11.1,41.7,-30.6,31.9,25.2,20.51,73.21,73.21,73.21,Varsity Program,Sauk Centre,Mainstreeters
+350,53,Little Falls,MN,4A,MSHSL 4A,2-7,2,7,0,9,37.8,37.8,-12.17,54.9,350,7.8,38.4,7.8,38.4,-30.6,27.3,29.8,41.44,63.01,63.01,63.01,Varsity Program,Little Falls,Flyers
+351,59,Blue Earth,MN,2A,MSHSL 2A,3-6,3,6,0,9,37.4,37.4,-12.6,47.3,351,15.8,30.6,15.8,30.6,-14.8,38.5,40.8,49.89,11.67,21.67,3.33,Varsity Program,Blue Earth,Bucs
+352,60,Sibley East,MN,2A,MSHSL 2A,0-9,0,9,0,9,37.1,37.1,-12.89,59.6,352,5.6,43.3,5.6,43.3,-37.7,25.0,25.0,20.86,30.55,30.55,30.55,Varsity Program,Arlington,Wolverines
+353,100,Cherry,MN,1A,MSHSL 1A,4-5,4,5,0,9,36.8,36.8,-13.18,38.2,353,27.8,26.2,27.8,26.2,1.6,55.3,46.9,57.81,15.56,28.89,4.44,Varsity Program,Iron,Tigers
+354,30,Coon Rapids,MN,6A,MSHSL Conference,2-7,2,7,0,9,36.8,36.8,-13.18,45.0,354,13.3,29.8,13.3,29.8,-16.5,35.0,41.9,37.97,30.68,30.68,30.68,Varsity Program,Coon Rapids,Cardinals
+355,56,La Crescent/La Crescent Montessori & Stem,MN,3A,MSHSL 3A,1-8,1,8,0,9,36.4,36.4,-13.61,54.9,355,16.9,42.4,16.9,42.4,-25.5,40.1,25.0,30.33,3.89,7.22,1.11,Varsity Program,La Crescent,Lancers
+356,101,Lac qui Parle Valley,MN,1A,MSHSL 1A,1-8,1,8,0,9,36.4,36.4,-13.61,55.7,356,9.6,43.7,9.6,43.7,-34.1,29.8,25.0,30.61,3.89,7.22,1.11,Varsity Program,Madison,Eagles
+357,102,Nicollet,MN,1A,MSHSL 1A,2-6,2,6,0,8,36.2,36.2,-13.75,44.5,357,28.5,43.5,28.5,43.5,-15.0,56.3,25.0,40.58,8.75,16.25,2.5,Varsity Program,Nicollet,Raiders
+358,57,Pine City,MN,3A,MSHSL 3A,3-7,3,7,0,10,36.2,36.2,-13.82,43.6,358,9.4,21.4,9.4,21.4,-12.0,29.6,53.6,45.26,64.53,64.53,64.53,Varsity Program,Pine City,Dragons
+359,54,Austin MN,MN,4A,MSHSL Conference,2-7,2,7,0,9,35.5,35.5,-14.53,44.1,359,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,39.64,39.64,39.64,Varsity Program,Minneapolis,Varsity
+360,57,Sartell,MN,5A,MSHSL Conference,2-7,2,7,0,9,35.5,35.5,-14.53,44.1,360,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,48.2,48.2,48.2,Varsity Program,Sartell,Varsity
+361,58,Milaca,MN,3A,MSHSL 3A,1-8,1,8,0,9,35.1,35.1,-14.9,53.4,361,8.7,36.6,8.7,36.6,-27.9,28.6,32.4,29.8,63.07,63.07,63.07,Varsity Program,Milaca,Wolves
+362,61,Wadena-Deer Creek,MN,2A,MSHSL 2A,2-7,2,7,0,9,35.0,35.0,-14.98,50.7,362,12.0,41.4,12.0,41.4,-29.4,33.2,25.6,39.97,35.28,35.28,35.28,Varsity Program,Wadena,Wolverines
+363,55,Rock Ridge co-op [Eveleth-Gilbert/Virginia],MN,4A,MSHSL 4A,1-8,1,8,0,9,35.0,35.0,-14.98,50.2,363,15.8,42.2,15.8,42.2,-26.4,38.5,25.0,28.68,3.89,7.22,1.11,Varsity Program,Eveleth,Wolverines
+364,62,Kerkhoven-Murdock-Sunburg,MN,2A,MSHSL 2A,1-8,1,8,0,9,35.0,35.0,-15.05,53.9,364,7.1,47.7,7.1,47.7,-40.6,26.3,25.0,29.98,41.62,41.62,41.62,Varsity Program,Kerkhoven,Fighting Saints
+365,31,Roseville,MN,6A,MSHSL 6A,1-8,1,8,0,9,34.9,34.9,-15.12,48.1,365,8.8,25.1,8.8,25.1,-16.3,28.7,48.5,27.95,38.18,38.18,38.18,Varsity Program,Roseville,Silver Fox
+366,103,Hayfield,MN,1A,MSHSL 1A,2-7,2,7,0,9,34.5,34.5,-15.48,47.2,366,13.9,39.6,13.9,39.6,-25.7,35.9,28.2,38.74,23.33,23.33,23.33,Varsity Program,Hayfield,Vikings
+367,104,New Richland-Hartland-Ellendale-Geneva,MN,1A,MSHSL 1A,1-8,1,8,0,9,34.5,34.5,-15.48,48.2,367,16.6,38.1,16.6,38.1,-21.5,39.6,30.3,27.98,3.89,7.22,1.11,Varsity Program,New Richland,Panthers
+368,59,Two Harbors,MN,3A,MSHSL Conference,2-8,2,8,0,10,34.3,34.3,-15.69,43.8,368,15.6,31.8,15.6,31.8,-16.2,38.2,39.1,35.33,39.94,39.94,39.94,Varsity Program,Minneapolis,Varsity
+369,56,Como Park/Washington Tech,MN,4A,MSHSL 4A,3-7,3,7,0,10,34.1,34.1,-15.91,42.0,369,17.2,32.9,17.2,32.9,-15.7,40.5,37.5,44.7,10.5,19.5,3.0,Varsity Program,St Paul,Tech
+370,63,Menahga,MN,2A,MSHSL 2A,0-9,0,9,0,9,33.9,33.9,-16.13,54.8,370,15.1,43.8,15.1,43.8,-28.7,37.5,25.0,19.18,42.8,42.8,42.8,Varsity Program,Menahga,Braves
+371,57,St. Anthony Village,MN,4A,MSHSL 4A,2-7,2,7,0,9,33.5,33.5,-16.49,46.4,371,14.0,32.8,14.0,32.8,-18.8,36.0,37.7,38.46,45.96,45.96,45.96,Varsity Program,Minneapolis,Huskies
+372,105,Yellow Medicine East,MN,1A,MSHSL 1A,1-8,1,8,0,9,33.3,33.3,-16.7,53.2,372,8.8,42.8,8.8,42.8,-34.0,28.7,25.0,29.73,29.23,29.23,29.23,Varsity Program,Granite Falls,The Sting
+373,106,McGregor,MN,1A,MSHSL 1A,2-7,2,7,0,9,33.1,33.1,-16.87,44.1,373,15.0,35.2,15.0,35.2,-20.2,37.4,34.3,37.66,7.78,14.44,2.22,Varsity Program,Mcgregor,Mercuries
+374,107,Grand Meadow,MN,1A,MSHSL 1A,2-7,2,7,0,9,33.1,33.1,-16.91,44.1,374,13.8,34.1,13.8,34.1,-20.3,35.7,35.9,37.66,58.73,58.73,58.73,Varsity Program,Grand Meadow,Superlarks
+375,58,Austin,MN,4A,MSHSL 4A,1-8,1,8,0,9,32.3,32.3,-17.71,51.4,375,5.3,49.2,5.3,49.2,-43.9,25.0,25.0,29.1,3.89,7.22,1.11,Varsity Program,Austin,Packers
+376,60,Montevideo,MN,3A,MSHSL 3A,0-9,0,9,0,9,32.3,32.3,-17.71,55.0,376,4.0,49.3,4.0,49.3,-45.3,25.0,25.0,19.25,26.84,26.84,26.84,Varsity Program,Montevideo,Thunderhawks
+377,64,Atwater-Cosmos-Grove City,MN,2A,MSHSL 2A,0-9,0,9,0,9,32.2,32.2,-17.78,54.3,377,7.8,46.6,7.8,46.6,-38.8,27.3,25.0,19.0,0.0,0.0,0.0,Varsity Program,Grove City,Falcons
+378,61,St. Agnes,MN,3A,MSHSL 3A,0-9,0,9,0,9,32.1,32.1,-17.86,53.0,378,10.2,39.3,10.2,39.3,-29.1,30.7,28.6,18.55,0.0,0.0,0.0,Varsity Program,St Paul,Aggies
+379,62,Apollo,MN,3A,MSHSL 3A,0-9,0,9,0,9,31.9,31.9,-18.14,55.7,379,12.1,46.9,12.1,46.9,-34.8,33.3,25.0,19.5,0.0,0.0,0.0,Varsity Program,St Cloud,Eagles
+380,108,Lanesboro,MN,1A,MSHSL 1A,1-8,1,8,0,9,31.8,31.8,-18.18,42.6,380,13.6,29.8,13.6,29.8,-16.2,35.4,41.9,26.02,58.3,58.3,58.3,Varsity Program,Lanesboro,Burros
+381,109,Northome/Kelliher,MN,1A,MSHSL 1A,1-6,1,6,0,7,31.6,31.6,-18.41,43.0,381,10.3,29.0,10.3,29.0,-18.7,30.8,43.0,29.34,5.0,9.29,1.43,Varsity Program,Northome,Mustangs
+382,63,Brooklyn Center/Parnassus Prep,MN,3A,MSHSL 3A,3-5,3,5,0,8,31.6,31.6,-18.43,40.9,382,32.2,28.1,32.2,28.1,4.1,61.5,44.3,51.81,13.12,24.38,3.75,Varsity Program,Brooklyn Center,Centaur
+383,32,Park,MN,6A,MSHSL 6A,1-8,1,8,0,9,31.4,31.4,-18.65,45.8,383,11.2,37.0,11.2,37.0,-25.8,32.1,31.8,27.14,33.4,33.4,33.4,Varsity Program,Cottage Grove,Wolfpack
+384,110,Westbrook-Walnut Grove,MN,1A,MSHSL 1A,2-7,2,7,0,9,31.2,31.2,-18.8,44.1,384,16.7,41.2,16.7,41.2,-24.5,39.8,25.9,37.66,7.78,14.44,2.22,Varsity Program,Westbrook,Chargers
+385,64,Worthington,MN,3A,MSHSL 3A,0-9,0,9,0,9,31.1,31.1,-18.86,52.0,385,4.2,41.6,4.2,41.6,-37.4,25.0,25.4,18.2,64.21,64.21,64.21,Varsity Program,Worthington,Trojans
+386,58,St. Paul Central,MN,5A,MSHSL 5A,1-7,1,7,0,8,30.7,30.7,-19.3,48.0,386,5.2,37.0,5.2,37.0,-31.8,25.0,31.8,29.3,58.27,58.27,58.27,Varsity Program,St Paul,Minutemen
+387,65,West Central Area,MN,2A,MSHSL 1A,1-8,1,8,0,9,30.5,30.5,-19.51,44.0,387,14.2,32.4,14.2,32.4,-18.2,36.3,38.2,26.51,52.47,52.47,52.47,Varsity Program,Barrett,Knights
+388,59,Belle Plaine MN,MN,4A,MSHSL Conference,1-7,1,7,0,8,30.4,30.4,-19.63,42.8,388,13.5,33.8,13.5,33.8,-20.3,35.3,36.3,27.48,28.99,28.99,28.99,Varsity Program,Minneapolis,Varsity
+389,33,Buffalo MN,MN,6A,MSHSL Conference,1-7,1,7,0,8,30.4,30.4,-19.63,42.8,389,13.5,33.8,13.5,33.8,-20.3,35.3,36.3,27.48,26.59,26.59,26.59,Varsity Program,Buffalo,Varsity
+390,34,Farmington MN,MN,6A,MSHSL Conference,1-7,1,7,0,8,30.4,30.4,-19.63,42.8,390,13.5,33.8,13.5,33.8,-20.3,35.3,36.3,27.48,31.86,31.86,31.86,Varsity Program,Minneapolis,Varsity
+391,66,Kenyon-Wanamingo,MN,2A,MSHSL 2A,0-9,0,9,0,9,30.1,30.1,-19.87,55.0,391,7.8,49.9,7.8,49.9,-42.1,27.3,25.0,19.25,29.38,29.38,29.38,Varsity Program,Kenyon,Knights
+392,65,Mora,MN,3A,MSHSL Conference,1-8,1,8,0,9,30.0,30.0,-20.02,43.5,392,10.0,31.2,10.0,31.2,-21.2,30.4,39.9,26.34,39.51,39.51,39.51,Varsity Program,Mora,Mustangs
+393,111,Norman County East/Ulen-Hitterdal,MN,1A,MSHSL 1A,1-7,1,7,0,8,29.9,29.9,-20.13,42.8,393,15.2,36.6,15.2,36.6,-21.4,37.7,32.4,27.48,4.38,8.12,1.25,Varsity Program,Twin Valley,Titans
+394,112,Hinckley-Finlayson,MN,1A,MSHSL 1A,1-8,1,8,0,9,29.8,29.8,-20.16,45.1,394,11.4,36.1,11.4,36.1,-24.7,32.4,33.1,26.9,27.22,27.22,27.22,Varsity Program,Hinckley,Jaguars
+395,60,Faribault,MN,4A,MSHSL 6A,0-9,0,9,0,9,29.8,29.8,-20.16,55.2,395,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,19.32,41.74,41.74,41.74,Varsity Program,MN,Varsity
+396,113,Browerville,MN,1A,MSHSL Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,396,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,36.58,36.58,36.58,Varsity Program,Minneapolis,Varsity
+397,59,Marshall MN,MN,5A,MSHSL Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,397,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,24.53,24.53,24.53,Varsity Program,Marshall,Varsity
+398,66,Minnewaska,MN,3A,MSHSL Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,398,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,33.31,33.31,33.31,Varsity Program,Minneapolis,Varsity
+399,114,RTR,MN,1A,MSHSL Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,399,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,31.83,31.83,31.83,Varsity Program,Minneapolis,Varsity
+400,60,Rochester Century,MN,5A,MSHSL Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,400,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,25.83,25.83,25.83,Varsity Program,Rochester,Varsity
+401,115,Bigfork,MN,1A,MSHSL 1A,1-8,1,8,0,9,29.3,29.3,-20.74,42.6,401,11.1,33.0,11.1,33.0,-21.9,31.9,37.4,26.02,3.89,7.22,1.11,Varsity Program,Bigfork,Huskies
+402,61,Chisago Lakes,MN,4A,MSHSL Conference,1-9,1,9,0,10,29.1,29.1,-20.92,42.4,402,12.8,34.4,12.8,34.4,-21.6,34.3,35.4,24.84,37.05,37.05,37.05,Varsity Program,Minneapolis,Varsity
+403,35,Roseville Area,MN,6A,MSHSL Conference,1-9,1,9,0,10,29.1,29.1,-20.92,42.4,403,12.8,34.4,12.8,34.4,-21.6,34.3,35.4,24.84,33.26,33.26,33.26,Varsity Program,Roseville,Varsity
+404,36,Stillwater Area,MN,6A,MSHSL Conference,1-9,1,9,0,10,29.1,29.1,-20.92,42.4,404,12.8,34.4,12.8,34.4,-21.6,34.3,35.4,24.84,29.89,29.89,29.89,Varsity Program,Stillwater,Varsity
+405,37,White Bear Lake Area,MN,6A,MSHSL Conference,1-9,1,9,0,10,29.1,29.1,-20.92,42.4,405,12.8,34.4,12.8,34.4,-21.6,34.3,35.4,24.84,33.83,33.83,33.83,Varsity Program,White Bear Lake,Varsity
+406,67,Crookston,MN,2A,MSHSL 2A,2-7,2,7,0,9,28.6,28.6,-21.38,42.7,406,15.8,39.9,15.8,39.9,-24.1,38.5,27.7,37.17,7.78,14.44,2.22,Varsity Program,Crookston,Pirates
+407,67,Red Wing,MN,3A,MSHSL 3A,0-9,0,9,0,9,28.6,28.6,-21.38,55.2,407,8.3,53.0,8.3,53.0,-44.7,28.0,25.0,19.32,41.42,41.42,41.42,Varsity Program,Red Wing,Wingers
+408,116,Madelia,MN,1A,MSHSL 1A,0-9,0,9,0,9,28.5,28.5,-21.46,50.9,408,3.8,46.9,3.8,46.9,-43.1,25.0,25.0,17.81,0.0,0.0,0.0,Varsity Program,Madelia,Blackhawks
+409,62,DeLaSalle,MN,4A,MSHSL 4A,0-9,0,9,0,9,27.8,27.8,-22.25,49.9,409,9.6,51.8,9.6,51.8,-42.2,29.8,25.0,17.46,24.52,24.52,24.52,Varsity Program,Minneapolis,Islanders
+410,117,Underwood,MN,1A,MSHSL 1A,1-8,1,8,0,9,27.2,27.2,-22.77,42.6,410,13.2,39.6,13.2,39.6,-26.4,34.9,28.2,26.02,3.89,7.22,1.11,Varsity Program,Underwood,Rockets
+411,118,Win-E-Mac,MN,1A,MSHSL 1A,1-8,1,8,0,9,27.0,27.0,-22.99,42.6,411,18.2,45.1,18.2,45.1,-26.9,41.9,25.0,26.02,3.89,7.22,1.11,Varsity Program,Erskine,Patriots
+412,119,Chisholm,MN,1A,MSHSL 1A,1-8,1,8,0,9,23.9,23.9,-26.06,38.2,412,20.2,44.8,20.2,44.8,-24.6,44.7,25.0,24.48,3.89,7.22,1.11,Varsity Program,Chisholm,Bluestreaks
+413,61,Harding/Humboldt/Open World Learning,MN,5A,MSHSL 5A,0-9,0,9,0,9,23.9,23.9,-26.06,42.3,413,7.3,41.0,7.3,41.0,-33.7,26.6,26.2,14.8,0.0,0.0,0.0,Varsity Program,St Paul,Learning
+414,120,Ada-Borup-West,MN,1A,MSHSL Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,414,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,29.38,29.38,29.38,Varsity Program,Minneapolis,Varsity
+415,68,Filmore Central,MN,2A,MSHSL Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,415,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,25.49,25.49,25.49,Varsity Program,Minneapolis,Varsity
+416,69,Greenway,MN,2A,MSHSL Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,416,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,29.81,29.81,29.81,Varsity Program,Minneapolis,Varsity
+417,121,Isle,MN,1A,MSHSL Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,417,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,23.77,23.77,23.77,Varsity Program,Minneapolis,Varsity
+418,68,La Crescent,MN,3A,MSHSL 3A,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,418,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,23.77,23.77,23.77,Varsity Program,La Crescent,Varsity
+419,122,Mille Lacs,MN,1A,MSHSL Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,419,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,25.06,25.06,25.06,Varsity Program,Minneapolis,Varsity
+420,69,Morris Area,MN,3A,MSHSL Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,420,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,25.33,25.33,25.33,Varsity Program,Minneapolis,Varsity
+421,70,Onamia,MN,2A,MSHSL Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,421,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,28.52,28.52,28.52,Varsity Program,Minneapolis,Varsity
+422,123,Otc,MN,1A,MSHSL Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,422,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,27.65,27.65,27.65,Varsity Program,Minneapolis,Varsity
+423,124,Polk County West,MN,1A,MSHSL Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,423,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,28.95,28.95,28.95,Varsity Program,Minneapolis,Varsity
+424,125,Red Lake County,MN,1A,MSHSL Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,424,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,29.81,29.81,29.81,Varsity Program,Minneapolis,Varsity
+425,62,Rochester John Marshall,MN,5A,MSHSL Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,425,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,19.44,19.44,19.44,Varsity Program,Rochester,Varsity
+426,70,Rochester Lourdes,MN,3A,MSHSL Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,426,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,24.2,24.2,24.2,Varsity Program,Rochester,Varsity
+427,63,Rochester Mayo,MN,5A,MSHSL Conference,0-10,0,10,0,10,23.9,23.9,-26.15,41.0,427,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,31.54,31.54,31.54,Varsity Program,Rochester,Varsity
+428,71,Root River,MN,2A,MSHSL Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,428,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,23.33,23.33,23.33,Varsity Program,Minneapolis,Varsity
+429,71,St. Charles MN,MN,3A,MSHSL Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,429,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,21.6,21.6,21.6,Varsity Program,Minneapolis,Varsity
+430,63,St. Paul Como Park,MN,4A,MSHSL Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,430,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,19.01,19.01,19.01,Varsity Program,St. Paul,Varsity
+431,64,St. Paul Harding,MN,4A,MSHSL Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,431,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,22.04,22.04,22.04,Varsity Program,St. Paul,Varsity
+432,65,St. Paul Humboldt,MN,4A,MSHSL Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,432,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,20.31,20.31,20.31,Varsity Program,St. Paul,Varsity
+433,66,St. Paul Johnson,MN,4A,MSHSL Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,433,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,20.74,20.74,20.74,Varsity Program,St. Paul,Varsity
+434,72,Medford,MN,2A,MSHSL 2A,0-9,0,9,0,9,23.6,23.6,-26.42,46.0,434,9.9,41.7,9.9,41.7,-31.8,30.3,25.2,16.1,27.65,27.65,27.65,Varsity Program,Medford,Tigers
+435,72,Proctor/Maris Academy,MN,3A,MSHSL 3A,0-9,0,9,0,9,23.5,23.5,-26.5,49.3,435,0.7,50.9,0.7,50.9,-50.2,25.0,25.0,17.25,0.0,0.0,0.0,Varsity Program,Proctor,Academy
+436,126,Buffalo Lake-Hector-Stewart,MN,1A,MSHSL 1A,0-9,0,9,0,9,23.4,23.4,-26.6,41.0,436,10.6,49.8,10.6,49.8,-39.2,31.2,25.0,14.35,52.69,52.69,52.69,Varsity Program,Hector,Mustangs
+437,127,Carlton/Wrenshall,MN,1A,MSHSL 1A,0-9,0,9,0,9,23.4,23.4,-26.6,41.0,437,11.0,52.6,11.0,52.6,-41.6,31.8,25.0,14.35,0.0,0.0,0.0,Varsity Program,Carlton,Wrenshall
+438,128,Kelley,MN,1A,MSHSL 1A,0-8,0,8,0,8,23.4,23.4,-26.6,41.0,438,7.5,38.2,7.5,38.2,-30.7,26.9,30.1,14.35,0.0,0.0,0.0,Varsity Program,Silver Bay,Mariners
+439,129,Mountain Lake/Mountain Lake Christian,MN,1A,MSHSL 1A,0-8,0,8,0,8,23.4,23.4,-26.6,41.0,439,6.5,48.0,6.5,48.0,-41.5,25.5,25.0,14.35,0.0,0.0,0.0,Varsity Program,Mountain Lake,Wolverines
+440,130,Ortonville,MN,1A,MSHSL 1A,0-9,0,9,0,9,23.4,23.4,-26.6,41.0,440,6.4,47.0,6.4,47.0,-40.6,25.4,25.0,14.35,0.0,0.0,0.0,Varsity Program,Ortonville,Trojans
+441,67,Columbia Heights,MN,4A,MSHSL 4A,0-9,0,9,0,9,21.4,21.4,-28.58,42.7,441,10.2,50.8,10.2,50.8,-40.6,30.7,25.0,14.95,32.94,32.94,32.94,Varsity Program,Columbia Heights,Hylanders
+442,73,Ely/Northeast Range/Vermillion Country,MN,2A,MSHSL 2A,2-6,2,6,0,8,19.8,19.8,-30.17,40.8,442,15.5,45.2,15.5,45.2,-29.7,38.1,25.0,39.28,8.75,16.25,2.5,Varsity Program,Ely,Country
+443,131,Red Lake,MN,1A,MSHSL 1A,0-9,0,9,0,9,19.6,19.6,-30.38,46.7,443,6.0,56.0,6.0,56.0,-50.0,25.0,25.0,16.34,0.0,0.0,0.0,Varsity Program,Red Lake,Warriors
+444,132,East Central,MN,1A,MSHSL 1A,0-9,0,9,0,9,18.9,18.9,-31.1,41.5,444,14.4,54.4,14.4,54.4,-40.0,36.6,25.0,14.52,27.65,27.65,27.65,Varsity Program,Finlayson,Eagles
+445,133,Long Prairie-Grey Eagle,MN,1A,MSHSL 1A,0-7,0,7,0,7,16.2,16.2,-33.84,43.9,445,4.1,41.1,4.1,41.1,-37.0,25.0,26.1,15.36,32.26,32.26,32.26,Varsity Program,Long Prairie,Thunder
+446,134,Cass Lake-Bena/Bug-O-Nay-Ge-Shig,MN,1A,MSHSL 1A,1-6,1,6,0,7,14.0,14.0,-36.0,38.2,446,8.0,42.7,8.0,42.7,-34.7,27.6,25.0,27.66,5.0,9.29,1.43,Varsity Program,Cass Lake,Shig

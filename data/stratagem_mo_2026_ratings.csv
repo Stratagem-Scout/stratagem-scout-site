@@ -1,340 +1,458 @@
-rank,division_rank,team,state,division,region,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_off,ppg_def,net_margin,harbin_avg,ppa,pqs,l1_pts,l2_pts,contender_tier
-1,1,Nixa,MO,C6,1,MSHSAA Conference,10-0,10,0,0,10,103.9,103.9,53.9,85.2,38,37.3,16.2,21.1,56.87,56.87,56.87,58.5,104.0,State Title Contender
-2,2,De Smet Jesuit,MO,C6,1,MSHSAA Conference,9-0,9,0,0,9,103.8,103.8,53.82,92.2,9,31.4,18.2,13.2,61.31,61.31,61.31,58.5,299.0,State Title Contender
-3,3,Lee's Summit,MO,C6,1,MSHSAA Conference,9-1,9,1,0,10,103.6,103.6,53.57,90.9,12,33.9,18.8,15.1,56.81,56.81,56.81,52.0,201.5,State Title Contender
-4,1,Cardinal Ritter,MO,C5,1,MSHSAA Conference,10-0,10,0,0,10,103.0,103.0,52.98,83.1,51,39.1,15.8,23.3,58.56,58.56,58.56,54.0,180.0,State Title Contender
-5,4,Christian Brothers College,MO,C6,1,MSHSAA Conference,8-1,8,1,0,9,100.6,100.6,50.56,92.5,5,29.0,19.8,9.2,58.89,58.89,58.89,52.0,299.0,State Title Contender
-6,2,Platte County,MO,C5,1,MSHSAA Conference,10-0,10,0,0,10,100.0,100.0,49.97,85.0,40,34.1,17.5,16.6,58.59,58.59,58.59,54.0,186.0,State Title Contender
-7,5,SLUH,MO,C6,1,MSHSAA Conference,8-1,8,1,0,9,96.3,96.3,46.33,72.7,161,41.8,17.3,24.5,52.67,52.67,52.67,52.0,52.0,State Title Contender
-8,3,Republic,MO,C5,1,MSHSAA Conference,9-1,9,1,0,10,95.4,95.4,45.43,83.7,45,30.7,18.1,12.6,53.85,53.85,53.85,48.0,84.0,State Title Contender
-9,6,Rockhurst,MO,C6,1,MSHSAA Conference,8-1,8,1,0,9,95.4,95.4,45.39,87.1,25,30.4,21.0,9.4,54.15,54.15,54.15,52.0,84.5,State Title Contender
-10,1,Kearney,MO,C4,1,MSHSAA Conference,10-0,10,0,0,10,95.1,95.1,45.12,81.8,66,33.0,18.5,14.5,58.54,58.54,58.54,49.5,187.0,State Title Contender
-11,7,Lee's Summit West,MO,C6,1,MSHSAA Conference,7-3,7,3,0,10,93.9,93.9,43.88,90.7,13,25.9,22.1,3.8,49.0,49.0,49.0,39.0,58.5,State Title Contender
-12,8,Blue Springs South,MO,C6,1,MSHSAA Conference,8-2,8,2,0,10,93.8,93.8,43.75,89.2,18,27.6,21.3,6.3,51.28,51.28,51.28,45.5,71.5,State Title Contender
-13,9,Liberty,MO,C6,1,MSHSAA Conference,6-3,6,3,0,9,93.4,93.4,43.43,86.7,30,28.9,21.3,7.6,47.67,47.67,47.67,39.0,97.5,State Title Contender
-14,10,Park Hill,MO,C6,1,MSHSAA Conference,6-3,6,3,0,9,93.3,93.3,43.33,90.0,16,27.4,22.9,4.5,51.37,51.37,51.37,39.0,188.5,State Title Contender
-15,4,Eureka,MO,C5,1,MSHSAA Conference,8-1,8,1,0,9,92.8,92.8,42.84,86.9,26,27.2,19.4,7.8,57.96,57.96,57.96,48.0,246.0,State Title Contender
-16,1,Blair Oaks,MO,C3,1,MSHSAA Conference,10-0,10,0,0,10,92.5,92.5,42.55,80.7,81,32.9,19.8,13.1,59.67,59.67,59.67,45.0,225.0,State Title Contender
-17,11,Lee's Summit North,MO,C6,1,MSHSAA Conference,6-4,6,4,0,10,91.9,91.9,41.93,92.5,6,23.7,24.4,-0.7,50.78,50.78,50.78,39.0,156.0,State Title Contender
-18,12,Blue Springs,MO,C6,1,MSHSAA Conference,4-5,4,5,0,9,90.5,90.5,40.54,91.6,10,24.7,24.9,-0.2,45.33,45.33,45.33,26.0,149.5,State Title Contender
-19,13,Staley,MO,C6,1,MSHSAA Conference,4-5,4,5,0,9,90.2,90.2,40.21,92.5,7,23.4,24.8,-1.4,44.15,44.15,44.15,26.0,117.0,State Title Contender
-20,2,Seneca,MO,C3,1,MSHSAA Conference,10-0,10,0,0,10,90.2,90.2,40.2,77.6,113,31.5,17.6,13.9,58.48,58.48,58.48,45.0,185.0,State Title Contender
-21,2,Smithville,MO,C4,1,MSHSAA Conference,9-0,9,0,0,9,90.1,90.1,40.1,81.9,64,28.7,19.4,9.3,58.24,58.24,58.24,49.5,176.0,State Title Contender
-22,3,Park Hills Central,MO,C3,1,MSHSAA Conference,8-1,8,1,0,9,89.7,89.7,39.72,78.9,99,34.3,21.2,13.1,56.22,56.22,56.22,40.0,180.0,State Title Contender
-23,3,Festus,MO,C4,1,MSHSAA Conference,9-0,9,0,0,9,89.6,89.6,39.64,80.6,84,30.6,20.4,10.2,57.2,57.2,57.2,49.5,137.5,State Title Contender
-24,14,Rock Bridge,MO,C6,1,MSHSAA Conference,9-0,9,0,0,9,89.1,89.1,39.11,65.5,229,43.1,17.9,25.2,54.8,54.8,54.8,58.5,13.0,State Title Contender
-25,4,Sullivan Mo,MO,C4,1,MSHSAA Conference,9-0,9,0,0,9,88.1,88.1,38.13,61.6,261,45.2,16.7,28.5,54.54,54.54,54.54,49.5,38.5,State Title Contender
-26,15,Liberty North,MO,C6,1,MSHSAA Conference,6-3,6,3,0,9,88.1,88.1,38.11,89.3,17,23.3,24.3,-1.0,47.52,47.52,47.52,39.0,26.0,State Title Contender
-27,5,Hillsboro,MO,C4,1,MSHSAA Conference,5-4,5,4,0,9,88.0,88.0,38.05,83.2,49,27.4,21.7,5.7,48.54,48.54,48.54,27.5,148.5,State Title Contender
-28,16,Willard,MO,C6,1,MSHSAA C5,8-1,8,1,0,9,87.7,87.7,37.71,77.3,115,31.0,19.8,11.2,56.07,56.07,56.07,52.0,188.5,State Title Contender
-29,17,Carthage MO,MO,C6,1,MSHSAA Conference,9-0,9,0,0,9,87.6,87.6,37.64,75.6,132,32.1,19.6,12.5,56.28,56.28,56.28,58.5,78.0,State Title Contender
-30,18,Truman,MO,C6,1,MSHSAA C5,8-1,8,1,0,9,87.4,87.4,37.44,69.9,194,37.7,19.2,18.5,52.81,52.81,52.81,52.0,45.5,State Title Contender
-31,5,Carthage,MO,C5,1,MSHSAA Conference,7-3,7,3,0,10,87.4,87.4,37.43,86.1,33,22.4,21.3,1.1,50.33,50.33,50.33,36.0,54.0,State Title Contender
-32,19,Hickman,MO,C6,1,MSHSAA Conference,9-1,9,1,0,10,87.2,87.2,37.16,66.4,222,42.2,20.7,21.5,54.94,54.94,54.94,58.5,19.5,State Title Contender
-33,20,Timberland,MO,C6,1,MSHSAA Conference,7-2,7,2,0,9,87.1,87.1,37.13,73.7,153,34.0,20.4,13.6,49.2,49.2,49.2,45.5,39.0,State Title Contender
-34,6,Neosho,MO,C5,1,MSHSAA Conference,9-1,9,1,0,10,87.1,87.1,37.12,81.6,72,27.4,20.0,7.4,54.15,54.15,54.15,48.0,102.0,State Title Contender
-35,21,Francis Howell,MO,C6,1,MSHSAA Conference,5-4,5,4,0,9,87.0,87.0,36.95,73.0,160,35.0,21.3,13.7,42.72,42.72,42.72,32.5,0.0,State Title Contender
-36,6,Warrenton,MO,C4,1,MSHSAA C4,8-1,8,1,0,9,86.9,86.9,36.94,65.4,232,40.0,17.0,23.0,51.78,51.78,51.78,44.0,33.0,State Title Contender
-37,22,Jackson,MO,C6,1,MSHSAA Conference,2-7,2,7,0,9,86.9,86.9,36.89,90.0,15,24.7,28.0,-3.3,37.22,37.22,37.22,13.0,39.0,State Title Contender
-38,23,Lindbergh,MO,C6,1,MSHSAA Conference,3-6,3,6,0,9,86.6,86.6,36.63,82.8,55,27.7,24.2,3.5,37.43,37.43,37.43,19.5,6.5,State Title Contender
-39,24,Park Hill South,MO,C6,1,MSHSAA Conference,3-7,3,7,0,10,86.6,86.6,36.6,92.4,8,21.4,27.1,-5.7,41.57,41.57,41.57,19.5,84.5,State Title Contender
-40,25,Lafayette Wildwood,MO,C6,1,MSHSAA Conference,7-2,7,2,0,9,86.1,86.1,36.12,77.2,116,31.2,21.2,10.0,50.09,50.09,50.09,45.5,91.0,State Title Contender
-41,26,Oak Park,MO,C6,1,MSHSAA Conference,2-7,2,7,0,9,86.1,86.1,36.11,95.5,2,21.3,30.8,-9.5,37.96,37.96,37.96,13.0,39.0,State Title Contender
-42,7,Helias Catholic,MO,C5,1,MSHSAA Conference,5-4,5,4,0,9,85.9,85.9,35.87,83.0,54,26.4,23.4,3.0,45.26,45.26,45.26,30.0,96.0,State Title Contender
-43,8,Grain Valley,MO,C5,1,MSHSAA Conference,4-5,4,5,0,9,85.7,85.7,35.73,86.9,27,24.7,25.3,-0.6,45.85,45.85,45.85,24.0,156.0,State Title Contender
-44,1,Marionville,MO,C1,1,MSHSAA Conference,10-0,10,0,0,10,85.7,85.7,35.69,69.1,202,36.4,17.9,18.5,59.11,59.11,59.11,36.0,192.0,State Title Contender
-45,4,Oak Grove,MO,C3,1,MSHSAA Conference,5-4,5,4,0,9,85.7,85.7,35.69,81.8,68,27.8,21.6,6.2,48.7,48.7,48.7,25.0,155.0,State Title Contender
-46,1,Valle Catholic,MO,C2,1,MSHSAA Conference,9-0,9,0,0,9,85.6,85.6,35.58,76.7,121,29.6,19.2,10.4,59.31,59.31,59.31,40.5,207.0,State Title Contender
-47,7,Lutheran North,MO,C4,1,MSHSAA Conference,6-3,6,3,0,9,85.5,85.5,35.49,83.0,53,25.2,23.8,1.4,49.52,49.52,49.52,33.0,154.0,State Title Contender
-48,9,Jefferson City,MO,C5,1,MSHSAA Conference,4-5,4,5,0,9,85.3,85.3,35.29,86.8,29,24.4,26.2,-1.8,45.7,45.7,45.7,24.0,162.0,State Title Contender
-49,2,Lamar,MO,C2,1,MSHSAA Conference,9-0,9,0,0,9,85.2,85.2,35.25,75.4,134,29.3,18.9,10.4,59.31,59.31,59.31,40.5,207.0,State Title Contender
-50,8,West Plains,MO,C4,1,MSHSAA Conference,8-1,8,1,0,9,85.2,85.2,35.21,81.3,74,26.1,21.6,4.5,55.04,55.04,55.04,44.0,137.5,State Title Contender
-51,10,Excelsior Springs,MO,C5,1,MSHSAA C4,9-0,9,0,0,9,84.9,84.9,34.93,61.7,260,39.7,16.2,23.5,54.15,54.15,54.15,54.0,6.0,State Title Contender
-52,27,Joplin,MO,C6,1,MSHSAA Conference,1-8,1,8,0,9,84.8,84.8,34.82,95.1,3,19.3,29.7,-10.4,34.8,34.8,34.8,6.5,13.0,State Title Contender
-53,11,Holt,MO,C5,1,MSHSAA Conference,6-3,6,3,0,9,84.8,84.8,34.81,74.3,146,31.0,19.1,11.9,45.85,45.85,45.85,36.0,42.0,State Title Contender
-54,28,Kickapoo,MO,C6,1,MSHSAA Conference,0-9,0,9,0,9,84.8,84.8,34.79,93.4,4,21.9,30.3,-8.4,31.33,31.33,31.33,0.0,0,State Title Contender
-55,9,Harrisonville,MO,C4,1,MSHSAA Conference,4-5,4,5,0,9,84.7,84.7,34.74,83.3,47,26.9,24.1,2.8,45.48,45.48,45.48,22.0,121.0,State Title Contender
-56,29,Troy Buchanan,MO,C6,1,MSHSAA Conference,6-3,6,3,0,9,84.5,84.5,34.54,72.6,163,33.0,21.0,12.0,46.63,46.63,46.63,39.0,13.0,State Title Contender
-57,12,Sedalia Smith-Cotton,MO,C5,1,MSHSAA Conference,9-0,9,0,0,9,84.5,84.5,34.46,59.4,280,41.3,16.6,24.7,54.15,54.15,54.15,54.0,6.0,State Title Contender
-58,10,Hannibal,MO,C4,1,MSHSAA Conference,8-1,8,1,0,9,84.4,84.4,34.38,80.7,82,25.4,21.1,4.3,54.89,54.89,54.89,44.0,132.0,State Title Contender
-59,13,Raytown South,MO,C5,1,MSHSAA C4,8-1,8,1,0,9,84.2,84.2,34.24,64.2,245,40.4,19.6,20.8,51.78,51.78,51.78,48.0,30.0,State Title Contender
-60,14,Marshfield,MO,C5,1,MSHSAA C4,8-1,8,1,0,9,84.2,84.2,34.18,70.1,192,34.0,19.0,15.0,52.48,52.48,52.48,48.0,54.0,State Title Contender
-61,11,McDonald County,MO,C4,1,MSHSAA Conference,4-5,4,5,0,9,84.0,84.0,34.05,82.4,59,25.6,21.9,3.7,44.89,44.89,44.89,22.0,93.5,State Title Contender
-62,12,Vashon,MO,C4,1,MSHSAA Conference,9-0,9,0,0,9,84.0,84.0,33.98,59.7,275,41.1,15.9,25.2,54.39,54.39,54.39,49.5,33.0,State Title Contender
-63,15,Camdenton,MO,C5,1,MSHSAA Conference,2-7,2,7,0,9,84.0,84.0,33.97,91.3,11,22.0,28.1,-6.1,38.85,38.85,38.85,12.0,72.0,State Title Contender
-64,16,Webb City,MO,C5,1,MSHSAA Conference,6-4,6,4,0,10,83.9,83.9,33.94,86.8,28,21.2,25.7,-4.5,48.67,48.67,48.67,36.0,66.0,State Title Contender
-65,17,Chaminade,MO,C5,1,MSHSAA Conference,5-4,5,4,0,9,83.9,83.9,33.91,77.7,111,30.2,23.0,7.2,44.07,44.07,44.07,30.0,54.0,State Title Contender
-66,13,Bayless,MO,C4,1,MSHSAA Conference,9-0,9,0,0,9,83.8,83.8,33.81,57.6,291,44.9,18.0,26.9,53.8,53.8,53.8,49.5,11.0,State Title Contender
-67,30,Marquette,MO,C6,1,MSHSAA Conference,2-7,2,7,0,9,83.8,83.8,33.78,87.7,22,22.4,27.1,-4.7,35.0,35.0,35.0,13.0,39.0,State Title Contender
-68,18,Parkview,MO,C5,1,MSHSAA C5,9-0,9,0,0,9,83.8,83.8,33.75,66.6,220,38.1,19.9,18.2,55.04,55.04,55.04,54.0,42.0,State Title Contender
-69,19,Hillcrest MO,MO,C5,1,MSHSAA Conference,7-2,7,2,0,9,83.7,83.7,33.66,69.4,198,34.9,19.9,15.0,48.87,48.87,48.87,42.0,54.0,State Title Contender
-70,20,Belton,MO,C5,1,MSHSAA Conference,3-6,3,6,0,9,83.6,83.6,33.64,88.9,19,21.4,25.6,-4.2,42.11,42.11,42.11,18.0,108.0,State Title Contender
-71,31,Ozark,MO,C6,1,MSHSAA C6,7-2,7,2,0,9,83.2,83.2,33.22,73.9,149,31.0,21.3,9.7,50.83,50.83,50.83,45.5,136.5,State Title Contender
-72,21,Waynesville,MO,C5,1,MSHSAA C6,9-0,9,0,0,9,83.2,83.2,33.19,64.7,237,38.0,18.4,19.6,55.33,55.33,55.33,54.0,54.0,State Title Contender
-73,5,Odessa,MO,C3,1,MSHSAA Conference,6-3,6,3,0,9,83.1,83.1,33.08,78.6,103,27.8,21.9,5.9,51.26,51.26,51.26,30.0,175.0,State Title Contender
-74,14,St. Clair,MO,C4,1,MSHSAA C3,9-0,9,0,0,9,83.0,83.0,32.99,59.5,278,42.3,18.0,24.3,54.24,54.24,54.24,49.5,27.5,State Title Contender
-75,32,William Chrisman,MO,C6,1,MSHSAA Conference,7-2,7,2,0,9,82.9,82.9,32.91,72.3,167,30.8,19.9,10.9,48.91,48.91,48.91,45.5,39.0,State Title Contender
-76,22,Fort Osage,MO,C5,1,MSHSAA Conference,2-7,2,7,0,9,82.9,82.9,32.9,88.0,20,24.3,29.1,-4.8,38.44,38.44,38.44,12.0,72.0,State Title Contender
-77,23,Branson,MO,C5,1,MSHSAA Conference,7-3,7,3,0,10,82.8,82.8,32.83,70.2,189,36.1,23.6,12.5,48.67,48.67,48.67,42.0,36.0,State Title Contender
-78,3,Bowling Green,MO,C2,1,MSHSAA Conference,6-3,6,3,0,9,82.8,82.8,32.8,74.5,143,29.0,19.3,9.7,51.37,51.37,51.37,27.0,157.5,State Title Contender
-79,15,Affton,MO,C4,1,MSHSAA C4,8-1,8,1,0,9,82.7,82.7,32.71,59.9,274,39.9,16.0,23.9,51.19,51.19,51.19,44.0,16.5,State Title Contender
-80,6,Maryville,MO,C3,1,MSHSAA Conference,8-1,8,1,0,9,82.6,82.6,32.62,79.6,93,24.2,20.2,4.0,55.78,55.78,55.78,40.0,165.0,State Title Contender
-81,24,Fort Zumwalt North,MO,C5,1,MSHSAA Conference,6-3,6,3,0,9,82.5,82.5,32.47,76.3,124,30.2,23.0,7.2,46.0,46.0,46.0,36.0,54.0,State Title Contender
-82,25,Glendale,MO,C5,1,MSHSAA Conference,2-7,2,7,0,9,82.5,82.5,32.47,84.9,42,23.7,25.3,-1.6,37.07,37.07,37.07,12.0,12.0,State Title Contender
-83,26,Rolla,MO,C5,1,MSHSAA C5,9-0,9,0,0,9,82.4,82.4,32.44,64.3,243,37.2,18.7,18.5,54.74,54.74,54.74,54.0,30.0,State Title Contender
-84,33,Mehlville,MO,C6,1,MSHSAA C5,7-2,7,2,0,9,82.4,82.4,32.43,77.9,110,27.3,23.1,4.2,50.39,50.39,50.39,45.5,71.5,State Title Contender
-85,27,Cape Girardeau Central,MO,C5,1,MSHSAA Conference,2-8,2,8,0,10,82.2,82.2,32.2,87.1,24,22.5,26.7,-4.2,37.52,37.52,37.52,12.0,30.0,State Title Contender
-86,28,Lebanon MO,MO,C5,1,MSHSAA Conference,9-0,9,0,0,9,82.2,82.2,32.15,65.4,230,36.2,18.8,17.4,54.59,54.59,54.59,54.0,24.0,State Title Contender
-87,16,Union,MO,C4,1,MSHSAA Conference,3-6,3,6,0,9,82.0,82.0,32.04,79.0,97,28.4,24.0,4.4,40.8,40.8,40.8,16.5,38.5,State Title Contender
-88,2,Hayti,MO,C1,1,MSHSAA Conference,7-2,7,2,0,9,82.0,82.0,32.04,67.3,215,35.9,19.0,16.9,52.44,52.44,52.44,28.0,128.0,State Title Contender
-89,34,Kirkwood,MO,C6,1,MSHSAA C6,6-3,6,3,0,9,82.0,82.0,31.97,81.8,67,25.3,25.1,0.2,50.04,50.04,50.04,39.0,130.0,State Title Contender
-90,17,St. Mary's South Side,MO,C4,1,MSHSAA C5,7-2,7,2,0,9,81.8,81.8,31.79,66.5,221,36.1,19.6,16.5,49.02,49.02,49.02,38.5,49.5,Semifinal Contender
-91,18,Warrensburg,MO,C4,1,MSHSAA Conference,3-6,3,6,0,9,81.7,81.7,31.67,85.4,37,25.3,28.6,-3.3,42.57,42.57,42.57,16.5,115.5,Semifinal Contender
-92,35,Raymore-Peculiar,MO,C6,1,MSHSAA Conference,1-9,1,9,0,10,81.6,81.6,31.57,95.5,1,18.1,32.1,-14.0,34.2,34.2,34.2,6.5,19.5,Semifinal Contender
-93,36,Lafayette (Wildwood),MO,C6,1,MSHSAA Conference,4-5,4,5,0,9,81.4,81.4,31.42,83.1,52,25.6,27.7,-2.1,40.15,40.15,40.15,26.0,39.0,Semifinal Contender
-94,7,John Burroughs,MO,C3,1,MSHSAA Conference,5-5,5,5,0,10,81.1,81.1,31.1,73.7,154,33.7,24.3,9.4,45.44,45.44,45.44,25.0,45.0,Semifinal Contender
-95,29,Carl Junction,MO,C5,1,MSHSAA C4,6-3,6,3,0,9,80.8,80.8,30.76,72.1,171,30.6,21.2,9.4,47.18,47.18,47.18,36.0,72.0,Semifinal Contender
-96,3,Adrian,MO,C1,1,MSHSAA Conference,9-0,9,0,0,9,80.7,80.7,30.66,67.7,209,32.7,18.2,14.5,58.81,58.81,58.81,36.0,184.0,State Title Contender
-97,37,North Kansas City,MO,C6,1,MSHSAA C6,8-1,8,1,0,9,80.5,80.5,30.55,68.7,203,30.6,18.8,11.8,51.48,51.48,51.48,52.0,13.0,Semifinal Contender
-98,30,Raytown,MO,C5,1,MSHSAA C5,7-2,7,2,0,9,80.4,80.4,30.37,70.7,182,32.2,22.2,10.0,48.81,48.81,48.81,42.0,30.0,Semifinal Contender
-99,4,Monroe City,MO,C2,1,MSHSAA Conference,6-3,6,3,0,9,80.3,80.3,30.35,70.2,191,32.1,20.6,11.5,49.3,49.3,49.3,27.0,99.0,State Title Contender
-100,19,St. Dominic,MO,C4,1,MSHSAA Conference,4-5,4,5,0,9,80.3,80.3,30.3,74.2,148,30.2,22.7,7.5,41.63,41.63,41.63,22.0,16.5,Semifinal Contender
-101,8,Montgomery County MO,MO,C3,1,MSHSAA Conference,8-1,8,1,0,9,80.3,80.3,30.29,56.6,298,41.6,17.6,24.0,50.3,50.3,50.3,40.0,0.0,Semifinal Contender
-102,20,Roosevelt SLPS,MO,C4,1,MSHSAA Conference,8-1,8,1,0,9,80.3,80.3,30.28,57.7,290,43.7,20.7,23.0,50.89,50.89,50.89,44.0,11.0,Semifinal Contender
-103,21,Vianney,MO,C4,1,MSHSAA Conference,4-5,4,5,0,9,80.2,80.2,30.22,73.3,156,32.2,24.4,7.8,40.89,40.89,40.89,22.0,5.5,Semifinal Contender
-104,9,Centralia MO,MO,C3,1,MSHSAA Conference,9-0,9,0,0,9,80.2,80.2,30.17,51.3,325,47.0,17.3,29.7,53.15,53.15,53.15,45.0,5.0,Semifinal Contender
-105,5,Fair Grove,MO,C2,1,MSHSAA Conference,5-4,5,4,0,9,80.2,80.2,30.15,75.1,138,29.2,24.2,5.0,46.2,46.2,46.2,22.5,103.5,Semifinal Contender
-106,22,Gateway STEM,MO,C4,1,MSHSAA Conference,7-2,7,2,0,9,80.1,80.1,30.09,60.1,269,39.3,19.0,20.3,47.54,47.54,47.54,38.5,0.0,Semifinal Contender
-107,10,Lutheran St. Charles,MO,C3,1,MSHSAA Conference,7-2,7,2,0,9,80.1,80.1,30.08,61.4,262,39.4,20.3,19.1,48.04,48.04,48.04,35.0,15.0,Semifinal Contender
-108,23,Sumner MO,MO,C4,1,MSHSAA Conference,8-1,8,1,0,9,80.0,80.0,30.0,59.9,273,39.3,18.7,20.6,50.59,50.59,50.59,44.0,5.5,Semifinal Contender
-109,24,Perryville,MO,C4,1,MSHSAA C3,7-2,7,2,0,9,79.9,79.9,29.89,67.3,216,35.7,21.9,13.8,50.06,50.06,50.06,38.5,93.5,Semifinal Contender
-110,6,Lawson,MO,C2,1,MSHSAA Conference,7-2,7,2,0,9,79.7,79.7,29.69,66.3,224,35.2,20.1,15.1,51.65,51.65,51.65,31.5,99.0,Semifinal Contender
-111,31,Capital City,MO,C5,1,MSHSAA C5,9-0,9,0,0,9,79.6,79.6,29.62,64.4,241,35.1,19.8,15.3,54.3,54.3,54.3,54.0,12.0,Semifinal Contender
-112,25,Sullivan,MO,C4,1,MSHSAA Conference,6-3,6,3,0,9,79.6,79.6,29.56,67.7,208,32.3,20.0,12.3,45.52,45.52,45.52,33.0,0.0,Semifinal Contender
-113,11,Lift for Life,MO,C3,1,MSHSAA Conference,6-3,6,3,0,9,79.4,79.4,29.38,64.3,244,34.7,19.0,15.7,46.37,46.37,46.37,30.0,35.0,Semifinal Contender
-114,26,Parkway North,MO,C4,1,MSHSAA Conference,3-6,3,6,0,9,79.4,79.4,29.37,79.3,95,28.7,27.8,0.9,40.06,40.06,40.06,16.5,33.0,Semifinal Contender
-115,38,Northwest Cedar Hill,MO,C6,1,MSHSAA Conference,3-6,3,6,0,9,79.0,79.0,28.96,82.3,61,21.7,25.7,-4.0,41.57,41.57,41.57,19.5,123.5,Semifinal Contender
-116,32,Parkway West,MO,C5,1,MSHSAA C5,7-1,7,1,0,8,78.7,78.7,28.72,71.7,174,30.4,23.2,7.2,53.62,53.62,53.62,42.0,120.0,Semifinal Contender
-117,27,Nevada,MO,C4,1,MSHSAA Conference,1-9,1,9,0,10,78.6,78.6,28.62,82.6,56,22.8,26.2,-3.4,34.54,34.54,34.54,5.5,0.0,Semifinal Contender
-118,7,Pius X,MO,C2,1,MSHSAA Conference,7-2,7,2,0,9,78.5,78.5,28.5,58.0,288,39.2,18.0,21.2,48.39,48.39,48.39,31.5,36.0,Semifinal Contender
-119,12,Boonville,MO,C3,1,MSHSAA Conference,3-6,3,6,0,9,78.5,78.5,28.46,77.7,112,26.3,23.7,2.6,40.78,40.78,40.78,15.0,70.0,Semifinal Contender
-120,33,Central Springfield,MO,C5,1,MSHSAA Conference,7-2,7,2,0,9,78.3,78.3,28.31,69.5,196,29.3,20.2,9.1,48.98,48.98,48.98,42.0,30.0,Semifinal Contender
-121,34,Webster Groves,MO,C5,1,MSHSAA C5,4-3,4,3,0,7,78.2,78.2,28.15,77.4,114,25.6,24.9,0.7,46.87,46.87,46.87,24.0,126.0,Semifinal Contender
-122,13,Lift for Life Academy,MO,C3,1,MSHSAA Conference,5-5,5,5,0,10,78.1,78.1,28.13,70.4,187,32.6,22.9,9.7,43.37,43.37,43.37,25.0,15.0,Semifinal Contender
-123,14,Trinity Catholic,MO,C3,1,MSHSAA Conference,7-2,7,2,0,9,78.1,78.1,28.09,64.7,238,35.0,20.4,14.6,48.93,48.93,48.93,35.0,40.0,Semifinal Contender
-124,35,Summit,MO,C5,1,MSHSAA Conference,5-2,5,2,0,7,78.1,78.1,28.09,74.9,142,27.1,23.7,3.4,50.48,50.48,50.48,30.0,114.0,Semifinal Contender
-125,4,Thayer,MO,C1,1,MSHSAA Conference,6-3,6,3,0,9,78.1,78.1,28.07,69.2,200,31.2,21.3,9.9,51.04,51.04,51.04,24.0,144.0,State Title Contender
-126,28,Hancock,MO,C4,1,MSHSAA Conference,9-0,9,0,0,9,78.0,78.0,27.97,57.9,289,40.1,18.7,21.4,53.94,53.94,53.94,49.5,16.5,Semifinal Contender
-127,39,Seckman,MO,C6,1,MSHSAA Conference,8-1,8,1,0,9,77.9,77.9,27.92,67.2,217,31.3,20.9,10.4,52.22,52.22,52.22,52.0,45.5,Semifinal Contender
-128,36,McCluer,MO,C5,1,MSHSAA Conference,6-4,6,4,0,10,77.8,77.8,27.84,73.8,150,27.9,25.7,2.2,45.11,45.11,45.11,36.0,12.0,Semifinal Contender
-129,37,MICDS,MO,C5,1,MSHSAA Conference,2-7,2,7,0,9,77.7,77.7,27.69,80.9,77,25.8,28.7,-2.9,35.63,35.63,35.63,12.0,0.0,Semifinal Contender
-130,40,Pattonville,MO,C6,1,MSHSAA C6,2-7,2,7,0,9,77.5,77.5,27.45,84.4,43,22.3,30.0,-7.7,39.59,39.59,39.59,13.0,91.0,Semifinal Contender
-131,15,St. Francis Borgia,MO,C3,1,MSHSAA C3,8-1,8,1,0,9,77.4,77.4,27.43,54.6,306,41.8,18.2,23.6,50.0,50.0,50.0,40.0,0.0,Semifinal Contender
-132,29,St. James,MO,C4,1,MSHSAA C3,9-0,9,0,0,9,77.2,77.2,27.25,64.1,247,32.6,19.0,13.6,55.43,55.43,55.43,49.5,71.5,Semifinal Contender
-133,30,St. Charles West,MO,C4,1,MSHSAA C4,7-2,7,2,0,9,77.2,77.2,27.22,72.4,164,28.7,23.6,5.1,53.31,53.31,53.31,38.5,198.0,Semifinal Contender
-134,31,Salem MO,MO,C4,1,MSHSAA Conference,7-2,7,2,0,9,77.1,77.1,27.12,65.0,235,33.3,20.6,12.7,48.72,48.72,48.72,38.5,33.0,Semifinal Contender
-135,38,Parkway Central,MO,C5,1,MSHSAA C5,3-5,3,5,0,8,77.0,77.0,27.03,75.2,137,24.4,22.8,1.6,39.79,39.79,39.79,18.0,60.0,Semifinal Contender
-136,32,Lutheran South,MO,C4,1,MSHSAA C3,9-0,9,0,0,9,76.9,76.9,26.86,59.5,279,34.4,16.4,18.0,53.94,53.94,53.94,49.5,16.5,Semifinal Contender
-137,41,Hazelwood Central,MO,C6,1,MSHSAA C5,2-7,2,7,0,9,76.7,76.7,26.73,84.9,41,20.2,29.2,-9.0,39.3,39.3,39.3,13.0,97.5,Semifinal Contender
-138,39,Lebanon,MO,C5,1,MSHSAA Conference,0-9,0,9,0,9,76.6,76.6,26.62,90.1,14,17.8,30.9,-13.1,31.56,31.56,31.56,0.0,0,Semifinal Contender
-139,16,Southern Boone,MO,C3,1,MSHSAA C3,9-0,9,0,0,9,76.6,76.6,26.58,53.8,312,40.1,16.8,23.3,53.15,53.15,53.15,45.0,5.0,Semifinal Contender
-140,17,Reeds Spring,MO,C3,1,MSHSAA Conference,3-6,3,6,0,9,76.6,76.6,26.57,79.1,96,25.0,26.7,-1.7,41.37,41.37,41.37,15.0,75.0,Semifinal Contender
-141,42,Fox,MO,C6,1,MSHSAA C5,5-4,5,4,0,9,76.5,76.5,26.48,78.6,104,22.6,25.3,-2.7,44.2,44.2,44.2,32.5,58.5,Semifinal Contender
-142,18,Mt. Vernon,MO,C3,1,MSHSAA Conference,4-5,4,5,0,9,76.4,76.4,26.41,76.2,126,27.9,26.3,1.6,43.48,43.48,43.48,20.0,60.0,Semifinal Contender
-143,19,California MO,MO,C3,1,MSHSAA Conference,9-0,9,0,0,9,76.1,76.1,26.14,55.3,302,39.1,17.6,21.5,53.74,53.74,53.74,45.0,25.0,Semifinal Contender
-144,33,Soldan,MO,C4,1,MSHSAA Conference,9-0,9,0,0,9,76.1,76.1,26.13,57.3,294,39.4,19.7,19.7,53.5,53.5,53.5,49.5,0.0,Semifinal Contender
-145,40,Ladue,MO,C5,1,MSHSAA Conference,4-5,4,5,0,9,76.1,76.1,26.08,79.0,98,23.6,26.8,-3.2,44.56,44.56,44.56,24.0,102.0,Semifinal Contender
-146,43,Oakville,MO,C6,1,MSHSAA C6,1-8,1,8,0,9,75.9,75.9,25.9,82.6,57,21.9,29.8,-7.9,34.5,34.5,34.5,6.5,32.5,Semifinal Contender
-147,20,Ava,MO,C3,1,MSHSAA C2,7-2,7,2,0,9,75.8,75.8,25.85,60.4,267,36.7,19.9,16.8,48.33,48.33,48.33,35.0,45.0,Semifinal Contender
-148,21,Wright City,MO,C3,1,MSHSAA C3,8-1,8,1,0,9,75.6,75.6,25.56,53.7,314,40.8,18.8,22.0,50.59,50.59,50.59,40.0,5.0,Semifinal Contender
-149,41,Bolivar,MO,C5,1,MSHSAA C4,5-4,5,4,0,9,75.5,75.5,25.45,72.2,168,27.9,25.0,2.9,43.42,43.42,43.42,30.0,54.0,Semifinal Contender
-150,42,Rockwood Summit,MO,C5,1,MSHSAA C5,3-5,3,5,0,8,75.3,75.3,25.28,77.9,108,23.9,26.8,-2.9,41.13,41.13,41.13,18.0,84.0,Semifinal Contender
-151,22,Osage,MO,C3,1,MSHSAA C4,9-0,9,0,0,9,75.3,75.3,25.27,54.5,307,37.9,15.4,22.5,53.3,53.3,53.3,45.0,10.0,Semifinal Contender
-152,23,Hermann,MO,C3,1,MSHSAA C2,8-1,8,1,0,9,75.2,75.2,25.25,51.9,320,41.4,18.3,23.1,50.0,50.0,50.0,40.0,0.0,Semifinal Contender
-153,34,North County,MO,C4,1,MSHSAA C4,6-3,6,3,0,9,75.2,75.2,25.21,67.3,214,30.2,22.0,8.2,46.41,46.41,46.41,33.0,22.0,Semifinal Contender
-154,8,Centralia,MO,C2,1,MSHSAA Conference,5-4,5,4,0,9,75.2,75.2,25.21,72.3,166,26.8,23.7,3.1,47.39,47.39,47.39,22.5,121.5,Semifinal Contender
-155,35,Ste. Genevieve,MO,C4,1,MSHSAA C3,6-3,6,3,0,9,75.2,75.2,25.2,66.3,223,31.1,21.7,9.4,45.81,45.81,45.81,33.0,49.5,Semifinal Contender
-156,43,Jennings,MO,C5,1,MSHSAA C4,4-5,4,5,0,9,75.0,75.0,24.97,78.7,101,21.8,25.9,-4.1,44.46,44.46,44.46,24.0,114.0,Semifinal Contender
-157,24,Eldon,MO,C3,1,MSHSAA C3,9-0,9,0,0,9,75.0,75.0,24.95,56.4,299,38.3,18.8,19.5,53.59,53.59,53.59,45.0,20.0,Semifinal Contender
-158,36,Herculaneum,MO,C4,1,MSHSAA C3,5-4,5,4,0,9,74.8,74.8,24.83,70.8,179,28.4,24.1,4.3,45.13,45.13,45.13,27.5,88.0,Semifinal Contender
-159,9,Jefferson R-7,MO,C2,1,MSHSAA Conference,7-2,7,2,0,9,74.7,74.7,24.71,53.8,313,39.9,18.4,21.5,47.35,47.35,47.35,31.5,0.0,Semifinal Contender
-160,25,Duchesne,MO,C3,1,MSHSAA C2,6-3,6,3,0,9,74.7,74.7,24.7,61.1,264,35.0,20.9,14.1,45.04,45.04,45.04,30.0,15.0,Semifinal Contender
-161,10,Warsaw,MO,C2,1,MSHSAA Conference,5-4,5,4,0,9,74.5,74.5,24.54,64.7,236,35.7,23.3,12.4,43.98,43.98,43.98,22.5,22.5,Semifinal Contender
-162,44,Eureka MO,MO,C6,1,MSHSAA Conference,1-8,1,8,0,9,74.4,74.4,24.43,77.9,109,23.8,29.1,-5.3,31.69,31.69,31.69,6.5,13.0,Semifinal Contender
-163,11,Mid-Buchanan,MO,C2,1,MSHSAA Conference,4-5,4,5,0,9,74.1,74.1,24.12,70.8,180,27.3,22.9,4.4,42.81,42.81,42.81,18.0,45.0,Semifinal Contender
-164,45,Ritenour,MO,C6,1,MSHSAA C6,2-7,2,7,0,9,73.7,73.7,23.74,80.7,83,24.3,32.6,-8.3,36.33,36.33,36.33,13.0,13.0,Quarterfinal Contender
-165,26,St. Pius X (Kansas City),MO,C3,1,MSHSAA Conference,4-5,4,5,0,9,73.7,73.7,23.73,73.1,159,29.0,26.6,2.4,42.44,42.44,42.44,20.0,30.0,Quarterfinal Contender
-166,37,Westminster Christian,MO,C4,1,MSHSAA Conference,5-4,5,4,0,9,73.7,73.7,23.68,69.2,201,29.6,24.8,4.8,42.76,42.76,42.76,27.5,5.5,Quarterfinal Contender
-167,12,St. Pius X KC,MO,C2,1,MSHSAA Conference,7-2,7,2,0,9,73.6,73.6,23.58,57.0,296,37.7,20.3,17.4,48.39,48.39,48.39,31.5,27.0,Quarterfinal Contender
-168,38,Potosi,MO,C4,1,MSHSAA C3,6-3,6,3,0,9,73.5,73.5,23.51,66.3,225,29.7,22.2,7.5,45.96,45.96,45.96,33.0,66.0,Quarterfinal Contender
-169,27,Buffalo MO,MO,C3,1,MSHSAA Conference,9-0,9,0,0,9,73.4,73.4,23.36,59.0,282,32.7,17.3,15.4,54.33,54.33,54.33,45.0,45.0,Quarterfinal Contender
-170,44,Parkway South,MO,C5,1,MSHSAA C5,3-5,3,5,0,8,73.3,73.3,23.33,74.3,147,23.4,25.0,-1.6,39.27,39.27,39.27,18.0,42.0,Quarterfinal Contender
-171,28,Strafford,MO,C3,1,MSHSAA C3,8-1,8,1,0,9,73.3,73.3,23.32,60.0,272,33.7,19.3,14.4,51.48,51.48,51.48,40.0,40.0,Quarterfinal Contender
-172,39,Orchard Farm,MO,C4,1,MSHSAA C4,6-3,6,3,0,9,73.2,73.2,23.21,72.7,162,26.3,26.0,0.3,50.26,50.26,50.26,33.0,143.0,Quarterfinal Contender
-173,13,Miller,MO,C2,1,MSHSAA C1,9-0,9,0,0,9,73.1,73.1,23.11,54.2,311,36.8,16.6,20.2,53.98,53.98,53.98,40.5,45.0,Quarterfinal Contender
-174,14,St. Pius X Festus,MO,C2,1,MSHSAA Conference,8-1,8,1,0,9,73.0,73.0,22.95,55.3,303,38.6,20.0,18.6,51.19,51.19,51.19,36.0,45.0,Quarterfinal Contender
-175,15,Macon,MO,C2,1,MSHSAA Conference,4-5,4,5,0,9,72.9,72.9,22.94,72.2,169,27.2,26.2,1.0,43.56,43.56,43.56,18.0,85.5,Quarterfinal Contender
-176,29,Houston MO,MO,C3,1,MSHSAA Conference,8-1,8,1,0,9,72.9,72.9,22.93,62.2,257,33.0,21.2,11.8,53.56,53.56,53.56,40.0,110.0,Quarterfinal Contender
-177,40,St. Charles,MO,C4,1,MSHSAA C4,6-3,6,3,0,9,72.8,72.8,22.84,70.2,190,27.8,25.4,2.4,48.48,48.48,48.48,33.0,93.5,Quarterfinal Contender
-178,41,Pleasant Hill,MO,C4,1,MSHSAA Conference,0-9,0,9,0,9,72.7,72.7,22.69,85.2,39,18.7,30.9,-12.2,32.67,32.67,32.67,0.0,0,Quarterfinal Contender
-179,42,Fredericktown,MO,C4,1,MSHSAA C3,7-2,7,2,0,9,72.7,72.7,22.65,67.9,207,25.7,21.4,4.3,50.8,50.8,50.8,38.5,104.5,Quarterfinal Contender
-180,46,Hazelwood East,MO,C6,1,MSHSAA C5,1-8,1,8,0,9,72.5,72.5,22.51,86.0,34,19.4,34.1,-14.7,36.28,36.28,36.28,6.5,45.5,Quarterfinal Contender
-181,30,Cassville,MO,C3,1,MSHSAA Conference,3-6,3,6,0,9,72.5,72.5,22.48,75.9,129,25.7,27.7,-2.0,40.04,40.04,40.04,15.0,25.0,Quarterfinal Contender
-182,43,Mexico MO,MO,C4,1,MSHSAA Conference,4-5,4,5,0,9,72.3,72.3,22.33,76.0,127,24.7,28.0,-3.3,44.44,44.44,44.44,22.0,115.5,Quarterfinal Contender
-183,47,Hazelwood West,MO,C6,1,MSHSAA C6,0-9,0,9,0,9,72.2,72.2,22.18,85.9,36,18.8,33.2,-14.4,33.11,33.11,33.11,0.0,0,Quarterfinal Contender
-184,16,Sarcoxie,MO,C2,1,MSHSAA C2,9-0,9,0,0,9,72.2,72.2,22.15,50.2,329,39.7,17.0,22.7,53.54,53.54,53.54,40.5,31.5,Quarterfinal Contender
-185,31,Mountain Grove,MO,C3,1,MSHSAA C3,9-0,9,0,0,9,71.9,71.9,21.92,59.6,277,33.0,20.1,12.9,55.81,55.81,55.81,45.0,95.0,Quarterfinal Contender
-186,17,Cabool,MO,C2,1,MSHSAA C1,9-0,9,0,0,9,71.7,71.7,21.65,48.5,335,40.7,16.9,23.8,53.09,53.09,53.09,40.5,18.0,Quarterfinal Contender
-187,32,Bowling Green MO,MO,C3,1,MSHSAA Conference,9-0,9,0,0,9,71.3,71.3,21.34,51.6,324,37.3,16.9,20.4,53.0,53.0,53.0,45.0,0.0,Quarterfinal Contender
-188,18,Diamond,MO,C2,1,MSHSAA C1,9-0,9,0,0,9,71.2,71.2,21.23,51.7,323,36.7,16.7,20.0,53.39,53.39,53.39,40.5,27.0,Quarterfinal Contender
-189,33,Versailles MO,MO,C3,1,MSHSAA Conference,9-0,9,0,0,9,71.0,71.0,20.97,58.2,287,34.2,20.4,13.8,54.48,54.48,54.48,45.0,50.0,Quarterfinal Contender
-190,34,Borgia,MO,C3,1,MSHSAA Conference,6-3,6,3,0,9,70.9,70.9,20.86,58.9,283,35.0,23.6,11.4,45.04,45.04,45.04,30.0,0.0,Quarterfinal Contender
-191,48,McCluer North,MO,C6,1,MSHSAA C5,2-7,2,7,0,9,70.8,70.8,20.82,82.5,58,18.9,31.7,-12.8,39.3,39.3,39.3,13.0,97.5,Quarterfinal Contender
-192,44,Owensville,MO,C4,1,MSHSAA C3,8-1,8,1,0,9,70.7,70.7,20.72,61.3,263,29.7,20.4,9.3,50.89,50.89,50.89,44.0,22.0,Quarterfinal Contender
-193,19,Crystal City,MO,C2,1,MSHSAA C1,7-2,7,2,0,9,70.5,70.5,20.54,53.7,315,36.9,20.0,16.9,47.5,47.5,47.5,31.5,9.0,Quarterfinal Contender
-194,20,Lafayette County,MO,C2,1,MSHSAA Conference,4-5,4,5,0,9,70.5,70.5,20.51,68.3,206,28.2,24.8,3.4,41.48,41.48,41.48,18.0,31.5,Quarterfinal Contender
-195,5,Putnam County,MO,C1,1,MSHSAA Conference,4-5,4,5,0,9,70.5,70.5,20.46,67.5,212,27.3,24.1,3.2,43.63,43.63,43.63,16.0,72.0,Semifinal Contender
-196,21,Licking,MO,C2,1,MSHSAA Conference,9-0,9,0,0,9,70.5,70.5,20.46,48.7,334,40.3,17.6,22.7,52.65,52.65,52.65,40.5,4.5,Quarterfinal Contender
-197,35,Hallsville,MO,C3,1,MSHSAA C3,9-0,9,0,0,9,70.4,70.4,20.38,54.8,305,34.0,18.3,15.7,53.15,53.15,53.15,45.0,5.0,Quarterfinal Contender
-198,36,Clever,MO,C3,1,MSHSAA C2,7-2,7,2,0,9,70.1,70.1,20.14,58.8,284,31.6,20.4,11.2,48.19,48.19,48.19,35.0,30.0,Quarterfinal Contender
-199,22,Senath-Hornersville,MO,C2,1,MSHSAA Conference,5-4,5,4,0,9,69.8,69.8,19.79,60.1,268,35.0,23.3,11.7,42.35,42.35,42.35,22.5,0.0,Quarterfinal Contender
-200,45,Fort Zumwalt East,MO,C5,1,MSHSAA C5,0-9,0,9,0,9,69.8,69.8,19.75,80.9,78,21.1,33.1,-12.0,31.78,31.78,31.78,0.0,0,Quarterfinal Contender
-201,23,Skyline,MO,C2,1,MSHSAA C1,9-0,9,0,0,9,69.7,69.7,19.73,56.2,300,33.7,19.0,14.7,55.02,55.02,55.02,40.5,76.5,Quarterfinal Contender
-202,24,Forsyth,MO,C2,1,MSHSAA C2,9-0,9,0,0,9,69.7,69.7,19.71,50.5,328,39.0,18.8,20.2,52.94,52.94,52.94,40.5,13.5,Quarterfinal Contender
-203,25,Stockton MO,MO,C2,1,MSHSAA Conference,8-1,8,1,0,9,69.5,69.5,19.45,54.5,308,34.9,19.1,15.8,52.07,52.07,52.07,36.0,58.5,Quarterfinal Contender
-204,37,Forstyh,MO,C3,1,MSHSAA Conference,5-4,5,4,0,9,69.4,69.4,19.41,67.5,211,25.7,23.7,2.0,46.63,46.63,46.63,25.0,125.0,Quarterfinal Contender
-205,46,Union MO,MO,C5,1,MSHSAA Conference,1-8,1,8,0,9,69.3,69.3,19.34,82.1,63,20.0,33.7,-13.7,36.37,36.37,36.37,6.0,42.0,Quarterfinal Contender
-206,47,Washington MO,MO,C5,1,MSHSAA Conference,1-8,1,8,0,9,69.0,69.0,19.01,81.2,75,20.1,33.1,-13.0,35.63,35.63,35.63,6.0,30.0,Quarterfinal Contender
-207,38,School of the Osage,MO,C3,1,MSHSAA Conference,8-1,8,1,0,9,68.9,68.9,18.89,57.3,293,33.8,21.9,11.9,50.59,50.59,50.59,40.0,15.0,Quarterfinal Contender
-208,6,Westran,MO,C1,1,MSHSAA Conference,7-2,7,2,0,9,68.8,68.8,18.76,64.5,240,30.7,24.4,6.3,51.41,51.41,51.41,28.0,92.0,Semifinal Contender
-209,45,Pleasant Hill MO,MO,C4,1,MSHSAA Conference,1-8,1,8,0,9,68.4,68.4,18.41,76.7,122,22.4,31.4,-9.0,35.13,35.13,35.13,5.5,33.0,Quarterfinal Contender
-210,7,Portageville,MO,C1,1,MSHSAA Conference,6-3,6,3,0,9,68.4,68.4,18.4,63.5,250,28.1,23.4,4.7,50.3,50.3,50.3,24.0,124.0,Semifinal Contender
-211,48,Clayton,MO,C5,1,MSHSAA Conference,3-6,3,6,0,9,68.3,68.3,18.32,78.3,106,20.3,31.6,-11.3,40.46,40.46,40.46,18.0,84.0,Quarterfinal Contender
-212,49,University City,MO,C5,1,MSHSAA C4,1-8,1,8,0,9,68.2,68.2,18.19,80.0,89,21.0,34.3,-13.3,34.3,34.3,34.3,6.0,18.0,Quarterfinal Contender
-213,26,Caruthersville,MO,C2,1,MSHSAA Conference,5-4,5,4,0,9,68.2,68.2,18.16,62.9,252,32.6,25.4,7.2,43.09,43.09,43.09,22.5,18.0,Quarterfinal Contender
-214,50,Fort Zumwalt South,MO,C5,1,MSHSAA C5,0-9,0,9,0,9,67.8,67.8,17.78,82.4,60,20.0,36.0,-16.0,32.81,32.81,32.81,0.0,0,Quarterfinal Contender
-215,51,Cape Central,MO,C5,1,MSHSAA Conference,0-9,0,9,0,9,67.6,67.6,17.56,81.9,65,18.2,33.3,-15.1,32.81,32.81,32.81,0.0,0,Quarterfinal Contender
-216,27,Ash Grove,MO,C2,1,MSHSAA C1,7-2,7,2,0,9,67.6,67.6,17.56,57.6,292,32.0,21.3,10.7,50.02,50.02,50.02,31.5,81.0,Quarterfinal Contender
-217,46,Van Horn,MO,C4,1,MSHSAA C4,2-7,2,7,0,9,67.5,67.5,17.51,76.7,120,22.2,32.0,-9.8,38.78,38.78,38.78,11.0,82.5,Quarterfinal Contender
-218,39,East Prairie,MO,C3,1,MSHSAA C2,4-5,4,5,0,9,67.4,67.4,17.37,69.9,195,24.3,26.4,-2.1,45.11,45.11,45.11,20.0,120.0,Quarterfinal Contender
-219,8,Gallatin,MO,C1,1,MSHSAA Conference,4-5,4,5,0,9,67.3,67.3,17.31,66.3,226,30.8,29.1,1.7,42.44,42.44,42.44,16.0,48.0,Semifinal Contender
-220,47,Center KC,MO,C4,1,MSHSAA Conference,1-8,1,8,0,9,67.2,67.2,17.2,78.6,102,21.4,33.6,-12.2,35.57,35.57,35.57,5.5,33.0,Quarterfinal Contender
-221,40,Willow Springs,MO,C3,1,MSHSAA C2,7-2,7,2,0,9,67.2,67.2,17.19,62.4,255,29.0,24.3,4.7,49.67,49.67,49.67,35.0,75.0,Quarterfinal Contender
-222,28,Pierce City,MO,C2,1,MSHSAA C1,9-0,9,0,0,9,67.2,67.2,17.16,52.3,318,34.6,19.3,15.3,54.43,54.43,54.43,40.5,58.5,Quarterfinal Contender
-223,48,Windsor Imperial,MO,C4,1,MSHSAA Conference,4-5,4,5,0,9,66.6,66.6,16.61,69.5,197,24.6,28.4,-3.8,40.89,40.89,40.89,22.0,27.5,Quarterfinal Contender
-224,49,Moberly,MO,C4,1,MSHSAA C4,2-7,2,7,0,9,65.8,65.8,15.78,73.3,155,22.4,30.7,-8.3,37.0,37.0,37.0,11.0,55.0,Quarterfinal Contender
-225,50,Marshall Mo,MO,C4,1,MSHSAA Conference,1-8,1,8,0,9,65.7,65.7,15.73,78.8,100,20.6,34.9,-14.3,35.87,35.87,35.87,5.5,33.0,Quarterfinal Contender
-226,29,Grandview Hillsboro,MO,C2,1,MSHSAA Conference,8-1,8,1,0,9,65.7,65.7,15.73,50.8,327,35.3,21.0,14.3,49.85,49.85,49.85,36.0,0.0,Quarterfinal Contender
-227,9,Tipton,MO,C1,1,MSHSAA Conference,5-4,5,4,0,9,65.5,65.5,15.5,60.9,265,30.8,26.0,4.8,45.19,45.19,45.19,20.0,52.0,Quarterfinal Contender
-228,30,Cuba,MO,C2,1,MSHSAA C2,8-1,8,1,0,9,65.2,65.2,15.25,51.2,326,33.6,19.4,14.2,50.3,50.3,50.3,36.0,9.0,Quarterfinal Contender
-229,10,Scotland County,MO,C1,1,MSHSAA Conference,6-3,6,3,0,9,65.2,65.2,15.21,55.6,301,33.0,22.4,10.6,45.85,45.85,45.85,24.0,36.0,Quarterfinal Contender
-230,11,Van-Far,MO,C1,1,MSHSAA C1,8-1,8,1,0,9,65.1,65.1,15.13,49.6,331,35.7,18.8,16.9,51.78,51.78,51.78,32.0,60.0,Quarterfinal Contender
-231,31,Cole Camp,MO,C2,1,MSHSAA C2,7-2,7,2,0,9,65.1,65.1,15.11,58.4,285,29.3,22.1,7.2,49.43,49.43,49.43,31.5,63.0,Quarterfinal Contender
-232,52,Riverview Gardens,MO,C5,1,MSHSAA C4,1-8,1,8,0,9,64.9,64.9,14.88,81.7,69,19.1,37.4,-18.3,36.04,36.04,36.04,6.0,42.0,Quarterfinal Contender
-233,12,Brentwood,MO,C1,1,MSHSAA Conference,7-2,7,2,0,9,64.5,64.5,14.54,51.9,321,34.8,20.8,14.0,48.59,48.59,48.59,28.0,48.0,Quarterfinal Contender
-234,53,Hillsboro MO,MO,C5,1,MSHSAA Conference,0-9,0,9,0,9,64.4,64.4,14.43,80.8,80,17.4,35.1,-17.7,31.48,31.48,31.48,0.0,0,Quarterfinal Contender
-235,41,East Newton,MO,C3,1,MSHSAA C2,5-4,5,4,0,9,64.4,64.4,14.42,64.2,246,23.4,23.4,0.0,44.11,44.11,44.11,25.0,75.0,Quarterfinal Contender
-236,42,Hollister,MO,C3,1,MSHSAA C3,4-5,4,5,0,9,64.3,64.3,14.35,65.9,228,23.2,25.7,-2.5,41.7,41.7,41.7,20.0,55.0,Quarterfinal Contender
-237,13,St. Vincent,MO,C1,1,MSHSAA C2,8-1,8,1,0,9,64.2,64.2,14.24,47.6,336,34.8,17.7,17.1,51.63,51.63,51.63,32.0,56.0,Quarterfinal Contender
-238,43,Liberty Mountain View,MO,C3,1,MSHSAA Conference,4-5,4,5,0,9,64.2,64.2,14.22,64.3,242,26.0,26.9,-0.9,41.11,41.11,41.11,20.0,65.0,Quarterfinal Contender
-239,32,Russelville MO,MO,C2,1,MSHSAA Conference,6-3,6,3,0,9,64.0,64.0,14.04,60.1,270,27.4,23.7,3.7,47.37,47.37,47.37,27.0,45.0,Quarterfinal Contender
-240,49,Francis Howell Central,MO,C6,1,MSHSAA Conference,0-9,0,9,0,9,64.0,64.0,13.97,86.7,32,18.2,43.3,-25.1,32.52,32.52,32.52,0.0,0,Quarterfinal Contender
-241,14,Fayette,MO,C1,1,MSHSAA Conference,5-4,5,4,0,9,63.9,63.9,13.91,60.8,266,30.3,25.9,4.4,43.56,43.56,43.56,20.0,28.0,Quarterfinal Contender
-242,15,Salisbury,MO,C1,1,MSHSAA Conference,5-5,5,5,0,10,63.8,63.8,13.77,62.3,256,30.1,27.6,2.5,44.15,44.15,44.15,20.0,24.0,Quarterfinal Contender
-243,51,East KC,MO,C4,1,MSHSAA Conference,0-9,0,9,0,9,63.5,63.5,13.5,78.0,107,17.7,33.2,-15.5,32.67,32.67,32.67,0.0,0,Rebuilding
-244,54,North Point,MO,C5,1,MSHSAA C5,0-9,0,9,0,9,63.3,63.3,13.27,82.2,62,19.3,39.8,-20.5,32.96,32.96,32.96,0.0,0,Rebuilding
-245,16,Marceline,MO,C1,1,MSHSAA Conference,4-5,4,5,0,9,63.3,63.3,13.27,63.2,251,27.1,27.2,-0.1,42.89,42.89,42.89,16.0,52.0,Quarterfinal Contender
-246,44,Kennett,MO,C3,1,MSHSAA C3,2-7,2,7,0,9,63.2,63.2,13.25,68.7,204,23.0,29.0,-6.0,37.04,37.04,37.04,10.0,35.0,Playoff Bubble
-247,50,Jackson MO,MO,C6,1,MSHSAA Conference,0-9,0,9,0,9,62.6,62.6,12.57,87.8,21,16.2,42.9,-26.7,31.19,31.19,31.19,0.0,0,Rebuilding
-248,17,Crossroads,MO,C1,1,MSHSAA Conference,8-1,8,1,0,9,62.5,62.5,12.47,47.1,337,38.2,22.2,16.0,52.07,52.07,52.07,32.0,68.0,Dark Horse
-249,52,Kirksville,MO,C4,1,MSHSAA C4,1-8,1,8,0,9,62.3,62.3,12.29,75.1,139,18.4,32.4,-14.0,34.39,34.39,34.39,5.5,38.5,Rebuilding
-250,45,Mount Vernon MO,MO,C3,1,MSHSAA Conference,3-6,3,6,0,9,62.1,62.1,12.14,65.3,233,23.4,27.9,-4.5,38.11,38.11,38.11,15.0,55.0,Playoff Bubble
-251,18,St Vincent,MO,C1,1,MSHSAA Conference,6-3,6,3,0,9,62.0,62.0,12.02,53.6,316,32.1,23.2,8.9,45.26,45.26,45.26,24.0,32.0,Dark Horse
-252,53,Fulton MO,MO,C4,1,MSHSAA Conference,0-9,0,9,0,9,61.8,61.8,11.8,74.9,141,19.6,34.8,-15.2,31.04,31.04,31.04,0.0,0,Rebuilding
-253,51,Francis Howell North,MO,C6,1,MSHSAA Conference,0-9,0,9,0,9,61.7,61.7,11.71,85.9,35,16.9,42.9,-26.0,32.37,32.37,32.37,0.0,0,Rebuilding
-254,52,Battle,MO,C6,1,MSHSAA C5,0-9,0,9,0,9,61.5,61.5,11.53,83.1,50,17.9,41.3,-23.4,30.74,30.74,30.74,0.0,0,Rebuilding
-255,53,Fort Zumwalt West,MO,C6,1,MSHSAA C6,0-9,0,9,0,9,61.3,61.3,11.27,87.6,23,15.2,43.6,-28.4,32.07,32.07,32.07,0.0,0,Rebuilding
-256,55,Liberty Wentzville,MO,C5,1,MSHSAA Conference,0-9,0,9,0,9,61.2,61.2,11.16,81.7,70,17.8,39.9,-22.1,33.26,33.26,33.26,0.0,0,Rebuilding
-257,46,Arcadia Valley,MO,C3,1,MSHSAA Conference,1-8,1,8,0,9,61.0,61.0,11.01,74.4,145,19.3,33.9,-14.6,36.7,36.7,36.7,5.0,35.0,Playoff Bubble
-258,47,Dexter,MO,C3,1,MSHSAA C3,3-6,3,6,0,9,61.0,61.0,11.0,67.7,210,21.6,29.6,-8.0,39.89,39.89,39.89,15.0,40.0,Playoff Bubble
-259,54,Lincoln Prep,MO,C4,1,MSHSAA Conference,0-9,0,9,0,9,60.9,60.9,10.91,78.4,105,17.2,36.1,-18.9,33.11,33.11,33.11,0.0,0,Rebuilding
-260,33,tIpton mo,MO,C2,1,MSHSAA Conference,4-5,4,5,0,9,60.7,60.7,10.74,60.0,271,25.3,24.8,0.5,41.19,41.19,41.19,18.0,45.0,Playoff Bubble
-261,48,New Madrid County Central,MO,C3,1,MSHSAA C2,2-7,2,7,0,9,60.6,60.6,10.62,67.4,213,21.4,28.9,-7.5,36.74,36.74,36.74,10.0,35.0,Playoff Bubble
-262,49,Kelly,MO,C3,1,MSHSAA C2,1-8,1,8,0,9,60.1,60.1,10.06,70.7,183,20.7,32.6,-11.9,35.81,35.81,35.81,5.0,15.0,Rebuilding
-263,55,Winfield,MO,C4,1,MSHSAA C3,1-8,1,8,0,9,59.8,59.8,9.78,71.8,173,20.8,34.9,-14.1,32.91,32.91,32.91,5.5,5.5,Rebuilding
-264,34,Carrollton MO,MO,C2,1,MSHSAA Conference,2-7,2,7,0,9,59.6,59.6,9.57,66.9,219,20.0,28.1,-8.1,38.26,38.26,38.26,9.0,49.5,Playoff Bubble
-265,56,Northeast KC,MO,C4,1,MSHSAA Conference,0-9,0,9,0,9,59.4,59.4,9.35,81.1,76,17.9,41.1,-23.2,33.26,33.26,33.26,0.0,0,Rebuilding
-266,56,Sikeston,MO,C5,1,MSHSAA C4,0-9,0,9,0,9,58.8,58.8,8.82,83.2,48,17.0,43.0,-26.0,32.37,32.37,32.37,0.0,0,Rebuilding
-267,19,Lone Jack,MO,C1,1,MSHSAA Conference,7-2,7,2,0,9,58.6,58.6,8.58,49.8,330,31.9,22.3,9.6,49.48,49.48,49.48,28.0,68.0,Dark Horse
-268,20,Santa Fe,MO,C1,1,MSHSAA C1,8-1,8,1,0,9,58.4,58.4,8.36,46.8,338,32.7,20.8,11.9,51.63,51.63,51.63,32.0,64.0,Dark Horse
-269,21,South Shelby,MO,C1,1,MSHSAA Conference,7-2,7,2,0,9,58.3,58.3,8.32,49.0,333,32.0,22.1,9.9,48.3,48.3,48.3,28.0,44.0,Dark Horse
-270,50,Chaffee,MO,C3,1,MSHSAA Conference,0-9,0,9,0,9,57.9,57.9,7.88,74.4,144,18.4,36.4,-18.0,32.67,32.67,32.67,0.0,0,Rebuilding
-271,51,Malden,MO,C3,1,MSHSAA C1,1-8,1,8,0,9,57.9,57.9,7.85,70.0,193,17.8,31.7,-13.9,34.63,34.63,34.63,5.0,35.0,Rebuilding
-272,35,New Bloomfield,MO,C2,1,MSHSAA Conference,2-7,2,7,0,9,57.8,57.8,7.77,64.5,239,21.1,28.7,-7.6,36.48,36.48,36.48,9.0,31.5,Playoff Bubble
-273,36,Fatima,MO,C2,1,MSHSAA Conference,3-6,3,6,0,9,57.5,57.5,7.47,62.8,253,23.3,29.6,-6.3,39.13,39.13,39.13,13.5,22.5,Playoff Bubble
-274,37,North Callaway,MO,C2,1,MSHSAA C2,2-7,2,7,0,9,57.5,57.5,7.45,64.0,248,22.8,30.0,-7.2,36.78,36.78,36.78,9.0,9.0,Playoff Bubble
-275,52,Lexington MO,MO,C3,1,MSHSAA Conference,0-9,0,9,0,9,57.4,57.4,7.35,73.1,158,19.0,36.0,-17.0,33.56,33.56,33.56,0.0,0,Rebuilding
-276,22,Charleston,MO,C1,1,MSHSAA Conference,5-4,5,4,0,9,57.0,57.0,7.02,53.4,317,28.6,25.6,3.0,42.52,42.52,42.52,20.0,16.0,Dark Horse
-277,54,Poplar Bluff,MO,C6,1,MSHSAA C5,0-9,0,9,0,9,56.7,56.7,6.73,86.7,31,15.1,46.3,-31.2,29.85,29.85,29.85,0.0,0,Rebuilding
-278,38,Louisiana MO,MO,C2,1,MSHSAA Conference,1-8,1,8,0,9,56.7,56.7,6.72,66.1,227,21.2,31.8,-10.6,34.72,34.72,34.72,4.5,9.0,Playoff Bubble
-279,57,Logan-Rogersville,MO,C4,1,MSHSAA C4,0-9,0,9,0,9,55.8,55.8,5.79,79.8,92,15.4,40.6,-25.2,31.33,31.33,31.33,0.0,0,Rebuilding
-280,53,Richmond Mo,MO,C3,1,MSHSAA Conference,0-9,0,9,0,9,55.6,55.6,5.61,75.6,133,17.8,39.0,-21.2,33.41,33.41,33.41,0.0,0,Rebuilding
-281,54,Scott City,MO,C3,1,MSHSAA C3,0-9,0,9,0,9,55.6,55.6,5.59,72.0,172,18.1,36.6,-18.5,32.22,32.22,32.22,0.0,0,Rebuilding
-282,55,Knob Noster,MO,C3,1,MSHSAA C3,0-9,0,9,0,9,55.3,55.3,5.28,73.7,152,18.7,38.3,-19.6,32.81,32.81,32.81,0.0,0,Rebuilding
-283,56,Kingston,MO,C3,1,MSHSAA Conference,0-9,0,9,0,9,54.9,54.9,4.91,72.4,165,19.9,39.1,-19.2,32.96,32.96,32.96,0.0,0,Rebuilding
-284,57,Butler MO,MO,C3,1,MSHSAA Conference,0-9,0,9,0,9,54.7,54.7,4.71,75.2,135,17.9,39.7,-21.8,32.81,32.81,32.81,0.0,0,Rebuilding
-285,58,St. Joseph Central,MO,C4,1,MSHSAA Conference,0-9,0,9,0,9,54.7,54.7,4.7,80.3,88,16.9,44.1,-27.2,32.96,32.96,32.96,0.0,0,Rebuilding
-286,59,St. Joseph Benton,MO,C4,1,MSHSAA Conference,0-9,0,9,0,9,54.7,54.7,4.68,80.5,87,15.1,42.4,-27.3,32.96,32.96,32.96,0.0,0,Rebuilding
-287,58,Lathrop,MO,C3,1,MSHSAA C2,0-9,0,9,0,9,54.4,54.4,4.43,75.0,140,18.9,40.6,-21.7,32.37,32.37,32.37,0.0,0,Rebuilding
-288,59,El Dorado Springs,MO,C3,1,MSHSAA C2,0-9,0,9,0,9,54.0,54.0,4.01,75.6,131,16.0,38.9,-22.9,33.11,33.11,33.11,0.0,0,Rebuilding
-289,39,South Callaway,MO,C2,1,MSHSAA C2,3-6,3,6,0,9,54.0,54.0,3.96,62.5,254,22.1,32.0,-9.9,38.54,38.54,38.54,13.5,13.5,Playoff Bubble
-290,60,St. Joseph Lafayette,MO,C4,1,MSHSAA Conference,0-9,0,9,0,9,53.7,53.7,3.7,79.8,91,17.3,45.4,-28.1,32.52,32.52,32.52,0.0,0,Rebuilding
-291,40,Highland MO,MO,C2,1,MSHSAA Conference,0-9,0,9,0,9,53.5,53.5,3.46,67.0,218,20.3,35.2,-14.9,32.22,32.22,32.22,0.0,0,Playoff Bubble
-292,57,Farmington MO,MO,C5,1,MSHSAA Conference,0-9,0,9,0,9,53.2,53.2,3.25,83.5,46,16.3,48.4,-32.1,33.11,33.11,33.11,0.0,0,Rebuilding
-293,60,Clinton MO,MO,C3,1,MSHSAA Conference,0-9,0,9,0,9,53.2,53.2,3.22,76.0,128,17.3,41.8,-24.5,32.37,32.37,32.37,0.0,0,Rebuilding
-294,61,Savannah,MO,C4,1,MSHSAA C4,0-9,0,9,0,9,53.1,53.1,3.13,79.8,90,16.0,44.8,-28.8,32.81,32.81,32.81,0.0,0,Rebuilding
-295,23,Lincoln MO,MO,C1,1,MSHSAA Conference,5-4,5,4,0,9,53.1,53.1,3.08,52.1,319,25.4,24.9,0.5,44.0,44.0,44.0,20.0,60.0,Dark Horse
-296,58,Pacific,MO,C5,1,MSHSAA C4,0-9,0,9,0,9,52.9,52.9,2.92,81.4,73,14.9,45.3,-30.4,30.15,30.15,30.15,0.0,0,Rebuilding
-297,24,Sweet Springs,MO,C1,1,MSHSAA C1,5-4,5,4,0,9,52.5,52.5,2.52,46.0,339,28.8,23.6,5.2,42.37,42.37,42.37,20.0,16.0,Dark Horse
-298,62,Monett,MO,C4,1,MSHSAA C4,0-9,0,9,0,9,52.5,52.5,2.48,81.7,71,16.8,47.8,-31.0,32.07,32.07,32.07,0.0,0,Rebuilding
-299,41,Wellington-Napoleon,MO,C2,1,MSHSAA C1,0-9,0,9,0,9,52.2,52.2,2.16,70.4,188,18.4,37.6,-19.2,32.96,32.96,32.96,0.0,0,Playoff Bubble
-300,61,Brookfield,MO,C3,1,MSHSAA C2,0-9,0,9,0,9,51.7,51.7,1.74,77.2,117,15.3,42.0,-26.7,30.89,30.89,30.89,0.0,0,Rebuilding
-301,63,Catholic Springfield,MO,C4,1,MSHSAA Conference,0-9,0,9,0,9,51.7,51.7,1.71,80.6,85,13.4,44.0,-30.6,30.59,30.59,30.59,0.0,0,Rebuilding
-302,25,Midway,MO,C1,1,MSHSAA C1,4-5,4,5,0,9,51.5,51.5,1.55,51.8,322,25.2,26.3,-1.1,41.11,41.11,41.11,16.0,40.0,Dark Horse
-303,62,Holden,MO,C3,1,MSHSAA C2,0-9,0,9,0,9,51.4,51.4,1.41,75.2,136,16.7,42.3,-25.6,33.11,33.11,33.11,0.0,0,Rebuilding
-304,59,Desoto,MO,C5,1,MSHSAA Conference,0-9,0,9,0,9,51.4,51.4,1.36,83.9,44,14.2,48.4,-34.2,31.19,31.19,31.19,0.0,0,Rebuilding
-305,26,Windsor,MO,C1,1,MSHSAA C4,3-6,3,6,0,9,51.3,51.3,1.26,54.5,309,25.0,28.8,-3.8,38.67,38.67,38.67,12.0,16.0,Dark Horse
-306,42,Crest Ridge,MO,C2,1,MSHSAA Conference,0-9,0,9,0,9,51.1,51.1,1.08,70.6,186,19.1,39.9,-20.8,32.67,32.67,32.67,0.0,0,Playoff Bubble
-307,43,Clark County,MO,C2,1,MSHSAA C2,0-9,0,9,0,9,51.0,51.0,1.04,65.4,231,20.3,36.9,-16.6,30.74,30.74,30.74,0.0,0,Playoff Bubble
-308,44,Higginsville,MO,C2,1,MSHSAA Conference,0-9,0,9,0,9,50.8,50.8,0.77,69.3,199,18.0,38.3,-20.3,32.81,32.81,32.81,0.0,0,Playoff Bubble
-309,63,Charleston MO,MO,C3,1,MSHSAA Conference,0-9,0,9,0,9,50.8,50.8,0.75,70.7,184,17.3,40.1,-22.8,32.81,32.81,32.81,0.0,0,Rebuilding
-310,27,Knox County,MO,C1,1,MSHSAA C1,3-6,3,6,0,9,50.5,50.5,0.45,59.3,281,21.6,30.9,-9.3,39.85,39.85,39.85,12.0,52.0,Dark Horse
-311,28,Concordia,MO,C1,1,MSHSAA C1,3-6,3,6,0,9,49.9,49.9,-0.08,49.5,332,26.1,26.9,-0.8,36.89,36.89,36.89,12.0,8.0,Dark Horse
-312,45,Sherwood,MO,C2,1,MSHSAA C1,0-9,0,9,0,9,49.6,49.6,-0.35,70.9,178,16.6,39.0,-22.4,32.67,32.67,32.67,0.0,0,Playoff Bubble
-313,64,Mark Twain,MO,C3,1,MSHSAA C2,0-9,0,9,0,9,49.0,49.0,-0.96,76.8,119,17.7,47.1,-29.4,30.15,30.15,30.15,0.0,0,Rebuilding
-314,64,Nevada MO,MO,C4,1,MSHSAA Conference,0-9,0,9,0,9,49.0,49.0,-0.98,80.8,79,13.8,46.8,-33.0,30.0,30.0,30.0,0.0,0,Rebuilding
-315,46,Pembroke Hill,MO,C2,1,MSHSAA C3,0-9,0,9,0,9,49.0,49.0,-1.04,71.4,177,16.9,39.9,-23.0,32.07,32.07,32.07,0.0,0,Playoff Bubble
-316,65,Aurora MO,MO,C4,1,MSHSAA Conference,0-9,0,9,0,9,48.7,48.7,-1.33,80.6,86,16.1,49.6,-33.5,31.04,31.04,31.04,0.0,0,Rebuilding
-317,66,Chillicothe MO,MO,C4,1,MSHSAA Conference,0-9,0,9,0,9,48.0,48.0,-2.0,79.3,94,14.2,47.0,-32.8,31.78,31.78,31.78,0.0,0,Rebuilding
-318,29,Glasgow Mo,MO,C1,1,MSHSAA Conference,2-7,2,7,0,9,47.2,47.2,-2.75,57.1,295,20.1,31.6,-11.5,36.07,36.07,36.07,8.0,28.0,Dark Horse
-319,47,St Paul Lutheran,MO,C2,1,MSHSAA Conference,0-9,0,9,0,9,46.1,46.1,-3.94,68.6,205,15.4,40.7,-25.3,32.22,32.22,32.22,0.0,0,Playoff Bubble
-320,48,Hamilton Penney,MO,C2,1,MSHSAA Conference,0-9,0,9,0,9,45.9,45.9,-4.06,73.2,157,17.0,44.6,-27.6,31.33,31.33,31.33,0.0,0,Playoff Bubble
-321,65,Palmyra,MO,C3,1,MSHSAA C2,0-9,0,9,0,9,45.4,45.4,-4.56,76.2,125,16.1,47.9,-31.8,30.0,30.0,30.0,0.0,0,Rebuilding
-322,49,University Academy,MO,C2,1,MSHSAA Conference,0-9,0,9,0,9,45.4,45.4,-4.57,70.8,181,17.7,44.8,-27.1,31.78,31.78,31.78,0.0,0,Rebuilding
-323,50,Penney,MO,C2,1,MSHSAA C1,0-9,0,9,0,9,45.4,45.4,-4.6,71.5,176,16.4,43.8,-27.4,31.04,31.04,31.04,0.0,0,Rebuilding
-324,30,Harrisburg MO,MO,C1,1,MSHSAA Conference,2-7,2,7,0,9,44.4,44.4,-5.61,55.0,304,21.3,33.6,-12.3,35.33,35.33,35.33,8.0,28.0,Dark Horse
-325,66,East Buchanan MO,MO,C3,1,MSHSAA Conference,0-9,0,9,0,9,44.1,44.1,-5.87,76.3,123,13.9,47.2,-33.3,31.78,31.78,31.78,0.0,0,Rebuilding
-326,31,South Harrison,MO,C1,1,MSHSAA C1,0-9,0,9,0,9,44.0,44.0,-5.99,63.8,249,19.3,40.1,-20.8,30.59,30.59,30.59,0.0,0,Dark Horse
-327,32,Polo MO,MO,C1,1,MSHSAA Conference,1-8,1,8,0,9,43.8,43.8,-6.23,59.7,276,18.4,35.0,-16.6,32.74,32.74,32.74,4.0,12.0,Dark Horse
-328,33,Slater,MO,C1,1,MSHSAA C1,1-8,1,8,0,9,42.8,42.8,-7.21,54.2,310,19.2,32.2,-13.0,31.7,31.7,31.7,4.0,8.0,Playoff Bubble
-329,51,Maysville,MO,C2,1,MSHSAA C1,0-9,0,9,0,9,42.1,42.1,-7.88,73.8,151,14.7,47.3,-32.6,30.74,30.74,30.74,0.0,0,Rebuilding
-330,67,Plattsburg,MO,C3,1,MSHSAA C1,0-9,0,9,0,9,41.5,41.5,-8.55,75.7,130,13.7,49.7,-36.0,30.74,30.74,30.74,0.0,0,Rebuilding
-331,52,Windsor MO,MO,C2,1,MSHSAA Conference,0-9,0,9,0,9,41.4,41.4,-8.57,70.6,185,14.0,44.3,-30.3,32.37,32.37,32.37,0.0,0,Rebuilding
-332,68,Camon,MO,C3,1,MSHSAA Conference,0-9,0,9,0,9,41.4,41.4,-8.65,76.9,118,13.7,50.2,-36.5,31.78,31.78,31.78,0.0,0,Rebuilding
-333,34,Schuyler County,MO,C1,1,MSHSAA C1,1-8,1,8,0,9,41.2,41.2,-8.8,56.8,297,18.7,35.7,-17.0,32.44,32.44,32.44,4.0,20.0,Playoff Bubble
-334,35,Milan,MO,C1,1,MSHSAA C1,0-9,0,9,0,9,39.2,39.2,-10.83,62.2,258,17.0,42.3,-25.3,30.74,30.74,30.74,0.0,0,Playoff Bubble
-335,53,St Michael,MO,C2,1,MSHSAA Conference,0-9,0,9,0,9,39.0,39.0,-11.05,72.2,170,14.8,49.9,-35.1,31.78,31.78,31.78,0.0,0,Rebuilding
-336,36,Princeton MO,MO,C1,1,MSHSAA Conference,0-9,0,9,0,9,38.4,38.4,-11.64,58.4,286,18.2,39.7,-21.5,29.41,29.41,29.41,0.0,0,Playoff Bubble
-337,54,Trenton,MO,C2,1,MSHSAA C2,0-9,0,9,0,9,38.3,38.3,-11.71,71.6,175,13.6,48.2,-34.6,30.3,30.3,30.3,0.0,0,Rebuilding
-338,37,West Platte,MO,C1,1,MSHSAA C2,0-9,0,9,0,9,34.8,34.8,-15.19,65.1,234,13.6,44.6,-31.0,30.15,30.15,30.15,0.0,0,Playoff Bubble
-339,38,East Buchanan,MO,C1,1,MSHSAA C1,0-9,0,9,0,9,33.5,33.5,-16.51,61.7,259,16.2,45.4,-29.2,29.85,29.85,29.85,0.0,0,Playoff Bubble
+rank,division_rank,team,state,division,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_scored,ppg_allowed,ppg_off,ppg_def,net_margin,off_index,def_index,playoff_points,harbin_avg,ppa,pqs,contender_tier,city,mascot
+1,1,Nixa,MO,C6,MSHSAA Conference,10-0,10,0,0,10,103.9,103.9,53.9,85.2,1,45.1,17.4,45.1,17.4,27.7,79.5,59.2,129.82,56.87,56.87,56.87,State Title Contender,Nixa,Eagles
+2,2,De Smet Jesuit,MO,C6,MSHSAA Conference,9-0,9,0,0,9,103.8,103.8,53.8,92.2,2,39.7,35.2,39.7,35.2,4.5,72.0,34.3,132.27,61.31,61.31,61.31,State Title Contender,St. Louis,Spartans
+3,3,Lee's Summit,MO,C6,MSHSAA Conference,9-1,9,1,0,10,103.6,103.6,53.6,90.9,3,28.7,23.2,28.7,23.2,5.5,56.6,51.1,121.81,56.81,56.81,56.81,State Title Contender,Lee'S Summit,Tigers
+4,1,Cardinal Ritter,MO,C5,MSHSAA Conference,10-0,10,0,0,10,103.0,103.0,53.0,83.1,4,39.1,15.8,39.1,15.8,23.3,71.1,61.5,129.09,58.56,58.56,58.56,State Title Contender,St. Louis,Varsity
+5,4,Christian Brothers College,MO,C6,MSHSAA Conference,8-1,8,1,0,9,100.6,100.6,50.6,92.5,5,55.2,23.8,55.2,23.8,31.4,93.7,50.3,121.26,58.89,58.89,58.89,State Title Contender,St. Louis,Cadets
+6,2,Platte County,MO,C5,MSHSAA Conference,10-0,10,0,0,10,100.0,100.0,50.0,85.0,6,51.7,15.5,51.7,15.5,36.2,88.8,61.9,129.75,58.59,58.59,58.59,State Title Contender,St. Louis,Pirates
+7,5,Blue Springs South,MO,C6,MSHSAA Conference,9-1,9,1,0,10,98.4,98.4,48.4,75.1,7,38.0,12.5,38.0,12.5,25.5,69.6,66.1,116.28,51.28,51.28,51.28,State Title Contender,Blue Springs,Jaguars
+8,6,Jackson,MO,C6,MSHSAA Conference,12-1,12,1,0,13,91.4,91.4,41.4,65.8,8,51.5,17.0,51.5,17.0,34.5,88.5,59.8,115.34,37.22,37.22,37.22,State Title Contender,Jackson,Fighting Indians
+9,1,Kearney,MO,C4,MSHSAA Conference,14-0,14,0,0,14,90.8,90.8,40.8,62.2,9,41.4,11.0,41.4,11.0,30.4,74.4,68.2,121.77,58.54,58.54,58.54,State Title Contender,Kearney,Bulldogs
+10,7,Blue Springs,MO,C6,MSHSAA Conference,8-4,8,4,0,12,88.4,88.4,38.4,75.7,10,26.7,18.6,26.7,18.6,8.1,53.8,57.6,93.16,45.33,45.33,45.33,State Title Contender,Blue Springs,Wildcats
+11,3,Cardinal Ritter College Prep,MO,C5,MSHSAA C5,9-4,9,4,0,13,87.1,87.1,37.1,70.9,11,35.3,15.8,35.3,15.8,19.5,65.8,61.5,94.05,24.23,45.0,6.92,State Title Contender,St Louis,Lions
+12,8,Rockhurst,MO,C6,MSHSAA Conference,9-3,9,3,0,12,87.1,87.1,37.1,69.9,12,34.2,18.3,34.2,18.3,15.9,64.3,58.0,99.47,54.15,54.15,54.15,State Title Contender,Kansas City,Hawklets
+13,9,Helias,MO,C6,MSHSAA C6,11-1,11,1,0,12,86.2,86.2,36.2,64.4,13,38.0,15.6,38.0,15.6,22.4,69.6,61.8,114.21,32.08,59.58,9.17,State Title Contender,Jefferson City,Crusaders
+14,10,Liberty North,MO,C6,MSHSAA Conference,7-5,7,5,0,12,86.2,86.2,36.2,76.6,14,29.9,25.2,29.9,25.2,4.7,58.3,48.3,85.14,47.52,47.52,47.52,State Title Contender,Liberty,Eagles
+15,1,Blair Oaks,MO,C3,MSHSAA Conference,14-0,14,0,0,14,86.1,86.1,36.1,56.1,15,52.6,5.8,52.6,5.8,46.8,90.0,75.5,119.63,59.67,59.67,59.67,State Title Contender,Jefferson City,Falcons
+16,4,Carthage,MO,C5,MSHSAA Conference,12-2,12,2,0,14,86.1,86.1,36.1,65.7,16,37.6,18.1,37.6,18.1,19.5,69.0,58.3,108.71,50.33,50.33,50.33,State Title Contender,Carthage,Tigers
+17,2,Bayless,MO,C4,MSHSAA Conference,9-0,9,0,0,9,85.9,85.9,35.9,55.0,17,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,53.8,53.8,53.8,State Title Contender,St. Louis,Varsity
+18,2,Bowling Green MO,MO,C3,MSHSAA Conference,9-0,9,0,0,9,85.9,85.9,35.9,55.0,18,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,53.0,53.0,53.0,State Title Contender,St. Louis,Varsity
+19,3,Buffalo MO,MO,C3,MSHSAA Conference,9-0,9,0,0,9,85.9,85.9,35.9,55.0,19,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,54.33,54.33,54.33,State Title Contender,St. Louis,Varsity
+20,4,California MO,MO,C3,MSHSAA Conference,9-0,9,0,0,9,85.9,85.9,35.9,55.0,20,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,53.74,53.74,53.74,State Title Contender,St. Louis,Varsity
+21,11,Carthage MO,MO,C6,MSHSAA Conference,9-0,9,0,0,9,85.9,85.9,35.9,55.0,21,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,56.28,56.28,56.28,State Title Contender,Carthage,Varsity
+22,5,Centralia MO,MO,C3,MSHSAA Conference,9-0,9,0,0,9,85.9,85.9,35.9,55.0,22,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,53.15,53.15,53.15,State Title Contender,St. Louis,Varsity
+23,3,Hancock,MO,C4,MSHSAA Conference,9-0,9,0,0,9,85.9,85.9,35.9,55.0,23,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,53.94,53.94,53.94,State Title Contender,St. Louis,Varsity
+24,5,Lebanon MO,MO,C5,MSHSAA Conference,9-0,9,0,0,9,85.9,85.9,35.9,55.0,24,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,54.59,54.59,54.59,State Title Contender,Lebanon,Varsity
+25,1,Licking,MO,C2,MSHSAA Conference,9-0,9,0,0,9,85.9,85.9,35.9,55.0,25,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,52.65,52.65,52.65,State Title Contender,St. Louis,Varsity
+26,6,Sedalia Smith-Cotton,MO,C5,MSHSAA Conference,9-0,9,0,0,9,85.9,85.9,35.9,55.0,26,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,54.15,54.15,54.15,State Title Contender,Sedalia,Varsity
+27,4,Soldan,MO,C4,MSHSAA Conference,9-0,9,0,0,9,85.9,85.9,35.9,55.0,27,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,53.5,53.5,53.5,State Title Contender,St. Louis,Varsity
+28,5,Sullivan Mo,MO,C4,MSHSAA Conference,9-0,9,0,0,9,85.9,85.9,35.9,55.0,28,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,54.54,54.54,54.54,State Title Contender,Sullivan,Varsity
+29,6,Vashon,MO,C4,MSHSAA Conference,9-0,9,0,0,9,85.9,85.9,35.9,55.0,29,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,54.39,54.39,54.39,State Title Contender,St. Louis,Varsity
+30,6,Versailles MO,MO,C3,MSHSAA Conference,9-0,9,0,0,9,85.9,85.9,35.9,55.0,30,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,54.48,54.48,54.48,State Title Contender,St. Louis,Varsity
+31,12,Lee's Summit North,MO,C6,MSHSAA Conference,6-4,6,4,0,10,84.4,84.4,34.4,77.3,31,27.2,27.1,27.2,27.1,0.1,54.5,45.7,87.05,50.78,50.78,50.78,Regional Contender,Lees Summit,Broncos
+32,1,Rock Port,MO,C1,MSHSAA C1,13-1,13,1,0,14,83.8,83.8,33.8,54.0,32,60.7,16.4,60.7,16.4,44.3,99.5,60.6,111.76,32.5,60.36,9.29,Regional Contender,Rock Port,Blue Jays
+33,2,Worth County/Northeast Nodaway,MO,C1,MSHSAA C1,13-1,13,1,0,14,83.8,83.8,33.8,54.0,33,55.1,19.2,55.1,19.2,35.9,93.5,56.7,111.76,32.5,60.36,9.29,Regional Contender,Grant City,Tigers
+34,3,Lockwood,MO,C1,MSHSAA C1,11-1,11,1,0,12,83.4,83.4,33.4,53.8,34,66.5,20.7,66.5,20.7,45.8,99.5,54.6,110.5,32.08,59.58,9.17,Regional Contender,Lockwood,Tigers
+35,4,Knox County,MO,C1,MSHSAA C1,10-1,10,1,0,11,83.0,83.0,33.0,53.7,35,50.5,17.8,50.5,17.8,32.7,87.1,58.7,109.7,39.85,39.85,39.85,Regional Contender,Edina,Eagles
+36,7,Seneca,MO,C3,MSHSAA Conference,13-1,13,1,0,14,82.4,82.4,32.4,59.9,36,46.8,20.0,46.8,20.0,26.8,81.9,55.6,113.82,58.48,58.48,58.48,Regional Contender,Seneca,Indians
+37,7,Kirkwood,MO,C5,MSHSAA C6,10-2,10,2,0,12,82.0,82.0,32.0,64.8,37,38.9,18.8,38.9,18.8,20.1,70.9,57.3,106.01,50.04,50.04,50.04,Regional Contender,Kirkwood,Pioneers
+38,7,Hannibal,MO,C4,MSHSAA Conference,11-3,11,3,0,14,81.1,81.1,31.1,60.4,38,38.9,10.9,38.9,10.9,28.0,70.9,68.3,99.71,54.89,54.89,54.89,Regional Contender,Hannibal,Pirates
+39,13,North Kansas City,MO,C6,MSHSAA C6,8-3,8,3,0,11,80.8,80.8,30.8,63.2,39,44.8,26.7,44.8,26.7,18.1,79.1,46.2,94.85,51.48,51.48,51.48,Regional Contender,North Kansas City,Hornets
+40,14,St. Louis University,MO,C6,MSHSAA C6,7-3,7,3,0,10,80.4,80.4,30.4,68.0,40,26.0,16.9,26.0,16.9,9.1,52.8,59.9,93.8,24.5,45.5,7.0,Regional Contender,St Louis,Junior Bills
+41,5,Archie,MO,C1,MSHSAA C1,10-2,10,2,0,12,80.3,80.3,30.3,52.7,41,62.8,24.0,62.8,24.0,38.8,99.5,50.0,101.78,29.17,54.17,8.33,Regional Contender,Archie,Whirlwinds
+42,15,Park Hill,MO,C6,MSHSAA Conference,6-4,6,4,0,10,79.2,79.2,29.2,69.6,42,30.4,18.4,30.4,18.4,12.0,59.0,57.8,84.36,51.37,51.37,51.37,Regional Contender,Kansas City,Trojans
+43,6,Crossroads,MO,C1,MSHSAA Conference,8-1,8,1,0,9,78.2,78.2,28.2,53.4,43,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,52.07,52.07,52.07,Regional Contender,St. Louis,Varsity
+44,2,Grandview Hillsboro,MO,C2,MSHSAA Conference,8-1,8,1,0,9,78.2,78.2,28.2,53.4,44,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,49.85,49.85,49.85,Regional Contender,Hillsboro,Varsity
+45,8,Houston MO,MO,C3,MSHSAA Conference,8-1,8,1,0,9,78.2,78.2,28.2,53.4,45,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,53.56,53.56,53.56,Regional Contender,St. Louis,Varsity
+46,9,Montgomery County MO,MO,C3,MSHSAA Conference,8-1,8,1,0,9,78.2,78.2,28.2,53.4,46,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,50.3,50.3,50.3,Regional Contender,St. Louis,Varsity
+47,10,Park Hills Central,MO,C3,MSHSAA Conference,8-1,8,1,0,9,78.2,78.2,28.2,53.4,47,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,56.22,56.22,56.22,Regional Contender,Park Hills,Varsity
+48,8,Roosevelt SLPS,MO,C4,MSHSAA Conference,8-1,8,1,0,9,78.2,78.2,28.2,53.4,48,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,50.89,50.89,50.89,Regional Contender,St. Louis,Varsity
+49,16,SLUH,MO,C6,MSHSAA Conference,8-1,8,1,0,9,78.2,78.2,28.2,53.4,49,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,52.67,52.67,52.67,Regional Contender,St. Louis,Varsity
+50,11,School of the Osage,MO,C3,MSHSAA Conference,8-1,8,1,0,9,78.2,78.2,28.2,53.4,50,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,50.59,50.59,50.59,Regional Contender,St. Louis,Varsity
+51,3,St. Pius X Festus,MO,C2,MSHSAA Conference,8-1,8,1,0,9,78.2,78.2,28.2,53.4,51,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,51.19,51.19,51.19,Regional Contender,Festus,Varsity
+52,4,Stockton MO,MO,C2,MSHSAA Conference,8-1,8,1,0,9,78.2,78.2,28.2,53.4,52,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,52.07,52.07,52.07,Regional Contender,St. Louis,Varsity
+53,9,Sumner MO,MO,C4,MSHSAA Conference,8-1,8,1,0,9,78.2,78.2,28.2,53.4,53,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,50.59,50.59,50.59,Regional Contender,St. Louis,Varsity
+54,8,Republic,MO,C5,MSHSAA Conference,9-3,9,3,0,12,77.4,77.4,27.4,61.6,54,42.0,20.5,42.0,20.5,21.5,75.2,54.9,96.56,53.85,53.85,53.85,Regional Contender,Republic,Tigers
+55,7,King City,MO,C1,MSHSAA C1,9-3,9,3,0,12,77.3,77.3,27.3,51.5,55,55.8,27.8,55.8,27.8,28.0,94.5,44.7,93.03,26.25,48.75,7.5,Regional Contender,King City,Wildkats
+56,9,Grain Valley,MO,C5,MSHSAA Conference,8-4,8,4,0,12,77.0,77.0,27.0,62.8,56,44.2,22.3,44.2,22.3,21.9,78.3,52.4,88.65,45.85,45.85,45.85,Regional Contender,Grain Valley,Eagles
+57,8,Tipton,MO,C1,MSHSAA Conference,13-1,13,1,0,14,76.6,76.6,26.6,50.6,57,43.8,9.4,43.8,9.4,34.4,77.7,70.4,110.57,45.19,45.19,45.19,Regional Contender,Tipton,Cardinals
+58,9,Appleton City/Ballard/Montrose,MO,C1,MSHSAA C1,6-2,6,2,0,8,76.1,76.1,26.1,51.5,58,58.5,32.5,58.5,32.5,26.0,98.3,38.1,93.03,26.25,48.75,7.5,Regional Contender,Appleton City,Montrose
+59,12,Lift for Life Academy,MO,C3,MSHSAA Conference,10-5,10,5,0,15,75.3,75.3,25.3,66.0,59,33.3,25.2,33.3,25.2,8.1,63.0,48.3,89.77,43.37,43.37,43.37,Regional Contender,St Louis,Hawks
+60,10,Eureka,MO,C5,MSHSAA Conference,8-3,8,3,0,11,75.2,75.2,25.2,62.4,60,30.3,13.1,30.3,13.1,17.2,58.8,65.3,94.57,57.96,57.96,57.96,Regional Contender,Eureka,Wildcats
+61,5,Valle Catholic,MO,C2,MSHSAA Conference,10-1,10,1,0,11,75.0,75.0,25.0,57.4,61,39.5,14.5,39.5,14.5,25.0,71.7,63.3,111.0,59.31,59.31,59.31,Regional Contender,Ste Genevieve,Warriors
+62,11,Farmington,MO,C5,MSHSAA C5,9-3,9,3,0,12,74.7,74.7,24.7,61.3,62,42.4,25.8,42.4,25.8,16.6,75.8,47.5,96.45,26.25,48.75,7.5,Regional Contender,Farmington,Knights
+63,17,Staley,MO,C6,MSHSAA Conference,4-7,4,7,0,11,74.5,74.5,24.5,74.7,63,21.4,27.6,21.4,27.6,-6.2,46.4,45.0,62.51,44.15,44.15,44.15,Regional Contender,Kansas City,Falcons
+64,12,Fort Zumwalt North,MO,C5,MSHSAA Conference,10-2,10,2,0,12,74.3,74.3,24.3,58.6,64,33.6,13.2,33.6,13.2,20.4,63.4,65.1,103.84,46.0,46.0,46.0,Regional Contender,Ofallon,Panthers
+65,18,Troy-Buchanan,MO,C6,MSHSAA Conference,9-3,9,3,0,12,74.3,74.3,24.3,58.1,65,42.6,19.6,42.6,19.6,23.0,76.0,56.2,95.34,46.63,46.63,46.63,Regional Contender,Troy,Trojans
+66,19,Lee's Summit West,MO,C6,MSHSAA Conference,4-7,4,7,0,11,74.0,74.0,24.0,74.4,66,25.0,27.7,25.0,27.7,-2.7,51.4,44.8,62.4,49.0,49.0,49.0,Regional Contender,Lees Summit,Titans
+67,10,Concordia,MO,C1,MSHSAA C1,9-4,9,4,0,13,73.9,73.9,23.9,50.7,67,44.4,18.7,44.4,18.7,25.7,78.6,57.4,86.98,36.89,36.89,36.89,Playoff Qualifier,Concordia,Fghtng Orioles
+68,11,Appleton City,MO,C1,MSHSAA C1,2-1,2,1,0,3,73.9,73.9,23.9,50.3,68,62.0,34.7,62.0,34.7,27.3,99.5,35.0,84.27,23.33,43.33,6.67,Playoff Qualifier,Appleton City,Bulldogs
+69,10,Festus,MO,C4,MSHSAA Conference,10-3,10,3,0,13,73.6,73.6,23.6,61.1,69,36.8,23.6,36.8,23.6,13.2,67.9,50.6,98.31,57.2,57.2,57.2,Playoff Qualifier,Festus,Tigers
+70,6,Monroe City,MO,C2,MSHSAA Conference,11-2,11,2,0,13,73.2,73.2,23.2,53.5,70,44.8,17.0,44.8,17.0,27.8,79.1,59.8,103.34,49.3,49.3,49.3,Playoff Qualifier,Monroe City,Panthers
+71,12,Wellington-Napoleon,MO,C1,MSHSAA C1,9-3,9,3,0,12,72.9,72.9,22.9,51.5,71,53.9,33.2,53.9,33.2,20.7,91.9,37.1,93.03,32.96,32.96,32.96,Playoff Qualifier,Wellington,Tigers
+72,11,Savannah,MO,C4,MSHSAA C4,10-2,10,2,0,12,72.3,72.3,22.3,53.8,72,38.7,9.1,38.7,9.1,29.6,70.6,70.9,102.16,32.81,32.81,32.81,Playoff Qualifier,Savannah,Savages
+73,20,Fort Zumwalt West,MO,C6,MSHSAA C6,9-4,9,4,0,13,71.9,71.9,21.9,60.7,73,30.8,18.5,30.8,18.5,12.3,59.5,57.7,90.48,32.07,32.07,32.07,Playoff Qualifier,Ofallon,Jaguars
+74,12,St. Mary's South Side,MO,C4,MSHSAA C5,9-4,9,4,0,13,71.9,71.9,21.9,63.1,74,26.2,21.5,26.2,21.5,4.7,53.1,53.5,91.32,49.02,49.02,49.02,Playoff Qualifier,St Louis,Dragons
+75,13,Pattonsburg,MO,C1,MSHSAA C1,8-2,8,2,0,10,71.4,71.4,21.4,52.2,75,59.0,44.1,59.0,44.1,14.9,99.0,25.0,98.27,28.0,52.0,8.0,Playoff Qualifier,Pattonsburg,Panthers
+76,13,Webb City,MO,C5,MSHSAA Conference,7-4,7,4,0,11,71.2,71.2,21.2,63.5,76,36.6,26.5,36.6,26.5,10.1,67.6,46.5,85.86,48.67,48.67,48.67,Playoff Qualifier,Webb City,Cardinals
+77,21,Hickman,MO,C6,MSHSAA Conference,7-3,7,3,0,10,71.0,71.0,21.0,60.2,77,33.4,22.1,33.4,22.1,11.3,63.2,52.7,91.07,54.94,54.94,54.94,Playoff Qualifier,Columbia,Kewpies
+78,14,Thayer,MO,C1,MSHSAA Conference,10-2,10,2,0,12,70.6,70.6,20.6,53.2,78,45.7,16.2,45.7,16.2,29.5,80.4,60.9,101.95,51.04,51.04,51.04,Playoff Qualifier,Thayer,Bobcats
+79,15,Brentwood,MO,C1,MSHSAA Conference,7-2,7,2,0,9,70.6,70.6,20.6,51.9,79,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,48.59,48.59,48.59,Playoff Qualifier,St. Louis,Varsity
+80,14,Central Springfield,MO,C5,MSHSAA Conference,7-2,7,2,0,9,70.6,70.6,20.6,51.9,80,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,48.98,48.98,48.98,Playoff Qualifier,Springfield,Varsity
+81,13,Gateway STEM,MO,C4,MSHSAA Conference,7-2,7,2,0,9,70.6,70.6,20.6,51.9,81,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,47.54,47.54,47.54,Playoff Qualifier,St. Louis,Varsity
+82,15,Hillcrest MO,MO,C5,MSHSAA Conference,7-2,7,2,0,9,70.6,70.6,20.6,51.9,82,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,48.87,48.87,48.87,Playoff Qualifier,St. Louis,Varsity
+83,7,Jefferson R-7,MO,C2,MSHSAA Conference,7-2,7,2,0,9,70.6,70.6,20.6,51.9,83,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,47.35,47.35,47.35,Playoff Qualifier,St. Louis,Varsity
+84,22,Lafayette Wildwood,MO,C6,MSHSAA Conference,7-2,7,2,0,9,70.6,70.6,20.6,51.9,84,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,50.09,50.09,50.09,Playoff Qualifier,Wildwood,Varsity
+85,16,Lone Jack,MO,C1,MSHSAA Conference,7-2,7,2,0,9,70.6,70.6,20.6,51.9,85,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,49.48,49.48,49.48,Playoff Qualifier,St. Louis,Varsity
+86,13,Lutheran St. Charles,MO,C3,MSHSAA Conference,7-2,7,2,0,9,70.6,70.6,20.6,51.9,86,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,48.04,48.04,48.04,Playoff Qualifier,St. Charles,Varsity
+87,8,Pius X,MO,C2,MSHSAA Conference,7-2,7,2,0,9,70.6,70.6,20.6,51.9,87,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,48.39,48.39,48.39,Playoff Qualifier,St. Louis,Varsity
+88,14,Salem MO,MO,C4,MSHSAA Conference,7-2,7,2,0,9,70.6,70.6,20.6,51.9,88,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,48.72,48.72,48.72,Playoff Qualifier,St. Louis,Varsity
+89,9,St. Pius X KC,MO,C2,MSHSAA Conference,7-2,7,2,0,9,70.6,70.6,20.6,51.9,89,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,48.39,48.39,48.39,Playoff Qualifier,St. Louis,Varsity
+90,14,Trinity Catholic,MO,C3,MSHSAA Conference,7-2,7,2,0,9,70.6,70.6,20.6,51.9,90,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,48.93,48.93,48.93,Playoff Qualifier,St. Louis,Varsity
+91,23,William Chrisman,MO,C6,MSHSAA Conference,7-2,7,2,0,9,70.6,70.6,20.6,51.9,91,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,48.91,48.91,48.91,Playoff Qualifier,St. Louis,Varsity
+92,10,Mid-Buchanan,MO,C2,MSHSAA Conference,11-1,11,1,0,12,69.7,69.7,19.7,49.2,92,46.8,16.8,46.8,16.8,30.0,81.9,60.1,108.89,42.81,42.81,42.81,Playoff Qualifier,Faucett,Dragons
+93,15,Parkway North,MO,C4,MSHSAA Conference,10-2,10,2,0,12,69.7,69.7,19.7,56.0,93,29.5,15.2,29.5,15.2,14.3,57.7,62.3,102.93,40.06,40.06,40.06,Playoff Qualifier,St Louis,Vikings
+94,15,Mountain Grove,MO,C3,MSHSAA C3,10-2,10,2,0,12,69.4,69.4,19.4,54.6,94,40.7,17.6,40.7,17.6,23.1,73.4,59.0,102.44,55.81,55.81,55.81,Playoff Qualifier,Mountain Grove,Panthers
+95,11,Centralia,MO,C2,MSHSAA Conference,10-2,10,2,0,12,69.3,69.3,19.3,50.8,95,39.5,15.8,39.5,15.8,23.7,71.7,61.5,101.11,47.39,47.39,47.39,Playoff Qualifier,Centralia,Panthers
+96,16,Fort Osage,MO,C5,MSHSAA Conference,7-4,7,4,0,11,68.9,68.9,18.9,63.4,96,32.1,21.3,32.1,21.3,10.8,61.3,53.8,85.83,38.44,38.44,38.44,Playoff Qualifier,Independence,Indians
+97,24,Rock Bridge,MO,C6,MSHSAA Conference,5-5,5,5,0,10,68.9,68.9,18.9,62.9,97,31.0,15.1,31.0,15.1,15.9,59.8,62.5,72.02,54.8,54.8,54.8,Playoff Qualifier,Columbia,Bruins
+98,17,Capital City,MO,C5,MSHSAA C5,8-5,8,5,0,13,68.7,68.7,18.7,59.8,98,34.5,23.5,34.5,23.5,11.0,64.7,50.7,82.47,54.3,54.3,54.3,Playoff Qualifier,Jefferson City,Cavaliers
+99,12,Lamar,MO,C2,MSHSAA Conference,8-4,8,4,0,12,68.1,68.1,18.1,60.6,99,28.6,21.2,28.6,21.2,7.4,56.4,53.9,87.88,59.31,59.31,59.31,Playoff Qualifier,Lamar,Tigers
+100,18,Parkway West,MO,C5,MSHSAA C5,9-3,9,3,0,12,68.0,68.0,18.0,54.3,100,34.6,16.1,34.6,16.1,18.5,64.8,61.1,94.0,53.62,53.62,53.62,Playoff Qualifier,Ballwin,Longhorns
+101,19,Rockwood Summit,MO,C5,MSHSAA C5,8-3,8,3,0,11,67.8,67.8,17.8,58.9,101,26.8,16.1,26.8,16.1,10.7,53.9,61.1,93.34,41.13,41.13,41.13,Playoff Qualifier,Fenton,Falcons
+102,16,Smithville,MO,C4,MSHSAA Conference,8-3,8,3,0,11,67.7,67.7,17.7,56.8,102,36.4,15.6,36.4,15.6,20.8,67.4,61.8,92.61,58.24,58.24,58.24,Playoff Qualifier,Smithville,Warriors
+103,16,St. Michael the Archangel,MO,C3,MSHSAA C3,10-4,10,4,0,14,67.4,67.4,17.4,56.9,103,35.5,25.8,35.5,25.8,9.7,66.1,47.5,91.34,25.0,46.43,7.14,Playoff Qualifier,Lees Summit,Celtics
+104,17,West Plains,MO,C4,MSHSAA Conference,9-3,9,3,0,12,67.4,67.4,17.4,56.9,104,36.3,24.5,36.3,24.5,11.8,67.2,49.3,94.91,55.04,55.04,55.04,Playoff Qualifier,West Plains,Zizzers
+105,25,Joplin,MO,C6,MSHSAA Conference,5-6,5,6,0,11,67.4,67.4,17.4,64.7,105,29.2,26.6,29.2,26.6,2.6,57.3,46.4,68.1,34.8,34.8,34.8,Playoff Qualifier,Joplin,Eagles
+106,17,Ste. Genevieve,MO,C3,MSHSAA C3,9-2,9,2,0,11,67.2,67.2,17.2,55.7,106,33.9,19.0,33.9,19.0,14.9,63.9,57.0,101.31,45.81,45.81,45.81,Playoff Qualifier,Ste Genevieve,Dragons
+107,17,Putnam County,MO,C1,MSHSAA Conference,13-1,13,1,0,14,67.0,67.0,17.0,46.4,107,41.4,10.6,41.4,10.6,30.8,74.4,68.8,109.1,43.63,43.63,43.63,Playoff Qualifier,Unionville,Midgets
+108,18,St. Dominic,MO,C4,MSHSAA Conference,9-1,9,1,0,10,67.0,67.0,17.0,51.1,108,39.3,15.6,39.3,15.6,23.7,71.4,61.8,107.88,41.63,41.63,41.63,Playoff Qualifier,Ofallon,Crusaders
+109,13,Father Tolton,MO,C2,MSHSAA C2,7-4,7,4,0,11,67.0,67.0,17.0,56.3,109,32.7,19.1,32.7,19.1,13.6,62.2,56.9,83.34,22.27,41.36,6.36,Playoff Qualifier,Columbia,Tolton
+110,18,Paris,MO,C1,MSHSAA C1,6-4,6,4,0,10,67.0,67.0,17.0,49.4,110,43.3,23.2,43.3,23.2,20.1,77.0,51.1,77.29,21.0,39.0,6.0,Playoff Qualifier,Paris,Coyotes
+111,19,North Shelby,MO,C1,MSHSAA C1,9-3,9,3,0,12,66.9,66.9,16.9,51.5,111,41.8,31.3,41.8,31.3,10.5,74.9,39.8,93.03,26.25,48.75,7.5,Playoff Qualifier,Shelbyville,Raiders
+112,18,Cassville,MO,C3,MSHSAA Conference,8-4,8,4,0,12,66.6,66.6,16.6,59.2,112,32.3,24.8,32.3,24.8,7.5,61.6,48.9,87.39,40.04,40.04,40.04,Playoff Qualifier,Cassville,Wildcats
+113,26,Pattonville,MO,C6,MSHSAA C6,7-6,7,6,0,13,66.5,66.5,16.5,63.2,113,29.9,30.6,29.9,30.6,-0.7,58.3,40.8,75.97,39.59,39.59,39.59,Playoff Qualifier,Maryland Heights,Pirates
+114,20,Chaminade College Prep,MO,C5,MSHSAA C5,6-4,6,4,0,10,66.3,66.3,16.3,62.9,114,28.5,29.1,28.5,29.1,-0.6,56.3,42.9,82.02,21.0,39.0,6.0,Playoff Qualifier,St Louis,Red Devils
+115,21,Neosho,MO,C5,MSHSAA Conference,6-5,6,5,0,11,66.3,66.3,16.3,61.5,115,36.5,32.1,36.5,32.1,4.4,67.5,38.7,76.07,54.15,54.15,54.15,Playoff Qualifier,Neosho,Wildcats
+116,22,Summit,MO,C5,MSHSAA Conference,5-2,5,2,0,7,66.3,66.3,16.3,51.0,116,30.0,18.4,30.0,18.4,11.6,58.4,57.8,89.28,50.48,50.48,50.48,Playoff Qualifier,St. Louis,Varsity
+117,23,Ladue Horton Watkins,MO,C5,MSHSAA C5,8-4,8,4,0,12,66.1,66.1,16.1,59.7,117,21.3,21.8,21.3,21.8,-0.5,46.2,53.1,87.56,23.33,43.33,6.67,Playoff Qualifier,St Louis,Rams
+118,19,Odessa,MO,C3,MSHSAA Conference,9-2,9,2,0,11,66.0,66.0,16.0,54.2,118,34.2,19.5,34.2,19.5,14.7,64.3,56.3,100.79,51.26,51.26,51.26,Playoff Qualifier,Odessa,Bulldogs
+119,27,Northwest (Cedar Hill),MO,C6,MSHSAA C6,8-3,8,3,0,11,65.9,65.9,15.9,53.3,119,37.3,22.6,37.3,22.6,14.7,68.6,52.0,91.38,25.45,47.27,7.27,Playoff Qualifier,Cedar Hill,Lions
+120,28,Howell,MO,C6,MSHSAA C6,5-5,5,5,0,10,65.9,65.9,15.9,62.6,120,28.6,27.4,28.6,27.4,1.2,56.4,45.2,71.91,17.5,32.5,5.0,Playoff Qualifier,St Charles,Vikings
+121,29,Oakville,MO,C6,MSHSAA C6,8-3,8,3,0,11,65.7,65.7,15.7,55.0,121,27.7,13.5,27.7,13.5,14.2,55.2,64.7,91.98,34.5,34.5,34.5,Playoff Qualifier,St Louis,Tigers
+122,20,Marionville,MO,C1,MSHSAA Conference,9-2,9,2,0,11,65.6,65.6,15.6,50.4,122,39.8,15.2,39.8,15.2,24.6,72.1,62.3,99.46,59.11,59.11,59.11,Playoff Qualifier,Marionville,Comets
+123,20,Maryville,MO,C3,MSHSAA Conference,9-3,9,3,0,12,65.3,65.3,15.3,55.3,123,32.8,18.7,32.8,18.7,14.1,62.3,57.4,94.35,55.78,55.78,55.78,Playoff Qualifier,Maryville,Spoofhounds
+124,19,Warrensburg,MO,C4,MSHSAA Conference,8-4,8,4,0,12,65.3,65.3,15.3,55.6,124,32.8,17.9,32.8,17.9,14.9,62.3,58.5,86.13,42.57,42.57,42.57,Playoff Qualifier,Warrensburg,Tigers
+125,21,Dexter,MO,C3,MSHSAA C3,10-2,10,2,0,12,64.2,64.2,14.2,46.8,125,39.3,11.5,39.3,11.5,27.8,71.4,67.5,99.71,39.89,39.89,39.89,Playoff Qualifier,Dexter,Bearcats
+126,20,Orchard Farm,MO,C4,MSHSAA C4,10-2,10,2,0,12,64.2,64.2,14.2,47.3,126,47.4,15.9,47.4,15.9,31.5,82.8,61.3,99.89,50.26,50.26,50.26,Playoff Qualifier,St Charles,Eagles
+127,21,Lutheran North,MO,C4,MSHSAA Conference,6-4,6,4,0,10,64.2,64.2,14.2,57.7,127,30.7,20.2,30.7,20.2,10.5,59.4,55.3,80.19,49.52,49.52,49.52,Playoff Qualifier,St Louis,Crusaders
+128,30,Liberty (Mountain View),MO,C6,MSHSAA Conference,10-3,10,3,0,13,63.9,63.9,13.9,53.7,128,35.2,11.5,35.2,11.5,23.7,65.7,67.5,95.72,47.67,47.67,47.67,Playoff Qualifier,Mountain View,Eagles
+129,31,Seckman,MO,C6,MSHSAA Conference,7-3,7,3,0,10,63.8,63.8,13.8,53.9,129,35.8,15.5,35.8,15.5,20.3,66.5,61.9,88.86,52.22,52.22,52.22,Playoff Qualifier,Imperial,Jaguars
+130,22,Osage,MO,C3,MSHSAA C4,9-3,9,3,0,12,63.6,63.6,13.6,53.3,130,32.4,19.2,32.4,19.2,13.2,61.8,56.7,93.66,53.3,53.3,53.3,Playoff Qualifier,Kaiser,Indians
+131,23,St. Pius X (Festus),MO,C3,MSHSAA Conference,9-6,9,6,0,15,63.2,63.2,13.2,54.6,131,31.8,20.6,31.8,20.6,11.2,60.9,54.8,79.11,42.44,42.44,42.44,Playoff Qualifier,Festus,Lancers
+132,24,Borgia,MO,C3,MSHSAA Conference,6-3,6,3,0,9,63.0,63.0,13.0,50.3,132,28.7,19.7,28.7,19.7,9.0,56.6,56.0,84.27,45.04,45.04,45.04,Playoff Qualifier,St. Louis,Varsity
+133,25,Lift for Life,MO,C3,MSHSAA Conference,6-3,6,3,0,9,63.0,63.0,13.0,50.3,133,28.7,19.7,28.7,19.7,9.0,56.6,56.0,84.27,46.37,46.37,46.37,Playoff Qualifier,St. Louis,Varsity
+134,14,Russelville MO,MO,C2,MSHSAA Conference,6-3,6,3,0,9,63.0,63.0,13.0,50.3,134,28.7,19.7,28.7,19.7,9.0,56.6,56.0,84.27,47.37,47.37,47.37,Playoff Qualifier,St. Louis,Varsity
+135,21,Salisbury,MO,C1,MSHSAA Conference,11-1,11,1,0,12,62.8,62.8,12.8,42.7,135,47.0,7.0,47.0,7.0,40.0,82.2,73.8,106.61,44.15,44.15,44.15,Playoff Qualifier,Salisbury,Panthers
+136,24,Hazelwood East,MO,C5,MSHSAA C5,7-3,7,3,0,10,62.8,62.8,12.8,52.5,136,31.1,10.6,31.1,10.6,20.5,59.9,68.8,88.38,36.28,36.28,36.28,Playoff Qualifier,St Louis,Spartans
+137,22,Drexel/Miami,MO,C1,MSHSAA C1,7-4,7,4,0,11,62.6,62.6,12.6,49.9,137,49.8,39.6,49.8,39.6,10.2,86.1,28.2,81.1,22.27,41.36,6.36,Playoff Qualifier,Drexel,Miami
+138,22,McDonald County,MO,C4,MSHSAA Conference,6-4,6,4,0,10,62.6,62.6,12.6,57.2,138,32.6,23.2,32.6,23.2,9.4,62.0,51.1,80.02,44.89,44.89,44.89,Playoff Qualifier,Anderson,Mustangs
+139,23,Mound City,MO,C1,MSHSAA C1,7-4,7,4,0,11,62.5,62.5,12.5,49.9,139,39.8,29.8,39.8,29.8,10.0,72.1,41.9,81.1,22.27,41.36,6.36,Playoff Qualifier,Mound City,Panthers
+140,25,Raytown,MO,C5,MSHSAA C5,7-5,7,5,0,12,62.5,62.5,12.5,57.3,140,33.8,22.8,33.8,22.8,11.0,63.7,51.7,78.39,48.81,48.81,48.81,Playoff Qualifier,Raytown,Bluejays
+141,26,Branson,MO,C5,MSHSAA Conference,7-3,7,3,0,10,61.9,61.9,11.9,54.4,141,32.0,21.3,32.0,21.3,10.7,61.2,53.8,89.04,48.67,48.67,48.67,Playoff Qualifier,Branson,Pirates
+142,27,Lebanon,MO,C5,MSHSAA Conference,6-5,6,5,0,11,61.8,61.8,11.8,58.0,142,38.3,32.1,38.3,32.1,6.2,70.0,38.7,74.85,31.56,31.56,31.56,Playoff Qualifier,Lebanon,Yellowjackets
+143,26,Boonville,MO,C3,MSHSAA Conference,8-3,8,3,0,11,61.7,61.7,11.7,52.6,143,33.4,23.1,33.4,23.1,10.3,63.2,51.3,91.14,40.78,40.78,40.78,Playoff Qualifier,Boonville,Pirates
+144,15,Caruthersville,MO,C2,MSHSAA Conference,8-3,8,3,0,11,61.7,61.7,11.7,48.5,144,36.8,20.3,36.8,20.3,16.5,67.9,55.2,89.7,43.09,43.09,43.09,Playoff Qualifier,Caruthersville,Tigers
+145,23,St. Clair,MO,C4,MSHSAA C3,10-4,10,4,0,14,61.5,61.5,11.5,52.2,145,33.7,27.1,33.7,27.1,6.6,63.6,45.7,89.7,54.24,54.24,54.24,Playoff Qualifier,St Clair,Bulldogs
+146,16,North Callaway,MO,C2,MSHSAA C2,8-2,8,2,0,10,61.5,61.5,11.5,49.5,146,40.0,16.0,40.0,16.0,24.0,72.4,61.2,97.33,36.78,36.78,36.78,Playoff Qualifier,Kingdom City,Thunderbirds
+147,24,Nevada,MO,C4,MSHSAA Conference,8-4,8,4,0,12,61.3,61.3,11.3,56.7,147,31.6,19.9,31.6,19.9,11.7,60.6,55.7,86.51,34.54,34.54,34.54,Playoff Qualifier,Nevada,Tigers
+148,28,Carl Junction,MO,C5,MSHSAA C4,7-5,7,5,0,12,61.3,61.3,11.3,56.7,148,33.9,25.7,33.9,25.7,8.2,63.9,47.6,78.18,47.18,47.18,47.18,Playoff Qualifier,Carl Junction,Bulldogs
+149,17,Holden,MO,C2,MSHSAA C2,9-3,9,3,0,12,61.0,61.0,11.0,48.7,149,34.9,14.8,34.9,14.8,20.1,65.3,62.9,92.05,33.11,33.11,33.11,Playoff Qualifier,Holden,Eagles
+150,27,Mt. Vernon,MO,C3,MSHSAA Conference,6-5,6,5,0,11,60.9,60.9,10.9,58.7,150,24.9,25.6,24.9,25.6,-0.7,51.3,47.8,75.09,43.48,43.48,43.48,Playoff Qualifier,Mt Vernon,Mountaineers
+151,25,Monett,MO,C4,MSHSAA C4,5-6,5,6,0,11,60.9,60.9,10.9,59.2,151,45.3,36.3,45.3,36.3,9.0,79.8,32.8,66.17,32.07,32.07,32.07,Playoff Qualifier,Monett,Cubs
+152,26,Logan-Rogersville,MO,C4,MSHSAA C4,8-3,8,3,0,11,60.6,60.6,10.6,52.1,152,37.0,24.1,37.0,24.1,12.9,68.2,49.9,90.96,31.33,31.33,31.33,Playoff Qualifier,Rogersville,Wildcats
+153,32,Raymore-Peculiar,MO,C6,MSHSAA Conference,0-10,0,10,0,10,60.5,60.5,10.5,76.6,153,11.7,30.7,11.7,30.7,-19.0,32.8,40.6,26.81,34.2,34.2,34.2,Playoff Qualifier,Peculiar,Panthers
+154,18,Warsaw,MO,C2,MSHSAA Conference,9-1,9,1,0,10,60.0,60.0,10.0,41.7,154,43.6,5.5,43.6,5.5,38.1,77.4,75.9,104.59,43.98,43.98,43.98,Playoff Qualifier,Warsaw,Wildcats
+155,33,Oak Park,MO,C6,MSHSAA Conference,2-8,2,8,0,10,59.8,59.8,9.8,70.4,155,19.3,40.4,19.3,40.4,-21.1,43.4,27.0,44.64,37.96,37.96,37.96,Playoff Qualifier,Kansas City,Northmen
+156,27,Mexico,MO,C4,MSHSAA C4,6-5,6,5,0,11,59.6,59.6,9.6,57.6,156,25.9,25.7,25.9,25.7,0.2,52.7,47.6,74.71,19.09,35.45,5.45,Playoff Qualifier,Mexico,Bulldogs
+157,34,Ritenour,MO,C6,MSHSAA C6,6-5,6,5,0,11,59.4,59.4,9.4,54.7,157,30.8,16.5,30.8,16.5,14.3,59.5,60.5,73.69,36.33,36.33,36.33,Playoff Qualifier,Overland,Huskies
+158,28,North County,MO,C4,MSHSAA C4,6-6,6,6,0,12,59.2,59.2,9.2,59.7,158,20.9,26.4,20.9,26.4,-5.5,45.7,46.6,70.89,46.41,46.41,46.41,Playoff Qualifier,Bonne Terre,Raiders
+159,35,Park Hill South,MO,C6,MSHSAA Conference,2-8,2,8,0,10,59.2,59.2,9.2,71.6,159,15.4,33.7,15.4,33.7,-18.3,38.0,36.4,45.06,41.57,41.57,41.57,Playoff Qualifier,Riverside,Panthers
+160,19,Forsyth,MO,C2,MSHSAA C2,8-4,8,4,0,12,58.8,58.8,8.8,52.5,160,35.7,29.7,35.7,29.7,6.0,66.4,42.0,85.04,52.94,52.94,52.94,Playoff Qualifier,Forsyth,Panthers
+161,20,Lawson,MO,C2,MSHSAA Conference,8-3,8,3,0,11,58.4,58.4,8.4,49.3,161,40.2,26.2,40.2,26.2,14.0,72.7,46.9,89.98,51.65,51.65,51.65,Playoff Qualifier,Lawson,Cardinals
+162,29,Glendale,MO,C5,MSHSAA Conference,6-5,6,5,0,11,58.4,58.4,8.4,58.2,162,34.9,35.7,34.9,35.7,-0.8,65.3,33.6,74.92,37.07,37.07,37.07,Playoff Qualifier,Springfield,Falcons
+163,24,West Platte,MO,C1,MSHSAA C2,9-4,9,4,0,13,58.1,58.1,8.1,49.2,163,30.9,21.5,30.9,21.5,9.4,59.7,53.5,86.45,30.15,30.15,30.15,Playoff Qualifier,Weston,Bluejays
+164,21,Palmyra,MO,C2,MSHSAA C2,7-4,7,4,0,11,58.0,58.0,8.0,50.7,164,41.3,22.6,41.3,22.6,18.7,74.2,52.0,81.38,30.0,30.0,30.0,Playoff Qualifier,Palmyra,Panthers
+165,28,Knob Noster,MO,C3,MSHSAA C3,8-2,8,2,0,10,57.5,57.5,7.5,46.3,165,35.0,20.4,35.0,20.4,14.6,65.4,55.0,96.2,32.81,32.81,32.81,Varsity Program,Knob Noster,Panthers
+166,25,St. Vincent,MO,C1,MSHSAA Conference,7-4,7,4,0,11,57.5,57.5,7.5,52.2,166,30.2,21.9,30.2,21.9,8.3,58.7,52.9,81.91,45.26,45.26,45.26,Varsity Program,Perryville,Squaws Indians
+167,30,MICDS,MO,C5,MSHSAA Conference,5-5,5,5,0,10,57.5,57.5,7.5,55.0,167,27.2,19.0,27.2,19.0,8.2,54.5,57.0,69.25,35.63,35.63,35.63,Varsity Program,St Louis,Rams
+168,22,Montgomery County,MO,C2,MSHSAA C2,9-3,9,3,0,12,57.2,57.2,7.2,48.0,168,30.8,15.7,30.8,15.7,15.1,59.5,61.6,91.8,26.25,48.75,7.5,Varsity Program,Montgomery City,Wildcats
+169,29,Sullivan,MO,C4,MSHSAA Conference,9-4,9,4,0,13,57.1,57.1,7.1,49.9,169,23.8,20.5,23.8,20.5,3.3,49.7,54.9,86.7,45.52,45.52,45.52,Varsity Program,Sullivan,Eagles
+170,30,Van Horn,MO,C4,MSHSAA C4,7-4,7,4,0,11,57.1,57.1,7.1,51.5,170,27.2,22.8,27.2,22.8,4.4,54.5,51.7,81.66,38.78,38.78,38.78,Varsity Program,Independence,Falcons
+171,29,Ava,MO,C3,MSHSAA C2,6-5,6,5,0,11,57.1,57.1,7.1,53.7,171,35.2,31.5,35.2,31.5,3.7,65.7,39.5,73.34,48.33,48.33,48.33,Varsity Program,Ava,Bears
+172,26,Bishop LeBlond,MO,C1,MSHSAA C1,6-5,6,5,0,11,56.8,56.8,6.8,48.6,172,42.7,36.7,42.7,36.7,6.0,76.2,32.2,71.56,19.09,35.45,5.45,Varsity Program,St Joseph,Golden Eagles
+173,31,Harrisonville,MO,C4,MSHSAA Conference,6-4,6,4,0,10,56.8,56.8,6.8,53.9,173,28.2,21.0,28.2,21.0,7.2,55.9,54.2,78.86,45.48,45.48,45.48,Varsity Program,Harrisonville,Wildcats
+174,31,Rolla,MO,C5,MSHSAA C5,4-6,4,6,0,10,56.4,56.4,6.4,57.9,174,26.9,26.0,26.9,26.0,0.9,54.1,47.2,60.27,54.74,54.74,54.74,Varsity Program,Rolla,Bulldogs
+175,30,Potosi,MO,C3,MSHSAA C3,7-5,7,5,0,12,56.2,56.2,6.2,52.1,175,33.3,27.3,33.3,27.3,6.0,63.0,45.4,76.57,45.96,45.96,45.96,Varsity Program,Potosi,Trojans
+176,31,St. Francis Borgia,MO,C3,MSHSAA C3,5-5,5,5,0,10,56.2,56.2,6.2,54.7,176,28.4,24.0,28.4,24.0,4.4,56.2,50.0,69.14,50.0,50.0,50.0,Varsity Program,Washington,Knights
+177,32,Belton,MO,C5,MSHSAA Conference,6-5,6,5,0,11,56.0,56.0,6.0,56.9,177,32.6,34.7,32.6,34.7,-2.1,62.0,35.0,74.46,42.11,42.11,42.11,Varsity Program,Belton,Pirates
+178,32,Vianney,MO,C4,MSHSAA Conference,4-7,4,7,0,11,56.0,56.0,6.0,60.7,178,28.9,33.4,28.9,33.4,-4.5,56.9,36.8,57.61,40.89,40.89,40.89,Varsity Program,Kirkwood,Golden Griffins
+179,33,North Point,MO,C5,MSHSAA C5,8-3,8,3,0,11,55.8,55.8,5.8,49.8,179,31.8,22.5,31.8,22.5,9.3,60.9,52.1,90.16,32.96,32.96,32.96,Varsity Program,Wentzville,Point
+180,32,Clinton,MO,C3,MSHSAA C3,8-3,8,3,0,11,55.6,55.6,5.6,45.9,180,32.2,17.3,32.2,17.3,14.9,61.5,59.4,88.79,25.45,47.27,7.27,Varsity Program,Clinton,Cardinals
+181,33,Moberly,MO,C3,MSHSAA C4,6-6,6,6,0,12,55.5,55.5,5.5,55.3,181,26.5,25.1,26.5,25.1,1.4,53.5,48.5,69.35,37.0,37.0,37.0,Varsity Program,Moberly,Spartans
+182,34,Winnetonka,MO,C5,MSHSAA C5,5-5,5,5,0,10,55.5,55.5,5.5,56.3,182,26.8,21.5,26.8,21.5,5.3,53.9,53.5,69.7,17.5,32.5,5.0,Varsity Program,Kansas City,Griffins
+183,36,Ozark,MO,C6,MSHSAA C6,3-8,3,8,0,11,55.5,55.5,5.5,63.0,183,31.3,38.5,31.3,38.5,-7.2,60.2,29.7,49.32,50.83,50.83,50.83,Varsity Program,Ozark,Tigers
+184,27,Russellville,MO,C1,MSHSAA C1,8-3,8,3,0,11,55.4,55.4,5.4,48.7,184,31.7,23.5,31.7,23.5,8.2,60.8,50.7,89.77,25.45,47.27,7.27,Varsity Program,Russellville,Indians
+185,23,Brookfield,MO,C2,MSHSAA C2,7-3,7,3,0,10,55.4,55.4,5.4,45.2,185,34.2,20.3,34.2,20.3,13.9,64.3,55.2,85.82,30.89,30.89,30.89,Varsity Program,Brookfield,Bulldogs
+186,35,Chaminade,MO,C5,MSHSAA Conference,5-4,5,4,0,9,55.4,55.4,5.4,48.8,186,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,44.07,44.07,44.07,Varsity Program,St. Louis,Varsity
+187,34,Forstyh,MO,C3,MSHSAA Conference,5-4,5,4,0,9,55.4,55.4,5.4,48.8,187,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,46.63,46.63,46.63,Varsity Program,St. Louis,Varsity
+188,37,Francis Howell,MO,C6,MSHSAA Conference,5-4,5,4,0,9,55.4,55.4,5.4,48.8,188,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,42.72,42.72,42.72,Varsity Program,St. Louis,Varsity
+189,36,Helias Catholic,MO,C5,MSHSAA Conference,5-4,5,4,0,9,55.4,55.4,5.4,48.8,189,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,45.26,45.26,45.26,Varsity Program,St. Louis,Varsity
+190,33,Hillsboro,MO,C4,MSHSAA Conference,5-6,5,6,0,11,55.4,55.4,5.4,57.9,190,23.1,27.5,23.1,27.5,-4.4,48.7,45.1,65.72,48.54,48.54,48.54,Varsity Program,Hillsboro,Hawks
+191,28,Lincoln MO,MO,C1,MSHSAA Conference,5-4,5,4,0,9,55.4,55.4,5.4,48.8,191,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,44.0,44.0,44.0,Varsity Program,St. Louis,Varsity
+192,24,Senath-Hornersville,MO,C2,MSHSAA Conference,5-4,5,4,0,9,55.4,55.4,5.4,48.8,192,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,42.35,42.35,42.35,Varsity Program,St. Louis,Varsity
+193,37,Smith-Cotton,MO,C5,MSHSAA C5,6-5,6,5,0,11,55.1,55.1,5.1,57.1,193,19.6,26.3,19.6,26.3,-6.7,43.8,46.8,74.53,19.09,35.45,5.45,Varsity Program,Sedalia,Tigers
+194,35,Clever,MO,C3,MSHSAA C2,9-3,9,3,0,12,55.0,55.0,5.0,45.3,194,29.9,15.5,29.9,15.5,14.4,58.3,61.9,90.86,48.19,48.19,48.19,Varsity Program,Clever,Blue Jays
+195,34,University City,MO,C4,MSHSAA C4,9-2,9,2,0,11,54.8,54.8,4.8,42.3,195,43.5,11.3,43.5,11.3,32.2,77.3,67.8,96.62,34.3,34.3,34.3,Varsity Program,St Louis,Lions
+196,38,Fox,MO,C5,MSHSAA C5,3-8,3,8,0,11,54.6,54.6,4.6,60.5,196,22.5,28.9,22.5,28.9,-6.4,47.9,43.1,48.45,44.2,44.2,44.2,Varsity Program,Arnold,Warriors
+197,29,South Harrison,MO,C1,MSHSAA C1,9-2,9,2,0,11,54.4,54.4,4.4,41.1,197,34.6,12.7,34.6,12.7,21.9,64.8,65.8,96.2,30.59,30.59,30.59,Varsity Program,Bethany,Bulldogs
+198,25,Springfield Catholic,MO,C2,MSHSAA C2,8-3,8,3,0,11,54.4,54.4,4.4,48.5,198,34.5,26.2,34.5,26.2,8.3,64.7,46.9,89.7,25.45,47.27,7.27,Varsity Program,Springfield,Fighting Irish
+199,30,Hayti,MO,C1,MSHSAA Conference,7-6,7,6,0,13,54.4,54.4,4.4,48.3,199,31.4,28.5,31.4,28.5,2.9,60.4,43.7,70.75,52.44,52.44,52.44,Varsity Program,Hayti,Indians
+200,36,Richmond,MO,C3,MSHSAA C3,8-3,8,3,0,11,53.8,53.8,3.8,48.2,200,32.4,20.4,32.4,20.4,12.0,61.8,55.0,89.6,25.45,47.27,7.27,Varsity Program,Richmond,Spartans
+201,26,Cameron,MO,C2,MSHSAA C2,6-5,6,5,0,11,53.8,53.8,3.8,52.5,201,23.9,24.3,23.9,24.3,-0.4,49.9,49.6,72.92,19.09,35.45,5.45,Varsity Program,Cameron,Dragons
+202,27,South Callaway,MO,C2,MSHSAA C2,6-5,6,5,0,11,53.8,53.8,3.8,50.4,202,24.3,21.8,24.3,21.8,2.5,50.4,53.1,72.19,38.54,38.54,38.54,Varsity Program,Mokane,Bulldogs
+203,31,Lincoln,MO,C1,MSHSAA C1,5-4,5,4,0,9,53.8,53.8,3.8,51.8,203,39.3,34.1,39.3,34.1,5.2,71.4,35.9,73.69,19.44,36.11,5.56,Varsity Program,Lincoln,Cardinals
+204,38,Lindbergh,MO,C6,MSHSAA Conference,3-7,3,7,0,10,53.8,53.8,3.8,59.6,204,22.4,26.5,22.4,26.5,-4.1,47.8,46.5,50.86,37.43,37.43,37.43,Varsity Program,St Louis,Flyers
+205,35,DeSoto,MO,C4,MSHSAA Conference,5-5,5,5,0,10,53.5,53.5,3.5,54.3,205,21.6,21.9,21.6,21.9,-0.3,46.6,52.9,69.0,31.19,31.19,31.19,Varsity Program,Desoto,Dragons
+206,39,Chrisman,MO,C5,MSHSAA C5,3-7,3,7,0,10,53.0,53.0,3.0,62.9,206,20.3,35.6,20.3,35.6,-15.3,44.8,33.8,52.02,10.5,19.5,3.0,Varsity Program,Independence,Bears
+207,28,Summit Christian Academy,MO,C2,MSHSAA C2,5-6,5,6,0,11,52.7,52.7,2.7,54.5,207,25.6,30.4,25.6,30.4,-4.8,52.2,41.0,64.53,15.91,29.55,4.55,Varsity Program,Lees Summit,Eagles
+208,36,Warrenton,MO,C4,MSHSAA C4,7-4,7,4,0,11,52.3,52.3,2.3,49.9,208,24.1,22.5,24.1,22.5,1.6,50.1,52.1,81.1,51.78,51.78,51.78,Varsity Program,Warrenton,Warriors
+209,29,Fair Grove,MO,C2,MSHSAA Conference,5-5,5,5,0,10,52.3,52.3,2.3,53.1,209,30.6,26.2,30.6,26.2,4.4,59.2,46.9,68.59,46.2,46.2,46.2,Varsity Program,Fair Grove,Eagles
+210,37,Kirksville,MO,C4,MSHSAA C4,4-6,4,6,0,10,52.3,52.3,2.3,56.6,210,17.5,20.9,17.5,20.9,-3.4,40.9,54.3,59.81,34.39,34.39,34.39,Varsity Program,Kirksville,Tigers
+211,39,Timberland,MO,C6,MSHSAA Conference,4-7,4,7,0,11,52.2,52.2,2.2,57.7,211,22.7,31.1,22.7,31.1,-8.4,48.2,40.1,56.56,49.2,49.2,49.2,Varsity Program,Wentzville,Wolves
+212,38,Jennings,MO,C4,MSHSAA C4,9-2,9,2,0,11,52.1,52.1,2.1,40.1,212,35.6,11.8,35.6,11.8,23.8,66.2,67.1,95.85,44.46,44.46,44.46,Varsity Program,Jennings,Warriors
+213,32,St. Paul Lutheran,MO,C1,MSHSAA Conference,5-6,5,6,0,11,52.0,52.0,2.0,47.4,213,46.5,43.1,46.5,43.1,3.4,81.5,25.0,62.04,32.22,32.22,32.22,Varsity Program,Concordia,Saints
+214,33,Adrian,MO,C1,MSHSAA Conference,8-4,8,4,0,12,51.8,51.8,1.8,46.0,214,29.8,16.9,29.8,16.9,12.9,58.1,59.9,82.77,58.81,58.81,58.81,Varsity Program,Adrian,Blackhawks
+215,39,Union,MO,C4,MSHSAA Conference,6-5,6,5,0,11,51.6,51.6,1.6,49.5,215,24.6,16.8,24.6,16.8,7.8,50.8,60.1,71.87,40.8,40.8,40.8,Varsity Program,Union,Wildcats
+216,37,AC Prep,MO,C3,MSHSAA C3,0-0,0,0,0,0,51.6,51.6,1.6,48.0,216,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,MO,Varsity
+217,40,Battle/Columbia Independent,MO,C5,MSHSAA C5,0-0,0,0,0,0,51.6,51.6,1.6,48.0,217,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Columbia,Spartans
+218,34,Hardin-Central,MO,C1,MSHSAA C1,0-0,0,0,0,0,51.6,51.6,1.6,48.0,218,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Hardin,Bulldogs
+219,38,Knob Noster/Leeton,MO,C3,MSHSAA C3,0-0,0,0,0,0,51.6,51.6,1.6,48.0,219,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Knob Noster,Panthers And Bulldogs
+220,40,Roosevelt/Carnahan,MO,C4,MSHSAA C4,0-0,0,0,0,0,51.6,51.6,1.6,48.0,220,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,St Louis,Carnahan
+221,41,Southeast/Central,MO,C4,MSHSAA C4,0-0,0,0,0,0,51.6,51.6,1.6,48.0,221,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Kansas City,Central
+222,35,St. Mary's,MO,C1,MSHSAA C1,0-0,0,0,0,0,51.6,51.6,1.6,48.0,222,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,MO,Varsity
+223,42,University City/Maplewood-Richmond Heights,MO,C4,MSHSAA C4,0-0,0,0,0,0,51.6,51.6,1.6,48.0,223,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,St Louis,Heights
+224,36,West Nodaway,MO,C1,MSHSAA C1,0-0,0,0,0,0,51.6,51.6,1.6,48.0,224,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Burlington Junction,Rockets
+225,43,Pleasant Hill,MO,C4,MSHSAA Conference,3-8,3,8,0,11,51.4,51.4,1.4,57.5,225,19.1,25.7,19.1,25.7,-6.6,43.1,47.6,47.4,32.67,32.67,32.67,Varsity Program,Pleasant Hill,Roosters Chicks
+226,37,Windsor (Imperial),MO,C1,MSHSAA C4,4-6,4,6,0,10,51.0,51.0,1.0,40.0,226,26.0,32.1,26.0,32.1,-6.1,52.8,38.7,54.0,38.67,38.67,38.67,Varsity Program,Imperial,Owls
+227,44,Gateway Tech,MO,C4,MSHSAA C4,9-1,9,1,0,10,50.5,50.5,0.5,37.0,227,29.1,7.2,29.1,7.2,21.9,57.1,73.5,102.95,31.5,58.5,9.0,Varsity Program,St Louis,Jaguars
+228,39,Herculaneum,MO,C3,MSHSAA C3,6-5,6,5,0,11,50.4,50.4,0.4,49.1,228,28.5,25.2,28.5,25.2,3.3,56.3,48.3,71.73,45.13,45.13,45.13,Varsity Program,Herculaneum,Black Cats
+229,41,Poplar Bluff,MO,C5,MSHSAA C5,3-7,3,7,0,10,50.4,50.4,0.4,61.2,229,18.4,32.7,18.4,32.7,-14.3,42.2,37.8,51.42,29.85,29.85,29.85,Varsity Program,Poplar Bluff,Mules
+230,42,Holt,MO,C5,MSHSAA Conference,5-6,5,6,0,11,50.2,50.2,0.2,51.1,230,28.4,25.5,28.4,25.5,2.9,56.2,47.9,63.34,45.85,45.85,45.85,Varsity Program,Wentzville,Indians
+231,45,Lincoln College Prep,MO,C4,MSHSAA C4,5-4,5,4,0,9,50.2,50.2,0.2,51.4,231,18.2,18.4,18.2,18.4,-0.2,41.9,57.8,73.55,19.44,36.11,5.56,Varsity Program,Kansas City,Tigers
+232,38,East Atchison [Tarkio/Fairfax],MO,C1,MSHSAA C1,6-5,6,5,0,11,50.0,50.0,0.0,48.6,232,30.5,36.0,30.5,36.0,-5.5,59.1,33.2,71.56,19.09,35.45,5.45,Varsity Program,Tarkio,Varsity
+233,43,Jefferson City,MO,C5,MSHSAA Conference,4-6,4,6,0,10,49.6,49.6,-0.4,56.5,233,24.0,26.7,24.0,26.7,-2.7,50.0,46.2,59.77,45.7,45.7,45.7,Varsity Program,Jefferson City,Jays
+234,40,Wright City,MO,C3,MSHSAA C3,7-4,7,4,0,11,49.5,49.5,-0.5,45.8,234,27.3,23.9,27.3,23.9,3.4,54.6,50.1,79.67,50.59,50.59,50.59,Varsity Program,Wright City,Wildcats
+235,30,Ash Grove,MO,C2,MSHSAA C1,6-4,6,4,0,10,49.3,49.3,-0.7,46.9,235,30.4,21.3,30.4,21.3,9.1,59.0,53.8,76.41,50.02,50.02,50.02,Varsity Program,Ash Grove,Pirates
+236,44,Parkview,MO,C5,MSHSAA C5,4-6,4,6,0,10,49.3,49.3,-0.7,56.0,236,13.4,19.5,13.4,19.5,-6.1,35.2,56.3,59.6,55.04,55.04,55.04,Varsity Program,Springfield,Vikings
+237,31,Macon,MO,C2,MSHSAA Conference,6-5,6,5,0,11,49.2,49.2,-0.8,50.0,237,24.7,20.2,24.7,20.2,4.5,51.0,55.3,72.05,43.56,43.56,43.56,Varsity Program,Macon,Tigers
+238,40,Truman,MO,C6,MSHSAA C5,2-8,2,8,0,10,49.1,49.1,-0.9,62.7,238,16.7,44.0,16.7,44.0,-27.3,39.8,25.0,41.95,52.81,52.81,52.81,Varsity Program,Independence,Patriots
+239,46,Perryville,MO,C4,MSHSAA C3,7-4,7,4,0,11,48.9,48.9,-1.1,44.8,239,30.4,22.2,30.4,22.2,8.2,59.0,52.5,79.32,50.06,50.06,50.06,Varsity Program,Perryville,Pirates
+240,41,Scott City,MO,C3,MSHSAA C3,6-4,6,4,0,10,48.9,48.9,-1.1,45.7,240,30.4,23.6,30.4,23.6,6.8,59.0,50.6,76.0,32.22,32.22,32.22,Varsity Program,Scott City,Rams
+241,41,Marquette,MO,C6,MSHSAA Conference,1-9,1,9,0,10,48.9,48.9,-1.1,66.8,241,12.6,39.9,12.6,39.9,-27.3,34.0,27.7,33.38,35.0,35.0,35.0,Varsity Program,Chesterfield,Mustangs
+242,32,Stockton/Sheldon,MO,C2,MSHSAA C2,7-4,7,4,0,11,48.8,48.8,-1.2,46.9,242,29.7,28.3,29.7,28.3,1.4,58.0,44.0,80.05,22.27,41.36,6.36,Varsity Program,Stockton,Sheldon
+243,42,Kickapoo,MO,C6,MSHSAA Conference,2-8,2,8,0,10,48.8,48.8,-1.2,62.6,243,18.4,36.5,18.4,36.5,-18.1,42.2,32.5,41.91,31.33,31.33,31.33,Varsity Program,Springfield,Chiefs
+244,39,Van-Far,MO,C1,MSHSAA C1,7-5,7,5,0,12,48.4,48.4,-1.6,45.6,244,31.3,25.2,31.3,25.2,6.1,60.2,48.3,74.29,51.78,51.78,51.78,Varsity Program,Vandalia,Indians
+245,33,Houston,MO,C2,MSHSAA C2,4-6,4,6,0,10,48.1,48.1,-1.9,53.7,245,33.1,33.6,33.1,33.6,-0.5,62.7,36.6,58.8,14.0,26.0,4.0,Varsity Program,Houston,Tigers
+246,47,Sikeston,MO,C4,MSHSAA C4,3-7,3,7,0,10,48.0,48.0,-2.0,56.8,246,29.1,35.1,29.1,35.1,-6.0,57.1,34.5,49.88,32.37,32.37,32.37,Varsity Program,Sikeston,Bulldogs
+247,42,East Newton,MO,C3,MSHSAA C2,2-9,2,9,0,11,48.0,48.0,-2.0,61.4,247,16.1,36.7,16.1,36.7,-20.6,38.9,32.2,39.67,44.11,44.11,44.11,Varsity Program,Granby,Patriots
+248,43,Southern Boone,MO,C3,MSHSAA C3,4-7,4,7,0,11,47.9,47.9,-2.1,55.0,248,17.0,25.7,17.0,25.7,-8.7,40.2,47.6,55.61,53.15,53.15,53.15,Varsity Program,Ashland,Eagles
+249,40,Gallatin,MO,C1,MSHSAA Conference,4-5,4,5,0,9,47.8,47.8,-2.2,47.2,249,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,42.44,42.44,42.44,Varsity Program,St. Louis,Varsity
+250,45,Ladue,MO,C5,MSHSAA Conference,4-5,4,5,0,9,47.8,47.8,-2.2,47.2,250,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,44.56,44.56,44.56,Varsity Program,St. Louis,Varsity
+251,44,Liberty Mountain View,MO,C3,MSHSAA Conference,4-5,4,5,0,9,47.8,47.8,-2.2,47.2,251,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,41.11,41.11,41.11,Varsity Program,Liberty,Varsity
+252,48,Mexico MO,MO,C4,MSHSAA Conference,4-5,4,5,0,9,47.8,47.8,-2.2,47.2,252,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,44.44,44.44,44.44,Varsity Program,Mexico,Varsity
+253,49,Windsor Imperial,MO,C4,MSHSAA Conference,4-5,4,5,0,9,47.8,47.8,-2.2,47.2,253,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,40.89,40.89,40.89,Varsity Program,St. Louis,Varsity
+254,34,tIpton mo,MO,C2,MSHSAA Conference,4-5,4,5,0,9,47.8,47.8,-2.2,47.2,254,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,41.19,41.19,41.19,Varsity Program,St. Louis,Varsity
+255,35,Cole Camp,MO,C2,MSHSAA C2,6-4,6,4,0,10,47.6,47.6,-2.4,45.1,255,27.6,22.1,27.6,22.1,5.5,55.0,52.7,75.78,49.43,49.43,49.43,Varsity Program,Cole Camp,Blue Birds
+256,45,Hollister,MO,C3,MSHSAA C3,6-4,6,4,0,10,47.6,47.6,-2.4,47.4,256,30.6,30.1,30.6,30.1,0.5,59.2,41.5,76.59,41.7,41.7,41.7,Varsity Program,Hollister,Tigers
+257,50,Bolivar,MO,C4,MSHSAA C4,3-7,3,7,0,10,47.4,47.4,-2.6,56.0,257,16.7,25.5,16.7,25.5,-8.8,39.8,47.9,49.6,43.42,43.42,43.42,Varsity Program,Bolivar,Liberators
+258,46,Camdenton,MO,C5,MSHSAA Conference,3-8,3,8,0,11,47.0,47.0,-3.0,57.0,258,26.3,40.4,26.3,40.4,-14.1,53.2,27.0,47.22,38.85,38.85,38.85,Varsity Program,Camdenton,Lakers
+259,36,Butler,MO,C2,MSHSAA C2,6-5,6,5,0,11,46.8,46.8,-3.2,47.5,259,26.3,25.7,26.3,25.7,0.6,53.2,47.6,71.17,19.09,35.45,5.45,Varsity Program,Butler,Bears
+260,51,St. James,MO,C4,MSHSAA C3,4-7,4,7,0,11,46.3,46.3,-3.7,50.4,260,20.1,21.9,20.1,21.9,-1.8,44.5,52.9,54.0,55.43,55.43,55.43,Varsity Program,St James,Tigers
+261,52,McCluer North,MO,C4,MSHSAA C5,3-7,3,7,0,10,46.3,46.3,-3.7,58.0,261,12.3,32.2,12.3,32.2,-19.9,33.6,38.5,50.3,39.3,39.3,39.3,Varsity Program,Florissant,Stars
+262,37,Miller,MO,C2,MSHSAA C1,6-5,6,5,0,11,46.2,46.2,-3.8,45.9,262,30.1,24.1,30.1,24.1,6.0,58.5,49.9,70.61,53.98,53.98,53.98,Varsity Program,Miller,Cardinals
+263,46,Hallsville,MO,C3,MSHSAA C3,4-7,4,7,0,11,46.2,46.2,-3.8,55.1,263,22.2,37.6,22.2,37.6,-15.4,47.5,31.0,55.65,53.15,53.15,53.15,Varsity Program,Hallsville,Indians
+264,41,North Platte,MO,C1,MSHSAA C1,6-5,6,5,0,11,46.0,46.0,-4.0,45.3,264,35.7,29.9,35.7,29.9,5.8,66.4,41.7,70.4,19.09,35.45,5.45,Varsity Program,Dearborn,Panthers
+265,47,Webster Groves,MO,C5,MSHSAA C5,4-6,4,6,0,10,46.0,46.0,-4.0,51.7,265,24.3,34.3,24.3,34.3,-10.0,50.4,35.6,58.09,46.87,46.87,46.87,Varsity Program,Webster Groves,Statesmen
+266,47,Chillicothe,MO,C3,MSHSAA C3,4-7,4,7,0,11,45.8,45.8,-4.2,50.5,266,19.2,19.2,19.2,19.2,0.0,43.3,56.7,54.04,12.73,23.64,3.64,Varsity Program,Chillicothe,Hornets
+267,48,Marshfield,MO,C5,MSHSAA C4,4-6,4,6,0,10,45.7,45.7,-4.3,53.2,267,18.0,29.8,18.0,29.8,-11.8,41.6,41.9,58.62,52.48,52.48,52.48,Varsity Program,Marshfield,Bluejays
+268,53,Marshall,MO,C4,MSHSAA C4,3-7,3,7,0,10,45.7,45.7,-4.3,55.0,268,23.2,33.0,23.2,33.0,-9.8,48.9,37.4,49.25,10.5,19.5,3.0,Varsity Program,Marshall,Owls
+269,43,Howell Central,MO,C6,MSHSAA C6,2-8,2,8,0,10,45.5,45.5,-4.5,58.7,269,23.6,34.5,23.6,34.5,-10.9,49.4,35.3,40.55,7.0,13.0,2.0,Varsity Program,St Charles,Spartans
+270,42,Albany,MO,C1,MSHSAA C1,5-6,5,6,0,11,45.3,45.3,-4.7,47.4,270,40.6,48.5,40.6,48.5,-7.9,73.2,25.0,62.04,15.91,29.55,4.55,Varsity Program,Albany,Warriors
+271,43,Harrisburg,MO,C1,MSHSAA C1,5-6,5,6,0,11,45.0,45.0,-5.0,48.3,271,23.5,29.3,23.5,29.3,-5.8,49.3,42.6,62.36,15.91,29.55,4.55,Varsity Program,Harrisburg,Bulldogs
+272,44,Liberal,MO,C1,MSHSAA C1,5-6,5,6,0,11,45.0,45.0,-5.0,47.4,272,33.5,41.9,33.5,41.9,-8.4,63.3,25.0,62.04,15.91,29.55,4.55,Varsity Program,Liberal,Bulldogs
+273,49,Washington,MO,C5,MSHSAA C5,3-7,3,7,0,10,44.9,44.9,-5.1,54.3,273,18.2,29.6,18.2,29.6,-11.4,41.9,42.2,49.0,10.5,19.5,3.0,Varsity Program,Washington,Bluejays
+274,50,McCluer,MO,C5,MSHSAA Conference,1-9,1,9,0,10,44.9,44.9,-5.1,63.2,274,11.6,39.1,11.6,39.1,-27.5,32.6,28.9,32.12,45.11,45.11,45.11,Varsity Program,Florissant,Comets
+275,54,St. Charles West,MO,C4,MSHSAA C4,4-7,4,7,0,11,44.8,44.8,-5.2,49.8,275,28.0,33.2,28.0,33.2,-5.2,55.6,37.1,53.79,53.31,53.31,53.31,Varsity Program,St Charles,Warriors
+276,55,Westminster Christian,MO,C4,MSHSAA Conference,6-5,6,5,0,11,44.7,44.7,-5.3,43.6,276,25.5,19.9,25.5,19.9,5.6,52.1,55.7,69.81,42.76,42.76,42.76,Varsity Program,St Louis,Wildcats
+277,45,South Nodaway,MO,C1,MSHSAA C1,4-6,4,6,0,10,44.7,44.7,-5.3,46.6,277,38.0,43.6,38.0,43.6,-5.6,69.6,25.0,56.31,14.0,26.0,4.0,Varsity Program,Barnard,Longhorns
+278,56,Pacific,MO,C4,MSHSAA C4,3-7,3,7,0,10,44.6,44.6,-5.4,50.8,278,27.6,27.1,27.6,27.1,0.5,55.0,45.7,47.78,30.15,30.15,30.15,Varsity Program,Pacific,Indians
+279,48,Aurora,MO,C3,MSHSAA C3,2-8,2,8,0,10,44.6,44.6,-5.4,60.1,279,18.1,41.4,18.1,41.4,-23.3,41.7,25.6,41.03,7.0,13.0,2.0,Varsity Program,Aurora,Houn Dawgs
+280,38,New Madrid County Central,MO,C2,MSHSAA C2,5-6,5,6,0,11,44.4,44.4,-5.6,44.9,280,24.5,26.0,24.5,26.0,-1.5,50.7,47.2,61.17,36.74,36.74,36.74,Varsity Program,New Madrid,Eagles
+281,51,Raytown South,MO,C5,MSHSAA C4,2-9,2,9,0,11,44.3,44.3,-5.7,60.8,281,8.4,36.4,8.4,36.4,-28.0,28.2,32.6,39.46,51.78,51.78,51.78,Varsity Program,Raytown,Cardinals
+282,39,Sarcoxie,MO,C2,MSHSAA C2,5-5,5,5,0,10,44.1,44.1,-5.9,46.8,282,22.4,25.1,22.4,25.1,-2.7,47.8,48.5,66.38,53.54,53.54,53.54,Varsity Program,Sarcoxie,Bears
+283,49,Pembroke Hill,MO,C3,MSHSAA C3,5-6,5,6,0,11,44.0,44.0,-6.0,45.1,283,25.6,21.3,25.6,21.3,4.3,52.2,53.8,61.24,32.07,32.07,32.07,Varsity Program,Kansas City,Raiders
+284,40,Pierce City,MO,C2,MSHSAA C1,4-7,4,7,0,11,44.0,44.0,-6.0,49.4,284,28.5,34.9,28.5,34.9,-6.4,56.3,34.7,53.65,54.43,54.43,54.43,Varsity Program,Pierce City,Eagles
+285,44,Willard,MO,C6,MSHSAA C5,1-9,1,9,0,10,44.0,44.0,-6.0,63.3,285,17.6,48.9,17.6,48.9,-31.3,41.0,25.0,32.16,56.07,56.07,56.07,Varsity Program,Willard,Tigers
+286,46,North Andrew,MO,C1,MSHSAA C1,4-6,4,6,0,10,43.9,43.9,-6.1,46.6,286,32.8,40.2,32.8,40.2,-7.4,62.3,27.3,56.31,14.0,26.0,4.0,Varsity Program,Rosendale,Cardinals
+287,47,St. Joseph Christian,MO,C1,MSHSAA C1,6-6,6,6,0,12,43.7,43.7,-6.3,48.0,287,33.8,47.7,33.8,47.7,-13.9,63.7,25.0,66.8,17.5,32.5,5.0,Varsity Program,St Joseph,Lions
+288,50,Kennett,MO,C3,MSHSAA C3,4-6,4,6,0,10,43.7,43.7,-6.3,49.4,288,24.2,30.2,24.2,30.2,-6.0,50.3,41.3,57.29,37.04,37.04,37.04,Varsity Program,Kennett,Indians
+289,52,Fort Zumwalt East,MO,C5,MSHSAA C5,3-7,3,7,0,10,43.5,43.5,-6.5,54.0,289,19.6,30.7,19.6,30.7,-11.1,43.8,40.6,48.9,31.78,31.78,31.78,Varsity Program,St Peters,Lions
+290,48,Sweet Springs,MO,C1,MSHSAA C1,4-7,4,7,0,11,43.4,43.4,-6.6,46.1,290,42.0,48.1,42.0,48.1,-6.1,75.2,25.0,52.5,42.37,42.37,42.37,Varsity Program,Sweet Springs,Greyhounds
+291,51,Oak Grove,MO,C3,MSHSAA Conference,2-8,2,8,0,10,43.2,43.2,-6.8,52.7,291,15.6,23.2,15.6,23.2,-7.6,38.2,51.1,38.45,48.7,48.7,48.7,Varsity Program,Oak Grove,Panthers
+292,41,East Buchanan,MO,C2,MSHSAA C1,4-6,4,6,0,10,42.9,42.9,-7.1,49.7,292,27.7,38.5,27.7,38.5,-10.8,55.2,29.7,57.39,29.85,29.85,29.85,Varsity Program,Gower,Bulldogs
+293,53,Fort Zumwalt South,MO,C5,MSHSAA C5,4-6,4,6,0,10,42.8,42.8,-7.2,49.5,293,14.2,23.7,14.2,23.7,-9.5,36.3,50.4,57.33,32.81,32.81,32.81,Varsity Program,St Peters,Bulldogs
+294,52,Salem,MO,C3,MSHSAA C3,4-7,4,7,0,11,42.8,42.8,-7.2,51.3,294,13.9,30.6,13.9,30.6,-16.7,35.9,40.8,54.32,12.73,23.64,3.64,Varsity Program,Salem,Tigers
+295,53,John Burroughs,MO,C3,MSHSAA Conference,5-5,5,5,0,10,42.7,42.7,-7.3,48.9,295,17.6,19.3,17.6,19.3,-1.7,41.0,56.6,67.11,45.44,45.44,45.44,Varsity Program,St Louis,Bombers
+296,54,Lighthouse Christian,MO,C3,MSHSAA C3,4-7,4,7,0,11,42.4,42.4,-7.6,51.0,296,20.2,27.5,20.2,27.5,-7.3,44.7,45.1,54.21,12.73,23.64,3.64,Varsity Program,Springfield,Varsity
+297,42,Jefferson,MO,C2,MSHSAA C2,4-6,4,6,0,10,42.3,42.3,-7.7,48.9,297,29.4,30.4,29.4,30.4,-1.0,57.6,41.0,57.11,14.0,26.0,4.0,Varsity Program,Festus,Blue Jays
+298,49,Penney,MO,C1,MSHSAA C1,4-7,4,7,0,11,41.9,41.9,-8.1,48.8,298,20.4,28.4,20.4,28.4,-8.0,45.0,43.8,53.44,31.04,31.04,31.04,Varsity Program,Hamilton,Hornets
+299,43,Lafayette County,MO,C2,MSHSAA Conference,3-8,3,8,0,11,41.6,41.6,-8.4,49.3,299,23.7,32.5,23.7,32.5,-8.8,49.6,38.1,44.53,41.48,41.48,41.48,Varsity Program,Higginsville,Huskers
+300,54,Excelsior Springs,MO,C5,MSHSAA C4,2-8,2,8,0,10,41.6,41.6,-8.4,59.5,300,11.5,39.3,11.5,39.3,-27.8,32.5,28.6,40.83,54.15,54.15,54.15,Varsity Program,Excelsior Springs,Tigers
+301,55,Clayton,MO,C5,MSHSAA Conference,3-6,3,6,0,9,41.3,41.3,-8.7,45.7,301,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,40.46,40.46,40.46,Varsity Program,St. Louis,Varsity
+302,44,Fatima,MO,C2,MSHSAA Conference,3-6,3,6,0,9,41.3,41.3,-8.7,45.7,302,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,39.13,39.13,39.13,Varsity Program,St. Louis,Varsity
+303,55,Mount Vernon MO,MO,C3,MSHSAA Conference,3-6,3,6,0,9,41.3,41.3,-8.7,45.7,303,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,38.11,38.11,38.11,Varsity Program,St. Louis,Varsity
+304,45,Northwest Cedar Hill,MO,C6,MSHSAA Conference,3-6,3,6,0,9,41.3,41.3,-8.7,45.7,304,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,41.57,41.57,41.57,Varsity Program,St. Louis,Varsity
+305,45,Bowling Green,MO,C2,MSHSAA Conference,4-7,4,7,0,11,41.2,41.2,-8.8,49.1,305,23.9,36.5,23.9,36.5,-12.6,49.9,32.5,53.55,51.37,51.37,51.37,Varsity Program,Bowling Green,Bobcats
+306,50,Portageville,MO,C1,MSHSAA Conference,7-5,7,5,0,12,41.1,41.1,-8.9,39.8,306,29.4,20.5,29.4,20.5,8.9,57.6,54.9,72.26,50.3,50.3,50.3,Varsity Program,Portageville,Bulldogs
+307,46,Willow Springs,MO,C2,MSHSAA C2,3-7,3,7,0,10,41.0,41.0,-9.0,52.9,307,19.3,37.7,19.3,37.7,-18.4,43.4,30.8,48.52,49.67,49.67,49.67,Varsity Program,Willow Springs,Bears
+308,51,Jasper,MO,C1,MSHSAA C1,4-6,4,6,0,10,40.8,40.8,-9.2,46.6,308,29.6,43.9,29.6,43.9,-14.3,57.8,25.0,56.31,14.0,26.0,4.0,Varsity Program,Jasper,Eagles
+309,57,Roosevelt,MO,C4,MSHSAA C4,1-7,1,7,0,8,40.5,40.5,-9.5,47.3,309,4.8,23.1,4.8,23.1,-18.3,25.0,51.3,29.05,4.38,8.12,1.25,Varsity Program,St Louis,Roughriders
+310,46,Hazelwood Central,MO,C6,MSHSAA C5,2-8,2,8,0,10,40.4,40.4,-9.6,58.9,310,8.3,34.2,8.3,34.2,-25.9,28.0,35.7,40.61,39.3,39.3,39.3,Varsity Program,Florissant,Hawks
+311,52,Osceola,MO,C1,MSHSAA C1,4-6,4,6,0,10,39.9,39.9,-10.1,46.6,311,34.2,50.5,34.2,50.5,-16.3,64.3,25.0,56.31,14.0,26.0,4.0,Varsity Program,Osceola,Indians
+312,47,Carrollton,MO,C2,MSHSAA C2,6-6,6,6,0,12,39.8,39.8,-10.2,40.6,312,25.8,26.0,25.8,26.0,-0.2,52.5,47.2,64.21,17.5,32.5,5.0,Varsity Program,Carrollton,Trojans
+313,56,Parkway South,MO,C5,MSHSAA C5,2-8,2,8,0,10,39.7,39.7,-10.3,54.9,313,10.3,34.4,10.3,34.4,-24.1,30.8,35.4,39.22,39.27,39.27,39.27,Varsity Program,Manchester,Patriots
+314,53,Scotland County,MO,C1,MSHSAA Conference,5-5,5,5,0,10,39.6,39.6,-10.4,45.4,314,24.4,34.3,24.4,34.3,-9.9,50.6,35.6,65.89,45.85,45.85,45.85,Varsity Program,Memphis,Tigers
+315,54,Midway,MO,C1,MSHSAA C1,3-6,3,6,0,9,39.6,39.6,-10.4,47.2,315,21.3,26.0,21.3,26.0,-4.7,46.2,47.2,49.85,41.11,41.11,41.11,Varsity Program,Cleveland,Vikings
+316,55,Polo,MO,C1,MSHSAA C1,5-6,5,6,0,11,39.3,39.3,-10.7,44.8,316,22.7,30.3,22.7,30.3,-7.6,48.2,41.2,61.13,15.91,29.55,4.55,Varsity Program,Polo,Panthers
+317,58,Benton,MO,C4,MSHSAA C4,2-7,2,7,0,9,39.3,39.3,-10.7,53.4,317,14.1,33.1,14.1,33.1,-19.0,36.1,37.3,40.91,7.78,14.44,2.22,Varsity Program,St Joseph,Cardinals
+318,56,Fredericktown,MO,C3,MSHSAA C3,2-8,2,8,0,10,39.3,39.3,-10.7,52.9,318,15.7,37.6,15.7,37.6,-21.9,38.4,31.0,38.52,50.8,50.8,50.8,Varsity Program,Fredericktown,Black Cats
+319,48,Lathrop,MO,C2,MSHSAA C2,4-6,4,6,0,10,39.2,39.2,-10.8,47.3,319,18.6,28.0,18.6,28.0,-9.4,42.4,44.4,56.55,32.37,32.37,32.37,Varsity Program,Lathrop,Mules
+320,49,Kelly,MO,C2,MSHSAA C2,4-6,4,6,0,10,39.1,39.1,-10.9,45.6,320,14.2,24.4,14.2,24.4,-10.2,36.3,49.4,55.96,35.81,35.81,35.81,Varsity Program,Benton,Hawks
+321,56,Marceline,MO,C1,MSHSAA Conference,4-4,4,4,0,8,38.9,38.9,-11.1,50.8,321,23.1,26.0,23.1,26.0,-2.9,48.7,47.2,67.78,42.89,42.89,42.89,Varsity Program,Marceline,Tigers
+322,57,Battle,MO,C5,MSHSAA C5,0-10,0,10,0,10,38.8,38.8,-11.2,64.2,322,11.2,50.3,11.2,50.3,-39.1,32.1,25.0,22.47,30.74,30.74,30.74,Varsity Program,Columbia,Spartans
+323,57,Strafford,MO,C3,MSHSAA C3,2-8,2,8,0,10,38.7,38.7,-11.3,52.3,323,12.8,35.2,12.8,35.2,-22.4,34.3,34.3,38.3,51.48,51.48,51.48,Varsity Program,Strafford,Indians
+324,50,Skyline,MO,C2,MSHSAA C1,3-8,3,8,0,11,38.5,38.5,-11.5,47.1,324,28.1,32.2,28.1,32.2,-4.1,55.7,38.5,43.76,55.02,55.02,55.02,Varsity Program,Urbana,Tigers
+325,58,Principia/Whitfield,MO,C3,MSHSAA C3,4-5,4,5,0,9,38.4,38.4,-11.6,41.4,325,39.8,39.3,39.8,39.3,0.5,72.1,28.6,58.93,15.56,28.89,4.44,Varsity Program,St Louis,Whitfield
+326,57,Northland Christian,MO,C1,MSHSAA C1,3-6,3,6,0,9,38.4,38.4,-11.6,45.7,326,22.0,37.4,22.0,37.4,-15.4,47.2,31.2,49.33,11.67,21.67,3.33,Varsity Program,Kansas City,Christian
+327,59,Eldon,MO,C3,MSHSAA C3,3-7,3,7,0,10,38.3,38.3,-11.7,48.0,327,23.6,35.4,23.6,35.4,-11.8,49.4,34.0,46.8,53.59,53.59,53.59,Varsity Program,Eldon,Mustangs
+328,60,Lafayette (St Joseph),MO,C3,MSHSAA Conference,1-9,1,9,0,10,38.3,38.3,-11.7,52.1,328,11.6,29.0,11.6,29.0,-17.4,32.6,43.0,28.23,40.15,40.15,40.15,Varsity Program,St Joseph,Fighting Irish
+329,58,Parkway Central,MO,C5,MSHSAA C5,1-9,1,9,0,10,38.3,38.3,-11.7,60.5,329,5.6,42.5,5.6,42.5,-36.9,25.0,25.0,31.17,39.79,39.79,39.79,Varsity Program,Chesterfield,Colts
+330,61,Buffalo,MO,C3,MSHSAA C3,2-8,2,8,0,10,38.0,38.0,-12.0,49.0,330,18.7,31.8,18.7,31.8,-13.1,42.6,39.1,37.15,7.0,13.0,2.0,Varsity Program,Buffalo,Bison
+331,51,Clark County,MO,C2,MSHSAA C2,3-7,3,7,0,10,37.9,37.9,-12.1,49.4,331,20.6,40.6,20.6,40.6,-20.0,45.2,26.8,47.29,30.74,30.74,30.74,Varsity Program,Kahoka,Indians
+332,58,Charleston,MO,C1,MSHSAA Conference,5-5,5,5,0,10,37.8,37.8,-12.2,38.8,332,27.0,27.0,27.0,27.0,0.0,54.2,45.8,63.58,42.52,42.52,42.52,Varsity Program,Charleston,Bluejays
+333,59,Ruskin,MO,C5,MSHSAA C5,1-8,1,8,0,9,37.8,37.8,-12.2,59.5,333,9.3,42.0,9.3,42.0,-32.7,29.4,25.0,31.94,3.89,7.22,1.11,Varsity Program,Kansas City,Golden Eagles
+334,52,El Dorado Springs,MO,C2,MSHSAA C2,4-6,4,6,0,10,37.3,37.3,-12.7,41.8,334,22.9,23.3,22.9,23.3,-0.4,48.5,51.0,54.63,33.11,33.11,33.11,Varsity Program,El Dorado Springs,Bulldogs
+335,59,Saxony Lutheran,MO,C1,MSHSAA C1,4-5,4,5,0,9,37.3,37.3,-12.7,37.9,335,35.6,33.3,35.6,33.3,2.3,66.2,37.0,57.71,15.56,28.89,4.44,Varsity Program,Jackson,Crusaders
+336,60,Orrick,MO,C1,MSHSAA C1,3-8,3,8,0,11,37.1,37.1,-12.9,44.8,336,24.9,39.5,24.9,39.5,-14.6,51.3,28.3,42.95,9.55,17.73,2.73,Varsity Program,Orrick,Bearcats
+337,61,South Holt,MO,C1,MSHSAA C1,3-7,3,7,0,10,37.1,37.1,-12.9,45.2,337,28.5,44.6,28.5,44.6,-16.1,56.3,25.0,45.82,10.5,19.5,3.0,Varsity Program,Oregon,Knights
+338,62,Fayette,MO,C1,MSHSAA Conference,4-7,4,7,0,11,37.0,37.0,-13.0,43.7,338,18.5,33.8,18.5,33.8,-15.3,42.3,36.3,51.66,43.56,43.56,43.56,Varsity Program,Fayette,Falcons
+339,63,South Shelby,MO,C1,MSHSAA Conference,2-9,2,9,0,11,37.0,37.0,-13.0,50.1,339,11.0,32.4,11.0,32.4,-21.4,31.8,38.2,35.72,48.3,48.3,48.3,Varsity Program,Shelbina,Cardinals
+340,62,Center,MO,C3,MSHSAA C3,2-8,2,8,0,10,36.8,36.8,-13.2,52.5,340,13.3,42.0,13.3,42.0,-28.7,35.0,25.0,38.38,7.0,13.0,2.0,Varsity Program,Kansas City,Yellowjackets
+341,60,Hillcrest,MO,C5,MSHSAA C5,0-10,0,10,0,10,36.5,36.5,-13.5,57.2,341,7.4,39.1,7.4,39.1,-31.7,26.8,28.9,20.02,0.0,0.0,0.0,Varsity Program,Springfield,Hornets
+342,64,Louisiana,MO,C1,MSHSAA C1,3-8,3,8,0,11,36.2,36.2,-13.8,44.2,342,25.8,36.8,25.8,36.8,-11.0,52.5,32.1,42.74,9.55,17.73,2.73,Varsity Program,Louisiana,Bulldogs
+343,65,Sherwood,MO,C1,MSHSAA C1,3-8,3,8,0,11,36.0,36.0,-14.0,44.1,343,20.6,27.7,20.6,27.7,-7.1,45.2,44.8,42.71,32.67,32.67,32.67,Varsity Program,Creighton,Marksmen
+344,63,University Academy Charter/Kauffman,MO,C3,MSHSAA C3,3-3,3,3,0,6,36.0,36.0,-14.0,50.2,344,19.7,17.5,19.7,17.5,2.2,44.0,59.1,67.57,17.5,32.5,5.0,Varsity Program,Kansas City,Gryphons
+345,64,Hermann,MO,C3,MSHSAA C2,2-9,2,9,0,11,35.9,35.9,-14.1,49.4,345,14.6,32.8,14.6,32.8,-18.2,36.8,37.7,35.47,50.0,50.0,50.0,Varsity Program,Hermann,Bearcats
+346,65,California,MO,C3,MSHSAA C3,1-9,1,9,0,10,35.7,35.7,-14.3,55.6,346,9.3,38.5,9.3,38.5,-29.2,29.4,29.7,29.46,3.5,6.5,1.0,Varsity Program,California,Pintos And Lady Pintos
+347,66,Reeds Spring,MO,C3,MSHSAA Conference,0-10,0,10,0,10,35.6,35.6,-14.4,52.3,347,17.3,36.9,17.3,36.9,-19.6,40.6,31.9,18.3,41.37,41.37,41.37,Varsity Program,Reeds Spring,Wolves
+348,67,Winfield,MO,C3,MSHSAA C3,3-7,3,7,0,10,35.5,35.5,-14.5,46.8,348,15.0,25.3,15.0,25.3,-10.3,37.4,48.2,46.38,32.91,32.91,32.91,Varsity Program,Winfield,Warriors
+349,53,Carrollton MO,MO,C2,MSHSAA Conference,2-7,2,7,0,9,35.5,35.5,-14.5,44.1,349,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,38.26,38.26,38.26,Varsity Program,St. Louis,Varsity
+350,66,Glasgow Mo,MO,C1,MSHSAA Conference,2-7,2,7,0,9,35.5,35.5,-14.5,44.1,350,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,36.07,36.07,36.07,Varsity Program,St. Louis,Varsity
+351,67,Harrisburg MO,MO,C1,MSHSAA Conference,2-7,2,7,0,9,35.5,35.5,-14.5,44.1,351,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,35.33,35.33,35.33,Varsity Program,St. Louis,Varsity
+352,54,New Bloomfield,MO,C2,MSHSAA Conference,2-7,2,7,0,9,35.5,35.5,-14.5,44.1,352,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,36.48,36.48,36.48,Varsity Program,St. Louis,Varsity
+353,61,Mehlville,MO,C5,MSHSAA C5,1-9,1,9,0,10,35.3,35.3,-14.7,53.5,353,6.2,36.3,6.2,36.3,-30.1,25.1,32.8,28.72,50.39,50.39,50.39,Varsity Program,St Louis,Panthers
+354,68,Braymer,MO,C1,MSHSAA C1,3-7,3,7,0,10,34.9,34.9,-15.1,45.2,354,32.6,53.7,32.6,53.7,-21.1,62.0,25.0,45.82,10.5,19.5,3.0,Varsity Program,Braymer,Bobcats
+355,47,Hazelwood West,MO,C6,MSHSAA C6,1-10,1,10,0,11,34.7,34.7,-15.3,52.4,355,7.7,37.8,7.7,37.8,-30.1,27.2,30.7,27.43,33.11,33.11,33.11,Varsity Program,Hazelwood,Wildcats
+356,62,Grandview (Grandview),MO,C5,MSHSAA C5,0-10,0,10,0,10,34.5,34.5,-15.5,59.8,356,4.6,45.5,4.6,45.5,-40.9,25.0,25.0,20.93,0.0,0.0,0.0,Varsity Program,Grandview,Bulldogs
+357,63,Waynesville,MO,C5,MSHSAA C6,0-10,0,10,0,10,34.5,34.5,-15.5,62.5,357,9.2,54.7,9.2,54.7,-45.5,29.3,25.0,21.88,55.33,55.33,55.33,Varsity Program,Waynesville,Tigers
+358,68,Fulton,MO,C3,MSHSAA C3,2-8,2,8,0,10,34.4,34.4,-15.6,46.4,358,20.5,37.0,20.5,37.0,-16.5,45.1,31.8,36.24,7.0,13.0,2.0,Varsity Program,Fulton,Hornets
+359,64,Cape Girardeau Central,MO,C5,MSHSAA Conference,2-8,2,8,0,10,34.3,34.3,-15.7,43.8,359,15.6,31.8,15.6,31.8,-16.2,38.2,39.1,35.33,37.52,37.52,37.52,Varsity Program,Cape Girardeau,Varsity
+360,59,Lutheran South,MO,C4,MSHSAA C3,3-7,3,7,0,10,34.2,34.2,-15.8,44.0,360,24.1,38.5,24.1,38.5,-14.4,50.1,29.7,45.4,53.94,53.94,53.94,Varsity Program,St Louis,Lancers
+361,65,Miller Career Academy/Sumner,MO,C5,MSHSAA C5,3-7,3,7,0,10,33.8,33.8,-16.2,50.2,361,16.5,36.4,16.5,36.4,-19.9,39.5,32.6,47.57,10.5,19.5,3.0,Varsity Program,St Louis,Phoenix
+362,55,Crystal City,MO,C2,MSHSAA C1,3-7,3,7,0,10,33.7,33.7,-16.3,44.3,362,20.3,34.4,20.3,34.4,-14.1,44.8,35.4,45.5,47.5,47.5,47.5,Varsity Program,Crystal City,Hornets
+363,56,Hogan Prep Charter,MO,C2,MSHSAA C2,3-7,3,7,0,10,33.7,33.7,-16.3,43.9,363,18.0,32.2,18.0,32.2,-14.2,41.6,38.5,45.36,10.5,19.5,3.0,Varsity Program,Kansas City,Rams
+364,60,Lutheran,MO,C4,MSHSAA C4,1-9,1,9,0,10,33.7,33.7,-16.3,55.0,364,9.1,39.8,9.1,39.8,-30.7,29.1,27.9,29.25,3.5,6.5,1.0,Varsity Program,St Peters,Cougars
+365,69,Greenfield,MO,C1,MSHSAA C1,3-8,3,8,0,11,33.1,33.1,-16.9,44.8,365,41.1,64.5,41.1,64.5,-23.4,73.9,25.0,42.95,9.55,17.73,2.73,Varsity Program,Greenfield,Wildcats
+366,70,Gallatin/Tri-County,MO,C1,MSHSAA C1,4-3,4,3,0,7,32.9,32.9,-17.1,38.5,366,32.9,21.7,32.9,21.7,11.2,62.5,53.2,70.62,20.0,37.14,5.71,Varsity Program,Gallatin,County
+367,61,St. Charles,MO,C4,MSHSAA C4,1-9,1,9,0,10,32.9,32.9,-17.1,48.9,367,9.4,37.0,9.4,37.0,-27.6,29.6,31.8,27.11,48.48,48.48,48.48,Varsity Program,St Charles,Pirates
+368,62,Affton,MO,C4,MSHSAA C4,3-7,3,7,0,10,32.3,32.3,-17.7,42.8,368,14.4,41.2,14.4,41.2,-26.8,36.6,25.9,44.98,51.19,51.19,51.19,Varsity Program,St Louis,Cougars
+369,57,Cuba,MO,C2,MSHSAA C2,2-8,2,8,0,10,32.3,32.3,-17.7,45.7,369,17.1,44.6,17.1,44.6,-27.5,40.3,25.0,35.99,50.3,50.3,50.3,Varsity Program,Cuba,Wildcats
+370,63,Clayton/Brentwood,MO,C4,MSHSAA C4,3-7,3,7,0,10,32.0,32.0,-18.0,43.4,370,13.5,40.9,13.5,40.9,-27.4,35.3,26.3,45.19,10.5,19.5,3.0,Varsity Program,St Louis,Brentwood
+371,58,Trenton,MO,C2,MSHSAA C2,3-7,3,7,0,10,31.9,31.9,-18.1,41.8,371,19.4,31.6,19.4,31.6,-12.2,43.6,39.4,44.63,30.3,30.3,30.3,Varsity Program,Trenton,Bulldogs
+372,59,Lexington,MO,C2,MSHSAA C2,2-9,2,9,0,11,31.9,31.9,-18.1,47.6,372,12.5,40.3,12.5,40.3,-27.8,33.9,27.2,34.84,6.36,11.82,1.82,Varsity Program,Lexington,Minutemen
+373,66,Riverview Gardens,MO,C5,MSHSAA C4,1-9,1,9,0,10,31.9,31.9,-18.1,48.9,373,6.4,30.2,6.4,30.2,-23.8,25.4,41.3,27.11,36.04,36.04,36.04,Varsity Program,St Louis,Rams
+374,71,Santa Fe,MO,C1,MSHSAA C1,3-7,3,7,0,10,31.8,31.8,-18.2,45.2,374,22.2,52.9,22.2,52.9,-30.7,47.5,25.0,45.82,51.63,51.63,51.63,Varsity Program,Alma,Chiefs
+375,60,Diamond,MO,C2,MSHSAA C1,1-9,1,9,0,10,30.7,30.7,-19.3,47.7,375,11.7,42.5,11.7,42.5,-30.8,32.8,25.0,26.7,53.39,53.39,53.39,Varsity Program,Diamond,Wildcats
+376,72,Westran,MO,C1,MSHSAA Conference,2-8,2,8,0,10,30.4,30.4,-19.6,40.7,376,19.4,31.8,19.4,31.8,-12.4,43.6,39.1,34.24,51.41,51.41,51.41,Varsity Program,Huntsville,Hornets
+377,73,Highland,MO,C1,MSHSAA C1,1-10,1,10,0,11,30.1,30.1,-19.9,48.5,377,15.5,48.3,15.5,48.3,-32.8,38.1,25.0,26.07,3.18,5.91,0.91,Varsity Program,Ewing,Cougars
+378,69,Arcadia Valley,MO,C3,MSHSAA Conference,1-8,1,8,0,9,29.7,29.7,-20.3,42.6,378,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,36.7,36.7,36.7,Varsity Program,St. Louis,Varsity
+379,64,Center KC,MO,C4,MSHSAA Conference,1-8,1,8,0,9,29.7,29.7,-20.3,42.6,379,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,35.57,35.57,35.57,Varsity Program,St. Louis,Varsity
+380,61,East Prairie,MO,C2,MSHSAA C2,1-9,1,9,0,10,29.7,29.7,-20.3,48.3,380,13.7,46.2,13.7,46.2,-32.5,35.6,25.0,26.9,45.11,45.11,45.11,Varsity Program,East Prairie,Eagles
+381,48,Eureka MO,MO,C6,MSHSAA Conference,1-8,1,8,0,9,29.7,29.7,-20.3,42.6,381,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,31.69,31.69,31.69,Varsity Program,Eureka,Varsity
+382,62,Louisiana MO,MO,C2,MSHSAA Conference,1-8,1,8,0,9,29.7,29.7,-20.3,42.6,382,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,34.72,34.72,34.72,Varsity Program,St. Louis,Varsity
+383,65,Marshall Mo,MO,C4,MSHSAA Conference,1-8,1,8,0,9,29.7,29.7,-20.3,42.6,383,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,35.87,35.87,35.87,Varsity Program,St. Louis,Varsity
+384,66,Pleasant Hill MO,MO,C4,MSHSAA Conference,1-8,1,8,0,9,29.7,29.7,-20.3,42.6,384,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,35.13,35.13,35.13,Varsity Program,St. Louis,Varsity
+385,74,Polo MO,MO,C1,MSHSAA Conference,1-8,1,8,0,9,29.7,29.7,-20.3,42.6,385,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,32.74,32.74,32.74,Varsity Program,St. Louis,Varsity
+386,67,Union MO,MO,C5,MSHSAA Conference,1-8,1,8,0,9,29.7,29.7,-20.3,42.6,386,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,36.37,36.37,36.37,Varsity Program,Union,Varsity
+387,68,Washington MO,MO,C5,MSHSAA Conference,1-8,1,8,0,9,29.7,29.7,-20.3,42.6,387,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,35.63,35.63,35.63,Varsity Program,Washington,Varsity
+388,63,Cabool,MO,C2,MSHSAA C1,1-9,1,9,0,10,29.5,29.5,-20.5,51.9,388,6.1,50.4,6.1,50.4,-44.3,25.0,25.0,28.16,53.09,53.09,53.09,Varsity Program,Cabool,Bulldogs
+389,70,Owensville,MO,C3,MSHSAA C3,0-10,0,10,0,10,29.3,29.3,-20.7,51.3,389,8.1,43.2,8.1,43.2,-35.1,27.7,25.0,17.95,50.89,50.89,50.89,Varsity Program,Owensville,Dutchmen
+390,75,Schuyler County,MO,C1,MSHSAA C1,2-8,2,8,0,10,29.0,29.0,-21.0,43.8,390,22.6,58.0,22.6,58.0,-35.4,48.0,25.0,35.33,32.44,32.44,32.44,Varsity Program,Lancaster,Rams
+391,76,Stewartsville,MO,C1,MSHSAA C1,2-9,2,9,0,11,28.7,28.7,-21.3,43.5,391,25.1,52.7,25.1,52.7,-27.6,51.5,25.0,33.41,6.36,11.82,1.82,Varsity Program,Stewartsville,Cardinals
+392,64,Mark Twain,MO,C2,MSHSAA C2,1-9,1,9,0,10,28.3,28.3,-21.7,48.0,392,8.8,41.6,8.8,41.6,-32.8,28.7,25.4,26.8,30.15,30.15,30.15,Varsity Program,Center,Tigers
+393,67,Northeast,MO,C4,MSHSAA C4,3-7,3,7,0,10,28.2,28.2,-21.8,38.5,393,16.6,36.9,16.6,36.9,-20.3,39.6,31.9,43.48,10.5,19.5,3.0,Varsity Program,Kansas City,Vikings
+394,71,Central (Kansas City),MO,C3,MSHSAA C3,3-7,3,7,0,10,28.1,28.1,-21.9,39.1,394,14.9,33.9,14.9,33.9,-19.0,37.3,36.1,43.69,10.5,19.5,3.0,Varsity Program,Kansas City,Eagles
+395,72,Doniphan,MO,C3,MSHSAA C3,4-6,4,6,0,10,27.9,27.9,-22.1,32.5,395,23.4,29.1,23.4,29.1,-5.7,49.2,42.9,51.38,14.0,26.0,4.0,Varsity Program,Doniphan,Dons And Donettes
+396,65,Priory,MO,C2,MSHSAA C2,3-8,3,8,0,11,27.8,27.8,-22.2,37.1,396,18.5,36.1,18.5,36.1,-17.6,42.3,33.1,40.26,9.55,17.73,2.73,Varsity Program,St Louis,Ravens
+397,68,Southeast,MO,C4,MSHSAA C4,0-10,0,10,0,10,27.5,27.5,-22.5,43.9,397,4.2,36.3,4.2,36.3,-32.1,25.0,32.8,15.36,0.0,0.0,0.0,Varsity Program,Kansas City,Knights
+398,49,Howell North,MO,C6,MSHSAA C6,0-10,0,10,0,10,26.7,26.7,-23.3,52.3,398,2.6,47.5,2.6,47.5,-44.9,25.0,25.0,18.3,0.0,0.0,0.0,Varsity Program,St Charles,Knights
+399,66,Versailles,MO,C2,MSHSAA C2,0-10,0,10,0,10,26.7,26.7,-23.3,50.2,399,5.2,55.0,5.2,55.0,-49.8,25.0,25.0,17.57,0.0,0.0,0.0,Varsity Program,Versailles,Tigers
+400,77,New Heights Christian Academy,MO,C1,MSHSAA C1,1-9,1,9,0,10,26.2,26.2,-23.8,42.4,400,27.2,68.6,27.2,68.6,-41.4,54.5,25.0,24.84,3.5,6.5,1.0,Varsity Program,Joplin,Cougars
+401,78,Slater,MO,C1,MSHSAA C1,1-9,1,9,0,10,26.2,26.2,-23.8,42.4,401,30.0,58.2,30.0,58.2,-28.2,58.4,25.0,24.84,31.7,31.7,31.7,Varsity Program,Slater,Wildcats
+402,79,Stanberry,MO,C1,MSHSAA C1,1-9,1,9,0,10,26.2,26.2,-23.8,42.4,402,28.2,64.9,28.2,64.9,-36.7,55.9,25.0,24.84,3.5,6.5,1.0,Varsity Program,Stanberry,Bulldogs
+403,80,Linn,MO,C1,MSHSAA C1,1-9,1,9,0,10,25.9,25.9,-24.1,43.5,403,16.6,45.1,16.6,45.1,-28.5,39.6,25.0,25.23,3.5,6.5,1.0,Varsity Program,Linn,Wildcats
+404,67,Lone Jack/Kingsville,MO,C2,MSHSAA C2,1-8,1,8,0,9,25.9,25.9,-24.1,42.8,404,11.0,38.2,11.0,38.2,-27.2,31.8,30.1,26.09,3.89,7.22,1.11,Varsity Program,Lone Jack,Kingsville
+405,73,Normandy,MO,C3,MSHSAA C3,1-9,1,9,0,10,25.9,25.9,-24.1,45.3,405,6.0,39.9,6.0,39.9,-33.9,25.0,27.7,25.85,3.5,6.5,1.0,Varsity Program,St Louis,Vikings
+406,81,Crest Ridge/Chilhowee,MO,C1,MSHSAA C1,2-3,2,3,0,5,25.5,25.5,-24.5,39.6,406,29.4,32.8,29.4,32.8,-3.4,57.6,37.7,53.86,14.0,26.0,4.0,Varsity Program,Centerview,Chilhowee
+407,82,Maysville/Winston,MO,C1,MSHSAA C1,1-5,1,5,0,6,24.4,24.4,-25.6,40.8,407,13.8,31.7,13.8,31.7,-17.9,35.7,39.2,30.95,5.83,10.83,1.67,Varsity Program,Maysville,Winston
+408,83,Plattsburg,MO,C1,MSHSAA C1,0-10,0,10,0,10,24.4,24.4,-25.6,49.5,408,18.3,56.1,18.3,56.1,-37.8,42.0,25.0,17.32,30.74,30.74,30.74,Varsity Program,Plattsburg,Tigers
+409,69,Aurora MO,MO,C4,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,409,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,31.04,31.04,31.04,Varsity Program,St. Louis,Varsity
+410,74,Butler MO,MO,C3,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,410,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,32.81,32.81,32.81,Varsity Program,St. Louis,Varsity
+411,75,Camon,MO,C3,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,411,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,31.78,31.78,31.78,Varsity Program,St. Louis,Varsity
+412,69,Cape Central,MO,C5,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,412,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,32.81,32.81,32.81,Varsity Program,St. Louis,Varsity
+413,70,Catholic Springfield,MO,C4,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,413,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,30.59,30.59,30.59,Varsity Program,Springfield,Varsity
+414,76,Chaffee,MO,C3,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,414,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,32.67,32.67,32.67,Varsity Program,St. Louis,Varsity
+415,77,Charleston MO,MO,C3,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,415,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,32.81,32.81,32.81,Varsity Program,St. Louis,Varsity
+416,71,Chillicothe MO,MO,C4,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,416,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,31.78,31.78,31.78,Varsity Program,St. Louis,Varsity
+417,78,Clinton MO,MO,C3,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,417,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,32.37,32.37,32.37,Varsity Program,St. Louis,Varsity
+418,68,Crest Ridge,MO,C2,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,418,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,32.67,32.67,32.67,Varsity Program,St. Louis,Varsity
+419,79,East Buchanan MO,MO,C3,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,419,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,31.78,31.78,31.78,Varsity Program,St. Louis,Varsity
+420,72,East KC,MO,C4,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,420,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,32.67,32.67,32.67,Varsity Program,St. Louis,Varsity
+421,70,Farmington MO,MO,C5,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,421,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,33.11,33.11,33.11,Varsity Program,St. Louis,Varsity
+422,50,Francis Howell Central,MO,C6,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,422,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,32.52,32.52,32.52,Varsity Program,St. Louis,Varsity
+423,51,Francis Howell North,MO,C6,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,423,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,32.37,32.37,32.37,Varsity Program,St. Louis,Varsity
+424,73,Fulton MO,MO,C4,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,424,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,31.04,31.04,31.04,Varsity Program,St. Louis,Varsity
+425,69,Hamilton Penney,MO,C2,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,425,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,31.33,31.33,31.33,Varsity Program,St. Louis,Varsity
+426,70,Higginsville,MO,C2,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,426,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,32.81,32.81,32.81,Varsity Program,St. Louis,Varsity
+427,71,Highland MO,MO,C2,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,427,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,32.22,32.22,32.22,Varsity Program,St. Louis,Varsity
+428,71,Hillsboro MO,MO,C5,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,428,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,31.48,31.48,31.48,Varsity Program,Hillsboro,Varsity
+429,52,Jackson MO,MO,C6,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,429,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,31.19,31.19,31.19,Varsity Program,Jackson,Varsity
+430,80,Kingston,MO,C3,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,430,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,32.96,32.96,32.96,Varsity Program,St. Louis,Varsity
+431,81,Lexington MO,MO,C3,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,431,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,33.56,33.56,33.56,Varsity Program,St. Louis,Varsity
+432,72,Liberty Wentzville,MO,C5,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,432,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,33.26,33.26,33.26,Varsity Program,Wentzville,Varsity
+433,74,Lincoln Prep,MO,C4,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,433,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,33.11,33.11,33.11,Varsity Program,St. Louis,Varsity
+434,72,Maysville,MO,C2,MSHSAA C1,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,434,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,30.74,30.74,30.74,Varsity Program,Maysville,Varsity
+435,75,Nevada MO,MO,C4,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,435,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,30.0,30.0,30.0,Varsity Program,Nevada,Varsity
+436,76,Northeast KC,MO,C4,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,436,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,33.26,33.26,33.26,Varsity Program,St. Louis,Varsity
+437,84,Princeton MO,MO,C1,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,437,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,29.41,29.41,29.41,Varsity Program,St. Louis,Varsity
+438,82,Richmond Mo,MO,C3,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,438,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,33.41,33.41,33.41,Varsity Program,St. Louis,Varsity
+439,73,St Michael,MO,C2,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,439,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,31.78,31.78,31.78,Varsity Program,St. Louis,Varsity
+440,77,St. Joseph Benton,MO,C4,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,440,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,32.96,32.96,32.96,Varsity Program,St. Joseph,Varsity
+441,78,St. Joseph Central,MO,C4,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,441,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,32.96,32.96,32.96,Varsity Program,St. Joseph,Varsity
+442,79,St. Joseph Lafayette,MO,C4,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,442,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,32.52,32.52,32.52,Varsity Program,St. Joseph,Varsity
+443,74,University Academy,MO,C2,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,443,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,31.78,31.78,31.78,Varsity Program,St. Louis,Varsity
+444,75,Windsor MO,MO,C2,MSHSAA Conference,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,444,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,32.37,32.37,32.37,Varsity Program,St. Louis,Varsity
+445,85,DeKalb,MO,C1,MSHSAA C1,0-10,0,10,0,10,23.4,23.4,-26.6,41.0,445,22.0,63.6,22.0,63.6,-41.6,47.2,25.0,14.35,0.0,0.0,0.0,Varsity Program,Dekalb,Tigers
+446,86,Keytesville,MO,C1,MSHSAA C1,0-10,0,10,0,10,23.4,23.4,-26.6,41.0,446,9.4,46.9,9.4,46.9,-37.5,29.6,25.0,14.35,0.0,0.0,0.0,Varsity Program,Keytesville,Tigers
+447,87,Princeton,MO,C1,MSHSAA C1,0-10,0,10,0,10,23.4,23.4,-26.6,41.0,447,24.4,62.9,24.4,62.9,-38.5,50.6,25.0,14.35,0.0,0.0,0.0,Varsity Program,Princeton,Tigers
+448,88,Rich Hill,MO,C1,MSHSAA C1,0-10,0,10,0,10,23.4,23.4,-26.6,41.0,448,15.8,57.5,15.8,57.5,-41.7,38.5,25.0,14.35,0.0,0.0,0.0,Varsity Program,Rich Hill,Tigers
+449,80,Confluence Prep Academy/Grand Center Arts Academy,MO,C4,MSHSAA C4,0-9,0,9,0,9,22.1,22.1,-27.9,37.5,449,4.0,27.4,4.0,27.4,-23.4,25.0,45.2,13.12,0.0,0.0,0.0,Varsity Program,St Louis,Titans
+450,81,Bayless/Hancock,MO,C4,MSHSAA C4,0-4,0,4,0,4,20.6,20.6,-29.4,45.6,450,8.5,44.8,8.5,44.8,-36.3,28.3,25.0,15.96,0.0,0.0,0.0,Varsity Program,St Louis,Hancock
+451,76,KIPP Legacy,MO,C2,MSHSAA C2,1-9,1,9,0,10,20.1,20.1,-29.9,41.0,451,6.0,37.7,6.0,37.7,-31.7,25.0,30.8,24.35,3.5,6.5,1.0,Varsity Program,Kansas City,Legacy
+452,89,Milan,MO,C1,MSHSAA C1,0-9,0,9,0,9,18.8,18.8,-31.2,43.3,452,11.0,46.9,11.0,46.9,-35.9,31.8,25.0,15.15,30.74,30.74,30.74,Varsity Program,Milan,Wildcats
+453,90,Malden,MO,C1,MSHSAA C1,0-10,0,10,0,10,15.4,15.4,-34.6,43.7,453,6.0,49.8,6.0,49.8,-43.8,25.0,25.0,15.29,34.63,34.63,34.63,Varsity Program,Malden,Green Wave
+454,91,Veritas Christian Academy,MO,C1,MSHSAA C1,3-4,3,4,0,7,14.0,14.0,-36.0,25.0,454,26.4,26.0,26.4,26.0,0.4,53.4,47.2,51.61,15.0,27.86,4.29,Varsity Program,Ofallon,Eagles
+455,83,Duchesne,MO,C3,MSHSAA C2,1-9,1,9,0,10,14.0,14.0,-36.0,35.2,455,9.4,45.7,9.4,45.7,-36.3,29.6,25.0,22.32,45.04,45.04,45.04,Varsity Program,St Charles,Pioneers
+456,82,Missouri Military Academy,MO,C4,MSHSAA C4,1-4,1,4,0,5,14.0,14.0,-36.0,30.8,456,15.6,31.8,15.6,31.8,-16.2,38.2,39.1,30.78,7.0,13.0,2.0,Varsity Program,Mexico,Varsity
+457,84,Pleasant Hope/Halfway/Early,MO,C3,MSHSAA C3,0-6,0,6,0,6,14.0,14.0,-36.0,49.0,457,3.3,62.5,3.3,62.5,-59.2,25.0,25.0,17.15,0.0,0.0,0.0,Varsity Program,Pleasant Hope,Early
