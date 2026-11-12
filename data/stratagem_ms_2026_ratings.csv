@@ -1,383 +1,280 @@
-rank,division_rank,team,state,division,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_scored,ppg_allowed,ppg_off,ppg_def,net_margin,off_index,def_index,playoff_points,harbin_avg,ppa,pqs,contender_tier,city,mascot
-1,1,Oak Grove,MS,7A,MHSAA 7A,9-2,9,2,0,11,103.8,103.8,53.8,82.0,1,34.4,21.8,34.4,21.8,12.6,64.6,53.1,110.52,81.6,81.6,81.6,State Title Contender,Jackson,Warriors
-2,2,Tupelo,MS,7A,MHSAA 7A,10-1,10,1,0,11,103.2,103.2,53.2,82.7,2,32.7,14.5,32.7,14.5,18.2,62.2,63.3,119.85,89.7,89.7,89.7,State Title Contender,Tupelo,Golden Wave
-3,1,Grenada,MS,6A,MHSAA 6A,11-0,11,0,0,11,102.8,102.8,52.8,79.6,3,34.2,19.2,34.2,19.2,15.0,64.3,56.7,127.86,93.8,93.8,93.8,State Title Contender,Grenada,Chargers
-4,3,Brandon,MS,7A,MHSAA 7A,10-1,10,1,0,11,101.8,101.8,51.8,83.0,4,16.4,20.6,16.4,20.6,-4.2,39.4,54.8,119.96,97.8,97.8,97.8,State Title Contender,Brandon,Bulldogs
-5,1,Poplarville,MS,4A,MHSAA 4A,11-0,11,0,0,11,98.2,98.2,48.2,73.6,5,38.7,27.7,38.7,27.7,11.0,70.6,44.8,125.76,86.5,86.5,86.5,State Title Contender,Poplarville,Hornets
-6,1,West Point,MS,5A,MHSAA 5A,11-0,11,0,0,11,97.7,97.7,47.7,77.2,6,35.8,10.9,35.8,10.9,24.9,66.5,68.3,127.02,90.15,90.15,90.15,State Title Contender,West Point,Green Wave
-7,4,Gulfport,MS,7A,MHSAA 7A,12-2,12,2,0,14,86.3,86.3,36.29,74.4,7,36.7,15.5,36.7,15.5,21.2,67.8,61.9,111.75,65.05,65.05,65.05,State Title Contender,Gulfport,Admirals
-8,2,Jackson Academy,MS,4A,MHSAA 4A,11-1,11,1,0,12,86.1,86.1,36.07,66.3,8,41.5,11.2,41.5,11.2,30.3,74.5,67.9,114.87,63.8,63.8,63.8,State Title Contender,Jackson,Raiders
-9,3,Madison-Ridgeland Academy,MS,4A,MHSAA 4A,9-2,9,2,0,11,82.5,82.5,32.54,75.3,9,38.1,21.9,38.1,21.9,16.2,69.7,52.9,108.17,40.3,40.3,40.3,Regional Contender,Madison,Patriots
-10,5,Oxford,MS,7A,MHSAA 7A,11-2,11,2,0,13,80.5,80.5,30.46,73.6,10,33.8,20.0,33.8,20.0,13.8,63.7,55.6,110.38,49.2,49.2,49.2,Regional Contender,Oxford,Chargers
-11,6,Germantown,MS,7A,MHSAA 7A,8-4,8,4,0,12,79.2,79.2,29.16,74.7,11,42.3,24.8,42.3,24.8,17.5,75.6,48.9,92.81,33.0,33.0,33.0,Regional Contender,Madison,Mavericks
-12,7,Ocean Springs,MS,7A,MHSAA 7A,9-2,9,2,0,11,78.8,78.8,28.8,72.5,12,35.5,17.8,35.5,17.8,17.7,66.1,58.7,107.19,57.65,57.65,57.65,Regional Contender,Ocean Springs,Greyhounds
-13,2,Warren Central,MS,6A,MHSAA 6A,12-2,12,2,0,14,77.0,77.0,27.0,68.2,13,34.4,20.3,34.4,20.3,14.1,64.6,55.2,109.58,78.4,78.4,78.4,Regional Contender,Vicksburg,Vikings
-14,8,Petal,MS,7A,MHSAA 7A,8-5,8,5,0,13,76.2,76.2,26.21,77.3,14,25.2,21.5,25.2,21.5,3.7,51.7,53.5,88.59,85.05,85.05,85.05,Regional Contender,Petal,Panthers
-15,1,River Oaks,MS,1A,MHSAA 1A,11-0,11,0,0,11,75.2,75.2,25.25,55.0,15,44.5,19.5,44.5,19.5,25.0,78.7,56.3,119.25,64.67,64.67,64.67,Regional Contender,Monroe,Mustangs
-16,4,Columbia,MS,4A,MHSAA 4A,15-0,15,0,0,15,75.0,75.0,24.98,61.7,16,37.5,14.5,37.5,14.5,23.0,68.9,63.3,121.59,72.44,72.44,72.44,Regional Contender,Columbia,Wildcats
-17,9,Starkville,MS,7A,MHSAA 7A,6-5,6,5,0,11,75.0,75.0,24.98,76.3,17,31.9,27.0,31.9,27.0,4.9,61.1,45.8,81.25,73.15,73.15,73.15,Regional Contender,Starkville,Yellowjackets
-18,10,D'Iberville,MS,7A,MHSAA 7A,8-3,8,3,0,11,74.9,74.9,24.91,70.7,18,30.9,15.9,30.9,15.9,15.0,59.7,61.3,97.47,78.31,78.31,78.31,Regional Contender,Diberville,Warriors
-19,5,Parklane Academy,MS,4A,MHSAA 4A,11-1,11,1,0,12,74.7,74.7,24.7,60.1,19,36.2,8.8,36.2,8.8,27.4,67.1,71.3,112.7,25.9,25.9,25.9,Regional Contender,Mccomb,Pioneers
-20,1,Columbus Christian Academy,MS,2A,MHSAA 2A,9-1,9,1,0,10,73.8,73.8,23.8,53.6,20,58.6,30.0,58.6,30.0,28.6,98.4,41.6,108.76,41.28,41.28,41.28,Playoff Qualifier,Steens,Rams
-21,2,Brookhaven,MS,5A,MHSAA 5A,12-2,12,2,0,14,73.0,73.0,23.04,61.9,21,33.2,10.5,33.2,10.5,22.7,62.9,68.9,107.38,60.6,60.6,60.6,Playoff Qualifier,Brookhaven,Panthers
-22,11,Madison Central,MS,7A,MHSAA 7A,6-5,6,5,0,11,72.7,72.7,22.68,75.7,22,25.2,20.7,25.2,20.7,4.5,51.7,54.6,81.04,65.75,65.75,65.75,Playoff Qualifier,Madison,Jaguars
-23,6,Hartfield Academy,MS,4A,MHSAA 4A,6-6,6,6,0,12,72.2,72.2,22.18,74.5,23,30.9,29.1,30.9,29.1,1.8,59.7,42.9,76.08,64.28,64.28,64.28,Playoff Qualifier,Flowood,Hawks
-24,12,Northwest Rankin,MS,7A,MHSAA 7A,6-5,6,5,0,11,71.7,71.7,21.74,76.2,24,22.7,23.2,22.7,23.2,-0.5,48.2,51.1,81.22,21.0,21.0,21.0,Playoff Qualifier,Brandon,Cougars
-25,7,Kosciusko,MS,4A,MHSAA 4A,13-2,13,2,0,15,71.7,71.7,21.67,60.5,25,36.7,9.6,36.7,9.6,27.1,67.8,70.2,107.84,30.33,56.33,8.67,Playoff Qualifier,Kosciusko,Whippets
-26,1,Russell Christian Academy,MS,3A,MHSAA 3A,10-2,10,2,0,12,71.2,71.2,21.21,52.7,26,44.2,17.8,44.2,17.8,26.4,78.3,58.7,101.78,42.02,42.02,42.02,Playoff Qualifier,Meridian,Warriors
-27,13,Horn Lake,MS,7A,MHSAA 7A,8-4,8,4,0,12,71.2,71.2,21.17,69.6,27,28.5,20.9,28.5,20.9,7.6,56.3,54.3,91.03,67.34,67.34,67.34,Playoff Qualifier,Horn Lake,Eagles
-28,3,Beauregard,MS,6A,MHSAA 6A,9-1,9,1,0,10,70.9,70.9,20.92,53.6,28,35.2,13.6,35.2,13.6,21.6,65.7,64.6,108.76,86.72,86.72,86.72,Playoff Qualifier,Jackson,Varsity
-29,4,Big Creek,MS,6A,MHSAA 6A,9-1,9,1,0,10,70.9,70.9,20.92,53.6,29,35.2,13.6,35.2,13.6,21.6,65.7,64.6,108.76,84.35,84.35,84.35,Playoff Qualifier,Jackson,Varsity
-30,2,St. Joseph Greenville,MS,1A,MHSAA 1A,9-1,9,1,0,10,70.9,70.9,20.92,53.6,30,35.2,13.6,35.2,13.6,21.6,65.7,64.6,108.76,69.54,69.54,69.54,Playoff Qualifier,Jackson,Varsity
-31,3,University Christian,MS,1A,MHSAA 1A,9-1,9,1,0,10,70.9,70.9,20.92,53.6,31,35.2,13.6,35.2,13.6,21.6,65.7,64.6,108.76,86.49,86.49,86.49,Playoff Qualifier,MS,Varsity
-32,4,Weir,MS,1A,MHSAA 1A,9-1,9,1,0,10,70.9,70.9,20.92,53.6,32,35.2,13.6,35.2,13.6,21.6,65.7,64.6,108.76,68.49,68.49,68.49,Playoff Qualifier,Jackson,Varsity
-33,8,Louisville,MS,4A,MHSAA 4A,10-3,10,3,0,13,70.8,70.8,20.81,65.2,33,32.5,18.0,32.5,18.0,14.5,61.9,58.4,99.74,76.45,76.45,76.45,Playoff Qualifier,Louisville,Wildcats
-34,9,Jackson Prep,MS,4A,MHSAA 4A,7-5,7,5,0,12,70.4,70.4,20.38,71.8,34,31.9,20.0,31.9,20.0,11.9,61.1,55.6,83.46,36.41,36.41,36.41,Playoff Qualifier,Jackson,Patriots
-35,2,DeSoto,MS,2A,MHSAA 2A,11-2,11,2,0,13,70.4,70.4,20.36,52.8,35,38.3,14.6,38.3,14.6,23.7,70.0,63.2,103.1,70.93,70.93,70.93,Playoff Qualifier,West Helena,Thunderbirds
-36,14,Holmes Central,MS,7A,MHSAA 7A,8-1,8,1,0,9,70.3,70.3,20.34,53.4,36,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,88.98,88.98,88.98,Playoff Qualifier,Jackson,Varsity
-37,15,Clinton,MS,7A,MHSAA 7A,4-6,4,6,0,10,70.2,70.2,20.23,76.3,37,20.1,21.4,20.1,21.4,-1.3,44.5,53.6,66.7,41.1,41.1,41.1,Playoff Qualifier,Clinton,Arrows
-38,2,Raleigh,MS,3A,MHSAA 3A,14-1,14,1,0,15,69.8,69.8,19.8,59.4,38,34.0,12.3,34.0,12.3,21.7,64.0,66.4,114.12,72.05,72.05,72.05,Playoff Qualifier,Raleigh,Lions
-39,5,Humphreys Academy,MS,1A,MHSAA 1A,11-2,11,2,0,13,69.5,69.5,19.55,52.8,39,39.1,17.2,39.1,17.2,21.9,71.1,59.5,103.1,21.02,21.02,21.02,Playoff Qualifier,Belzoni,Rebels
-40,3,Wilkinson County Christian Academy,MS,2A,MHSAA 2A,9-1,9,1,0,10,69.5,69.5,19.53,53.6,40,32.5,14.0,32.5,14.0,18.5,61.9,64.0,108.76,62.92,62.92,62.92,Playoff Qualifier,Woodville,Rams
-41,4,Heidelberg,MS,2A,MHSAA 2A,12-3,12,3,0,15,69.1,69.1,19.08,60.7,41,46.4,10.3,46.4,10.3,36.1,81.4,69.2,101.25,77.45,77.45,77.45,Playoff Qualifier,Heidelberg,Oilers
-42,5,Ridgeland,MS,6A,MHSAA 6A,11-2,11,2,0,13,68.9,68.9,18.94,62.1,42,41.2,24.4,41.2,24.4,16.8,74.1,49.4,106.35,20.3,20.3,20.3,Playoff Qualifier,Ridgeland,Titans
-43,16,West Harrison,MS,7A,MHSAA 7A,6-4,6,4,0,10,68.9,68.9,18.86,70.0,43,28.9,24.8,28.9,24.8,4.1,56.9,48.9,84.5,65.49,65.49,65.49,Playoff Qualifier,Gulfport,Hurricanes
-44,5,Briarfield Academy,MS,2A,MHSAA 2A,8-3,8,3,0,11,68.7,68.7,18.74,51.2,44,44.0,16.5,44.0,16.5,27.5,78.0,60.5,90.65,26.17,26.17,26.17,Playoff Qualifier,Lake Providence,Rebels
-45,6,Hattiesburg,MS,6A,MHSAA 6A,12-3,12,3,0,15,68.4,68.4,18.36,62.3,45,34.0,21.0,34.0,21.0,13.0,64.0,54.2,101.8,78.75,78.75,78.75,Playoff Qualifier,Hattiesburg,Tigers
-46,6,East Webster,MS,2A,MHSAA 2A,14-1,14,1,0,15,67.9,67.9,17.86,54.1,46,38.9,10.7,38.9,10.7,28.2,70.9,68.6,112.27,36.3,36.3,36.3,Playoff Qualifier,Maben,Wolverines
-47,6,Prairie View Academy,MS,1A,MHSAA 1A,9-2,9,2,0,11,67.7,67.7,17.68,52.5,47,39.3,19.8,39.3,19.8,19.5,71.4,55.9,100.19,76.43,76.43,76.43,Playoff Qualifier,Bastrop,Spartans
-48,7,Picayune,MS,6A,MHSAA 6A,10-3,10,3,0,13,67.4,67.4,17.42,64.3,48,36.9,25.8,36.9,25.8,11.1,68.1,47.5,99.43,78.75,78.75,78.75,Playoff Qualifier,Picayune,Maroon Tide
-49,8,Lake Cormorant,MS,6A,MHSAA 6A,9-3,9,3,0,12,67.1,67.1,17.14,64.1,49,28.9,18.2,28.9,18.2,10.7,56.9,58.1,97.44,47.6,47.6,47.6,Playoff Qualifier,Lake Cormorant,Cormorant
-50,3,Holmes County Central,MS,5A,MHSAA 5A,10-4,10,4,0,14,67.0,67.0,16.99,61.5,50,36.7,21.4,36.7,21.4,15.3,67.8,53.6,92.95,75.2,75.2,75.2,Playoff Qualifier,Lexington,Jaguars
-51,7,Newton County Academy,MS,1A,MHSAA 1A,9-2,9,2,0,11,67.0,67.0,16.96,52.5,51,38.7,20.8,38.7,20.8,17.9,70.6,54.5,100.19,33.35,33.35,33.35,Playoff Qualifier,Decatur,Generals
-52,10,McComb,MS,4A,MHSAA 4A,10-2,10,2,0,12,66.8,66.8,16.85,58.8,52,38.4,21.2,38.4,21.2,17.2,70.2,53.9,103.91,59.2,59.2,59.2,Playoff Qualifier,Mccomb,Tigers
-53,3,Leake Academy,MS,3A,MHSAA 3A,10-2,10,2,0,12,66.4,66.4,16.42,55.4,53,37.9,19.8,37.9,19.8,18.1,69.5,55.9,102.72,66.25,66.25,66.25,Playoff Qualifier,Madden,Rebels
-54,17,DeSoto Central,MS,7A,MHSAA 7A,7-5,7,5,1,12,66.4,66.4,16.42,68.5,54,33.2,28.3,33.2,28.3,4.9,62.9,44.0,82.31,90.56,90.56,90.56,Playoff Qualifier,Southaven,Jaguars
-55,9,South Panola,MS,6A,MHSAA 6A,7-4,7,4,0,11,66.3,66.3,16.34,67.0,55,31.5,23.0,31.5,23.0,8.5,60.5,51.4,87.09,63.0,63.0,63.0,Playoff Qualifier,Batesville,Tigers
-56,11,Magnolia Heights,MS,4A,MHSAA 4A,9-2,9,2,0,11,66.1,66.1,16.13,58.0,56,40.4,18.9,40.4,18.9,21.5,73.0,57.1,102.12,66.79,66.79,66.79,Playoff Qualifier,Senatobia,Chiefs
-57,18,Pearl,MS,7A,MHSAA 7A,3-7,3,7,0,10,65.8,65.8,15.84,75.5,57,17.0,23.9,17.0,23.9,-6.9,40.2,50.1,56.42,72.96,72.96,72.96,Playoff Qualifier,Pearl,Pirates
-58,4,Noxubee County,MS,3A,MHSAA 3A,11-4,11,4,0,15,65.8,65.8,15.77,61.3,58,31.6,19.2,31.6,19.2,12.4,60.6,56.7,94.79,82.15,82.15,82.15,Playoff Qualifier,Macon,Tigers
-59,8,Calhoun City,MS,1A,MHSAA 1A,14-1,14,1,0,15,65.7,65.7,15.7,49.4,59,39.3,9.3,39.3,9.3,30.0,71.4,70.6,110.62,53.4,53.4,53.4,Playoff Qualifier,Calhoun City,Wildcats
-60,5,Bailey Magnet,MS,3A,MHSAA 3A,8-2,8,2,0,10,65.7,65.7,15.69,52.2,60,32.4,16.2,32.4,16.2,16.2,61.8,60.9,98.27,79.06,79.06,79.06,Playoff Qualifier,MS,Varsity
-61,10,East Side Ms,MS,6A,MHSAA 6A,8-2,8,2,0,10,65.7,65.7,15.69,52.2,61,32.4,16.2,32.4,16.2,16.2,61.8,60.9,98.27,79.22,79.22,79.22,Playoff Qualifier,Jackson,Varsity
-62,12,Enterprise Clarke,MS,4A,MHSAA 4A,8-2,8,2,0,10,65.7,65.7,15.69,52.2,62,32.4,16.2,32.4,16.2,16.2,61.8,60.9,98.27,71.34,71.34,71.34,Playoff Qualifier,Jackson,Varsity
-63,13,Heritage Academy,MS,4A,MHSAA 4A,10-3,10,3,0,13,65.6,65.6,15.62,62.2,63,30.6,22.8,30.6,22.8,7.8,59.2,51.7,98.69,45.34,45.34,45.34,Playoff Qualifier,Columbus,Patriots
-64,19,St. Martin,MS,7A,MHSAA 7A,7-4,7,4,0,11,65.6,65.6,15.62,67.0,64,27.6,21.5,27.6,21.5,6.1,55.0,53.5,87.09,67.91,67.91,67.91,Playoff Qualifier,Ocean Springs,Yellow Jackets
-65,9,Claiborne Academy,MS,1A,MHSAA 1A,9-3,9,3,0,12,65.5,65.5,15.46,51.5,65,43.5,24.7,43.5,24.7,18.8,77.3,49.0,93.03,56.39,56.39,56.39,Playoff Qualifier,Haynesville,Rebels
-66,6,Tri-County Academy,MS,3A,MHSAA 3A,10-2,10,2,0,12,65.3,65.3,15.34,54.2,66,41.8,11.2,41.8,11.2,30.6,74.9,67.9,102.3,47.6,47.6,47.6,Playoff Qualifier,Flora,Rebels
-67,10,Pine Belt,MS,1A,MHSAA 1A,9-3,9,3,0,12,65.0,65.0,15.01,51.5,67,36.5,18.7,36.5,18.7,17.8,67.5,57.4,93.03,26.17,26.17,26.17,Playoff Qualifier,Hattiesburg,Spartans
-68,14,Senatobia,MS,4A,MHSAA 4A,10-2,10,2,0,12,64.7,64.7,14.69,55.8,68,29.2,10.8,29.2,10.8,18.4,57.3,68.5,102.86,74.54,74.54,74.54,Playoff Qualifier,Senatobia,Warriors
-69,15,Corinth,MS,4A,MHSAA 4A,9-3,9,3,0,12,64.3,64.3,14.33,57.5,69,36.0,13.3,36.0,13.3,22.7,66.8,65.0,95.12,20.65,20.65,20.65,Playoff Qualifier,Corinth,Warriors
-70,20,Hernando,MS,7A,MHSAA 7A,7-4,7,4,0,11,64.0,64.0,13.97,63.7,70,28.5,22.5,28.5,22.5,6.0,56.3,52.1,85.93,21.0,21.0,21.0,Playoff Qualifier,Hernando,Tigers
-71,11,Pascagoula,MS,6A,MHSAA 6A,6-6,6,6,0,12,63.9,63.9,13.9,65.2,71,31.3,19.7,31.3,19.7,11.6,60.2,56.0,72.82,40.25,40.25,40.25,Playoff Qualifier,Pascagoula,Panthers
-72,4,New Hope,MS,5A,MHSAA 5A,7-4,7,4,0,11,63.8,63.8,13.75,63.5,72,37.5,26.0,37.5,26.0,11.5,68.9,47.2,85.86,77.62,77.62,77.62,Playoff Qualifier,Columbus,Trojans
-73,16,Clarksdale,MS,4A,MHSAA 4A,10-2,10,2,0,12,62.7,62.7,12.74,56.0,73,27.4,14.3,27.4,14.3,13.1,54.8,63.6,102.93,53.3,53.3,53.3,Playoff Qualifier,Clarksdale,Wildcats
-74,17,Pass Christian,MS,4A,MHSAA 4A,11-2,11,2,0,13,62.7,62.7,12.67,52.2,74,38.8,16.9,38.8,16.9,21.9,70.7,59.9,102.89,41.95,41.95,41.95,Playoff Qualifier,Pass Christian,Pirates
-75,5,Laurel,MS,5A,MHSAA 5A,6-7,6,7,0,13,62.5,62.5,12.46,67.1,75,16.6,19.8,16.6,19.8,-3.2,39.6,55.9,69.64,67.9,67.9,67.9,Playoff Qualifier,Laurel,Tornadoes
-76,7,Choctaw County,MS,3A,MHSAA 3A,7-5,7,5,0,12,62.1,62.1,12.1,61.4,76,33.8,19.6,33.8,19.6,14.2,63.7,56.2,79.82,75.3,75.3,75.3,Playoff Qualifier,Ackerman,Chargers
-77,18,Lamar,MS,4A,MHSAA 4A,9-4,9,4,0,13,61.8,61.8,11.81,59.2,77,29.2,21.5,29.2,21.5,7.7,57.3,53.5,89.95,48.89,48.89,48.89,Playoff Qualifier,Meridian,Raiders
-78,8,Union,MS,3A,MHSAA 3A,12-1,12,1,0,13,61.6,61.6,11.59,51.4,78,32.7,14.8,32.7,14.8,17.9,62.2,62.9,110.3,66.11,66.11,66.11,Playoff Qualifier,Union,Yellowjackets
-79,21,Biloxi,MS,7A,MHSAA 7A,3-8,3,8,0,11,61.6,61.6,11.59,74.3,79,17.6,28.4,17.6,28.4,-10.8,41.0,43.8,53.28,79.29,79.29,79.29,Playoff Qualifier,Biloxi,Indians
-80,19,Leake Central,MS,4A,MHSAA 1A,9-3,9,3,0,12,61.2,61.2,11.23,58.0,80,39.1,29.5,39.1,29.5,9.6,71.1,42.3,95.3,49.77,49.77,49.77,Playoff Qualifier,Carthage,Gators
-81,11,Simmons,MS,1A,MHSAA 1A,12-1,12,1,0,13,60.9,60.9,10.87,47.6,81,32.1,7.8,32.1,7.8,24.3,61.3,72.7,108.97,74.15,74.15,74.15,Playoff Qualifier,Hollandale,Blue Devils
-82,6,Pontotoc,MS,5A,MHSAA 5A,7-5,7,5,0,12,60.7,60.7,10.66,62.5,82,22.8,24.8,22.8,24.8,-2.0,48.3,48.9,80.21,24.45,24.45,24.45,Playoff Qualifier,Pontotoc,Warriors
-83,12,Bolton,MS,1A,MHSAA 1A,7-3,7,3,0,10,60.5,60.5,10.46,50.8,83,29.6,18.8,29.6,18.8,10.8,57.8,57.3,87.78,54.99,54.99,54.99,Playoff Qualifier,Jackson,Varsity
-84,12,Man)MAIS,MS,6A,MHSAA District,7-3,7,3,0,10,60.5,60.5,10.46,50.8,84,29.6,18.8,29.6,18.8,10.8,57.8,57.3,87.78,70.97,70.97,70.97,Playoff Qualifier,Jackson,Varsity
-85,20,Prentiss,MS,4A,MHSAA 4A,7-3,7,3,0,10,60.5,60.5,10.46,50.8,85,29.6,18.8,29.6,18.8,10.8,57.8,57.3,87.78,65.84,65.84,65.84,Playoff Qualifier,Jackson,Varsity
-86,21,Starkville Academy,MS,4A,MHSAA 4A,7-5,7,5,0,12,60.4,60.4,10.37,64.4,86,18.2,21.3,18.2,21.3,-3.1,41.9,53.8,80.87,47.37,47.37,47.37,Playoff Qualifier,Starkville,Volunteers
-87,7,Cleveland Central,MS,5A,MHSAA 5A,7-4,7,4,0,11,60.3,60.3,10.3,59.9,87,30.1,20.8,30.1,20.8,9.3,58.5,54.5,84.6,60.6,60.6,60.6,Playoff Qualifier,Cleveland,Wolves
-88,22,New Albany,MS,4A,MHSAA 4A,8-4,8,4,0,12,60.1,60.1,10.08,57.8,88,40.1,28.6,40.1,28.6,11.5,72.5,43.6,86.9,25.25,25.25,25.25,Playoff Qualifier,New Albany,Bulldogs
-89,22,Southaven,MS,7A,MHSAA 7A,3-7,3,7,0,10,60.0,60.0,10.01,68.2,89,20.4,24.9,20.4,24.9,-4.5,45.0,48.7,53.87,43.17,43.17,43.17,Playoff Qualifier,Southaven,Chargers
-90,13,Neshoba Central,MS,6A,MHSAA 6A,5-7,5,7,0,12,59.9,59.9,9.86,66.9,90,26.9,35.0,26.9,35.0,-8.1,54.1,34.6,65.08,35.7,35.7,35.7,Playoff Qualifier,Philadelphia,Rockets
-91,13,Deer Creek,MS,1A,MHSAA 1A,8-4,8,4,0,12,59.8,59.8,9.84,50.3,91,35.7,24.2,35.7,24.2,11.5,66.4,49.7,84.27,92.58,92.58,92.58,Playoff Qualifier,Arcola,Warriors
-92,23,Forest,MS,4A,MHSAA 4A,9-3,9,3,0,12,59.7,59.7,9.72,56.3,92,27.5,14.9,27.5,14.9,12.6,54.9,62.7,94.7,19.21,19.21,19.21,Playoff Qualifier,Forest,Bearcats
-93,8,Stone,MS,5A,MHSAA 5A,8-4,8,4,0,12,59.4,59.4,9.43,56.8,93,24.2,14.9,24.2,14.9,9.3,50.3,62.7,86.55,46.0,46.0,46.0,Playoff Qualifier,Wiggins,Tomcats
-94,24,Newton County,MS,4A,MHSAA 4A,7-5,7,5,0,12,59.3,59.3,9.29,58.9,94,28.2,18.0,28.2,18.0,10.2,55.9,58.4,78.95,72.1,72.1,72.1,Playoff Qualifier,Decatur,Cougars
-95,14,Callaway,MS,6A,MHSAA 6A,6-6,6,6,0,12,59.1,59.1,9.07,64.0,95,17.4,21.8,17.4,21.8,-4.4,40.8,53.1,72.4,32.2,32.2,32.2,Playoff Qualifier,Jackson,Chargers
-96,9,Lanier,MS,5A,MHSAA 5A,10-2,10,2,0,12,58.5,58.5,8.5,52.6,96,30.2,12.2,30.2,12.2,18.0,58.7,66.5,101.74,42.19,42.19,42.19,Playoff Qualifier,Jackson,Bulldogs
-97,25,Shannon,MS,4A,MHSAA 4A,7-4,7,4,0,11,58.4,58.4,8.42,57.8,97,32.9,18.8,32.9,18.8,14.1,62.5,57.3,83.87,42.44,42.44,42.44,Playoff Qualifier,Shannon,Red Raiders
-98,26,Copiah Academy,MS,4A,MHSAA 4A,8-3,8,3,0,11,58.4,58.4,8.35,54.8,98,27.4,12.8,27.4,12.8,14.6,54.8,65.7,91.91,40.95,40.95,40.95,Playoff Qualifier,Gallman,Colonels
-99,14,SAHE,MS,1A,MHSAA 1A,6-4,6,4,0,10,58.3,58.3,8.29,49.4,99,34.7,22.5,34.7,22.5,12.2,65.0,52.1,77.29,72.37,72.37,72.37,Playoff Qualifier,Brandon,Warriors
-100,7,Charleston,MS,2A,MHSAA 2A,8-4,8,4,0,12,58.2,58.2,8.21,51.8,100,37.0,22.0,37.0,22.0,15.0,68.2,52.8,84.8,65.6,65.6,65.6,Playoff Qualifier,Charleston,Tigers
-101,15,West Jones,MS,6A,MHSAA 6A,8-4,8,4,1,12,57.8,57.8,7.78,57.9,101,29.8,20.7,29.8,20.7,9.1,58.1,54.6,86.93,35.46,35.46,35.46,Varsity Program,Laurel,Mustangs
-102,8,Mize,MS,2A,MHSAA 2A,7-7,7,7,0,14,57.6,57.6,7.63,60.9,102,26.2,25.1,26.2,25.1,1.1,53.1,48.5,71.31,41.2,41.2,41.2,Varsity Program,Mize,Bulldogs
-103,27,Itawamba Agricultural,MS,4A,MHSAA 4A,8-3,8,3,0,11,57.6,57.6,7.56,56.5,103,31.5,23.9,31.5,23.9,7.6,60.5,50.1,92.5,57.67,57.67,57.67,Varsity Program,Fulton,Indians
-104,23,Meridian,MS,7A,MHSAA 7A,2-8,2,8,0,10,57.4,57.4,7.42,73.9,104,15.1,36.3,15.1,36.3,-21.2,37.5,32.8,45.87,89.49,89.49,89.49,Varsity Program,Meridian,Wildcats
-105,9,Winona,MS,3A,MHSAA 3A,9-5,9,5,0,14,57.3,57.3,7.27,57.0,105,29.6,24.9,29.6,24.9,4.7,57.8,48.7,84.24,55.8,55.8,55.8,Varsity Program,Winona,Tigers
-106,9,Kemper County,MS,2A,MHSAA 2A,7-7,7,7,0,14,57.2,57.2,7.2,59.2,106,32.5,30.0,32.5,30.0,2.5,61.9,41.6,70.72,47.3,47.3,47.3,Varsity Program,Dekalb,Wildcats
-107,10,Vicksburg,MS,5A,MHSAA 5A,5-6,5,6,0,11,57.2,57.2,7.2,62.7,107,25.5,25.8,25.5,25.8,-0.3,52.1,47.5,67.4,46.5,46.5,46.5,Varsity Program,Vicksburg,Gators
-108,10,Wesson,MS,2A,MHSAA 2A,10-1,10,1,0,11,57.1,57.1,7.13,45.8,108,39.6,14.9,39.6,14.9,24.7,71.8,62.7,106.94,56.7,56.7,56.7,Varsity Program,Wesson,Cobras
-109,10,Seminary,MS,3A,MHSAA 3A,8-6,8,6,1,14,57.1,57.1,7.13,57.4,109,23.7,17.1,23.7,17.1,6.6,49.6,59.7,77.23,87.07,87.07,87.07,Varsity Program,Seminary,Bulldogs
-110,11,North Side,MS,2A,MHSAA 2A,10-2,10,2,0,12,57.1,57.1,7.06,46.3,110,39.3,11.5,39.3,11.5,27.8,71.4,67.5,99.54,28.72,28.72,28.72,Varsity Program,Shelby,Gators
-111,15,Taylorsville,MS,1A,MHSAA 1A,9-5,9,5,0,14,56.8,56.8,6.84,52.4,111,28.0,14.8,28.0,14.8,13.2,55.6,62.9,82.63,45.65,45.65,45.65,Varsity Program,Taylorsville,Tartars
-112,11,Washington,MS,3A,MHSAA 3A,9-2,9,2,0,11,56.8,56.8,6.84,50.7,112,35.5,17.6,35.5,17.6,17.9,66.1,59.0,99.56,77.8,77.8,77.8,Varsity Program,Greenville,Generals
-113,12,Presbyterian Christian,MS,3A,MHSAA 3A,8-4,8,4,0,12,56.6,56.6,6.62,53.2,113,33.7,23.0,33.7,23.0,10.7,63.6,51.4,85.29,70.02,70.02,70.02,Varsity Program,Hattiesburg,Bobcats
-114,28,Morton,MS,4A,MHSAA 4A,6-5,6,5,0,11,56.5,56.5,6.55,59.4,114,28.5,23.2,28.5,23.2,5.3,56.3,51.1,75.34,31.34,31.34,31.34,Varsity Program,Morton,Panthers
-115,16,Pearl River Central,MS,6A,MHSAA 6A,7-4,7,4,0,11,56.3,56.3,6.34,57.1,115,26.4,26.5,26.4,26.5,-0.1,53.4,46.5,83.62,63.97,63.97,63.97,Varsity Program,Carriere,Blue Devils
-116,11,South Jones,MS,5A,MHSAA 5A,8-4,8,4,0,12,56.1,56.1,6.12,56.1,116,23.1,16.3,23.1,16.3,6.8,48.7,60.8,86.3,57.81,57.81,57.81,Varsity Program,Ellisville,Braves
-117,17,Center Hill,MS,6A,MHSAA 6A,5-6,5,6,1,11,56.0,56.0,6.05,63.0,117,18.9,23.9,18.9,23.9,-5.0,42.9,50.1,67.5,63.96,63.96,63.96,Varsity Program,Olive Branch,Mustangs
-118,16,Biggersville,MS,1A,MHSAA 1A,12-2,12,2,0,14,55.8,55.8,5.76,43.8,118,37.7,15.5,37.7,15.5,22.2,69.2,61.9,101.04,68.1,68.1,68.1,Varsity Program,Corinth,Lions
-119,12,Calhoun Academy,MS,2A,MHSAA 2A,7-6,7,6,0,13,55.8,55.8,5.76,48.5,119,37.0,26.6,37.0,26.6,10.4,68.2,46.4,70.82,25.47,25.47,25.47,Varsity Program,Calhoun City,Cougars
-120,13,West Marion,MS,3A,MHSAA 3A,8-4,8,4,0,12,55.6,55.6,5.62,53.4,120,32.2,23.2,32.2,23.2,9.0,61.5,51.1,85.36,42.8,42.8,42.8,Varsity Program,Foxworth,Trojans
-121,14,Columbia Academy,MS,3A,MHSAA 3A,8-3,8,3,0,11,55.5,55.5,5.54,49.1,121,35.0,16.0,35.0,16.0,19.0,65.4,61.2,89.91,70.02,70.02,70.02,Varsity Program,Columbia,Cougars
-122,29,Mendenhall,MS,4A,MHSAA 4A,5-5,5,5,0,10,55.5,55.5,5.54,58.1,122,26.8,18.2,26.8,18.2,8.6,53.9,58.1,70.34,44.84,44.84,44.84,Varsity Program,Mendenhall,Tigers
-123,30,West Lauderdale,MS,4A,MHSAA 4A,5-5,5,5,0,10,55.5,55.5,5.54,58.9,123,27.6,24.1,27.6,24.1,3.5,55.0,49.9,70.61,33.51,33.51,33.51,Varsity Program,Collinsville,Knights
-124,31,Brookhaven Academy,MS,4A,MHSAA 4A,8-5,8,5,0,13,55.4,55.4,5.4,56.3,124,25.0,25.8,25.0,25.8,-0.8,51.4,47.5,81.24,70.93,70.93,70.93,Varsity Program,Brookhaven,Cougars
-125,17,Bay St. Louis,MS,1A,MHSAA 1A,6-4,6,4,0,10,55.2,55.2,5.23,49.4,125,26.8,21.4,26.8,21.4,5.4,53.9,53.6,77.29,50.34,50.34,50.34,Varsity Program,Jackson,Varsity
-126,18,Calvin,MS,6A,MHSAA 6A,6-4,6,4,0,10,55.2,55.2,5.23,49.4,126,26.8,21.4,26.8,21.4,5.4,53.9,53.6,77.29,64.52,64.52,64.52,Varsity Program,Jackson,Varsity
-127,24,Coldwater,MS,7A,MHSAA 7A,6-4,6,4,0,10,55.2,55.2,5.23,49.4,127,26.8,21.4,26.8,21.4,5.4,53.9,53.6,77.29,65.09,65.09,65.09,Varsity Program,Jackson,Varsity
-128,12,Rosa Scott,MS,5A,MHSAA 5A,6-4,6,4,0,10,55.2,55.2,5.23,49.4,128,26.8,21.4,26.8,21.4,5.4,53.9,53.6,77.29,60.64,60.64,60.64,Varsity Program,Jackson,Varsity
-129,13,Washington School,MS,2A,MHSAA 2A,6-4,6,4,0,10,55.2,55.2,5.23,49.4,129,26.8,21.4,26.8,21.4,5.4,53.9,53.6,77.29,56.59,56.59,56.59,Varsity Program,Jackson,Varsity
-130,13,Sumrall,MS,5A,MHSAA 5A,7-5,7,5,0,12,55.1,55.1,5.11,58.5,130,22.2,18.7,22.2,18.7,3.5,47.5,57.4,78.81,60.64,60.64,60.64,Varsity Program,Sumrall,Bobcats
-131,15,Marshall Academy,MS,3A,MHSAA 3A,10-3,10,3,0,13,54.9,54.9,4.9,47.0,131,36.9,20.2,36.9,20.2,16.7,68.1,55.3,93.37,49.6,49.6,49.6,Varsity Program,Holly Springs,Patriots
-132,19,Terry,MS,6A,MHSAA 6A,8-3,8,3,0,11,54.9,54.9,4.9,52.7,132,28.6,15.3,28.6,15.3,13.3,56.4,62.2,91.17,26.78,26.78,26.78,Varsity Program,Terry,Bulldogs
-133,14,Lafayette,MS,5A,MHSAA 5A,6-6,6,6,0,12,54.8,54.8,4.82,61.5,133,26.2,28.6,26.2,28.6,-2.4,53.1,43.6,71.53,77.72,77.72,77.72,Varsity Program,Oxford,Commodores
-134,14,Tallulah Academy,MS,2A,MHSAA 2A,8-6,8,6,0,14,54.7,54.7,4.74,49.0,134,32.4,26.3,32.4,26.3,6.1,61.8,46.8,74.29,26.87,26.87,26.87,Varsity Program,Tallulah,Trojans
-135,15,Clarkdale,MS,2A,MHSAA 2A,9-4,9,4,0,13,54.6,54.6,4.61,52.7,135,22.5,21.7,22.5,21.7,0.8,47.9,53.2,87.68,80.04,80.04,80.04,Varsity Program,Meridian,Bulldogs
-136,16,Adams County Christian,MS,3A,MHSAA 3A,11-3,11,3,0,14,54.5,54.5,4.54,46.5,136,32.4,20.1,32.4,20.1,12.3,61.8,55.5,94.85,17.77,17.77,17.77,Varsity Program,Natchez,Rebels
-137,32,Greenwood,MS,4A,MHSAA 4A,6-5,6,5,0,11,54.5,54.5,4.54,57.8,137,22.7,18.0,22.7,18.0,4.7,48.2,58.4,74.78,72.46,72.46,72.46,Varsity Program,Greenwood,Bulldogs
-138,15,Wayne County,MS,5A,MHSAA 5A,4-8,4,8,0,12,54.5,54.5,4.54,62.0,138,23.8,29.7,23.8,29.7,-5.9,49.7,42.0,55.03,38.7,38.7,38.7,Varsity Program,Waynesboro,War Eagleslady War Eagles
-139,20,Hancock,MS,6A,MHSAA 6A,5-7,5,7,0,12,54.2,54.2,4.18,60.2,139,25.7,32.0,25.7,32.0,-6.3,52.4,38.8,62.74,40.25,40.25,40.25,Varsity Program,Kiln,Hawks
-140,21,Canton,MS,6A,MHSAA 6A,4-6,4,6,0,10,54.0,54.0,4.03,60.8,140,28.4,31.2,28.4,31.2,-2.8,56.2,39.9,61.28,27.95,27.95,27.95,Varsity Program,Canton,Tigers
-141,18,Benton Academy,MS,1A,MHSAA 1A,7-5,7,5,0,12,53.9,53.9,3.91,49.2,141,34.3,30.8,34.3,30.8,3.5,64.4,40.5,75.55,84.26,84.26,84.26,Varsity Program,Benton,Raiders
-142,16,Centreville Academy,MS,2A,MHSAA 2A,12-1,12,1,0,13,53.5,53.5,3.53,39.8,142,39.3,16.1,39.3,16.1,23.2,71.4,61.1,106.24,83.62,83.62,83.62,Varsity Program,Centreville,Tigers
-143,16,Northeast Jones,MS,5A,MHSAA 5A,5-6,5,6,0,11,53.5,53.5,3.53,58.3,143,16.5,17.7,16.5,17.7,-1.2,39.5,58.8,65.86,41.3,41.3,41.3,Varsity Program,Laurel,Tigers
-144,17,Baldwyn,MS,2A,MHSAA 2A,10-2,10,2,0,12,53.5,53.5,3.46,45.6,144,35.5,16.1,35.5,16.1,19.4,66.1,61.1,99.29,62.05,62.05,62.05,Varsity Program,Baldwyn,Bearcats
-145,33,North Pontotoc,MS,4A,MHSAA 4A,8-2,8,2,0,10,53.4,53.4,3.38,46.8,145,38.4,17.1,38.4,17.1,21.3,70.2,59.7,96.38,53.64,53.64,53.64,Varsity Program,Ecru,Vikings
-146,34,Rosa Fort,MS,4A,MHSAA 4A,6-4,6,4,0,10,53.2,53.2,3.17,51.0,146,39.0,24.6,39.0,24.6,14.4,71.0,49.2,77.85,65.26,65.26,65.26,Varsity Program,Tunica,Lions
-147,22,Northpoint Christian,MS,6A,MHSAA 6A,7-4,7,4,0,11,53.1,53.1,3.1,55.6,147,27.8,20.5,27.8,20.5,7.3,55.3,54.9,83.1,27.18,27.18,27.18,Varsity Program,Southaven,Varsity
-148,17,Iuka,MS,3A,MHSAA 3A,5-4,5,4,0,9,52.9,52.9,2.91,48.8,148,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,54.0,54.0,54.0,Varsity Program,Jackson,Varsity
-149,17,Florence,MS,5A,MHSAA 5A,5-6,5,6,0,11,52.7,52.7,2.74,60.0,149,20.2,27.2,20.2,27.2,-7.0,44.7,45.5,66.45,86.81,86.81,86.81,Varsity Program,Florence,Eagles
-150,19,Nanih Waiya,MS,1A,MHSAA 1A,9-3,9,3,0,12,52.7,52.7,2.66,46.8,150,34.8,20.1,34.8,20.1,14.7,65.1,55.5,91.38,20.65,20.65,20.65,Varsity Program,Louisville,Warriors
-151,18,Aberdeen,MS,3A,MHSAA 3A,7-6,7,6,0,13,52.5,52.5,2.52,56.1,151,30.5,31.7,30.5,31.7,-1.2,59.1,39.2,73.48,49.3,49.3,49.3,Varsity Program,Aberdeen,Bulldogs
-152,19,Magee,MS,3A,MHSAA 3A,7-4,7,4,0,11,52.5,52.5,2.45,52.6,152,28.3,23.8,28.3,23.8,4.5,56.0,50.3,82.05,62.3,62.3,62.3,Varsity Program,Magee,Trojans
-153,18,Bay Springs,MS,2A,MHSAA 2A,8-4,8,4,0,12,52.1,52.1,2.09,52.1,153,19.3,14.1,19.3,14.1,5.2,43.4,63.9,84.9,53.4,53.4,53.4,Varsity Program,Bay Springs,Bulldogs
-154,20,Jefferson Davis County,MS,3A,MHSAA 3A,3-7,3,7,0,10,51.8,51.8,1.8,60.4,154,26.7,28.7,26.7,28.7,-2.0,53.8,43.4,51.14,68.8,68.8,68.8,Varsity Program,Bassfield,Jaguars
-155,18,Purvis,MS,5A,MHSAA 5A,6-5,6,5,0,11,51.7,51.7,1.73,55.9,155,20.6,22.1,20.6,22.1,-1.5,45.2,52.7,74.11,78.59,78.59,78.59,Varsity Program,Purvis,Tornadoes
-156,23,Saltillo,MS,6A,MHSAA 6A,3-8,3,8,0,11,51.7,51.7,1.73,62.5,156,26.4,35.5,26.4,35.5,-9.1,53.4,33.9,49.15,41.84,41.84,41.84,Varsity Program,Saltillo,Tigers
-157,35,Simpson Academy,MS,4A,MHSAA 4A,3-8,3,8,0,11,51.5,51.5,1.51,63.8,157,20.0,30.9,20.0,30.9,-10.9,44.4,40.3,49.6,52.96,52.96,52.96,Varsity Program,Mendenhall,Cougars
-158,19,Winona Christian,MS,2A,MHSAA 2A,8-3,8,3,0,11,51.4,51.4,1.37,46.3,158,32.0,13.8,32.0,13.8,18.2,61.2,64.3,88.93,47.24,47.24,47.24,Varsity Program,Winona,Stars
-159,24,Gautier,MS,6A,MHSAA 6A,3-7,3,7,0,10,51.3,51.3,1.3,60.1,159,24.1,24.8,24.1,24.8,-0.7,50.1,48.9,51.03,82.5,82.5,82.5,Varsity Program,Gautier,Gators
-160,36,Greene County,MS,4A,MHSAA 4A,6-5,6,5,0,11,51.1,51.1,1.15,52.5,160,29.2,24.6,29.2,24.6,4.6,57.3,49.2,72.92,73.81,73.81,73.81,Varsity Program,Leakesville,Wildcats
-161,21,Hazlehurst,MS,3A,MHSAA 3A,6-4,6,4,0,10,50.9,50.9,0.94,49.7,161,30.4,22.9,30.4,22.9,7.5,59.0,51.5,77.39,28.06,28.06,28.06,Varsity Program,Hazlehurst,Indians
-162,22,Tylertown,MS,3A,MHSAA 3A,6-5,6,5,0,11,50.9,50.9,0.86,53.5,162,30.9,26.5,30.9,26.5,4.4,59.7,46.5,73.27,59.31,59.31,59.31,Varsity Program,Tylertown,Chiefs
-163,20,Sylva Bay Academy,MS,1A,MHSAA 1A,5-6,5,6,0,11,50.8,50.8,0.84,47.4,163,35.3,30.6,35.3,30.6,4.7,65.8,40.8,62.04,34.92,34.92,34.92,Varsity Program,Bay Springs,Saints
-164,37,Cathedral,MS,4A,MHSAA 4A,7-5,7,5,0,12,50.7,50.7,0.72,52.3,164,23.2,24.4,23.2,24.4,-1.2,48.9,49.4,76.64,76.15,76.15,76.15,Varsity Program,Natchez,Green Wave
-165,23,Quitman,MS,3A,MHSAA 3A,6-5,6,5,0,11,50.5,50.5,0.5,52.1,165,29.4,21.6,29.4,21.6,7.8,57.6,53.4,72.78,70.33,70.33,70.33,Varsity Program,Quitman,Panthers
-166,25,Harrison Central,MS,7A,MHSAA 7A,1-9,1,9,0,10,50.5,50.5,0.5,71.2,166,10.0,32.6,10.0,32.6,-22.6,30.4,38.0,34.92,75.97,75.97,75.97,Varsity Program,Gulfport,Red Rebels
-167,19,Natchez,MS,5A,MHSAA 5A,3-7,3,7,0,10,50.4,50.4,0.36,59.1,167,13.6,18.9,13.6,18.9,-5.3,35.4,57.1,50.69,24.09,24.09,24.09,Varsity Program,Natchez,Bulldogs
-168,20,Lee Academy (Clarksdale),MS,2A,MHSAA 2A,8-4,8,4,0,12,50.3,50.3,0.29,47.1,168,33.2,20.2,33.2,20.2,13.0,62.9,55.3,83.15,88.0,88.0,88.0,Varsity Program,Clarksdale,Colts
-169,38,Choctaw Central,MS,4A,MHSAA 4A,6-4,6,4,0,10,50.3,50.3,0.29,52.1,169,26.1,25.5,26.1,25.5,0.6,52.9,47.9,78.23,37.36,37.36,37.36,Varsity Program,Philadelphia,Ftng Warriors
-170,21,Eupora,MS,2A,MHSAA 2A,6-4,6,4,0,10,50.1,50.1,0.07,49.5,170,31.1,23.2,31.1,23.2,7.9,59.9,51.1,77.33,43.09,43.09,43.09,Varsity Program,Eupora,Eagles
-171,24,Rossville Christian Academy,MS,3A,MHSAA 3A,6-6,6,6,0,12,50.0,50.0,0.05,48.0,171,27.3,27.2,27.3,27.2,0.1,54.6,45.5,66.8,40.55,40.55,40.55,Varsity Program,Rossville,Wolves
-172,21,Stringer,MS,1A,MHSAA 1A,9-3,9,3,0,12,50.0,50.0,0.0,45.5,172,34.5,23.4,34.5,23.4,11.1,64.7,50.8,90.92,33.9,33.9,33.9,Varsity Program,Stringer,Red Devils
-173,22,East Marion,MS,2A,MHSAA 2A,7-5,7,5,0,12,50.0,50.0,0.0,48.4,173,27.7,21.1,27.7,21.1,6.6,55.2,54.1,75.27,67.23,67.23,67.23,Varsity Program,Columbia,Eagles
-174,39,Alligator,MS,4A,MHSAA 4A,5-5,5,5,0,10,50.0,50.0,0.0,48.0,174,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,51.38,51.38,51.38,Varsity Program,Jackson,Varsity
-175,25,Alligator High,MS,6A,MHSAA 6A,5-5,5,5,0,10,50.0,50.0,0.0,48.0,175,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,56.97,56.97,56.97,Varsity Program,Jackson,Varsity
-176,26,Carthage Ms,MS,6A,MHSAA 6A,5-5,5,5,0,10,50.0,50.0,0.0,48.0,176,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,57.05,57.05,57.05,Varsity Program,Jackson,Varsity
-177,22,McEvans,MS,1A,MHSAA 1A,5-5,5,5,0,10,50.0,50.0,0.0,48.0,177,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,45.3,45.3,45.3,Varsity Program,Jackson,Varsity
-178,26,Algoma High,MS,7A,MHSAA 7A,4-4,4,4,0,8,50.0,50.0,0.0,48.0,178,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,58.63,58.63,58.63,Varsity Program,Jackson,Varsity
-179,40,Pillow Academy,MS,4A,MHSAA 4A,4-8,4,8,0,12,49.9,49.9,-0.07,62.0,179,17.8,29.2,17.8,29.2,-11.4,41.3,42.7,55.03,41.25,41.25,41.25,Varsity Program,Greenwood,Mustangs
-180,23,Leflore County,MS,1A,MHSAA 1A,9-4,9,4,0,13,49.9,49.9,-0.14,47.6,180,26.9,14.5,26.9,14.5,12.4,54.1,63.3,85.89,89.16,89.16,89.16,Varsity Program,Itta Bena,Tigers
-181,27,Olive Branch,MS,6A,MHSAA 6A,1-9,1,9,0,10,49.9,49.9,-0.14,66.2,181,16.5,34.9,16.5,34.9,-18.4,39.5,34.7,33.17,72.1,72.1,72.1,Varsity Program,Olive Branch,Conquistadors
-182,25,Kossuth,MS,3A,MHSAA 3A,8-3,8,3,0,11,49.6,49.6,-0.36,45.2,182,33.9,23.0,33.9,23.0,10.9,63.9,51.4,88.55,27.15,27.15,27.15,Varsity Program,Kossuth,Aggies
-183,41,Houston,MS,4A,MHSAA 4A,3-9,3,9,0,12,49.5,49.5,-0.5,59.2,183,18.7,30.8,18.7,30.8,-12.1,42.6,40.5,45.72,59.2,59.2,59.2,Varsity Program,Houston,Hilltoppers
-184,42,Yazoo City,MS,4A,MHSAA 4A,3-7,3,7,0,10,49.5,49.5,-0.5,61.7,184,15.0,27.3,15.0,27.3,-12.3,37.4,45.4,51.59,25.58,25.58,25.58,Varsity Program,Yazoo City,Indians
-185,24,Christ Covenant,MS,1A,MHSAA 1A,5-5,5,5,0,10,49.4,49.4,-0.63,48.0,185,25.7,27.1,25.7,27.1,-1.4,52.4,45.7,66.8,76.22,76.22,76.22,Varsity Program,Ridgeland,Covenant
-186,26,Franklin County,MS,3A,MHSAA 3A,7-6,7,6,0,13,49.4,49.4,-0.65,50.1,186,21.5,21.0,21.5,21.0,0.5,46.5,54.2,71.38,51.59,51.59,51.59,Varsity Program,Meadville,Bulldogs
-187,25,Leake County,MS,1A,MHSAA 1A,7-6,7,6,0,13,49.0,49.0,-1.01,47.7,187,24.8,18.5,24.8,18.5,6.3,51.1,57.7,70.54,18.85,35.0,5.38,Varsity Program,Walnut Grove,Alligators
-188,23,Velma Jackson,MS,2A,MHSAA 2A,4-6,4,6,0,10,48.7,48.7,-1.3,56.1,188,20.9,24.8,20.9,24.8,-3.9,45.7,48.9,59.63,56.7,56.7,56.7,Varsity Program,Camden,Falcons
-189,28,Greenville,MS,6A,MHSAA 6A,5-6,5,6,0,11,48.6,48.6,-1.44,56.8,189,19.6,26.2,19.6,26.2,-6.6,43.8,46.9,65.33,57.03,57.03,57.03,Varsity Program,Greenville,Hornets
-190,43,South Pike,MS,4A,MHSAA 4A,3-7,3,7,0,10,48.5,48.5,-1.51,56.5,190,28.4,29.1,28.4,29.1,-0.7,56.2,42.9,49.77,59.76,59.76,59.76,Varsity Program,Magnolia,Eagles
-191,27,Lewisburg,MS,7A,MHSAA 7A,2-8,2,8,0,10,48.3,48.3,-1.66,61.7,191,19.9,38.3,19.9,38.3,-18.4,44.3,30.0,41.59,84.58,84.58,84.58,Varsity Program,Olive Branch,Patriots
-192,24,Amite County,MS,2A,MHSAA 2A,8-3,8,3,0,11,48.2,48.2,-1.8,42.6,192,34.0,15.7,34.0,15.7,18.3,64.0,61.6,87.64,77.39,77.39,77.39,Varsity Program,Liberty,Trojans
-193,44,Forrest County Agricultural,MS,4A,MHSAA 4A,6-4,6,4,0,10,48.1,48.1,-1.87,50.3,193,20.9,20.8,20.9,20.8,0.1,45.7,54.5,77.6,93.08,93.08,93.08,Varsity Program,Brooklyn,Aggies
-194,45,Richland,MS,4A,MHSAA 4A,6-5,6,5,0,11,48.1,48.1,-1.87,51.2,194,24.6,27.3,24.6,27.3,-2.7,50.8,45.4,72.47,78.59,78.59,78.59,Varsity Program,Richland,Rangers
-195,25,Hamilton,MS,2A,MHSAA 2A,8-4,8,4,0,12,48.1,48.1,-1.94,46.7,195,36.0,31.9,36.0,31.9,4.1,66.8,38.9,83.01,46.88,46.88,46.88,Varsity Program,Hamilton,Lions
-196,26,Myrtle,MS,2A,MHSAA 2A,8-3,8,3,0,11,47.8,47.8,-2.23,42.5,196,28.6,17.4,28.6,17.4,11.2,56.4,59.2,87.6,22.85,22.85,22.85,Varsity Program,Myrtle,Hawks
-197,26,Unity Christian Academy,MS,1A,MHSAA 1A,3-3,3,3,0,6,47.8,47.8,-2.25,48.0,197,27.0,32.0,27.0,32.0,-5.0,54.2,38.8,66.8,79.33,79.33,79.33,Varsity Program,Leland,Soldiers
-198,27,South Delta,MS,1A,MHSAA 1A,8-3,8,3,0,11,47.6,47.6,-2.38,44.6,198,23.6,21.0,23.6,21.0,2.6,49.4,54.2,88.34,75.32,75.32,75.32,Varsity Program,Rolling Fork,Bulldogs
-199,29,Faithful Explorers ALC,MS,6A,MHSAA 5A,5-6,5,6,0,11,47.6,47.6,-2.4,47.4,199,22.7,25.2,22.7,25.2,-2.5,48.2,48.3,62.04,56.37,56.37,56.37,Varsity Program,Byram,Varsity
-200,28,Ben's Ford Christian,MS,1A,MHSAA 1A,5-6,5,6,0,11,47.6,47.6,-2.44,47.4,200,31.7,34.3,31.7,34.3,-2.6,60.8,35.6,62.04,61.27,61.27,61.27,Varsity Program,Bogalusa,Eagles
-201,46,East Rankin Academy,MS,4A,MHSAA 4A,6-5,6,5,0,11,47.3,47.3,-2.66,48.6,201,29.5,26.4,29.5,26.4,3.1,57.7,46.6,71.56,59.78,59.78,59.78,Varsity Program,Pelahatchie,Patriots
-202,20,East Central,MS,5A,MHSAA 5A,2-8,2,8,0,10,47.3,47.3,-2.66,58.8,202,22.1,30.5,22.1,30.5,-8.4,47.3,40.9,40.58,25.28,25.28,25.28,Varsity Program,Moss Point,Hornets
-203,27,Ackerman,MS,2A,MHSAA 2A,4-5,4,5,0,9,47.1,47.1,-2.91,47.2,203,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,41.54,41.54,41.54,Varsity Program,Ackerman,Varsity
-204,28,Anguilla,MS,2A,MHSAA 2A,4-5,4,5,0,9,47.1,47.1,-2.91,47.2,204,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,46.21,46.21,46.21,Varsity Program,Jackson,Varsity
-205,29,Porter'S Chapel,MS,2A,MHSAA 2A,4-5,4,5,0,9,47.1,47.1,-2.91,47.2,205,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,46.17,46.17,46.17,Varsity Program,Jackson,Varsity
-206,47,Bayou Academy,MS,4A,MHSAA 4A,4-6,4,6,0,10,47.0,47.0,-3.02,56.0,206,24.0,30.2,24.0,30.2,-6.2,50.0,41.3,59.6,80.38,80.38,80.38,Varsity Program,Cleveland,Colts
-207,21,Vancleave,MS,5A,MHSAA 5A,3-7,3,7,0,10,46.8,46.8,-3.17,55.6,207,25.3,29.2,25.3,29.2,-3.9,51.8,42.7,49.46,50.58,50.58,50.58,Varsity Program,Vancleave,Bulldogs
-208,30,George County,MS,6A,MHSAA 6A,3-9,3,9,0,12,46.8,46.8,-3.24,58.2,208,16.2,29.8,16.2,29.8,-13.6,39.1,41.9,45.37,63.0,63.0,63.0,Varsity Program,Lucedale,Rebels
-209,30,Oak Hill Academy,MS,2A,MHSAA 2A,9-4,9,4,0,13,46.4,46.4,-3.6,42.5,209,29.6,17.6,29.6,17.6,12.0,57.8,59.0,84.11,53.77,53.77,53.77,Varsity Program,West Point,Raiders
-210,31,Loyd Star,MS,2A,MHSAA 2A,8-3,8,3,0,11,46.3,46.3,-3.67,42.6,210,31.3,18.7,31.3,18.7,12.6,60.2,57.4,87.64,34.75,34.75,34.75,Varsity Program,Brookhaven,Hornets
-211,22,Columbus,MS,5A,MHSAA 5A,1-9,1,9,0,10,46.3,46.3,-3.67,63.7,211,12.4,29.4,12.4,29.4,-17.0,33.8,42.4,32.3,56.69,56.69,56.69,Varsity Program,Columbus,Falcons
-212,27,Belmont,MS,3A,MHSAA 3A,8-4,8,4,0,12,46.3,46.3,-3.74,44.5,212,27.0,24.0,27.0,24.0,3.0,54.2,50.0,82.24,45.34,45.34,45.34,Varsity Program,Belmont,Cardinals
-213,32,Scott Central,MS,2A,MHSAA 2A,3-8,3,8,0,11,46.0,46.0,-4.03,52.9,213,21.0,17.6,21.0,17.6,3.4,45.8,59.0,45.79,59.5,59.5,59.5,Varsity Program,Forest,Rebels
-214,33,Water Valley,MS,2A,MHSAA 2A,9-3,9,3,0,12,45.9,45.9,-4.1,43.0,214,30.1,22.8,30.1,22.8,7.3,58.5,51.7,90.05,77.42,77.42,77.42,Varsity Program,Water Valley,Blue Devils
-215,28,Humphreys County,MS,3A,MHSAA 3A,6-5,6,5,0,11,45.9,45.9,-4.1,48.1,215,24.7,21.3,24.7,21.3,3.4,51.0,53.8,71.38,26.17,26.17,26.17,Varsity Program,Belzoni,Cowboys
-216,34,Lake,MS,2A,MHSAA 2A,6-5,6,5,0,11,45.9,45.9,-4.1,49.0,216,23.3,24.5,23.3,24.5,-1.2,49.0,49.3,71.7,69.18,69.18,69.18,Varsity Program,Lake,Hornets
-217,35,North Forrest,MS,2A,MHSAA 2A,5-7,5,7,0,12,45.9,45.9,-4.1,50.1,217,19.1,23.8,19.1,23.8,-4.7,43.1,50.3,59.2,34.61,34.61,34.61,Varsity Program,Hattiesburg,Eagles
-218,23,Caledonia,MS,5A,MHSAA 5A,1-9,1,9,0,10,45.9,45.9,-4.1,63.5,218,20.6,41.9,20.6,41.9,-21.3,45.2,25.0,32.22,21.09,21.09,21.09,Varsity Program,Caledonia,Cavaliers
-219,48,Ripley,MS,4A,MHSAA 4A,3-7,3,7,0,10,45.8,45.8,-4.25,58.0,219,15.4,30.1,15.4,30.1,-14.7,38.0,41.5,50.3,33.35,33.35,33.35,Varsity Program,Ripley,Tigers
-220,29,Lumberton,MS,1A,MHSAA 1A,5-6,5,6,0,11,45.3,45.3,-4.68,50.2,220,22.5,23.5,22.5,23.5,-1.0,47.9,50.7,63.02,44.95,44.95,44.95,Varsity Program,Lumberton,Panthers
-221,29,Wayne Academy,MS,3A,MHSAA 3A,5-7,5,7,0,12,45.3,45.3,-4.68,50.3,221,26.4,27.1,26.4,27.1,-0.7,53.4,45.7,59.27,49.89,49.89,49.89,Varsity Program,Waynesboro,Jaguars
-222,36,Winston Academy,MS,2A,MHSAA 2A,5-8,5,8,0,13,45.2,45.2,-4.75,51.4,222,15.5,22.0,15.5,22.0,-6.5,38.1,52.8,56.45,75.06,75.06,75.06,Varsity Program,Louisville,Patriots
-223,30,Tupelo Christian Prep,MS,1A,MHSAA 1A,7-5,7,5,0,12,45.1,45.1,-4.9,43.3,223,30.4,19.5,30.4,19.5,10.9,59.0,56.3,73.49,76.72,76.72,76.72,Varsity Program,Belden,Eagles
-224,31,Faith Christian HomeSchool Academy,MS,1A,MHSAA 1A,3-5,3,5,0,8,45.0,45.0,-4.99,46.2,224,23.5,26.8,23.5,26.8,-3.3,49.3,46.1,53.67,13.12,24.38,3.75,Varsity Program,Madison,Tornadoes
-225,30,Coahoma County,MS,3A,MHSAA 3A,5-6,5,6,0,11,45.0,45.0,-5.04,48.6,225,22.0,22.7,22.0,22.7,-0.7,47.2,51.8,62.46,49.64,49.64,49.64,Varsity Program,Clarksdale,Red Panthers
-226,37,Marvell Academy,MS,2A,MHSAA 2A,4-6,4,6,0,10,45.0,45.0,-5.05,46.6,226,31.4,36.4,31.4,36.4,-5.0,60.4,32.6,56.31,70.66,70.66,70.66,Varsity Program,Marvell,Eagles
-227,32,Bentonia,MS,1A,MHSAA 1A,4-6,4,6,0,10,44.8,44.8,-5.23,46.6,227,21.2,26.6,21.2,26.6,-5.4,46.1,46.4,56.31,40.3,40.3,40.3,Varsity Program,Jackson,Varsity
-228,31,Boyle,MS,6A,MHSAA 6A,4-6,4,6,0,10,44.8,44.8,-5.23,46.6,228,21.2,26.6,21.2,26.6,-5.4,46.1,46.4,56.31,48.92,48.92,48.92,Varsity Program,Jackson,Varsity
-229,31,Ingomar,MS,3A,MHSAA 3A,4-6,4,6,0,10,44.8,44.8,-5.23,46.6,229,21.2,26.6,21.2,26.6,-5.4,46.1,46.4,56.31,43.09,43.09,43.09,Varsity Program,Jackson,Varsity
-230,24,Leake,MS,5A,MHSAA 5A,4-6,4,6,0,10,44.8,44.8,-5.23,46.6,230,21.2,26.6,21.2,26.6,-5.4,46.1,46.4,56.31,49.54,49.54,49.54,Varsity Program,Carthage,Varsity
-231,32,Man 1A District,MS,6A,MHSAA District,4-6,4,6,0,10,44.8,44.8,-5.23,46.6,231,21.2,26.6,21.2,26.6,-5.4,46.1,46.4,56.31,48.92,48.92,48.92,Varsity Program,Jackson,Varsity
-232,33,Man 1A District 1 (8 Man)MAIS,MS,6A,MHSAA District,4-6,4,6,0,10,44.8,44.8,-5.23,46.6,232,21.2,26.6,21.2,26.6,-5.4,46.1,46.4,56.31,47.87,47.87,47.87,Varsity Program,Jackson,Varsity
-233,49,St. Joseph Catholic,MS,4A,MHSAA 4A,2-8,2,8,0,10,44.7,44.7,-5.33,59.8,233,24.5,42.0,24.5,42.0,-17.5,50.7,25.0,40.93,76.86,76.86,76.86,Varsity Program,Madison,Bruins
-234,38,Philadelphia,MS,2A,MHSAA 2A,1-9,1,9,0,10,44.6,44.6,-5.4,60.6,234,12.3,29.5,12.3,29.5,-17.2,33.6,42.3,31.21,26.08,26.08,26.08,Varsity Program,Philadelphia,Tornadoes
-235,32,Yazoo County,MS,3A,MHSAA 3A,5-5,5,5,0,10,44.5,44.5,-5.47,46.8,235,18.8,17.2,18.8,17.2,1.6,42.7,59.5,66.38,25.63,25.63,25.63,Varsity Program,Yazoo City,Panthers
-236,33,Amite School Center,MS,3A,MHSAA 3A,7-3,7,3,0,10,44.4,44.4,-5.62,38.7,236,37.7,17.7,37.7,17.7,20.0,69.2,58.8,83.55,83.36,83.36,83.36,Varsity Program,Liberty,Rebels
-237,50,Amory,MS,4A,MHSAA 4A,3-8,3,8,0,11,44.3,44.3,-5.69,56.4,237,21.2,34.9,21.2,34.9,-13.7,46.1,34.7,47.01,57.15,57.15,57.15,Varsity Program,Amory,Panthers
-238,51,Silliman Institute,MS,4A,MHSAA 4A,4-6,4,6,0,10,44.1,44.1,-5.91,46.6,238,20.2,27.1,20.2,27.1,-6.9,44.7,45.7,56.31,34.88,34.88,34.88,Varsity Program,Clinton,Wildcats
-239,52,Northeast Lauderdale,MS,4A,MHSAA 4A,2-7,2,7,0,9,43.9,43.9,-6.12,56.6,239,15.7,29.0,15.7,29.0,-13.3,38.4,43.0,42.03,37.1,37.1,37.1,Varsity Program,Meridian,Trojans
-240,39,Kirk Academy,MS,2A,MHSAA 2A,6-6,6,6,0,12,43.8,43.8,-6.19,44.9,240,30.6,25.8,30.6,25.8,4.8,59.2,47.5,65.72,70.55,70.55,70.55,Varsity Program,Grenada,Raiders
-241,28,Artesia,MS,7A,MHSAA 7A,3-5,3,5,0,8,43.5,43.5,-6.51,46.2,241,20.5,27.2,20.5,27.2,-6.7,45.1,45.5,53.67,48.06,48.06,48.06,Varsity Program,Jackson,Varsity
-242,29,Beulah,MS,7A,MHSAA 7A,3-5,3,5,0,8,43.5,43.5,-6.51,46.2,242,20.5,27.2,20.5,27.2,-6.7,45.1,45.5,53.67,48.06,48.06,48.06,Varsity Program,Jackson,Varsity
-243,34,O'Bannon,MS,3A,MHSAA 3A,5-5,5,5,0,10,43.4,43.4,-6.62,42.6,243,26.4,17.4,26.4,17.4,9.0,53.4,59.2,64.91,70.0,70.0,70.0,Varsity Program,Greenville,Greenwaves
-244,33,Okolona,MS,1A,MHSAA 1A,6-7,6,7,0,13,43.2,43.2,-6.77,47.7,244,23.8,32.2,23.8,32.2,-8.4,49.7,38.5,62.85,78.87,78.87,78.87,Varsity Program,Okolona,Chieftains
-245,34,Noxapater,MS,1A,MHSAA 1A,5-6,5,6,0,11,43.2,43.2,-6.77,45.6,245,22.8,17.8,22.8,17.8,5.0,48.3,58.7,61.41,50.87,50.87,50.87,Varsity Program,Noxapater,Tigers
-246,35,Edwards,MS,3A,MHSAA 3A,5-5,5,5,0,10,43.2,43.2,-6.84,48.0,246,19.6,25.1,19.6,25.1,-5.5,43.8,48.5,66.8,47.95,47.95,47.95,Varsity Program,Ruleville,Tigers
-247,30,Murrah,MS,7A,MHSAA 7A,1-10,1,10,0,11,43.1,43.1,-6.91,69.0,247,7.3,43.1,7.3,43.1,-35.8,26.6,25.0,33.24,37.58,37.58,37.58,Varsity Program,Jackson,Mustangs
-248,36,Booneville,MS,3A,MHSAA 3A,6-6,6,6,0,12,42.9,42.9,-7.06,46.3,248,26.8,29.2,26.8,29.2,-2.4,53.9,42.7,66.2,23.65,23.65,23.65,Varsity Program,Booneville,Blue Devils
-249,40,Tunica Academy,MS,2A,MHSAA 2A,5-7,5,7,0,12,42.5,42.5,-7.46,46.8,249,27.8,39.2,27.8,39.2,-11.4,55.3,28.7,58.05,86.1,86.1,86.1,Varsity Program,Tunica,Blue Devils
-250,35,West Lowndes,MS,1A,MHSAA 1A,5-5,5,5,0,10,42.5,42.5,-7.49,48.5,250,21.7,24.4,21.7,24.4,-2.7,46.8,49.4,66.97,35.85,35.85,35.85,Varsity Program,Columbus,Panthers
-251,36,Ethel,MS,1A,MHSAA 1A,7-4,7,4,0,11,42.4,42.4,-7.63,43.4,251,24.7,20.5,24.7,20.5,4.2,51.0,54.9,78.83,33.72,33.72,33.72,Varsity Program,Ethel,Tigers
-252,53,Central Holmes Christian,MS,4A,MHSAA 4A,5-3,5,3,0,8,42.2,42.2,-7.78,51.1,252,27.5,20.8,27.5,20.8,6.7,54.9,54.5,80.38,21.88,40.62,6.25,Varsity Program,Lexington,Varsity
-253,37,Porter's Chapel Academy,MS,1A,MHSAA 1A,3-7,3,7,0,10,42.1,42.1,-7.85,45.2,253,26.4,31.4,26.4,31.4,-5.0,53.4,39.6,45.82,56.53,56.53,56.53,Varsity Program,Vicksburg,Eagles
-254,25,North Pike,MS,5A,MHSAA 5A,1-9,1,9,0,10,42.1,42.1,-7.92,63.1,254,9.3,32.9,9.3,32.9,-23.6,29.4,37.5,32.09,57.81,57.81,57.81,Varsity Program,Summit,Jaguars
-255,41,Perry Central,MS,2A,MHSAA 2A,3-8,3,8,0,11,41.9,41.9,-8.06,52.3,255,18.5,29.0,18.5,29.0,-10.5,42.3,43.0,45.58,82.11,82.11,82.11,Varsity Program,New Augusta,Bulldogs
-256,34,Forest Hill,MS,6A,MHSAA 6A,2-9,2,9,0,11,41.9,41.9,-8.06,57.0,256,10.0,28.7,10.0,28.7,-18.7,30.4,43.4,38.13,41.89,41.89,41.89,Varsity Program,Jackson,Patriots
-257,26,Provine,MS,5A,MHSAA 5A,2-9,2,9,0,11,41.9,41.9,-8.14,58.4,257,8.9,33.0,8.9,33.0,-24.1,28.9,37.4,38.62,17.66,17.66,17.66,Varsity Program,Jackson,Rams
-258,37,Central Hinds Academy,MS,3A,MHSAA 3A,5-7,5,7,0,12,41.7,41.7,-8.28,49.0,258,19.1,25.2,19.1,25.2,-6.1,43.1,48.3,58.82,49.96,49.96,49.96,Varsity Program,Raymond,Cougars
-259,38,Bogue Chitto,MS,1A,MHSAA 1A,8-4,8,4,0,12,41.6,41.6,-8.35,39.8,259,28.2,20.8,28.2,20.8,7.4,55.9,54.5,80.6,19.99,19.99,19.99,Varsity Program,Bogue Chitto,Bobcats
-260,54,Oak Forest Academy,MS,4A,MHSAA 4A,3-7,3,7,0,10,41.5,41.5,-8.53,45.2,260,15.8,22.3,15.8,22.3,-6.5,38.5,52.4,45.82,35.43,35.43,35.43,Varsity Program,Amite,Yellowjackets
-261,39,Richton,MS,1A,MHSAA 1A,6-5,6,5,0,11,41.4,41.4,-8.57,44.5,261,25.3,24.7,25.3,24.7,0.6,51.8,49.0,70.12,48.83,48.83,48.83,Varsity Program,Richton,Rebels
-262,31,St. Joseph Madison,MS,7A,MHSAA 7A,3-6,3,6,0,9,41.3,41.3,-8.72,45.7,262,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,46.06,46.06,46.06,Varsity Program,Madison,Varsity
-263,55,Tishomingo County,MS,4A,MHSAA 4A,2-8,2,8,0,10,41.1,41.1,-8.93,53.6,263,25.0,37.5,25.0,37.5,-12.5,51.4,31.1,38.76,51.35,51.35,51.35,Varsity Program,Iuka,Braves
-264,38,Pisgah,MS,3A,MHSAA 3A,5-6,5,6,0,11,41.0,41.0,-9.0,47.8,264,12.3,21.4,12.3,21.4,-9.1,33.6,53.6,62.18,21.0,21.0,21.0,Varsity Program,Sandhill,Dragons
-265,56,Mooreville,MS,4A,MHSAA 4A,4-6,4,6,0,10,40.8,40.8,-9.22,46.5,265,21.8,24.5,21.8,24.5,-2.7,46.9,49.3,56.27,56.82,56.82,56.82,Varsity Program,Mooreville,Troopers
-266,42,St. Joseph,MS,2A,MHSAA 2A,4-7,4,7,0,11,40.6,40.6,-9.43,50.6,266,26.4,32.3,26.4,32.3,-5.9,53.4,38.4,54.07,54.2,54.2,54.2,Varsity Program,Greenville,Fighting Irish
-267,40,West Tallahatchie,MS,1A,MHSAA 1A,6-4,6,4,0,10,40.4,40.4,-9.65,40.1,267,30.4,21.2,30.4,21.2,9.2,59.0,53.9,74.03,77.5,77.5,77.5,Varsity Program,Webb,Choctaws
-268,43,Pelahatchie,MS,2A,MHSAA 2A,5-7,5,7,0,12,40.4,40.4,-9.65,42.7,268,26.8,21.9,26.8,21.9,4.9,53.9,52.9,56.61,55.68,55.68,55.68,Varsity Program,Pelahatchie,Chiefs
-269,44,Collins,MS,2A,MHSAA 2A,3-7,3,7,0,10,40.3,40.3,-9.72,51.4,269,20.6,34.8,20.6,34.8,-14.2,45.2,34.9,47.99,21.0,21.0,21.0,Varsity Program,Collins,Tigers
-270,45,Sacred Heart,MS,2A,MHSAA 2A,4-6,4,6,0,10,40.0,40.0,-10.01,43.3,270,25.5,21.7,25.5,21.7,3.8,52.1,53.2,55.16,61.78,61.78,61.78,Varsity Program,Hattiesburg,Crusaders
-271,57,Moss Point,MS,4A,MHSAA 4A,2-9,2,9,0,11,40.0,40.0,-10.01,57.2,271,6.7,34.1,6.7,34.1,-27.4,25.8,35.9,38.2,72.96,72.96,72.96,Varsity Program,Moss Point,Tigers
-272,39,North Panola,MS,3A,MHSAA 3A,5-5,5,5,0,10,39.9,39.9,-10.15,44.9,272,22.4,29.4,22.4,29.4,-7.0,47.8,42.4,65.72,34.88,34.88,34.88,Varsity Program,Sardis,Fightn Cougars
-273,46,Bruce,MS,2A,MHSAA 2A,6-4,6,4,0,10,39.7,39.7,-10.3,38.5,273,32.6,27.0,32.6,27.0,5.6,62.0,45.8,73.47,40.49,40.49,40.49,Varsity Program,Bruce,Trojans
-274,58,Blue Mountain,MS,4A,MHSAA 4A,3-7,3,7,0,10,39.5,39.5,-10.46,45.2,274,18.4,29.2,18.4,29.2,-10.8,42.2,42.7,45.82,42.4,42.4,42.4,Varsity Program,Jackson,Varsity
-275,59,Byram,MS,4A,MHSAA 4A,3-7,3,7,0,10,39.5,39.5,-10.46,45.2,275,18.4,29.2,18.4,29.2,-10.8,42.2,42.7,45.82,37.89,37.89,37.89,Varsity Program,Jackson,Varsity
-276,60,West Union,MS,4A,MHSAA 4A,3-7,3,7,0,10,39.5,39.5,-10.46,45.2,276,18.4,29.2,18.4,29.2,-10.8,42.2,42.7,45.82,36.72,36.72,36.72,Varsity Program,Jackson,Varsity
-277,40,St. Aloysius,MS,3A,MHSAA 3A,4-6,4,6,0,10,39.5,39.5,-10.51,45.4,277,20.2,22.9,20.2,22.9,-2.7,44.7,51.5,55.89,45.17,45.17,45.17,Varsity Program,Vicksburg,Flashes
-278,47,Hatley,MS,2A,MHSAA 2A,7-4,7,4,0,11,39.3,39.3,-10.66,38.3,278,28.5,22.4,28.5,22.4,6.1,56.3,52.2,77.04,68.07,68.07,68.07,Varsity Program,Amory,Tigers
-279,41,Port Gibson,MS,3A,MHSAA 3A,5-7,5,7,0,12,39.2,39.2,-10.8,50.5,279,15.5,25.6,15.5,25.6,-10.1,38.1,47.8,59.34,38.83,38.83,38.83,Varsity Program,Port Gibson,Blue Waves
-280,35,Long Beach,MS,6A,MHSAA 6A,1-9,1,9,0,10,39.2,39.2,-10.8,58.0,280,16.4,33.5,16.4,33.5,-17.1,39.4,36.7,30.3,76.25,76.25,76.25,Varsity Program,Long Beach,Bearcats
-281,41,Delta Streets Academy,MS,1A,MHSAA 1A,3-8,3,8,0,11,38.9,38.9,-11.13,44.8,281,31.1,41.7,31.1,41.7,-10.6,59.9,25.2,42.95,71.32,71.32,71.32,Varsity Program,Greenwood,Lions
-282,48,Leland,MS,2A,MHSAA 2A,4-8,4,8,0,12,38.5,38.5,-11.52,47.7,282,12.5,23.1,12.5,23.1,-10.6,33.9,51.3,50.03,55.13,55.13,55.13,Varsity Program,Leland,Cubs
-283,42,Jefferson County,MS,3A,MHSAA 3A,3-8,3,8,0,11,38.3,38.3,-11.66,50.8,283,12.0,26.1,12.0,26.1,-14.1,33.2,47.1,45.05,40.83,40.83,40.83,Varsity Program,Fayette,Jchs
-284,49,Tensas Academy,MS,2A,MHSAA 2A,3-7,3,7,0,10,38.3,38.3,-11.68,45.2,284,16.6,30.1,16.6,30.1,-13.5,39.6,41.5,45.82,92.9,92.9,92.9,Varsity Program,St Joseph,Chiefs
-285,42,Prentiss Christian,MS,1A,MHSAA 1A,3-7,3,7,0,10,37.9,37.9,-12.12,45.2,285,17.6,32.1,17.6,32.1,-14.5,41.0,38.7,45.82,68.94,68.94,68.94,Varsity Program,Prentiss,Saints
-286,61,Raymond,MS,4A,MHSAA 4A,2-9,2,9,0,11,37.7,37.7,-12.31,52.4,286,8.5,27.4,8.5,27.4,-18.9,28.3,45.2,36.52,70.0,70.0,70.0,Varsity Program,Raymond,Rangers
-287,43,Riverfield Academy,MS,3A,MHSAA 3A,2-8,2,8,0,10,37.0,37.0,-12.99,43.8,287,18.1,28.3,18.1,28.3,-10.2,41.7,44.0,35.33,62.75,62.75,62.75,Varsity Program,Rayville,Raiders
-288,43,Sebastopol,MS,1A,MHSAA 1A,3-7,3,7,0,10,36.8,36.8,-13.25,46.4,288,14.3,24.8,14.3,24.8,-10.5,36.4,48.9,46.24,56.68,56.68,56.68,Varsity Program,Sebastopol,Bobcats
-289,44,Independence,MS,3A,MHSAA 3A,4-6,4,6,0,10,36.6,36.6,-13.39,46.2,289,18.7,23.2,18.7,23.2,-4.5,42.6,51.1,56.17,47.48,47.48,47.48,Varsity Program,Independence,Wildcats
-290,45,Southeast Lauderdale,MS,3A,MHSAA 3A,3-8,3,8,0,11,36.2,36.2,-13.75,50.8,290,6.2,28.5,6.2,28.5,-22.3,25.1,43.7,45.05,43.46,43.46,43.46,Varsity Program,Meridian,Tigers
-291,44,McAdams,MS,1A,MHSAA 1A,4-6,4,6,0,10,36.2,36.2,-13.82,39.8,291,22.0,24.8,22.0,24.8,-2.8,47.2,48.9,53.93,53.9,53.9,53.9,Varsity Program,Mcadams,Bulldogs
-292,62,Lawrence County,MS,4A,MHSAA 4A,0-9,0,9,0,9,36.2,36.2,-13.82,64.4,292,7.7,43.6,7.7,43.6,-35.9,27.2,25.0,22.54,33.93,33.93,33.93,Varsity Program,Monticello,Cougars
-293,50,J.Z. George,MS,2A,MHSAA 2A,4-7,4,7,0,11,36.0,36.0,-13.97,44.8,293,15.3,26.2,15.3,26.2,-10.9,37.8,46.9,52.04,27.14,27.14,27.14,Varsity Program,North Carrollton,Jaguars
-294,51,North Delta,MS,2A,MHSAA 2A,3-9,3,9,0,12,35.7,35.7,-14.26,47.7,294,13.1,31.7,13.1,31.7,-18.6,34.7,39.2,41.7,42.16,42.16,42.16,Varsity Program,Batesville,Green Wave
-295,45,Falkner,MS,1A,MHSAA 1A,6-5,6,5,0,11,35.5,35.5,-14.47,35.6,295,33.8,30.2,33.8,30.2,3.6,63.7,41.3,67.01,46.35,46.35,46.35,Varsity Program,Falkner,Eagles
-296,63,Wheeler Ms,MS,4A,MHSAA 4A,2-7,2,7,0,9,35.5,35.5,-14.53,44.1,296,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,35.17,35.17,35.17,Varsity Program,Jackson,Varsity
-297,52,Canton Academy,MS,2A,MHSAA 2A,4-7,4,7,0,11,35.5,35.5,-14.54,46.1,297,21.0,29.6,21.0,29.6,-8.6,45.8,42.2,52.5,58.68,58.68,58.68,Varsity Program,Canton,Panthers
-298,36,Jim Hill,MS,6A,MHSAA 6A,2-9,2,9,0,11,35.5,35.5,-14.54,50.9,298,6.4,26.3,6.4,26.3,-19.9,25.4,46.8,36.0,30.56,30.56,30.56,Varsity Program,Jackson,Tigers
-299,46,Meridian HomeSchool,MS,1A,MHSAA 1A,3-7,3,7,0,10,35.2,35.2,-14.78,45.2,299,17.2,37.6,17.2,37.6,-20.4,40.5,31.0,45.82,10.5,19.5,3.0,Varsity Program,Meridian,Flyers
-300,53,Heritage Christian Academy,MS,2A,MHSAA 2A,2-7,2,7,0,9,35.0,35.0,-15.02,44.1,300,19.1,35.2,19.1,35.2,-16.1,43.1,34.3,37.66,76.48,76.48,76.48,Varsity Program,Picayune,Warriors
-301,47,Byers,MS,1A,MHSAA 1A,7-4,7,4,0,11,34.9,34.9,-15.12,34.6,301,25.5,27.7,25.5,27.7,-2.2,52.1,44.8,75.75,75.0,75.0,75.0,Varsity Program,Holly Springs,Lions
-302,48,Shaw,MS,1A,MHSAA 1A,2-8,2,8,0,10,34.6,34.6,-15.41,49.1,302,10.0,24.7,10.0,24.7,-14.7,30.4,49.0,37.19,73.54,73.54,73.54,Varsity Program,Shaw,Warriors
-303,27,Algoma,MS,5A,MHSAA 5A,2-8,2,8,0,10,34.3,34.3,-15.69,43.8,303,15.6,31.8,15.6,31.8,-16.2,38.2,39.1,35.33,33.11,33.11,33.11,Varsity Program,Jackson,Varsity
-304,49,Arcola,MS,1A,MHSAA 1A,2-8,2,8,0,10,34.3,34.3,-15.69,43.8,304,15.6,31.8,15.6,31.8,-16.2,38.2,39.1,35.33,28.9,28.9,28.9,Varsity Program,Jackson,Varsity
-305,46,Arcola High,MS,3A,MHSAA 3A,2-8,2,8,0,10,34.3,34.3,-15.69,43.8,305,15.6,31.8,15.6,31.8,-16.2,38.2,39.1,35.33,32.7,32.7,32.7,Varsity Program,Jackson,Varsity
-306,64,Bassfield,MS,4A,MHSAA 4A,2-8,2,8,0,10,34.3,34.3,-15.69,43.8,306,15.6,31.8,15.6,31.8,-16.2,38.2,39.1,35.33,34.8,34.8,34.8,Varsity Program,Jackson,Varsity
-307,37,Bay High,MS,6A,MHSAA 6A,2-8,2,8,0,10,34.3,34.3,-15.69,43.8,307,15.6,31.8,15.6,31.8,-16.2,38.2,39.1,35.33,33.95,33.95,33.95,Varsity Program,Jackson,Varsity
-308,47,Benoit,MS,3A,MHSAA 3A,2-8,2,8,0,10,34.3,34.3,-15.69,43.8,308,15.6,31.8,15.6,31.8,-16.2,38.2,39.1,35.33,31.55,31.55,31.55,Varsity Program,Jackson,Varsity
-309,65,Braxton,MS,4A,MHSAA 4A,2-8,2,8,0,10,34.3,34.3,-15.69,43.8,309,15.6,31.8,15.6,31.8,-16.2,38.2,39.1,35.33,33.13,33.13,33.13,Varsity Program,Jackson,Varsity
-310,54,Cathedral Natchez,MS,2A,MHSAA 2A,2-8,2,8,0,10,34.3,34.3,-15.69,43.8,310,15.6,31.8,15.6,31.8,-16.2,38.2,39.1,35.33,29.51,29.51,29.51,Varsity Program,Jackson,Varsity
-311,38,Man 2A District,MS,6A,MHSAA District,2-8,2,8,0,10,34.3,34.3,-15.69,43.8,311,15.6,31.8,15.6,31.8,-16.2,38.2,39.1,35.33,33.87,33.87,33.87,Varsity Program,Jackson,Varsity
-312,66,Gentry,MS,4A,MHSAA 4A,0-10,0,10,0,10,34.2,34.2,-15.77,57.4,312,6.8,34.8,6.8,34.8,-28.0,25.9,34.9,20.09,56.09,56.09,56.09,Varsity Program,Indianola,Rams
-313,48,Amanda Elzy,MS,3A,MHSAA 3A,0-10,0,10,0,10,34.1,34.1,-15.91,55.6,313,8.4,33.6,8.4,33.6,-25.2,28.2,36.6,19.46,63.89,63.89,63.89,Varsity Program,Greenwood,Panthers
-314,50,Delta Academy,MS,1A,MHSAA 1A,2-9,2,9,0,11,34.0,34.0,-15.97,43.5,314,36.7,52.4,36.7,52.4,-15.7,67.8,25.0,33.41,70.73,70.73,70.73,Varsity Program,Marks,Raiders
-315,55,Carroll Academy,MS,2A,MHSAA 2A,4-7,4,7,0,11,33.7,33.7,-16.27,42.5,315,23.6,35.1,23.6,35.1,-11.5,49.4,34.5,51.24,56.59,56.59,56.59,Varsity Program,Carrollton,Rebels
-316,67,South Pontotoc,MS,4A,MHSAA 4A,1-9,1,9,0,10,33.7,33.7,-16.34,51.1,316,17.1,43.1,17.1,43.1,-26.0,40.3,25.0,27.88,74.77,74.77,74.77,Varsity Program,Pontotoc,Cougars
-317,56,Walnut,MS,2A,MHSAA 2A,3-8,3,8,0,11,33.3,33.3,-16.7,43.4,317,17.7,27.5,17.7,27.5,-9.8,41.2,45.1,42.46,19.34,19.34,19.34,Varsity Program,Walnut,Wildcats
-318,49,St. Patrick,MS,3A,MHSAA 3A,3-7,3,7,0,10,33.2,33.2,-16.78,44.4,318,17.0,33.0,17.0,33.0,-16.0,40.2,37.4,45.54,72.28,72.28,72.28,Varsity Program,Biloxi,Fighting Irish
-319,57,Newton,MS,2A,MHSAA 2A,2-9,2,9,0,11,33.2,33.2,-16.78,47.6,319,16.6,36.2,16.6,36.2,-19.6,39.6,32.9,34.84,39.86,39.86,39.86,Varsity Program,Newton,Tigers
-320,51,Salem,MS,1A,MHSAA 1A,3-7,3,7,0,10,32.9,32.9,-17.14,40.1,320,27.4,32.1,27.4,32.1,-4.7,54.8,38.7,44.03,32.73,32.73,32.73,Varsity Program,Tylertown,Wildcats
-321,52,Vardaman,MS,1A,MHSAA 1A,2-9,2,9,0,11,32.8,32.8,-17.21,46.8,321,16.5,34.7,16.5,34.7,-18.2,39.5,35.0,34.56,51.35,51.35,51.35,Varsity Program,Vardaman,Rams
-322,68,Park Place Christian Academy,MS,4A,MHSAA 4A,4-5,4,5,0,9,32.7,32.7,-17.28,36.9,322,18.2,21.0,18.2,21.0,-2.8,41.9,54.2,57.36,49.91,49.91,49.91,Varsity Program,Pearl,Crusaders
-323,53,West Bolivar,MS,1A,MHSAA 1A,1-9,1,9,0,10,32.4,32.4,-17.57,48.0,323,15.6,35.1,15.6,35.1,-19.5,38.2,34.5,26.8,78.23,78.23,78.23,Varsity Program,Rosedale,Eagles
-324,58,Regents,MS,2A,MHSAA 2A,3-8,3,8,0,11,32.4,32.4,-17.64,44.4,324,23.8,36.4,23.8,36.4,-12.6,49.7,32.6,42.81,62.5,62.5,62.5,Varsity Program,Oxford,Lions
-325,59,Strayhorn,MS,2A,MHSAA 2A,4-7,4,7,0,11,32.2,32.2,-17.78,40.3,325,18.8,34.5,18.8,34.5,-15.7,42.7,35.3,50.47,62.31,62.31,62.31,Varsity Program,Sarah,Mustangs
-326,54,Mount Olive,MS,1A,MHSAA 1A,2-8,2,8,0,10,32.2,32.2,-17.78,44.5,326,20.0,31.7,20.0,31.7,-11.7,44.4,39.2,35.58,71.51,71.51,71.51,Varsity Program,Mount Olive,Pirates
-327,60,Indianola Academy,MS,2A,MHSAA 2A,3-7,3,7,0,10,32.1,32.1,-17.93,40.3,327,23.0,33.6,23.0,33.6,-10.6,48.6,36.6,44.1,60.76,60.76,60.76,Varsity Program,Indianola,Colonels
-328,50,St. Stanislaus,MS,3A,MHSAA 3A,1-9,1,9,0,10,32.1,32.1,-17.93,52.9,328,8.6,38.6,8.6,38.6,-30.0,28.4,29.6,28.51,19.13,19.13,19.13,Varsity Program,Bay St Louis,Rock A Chaws
-329,61,East Union,MS,2A,MHSAA 2A,1-10,1,10,0,11,31.9,31.9,-18.14,48.5,329,17.2,37.8,17.2,37.8,-20.6,40.5,30.7,26.07,29.35,29.35,29.35,Varsity Program,Blue Springs,Urchins
-330,51,Clinton Christian Academy,MS,3A,MHSAA 3A,3-7,3,7,0,10,31.8,31.8,-18.22,40.6,330,13.5,22.6,13.5,22.6,-9.1,35.3,52.0,44.21,56.56,56.56,56.56,Varsity Program,Clinton,Warriors
-331,52,St. Andrew's Episcopal,MS,3A,MHSAA 3A,2-8,2,8,0,10,31.7,31.7,-18.29,45.0,331,19.2,34.0,19.2,34.0,-14.8,43.3,36.0,35.75,78.56,78.56,78.56,Varsity Program,Ridgeland,Saints
-332,53,Nettleton,MS,3A,MHSAA 3A,0-9,0,9,0,9,31.4,31.4,-18.58,56.7,332,13.1,47.7,13.1,47.7,-34.6,34.7,25.0,19.84,55.8,55.8,55.8,Varsity Program,Nettleton,Tigers
-333,54,West Memphis Christian,MS,3A,MHSAA 3A,2-8,2,8,0,10,31.2,31.2,-18.84,43.8,333,11.6,34.8,11.6,34.8,-23.2,32.6,34.9,35.33,57.69,57.69,57.69,Varsity Program,West Memphis,Black Knights
-334,62,Wilkinson County,MS,2A,MHSAA 2A,1-10,1,10,0,11,31.0,31.0,-19.01,46.1,334,14.9,29.6,14.9,29.6,-14.7,37.3,42.2,25.23,29.91,29.91,29.91,Varsity Program,Woodville,Wildcats
-335,69,Byhalia,MS,4A,MHSAA 4A,3-6,3,6,0,9,30.3,30.3,-19.73,44.0,335,15.3,31.7,15.3,31.7,-16.4,37.8,39.2,48.73,75.17,75.17,75.17,Varsity Program,Byhalia,Indians
-336,70,Bay,MS,4A,MHSAA 4A,0-9,0,9,0,9,30.3,30.3,-19.73,52.5,336,4.4,36.9,4.4,36.9,-32.5,25.0,31.9,18.38,83.96,83.96,83.96,Varsity Program,Bay St Louis,Tigers
-337,55,Alcorn Central,MS,3A,MHSAA 3A,2-9,2,9,0,11,29.8,29.8,-20.16,44.3,337,12.5,34.8,12.5,34.8,-22.3,33.9,34.9,33.69,48.07,48.07,48.07,Varsity Program,Glen,Golden Bears
-338,55,Ackerman High,MS,1A,MHSAA 1A,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,338,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,26.56,26.56,26.56,Varsity Program,Ackerman,Varsity
-339,32,Baldwyn High,MS,7A,MHSAA 7A,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,339,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,29.63,29.63,29.63,Varsity Program,Jackson,Varsity
-340,33,Beaumont,MS,7A,MHSAA 7A,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,340,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,28.62,28.62,28.62,Varsity Program,Jackson,Varsity
-341,63,Benton,MS,2A,MHSAA 2A,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,341,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,28.38,28.38,28.38,Varsity Program,Jackson,Varsity
-342,71,Enterprise Lincoln,MS,4A,MHSAA 4A,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,342,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,27.5,27.5,27.5,Varsity Program,Jackson,Varsity
-343,34,French Camp,MS,7A,MHSAA 7A,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,343,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,28.23,28.23,28.23,Varsity Program,Jackson,Varsity
-344,56,Coffeeville,MS,1A,MHSAA 1A,2-8,2,8,0,10,29.4,29.4,-20.59,44.0,344,8.8,32.5,8.8,32.5,-23.7,28.7,38.1,35.4,63.45,63.45,63.45,Varsity Program,Coffeeville,Pirates
-345,64,Palmer,MS,2A,MHSAA 2A,0-10,0,10,0,10,29.3,29.3,-20.66,49.3,345,11.6,34.5,11.6,34.5,-22.9,32.6,35.3,17.25,27.61,27.61,27.61,Varsity Program,Marks,Dragons
-346,57,Ashland High,MS,1A,MHSAA 1A,1-9,1,9,0,10,29.1,29.1,-20.92,42.4,346,12.8,34.4,12.8,34.4,-21.6,34.3,35.4,24.84,22.19,22.19,22.19,Varsity Program,Jackson,Varsity
-347,72,Belzoni,MS,4A,MHSAA 4A,1-9,1,9,0,10,29.1,29.1,-20.92,42.4,347,12.8,34.4,12.8,34.4,-21.6,34.3,35.4,24.84,25.88,25.88,25.88,Varsity Program,Jackson,Varsity
-348,39,Forrest County Ahs,MS,6A,MHSAA 6A,1-9,1,9,0,10,29.1,29.1,-20.92,42.4,348,12.8,34.4,12.8,34.4,-21.6,34.3,35.4,24.84,25.9,25.9,25.9,Varsity Program,Jackson,Varsity
-349,73,Itawamba AHS,MS,4A,MHSAA 4A,1-9,1,9,0,10,29.1,29.1,-20.92,42.4,349,12.8,34.4,12.8,34.4,-21.6,34.3,35.4,24.84,27.99,27.99,27.99,Varsity Program,Jackson,Varsity
-350,40,Wingfield,MS,6A,MHSAA 6A,1-9,1,9,0,10,29.1,29.1,-20.92,42.4,350,12.8,34.4,12.8,34.4,-21.6,34.3,35.4,24.84,25.9,25.9,25.9,Varsity Program,Jackson,Varsity
-351,58,Potts Camp,MS,1A,MHSAA 1A,3-6,3,6,0,9,28.2,28.2,-21.82,34.9,351,23.8,30.9,23.8,30.9,-7.1,49.7,40.3,45.55,33.02,33.02,33.02,Varsity Program,Potts Camp,Cardinals
-352,59,Resurrection Catholic,MS,1A,MHSAA 1A,1-8,1,8,0,9,28.1,28.1,-21.89,45.8,352,13.3,31.4,13.3,31.4,-18.1,35.0,39.6,27.14,35.26,35.26,35.26,Varsity Program,Pascagoula,Eagles
-353,60,Smithville,MS,1A,MHSAA 1A,3-8,3,8,0,11,27.8,27.8,-22.18,38.1,353,19.6,29.6,19.6,29.6,-10.0,43.8,42.2,40.61,26.35,26.35,26.35,Varsity Program,Smithville,Seminoles
-354,56,Bowling Green,MS,3A,MHSAA 3A,1-9,1,9,0,10,27.8,27.8,-22.18,42.4,354,12.6,37.0,12.6,37.0,-24.4,34.0,31.8,24.84,72.64,72.64,72.64,Varsity Program,Franklinton,Buccaneers
-355,65,Enterprise (Brookhaven),MS,2A,MHSAA 2A,1-9,1,9,0,10,27.5,27.5,-22.46,46.1,355,13.2,39.3,13.2,39.3,-26.1,34.9,28.6,26.13,32.59,32.59,32.59,Varsity Program,Brookhaven,Yellowjackets
-356,66,Union Christian Academy,MS,2A,MHSAA 2A,1-8,1,8,0,9,27.4,27.4,-22.63,42.6,356,18.7,44.8,18.7,44.8,-26.1,42.6,25.0,26.02,26.94,26.94,26.94,Varsity Program,Farmerville,Lions
-357,57,Mantachie,MS,3A,MHSAA 3A,2-8,2,8,0,10,27.2,27.2,-22.82,39.0,357,18.5,29.9,18.5,29.9,-11.4,42.3,41.7,33.65,52.38,52.38,52.38,Varsity Program,Mantachie,Mustangs
-358,61,French Camp Academy,MS,1A,MHSAA 1A,0-11,0,11,0,11,27.0,27.0,-23.04,47.5,358,8.5,36.0,8.5,36.0,-27.5,28.3,33.2,16.62,27.91,27.91,27.91,Varsity Program,French Camp,Panthers
-359,62,North Sunflower Academy,MS,1A,MHSAA 1A,1-8,1,8,0,9,26.5,26.5,-23.49,42.6,359,18.2,52.7,18.2,52.7,-34.5,41.9,25.0,26.02,85.2,85.2,85.2,Varsity Program,Drew,Rebels
-360,67,Kemper Academy,MS,2A,MHSAA 2A,1-9,1,9,0,10,26.2,26.2,-23.8,42.4,360,15.2,44.7,15.2,44.7,-29.5,37.7,25.0,24.84,33.13,33.13,33.13,Varsity Program,Dekalb,Rams
-361,68,Puckett,MS,2A,MHSAA 2A,1-9,1,9,0,10,25.9,25.9,-24.12,43.3,361,8.6,37.7,8.6,37.7,-29.1,28.4,30.8,25.15,47.11,47.11,47.11,Varsity Program,Puckett,Wolves
-362,58,McLaurin,MS,3A,MHSAA 3A,3-8,3,8,0,11,25.4,25.4,-24.62,47.0,362,10.5,33.3,10.5,33.3,-22.8,31.1,37.0,43.72,33.15,33.15,33.15,Varsity Program,Florence,Tigers
-363,63,Hillcrest Christian,MS,1A,MHSAA 1A,0-1,0,1,0,1,25.2,25.2,-24.8,41.0,363,0.0,24.0,0.0,24.0,-24.0,25.0,50.0,14.35,0.0,0.0,0.0,Varsity Program,Jackson,Cougars
-364,69,Greenville Christian,MS,2A,MHSAA 2A,0-11,0,11,0,11,24.6,24.6,-25.42,48.8,364,11.8,48.7,11.8,48.7,-36.9,32.9,25.0,17.08,72.31,72.31,72.31,Varsity Program,Greenville,Saints
-365,70,Aberdeen High,MS,2A,MHSAA 2A,0-8,0,8,0,8,23.9,23.9,-26.15,41.0,365,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,21.1,21.1,21.1,Varsity Program,Jackson,Varsity
-366,28,Amory High,MS,5A,MHSAA 5A,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,366,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,21.35,21.35,21.35,Varsity Program,Jackson,Varsity
-367,74,Anguilla High,MS,4A,MHSAA 4A,0-10,0,10,0,10,23.9,23.9,-26.15,41.0,367,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,20.14,20.14,20.14,Varsity Program,Jackson,Varsity
-368,71,Artesia High,MS,2A,MHSAA 2A,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,368,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,22.21,22.21,22.21,Varsity Program,Jackson,Varsity
-369,59,Batesville,MS,3A,MHSAA 3A,0-10,0,10,0,10,23.9,23.9,-26.15,41.0,369,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,18.74,18.74,18.74,Varsity Program,Batesville,Varsity
-370,60,Blue Springs,MS,3A,MHSAA 3A,0-10,0,10,0,10,23.9,23.9,-26.15,41.0,370,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,20.49,20.49,20.49,Varsity Program,Jackson,Varsity
-371,64,West Lincoln,MS,1A,MHSAA 1A,1-10,1,10,0,11,23.7,23.7,-26.28,44.0,371,6.9,47.9,6.9,47.9,-41.0,26.1,25.0,24.49,34.84,34.84,34.84,Varsity Program,Brookhaven,Bears
-372,61,Holly Springs,MS,3A,MHSAA 3A,0-11,0,11,0,11,23.6,23.6,-26.42,48.2,372,8.5,42.3,8.5,42.3,-33.8,28.3,25.0,16.87,72.07,72.07,72.07,Varsity Program,Holly Springs,Hawks
-373,72,Hebron Christian,MS,2A,MHSAA 2A,0-9,0,9,0,9,23.4,23.4,-26.6,41.0,373,6.2,52.6,6.2,52.6,-46.4,25.1,25.0,14.35,35.35,35.35,35.35,Varsity Program,Pheba,Eagles
-374,65,Magnolia,MS,1A,MHSAA 1A,0-10,0,10,0,10,23.4,23.4,-26.6,41.0,374,13.7,53.0,13.7,53.0,-39.3,35.6,25.0,14.35,52.95,52.95,52.95,Varsity Program,Terry,Wildcats
-375,73,Riverdale Academy,MS,2A,MHSAA 2A,0-9,0,9,0,9,23.4,23.4,-26.6,41.0,375,11.6,49.1,11.6,49.1,-37.5,32.6,25.0,14.35,80.24,80.24,80.24,Varsity Program,Coushatta,Rebels
-376,62,Crystal Springs,MS,3A,MHSAA 3A,0-9,0,9,0,9,22.0,22.0,-28.01,46.3,376,4.3,40.4,4.3,40.4,-36.1,25.0,27.0,16.2,70.0,70.0,70.0,Varsity Program,Crystal Springs,Tigers
-377,74,Manchester Academy,MS,2A,MHSAA 2A,1-9,1,9,0,10,21.8,21.8,-28.22,39.9,377,11.2,39.0,11.2,39.0,-27.8,32.1,29.0,23.96,25.32,25.32,25.32,Varsity Program,Yazoo City,Mavericks
-378,75,Discovery Christian,MS,2A,MHSAA 2A,1-9,1,9,0,10,19.6,19.6,-30.38,37.1,378,14.0,40.0,14.0,40.0,-26.0,36.0,27.6,22.98,69.92,69.92,69.92,Varsity Program,Florence,Christian
-379,66,Riverside,MS,1A,MHSAA 1A,0-10,0,10,0,10,19.5,19.5,-30.53,44.8,379,0.0,34.6,0.0,34.6,-34.6,25.0,35.2,15.68,52.2,52.2,52.2,Varsity Program,Avon,Bulldogs
-380,67,Ashland,MS,1A,MHSAA 1A,0-10,0,10,0,10,17.5,17.5,-32.54,38.3,380,8.0,36.8,8.0,36.8,-28.8,27.6,32.1,13.4,40.37,40.37,40.37,Varsity Program,Ashland,Blue Devils
-381,68,Thrasher,MS,1A,MHSAA 1A,0-11,0,11,0,11,16.1,16.1,-33.91,38.8,381,6.5,41.0,6.5,41.0,-34.5,25.5,26.2,13.58,21.35,21.35,21.35,Varsity Program,Booneville,Rebels
-382,63,Christian Collegiate Academy,MS,3A,MHSAA 3A,0-11,0,11,0,11,14.0,14.0,-36.0,37.3,382,3.6,50.4,3.6,50.4,-46.8,25.0,25.0,13.05,48.22,48.22,48.22,Varsity Program,Gulfport,Bulldogs
+name,division,stateRank,divisionRank,record,wins,losses,powerIndex,sosIndex,pointsFor,pointsAgainst,ppg,oppPpg,overallRating,conference,city
+Tupelo,7A,1,1,11-0,11,0,103.8,88.1,474,71,43.1,6.5,103.8,MHSAA MS 7A,Mississippi
+Gulfport,7A,2,2,9-1,9,1,97.4,86.4,395,118,39.5,11.8,97.4,MHSAA MS 7A,Mississippi
+Louisville,4A,3,1,9-2,9,2,95.2,85.3,415,122,37.7,11.1,95.2,MHSAA MS 4A,Mississippi
+Jackson Prep,3A,4,1,11-1,11,1,95.0,89.5,512,202,42.7,16.8,95.0,MHSAA MS 3A,Mississippi
+Warren Central,6A,5,1,10-0,10,0,94.3,81.9,402,152,40.2,15.2,94.3,MHSAA MS 6A,Mississippi
+D'Iberville,7A,6,3,9-1,9,1,93.5,88.0,367,170,36.7,17.0,93.5,MHSAA MS 7A,Mississippi
+Brookhaven,5A,7,1,10-0,10,0,93.4,72.4,422,130,42.2,13.0,93.4,MHSAA MS 5A,Mississippi
+Tri-County Academy,7A,8,4,10-1,10,1,92.8,62.6,449,123,40.8,11.2,92.8,MHSAA MS 7A,Mississippi
+Heidelberg,2A,9,1,9-1,9,1,92.8,53.8,471,68,47.1,6.8,92.8,MHSAA MS 2A,Mississippi
+Starkville,7A,10,5,7-3,7,3,92.4,99.0,336,217,33.6,21.7,92.4,MHSAA MS 7A,Mississippi
+South Panola,6A,11,2,5-4,5,4,92.1,86.0,312,139,34.7,15.4,92.1,MHSAA MS 6A,Mississippi
+Parklane Academy,7A,12,6,9-3,9,3,91.9,75.4,474,197,39.5,16.4,91.9,MHSAA MS 7A,Mississippi
+Magnolia Heights,3A,13,2,10-1,10,1,91.8,66.9,438,118,39.8,10.7,91.8,MHSAA MS 3A,Mississippi
+Poplarville,4A,14,2,10-0,10,0,91.5,70.0,441,164,44.1,16.4,91.5,MHSAA MS 4A,Mississippi
+Jackson Academy,2A,15,2,8-3,8,3,91.4,89.5,405,176,36.8,16.0,91.4,MHSAA MS 2A,Mississippi
+Meridian,7A,16,7,7-3,7,3,91.0,87.9,355,203,35.5,20.3,91.0,MHSAA MS 7A,Mississippi
+Brandon,7A,17,8,7-3,7,3,90.7,99.0,343,258,34.3,25.8,90.7,MHSAA MS 7A,Mississippi
+Germantown,7A,18,9,6-5,6,5,90.2,96.8,420,307,38.2,27.9,90.2,MHSAA MS 7A,Mississippi
+St. Martin,7A,19,10,8-2,8,2,90.2,78.2,420,235,42.0,23.5,90.2,MHSAA MS 7A,Mississippi
+Oxford,7A,20,11,8-2,8,2,90.1,99.0,316,245,31.6,24.5,90.1,MHSAA MS 7A,Mississippi
+DeSoto Central,7A,21,12,7-3,7,3,90.0,92.3,313,191,31.3,19.1,90.0,MHSAA MS 7A,Mississippi
+Winona,3A,22,3,11-0,11,0,88.9,46.5,532,143,48.4,13.0,88.9,MHSAA MS 3A,Mississippi
+Pass Christian,4A,23,3,11-0,11,0,88.7,47.7,538,183,48.9,16.6,88.7,MHSAA MS 4A,Mississippi
+Pontotoc,5A,24,2,8-2,8,2,88.7,80.1,352,180,35.2,18.0,88.7,MHSAA MS 5A,Mississippi
+Kosciusko,4A,25,4,10-1,10,1,88.3,70.3,527,285,47.9,25.9,88.3,MHSAA MS 4A,Mississippi
+Oak Grove,7A,26,13,9-2,9,2,88.1,86.7,389,264,35.4,24.0,88.1,MHSAA MS 7A,Mississippi
+Lake Cormorant,6A,27,3,10-0,10,0,87.9,73.8,255,79,25.5,7.9,87.9,MHSAA MS 6A,Mississippi
+McComb,4A,28,5,8-2,8,2,87.8,64.5,406,177,40.6,17.7,87.8,MHSAA MS 4A,Mississippi
+Madison-Ridgeland Academy,4A,29,6,8-3,8,3,87.4,99.0,346,280,31.5,25.5,87.4,MHSAA MS 4A,Mississippi
+Shannon,4A,30,7,9-2,9,2,87.2,70.4,384,169,34.9,15.4,87.2,MHSAA MS 4A,Mississippi
+Madison Central,7A,31,14,6-4,6,4,87.1,99.0,296,261,29.6,26.1,87.1,MHSAA MS 7A,Mississippi
+Seminary,3A,32,4,10-1,10,1,86.6,59.1,403,122,36.6,11.1,86.6,MHSAA MS 3A,Mississippi
+Corinth,4A,33,8,7-3,7,3,86.2,68.2,324,111,32.4,11.1,86.2,MHSAA MS 4A,Mississippi
+Petal,7A,34,15,9-2,9,2,86.2,96.0,417,373,37.9,33.9,86.2,MHSAA MS 7A,Mississippi
+Hernando,7A,35,16,7-3,7,3,85.8,79.5,354,238,35.4,23.8,85.8,MHSAA MS 7A,Mississippi
+New Hope,5A,36,3,7-3,7,3,85.8,76.8,357,212,35.7,21.2,85.8,MHSAA MS 5A,Mississippi
+Hartfield Academy,1A,37,1,7-4,7,4,85.4,97.7,323,251,29.4,22.8,85.4,MHSAA MS 1A,Mississippi
+Senatobia,4A,38,9,11-0,11,0,85.3,54.9,366,88,33.3,8.0,85.3,MHSAA MS 4A,Mississippi
+Noxubee County,3A,39,5,9-2,9,2,85.2,73.6,426,230,38.7,20.9,85.2,MHSAA MS 3A,Mississippi
+Center Hill,6A,40,4,8-2,8,2,84.4,74.6,308,196,30.8,19.6,84.4,MHSAA MS 6A,Mississippi
+Wesson,2A,41,3,10-0,10,0,84.3,40.3,336,40,33.6,4.0,84.3,MHSAA MS 2A,Mississippi
+Picayune,6A,42,5,7-3,7,3,84.2,90.3,289,251,28.9,25.1,84.2,MHSAA MS 6A,Mississippi
+Neshoba Central,6A,43,6,7-3,7,3,84.1,84.9,317,256,31.7,25.6,84.1,MHSAA MS 6A,Mississippi
+Edwards,3A,44,6,10-0,10,0,83.9,33.0,350,42,35.0,4.2,83.9,MHSAA MS 3A,Mississippi
+Pearl River Central,6A,45,7,6-4,6,4,83.8,78.6,332,249,33.2,24.9,83.8,MHSAA MS 6A,Mississippi
+East Marion,2A,46,4,9-1,9,1,83.8,32.6,457,121,45.7,12.1,83.8,MHSAA MS 2A,Mississippi
+Leake Academy,7A,47,17,9-3,9,3,83.8,68.7,472,328,39.3,27.3,83.8,MHSAA MS 7A,Mississippi
+Mendenhall,4A,48,10,9-2,9,2,83.4,63.4,400,226,36.4,20.5,83.4,MHSAA MS 4A,Mississippi
+Columbia,4A,49,11,7-4,7,4,83.2,65.0,383,224,34.8,20.4,83.2,MHSAA MS 4A,Mississippi
+Wayne County,5A,50,4,6-4,6,4,83.0,64.0,333,191,33.3,19.1,83.0,MHSAA MS 5A,Mississippi
+Cleveland Central,5A,51,5,7-3,7,3,82.9,65.0,342,206,34.2,20.6,82.9,MHSAA MS 5A,Mississippi
+Amite County,2A,52,5,9-1,9,1,82.7,22.4,414,45,41.4,4.5,82.7,MHSAA MS 2A,Mississippi
+Grenada,6A,53,8,5-4,5,4,82.6,80.0,207,157,23.0,17.4,82.6,MHSAA MS 6A,Mississippi
+Canton,6A,54,9,8-2,8,2,82.6,65.4,346,223,34.6,22.3,82.6,MHSAA MS 6A,Mississippi
+Pillow Academy,6A,55,10,9-3,9,3,82.4,68.9,332,208,27.7,17.3,82.4,MHSAA MS 6A,Mississippi
+New Albany,4A,56,12,7-3,7,3,82.3,61.3,343,192,34.3,19.2,82.3,MHSAA MS 4A,Mississippi
+Gautier,6A,57,11,6-4,6,4,82.3,74.4,368,291,36.8,29.1,82.3,MHSAA MS 6A,Mississippi
+Hattiesburg,6A,58,12,7-3,7,3,82.0,75.4,251,174,25.1,17.4,82.0,MHSAA MS 6A,Mississippi
+Itawamba Agricultural,4A,59,13,6-3,6,3,82.0,71.2,325,230,36.1,25.6,82.0,MHSAA MS 4A,Mississippi
+Clinton,7A,60,18,2-8,2,8,82.0,99.0,280,328,28.0,32.8,82.0,MHSAA MS 7A,Mississippi
+Clinton Christian Academy,7A,61,19,5-2,5,2,81.9,68.3,281,218,40.1,31.1,81.9,MHSAA MS 7A,Mississippi
+Lafayette,5A,62,6,8-3,8,3,81.9,60.5,451,285,41.0,25.9,81.9,MHSAA MS 5A,Mississippi
+Starkville Academy,7A,63,20,6-5,6,5,81.8,69.0,347,253,31.5,23.0,81.8,MHSAA MS 7A,Mississippi
+West Jones,6A,64,13,8-3,8,3,81.8,63.8,378,249,34.4,22.6,81.8,MHSAA MS 6A,Mississippi
+Leake,5A,65,7,7-2,7,2,81.6,66.0,316,203,35.1,22.6,81.6,MHSAA MS 5A,Mississippi
+Northwest Rankin,7A,66,21,3-7,3,7,81.3,99.0,250,327,25.0,32.7,81.3,MHSAA MS 7A,Mississippi
+East Webster,2A,67,6,10-1,10,1,81.0,45.3,385,146,35.0,13.3,81.0,MHSAA MS 2A,Mississippi
+Copiah Academy,5A,68,8,10-2,10,2,81.0,52.7,407,217,33.9,18.1,81.0,MHSAA MS 5A,Mississippi
+Scott Central,2A,69,7,8-2,8,2,80.5,41.3,358,139,35.8,13.9,80.5,MHSAA MS 2A,Mississippi
+Winona Christian,6A,70,14,9-3,9,3,80.5,42.2,395,170,32.9,14.2,80.5,MHSAA MS 6A,Mississippi
+Tupelo Christian Prep,1A,71,2,10-0,10,0,80.4,20.0,443,53,44.3,5.3,80.4,MHSAA MS 1A,Mississippi
+Choctaw County,3A,72,7,4-6,4,6,80.1,76.3,312,261,31.2,26.1,80.1,MHSAA MS 3A,Mississippi
+Simmons,1A,73,3,8-1,8,1,80.1,20.9,360,60,40.0,6.7,80.1,MHSAA MS 1A,Mississippi
+Ridgeland,6A,74,15,5-5,5,5,80.0,73.3,304,262,30.4,26.2,80.0,MHSAA MS 6A,Mississippi
+Natchez,5A,75,9,7-3,7,3,80.0,66.5,350,271,35.0,27.1,80.0,MHSAA MS 5A,Mississippi
+Lee Academy,7A,76,22,9-2,9,2,79.9,44.1,379,195,34.5,17.7,79.9,MHSAA MS 7A,Mississippi
+Leflore County,1A,77,4,10-0,10,0,79.9,28.8,350,73,35.0,7.3,79.9,MHSAA MS 1A,Mississippi
+Kemper County,2A,78,8,9-2,9,2,79.8,55.8,416,255,37.8,23.2,79.8,MHSAA MS 2A,Mississippi
+Raleigh,3A,79,8,6-4,6,4,79.8,63.3,285,170,28.5,17.0,79.8,MHSAA MS 3A,Mississippi
+Biloxi,7A,80,23,3-7,3,7,79.8,88.3,231,266,23.1,26.6,79.8,MHSAA MS 7A,Mississippi
+Oak Hill Academy,2A,81,9,10-2,10,2,79.8,39.3,437,176,36.4,14.7,79.8,MHSAA MS 2A,Mississippi
+Clarksdale,4A,82,14,7-3,7,3,79.7,57.9,279,150,27.9,15.0,79.7,MHSAA MS 4A,Mississippi
+West Point,5A,83,10,3-7,3,7,79.6,99.0,224,309,22.4,30.9,79.6,MHSAA MS 5A,Mississippi
+Magee,3A,84,9,8-2,8,2,79.6,51.8,344,172,34.4,17.2,79.6,MHSAA MS 3A,Mississippi
+Terry,6A,85,16,6-5,6,5,79.6,53.0,331,181,30.1,16.5,79.6,MHSAA MS 6A,Mississippi
+Washington,6A,86,17,8-4,8,4,79.5,57.5,405,275,33.8,22.9,79.5,MHSAA MS 6A,Mississippi
+Greenwood,4A,87,15,5-5,5,5,79.4,73.3,234,186,23.4,18.6,79.4,MHSAA MS 4A,Mississippi
+Booneville,3A,88,10,10-0,10,0,79.3,32.0,359,115,35.9,11.5,79.3,MHSAA MS 3A,Mississippi
+Lanier,5A,89,11,9-2,9,2,79.3,50.5,312,160,28.4,14.5,79.3,MHSAA MS 5A,Mississippi
+Houston,4A,90,16,4-8,4,8,79.0,91.4,323,373,26.9,31.1,79.0,MHSAA MS 4A,Mississippi
+Morton,4A,91,17,8-2,8,2,78.8,65.1,360,283,36.0,28.3,78.8,MHSAA MS 4A,Mississippi
+St. Joseph,6A,92,18,8-3,8,3,78.7,39.3,397,199,36.1,18.1,78.7,MHSAA MS 6A,Mississippi
+Horn Lake,7A,93,24,2-8,2,8,78.5,99.0,162,267,16.2,26.7,78.5,MHSAA MS 7A,Mississippi
+Eupora,2A,94,10,9-2,9,2,78.3,44.2,350,159,31.8,14.5,78.3,MHSAA MS 2A,Mississippi
+Richland,4A,95,18,7-3,7,3,77.6,45.7,390,246,39.0,24.6,77.6,MHSAA MS 4A,Mississippi
+North Side,2A,96,11,8-2,8,2,77.6,25.0,349,102,34.9,10.2,77.6,MHSAA MS 2A,Mississippi
+Pascagoula,6A,97,19,3-7,3,7,77.5,83.5,185,232,18.5,23.2,77.5,MHSAA MS 6A,Mississippi
+Presbyterian Christian,3A,98,11,8-3,8,3,77.2,56.6,322,220,29.3,20.0,77.2,MHSAA MS 3A,Mississippi
+West Harrison,7A,99,25,4-6,4,6,77.2,93.0,237,335,23.7,33.5,77.2,MHSAA MS 7A,Mississippi
+Columbia Academy,7A,100,26,10-2,10,2,77.1,40.1,335,170,27.9,14.2,77.1,MHSAA MS 7A,Mississippi
+Laurel,5A,101,12,4-6,4,6,77.0,87.1,319,400,31.9,40.0,77.0,MHSAA MS 5A,Mississippi
+Amory,4A,102,19,5-6,5,6,76.9,73.6,249,250,22.6,22.7,76.9,MHSAA MS 4A,Mississippi
+Perry Central,2A,103,12,7-4,7,4,76.9,46.9,335,170,30.5,15.5,76.9,MHSAA MS 2A,Mississippi
+Stone,5A,104,13,6-4,6,4,76.8,72.0,287,286,28.7,28.6,76.8,MHSAA MS 5A,Mississippi
+George County,6A,105,20,4-6,4,6,76.8,68.0,278,266,27.8,26.6,76.8,MHSAA MS 6A,Mississippi
+Hancock,6A,106,21,6-4,6,4,76.7,78.0,318,352,31.8,35.2,76.7,MHSAA MS 6A,Mississippi
+Ocean Springs,7A,107,27,3-7,3,7,76.6,97.5,175,303,17.5,30.3,76.6,MHSAA MS 7A,Mississippi
+Rosa Fort,4A,108,20,5-5,5,5,76.5,51.4,308,177,30.8,17.7,76.5,MHSAA MS 4A,Mississippi
+Myrtle,2A,109,13,8-1,8,1,76.5,25.4,341,138,37.9,15.3,76.5,MHSAA MS 2A,Mississippi
+Charleston,2A,110,14,8-3,8,3,76.4,43.8,354,196,32.2,17.8,76.4,MHSAA MS 2A,Mississippi
+Wayne Academy,5A,111,14,6-6,6,6,76.4,57.8,335,266,27.9,22.2,76.4,MHSAA MS 5A,Mississippi
+West Lauderdale,4A,112,21,6-4,6,4,76.3,58.4,244,184,24.4,18.4,76.3,MHSAA MS 4A,Mississippi
+Greene County,4A,113,22,8-3,8,3,76.1,60.1,342,286,31.1,26.0,76.1,MHSAA MS 4A,Mississippi
+Brookhaven Academy,6A,114,22,6-5,6,5,76.1,58.2,312,262,28.4,23.8,76.1,MHSAA MS 6A,Mississippi
+Faithful Explorers ALC,7A,115,28,1-5,1,5,76.0,99.0,86,210,14.3,35.0,76.0,MHSAA MS 7A,Mississippi
+Olive Branch,6A,116,23,3-8,3,8,76.0,86.9,232,327,21.1,29.7,76.0,MHSAA MS 6A,Mississippi
+Southaven,7A,117,29,2-7,2,7,76.0,98.0,97,227,10.8,25.2,76.0,MHSAA MS 7A,Mississippi
+Central Hinds Academy,5A,118,15,9-3,9,3,76.0,42.0,404,256,33.7,21.3,76.0,MHSAA MS 5A,Mississippi
+Hazlehurst,3A,119,12,7-3,7,3,75.9,44.5,378,225,37.8,22.5,75.9,MHSAA MS 3A,Mississippi
+South Jones,5A,120,16,7-4,7,4,75.7,67.6,303,300,27.5,27.3,75.7,MHSAA MS 5A,Mississippi
+Pearl,7A,121,30,2-9,2,9,75.6,99.0,177,356,16.1,32.4,75.6,MHSAA MS 7A,Mississippi
+North Delta,5A,122,17,7-4,7,4,75.5,58.7,282,240,25.6,21.8,75.5,MHSAA MS 5A,Mississippi
+Baldwyn,2A,123,15,9-2,9,2,75.4,41.6,390,250,35.5,22.7,75.4,MHSAA MS 2A,Mississippi
+Sumrall,5A,124,18,6-5,6,5,75.2,66.8,315,321,28.6,29.2,75.2,MHSAA MS 5A,Mississippi
+East Central,5A,125,19,4-6,4,6,75.0,72.9,219,253,21.9,25.3,75.0,MHSAA MS 5A,Mississippi
+Franklin County,3A,126,13,6-5,6,5,74.9,57.4,340,284,30.9,25.8,74.9,MHSAA MS 3A,Mississippi
+Mize,2A,127,16,5-5,5,5,74.6,57.2,242,177,24.2,17.7,74.6,MHSAA MS 2A,Mississippi
+Forest,4A,128,23,5-5,5,5,74.6,63.9,302,296,30.2,29.6,74.6,MHSAA MS 4A,Mississippi
+Florence,5A,129,20,4-7,4,7,74.5,69.4,234,264,21.3,24.0,74.5,MHSAA MS 5A,Mississippi
+Vicksburg,5A,130,21,3-7,3,7,74.4,72.6,168,208,16.8,20.8,74.4,MHSAA MS 5A,Mississippi
+Newton County,4A,131,24,4-6,4,6,74.1,63.0,220,216,22.0,21.6,74.1,MHSAA MS 4A,Mississippi
+Caledonia,5A,132,22,3-7,3,7,73.6,79.8,193,282,19.3,28.2,73.6,MHSAA MS 5A,Mississippi
+Lamar,5A,133,23,5-6,5,6,73.5,67.2,203,241,18.5,21.9,73.5,MHSAA MS 5A,Mississippi
+Marshall Academy,1A,134,5,4-8,4,8,73.2,59.5,383,357,31.9,29.8,73.2,MHSAA MS 1A,Mississippi
+Bayou Academy,7A,135,31,6-5,6,5,73.2,69.3,190,268,17.3,24.4,73.2,MHSAA MS 7A,Mississippi
+North Panola,3A,136,14,5-4,5,4,73.2,42.3,264,184,29.3,20.4,73.2,MHSAA MS 3A,Mississippi
+O'Bannon,3A,137,15,9-1,9,1,73.0,20.0,311,106,31.1,10.6,73.0,MHSAA MS 3A,Mississippi
+Harrison Central,7A,138,32,1-9,1,9,73.0,84.4,134,267,13.4,26.7,73.0,MHSAA MS 7A,Mississippi
+Callaway,6A,139,24,4-7,4,7,73.0,76.3,177,281,16.1,25.5,73.0,MHSAA MS 6A,Mississippi
+Bruce,2A,140,17,9-2,9,2,72.9,21.3,405,204,36.8,18.5,72.9,MHSAA MS 2A,Mississippi
+Kossuth,3A,141,16,7-3,7,3,72.8,42.6,267,186,26.7,18.6,72.8,MHSAA MS 3A,Mississippi
+Lewisburg,7A,142,33,3-7,3,7,72.5,84.7,216,358,21.6,35.8,72.5,MHSAA MS 7A,Mississippi
+Stringer,1A,143,6,8-3,8,3,72.3,20.0,398,152,36.2,13.8,72.3,MHSAA MS 1A,Mississippi
+Nanih Waiya,1A,144,7,8-2,8,2,72.3,32.4,397,267,39.7,26.7,72.3,MHSAA MS 1A,Mississippi
+Greenville,6A,145,25,3-7,3,7,72.2,67.0,194,254,19.4,25.4,72.2,MHSAA MS 6A,Mississippi
+Purvis,5A,146,24,4-6,4,6,72.1,62.6,216,253,21.6,25.3,72.1,MHSAA MS 5A,Mississippi
+Northeast Jones,5A,147,25,3-7,3,7,71.5,66.9,180,246,18.0,24.6,71.5,MHSAA MS 5A,Mississippi
+Enterprise,2A,148,18,7-4,7,4,71.2,52.2,263,239,23.9,21.7,71.2,MHSAA MS 2A,Mississippi
+Jefferson Davis County,3A,149,17,3-8,3,8,70.6,72.5,231,333,21.0,30.3,70.6,MHSAA MS 3A,Mississippi
+South Delta,1A,150,8,7-3,7,3,70.5,21.2,296,145,29.6,14.5,70.5,MHSAA MS 1A,Mississippi
+Canton Academy,4A,151,25,7-4,7,4,70.5,51.4,267,274,24.3,24.9,70.5,MHSAA MS 4A,Mississippi
+Cathedral,4A,152,26,6-5,6,5,70.5,42.0,311,272,28.3,24.7,70.5,MHSAA MS 4A,Mississippi
+PURE Academy,4A,153,27,2-4,2,4,70.5,83.6,98,188,16.3,31.3,70.5,MHSAA MS 4A,Mississippi
+Long Beach,6A,154,26,4-6,4,6,70.4,71.3,162,272,16.2,27.2,70.4,MHSAA MS 6A,Mississippi
+Port Gibson,3A,155,18,5-5,5,5,70.2,45.2,256,234,25.6,23.4,70.2,MHSAA MS 3A,Mississippi
+Heritage Academy,5A,156,26,4-7,4,7,70.1,80.9,199,368,18.1,33.5,70.1,MHSAA MS 5A,Mississippi
+Water Valley,2A,157,19,4-7,4,7,70.0,45.4,324,293,29.5,26.6,70.0,MHSAA MS 2A,Mississippi
+Clarkdale,2A,158,20,6-5,6,5,70.0,49.8,215,210,19.5,19.1,70.0,MHSAA MS 2A,Mississippi
+Calhoun City,1A,159,9,6-3,6,3,69.9,42.1,261,226,29.0,25.1,69.9,MHSAA MS 1A,Mississippi
+St. Stanislaus,3A,160,19,4-7,4,7,69.9,49.5,279,281,25.4,25.5,69.9,MHSAA MS 3A,Mississippi
+Independence,3A,161,20,6-4,6,4,69.7,43.8,259,242,25.9,24.2,69.7,MHSAA MS 3A,Mississippi
+South Pike,4A,162,28,4-6,4,6,69.6,64.8,220,300,22.0,30.0,69.6,MHSAA MS 4A,Mississippi
+Southeast Lauderdale,3A,163,21,8-3,8,3,69.5,34.1,278,210,25.3,19.1,69.5,MHSAA MS 3A,Mississippi
+Holmes County Central,5A,164,27,5-6,5,6,69.5,67.6,251,366,22.8,33.3,69.5,MHSAA MS 5A,Mississippi
+Ethel,1A,165,10,7-3,7,3,69.4,20.6,249,107,24.9,10.7,69.4,MHSAA MS 1A,Mississippi
+Aberdeen,3A,166,22,5-6,5,6,69.4,62.5,310,378,28.2,34.4,69.4,MHSAA MS 3A,Mississippi
+Northpoint Christian,4A,167,29,3-8,3,8,69.3,81.4,172,345,15.6,31.4,69.3,MHSAA MS 4A,Mississippi
+Lumberton,1A,168,11,6-4,6,4,69.3,28.5,286,169,28.6,16.9,69.3,MHSAA MS 1A,Mississippi
+Choctaw Central,4A,169,30,4-6,4,6,69.1,47.5,221,237,22.1,23.7,69.1,MHSAA MS 4A,Mississippi
+Simpson Academy,3A,170,23,2-10,2,10,68.9,80.2,148,335,12.3,27.9,68.9,MHSAA MS 3A,Mississippi
+Silliman Institute,1A,171,12,3-6,3,6,68.8,61.0,201,244,22.3,27.1,68.8,MHSAA MS 1A,Mississippi
+Riverfield Academy,1A,172,13,3-7,3,7,68.5,64.6,197,272,19.7,27.2,68.5,MHSAA MS 1A,Mississippi
+Union,3A,173,24,5-6,5,6,68.2,44.9,256,267,23.3,24.3,68.2,MHSAA MS 3A,Mississippi
+Quitman,3A,174,25,5-6,5,6,68.2,46.0,274,290,24.9,26.4,68.2,MHSAA MS 3A,Mississippi
+Provine,5A,175,28,3-8,3,8,68.1,63.5,137,257,12.5,23.4,68.1,MHSAA MS 5A,Mississippi
+Tishomingo County,4A,176,31,5-5,5,5,68.1,53.9,257,322,25.7,32.2,68.1,MHSAA MS 4A,Mississippi
+North Pontotoc,4A,177,32,4-7,4,7,68.0,49.3,305,334,27.7,30.4,68.0,MHSAA MS 4A,Mississippi
+Forrest County Agricultural,4A,178,33,3-7,3,7,67.6,54.4,183,253,18.3,25.3,67.6,MHSAA MS 4A,Mississippi
+Murrah,7A,179,34,1-10,1,10,67.5,85.5,160,414,14.5,37.6,67.5,MHSAA MS 7A,Mississippi
+Lake,2A,180,21,5-5,5,5,67.5,46.0,230,247,23.0,24.7,67.5,MHSAA MS 2A,Mississippi
+Hamilton,2A,181,22,6-5,6,5,67.4,30.5,412,358,37.5,32.5,67.4,MHSAA MS 2A,Mississippi
+Puckett,2A,182,23,8-3,8,3,67.2,27.6,259,191,23.5,17.4,67.2,MHSAA MS 2A,Mississippi
+Mooreville,4A,183,34,4-6,4,6,67.2,50.7,227,301,22.7,30.1,67.2,MHSAA MS 4A,Mississippi
+Oak Forest Academy,3A,184,26,2-6,2,6,67.2,86.7,92,275,11.5,34.4,67.2,MHSAA MS 3A,Mississippi
+Loyd Star,2A,185,24,7-4,7,4,67.1,37.4,294,279,26.7,25.4,67.1,MHSAA MS 2A,Mississippi
+Bay Springs,2A,186,25,5-5,5,5,66.7,42.6,212,228,21.2,22.8,66.7,MHSAA MS 2A,Mississippi
+Velma Jackson,2A,187,26,4-6,4,6,66.7,48.3,346,388,34.6,38.8,66.7,MHSAA MS 2A,Mississippi
+North Pike,5A,188,29,1-9,1,9,66.7,83.1,154,374,15.4,37.4,66.7,MHSAA MS 5A,Mississippi
+Wilkinson County,2A,189,27,4-5,4,5,66.7,39.6,232,220,25.8,24.4,66.7,MHSAA MS 2A,Mississippi
+East Rankin Academy,3A,190,27,5-5,5,5,66.6,29.8,274,237,27.4,23.7,66.6,MHSAA MS 3A,Mississippi
+Indianola Academy,3A,191,28,5-6,5,6,66.4,41.6,250,277,22.7,25.2,66.4,MHSAA MS 3A,Mississippi
+Adams County Christian,7A,192,35,2-5,2,5,66.4,55.8,153,234,21.9,33.4,66.4,MHSAA MS 7A,Mississippi
+Okolona,1A,193,14,6-5,6,5,66.4,34.9,303,282,27.5,25.6,66.4,MHSAA MS 1A,Mississippi
+Ripley,4A,194,35,2-9,2,9,66.3,71.4,164,348,14.9,31.6,66.3,MHSAA MS 4A,Mississippi
+St. Aloysius,3A,195,29,4-7,4,7,66.2,55.7,273,372,24.8,33.8,66.2,MHSAA MS 3A,Mississippi
+Lawrence County,7A,196,36,0-9,0,9,65.8,80.6,97,312,10.8,34.7,65.8,MHSAA MS 7A,Mississippi
+Tylertown,3A,197,30,5-6,5,6,65.4,59.8,200,333,18.2,30.3,65.4,MHSAA MS 3A,Mississippi
+Regents,3A,198,31,5-7,5,7,65.3,45.5,224,300,18.7,25.0,65.3,MHSAA MS 3A,Mississippi
+Noxapater,1A,199,15,4-6,4,6,65.2,36.6,209,218,20.9,21.8,65.2,MHSAA MS 1A,Mississippi
+Jefferson County,3A,200,32,2-8,2,8,65.2,56.5,172,276,17.2,27.6,65.2,MHSAA MS 3A,Mississippi
+Pisgah,3A,201,33,4-7,4,7,65.1,38.0,235,268,21.4,24.4,65.1,MHSAA MS 3A,Mississippi
+Potts Camp,1A,202,16,7-2,7,2,65.1,20.0,351,205,39.0,22.8,65.1,MHSAA MS 1A,Mississippi
+Bowling Green,1A,203,17,3-4,3,4,65.1,31.1,170,163,24.3,23.3,65.1,MHSAA MS 1A,Mississippi
+West Tallahatchie,1A,204,18,5-5,5,5,64.8,31.9,232,228,23.2,22.8,64.8,MHSAA MS 1A,Mississippi
+St. Joseph Catholic,4A,205,36,1-10,1,10,63.8,83.2,176,468,16.0,42.5,63.8,MHSAA MS 4A,Mississippi
+Collins,2A,206,28,3-7,3,7,63.7,55.3,195,328,19.5,32.8,63.7,MHSAA MS 2A,Mississippi
+Coahoma County,3A,207,34,3-7,3,7,63.6,52.9,178,298,17.8,29.8,63.6,MHSAA MS 3A,Mississippi
+Vancleave,5A,208,30,2-8,2,8,63.5,65.9,222,415,22.2,41.5,63.5,MHSAA MS 5A,Mississippi
+Sebastopol,1A,209,19,2-8,2,8,63.3,35.7,206,242,20.6,24.2,63.3,MHSAA MS 1A,Mississippi
+Belmont,3A,210,35,3-7,3,7,63.3,39.5,245,314,24.5,31.4,63.3,MHSAA MS 3A,Mississippi
+Yazoo County,3A,211,36,4-6,4,6,63.3,33.5,155,178,15.5,17.8,63.3,MHSAA MS 3A,Mississippi
+West Memphis Christian,3A,212,37,3-7,3,7,63.1,46.2,230,332,23.0,33.2,63.1,MHSAA MS 3A,Mississippi
+Saltillo,6A,213,27,1-10,1,10,63.1,93.0,115,492,10.5,44.7,63.1,MHSAA MS 6A,Mississippi
+Enterprise-Brookhaven,2A,214,29,5-5,5,5,63.0,36.9,237,302,23.7,30.2,63.0,MHSAA MS 2A,Mississippi
+Alcorn Central,3A,215,38,5-6,5,6,62.9,32.9,203,252,18.5,22.9,62.9,MHSAA MS 3A,Mississippi
+Columbus,7A,216,37,0-10,0,10,62.8,90.4,95,430,9.5,43.0,62.8,MHSAA MS 7A,Mississippi
+Forest Hill,6A,217,28,1-10,1,10,62.8,67.1,85,330,7.7,30.0,62.8,MHSAA MS 6A,Mississippi
+Gentry,4A,218,37,1-9,1,9,62.6,67.6,82,302,8.2,30.2,62.6,MHSAA MS 4A,Mississippi
+French Camp Academy,1A,219,20,4-7,4,7,62.4,40.8,213,298,19.4,27.1,62.4,MHSAA MS 1A,Mississippi
+Winston Academy,3A,220,39,3-9,3,9,62.4,53.2,224,396,18.7,33.0,62.4,MHSAA MS 3A,Mississippi
+Yazoo City,4A,221,38,1-8,1,8,62.1,74.4,70,297,7.8,33.0,62.1,MHSAA MS 4A,Mississippi
+Hatley,2A,222,30,4-6,4,6,61.6,20.0,287,277,28.7,27.7,61.6,MHSAA MS 2A,Mississippi
+Moss Point,4A,223,39,3-7,3,7,61.5,58.0,137,326,13.7,32.6,61.5,MHSAA MS 4A,Mississippi
+Pelahatchie,2A,224,31,3-7,3,7,61.3,35.5,188,265,18.8,26.5,61.3,MHSAA MS 2A,Mississippi
+South Pontotoc,7A,225,38,0-10,0,10,61.3,61.4,128,373,12.8,37.3,61.3,MHSAA MS 7A,Mississippi
+McAdams,1A,226,21,4-5,4,5,60.9,24.9,246,250,27.3,27.8,60.9,MHSAA MS 1A,Mississippi
+Coffeeville,1A,227,22,3-8,3,8,60.3,25.8,266,304,24.2,27.6,60.3,MHSAA MS 1A,Mississippi
+West Marion,3A,228,40,2-9,2,9,60.1,64.1,154,403,14.0,36.6,60.1,MHSAA MS 3A,Mississippi
+J.Z. George,2A,229,32,5-6,5,6,60.1,34.3,204,304,18.5,27.6,60.1,MHSAA MS 2A,Mississippi
+North Forrest,2A,230,33,3-8,3,8,60.1,41.8,202,357,18.4,32.5,60.1,MHSAA MS 2A,Mississippi
+Amanda Elzy,3A,231,41,3-8,3,8,59.5,65.5,102,375,9.3,34.1,59.5,MHSAA MS 3A,Mississippi
+Bay,4A,232,40,1-9,1,9,59.4,65.2,67,327,6.7,32.7,59.4,MHSAA MS 4A,Mississippi
+Kirk Academy,3A,233,42,1-11,1,11,59.3,56.5,181,436,15.1,36.3,59.3,MHSAA MS 3A,Mississippi
+Nettleton,7A,234,39,0-9,0,9,59.1,62.9,110,369,12.2,41.0,59.1,MHSAA MS 7A,Mississippi
+Mantachie,3A,235,43,4-6,4,6,59.1,21.7,216,274,21.6,27.4,59.1,MHSAA MS 3A,Mississippi
+Smithville,1A,236,23,5-5,5,5,58.8,20.0,262,242,26.2,24.2,58.8,MHSAA MS 1A,Mississippi
+Northeast Lauderdale,4A,237,41,1-10,1,10,58.8,64.7,94,412,8.5,37.5,58.8,MHSAA MS 4A,Mississippi
+Holly Springs,3A,238,44,3-7,3,7,58.7,36.9,188,328,18.8,32.8,58.7,MHSAA MS 3A,Mississippi
+Manchester Academy,2A,239,34,4-7,4,7,58.4,35.7,182,320,16.5,29.1,58.4,MHSAA MS 2A,Mississippi
+Bogue Chitto,1A,240,24,6-5,6,5,58.0,20.0,223,274,20.3,24.9,58.0,MHSAA MS 1A,Mississippi
+Jim Hill,6A,241,29,2-9,2,9,57.7,52.5,84,354,7.6,32.2,57.7,MHSAA MS 6A,Mississippi
+Newton,2A,242,35,3-8,3,8,57.2,40.3,170,355,15.5,32.3,57.2,MHSAA MS 2A,Mississippi
+Rossville Christian Academy,2A,243,36,2-9,2,9,57.2,45.7,215,429,19.5,39.0,57.2,MHSAA MS 2A,Mississippi
+St. Patrick,3A,244,45,3-6,3,6,57.2,20.0,182,233,20.2,25.9,57.2,MHSAA MS 3A,Mississippi
+Philadelphia,7A,245,40,0-10,0,10,56.9,59.1,82,396,8.2,39.6,56.9,MHSAA MS 7A,Mississippi
+CHEF,1A,246,25,2-4,2,4,56.6,22.7,100,156,16.7,26.0,56.6,MHSAA MS 1A,Mississippi
+Walnut,2A,247,37,4-7,4,7,56.4,26.2,157,286,14.3,26.0,56.4,MHSAA MS 2A,Mississippi
+Richton,1A,248,26,3-7,3,7,56.0,23.1,117,220,11.7,22.0,56.0,MHSAA MS 1A,Mississippi
+Raymond,4A,249,42,1-9,1,9,55.6,55.6,114,398,11.4,39.8,55.6,MHSAA MS 4A,Mississippi
+Leland,2A,250,38,2-9,2,9,55.5,43.9,72,315,6.5,28.6,55.5,MHSAA MS 2A,Mississippi
+McLaurin,3A,251,46,3-7,3,7,55.5,39.3,203,421,20.3,42.1,55.5,MHSAA MS 3A,Mississippi
+Humphreys County,7A,252,41,0-9,0,9,55.2,48.9,48,296,5.3,32.9,55.2,MHSAA MS 7A,Mississippi
+Sacred Heart,2A,253,39,4-6,4,6,54.9,28.7,166,343,16.6,34.3,54.9,MHSAA MS 2A,Mississippi
+Shaw,1A,254,27,3-7,3,7,54.9,39.3,100,312,10.0,31.2,54.9,MHSAA MS 1A,Mississippi
+Strayhorn,2A,255,40,1-9,1,9,54.5,40.1,178,387,17.8,38.7,54.5,MHSAA MS 2A,Mississippi
+St. Andrew's Episcopal,3A,256,47,3-7,3,7,54.0,28.2,172,354,17.2,35.4,54.0,MHSAA MS 3A,Mississippi
+Salem,1A,257,28,2-8,2,8,54.0,25.1,157,304,15.7,30.4,54.0,MHSAA MS 1A,Mississippi
+Park Place Christian Academy,1A,258,29,3-5,3,5,54.0,20.0,186,252,23.2,31.5,54.0,MHSAA MS 1A,Mississippi
+East Union,2A,259,41,2-9,2,9,53.8,38.1,239,471,21.7,42.8,53.8,MHSAA MS 2A,Mississippi
+Biggersville,1A,260,30,2-8,2,8,53.2,41.9,96,344,9.6,34.4,53.2,MHSAA MS 1A,Mississippi
+Vardaman,1A,261,31,2-7,2,7,53.0,36.7,142,336,15.8,37.3,53.0,MHSAA MS 1A,Mississippi
+Falkner,1A,262,32,5-5,5,5,52.8,20.0,238,291,23.8,29.1,52.8,MHSAA MS 1A,Mississippi
+West Bolivar,1A,263,33,2-9,2,9,52.6,39.2,104,389,9.5,35.4,52.6,MHSAA MS 1A,Mississippi
+Centreville Academy,2A,264,42,3-7,3,7,52.6,20.0,170,306,17.0,30.6,52.6,MHSAA MS 2A,Mississippi
+Palmer,7A,265,42,0-10,0,10,52.5,52.5,54,406,5.4,40.6,52.5,MHSAA MS 7A,Mississippi
+Taylorsville,7A,266,43,0-10,0,10,52.5,46.4,77,419,7.7,41.9,52.5,MHSAA MS 7A,Mississippi
+Byhalia,4A,267,43,2-7,2,7,52.5,34.7,98,364,10.9,40.4,52.5,MHSAA MS 4A,Mississippi
+Amite School Center,1A,268,34,1-8,1,8,52.4,26.0,139,299,15.4,33.2,52.4,MHSAA MS 1A,Mississippi
+Carroll Academy,4A,269,44,1-10,1,10,52.2,47.2,68,398,6.2,36.2,52.2,MHSAA MS 4A,Mississippi
+Crystal Springs,7A,270,44,0-9,0,9,49.8,40.7,62,367,6.9,40.8,49.8,MHSAA MS 7A,Mississippi
+Greenville Christian,7A,271,45,0-9,0,9,48.5,44.8,50,384,5.6,42.7,48.5,MHSAA MS 7A,Mississippi
+Mount Olive,1A,272,35,2-8,2,8,48.3,27.6,86,359,8.6,35.9,48.3,MHSAA MS 1A,Mississippi
+West Lowndes,7A,273,46,0-9,0,9,47.7,29.5,94,381,10.4,42.3,47.7,MHSAA MS 7A,Mississippi
+Resurrection Catholic,1A,274,36,2-7,2,7,47.6,33.6,98,382,10.9,42.4,47.6,MHSAA MS 1A,Mississippi
+Riverside,7A,275,47,0-10,0,10,46.4,25.0,67,432,6.7,43.2,46.4,MHSAA MS 7A,Mississippi
+Byers,7A,276,48,0-8,0,8,46.1,20.0,117,343,14.6,42.9,46.1,MHSAA MS 7A,Mississippi
+West Lincoln,7A,277,49,0-11,0,11,45.0,20.0,70,410,6.4,37.3,45.0,MHSAA MS 7A,Mississippi
+Christian Collegiate Academy,7A,278,50,0-9,0,9,44.8,20.0,49,340,5.4,37.8,44.8,MHSAA MS 7A,Mississippi
+Ashland,1A,279,37,1-10,1,10,41.2,20.0,102,490,9.3,44.5,41.2,MHSAA MS 1A,Mississippi
