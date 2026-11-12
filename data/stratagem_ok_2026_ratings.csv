@@ -1,261 +1,419 @@
-name,division,stateRank,divisionRank,record,wins,losses,powerIndex,sosIndex,pointsFor,pointsAgainst,ppg,oppPpg,overallRating,conference,city
-Bixby,6A-I,1,1,9-1,9,1,103.9,99.0,472,126,47.2,12.6,103.9,OSSAA 6A-I,Oklahoma
-Broken Arrow,6A-I,2,2,10-0,10,0,101.4,98.4,443,134,44.3,13.4,101.4,OSSAA 6A-I,Oklahoma
-Jenks,6A-I,3,3,7-2,7,2,100.2,99.0,370,164,41.1,18.2,100.2,OSSAA 6A-I,Oklahoma
-Stillwater,6A-II,4,1,7-2,7,2,99.0,94.2,416,140,46.2,15.6,99.0,OSSAA 6A-II,Oklahoma
-Owasso,6A-I,5,4,7-3,7,3,98.1,99.0,347,192,34.7,19.2,98.1,OSSAA 6A-I,Oklahoma
-Elgin,5A,6,1,10-0,10,0,96.0,66.7,485,89,48.5,8.9,96.0,OSSAA 5A,Oklahoma
-Mustang,6A-I,7,5,7-3,7,3,94.9,97.4,381,186,38.1,18.6,94.9,OSSAA 6A-I,Oklahoma
-Tuttle,4A,8,1,9-1,9,1,94.1,68.3,440,80,44.0,8.0,94.1,OSSAA 4A,Oklahoma
-Bishop McGuinness,5A,9,2,9-1,9,1,93.6,66.8,461,91,46.1,9.1,93.6,OSSAA 5A,Oklahoma
-Broken Bow,4A,10,2,9-1,9,1,91.1,59.9,455,132,45.5,13.2,91.1,OSSAA 4A,Oklahoma
-Washington,2A-I,11,1,9-1,9,1,90.7,49.2,475,71,47.5,7.1,90.7,OSSAA 2A-I,Oklahoma
-Choctaw,6A-II,12,2,8-2,8,2,90.4,71.1,430,130,43.0,13.0,90.4,OSSAA 6A-II,Oklahoma
-Del City,5A,13,3,8-2,8,2,90.0,65.6,465,164,46.5,16.4,90.0,OSSAA 5A,Oklahoma
-Sulphur,3A,14,1,9-1,9,1,89.7,55.7,459,69,45.9,6.9,89.7,OSSAA 3A,Oklahoma
-Carl Albert,5A,15,4,10-0,10,0,89.6,74.5,373,149,37.3,14.9,89.6,OSSAA 5A,Oklahoma
-Jones,3A,16,2,9-1,9,1,89.4,51.7,496,92,49.6,9.2,89.4,OSSAA 3A,Oklahoma
-Holdenville,2A-II,17,1,10-0,10,0,89.3,40.7,496,67,49.6,6.7,89.3,OSSAA 2A-II,Oklahoma
-Newcastle,5A,18,5,7-3,7,3,88.0,68.3,460,211,46.0,21.1,88.0,OSSAA 5A,Oklahoma
-Yukon,6A-I,19,6,6-4,6,4,87.3,98.1,399,310,39.9,31.0,87.3,OSSAA 6A-I,Oklahoma
-Union,6A-I,20,7,5-5,5,5,87.3,99.0,300,303,30.0,30.3,87.3,OSSAA 6A-I,Oklahoma
-Norman North,6A-I,21,8,7-3,7,3,87.2,93.4,362,294,36.2,29.4,87.2,OSSAA 6A-I,Oklahoma
-Coweta,5A,22,6,8-2,8,2,86.8,66.6,439,188,43.9,18.8,86.8,OSSAA 5A,Oklahoma
-Moore,6A-I,23,9,7-3,7,3,86.7,86.4,409,254,40.9,25.4,86.7,OSSAA 6A-I,Oklahoma
-Lincoln Christian,2A-I,24,2,9-1,9,1,86.3,67.1,390,132,39.0,13.2,86.3,OSSAA 2A-I,Oklahoma
-Marlow,3A,25,3,9-1,9,1,86.1,60.5,407,152,40.7,15.2,86.1,OSSAA 3A,Oklahoma
-Cascia Hall,2A-I,26,3,10-0,10,0,85.8,45.7,428,83,42.8,8.3,85.8,OSSAA 2A-I,Oklahoma
-Bishop Kelley,5A,27,7,8-2,8,2,85.3,71.1,397,214,39.7,21.4,85.3,OSSAA 5A,Oklahoma
-Sapulpa,5A,28,8,7-3,7,3,85.3,72.7,316,137,31.6,13.7,85.3,OSSAA 5A,Oklahoma
-Sequoyah,2A-I,29,4,9-1,9,1,85.3,50.4,451,156,45.1,15.6,85.3,OSSAA 2A-I,Oklahoma
-Sallisaw,4A,30,3,10-0,10,0,85.0,66.3,337,144,33.7,14.4,85.0,OSSAA 4A,Oklahoma
-Kiefer,2A-I,31,5,9-1,9,1,84.6,39.5,512,135,51.2,13.5,84.6,OSSAA 2A-I,Oklahoma
-Bartlesville,6A-II,32,3,7-3,7,3,84.3,80.9,433,351,43.3,35.1,84.3,OSSAA 6A-II,Oklahoma
-Fort Gibson,4A,33,4,9-1,9,1,84.2,55.1,427,182,42.7,18.2,84.2,OSSAA 4A,Oklahoma
-Edmond Memorial,6A-I,34,10,4-6,4,6,84.1,93.9,280,243,28.0,24.3,84.1,OSSAA 6A-I,Oklahoma
-Mount St. Mary,3A,35,4,8-2,8,2,84.0,71.4,427,244,42.7,24.4,84.0,OSSAA 3A,Oklahoma
-Kingfisher,3A,36,5,8-2,8,2,83.8,68.4,353,179,35.3,17.9,83.8,OSSAA 3A,Oklahoma
-Mangum,A,37,1,10-0,10,0,83.8,34.6,480,78,48.0,7.8,83.8,OSSAA A,Oklahoma
-Heritage Hall,3A,38,6,6-3,6,3,83.7,53.0,363,153,40.3,17.0,83.7,OSSAA 3A,Oklahoma
-Ardmore,4A,39,5,9-1,9,1,83.5,46.1,409,135,40.9,13.5,83.5,OSSAA 4A,Oklahoma
-Weatherford,4A,40,6,10-0,10,0,83.4,43.5,352,74,35.2,7.4,83.4,OSSAA 4A,Oklahoma
-Talihina,A,41,2,10-0,10,0,82.7,25.8,583,133,58.3,13.3,82.7,OSSAA A,Oklahoma
-Guthrie,5A,42,9,7-3,7,3,82.3,71.5,289,172,28.9,17.2,82.3,OSSAA 5A,Oklahoma
-Deer Creek,6A-I,43,11,5-5,5,5,82.0,96.3,301,308,30.1,30.8,82.0,OSSAA 6A-I,Oklahoma
-Edmond North,6A-I,44,12,5-5,5,5,82.0,90.6,337,332,33.7,33.2,82.0,OSSAA 6A-I,Oklahoma
-Pawhuska,A,45,3,9-1,9,1,80.8,34.8,450,140,45.0,14.0,80.8,OSSAA A,Oklahoma
-Piedmont,6A-II,46,4,6-4,6,4,80.6,62.9,370,233,37.0,23.3,80.6,OSSAA 6A-II,Oklahoma
-Adair,2A-II,47,2,9-1,9,1,80.4,23.4,525,140,52.5,14.0,80.4,OSSAA 2A-II,Oklahoma
-Davis,2A-II,48,3,8-2,8,2,80.3,36.4,433,104,43.3,10.4,80.3,OSSAA 2A-II,Oklahoma
-Checotah,2A-I,49,6,8-2,8,2,80.3,42.4,425,172,42.5,17.2,80.3,OSSAA 2A-I,Oklahoma
-Verdigris,3A,50,7,8-1,8,1,80.1,33.1,379,115,42.1,12.8,80.1,OSSAA 3A,Oklahoma
-Chisholm,2A-I,51,7,7-3,7,3,80.1,42.9,412,145,41.2,14.5,80.1,OSSAA 2A-I,Oklahoma
-Claremore,5A,52,10,7-3,7,3,79.5,71.6,319,242,31.9,24.2,79.5,OSSAA 5A,Oklahoma
-Wynnewood,A,53,4,9-1,9,1,79.5,37.5,394,124,39.4,12.4,79.5,OSSAA A,Oklahoma
-Chickasha,4A,54,7,8-2,8,2,79.2,56.3,391,234,39.1,23.4,79.2,OSSAA 4A,Oklahoma
-Perkins-Tryon,3A,55,8,8-2,8,2,79.1,53.3,367,183,36.7,18.3,79.1,OSSAA 3A,Oklahoma
-Tonkawa,A,56,5,9-1,9,1,78.9,33.6,463,165,46.3,16.5,78.9,OSSAA A,Oklahoma
-Pryor,5A,57,11,6-4,6,4,78.8,59.8,391,270,39.1,27.0,78.8,OSSAA 5A,Oklahoma
-Stilwell,4A,58,8,8-2,8,2,78.6,56.0,273,135,27.3,13.5,78.6,OSSAA 4A,Oklahoma
-Pawnee,A,59,6,8-2,8,2,78.6,48.9,434,233,43.4,23.3,78.6,OSSAA A,Oklahoma
-Community Christian,2A-II,60,4,10-0,10,0,78.5,37.4,380,112,38.0,11.2,78.5,OSSAA 2A-II,Oklahoma
-Norman,6A-II,61,5,6-4,6,4,78.5,67.7,339,263,33.9,26.3,78.5,OSSAA 6A-II,Oklahoma
-Collinsville,5A,62,12,5-5,5,5,78.3,68.5,250,176,25.0,17.6,78.3,OSSAA 5A,Oklahoma
-Fairview,A,63,7,10-0,10,0,77.8,38.4,385,139,38.5,13.9,77.8,OSSAA A,Oklahoma
-Dickson,2A-I,64,8,8-2,8,2,77.3,33.7,395,131,39.5,13.1,77.3,OSSAA 2A-I,Oklahoma
-Kingston,3A,65,9,9-1,9,1,77.1,32.3,409,187,40.9,18.7,77.1,OSSAA 3A,Oklahoma
-Poteau,4A,66,9,6-4,6,4,76.5,70.1,305,262,30.5,26.2,76.5,OSSAA 4A,Oklahoma
-McAlester,5A,67,13,4-6,4,6,76.5,76.5,306,295,30.6,29.5,76.5,OSSAA 5A,Oklahoma
-Regent Prep,A,68,8,9-1,9,1,76.1,20.0,466,124,46.6,12.4,76.1,OSSAA A,Oklahoma
-Cushing,4A,69,10,6-4,6,4,75.9,56.5,300,190,30.0,19.0,75.9,OSSAA 4A,Oklahoma
-Sand Springs,6A-II,70,6,4-5,4,5,75.8,99.0,200,303,22.2,33.7,75.8,OSSAA 6A-II,Oklahoma
-Berryhill,3A,71,10,6-4,6,4,75.7,53.1,305,188,30.5,18.8,75.7,OSSAA 3A,Oklahoma
-Ringling,A,72,9,7-3,7,3,75.6,24.7,416,101,41.6,10.1,75.6,OSSAA A,Oklahoma
-Ponca City,6A-II,73,7,5-5,5,5,75.4,70.0,358,348,35.8,34.8,75.4,OSSAA 6A-II,Oklahoma
-Holland Hall,2A-I,74,9,8-2,8,2,75.3,39.9,302,127,30.2,12.7,75.3,OSSAA 2A-I,Oklahoma
-Ketchum,A,75,10,10-0,10,0,75.3,20.0,399,91,39.9,9.1,75.3,OSSAA A,Oklahoma
-Metro Christian,3A,76,11,8-2,8,2,75.2,54.9,263,163,26.3,16.3,75.2,OSSAA 3A,Oklahoma
-Muskogee,6A-II,77,8,5-5,5,5,75.0,88.9,226,314,22.6,31.4,75.0,OSSAA 6A-II,Oklahoma
-North Rock Creek,3A,78,12,6-4,6,4,75.0,60.6,304,221,30.4,22.1,75.0,OSSAA 3A,Oklahoma
-Konawa,A,79,11,10-0,10,0,74.9,20.0,452,60,45.2,6.0,74.9,OSSAA A,Oklahoma
-Woodward,4A,80,11,5-4,5,4,74.8,53.3,299,208,33.2,23.1,74.8,OSSAA 4A,Oklahoma
-Cache,4A,81,12,5-5,5,5,74.8,55.7,271,184,27.1,18.4,74.8,OSSAA 4A,Oklahoma
-Hartshorne,2A-II,82,5,9-1,9,1,74.7,37.3,379,174,37.9,17.4,74.7,OSSAA 2A-II,Oklahoma
-Oklahoma Christian,3A,83,13,6-4,6,4,74.7,67.1,335,284,33.5,28.4,74.7,OSSAA 3A,Oklahoma
-Booker T. Washington,6A-II,84,9,3-7,3,7,74.7,89.7,238,325,23.8,32.5,74.7,OSSAA 6A-II,Oklahoma
-Thomas-Fay-Custer,A,85,12,9-1,9,1,74.7,31.7,328,115,32.8,11.5,74.7,OSSAA A,Oklahoma
-Skiatook,4A,86,13,6-4,6,4,74.3,49.4,373,227,37.3,22.7,74.3,OSSAA 4A,Oklahoma
-Sperry,2A-I,87,10,7-2,7,2,74.3,36.1,320,158,35.6,17.6,74.3,OSSAA 2A-I,Oklahoma
-Hobart,A,88,13,8-2,8,2,74.1,33.4,338,143,33.8,14.3,74.1,OSSAA A,Oklahoma
-Cashion,2A-II,89,6,6-4,6,4,74.1,50.2,309,194,30.9,19.4,74.1,OSSAA 2A-II,Oklahoma
-Wagoner,4A,90,14,5-5,5,5,73.9,62.4,332,293,33.2,29.3,73.9,OSSAA 4A,Oklahoma
-Plainview,3A,91,14,5-5,5,5,73.8,77.9,305,330,30.5,33.0,73.8,OSSAA 3A,Oklahoma
-MacArthur,5A,92,14,5-5,5,5,73.6,61.5,312,276,31.2,27.6,73.6,OSSAA 5A,Oklahoma
-Clinton,4A,93,15,8-2,8,2,73.4,56.8,300,244,30.0,24.4,73.4,OSSAA 4A,Oklahoma
-Grove,4A,94,16,6-4,6,4,73.4,61.2,262,222,26.2,22.2,73.4,OSSAA 4A,Oklahoma
-Lawton,5A,95,15,5-5,5,5,73.1,71.2,274,293,27.4,29.3,73.1,OSSAA 5A,Oklahoma
-Chandler,2A-I,96,11,7-3,7,3,72.6,42.5,372,265,37.2,26.5,72.6,OSSAA 2A-I,Oklahoma
-Putnam City,6A-II,97,10,5-5,5,5,72.6,65.3,285,296,28.5,29.6,72.6,OSSAA 6A-II,Oklahoma
-Tahlequah,5A,98,16,4-6,4,6,72.3,71.2,238,270,23.8,27.0,72.3,OSSAA 5A,Oklahoma
-Wewoka,A,99,14,7-3,7,3,72.3,33.0,358,166,35.8,16.6,72.3,OSSAA A,Oklahoma
-Shawnee,5A,100,17,5-5,5,5,72.1,59.3,338,321,33.8,32.1,72.1,OSSAA 5A,Oklahoma
-Bristow,3A,101,15,5-5,5,5,71.9,50.4,323,249,32.3,24.9,71.9,OSSAA 3A,Oklahoma
-Harrah,4A,102,17,6-4,6,4,71.8,52.8,320,268,32.0,26.8,71.8,OSSAA 4A,Oklahoma
-Crescent,A,103,15,5-3,5,3,71.3,43.0,269,181,33.6,22.6,71.3,OSSAA A,Oklahoma
-Millwood,2A-II,104,7,6-4,6,4,71.1,47.3,346,229,34.6,22.9,71.1,OSSAA 2A-II,Oklahoma
-Edmond Santa Fe,6A-I,105,13,1-9,1,9,70.8,99.0,166,411,16.6,41.1,70.8,OSSAA 6A-I,Oklahoma
-Bethany,4A,106,18,5-5,5,5,70.5,73.7,170,224,17.0,22.4,70.5,OSSAA 4A,Oklahoma
-Rejoice Christian,2A-I,107,12,5-5,5,5,70.5,42.5,325,200,32.5,20.0,70.5,OSSAA 2A-I,Oklahoma
-Glenpool,5A,108,18,5-5,5,5,70.4,68.7,238,288,23.8,28.8,70.4,OSSAA 5A,Oklahoma
-Ada,4A,109,19,3-7,3,7,70.4,71.7,242,299,24.2,29.9,70.4,OSSAA 4A,Oklahoma
-Lone Grove,3A,110,16,5-5,5,5,70.2,52.2,307,280,30.7,28.0,70.2,OSSAA 3A,Oklahoma
-Hennessey,2A-II,111,8,6-4,6,4,70.2,44.5,262,173,26.2,17.3,70.2,OSSAA 2A-II,Oklahoma
-Bridge Creek,4A,112,20,4-6,4,6,70.0,58.6,322,324,32.2,32.4,70.0,OSSAA 4A,Oklahoma
-Minco,A,113,16,6-4,6,4,69.9,40.7,284,188,28.4,18.8,69.9,OSSAA A,Oklahoma
-Keys,2A-II,114,9,8-2,8,2,69.6,27.4,332,164,33.2,16.4,69.6,OSSAA 2A-II,Oklahoma
-Woodland,A,115,17,6-4,6,4,69.6,35.0,315,183,31.5,18.3,69.6,OSSAA A,Oklahoma
-Wilburton,2A-II,116,10,7-3,7,3,69.4,36.5,254,148,25.4,14.8,69.4,OSSAA 2A-II,Oklahoma
-Nathan Hale,5A,117,19,4-6,4,6,69.2,56.9,266,287,26.6,28.7,69.2,OSSAA 5A,Oklahoma
-Hominy,A,118,18,5-4,5,4,69.1,33.9,278,182,30.9,20.2,69.1,OSSAA A,Oklahoma
-Cordell,A,119,19,5-3,5,3,69.1,62.1,184,208,23.0,26.0,69.1,OSSAA A,Oklahoma
-Pocola,A,120,20,8-2,8,2,69.1,21.2,317,142,31.7,14.2,69.1,OSSAA A,Oklahoma
-Hilldale,4A,121,21,4-6,4,6,68.9,67.6,228,290,22.8,29.0,68.9,OSSAA 4A,Oklahoma
-Midwest City,5A,122,20,5-5,5,5,68.8,63.4,294,348,29.4,34.8,68.8,OSSAA 5A,Oklahoma
-Mannford,4A,123,22,4-6,4,6,68.4,60.9,209,251,20.9,25.1,68.4,OSSAA 4A,Oklahoma
-Blanchard,4A,124,23,3-7,3,7,68.4,69.2,254,345,25.4,34.5,68.4,OSSAA 4A,Oklahoma
-Beggs,2A-II,125,11,5-5,5,5,68.3,52.0,252,234,25.2,23.4,68.3,OSSAA 2A-II,Oklahoma
-Oklahoma City Patriots HomeSchool,6A-I,126,14,5-5,5,5,68.3,55.2,229,280,22.9,28.0,68.3,OSSAA 6A-I,Oklahoma
-Morrison,A,127,21,5-4,5,4,67.7,41.1,270,214,30.0,23.8,67.7,OSSAA A,Oklahoma
-Hooker,A,128,22,5-5,5,5,67.5,50.2,286,268,28.6,26.8,67.5,OSSAA A,Oklahoma
-Putnam City North,6A-II,129,11,2-8,2,8,67.1,75.5,271,433,27.1,43.3,67.1,OSSAA 6A-II,Oklahoma
-Purcell,3A,130,17,3-7,3,7,66.7,66.8,227,318,22.7,31.8,66.7,OSSAA 3A,Oklahoma
-Edison,5A,131,21,4-6,4,6,66.6,46.7,251,257,25.1,25.7,66.6,OSSAA 5A,Oklahoma
-Salina,2A-II,132,12,6-3,6,3,66.2,22.0,305,195,33.9,21.7,66.2,OSSAA 2A-II,Oklahoma
-Marietta,2A-II,133,13,7-3,7,3,65.8,23.0,289,178,28.9,17.8,65.8,OSSAA 2A-II,Oklahoma
-Southwest Covenant,A,134,23,7-3,7,3,65.5,24.1,315,209,31.5,20.9,65.5,OSSAA A,Oklahoma
-Anadarko,2A-I,135,13,5-5,5,5,65.4,54.6,228,254,22.8,25.4,65.4,OSSAA 2A-I,Oklahoma
-Wyandotte,2A-II,136,14,7-3,7,3,65.2,24.6,378,269,37.8,26.9,65.2,OSSAA 2A-II,Oklahoma
-Noble,5A,137,22,4-6,4,6,65.1,63.3,214,323,21.4,32.3,65.1,OSSAA 5A,Oklahoma
-Guymon,A,138,24,5-5,5,5,64.9,54.4,256,294,25.6,29.4,64.9,OSSAA A,Oklahoma
-Vian,A,139,25,6-4,6,4,64.9,30.3,273,215,27.3,21.5,64.9,OSSAA A,Oklahoma
-Tulsa NOAH HomeSchool,6A-II,140,12,3-6,3,6,64.8,59.7,226,352,25.1,39.1,64.8,OSSAA 6A-II,Oklahoma
-Dibble,2A-II,141,15,5-5,5,5,64.7,32.0,223,149,22.3,14.9,64.7,OSSAA 2A-II,Oklahoma
-Tishomingo,2A-II,142,16,6-4,6,4,64.5,32.1,248,201,24.8,20.1,64.5,OSSAA 2A-II,Oklahoma
-Coalgate,A,143,26,8-2,8,2,64.5,21.9,341,242,34.1,24.2,64.5,OSSAA A,Oklahoma
-Non Varsity Opponent,6A-I,144,15,0-5,0,5,64.2,83.3,57,177,11.4,35.4,64.2,OSSAA 6A-I,Oklahoma
-Idabel,3A,145,18,5-5,5,5,64.1,47.8,226,269,22.6,26.9,64.1,OSSAA 3A,Oklahoma
-El Reno,5A,146,23,3-7,3,7,63.9,61.3,233,378,23.3,37.8,63.9,OSSAA 5A,Oklahoma
-Victory Christian,2A-I,147,14,6-4,6,4,63.9,51.1,233,275,23.3,27.5,63.9,OSSAA 2A-I,Oklahoma
-Christian Heritage,2A-II,148,17,5-5,5,5,63.9,34.3,252,226,25.2,22.6,63.9,OSSAA 2A-II,Oklahoma
-Lindsay,2A-I,149,15,5-5,5,5,63.8,46.8,223,259,22.3,25.9,63.8,OSSAA 2A-I,Oklahoma
-Henryetta,2A-I,150,16,5-5,5,5,63.8,25.6,310,234,31.0,23.4,63.8,OSSAA 2A-I,Oklahoma
-Stroud,2A-II,151,18,5-5,5,5,63.1,43.8,274,310,27.4,31.0,63.1,OSSAA 2A-II,Oklahoma
-Duncan,5A,152,24,2-7,2,7,63.1,62.4,134,257,14.9,28.6,63.1,OSSAA 5A,Oklahoma
-Vinita,3A,153,19,5-5,5,5,62.8,46.0,165,216,16.5,21.6,62.8,OSSAA 3A,Oklahoma
-Westmoore,6A-I,154,16,1-9,1,9,62.8,99.0,81,539,8.1,53.9,62.8,OSSAA 6A-I,Oklahoma
-Eufaula,3A,155,20,3-7,3,7,62.6,59.4,204,339,20.4,33.9,62.6,OSSAA 3A,Oklahoma
-Colcord,A,156,27,5-4,5,4,62.5,36.5,201,196,22.3,21.8,62.5,OSSAA A,Oklahoma
-Liberty,A,157,28,6-4,6,4,62.5,22.5,346,283,34.6,28.3,62.5,OSSAA A,Oklahoma
-Marshall,5A,158,25,4-5,4,5,62.4,20.0,264,234,29.3,26.0,62.4,OSSAA 5A,Oklahoma
-Hugo,2A-I,159,17,5-5,5,5,62.1,47.6,230,305,23.0,30.5,62.1,OSSAA 2A-I,Oklahoma
-Nowata,A,160,29,5-5,5,5,61.9,28.6,306,273,30.6,27.3,61.9,OSSAA A,Oklahoma
-Gore,A,161,30,6-4,6,4,61.5,22.2,294,240,29.4,24.0,61.5,OSSAA A,Oklahoma
-Central-Sallisaw,A,162,31,6-4,6,4,61.5,23.2,325,284,32.5,28.4,61.5,OSSAA A,Oklahoma
-Crossings Christian,2A-I,163,18,2-8,2,8,61.3,43.3,204,251,20.4,25.1,61.3,OSSAA 2A-I,Oklahoma
-Enid,6A-I,164,17,3-6,3,6,61.2,45.8,216,308,24.0,34.2,61.2,OSSAA 6A-I,Oklahoma
-Roland,2A-I,165,19,4-6,4,6,61.1,48.0,186,280,18.6,28.0,61.1,OSSAA 2A-I,Oklahoma
-Sayre,2A-I,166,20,3-4,3,4,61.1,33.5,182,194,26.0,27.7,61.1,OSSAA 2A-I,Oklahoma
-Inola,3A,167,21,4-6,4,6,61.0,48.1,198,298,19.8,29.8,61.0,OSSAA 3A,Oklahoma
-Catoosa,3A,168,22,4-6,4,6,60.8,50.9,190,300,19.0,30.0,60.8,OSSAA 3A,Oklahoma
-Panama,A,169,32,5-5,5,5,60.4,21.8,289,253,28.9,25.3,60.4,OSSAA A,Oklahoma
-McLain Science & Tech,4A,170,24,2-8,2,8,60.4,59.8,161,312,16.1,31.2,60.4,OSSAA 4A,Oklahoma
-Oologah,4A,171,25,3-7,3,7,60.4,54.5,212,349,21.2,34.9,60.4,OSSAA 4A,Oklahoma
-East Central,5A,172,26,3-7,3,7,60.3,59.4,183,378,18.3,37.8,60.3,OSSAA 5A,Oklahoma
-Dewey,2A-I,173,21,6-4,6,4,60.3,38.3,229,299,22.9,29.9,60.3,OSSAA 2A-I,Oklahoma
-Sequoyah-Claremore,2A-I,174,22,4-6,4,6,60.2,29.8,306,313,30.6,31.3,60.2,OSSAA 2A-I,Oklahoma
-Kansas,2A-II,175,19,3-7,3,7,60.1,36.5,258,273,25.8,27.3,60.1,OSSAA 2A-II,Oklahoma
-Stigler,3A,176,23,3-7,3,7,60.0,49.9,242,352,24.2,35.2,60.0,OSSAA 3A,Oklahoma
-Durant,5A,177,27,1-8,1,8,60.0,79.2,118,358,13.1,39.8,60.0,OSSAA 5A,Oklahoma
-McLoud,3A,178,24,1-9,1,9,59.9,63.8,199,383,19.9,38.3,59.9,OSSAA 3A,Oklahoma
-Newkirk,2A-II,179,20,5-5,5,5,59.7,32.1,219,246,21.9,24.6,59.7,OSSAA 2A-II,Oklahoma
-Wayne,A,180,33,7-3,7,3,59.5,20.0,295,236,29.5,23.6,59.5,OSSAA A,Oklahoma
-Southmoore,6A-I,181,18,0-10,0,10,59.5,99.0,46,507,4.6,50.7,59.5,OSSAA 6A-I,Oklahoma
-Elk City,4A,182,26,2-8,2,8,59.5,56.2,187,348,18.7,34.8,59.5,OSSAA 4A,Oklahoma
-Healdton,A,183,34,4-6,4,6,59.3,23.3,228,207,22.8,20.7,59.3,OSSAA A,Oklahoma
-Quapaw,A,184,35,5-5,5,5,59.1,33.9,271,303,27.1,30.3,59.1,OSSAA A,Oklahoma
-Bethel,2A-I,185,23,4-6,4,6,58.7,30.4,290,355,29.0,35.5,58.7,OSSAA 2A-I,Oklahoma
-Luther,A,186,36,6-4,6,4,58.5,29.6,250,276,25.0,27.6,58.5,OSSAA A,Oklahoma
-Altus,5A,187,28,3-7,3,7,58.3,56.1,193,378,19.3,37.8,58.3,OSSAA 5A,Oklahoma
-Empire,A,188,37,5-5,5,5,57.9,32.0,245,298,24.5,29.8,57.9,OSSAA A,Oklahoma
-Star-Spencer,3A,189,25,6-4,6,4,57.8,30.7,130,197,13.0,19.7,57.8,OSSAA 3A,Oklahoma
-Prague,2A-II,190,21,4-6,4,6,57.8,27.2,216,249,21.6,24.9,57.8,OSSAA 2A-II,Oklahoma
-Heavener,2A-I,191,24,2-8,2,8,57.8,52.8,137,309,13.7,30.9,57.8,OSSAA 2A-I,Oklahoma
-Alva,2A-II,192,22,2-8,2,8,57.7,49.1,188,326,18.8,32.6,57.7,OSSAA 2A-II,Oklahoma
-Atoka,2A-II,193,23,3-7,3,7,57.6,41.9,204,299,20.4,29.9,57.6,OSSAA 2A-II,Oklahoma
-Stratford,A,194,38,5-5,5,5,57.4,24.7,207,246,20.7,24.6,57.4,OSSAA A,Oklahoma
-Antlers,2A-II,195,24,4-6,4,6,56.7,24.1,184,228,18.4,22.8,56.7,OSSAA 2A-II,Oklahoma
-Jay,3A,196,26,2-8,2,8,56.1,51.7,165,356,16.5,35.6,56.1,OSSAA 3A,Oklahoma
-Seminole,3A,197,27,4-6,4,6,55.9,33.7,206,326,20.6,32.6,55.9,OSSAA 3A,Oklahoma
-Miami,4A,198,27,1-9,1,9,55.9,60.9,170,408,17.0,40.8,55.9,OSSAA 4A,Oklahoma
-Barnsdall,A,199,39,5-5,5,5,55.1,20.0,247,229,24.7,22.9,55.1,OSSAA A,Oklahoma
-Pauls Valley,3A,200,28,1-9,1,9,55.1,54.8,97,320,9.7,32.0,55.1,OSSAA 3A,Oklahoma
-Fairland,A,201,40,3-7,3,7,55.0,33.4,179,279,17.9,27.9,55.0,OSSAA A,Oklahoma
-Frederick,A,202,41,4-6,4,6,54.9,35.8,180,303,18.0,30.3,54.9,OSSAA A,Oklahoma
-Casady,2A-I,203,25,2-8,2,8,54.9,54.5,152,360,15.2,36.0,54.9,OSSAA 2A-I,Oklahoma
-Perry,2A-I,204,26,3-7,3,7,54.8,47.3,112,307,11.2,30.7,54.8,OSSAA 2A-I,Oklahoma
-Spiro,6A-I,205,19,0-10,0,10,54.8,52.0,12,243,1.2,24.3,54.8,OSSAA 6A-I,Oklahoma
-Southeast,5A,206,29,2-8,2,8,54.4,62.5,142,473,14.2,47.3,54.4,OSSAA 5A,Oklahoma
-Westville,2A-I,207,27,3-7,3,7,54.4,32.5,168,301,16.8,30.1,54.4,OSSAA 2A-I,Oklahoma
-Putnam City West,6A-II,208,13,2-8,2,8,54.0,51.3,189,461,18.9,46.1,54.0,OSSAA 6A-II,Oklahoma
-Morris,2A-II,209,25,2-8,2,8,53.8,40.6,172,326,17.2,32.6,53.8,OSSAA 2A-II,Oklahoma
-Fox,6A-I,210,20,0-10,0,10,53.7,84.0,40,499,4.0,49.9,53.7,OSSAA 6A-I,Oklahoma
-Classen SAS,2A-II,211,26,5-5,5,5,52.4,20.0,202,198,20.2,19.8,52.4,OSSAA 2A-II,Oklahoma
-Crooked Oak,2A-I,212,28,3-7,3,7,52.1,33.3,115,292,11.5,29.2,52.1,OSSAA 2A-I,Oklahoma
-Warner,A,213,42,3-7,3,7,52.0,20.0,219,286,21.9,28.6,52.0,OSSAA A,Oklahoma
-Commerce,A,214,43,4-6,4,6,50.8,26.8,172,307,17.2,30.7,50.8,OSSAA A,Oklahoma
-Will Rogers College,5A,215,30,1-9,1,9,50.7,61.4,53,421,5.3,42.1,50.7,OSSAA 5A,Oklahoma
-Eisenhower,6A-I,216,21,0-10,0,10,50.4,60.6,81,455,8.1,45.5,50.4,OSSAA 6A-I,Oklahoma
-Douglass,6A-I,217,22,0-9,0,9,50.2,63.1,55,425,6.1,47.2,50.2,OSSAA 6A-I,Oklahoma
-Hulbert,A,218,44,4-6,4,6,50.1,20.0,190,276,19.0,27.6,50.1,OSSAA A,Oklahoma
-Merritt,A,219,45,2-6,2,6,49.9,30.6,94,250,11.8,31.2,49.9,OSSAA A,Oklahoma
-Western Heights,4A,220,28,2-8,2,8,49.5,51.7,116,422,11.6,42.2,49.5,OSSAA 4A,Oklahoma
-Madill,6A-I,221,23,0-10,0,10,49.2,56.3,62,457,6.2,45.7,49.2,OSSAA 6A-I,Oklahoma
-Tecumseh,4A,222,29,1-9,1,9,49.0,66.3,100,516,10.0,51.6,49.0,OSSAA 4A,Oklahoma
-Comanche,A,223,46,2-8,2,8,48.9,32.6,143,343,14.3,34.3,48.9,OSSAA A,Oklahoma
-Cleveland,4A,224,30,1-9,1,9,48.7,56.0,142,507,14.2,50.7,48.7,OSSAA 4A,Oklahoma
-Grant,3A,225,29,2-8,2,8,48.7,20.0,190,311,19.0,31.1,48.7,OSSAA 3A,Oklahoma
-Haskell,A,226,47,4-6,4,6,48.7,20.0,215,334,21.5,33.4,48.7,OSSAA A,Oklahoma
-Wilson,A,227,48,3-7,3,7,48.6,26.1,126,299,12.6,29.9,48.6,OSSAA A,Oklahoma
-Blackwell,2A-I,228,29,1-9,1,9,48.6,36.6,96,335,9.6,33.5,48.6,OSSAA 2A-I,Oklahoma
-Drumright,A,229,49,3-7,3,7,48.4,24.8,211,394,21.1,39.4,48.4,OSSAA A,Oklahoma
-Watonga,A,230,50,3-6,3,6,47.9,30.5,89,264,9.9,29.3,47.9,OSSAA A,Oklahoma
-Carnegie,A,231,51,2-7,2,7,47.7,21.2,88,233,9.8,25.9,47.7,OSSAA A,Oklahoma
-Chouteau-Mazie,2A-II,232,27,2-8,2,8,47.5,20.0,188,349,18.8,34.9,47.5,OSSAA 2A-II,Oklahoma
-Chelsea,2A-II,233,28,2-8,2,8,47.5,34.4,170,414,17.0,41.4,47.5,OSSAA 2A-II,Oklahoma
-Afton,A,234,52,2-6,2,6,47.1,20.0,142,256,17.8,32.0,47.1,OSSAA A,Oklahoma
-Apache,A,235,53,2-7,2,7,46.8,28.0,94,272,10.4,30.2,46.8,OSSAA A,Oklahoma
-Webster,3A,236,30,1-9,1,9,46.8,41.0,166,481,16.6,48.1,46.8,OSSAA 3A,Oklahoma
-Muldrow,3A,237,31,1-9,1,9,46.7,53.7,68,425,6.8,42.5,46.7,OSSAA 3A,Oklahoma
-Walters,6A-I,238,24,0-9,0,9,46.6,34.4,81,351,9.0,39.0,46.6,OSSAA 6A-I,Oklahoma
-Hinton,A,239,54,1-9,1,9,46.6,35.7,128,366,12.8,36.6,46.6,OSSAA A,Oklahoma
-Central-Tulsa,2A-I,240,30,2-8,2,8,46.6,31.3,126,377,12.6,37.7,46.6,OSSAA 2A-I,Oklahoma
-Mooreland,A,241,55,2-8,2,8,46.4,25.0,92,287,9.2,28.7,46.4,OSSAA A,Oklahoma
-Okmulgee,2A-I,242,31,2-8,2,8,46.0,25.4,137,368,13.7,36.8,46.0,OSSAA 2A-I,Oklahoma
-Memorial,6A-I,243,25,0-10,0,10,45.7,60.2,20,527,2.0,52.7,45.7,OSSAA 6A-I,Oklahoma
-Locust Grove,6A-I,244,26,0-10,0,10,45.7,53.0,55,473,5.5,47.3,45.7,OSSAA 6A-I,Oklahoma
-Kellyville,6A-I,245,27,0-10,0,10,45.2,47.1,94,522,9.4,52.2,45.2,OSSAA 6A-I,Oklahoma
-Valliant,2A-II,246,29,1-9,1,9,45.1,31.8,75,350,7.5,35.0,45.1,OSSAA 2A-II,Oklahoma
-Summit Christian Academy,A,247,56,2-8,2,8,44.4,34.6,162,445,16.2,44.5,44.4,OSSAA A,Oklahoma
-Canadian,A,248,57,2-8,2,8,43.4,21.2,121,385,12.1,38.5,43.4,OSSAA A,Oklahoma
-Caney Valley,A,249,58,2-6,2,6,42.1,20.0,100,203,12.5,25.4,42.1,OSSAA A,Oklahoma
-Okemah,6A-I,250,28,0-10,0,10,42.1,23.0,61,365,6.1,36.5,42.1,OSSAA 6A-I,Oklahoma
-Porter,A,251,59,1-9,1,9,41.9,21.7,158,422,15.8,42.2,41.9,OSSAA A,Oklahoma
-Meeker,6A-I,252,29,0-10,0,10,41.7,42.7,115,572,11.5,57.2,41.7,OSSAA 6A-I,Oklahoma
-Little Axe,6A-I,253,30,0-10,0,10,41.6,51.7,20,514,2.0,51.4,41.6,OSSAA 6A-I,Oklahoma
-Lexington,6A-I,254,31,0-10,0,10,40.3,38.6,104,566,10.4,56.6,40.3,OSSAA 6A-I,Oklahoma
-Mounds,A,255,60,2-8,2,8,39.2,20.0,128,443,12.8,44.3,39.2,OSSAA A,Oklahoma
-Allen,6A-I,256,32,0-10,0,10,38.3,24.7,64,520,6.4,52.0,38.3,OSSAA 6A-I,Oklahoma
-Capitol Hill,6A-I,257,33,0-9,0,9,37.5,20.0,50,340,5.6,37.8,37.5,OSSAA 6A-I,Oklahoma
-KIPP Tulsa University Prep,6A-I,258,34,0-10,0,10,36.1,33.4,58,609,5.8,60.9,36.1,OSSAA 6A-I,Oklahoma
-Oklahoma Union,6A-I,259,35,0-10,0,10,35.9,22.7,52,471,5.2,47.1,35.9,OSSAA 6A-I,Oklahoma
-Northwest Classen,2A-II,260,30,1-7,1,7,35.0,20.0,58,329,7.2,41.1,35.0,OSSAA 2A-II,Oklahoma
+rank,division_rank,team,state,division,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_scored,ppg_allowed,ppg_off,ppg_def,net_margin,off_index,def_index,playoff_points,harbin_avg,ppa,pqs,contender_tier,city,mascot
+1,1,Bixby,OK,6A-I,OSSAA 6A-I,11-0,11,0,0,11,104.4,104.4,54.4,81.4,1,60.4,13.2,60.4,13.2,47.2,99.5,65.1,128.49,98.72,98.72,98.72,State Title Contender,Bixby,Spartans
+2,2,Owasso,OK,6A-I,OSSAA 6A-I,10-1,10,1,0,11,100.9,100.9,50.9,81.5,2,37.1,21.3,37.1,21.3,15.8,68.3,53.8,119.43,90.65,90.65,90.65,State Title Contender,Owasso,Rams
+3,1,Lincoln Christian,OK,3A,OSSAA 3A,14-0,14,0,0,14,98.4,98.4,48.4,59.2,3,49.9,5.0,49.9,5.0,44.9,86.3,76.6,120.72,82.95,82.95,82.95,State Title Contender,Tulsa,Bulldogs
+4,1,Tuttle,OK,4A,OSSAA 4A,14-0,14,0,0,14,97.3,97.3,47.3,58.1,4,52.1,6.8,52.1,6.8,45.3,89.3,74.1,120.34,61.93,61.93,61.93,State Title Contender,Tuttle,Tigers
+5,1,Jones,OK,2A-I,OSSAA 2A-I,14-0,14,0,0,14,93.4,93.4,43.4,54.7,5,47.7,13.0,47.7,13.0,34.7,83.2,65.4,119.14,60.42,60.42,60.42,State Title Contender,Jones,Longhorns
+6,2,Sulphur,OK,3A,OSSAA 3A,13-1,13,1,0,14,93.0,93.0,43.0,61.6,6,46.4,11.9,46.4,11.9,34.5,81.4,66.9,114.42,75.52,75.52,75.52,State Title Contender,Sulphur,Bulldogs
+7,1,Carl Albert,OK,5A,OSSAA 5A,14-0,14,0,0,14,92.7,92.7,42.7,54.1,7,49.6,9.6,49.6,9.6,40.0,85.8,70.2,118.94,83.68,83.68,83.68,State Title Contender,Midwest City,Titans
+8,2,Elgin,OK,4A,OSSAA 4A,13-1,13,1,0,14,91.3,91.3,41.3,59.0,8,46.6,8.4,46.6,8.4,38.2,81.6,71.8,113.51,85.21,85.21,85.21,State Title Contender,Elgin,Owls
+9,1,Seiling,OK,A,OSSAA A,14-0,14,0,0,14,90.1,90.1,40.1,55.0,9,51.6,11.7,51.6,11.7,39.9,88.6,67.2,119.25,35.0,65.0,10.0,State Title Contender,Seiling,Wildcats
+10,2,Ryan,OK,A,OSSAA A,13-0,13,0,0,13,90.1,90.1,40.1,55.0,10,47.5,15.7,47.5,15.7,31.8,82.9,61.6,119.25,35.0,65.0,10.0,State Title Contender,Ryan,Cowboys
+11,3,Sharon-Mutual,OK,A,OSSAA A,10-0,10,0,0,10,90.1,90.1,40.1,55.0,11,50.9,4.8,50.9,4.8,46.1,87.7,76.9,119.25,41.58,41.58,41.58,State Title Contender,Mutual,Trojans
+12,3,Avant,OK,6A-I,OSSAA 6A-I,10-0,10,0,0,10,89.5,89.5,39.5,55.0,12,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,95.92,95.92,95.92,State Title Contender,Oklahoma City,Varsity
+13,3,Tulsa Edison,OK,3A,OSSAA 3A,10-0,10,0,0,10,89.5,89.5,39.5,55.0,13,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,80.94,80.94,80.94,State Title Contender,Tulsa,Varsity
+14,2,Alderson,OK,2A-I,OSSAA 2A-I,9-0,9,0,0,9,89.5,89.5,39.5,55.0,14,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,74.48,74.48,74.48,State Title Contender,Oklahoma City,Varsity
+15,4,Weleetka,OK,A,OSSAA A,13-1,13,1,0,14,87.3,87.3,37.3,54.0,15,48.7,14.1,48.7,14.1,34.6,84.6,63.9,111.76,32.5,60.36,9.29,State Title Contender,Weleetka,Outlaws
+16,1,Adair,OK,2A-II,OSSAA 2A-II,14-0,14,0,0,14,86.8,86.8,36.8,56.9,16,42.6,16.4,42.6,16.4,26.2,76.0,60.6,119.91,45.49,45.49,45.49,State Title Contender,Adair,Warriors
+17,3,Washington,OK,2A-I,OSSAA 2A-I,12-2,12,2,0,14,85.0,85.0,35.0,58.1,17,39.9,9.6,39.9,9.6,30.3,72.3,70.2,106.05,79.07,79.07,79.07,State Title Contender,Washington,Warriors
+18,4,Jenks,OK,6A-I,OSSAA 6A-I,10-2,10,2,0,12,84.6,84.6,34.6,63.4,18,52.1,24.0,52.1,24.0,28.1,89.3,50.0,105.52,74.36,74.36,74.36,Regional Contender,Jenks,Trojans
+19,5,Dewar,OK,A,OSSAA A,12-2,12,2,0,14,84.4,84.4,34.4,53.0,19,45.1,12.3,45.1,12.3,32.8,79.5,66.4,104.26,30.0,55.71,8.57,Regional Contender,Dewar,Dragons
+20,6,Okeene,OK,A,OSSAA A,11-2,11,2,0,13,84.0,84.0,34.0,52.8,20,50.5,16.9,50.5,16.9,33.6,87.1,59.9,103.1,29.62,55.0,8.46,Regional Contender,Okeene,Whippets
+21,7,Caddo,OK,A,OSSAA A,10-2,10,2,0,12,83.4,83.4,33.4,52.7,21,45.4,13.5,45.4,13.5,31.9,80.0,64.7,101.78,29.17,54.17,8.33,Regional Contender,Caddo,Bruins
+22,8,Hollis,OK,A,OSSAA A,10-2,10,2,0,12,83.4,83.4,33.4,52.7,22,44.7,16.8,44.7,16.8,27.9,79.0,60.1,101.78,28.37,28.37,28.37,Regional Contender,Hollis,Tigers
+23,4,Heritage Hall,OK,3A,OSSAA 3A,11-2,11,2,0,13,82.6,82.6,32.6,59.4,23,36.7,15.1,36.7,15.1,21.6,67.8,62.5,105.41,69.91,69.91,69.91,Regional Contender,Oklahoma City,Chargers
+24,5,Sasakwa,OK,6A-I,OSSAA 6A-I,10-2,10,2,0,12,82.4,82.4,32.4,52.7,24,42.6,16.2,42.6,16.2,26.4,76.0,60.9,101.78,93.94,93.94,93.94,Regional Contender,Sasakwa,Vikings
+25,9,Rejoice Christian,OK,A,OSSAA A,13-1,13,1,0,14,82.3,82.3,32.3,52.7,25,47.0,13.2,47.0,13.2,33.8,82.2,65.1,111.3,33.82,33.82,33.82,Regional Contender,Owasso,Eagles
+26,2,Vian,OK,2A-II,OSSAA 2A-II,12-2,12,2,0,14,82.3,82.3,32.3,54.0,26,42.6,13.4,42.6,13.4,29.2,76.0,64.8,104.61,68.99,68.99,68.99,Regional Contender,Vian,Wolverines
+27,6,Cyril,OK,6A-I,OSSAA 6A-I,10-2,10,2,0,12,82.3,82.3,32.3,52.7,27,41.3,15.2,41.3,15.2,26.1,74.2,62.3,101.78,80.17,80.17,80.17,Regional Contender,Cyril,Pirates
+28,2,Bishop McGuinness,OK,5A,OSSAA 5A,12-2,12,2,0,14,82.1,82.1,32.1,59.8,28,35.4,19.4,35.4,19.4,16.0,66.0,56.4,106.64,69.08,69.08,69.08,Regional Contender,Oklahoma City,Fighting Irish
+29,3,Burns Flat,OK,4A,OSSAA 4A,9-1,9,1,0,10,82.0,82.0,32.0,53.6,29,35.2,13.6,35.2,13.6,21.6,65.7,64.6,108.76,77.56,77.56,77.56,Regional Contender,Oklahoma City,Varsity
+30,4,Tulsa Hale,OK,2A-I,OSSAA 2A-I,9-1,9,1,0,10,82.0,82.0,32.0,53.6,30,35.2,13.6,35.2,13.6,21.6,65.7,64.6,108.76,72.4,72.4,72.4,Regional Contender,Tulsa,Varsity
+31,3,Tulsa Rogers,OK,2A-II,OSSAA 2A-II,9-1,9,1,0,10,82.0,82.0,32.0,53.6,31,35.2,13.6,35.2,13.6,21.6,65.7,64.6,108.76,67.69,67.69,67.69,Regional Contender,Tulsa,Varsity
+32,10,Medford,OK,A,OSSAA A,10-3,10,3,0,13,80.8,80.8,30.8,51.8,32,46.8,17.9,46.8,17.9,28.9,81.9,58.5,95.05,50.79,50.79,50.79,Regional Contender,Medford,Cardinals
+33,5,Broken Bow,OK,3A,OSSAA 3A,11-2,11,2,0,13,80.6,80.6,30.6,58.0,33,44.6,23.5,44.6,23.5,21.1,78.8,50.7,104.92,72.87,72.87,72.87,Regional Contender,Broken Bow,Savages
+34,11,Timberlake,OK,A,OSSAA A,10-2,10,2,0,12,80.6,80.6,30.6,52.7,34,46.4,23.0,46.4,23.0,23.4,81.4,51.4,101.78,29.17,54.17,8.33,Regional Contender,Helena,Tigers
+35,12,Alex High,OK,A,OSSAA A,7-1,7,1,0,8,80.1,80.1,30.1,53.2,35,34.5,14.2,34.5,14.2,20.3,64.7,63.7,106.12,59.99,59.99,59.99,Regional Contender,Oklahoma City,Varsity
+36,7,Broken Arrow,OK,6A-I,OSSAA 6A-I,9-3,9,3,0,12,79.6,79.6,29.6,65.0,36,31.3,18.8,31.3,18.8,12.5,60.2,57.3,97.75,42.65,42.65,42.65,Regional Contender,Broken Arrow,Tigers
+37,13,Talihina,OK,A,OSSAA A,14-0,14,0,0,14,79.1,79.1,29.1,48.4,37,48.1,11.9,48.1,11.9,36.2,83.7,66.9,116.94,48.93,48.93,48.93,Regional Contender,Talihina,Golden Tigers
+38,14,Tonkawa,OK,A,OSSAA A,12-2,12,2,0,14,78.4,78.4,28.4,52.9,38,38.9,15.3,38.9,15.3,23.6,70.9,62.2,104.23,31.73,31.73,31.73,Regional Contender,Tonkawa,Buccaneers
+39,5,Metro Christian,OK,2A-I,OSSAA 2A-I,11-1,11,1,0,12,78.4,78.4,28.4,52.0,39,41.0,10.0,41.0,10.0,31.0,73.8,69.6,109.87,65.82,65.82,65.82,Regional Contender,Tulsa,Patriots
+40,6,Marlow,OK,3A,OSSAA 3A,10-2,10,2,0,12,78.4,78.4,28.4,55.4,40,41.8,9.5,41.8,9.5,32.3,74.9,70.3,102.72,49.6,49.6,49.6,Regional Contender,Marlow,Outlaws
+41,15,Claremore Christian,OK,A,OSSAA A,7-2,7,2,0,9,77.6,77.6,27.6,51.9,41,49.3,27.0,49.3,27.0,22.3,85.4,45.8,95.94,65.88,65.88,65.88,Regional Contender,Claremore,Warriors
+42,7,Oklahoma Christian,OK,3A,OSSAA 3A,11-2,11,2,0,13,77.4,77.4,27.4,53.7,42,39.5,12.2,39.5,12.2,27.3,71.7,66.5,103.41,65.49,65.49,65.49,Regional Contender,Edmond,Saints
+43,4,Stroud,OK,2A-II,OSSAA 2A-II,11-2,11,2,0,13,77.3,77.3,27.3,53.1,43,44.8,12.9,44.8,12.9,31.9,79.1,65.5,103.2,57.24,57.24,57.24,Regional Contender,Stroud,Tigers
+44,3,Newcastle,OK,5A,OSSAA 5A,9-4,9,4,0,13,77.3,77.3,27.3,61.6,44,39.2,25.2,39.2,25.2,14.0,71.3,48.3,90.79,38.84,38.84,38.84,Regional Contender,Newcastle,Racers
+45,16,Mountain View-Gotebo,OK,A,OSSAA A,9-3,9,3,0,12,77.1,77.1,27.1,51.5,45,38.2,14.8,38.2,14.8,23.4,69.9,62.9,93.03,64.67,64.67,64.67,Regional Contender,Mountain View,Tigers
+46,17,Quinton,OK,A,OSSAA A,9-3,9,3,0,12,77.0,77.0,27.0,51.5,46,38.3,15.1,38.3,15.1,23.2,70.0,62.5,93.03,26.25,48.75,7.5,Regional Contender,Quinton,Savages
+47,1,Sand Springs,OK,6A-II,OSSAA 6A-II,11-2,11,2,0,13,76.8,76.8,26.8,56.1,47,37.8,17.0,37.8,17.0,20.8,69.3,59.8,104.25,70.7,70.7,70.7,Regional Contender,Sand Springs,Sandites
+48,18,Copan,OK,A,OSSAA A,8-3,8,3,0,11,76.7,76.7,26.7,51.2,48,40.8,16.7,40.8,16.7,24.1,73.5,60.2,90.65,26.49,26.49,26.49,Regional Contender,Copan,Hornets
+49,4,Cushing,OK,4A,OSSAA 4A,11-2,11,2,0,13,76.3,76.3,26.3,56.5,49,38.9,24.2,38.9,24.2,14.7,70.9,49.7,104.39,35.95,35.95,35.95,Regional Contender,Cushing,Tigers
+50,4,Pryor,OK,5A,OSSAA 5A,11-1,11,1,0,12,76.0,76.0,26.0,50.0,50,50.3,18.2,50.3,18.2,32.1,86.8,58.1,109.17,41.02,41.02,41.02,Regional Contender,Pryor,Tigers
+51,5,Holdenville,OK,2A-II,OSSAA 2A-II,10-2,10,2,0,12,75.8,75.8,25.8,52.6,51,48.0,11.8,48.0,11.8,36.2,83.6,67.1,101.74,56.89,56.89,56.89,Regional Contender,Holdenville,Wolverines
+52,5,Guthrie,OK,5A,OSSAA 5A,8-3,8,3,0,11,75.8,75.8,25.8,57.4,52,46.2,20.6,46.2,20.6,25.6,81.1,54.8,92.82,90.37,90.37,90.37,Regional Contender,Guthrie,Bluejays
+53,19,Laverne,OK,A,OSSAA A,10-3,10,3,0,13,75.6,75.6,25.6,51.8,53,32.3,12.6,32.3,12.6,19.7,61.6,66.0,95.05,26.92,50.0,7.69,Regional Contender,Laverne,Tigers
+54,6,Davis,OK,2A-II,OSSAA 2A-II,10-3,10,3,0,13,75.3,75.3,25.3,57.8,54,34.1,14.5,34.1,14.5,19.6,64.1,63.3,97.15,73.74,73.74,73.74,Regional Contender,Davis,Wolves
+55,6,MacArthur,OK,5A,OSSAA 5A,10-3,10,3,0,13,75.1,75.1,25.1,55.9,55,48.2,26.5,48.2,26.5,21.7,83.9,46.5,96.49,47.18,47.18,47.18,Regional Contender,Lawton,Highlanders
+56,20,Boise City,OK,A,OSSAA A,8-3,8,3,0,11,75.1,75.1,25.1,51.2,56,40.5,18.9,40.5,18.9,21.6,73.1,57.1,90.65,25.45,47.27,7.27,Regional Contender,Boise City,Wildcats
+57,8,Mustang,OK,6A-I,OSSAA 6A-I,8-4,8,4,0,12,75.1,75.1,25.1,61.4,57,43.9,27.5,43.9,27.5,16.4,77.9,45.1,88.16,58.16,58.16,58.16,Regional Contender,Mustang,Broncos
+58,21,Cherokee,OK,A,OSSAA A,10-3,10,3,0,13,75.0,75.0,25.0,51.8,58,37.7,18.8,37.7,18.8,18.9,69.2,57.3,95.05,26.92,50.0,7.69,Regional Contender,Cherokee,Chiefs
+59,5,Grove,OK,4A,OSSAA 4A,10-2,10,2,0,12,74.7,74.7,24.7,54.2,59,40.3,19.8,40.3,19.8,20.5,72.8,55.9,102.3,29.17,54.17,8.33,Regional Contender,Grove,Ridgerunners
+60,8,Albion,OK,3A,OSSAA 3A,8-2,8,2,0,10,74.6,74.6,24.6,52.2,60,32.4,16.2,32.4,16.2,16.2,61.8,60.9,98.27,67.94,67.94,67.94,Regional Contender,Oklahoma City,Varsity
+61,7,Gravette,OK,5A,OSSAA 5A,8-2,8,2,0,10,74.6,74.6,24.6,52.2,61,32.4,16.2,32.4,16.2,16.2,61.8,60.9,98.27,74.37,74.37,74.37,Regional Contender,Oklahoma City,Varsity
+62,6,Ada,OK,4A,OSSAA 4A,10-2,10,2,0,12,74.0,74.0,24.0,58.9,62,36.8,26.3,36.8,26.3,10.5,67.9,46.8,103.95,57.51,57.51,57.51,Regional Contender,Ada,Cougars
+63,9,Perkins-Tryon,OK,3A,OSSAA 3A,9-4,9,4,0,13,74.0,74.0,24.0,57.8,63,42.4,21.9,42.4,21.9,20.5,75.8,52.9,89.46,56.91,56.91,56.91,Regional Contender,Perkins,Demons
+64,22,Pawhuska,OK,A,OSSAA A,11-2,11,2,0,13,73.7,73.7,23.7,50.7,64,47.1,19.8,47.1,19.8,27.3,82.3,55.9,102.36,29.62,55.0,8.46,Playoff Qualifier,Pawhuska,Huskies
+65,10,Cascia Hall,OK,3A,OSSAA 3A,9-3,9,3,0,12,73.3,73.3,23.3,57.0,65,34.0,16.2,34.0,16.2,17.8,64.0,60.9,94.95,62.71,62.71,62.71,Playoff Qualifier,Tulsa,Commandos
+66,11,Salina,OK,3A,OSSAA 3A,10-2,10,2,0,12,73.0,73.0,23.0,50.8,66,41.5,14.0,41.5,14.0,27.5,74.5,64.0,101.11,34.59,34.59,34.59,Playoff Qualifier,Salina,Wildcats
+67,7,Asher,OK,2A-II,OSSAA 2A-II,7-2,7,2,0,9,72.8,72.8,22.8,51.9,67,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,56.92,56.92,56.92,Playoff Qualifier,Oklahoma City,Varsity
+68,23,Tulsa Central,OK,A,OSSAA A,7-2,7,2,0,9,72.8,72.8,22.8,51.9,68,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,56.55,56.55,56.55,Playoff Qualifier,Tulsa,Varsity
+69,24,Empire,OK,A,OSSAA A,8-3,8,3,0,11,72.6,72.6,22.6,51.2,69,40.6,22.9,40.6,22.9,17.7,73.2,51.5,90.65,33.92,33.92,33.92,Playoff Qualifier,Duncan,Bulldogs
+70,25,Fairview,OK,A,OSSAA A,10-2,10,2,0,12,71.8,71.8,21.8,50.5,70,39.8,15.2,39.8,15.2,24.6,72.1,62.3,101.01,69.46,69.46,69.46,Playoff Qualifier,Fairview,Yellowjackets
+71,2,Stillwater,OK,6A-II,OSSAA 6A-II,9-3,9,3,0,12,71.8,71.8,21.8,53.5,71,39.2,11.5,39.2,11.5,27.7,71.3,67.5,93.72,78.4,78.4,78.4,Playoff Qualifier,Stillwater,Pioneers
+72,9,Edmond Memorial,OK,6A-I,OSSAA 6A-I,8-4,8,4,0,12,71.8,71.8,21.8,59.4,72,29.8,18.7,29.8,18.7,11.1,58.1,57.4,87.46,58.51,58.51,58.51,Playoff Qualifier,Edmond,Bulldogs
+73,6,Holland Hall,OK,2A-I,OSSAA 2A-I,10-2,10,2,0,12,71.4,71.4,21.4,55.7,73,34.5,27.0,34.5,27.0,7.5,64.7,45.8,102.83,26.79,26.79,26.79,Playoff Qualifier,Tulsa,Dutch
+74,26,Pocola,OK,A,OSSAA A,10-3,10,3,0,13,71.4,71.4,21.4,51.9,74,40.9,14.5,40.9,14.5,26.4,73.7,63.3,95.09,32.38,32.38,32.38,Playoff Qualifier,Pocola,Indians
+75,7,Kiefer,OK,2A-I,OSSAA 2A-I,9-3,9,3,0,12,71.3,71.3,21.3,54.7,75,36.8,17.2,36.8,17.2,19.6,67.9,59.5,94.14,53.97,53.97,53.97,Playoff Qualifier,Kiefer,Trojans
+76,27,Tipton,OK,A,OSSAA A,9-4,9,4,0,13,70.8,70.8,20.8,50.7,76,33.7,16.5,33.7,16.5,17.2,63.6,60.5,86.98,24.23,45.0,6.92,Playoff Qualifier,Tipton,Tigers
+77,28,Bernice,OK,A,OSSAA A,6-2,6,2,0,8,70.8,70.8,20.8,51.5,77,31.0,17.5,31.0,17.5,13.5,59.8,59.1,93.03,54.33,54.33,54.33,Playoff Qualifier,Oklahoma City,Varsity
+78,29,Fairland,OK,A,OSSAA A,10-3,10,3,0,13,70.7,70.7,20.7,49.6,78,42.5,15.5,42.5,15.5,27.0,75.9,61.9,94.28,56.55,56.55,56.55,Playoff Qualifier,Fairland,Owls
+79,30,Oklahoma School for the Deaf,OK,A,OSSAA A,7-3,7,3,0,10,70.4,70.4,20.4,50.8,79,39.5,23.4,39.5,23.4,16.1,71.7,50.8,87.78,24.5,45.5,7.0,Playoff Qualifier,Sulphur,Bison
+80,3,Choctaw,OK,6A-II,OSSAA 6A-II,9-5,9,5,0,14,70.3,70.3,20.3,58.5,80,37.9,22.4,37.9,22.4,15.5,69.5,52.2,84.76,86.1,86.1,86.1,Playoff Qualifier,Choctaw,Yellowjackets
+81,31,Hominy,OK,A,OSSAA A,11-3,11,3,0,14,70.0,70.0,20.0,52.8,81,33.6,18.1,33.6,18.1,15.5,63.4,58.3,97.05,65.32,65.32,65.32,Playoff Qualifier,Hominy,Bucks
+82,8,Dibble,OK,2A-II,OSSAA 2A-II,9-3,9,3,0,12,70.0,70.0,20.0,55.4,82,35.9,17.1,35.9,17.1,18.8,66.7,59.7,94.39,69.98,69.98,69.98,Playoff Qualifier,Dibble,Demons
+83,10,Wynnewood,OK,6A-I,OSSAA 6A-I,11-1,11,1,0,12,69.7,69.7,19.7,49.0,83,37.8,11.0,37.8,11.0,26.8,69.3,68.2,108.82,97.01,97.01,97.01,Playoff Qualifier,Wynnewood,Savages
+84,12,Kingfisher,OK,3A,OSSAA 3A,8-4,8,4,0,12,69.7,69.7,19.7,57.5,84,31.3,23.3,31.3,23.3,8.0,60.2,51.0,86.79,35.09,35.09,35.09,Playoff Qualifier,Kingfisher,Yellowjackets
+85,8,Del City,OK,5A,OSSAA 5A,9-3,9,3,0,12,69.6,69.6,19.6,53.1,85,44.2,20.5,44.2,20.5,23.7,78.3,54.9,93.59,76.03,76.03,76.03,Playoff Qualifier,Del City,Eagles
+86,9,Anadarko,OK,2A-II,OSSAA 2A-II,8-3,8,3,0,11,69.4,69.4,19.4,55.7,86,36.1,24.5,36.1,24.5,11.6,66.9,49.3,92.22,59.56,59.56,59.56,Playoff Qualifier,Anadarko,Warriors
+87,4,Mangum,OK,6A-II,OSSAA 6A-II,11-1,11,1,0,12,69.3,69.3,19.3,46.0,87,41.8,11.9,41.8,11.9,29.9,74.9,66.9,107.77,87.59,87.59,87.59,Playoff Qualifier,Mangum,Tigers
+88,8,Kingston,OK,2A-I,OSSAA 2A-I,10-2,10,2,0,12,69.3,69.3,19.3,48.1,88,44.8,14.3,44.8,14.3,30.5,79.1,63.6,100.17,33.65,33.65,33.65,Playoff Qualifier,Kingston,Redskins
+89,10,Wyandotte,OK,2A-II,OSSAA 2A-II,9-3,9,3,0,12,69.0,69.0,19.0,55.7,89,33.2,19.8,33.2,19.8,13.4,62.9,55.9,94.5,32.5,32.5,32.5,Playoff Qualifier,Wyandotte,Bears
+90,32,Kansas School for the Deaf,OK,A,OSSAA A,3-1,3,1,0,4,68.8,68.8,18.8,51.5,90,14.0,3.5,14.0,3.5,10.5,36.0,78.7,93.03,26.25,48.75,7.5,Playoff Qualifier,Olathe,Jackrabbits
+91,7,Altus,OK,4A,OSSAA 4A,8-3,8,3,0,11,68.3,68.3,18.3,55.0,91,43.1,26.3,43.1,26.3,16.8,76.7,46.8,91.98,63.06,63.06,63.06,Playoff Qualifier,Altus,Bulldogs
+92,8,Poteau,OK,4A,OSSAA 4A,7-3,7,3,0,10,68.1,68.1,18.1,57.8,92,31.4,25.0,31.4,25.0,6.4,60.4,48.6,90.23,50.71,50.71,50.71,Playoff Qualifier,Poteau,Pirates
+93,11,Union,OK,6A-I,OSSAA 6A-I,5-5,5,5,0,10,68.0,68.0,18.0,67.0,93,30.0,30.3,30.0,30.3,-0.3,58.4,41.2,73.45,82.11,82.11,82.11,Playoff Qualifier,Tulsa,Redhawks
+94,12,Weatherford,OK,6A-I,OSSAA 6A-I,9-3,9,3,0,12,67.7,67.7,17.7,55.6,94,31.5,21.9,31.5,21.9,9.6,60.5,52.9,94.46,82.84,82.84,82.84,Playoff Qualifier,Weatherford,Eagles
+95,9,McAlester,OK,5A,OSSAA 5A,7-5,7,5,0,12,67.6,67.6,17.6,58.4,95,26.1,21.4,26.1,21.4,4.7,52.9,53.6,78.77,28.08,28.08,28.08,Playoff Qualifier,Mcalester,Buffaloes
+96,9,Agra,OK,4A,OSSAA 4A,7-3,7,3,0,10,67.1,67.1,17.1,50.8,96,29.6,18.8,29.6,18.8,10.8,57.8,57.3,87.78,63.76,63.76,63.76,Playoff Qualifier,Oklahoma City,Varsity
+97,10,Bearden,OK,4A,OSSAA 4A,7-3,7,3,0,10,67.1,67.1,17.1,50.8,97,29.6,18.8,29.6,18.8,10.8,57.8,57.3,87.78,64.46,64.46,64.46,Playoff Qualifier,Oklahoma City,Varsity
+98,10,Noah,OK,5A,OSSAA 5A,7-3,7,3,0,10,67.1,67.1,17.1,50.8,98,29.6,18.8,29.6,18.8,10.8,57.8,57.3,87.78,67.07,67.07,67.07,Playoff Qualifier,Oklahoma City,Varsity
+99,11,Piro,OK,4A,OSSAA 4A,7-3,7,3,0,10,67.1,67.1,17.1,50.8,99,29.6,18.8,29.6,18.8,10.8,57.8,57.3,87.78,63.76,63.76,63.76,Playoff Qualifier,Oklahoma City,Varsity
+100,11,Tulsa East Central,OK,5A,OSSAA 5A,7-3,7,3,0,10,67.1,67.1,17.1,50.8,100,29.6,18.8,29.6,18.8,10.8,57.8,57.3,87.78,68.92,68.92,68.92,Playoff Qualifier,Tulsa,Varsity
+101,33,Minco,OK,A,OSSAA A,10-2,10,2,0,12,67.0,67.0,17.0,47.4,101,33.2,12.0,33.2,12.0,21.2,62.9,66.8,99.92,49.05,49.05,49.05,Playoff Qualifier,Minco,Bulldogs
+102,13,Inola,OK,3A,OSSAA 3A,9-3,9,3,0,12,67.0,67.0,17.0,53.8,102,32.6,19.1,32.6,19.1,13.5,62.0,56.9,93.83,69.28,69.28,69.28,Playoff Qualifier,Inola,Longhorns
+103,5,Ardmore,OK,6A-II,OSSAA 6A-II,8-4,8,4,0,12,67.0,67.0,17.0,56.2,103,40.4,33.0,40.4,33.0,7.4,73.0,37.4,86.34,93.23,93.23,93.23,Playoff Qualifier,Ardmore,Tigers
+104,12,Coweta,OK,5A,OSSAA 5A,9-2,9,2,0,11,66.6,66.6,16.6,51.9,104,32.5,15.8,32.5,15.8,16.7,61.9,61.5,99.98,25.68,25.68,25.68,Playoff Qualifier,Coweta,Tigers
+105,14,Plainview,OK,3A,OSSAA 3A,7-4,7,4,0,11,66.6,66.6,16.6,57.8,105,35.1,24.3,35.1,24.3,10.8,65.5,49.6,83.87,49.11,49.11,49.11,Playoff Qualifier,Ardmore,Indians
+106,12,Lone Grove,OK,4A,OSSAA 4A,6-5,6,5,0,11,66.6,66.6,16.6,59.3,106,33.5,22.5,33.5,22.5,11.0,63.3,52.1,75.3,90.21,90.21,90.21,Playoff Qualifier,Lone Grove,Longhorns
+107,13,Sallisaw,OK,4A,OSSAA 4A,7-4,7,4,0,11,66.1,66.1,16.1,57.0,107,32.4,20.6,32.4,20.6,11.8,61.8,54.8,83.59,56.27,56.27,56.27,Playoff Qualifier,Sallisaw,Black Diamonds
+108,34,Pond Creek-Hunter,OK,A,OSSAA A,9-4,9,4,0,13,66.0,66.0,16.0,50.7,108,28.9,19.4,28.9,19.4,9.5,56.9,56.4,86.98,24.23,45.0,6.92,Playoff Qualifier,Pond Creek,Panthers
+109,15,Seminole,OK,3A,OSSAA 3A,8-3,8,3,0,11,66.0,66.0,16.0,57.0,109,35.1,34.5,35.1,34.5,0.6,65.5,35.3,92.68,68.13,68.13,68.13,Playoff Qualifier,Seminole,Chieftains
+110,6,Putnam City,OK,6A-II,OSSAA 6A-II,9-3,9,3,0,12,65.8,65.8,15.8,50.4,110,41.2,17.3,41.2,17.3,23.9,74.1,59.4,92.64,55.3,55.3,55.3,Playoff Qualifier,Oklahoma City,Pirates
+111,16,Berryhill,OK,3A,OSSAA 3A,7-4,7,4,0,11,65.6,65.6,15.6,55.3,111,31.7,15.3,31.7,15.3,16.4,60.8,62.2,82.99,56.21,56.21,56.21,Playoff Qualifier,Tulsa,Chiefs
+112,13,Pawnee,OK,5A,OSSAA 5A,7-4,7,4,0,11,65.6,65.6,15.6,52.6,112,40.9,20.7,40.9,20.7,20.2,73.7,54.6,82.05,67.32,67.32,67.32,Playoff Qualifier,Pawnee,Black Bears
+113,13,Tyrone,OK,6A-I,OSSAA 6A-I,5-3,5,3,0,8,65.4,65.4,15.4,49.8,113,33.8,21.0,33.8,21.0,12.8,63.7,54.2,79.93,81.92,81.92,81.92,Playoff Qualifier,Tyrone,Bobcats
+114,14,Adair High,OK,5A,OSSAA 5A,6-3,6,3,0,9,64.6,64.6,14.6,50.3,114,28.7,19.7,28.7,19.7,9.0,56.6,56.0,84.27,65.0,65.0,65.0,Playoff Qualifier,Oklahoma City,Varsity
+115,15,Arcadia,OK,5A,OSSAA 5A,6-3,6,3,0,9,64.6,64.6,14.6,50.3,115,28.7,19.7,28.7,19.7,9.0,56.6,56.0,84.27,64.74,64.74,64.74,Playoff Qualifier,Oklahoma City,Varsity
+116,9,Binger,OK,2A-I,OSSAA 2A-I,6-3,6,3,0,9,64.6,64.6,14.6,50.3,116,28.7,19.7,28.7,19.7,9.0,56.6,56.0,84.27,56.74,56.74,56.74,Playoff Qualifier,Oklahoma City,Varsity
+117,10,Valliant,OK,2A-I,OSSAA 2A-I,9-2,9,2,0,11,64.4,64.4,14.4,48.5,117,35.5,15.9,35.5,15.9,19.6,66.1,61.3,98.79,74.48,74.48,74.48,Playoff Qualifier,Valliant,Bulldogs
+118,14,Fort Gibson,OK,4A,OSSAA 4A,7-4,7,4,0,11,64.4,64.4,14.4,53.7,118,39.8,24.9,39.8,24.9,14.9,72.1,48.7,82.43,50.79,50.79,50.79,Playoff Qualifier,Fort Gibson,Tigers
+119,35,Oklahoma Bible,OK,A,OSSAA A,7-4,7,4,0,11,64.4,64.4,14.4,49.9,119,28.4,17.8,28.4,17.8,10.6,56.2,58.7,81.1,66.99,66.99,66.99,Playoff Qualifier,Enid,Trojans
+120,36,Fox,OK,A,OSSAA A,6-3,6,3,0,9,64.4,64.4,14.4,50.3,120,36.7,28.0,36.7,28.0,8.7,67.8,44.4,84.27,25.95,25.95,25.95,Playoff Qualifier,Fox,Foxes
+121,37,Thomas-Fay-Custer,OK,A,OSSAA A,9-2,9,2,0,11,64.3,64.3,14.3,44.7,121,37.0,11.7,37.0,11.7,25.3,68.2,67.2,97.46,39.54,39.54,39.54,Playoff Qualifier,Thomas,Terriers
+122,38,Wilson-Henryetta,OK,A,OSSAA A,6-3,6,3,0,9,64.3,64.3,14.3,50.3,122,46.0,37.6,46.0,37.6,8.4,80.8,31.0,84.27,28.34,28.34,28.34,Playoff Qualifier,Henryetta,Tigers
+123,11,Chandler,OK,2A-I,OSSAA 2A-I,7-4,7,4,0,11,64.0,64.0,14.0,53.5,123,28.2,15.8,28.2,15.8,12.4,55.9,61.5,82.36,47.52,47.52,47.52,Playoff Qualifier,Chandler,Lions
+124,11,Lindsay,OK,2A-II,OSSAA 2A-II,8-3,8,3,0,11,63.7,63.7,13.7,54.4,124,29.5,21.5,29.5,21.5,8.0,57.7,53.5,91.77,49.5,49.5,49.5,Playoff Qualifier,Lindsay,Leopards
+125,39,Oaks-Mission,OK,A,OSSAA A,8-4,8,4,0,12,63.7,63.7,13.7,50.3,125,36.5,28.8,36.5,28.8,7.7,67.5,43.3,84.27,34.15,34.15,34.15,Playoff Qualifier,Oaks,Warriors
+126,7,Piedmont,OK,6A-II,OSSAA 6A-II,8-4,8,4,0,12,63.3,63.3,13.3,51.6,126,39.6,16.6,39.6,16.6,23.0,71.8,60.4,84.73,63.0,63.0,63.0,Playoff Qualifier,Piedmont,Wildcats
+127,16,Booker T. Washington,OK,5A,OSSAA 5A,7-4,7,4,0,11,63.3,63.3,13.3,52.9,127,31.6,17.3,31.6,17.3,14.3,60.6,59.4,82.15,61.43,61.43,61.43,Playoff Qualifier,Tulsa,Hornets
+128,17,Collinsville,OK,5A,OSSAA 5A,8-3,8,3,0,11,63.0,63.0,13.0,49.3,128,37.4,16.8,37.4,16.8,20.6,68.8,60.1,89.98,32.58,32.58,32.58,Playoff Qualifier,Collinsville,Cardinals
+129,18,Duncan,OK,5A,OSSAA 5A,6-5,6,5,0,11,63.0,63.0,13.0,57.5,129,28.0,28.0,28.0,28.0,0.0,55.6,44.4,74.67,75.23,75.23,75.23,Playoff Qualifier,Duncan,Demons
+130,8,Yukon,OK,6A-II,OSSAA 6A-II,6-6,6,6,0,12,63.0,63.0,13.0,61.4,130,28.2,31.4,28.2,31.4,-3.2,55.9,39.6,71.49,75.6,75.6,75.6,Playoff Qualifier,Yukon,Millers
+131,40,Texhoma,OK,A,OSSAA A,5-4,5,4,0,9,62.6,62.6,12.6,48.8,131,37.8,25.1,37.8,25.1,12.7,69.3,48.5,72.64,58.64,58.64,58.64,Playoff Qualifier,Texhoma,Red Devils
+132,41,Maud,OK,A,OSSAA A,8-4,8,4,0,12,62.4,62.4,12.4,50.3,132,31.2,25.6,31.2,25.6,5.6,60.1,47.8,84.27,28.05,28.05,28.05,Playoff Qualifier,Maud,Tigers
+133,42,Waukomis,OK,A,OSSAA A,7-4,7,4,0,11,62.4,62.4,12.4,49.9,133,33.3,25.7,33.3,25.7,7.6,63.0,47.6,81.1,50.09,50.09,50.09,Playoff Qualifier,Waukomis,Chiefs
+134,9,Norman,OK,6A-II,OSSAA 6A-II,6-5,6,5,0,11,62.1,62.1,12.1,61.3,134,28.9,31.7,28.9,31.7,-2.8,56.9,39.2,76.0,33.01,33.01,33.01,Playoff Qualifier,Norman,Timberwolves
+135,43,Cashion,OK,A,OSSAA A,8-3,8,3,0,11,62.0,62.0,12.0,48.0,135,35.5,19.9,35.5,19.9,15.6,66.1,55.7,89.53,39.98,39.98,39.98,Playoff Qualifier,Cashion,Wildcats
+136,17,Mount St. Mary,OK,3A,OSSAA 3A,7-4,7,4,0,11,61.8,61.8,11.8,52.3,136,41.6,19.2,41.6,19.2,22.4,74.6,56.7,81.94,75.44,75.44,75.44,Playoff Qualifier,Oklahoma City,Rockets
+137,19,Claremore,OK,5A,OSSAA 5A,8-4,8,4,0,12,61.6,61.6,11.6,52.4,137,31.1,24.9,31.1,24.9,6.2,59.9,48.7,85.01,61.43,61.43,61.43,Playoff Qualifier,Claremore,Zebras
+138,44,Coyle,OK,A,OSSAA A,8-4,8,4,0,12,61.4,61.4,11.4,50.3,138,35.2,31.2,35.2,31.2,4.0,65.7,39.9,84.27,28.05,28.05,28.05,Playoff Qualifier,Coyle,Bluejackets
+139,15,Bethany,OK,4A,OSSAA 4A,5-6,5,6,0,11,61.1,61.1,11.1,60.6,139,27.3,37.6,27.3,37.6,-10.3,54.6,31.0,66.66,89.66,89.66,89.66,Playoff Qualifier,Bethany,Bronchos
+140,45,Hooker,OK,A,OSSAA A,9-3,9,3,0,12,61.0,61.0,11.0,50.0,140,36.0,27.2,36.0,27.2,8.8,66.8,45.5,92.5,54.0,54.0,54.0,Playoff Qualifier,Hooker,Bulldogs
+141,10,Sapulpa,OK,6A-II,OSSAA 6A-II,7-4,7,4,0,11,60.8,60.8,10.8,50.6,141,29.7,19.1,29.7,19.1,10.6,58.0,56.9,81.35,47.6,47.6,47.6,Playoff Qualifier,Sapulpa,Chieftains
+142,16,Tulsa NOAH HomeSchool,OK,4A,OSSAA 4A,7-5,7,5,0,12,60.7,60.7,10.7,54.9,142,26.3,21.8,26.3,21.8,4.5,53.2,53.1,77.55,20.42,37.92,5.83,Playoff Qualifier,Tulsa,Varsity
+143,11,Bishop Kelley,OK,6A-II,OSSAA 6A-II,5-6,5,6,0,11,60.4,60.4,10.4,57.6,143,27.0,23.6,27.0,23.6,3.4,54.2,50.6,65.61,90.46,90.46,90.46,Playoff Qualifier,Tulsa,Comets
+144,46,Allen,OK,A,OSSAA A,9-4,9,4,0,13,60.0,60.0,10.0,50.6,144,33.2,26.4,33.2,26.4,6.8,62.9,46.6,86.94,79.15,79.15,79.15,Playoff Qualifier,Allen,Mustangs
+145,12,Chisholm,OK,2A-I,OSSAA 2A-I,6-5,6,5,0,11,60.0,60.0,10.0,54.3,145,32.1,24.6,32.1,24.6,7.5,61.3,49.2,73.55,26.14,26.14,26.14,Playoff Qualifier,Enid,Longhorns
+146,14,Bernice High,OK,6A-I,OSSAA 6A-I,6-4,6,4,0,10,59.6,59.6,9.6,49.4,146,26.8,21.4,26.8,21.4,5.4,53.9,53.6,77.29,64.6,64.6,64.6,Playoff Qualifier,Oklahoma City,Varsity
+147,12,Tulsa Webster,OK,6A-II,OSSAA 6A-II,6-4,6,4,0,10,59.6,59.6,9.6,49.4,147,26.8,21.4,26.8,21.4,5.4,53.9,53.6,77.29,62.87,62.87,62.87,Playoff Qualifier,Tulsa,Varsity
+148,17,Clinton,OK,4A,OSSAA 4A,5-6,5,6,0,11,59.3,59.3,9.3,60.3,148,20.4,28.5,20.4,28.5,-8.1,45.0,43.7,66.56,26.48,26.48,26.48,Playoff Qualifier,Clinton,Red Tornadoes
+149,15,Norman North,OK,6A-I,OSSAA 6A-I,5-6,5,6,0,11,59.1,59.1,9.1,59.6,149,31.2,33.5,31.2,33.5,-2.3,60.1,36.7,66.31,66.61,66.61,66.61,Playoff Qualifier,Norman,Tigers
+150,47,Mannford,OK,A,OSSAA A,6-4,6,4,0,10,58.4,58.4,8.4,53.6,150,26.3,28.5,26.3,28.5,-2.2,53.2,43.7,78.76,44.52,44.52,44.52,Playoff Qualifier,Mannford,Pirates
+151,18,Blanchard,OK,4A,OSSAA 4A,5-6,5,6,0,11,57.9,57.9,7.9,57.1,151,30.5,27.5,30.5,27.5,3.0,59.1,45.1,65.44,78.23,78.23,78.23,Varsity Program,Blanchard,Lions
+152,13,Healdton,OK,6A-II,OSSAA 6A-II,9-3,9,3,0,12,57.7,57.7,7.7,44.7,152,34.2,19.7,34.2,19.7,14.5,64.3,56.0,90.64,19.96,19.96,19.96,Varsity Program,Healdton,Bulldogs
+153,48,Drumright,OK,A,OSSAA A,6-5,6,5,0,11,57.4,57.4,7.4,48.6,153,29.3,24.0,29.3,24.0,5.3,57.4,50.0,71.56,19.09,35.45,5.45,Varsity Program,Drumright,Tornadoes
+154,49,Yale,OK,A,OSSAA A,7-5,7,5,0,12,57.1,57.1,7.1,49.2,154,30.0,27.3,30.0,27.3,2.7,58.4,45.4,75.55,58.92,58.92,58.92,Varsity Program,Yale,Bulldogs
+155,16,Bluejacket,OK,6A-I,OSSAA 6A-I,6-5,6,5,0,11,57.1,57.1,7.1,48.6,155,34.5,29.6,34.5,29.6,4.9,64.7,42.2,71.56,75.09,75.09,75.09,Varsity Program,Bluejacket,Chieftains
+156,50,Woodland,OK,A,OSSAA A,6-5,6,5,0,11,56.7,56.7,6.7,51.2,156,32.7,22.7,32.7,22.7,10.0,62.2,51.8,72.47,58.65,58.65,58.65,Varsity Program,Fairfax,Cougars
+157,20,Durant,OK,5A,OSSAA 5A,4-6,4,6,0,10,56.7,56.7,6.7,56.6,157,19.8,20.2,19.8,20.2,-0.4,44.1,55.3,59.81,35.33,35.33,35.33,Varsity Program,Durant,Lions
+158,12,Keys,OK,2A-II,OSSAA 2A-II,5-6,5,6,0,11,56.6,56.6,6.6,56.0,158,31.6,35.9,31.6,35.9,-4.3,60.6,33.3,65.05,60.89,60.89,60.89,Varsity Program,Park Hill,Cougars
+159,19,Cache,OK,4A,OSSAA 4A,4-6,4,6,0,10,56.6,56.6,6.6,58.7,159,23.8,29.5,23.8,29.5,-5.7,49.7,42.3,60.55,40.77,40.77,40.77,Varsity Program,Cache,Bulldogs
+160,13,Amorita High,OK,2A-II,OSSAA 2A-II,5-4,5,4,0,9,56.3,56.3,6.3,48.8,160,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,49.26,49.26,49.26,Varsity Program,Oklahoma City,Varsity
+161,20,Charles Page,OK,4A,OSSAA 4A,5-4,5,4,0,9,56.3,56.3,6.3,48.8,161,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,54.23,54.23,54.23,Varsity Program,Oklahoma City,Varsity
+162,18,Checotah,OK,3A,OSSAA 3A,6-5,6,5,0,11,56.1,56.1,6.1,53.9,162,28.6,29.4,28.6,29.4,-0.8,56.4,42.4,73.41,50.41,50.41,50.41,Varsity Program,Checotah,Wildcats
+163,17,Hilldale,OK,6A-I,OSSAA 6A-I,5-6,5,6,0,11,56.1,56.1,6.1,57.2,163,33.0,36.8,33.0,36.8,-3.8,62.6,32.1,65.47,73.77,73.77,73.77,Varsity Program,Muskogee,Hornets
+164,14,Muskogee,OK,6A-II,OSSAA 6A-II,6-6,6,6,0,12,56.0,56.0,6.0,51.6,164,37.7,24.9,37.7,24.9,12.8,69.2,48.7,68.06,94.15,94.15,94.15,Varsity Program,Muskogee,Roughers
+165,21,Elk City,OK,4A,OSSAA 4A,5-6,5,6,0,11,56.0,56.0,6.0,56.2,165,22.6,24.0,22.6,24.0,-1.4,48.0,50.0,65.12,73.79,73.79,73.79,Varsity Program,Elk City,Elks
+166,51,Webbers Falls,OK,A,OSSAA A,5-5,5,5,0,10,55.9,55.9,5.9,48.0,166,38.0,32.3,38.0,32.3,5.7,69.6,38.4,66.8,36.63,36.63,36.63,Varsity Program,Webbers Falls,Warriors
+167,13,Bristow,OK,2A-I,OSSAA 2A-I,3-7,3,7,0,10,55.9,55.9,5.9,59.5,167,26.7,29.8,26.7,29.8,-3.1,53.8,41.9,50.83,70.01,70.01,70.01,Varsity Program,Bristow,Purple Pirates
+168,14,Beggs,OK,2A-II,OSSAA 2A-II,6-5,6,5,0,11,55.7,55.7,5.7,53.6,168,28.3,28.1,28.3,28.1,0.2,56.0,44.3,73.31,18.07,18.07,18.07,Varsity Program,Beggs,Golden Demons
+169,22,Harrah,OK,4A,OSSAA 4A,6-4,6,4,0,10,55.7,55.7,5.7,50.7,169,35.0,33.1,35.0,33.1,1.9,65.4,37.3,77.75,27.43,27.43,27.43,Varsity Program,Harrah,Panthers
+170,23,Verdigris,OK,4A,OSSAA 4A,6-4,6,4,0,10,55.7,55.7,5.7,50.3,170,26.3,19.8,26.3,19.8,6.5,53.2,55.9,77.6,61.34,61.34,61.34,Varsity Program,Claremore,Cardinals
+171,14,OCS,OK,2A-I,OSSAA 2A-I,6-5,6,5,0,11,55.6,55.6,5.6,48.6,171,25.3,22.8,25.3,22.8,2.5,51.8,51.7,71.56,53.97,53.97,53.97,Varsity Program,Oklahoma City,Varsity
+172,24,Wagoner,OK,4A,OSSAA 4A,5-6,5,6,0,11,55.6,55.6,5.6,55.6,172,29.4,32.7,29.4,32.7,-3.3,57.6,37.8,64.91,71.74,71.74,71.74,Varsity Program,Wagoner,Bulldogs
+173,52,Balko/Forgan,OK,A,OSSAA A,6-5,6,5,0,11,55.4,55.4,5.4,48.6,173,30.0,27.8,30.0,27.8,2.2,58.4,44.7,71.56,72.07,72.07,72.07,Varsity Program,Balko,Forgan
+174,18,Edmond North,OK,6A-I,OSSAA 6A-I,3-8,3,8,0,11,55.4,55.4,5.4,63.5,174,22.5,32.1,22.5,32.1,-9.6,47.9,38.7,49.5,92.41,92.41,92.41,Varsity Program,Edmond,Huskies
+175,19,Idabel,OK,3A,OSSAA 3A,5-6,5,6,0,11,55.3,55.3,5.3,57.5,175,28.1,32.7,28.1,32.7,-4.6,55.7,37.8,65.58,25.77,25.77,25.77,Varsity Program,Idabel,Warriors
+176,19,Moore,OK,6A-I,OSSAA 6A-I,4-6,4,6,0,10,55.3,55.3,5.3,60.1,176,26.1,36.0,26.1,36.0,-9.9,52.9,33.2,61.03,28.73,28.73,28.73,Varsity Program,Moore,Lions
+177,21,Tishomingo,OK,5A,OSSAA 5A,4-6,4,6,0,10,55.3,55.3,5.3,55.7,177,26.5,34.9,26.5,34.9,-8.4,53.5,34.7,59.5,27.51,27.51,27.51,Varsity Program,Tishomingo,Indians
+178,15,Deer Creek,OK,6A-II,OSSAA 6A-II,3-8,3,8,0,11,55.3,55.3,5.3,64.3,178,23.2,34.3,23.2,34.3,-11.1,48.9,35.6,49.78,63.0,63.0,63.0,Varsity Program,Edmond,Antlers
+179,53,Frederick,OK,A,OSSAA A,6-5,6,5,0,11,54.9,54.9,4.9,51.3,179,24.5,20.3,24.5,20.3,4.2,50.7,55.2,72.5,26.45,26.45,26.45,Varsity Program,Frederick,Bombers
+180,20,Hennessey,OK,3A,OSSAA 3A,7-4,7,4,0,11,53.9,53.9,3.9,49.9,180,26.2,26.2,26.2,26.2,0.0,53.1,46.9,81.1,69.98,69.98,69.98,Varsity Program,Hennessey,Eagles
+181,22,Wilburton,OK,5A,OSSAA 5A,7-4,7,4,0,11,53.4,53.4,3.4,49.9,181,21.8,23.5,21.8,23.5,-1.7,46.9,50.7,81.1,38.86,38.86,38.86,Varsity Program,Wilburton,Diggers
+182,23,Tahlequah,OK,5A,OSSAA 5A,5-5,5,5,0,10,53.4,53.4,3.4,49.7,182,32.8,22.9,32.8,22.9,9.9,62.3,51.5,67.39,58.89,58.89,58.89,Varsity Program,Tahlequah,Tigers
+183,25,Morrison,OK,4A,OSSAA 4A,4-6,4,6,0,10,53.4,53.4,3.4,52.9,183,26.7,23.4,26.7,23.4,3.3,53.8,50.8,58.52,52.76,52.76,52.76,Varsity Program,Morrison,Wildcats
+184,20,Ketchum,OK,6A-I,OSSAA 6A-I,6-5,6,5,0,11,53.3,53.3,3.3,50.1,184,29.5,24.3,29.5,24.3,5.2,57.7,49.6,72.08,85.17,85.17,85.17,Varsity Program,Ketchum,Warriors
+185,54,Shattuck,OK,A,OSSAA A,5-6,5,6,0,11,53.3,53.3,3.3,47.4,185,32.2,27.6,32.2,27.6,4.6,61.5,45.0,62.04,15.91,29.55,4.55,Varsity Program,Shattuck,Indians
+186,21,Konawa,OK,6A-I,OSSAA 6A-I,8-3,8,3,0,11,53.1,53.1,3.1,45.2,186,28.3,17.2,28.3,17.2,11.1,56.0,59.5,88.55,88.59,88.59,88.59,Varsity Program,Konawa,Tigers
+187,55,Waurika,OK,A,OSSAA A,6-6,6,6,0,12,53.1,53.1,3.1,48.0,187,32.7,31.2,32.7,31.2,1.5,62.2,39.9,66.8,21.03,21.03,21.03,Varsity Program,Waurika,Eagles
+188,56,Panama,OK,A,OSSAA A,7-4,7,4,0,11,53.0,53.0,3.0,48.3,188,27.8,24.5,27.8,24.5,3.3,55.3,49.3,80.54,36.88,36.88,36.88,Varsity Program,Panama,Razorbacks
+189,22,Southmoore,OK,6A-I,OSSAA 6A-I,6-6,6,6,0,12,53.0,53.0,3.0,50.6,189,30.2,22.4,30.2,22.4,7.8,58.7,52.2,67.71,20.65,20.65,20.65,Varsity Program,Moore,Sabercats
+190,57,Pioneer-Pleasant Vale,OK,A,OSSAA A,6-5,6,5,0,11,52.9,52.9,2.9,48.6,190,22.9,24.7,22.9,24.7,-1.8,48.5,49.0,71.56,27.32,27.32,27.32,Varsity Program,Waukomis,Mustangs
+191,15,Little Axe,OK,2A-I,OSSAA 2A-I,5-6,5,6,0,11,52.7,52.7,2.7,55.9,191,25.0,35.1,25.0,35.1,-10.1,51.4,34.5,65.02,67.61,67.61,67.61,Varsity Program,Norman,Indians
+192,21,Muldrow,OK,3A,OSSAA 3A,5-5,5,5,0,10,52.7,52.7,2.7,50.0,192,29.6,22.5,29.6,22.5,7.1,57.8,52.1,67.5,59.96,59.96,59.96,Varsity Program,Muldrow,Bulldogs
+193,58,Arkansas School for the Deaf,OK,A,OSSAA A,3-3,3,3,0,6,52.6,52.6,2.6,48.0,193,22.2,21.5,22.2,21.5,0.7,47.5,53.5,66.8,17.5,32.5,5.0,Varsity Program,Little Rock,Leopards
+194,24,Bethel,OK,5A,OSSAA 5A,7-4,7,4,0,11,52.4,52.4,2.4,48.4,194,37.5,34.5,37.5,34.5,3.0,68.9,35.3,80.58,51.24,51.24,51.24,Varsity Program,Shawnee,Wildcats
+195,16,Millwood,OK,2A-I,OSSAA 2A-I,4-5,4,5,0,9,52.3,52.3,2.3,53.3,195,30.3,28.4,30.3,28.4,1.9,58.8,43.8,63.1,72.27,72.27,72.27,Varsity Program,Oklahoma City,Falcons
+196,59,Wewoka,OK,A,OSSAA A,6-5,6,5,0,11,52.1,52.1,2.1,51.4,196,24.3,23.2,24.3,23.2,1.1,50.4,51.1,72.54,39.02,39.02,39.02,Varsity Program,Wewoka,Tigers
+197,16,Allen High,OK,6A-II,OSSAA 6A-II,5-5,5,5,0,10,52.1,52.1,2.1,48.0,197,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,57.3,57.3,57.3,Varsity Program,Oklahoma City,Varsity
+198,22,Ames,OK,3A,OSSAA 3A,5-5,5,5,0,10,52.1,52.1,2.1,48.0,198,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,49.49,49.49,49.49,Varsity Program,Oklahoma City,Varsity
+199,23,Bessie,OK,6A-I,OSSAA 6A-I,5-5,5,5,0,10,52.1,52.1,2.1,48.0,199,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,58.13,58.13,58.13,Varsity Program,Oklahoma City,Varsity
+200,17,Sequoyah Claremore,OK,2A-I,OSSAA 2A-I,5-5,5,5,0,10,52.1,52.1,2.1,48.0,200,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,49.34,49.34,49.34,Varsity Program,Claremore,Varsity
+201,24,Tulsa Mclain,OK,6A-I,OSSAA 6A-I,5-5,5,5,0,10,52.1,52.1,2.1,48.0,201,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,56.66,56.66,56.66,Varsity Program,Tulsa,Varsity
+202,15,Henryetta,OK,2A-II,OSSAA 2A-II,6-4,6,4,0,10,52.0,52.0,2.0,47.1,202,31.2,24.2,31.2,24.2,7.0,60.1,49.7,76.48,44.73,44.73,44.73,Varsity Program,Henryetta,Knights
+203,25,Hobart,OK,6A-I,OSSAA 6A-I,6-5,6,5,0,11,52.0,52.0,2.0,48.9,203,26.0,24.0,26.0,24.0,2.0,52.8,50.0,71.66,86.27,86.27,86.27,Varsity Program,Hobart,Bearcats
+204,26,Southwest Covenant,OK,6A-I,OSSAA 6A-I,8-4,8,4,0,12,51.9,51.9,1.9,46.0,204,21.0,17.3,21.0,17.3,3.7,45.8,59.4,82.77,88.78,88.78,88.78,Varsity Program,Yukon,Patriots
+205,60,Texhoma/Goodwell,OK,A,OSSAA A,6-5,6,5,0,11,51.9,51.9,1.9,49.7,205,28.7,23.5,28.7,23.5,5.2,56.6,50.7,71.94,19.09,35.45,5.45,Varsity Program,Texhoma,Goodwell
+206,18,Kellyville,OK,2A-I,OSSAA 2A-I,7-4,7,4,0,11,51.6,51.6,1.6,45.2,206,36.1,28.0,36.1,28.0,8.1,66.9,44.4,79.46,56.74,56.74,56.74,Varsity Program,Kellyville,Ponies
+207,25,Community Christian,OK,5A,OSSAA 5A,4-6,4,6,0,10,51.6,51.6,1.6,57.0,207,19.2,34.7,19.2,34.7,-15.5,43.3,35.0,59.95,27.85,27.85,27.85,Varsity Program,Norman,Royals
+208,16,Shawnee,OK,2A-II,OSSAA 2A-II,4-6,4,6,0,10,51.6,51.6,1.6,53.0,208,28.9,24.6,28.9,24.6,4.3,56.9,49.2,58.55,23.39,23.39,23.39,Varsity Program,Shawnee,Wolves
+209,26,Southeast,OK,5A,OSSAA 5A,6-4,6,4,0,10,51.4,51.4,1.4,48.8,209,23.1,21.7,23.1,21.7,1.4,48.7,53.2,77.08,80.83,80.83,80.83,Varsity Program,Oklahoma City,Spartans
+210,19,Noble,OK,2A-I,OSSAA 2A-I,4-7,4,7,0,11,51.4,51.4,1.4,58.4,210,19.6,35.6,19.6,35.6,-16.0,43.8,33.8,56.8,82.77,82.77,82.77,Varsity Program,Noble,Bears
+211,17,Kansas,OK,2A-II,OSSAA 2A-II,5-5,5,5,0,10,51.3,51.3,1.3,50.4,211,20.7,19.7,20.7,19.7,1.0,45.4,56.0,67.64,25.89,25.89,25.89,Varsity Program,Kansas,Comets
+212,18,Colcord,OK,2A-II,OSSAA 2A-II,5-5,5,5,0,10,50.7,50.7,0.7,51.4,212,26.2,26.6,26.2,26.6,-0.4,53.1,46.4,67.99,56.54,56.54,56.54,Varsity Program,Colcord,Hornets
+213,61,Covington-Douglas,OK,A,OSSAA A,5-6,5,6,0,11,50.7,50.7,0.7,47.4,213,31.4,30.7,31.4,30.7,0.7,60.4,40.6,62.04,15.91,29.55,4.55,Varsity Program,Covington,Wildcats
+214,23,North Rock Creek,OK,3A,OSSAA 3A,3-7,3,7,0,10,50.6,50.6,0.6,57.8,214,18.2,26.7,18.2,26.7,-8.5,41.9,46.2,50.23,65.14,65.14,65.14,Varsity Program,Shawnee,Cougars
+215,62,Pauls Valley,OK,A,OSSAA 3A,3-7,3,7,0,10,50.6,50.6,0.6,58.5,215,16.0,31.8,16.0,31.8,-15.8,38.8,39.1,50.47,37.41,37.41,37.41,Varsity Program,Pauls Valley,Panthers
+216,63,Strother,OK,A,OSSAA A,5-6,5,6,0,11,50.3,50.3,0.3,47.4,216,26.2,26.2,26.2,26.2,0.0,53.1,46.9,62.04,56.92,56.92,56.92,Varsity Program,Seminole,Yellowjackets
+217,20,Crossings Christian,OK,2A-I,OSSAA 2A-I,4-5,4,5,0,9,50.3,50.3,0.3,55.0,217,15.3,30.0,15.3,30.0,-14.7,37.8,41.6,63.69,42.12,42.12,42.12,Varsity Program,Oklahoma City,Knights
+218,27,Sayre,OK,5A,OSSAA 5A,6-5,6,5,0,11,50.1,50.1,0.1,48.3,218,28.5,24.5,28.5,24.5,4.0,56.3,49.3,71.45,86.48,86.48,86.48,Varsity Program,Sayre,Eagles
+219,24,El Reno,OK,3A,OSSAA 3A,4-6,4,6,0,10,50.1,50.1,0.1,54.5,219,23.4,26.9,23.4,26.9,-3.5,49.2,45.9,59.08,63.96,63.96,63.96,Varsity Program,El Reno,Indians
+220,27,Life Christian,OK,6A-I,OSSAA 6A-I,5-5,5,5,0,10,49.9,49.9,-0.1,48.0,220,32.6,36.2,32.6,36.2,-3.6,62.0,32.9,66.8,97.93,97.93,97.93,Varsity Program,Choctaw,Eagles
+221,26,Ringling,OK,4A,OSSAA 4A,6-5,6,5,0,11,49.6,49.6,-0.4,47.3,221,30.1,23.5,30.1,23.5,6.6,58.5,50.7,71.1,79.54,79.54,79.54,Varsity Program,Ringling,Blue Devils
+222,17,Ponca City,OK,6A-II,OSSAA 6A-II,6-5,6,5,0,11,49.4,49.4,-0.6,46.3,222,39.1,25.4,39.1,25.4,13.7,71.1,48.0,70.75,28.35,28.35,28.35,Varsity Program,Ponca City,Wildcats
+223,64,Antlers,OK,A,OSSAA A,5-6,5,6,0,11,49.4,49.4,-0.6,51.2,223,25.4,27.9,25.4,27.9,-2.5,52.0,44.5,63.37,42.14,42.14,42.14,Varsity Program,Antlers,Bearcats
+224,19,Christian Heritage,OK,2A-II,OSSAA 2A-II,4-6,4,6,0,10,49.4,49.4,-0.6,50.9,224,19.2,18.7,19.2,18.7,0.5,43.3,57.4,57.81,19.1,19.1,19.1,Varsity Program,Del City,Crusaders
+225,18,Jay,OK,6A-II,OSSAA 6A-II,3-8,3,8,0,11,49.4,49.4,-0.6,60.1,225,12.3,33.4,12.3,33.4,-21.1,33.6,36.8,48.31,47.63,47.63,47.63,Varsity Program,Jay,Bulldogs
+226,65,Haskell,OK,A,OSSAA A,5-6,5,6,0,11,49.0,49.0,-1.0,49.5,226,24.8,27.7,24.8,27.7,-2.9,51.1,44.8,62.78,43.98,43.98,43.98,Varsity Program,Haskell,Haymakers
+227,25,Skiatook,OK,3A,OSSAA 3A,5-5,5,5,0,10,48.9,48.9,-1.1,49.0,227,25.9,25.0,25.9,25.0,0.9,52.7,48.6,67.15,69.17,69.17,69.17,Varsity Program,Skiatook,Bulldogs
+228,27,Stigler,OK,4A,OSSAA 4A,3-7,3,7,0,10,48.9,48.9,-1.1,56.1,228,19.1,28.7,19.1,28.7,-9.6,43.1,43.4,49.63,46.62,46.62,46.62,Varsity Program,Stigler,Panthers
+229,26,Oklahoma City Patriots HomeSchool,OK,3A,OSSAA 3A,7-5,7,5,0,12,48.6,48.6,-1.4,49.9,229,26.3,21.8,26.3,21.8,4.5,53.2,53.1,75.8,20.42,37.92,5.83,Varsity Program,Oklahoma City,Varsity
+230,20,Hugo,OK,2A-II,OSSAA 2A-II,4-7,4,7,0,11,48.6,48.6,-1.4,52.2,230,24.8,28.6,24.8,28.6,-3.8,51.1,43.6,54.63,70.98,70.98,70.98,Varsity Program,Hugo,Buffaloes
+231,21,Sperry,OK,2A-I,OSSAA 2A-I,4-7,4,7,0,11,48.3,48.3,-1.7,53.8,231,20.0,29.1,20.0,29.1,-9.1,44.4,42.9,55.19,33.54,33.54,33.54,Varsity Program,Sperry,Pirates
+232,22,Albion High,OK,2A-I,OSSAA 2A-I,4-5,4,5,0,9,48.0,48.0,-2.0,47.2,232,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,44.91,44.91,44.91,Varsity Program,Oklahoma City,Varsity
+233,66,Anadarko High,OK,A,OSSAA A,4-5,4,5,0,9,48.0,48.0,-2.0,47.2,233,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,42.03,42.03,42.03,Varsity Program,Oklahoma City,Varsity
+234,23,Dickson,OK,2A-I,OSSAA 2A-I,4-6,4,6,0,10,47.9,47.9,-2.1,50.9,234,25.2,28.5,25.2,28.5,-3.3,51.7,43.7,57.81,31.56,31.56,31.56,Varsity Program,Ardmore,Comets
+235,28,McLain Science & Tech,OK,4A,OSSAA 4A,4-6,4,6,0,10,47.9,47.9,-2.1,52.0,235,23.8,29.6,23.8,29.6,-5.8,49.7,42.2,58.2,94.4,94.4,94.4,Varsity Program,Tulsa,Titans
+236,19,Regent Prep,OK,6A-II,OSSAA 6A-II,5-6,5,6,0,11,47.7,47.7,-2.3,49.5,236,33.5,32.8,33.5,32.8,0.7,63.3,37.7,62.78,70.73,70.73,70.73,Varsity Program,Tulsa,Prep
+237,29,Oologah,OK,4A,OSSAA 4A,4-6,4,6,0,10,47.6,47.6,-2.4,53.6,237,25.4,41.6,25.4,41.6,-16.2,52.0,25.4,58.76,87.31,87.31,87.31,Varsity Program,Oologah,Mustangs
+238,21,Eufaula,OK,2A-II,OSSAA 2A-II,2-8,2,8,0,10,47.6,47.6,-2.4,60.1,238,23.0,40.4,23.0,40.4,-17.4,48.6,27.0,41.03,40.14,40.14,40.14,Varsity Program,Eufaula,Ironheads
+239,27,Purcell,OK,3A,OSSAA 3A,2-8,2,8,0,10,47.6,47.6,-2.4,56.9,239,27.5,35.7,27.5,35.7,-8.2,54.9,33.6,39.91,21.43,21.43,21.43,Varsity Program,Purcell,Dragons
+240,67,Crescent,OK,A,OSSAA A,5-5,5,5,0,10,47.4,47.4,-2.6,47.1,240,28.9,22.7,28.9,22.7,6.2,56.9,51.8,66.48,70.49,70.49,70.49,Varsity Program,Crescent,Tigers
+241,28,Billings,OK,3A,OSSAA 3A,0-5,0,5,0,5,47.3,47.3,-2.7,52.4,241,1.2,35.0,1.2,35.0,-33.8,25.0,34.6,18.34,61.44,61.44,61.44,Varsity Program,Billings,Bulldogs
+242,20,Lawton,OK,6A-II,OSSAA 6A-II,4-6,4,6,0,10,46.9,46.9,-3.1,52.1,242,21.8,29.8,21.8,29.8,-8.0,46.9,41.9,58.23,24.85,24.85,24.85,Varsity Program,Lawton,Wolverines
+243,28,Dewey,OK,6A-I,OSSAA 6A-I,4-6,4,6,0,10,46.6,46.6,-3.4,51.1,243,19.7,28.9,19.7,28.9,-9.2,44.0,43.1,57.88,74.9,74.9,74.9,Varsity Program,Dewey,Bulldoggers
+244,28,Stilwell,OK,5A,OSSAA 5A,2-8,2,8,0,10,46.4,46.4,-3.6,56.7,244,23.0,36.6,23.0,36.6,-13.6,48.6,32.4,39.84,61.01,61.01,61.01,Varsity Program,Stilwell,Indians
+245,29,Edmond Santa Fe,OK,6A-I,OSSAA 6A-I,1-9,1,9,0,10,46.4,46.4,-3.6,61.8,245,13.1,33.3,13.1,33.3,-20.2,34.7,37.0,31.63,57.81,57.81,57.81,Varsity Program,Edmond,Wolves
+246,21,Casady,OK,6A-II,OSSAA 6A-II,4-7,4,7,0,11,46.3,46.3,-3.7,52.2,246,21.6,32.5,21.6,32.5,-10.9,46.6,38.1,54.63,21.35,21.35,21.35,Varsity Program,Oklahoma City,Cyclones
+247,30,Wilson,OK,6A-I,OSSAA 6A-I,6-5,6,5,0,11,46.1,46.1,-3.9,44.8,247,25.1,24.4,25.1,24.4,0.7,51.5,49.4,70.23,88.67,88.67,88.67,Varsity Program,Wilson,Eagles
+248,68,Liberty,OK,A,OSSAA A,5-5,5,5,0,10,46.1,46.1,-3.9,46.7,248,25.9,27.2,25.9,27.2,-1.3,52.7,45.5,66.34,34.11,34.11,34.11,Varsity Program,Mounds,Tigers
+249,30,Woodward,OK,4A,OSSAA 4A,3-7,3,7,0,10,46.1,46.1,-3.9,53.0,249,15.8,23.2,15.8,23.2,-7.4,38.5,51.1,48.55,27.43,27.43,27.43,Varsity Program,Woodward,Boomers
+250,69,Foyil,OK,A,OSSAA A,6-5,6,5,0,11,45.9,45.9,-4.1,48.6,250,18.7,31.3,18.7,31.3,-12.6,42.6,39.8,71.56,19.09,35.45,5.45,Varsity Program,Foyil,Panthers
+251,70,Davenport,OK,A,OSSAA A,4-6,4,6,0,10,45.1,45.1,-4.9,46.6,251,30.8,35.4,30.8,35.4,-4.6,59.5,34.0,56.31,14.0,26.0,4.0,Varsity Program,Davenport,Bulldogs
+252,71,Geary,OK,A,OSSAA A,4-6,4,6,0,10,44.9,44.9,-5.1,46.6,252,21.4,26.6,21.4,26.6,-5.2,46.4,46.4,56.31,34.59,34.59,34.59,Varsity Program,Geary,Bison
+253,31,Alva High,OK,4A,OSSAA 4A,4-6,4,6,0,10,44.8,44.8,-5.2,46.6,253,21.2,26.6,21.2,26.6,-5.4,46.1,46.4,56.31,44.05,44.05,44.05,Varsity Program,Oklahoma City,Varsity
+254,29,Amber High,OK,3A,OSSAA 3A,4-6,4,6,0,10,44.8,44.8,-5.2,46.6,254,21.2,26.6,21.2,26.6,-5.4,46.1,46.4,56.31,42.61,42.61,42.61,Varsity Program,Oklahoma City,Varsity
+255,22,Avant High,OK,6A-II,OSSAA 6A-II,4-6,4,6,0,10,44.8,44.8,-5.2,46.6,255,21.2,26.6,21.2,26.6,-5.4,46.1,46.4,56.31,49.64,49.64,49.64,Varsity Program,Oklahoma City,Varsity
+256,72,Wetumka,OK,A,OSSAA A,5-6,5,6,0,11,44.7,44.7,-5.3,47.4,256,29.8,38.7,29.8,38.7,-8.9,58.1,29.4,62.04,15.91,29.55,4.55,Varsity Program,Wetumka,Chieftains
+257,31,Sequoyah (Claremore),OK,6A-I,OSSAA 6A-I,3-7,3,7,0,10,44.7,44.7,-5.3,53.2,257,17.4,31.7,17.4,31.7,-14.3,40.8,39.2,48.62,80.31,80.31,80.31,Varsity Program,Claremore,Eagles
+258,30,Chickasha,OK,3A,OSSAA 3A,2-8,2,8,0,10,44.5,44.5,-5.5,57.1,258,21.2,34.7,21.2,34.7,-13.5,46.1,35.0,39.98,75.96,75.96,75.96,Varsity Program,Chickasha,Fightin Chicks
+259,24,Victory Christian,OK,2A-I,OSSAA 2A-I,2-8,2,8,0,10,44.5,44.5,-5.5,61.8,259,13.9,49.5,13.9,49.5,-35.6,35.9,25.0,41.63,66.7,66.7,66.7,Varsity Program,Tulsa,Conquerors
+260,23,Bartlesville,OK,6A-II,OSSAA 6A-II,3-8,3,8,0,11,44.3,44.3,-5.7,52.0,260,26.5,33.8,26.5,33.8,-7.3,53.5,36.3,45.47,39.9,39.9,39.9,Varsity Program,Bartlesville,Bruins
+261,31,Barnsdall,OK,3A,OSSAA 3A,6-4,6,4,0,10,44.2,44.2,-5.8,42.7,261,23.2,25.7,23.2,25.7,-2.5,48.9,47.6,74.94,80.38,80.38,80.38,Varsity Program,Barnsdall,Panthers
+262,32,Miami,OK,4A,OSSAA 4A,2-8,2,8,0,10,44.1,44.1,-5.9,55.6,262,20.4,30.9,20.4,30.9,-10.5,45.0,40.3,39.46,87.75,87.75,87.75,Varsity Program,Miami,Wardogs
+263,73,Olive,OK,A,OSSAA A,4-6,4,6,0,10,44.0,44.0,-6.0,46.6,263,24.4,31.6,24.4,31.6,-7.2,50.6,39.4,56.31,51.62,51.62,51.62,Varsity Program,Drumright,Wildcats
+264,22,Marietta,OK,2A-II,OSSAA 2A-II,3-7,3,7,0,10,43.8,43.8,-6.2,52.0,264,13.8,27.8,13.8,27.8,-14.0,35.7,44.7,48.2,38.66,38.66,38.66,Varsity Program,Marietta,Indians
+265,23,Prague,OK,2A-II,OSSAA 2A-II,5-5,5,5,0,10,43.5,43.5,-6.5,45.0,265,19.7,28.1,19.7,28.1,-8.4,44.0,44.3,65.75,38.29,38.29,38.29,Varsity Program,Prague,Red Devils
+266,74,Garber,OK,A,OSSAA A,4-6,4,6,0,10,43.5,43.5,-6.5,46.6,266,27.2,35.4,27.2,35.4,-8.2,54.5,34.0,56.31,14.0,26.0,4.0,Varsity Program,Garber,Wolverines
+267,24,Alderson High,OK,2A-II,OSSAA 2A-II,3-5,3,5,0,8,43.5,43.5,-6.5,46.2,267,20.5,27.2,20.5,27.2,-6.7,45.1,45.5,53.67,40.82,40.82,40.82,Varsity Program,Oklahoma City,Varsity
+268,25,Bennington,OK,2A-II,OSSAA 2A-II,3-5,3,5,0,8,43.5,43.5,-6.5,46.2,268,20.5,27.2,20.5,27.2,-6.7,45.1,45.5,53.67,40.04,40.04,40.04,Varsity Program,Oklahoma City,Varsity
+269,26,Heavener,OK,2A-II,OSSAA 2A-II,3-7,3,7,0,10,43.5,43.5,-6.5,50.6,269,25.4,32.3,25.4,32.3,-6.9,52.0,38.4,47.71,55.39,55.39,55.39,Varsity Program,Heavener,Wolves
+270,75,Grandfield,OK,A,OSSAA A,3-4,3,4,0,7,43.4,43.4,-6.6,47.0,270,15.7,26.0,15.7,26.0,-10.3,38.4,47.2,59.31,80.87,80.87,80.87,Varsity Program,Grandfield,Bearcats
+271,29,Midwest City,OK,5A,OSSAA 5A,2-8,2,8,0,10,43.3,43.3,-6.7,58.6,271,13.3,39.7,13.3,39.7,-26.4,35.0,28.0,40.51,46.83,46.83,46.83,Varsity Program,Midwest City,Bombers
+272,27,Quapaw,OK,2A-II,OSSAA 2A-II,4-6,4,6,0,10,43.2,43.2,-6.8,51.0,272,19.3,42.5,19.3,42.5,-23.2,43.4,25.0,57.85,56.45,56.45,56.45,Varsity Program,Quapaw,Wildcats
+273,76,Guymon,OK,A,OSSAA A,5-5,5,5,0,10,42.9,42.9,-7.1,48.0,273,24.7,31.8,24.7,31.8,-7.1,51.0,39.1,66.8,60.24,60.24,60.24,Varsity Program,Guymon,Tigers
+274,33,Bridge Creek,OK,4A,OSSAA 4A,1-9,1,9,0,10,42.8,42.8,-7.2,58.2,274,19.3,38.0,19.3,38.0,-18.7,43.4,30.4,30.37,56.32,56.32,56.32,Varsity Program,Blanchard,Bobcats
+275,24,Hartshorne,OK,6A-II,OSSAA 6A-II,4-6,4,6,0,10,42.7,42.7,-7.3,47.8,275,27.2,29.9,27.2,29.9,-2.7,54.5,41.7,56.73,52.29,52.29,52.29,Varsity Program,Hartshorne,Miners
+276,30,Nathan Hale,OK,5A,OSSAA 5A,4-6,4,6,0,10,41.9,41.9,-8.1,47.2,276,27.3,33.5,27.3,33.5,-6.2,54.6,36.7,56.52,74.61,74.61,74.61,Varsity Program,Tulsa,Rangers
+277,32,Luther,OK,3A,OSSAA 3A,3-7,3,7,0,10,41.9,41.9,-8.1,50.3,277,19.2,33.5,19.2,33.5,-14.3,43.3,36.7,47.6,43.34,43.34,43.34,Varsity Program,Luther,Lions
+278,77,Corn Bible Academy,OK,A,OSSAA A,5-6,5,6,0,11,41.6,41.6,-8.4,47.4,278,13.5,29.3,13.5,29.3,-15.8,35.3,42.6,62.04,34.15,34.15,34.15,Varsity Program,Corn,Crusaders
+279,78,Gore,OK,A,OSSAA A,3-7,3,7,0,10,41.5,41.5,-8.5,48.7,279,22.4,30.2,22.4,30.2,-7.8,47.8,41.3,47.05,53.62,53.62,53.62,Varsity Program,Gore,Pirates
+280,34,Cleveland,OK,4A,OSSAA 4A,2-8,2,8,0,10,41.5,41.5,-8.5,52.8,280,17.9,36.0,17.9,36.0,-18.1,41.5,33.2,38.48,72.18,72.18,72.18,Varsity Program,Cleveland,Tigers
+281,31,Glenpool,OK,5A,OSSAA 5A,0-10,0,10,0,10,41.5,41.5,-8.5,59.0,281,11.1,33.9,11.1,33.9,-22.8,31.9,36.1,20.65,24.68,24.68,24.68,Varsity Program,Glenpool,Warriors
+282,79,Depew,OK,A,OSSAA A,3-7,3,7,0,10,41.4,41.4,-8.6,45.2,282,25.6,32.3,25.6,32.3,-6.7,52.2,38.4,45.82,80.17,80.17,80.17,Varsity Program,Depew,Hornets
+283,80,Aline,OK,A,OSSAA A,3-6,3,6,0,9,41.3,41.3,-8.7,45.7,283,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,36.08,36.08,36.08,Varsity Program,Oklahoma City,Varsity
+284,25,Ames High,OK,2A-I,OSSAA 2A-I,3-6,3,6,0,9,41.3,41.3,-8.7,45.7,284,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,39.0,39.0,39.0,Varsity Program,Oklahoma City,Varsity
+285,26,Amorita,OK,2A-I,OSSAA 2A-I,3-6,3,6,0,9,41.3,41.3,-8.7,45.7,285,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,39.0,39.0,39.0,Varsity Program,Oklahoma City,Varsity
+286,32,Arapaho High,OK,5A,OSSAA 5A,3-6,3,6,0,9,41.3,41.3,-8.7,45.7,286,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,43.26,43.26,43.26,Varsity Program,Oklahoma City,Varsity
+287,33,Central Sallisaw,OK,5A,OSSAA 5A,3-6,3,6,0,9,41.3,41.3,-8.7,45.7,287,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,43.0,43.0,43.0,Varsity Program,Oklahoma City,Varsity
+288,25,Tecumseh,OK,6A-II,OSSAA 6A-II,3-7,3,7,0,10,41.1,41.1,-8.9,51.9,288,22.7,43.2,22.7,43.2,-20.5,48.2,25.0,48.16,38.62,38.62,38.62,Varsity Program,Tecumseh,Savages
+289,81,South Coffeyville,OK,A,OSSAA A,4-7,4,7,0,11,41.0,41.0,-9.0,46.1,289,19.3,30.8,19.3,30.8,-11.5,43.4,40.5,52.5,49.52,49.52,49.52,Varsity Program,South Coffeyville,Lions
+290,82,Maysville,OK,A,OSSAA A,4-7,4,7,0,11,40.6,40.6,-9.4,46.1,290,26.4,38.9,26.4,38.9,-12.5,53.4,29.1,52.5,56.54,56.54,56.54,Varsity Program,Maysville,Warriors
+291,32,Rush Springs,OK,6A-I,OSSAA 6A-I,4-6,4,6,0,10,40.6,40.6,-9.4,44.0,291,22.6,26.3,22.6,26.3,-3.7,48.0,46.8,55.4,81.22,81.22,81.22,Varsity Program,Rush Springs,Redskins
+292,34,Edison,OK,5A,OSSAA 5A,2-8,2,8,0,10,40.6,40.6,-9.4,52.0,292,14.1,31.4,14.1,31.4,-17.3,36.1,39.6,38.2,18.28,18.28,18.28,Varsity Program,Tulsa,Eagles
+293,83,Velma-Alma,OK,A,OSSAA A,3-7,3,7,0,10,40.5,40.5,-9.5,45.5,293,23.2,26.6,23.2,26.6,-3.4,48.9,46.4,45.92,56.89,56.89,56.89,Varsity Program,Velma,Comets
+294,84,Carnegie,OK,A,OSSAA A,4-6,4,6,0,10,40.4,40.4,-9.6,45.9,294,24.8,29.3,24.8,29.3,-4.5,51.1,42.6,56.06,41.75,41.75,41.75,Varsity Program,Carnegie,Wildcats
+295,28,Chelsea,OK,2A-II,OSSAA 2A-II,2-8,2,8,0,10,40.3,40.3,-9.7,52.9,295,13.7,36.9,13.7,36.9,-23.2,35.6,31.9,38.52,71.48,71.48,71.48,Varsity Program,Chelsea,Dragons
+296,33,Locust Grove,OK,3A,OSSAA 3A,1-9,1,9,0,10,40.2,40.2,-9.8,59.6,296,12.9,48.7,12.9,48.7,-35.8,34.5,25.0,30.86,19.26,19.26,19.26,Varsity Program,Locust Grove,Pirates
+297,26,Coalgate,OK,6A-II,OSSAA 6A-II,2-8,2,8,0,10,39.9,39.9,-10.1,53.4,297,14.2,36.1,14.2,36.1,-21.9,36.3,33.1,38.69,90.49,90.49,90.49,Varsity Program,Coalgate,Wildcats
+298,85,Paoli,OK,A,OSSAA A,3-6,3,6,0,9,39.8,39.8,-10.2,45.7,298,28.9,41.1,28.9,41.1,-12.2,56.9,26.1,49.33,41.23,41.23,41.23,Varsity Program,Paoli,Pugs
+299,35,Douglass,OK,4A,OSSAA 4A,2-7,2,7,0,9,39.8,39.8,-10.2,52.5,299,15.2,36.4,15.2,36.4,-21.2,37.7,32.6,40.6,34.32,34.32,34.32,Varsity Program,Oklahoma City,Trojans
+300,86,Comanche,OK,A,OSSAA A,1-9,1,9,0,10,39.8,39.8,-10.2,56.5,300,13.8,37.7,13.8,37.7,-23.9,35.7,30.8,29.77,73.45,73.45,73.45,Varsity Program,Comanche,Indians
+301,29,Alva,OK,2A-II,OSSAA 2A-II,3-7,3,7,0,10,39.7,39.7,-10.3,48.5,301,15.5,30.6,15.5,30.6,-15.1,38.1,40.8,46.97,50.84,50.84,50.84,Varsity Program,Alva,Goldbugs
+302,33,Hulbert,OK,6A-I,OSSAA 6A-I,5-5,5,5,0,10,39.6,39.6,-10.4,46.8,302,16.8,32.8,16.8,32.8,-16.0,39.9,37.7,66.38,88.52,88.52,88.52,Varsity Program,Hulbert,Riders
+303,87,Vinita,OK,A,OSSAA A,1-9,1,9,0,10,39.6,39.6,-10.4,54.1,303,11.4,32.2,11.4,32.2,-20.8,32.4,38.5,28.93,52.17,52.17,52.17,Varsity Program,Vinita,Hornets
+304,88,Savanna,OK,A,OSSAA A,4-6,4,6,0,10,39.5,39.5,-10.5,46.6,304,34.6,51.7,34.6,51.7,-17.1,64.8,25.0,56.31,28.53,28.53,28.53,Varsity Program,Savanna,Bulldogs
+305,27,Ada High,OK,6A-II,OSSAA 6A-II,3-7,3,7,0,10,39.5,39.5,-10.5,45.2,305,18.4,29.2,18.4,29.2,-10.8,42.2,42.7,45.82,40.47,40.47,40.47,Varsity Program,Oklahoma City,Varsity
+306,36,Afton High,OK,4A,OSSAA 4A,3-7,3,7,0,10,39.5,39.5,-10.5,45.2,306,18.4,29.2,18.4,29.2,-10.8,42.2,42.7,45.82,40.01,40.01,40.01,Varsity Program,Oklahoma City,Varsity
+307,34,Aline High,OK,6A-I,OSSAA 6A-I,3-7,3,7,0,10,39.5,39.5,-10.5,45.2,307,18.4,29.2,18.4,29.2,-10.8,42.2,42.7,45.82,42.63,42.63,42.63,Varsity Program,Oklahoma City,Varsity
+308,37,Amber,OK,4A,OSSAA 4A,3-7,3,7,0,10,39.5,39.5,-10.5,45.2,308,18.4,29.2,18.4,29.2,-10.8,42.2,42.7,45.82,37.15,37.15,37.15,Varsity Program,Oklahoma City,Varsity
+309,35,Antlers High,OK,6A-I,OSSAA 6A-I,3-7,3,7,0,10,39.5,39.5,-10.5,45.2,309,18.4,29.2,18.4,29.2,-10.8,42.2,42.7,45.82,41.99,41.99,41.99,Varsity Program,Oklahoma City,Varsity
+310,28,Arapaho,OK,6A-II,OSSAA 6A-II,3-7,3,7,0,10,39.5,39.5,-10.5,45.2,310,18.4,29.2,18.4,29.2,-10.8,42.2,42.7,45.82,40.47,40.47,40.47,Varsity Program,Oklahoma City,Varsity
+311,34,Bearden High,OK,3A,OSSAA 3A,3-7,3,7,0,10,39.5,39.5,-10.5,45.2,311,18.4,29.2,18.4,29.2,-10.8,42.2,42.7,45.82,37.1,37.1,37.1,Varsity Program,Oklahoma City,Varsity
+312,38,Big Cabin,OK,4A,OSSAA 4A,3-7,3,7,0,10,39.5,39.5,-10.5,45.2,312,18.4,29.2,18.4,29.2,-10.8,42.2,42.7,45.82,39.25,39.25,39.25,Varsity Program,Oklahoma City,Varsity
+313,27,Tahsequah Sequoyah,OK,2A-I,OSSAA 2A-I,3-7,3,7,0,10,39.5,39.5,-10.5,45.2,313,18.4,29.2,18.4,29.2,-10.8,42.2,42.7,45.82,35.67,35.67,35.67,Varsity Program,Oklahoma City,Varsity
+314,89,Merritt,OK,A,OSSAA A,4-6,4,6,0,10,39.2,39.2,-10.8,45.1,314,18.6,27.2,18.6,27.2,-8.6,42.4,45.5,55.78,34.62,34.62,34.62,Varsity Program,Elk City,Oilers
+315,29,Newkirk,OK,6A-II,OSSAA 6A-II,3-7,3,7,0,10,39.0,39.0,-11.0,49.1,315,15.3,35.9,15.3,35.9,-20.6,37.8,33.3,47.19,84.03,84.03,84.03,Varsity Program,Newkirk,Tigers
+316,36,Westmoore,OK,6A-I,OSSAA 6A-I,0-10,0,10,0,10,38.8,38.8,-11.2,61.2,316,13.2,44.8,13.2,44.8,-31.6,34.9,25.0,21.42,37.04,37.04,37.04,Varsity Program,Oklahoma City,Jaguars
+317,90,Keota,OK,A,OSSAA A,3-7,3,7,0,10,38.7,38.7,-11.3,45.2,317,18.8,31.4,18.8,31.4,-12.6,42.7,39.6,45.82,10.5,19.5,3.0,Varsity Program,Keota,Lions
+318,37,Bowlegs,OK,6A-I,OSSAA 6A-I,3-8,3,8,0,11,38.6,38.6,-11.4,44.8,318,27.8,39.0,27.8,39.0,-11.2,55.3,29.0,42.95,72.58,72.58,72.58,Varsity Program,Bowlegs,Bison
+319,91,Welch,OK,A,OSSAA A,3-7,3,7,0,10,38.6,38.6,-11.4,45.2,319,20.0,32.8,20.0,32.8,-12.8,44.4,37.7,45.82,60.07,60.07,60.07,Varsity Program,Welch,Wildcats
+320,35,Marshall,OK,5A,OSSAA 2A-I,1-8,1,8,0,9,38.6,38.6,-11.4,55.4,320,14.9,43.9,14.9,43.9,-29.0,37.3,25.0,30.5,71.72,71.72,71.72,Varsity Program,Oklahoma City,Bears
+321,30,Putnam City North,OK,6A-II,OSSAA 6A-II,2-9,2,9,0,11,38.5,38.5,-11.5,50.9,321,24.2,38.8,24.2,38.8,-14.6,50.3,29.3,36.0,59.43,59.43,59.43,Varsity Program,Oklahoma City,Panthers
+322,92,Central (Tulsa),OK,A,OSSAA A,3-7,3,7,0,10,38.4,38.4,-11.6,49.1,322,9.3,25.7,9.3,25.7,-16.4,29.4,47.6,47.19,19.57,19.57,19.57,Varsity Program,Tulsa,Braves
+323,30,Alex,OK,2A-II,OSSAA 2A-II,3-7,3,7,0,10,37.9,37.9,-12.1,45.2,323,23.1,37.6,23.1,37.6,-14.5,48.7,31.0,45.82,48.41,48.41,48.41,Varsity Program,Alex,Longhorns
+324,93,Arkoma,OK,A,OSSAA A,3-8,3,8,0,11,37.9,37.9,-12.1,44.8,324,21.7,34.4,21.7,34.4,-12.7,46.8,35.4,42.95,9.55,17.73,2.73,Varsity Program,Arkoma,Mustangs
+325,28,Perry,OK,2A-I,OSSAA 2A-I,2-8,2,8,0,10,37.9,37.9,-12.1,51.7,325,13.2,36.3,13.2,36.3,-23.1,34.9,32.8,38.09,33.14,33.14,33.14,Varsity Program,Perry,Maroons
+326,35,McLoud,OK,3A,OSSAA 3A,0-10,0,10,0,10,37.9,37.9,-12.1,57.4,326,18.1,43.8,18.1,43.8,-25.7,41.7,25.0,20.09,71.8,71.8,71.8,Varsity Program,Mcloud,Redskins
+327,94,Turpin,OK,A,OSSAA A,2-6,2,6,0,8,37.8,37.8,-12.2,44.5,327,26.2,37.8,26.2,37.8,-11.6,53.1,30.7,40.58,8.75,16.25,2.5,Varsity Program,Turpin,Cardinals
+328,95,Commerce,OK,A,OSSAA A,1-9,1,9,0,10,37.5,37.5,-12.5,54.0,328,13.5,38.5,13.5,38.5,-25.0,35.3,29.7,28.9,35.42,35.42,35.42,Varsity Program,Commerce,Tigers
+329,96,Stratford,OK,A,OSSAA A,1-8,1,8,0,9,37.2,37.2,-12.8,51.0,329,8.8,30.2,8.8,30.2,-21.4,28.7,41.3,28.96,72.61,72.61,72.61,Varsity Program,Stratford,Bulldogs
+330,31,Grant,OK,6A-II,OSSAA 5A,3-7,3,7,0,10,36.9,36.9,-13.1,47.7,330,14.0,40.1,14.0,40.1,-26.1,36.0,27.5,46.7,81.55,81.55,81.55,Varsity Program,Oklahoma City,Generals
+331,97,Cave Springs,OK,A,OSSAA A,3-5,3,5,0,8,36.3,36.3,-13.7,46.2,331,12.5,35.2,12.5,35.2,-22.7,33.9,34.3,53.67,71.5,71.5,71.5,Varsity Program,Bunch,Hornets
+332,29,Roland,OK,2A-I,OSSAA 2A-I,2-8,2,8,0,10,36.3,36.3,-13.7,49.0,332,14.5,37.2,14.5,37.2,-22.7,36.7,31.5,37.15,47.17,47.17,47.17,Varsity Program,Roland,Rangers
+333,31,Lexington,OK,2A-II,OSSAA 2A-II,2-8,2,8,0,10,36.2,36.2,-13.8,50.3,333,8.2,36.0,8.2,36.0,-27.8,27.9,33.2,37.6,38.48,38.48,38.48,Varsity Program,Lexington,Bulldogs
+334,98,Summit Christian Academy,OK,A,OSSAA A,2-8,2,8,0,10,36.2,36.2,-13.8,51.0,334,10.6,42.1,10.6,42.1,-31.5,31.2,25.0,37.85,55.45,55.45,55.45,Varsity Program,Broken Arrow,Eagles
+335,32,Eisenhower,OK,6A-II,OSSAA 6A-II,1-9,1,9,0,10,36.2,36.2,-13.8,57.1,335,7.4,53.5,7.4,53.5,-46.1,26.8,25.0,29.98,64.62,64.62,64.62,Varsity Program,Lawton,Eagles
+336,32,Atoka,OK,2A-II,OSSAA 2A-II,2-8,2,8,0,10,36.0,36.0,-14.0,50.0,336,18.2,40.8,18.2,40.8,-22.6,41.9,26.5,37.5,53.97,53.97,53.97,Varsity Program,Atoka,Wampus Cats
+337,99,Porter,OK,A,OSSAA A,1-9,1,9,0,10,35.8,35.8,-14.2,49.9,337,5.8,22.4,5.8,22.4,-16.6,25.0,52.2,27.46,43.03,43.03,43.03,Varsity Program,Porter,Pirates
+338,100,Nowata,OK,A,OSSAA A,2-8,2,8,0,10,35.7,35.7,-14.3,47.1,338,22.6,39.4,22.6,39.4,-16.8,48.0,28.4,36.48,41.44,41.44,41.44,Varsity Program,Nowata,Ironmen
+339,30,Arnett,OK,2A-I,OSSAA 2A-I,2-7,2,7,0,9,35.5,35.5,-14.5,44.1,339,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,33.09,33.09,33.09,Varsity Program,Oklahoma City,Varsity
+340,36,Barnsdall High,OK,5A,OSSAA 5A,2-7,2,7,0,9,35.5,35.5,-14.5,44.1,340,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,35.75,35.75,35.75,Varsity Program,Oklahoma City,Varsity
+341,39,Tulsa Memorial,OK,4A,OSSAA 4A,2-7,2,7,0,9,35.5,35.5,-14.5,44.1,341,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,34.73,34.73,34.73,Varsity Program,Tulsa,Varsity
+342,101,Sharon-Mutual/Taloga,OK,A,OSSAA A,1-3,1,3,0,4,35.5,35.5,-14.5,44.5,342,18.5,35.2,18.5,35.2,-16.7,42.3,34.3,40.58,8.75,16.25,2.5,Varsity Program,Mutual,Taloga
+343,33,Walters,OK,2A-II,OSSAA 2A-II,1-8,1,8,0,9,35.5,35.5,-14.5,51.2,343,9.8,37.8,9.8,37.8,-28.0,30.1,30.7,29.03,21.9,21.9,21.9,Varsity Program,Walters,Walters
+344,36,Beaver,OK,3A,OSSAA 3A,0-3,0,3,0,3,35.1,35.1,-14.9,41.0,344,0.0,2.0,0.0,2.0,-2.0,25.0,80.8,14.35,62.49,62.49,62.49,Varsity Program,Beaver,Dusters
+345,102,Porum,OK,A,OSSAA A,0-3,0,3,0,3,35.1,35.1,-14.9,41.0,345,0.0,2.0,0.0,2.0,-2.0,25.0,80.8,14.35,0.0,0.0,0.0,Varsity Program,Porum,Panthers
+346,37,Enid,OK,5A,OSSAA 5A,0-10,0,10,0,10,35.0,35.0,-15.0,63.3,346,4.9,62.8,4.9,62.8,-57.9,25.0,25.0,22.15,83.42,83.42,83.42,Varsity Program,Enid,Pacer Plainsmen
+347,33,Northwest Classen,OK,6A-II,OSSAA 4A,2-9,2,9,0,11,34.5,34.5,-15.5,49.4,347,10.5,45.5,10.5,45.5,-35.0,31.1,25.0,35.47,49.1,49.1,49.1,Varsity Program,Oklahoma City,Knights
+348,31,Morris,OK,2A-I,OSSAA 2A-I,1-9,1,9,0,10,34.4,34.4,-15.6,49.1,348,16.7,36.5,16.7,36.5,-19.8,39.8,32.5,27.18,29.1,29.1,29.1,Varsity Program,Morris,Eagles
+349,37,Agra High,OK,3A,OSSAA 3A,2-8,2,8,0,10,34.3,34.3,-15.7,43.8,349,15.6,31.8,15.6,31.8,-16.2,38.2,39.1,35.33,30.63,30.63,30.63,Varsity Program,Oklahoma City,Varsity
+350,40,Arcadia High,OK,4A,OSSAA 4A,2-8,2,8,0,10,34.3,34.3,-15.7,43.8,350,15.6,31.8,15.6,31.8,-16.2,38.2,39.1,35.33,32.76,32.76,32.76,Varsity Program,Oklahoma City,Varsity
+351,34,Westville,OK,6A-II,OSSAA 6A-II,2-8,2,8,0,10,34.3,34.3,-15.7,48.9,351,14.0,38.9,14.0,38.9,-24.9,36.0,29.1,37.11,60.57,60.57,60.57,Varsity Program,Westville,Yellowjackets
+352,32,Watonga,OK,2A-I,OSSAA 2A-I,1-9,1,9,0,10,33.9,33.9,-16.1,52.2,352,8.0,38.4,8.0,38.4,-30.4,27.6,29.8,28.27,65.13,65.13,65.13,Varsity Program,Watonga,Eagles
+353,35,Warner,OK,6A-II,OSSAA 6A-II,1-9,1,9,0,10,33.7,33.7,-16.3,47.8,353,14.2,34.1,14.2,34.1,-19.9,36.3,35.9,26.73,71.5,71.5,71.5,Varsity Program,Warner,Eagles
+354,103,Cordell,OK,A,OSSAA A,0-13,0,13,0,13,33.7,33.7,-16.3,52.0,354,6.0,31.1,6.0,31.1,-25.1,25.0,40.1,18.2,50.09,50.09,50.09,Varsity Program,Cordell,Blue Devils
+355,38,Star-Spencer,OK,3A,OSSAA 3A,1-8,1,8,0,9,33.2,33.2,-16.8,53.9,355,4.7,45.8,4.7,45.8,-41.1,25.0,25.0,29.98,56.69,56.69,56.69,Varsity Program,Spencer,Bobcats
+356,34,Catoosa,OK,2A-II,OSSAA 2A-II,0-10,0,10,0,10,33.1,33.1,-16.9,57.7,356,9.2,49.1,9.2,49.1,-39.9,29.3,25.0,20.2,73.64,73.64,73.64,Varsity Program,Catoosa,Indians
+357,38,East Central,OK,5A,OSSAA 5A,1-9,1,9,0,10,32.6,32.6,-17.4,51.5,357,4.9,44.4,4.9,44.4,-39.5,25.0,25.0,28.02,42.01,42.01,42.01,Varsity Program,Tulsa,Cardinals
+358,104,Mooreland,OK,A,OSSAA A,1-8,1,8,0,9,32.6,32.6,-17.4,47.2,358,12.7,35.4,12.7,35.4,-22.7,34.2,34.0,27.63,72.61,72.61,72.61,Varsity Program,Mooreland,Bearcats
+359,35,Chouteau-Mazie,OK,2A-II,OSSAA 2A-II,1-9,1,9,0,10,32.4,32.4,-17.6,51.7,359,14.0,48.9,14.0,48.9,-34.9,36.0,25.0,28.09,79.63,79.63,79.63,Varsity Program,Chouteau,Wildcats
+360,105,Elmore City-Pernell,OK,A,OSSAA A,1-9,1,9,0,10,32.4,32.4,-17.6,45.7,360,19.4,36.3,19.4,36.3,-16.9,43.6,32.8,25.99,20.24,20.24,20.24,Varsity Program,Elmore City,Badgers
+361,38,Gans,OK,6A-I,OSSAA 6A-I,2-7,2,7,0,9,32.3,32.3,-17.7,44.1,361,15.1,37.1,15.1,37.1,-22.0,37.5,31.7,37.66,81.7,81.7,81.7,Varsity Program,Gans,Grizzlies
+362,36,Putnam City West,OK,6A-II,OSSAA 6A-II,1-9,1,9,0,10,32.1,32.1,-17.9,49.4,362,7.3,45.5,7.3,45.5,-38.2,26.6,25.0,27.29,47.46,47.46,47.46,Varsity Program,Oklahoma City,Patriots
+363,39,Will Rogers College,OK,5A,OSSAA 5A,1-9,1,9,0,10,31.6,31.6,-18.4,52.0,363,11.7,46.3,11.7,46.3,-34.6,32.8,25.0,28.2,69.25,69.25,69.25,Varsity Program,Tulsa,Ropers
+364,36,Madill,OK,2A-II,OSSAA 2A-II,0-10,0,10,0,10,31.2,31.2,-18.8,55.7,364,6.4,51.3,6.4,51.3,-44.9,25.4,25.0,19.5,28.24,28.24,28.24,Varsity Program,Madill,Wildcats
+365,106,Wayne,OK,A,OSSAA A,2-8,2,8,0,10,31.1,31.1,-18.9,42.5,365,12.6,29.4,12.6,29.4,-16.8,34.0,42.4,34.88,64.27,64.27,64.27,Varsity Program,Wayne,Bulldogs
+366,33,Meeker,OK,2A-I,OSSAA 2A-I,1-9,1,9,0,10,30.9,30.9,-19.1,50.5,366,14.3,38.8,14.3,38.8,-24.5,36.4,29.3,27.67,59.09,59.09,59.09,Varsity Program,Meeker,Bulldogs
+367,34,Crooked Oak,OK,2A-I,OSSAA 2A-I,2-8,2,8,0,10,30.8,30.8,-19.2,49.0,367,4.4,36.3,4.4,36.3,-31.9,25.0,32.8,37.15,80.54,80.54,80.54,Varsity Program,Oklahoma City,Ruf Nex
+368,107,Bray-Doyle,OK,A,OSSAA A,0-4,0,4,0,4,30.4,30.4,-19.6,41.0,368,3.0,15.5,3.0,15.5,-12.5,25.0,61.9,14.35,46.45,46.45,46.45,Varsity Program,Bray,Donkeys
+369,108,Okemah,OK,A,OSSAA A,1-7,1,7,0,8,30.3,30.3,-19.7,53.0,369,5.5,46.6,5.5,46.6,-41.1,25.0,25.0,31.05,26.35,26.35,26.35,Varsity Program,Okemah,Panthers
+370,40,Altus High,OK,5A,OSSAA 5A,1-8,1,8,0,9,29.7,29.7,-20.3,42.6,370,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,28.51,28.51,28.51,Varsity Program,Oklahoma City,Varsity
+371,109,Burns Flat-Dill City,OK,A,OSSAA A,2-7,2,7,0,9,29.6,29.6,-20.4,44.1,371,14.7,45.3,14.7,45.3,-30.6,37.0,25.0,37.66,65.65,65.65,65.65,Varsity Program,Burns Flat,Eagles
+372,110,Kremlin-Hillsdale,OK,A,OSSAA A,2-7,2,7,0,9,29.6,29.6,-20.4,44.1,372,19.2,50.0,19.2,50.0,-30.8,43.3,25.0,37.66,41.8,41.8,41.8,Varsity Program,Kremlin,Broncs
+373,39,Blackwell,OK,6A-I,OSSAA 6A-I,0-10,0,10,0,10,29.2,29.2,-20.8,52.0,373,2.4,50.0,2.4,50.0,-47.6,25.0,25.0,18.2,73.51,73.51,73.51,Varsity Program,Blackwell,Maroons
+374,111,Oilton,OK,A,OSSAA A,2-8,2,8,0,10,29.1,29.1,-20.9,43.8,374,13.1,40.9,13.1,40.9,-27.8,34.7,26.3,35.33,64.22,64.22,64.22,Varsity Program,Oilton,Panthers
+375,37,Apache High,OK,6A-II,OSSAA 6A-II,1-9,1,9,0,10,29.1,29.1,-20.9,42.4,375,12.8,34.4,12.8,34.4,-21.6,34.3,35.4,24.84,27.27,27.27,27.27,Varsity Program,Oklahoma City,Varsity
+376,40,Atoka High,OK,6A-I,OSSAA 6A-I,1-9,1,9,0,10,29.1,29.1,-20.9,42.4,376,12.8,34.4,12.8,34.4,-21.6,34.3,35.4,24.84,28.37,28.37,28.37,Varsity Program,Oklahoma City,Varsity
+377,41,Bartlesville High,OK,4A,OSSAA 4A,1-9,1,9,0,10,29.1,29.1,-20.9,42.4,377,12.8,34.4,12.8,34.4,-21.6,34.3,35.4,24.84,25.16,25.16,25.16,Varsity Program,Oklahoma City,Varsity
+378,42,Bethel High,OK,4A,OSSAA 4A,1-9,1,9,0,10,29.1,29.1,-20.9,42.4,378,12.8,34.4,12.8,34.4,-21.6,34.3,35.4,24.84,26.91,26.91,26.91,Varsity Program,Oklahoma City,Varsity
+379,41,Elmore City,OK,5A,OSSAA 5A,1-9,1,9,0,10,29.1,29.1,-20.9,42.4,379,12.8,34.4,12.8,34.4,-21.6,34.3,35.4,24.84,25.02,25.02,25.02,Varsity Program,Oklahoma City,Varsity
+380,112,Wesleyan Christian,OK,A,OSSAA A,1-9,1,9,0,10,29.1,29.1,-20.9,42.4,380,12.8,34.4,12.8,34.4,-21.6,34.3,35.4,24.84,26.78,26.78,26.78,Varsity Program,Bartlesville,Mustangs
+381,43,Spiro,OK,4A,OSSAA 4A,0-10,0,10,0,10,29.1,29.1,-20.9,52.6,381,11.2,47.8,11.2,47.8,-36.6,32.1,25.0,18.41,31.12,31.12,31.12,Varsity Program,Spiro,Bulldogs
+382,113,Iowa School for the Deaf,OK,A,OSSAA A,1-4,1,4,0,5,29.0,29.0,-21.0,43.8,382,4.0,32.0,4.0,32.0,-28.0,25.0,38.8,35.33,7.0,13.0,2.0,Varsity Program,Council Bluffs,Bobcats
+383,39,Okmulgee,OK,3A,OSSAA 3A,1-9,1,9,0,10,28.8,28.8,-21.2,48.8,383,10.8,50.7,10.8,50.7,-39.9,31.5,25.0,27.08,46.49,46.49,46.49,Varsity Program,Okmulgee,Bulldogs
+384,42,Classen SAS,OK,5A,OSSAA 5A,0-10,0,10,0,10,28.8,28.8,-21.2,54.3,384,4.1,47.2,4.1,47.2,-43.1,25.0,25.0,19.0,0.0,0.0,0.0,Varsity Program,Oklahoma City,Comets
+385,114,Oklahoma Union,OK,A,OSSAA A,1-8,1,8,0,9,28.5,28.5,-21.5,48.8,385,14.4,48.0,14.4,48.0,-33.6,36.6,25.0,28.19,43.71,43.71,43.71,Varsity Program,South Coffeyville,Cougars
+386,40,Webster,OK,3A,OSSAA 3A,0-10,0,10,0,10,28.3,28.3,-21.7,52.5,386,10.6,51.2,10.6,51.2,-40.6,31.2,25.0,18.38,87.6,87.6,87.6,Varsity Program,Tulsa,Warriors
+387,44,Western Heights,OK,4A,OSSAA 4A,0-9,0,9,0,9,28.0,28.0,-22.0,54.0,387,1.3,47.6,1.3,47.6,-46.3,25.0,25.0,18.9,80.63,80.63,80.63,Varsity Program,Oklahoma City,Jets
+388,115,Hinton,OK,A,OSSAA A,0-10,0,10,0,10,27.3,27.3,-22.7,51.7,388,6.8,46.5,6.8,46.5,-39.7,25.9,25.0,18.09,32.15,32.15,32.15,Varsity Program,Hinton,Comets
+389,43,Memorial,OK,5A,OSSAA 5A,0-10,0,10,0,10,27.3,27.3,-22.7,50.6,389,5.7,55.8,5.7,55.8,-50.1,25.0,25.0,17.71,27.69,27.69,27.69,Varsity Program,Tulsa,Chargers
+390,116,Waynoka,OK,A,OSSAA A,1-8,1,8,0,9,26.9,26.9,-23.1,42.6,390,13.8,40.9,13.8,40.9,-27.1,35.7,26.3,26.02,66.1,66.1,66.1,Varsity Program,Waynoka,Railroaders
+391,117,Crossover Prep,OK,A,OSSAA A,1-8,1,8,0,9,26.8,26.8,-23.2,42.6,391,14.4,41.8,14.4,41.8,-27.4,36.6,25.1,26.02,73.09,73.09,73.09,Varsity Program,Tulsa,Lions
+392,118,Ringwood,OK,A,OSSAA A,1-8,1,8,0,9,26.5,26.5,-23.5,42.6,392,11.6,49.7,11.6,49.7,-38.1,32.6,25.0,26.02,66.55,66.55,66.55,Varsity Program,Ringwood,Red Devils
+393,119,Caney Valley,OK,A,OSSAA A,0-9,0,9,0,9,26.5,26.5,-23.5,50.6,393,5.4,34.0,5.4,34.0,-28.6,25.0,36.0,17.71,33.71,33.71,33.71,Varsity Program,Ramona,Trojans
+394,44,Afton,OK,5A,OSSAA 5A,1-8,1,8,0,9,26.3,26.3,-23.7,47.8,394,6.2,40.3,6.2,40.3,-34.1,25.1,27.2,27.84,65.0,65.0,65.0,Varsity Program,Afton,Eagles
+395,120,Canadian,OK,A,OSSAA A,1-9,1,9,0,10,26.2,26.2,-23.8,42.4,395,10.8,43.4,10.8,43.4,-32.6,31.5,25.0,24.84,72.03,72.03,72.03,Varsity Program,Canadian,Cougars
+396,41,Graham/Dustin,OK,6A-I,OSSAA 6A-I,1-9,1,9,0,10,26.2,26.2,-23.8,42.4,396,11.8,48.6,11.8,48.6,-36.8,32.9,25.0,24.84,75.38,75.38,75.38,Varsity Program,Weleetka,Riverhawk
+397,121,Apache,OK,A,OSSAA A,1-10,1,10,0,11,25.7,25.7,-24.3,49.0,397,6.7,38.2,6.7,38.2,-31.5,25.8,30.1,26.24,42.79,42.79,42.79,Varsity Program,Apache,Warriors
+398,42,Temple,OK,6A-I,OSSAA 6A-I,0-9,0,9,0,9,25.3,25.3,-24.7,41.0,398,6.2,29.9,6.2,29.9,-23.7,25.1,41.7,14.35,96.37,96.37,96.37,Varsity Program,Temple,Tigers
+399,37,Mounds,OK,2A-II,OSSAA 2A-II,0-10,0,10,0,10,24.9,24.9,-25.1,47.5,399,6.2,52.5,6.2,52.5,-46.3,25.1,25.0,16.62,20.16,20.16,20.16,Varsity Program,Mounds,Golden Eagles
+400,41,Ardmore High,OK,3A,OSSAA 3A,0-10,0,10,0,10,23.9,23.9,-26.1,41.0,400,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,21.19,21.19,21.19,Varsity Program,Oklahoma City,Varsity
+401,35,Arkoma High,OK,2A-I,OSSAA 2A-I,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,401,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,21.26,21.26,21.26,Varsity Program,Oklahoma City,Varsity
+402,38,Arnett High,OK,2A-II,OSSAA 2A-II,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,402,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,22.36,22.36,22.36,Varsity Program,Oklahoma City,Varsity
+403,122,Asher High,OK,A,OSSAA A,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,403,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,21.06,21.06,21.06,Varsity Program,Oklahoma City,Varsity
+404,36,Beaver High,OK,2A-I,OSSAA 2A-I,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,404,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,21.26,21.26,21.26,Varsity Program,Oklahoma City,Varsity
+405,39,Beggs High,OK,2A-II,OSSAA 2A-II,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,405,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,24.35,24.35,24.35,Varsity Program,Oklahoma City,Varsity
+406,123,Bennington High,OK,A,OSSAA A,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,406,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,22.9,22.9,22.9,Varsity Program,Oklahoma City,Varsity
+407,38,Bessie High,OK,6A-II,OSSAA 6A-II,0-10,0,10,0,10,23.9,23.9,-26.1,41.0,407,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,20.55,20.55,20.55,Varsity Program,Oklahoma City,Varsity
+408,45,Bethany High,OK,5A,OSSAA 5A,0-9,0,9,0,9,23.9,23.9,-26.1,41.0,408,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,21.52,21.52,21.52,Varsity Program,Oklahoma City,Varsity
+409,42,Big Cabin High,OK,3A,OSSAA 3A,0-10,0,10,0,10,23.9,23.9,-26.1,41.0,409,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,21.19,21.19,21.19,Varsity Program,Oklahoma City,Varsity
+410,43,Buffalo,OK,6A-I,OSSAA 6A-I,0-8,0,8,0,8,23.4,23.4,-26.6,41.0,410,9.0,50.8,9.0,50.8,-41.8,29.0,25.0,14.35,97.1,97.1,97.1,Varsity Program,Buffalo,Bison
+411,124,Canton,OK,A,OSSAA A,0-10,0,10,0,10,23.4,23.4,-26.6,41.0,411,4.5,50.6,4.5,50.6,-46.1,25.0,25.0,14.35,49.42,49.42,49.42,Varsity Program,Canton,Tigers
+412,39,Capitol Hill,OK,6A-II,OSSAA 6A-II,0-10,0,10,0,10,23.4,23.4,-26.6,45.6,412,2.4,47.0,2.4,47.0,-44.6,25.0,25.0,15.96,70.45,70.45,70.45,Varsity Program,Oklahoma City,Redwolves
+413,125,Cornerstone,OK,A,OSSAA A,0-9,0,9,0,9,23.4,23.4,-26.6,41.0,413,11.6,46.0,11.6,46.0,-34.4,32.6,25.0,14.35,41.2,41.2,41.2,Varsity Program,Joplin,Spartans
+414,40,KIPP Tulsa University Prep,OK,2A-II,OSSAA 2A-II,0-10,0,10,0,10,23.4,23.4,-26.6,41.0,414,5.8,60.9,5.8,60.9,-55.1,25.0,25.0,14.35,66.13,66.13,66.13,Varsity Program,Tulsa,Bulldogs
+415,44,Midway,OK,6A-I,OSSAA 6A-I,0-10,0,10,0,10,23.4,23.4,-26.6,41.0,415,7.2,50.6,7.2,50.6,-43.4,26.5,25.0,14.35,95.8,95.8,95.8,Varsity Program,Council Hill,Chargers
+416,126,Snyder,OK,A,OSSAA A,0-10,0,10,0,10,23.4,23.4,-26.6,41.0,416,4.6,45.0,4.6,45.0,-40.4,25.0,25.0,14.35,20.11,20.11,20.11,Varsity Program,Snyder,Cyclones
+417,127,Thackerville,OK,A,OSSAA A,0-10,0,10,0,10,23.4,23.4,-26.6,41.0,417,5.6,43.8,5.6,43.8,-38.2,25.0,25.0,14.35,64.92,64.92,64.92,Varsity Program,Thackerville,Wildcats
+418,128,Watts,OK,A,OSSAA A,0-7,0,7,0,7,23.4,23.4,-26.6,41.0,418,7.4,42.0,7.4,42.0,-34.6,26.8,25.0,14.35,72.61,72.61,72.61,Varsity Program,Watts,Engineers

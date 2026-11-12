@@ -1,359 +1,359 @@
-rank,division_rank,team,state,division,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_off,ppg_def,ppg_scored,ppg_allowed,net_margin,pqs,ppa,tier1_score,tier2_score,tier3_score,program_trend,contender_tier
-1,1,Bay Port,WI,D1,Fox River Classic - North,12-1,12,1,0,13,102.1,102.1,52.13,69.6,21,42.2,11.2,42.2,11.2,31.0,8.68,8.68,5.611,3.069,1.917,Rising Power ↑,Finals Contender
-2,2,Sussex Hamilton,WI,D1,Greater Metro,13-0,13,0,0,13,100.3,100.3,50.32,73.4,13,40.5,15.3,40.5,15.3,25.2,9.154,9.154,6.222,2.932,2.033,Rising Power ↑,Finals Contender
-3,1,Notre Dame,WI,D2,Fox River Classic - South,12-0,12,0,0,12,100.1,100.1,50.14,54.8,139,54.5,10.7,54.5,10.7,43.8,8.988,8.988,6.111,2.877,1.261,Rising Power ↑,Finals Contender
-4,3,Arrowhead,WI,D1,Classic Eight,11-2,11,2,0,13,98.2,98.2,48.23,75.9,8,35.6,13.2,35.6,13.2,22.4,8.403,8.403,5.611,2.792,1.78,Rising Power ↑,Finals Contender
-5,4,West De Pere,WI,D1,Fox River Classic - North,11-1,11,1,0,12,96.6,96.6,46.58,67.6,28,38.5,11.1,38.5,11.1,27.4,9.808,9.808,6.333,3.475,1.977,Rising Power ↑,Finals Contender
-6,5,Waunakee,WI,D1,Badger - Large,11-2,11,2,0,13,94.9,94.9,44.86,70.7,19,33.2,10.1,33.2,10.1,23.1,8.236,8.236,5.5,2.736,1.538,Rising Power ↑,Finals Contender
-7,1,Freedom,WI,D4,North Eastern,11-1,11,1,0,12,91.4,91.4,41.43,60.0,89,46.4,13.1,46.4,13.1,33.3,7.759,7.759,5.111,2.648,1.353,Rising Power ↑,Finals Contender
-8,6,Muskego,WI,D1,Classic Eight,9-3,9,3,0,12,91.2,91.2,41.17,75.6,10,30.6,13.8,30.6,13.8,16.8,8.507,8.507,5.556,2.951,1.891,Rising Power ↑,Finals Contender
-9,2,Monona Grove,WI,D2,Badger - Large,10-2,10,2,0,12,87.0,87.0,37.01,63.8,53,35.6,11.5,35.6,11.5,24.1,7.875,7.875,5.556,2.319,1.319,Rising Power ↑,Finals Contender
-10,3,Union Grove,WI,D2,Southern Lakes,14-0,14,0,0,14,86.5,86.5,36.49,59.8,91,36.4,10.6,36.4,10.6,25.8,8.488,8.488,5.889,2.599,1.418,Rising Power ↑,Finals Contender
-11,1,Amherst,WI,D5,Central Wisconsin - Large,13-0,13,0,0,13,86.1,86.1,36.06,51.7,175,42.2,10.8,42.2,10.8,31.4,6.438,6.438,4.278,2.16,1.471,Rising Power ↑,Finals Contender
-12,7,Franklin,WI,D1,Southeast,6-5,6,5,0,11,85.6,85.6,35.64,80.1,2,25.5,19.9,25.5,19.9,5.6,5.967,5.967,3.5,2.467,1.549,Sustained Contender,Finals Contender
-13,1,La Crosse Logan,WI,D3,Mississippi Valley,13-0,13,0,0,13,85.3,85.3,35.34,59.2,100,39.1,15.7,39.1,15.7,23.4,8.099,8.099,5.611,2.488,1.338,Rising Power ↑,Finals Contender
-14,2,Darlington,WI,D5,SWAL,12-0,12,0,0,12,84.9,84.9,34.93,53.9,148,40.1,10.1,40.1,10.1,30.0,6.799,6.799,4.333,2.466,1.469,Rising Power ↑,Finals Contender
-15,8,Oconomowoc,WI,D1,Classic Eight,7-4,7,4,0,11,84.8,84.8,34.83,79.8,3,27.5,21.5,27.5,21.5,6.0,7.084,7.084,4.167,2.917,1.792,Rising Power ↑,Finals Contender
-16,9,Racine Case,WI,D1,Southeast,11-2,11,2,0,13,83.7,83.7,33.74,62.0,73,34.8,10.4,34.8,10.4,24.4,8.292,8.292,5.611,2.681,1.581,Rising Power ↑,Finals Contender
-17,4,Homestead,WI,D2,North Shore,9-2,9,2,0,11,83.5,83.5,33.54,60.2,87,38.8,16.7,38.8,16.7,22.1,7.597,7.597,5.278,2.319,1.752,Sustained Contender,Finals Contender
-18,2,New Berlin West,WI,D3,Parkland,8-3,8,3,0,11,83.5,83.5,33.51,62.4,68,35.7,13.0,35.7,13.0,22.7,7.246,7.246,4.5,2.746,2.429,Rising Power ↑,Finals Contender
-19,3,Port Washington,WI,D3,North Shore,12-0,12,0,0,12,83.2,83.2,33.15,60.3,84,35.7,14.2,35.7,14.2,21.5,8.302,8.302,5.722,2.58,1.445,Rising Power ↑,Finals Contender
-20,10,Verona,WI,D1,Big Eight,9-2,9,2,0,11,82.9,82.9,32.86,59.8,92,34.7,13.9,34.7,13.9,20.8,8.438,8.438,5.778,2.66,1.484,Sustained Contender,Finals Contender
-21,11,Hudson,WI,D1,Big Rivers,9-3,9,3,0,12,82.2,82.2,32.22,65.9,39,36.8,20.7,36.8,20.7,16.1,7.833,7.833,5.5,2.333,1.481,Rising Power ↑,Finals Contender
-22,5,New Richmond,WI,D2,Big Rivers,11-1,11,1,0,12,82.0,82.0,32.05,62.5,67,36.1,18.0,36.1,18.0,18.1,9.216,9.216,6.222,2.994,1.565,Rising Power ↑,Finals Contender
-23,12,Neenah,WI,D1,Fox Valley Association,7-5,7,5,0,12,81.9,81.9,31.94,79.5,4,28.0,25.3,28.0,25.3,2.7,6.824,6.824,4.333,2.491,2.268,Rising Power ↑,Finals Contender
-24,13,Chippewa Falls,WI,D1,Big Rivers,7-3,7,3,0,10,81.6,81.6,31.57,60.8,82,30.7,12.1,30.7,12.1,18.6,6.0,6.0,4.167,1.833,1.183,Rising Power ↑,Finals Contender
-25,14,Marquette,WI,D1,Greater Metro,7-4,7,4,0,11,80.6,80.6,30.58,77.8,6,31.6,29.9,31.6,29.9,1.7,6.482,6.482,4.056,2.426,1.671,Sustained Contender,Finals Contender
-26,6,West Bend West,WI,D2,North Shore,9-3,9,3,0,12,80.4,80.4,30.4,64.4,47,32.3,17.0,32.3,17.0,15.3,6.571,6.571,4.222,2.349,1.404,Rising Power ↑,Finals Contender
-27,2,West Salem,WI,D4,Coulee,12-0,12,0,0,12,80.2,80.2,30.2,53.8,151,35.5,9.9,35.5,9.9,25.6,6.469,6.469,4.722,1.747,0.92,Rising Power ↑,Finals Contender
-28,15,Kimberly,WI,D1,Fox Valley Association,5-5,5,5,0,10,80.2,80.2,30.16,77.8,5,20.1,18.8,20.1,18.8,1.3,5.195,5.195,2.889,2.306,2.165,Sustained Contender,Finals Contender
-29,4,Pewaukee,WI,D3,Parkland,11-1,11,1,0,12,79.2,79.2,29.2,59.2,99,33.2,11.8,33.2,11.8,21.4,8.562,8.562,5.667,2.895,2.19,Rising Power ↑,Finals Contender
-30,5,Fox Valley Lutheran,WI,D3,North Eastern,9-3,9,3,0,12,79.2,79.2,29.18,56.3,122,37.9,14.3,37.9,14.3,23.6,5.944,5.944,3.944,2.0,1.027,Rising Power ↑,Semifinal Contender
-31,7,Pulaski,WI,D2,Fox River Classic - North,9-3,9,3,0,12,79.1,79.1,29.07,67.5,29,28.2,16.4,28.2,16.4,11.8,7.222,7.222,4.944,2.278,1.858,Rising Power ↑,Semifinal Contender
-32,8,Kaukauna,WI,D2,Fox Valley Association,8-3,8,3,0,11,78.9,78.9,28.87,67.9,27,24.9,14.6,24.9,14.6,10.3,7.341,7.341,5.0,2.341,2.122,Rising Power ↑,Semifinal Contender
-33,3,Lake Mills,WI,D4,Capitol,11-1,11,1,0,12,78.8,78.8,28.8,54.9,138,39.0,17.0,39.0,17.0,22.0,6.708,6.708,4.5,2.208,1.569,Rising Power ↑,Finals Contender
-34,4,Little Chute,WI,D4,North Eastern,11-2,11,2,0,13,78.6,78.6,28.61,57.4,110,37.7,15.2,37.7,15.2,22.5,6.715,6.715,4.611,2.104,1.183,Rising Power ↑,Finals Contender
-35,6,Plymouth,WI,D3,WIAA Varsity,9-3,9,3,0,12,78.2,78.2,28.24,62.8,63,31.2,17.5,31.2,17.5,13.7,6.277,6.277,4.333,1.944,1.17,Rising Power ↑,Semifinal Contender
-36,16,Fond du Lac,WI,D1,Fox Valley Association,4-5,4,5,0,9,77.5,77.5,27.52,66.4,36,27.3,14.9,27.3,14.9,12.4,4.416,4.416,2.833,1.583,2.479,Sustained Contender,Semifinal Contender
-37,17,Kenosha Bradford,WI,D1,Southeast,7-3,7,3,0,10,77.2,77.2,27.17,59.6,95,31.6,11.4,31.6,11.4,20.2,6.945,6.945,4.889,2.056,1.355,Rising Power ↑,Semifinal Contender
-38,3,Grantsburg,WI,D5,WIAA Varsity,11-2,11,2,0,13,77.1,77.1,27.05,48.0,207,40.6,14.2,40.6,14.2,26.4,5.144,5.144,3.444,1.7,0.829,Rising Power ↑,Finals Contender
-39,1,Bonduel,WI,D6,Packerland,12-0,12,0,0,12,76.5,76.5,26.48,45.7,237,39.2,10.8,39.2,10.8,28.4,6.253,6.253,4.333,1.92,1.214,Rising Power ↑,Finals Contender
-40,7,Reedsburg,WI,D3,Badger - Small,8-3,8,3,0,11,76.1,76.1,26.06,63.2,58,31.7,16.9,31.7,16.9,14.8,6.699,6.699,4.389,2.31,1.378,Rising Power ↑,Semifinal Contender
-41,8,Catholic Memorial,WI,D3,Parkland,7-6,7,6,0,13,75.6,75.6,25.61,72.3,16,25.8,22.5,25.8,22.5,3.3,4.958,4.958,2.833,2.125,1.809,Sustained Contender,Semifinal Contender
-42,5,Northwestern,WI,D4,Heart O'North,11-2,11,2,0,13,75.1,75.1,25.11,46.3,227,44.9,13.7,44.9,13.7,31.2,6.349,6.349,4.611,1.738,0.812,Rising Power ↑,Semifinal Contender
-43,9,Elkhorn,WI,D2,Southern Lakes,9-2,9,2,0,11,75.0,75.0,25.05,60.0,90,28.5,12.4,28.5,12.4,16.1,7.507,7.507,5.167,2.34,1.283,Rising Power ↑,Semifinal Contender
-44,2,Edgar,WI,D6,Marawood,11-2,11,2,0,13,74.8,74.8,24.82,47.7,211,28.6,4.2,28.6,4.2,24.4,6.086,6.086,4.0,2.086,1.087,Rising Power ↑,Finals Contender
-45,18,Stevens Point,WI,D1,Wisconsin Valley,8-2,8,2,0,10,74.1,74.1,24.1,57.3,114,35.6,20.6,35.6,20.6,15.0,7.889,7.889,5.556,2.333,1.391,Rising Power ↑,Semifinal Contender
-46,19,De Pere,WI,D1,Fox River Classic - North,6-4,6,4,0,10,73.7,73.7,23.67,66.0,38,27.3,18.2,27.3,18.2,9.1,6.407,6.407,4.222,2.185,1.452,Rising Power ↑,Semifinal Contender
-47,6,Aquinas,WI,D4,Coulee,9-2,9,2,0,11,73.3,73.3,23.27,57.1,116,30.9,15.5,30.9,15.5,15.4,5.625,5.625,3.944,1.681,0.805,Sustained Contender,Semifinal Contender
-48,10,Holmen,WI,D2,Mississippi Valley,7-3,7,3,0,10,73.1,73.1,23.14,62.8,62,27.2,17.5,27.2,17.5,9.7,6.699,6.699,4.278,2.421,1.347,Sustained Contender,Semifinal Contender
-49,11,Brookfield Central,WI,D2,Greater Metro,5-8,5,8,0,13,73.0,73.0,23.04,74.7,11,27.5,27.3,27.5,27.3,0.2,5.019,5.019,2.056,2.963,2.173,Sustained Contender,Semifinal Contender
-50,9,Waterford,WI,D3,Southern Lakes,7-4,7,4,0,11,73.0,73.0,22.99,60.8,83,32.5,19.0,32.5,19.0,13.5,5.777,5.777,3.944,1.833,1.419,Rising Power ↑,Semifinal Contender
-51,12,Grafton,WI,D2,North Shore,7-5,7,5,0,12,72.8,72.8,22.76,66.7,32,27.5,22.2,27.5,22.2,5.3,4.955,4.955,3.111,1.844,1.31,Sustained Contender,Semifinal Contender
-52,20,Sun Prairie East,WI,D1,Badger - Large,6-4,6,4,0,10,72.7,72.7,22.74,67.2,30,29.2,22.8,29.2,22.8,6.4,5.75,5.75,4.056,1.694,1.354,Sustained Contender,Semifinal Contender
-53,13,Beaver Dam,WI,D2,Badger - Large,8-2,8,2,0,10,72.7,72.7,22.7,50.9,183,38.5,18.3,38.5,18.3,20.2,6.972,6.972,4.889,2.083,1.165,Rising Power ↑,Semifinal Contender
-54,10,Winneconne,WI,D3,Bay,10-1,10,1,0,11,72.6,72.6,22.58,47.9,209,33.0,10.9,33.0,10.9,22.1,6.908,6.908,5.167,1.741,0.912,Sustained Contender,Semifinal Contender
-55,14,La Crosse Central,WI,D2,Mississippi Valley,7-3,7,3,0,10,72.4,72.4,22.43,57.7,109,34.8,20.4,34.8,20.4,14.4,6.119,6.119,4.278,1.841,1.074,Rising Power ↑,Semifinal Contender
-56,15,Menasha,WI,D2,WIAA Varsity,8-3,8,3,0,11,71.6,71.6,21.62,52.8,164,39.3,21.1,39.3,21.1,18.2,6.405,6.405,4.611,1.794,0.674,Rising Power ↑,Sectional Contender
-57,11,Medford,WI,D3,WIAA Varsity,8-3,8,3,0,11,71.6,71.6,21.59,50.5,185,31.5,10.6,31.5,10.6,20.9,6.326,6.326,4.167,2.159,0.925,Rising Power ↑,Sectional Contender
-58,21,Appleton North,WI,D1,Fox Valley Association,6-6,6,6,0,12,71.5,71.5,21.51,75.7,9,13.8,17.7,13.8,17.7,-3.9,5.967,5.967,3.556,2.411,1.852,Sustained Contender,Sectional Contender
-59,3,Mondovi,WI,D6,Cloverbelt,10-2,10,2,0,12,71.1,71.1,21.09,56.6,119,36.9,22.6,36.9,22.6,14.3,6.375,6.375,3.889,2.486,1.472,Rising Power ↑,Finals Contender
-60,4,Lake Country Lutheran,WI,D5,Midwest Classic,10-3,10,3,0,13,71.0,71.0,20.97,54.1,145,31.5,13.8,31.5,13.8,17.7,6.056,6.056,4.0,2.056,1.477,Rising Power ↑,Finals Contender
-61,4,Lomira,WI,D6,Flyway,14-0,14,0,0,14,70.9,70.9,20.92,47.3,216,31.1,10.1,31.1,10.1,21.0,6.358,6.358,4.611,1.747,1.123,Rising Power ↑,Finals Contender
-62,7,Stratford,WI,D4,Central Wisconsin - Large,9-2,9,2,0,11,70.8,70.8,20.82,53.1,162,26.5,10.7,26.5,10.7,15.8,5.909,5.909,3.833,2.076,1.279,Sustained Contender,Semifinal Contender
-63,5,Kewaunee,WI,D6,Packerland,8-3,8,3,0,11,70.7,70.7,20.68,48.6,200,33.4,12.1,33.4,12.1,21.3,5.46,5.46,3.611,1.849,1.009,Rising Power ↑,Semifinal Contender
-64,5,Racine Lutheran,WI,D5,Midwest Classic,11-2,11,2,0,13,70.3,70.3,20.31,46.7,222,41.8,13.1,41.8,13.1,28.7,7.534,7.534,5.222,2.312,0.991,Rising Power ↑,Semifinal Contender
-65,8,Edgewood,WI,D4,Badger - Small,8-3,8,3,0,11,70.2,70.2,20.21,52.2,174,37.1,17.7,37.1,17.7,19.4,6.349,6.349,4.222,2.127,1.085,Rising Power ↑,Semifinal Contender
-66,9,St. Catherine's,WI,D4,WIAA Varsity,10-1,10,1,0,11,70.2,70.2,20.17,50.4,186,27.0,9.5,27.0,9.5,17.5,6.958,6.958,4.5,2.458,1.569,Sustained Contender,Sectional Contender
-67,12,Mount Horeb/Barneveld,WI,D3,Badger - Small,7-5,7,5,0,12,70.1,70.1,20.1,61.8,75,28.2,21.6,28.2,21.6,6.6,5.574,5.574,3.722,1.852,0.957,Sustained Contender,Sectional Contender
-68,13,Baldwin-Woodville,WI,D3,Middle Border,7-3,7,3,0,10,69.8,69.8,19.82,53.7,152,30.3,15.1,30.3,15.1,15.2,5.119,5.119,3.833,1.286,0.613,Sustained Contender,Sectional Contender
-69,14,Onalaska,WI,D3,Mississippi Valley,4-6,4,6,0,10,69.7,69.7,19.68,66.5,35,24.6,20.3,24.6,20.3,4.3,4.208,4.208,2.444,1.764,1.03,Sustained Contender,Sectional Contender
-70,16,Marshfield,WI,D2,Wisconsin Valley,7-4,7,4,0,11,69.6,69.6,19.62,58.4,104,31.6,18.6,31.6,18.6,13.0,6.01,6.01,4.167,1.843,1.226,Rising Power ↑,Sectional Contender
-71,6,Durand-Arkansaw,WI,D5,Cloverbelt,11-2,11,2,0,13,69.2,69.2,19.17,51.4,178,33.5,14.2,33.5,14.2,19.3,5.588,5.588,3.667,1.921,1.193,Rising Power ↑,Semifinal Contender
-72,15,Whitefish Bay,WI,D3,North Shore,9-4,9,4,0,13,68.9,68.9,18.95,63.6,56,26.2,20.1,26.2,20.1,6.1,6.913,6.913,4.556,2.357,2.048,Rising Power ↑,Sectional Contender
-73,6,Kenosha St Joseph,WI,D6,WIAA Varsity,11-2,11,2,0,13,68.7,68.7,18.7,44.1,263,35.8,9.5,35.8,9.5,26.3,5.937,5.937,3.944,1.993,1.04,Rising Power ↑,Semifinal Contender
-74,22,Middleton,WI,D1,Big Eight,5-6,5,6,0,11,68.2,68.2,18.23,65.4,42,34.3,30.1,34.3,30.1,4.2,6.022,6.022,3.611,2.411,1.223,Sustained Contender,Sectional Contender
-75,10,Osceola,WI,D4,Middle Border,9-2,9,2,0,11,67.9,67.9,17.9,54.7,140,32.3,19.3,32.3,19.3,13.0,6.076,6.076,4.333,1.743,0.94,Rising Power ↑,Sectional Contender
-76,17,River Falls,WI,D2,Big Rivers,7-5,7,5,0,12,67.7,67.7,17.75,67.1,31,20.1,20.7,20.1,20.7,-0.6,5.522,5.522,3.444,2.078,1.422,Sustained Contender,Sectional Contender
-77,16,Luxemburg-Casco,WI,D3,North Eastern,7-4,7,4,0,11,67.4,67.4,17.42,61.1,78,29.7,21.5,29.7,21.5,8.2,5.231,5.231,3.333,1.898,1.114,Rising Power ↑,Sectional Contender
-78,1,Iowa-Grant,WI,D7,WIAA Varsity,10-2,10,2,0,12,66.9,66.9,16.93,40.7,302,40.8,14.8,40.8,14.8,26.0,4.389,4.389,2.889,1.5,0.691,Rising Power ↑,Finals Contender
-79,7,Watertown Luther Prep,WI,D5,WIAA Varsity,7-4,7,4,0,11,66.8,66.8,16.83,54.1,144,27.0,13.4,27.0,13.4,13.6,5.676,5.676,3.5,2.176,1.481,Rising Power ↑,Semifinal Contender
-80,7,Cedar Grove/Belgium,WI,D6,WIAA Varsity,9-3,9,3,0,12,66.7,66.7,16.71,49.0,197,25.8,9.3,25.8,9.3,16.5,4.968,4.968,3.111,1.857,0.999,Rising Power ↑,Semifinal Contender
-81,11,Delavan-Darien,WI,D4,WIAA Varsity,9-3,9,3,0,12,66.5,66.5,16.51,48.7,199,35.6,17.9,35.6,17.9,17.7,5.587,5.587,3.722,1.865,1.042,Rising Power ↑,Sectional Contender
-82,18,Milton,WI,D2,Badger - Large,5-5,5,5,0,10,66.3,66.3,16.25,69.1,22,20.3,25.3,20.3,25.3,-5.0,4.236,4.236,2.722,1.514,1.076,Sustained Contender,Sectional Contender
-83,8,New Glarus,WI,D5,Capitol,10-2,10,2,0,12,66.3,66.3,16.25,52.5,167,31.2,16.8,31.2,16.8,14.4,5.917,5.917,3.667,2.25,1.405,Rising Power ↑,Semifinal Contender
-84,12,Wrightstown,WI,D4,North Eastern,6-6,6,6,0,12,66.2,66.2,16.25,61.6,76,22.9,18.2,22.9,18.2,4.7,4.166,4.166,2.222,1.944,0.998,Sustained Contender,Sectional Contender
-85,9,Mayville,WI,D5,Flyway,7-4,7,4,0,11,66.0,66.0,16.04,52.8,166,29.1,16.6,29.1,16.6,12.5,4.593,4.593,2.889,1.704,0.989,Sustained Contender,Sectional Contender
-86,13,Lakeside Lutheran,WI,D4,Capitol,7-4,7,4,0,11,65.7,65.7,15.68,56.3,123,31.5,19.6,31.5,19.6,11.9,5.01,5.01,3.167,1.843,1.349,Rising Power ↑,Sectional Contender
-87,23,Madison Memorial,WI,D1,Big Eight,7-3,7,3,0,10,65.6,65.6,15.61,53.5,155,29.5,19.8,29.5,19.8,9.7,6.642,6.642,4.944,1.698,1.111,Sustained Contender,Sectional Contender
-88,17,Wisconsin Lutheran,WI,D3,Parkland,6-5,6,5,0,11,65.6,65.6,15.55,61.8,74,29.5,25.8,29.5,25.8,3.7,6.189,6.189,3.278,2.911,1.819,Rising Power ↑,Sectional Contender
-89,2,Coleman,WI,D7,Northwoods,9-3,9,3,0,12,65.5,65.5,15.49,44.4,259,33.2,14.3,33.2,14.3,18.9,4.913,4.913,3.056,1.857,0.78,Rising Power ↑,Finals Contender
-90,19,Waukesha South,WI,D2,Classic Eight,7-5,7,5,0,12,65.4,65.4,15.4,63.1,59,28.7,24.7,28.7,24.7,4.0,6.093,6.093,3.778,2.315,1.945,Rising Power ↑,Sectional Contender
-91,8,Manitowoc Lutheran,WI,D6,Big East,10-2,10,2,0,12,65.3,65.3,15.33,42.3,287,30.5,8.2,30.5,8.2,22.3,5.84,5.84,4.0,1.84,0.979,Rising Power ↑,Semifinal Contender
-92,20,Germantown,WI,D2,Greater Metro,4-6,4,6,0,10,65.0,65.0,14.96,76.2,7,18.3,30.4,18.3,30.4,-12.1,4.458,4.458,2.722,1.736,1.638,Sustained Contender,Sectional Contender
-93,21,Slinger,WI,D2,North Shore,5-5,5,5,0,10,64.8,64.8,14.83,64.2,48,22.0,22.4,22.0,22.4,-0.4,5.333,5.333,3.333,2.0,1.851,Sustained Contender,Sectional Contender
-94,9,Luther,WI,D6,WIAA Varsity,7-3,7,3,0,10,64.8,64.8,14.81,53.6,153,27.7,16.3,27.7,16.3,11.4,4.259,4.259,2.889,1.37,0.73,Rising Power ↑,Sectional Contender
-95,10,St. Croix Falls,WI,D5,Heart O'North,10-3,10,3,0,13,64.8,64.8,14.8,47.8,210,38.5,21.3,38.5,21.3,17.2,5.746,5.746,4.0,1.746,0.919,Rising Power ↑,Sectional Contender
-96,24,Kenosha Indian Trail,WI,D1,Southeast,8-3,8,3,0,11,64.7,64.7,14.73,58.6,102,26.9,20.7,26.9,20.7,6.2,6.904,6.904,4.833,2.071,1.471,Rising Power ↑,Sectional Contender
-97,22,Greenfield,WI,D2,WIAA Varsity,7-3,7,3,0,10,64.5,64.5,14.54,52.2,172,30.8,18.8,30.8,18.8,12.0,6.341,6.341,4.278,2.063,1.423,Rising Power ↑,Sectional Contender
-98,23,DeForest,WI,D2,Badger - Large,4-6,4,6,0,10,64.5,64.5,14.47,68.8,23,16.3,20.7,16.3,20.7,-4.4,3.389,3.389,2.056,1.333,0.991,Rebuilding,Sectional Contender
-99,3,River Ridge,WI,D7,WIAA Varsity,10-2,10,2,0,12,64.4,64.4,14.36,38.1,321,40.2,12.8,40.2,12.8,27.4,4.597,4.597,3.167,1.43,0.693,Rising Power ↑,Finals Contender
-100,25,Oak Creek,WI,D1,Southeast,4-5,4,5,0,9,63.5,63.5,13.5,62.3,69,26.3,25.4,26.3,25.4,0.9,4.097,4.097,2.722,1.375,1.17,Sustained Contender,First-Round / Bubble
-101,4,Cochrane-Fountain City,WI,D7,Dairyland,10-1,10,1,0,11,63.2,63.2,13.22,35.8,332,36.9,9.6,36.9,9.6,27.3,5.093,5.093,3.5,1.593,0.567,Sustained Contender,Finals Contender
-102,26,Hortonville,WI,D1,Fox Valley Association,3-6,3,6,0,9,63.1,63.1,13.12,71.1,18,18.4,24.1,18.4,24.1,-5.7,4.722,4.722,2.111,2.611,2.253,Rebuilding,First-Round / Bubble
-103,24,Waukesha West,WI,D2,Classic Eight,6-5,6,5,0,11,63.0,63.0,12.97,64.5,46,24.3,26.4,24.3,26.4,-2.1,5.477,5.477,3.333,2.144,2.091,Sustained Contender,Dark Horse
-104,27,D.C. Everest,WI,D1,Wisconsin Valley,5-5,5,5,0,10,63.0,63.0,12.96,62.0,72,30.1,28.6,30.1,28.6,1.5,5.377,5.377,3.444,1.933,1.069,Sustained Contender,First-Round / Bubble
-105,5,Hilbert,WI,D7,Big East,10-3,10,3,0,13,62.7,62.7,12.71,44.8,251,30.5,12.6,30.5,12.6,17.9,4.333,4.333,2.722,1.611,0.897,Rising Power ↑,Semifinal Contender
-106,14,Evansville,WI,D4,WIAA Varsity,9-2,9,2,0,11,62.7,62.7,12.67,38.9,316,34.4,14.0,34.4,14.0,20.4,5.458,5.458,4.222,1.236,0.818,Sustained Contender,Sectional Contender
-107,11,Elk Mound,WI,D5,Cloverbelt,7-5,7,5,0,12,62.3,62.3,12.25,53.0,163,31.3,19.9,31.3,19.9,11.4,4.427,4.427,2.833,1.594,1.118,Rising Power ↑,Sectional Contender
-108,15,Black River Falls,WI,D4,WIAA Varsity,5-5,5,5,0,10,62.2,62.2,12.18,59.8,93,27.7,24.5,27.7,24.5,3.2,3.069,3.069,1.944,1.125,0.585,Steady Program,Sectional Contender
-109,18,Kettle Moraine Lutheran,WI,D3,WIAA Varsity,5-6,5,6,0,11,61.6,61.6,11.64,63.9,52,21.7,22.5,21.7,22.5,-0.8,4.18,4.18,2.222,1.958,1.275,Rebuilding,Dark Horse
-110,19,New Berlin Eisenhower,WI,D3,Parkland,7-5,7,5,0,12,61.3,61.3,11.32,65.2,43,19.9,22.7,19.9,22.7,-2.8,6.26,6.26,3.667,2.593,2.109,Rising Power ↑,Dark Horse
-111,28,Brookfield East,WI,D1,Greater Metro,3-6,3,6,0,9,60.9,60.9,10.89,73.2,14,17.7,30.4,17.7,30.4,-12.7,3.204,3.204,2.056,1.148,1.21,Sustained Contender,First-Round / Bubble
-112,20,Greendale,WI,D3,WIAA Varsity,6-4,6,4,0,10,60.8,60.8,10.79,54.0,147,29.1,22.2,29.1,22.2,6.9,5.584,5.584,3.778,1.806,1.415,Steady Program,Dark Horse
-113,10,Regis,WI,D6,Cloverbelt,7-4,7,4,0,11,60.4,60.4,10.42,53.8,150,22.5,16.8,22.5,16.8,5.7,5.157,5.157,3.188,1.969,1.215,Sustained Contender,Sectional Contender
-114,11,Belleville,WI,D6,SWAL,8-3,8,3,0,11,60.4,60.4,10.41,47.0,220,29.0,15.3,29.0,15.3,13.7,4.723,4.723,3.056,1.667,1.18,Rising Power ↑,Sectional Contender
-115,12,Arcadia,WI,D5,Coulee,6-5,6,5,0,11,60.2,60.2,10.24,53.4,157,27.9,19.1,27.9,19.1,8.8,3.489,3.489,2.167,1.322,0.406,Rising Power ↑,Sectional Contender
-116,25,Oregon,WI,D2,Badger - Large,4-5,4,5,0,9,60.2,60.2,10.22,61.1,79,24.7,24.1,24.7,24.1,0.6,3.417,3.417,2.611,0.806,0.889,Rebuilding,First-Round / Bubble
-117,29,Mukwonago,WI,D1,Classic Eight,2-7,2,7,0,9,60.2,60.2,10.2,74.2,12,14.4,29.2,14.4,29.2,-14.8,2.056,2.056,1.389,0.667,0.681,Sustained Contender,First-Round / Bubble
-118,16,Kewaskum,WI,D4,WIAA Varsity,3-6,3,6,0,9,60.2,60.2,10.18,63.3,57,21.1,19.8,21.1,19.8,1.3,3.277,3.277,1.833,1.444,0.875,Rebuilding,Sectional Contender
-119,13,Brillion,WI,D5,WIAA Varsity,8-3,8,3,0,11,59.9,59.9,9.88,43.1,276,31.0,15.5,31.0,15.5,15.5,5.066,5.066,3.389,1.677,1.417,Rising Power ↑,Sectional Contender
-120,17,Lodi,WI,D4,Capitol,7-4,7,4,0,11,59.7,59.7,9.67,56.8,117,28.3,25.9,28.3,25.9,2.4,5.408,5.408,3.389,2.019,1.481,Steady Program,Dark Horse
-121,30,Oshkosh West,WI,D1,Fox Valley Association,4-6,4,6,0,10,59.3,59.3,9.34,72.6,15,8.9,20.6,8.9,20.6,-11.7,5.472,5.472,2.833,2.639,2.121,Rebuilding,First-Round / Bubble
-122,21,Wilmot,WI,D3,Southern Lakes,5-5,5,5,0,10,59.1,59.1,9.13,55.8,127,25.5,19.9,25.5,19.9,5.6,4.233,4.233,3.0,1.233,1.033,Steady Program,Dark Horse
-123,14,Winnebago Lutheran,WI,D5,Flyway,6-5,6,5,0,11,59.1,59.1,9.1,55.0,136,20.0,16.1,20.0,16.1,3.9,4.077,4.077,2.444,1.633,0.923,Steady Program,Sectional Contender
-124,22,Milwaukee Lutheran,WI,D3,WIAA Varsity,6-4,6,4,0,10,58.8,58.8,8.83,47.1,219,32.1,18.2,32.1,18.2,13.9,4.655,4.655,3.111,1.544,1.333,Rising Power ↑,Dark Horse
-125,31,Janesville Parker,WI,D1,Big Eight,4-7,4,7,0,11,58.7,58.7,8.7,65.9,40,21.9,27.6,21.9,27.6,-5.7,4.861,4.861,2.889,1.972,1.266,Rebuilding,First-Round / Bubble
-126,32,Milwaukee Reagan,WI,D1,WIAA Varsity,7-4,7,4,0,11,58.7,58.7,8.67,52.4,170,21.7,18.5,21.7,18.5,3.2,6.798,6.798,4.0,2.798,1.472,Steady Program,First-Round / Bubble
-127,23,Whitnall,WI,D3,WIAA Varsity,4-7,4,7,0,11,58.5,58.5,8.5,58.7,101,24.5,25.8,24.5,25.8,-1.3,3.444,3.444,1.944,1.5,1.056,Rebuilding,Dark Horse
-128,18,Xavier,WI,D4,Bay,5-6,5,6,0,11,58.4,58.4,8.44,63.1,60,20.2,23.6,20.2,23.6,-3.4,4.588,4.588,2.944,1.644,0.913,Rebuilding,Dark Horse
-129,12,Cambridge,WI,D6,WIAA Varsity,8-3,8,3,0,11,58.3,58.3,8.3,45.1,248,28.8,17.5,28.8,17.5,11.3,4.984,4.984,3.167,1.817,1.215,Steady Program,Sectional Contender
-130,26,Burlington,WI,D2,Southern Lakes,4-6,4,6,0,10,57.9,57.9,7.94,62.3,70,26.6,29.4,26.6,29.4,-2.8,4.528,4.528,2.722,1.806,0.975,Rebuilding,First-Round / Bubble
-131,6,Pepin/Alma,WI,D7,Dairyland,10-2,10,2,0,12,57.8,57.8,7.82,34.5,337,34.7,11.8,34.7,11.8,22.9,4.706,4.706,3.556,1.15,0.484,Steady Program,Semifinal Contender
-132,27,Ashwaubenon,WI,D2,Fox River Classic - North,5-5,5,5,0,10,57.6,57.6,7.56,65.0,44,15.9,21.4,15.9,21.4,-5.5,5.533,5.533,3.5,2.033,1.361,Steady Program,First-Round / Bubble
-133,15,Amery,WI,D5,WIAA Varsity,5-6,5,6,0,11,57.4,57.4,7.44,57.7,108,25.6,24.2,25.6,24.2,1.4,4.0,4.0,2.611,1.389,0.616,Rebuilding,Sectional Contender
-134,19,Saint Croix Central,WI,D4,WIAA Varsity,3-6,3,6,0,9,57.3,57.3,7.34,55.4,132,22.4,18.4,22.4,18.4,4.0,2.315,2.315,1.611,0.704,0.352,Rebuilding,Dark Horse
-135,13,Cuba City,WI,D6,SWAL,7-4,7,4,0,11,57.3,57.3,7.27,56.3,121,21.5,21.4,21.5,21.4,0.1,4.787,4.787,2.722,2.065,1.227,Steady Program,Sectional Contender
-136,24,Sauk Prairie,WI,D3,Badger - Small,5-5,5,5,0,10,57.2,57.2,7.24,54.6,142,25.2,21.9,25.2,21.9,3.3,4.289,4.289,3.056,1.233,0.7,Steady Program,Dark Horse
-137,20,Denmark,WI,D4,North Eastern,6-4,6,4,0,10,57.2,57.2,7.2,55.2,133,26.1,24.7,26.1,24.7,1.4,3.844,3.844,2.944,0.9,0.474,Rising Power ↑,Dark Horse
-138,33,Wausau West,WI,D1,Wisconsin Valley,5-5,5,5,0,10,57.1,57.1,7.07,60.2,86,19.8,23.4,19.8,23.4,-3.6,4.944,4.944,3.444,1.5,1.053,Steady Program,First-Round / Bubble
-139,14,Potosi/Cassville,WI,D6,Six Rivers,8-3,8,3,0,11,57.0,57.0,6.99,44.5,257,31.5,19.8,31.5,19.8,11.7,4.317,4.317,2.833,1.484,0.566,Steady Program,Sectional Contender
-140,34,Green Bay Preble,WI,D1,Fox River Classic - North,3-6,3,6,0,9,56.8,56.8,6.82,68.1,25,19.9,30.4,19.9,30.4,-10.5,4.575,4.575,2.056,2.519,1.317,Rebuilding,First-Round / Bubble
-141,7,Cadott,WI,D7,WIAA Varsity,7-4,7,4,0,11,56.6,56.6,6.57,45.2,246,33.3,19.0,33.3,19.0,14.3,3.948,3.948,2.611,1.337,0.789,Rising Power ↑,Semifinal Contender
-142,35,Badger,WI,D1,Southern Lakes,2-7,2,7,0,9,56.5,56.5,6.51,64.1,49,22.2,31.3,22.2,31.3,-9.1,2.694,2.694,1.333,1.361,0.903,Rebuilding,Rebuilding
-143,36,Janesville Craig,WI,D1,Big Eight,4-5,4,5,0,9,56.2,56.2,6.24,56.7,118,25.6,26.6,25.6,26.6,-1.0,4.597,4.597,2.833,1.764,1.267,Rebuilding,First-Round / Bubble
-144,15,St. Mary's Springs,WI,D6,Flyway,5-5,5,5,0,10,56.2,56.2,6.17,53.4,158,20.7,17.2,20.7,17.2,3.5,4.422,4.422,2.611,1.811,0.913,Steady Program,Sectional Contender
-145,28,Wauwatosa East,WI,D2,Greater Metro,5-5,5,5,0,10,56.0,56.0,6.01,56.5,120,25.0,24.6,25.0,24.6,0.4,5.966,5.966,3.333,2.633,2.211,Steady Program,First-Round / Bubble
-146,8,Boyceville,WI,D7,Dairyland,7-4,7,4,0,11,55.7,55.7,5.71,41.5,295,24.7,12.8,24.7,12.8,11.9,4.093,4.093,2.75,1.343,0.79,Steady Program,Semifinal Contender
-147,37,Madison La Follette,WI,D1,Big Eight,4-5,4,5,0,9,55.5,55.5,5.45,56.0,124,33.1,32.0,33.1,32.0,1.1,3.902,3.902,2.833,1.069,0.837,Rebuilding,First-Round / Bubble
-148,9,Lourdes Academy,WI,D7,Trailways,9-2,9,2,0,11,55.4,55.4,5.39,29.7,355,31.9,10.1,31.9,10.1,21.8,4.972,4.972,3.444,1.528,0.58,Steady Program,Sectional Contender
-149,16,Unity,WI,D6,WIAA Varsity,6-4,6,4,0,10,55.2,55.2,5.21,46.3,228,26.1,18.1,26.1,18.1,8.0,3.344,3.344,2.111,1.233,0.615,Rising Power ↑,Sectional Contender
-150,17,Fall Creek,WI,D6,Cloverbelt,6-5,6,5,0,11,55.1,55.1,5.07,49.4,193,24.4,18.5,24.4,18.5,5.9,3.722,3.722,2.333,1.389,0.889,Steady Program,Dark Horse
-151,18,Mineral Point,WI,D6,SWAL,6-4,6,4,0,10,55.0,55.0,4.99,55.1,135,21.4,20.8,21.4,20.8,0.6,4.889,4.889,2.889,2.0,1.2,Rising Power ↑,Dark Horse
-152,10,Ithaca/Weston,WI,D7,WIAA Varsity,10-0,10,0,0,10,54.9,54.9,4.89,33.7,340,28.5,8.7,28.5,8.7,19.8,5.164,5.164,3.5,1.664,0.837,Rising Power ↑,Sectional Contender
-153,19,Marathon,WI,D6,WIAA Varsity,6-5,6,5,0,11,54.8,54.8,4.8,51.5,177,22.4,18.2,22.4,18.2,4.2,4.166,4.166,2.722,1.444,1.086,Rising Power ↑,Dark Horse
-154,29,Oshkosh North,WI,D2,Fox Valley Association,5-5,5,5,0,10,54.7,54.7,4.72,52.2,173,23.4,22.2,23.4,22.2,1.2,5.1,5.1,3.389,1.711,0.602,Steady Program,First-Round / Bubble
-155,38,Milwaukee Bradley Tech,WI,D1,WIAA Varsity,7-5,7,5,0,12,54.7,54.7,4.67,48.4,201,17.7,12.3,17.7,12.3,5.4,6.126,6.126,3.722,2.404,1.06,Steady Program,First-Round / Bubble
-156,30,Menomonee Falls,WI,D2,Greater Metro,4-6,4,6,0,10,54.6,54.6,4.63,62.7,65,19.2,25.8,19.2,25.8,-6.6,5.444,5.444,2.611,2.833,1.619,Rebuilding,First-Round / Bubble
-157,20,St. Mary Catholic,WI,D6,WIAA Varsity,7-3,7,3,0,10,54.6,54.6,4.61,43.8,267,26.4,14.3,26.4,14.3,12.1,5.325,5.325,3.333,1.992,1.475,Rising Power ↑,Dark Horse
-158,21,Shoreland Lutheran,WI,D4,WIAA Varsity,6-5,6,5,0,11,54.5,54.5,4.51,51.5,176,20.7,16.9,20.7,16.9,3.8,5.472,5.472,3.5,1.972,1.294,Rising Power ↑,Dark Horse
-159,22,Platteville,WI,D4,WIAA Varsity,7-3,7,3,0,10,54.5,54.5,4.49,45.2,247,34.5,26.3,34.5,26.3,8.2,5.007,5.007,3.444,1.563,0.717,Steady Program,Dark Horse
-160,21,Prairie du Chien,WI,D6,WIAA Varsity,5-5,5,5,0,10,54.5,54.5,4.46,45.4,242,31.2,21.8,31.2,21.8,9.4,3.4,3.4,2.5,0.9,0.231,Steady Program,Dark Horse
-161,16,Columbus,WI,D5,Capitol,3-7,3,7,0,10,54.3,54.3,4.3,59.5,96,18.2,26.7,18.2,26.7,-8.5,3.055,3.055,1.111,1.944,1.199,Rebuilding,Sectional Contender
-162,17,Gale-Ettrick-Trempealeau,WI,D5,Coulee,3-6,3,6,0,9,54.3,54.3,4.29,57.4,111,22.3,23.2,22.3,23.2,-0.9,2.463,2.463,1.444,1.019,0.441,Rebuilding,Dark Horse
-163,22,Randolph/Cambria-Friesland,WI,D6,WIAA Varsity,10-2,10,2,0,12,54.2,54.2,4.22,33.8,339,31.6,12.1,31.6,12.1,19.5,5.086,5.086,3.833,1.253,0.743,Rising Power ↑,Dark Horse
-164,31,Kettle Moraine,WI,D2,Classic Eight,0-9,0,9,0,9,53.7,53.7,3.74,85.7,1,14.2,42.0,14.2,42.0,-27.8,0.0,0.0,0.0,0.0,0.0,Rebuilding,First-Round / Bubble
-165,23,Saint Francis,WI,D4,WIAA Varsity,10-4,10,4,0,14,53.7,53.7,3.71,44.1,260,23.2,12.4,23.2,12.4,10.8,5.911,5.911,4.444,1.467,0.942,Rising Power ↑,Dark Horse
-166,23,Pardeeville,WI,D6,WIAA Varsity,9-3,9,3,0,12,53.6,53.6,3.61,42.1,288,26.2,15.8,26.2,15.8,10.4,4.951,4.951,3.611,1.34,0.991,Rising Power ↑,Dark Horse
-167,11,Cashton,WI,D7,Scenic Bluffs,8-2,8,2,0,10,53.6,53.6,3.6,31.9,346,33.5,11.8,33.5,11.8,21.7,4.069,4.069,3.111,0.958,0.604,Rising Power ↑,Sectional Contender
-168,24,Somerset,WI,D4,Middle Border,5-5,5,5,0,10,53.0,53.0,3.04,55.5,128,24.1,25.8,24.1,25.8,-1.7,3.811,3.811,2.667,1.144,0.518,Steady Program,Dark Horse
-169,32,Westosha Central,WI,D2,Southern Lakes,4-6,4,6,0,10,53.0,53.0,3.0,64.8,45,11.7,21.9,11.7,21.9,-10.2,4.5,4.5,2.667,1.833,1.519,Rebuilding,First-Round / Bubble
-170,25,Ashland,WI,D4,WIAA Varsity,7-4,7,4,0,11,52.4,52.4,2.4,45.4,241,29.0,22.4,29.0,22.4,6.6,4.208,4.208,3.0,1.208,0.614,Rising Power ↑,First-Round / Bubble
-171,18,New Holstein,WI,D5,WIAA Varsity,6-4,6,4,0,10,52.4,52.4,2.39,41.0,301,29.3,16.7,29.3,16.7,12.6,4.332,4.332,2.889,1.443,1.483,Steady Program,Dark Horse
-172,25,Portage,WI,D3,Badger - Small,5-5,5,5,0,10,52.0,52.0,2.02,55.4,130,25.2,28.8,25.2,28.8,-3.6,4.734,4.734,2.778,1.956,1.336,Steady Program,First-Round / Bubble
-173,12,Glenwood City,WI,D7,Dairyland,9-2,9,2,0,11,52.0,52.0,1.96,39.9,307,23.8,12.3,23.8,12.3,11.5,4.923,4.923,3.312,1.611,0.844,Steady Program,Sectional Contender
-174,33,Milwaukee Rufus King,WI,D2,WIAA Varsity,4-6,4,6,0,10,51.5,51.5,1.53,61.5,77,13.8,25.0,13.8,25.0,-11.2,4.459,4.459,2.778,1.681,1.45,Rebuilding,First-Round / Bubble
-175,34,Rice Lake,WI,D2,Big Rivers,1-8,1,8,0,9,51.0,51.0,1.03,68.1,26,14.6,32.0,14.6,32.0,-17.4,2.111,2.111,0.667,1.444,1.056,Rebuilding,First-Round / Bubble
-176,26,Campbellsport,WI,D4,WIAA Varsity,5-5,5,5,0,10,50.8,50.8,0.83,51.2,179,19.4,19.7,19.4,19.7,-0.3,3.978,3.978,2.5,1.478,0.793,Steady Program,First-Round / Bubble
-177,35,Wausau East,WI,D2,Wisconsin Valley,7-3,7,3,0,10,50.2,50.2,0.16,50.9,182,19.8,22.0,19.8,22.0,-2.2,5.857,5.857,4.111,1.746,0.802,Steady Program,First-Round / Bubble
-178,36,Menomonie,WI,D2,Big Rivers,3-6,3,6,0,9,49.9,49.9,-0.06,63.6,54,21.6,35.6,21.6,35.6,-14.0,3.167,3.167,2.0,1.167,1.074,Rebuilding,Rebuilding
-179,26,Pius XI Catholic,WI,D3,WIAA Varsity,6-4,6,4,0,10,49.9,49.9,-0.07,44.0,266,22.9,18.4,22.9,18.4,4.5,3.44,3.44,2.5,0.94,0.888,Rising Power ↑,First-Round / Bubble
-180,19,Milwaukee Academy of Science,WI,D5,Midwest Classic,6-5,6,5,0,11,49.6,49.6,-0.41,43.8,269,24.8,16.6,24.8,16.6,8.2,4.601,4.601,3.111,1.49,0.491,Steady Program,Dark Horse
-181,13,Crivitz,WI,D7,Northwoods,7-5,7,5,0,12,49.6,49.6,-0.45,41.5,296,25.1,17.6,25.1,17.6,7.5,4.241,4.241,2.722,1.519,0.728,Steady Program,Sectional Contender
-182,27,Martin Luther,WI,D3,WIAA Varsity,4-5,4,5,0,9,49.4,49.4,-0.61,54.0,146,19.4,25.1,19.4,25.1,-5.7,3.541,3.541,2.444,1.097,1.509,Rebuilding,First-Round / Bubble
-183,27,Edgerton,WI,D4,WIAA Varsity,4-6,4,6,0,10,49.3,49.3,-0.73,52.5,168,27.3,30.8,27.3,30.8,-3.5,3.694,3.694,2.222,1.472,0.838,Rebuilding,First-Round / Bubble
-184,28,Merrill,WI,D3,WIAA Varsity,6-4,6,4,0,10,49.2,49.2,-0.78,47.9,208,21.6,21.8,21.6,21.8,-0.2,4.648,4.648,3.278,1.37,0.559,Steady Program,First-Round / Bubble
-185,14,Melrose-Mindoro,WI,D7,WIAA Varsity,8-3,8,3,0,11,49.2,49.2,-0.82,35.5,333,27.4,13.6,27.4,13.6,13.8,3.682,3.682,2.722,0.96,0.489,Rising Power ↑,Sectional Contender
-186,29,Wauwatosa West,WI,D3,Greater Metro,2-7,2,7,0,9,49.1,49.1,-0.85,64.0,50,16.6,30.2,16.6,30.2,-13.6,3.556,3.556,1.278,2.278,2.761,Rebuilding,First-Round / Bubble
-187,24,Weyauwega-Fremont,WI,D6,Central Wisconsin - Large,6-5,6,5,0,11,49.0,49.0,-0.99,49.0,196,21.4,20.9,21.4,20.9,0.5,4.564,4.564,2.833,1.731,1.052,Steady Program,Dark Horse
-188,37,Nicolet,WI,D2,WIAA Varsity,3-6,3,6,0,9,48.9,48.9,-1.07,62.8,64,20.0,34.2,20.0,34.2,-14.2,2.981,2.981,1.833,1.148,1.616,Rebuilding,Rebuilding
-189,28,Seymour,WI,D4,Bay,5-5,5,5,0,10,48.9,48.9,-1.1,52.8,165,20.5,26.0,20.5,26.0,-5.5,4.266,4.266,2.944,1.322,0.671,Steady Program,First-Round / Bubble
-190,25,Loyal/Greenwood,WI,D6,WIAA Varsity,6-5,6,5,0,11,48.9,48.9,-1.15,43.1,277,19.1,12.6,19.1,12.6,6.5,3.796,3.796,2.444,1.352,0.573,Rising Power ↑,First-Round / Bubble
-191,20,Kiel,WI,D5,WIAA Varsity,6-5,6,5,0,11,48.8,48.8,-1.18,48.2,204,23.7,24.3,23.7,24.3,-0.6,4.251,4.251,2.444,1.807,1.692,Steady Program,Dark Horse
-192,30,Sparta,WI,D3,Mississippi Valley,3-6,3,6,0,9,48.7,48.7,-1.28,63.6,55,18.6,32.0,18.6,32.0,-13.4,2.797,2.797,1.667,1.13,0.715,Rebuilding,First-Round / Bubble
-193,29,Turner,WI,D4,WIAA Varsity,5-5,5,5,0,10,48.7,48.7,-1.34,43.8,268,22.9,18.1,22.9,18.1,4.8,3.589,3.589,2.556,1.033,1.1,Steady Program,First-Round / Bubble
-194,15,Spring Valley,WI,D7,Dairyland,7-3,7,3,0,10,48.6,48.6,-1.37,42.0,291,20.7,15.2,20.7,15.2,5.5,4.077,4.077,2.75,1.327,0.824,Steady Program,Sectional Contender
-195,26,Nekoosa,WI,D6,WIAA Varsity,6-4,6,4,0,10,48.6,48.6,-1.38,30.8,351,32.2,14.8,32.2,14.8,17.4,4.426,4.426,3.056,1.37,0.822,Rising Power ↑,First-Round / Bubble
-196,38,Superior,WI,D2,Big Rivers,2-7,2,7,0,9,48.6,48.6,-1.42,58.4,106,26.3,33.2,26.3,33.2,-6.9,2.5,2.5,1.444,1.056,0.806,Rebuilding,Rebuilding
-197,27,Lancaster,WI,D6,WIAA Varsity,4-6,4,6,0,10,48.2,48.2,-1.79,47.3,215,23.4,22.6,23.4,22.6,0.8,3.069,3.069,1.944,1.125,0.267,Rebuilding,First-Round / Bubble
-198,28,Benton/Scales Mound/Shullsburg,WI,D6,WIAA Varsity,5-5,5,5,0,10,48.2,48.2,-1.85,53.2,159,24.1,27.0,24.1,27.0,-2.9,4.12,4.12,2.444,1.676,0.981,Steady Program,First-Round / Bubble
-199,39,Milwaukee Hamilton,WI,D1,WIAA Varsity,6-5,6,5,0,11,48.1,48.1,-1.94,48.0,206,19.4,24.1,19.4,24.1,-4.7,5.551,5.551,3.167,2.384,1.304,Steady Program,First-Round / Bubble
-200,30,Altoona,WI,D4,WIAA Varsity,3-6,3,6,0,9,48.1,48.1,-1.94,53.8,149,20.6,26.7,20.6,26.7,-6.1,2.612,2.612,1.556,1.056,0.463,Rebuilding,First-Round / Bubble
-201,31,Waukesha North,WI,D3,Classic Eight,2-8,2,8,0,10,47.6,47.6,-2.41,62.1,71,21.0,33.8,21.0,33.8,-12.8,4.111,4.111,1.222,2.889,1.217,Rebuilding,First-Round / Bubble
-202,16,Shiocton,WI,D7,WIAA Varsity,9-2,9,2,0,11,47.3,47.3,-2.66,34.7,336,22.3,9.2,22.3,9.2,13.1,5.309,5.309,4.0,1.309,0.758,Rising Power ↑,Sectional Contender
-203,40,Appleton East,WI,D1,Fox Valley Association,1-8,1,8,0,9,47.1,47.1,-2.9,72.0,17,9.2,32.1,9.2,32.1,-22.9,2.778,2.778,0.722,2.056,2.519,Rebuilding,Rebuilding
-204,41,Eau Claire North,WI,D1,Big Rivers,3-6,3,6,0,9,47.1,47.1,-2.9,58.4,105,18.9,32.1,18.9,32.1,-13.2,3.722,3.722,2.111,1.611,0.741,Rebuilding,Rebuilding
-205,42,Milwaukee Pulaski,WI,D1,WIAA Varsity,7-4,7,4,0,11,46.4,46.4,-3.58,42.5,285,21.6,19.7,21.6,19.7,1.9,6.925,6.925,4.611,2.314,1.486,Steady Program,First-Round / Bubble
-206,39,Cedarburg,WI,D2,North Shore,2-7,2,7,0,9,46.4,46.4,-3.63,60.9,81,17.1,31.6,17.1,31.6,-14.5,1.666,1.666,1.333,0.333,1.306,Rebuilding,Rebuilding
-207,21,Dodgeville,WI,D5,WIAA Varsity,4-6,4,6,0,10,46.2,46.2,-3.81,48.1,205,23.8,24.1,23.8,24.1,-0.3,2.93,2.93,1.944,0.986,0.323,Rebuilding,Dark Horse
-208,22,Tomahawk,WI,D5,WIAA Varsity,4-7,4,7,0,11,46.0,46.0,-4.03,50.6,184,13.4,18.6,13.4,18.6,-5.2,3.722,3.722,2.389,1.333,0.506,Rebuilding,Dark Horse
-209,43,Sheboygan North,WI,D1,Fox River Classic - South,3-6,3,6,0,9,46.0,46.0,-4.03,49.4,190,22.7,24.8,22.7,24.8,-2.1,2.407,2.407,1.944,0.463,0.231,Rebuilding,Rebuilding
-210,44,Shorewood Co-op,WI,D1,WIAA Varsity,0-9,0,9,0,9,45.6,45.6,-4.41,47.1,218,0.0,1.0,0.0,1.0,-1.0,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-211,29,Colby,WI,D6,Marawood,4-5,4,5,0,9,45.2,45.2,-4.76,45.9,235,21.7,21.3,21.7,21.3,0.4,2.722,2.722,1.833,0.889,1.09,Rebuilding,First-Round / Bubble
-212,23,Southwestern/East Dubuque,WI,D5,WIAA Varsity,2-7,2,7,0,9,45.1,45.1,-4.87,56.0,125,18.2,27.3,18.2,27.3,-9.1,1.833,1.833,0.944,0.889,0.481,Rebuilding,Dark Horse
-213,17,Webster,WI,D7,WIAA Varsity,7-3,7,3,0,10,45.0,45.0,-4.97,37.8,323,26.8,17.4,26.8,17.4,9.4,3.906,3.906,2.889,1.017,0.586,Rising Power ↑,Dark Horse
-214,45,Appleton West,WI,D1,Fox Valley Association,3-6,3,6,0,9,44.7,44.7,-5.28,59.6,94,17.6,31.2,17.6,31.2,-13.6,2.907,2.907,2.0,0.907,0.463,Rebuilding,Rebuilding
-215,31,Oconto Falls,WI,D4,WIAA Varsity,4-5,4,5,0,9,44.5,44.5,-5.53,41.0,299,23.1,21.1,23.1,21.1,2.0,2.875,2.875,2.0,0.875,0.462,Rebuilding,First-Round / Bubble
-216,18,Whitehall,WI,D7,WIAA Varsity,7-5,7,5,0,12,44.5,44.5,-5.53,38.3,320,22.5,16.4,22.5,16.4,6.1,3.101,3.101,2.444,0.657,0.255,Steady Program,Dark Horse
-217,46,Sun Prairie West,WI,D1,Badger - Large,1-8,1,8,0,9,44.4,44.4,-5.6,69.6,20,9.0,32.9,9.0,32.9,-23.9,1.389,1.389,0.667,0.722,1.444,Rebuilding,Rebuilding
-218,30,Fall River/Rio,WI,D6,WIAA Varsity,6-4,6,4,0,10,44.2,44.2,-5.85,30.9,350,29.0,14.4,29.0,14.4,14.6,3.602,3.602,2.5,1.102,0.558,Rising Power ↑,First-Round / Bubble
-219,32,Kohler Coop,WI,D4,WIAA Varsity,3-6,3,6,0,9,43.9,43.9,-6.12,59.5,97,20.3,33.6,20.3,33.6,-13.3,2.518,2.518,1.444,1.074,0.415,Rebuilding,First-Round / Bubble
-220,31,Fennimore,WI,D6,SWAL,3-6,3,6,0,9,43.7,43.7,-6.26,49.4,191,23.0,26.7,23.0,26.7,-3.7,2.241,2.241,1.278,0.963,0.5,Rebuilding,First-Round / Bubble
-221,32,New London,WI,D3,Bay,3-6,3,6,0,9,43.7,43.7,-6.27,55.2,134,18.1,30.0,18.1,30.0,-11.9,2.24,2.24,1.833,0.407,0.296,Rebuilding,First-Round / Bubble
-222,24,Oostburg,WI,D5,Big East,5-5,5,5,0,10,43.7,43.7,-6.34,42.5,284,19.7,18.6,19.7,18.6,1.1,3.133,3.133,2.333,0.8,0.518,Steady Program,Dark Horse
-223,33,McFarland,WI,D3,Badger - Small,4-6,4,6,0,10,43.5,43.5,-6.46,57.1,115,20.7,33.9,20.7,33.9,-13.2,3.667,3.667,2.389,1.278,0.606,Rebuilding,First-Round / Bubble
-224,19,Bangor,WI,D7,Scenic Bluffs,4-7,4,7,0,11,43.5,43.5,-6.48,42.8,280,21.2,20.7,21.2,20.7,0.5,2.459,2.459,1.556,0.903,0.744,Rebuilding,Dark Horse
-225,33,Berlin,WI,D4,WIAA Varsity,6-4,6,4,0,10,43.1,43.1,-6.85,36.7,328,28.6,26.0,28.6,26.0,2.6,4.898,4.898,3.111,1.787,1.169,Steady Program,First-Round / Bubble
-226,47,Milwaukee Riverside,WI,D1,WIAA Varsity,6-5,6,5,0,11,42.9,42.9,-7.1,51.0,180,15.6,26.2,15.6,26.2,-10.6,6.021,6.021,3.944,2.077,1.335,Steady Program,First-Round / Bubble
-227,34,Monroe,WI,D3,WIAA Varsity,1-8,1,8,0,9,42.7,42.7,-7.27,54.7,141,21.7,32.4,21.7,32.4,-10.7,1.333,1.333,0.611,0.722,0.0,Rebuilding,First-Round / Bubble
-228,35,Rhinelander,WI,D3,WIAA Varsity,5-5,5,5,0,10,42.6,42.6,-7.39,48.8,198,21.9,28.1,21.9,28.1,-6.2,4.3,4.3,2.944,1.356,0.502,Steady Program,First-Round / Bubble
-229,48,Kenosha Tremper,WI,D1,Southeast,2-7,2,7,0,9,42.6,42.6,-7.43,55.4,131,13.6,25.6,13.6,25.6,-12.0,2.027,2.027,1.333,0.694,1.153,Rebuilding,Rebuilding
-230,25,Wittenberg-Birnamwood,WI,D5,WIAA Varsity,2-8,2,8,0,10,41.9,41.9,-8.09,60.2,88,13.9,31.6,13.9,31.6,-17.7,3.056,3.056,1.0,2.056,1.444,Rebuilding,First-Round / Bubble
-231,40,Hartford,WI,D2,North Shore,1-8,1,8,0,9,41.9,41.9,-8.12,65.5,41,15.9,39.2,15.9,39.2,-23.3,3.278,3.278,0.667,2.611,2.833,Rebuilding,Rebuilding
-232,26,Chilton,WI,D5,WIAA Varsity,6-5,6,5,0,11,41.2,41.2,-8.79,45.2,244,17.0,20.6,17.0,20.6,-3.6,4.1,4.1,2.278,1.822,1.317,Steady Program,First-Round / Bubble
-233,27,Bloomer,WI,D5,Heart O'North,5-5,5,5,0,10,41.1,41.1,-8.92,46.9,221,18.3,26.6,18.3,26.6,-8.3,2.829,2.829,2.0,0.829,0.596,Steady Program,First-Round / Bubble
-234,41,Milwaukee Marshall,WI,D2,WIAA Varsity,0-7,0,7,0,7,40.9,40.9,-9.07,45.2,245,0.0,1.0,0.0,1.0,-1.0,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-235,36,Tomah,WI,D3,Mississippi Valley,0-9,0,9,0,9,40.2,40.2,-9.83,68.3,24,16.8,41.4,16.8,41.4,-24.6,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-236,20,Hillsboro,WI,D7,WIAA Varsity,5-5,5,5,0,10,39.9,39.9,-10.15,33.1,342,20.9,16.2,20.9,16.2,4.7,2.07,2.07,1.556,0.514,0.616,Steady Program,Dark Horse
-237,28,Spencer/Columbus Catholic,WI,D5,Central Wisconsin - Large,4-6,4,6,0,10,39.8,39.8,-10.25,50.1,187,15.8,27.5,15.8,27.5,-11.7,3.278,3.278,1.722,1.556,0.822,Rebuilding,First-Round / Bubble
-238,32,Valders,WI,D6,WIAA Varsity,4-6,4,6,0,10,39.7,39.7,-10.34,47.3,214,17.8,24.5,17.8,24.5,-6.7,4.141,4.141,2.125,2.016,1.662,Rebuilding,First-Round / Bubble
-239,34,Marinette,WI,D4,WIAA Varsity,3-6,3,6,0,9,39.6,39.6,-10.37,46.0,234,18.1,25.1,18.1,25.1,-7.0,2.63,2.63,1.611,1.019,1.144,Rebuilding,First-Round / Bubble
-240,37,Lakeland,WI,D3,WIAA Varsity,3-6,3,6,0,9,39.6,39.6,-10.39,44.1,262,17.0,21.8,17.0,21.8,-4.8,2.445,2.445,1.778,0.667,0.212,Rebuilding,Rebuilding
-241,42,Watertown,WI,D2,WIAA Varsity,1-8,1,8,0,9,39.4,39.4,-10.6,66.7,33,15.9,40.9,15.9,40.9,-25.0,2.166,2.166,0.722,1.444,1.583,Rebuilding,Rebuilding
-242,43,Wisconsin Rapids,WI,D2,Wisconsin Valley,2-7,2,7,0,9,39.3,39.3,-10.67,57.3,112,18.8,35.2,18.8,35.2,-16.4,2.111,2.111,1.389,0.722,0.528,Rebuilding,Rebuilding
-243,38,Baraboo,WI,D3,Mississippi Valley,2-7,2,7,0,9,39.2,39.2,-10.76,63.9,51,19.3,44.4,19.3,44.4,-25.1,2.055,2.055,1.222,0.833,0.565,Rebuilding,Rebuilding
-244,33,Oconto,WI,D6,Packerland,4-5,4,5,0,9,39.1,39.1,-10.89,39.7,309,18.0,16.7,18.0,16.7,1.3,2.736,2.736,1.944,0.792,0.519,Rebuilding,First-Round / Bubble
-245,35,Mosinee,WI,D4,WIAA Varsity,1-8,1,8,0,9,38.6,38.6,-11.37,52.3,171,8.7,22.9,8.7,22.9,-14.2,0.611,0.611,0.611,0.0,0.0,Rebuilding,Rebuilding
-246,36,Jefferson,WI,D4,WIAA Varsity,3-6,3,6,0,9,38.6,38.6,-11.38,46.6,224,23.1,30.7,23.1,30.7,-7.6,2.593,2.593,1.667,0.926,0.472,Rebuilding,Rebuilding
-247,29,Peshtigo,WI,D5,Packerland,5-5,5,5,0,10,38.4,38.4,-11.56,46.0,233,16.8,23.9,16.8,23.9,-7.1,3.922,3.922,2.5,1.422,0.748,Steady Program,First-Round / Bubble
-248,30,Northland Pines,WI,D5,WIAA Varsity,4-5,4,5,0,9,38.3,38.3,-11.74,41.0,300,17.2,18.0,17.2,18.0,-0.8,2.361,2.361,1.889,0.472,0.185,Rebuilding,First-Round / Bubble
-249,39,Stoughton,WI,D3,Badger - Small,2-7,2,7,0,9,38.2,38.2,-11.79,55.8,126,21.6,39.8,21.6,39.8,-18.2,1.889,1.889,1.222,0.667,0.361,Rebuilding,Rebuilding
-250,21,Catholic Central,WI,D7,WIAA Varsity,0-8,0,8,0,8,38.2,38.2,-11.81,43.4,273,0.0,1.0,0.0,1.0,-1.0,0.0,0.0,0.0,0.0,0.0,Rebuilding,Dark Horse
-251,40,Green Bay West,WI,D3,WIAA Varsity,6-4,6,4,0,10,38.0,38.0,-12.04,45.0,249,19.3,27.4,19.3,27.4,-8.1,4.713,4.713,3.833,0.88,0.355,Steady Program,First-Round / Bubble
-252,34,Markesan,WI,D6,WIAA Varsity,3-6,3,6,0,9,37.9,37.9,-12.06,40.2,306,17.1,19.3,17.1,19.3,-2.2,2.611,2.611,1.333,1.278,1.149,Rebuilding,First-Round / Bubble
-253,22,Brookwood,WI,D7,WIAA Varsity,4-6,4,6,0,10,37.8,37.8,-12.24,37.7,324,19.5,19.8,19.5,19.8,-0.3,2.074,2.074,1.278,0.796,0.448,Rebuilding,Dark Horse
-254,49,Madison West,WI,D1,Big Eight,2-7,2,7,0,9,37.3,37.3,-12.65,54.2,143,21.4,37.8,21.4,37.8,-16.4,3.027,3.027,1.444,1.583,1.192,Rebuilding,Rebuilding
-255,41,Shawano,WI,D3,Bay,2-7,2,7,0,9,37.3,37.3,-12.72,52.5,169,18.2,31.6,18.2,31.6,-13.4,2.111,2.111,1.222,0.889,0.333,Rebuilding,Rebuilding
-256,23,Iola-Scandinavia,WI,D7,WIAA Varsity,0-9,0,9,0,9,36.2,36.2,-13.8,40.3,304,0.0,1.0,0.0,1.0,-1.0,0.0,0.0,0.0,0.0,0.0,Rebuilding,Dark Horse
-257,37,Ripon,WI,D4,WIAA Varsity,5-5,5,5,0,10,36.0,36.0,-14.04,34.2,338,19.2,18.6,19.2,18.6,0.6,3.889,3.889,2.556,1.333,0.845,Steady Program,First-Round / Bubble
-258,44,Racine Horlick,WI,D2,Southeast,2-7,2,7,0,9,35.9,35.9,-14.11,59.3,98,17.4,46.8,17.4,46.8,-29.4,3.695,3.695,1.389,2.306,1.157,Rebuilding,Rebuilding
-259,35,Poynette,WI,D6,WIAA Varsity,5-5,5,5,0,10,35.7,35.7,-14.3,42.4,286,14.6,23.7,14.6,23.7,-9.1,3.522,3.522,2.222,1.3,1.024,Steady Program,First-Round / Bubble
-260,36,Laconia,WI,D6,Flyway,3-6,3,6,0,9,35.6,35.6,-14.38,45.9,236,14.2,24.3,14.2,24.3,-10.1,2.13,2.13,1.5,0.63,0.426,Rebuilding,Rebuilding
-261,31,University School,WI,D5,WIAA Varsity,7-5,7,5,0,12,35.6,35.6,-14.42,39.9,308,21.2,30.1,21.2,30.1,-8.9,4.202,4.202,3.222,0.98,0.175,Steady Program,First-Round / Bubble
-262,24,Pacelli,WI,D7,WIAA Varsity,6-5,6,5,0,11,35.5,35.5,-14.46,36.2,330,19.8,17.7,19.8,17.7,2.1,3.472,3.472,2.722,0.75,0.321,Rising Power ↑,Dark Horse
-263,37,Marshall,WI,D6,WIAA Varsity,3-6,3,6,0,9,35.5,35.5,-14.52,35.5,334,16.3,15.3,16.3,15.3,1.0,2.148,2.148,1.167,0.981,0.242,Rebuilding,Rebuilding
-264,38,Stanley-Boyd,WI,D6,Cloverbelt,2-7,2,7,0,9,35.1,35.1,-14.92,53.5,154,17.3,35.2,17.3,35.2,-17.9,2.138,2.138,0.944,1.194,0.806,Rebuilding,Rebuilding
-265,32,Westfield,WI,D5,WIAA Varsity,6-4,6,4,0,10,34.9,34.9,-15.13,31.7,347,19.6,20.1,19.6,20.1,-0.5,3.936,3.936,2.556,1.38,0.521,Steady Program,First-Round / Bubble
-266,45,Beloit Memorial,WI,D2,Big Eight,0-9,0,9,0,9,34.8,34.8,-15.18,62.9,61,11.2,40.6,11.2,40.6,-29.4,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-267,25,Osseo-Fairchild,WI,D7,WIAA Varsity,3-7,3,7,0,10,34.8,34.8,-15.19,44.7,254,15.3,23.9,15.3,23.9,-8.6,1.57,1.57,0.875,0.695,1.186,Rebuilding,First-Round / Bubble
-268,38,Milwaukee Howard Fuller,WI,D4,WIAA Varsity,7-3,7,3,0,10,34.7,34.7,-15.3,28.1,357,14.3,11.8,14.3,11.8,2.5,5.707,5.707,4.0,1.707,0.529,Steady Program,First-Round / Bubble
-269,39,Auburndale,WI,D6,Marawood,3-7,3,7,0,10,34.4,34.4,-15.64,42.8,281,12.7,23.5,12.7,23.5,-10.8,1.834,1.834,1.167,0.667,0.37,Rebuilding,Rebuilding
-270,26,Kenosha Christian Life,WI,D7,WIAA Varsity,0-6,0,6,0,6,34.1,34.1,-15.95,38.0,322,0.0,1.0,0.0,1.0,-1.0,0.0,0.0,0.0,0.0,0.0,Rebuilding,First-Round / Bubble
-271,42,Milwaukee Bay View,WI,D3,WIAA Varsity,5-5,5,5,0,10,34.0,34.0,-16.01,41.9,292,11.4,22.1,11.4,22.1,-10.7,5.28,5.28,3.222,2.058,0.804,Steady Program,First-Round / Bubble
-272,43,South Milwaukee,WI,D3,WIAA Varsity,4-6,4,6,0,10,33.5,33.5,-16.52,47.7,212,16.7,29.2,16.7,29.2,-12.5,3.556,3.556,2.667,0.889,0.743,Rebuilding,First-Round / Bubble
-273,39,Wisconsin Dells,WI,D4,WIAA Varsity,5-5,5,5,0,10,33.1,33.1,-16.87,36.5,329,22.3,28.0,22.3,28.0,-5.7,3.744,3.744,2.611,1.133,0.85,Steady Program,First-Round / Bubble
-274,40,Living Word Lutheran,WI,D6,WIAA Varsity,6-6,6,6,0,12,33.1,33.1,-16.92,41.6,294,18.5,28.8,18.5,28.8,-10.3,3.134,3.134,2.222,0.912,0.703,Steady Program,First-Round / Bubble
-275,27,Abbotsford,WI,D7,Marawood,4-6,4,6,0,10,33.1,33.1,-16.94,44.8,252,11.4,23.5,11.4,23.5,-12.1,2.722,2.722,1.611,1.111,0.507,Rebuilding,First-Round / Bubble
-276,40,Ellsworth,WI,D4,Middle Border,0-9,0,9,0,9,32.8,32.8,-17.25,60.2,85,7.1,33.4,7.1,33.4,-26.3,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-277,33,Random Lake/Ozaukee,WI,D5,WIAA Varsity,5-5,5,5,0,10,32.6,32.6,-17.36,41.6,293,15.8,23.1,15.8,23.1,-7.3,3.366,3.366,2.222,1.144,0.498,Steady Program,First-Round / Bubble
-278,28,Pecatonica/Argyle,WI,D7,Six Rivers,4-6,4,6,0,10,32.5,32.5,-17.49,38.7,318,22.3,25.7,22.3,25.7,-3.4,2.113,2.113,1.556,0.557,0.148,Rebuilding,First-Round / Bubble
-279,46,West Allis Hale,WI,D2,Greater Metro,1-8,1,8,0,9,32.4,32.4,-17.55,55.5,129,13.1,36.8,13.1,36.8,-23.7,1.834,1.834,0.667,1.167,1.111,Rebuilding,Rebuilding
-280,47,Green Bay Southwest,WI,D2,WIAA Varsity,2-7,2,7,0,9,31.9,31.9,-18.15,61.0,80,12.2,38.6,12.2,38.6,-26.4,2.027,2.027,1.333,0.694,0.347,Rebuilding,Rebuilding
-281,50,Manitowoc Lincoln,WI,D1,Fox River Classic - South,2-7,2,7,0,9,31.8,31.8,-18.15,53.4,156,11.3,33.8,11.3,33.8,-22.5,2.361,2.361,1.389,0.972,0.231,Rebuilding,Rebuilding
-282,41,Waupun,WI,D4,WIAA Varsity,3-6,3,6,0,9,31.8,31.8,-18.18,35.1,335,25.4,31.6,25.4,31.6,-6.2,2.741,2.741,1.556,1.185,1.041,Rebuilding,Rebuilding
-283,44,Hayward,WI,D3,Heart O'North,3-6,3,6,0,9,31.7,31.7,-18.32,42.1,289,18.9,32.0,18.9,32.0,-13.1,2.024,2.024,1.389,0.635,0.583,Rebuilding,Rebuilding
-284,42,Milwaukee School of Languages,WI,D4,WIAA Varsity,2-8,2,8,0,10,31.7,31.7,-18.33,40.5,303,15.4,25.2,15.4,25.2,-9.8,1.222,1.222,1.222,0.0,0.0,Rebuilding,Rebuilding
-285,41,Westby,WI,D6,WIAA Varsity,2-7,2,7,0,9,31.6,31.6,-18.4,49.4,192,15.6,32.7,15.6,32.7,-17.1,0.889,0.889,0.889,0.0,0.0,Rebuilding,Rebuilding
-286,43,Mauston,WI,D4,WIAA Varsity,5-5,5,5,0,10,31.6,31.6,-18.43,38.8,317,25.2,31.2,25.2,31.2,-6.0,4.4,4.4,2.556,1.844,1.023,Steady Program,First-Round / Bubble
-287,45,Milwaukee Washington,WI,D3,WIAA Varsity,3-5,3,5,0,8,31.0,31.0,-18.97,30.8,352,6.6,8.6,6.6,8.6,-2.0,3.518,3.518,1.75,1.768,0.288,Rebuilding,Rebuilding
-288,29,Riverdale,WI,D7,WIAA Varsity,4-6,4,6,0,10,30.9,30.9,-19.08,46.3,225,20.2,36.0,20.2,36.0,-15.8,2.456,2.456,1.556,0.9,0.268,Rebuilding,First-Round / Bubble
-289,48,Racine Park,WI,D2,Southeast,0-9,0,9,0,9,30.9,30.9,-19.12,58.5,103,3.4,31.6,3.4,31.6,-28.2,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-290,34,Prescott,WI,D5,Middle Border,1-8,1,8,0,9,30.9,30.9,-19.14,57.3,113,10.0,38.4,10.0,38.4,-28.4,0.556,0.556,0.556,0.0,0.0,Rebuilding,First-Round / Bubble
-291,30,Royall,WI,D7,Scenic Bluffs,5-5,5,5,0,10,30.8,30.8,-19.21,39.6,310,18.2,27.4,18.2,27.4,-9.2,2.956,2.956,2.0,0.956,0.617,Steady Program,First-Round / Bubble
-292,31,Colfax,WI,D7,WIAA Varsity,2-6,2,6,0,8,30.7,30.7,-19.28,39.1,315,13.9,18.8,13.9,18.8,-4.9,1.969,1.969,0.875,1.094,0.292,Rebuilding,First-Round / Bubble
-293,44,St. Thomas More,WI,D4,WIAA Varsity,3-7,3,7,0,10,30.5,30.5,-19.51,49.7,188,15.4,34.5,15.4,34.5,-19.1,3.592,3.592,1.833,1.759,1.236,Rebuilding,Rebuilding
-294,42,Chetek-Weyerhaeuser,WI,D6,WIAA Varsity,2-7,2,7,0,9,30.5,30.5,-19.51,43.1,278,14.7,27.4,14.7,27.4,-12.7,1.333,1.333,0.889,0.444,0.125,Rebuilding,Rebuilding
-295,35,Richland Center,WI,D5,WIAA Varsity,3-6,3,6,0,9,30.4,30.4,-19.63,43.2,275,18.6,32.0,18.6,32.0,-13.4,1.667,1.667,1.5,0.167,0.0,Rebuilding,Rebuilding
-296,32,Manawa,WI,D7,WIAA Varsity,3-7,3,7,0,10,29.8,29.8,-20.21,42.0,290,19.4,28.9,19.4,28.9,-9.5,2.13,2.13,1.389,0.741,0.519,Rebuilding,First-Round / Bubble
-297,46,Antigo,WI,D3,WIAA Varsity,0-9,0,9,0,9,29.4,29.4,-20.57,46.6,223,13.0,28.0,13.0,28.0,-15.0,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-298,49,Milwaukee South,WI,D2,WIAA Varsity,1-4,1,4,0,5,29.4,29.4,-20.59,32.3,344,6.0,6.4,6.0,6.4,-0.4,1.0,1.0,1.0,0.0,0.0,Rebuilding,Rebuilding
-299,36,Brookfield Academy,WI,D5,Midwest Classic,4-7,4,7,0,11,28.9,28.9,-21.14,44.7,253,16.4,35.1,16.4,35.1,-18.7,3.274,3.274,1.833,1.441,0.763,Rebuilding,First-Round / Bubble
-300,33,Reedsville,WI,D7,Big East,2-7,2,7,0,9,28.5,28.5,-21.47,44.9,250,9.4,25.9,9.4,25.9,-16.5,1.333,1.333,0.889,0.444,0.5,Rebuilding,First-Round / Bubble
-301,34,Waterloo,WI,D7,WIAA Varsity,3-7,3,7,0,10,28.4,28.4,-21.57,39.6,311,12.9,24.6,12.9,24.6,-11.7,1.982,1.982,1.389,0.593,0.815,Rebuilding,First-Round / Bubble
-302,45,Brown Deer,WI,D4,WIAA Varsity,2-8,2,8,0,10,28.3,28.3,-21.66,53.1,161,7.5,33.7,7.5,33.7,-26.2,3.278,3.278,1.278,2.0,0.853,Rebuilding,Rebuilding
-303,37,East Troy,WI,D5,WIAA Varsity,2-7,2,7,0,9,27.9,27.9,-22.08,43.4,274,14.7,28.8,14.7,28.8,-14.1,2.055,2.055,1.111,0.944,0.792,Rebuilding,Rebuilding
-304,38,Neillsville/Granton,WI,D5,WIAA Varsity,3-7,3,7,0,10,27.4,27.4,-22.61,49.0,195,10.0,29.9,10.0,29.9,-19.9,2.166,2.166,1.222,0.944,0.58,Rebuilding,Rebuilding
-305,35,Elmwood/Plum City,WI,D7,WIAA Varsity,3-6,3,6,0,9,27.1,27.1,-22.95,45.3,243,15.6,33.3,15.6,33.3,-17.7,2.415,2.415,1.312,1.103,0.726,Rebuilding,Rebuilding
-306,47,West Bend East,WI,D3,North Shore,0-9,0,9,0,9,26.6,26.6,-23.35,66.3,37,3.1,40.0,3.1,40.0,-36.9,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-307,39,Omro,WI,D5,Flyway,1-8,1,8,0,9,26.4,26.4,-23.64,51.0,181,10.6,33.3,10.6,33.3,-22.7,0.556,0.556,0.556,0.0,0.0,Rebuilding,Rebuilding
-308,46,Big Foot,WI,D4,WIAA Varsity,2-7,2,7,0,9,25.6,25.6,-24.44,41.4,298,13.4,27.6,13.4,27.6,-14.2,2.055,2.055,0.944,1.111,0.773,Rebuilding,Rebuilding
-309,43,Southern Door,WI,D6,Packerland,2-7,2,7,0,9,25.5,25.5,-24.5,46.3,226,10.4,30.9,10.4,30.9,-20.5,2.112,2.112,1.056,1.056,0.509,Rebuilding,Rebuilding
-310,47,Two Rivers,WI,D4,WIAA Varsity,1-8,1,8,0,9,25.1,25.1,-24.89,44.0,264,13.3,32.0,13.3,32.0,-18.7,3.112,3.112,0.556,2.556,1.333,Rebuilding,Rebuilding
-311,48,Milwaukee Madison,WI,D4,WIAA Varsity,0-5,0,5,0,5,25.0,25.0,-24.97,28.4,356,5.6,6.8,5.6,6.8,-1.2,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-312,40,Milwaukee North,WI,D5,WIAA Varsity,6-3,6,3,0,9,24.9,24.9,-25.15,32.0,345,4.9,13.4,4.9,13.4,-8.5,5.505,5.505,4.0,1.505,0.661,Steady Program,First-Round / Bubble
-313,48,Milwaukee Vincent,WI,D3,WIAA Varsity,0-3,0,3,0,3,24.6,24.6,-25.41,27.2,358,0.0,1.0,0.0,1.0,-1.0,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-314,51,Eau Claire Memorial,WI,D1,Big Rivers,0-9,0,9,0,9,24.4,24.4,-25.59,62.5,66,8.0,41.7,8.0,41.7,-33.7,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-315,41,Viroqua,WI,D5,WIAA Varsity,0-9,0,9,0,9,24.1,24.1,-25.85,55.0,137,6.4,36.4,6.4,36.4,-30.0,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-316,44,Clinton,WI,D6,WIAA Varsity,2-7,2,7,0,9,24.0,24.0,-26.0,47.5,213,8.4,34.4,8.4,34.4,-26.0,2.084,2.084,1.056,1.028,0.708,Rebuilding,Rebuilding
-317,36,Roncalli,WI,D7,WIAA Varsity,2-7,2,7,0,9,23.8,23.8,-26.18,44.4,258,17.4,39.7,17.4,39.7,-22.3,1.278,1.278,1.0,0.278,1.278,Rebuilding,Rebuilding
-318,45,Cumberland,WI,D6,Heart O'North,2-7,2,7,0,9,23.4,23.4,-26.56,38.5,319,12.1,28.3,12.1,28.3,-16.2,1.139,1.139,0.889,0.25,0.25,Rebuilding,Rebuilding
-319,50,Sheboygan South,WI,D2,WIAA Varsity,2-7,2,7,0,9,23.3,23.3,-26.7,48.3,203,11.2,34.0,11.2,34.0,-22.8,2.083,2.083,1.389,0.694,0.486,Rebuilding,Rebuilding
-320,49,Sheboygan Falls,WI,D4,WIAA Varsity,0-9,0,9,0,9,22.9,22.9,-27.08,66.6,34,6.4,48.8,6.4,48.8,-42.4,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-321,51,West Allis Central,WI,D2,WIAA Varsity,2-7,2,7,0,9,22.6,22.6,-27.43,44.6,256,17.9,38.9,17.9,38.9,-21.0,2.278,2.278,1.167,1.111,0.88,Rebuilding,Rebuilding
-322,49,Waupaca,WI,D3,Bay,0-9,0,9,0,9,22.3,22.3,-27.74,57.8,107,10.7,46.3,10.7,46.3,-35.6,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-323,37,Wauzeka/Seneca,WI,D7,WIAA Varsity,1-7,1,7,0,8,22.1,22.1,-27.85,45.5,240,7.5,32.5,7.5,32.5,-25.0,0.438,0.438,0.438,0.0,0.0,Rebuilding,Rebuilding
-324,42,Obama SCTE,WI,D5,WIAA Varsity,3-5,3,5,0,8,22.0,22.0,-28.01,31.3,348,1.1,13.1,1.1,13.1,-12.0,2.495,2.495,2.062,0.433,0.0,Rebuilding,Rebuilding
-325,38,Crandon,WI,D7,WIAA Varsity,1-8,1,8,0,9,21.4,21.4,-28.65,42.9,279,8.6,29.7,8.6,29.7,-21.1,0.5,0.5,0.5,0.0,0.0,Rebuilding,Rebuilding
-326,46,Howards Grove,WI,D6,Big East,2-7,2,7,0,9,21.1,21.1,-28.93,44.6,255,5.9,32.7,5.9,32.7,-26.8,1.889,1.889,0.889,1.0,1.008,Rebuilding,Rebuilding
-327,39,Johnson Creek,WI,D7,Trailways,3-6,3,6,0,9,21.0,21.0,-28.98,30.9,349,10.2,23.4,10.2,23.4,-13.2,1.302,1.302,1.167,0.135,0.0,Rebuilding,Rebuilding
-328,43,Spooner,WI,D5,Heart O'North,1-7,1,7,0,8,21.0,21.0,-29.0,46.2,230,8.9,33.2,8.9,33.2,-24.3,1.5,1.5,0.5,1.0,0.25,Rebuilding,Rebuilding
-329,47,Horicon/Hustisford,WI,D6,WIAA Varsity,1-8,1,8,0,9,21.0,21.0,-29.02,47.2,217,9.3,35.3,9.3,35.3,-26.0,1.611,1.611,0.444,1.167,0.981,Rebuilding,Rebuilding
-330,40,Blair-Taylor,WI,D7,WIAA Varsity,1-8,1,8,0,9,20.6,20.6,-29.36,44.0,265,8.2,33.9,8.2,33.9,-25.7,0.389,0.389,0.389,0.0,0.0,Rebuilding,Rebuilding
-331,41,Eleva-Strum,WI,D7,WIAA Varsity,2-7,2,7,0,9,20.6,20.6,-29.4,39.3,312,15.3,36.8,15.3,36.8,-21.5,0.972,0.972,0.778,0.194,0.0,Rebuilding,Rebuilding
-332,50,Fort Atkinson,WI,D3,WIAA Varsity,1-8,1,8,0,9,20.0,20.0,-30.01,49.6,189,12.1,41.2,12.1,41.2,-29.1,0.722,0.722,0.722,0.0,0.0,Rebuilding,Rebuilding
-333,48,Catholic Central/Kenosha Christian Life,WI,D6,WIAA Varsity,1-7,1,7,0,8,19.8,19.8,-30.23,46.2,231,17.2,48.9,17.2,48.9,-31.7,2.5,2.5,0.562,1.938,0.135,Rebuilding,Rebuilding
-334,44,River Valley,WI,D5,WIAA Varsity,0-9,0,9,0,9,19.6,19.6,-30.4,43.6,271,13.8,38.6,13.8,38.6,-24.8,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-335,49,Barron,WI,D6,Heart O'North,1-8,1,8,0,9,18.8,18.8,-31.16,42.6,283,11.8,36.6,11.8,36.6,-24.8,1.0,1.0,0.5,0.5,1.0,Rebuilding,Rebuilding
-336,50,Cameron,WI,D6,WIAA Varsity,3-5,3,5,0,8,18.8,18.8,-31.21,43.7,270,12.2,37.8,12.2,37.8,-25.6,2.021,2.021,1.5,0.521,0.315,Rebuilding,Rebuilding
-337,45,Brodhead/Juda,WI,D5,WIAA Varsity,1-8,1,8,0,9,18.7,18.7,-31.28,45.6,239,15.6,41.4,15.6,41.4,-25.8,0.5,0.5,0.5,0.0,0.0,Rebuilding,Rebuilding
-338,42,Augusta,WI,D7,WIAA Varsity,3-6,3,6,0,9,18.5,18.5,-31.48,36.8,327,16.0,33.9,16.0,33.9,-17.9,1.556,1.556,1.167,0.389,0.065,Rebuilding,Rebuilding
-339,46,Parkview/Albany,WI,D5,WIAA Varsity,3-6,3,6,0,9,18.3,18.3,-31.71,29.8,354,13.0,26.0,13.0,26.0,-13.0,1.686,1.686,1.167,0.519,0.045,Rebuilding,Rebuilding
-340,47,Kingdom Prep Lutheran,WI,D5,WIAA Varsity,3-8,3,8,0,11,17.5,17.5,-32.47,37.0,326,13.5,32.5,13.5,32.5,-19.0,1.857,1.857,1.722,0.135,0.0,Rebuilding,Rebuilding
-341,43,Independence/Gilmanton,WI,D7,WIAA Varsity,0-9,0,9,0,9,17.5,17.5,-32.52,41.5,297,6.3,26.4,6.3,26.4,-20.1,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-342,48,Wautoma,WI,D5,WIAA Varsity,2-7,2,7,0,9,16.1,16.1,-33.88,33.5,341,18.0,34.9,18.0,34.9,-16.9,2.278,2.278,1.0,1.278,0.69,Rebuilding,Rebuilding
-343,52,Green Bay East,WI,D2,WIAA Varsity,0-9,0,9,0,9,15.6,15.6,-34.45,49.1,194,9.1,42.8,9.1,42.8,-33.7,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-344,52,Madison East,WI,D1,Big Eight,0-9,0,9,0,9,13.0,13.0,-36.95,53.2,160,5.9,45.7,5.9,45.7,-39.8,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-345,51,Mishicot,WI,D6,WIAA Varsity,0-9,0,9,0,9,12.5,12.5,-37.53,42.6,282,3.8,33.1,3.8,33.1,-29.3,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-346,44,Pittsville,WI,D7,WIAA Varsity,1-8,1,8,0,9,12.0,12.0,-37.97,46.2,229,2.6,36.4,2.6,36.4,-33.8,0.389,0.389,0.389,0.0,0.0,Rebuilding,Rebuilding
-347,50,Whitewater,WI,D4,WIAA Varsity,2-7,2,7,0,9,11.8,11.8,-38.23,37.5,325,12.3,36.3,12.3,36.3,-24.0,1.416,1.416,0.944,0.472,0.556,Rebuilding,Rebuilding
-348,52,Ladysmith,WI,D6,Heart O'North,0-9,0,9,0,9,11.0,11.0,-39.02,45.7,238,6.7,38.9,6.7,38.9,-32.2,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-349,51,North Fond du Lac,WI,D4,WIAA Varsity,0-9,0,9,0,9,9.4,9.4,-40.62,48.3,202,7.8,45.6,7.8,45.6,-37.8,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-350,49,Sturgeon Bay,WI,D5,Packerland,1-8,1,8,0,9,8.3,8.3,-41.69,44.1,261,7.6,41.7,7.6,41.7,-34.1,0.5,0.5,0.5,0.0,0.0,Rebuilding,Rebuilding
-351,45,New Lisbon,WI,D7,WIAA Varsity,1-8,1,8,0,9,7.8,7.8,-42.2,39.2,313,11.9,42.6,11.9,42.6,-30.7,0.778,0.778,0.389,0.389,1.278,Rebuilding,Rebuilding
-352,46,Necedah,WI,D7,Scenic Bluffs,1-8,1,8,0,9,7.4,7.4,-42.59,39.1,314,6.7,38.3,6.7,38.3,-31.6,1.667,1.667,0.389,1.278,0.796,Rebuilding,Rebuilding
-353,50,Adams-Friendship,WI,D5,WIAA Varsity,0-9,0,9,0,9,6.2,6.2,-43.76,35.8,331,10.7,39.2,10.7,39.2,-28.5,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-354,51,Cudahy,WI,D3,WIAA Varsity,1-9,1,9,0,10,5.9,5.9,-44.12,40.2,305,4.3,47.1,4.3,47.1,-42.8,0.389,0.389,0.389,0.0,0.0,Rebuilding,Rebuilding
-355,51,Clintonville,WI,D5,WIAA Varsity,0-9,0,9,0,9,3.1,3.1,-46.94,43.5,272,8.4,43.6,8.4,43.6,-35.2,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-356,47,Deerfield,WI,D7,WIAA Varsity,1-8,1,8,0,9,2.8,2.8,-47.23,32.3,343,10.4,40.7,10.4,40.7,-30.3,0.389,0.389,0.389,0.0,0.0,Rebuilding,Rebuilding
-357,48,Boscobel,WI,D7,WIAA Varsity,0-9,0,9,0,9,1.5,1.5,-48.55,46.1,232,6.2,48.0,6.2,48.0,-41.8,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
-358,49,Dodgeland,WI,D7,WIAA Varsity,0-9,0,9,0,9,-5.6,-5.6,-55.65,30.5,353,7.2,40.8,7.2,40.8,-33.6,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+rank,division_rank,team,state,division,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_off,ppg_def,net_margin,pqs,ppa,tier1_score,tier2_score,tier3_score,program_trend,contender_tier
+1,1,Sussex Hamilton,WI,D1,Greater Metro,12-0,12,0,0,12,104.5,104.5,54.5,77.6,4,42.8,18.2,24.6,9.192,9.192,6.278,2.914,2.0,Rising Power ↑,Finals Contender
+2,2,Bay Port,WI,D1,Fox River Classic - North,12-1,12,1,0,13,103.5,103.5,53.53,67.5,23,42.2,11.2,31.0,8.444,8.444,5.5,2.944,1.793,Rising Power ↑,Finals Contender
+3,1,Notre Dame,WI,D3,Fox River Classic - South,12-0,12,0,0,12,100.7,100.7,50.65,52.6,163,54.5,10.7,43.8,8.475,8.475,5.722,2.753,1.2,Rising Power ↑,Finals Contender
+4,3,Arrowhead,WI,D1,Classic Eight,11-2,11,2,0,13,99.2,99.2,49.17,74.3,8,35.6,13.2,22.4,8.382,8.382,5.611,2.771,1.758,Rising Power ↑,Finals Contender
+5,1,West De Pere,WI,D2,Fox River Classic - North,11-1,11,1,0,12,96.0,96.0,46.0,65.3,32,38.5,11.1,27.4,9.507,9.507,6.167,3.34,1.842,Rising Power ↑,Finals Contender
+6,4,Waunakee,WI,D1,Badger - Large,11-2,11,2,0,13,94.6,94.6,44.57,68.9,20,33.2,10.1,23.1,7.896,7.896,5.278,2.618,1.45,Rising Power ↑,Finals Contender
+7,1,Freedom,WI,D4,North Eastern,11-1,11,1,0,12,91.9,91.9,41.9,59.7,81,46.4,13.1,33.3,7.771,7.771,5.111,2.66,1.363,Rising Power ↑,Finals Contender
+8,5,Muskego,WI,D1,Classic Eight,9-3,9,3,0,12,89.5,89.5,39.54,73.6,11,30.6,13.8,16.8,8.452,8.452,5.556,2.896,1.858,Rising Power ↑,Finals Contender
+9,1,Amherst,WI,D5,Central Wisconsin - Large,13-0,13,0,0,13,86.9,86.9,36.94,52.7,160,42.2,10.8,31.4,6.858,6.858,4.444,2.414,1.634,Rising Power ↑,Finals Contender
+10,1,Darlington,WI,D6,SWAL,12-0,12,0,0,12,85.8,85.8,35.8,55.0,130,40.1,10.1,30.0,7.205,7.205,4.5,2.705,1.673,Rising Power ↑,Finals Contender
+11,2,Monona Grove,WI,D2,Badger - Large,10-2,10,2,0,12,85.2,85.2,35.22,61.9,60,35.6,11.5,24.1,7.562,7.562,5.333,2.229,1.234,Rising Power ↑,Finals Contender
+12,3,Union Grove,WI,D2,Southern Lakes,14-0,14,0,0,14,85.0,85.0,35.0,58.3,96,36.4,10.6,25.8,8.586,8.586,5.944,2.642,1.448,Rising Power ↑,Finals Contender
+13,2,La Crosse Logan,WI,D3,Mississippi Valley,13-0,13,0,0,13,84.5,84.5,34.5,58.4,95,39.1,15.7,23.4,8.155,8.155,5.667,2.488,1.344,Rising Power ↑,Finals Contender
+14,6,Franklin,WI,D1,Southeast,6-5,6,5,0,11,84.2,84.2,34.22,78.2,2,25.5,19.9,5.6,6.023,6.023,3.556,2.467,1.529,Sustained Contender,Finals Contender
+15,7,Oconomowoc,WI,D1,Classic Eight,7-4,7,4,0,11,83.2,83.2,33.21,77.9,3,27.5,21.5,6.0,7.056,7.056,4.167,2.889,1.765,Rising Power ↑,Finals Contender
+16,4,Homestead,WI,D2,North Shore,9-2,9,2,0,11,82.1,82.1,32.11,58.6,94,38.8,16.7,22.1,7.715,7.715,5.389,2.326,1.727,Sustained Contender,Finals Contender
+17,3,New Berlin West,WI,D3,Parkland,8-3,8,3,0,11,81.8,81.8,31.78,60.5,76,35.7,13.0,22.7,6.96,6.96,4.389,2.571,2.254,Rising Power ↑,Finals Contender
+18,4,Port Washington,WI,D3,North Shore,12-0,12,0,0,12,81.7,81.7,31.67,58.7,91,35.7,14.2,21.5,7.988,7.988,5.5,2.488,1.427,Rising Power ↑,Finals Contender
+19,8,Racine Case,WI,D1,Southeast,11-2,11,2,0,13,81.6,81.6,31.57,59.6,83,34.8,10.4,24.4,8.188,8.188,5.556,2.632,1.484,Rising Power ↑,Finals Contender
+20,9,Verona,WI,D1,Big Eight,9-2,9,2,0,11,81.1,81.1,31.14,58.0,99,34.7,13.9,20.8,8.41,8.41,5.778,2.632,1.424,Sustained Contender,Finals Contender
+21,5,West Salem,WI,D3,Coulee,12-0,12,0,0,12,80.9,80.9,30.93,54.4,144,35.5,9.9,25.6,7.0,7.0,5.056,1.944,1.051,Rising Power ↑,Finals Contender
+22,10,Hudson,WI,D1,Big Rivers,9-3,9,3,0,12,80.7,80.7,30.73,64.4,39,36.8,20.7,16.1,7.847,7.847,5.5,2.347,1.497,Rising Power ↑,Finals Contender
+23,5,New Richmond,WI,D2,Big Rivers,11-1,11,1,0,12,80.6,80.6,30.61,61.0,70,36.1,18.0,18.1,9.161,9.161,6.167,2.994,1.579,Rising Power ↑,Finals Contender
+24,11,Chippewa Falls,WI,D1,Big Rivers,7-3,7,3,0,10,80.2,80.2,30.2,59.4,85,30.7,12.1,18.6,5.954,5.954,4.111,1.843,1.205,Rising Power ↑,Finals Contender
+25,12,Neenah,WI,D1,Fox Valley Association,7-5,7,5,0,12,80.0,80.0,30.0,77.5,5,28.0,25.3,2.7,6.805,6.805,4.333,2.472,2.215,Rising Power ↑,Finals Contender
+26,13,Marquette,WI,D1,Greater Metro,7-4,7,4,0,11,78.9,78.9,28.9,76.0,6,31.6,29.9,1.7,6.491,6.491,4.111,2.38,1.64,Sustained Contender,Semifinal Contender
+27,6,West Bend West,WI,D2,North Shore,9-3,9,3,0,12,78.8,78.8,28.8,62.8,49,32.3,17.0,15.3,6.333,6.333,4.0,2.333,1.412,Rising Power ↑,Semifinal Contender
+28,2,Grantsburg,WI,D4,WIAA Varsity,11-2,11,2,0,13,78.6,78.6,28.6,49.6,193,40.6,14.2,26.4,6.333,6.333,4.333,2.0,0.976,Rising Power ↑,Finals Contender
+29,3,Lake Mills,WI,D4,Capitol,11-1,11,1,0,12,78.6,78.6,28.6,54.6,141,39.0,17.0,22.0,6.806,6.806,4.556,2.25,1.631,Rising Power ↑,Finals Contender
+30,6,Fox Valley Lutheran,WI,D3,North Eastern,9-3,9,3,0,12,78.6,78.6,28.6,55.8,125,37.9,14.3,23.6,6.0,6.0,4.0,2.0,1.04,Rising Power ↑,Semifinal Contender
+31,4,Little Chute,WI,D4,North Eastern,11-2,11,2,0,13,78.1,78.1,28.1,56.9,114,37.7,15.2,22.5,6.736,6.736,4.611,2.125,1.188,Rising Power ↑,Semifinal Contender
+32,14,Kimberly,WI,D1,Fox Valley Association,5-5,5,5,0,10,78.0,78.0,28.0,75.6,7,20.1,18.8,1.3,5.167,5.167,2.889,2.278,2.11,Sustained Contender,Semifinal Contender
+33,7,Pewaukee,WI,D3,Parkland,11-1,11,1,0,12,77.8,77.8,27.8,57.8,102,33.2,11.8,21.4,8.543,8.543,5.722,2.821,2.072,Rising Power ↑,Semifinal Contender
+34,2,Bonduel,WI,D6,Packerland,12-0,12,0,0,12,77.2,77.2,27.2,46.5,238,39.2,10.8,28.4,6.481,6.481,4.444,2.037,1.274,Rising Power ↑,Finals Contender
+35,7,Pulaski,WI,D2,Fox River Classic - North,9-3,9,3,0,12,76.9,76.9,26.9,65.3,33,28.2,16.4,11.8,6.968,6.968,4.833,2.135,1.719,Rising Power ↑,Semifinal Contender
+36,8,Kaukauna,WI,D2,Fox Valley Association,8-3,8,3,0,11,76.9,76.9,26.9,65.9,29,24.9,14.6,10.3,7.366,7.366,5.056,2.31,2.069,Rising Power ↑,Semifinal Contender
+37,5,Plymouth,WI,D4,WIAA Varsity,9-3,9,3,0,12,76.5,76.5,26.5,61.3,64,31.2,17.5,13.7,5.961,5.961,4.056,1.905,1.153,Rising Power ↑,Semifinal Contender
+38,15,Fond du Lac,WI,D1,Fox Valley Association,4-5,4,5,0,9,75.6,75.6,25.6,64.5,38,27.3,14.9,12.4,4.402,4.402,2.833,1.569,2.388,Sustained Contender,Semifinal Contender
+39,1,Edgar,WI,D7,Marawood,11-2,11,2,0,13,75.6,75.6,25.6,48.9,200,28.6,4.2,24.4,7.013,7.013,4.667,2.346,1.234,Rising Power ↑,Finals Contender
+40,16,Kenosha Bradford,WI,D1,Southeast,7-3,7,3,0,10,75.3,75.3,25.3,57.6,104,31.6,11.4,20.2,6.794,6.794,4.778,2.016,1.255,Rising Power ↑,Semifinal Contender
+41,8,Reedsburg,WI,D3,Badger - Small,8-3,8,3,0,11,75.1,75.1,25.1,62.2,57,31.7,16.9,14.8,6.73,6.73,4.444,2.286,1.359,Rising Power ↑,Semifinal Contender
+42,2,Northwestern,WI,D5,Heart O'North,11-2,11,2,0,13,74.9,74.9,24.9,46.5,236,44.9,13.7,31.2,6.522,6.522,4.722,1.8,0.863,Rising Power ↑,Finals Contender
+43,6,Aquinas,WI,D4,Coulee,9-2,9,2,0,11,74.1,74.1,24.1,58.0,100,30.9,15.5,15.4,6.229,6.229,4.333,1.896,0.944,Sustained Contender,Semifinal Contender
+44,9,Elkhorn,WI,D2,Southern Lakes,9-2,9,2,0,11,73.7,73.7,23.7,58.6,93,28.5,12.4,16.1,7.625,7.625,5.222,2.403,1.329,Rising Power ↑,Semifinal Contender
+45,9,Catholic Memorial,WI,D3,Parkland,7-6,7,6,0,13,73.6,73.6,23.6,70.1,16,25.8,22.5,3.3,4.625,4.625,2.611,2.014,1.753,Sustained Contender,Semifinal Contender
+46,17,Stevens Point,WI,D1,Wisconsin Valley,8-2,8,2,0,10,72.7,72.7,22.7,55.9,124,35.6,20.6,15.0,7.896,7.896,5.556,2.34,1.404,Rising Power ↑,Semifinal Contender
+47,10,Holmen,WI,D2,Mississippi Valley,7-3,7,3,0,10,72.3,72.3,22.3,62.0,59,27.2,17.5,9.7,6.683,6.683,4.278,2.405,1.345,Sustained Contender,Semifinal Contender
+48,3,Mondovi,WI,D6,Cloverbelt,10-2,10,2,0,12,72.2,72.2,22.2,57.7,103,36.9,22.6,14.3,6.655,6.655,3.944,2.711,1.732,Rising Power ↑,Finals Contender
+49,11,Waterford,WI,D2,Southern Lakes,7-4,7,4,0,11,71.9,71.9,21.9,59.5,84,32.5,19.0,13.5,5.889,5.889,4.0,1.889,1.401,Rising Power ↑,Sectional Contender
+50,12,La Crosse Central,WI,D2,Mississippi Valley,7-3,7,3,0,10,71.7,71.7,21.7,57.0,111,34.8,20.4,14.4,6.143,6.143,4.278,1.865,1.082,Rising Power ↑,Sectional Contender
+51,7,Winneconne,WI,D4,Bay,10-1,10,1,0,11,71.6,71.6,21.6,47.3,223,33.0,10.9,22.1,6.963,6.963,5.222,1.741,0.906,Sustained Contender,Semifinal Contender
+52,18,De Pere,WI,D1,Fox River Classic - North,6-4,6,4,0,10,71.5,71.5,21.5,63.8,42,27.3,18.2,9.1,6.148,6.148,4.111,2.037,1.329,Sustained Contender,Sectional Contender
+53,4,Lomira,WI,D6,Flyway,14-0,14,0,0,14,71.4,71.4,21.4,47.8,217,31.1,10.1,21.0,6.469,6.469,4.667,1.802,1.168,Rising Power ↑,Finals Contender
+54,13,Beaver Dam,WI,D2,Badger - Large,8-2,8,2,0,10,71.3,71.3,21.3,49.5,195,38.5,18.3,20.2,6.667,6.667,4.667,2.0,1.12,Rising Power ↑,Sectional Contender
+55,14,Brookfield Central,WI,D2,Greater Metro,5-8,5,8,0,13,71.3,71.3,21.3,72.8,12,27.5,27.3,0.2,5.092,5.092,2.111,2.981,2.131,Sustained Contender,Sectional Contender
+56,5,Stratford,WI,D6,Central Wisconsin - Large,9-2,9,2,0,11,71.1,71.1,21.1,53.7,149,26.5,10.7,15.8,6.417,6.417,4.056,2.361,1.436,Sustained Contender,Semifinal Contender
+57,6,Kewaunee,WI,D6,Packerland,8-3,8,3,0,11,71.1,71.1,21.1,49.0,199,33.4,12.1,21.3,5.572,5.572,3.667,1.905,1.035,Rising Power ↑,Semifinal Contender
+58,10,Grafton,WI,D3,North Shore,7-5,7,5,0,12,70.9,70.9,20.9,65.1,35,27.5,22.2,5.3,4.878,4.878,3.0,1.878,1.3,Sustained Contender,Sectional Contender
+59,15,Sun Prairie East,WI,D2,Badger - Large,6-4,6,4,0,10,70.7,70.7,20.7,65.3,34,29.2,22.8,6.4,5.5,5.5,3.944,1.556,1.215,Sustained Contender,Sectional Contender
+60,8,Medford,WI,D4,WIAA Varsity,8-3,8,3,0,11,70.6,70.6,20.6,49.7,190,31.5,10.6,20.9,6.087,6.087,4.0,2.087,0.902,Rising Power ↑,Sectional Contender
+61,3,Lake Country Lutheran,WI,D5,Midwest Classic,10-3,10,3,0,13,70.4,70.4,20.4,53.5,154,31.5,13.8,17.7,5.865,5.865,3.833,2.032,1.494,Rising Power ↑,Finals Contender
+62,9,Iowa-Grant,WI,D4,WIAA Varsity,10-2,10,2,0,12,70.3,70.3,20.3,43.7,280,40.8,14.8,26.0,5.5,5.5,3.556,1.944,0.886,Rising Power ↑,Sectional Contender
+63,7,Racine Lutheran,WI,D6,Midwest Classic,11-2,11,2,0,13,70.0,70.0,20.0,46.7,234,41.8,13.1,28.7,7.969,7.969,5.5,2.469,1.033,Rising Power ↑,Semifinal Contender
+64,8,Durand-Arkansaw,WI,D6,Cloverbelt,11-2,11,2,0,13,69.9,69.9,19.9,52.6,162,33.5,14.2,19.3,6.144,6.144,3.944,2.2,1.451,Rising Power ↑,Semifinal Contender
+65,19,Appleton North,WI,D1,Fox Valley Association,6-6,6,6,0,12,69.7,69.7,19.7,73.8,10,13.8,17.7,-3.9,5.945,5.945,3.556,2.389,1.811,Sustained Contender,Sectional Contender
+66,10,Kenosha St Joseph,WI,D4,WIAA Varsity,11-2,11,2,0,13,69.4,69.4,19.4,44.6,270,35.8,9.5,26.3,6.496,6.496,4.389,2.107,1.089,Rising Power ↑,Sectional Contender
+67,11,Baldwin-Woodville,WI,D4,Middle Border,7-3,7,3,0,10,69.4,69.4,19.4,53.5,153,30.3,15.1,15.2,5.341,5.341,4.0,1.341,0.652,Sustained Contender,Sectional Contender
+68,12,St. Catherine's,WI,D4,WIAA Varsity,10-1,10,1,0,11,69.4,69.4,19.4,49.6,192,27.0,9.5,17.5,6.68,6.68,4.333,2.347,1.539,Sustained Contender,Sectional Contender
+69,13,Edgewood,WI,D4,Badger - Small,8-3,8,3,0,11,69.3,69.3,19.3,51.2,174,37.1,17.7,19.4,6.182,6.182,4.111,2.071,1.069,Rising Power ↑,Sectional Contender
+70,14,Menasha,WI,D4,WIAA Varsity,8-3,8,3,0,11,69.3,69.3,19.3,50.7,180,39.3,21.1,18.2,5.992,5.992,4.333,1.659,0.622,Rising Power ↑,Sectional Contender
+71,11,Mount Horeb/Barneveld,WI,D3,Badger - Small,7-5,7,5,0,12,69.0,69.0,19.0,60.6,74,28.2,21.6,6.6,5.325,5.325,3.556,1.769,0.953,Sustained Contender,Sectional Contender
+72,12,Onalaska,WI,D3,Mississippi Valley,4-6,4,6,0,10,68.9,68.9,18.9,65.8,30,24.6,20.3,4.3,4.194,4.194,2.444,1.75,1.047,Sustained Contender,Sectional Contender
+73,16,Marshfield,WI,D2,Wisconsin Valley,7-4,7,4,0,11,68.3,68.3,18.3,57.1,110,31.6,18.6,13.0,6.019,6.019,4.167,1.852,1.235,Rising Power ↑,Sectional Contender
+74,15,Osceola,WI,D4,Middle Border,9-2,9,2,0,11,67.9,67.9,17.9,54.9,133,32.3,19.3,13.0,6.256,6.256,4.444,1.812,0.985,Rising Power ↑,Sectional Contender
+75,16,River Ridge,WI,D4,WIAA Varsity,10-2,10,2,0,12,67.8,67.8,17.8,41.3,313,40.2,12.8,27.4,6.067,6.067,4.278,1.789,0.875,Rising Power ↑,Sectional Contender
+76,17,Cedar Grove/Belgium,WI,D4,WIAA Varsity,9-3,9,3,0,12,67.5,67.5,17.5,49.7,191,25.8,9.3,16.5,5.46,5.46,3.389,2.071,1.128,Rising Power ↑,Sectional Contender
+77,4,New Glarus,WI,D5,Capitol,10-2,10,2,0,12,67.4,67.4,17.4,53.8,148,31.2,16.8,14.4,6.604,6.604,4.0,2.604,1.663,Rising Power ↑,Finals Contender
+78,13,Whitefish Bay,WI,D3,North Shore,9-4,9,4,0,13,67.3,67.3,17.3,62.0,58,26.2,20.1,6.1,6.913,6.913,4.556,2.357,2.022,Rising Power ↑,Sectional Contender
+79,14,Luxemburg-Casco,WI,D3,North Eastern,7-4,7,4,0,11,66.8,66.8,16.8,60.6,75,29.7,21.5,8.2,5.278,5.278,3.389,1.889,1.134,Rising Power ↑,Sectional Contender
+80,2,Coleman,WI,D7,Northwoods,9-3,9,3,0,12,66.6,66.6,16.6,45.6,254,33.2,14.3,18.9,5.794,5.794,3.667,2.127,0.857,Rising Power ↑,Finals Contender
+81,3,Cochrane-Fountain City,WI,D7,Dairyland,10-1,10,1,0,11,66.5,66.5,16.5,39.3,321,36.9,9.6,27.3,6.784,6.784,4.667,2.117,0.758,Sustained Contender,Finals Contender
+82,20,Middleton,WI,D1,Big Eight,5-6,5,6,0,11,66.5,66.5,16.5,63.6,44,34.3,30.1,4.2,5.989,5.989,3.611,2.378,1.15,Sustained Contender,Sectional Contender
+83,17,River Falls,WI,D2,Big Rivers,7-5,7,5,0,12,66.3,66.3,16.3,65.7,31,20.1,20.7,-0.6,5.489,5.489,3.389,2.1,1.437,Sustained Contender,Sectional Contender
+84,18,Watertown Luther Prep,WI,D4,WIAA Varsity,7-4,7,4,0,11,66.3,66.3,16.3,53.4,156,27.0,13.4,13.6,5.315,5.315,3.278,2.037,1.451,Rising Power ↑,Sectional Contender
+85,5,Mayville,WI,D5,Flyway,7-4,7,4,0,11,66.3,66.3,16.3,53.0,159,29.1,16.6,12.5,4.852,4.852,3.056,1.796,1.041,Sustained Contender,Semifinal Contender
+86,19,Luther,WI,D4,WIAA Varsity,7-3,7,3,0,10,66.2,66.2,16.2,54.7,136,27.7,16.3,11.4,4.63,4.63,3.111,1.519,0.846,Rising Power ↑,Sectional Contender
+87,20,Delavan-Darien,WI,D4,WIAA Varsity,9-3,9,3,0,12,66.2,66.2,16.2,48.5,207,35.6,17.9,17.7,5.889,5.889,3.889,2.0,1.152,Rising Power ↑,Sectional Contender
+88,9,Manitowoc Lutheran,WI,D6,Big East,10-2,10,2,0,12,66.1,66.1,16.1,43.2,288,30.5,8.2,22.3,6.549,6.549,4.5,2.049,1.114,Rising Power ↑,Sectional Contender
+89,21,Wrightstown,WI,D4,North Eastern,6-6,6,6,0,12,65.7,65.7,15.7,61.1,67,22.9,18.2,4.7,4.166,4.166,2.222,1.944,1.025,Sustained Contender,Sectional Contender
+90,22,Lakeside Lutheran,WI,D4,Capitol,7-4,7,4,0,11,65.4,65.4,15.4,56.1,122,31.5,19.6,11.9,5.203,5.203,3.333,1.87,1.4,Rising Power ↑,Sectional Contender
+91,6,St. Croix Falls,WI,D5,Heart O'North,10-3,10,3,0,13,65.4,65.4,15.4,48.5,206,38.5,21.3,17.2,6.187,6.187,4.222,1.965,1.017,Rising Power ↑,Semifinal Contender
+92,18,Milton,WI,D2,Badger - Large,5-5,5,5,0,10,64.4,64.4,14.4,67.2,24,20.3,25.3,-5.0,3.945,3.945,2.556,1.389,0.99,Sustained Contender,Sectional Contender
+93,15,Wisconsin Lutheran,WI,D3,Parkland,6-5,6,5,0,11,64.0,64.0,14.0,60.3,79,29.5,25.8,3.7,6.3,6.3,3.333,2.967,1.809,Rising Power ↑,Sectional Contender
+94,21,Madison Memorial,WI,D1,Big Eight,7-3,7,3,0,10,63.9,63.9,13.9,51.8,170,29.5,19.8,9.7,6.54,6.54,4.889,1.651,1.058,Sustained Contender,Dark Horse
+95,19,Waukesha South,WI,D2,Classic Eight,7-5,7,5,0,12,63.8,63.8,13.8,61.5,63,28.7,24.7,4.0,5.954,5.954,3.778,2.176,1.816,Rising Power ↑,Dark Horse
+96,4,Hilbert,WI,D7,Big East,10-3,10,3,0,13,63.6,63.6,13.6,45.9,251,30.5,12.6,17.9,4.833,4.833,3.0,1.833,1.032,Rising Power ↑,Finals Contender
+97,20,Slinger,WI,D2,North Shore,5-5,5,5,0,10,63.2,63.2,13.2,62.5,53,22.0,22.4,-0.4,5.356,5.356,3.389,1.967,1.807,Sustained Contender,Dark Horse
+98,7,Elk Mound,WI,D5,Cloverbelt,7-5,7,5,0,12,63.2,63.2,13.2,54.1,147,31.3,19.9,11.4,4.914,4.914,3.056,1.858,1.337,Rising Power ↑,Semifinal Contender
+99,22,Germantown,WI,D1,Greater Metro,4-6,4,6,0,10,63.1,63.1,13.1,74.1,9,18.3,30.4,-12.1,4.403,4.403,2.722,1.681,1.589,Sustained Contender,Dark Horse
+100,23,Black River Falls,WI,D4,WIAA Varsity,5-5,5,5,0,10,62.9,62.9,12.9,60.6,73,27.7,24.5,3.2,3.486,3.486,2.111,1.375,0.73,Steady Program,Dark Horse
+101,24,Evansville,WI,D4,WIAA Varsity,9-2,9,2,0,11,62.8,62.8,12.8,39.2,323,34.4,14.0,20.4,5.826,5.826,4.5,1.326,0.903,Sustained Contender,First-Round / Bubble
+102,21,DeForest,WI,D2,Badger - Large,4-6,4,6,0,10,62.7,62.7,12.7,67.0,25,16.3,20.7,-4.4,3.111,3.111,1.889,1.222,0.912,Rebuilding,Dark Horse
+103,23,Kenosha Indian Trail,WI,D1,Southeast,8-3,8,3,0,11,62.7,62.7,12.7,56.5,117,26.9,20.7,6.2,6.81,6.81,4.778,2.032,1.373,Steady Program,Dark Horse
+104,25,Greenfield,WI,D4,WIAA Varsity,7-3,7,3,0,10,62.5,62.5,12.5,50.5,184,30.8,18.8,12.0,6.016,6.016,4.056,1.96,1.38,Rising Power ↑,First-Round / Bubble
+105,10,Belleville,WI,D6,SWAL,8-3,8,3,0,11,61.9,61.9,11.9,48.8,203,29.0,15.3,13.7,5.929,5.929,3.889,2.04,1.45,Rising Power ↑,Sectional Contender
+106,24,Oak Creek,WI,D1,Southeast,4-5,4,5,0,9,61.6,61.6,11.6,60.3,78,26.3,25.4,0.9,3.986,3.986,2.667,1.319,1.01,Sustained Contender,Dark Horse
+107,25,D.C. Everest,WI,D1,Wisconsin Valley,5-5,5,5,0,10,61.6,61.6,11.6,60.6,72,30.1,28.6,1.5,5.411,5.411,3.444,1.967,1.078,Sustained Contender,First-Round / Bubble
+108,22,Waukesha West,WI,D2,Classic Eight,6-5,6,5,0,11,61.5,61.5,11.5,63.0,48,24.3,26.4,-2.1,5.533,5.533,3.389,2.144,2.063,Sustained Contender,Dark Horse
+109,8,Arcadia,WI,D5,Coulee,6-5,6,5,0,11,61.5,61.5,11.5,54.7,138,27.9,19.1,8.8,4.4,4.4,2.778,1.622,0.489,Rising Power ↑,Semifinal Contender
+110,11,Regis,WI,D6,Cloverbelt,7-4,7,4,0,11,61.4,61.4,11.4,54.9,132,22.5,16.8,5.7,5.677,5.677,3.375,2.302,1.453,Sustained Contender,Sectional Contender
+111,26,Hortonville,WI,D1,Fox Valley Association,3-6,3,6,0,9,61.2,61.2,11.2,69.1,19,18.4,24.1,-5.7,4.537,4.537,2.0,2.537,2.158,Rebuilding,First-Round / Bubble
+112,5,Pepin/Alma,WI,D7,Dairyland,10-2,10,2,0,12,61.1,61.1,11.1,37.9,327,34.7,11.8,22.9,6.445,6.445,4.889,1.556,0.675,Sustained Contender,Semifinal Contender
+113,26,Brillion,WI,D4,WIAA Varsity,8-3,8,3,0,11,60.8,60.8,10.8,44.0,278,31.0,15.5,15.5,5.72,5.72,3.833,1.887,1.556,Rising Power ↑,First-Round / Bubble
+114,27,Cambridge,WI,D4,WIAA Varsity,8-3,8,3,0,11,60.3,60.3,10.3,46.8,229,28.8,17.5,11.3,6.072,6.072,3.889,2.183,1.479,Sustained Contender,First-Round / Bubble
+115,28,Kettle Moraine Lutheran,WI,D4,WIAA Varsity,5-6,5,6,0,11,60.0,60.0,10.0,62.4,55,21.7,22.5,-0.8,4.236,4.236,2.333,1.903,1.269,Rebuilding,First-Round / Bubble
+116,16,New Berlin Eisenhower,WI,D3,Parkland,7-5,7,5,0,12,59.8,59.8,9.8,63.6,43,19.9,22.7,-2.8,6.186,6.186,3.667,2.519,1.978,Rising Power ↑,Sectional Contender
+117,29,Lodi,WI,D4,Capitol,7-4,7,4,0,11,59.4,59.4,9.4,56.4,119,28.3,25.9,2.4,5.445,5.445,3.389,2.056,1.542,Steady Program,First-Round / Bubble
+118,30,Ithaca/Weston,WI,D4,WIAA Varsity,10-0,10,0,0,10,59.3,59.3,9.3,37.1,336,28.5,8.7,19.8,6.359,6.359,4.25,2.109,1.053,Rising Power ↑,First-Round / Bubble
+119,6,Potosi/Cassville,WI,D7,Six Rivers,8-3,8,3,0,11,59.3,59.3,9.3,47.2,226,31.5,19.8,11.7,5.666,5.666,3.722,1.944,0.732,Steady Program,Semifinal Contender
+120,9,Winnebago Lutheran,WI,D5,Flyway,6-5,6,5,0,11,59.3,59.3,9.3,55.2,128,20.0,16.1,3.9,4.178,4.178,2.556,1.622,0.918,Steady Program,Sectional Contender
+121,31,Cadott,WI,D4,WIAA Varsity,7-4,7,4,0,11,59.2,59.2,9.2,47.5,218,33.3,19.0,14.3,4.577,4.577,3.0,1.577,0.973,Rising Power ↑,First-Round / Bubble
+122,27,Brookfield East,WI,D1,Greater Metro,3-6,3,6,0,9,58.9,58.9,8.9,71.2,14,17.7,30.4,-12.7,3.204,3.204,2.056,1.148,1.225,Rebuilding,First-Round / Bubble
+123,32,Greendale,WI,D4,WIAA Varsity,6-4,6,4,0,10,58.8,58.8,8.8,52.2,167,29.1,22.2,6.9,5.333,5.333,3.611,1.722,1.332,Steady Program,First-Round / Bubble
+124,33,Kewaskum,WI,D4,WIAA Varsity,3-6,3,6,0,9,58.7,58.7,8.7,61.9,61,21.1,19.8,1.3,3.259,3.259,1.778,1.481,0.901,Rebuilding,First-Round / Bubble
+125,12,Cuba City,WI,D6,SWAL,7-4,7,4,0,11,58.6,58.6,8.6,57.8,101,21.5,21.4,0.1,5.379,5.379,2.944,2.435,1.458,Steady Program,Sectional Contender
+126,28,Mukwonago,WI,D1,Classic Eight,2-7,2,7,0,9,58.5,58.5,8.5,72.4,13,14.4,29.2,-14.8,2.027,2.027,1.333,0.694,0.694,Rebuilding,First-Round / Bubble
+127,23,Oregon,WI,D2,Badger - Large,4-5,4,5,0,9,58.4,58.4,8.4,59.3,87,24.7,24.1,0.6,3.125,3.125,2.389,0.736,0.84,Rebuilding,Dark Horse
+128,7,Boyceville,WI,D7,Dairyland,7-4,7,4,0,11,58.3,58.3,8.3,44.2,274,24.7,12.8,11.9,5.148,5.148,3.438,1.71,1.045,Steady Program,Semifinal Contender
+129,34,Xavier,WI,D4,Bay,5-6,5,6,0,11,58.1,58.1,8.1,62.7,51,20.2,23.6,-3.4,4.622,4.622,3.0,1.622,0.906,Rebuilding,First-Round / Bubble
+130,17,Wilmot,WI,D3,Southern Lakes,5-5,5,5,0,10,58.0,58.0,8.0,54.7,139,25.5,19.9,5.6,4.423,4.423,3.167,1.256,1.097,Steady Program,Dark Horse
+131,35,Amery,WI,D4,WIAA Varsity,5-6,5,6,0,11,58.0,58.0,8.0,58.2,98,25.6,24.2,1.4,4.3,4.3,2.778,1.522,0.691,Rebuilding,First-Round / Bubble
+132,29,Oshkosh West,WI,D1,Fox Valley Association,4-6,4,6,0,10,57.5,57.5,7.5,70.7,15,8.9,20.6,-11.7,5.402,5.402,2.833,2.569,2.05,Rebuilding,First-Round / Bubble
+133,36,Saint Croix Central,WI,D4,WIAA Varsity,3-6,3,6,0,9,57.4,57.4,7.4,55.5,127,22.4,18.4,4.0,2.408,2.408,1.667,0.741,0.37,Rebuilding,Rebuilding
+134,37,Unity,WI,D4,WIAA Varsity,6-4,6,4,0,10,57.4,57.4,7.4,48.3,211,26.1,18.1,8.0,4.19,4.19,2.667,1.523,0.751,Rising Power ↑,First-Round / Bubble
+135,30,Janesville Parker,WI,D1,Big Eight,4-7,4,7,0,11,57.0,57.0,7.0,64.1,40,21.9,27.6,-5.7,4.833,4.833,2.889,1.944,1.199,Rebuilding,First-Round / Bubble
+136,8,Cashton,WI,D7,Scenic Bluffs,8-2,8,2,0,10,57.0,57.0,7.0,35.5,341,33.5,11.8,21.7,5.155,5.155,3.944,1.211,0.746,Rising Power ↑,Semifinal Contender
+137,38,Milwaukee Lutheran,WI,D4,WIAA Varsity,6-4,6,4,0,10,56.9,56.9,6.9,45.3,255,32.1,18.2,13.9,4.377,4.377,2.944,1.433,1.295,Rising Power ↑,First-Round / Bubble
+138,9,Lourdes Academy,WI,D7,Trailways,9-2,9,2,0,11,56.9,56.9,6.9,31.5,352,31.9,10.1,21.8,6.021,6.021,4.111,1.91,0.712,Steady Program,Sectional Contender
+139,39,Denmark,WI,D4,North Eastern,6-4,6,4,0,10,56.6,56.6,6.6,54.7,137,26.1,24.7,1.4,3.822,3.822,2.944,0.878,0.483,Rising Power ↑,First-Round / Bubble
+140,24,Burlington,WI,D2,Southern Lakes,4-6,4,6,0,10,56.5,56.5,6.5,60.8,71,26.6,29.4,-2.8,4.639,4.639,2.778,1.861,0.953,Rebuilding,Dark Horse
+141,40,Whitnall,WI,D4,WIAA Varsity,4-7,4,7,0,11,56.5,56.5,6.5,56.8,115,24.5,25.8,-1.3,3.24,3.24,1.833,1.407,1.042,Rebuilding,First-Round / Bubble
+142,41,Randolph/Cambria-Friesland,WI,D4,WIAA Varsity,10-2,10,2,0,12,56.4,56.4,6.4,35.4,342,31.6,12.1,19.5,6.199,6.199,4.667,1.532,0.857,Rising Power ↑,First-Round / Bubble
+143,13,Mineral Point,WI,D6,SWAL,6-4,6,4,0,10,56.4,56.4,6.4,56.6,116,21.4,20.8,0.6,5.481,5.481,3.222,2.259,1.385,Rising Power ↑,Sectional Contender
+144,14,St. Mary's Springs,WI,D6,Flyway,5-5,5,5,0,10,56.2,56.2,6.2,53.5,150,20.7,17.2,3.5,4.478,4.478,2.667,1.811,0.929,Steady Program,Sectional Contender
+145,42,Marathon,WI,D4,WIAA Varsity,6-5,6,5,0,11,56.1,56.1,6.1,52.7,161,22.4,18.2,4.2,4.824,4.824,3.111,1.713,1.275,Rising Power ↑,First-Round / Bubble
+146,18,Sauk Prairie,WI,D3,Badger - Small,5-5,5,5,0,10,56.1,56.1,6.1,53.5,152,25.2,21.9,3.3,4.133,4.133,2.944,1.189,0.703,Steady Program,Dark Horse
+147,15,Fall Creek,WI,D6,Cloverbelt,6-5,6,5,0,11,56.0,56.0,6.0,50.4,185,24.4,18.5,5.9,4.278,4.278,2.667,1.611,1.07,Steady Program,Sectional Contender
+148,43,St. Mary Catholic,WI,D4,WIAA Varsity,7-3,7,3,0,10,55.9,55.9,5.9,44.9,262,26.4,14.3,12.1,6.127,6.127,3.889,2.238,1.621,Rising Power ↑,First-Round / Bubble
+149,44,Prairie du Chien,WI,D4,WIAA Varsity,5-5,5,5,0,10,55.8,55.8,5.8,46.5,239,31.2,21.8,9.4,3.778,3.778,2.778,1.0,0.259,Steady Program,First-Round / Bubble
+150,31,Wausau West,WI,D1,Wisconsin Valley,5-5,5,5,0,10,55.7,55.7,5.7,58.8,90,19.8,23.4,-3.6,4.922,4.922,3.389,1.533,1.067,Steady Program,First-Round / Bubble
+151,45,Pardeeville,WI,D4,WIAA Varsity,9-3,9,3,0,12,55.5,55.5,5.5,43.7,281,26.2,15.8,10.4,5.979,5.979,4.333,1.646,1.233,Steady Program,First-Round / Bubble
+152,46,Platteville,WI,D4,WIAA Varsity,7-3,7,3,0,10,55.5,55.5,5.5,46.3,242,34.5,26.3,8.2,5.635,5.635,3.889,1.746,0.791,Steady Program,First-Round / Bubble
+153,25,Ashwaubenon,WI,D2,Fox River Classic - North,5-5,5,5,0,10,55.3,55.3,5.3,62.8,50,15.9,21.4,-5.5,5.211,5.211,3.389,1.822,1.234,Steady Program,First-Round / Bubble
+154,10,Gale-Ettrick-Trempealeau,WI,D5,Coulee,3-6,3,6,0,9,55.2,55.2,5.2,58.3,97,22.3,23.2,-0.9,2.907,2.907,1.611,1.296,0.541,Rebuilding,Sectional Contender
+155,26,Badger,WI,D2,Southern Lakes,2-7,2,7,0,9,54.9,54.9,4.9,62.7,52,22.2,31.3,-9.1,2.778,2.778,1.389,1.389,0.931,Rebuilding,First-Round / Bubble
+156,47,Milwaukee Reagan,WI,D4,WIAA Varsity,7-4,7,4,0,11,54.8,54.8,4.8,49.1,197,21.7,18.5,3.2,5.795,5.795,3.333,2.462,1.337,Steady Program,First-Round / Bubble
+157,32,Green Bay Preble,WI,D1,Fox River Classic - North,3-6,3,6,0,9,54.7,54.7,4.7,65.9,28,19.9,30.4,-10.5,4.203,4.203,1.944,2.259,1.256,Rebuilding,First-Round / Bubble
+158,10,Glenwood City,WI,D7,Dairyland,9-2,9,2,0,11,54.6,54.6,4.6,42.7,296,23.8,12.3,11.5,6.171,6.171,4.188,1.983,1.091,Rising Power ↑,Sectional Contender
+159,33,Janesville Craig,WI,D1,Big Eight,4-5,4,5,0,9,54.5,54.5,4.5,55.0,131,25.6,26.6,-1.0,4.514,4.514,2.833,1.681,1.181,Rebuilding,First-Round / Bubble
+160,27,Wauwatosa East,WI,D2,Greater Metro,5-5,5,5,0,10,54.1,54.1,4.1,54.5,143,25.0,24.6,0.4,5.377,5.377,2.944,2.433,2.08,Steady Program,First-Round / Bubble
+161,48,Columbus,WI,D4,Capitol,3-7,3,7,0,10,54.1,54.1,4.1,59.1,89,18.2,26.7,-8.5,3.083,3.083,1.111,1.972,1.262,Rebuilding,Rebuilding
+162,49,Shoreland Lutheran,WI,D4,WIAA Varsity,6-5,6,5,0,11,53.8,53.8,3.8,50.9,178,20.7,16.9,3.8,5.315,5.315,3.278,2.037,1.287,Rising Power ↑,First-Round / Bubble
+163,34,Madison La Follette,WI,D1,Big Eight,4-5,4,5,0,9,53.8,53.8,3.8,54.3,145,33.1,32.0,1.1,3.917,3.917,2.889,1.028,0.767,Rebuilding,First-Round / Bubble
+164,50,Saint Francis,WI,D4,WIAA Varsity,10-4,10,4,0,14,53.4,53.4,3.4,44.0,277,23.2,12.4,10.8,6.501,6.501,4.889,1.612,0.962,Rising Power ↑,First-Round / Bubble
+165,51,New Holstein,WI,D4,WIAA Varsity,6-4,6,4,0,10,53.3,53.3,3.3,41.8,306,29.3,16.7,12.6,4.872,4.872,3.278,1.594,1.606,Steady Program,First-Round / Bubble
+166,35,Menomonee Falls,WI,D1,Greater Metro,4-6,4,6,0,10,53.2,53.2,3.2,61.1,69,19.2,25.8,-6.6,5.306,5.306,2.5,2.806,1.619,Rebuilding,First-Round / Bubble
+167,52,Somerset,WI,D4,Middle Border,5-5,5,5,0,10,53.0,53.0,3.0,55.6,126,24.1,25.8,-1.7,3.911,3.911,2.722,1.189,0.542,Steady Program,First-Round / Bubble
+168,53,Melrose-Mindoro,WI,D4,WIAA Varsity,8-3,8,3,0,11,52.9,52.9,2.9,38.9,325,27.4,13.6,13.8,4.881,4.881,3.556,1.325,0.626,Rising Power ↑,First-Round / Bubble
+169,54,Ashland,WI,D4,WIAA Varsity,7-4,7,4,0,11,52.5,52.5,2.5,45.7,252,29.0,22.4,6.6,4.403,4.403,3.111,1.292,0.644,Rising Power ↑,First-Round / Bubble
+170,28,Oshkosh North,WI,D2,Fox Valley Association,5-5,5,5,0,10,52.4,52.4,2.4,49.9,188,23.4,22.2,1.2,4.7,4.7,3.111,1.589,0.554,Steady Program,First-Round / Bubble
+171,29,Kettle Moraine,WI,D2,Classic Eight,0-9,0,9,0,9,52.1,52.1,2.1,83.7,1,14.2,42.0,-27.8,0.0,0.0,0.0,0.0,0.0,Rebuilding,First-Round / Bubble
+172,30,Westosha Central,WI,D2,Southern Lakes,4-6,4,6,0,10,51.6,51.6,1.6,63.4,45,11.7,21.9,-10.2,4.542,4.542,2.667,1.875,1.554,Rebuilding,First-Round / Bubble
+173,19,Portage,WI,D3,Badger - Small,5-5,5,5,0,10,51.6,51.6,1.6,55.2,129,25.2,28.8,-3.6,4.866,4.866,2.833,2.033,1.381,Steady Program,Dark Horse
+174,11,Spring Valley,WI,D7,Dairyland,7-3,7,3,0,10,51.2,51.2,1.2,44.6,269,20.7,15.2,5.5,5.126,5.126,3.438,1.688,1.086,Steady Program,Sectional Contender
+175,55,Milwaukee Bradley Tech,WI,D4,WIAA Varsity,7-5,7,5,0,12,50.9,50.9,0.9,45.2,259,17.7,12.3,5.4,5.493,5.493,3.333,2.16,0.974,Rising Power ↑,First-Round / Bubble
+176,12,Crivitz,WI,D7,Northwoods,7-5,7,5,0,12,50.7,50.7,0.7,42.7,295,25.1,17.6,7.5,4.871,4.871,3.167,1.704,0.787,Steady Program,Sectional Contender
+177,56,Campbellsport,WI,D4,WIAA Varsity,5-5,5,5,0,10,50.5,50.5,0.5,50.9,177,19.4,19.7,-0.3,4.112,4.112,2.556,1.556,0.832,Steady Program,First-Round / Bubble
+178,57,Loyal/Greenwood,WI,D4,WIAA Varsity,6-5,6,5,0,11,50.4,50.4,0.4,44.5,272,19.1,12.6,6.5,4.824,4.824,3.111,1.713,0.708,Rising Power ↑,First-Round / Bubble
+179,16,Weyauwega-Fremont,WI,D6,Central Wisconsin - Large,6-5,6,5,0,11,50.0,50.0,0.0,50.1,187,21.4,20.9,0.5,5.148,5.148,3.278,1.87,1.166,Steady Program,Sectional Contender
+180,58,Nekoosa,WI,D4,WIAA Varsity,6-4,6,4,0,10,49.9,49.9,-0.1,31.9,350,32.2,14.8,17.4,4.805,4.805,3.333,1.472,0.923,Steady Program,First-Round / Bubble
+181,59,Benton/Scales Mound/Shullsburg,WI,D4,WIAA Varsity,5-5,5,5,0,10,49.9,49.9,-0.1,54.8,134,24.1,27.0,-2.9,4.461,4.461,2.556,1.905,1.169,Steady Program,First-Round / Bubble
+182,60,Lancaster,WI,D4,WIAA Varsity,4-6,4,6,0,10,49.7,49.7,-0.3,48.6,204,23.4,22.6,0.8,3.472,3.472,2.222,1.25,0.296,Rebuilding,First-Round / Bubble
+183,61,Kiel,WI,D4,WIAA Varsity,6-5,6,5,0,11,49.5,49.5,-0.5,48.8,202,23.7,24.3,-0.6,4.767,4.767,2.778,1.989,1.849,Steady Program,First-Round / Bubble
+184,20,Rice Lake,WI,D3,Big Rivers,1-8,1,8,0,9,49.5,49.5,-0.5,66.7,26,14.6,32.0,-17.4,2.166,2.166,0.722,1.444,1.083,Rebuilding,Dark Horse
+185,62,Pius XI Catholic,WI,D4,WIAA Varsity,6-4,6,4,0,10,49.4,49.4,-0.6,43.7,282,22.9,18.4,4.5,3.682,3.682,2.611,1.071,0.918,Rising Power ↑,First-Round / Bubble
+186,31,Wausau East,WI,D2,Wisconsin Valley,7-3,7,3,0,10,49.4,49.4,-0.6,50.2,186,19.8,22.0,-2.2,5.634,5.634,3.944,1.69,0.784,Steady Program,First-Round / Bubble
+187,63,Milwaukee Rufus King,WI,D4,WIAA Varsity,4-6,4,6,0,10,49.1,49.1,-0.9,59.6,82,13.8,25.0,-11.2,4.153,4.153,2.667,1.486,1.254,Rebuilding,First-Round / Bubble
+188,64,Edgerton,WI,D4,WIAA Varsity,4-6,4,6,0,10,49.1,49.1,-0.9,52.4,165,27.3,30.8,-3.5,3.82,3.82,2.278,1.542,0.893,Rebuilding,First-Round / Bubble
+189,11,Milwaukee Academy of Science,WI,D5,Midwest Classic,6-5,6,5,0,11,49.0,49.0,-1.0,43.3,287,24.8,16.6,8.2,4.848,4.848,3.278,1.57,0.528,Steady Program,Sectional Contender
+190,65,Shiocton,WI,D4,WIAA Varsity,9-2,9,2,0,11,49.0,49.0,-1.0,35.9,339,22.3,9.2,13.1,6.222,6.222,4.778,1.444,0.813,Rising Power ↑,First-Round / Bubble
+191,66,Turner,WI,D4,WIAA Varsity,5-5,5,5,0,10,48.7,48.7,-1.3,43.9,279,22.9,18.1,4.8,3.889,3.889,2.778,1.111,1.211,Steady Program,First-Round / Bubble
+192,21,Seymour,WI,D3,Bay,5-5,5,5,0,10,48.6,48.6,-1.4,52.5,164,20.5,26.0,-5.5,4.277,4.277,2.944,1.333,0.695,Steady Program,Dark Horse
+193,67,Merrill,WI,D4,WIAA Varsity,6-4,6,4,0,10,48.6,48.6,-1.4,47.5,219,21.6,21.8,-0.2,4.648,4.648,3.333,1.315,0.552,Steady Program,First-Round / Bubble
+194,22,Menomonie,WI,D3,Big Rivers,3-6,3,6,0,9,48.4,48.4,-1.6,62.2,56,21.6,35.6,-14.0,3.26,3.26,2.056,1.204,1.083,Rebuilding,Dark Horse
+195,68,Martin Luther,WI,D4,WIAA Varsity,4-5,4,5,0,9,48.3,48.3,-1.7,53.1,158,19.4,25.1,-5.7,3.361,3.361,2.333,1.028,1.41,Rebuilding,First-Round / Bubble
+196,23,Sparta,WI,D3,Mississippi Valley,3-6,3,6,0,9,48.2,48.2,-1.8,63.2,46,18.6,32.0,-13.4,2.963,2.963,1.722,1.241,0.89,Rebuilding,Dark Horse
+197,69,Altoona,WI,D4,WIAA Varsity,3-6,3,6,0,9,48.2,48.2,-1.8,54.1,146,20.6,26.7,-6.1,2.778,2.778,1.667,1.111,0.507,Rebuilding,Rebuilding
+198,70,Webster,WI,D4,WIAA Varsity,7-3,7,3,0,10,48.0,48.0,-2.0,40.5,315,26.8,17.4,9.4,4.978,4.978,3.778,1.2,0.724,Rising Power ↑,First-Round / Bubble
+199,71,Whitehall,WI,D4,WIAA Varsity,7-5,7,5,0,12,47.9,47.9,-2.1,41.4,311,22.5,16.4,6.1,4.259,4.259,3.333,0.926,0.333,Steady Program,First-Round / Bubble
+200,32,Wauwatosa West,WI,D2,Greater Metro,2-7,2,7,0,9,47.8,47.8,-2.2,62.5,54,16.6,30.2,-13.6,3.361,3.361,1.333,2.028,2.592,Rebuilding,First-Round / Bubble
+201,72,Dodgeville,WI,D4,WIAA Varsity,4-6,4,6,0,10,47.7,47.7,-2.3,49.6,194,23.8,24.1,-0.3,3.333,3.333,2.222,1.111,0.359,Rebuilding,First-Round / Bubble
+202,36,Superior,WI,D1,Big Rivers,2-7,2,7,0,9,47.4,47.4,-2.6,57.0,113,26.3,33.2,-6.9,2.527,2.527,1.444,1.083,0.806,Rebuilding,Rebuilding
+203,73,Nicolet,WI,D4,WIAA Varsity,3-6,3,6,0,9,47.0,47.0,-3.0,61.2,65,20.0,34.2,-14.2,3.037,3.037,1.889,1.148,1.551,Rebuilding,Rebuilding
+204,74,Southwestern/East Dubuque,WI,D4,WIAA Varsity,2-7,2,7,0,9,46.8,46.8,-3.2,57.6,105,18.2,27.3,-9.1,2.111,2.111,1.0,1.111,0.593,Rebuilding,Rebuilding
+205,13,Bangor,WI,D7,Scenic Bluffs,4-7,4,7,0,11,46.7,46.7,-3.3,46.1,246,21.2,20.7,0.5,3.181,3.181,2.056,1.125,0.903,Rebuilding,Sectional Contender
+206,12,Colby,WI,D5,Marawood,4-5,4,5,0,9,46.4,46.4,-3.6,47.1,227,21.7,21.3,0.4,3.125,3.125,2.056,1.069,1.264,Rebuilding,Sectional Contender
+207,75,Fall River/Rio,WI,D4,WIAA Varsity,6-4,6,4,0,10,46.3,46.3,-3.7,32.7,348,29.0,14.4,14.6,4.398,4.398,3.0,1.398,0.724,Rising Power ↑,First-Round / Bubble
+208,33,Waukesha North,WI,D2,Classic Eight,2-8,2,8,0,10,46.2,46.2,-3.8,60.5,77,21.0,33.8,-12.8,3.861,3.861,1.111,2.75,1.168,Rebuilding,First-Round / Bubble
+209,76,Tomahawk,WI,D4,WIAA Varsity,4-7,4,7,0,11,45.9,45.9,-4.1,50.5,183,13.4,18.6,-5.2,3.5,3.5,2.222,1.278,0.508,Rebuilding,First-Round / Bubble
+210,37,Eau Claire North,WI,D1,Big Rivers,3-6,3,6,0,9,45.8,45.8,-4.2,57.1,109,18.9,32.1,-13.2,3.778,3.778,2.167,1.611,0.752,Rebuilding,Rebuilding
+211,17,Fennimore,WI,D6,SWAL,3-6,3,6,0,9,45.4,45.4,-4.6,51.2,173,23.0,26.7,-3.7,2.852,2.852,1.667,1.185,0.648,Rebuilding,Dark Horse
+212,38,Appleton East,WI,D1,Fox Valley Association,1-8,1,8,0,9,45.2,45.2,-4.8,70.0,17,9.2,32.1,-22.9,2.666,2.666,0.722,1.944,2.259,Rebuilding,Rebuilding
+213,77,Oconto Falls,WI,D4,WIAA Varsity,4-5,4,5,0,9,44.8,44.8,-5.2,41.4,312,23.1,21.1,2.0,2.987,2.987,2.056,0.931,0.472,Rebuilding,First-Round / Bubble
+214,34,Cedarburg,WI,D2,North Shore,2-7,2,7,0,9,44.8,44.8,-5.2,59.3,86,17.1,31.6,-14.5,1.694,1.694,1.333,0.361,1.25,Rebuilding,First-Round / Bubble
+215,78,Milwaukee Hamilton,WI,D4,WIAA Varsity,6-5,6,5,0,11,44.3,44.3,-5.7,44.8,263,19.4,24.1,-4.7,4.941,4.941,2.778,2.163,1.176,Steady Program,First-Round / Bubble
+216,13,Oostburg,WI,D5,Big East,5-5,5,5,0,10,44.1,44.1,-5.9,43.1,291,19.7,18.6,1.1,3.422,3.422,2.5,0.922,0.606,Steady Program,Sectional Contender
+217,79,Berlin,WI,D4,WIAA Varsity,6-4,6,4,0,10,43.8,43.8,-6.2,37.5,333,28.6,26.0,2.6,5.268,5.268,3.333,1.935,1.296,Steady Program,First-Round / Bubble
+218,39,Sheboygan North,WI,D1,Fox River Classic - South,3-6,3,6,0,9,43.8,43.8,-6.2,47.2,225,22.7,24.8,-2.1,2.204,2.204,1.778,0.426,0.213,Rebuilding,Rebuilding
+219,80,Kohler Coop,WI,D4,WIAA Varsity,3-6,3,6,0,9,43.7,43.7,-6.3,59.2,88,20.3,33.6,-13.3,2.611,2.611,1.444,1.167,0.493,Rebuilding,Rebuilding
+220,81,Hillsboro,WI,D4,WIAA Varsity,5-5,5,5,0,10,43.6,43.6,-6.4,36.6,338,20.9,16.2,4.7,2.667,2.667,2.056,0.611,0.75,Steady Program,First-Round / Bubble
+221,82,Shorewood Co-op,WI,D4,WIAA Varsity,0-9,0,9,0,9,43.4,43.4,-6.6,46.4,240,0.0,1.0,-1.0,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+222,24,New London,WI,D3,Bay,3-6,3,6,0,9,43.1,43.1,-6.9,54.6,140,18.1,30.0,-11.9,2.167,2.167,1.778,0.389,0.287,Rebuilding,Dark Horse
+223,83,Wittenberg-Birnamwood,WI,D4,WIAA Varsity,2-8,2,8,0,10,42.9,42.9,-7.1,61.1,68,13.9,31.6,-17.7,3.139,3.139,1.056,2.083,1.569,Rebuilding,Rebuilding
+224,25,McFarland,WI,D3,Badger - Small,4-6,4,6,0,10,42.6,42.6,-7.4,56.1,121,20.7,33.9,-13.2,3.57,3.57,2.278,1.292,0.618,Rebuilding,First-Round / Bubble
+225,84,Milwaukee Pulaski,WI,D4,WIAA Varsity,7-4,7,4,0,11,42.4,42.4,-7.6,39.1,324,21.6,19.7,1.9,6.033,6.033,3.889,2.144,1.342,Steady Program,First-Round / Bubble
+226,40,Appleton West,WI,D1,Fox Valley Association,3-6,3,6,0,9,42.4,42.4,-7.6,57.3,108,17.6,31.2,-13.6,2.463,2.463,1.667,0.796,0.426,Rebuilding,Rebuilding
+227,35,Sun Prairie West,WI,D2,Badger - Large,1-8,1,8,0,9,42.3,42.3,-7.7,67.7,22,9.0,32.9,-23.9,1.278,1.278,0.556,0.722,1.278,Rebuilding,Rebuilding
+228,85,Chilton,WI,D4,WIAA Varsity,6-5,6,5,0,11,42.2,42.2,-7.8,46.2,244,17.0,20.6,-3.6,4.544,4.544,2.5,2.044,1.421,Steady Program,First-Round / Bubble
+229,86,Rhinelander,WI,D4,WIAA Varsity,5-5,5,5,0,10,41.9,41.9,-8.1,48.3,210,21.9,28.1,-6.2,4.2,4.2,2.833,1.367,0.523,Steady Program,First-Round / Bubble
+230,87,Monroe,WI,D4,WIAA Varsity,1-8,1,8,0,9,41.5,41.5,-8.5,53.5,151,21.7,32.4,-10.7,1.278,1.278,0.556,0.722,0.0,Rebuilding,Rebuilding
+231,14,Bloomer,WI,D5,Heart O'North,5-5,5,5,0,10,41.4,41.4,-8.6,47.3,221,18.3,26.6,-8.3,2.913,2.913,2.056,0.857,0.617,Steady Program,Sectional Contender
+232,88,Brookwood,WI,D4,WIAA Varsity,4-6,4,6,0,10,41.2,41.2,-8.8,40.9,314,19.5,19.8,-0.3,2.444,2.444,1.5,0.944,0.596,Rebuilding,First-Round / Bubble
+233,15,Spencer/Columbus Catholic,WI,D5,Central Wisconsin - Large,4-6,4,6,0,10,40.9,40.9,-9.1,51.4,172,15.8,27.5,-11.7,3.805,3.805,1.944,1.861,0.966,Rebuilding,Sectional Contender
+234,89,Valders,WI,D4,WIAA Varsity,4-6,4,6,0,10,40.8,40.8,-9.2,48.3,212,17.8,24.5,-6.7,4.766,4.766,2.5,2.266,1.821,Rebuilding,First-Round / Bubble
+235,41,Kenosha Tremper,WI,D1,Southeast,2-7,2,7,0,9,40.7,40.7,-9.3,53.5,155,13.6,25.6,-12.0,2.0,2.0,1.389,0.611,0.972,Rebuilding,Rebuilding
+236,36,Hartford,WI,D2,North Shore,1-8,1,8,0,9,40.3,40.3,-9.7,63.9,41,15.9,39.2,-23.3,3.222,3.222,0.722,2.5,2.806,Rebuilding,Rebuilding
+237,90,Markesan,WI,D4,WIAA Varsity,3-6,3,6,0,9,40.1,40.1,-9.9,42.0,302,17.1,19.3,-2.2,3.278,3.278,1.667,1.611,1.454,Rebuilding,Rebuilding
+238,91,Marinette,WI,D4,WIAA Varsity,3-6,3,6,0,9,40.1,40.1,-9.9,46.5,237,18.1,25.1,-7.0,2.667,2.667,1.611,1.056,1.218,Rebuilding,Rebuilding
+239,37,Tomah,WI,D2,Mississippi Valley,0-9,0,9,0,9,39.7,39.7,-10.3,67.7,21,16.8,41.4,-24.6,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+240,18,Oconto,WI,D6,Packerland,4-5,4,5,0,9,39.6,39.6,-10.4,40.3,316,18.0,16.7,1.3,2.917,2.917,2.111,0.806,0.535,Rebuilding,Dark Horse
+241,92,Milwaukee Riverside,WI,D4,WIAA Varsity,6-5,6,5,0,11,39.4,39.4,-10.6,48.2,213,15.6,26.2,-10.6,5.356,5.356,3.5,1.856,1.216,Steady Program,First-Round / Bubble
+242,93,Northland Pines,WI,D4,WIAA Varsity,4-5,4,5,0,9,39.3,39.3,-10.7,41.9,304,17.2,18.0,-0.8,2.764,2.764,2.222,0.542,0.208,Rebuilding,First-Round / Bubble
+243,94,Catholic Central,WI,D4,WIAA Varsity,0-8,0,8,0,8,39.2,39.2,-10.8,44.1,275,0.0,1.0,-1.0,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+244,16,Peshtigo,WI,D5,Packerland,5-5,5,5,0,10,39.0,39.0,-11.0,46.7,232,16.8,23.9,-7.1,4.034,4.034,2.556,1.478,0.775,Steady Program,Sectional Contender
+245,95,Lakeland,WI,D4,WIAA Varsity,3-6,3,6,0,9,38.8,38.8,-11.2,43.5,283,17.0,21.8,-4.8,2.389,2.389,1.722,0.667,0.218,Rebuilding,Rebuilding
+246,26,Baraboo,WI,D3,Mississippi Valley,2-7,2,7,0,9,38.5,38.5,-11.5,63.1,47,19.3,44.4,-25.1,2.139,2.139,1.278,0.861,0.62,Rebuilding,First-Round / Bubble
+247,96,Jefferson,WI,D4,WIAA Varsity,3-6,3,6,0,9,38.2,38.2,-11.8,46.3,243,23.1,30.7,-7.6,2.648,2.648,1.667,0.981,0.556,Rebuilding,Rebuilding
+248,42,Wisconsin Rapids,WI,D1,Wisconsin Valley,2-7,2,7,0,9,38.2,38.2,-11.8,56.0,123,18.8,35.2,-16.4,2.166,2.166,1.444,0.722,0.542,Rebuilding,Rebuilding
+249,97,Iola-Scandinavia,WI,D4,WIAA Varsity,0-9,0,9,0,9,38.1,38.1,-11.9,41.8,307,0.0,1.0,-1.0,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+250,98,Mosinee,WI,D4,WIAA Varsity,1-8,1,8,0,9,37.9,37.9,-12.1,51.6,171,8.7,22.9,-14.2,0.556,0.556,0.556,0.0,0.0,Rebuilding,Rebuilding
+251,99,Marshall,WI,D4,WIAA Varsity,3-6,3,6,0,9,37.8,37.8,-12.2,37.6,330,16.3,15.3,1.0,2.796,2.796,1.5,1.296,0.311,Rebuilding,Rebuilding
+252,100,Poynette,WI,D4,WIAA Varsity,5-5,5,5,0,10,37.8,37.8,-12.2,44.3,273,14.6,23.7,-9.1,4.345,4.345,2.778,1.567,1.304,Steady Program,First-Round / Bubble
+253,101,Osseo-Fairchild,WI,D4,WIAA Varsity,3-7,3,7,0,10,37.6,37.6,-12.4,47.3,224,15.3,23.9,-8.6,2.055,2.055,1.062,0.993,1.531,Rebuilding,Rebuilding
+254,102,Pacelli,WI,D4,WIAA Varsity,6-5,6,5,0,11,37.3,37.3,-12.7,37.5,332,19.8,17.7,2.1,4.185,4.185,3.222,0.963,0.417,Rising Power ↑,First-Round / Bubble
+255,103,Watertown,WI,D4,WIAA Varsity,1-8,1,8,0,9,37.3,37.3,-12.7,64.8,36,15.9,40.9,-25.0,2.0,2.0,0.722,1.278,1.389,Rebuilding,Rebuilding
+256,104,Milwaukee Marshall,WI,D4,WIAA Varsity,0-7,0,7,0,7,37.0,37.0,-13.0,41.6,310,0.0,1.0,-1.0,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+257,27,Stoughton,WI,D3,Badger - Small,2-7,2,7,0,9,36.9,36.9,-13.1,54.5,142,21.6,39.8,-18.2,1.75,1.75,1.111,0.639,0.361,Rebuilding,First-Round / Bubble
+258,105,Westfield,WI,D4,WIAA Varsity,6-4,6,4,0,10,36.7,36.7,-13.3,33.5,346,19.6,20.1,-0.5,4.843,4.843,3.167,1.676,0.634,Steady Program,First-Round / Bubble
+259,28,Shawano,WI,D3,Bay,2-7,2,7,0,9,36.6,36.6,-13.4,51.8,169,18.2,31.6,-13.4,2.028,2.028,1.167,0.861,0.333,Rebuilding,First-Round / Bubble
+260,17,Stanley-Boyd,WI,D5,Cloverbelt,2-7,2,7,0,9,36.6,36.6,-13.4,54.8,135,17.3,35.2,-17.9,2.611,2.611,1.0,1.611,1.046,Rebuilding,Dark Horse
+261,106,Ripon,WI,D4,WIAA Varsity,5-5,5,5,0,10,36.6,36.6,-13.4,34.8,343,19.2,18.6,0.6,4.155,4.155,2.722,1.433,0.969,Steady Program,First-Round / Bubble
+262,19,Auburndale,WI,D6,Marawood,3-7,3,7,0,10,36.0,36.0,-14.0,44.5,271,12.7,23.5,-10.8,2.482,2.482,1.556,0.926,0.454,Rebuilding,Dark Horse
+263,107,Green Bay West,WI,D4,WIAA Varsity,6-4,6,4,0,10,36.0,36.0,-14.0,43.2,290,19.3,27.4,-8.1,4.426,4.426,3.611,0.815,0.326,Steady Program,First-Round / Bubble
+264,18,Laconia,WI,D5,Flyway,3-6,3,6,0,9,35.9,35.9,-14.1,46.1,247,14.2,24.3,-10.1,2.352,2.352,1.611,0.741,0.537,Rebuilding,Dark Horse
+265,14,Pecatonica/Argyle,WI,D7,Six Rivers,4-6,4,6,0,10,35.5,35.5,-14.5,41.8,308,22.3,25.7,-3.4,2.936,2.936,2.222,0.714,0.185,Rebuilding,Sectional Contender
+266,43,Madison West,WI,D1,Big Eight,2-7,2,7,0,9,35.4,35.4,-14.6,52.2,166,21.4,37.8,-16.4,2.667,2.667,1.278,1.389,1.081,Rebuilding,Rebuilding
+267,108,University School,WI,D4,WIAA Varsity,7-5,7,5,0,12,35.2,35.2,-14.8,39.4,320,21.2,30.1,-8.9,4.402,4.402,3.333,1.069,0.199,Steady Program,First-Round / Bubble
+268,20,Abbotsford,WI,D6,Marawood,4-6,4,6,0,10,34.7,34.7,-15.3,46.3,241,11.4,23.5,-12.1,3.583,3.583,2.222,1.361,0.644,Rebuilding,Dark Horse
+269,109,Riverdale,WI,D4,WIAA Varsity,4-6,4,6,0,10,34.7,34.7,-15.3,49.8,189,20.2,36.0,-15.8,3.299,3.299,2.056,1.243,0.331,Rebuilding,First-Round / Bubble
+270,110,Kenosha Christian Life,WI,D4,WIAA Varsity,0-6,0,6,0,6,34.2,34.2,-15.8,37.7,329,0.0,1.0,-1.0,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+271,111,Colfax,WI,D4,WIAA Varsity,2-6,2,6,0,8,34.0,34.0,-16.0,42.0,303,13.9,18.8,-4.9,2.812,2.812,1.25,1.562,0.417,Rebuilding,Rebuilding
+272,44,Racine Horlick,WI,D1,Southeast,2-7,2,7,0,9,33.9,33.9,-16.1,57.0,112,17.4,46.8,-29.4,3.166,3.166,1.222,1.944,1.072,Rebuilding,Rebuilding
+273,15,Royall,WI,D7,Scenic Bluffs,5-5,5,5,0,10,33.9,33.9,-16.1,42.9,292,18.2,27.4,-9.2,3.677,3.677,2.444,1.233,0.758,Steady Program,Sectional Contender
+274,112,Living Word Lutheran,WI,D4,WIAA Varsity,6-6,6,6,0,12,33.9,33.9,-16.1,42.2,301,18.5,28.8,-10.3,3.722,3.722,2.722,1.0,0.708,Steady Program,First-Round / Bubble
+275,113,Wisconsin Dells,WI,D4,WIAA Varsity,5-5,5,5,0,10,33.9,33.9,-16.1,37.3,334,22.3,28.0,-5.7,4.0,4.0,2.778,1.222,0.963,Steady Program,First-Round / Bubble
+276,45,Beloit Memorial,WI,D1,Big Eight,0-9,0,9,0,9,33.7,33.7,-16.3,61.6,62,11.2,40.6,-29.4,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+277,114,Random Lake/Ozaukee,WI,D4,WIAA Varsity,5-5,5,5,0,10,33.4,33.4,-16.6,42.2,299,15.8,23.1,-7.3,3.8,3.8,2.5,1.3,0.585,Steady Program,First-Round / Bubble
+278,115,Westby,WI,D4,WIAA Varsity,2-7,2,7,0,9,33.2,33.2,-16.8,50.8,179,15.6,32.7,-17.1,1.111,1.111,1.111,0.0,0.0,Rebuilding,Rebuilding
+279,116,Chetek-Weyerhaeuser,WI,D4,WIAA Varsity,2-7,2,7,0,9,32.9,32.9,-17.1,45.3,257,14.7,27.4,-12.7,1.361,1.361,0.889,0.472,0.125,Rebuilding,Rebuilding
+280,117,Ellsworth,WI,D4,Middle Border,0-9,0,9,0,9,32.7,32.7,-17.3,60.1,80,7.1,33.4,-26.3,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+281,118,Waupun,WI,D4,WIAA Varsity,3-6,3,6,0,9,32.6,32.6,-17.4,35.9,340,25.4,31.6,-6.2,2.963,2.963,1.667,1.296,1.191,Rebuilding,Rebuilding
+282,119,Mauston,WI,D4,WIAA Varsity,5-5,5,5,0,10,32.3,32.3,-17.7,39.7,319,25.2,31.2,-6.0,4.767,4.767,2.778,1.989,1.142,Steady Program,First-Round / Bubble
+283,120,Milwaukee Howard Fuller,WI,D4,WIAA Varsity,7-3,7,3,0,10,32.3,32.3,-17.7,25.4,358,14.3,11.8,2.5,5.519,5.519,3.889,1.63,0.509,Steady Program,First-Round / Bubble
+284,121,Richland Center,WI,D4,WIAA Varsity,3-6,3,6,0,9,31.8,31.8,-18.2,44.6,268,18.6,32.0,-13.4,1.852,1.852,1.667,0.185,0.0,Rebuilding,Rebuilding
+285,29,Hayward,WI,D3,Heart O'North,3-6,3,6,0,9,31.7,31.7,-18.3,42.2,300,18.9,32.0,-13.1,2.098,2.098,1.444,0.654,0.604,Rebuilding,First-Round / Bubble
+286,122,South Milwaukee,WI,D4,WIAA Varsity,4-6,4,6,0,10,31.6,31.6,-18.4,46.0,248,16.7,29.2,-12.5,3.459,3.459,2.556,0.903,0.708,Rebuilding,First-Round / Bubble
+287,123,Manawa,WI,D4,WIAA Varsity,3-7,3,7,0,10,31.5,31.5,-18.5,43.4,286,19.4,28.9,-9.5,2.444,2.444,1.611,0.833,0.62,Rebuilding,Rebuilding
+288,124,Waterloo,WI,D4,WIAA Varsity,3-7,3,7,0,10,31.2,31.2,-18.8,41.9,305,12.9,24.6,-11.7,2.408,2.408,1.667,0.741,1.037,Rebuilding,Rebuilding
+289,125,Prescott,WI,D4,Middle Border,1-8,1,8,0,9,31.1,31.1,-18.9,57.5,106,10.0,38.4,-28.4,0.556,0.556,0.556,0.0,0.0,Rebuilding,Rebuilding
+290,46,West Allis Hale,WI,D1,Greater Metro,1-8,1,8,0,9,30.6,30.6,-19.4,53.4,157,13.1,36.8,-23.7,1.667,1.667,0.556,1.111,1.111,Rebuilding,Rebuilding
+291,126,Elmwood/Plum City,WI,D4,WIAA Varsity,3-6,3,6,0,9,30.4,30.4,-19.6,48.3,209,15.6,33.3,-17.7,3.383,3.383,1.875,1.508,1.037,Rebuilding,Rebuilding
+292,127,Milwaukee Bay View,WI,D4,WIAA Varsity,5-5,5,5,0,10,30.3,30.3,-19.7,38.5,326,11.4,22.1,-10.7,4.804,4.804,2.944,1.86,0.755,Steady Program,First-Round / Bubble
+293,47,Manitowoc Lincoln,WI,D1,Fox River Classic - South,2-7,2,7,0,9,29.5,29.5,-20.5,51.0,176,11.3,33.8,-22.5,2.167,2.167,1.278,0.889,0.213,Rebuilding,Rebuilding
+294,128,St. Thomas More,WI,D4,WIAA Varsity,3-7,3,7,0,10,29.3,29.3,-20.7,48.5,205,15.4,34.5,-19.1,3.334,3.334,1.667,1.667,1.192,Rebuilding,Rebuilding
+295,16,Reedsville,WI,D7,Big East,2-7,2,7,0,9,29.2,29.2,-20.8,45.6,253,9.4,25.9,-16.5,1.556,1.556,1.0,0.556,0.588,Rebuilding,Sectional Contender
+296,129,Green Bay Southwest,WI,D4,WIAA Varsity,2-7,2,7,0,9,29.1,29.1,-20.9,58.7,92,12.2,38.6,-26.4,1.75,1.75,1.111,0.639,0.319,Rebuilding,Rebuilding
+297,130,Neillsville/Granton,WI,D4,WIAA Varsity,3-7,3,7,0,10,29.0,29.0,-21.0,50.7,181,10.0,29.9,-19.9,2.834,2.834,1.667,1.167,0.756,Rebuilding,Rebuilding
+298,38,Racine Park,WI,D2,Southeast,0-9,0,9,0,9,29.0,29.0,-21.0,56.5,118,3.4,31.6,-28.2,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+299,131,Milwaukee School of Languages,WI,D4,WIAA Varsity,2-8,2,8,0,10,28.9,28.9,-21.1,37.5,331,15.4,25.2,-9.8,1.111,1.111,1.111,0.0,0.0,Rebuilding,Rebuilding
+300,19,Brookfield Academy,WI,D5,Midwest Classic,4-7,4,7,0,11,28.9,28.9,-21.1,44.8,265,16.4,35.1,-18.7,3.693,3.693,2.222,1.471,0.784,Rebuilding,Dark Horse
+301,132,Antigo,WI,D4,WIAA Varsity,0-9,0,9,0,9,28.8,28.8,-21.2,46.2,245,13.0,28.0,-15.0,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+302,133,East Troy,WI,D4,WIAA Varsity,2-7,2,7,0,9,28.0,28.0,-22.0,43.5,284,14.7,28.8,-14.1,2.222,2.222,1.111,1.111,0.931,Rebuilding,Rebuilding
+303,134,Milwaukee Washington,WI,D4,WIAA Varsity,3-5,3,5,0,8,27.7,27.7,-22.3,27.7,356,6.6,8.6,-2.0,3.482,3.482,1.875,1.607,0.288,Rebuilding,Rebuilding
+304,135,Brown Deer,WI,D4,WIAA Varsity,2-8,2,8,0,10,27.1,27.1,-22.9,51.9,168,7.5,33.7,-26.2,3.055,3.055,1.111,1.944,0.815,Rebuilding,Rebuilding
+305,20,Southern Door,WI,D5,Packerland,2-7,2,7,0,9,26.2,26.2,-23.8,47.0,228,10.4,30.9,-20.5,2.139,2.139,1.056,1.083,0.528,Rebuilding,Dark Horse
+306,21,Omro,WI,D5,Flyway,1-8,1,8,0,9,26.1,26.1,-23.9,50.6,182,10.6,33.3,-22.7,0.556,0.556,0.556,0.0,0.0,Rebuilding,Dark Horse
+307,136,Milwaukee South,WI,D4,WIAA Varsity,1-4,1,4,0,5,26.0,26.0,-24.0,29.3,353,6.0,6.4,-0.4,1.0,1.0,1.0,0.0,0.0,Rebuilding,Rebuilding
+308,137,Two Rivers,WI,D4,WIAA Varsity,1-8,1,8,0,9,25.8,25.8,-24.2,44.9,261,13.3,32.0,-18.7,3.278,3.278,0.556,2.722,1.433,Rebuilding,Rebuilding
+309,138,Wauzeka/Seneca,WI,D4,WIAA Varsity,1-7,1,7,0,8,25.8,25.8,-24.2,48.9,201,7.5,32.5,-25.0,0.625,0.625,0.625,0.0,0.0,Rebuilding,Rebuilding
+310,139,Big Foot,WI,D4,WIAA Varsity,2-7,2,7,0,9,25.7,25.7,-24.3,41.6,309,13.4,27.6,-14.2,2.417,2.417,1.111,1.306,0.926,Rebuilding,Rebuilding
+311,140,Viroqua,WI,D4,WIAA Varsity,0-9,0,9,0,9,25.6,25.6,-24.4,56.3,120,6.4,36.4,-30.0,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+312,141,Roncalli,WI,D4,WIAA Varsity,2-7,2,7,0,9,25.2,25.2,-24.8,45.3,256,17.4,39.7,-22.3,1.389,1.389,1.111,0.278,1.361,Rebuilding,Rebuilding
+313,39,West Bend East,WI,D2,North Shore,0-9,0,9,0,9,25.1,25.1,-24.9,64.6,37,3.1,40.0,-36.9,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+314,142,Eleva-Strum,WI,D4,WIAA Varsity,2-7,2,7,0,9,24.4,24.4,-25.6,42.8,294,15.3,36.8,-21.5,1.389,1.389,1.111,0.278,0.0,Rebuilding,Rebuilding
+315,143,Blair-Taylor,WI,D4,WIAA Varsity,1-8,1,8,0,9,24.3,24.3,-25.7,47.3,222,8.2,33.9,-25.7,0.556,0.556,0.556,0.0,0.0,Rebuilding,Rebuilding
+316,144,Clinton,WI,D4,WIAA Varsity,2-7,2,7,0,9,24.1,24.1,-25.9,47.4,220,8.4,34.4,-26.0,2.222,2.222,1.111,1.111,0.833,Rebuilding,Rebuilding
+317,21,Cumberland,WI,D6,Heart O'North,2-7,2,7,0,9,24.1,24.1,-25.9,39.2,322,12.1,28.3,-16.2,1.194,1.194,0.944,0.25,0.25,Rebuilding,Dark Horse
+318,48,Eau Claire Memorial,WI,D1,Big Rivers,0-9,0,9,0,9,23.1,23.1,-26.9,61.1,66,8.0,41.7,-33.7,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+319,145,Horicon/Hustisford,WI,D4,WIAA Varsity,1-8,1,8,0,9,23.1,23.1,-26.9,49.1,198,9.3,35.3,-26.0,2.056,2.056,0.556,1.5,1.296,Rebuilding,Rebuilding
+320,146,Crandon,WI,D4,WIAA Varsity,1-8,1,8,0,9,22.9,22.9,-27.1,44.0,276,8.6,29.7,-21.1,0.556,0.556,0.556,0.0,0.0,Rebuilding,Rebuilding
+321,17,Johnson Creek,WI,D7,Trailways,3-6,3,6,0,9,22.9,22.9,-27.1,32.8,347,10.2,23.4,-13.2,1.859,1.859,1.667,0.192,0.0,Rebuilding,Dark Horse
+322,147,Sheboygan Falls,WI,D4,WIAA Varsity,0-9,0,9,0,9,22.5,22.5,-27.5,66.0,27,6.4,48.8,-42.4,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+323,148,Augusta,WI,D4,WIAA Varsity,3-6,3,6,0,9,22.4,22.4,-27.6,40.3,317,16.0,33.9,-17.9,2.223,2.223,1.667,0.556,0.093,Rebuilding,Rebuilding
+324,149,Milwaukee North,WI,D4,WIAA Varsity,6-3,6,3,0,9,22.0,22.0,-28.0,29.2,354,4.9,13.4,-8.5,5.27,5.27,3.75,1.52,0.608,Steady Program,First-Round / Bubble
+325,150,Milwaukee Madison,WI,D4,WIAA Varsity,0-5,0,5,0,5,21.9,21.9,-28.1,25.4,357,5.6,6.8,-1.2,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+326,30,Waupaca,WI,D3,Bay,0-9,0,9,0,9,21.8,21.8,-28.2,57.3,107,10.7,46.3,-35.6,0.0,0.0,0.0,0.0,0.0,Rebuilding,First-Round / Bubble
+327,151,Milwaukee Vincent,WI,D4,WIAA Varsity,0-3,0,3,0,3,21.6,21.6,-28.4,24.5,359,0.0,1.0,-1.0,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+328,22,Howards Grove,WI,D6,Big East,2-7,2,7,0,9,21.6,21.6,-28.4,45.3,258,5.9,32.7,-26.8,2.287,2.287,1.111,1.176,1.133,Rebuilding,Dark Horse
+329,22,Spooner,WI,D5,Heart O'North,1-7,1,7,0,8,21.4,21.4,-28.6,46.6,235,8.9,33.2,-24.3,1.562,1.562,0.5,1.062,0.25,Rebuilding,Dark Horse
+330,152,Independence/Gilmanton,WI,D4,WIAA Varsity,0-9,0,9,0,9,21.3,21.3,-28.7,44.9,260,6.3,26.4,-20.1,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+331,153,Cameron,WI,D4,WIAA Varsity,3-5,3,5,0,8,21.2,21.2,-28.8,45.9,250,12.2,37.8,-25.6,2.209,2.209,1.688,0.521,0.324,Rebuilding,Rebuilding
+332,154,Catholic Central/Kenosha Christian Life,WI,D4,WIAA Varsity,1-7,1,7,0,8,21.2,21.2,-28.8,46.8,230,17.2,48.9,-31.7,2.5,2.5,0.625,1.875,0.192,Rebuilding,Rebuilding
+333,155,River Valley,WI,D4,WIAA Varsity,0-9,0,9,0,9,20.8,20.8,-29.2,44.7,266,13.8,38.6,-24.8,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+334,156,Sheboygan South,WI,D4,WIAA Varsity,2-7,2,7,0,9,20.6,20.6,-29.4,45.9,249,11.2,34.0,-22.8,1.917,1.917,1.278,0.639,0.444,Rebuilding,Rebuilding
+335,157,West Allis Central,WI,D4,WIAA Varsity,2-7,2,7,0,9,20.6,20.6,-29.4,42.8,293,17.9,38.9,-21.0,2.222,2.222,1.111,1.111,0.833,Rebuilding,Rebuilding
+336,158,Parkview/Albany,WI,D4,WIAA Varsity,3-6,3,6,0,9,20.1,20.1,-29.9,31.6,351,13.0,26.0,-13.0,2.241,2.241,1.5,0.741,0.064,Rebuilding,Rebuilding
+337,159,Brodhead/Juda,WI,D4,WIAA Varsity,1-8,1,8,0,9,20.0,20.0,-30.0,46.7,233,15.6,41.4,-25.8,0.556,0.556,0.556,0.0,0.0,Rebuilding,Rebuilding
+338,23,Barron,WI,D5,Heart O'North,1-8,1,8,0,9,19.6,19.6,-30.4,43.2,289,11.8,36.6,-24.8,1.0,1.0,0.5,0.5,1.062,Rebuilding,Dark Horse
+339,160,Obama SCTE,WI,D4,WIAA Varsity,3-5,3,5,0,8,19.2,19.2,-30.8,28.5,355,1.1,13.1,-12.0,2.308,2.308,1.875,0.433,0.0,Rebuilding,Rebuilding
+340,161,Fort Atkinson,WI,D4,WIAA Varsity,1-8,1,8,0,9,18.5,18.5,-31.5,48.4,208,12.1,41.2,-29.1,0.722,0.722,0.722,0.0,0.0,Rebuilding,Rebuilding
+341,162,Kingdom Prep Lutheran,WI,D4,WIAA Varsity,3-8,3,8,0,11,17.7,17.7,-32.3,37.2,335,13.5,32.5,-19.0,1.859,1.859,1.667,0.192,0.0,Rebuilding,Rebuilding
+342,163,Wautoma,WI,D4,WIAA Varsity,2-7,2,7,0,9,17.3,17.3,-32.7,34.6,344,18.0,34.9,-16.9,2.694,2.694,1.111,1.583,0.838,Rebuilding,Rebuilding
+343,164,Pittsville,WI,D4,WIAA Varsity,1-8,1,8,0,9,14.3,14.3,-35.7,47.9,215,2.6,36.4,-33.8,0.556,0.556,0.556,0.0,0.0,Rebuilding,Rebuilding
+344,165,Mishicot,WI,D4,WIAA Varsity,0-9,0,9,0,9,13.4,13.4,-36.6,43.4,285,3.8,33.1,-29.3,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+345,23,Ladysmith,WI,D6,Heart O'North,0-9,0,9,0,9,13.1,13.1,-36.9,47.9,214,6.7,38.9,-32.2,0.0,0.0,0.0,0.0,0.0,Rebuilding,Dark Horse
+346,166,Green Bay East,WI,D4,WIAA Varsity,0-9,0,9,0,9,12.9,12.9,-37.1,46.7,231,9.1,42.8,-33.7,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+347,167,Whitewater,WI,D4,WIAA Varsity,2-7,2,7,0,9,11.9,11.9,-38.1,37.7,328,12.3,36.3,-24.0,1.667,1.667,1.111,0.556,0.653,Rebuilding,Rebuilding
+348,168,New Lisbon,WI,D4,WIAA Varsity,1-8,1,8,0,9,11.3,11.3,-38.7,42.5,298,11.9,42.6,-30.7,0.945,0.945,0.389,0.556,1.5,Rebuilding,Rebuilding
+349,49,Madison East,WI,D1,Big Eight,0-9,0,9,0,9,11.1,11.1,-38.9,51.2,175,5.9,45.7,-39.8,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+350,18,Necedah,WI,D7,Scenic Bluffs,1-8,1,8,0,9,10.6,10.6,-39.4,42.6,297,6.7,38.3,-31.6,2.056,2.056,0.556,1.5,0.944,Rebuilding,Dark Horse
+351,24,Sturgeon Bay,WI,D5,Packerland,1-8,1,8,0,9,8.8,8.8,-41.2,44.8,264,7.6,41.7,-34.1,0.556,0.556,0.556,0.0,0.0,Rebuilding,Dark Horse
+352,169,North Fond du Lac,WI,D4,WIAA Varsity,0-9,0,9,0,9,8.6,8.6,-41.4,47.8,216,7.8,45.6,-37.8,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+353,170,Adams-Friendship,WI,D4,WIAA Varsity,0-9,0,9,0,9,7.4,7.4,-42.6,37.0,337,10.7,39.2,-28.5,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+354,171,Deerfield,WI,D4,WIAA Varsity,1-8,1,8,0,9,5.4,5.4,-44.6,34.4,345,10.4,40.7,-30.3,0.556,0.556,0.556,0.0,0.0,Rebuilding,Rebuilding
+355,172,Cudahy,WI,D4,WIAA Varsity,1-9,1,9,0,10,5.2,5.2,-44.8,39.8,318,4.3,47.1,-42.8,0.556,0.556,0.556,0.0,0.0,Rebuilding,Rebuilding
+356,173,Boscobel,WI,D4,WIAA Varsity,0-9,0,9,0,9,5.2,5.2,-44.8,49.3,196,6.2,48.0,-41.8,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+357,174,Clintonville,WI,D4,WIAA Varsity,0-9,0,9,0,9,4.4,4.4,-45.6,44.7,267,8.4,43.6,-35.2,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
+358,175,Dodgeland,WI,D4,WIAA Varsity,0-9,0,9,0,9,-3.3,-3.3,-53.3,32.2,349,7.2,40.8,-33.6,0.0,0.0,0.0,0.0,0.0,Rebuilding,Rebuilding
