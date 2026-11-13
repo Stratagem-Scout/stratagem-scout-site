@@ -1,2023 +1,283 @@
 {
-  "Liberty Center Tigers": {
-    "lat": 41.4423,
-    "lng": -84.0086,
-    "city": "Liberty Center"
+  "Ada Bulldogs": {
+    "lat": 40.774832,
+    "lng": -83.832869,
+    "city": "Ada"
   },
-  "Bishop Watterson Eagles": {
-    "lat": 40.0536,
-    "lng": -83.0205,
+  "Adena Warriors": {
+    "lat": 39.41589,
+    "lng": -83.193859,
+    "city": "Frankfort"
+  },
+  "Africentric Early College Nubians": {
+    "lat": 39.97946,
+    "lng": -82.916237,
     "city": "Columbus"
   },
-  "Marion Local Flyers": {
-    "lat": 40.4158,
-    "lng": -84.4719,
-    "city": "Maria Stein"
-  },
-  "Ironton Fighting Tigers": {
-    "lat": 38.5368,
-    "lng": -82.6829,
-    "city": "Ironton"
-  },
-  "Archbold Blue Streaks": {
-    "lat": 41.5206,
-    "lng": -84.3066,
-    "city": "Archbold"
-  },
-  "Austintown-Fitch Falcons": {
-    "lat": 41.0986,
-    "lng": -80.7339,
-    "city": "Austintown"
-  },
-  "Perry Pirates": {
-    "lat": 41.7686,
-    "lng": -81.1386,
-    "city": "Perry"
-  },
-  "Massillon Washington Tigers": {
-    "lat": 40.7939,
-    "lng": -81.5136,
-    "city": "Massillon"
-  },
-  "Big Walnut Golden Eagles": {
-    "lat": 40.2486,
-    "lng": -82.8539,
-    "city": "Sunbury"
-  },
-  "Walsh Jesuit Warriors": {
-    "lat": 41.1869,
-    "lng": -81.4914,
-    "city": "Cuyahoga Falls"
-  },
-  "Pickerington North Panthers": {
-    "lat": 39.9286,
-    "lng": -82.7714,
-    "city": "Pickerington"
-  },
-  "St Henry Redskins": {
-    "lat": 40.4186,
-    "lng": -84.6414,
-    "city": "St. Henry"
-  },
-  "South Range Raiders": {
-    "lat": 40.9486,
-    "lng": -80.6986,
-    "city": "Canfield"
-  },
-  "Archbishop Moeller Crusaders": {
-    "lat": 39.2471,
-    "lng": -84.3414,
+  "Aiken Falcons": {
+    "lat": 39.1922,
+    "lng": -84.551,
     "city": "Cincinnati"
   },
-  "St Edward Eagles": {
-    "lat": 41.4842,
-    "lng": -81.7875,
-    "city": "Lakewood"
-  },
-  "London Red Raiders": {
-    "lat": 39.8969,
-    "lng": -83.4439,
-    "city": "London"
-  },
-  "Anderson Raptors": {
-    "lat": 39.0764,
-    "lng": -84.3411,
-    "city": "Cincinnati"
-  },
-  "Shelby Whippets": {
-    "lat": 40.8814,
-    "lng": -82.6618,
-    "city": "Shelby"
-  },
-  "Princeton Vikings": {
-    "lat": 39.2828,
-    "lng": -84.4533,
-    "city": "Sharonville"
-  },
-  "Tippecanoe Red Devils": {
-    "lat": 39.9675,
-    "lng": -84.1836,
-    "city": "Tipp City"
-  },
-  "Steubenville Big Red": {
-    "lat": 40.3698,
-    "lng": -80.634,
-    "city": "Steubenville"
-  },
-  "Gahanna Lincoln Golden Lions": {
-    "lat": 40.0186,
-    "lng": -82.8686,
-    "city": "Gahanna"
-  },
-  "Perrysburg Yellow Jackets": {
-    "lat": 41.5439,
-    "lng": -83.6286,
-    "city": "Perrysburg"
-  },
-  "Highland Hornets": {
-    "lat": 41.1486,
-    "lng": -81.7286,
-    "city": "Medina"
-  },
-  "Hudson Explorers": {
-    "lat": 41.2469,
-    "lng": -81.4386,
-    "city": "Hudson"
-  },
-  "Upper Arlington Golden Bears": {
-    "lat": 40.0158,
-    "lng": -83.0636,
-    "city": "Upper Arlington"
-  },
-  "Danville Blue Devils": {
-    "lat": 40.4486,
-    "lng": -82.2639,
-    "city": "Danville"
-  },
-  "Avon Eagles": {
-    "lat": 41.4517,
-    "lng": -82.0356,
-    "city": "Avon"
-  },
-  "Elder Panthers": {
-    "lat": 39.1154,
-    "lng": -84.6143,
-    "city": "Cincinnati"
-  },
-  "Canton McKinley Bulldogs": {
-    "lat": 40.8069,
-    "lng": -81.3914,
-    "city": "Canton"
-  },
-  "Kirtland Hornets": {
-    "lat": 41.5986,
-    "lng": -81.3539,
-    "city": "Kirtland"
-  },
-  "Bellbrook Golden Eagles": {
-    "lat": 39.6358,
-    "lng": -84.0819,
-    "city": "Bellbrook"
-  },
-  "Perkins Pirates": {
-    "lat": 41.4186,
-    "lng": -82.6886,
-    "city": "Sandusky"
-  },
-  "Indian Valley Braves": {
-    "lat": 40.3686,
-    "lng": -81.3686,
-    "city": "Gnadenhutten"
-  },
-  "Leipsic Vikings": {
-    "lat": 41.1014,
-    "lng": -83.9844,
-    "city": "Leipsic"
-  },
-  "Central Catholic Fighting Irish": {
-    "lat": 41.6686,
-    "lng": -83.5539,
-    "city": "Toledo"
-  },
-  "Lakota West Firebirds": {
-    "lat": 39.3622,
-    "lng": -84.4106,
-    "city": "West Chester"
-  },
-  "Coldwater Cavaliers": {
-    "lat": 40.4795,
-    "lng": -84.6283,
-    "city": "Coldwater"
-  },
-  "Girard Indians": {
-    "lat": 41.1586,
-    "lng": -80.6986,
-    "city": "Girard"
-  },
-  "Lima Central Catholic Thunderbirds": {
-    "lat": 40.7339,
-    "lng": -84.0886,
-    "city": "Lima"
-  },
-  "Springfield Wildcats": {
-    "lat": 41.6186,
-    "lng": -83.7886,
-    "city": "Holland"
-  },
-  "Nordonia Knights": {
-    "lat": 41.3186,
-    "lng": -81.5139,
-    "city": "Macedonia"
-  },
-  "Trotwood-Madison Rams": {
-    "lat": 39.8058,
-    "lng": -84.3056,
-    "city": "Trotwood"
-  },
-  "Barnesville Shamrocks": {
-    "lat": 39.9881,
-    "lng": -81.1765,
-    "city": "Barnesville"
-  },
-  "Celina Bulldogs": {
-    "lat": 40.5489,
-    "lng": -84.5702,
-    "city": "Celina"
-  },
-  "St Ignatius Wildcats": {
-    "lat": 41.4856,
-    "lng": -81.7094,
-    "city": "Cleveland"
-  },
-  "Whitmer Panthers": {
-    "lat": 41.7139,
-    "lng": -83.5986,
-    "city": "Toledo"
-  },
-  "Wadsworth Grizzlies": {
-    "lat": 41.0286,
-    "lng": -81.7286,
-    "city": "Wadsworth"
-  },
-  "Triway Titans": {
-    "lat": 40.7686,
-    "lng": -81.9686,
-    "city": "Wooster"
-  },
-  "Glenville Tarblooders": {
-    "lat": 41.5358,
-    "lng": -81.6119,
-    "city": "Cleveland"
-  },
-  "Hopewell-Loudon Chieftains": {
-    "lat": 41.1286,
-    "lng": -83.2886,
-    "city": "Bascom"
-  },
-  "West Branch Warriors": {
-    "lat": 40.9186,
-    "lng": -80.9686,
-    "city": "Beloit"
-  },
-  "Bluffton Pirates": {
-    "lat": 40.8953,
-    "lng": -83.8888,
-    "city": "Bluffton"
-  },
-  "Columbus Grove Bulldogs": {
-    "lat": 40.9186,
-    "lng": -84.0586,
-    "city": "Columbus Grove"
-  },
-  "Wapakoneta Redskins": {
-    "lat": 40.5678,
-    "lng": -84.1936,
-    "city": "Wapakoneta"
-  },
-  "Winton Woods Warriors": {
-    "lat": 39.2747,
-    "lng": -84.5186,
-    "city": "Forest Park"
-  },
-  "Ursuline Fighting Irish": {
-    "lat": 41.1114,
-    "lng": -80.6586,
-    "city": "Youngstown"
-  },
-  "Delta Panthers": {
-    "lat": 41.5739,
-    "lng": -84.0039,
-    "city": "Delta"
-  },
-  "Minster Wildcats": {
-    "lat": 40.3939,
-    "lng": -84.3769,
-    "city": "Minster"
-  },
-  "Archbishop McNicholas Rockets": {
-    "lat": 39.0833,
-    "lng": -84.3833,
-    "city": "Cincinnati"
-  },
-  "Olentangy Liberty Patriots": {
-    "lat": 40.1753,
-    "lng": -83.0958,
-    "city": "Powell"
-  },
-  "New Lexington Panthers": {
-    "lat": 39.7139,
+  "Alexander Spartans": {
+    "lat": 39.2486,
     "lng": -82.2086,
-    "city": "New Lexington"
-  },
-  "New Bremen Cardinals": {
-    "lat": 40.4369,
-    "lng": -84.3797,
-    "city": "New Bremen"
-  },
-  "New Albany Eagles": {
-    "lat": 40.0839,
-    "lng": -82.8122,
-    "city": "New Albany"
-  },
-  "Licking Valley Panthers": {
-    "lat": 40.0614,
-    "lng": -82.2639,
-    "city": "Newark"
-  },
-  "Ottawa-Glandorf Titans": {
-    "lat": 41.0192,
-    "lng": -84.0472,
-    "city": "Ottawa"
-  },
-  "Cardinal Mooney Cardinals": {
-    "lat": 41.0639,
-    "lng": -80.6539,
-    "city": "Youngstown"
-  },
-  "St Xavier Bombers": {
-    "lat": 39.2185,
-    "lng": -84.5198,
-    "city": "Cincinnati"
-  },
-  "St Francis DeSales Stallions": {
-    "lat": 40.0619,
-    "lng": -82.9764,
-    "city": "Columbus"
-  },
-  "Villa Angela-St Joseph Vikings": {
-    "lat": 41.5839,
-    "lng": -81.5539,
-    "city": "Cleveland"
-  },
-  "Versailles Tigers": {
-    "lat": 40.2228,
-    "lng": -84.4844,
-    "city": "Versailles"
-  },
-  "Jackson Polar Bears": {
-    "lat": 40.8614,
-    "lng": -81.4839,
-    "city": "Massillon"
-  },
-  "West Holmes Knights": {
-    "lat": 40.5586,
-    "lng": -81.9686,
-    "city": "Millersburg"
-  },
-  "Bellevue Redmen": {
-    "lat": 41.2739,
-    "lng": -82.8414,
-    "city": "Bellevue"
-  },
-  "Valley View Spartans": {
-    "lat": 39.6286,
-    "lng": -84.3714,
-    "city": "Germantown"
-  },
-  "Clear Fork Colts": {
-    "lat": 40.6239,
-    "lng": -82.5139,
-    "city": "Bellville"
-  },
-  "Mentor Cardinals": {
-    "lat": 41.6764,
-    "lng": -81.3394,
-    "city": "Mentor"
-  },
-  "Notre Dame-Cathedral Latin Lions": {
-    "lat": 41.5186,
-    "lng": -81.3386,
-    "city": "Chardon"
-  },
-  "Hillsdale Falcons": {
-    "lat": 40.8039,
-    "lng": -82.1939,
-    "city": "Jeromesville"
-  },
-  "Claymont Mustangs": {
-    "lat": 40.3986,
-    "lng": -81.2886,
-    "city": "Uhrichsville"
-  },
-  "Martins Ferry Purple Riders": {
-    "lat": 40.0959,
-    "lng": -80.7245,
-    "city": "Martins Ferry"
-  },
-  "Clay Eagles": {
-    "lat": 41.6437,
-    "lng": -83.4669,
-    "city": "Oregon"
-  },
-  "Hoban Knights": {
-    "lat": 41.0636,
-    "lng": -81.4886,
-    "city": "Akron"
-  },
-  "Mayfield Wildcats": {
-    "lat": 41.5469,
-    "lng": -81.4439,
-    "city": "Mayfield"
-  },
-  "Rocky River Pirates": {
-    "lat": 41.4753,
-    "lng": -81.8439,
-    "city": "Rocky River"
-  },
-  "Archbishop Alter Knights": {
-    "lat": 39.6714,
-    "lng": -84.1564,
-    "city": "Kettering"
-  },
-  "Harrison Wildcats": {
-    "lat": 39.2669,
-    "lng": -84.7836,
-    "city": "Harrison"
-  },
-  "Olentangy Orange Pioneers": {
-    "lat": 40.1814,
-    "lng": -82.9769,
-    "city": "Lewis Center"
-  },
-  "Anna Rockets": {
-    "lat": 40.3944,
-    "lng": -84.1728,
-    "city": "Anna"
-  },
-  "Dover Crimson Tornadoes": {
-    "lat": 40.5206,
-    "lng": -81.474,
-    "city": "Dover"
-  },
-  "Carey Blue Devils": {
-    "lat": 40.9523,
-    "lng": -83.3816,
-    "city": "Carey"
-  },
-  "Garaway Pirates": {
-    "lat": 40.5086,
-    "lng": -81.6386,
-    "city": "Sugarcreek"
-  },
-  "Olmsted Falls Bulldogs": {
-    "lat": 41.3686,
-    "lng": -81.9186,
-    "city": "Olmsted Falls"
-  },
-  "Wheelersburg Pirates": {
-    "lat": 38.7314,
-    "lng": -82.8486,
-    "city": "Wheelersburg"
-  },
-  "McComb Panthers": {
-    "lat": 41.1086,
-    "lng": -83.7939,
-    "city": "McComb"
-  },
-  "Withrow Tigers": {
-    "lat": 39.1456,
-    "lng": -84.4375,
-    "city": "Cincinnati"
-  },
-  "Garrettsville Garfield G-Men": {
-    "lat": 41.2839,
-    "lng": -81.0986,
-    "city": "Garrettsville"
-  },
-  "Keystone Wildcats": {
-    "lat": 41.2286,
-    "lng": -82.1386,
-    "city": "LaGrange"
-  },
-  "Springboro Panthers": {
-    "lat": 39.5553,
-    "lng": -84.2319,
-    "city": "Springboro"
-  },
-  "West Muskingum Tornadoes": {
-    "lat": 39.9686,
-    "lng": -82.0886,
-    "city": "Zanesville"
-  },
-  "Ontario Warriors": {
-    "lat": 40.7595,
-    "lng": -82.5902,
-    "city": "Ontario"
-  },
-  "Worthington Kilbourne Wolves": {
-    "lat": 40.1169,
-    "lng": -83.0439,
-    "city": "Columbus"
-  },
-  "Graham Falcons": {
-    "lat": 40.1186,
-    "lng": -83.8886,
-    "city": "St. Paris"
-  },
-  "Patrick Henry Patriots": {
-    "lat": 41.2386,
-    "lng": -83.9186,
-    "city": "Hamler"
-  },
-  "Mohawk Warriors": {
-    "lat": 41.0086,
-    "lng": -83.2086,
-    "city": "Sycamore"
-  },
-  "Jackson Ironmen": {
-    "lat": 39.052,
-    "lng": -82.6365,
-    "city": "Jackson"
-  },
-  "Strongsville Mustangs": {
-    "lat": 41.3144,
-    "lng": -81.8358,
-    "city": "Strongsville"
-  },
-  "Hilliard Bradley Jaguars": {
-    "lat": 40.0114,
-    "lng": -83.2086,
-    "city": "Hilliard"
-  },
-  "Miami Trace Panthers": {
-    "lat": 39.5686,
-    "lng": -83.4886,
-    "city": "Washington Court House"
-  },
-  "Indian Hill Braves": {
-    "lat": 39.1936,
-    "lng": -84.3644,
-    "city": "Indian Hill"
-  },
-  "Genoa Area Comets": {
-    "lat": 41.5186,
-    "lng": -83.3586,
-    "city": "Genoa"
-  },
-  "Pickerington Central Tigers": {
-    "lat": 39.8869,
-    "lng": -82.7539,
-    "city": "Pickerington"
-  },
-  "Columbian Tornadoes": {
-    "lat": 41.1145,
-    "lng": -83.178,
-    "city": "Tiffin"
-  },
-  "Streetsboro Rockets": {
-    "lat": 41.2386,
-    "lng": -81.3486,
-    "city": "Streetsboro"
-  },
-  "Urbana Hillclimbers": {
-    "lat": 40.1086,
-    "lng": -83.7439,
-    "city": "Urbana"
-  },
-  "Poland Seminary Bulldogs": {
-    "lat": 41.0239,
-    "lng": -80.6086,
-    "city": "Poland"
-  },
-  "Olentangy Berlin Bears": {
-    "lat": 40.2419,
-    "lng": -82.9964,
-    "city": "Delaware"
-  },
-  "North Rangers": {
-    "lat": 41.6486,
-    "lng": -81.4286,
-    "city": "Eastlake"
-  },
-  "West Geauga Wolverines": {
-    "lat": 41.5286,
-    "lng": -81.3386,
-    "city": "Chesterland"
-  },
-  "Badin Rams": {
-    "lat": 39.4036,
-    "lng": -84.5936,
-    "city": "Hamilton"
-  },
-  "Fort Frye Cadets": {
-    "lat": 39.5486,
-    "lng": -81.6339,
-    "city": "Beverly"
-  },
-  "Wyoming Cowboys": {
-    "lat": 39.2311,
-    "lng": -84.4694,
-    "city": "Wyoming"
-  },
-  "South Rebels": {
-    "lat": 41.6286,
-    "lng": -81.4039,
-    "city": "Willoughby"
-  },
-  "Chardon Hilltoppers": {
-    "lat": 41.5839,
-    "lng": -81.2039,
-    "city": "Chardon"
-  },
-  "Johnstown Johnnies": {
-    "lat": 40.1539,
-    "lng": -82.6839,
-    "city": "Johnstown"
-  },
-  "Otsego Knights": {
-    "lat": 41.4286,
-    "lng": -83.7586,
-    "city": "Tontogany"
-  },
-  "Ansonia Tigers": {
-    "lat": 40.2144,
-    "lng": -84.6369,
-    "city": "Ansonia"
-  },
-  "Norton Panthers": {
-    "lat": 41.0286,
-    "lng": -81.6486,
-    "city": "Norton"
-  },
-  "Granville Blue Aces": {
-    "lat": 40.0769,
-    "lng": -82.5186,
-    "city": "Granville"
-  },
-  "Kenton Ridge Cougars": {
-    "lat": 39.9914,
-    "lng": -83.7886,
-    "city": "Springfield"
-  },
-  "Canfield Cardinals": {
-    "lat": 41.0339,
-    "lng": -80.7639,
-    "city": "Canfield"
-  },
-  "Oakwood Lumberjacks": {
-    "lat": 39.7186,
-    "lng": -84.1722,
-    "city": "Dayton"
-  },
-  "St Marys Memorial Roughriders": {
-    "lat": 40.5523,
-    "lng": -84.3894,
-    "city": "St. Marys"
-  },
-  "Riverside Beavers": {
-    "lat": 41.7039,
-    "lng": -81.2139,
-    "city": "Painesville"
-  },
-  "Hilliard Darby Panthers": {
-    "lat": 40.0453,
-    "lng": -83.1869,
-    "city": "Hilliard"
-  },
-  "Smithville Smithies": {
-    "lat": 40.8639,
-    "lng": -81.8586,
-    "city": "Smithville"
-  },
-  "North College Hill Trojans": {
-    "lat": 39.2169,
-    "lng": -84.5508,
-    "city": "North College Hill"
-  },
-  "Tri-Valley Scotties": {
-    "lat": 40.1239,
-    "lng": -82.0086,
-    "city": "Dresden"
-  },
-  "Fairview Apaches": {
-    "lat": 41.3286,
-    "lng": -84.5186,
-    "city": "Sherwood"
-  },
-  "Findlay Trojans": {
-    "lat": 41.0442,
-    "lng": -83.6499,
-    "city": "Findlay"
-  },
-  "Canal Winchester Indians": {
-    "lat": 39.8469,
-    "lng": -82.8114,
-    "city": "Canal Winchester"
-  },
-  "Cincinnati Hills Christian Academy Eagles": {
-    "lat": 39.2775,
-    "lng": -84.3422,
-    "city": "Cincinnati"
-  },
-  "Louisville Leopards": {
-    "lat": 40.8369,
-    "lng": -81.2586,
-    "city": "Louisville"
-  },
-  "Chillicothe Cavaliers": {
-    "lat": 39.3331,
-    "lng": -82.9824,
-    "city": "Chillicothe"
-  },
-  "Eastwood Eagles": {
-    "lat": 41.4039,
-    "lng": -83.5039,
-    "city": "Pemberville"
-  },
-  "Tri-Village Patriots": {
-    "lat": 39.9914,
-    "lng": -84.7039,
-    "city": "New Madison"
-  },
-  "Troy Trojans": {
-    "lat": 40.0489,
-    "lng": -84.2058,
-    "city": "Troy"
-  },
-  "Lake Blue Streaks": {
-    "lat": 40.9586,
-    "lng": -81.3639,
-    "city": "Uniontown"
-  },
-  "Mechanicsburg Indians": {
-    "lat": 40.0739,
-    "lng": -83.5539,
-    "city": "Mechanicsburg"
-  },
-  "Perry Panthers": {
-    "lat": 40.7886,
-    "lng": -81.4639,
-    "city": "Massillon"
-  },
-  "Cuyahoga Valley Christian Academy Royals": {
-    "lat": 41.2014,
-    "lng": -81.5039,
-    "city": "Cuyahoga Falls"
-  },
-  "East Tigers": {
-    "lat": 39.9714,
-    "lng": -82.9586,
-    "city": "Columbus"
-  },
-  "Union Local Jets": {
-    "lat": 40.0586,
-    "lng": -81.0586,
-    "city": "Belmont"
-  },
-  "Edon Bombers": {
-    "lat": 41.5564,
-    "lng": -84.7686,
-    "city": "Edon"
-  },
-  "Garfield Heights Bulldogs": {
-    "lat": 41.4186,
-    "lng": -81.6039,
-    "city": "Garfield Heights"
-  },
-  "Sheridan Generals": {
-    "lat": 39.8839,
-    "lng": -82.2686,
-    "city": "Thornville"
-  },
-  "Ridgewood Generals": {
-    "lat": 40.2786,
-    "lng": -81.7286,
-    "city": "West Lafayette"
-  },
-  "North Union Wildcats": {
-    "lat": 40.4439,
-    "lng": -83.3186,
-    "city": "Richwood"
+    "city": "Albany"
   },
   "Allen East Mustangs": {
-    "lat": 40.7686,
-    "lng": -83.9586,
+    "lat": 40.733881,
+    "lng": -83.93222,
     "city": "Harrod"
   },
-  "Columbia Raiders": {
-    "lat": 41.3186,
-    "lng": -81.9186,
-    "city": "Columbia Station"
-  },
-  "Symmes Valley Vikings": {
-    "lat": 38.6886,
-    "lng": -82.4686,
-    "city": "Willow Wood"
-  },
-  "Western Reserve Roughriders": {
-    "lat": 41.1839,
-    "lng": -82.5186,
-    "city": "Collins"
-  },
-  "Jonathan Alder Pioneers": {
-    "lat": 40.1114,
-    "lng": -83.2686,
-    "city": "Plain City"
-  },
-  "Talawanda Brave": {
-    "lat": 39.4939,
-    "lng": -84.7208,
-    "city": "Oxford"
-  },
-  "Harvest Prep Warriors": {
-    "lat": 39.8653,
-    "lng": -82.8286,
-    "city": "Canal Winchester"
-  },
-  "Olentangy Braves": {
-    "lat": 40.1939,
-    "lng": -83.0186,
-    "city": "Lewis Center"
-  },
-  "Bishop Fenwick Falcons": {
-    "lat": 39.4894,
-    "lng": -84.3167,
-    "city": "Franklin"
-  },
-  "Fairfield Union Falcons": {
-    "lat": 39.7369,
-    "lng": -82.4739,
-    "city": "Lancaster"
-  },
-  "Avon Lake Shoremen": {
-    "lat": 41.4517,
-    "lng": -82.0356,
-    "city": "Avon"
-  },
-  "Heath Bulldogs": {
-    "lat": 40.0286,
-    "lng": -82.4439,
-    "city": "Heath"
-  },
-  "Middletown Middies": {
-    "lat": 39.5075,
-    "lng": -84.3583,
-    "city": "Middletown"
-  },
-  "Fremont Ross Little Giants": {
-    "lat": 41.3503,
-    "lng": -83.1219,
-    "city": "Fremont"
-  },
-  "Youngstown Defenders": {
-    "lat": 41.0986,
-    "lng": -80.6986,
-    "city": "Youngstown"
-  },
-  "La Salle Lancers": {
-    "lat": 39.1972,
-    "lng": -84.5761,
-    "city": "Cincinnati"
-  },
-  "West Jefferson Rough Riders": {
-    "lat": 39.9439,
-    "lng": -83.2739,
-    "city": "West Jefferson"
-  },
-  "Waterford Wildcats": {
-    "lat": 39.5386,
-    "lng": -81.6486,
-    "city": "Waterford"
-  },
-  "United Golden Eagles": {
-    "lat": 40.7986,
-    "lng": -80.8386,
-    "city": "Hanoverton"
-  },
-  "Kettering Fairmont Firebirds": {
-    "lat": 39.6964,
-    "lng": -84.1608,
-    "city": "Kettering"
-  },
-  "Indian Lake Lakers": {
-    "lat": 40.4769,
-    "lng": -83.8886,
-    "city": "Lewistown"
-  },
-  "Van Wert Cougars": {
-    "lat": 40.8695,
-    "lng": -84.5841,
-    "city": "Van Wert"
-  },
-  "Wayne Warriors": {
-    "lat": 39.8439,
-    "lng": -84.1247,
-    "city": "Huber Heights"
-  },
-  "St Charles Cardinals": {
-    "lat": 39.9714,
-    "lng": -82.9369,
-    "city": "Columbus"
-  },
-  "Lima Senior Spartans": {
-    "lat": 40.7425,
-    "lng": -84.1052,
-    "city": "Lima"
-  },
-  "Whitehall-Yearling Rams": {
-    "lat": 39.9719,
-    "lng": -82.8786,
-    "city": "Whitehall"
-  },
-  "Green Bulldogs": {
-    "lat": 40.9539,
-    "lng": -81.4839,
-    "city": "Uniontown"
-  },
-  "Brecksville Bees": {
-    "lat": 41.3039,
-    "lng": -81.6086,
-    "city": "Broadview Heights"
-  },
-  "Anthony Wayne Generals": {
-    "lat": 41.5186,
-    "lng": -83.8039,
-    "city": "Whitehouse"
-  },
-  "New Philadelphia Quakers": {
-    "lat": 40.4898,
-    "lng": -81.4457,
-    "city": "New Philadelphia"
-  },
-  "Hubbard Eagles": {
-    "lat": 41.1586,
-    "lng": -80.5686,
-    "city": "Hubbard"
-  },
-  "Manchester Panthers": {
-    "lat": 40.9386,
-    "lng": -81.5686,
-    "city": "New Franklin"
-  },
-  "Grove City Greyhounds": {
-    "lat": 39.8886,
-    "lng": -83.0819,
-    "city": "Grove City"
-  },
-  "Warren G Harding Raiders": {
-    "lat": 41.2439,
-    "lng": -80.8086,
-    "city": "Warren"
-  },
-  "Deer Park Wildcats": {
-    "lat": 39.2053,
-    "lng": -84.3986,
-    "city": "Deer Park"
-  },
-  "Woodridge Bulldogs": {
-    "lat": 41.1986,
-    "lng": -81.5386,
-    "city": "Peninsula"
-  },
-  "Paulding Panthers": {
-    "lat": 41.1381,
-    "lng": -84.5794,
-    "city": "Paulding"
-  },
-  "Williamsburg Wildcats": {
-    "lat": 39.0553,
-    "lng": -84.0539,
-    "city": "Williamsburg"
-  },
-  "Berea-Midpark Titans": {
-    "lat": 41.3669,
-    "lng": -81.8514,
-    "city": "Berea"
-  },
-  "Gilmour Academy Lancers": {
-    "lat": 41.5239,
-    "lng": -81.4386,
-    "city": "Gates Mills"
-  },
-  "Monroe Central Seminoles": {
-    "lat": 39.7639,
-    "lng": -81.1186,
-    "city": "Woodsfield"
-  },
-  "Tinora Rams": {
-    "lat": 41.3286,
-    "lng": -84.2886,
-    "city": "Defiance"
-  },
-  "Kings Knights": {
-    "lat": 39.3428,
-    "lng": -84.2625,
-    "city": "Kings Mills"
-  },
-  "Seneca East Tigers": {
-    "lat": 41.0639,
-    "lng": -82.8886,
-    "city": "Attica"
-  },
-  "Columbus Academy Vikings": {
-    "lat": 40.0439,
-    "lng": -82.8714,
-    "city": "Gahanna"
-  },
-  "Nelsonville-York Buckeyes": {
-    "lat": 39.4586,
-    "lng": -82.2286,
-    "city": "Nelsonville"
-  },
-  "Lake Catholic Cougars": {
-    "lat": 41.6714,
-    "lng": -81.3686,
-    "city": "Mentor"
-  },
-  "Benjamin Logan Raiders": {
-    "lat": 40.3714,
-    "lng": -83.6686,
-    "city": "Bellefontaine"
-  },
-  "Philo Electrics": {
-    "lat": 39.8639,
-    "lng": -81.9086,
-    "city": "Duncan Falls"
-  },
-  "Fairless Falcons": {
-    "lat": 40.7086,
-    "lng": -81.5186,
-    "city": "Navarre"
-  },
-  "Waynesville Spartans": {
-    "lat": 39.5308,
-    "lng": -84.0886,
-    "city": "Waynesville"
-  },
-  "Colonel Crawford Eagles": {
-    "lat": 40.8039,
-    "lng": -82.8639,
-    "city": "North Robinson"
-  },
-  "Hamilton Township Rangers": {
-    "lat": 39.8414,
-    "lng": -82.9939,
-    "city": "Columbus"
-  },
-  "Unioto Sherman Tanks": {
-    "lat": 39.3686,
-    "lng": -83.0286,
-    "city": "Chillicothe"
-  },
-  "Reynoldsburg Raiders": {
-    "lat": 39.9639,
-    "lng": -82.7836,
-    "city": "Reynoldsburg"
-  },
-  "Woodmore Wildcats": {
-    "lat": 41.4739,
-    "lng": -83.2939,
-    "city": "Elmore"
-  },
-  "Lakota East Thunderhawks": {
-    "lat": 39.3789,
-    "lng": -84.3653,
-    "city": "Liberty Township"
-  },
-  "Vermilion Sailors": {
-    "lat": 41.4219,
-    "lng": -82.3646,
-    "city": "Vermilion"
-  },
-  "Hoover Vikings": {
-    "lat": 40.8786,
-    "lng": -81.3939,
-    "city": "North Canton"
-  },
-  "Port Clinton Redskins": {
-    "lat": 41.5119,
-    "lng": -82.9377,
-    "city": "Port Clinton"
-  },
-  "Liberty Leopards": {
-    "lat": 41.1586,
-    "lng": -80.6486,
-    "city": "Youngstown"
-  },
-  "Benedictine Bengals": {
-    "lat": 41.4886,
-    "lng": -81.6139,
-    "city": "Cleveland"
-  },
-  "Dublin Jerome Celtics": {
-    "lat": 40.1469,
-    "lng": -83.1853,
-    "city": "Dublin"
-  },
-  "Zane Trace Pioneers": {
-    "lat": 39.4186,
-    "lng": -82.9386,
-    "city": "Chillicothe"
-  },
-  "Norwayne Bobcats": {
-    "lat": 40.9686,
-    "lng": -81.8986,
-    "city": "Creston"
-  },
-  "Teays Valley Vikings": {
-    "lat": 39.7369,
-    "lng": -82.9286,
-    "city": "Ashville"
-  },
-  "Shawnee Indians": {
-    "lat": 40.6986,
-    "lng": -84.1386,
-    "city": "Lima"
-  },
-  "Fort Loramie Redskins": {
-    "lat": 40.3486,
-    "lng": -84.3686,
-    "city": "Fort Loramie"
-  },
-  "Dalton Bulldogs": {
-    "lat": 40.7986,
-    "lng": -81.6939,
-    "city": "Dalton"
-  },
-  "Westerville Central Warhawks": {
-    "lat": 40.1639,
-    "lng": -82.9039,
-    "city": "Westerville"
-  },
-  "Northwest Indians": {
-    "lat": 40.8839,
-    "lng": -81.5986,
-    "city": "Canal Fulton"
-  },
-  "Kenston Bombers": {
-    "lat": 41.3839,
-    "lng": -81.3386,
-    "city": "Chagrin Falls"
-  },
-  "Pandora-Gilboa Rockets": {
-    "lat": 40.9486,
-    "lng": -83.9586,
-    "city": "Pandora"
-  },
-  "Ashland Arrows": {
-    "lat": 40.8687,
-    "lng": -82.3182,
-    "city": "Ashland"
-  },
-  "Copley Indians": {
-    "lat": 41.0986,
-    "lng": -81.6469,
-    "city": "Copley"
-  },
-  "Cloverleaf Colts": {
-    "lat": 41.0686,
-    "lng": -81.9686,
-    "city": "Lodi"
-  },
-  "University School Preppers": {
-    "lat": 41.4786,
-    "lng": -81.4239,
-    "city": "Hunting Valley"
-  },
-  "Beavercreek Beavers": {
-    "lat": 39.7219,
-    "lng": -84.0622,
-    "city": "Beavercreek"
-  },
-  "Goshen Warriors": {
-    "lat": 39.2336,
-    "lng": -84.1614,
-    "city": "Goshen"
-  },
-  "Portsmouth West Senators": {
-    "lat": 38.7386,
-    "lng": -83.0686,
-    "city": "West Portsmouth"
-  },
-  "Fort Recovery Indians": {
-    "lat": 40.4139,
-    "lng": -84.7769,
-    "city": "Fort Recovery"
-  },
-  "Groveport Madison Cruisers": {
-    "lat": 39.8686,
-    "lng": -82.8939,
-    "city": "Groveport"
-  },
-  "Little Miami Panthers": {
-    "lat": 39.3458,
-    "lng": -84.1277,
-    "city": "Morrow"
-  },
-  "Margaretta Polar Bears": {
-    "lat": 41.3986,
-    "lng": -82.8086,
-    "city": "Castalia"
-  },
-  "Mineral Ridge Rams": {
-    "lat": 41.1486,
-    "lng": -80.7686,
-    "city": "Weathersfield"
-  },
-  "Lebanon Warriors": {
-    "lat": 39.4528,
-    "lng": -84.2058,
-    "city": "Lebanon"
-  },
-  "Hilliard Davidson Wildcats": {
-    "lat": 40.0336,
-    "lng": -83.1639,
-    "city": "Hilliard"
-  },
-  "Galion Tigers": {
-    "lat": 40.7336,
-    "lng": -82.7899,
-    "city": "Galion"
-  },
-  "Padua Franciscan Bruins": {
-    "lat": 41.3614,
-    "lng": -81.7369,
-    "city": "Parma"
-  },
-  "Edgewood Cougars": {
-    "lat": 39.4853,
-    "lng": -84.5736,
-    "city": "Trenton"
-  },
-  "Miami East Vikings": {
-    "lat": 40.0686,
-    "lng": -84.1264,
-    "city": "Casstown"
-  },
-  "Centerville Elks": {
-    "lat": 39.6283,
-    "lng": -84.1594,
-    "city": "Centerville"
-  },
-  "Newcomerstown Trojans": {
-    "lat": 40.2739,
-    "lng": -81.6039,
-    "city": "Newcomerstown"
-  },
-  "Salem Quakers": {
-    "lat": 40.9086,
-    "lng": -80.8539,
-    "city": "Salem"
-  },
-  "Oak Hills Highlanders": {
-    "lat": 39.1492,
-    "lng": -84.6472,
-    "city": "Cincinnati"
-  },
-  "Athens Bulldogs": {
-    "lat": 39.3586,
-    "lng": -82.1086,
-    "city": "The Plains"
-  },
-  "Orrville Red Riders": {
-    "lat": 40.8439,
-    "lng": -81.7639,
-    "city": "Orrville"
-  },
-  "Maple Heights Mustangs": {
-    "lat": 41.4114,
-    "lng": -81.5614,
-    "city": "Maple Heights"
-  },
-  "Hawken Hawks": {
-    "lat": 41.5186,
-    "lng": -81.3986,
-    "city": "Gates Mills"
-  },
-  "East Dragons": {
-    "lat": 41.0686,
-    "lng": -81.4686,
-    "city": "Akron"
-  },
-  "Westland Cougars": {
-    "lat": 39.9386,
-    "lng": -83.1469,
-    "city": "Galloway"
-  },
-  "John Glenn Muskies": {
-    "lat": 39.9986,
-    "lng": -81.7386,
-    "city": "New Concord"
-  },
-  "Westerville North Warriors": {
-    "lat": 40.1469,
-    "lng": -82.9186,
-    "city": "Westerville"
-  },
-  "Van Buren Black Knights": {
-    "lat": 41.1386,
-    "lng": -83.6486,
-    "city": "Van Buren"
-  },
-  "Mason Comets": {
-    "lat": 39.3582,
-    "lng": -84.3129,
-    "city": "Mason"
-  },
-  "Holy Name Green Wave": {
-    "lat": 41.3839,
-    "lng": -81.7439,
-    "city": "Parma Heights"
-  },
-  "Dublin Coffman Shamrocks": {
-    "lat": 40.1086,
-    "lng": -83.1369,
-    "city": "Dublin"
-  },
-  "Springfield Tigers": {
-    "lat": 40.9686,
-    "lng": -80.5586,
-    "city": "New Middletown"
-  },
-  "Madison Blue Streaks": {
-    "lat": 41.7839,
-    "lng": -81.0486,
-    "city": "Madison"
-  },
-  "River Pilots": {
-    "lat": 39.7086,
-    "lng": -80.8586,
-    "city": "Hannibal"
-  },
-  "Revere Minutemen": {
-    "lat": 41.1986,
-    "lng": -81.6386,
-    "city": "Richfield"
-  },
-  "Aurora Greenmen": {
-    "lat": 41.3186,
-    "lng": -81.3486,
-    "city": "Aurora"
-  },
-  "Linden McKinley Panthers": {
-    "lat": 40.0169,
-    "lng": -82.9769,
-    "city": "Columbus"
-  },
-  "Bloom-Carroll Bulldogs": {
-    "lat": 39.7969,
-    "lng": -82.7039,
-    "city": "Carroll"
-  },
-  "Elida Bulldogs": {
-    "lat": 40.7886,
-    "lng": -84.1986,
-    "city": "Elida"
-  },
-  "St Clairsville Red Devils": {
-    "lat": 40.0806,
-    "lng": -80.9001,
-    "city": "St. Clairsville"
-  },
-  "Fairfield Indians": {
-    "lat": 39.3353,
-    "lng": -84.5444,
-    "city": "Fairfield"
-  },
-  "Wilmington Hurricane": {
-    "lat": 39.4453,
-    "lng": -83.8286,
-    "city": "Wilmington"
-  },
-  "Madison-Plains Golden Eagles": {
-    "lat": 39.8114,
-    "lng": -83.4039,
-    "city": "London"
-  },
-  "Butler Aviators": {
-    "lat": 39.8886,
-    "lng": -84.1975,
-    "city": "Vandalia"
-  },
-  "Turpin Spartans": {
-    "lat": 39.0886,
-    "lng": -84.3736,
-    "city": "Cincinnati"
-  },
-  "Mogadore Wildcats": {
-    "lat": 41.0539,
-    "lng": -81.3986,
-    "city": "Mogadore"
-  },
-  "Wayne Trace Raiders": {
-    "lat": 41.0686,
-    "lng": -84.5886,
-    "city": "Haviland"
-  },
-  "Kent Roosevelt Rough Riders": {
-    "lat": 41.1686,
-    "lng": -81.3586,
-    "city": "Kent"
-  },
-  "Westerville South Wildcats": {
-    "lat": 40.1114,
-    "lng": -82.9186,
-    "city": "Westerville"
-  },
   "Alliance Aviators": {
-    "lat": 40.9039,
-    "lng": -81.1086,
+    "lat": 40.9112,
+    "lng": -81.1114,
     "city": "Alliance"
   },
-  "Howland Tigers": {
-    "lat": 41.2539,
-    "lng": -80.7486,
-    "city": "Warren"
-  },
-  "McDonald Blue Devils": {
-    "lat": 41.1639,
-    "lng": -80.7239,
-    "city": "McDonald"
-  },
-  "Marion Harding Presidents": {
-    "lat": 40.5887,
-    "lng": -83.1285,
-    "city": "Marion"
-  },
-  "Firelands Falcons": {
-    "lat": 41.3086,
-    "lng": -82.2986,
-    "city": "Oberlin"
-  },
-  "Xenia Buccaneers": {
-    "lat": 39.6994,
-    "lng": -83.9389,
-    "city": "Xenia"
-  },
-  "Brookfield Warriors": {
-    "lat": 41.2386,
-    "lng": -80.5639,
-    "city": "Brookfield"
-  },
-  "Stow-Munroe Falls Bulldogs": {
-    "lat": 41.1686,
-    "lng": -81.4186,
-    "city": "Stow"
-  },
-  "Toronto Red Knights": {
-    "lat": 40.4642,
-    "lng": -80.6009,
-    "city": "Toronto"
-  },
-  "Bath Wildcats": {
-    "lat": 40.7839,
-    "lng": -84.0639,
-    "city": "Lima"
-  },
-  "Hughes Big Red Bulls": {
-    "lat": 39.1286,
-    "lng": -84.5169,
-    "city": "Cincinnati"
-  },
-  "Upper Sandusky Rams": {
-    "lat": 40.8273,
-    "lng": -83.2813,
-    "city": "Upper Sandusky"
-  },
-  "Mount Gilead Indians": {
-    "lat": 40.5489,
-    "lng": -82.8274,
-    "city": "Mount Gilead"
-  },
-  "Clinton-Massie Falcons": {
-    "lat": 39.4239,
-    "lng": -83.9497,
-    "city": "Clarksville"
-  },
-  "Gibsonburg Golden Bears": {
-    "lat": 41.3853,
-    "lng": -83.3219,
-    "city": "Gibsonburg"
-  },
-  "Buckeye Bucks": {
-    "lat": 41.1839,
-    "lng": -81.9539,
-    "city": "Medina"
-  },
-  "Midview Middies": {
-    "lat": 41.3039,
-    "lng": -82.0639,
-    "city": "Grafton"
+  "Amanda-Clearcreek Aces": {
+    "lat": 39.649614,
+    "lng": -82.735081,
+    "city": "Amanda"
   },
   "Amherst Comets": {
     "lat": 41.3986,
     "lng": -82.2239,
     "city": "Amherst"
   },
-  "Monroe Hornets": {
-    "lat": 39.4442,
-    "lng": -84.3686,
-    "city": "Monroe"
-  },
-  "Cuyahoga Heights Red Wolves": {
-    "lat": 41.4286,
-    "lng": -81.6486,
-    "city": "Cuyahoga Heights"
-  },
-  "Miamisburg Vikings": {
-    "lat": 39.6428,
-    "lng": -84.2867,
-    "city": "Miamisburg"
-  },
-  "North Royalton Bears": {
-    "lat": 41.6486,
-    "lng": -81.4286,
-    "city": "Eastlake"
-  },
-  "Lucas Cubs": {
-    "lat": 40.7039,
-    "lng": -82.4186,
-    "city": "Lucas"
-  },
-  "Monroeville Eagles": {
-    "lat": 41.2439,
-    "lng": -82.6969,
-    "city": "Monroeville"
-  },
-  "Wauseon Indians": {
-    "lat": 41.5486,
-    "lng": -84.1419,
-    "city": "Wauseon"
-  },
-  "Waverly Tigers": {
-    "lat": 39.1267,
-    "lng": -82.9841,
-    "city": "Waverly"
-  },
-  "Tallmadge Blue Devils": {
-    "lat": 41.1014,
-    "lng": -81.4286,
-    "city": "Tallmadge"
-  },
-  "Canton Central Catholic Crusaders": {
-    "lat": 40.7986,
-    "lng": -81.4486,
-    "city": "Canton"
-  },
-  "Beaver Local Beavers": {
-    "lat": 40.7186,
-    "lng": -80.6286,
-    "city": "East Liverpool"
-  },
-  "Worthington Christian Warriors": {
-    "lat": 40.1053,
-    "lng": -83.0039,
-    "city": "Worthington"
-  },
-  "Wooster Generals": {
-    "lat": 40.8051,
-    "lng": -81.9351,
-    "city": "Wooster"
-  },
-  "Marion-Franklin Red Devils": {
-    "lat": 39.9039,
-    "lng": -82.9686,
-    "city": "Columbus"
-  },
-  "Maysville Panthers": {
-    "lat": 39.8986,
-    "lng": -82.0486,
-    "city": "Zanesville"
-  },
-  "Indian Creek Redskins": {
-    "lat": 40.3786,
-    "lng": -80.7086,
-    "city": "Wintersville"
-  },
-  "Ross Rams": {
-    "lat": 39.3142,
-    "lng": -84.6461,
-    "city": "Hamilton"
-  },
-  "East Liverpool Potters": {
-    "lat": 40.6187,
-    "lng": -80.5773,
-    "city": "East Liverpool"
-  },
-  "Carlisle Indians": {
-    "lat": 39.5808,
-    "lng": -84.3264,
-    "city": "Carlisle"
-  },
-  "Covington Buccs": {
-    "lat": 40.1186,
-    "lng": -84.3539,
-    "city": "Covington"
-  },
-  "Liberty-Benton Eagles": {
-    "lat": 41.0386,
-    "lng": -83.7186,
-    "city": "Findlay"
-  },
-  "Highland Fighting Scots": {
-    "lat": 40.4286,
-    "lng": -82.8186,
-    "city": "Marengo"
-  },
-  "John F Kennedy Eagles": {
-    "lat": 41.2386,
-    "lng": -80.7839,
-    "city": "Warren"
-  },
-  "Brunswick Blue Devils": {
-    "lat": 41.2386,
-    "lng": -81.8169,
-    "city": "Brunswick"
-  },
-  "Chaminade Julienne Eagles": {
-    "lat": 39.7547,
-    "lng": -84.1969,
-    "city": "Dayton"
-  },
-  "North Ridgeville Rangers": {
-    "lat": 41.3894,
-    "lng": -82.0194,
-    "city": "North Ridgeville"
-  },
-  "Medina Battling Bees": {
-    "lat": 41.1444,
-    "lng": -81.8544,
-    "city": "Medina"
-  },
-  "Mount Vernon Yellow Jackets": {
-    "lat": 40.3934,
-    "lng": -82.4857,
-    "city": "Mount Vernon"
-  },
-  "Clyde Fliers": {
-    "lat": 41.3042,
-    "lng": -82.9752,
-    "city": "Clyde"
-  },
-  "Fairborn Skyhawks": {
-    "lat": 39.8094,
-    "lng": -84.0189,
-    "city": "Fairborn"
-  },
-  "Elyria Catholic Panthers": {
-    "lat": 41.3814,
-    "lng": -82.0886,
-    "city": "Elyria"
-  },
-  "Riverside Pirates": {
-    "lat": 40.2969,
-    "lng": -83.9586,
-    "city": "DeGraff"
-  },
-  "Northwest Knights": {
-    "lat": 39.2656,
-    "lng": -84.6022,
+  "Anderson Raptors": {
+    "lat": 39.07024,
+    "lng": -84.348526,
     "city": "Cincinnati"
   },
-  "Solon Comets": {
-    "lat": 41.3839,
-    "lng": -81.4414,
-    "city": "Solon"
+  "Anna Rockets": {
+    "lat": 40.396845,
+    "lng": -84.175998,
+    "city": "Anna"
   },
-  "Buckeye Valley Barons": {
-    "lat": 40.3486,
-    "lng": -83.0686,
-    "city": "Delaware"
+  "Ansonia Tigers": {
+    "lat": 40.21536,
+    "lng": -84.628882,
+    "city": "Ansonia"
   },
-  "Colerain Cardinals": {
-    "lat": 39.2458,
-    "lng": -84.5936,
-    "city": "Cincinnati"
+  "Anthony Wayne Generals": {
+    "lat": 41.5322,
+    "lng": -83.7795,
+    "city": "Whitehouse"
   },
-  "Watkins Memorial Warriors": {
-    "lat": 40.0014,
-    "lng": -82.6839,
-    "city": "Pataskala"
+  "Antwerp Archers": {
+    "lat": 41.1814,
+    "lng": -84.7414,
+    "city": "Antwerp"
   },
-  "Edison Chargers": {
-    "lat": 41.2986,
-    "lng": -82.5939,
-    "city": "Milan"
-  },
-  "Conneaut Spartans": {
-    "lat": 41.9475,
-    "lng": -80.5542,
-    "city": "Conneaut"
-  },
-  "Shadyside Tigers": {
-    "lat": 39.9686,
-    "lng": -80.7486,
-    "city": "Shadyside"
-  },
-  "Cleveland Central Catholic Ironmen": {
-    "lat": 41.4569,
-    "lng": -81.6439,
-    "city": "Cleveland"
-  },
-  "Madison Comprehensive Rams": {
-    "lat": 40.7686,
-    "lng": -82.4639,
-    "city": "Mansfield"
-  },
-  "Bellaire Big Reds": {
-    "lat": 40.0162,
-    "lng": -80.7423,
-    "city": "Bellaire"
-  },
-  "Kenton Wildcats": {
-    "lat": 40.6469,
-    "lng": -83.6094,
-    "city": "Kenton"
-  },
-  "Fredericktown Freddies": {
-    "lat": 40.4839,
-    "lng": -82.5439,
-    "city": "Fredericktown"
-  },
-  "Pleasant Spartans": {
-    "lat": 40.5386,
-    "lng": -83.1286,
-    "city": "Marion"
-  },
-  "Cleveland Heights Tigers": {
-    "lat": 41.5019,
-    "lng": -81.5639,
-    "city": "Cleveland Heights"
+  "Arcadia Redskins": {
+    "lat": 41.106998,
+    "lng": -83.515478,
+    "city": "Arcadia"
   },
   "Arcanum Trojans": {
-    "lat": 39.9919,
-    "lng": -84.5539,
+    "lat": 39.9956,
+    "lng": -84.5485,
     "city": "Arcanum"
   },
-  "Oak Harbor Rockets": {
-    "lat": 41.5086,
-    "lng": -83.1486,
-    "city": "Oak Harbor"
+  "Archbishop Alter Knights": {
+    "lat": 39.6714,
+    "lng": -84.1564,
+    "city": "Kettering"
   },
-  "East Knox Bulldogs": {
-    "lat": 40.3986,
-    "lng": -82.3086,
-    "city": "Howard"
+  "Archbishop Carroll Patriots": {
+    "lat": 39.7569,
+    "lng": -84.1228,
+    "city": "Dayton"
   },
-  "Delaware Hayes Pacers": {
-    "lat": 40.3086,
-    "lng": -83.0769,
-    "city": "Delaware"
-  },
-  "Lakota Raiders": {
-    "lat": 41.2486,
-    "lng": -83.3186,
-    "city": "Kansas"
-  },
-  "Circleville Tigers": {
-    "lat": 39.6014,
-    "lng": -82.9369,
-    "city": "Circleville"
-  },
-  "Zanesville Blue Devils": {
-    "lat": 39.9403,
-    "lng": -82.0132,
-    "city": "Zanesville"
-  },
-  "Bryan Golden Bears": {
-    "lat": 41.4748,
-    "lng": -84.5525,
-    "city": "Bryan"
-  },
-  "Sylvania Southview Cougars": {
-    "lat": 41.6886,
-    "lng": -83.7186,
-    "city": "Sylvania"
-  },
-  "West Liberty-Salem Tigers": {
-    "lat": 40.2239,
-    "lng": -83.7586,
-    "city": "West Liberty"
-  },
-  "Euclid Panthers": {
-    "lat": 41.5939,
-    "lng": -81.5186,
-    "city": "Euclid"
-  },
-  "Maumee Panthers": {
-    "lat": 41.5639,
-    "lng": -83.6539,
-    "city": "Maumee"
-  },
-  "Cincinnati College Prep Lions": {
-    "lat": 39.1215,
-    "lng": -84.5285,
+  "Archbishop McNicholas Rockets": {
+    "lat": 39.0833,
+    "lng": -84.3833,
     "city": "Cincinnati"
   },
-  "Ada Bulldogs": {
-    "lat": 40.7695,
-    "lng": -83.8227,
-    "city": "Ada"
+  "Archbishop Moeller Crusaders": {
+    "lat": 39.2471,
+    "lng": -84.3414,
+    "city": "Cincinnati"
   },
-  "Madeira Mustangs": {
-    "lat": 39.1847,
-    "lng": -84.3719,
-    "city": "Madeira"
+  "Archbold Blue Streaks": {
+    "lat": 41.515802,
+    "lng": -84.313325,
+    "city": "Archbold"
   },
-  "GlenOak Golden Eagles": {
-    "lat": 40.8586,
-    "lng": -81.3386,
-    "city": "Canton"
+  "Arlington Red Devils": {
+    "lat": 40.8939,
+    "lng": -83.6514,
+    "city": "Arlington"
   },
-  "Carrollton Warriors": {
-    "lat": 40.5786,
-    "lng": -81.0886,
-    "city": "Carrollton"
+  "Ashland Arrows": {
+    "lat": 40.8538,
+    "lng": -82.3243,
+    "city": "Ashland"
   },
-  "Preble Shawnee Arrows": {
-    "lat": 39.6319,
-    "lng": -84.5614,
-    "city": "Camden"
+  "Athens Bulldogs": {
+    "lat": 39.3726,
+    "lng": -82.1279,
+    "city": "The Plains"
   },
-  "Centerburg Trojans": {
-    "lat": 40.3039,
-    "lng": -82.6939,
-    "city": "Centerburg"
+  "Aurora Greenmen": {
+    "lat": 41.3111,
+    "lng": -81.3509,
+    "city": "Aurora"
   },
-  "Northwood Rangers": {
-    "lat": 41.6139,
-    "lng": -83.4786,
-    "city": "Northwood"
+  "Austintown-Fitch Falcons": {
+    "lat": 41.0986,
+    "lng": -80.7339,
+    "city": "Austintown"
   },
-  "Elmwood Royals": {
-    "lat": 41.2286,
-    "lng": -83.5386,
-    "city": "Bloomdale"
+  "Avon Eagles": {
+    "lat": 41.4444,
+    "lng": -82.0376,
+    "city": "Avon"
   },
-  "Brush Arcs": {
-    "lat": 41.5239,
-    "lng": -81.4986,
-    "city": "Lyndhurst"
+  "Avon Lake Shoremen": {
+    "lat": 41.508409,
+    "lng": -82.016455,
+    "city": "Avon Lake"
   },
-  "Boardman Spartans": {
-    "lat": 41.0186,
-    "lng": -80.6639,
-    "city": "Boardman"
+  "Ayersville Pilots": {
+    "lat": 41.236902,
+    "lng": -84.283286,
+    "city": "Defiance"
   },
-  "Lancaster Golden Gales": {
-    "lat": 39.7286,
-    "lng": -82.5839,
-    "city": "Lancaster"
-  },
-  "Napoleon Wildcats": {
-    "lat": 41.3919,
-    "lng": -84.1253,
-    "city": "Napoleon"
-  },
-  "Eaton Eagles": {
-    "lat": 39.7439,
-    "lng": -84.6367,
-    "city": "Eaton"
-  },
-  "Geneva Eagles": {
-    "lat": 41.8039,
-    "lng": -80.9486,
-    "city": "Geneva"
-  },
-  "Milford Eagles": {
-    "lat": 39.1753,
-    "lng": -84.2644,
-    "city": "Milford"
-  },
-  "Piqua Indians": {
-    "lat": 40.1447,
-    "lng": -84.2194,
-    "city": "Piqua"
-  },
-  "West Cowboys": {
-    "lat": 39.9514,
-    "lng": -83.0586,
-    "city": "Columbus"
-  },
-  "Valley Indians": {
-    "lat": 38.8786,
-    "lng": -83.0086,
-    "city": "Lucasville"
-  },
-  "Springfield Blue Devils": {
-    "lat": 39.9469,
-    "lng": -83.8053,
-    "city": "Springfield"
-  },
-  "Newark Catholic Green Wave": {
-    "lat": 40.0786,
-    "lng": -82.4386,
-    "city": "Newark"
-  },
-  "Rhodes Rams": {
-    "lat": 41.4386,
-    "lng": -81.7214,
-    "city": "Cleveland"
-  },
-  "Lakewood Rangers": {
-    "lat": 41.4819,
-    "lng": -81.7981,
-    "city": "Lakewood"
-  },
-  "Tuslaw Mustangs": {
-    "lat": 40.8186,
-    "lng": -81.6186,
-    "city": "Massillon"
-  },
-  "Brookville Blue Devils": {
-    "lat": 39.8408,
-    "lng": -84.4169,
-    "city": "Brookville"
-  },
-  "Twinsburg Tigers": {
-    "lat": 41.3269,
-    "lng": -81.4414,
-    "city": "Twinsburg"
-  },
-  "Fairland Dragons": {
-    "lat": 38.4486,
-    "lng": -82.4186,
-    "city": "Proctorville"
-  },
-  "Strasburg Tigers": {
-    "lat": 40.5986,
-    "lng": -81.5286,
-    "city": "Strasburg"
-  },
-  "Marysville Monarchs": {
-    "lat": 40.2364,
-    "lng": -83.3519,
-    "city": "Marysville"
-  },
-  "Elgin Comets": {
-    "lat": 40.5686,
-    "lng": -83.2486,
-    "city": "Marion"
-  },
-  "Berkshire Badgers": {
-    "lat": 41.4714,
-    "lng": -81.1439,
-    "city": "Burton"
-  },
-  "Edison Wildcats": {
-    "lat": 40.4886,
-    "lng": -80.7286,
-    "city": "Richmond"
-  },
-  "Utica Redskins": {
-    "lat": 40.2339,
-    "lng": -82.4486,
-    "city": "Utica"
-  },
-  "Logan Elm Braves": {
-    "lat": 39.5369,
-    "lng": -82.9186,
-    "city": "Circleville"
-  },
-  "Western Brown Broncos": {
-    "lat": 39.0264,
-    "lng": -83.9186,
-    "city": "Mount Orab"
-  },
-  "South Point Pointers": {
-    "lat": 38.4186,
-    "lng": -82.5839,
-    "city": "South Point"
-  },
-  "Lexington Minutemen": {
-    "lat": 40.6786,
-    "lng": -82.5839,
-    "city": "Lexington"
-  },
-  "Northmont Thunderbolts": {
-    "lat": 39.8789,
-    "lng": -84.3036,
-    "city": "Clayton"
+  "Badin Rams": {
+    "lat": 39.4036,
+    "lng": -84.5936,
+    "city": "Hamilton"
   },
   "Barberton Magics": {
-    "lat": 41.0186,
-    "lng": -81.5986,
+    "lat": 41.0261,
+    "lng": -81.6075,
     "city": "Barberton"
   },
-  "Northmor Golden Knights": {
-    "lat": 40.6686,
-    "lng": -82.7686,
-    "city": "Galion"
+  "Barnesville Shamrocks": {
+    "lat": 39.987311,
+    "lng": -81.157806,
+    "city": "Barnesville"
   },
-  "Eastern Eagles": {
-    "lat": 39.0486,
-    "lng": -82.7886,
-    "city": "Beaver"
+  "Batavia Bulldogs": {
+    "lat": 39.0726,
+    "lng": -84.1281,
+    "city": "Batavia"
   },
-  "New Richmond Lions": {
-    "lat": 38.9639,
-    "lng": -84.2736,
-    "city": "New Richmond"
+  "Bath Wildcats": {
+    "lat": 40.773059,
+    "lng": -84.052243,
+    "city": "Lima"
   },
-  "Huron Tigers": {
-    "lat": 41.3953,
-    "lng": -82.5552,
-    "city": "Huron"
+  "Bay Rockets": {
+    "lat": 41.487,
+    "lng": -81.9435,
+    "city": "Bay Village"
   },
-  "North Olmsted Eagles": {
-    "lat": 41.4153,
-    "lng": -81.9186,
-    "city": "North Olmsted"
+  "Beachwood Bison": {
+    "lat": 41.484,
+    "lng": -81.5014,
+    "city": "Beachwood"
+  },
+  "Beaver Local Beavers": {
+    "lat": 40.711849,
+    "lng": -80.630146,
+    "city": "East Liverpool"
+  },
+  "Beavercreek Beavers": {
+    "lat": 39.7204,
+    "lng": -84.0337,
+    "city": "Beavercreek"
+  },
+  "Bedford Bearcats": {
+    "lat": 41.4024,
+    "lng": -81.5253,
+    "city": "Bedford"
+  },
+  "Beechcroft Cougars": {
+    "lat": 40.0942,
+    "lng": -82.9647,
+    "city": "Columbus"
+  },
+  "Bellaire Big Reds": {
+    "lat": 40.017535,
+    "lng": -80.742159,
+    "city": "Bellaire"
+  },
+  "Bellbrook Golden Eagles": {
+    "lat": 39.6528,
+    "lng": -84.0677,
+    "city": "Bellbrook"
+  },
+  "Bellefontaine Chieftains": {
+    "lat": 40.3481,
+    "lng": -83.7538,
+    "city": "Bellefontaine"
+  },
+  "Bellevue Redmen": {
+    "lat": 41.2819,
+    "lng": -82.8436,
+    "city": "Bellevue"
+  },
+  "Belmont Bison": {
+    "lat": 39.738255,
+    "lng": -84.155683,
+    "city": "Dayton"
+  },
+  "Belpre Golden Eagles": {
+    "lat": 39.2755,
+    "lng": -81.5763,
+    "city": "Belpre"
+  },
+  "Benedictine Bengals": {
+    "lat": 41.4886,
+    "lng": -81.6139,
+    "city": "Cleveland"
+  },
+  "Benjamin Logan Raiders": {
+    "lat": 40.4087,
+    "lng": -83.6546,
+    "city": "Bellefontaine"
+  },
+  "Berea-Midpark Titans": {
+    "lat": 41.37316,
+    "lng": -81.845162,
+    "city": "Berea"
+  },
+  "Berkshire Badgers": {
+    "lat": 41.483619,
+    "lng": -81.137109,
+    "city": "Burton"
+  },
+  "Berne Union Rockets": {
+    "lat": 39.629498,
+    "lng": -82.547224,
+    "city": "Sugar Grove"
+  },
+  "Bethel Bees": {
+    "lat": 39.9191,
+    "lng": -84.0864,
+    "city": "Tipp City"
+  },
+  "Bethel-Tate Tigers": {
+    "lat": 38.9629,
+    "lng": -84.0648,
+    "city": "Bethel"
+  },
+  "Bexley Lions": {
+    "lat": 39.963451,
+    "lng": -82.930025,
+    "city": "Bexley"
+  },
+  "Big Walnut Golden Eagles": {
+    "lat": 40.262658,
+    "lng": -82.874918,
+    "city": "Sunbury"
+  },
+  "Bishop Fenwick Falcons": {
+    "lat": 39.4894,
+    "lng": -84.3167,
+    "city": "Franklin"
   },
   "Bishop Hartley Hawks": {
     "lat": 39.9519,
@@ -2029,1469 +289,3209 @@
     "lng": -83.0819,
     "city": "Columbus"
   },
-  "Rossford Bulldogs": {
-    "lat": 41.6086,
-    "lng": -83.5639,
-    "city": "Rossford"
+  "Bishop Rosecrans Bishops": {
+    "lat": 39.9539,
+    "lng": -82.0086,
+    "city": "Zanesville"
   },
-  "Greeneview Rams": {
-    "lat": 39.6586,
-    "lng": -83.7439,
-    "city": "Jamestown"
-  },
-  "Amanda-Clearcreek Aces": {
-    "lat": 39.6486,
-    "lng": -82.7439,
-    "city": "Amanda"
-  },
-  "Wickliffe Blue Devils": {
-    "lat": 41.6086,
-    "lng": -81.4686,
-    "city": "Wickliffe"
-  },
-  "Huntington Huntsmen": {
-    "lat": 39.2686,
-    "lng": -83.0686,
-    "city": "Chillicothe"
-  },
-  "Harvey Red Raiders": {
-    "lat": 41.7239,
-    "lng": -81.2469,
-    "city": "Painesville"
-  },
-  "Niles McKinley Red Dragons": {
-    "lat": 41.1886,
-    "lng": -80.7586,
-    "city": "Niles"
-  },
-  "Bellefontaine Chieftains": {
-    "lat": 40.3586,
-    "lng": -83.7539,
-    "city": "Bellefontaine"
-  },
-  "Jefferson Wildcats": {
-    "lat": 40.8486,
-    "lng": -84.3439,
-    "city": "Delphos"
-  },
-  "Newark Wildcats": {
-    "lat": 40.0686,
-    "lng": -82.4186,
-    "city": "Newark"
-  },
-  "Mariemont Warriors": {
-    "lat": 39.1469,
-    "lng": -84.3744,
-    "city": "Mariemont"
-  },
-  "St John's Jesuit Titans": {
-    "lat": 41.6386,
-    "lng": -83.6686,
-    "city": "Toledo"
-  },
-  "St Paul Flyers": {
-    "lat": 41.2414,
-    "lng": -82.6114,
-    "city": "Norwalk"
-  },
-  "West Clermont Wolves": {
-    "lat": 39.0975,
-    "lng": -84.2581,
-    "city": "Cincinnati"
-  },
-  "Defiance Bulldogs": {
-    "lat": 41.2845,
-    "lng": -84.3558,
-    "city": "Defiance"
-  },
-  "Edgewood Warriors": {
-    "lat": 39.4853,
-    "lng": -84.5736,
-    "city": "Trenton"
-  },
-  "Washington Blue Lions": {
-    "lat": 39.5364,
-    "lng": -83.4391,
-    "city": "Washington Court House"
-  },
-  "Roger Bacon Spartans": {
-    "lat": 39.1678,
-    "lng": -84.4919,
-    "city": "St. Bernard"
-  },
-  "Sandusky Blue Streaks": {
-    "lat": 41.4489,
-    "lng": -82.7079,
-    "city": "Sandusky"
-  },
-  "Chippewa Chipps": {
-    "lat": 40.9686,
-    "lng": -81.6986,
-    "city": "Doylestown"
-  },
-  "Loudonville Redbirds": {
-    "lat": 40.6353,
-    "lng": -82.2332,
-    "city": "Loudonville"
-  },
-  "Crestview Knights": {
-    "lat": 40.8486,
-    "lng": -84.7186,
-    "city": "Convoy"
-  },
-  "Fairbanks Panthers": {
-    "lat": 40.1386,
-    "lng": -83.3686,
-    "city": "Milford Center"
-  },
-  "Bay Rockets": {
-    "lat": 41.4869,
-    "lng": -81.9239,
-    "city": "Bay Village"
-  },
-  "Buchtel Griffins": {
-    "lat": 41.0939,
-    "lng": -81.5686,
-    "city": "Akron"
-  },
-  "Parkway Panthers": {
-    "lat": 40.6886,
-    "lng": -84.6486,
-    "city": "Rockford"
-  },
-  "Stebbins Indians": {
-    "lat": 39.7764,
-    "lng": -84.1139,
-    "city": "Riverside"
-  },
-  "Taylor Yellowjackets": {
-    "lat": 39.1564,
-    "lng": -84.7453,
-    "city": "Cleves"
-  },
-  "Antwerp Archers": {
-    "lat": 41.1814,
-    "lng": -84.7414,
-    "city": "Antwerp"
-  },
-  "Calvert Senecas": {
-    "lat": 41.1186,
-    "lng": -83.1739,
-    "city": "Tiffin"
-  },
-  "Canton South Wildcats": {
-    "lat": 40.7486,
-    "lng": -81.3686,
-    "city": "Canton"
-  },
-  "Crooksville Ceramics": {
-    "lat": 39.7686,
-    "lng": -82.0939,
-    "city": "Crooksville"
-  },
-  "St Bernard-Elmwood Place Titans": {
-    "lat": 39.1714,
-    "lng": -84.4986,
-    "city": "St. Bernard"
-  },
-  "Crestview Rebels": {
-    "lat": 40.8439,
-    "lng": -80.6486,
-    "city": "Columbiana"
-  },
-  "Mount Healthy Fighting Owls": {
-    "lat": 39.2414,
-    "lng": -84.5519,
-    "city": "Mount Healthy"
-  },
-  "Crestwood Red Devils": {
-    "lat": 41.2686,
-    "lng": -81.2286,
-    "city": "Mantua"
-  },
-  "Piketon Redstreaks": {
-    "lat": 39.0686,
-    "lng": -83.0086,
-    "city": "Piketon"
-  },
-  "Lake Flyers": {
-    "lat": 41.5686,
-    "lng": -83.4686,
-    "city": "Millbury"
-  },
-  "North Baltimore Tigers": {
-    "lat": 41.1825,
-    "lng": -83.6783,
-    "city": "North Baltimore"
-  },
-  "Dunbar Wolverines": {
-    "lat": 39.7408,
-    "lng": -84.2286,
-    "city": "Dayton"
-  },
-  "Thomas Worthington Cardinals": {
-    "lat": 40.0886,
-    "lng": -83.0239,
-    "city": "Worthington"
-  },
-  "Purcell Marian Cavaliers": {
-    "lat": 39.1331,
-    "lng": -84.4714,
-    "city": "Cincinnati"
-  },
-  "Ayersville Pilots": {
-    "lat": 41.2286,
-    "lng": -84.3086,
-    "city": "Defiance"
-  },
-  "St John's Blue Jays": {
-    "lat": 40.8439,
-    "lng": -84.3386,
-    "city": "Delphos"
-  },
-  "Summit Country Day Silver Knights": {
-    "lat": 39.1353,
-    "lng": -84.4556,
-    "city": "Cincinnati"
-  },
-  "Licking Heights Hornets": {
-    "lat": 39.9939,
-    "lng": -82.7469,
-    "city": "Pataskala"
-  },
-  "Tuscarawas Valley Trojans": {
-    "lat": 40.6086,
-    "lng": -81.4186,
-    "city": "Zoarville"
-  },
-  "Tri-County North Panthers": {
-    "lat": 39.8453,
-    "lng": -84.5419,
-    "city": "Lewisburg"
-  },
-  "Caldwell Redskins": {
-    "lat": 39.7486,
-    "lng": -81.5186,
-    "city": "Caldwell"
-  },
-  "Lutheran East Falcons": {
-    "lat": 41.5186,
-    "lng": -81.5539,
-    "city": "Cleveland Heights"
-  },
-  "Meadowbrook Colts": {
-    "lat": 39.9386,
-    "lng": -81.5386,
-    "city": "Byesville"
-  },
-  "Dublin Scioto Irish": {
-    "lat": 40.1228,
-    "lng": -83.0986,
-    "city": "Dublin"
-  },
-  "Brookside Cardinals": {
-    "lat": 41.4586,
-    "lng": -82.0986,
-    "city": "Sheffield"
-  },
-  "East Canton Hornets": {
-    "lat": 40.7886,
-    "lng": -81.2886,
-    "city": "East Canton"
-  },
-  "Dayton Christian Warriors": {
-    "lat": 39.6386,
-    "lng": -84.2286,
-    "city": "Miamisburg"
-  },
-  "Chagrin Falls Tigers": {
-    "lat": 41.4314,
-    "lng": -81.3886,
-    "city": "Chagrin Falls"
-  },
-  "Rittman Indians": {
-    "lat": 40.9739,
-    "lng": -81.7839,
-    "city": "Rittman"
-  },
-  "Westlake Demons": {
-    "lat": 41.4486,
-    "lng": -81.9339,
-    "city": "Westlake"
-  },
-  "Bexley Lions": {
-    "lat": 39.9694,
-    "lng": -82.9314,
-    "city": "Bexley"
-  },
-  "Marlington Dukes": {
-    "lat": 40.9186,
-    "lng": -81.1686,
-    "city": "Alliance"
+  "Bishop Watterson Eagles": {
+    "lat": 40.0536,
+    "lng": -83.0205,
+    "city": "Columbus"
   },
   "Black River Pirates": {
-    "lat": 41.0686,
-    "lng": -82.1386,
+    "lat": 41.0568,
+    "lng": -82.1732,
     "city": "Sullivan"
   },
-  "Bedford Bearcats": {
-    "lat": 41.3939,
-    "lng": -81.5314,
-    "city": "Bedford"
-  },
-  "McClain Tigers": {
-    "lat": 39.3514,
-    "lng": -83.3839,
-    "city": "Greenfield"
-  },
-  "Montpelier Locomotives": {
-    "lat": 41.5844,
-    "lng": -84.6055,
-    "city": "Montpelier"
-  },
-  "Mansfield Senior Tygers": {
-    "lat": 40.7584,
-    "lng": -82.5154,
-    "city": "Mansfield"
-  },
-  "Struthers Wildcats": {
-    "lat": 41.0539,
-    "lng": -80.5939,
-    "city": "Struthers"
-  },
-  "Taft Senators": {
-    "lat": 39.1118,
-    "lng": -84.5244,
-    "city": "Cincinnati"
-  },
-  "St Vincent-St Mary Irish": {
-    "lat": 41.0886,
-    "lng": -81.5239,
-    "city": "Akron"
-  },
-  "Start Spartans": {
-    "lat": 41.6939,
-    "lng": -83.6086,
-    "city": "Toledo"
-  },
-  "Lakeview Bulldogs": {
-    "lat": 41.3186,
-    "lng": -80.7286,
-    "city": "Cortland"
-  },
-  "Greenon Knights": {
-    "lat": 39.8586,
-    "lng": -83.9186,
-    "city": "Enon"
-  },
-  "Adena Warriors": {
-    "lat": 39.4286,
-    "lng": -83.1486,
-    "city": "Frankfort"
-  },
-  "Africentric Early College Nubians": {
-    "lat": 39.9469,
-    "lng": -82.8839,
-    "city": "Columbus"
-  },
-  "Meigs Marauders": {
-    "lat": 39.0386,
-    "lng": -82.0686,
-    "city": "Pomeroy"
-  },
-  "Walnut Ridge Scots": {
-    "lat": 39.9369,
-    "lng": -82.8939,
-    "city": "Columbus"
-  },
-  "John Adams Rebels": {
-    "lat": 41.4514,
-    "lng": -81.5839,
-    "city": "Cleveland"
-  },
-  "Lorain Titans": {
-    "lat": 41.4528,
-    "lng": -82.1825,
-    "city": "Lorain"
-  },
-  "River Valley Vikings": {
-    "lat": 40.5886,
-    "lng": -83.0486,
-    "city": "Caledonia"
-  },
-  "Arcadia Redskins": {
-    "lat": 41.1086,
-    "lng": -83.5186,
-    "city": "Arcadia"
-  },
-  "Beechcroft Cougars": {
-    "lat": 40.0839,
-    "lng": -82.9839,
-    "city": "Columbus"
-  },
-  "South Bulldogs": {
-    "lat": 39.9369,
-    "lng": -82.9814,
-    "city": "Columbus"
-  },
-  "Rootstown Rovers": {
-    "lat": 41.0986,
-    "lng": -81.2439,
-    "city": "Rootstown"
-  },
-  "Shaker Heights Red Raiders": {
-    "lat": 41.4714,
-    "lng": -81.5539,
-    "city": "Shaker Heights"
-  },
-  "Conotton Valley Rockets": {
-    "lat": 40.4686,
-    "lng": -81.1986,
-    "city": "Bowerston"
-  },
-  "Orange Lions": {
-    "lat": 41.4586,
-    "lng": -81.4686,
-    "city": "Pepper Pike"
-  },
-  "Franklin Heights Golden Falcons": {
-    "lat": 39.9314,
-    "lng": -83.0886,
-    "city": "Columbus"
-  },
-  "Bethel Bees": {
-    "lat": 39.9144,
-    "lng": -84.0869,
-    "city": "Tipp City"
-  },
-  "Franklin Wildcats": {
-    "lat": 39.5589,
-    "lng": -84.2981,
-    "city": "Franklin"
-  },
-  "Wynford Royals": {
-    "lat": 40.8086,
-    "lng": -83.0286,
-    "city": "Bucyrus"
-  },
-  "Morgan Raiders": {
-    "lat": 39.6486,
-    "lng": -81.8486,
-    "city": "McConnelsville"
-  },
-  "Frontier Cougars": {
-    "lat": 39.5086,
-    "lng": -81.1886,
-    "city": "New Matamoras"
-  },
-  "Northwestern Huskies": {
-    "lat": 40.9186,
-    "lng": -82.0686,
-    "city": "West Salem"
-  },
-  "Hamilton Big Blue": {
-    "lat": 39.4069,
-    "lng": -84.5819,
-    "city": "Hamilton"
-  },
-  "Portsmouth Trojans": {
-    "lat": 38.7317,
-    "lng": -82.9977,
-    "city": "Portsmouth"
-  },
-  "Grand Valley Mustangs": {
-    "lat": 41.5386,
-    "lng": -80.8686,
-    "city": "Orwell"
-  },
-  "Bowling Green Bobcats": {
-    "lat": 41.3748,
-    "lng": -83.6513,
-    "city": "Bowling Green"
-  },
-  "Arlington Red Devils": {
-    "lat": 40.8939,
-    "lng": -83.6514,
-    "city": "Arlington"
-  },
-  "Fairview Warriors": {
-    "lat": 41.4439,
-    "lng": -81.8539,
-    "city": "Fairview Park"
-  },
-  "Marietta Tigers": {
-    "lat": 39.4153,
-    "lng": -81.4548,
-    "city": "Marietta"
-  },
-  "Sycamore Aviators": {
-    "lat": 39.2619,
-    "lng": -84.3547,
-    "city": "Cincinnati"
-  },
-  "Reading Blue Devils": {
-    "lat": 39.225,
-    "lng": -84.4328,
-    "city": "Reading"
-  },
-  "Northland Vikings": {
-    "lat": 40.0714,
-    "lng": -82.9686,
-    "city": "Columbus"
-  },
-  "LaBrae Vikings": {
-    "lat": 41.2586,
-    "lng": -80.8886,
-    "city": "Leavittsburg"
-  },
-  "Ravenna Ravens": {
-    "lat": 41.1586,
-    "lng": -81.2439,
-    "city": "Ravenna"
-  },
-  "KIPP Columbus Jaguars": {
-    "lat": 40.0286,
-    "lng": -82.9486,
-    "city": "Columbus"
-  },
-  "Warrensville Heights Tigers": {
-    "lat": 41.4369,
-    "lng": -81.5239,
-    "city": "Warrensville Heights"
-  },
-  "Willard Crimson Flashes": {
-    "lat": 41.0531,
-    "lng": -82.7263,
-    "city": "Willard"
-  },
-  "Columbiana Clippers": {
-    "lat": 40.8886,
-    "lng": -80.6939,
-    "city": "Columbiana"
-  },
-  "Sandy Valley Cardinals": {
-    "lat": 40.6486,
-    "lng": -81.3486,
-    "city": "Magnolia"
-  },
-  "Northridge Polar Bears": {
-    "lat": 39.8114,
-    "lng": -84.1939,
-    "city": "Dayton"
-  },
-  "Northridge Vikings": {
-    "lat": 40.1939,
-    "lng": -82.5839,
-    "city": "Johnstown"
-  },
-  "St John School Heralds": {
-    "lat": 41.8786,
-    "lng": -80.7986,
-    "city": "Ashtabula"
-  },
-  "Pymatuning Valley Lakers": {
-    "lat": 41.6086,
-    "lng": -80.5886,
-    "city": "Andover"
-  },
-  "Loveland Tigers": {
-    "lat": 39.2689,
-    "lng": -84.2708,
-    "city": "Loveland"
-  },
   "Blanchester Wildcats": {
-    "lat": 39.2914,
-    "lng": -83.9844,
+    "lat": 39.298642,
+    "lng": -83.969326,
     "city": "Blanchester"
   },
-  "Lowellville Rockets": {
-    "lat": 41.0386,
-    "lng": -80.5439,
-    "city": "Lowellville"
-  },
-  "Aiken Falcons": {
-    "lat": 39.1939,
-    "lng": -84.5443,
-    "city": "Cincinnati"
-  },
-  "Evergreen Vikings": {
-    "lat": 41.6486,
-    "lng": -83.9186,
-    "city": "Metamora"
-  },
-  "Vinton County Vikings": {
-    "lat": 39.2486,
-    "lng": -82.4686,
-    "city": "McArthur"
-  },
-  "Waite Indians": {
-    "lat": 41.6439,
-    "lng": -83.5139,
-    "city": "Toledo"
-  },
-  "Shenandoah Zeps": {
-    "lat": 39.8286,
-    "lng": -81.4186,
-    "city": "Sarahsville"
-  },
-  "Ellet Orangemen": {
-    "lat": 41.0486,
-    "lng": -81.4386,
-    "city": "Akron"
-  },
-  "Central Crossing Comets": {
-    "lat": 39.9039,
-    "lng": -83.1369,
-    "city": "Grove City"
-  },
-  "Tecumseh Arrows": {
-    "lat": 39.9039,
-    "lng": -84.0186,
-    "city": "New Carlisle"
-  },
-  "Cincinnati Country Day Nighthawks": {
-    "lat": 39.2106,
-    "lng": -84.3164,
-    "city": "Indian Hill"
-  },
-  "Valley Forge Patriots": {
-    "lat": 41.3714,
-    "lng": -81.7586,
-    "city": "Parma Heights"
-  },
-  "Coshocton Redskins": {
-    "lat": 40.272,
-    "lng": -81.8596,
-    "city": "Coshocton"
-  },
-  "Grove City Christian Eagles": {
-    "lat": 39.8786,
-    "lng": -83.0686,
-    "city": "Grove City"
-  },
-  "Catholic Central Crusaders": {
-    "lat": 40.3686,
-    "lng": -80.6586,
-    "city": "Steubenville"
-  },
-  "Warren Warriors": {
-    "lat": 39.3886,
-    "lng": -81.6686,
-    "city": "Vincent"
-  },
-  "Minerva Lions": {
-    "lat": 40.7339,
-    "lng": -81.1039,
-    "city": "Minerva"
-  },
-  "Waynedale Golden Bears": {
-    "lat": 40.7086,
-    "lng": -81.8186,
-    "city": "Apple Creek"
-  },
-  "Coal Grove Hornets": {
-    "lat": 38.5014,
-    "lng": -82.6339,
-    "city": "Coal Grove"
-  },
-  "North Central Eagles": {
-    "lat": 41.6439,
-    "lng": -84.5486,
-    "city": "Pioneer"
-  },
-  "Miami Valley Christian Academy Lions": {
-    "lat": 39.1525,
-    "lng": -84.3814,
-    "city": "Newtown"
-  },
-  "Jefferson Area Falcons": {
-    "lat": 41.7386,
-    "lng": -80.7686,
-    "city": "Jefferson"
-  },
-  "Shawnee Braves": {
-    "lat": 39.8839,
-    "lng": -83.7839,
-    "city": "Springfield"
-  },
-  "Ottawa Hills Green Bears": {
-    "lat": 41.6686,
-    "lng": -83.6386,
-    "city": "Ottawa Hills"
-  },
-  "John Hay Hornets": {
-    "lat": 41.5039,
-    "lng": -81.6139,
-    "city": "Cleveland"
-  },
-  "Toledo Christian Eagles": {
-    "lat": 41.5986,
-    "lng": -83.6586,
-    "city": "Toledo"
-  },
-  "Lisbon Blue Devils": {
-    "lat": 40.7739,
-    "lng": -80.7686,
-    "city": "Lisbon"
-  },
-  "Lakeside Dragons": {
-    "lat": 41.8886,
-    "lng": -80.7886,
-    "city": "Ashtabula"
-  },
-  "Harrison Central Huskies": {
-    "lat": 40.2739,
-    "lng": -80.9986,
-    "city": "Cadiz"
-  },
-  "Grandview Heights Bobcats": {
-    "lat": 39.9808,
-    "lng": -83.0469,
-    "city": "Grandview Heights"
-  },
-  "St Francis de Sales Knights": {
-    "lat": 41.6539,
-    "lng": -83.6086,
-    "city": "Toledo"
-  },
-  "Milton-Union Bulldogs": {
-    "lat": 39.9614,
-    "lng": -84.3319,
-    "city": "West Milton"
-  },
-  "Clermont Northeastern Rockets": {
-    "lat": 39.1319,
-    "lng": -84.1186,
-    "city": "Batavia"
-  },
-  "Western Hills Mustangs": {
-    "lat": 39.1311,
-    "lng": -84.6006,
-    "city": "Cincinnati"
-  },
-  "Independence 76ers": {
-    "lat": 39.9186,
-    "lng": -82.8839,
-    "city": "Columbus"
-  },
-  "Western Reserve Blue Devils": {
-    "lat": 41.0086,
-    "lng": -80.8886,
-    "city": "Berlin Center"
-  },
-  "National Trail Blazers": {
-    "lat": 39.8386,
-    "lng": -84.7169,
-    "city": "New Paris"
-  },
-  "Gallia Academy Blue Devils": {
-    "lat": 38.8098,
-    "lng": -82.2024,
-    "city": "Gallipolis"
-  },
-  "Batavia Bulldogs": {
-    "lat": 39.0811,
-    "lng": -84.1794,
-    "city": "Batavia"
-  },
-  "Hilltop Cadets": {
-    "lat": 41.6086,
-    "lng": -84.4586,
-    "city": "West Unity"
-  },
-  "Elyria Pioneers": {
-    "lat": 41.3683,
-    "lng": -82.1078,
-    "city": "Elyria"
-  },
-  "Ponitz Tech Golden Panthers": {
-    "lat": 39.7544,
-    "lng": -84.2053,
-    "city": "Dayton"
-  },
-  "Garfield Golden Rams": {
-    "lat": 41.0386,
-    "lng": -81.5286,
-    "city": "Akron"
-  },
-  "Logan Chieftains": {
-    "lat": 39.5386,
-    "lng": -82.4039,
-    "city": "Logan"
-  },
-  "Southern Tornadoes": {
-    "lat": 38.9686,
-    "lng": -81.9186,
-    "city": "Racine"
-  },
-  "Lutheran West Longhorns": {
-    "lat": 41.4686,
-    "lng": -81.8239,
-    "city": "Rocky River"
-  },
-  "Waynesfield-Goshen Tigers": {
-    "lat": 40.6014,
-    "lng": -83.9739,
-    "city": "Waynesfield"
-  },
-  "Greenville Green Wave": {
-    "lat": 40.1114,
-    "lng": -84.6236,
-    "city": "Greenville"
-  },
-  "Southeastern Local Trojans": {
-    "lat": 39.7769,
-    "lng": -83.6886,
-    "city": "South Charleston"
-  },
-  "Berne Union Rockets": {
-    "lat": 39.6514,
-    "lng": -82.5539,
-    "city": "Sugar Grove"
-  },
-  "Independence Blue Devils": {
-    "lat": 41.3839,
-    "lng": -81.6386,
-    "city": "Independence"
-  },
-  "Sylvania Northview Wildcats": {
-    "lat": 41.7186,
-    "lng": -83.7039,
-    "city": "Sylvania"
-  },
-  "Southeast Pirates": {
-    "lat": 41.1286,
-    "lng": -81.1086,
-    "city": "Ravenna"
-  },
-  "Campbell Memorial Red Devils": {
-    "lat": 41.0786,
-    "lng": -80.5939,
-    "city": "Campbell"
-  },
-  "Sidney Yellow Jackets": {
-    "lat": 40.2842,
-    "lng": -84.1686,
-    "city": "Sidney"
-  },
-  "Cuyahoga Falls Black Tigers": {
-    "lat": 41.1386,
-    "lng": -81.4814,
-    "city": "Cuyahoga Falls"
-  },
-  "Archbishop Carroll Patriots": {
-    "lat": 39.7569,
-    "lng": -84.1228,
-    "city": "Dayton"
-  },
-  "Chesapeake Panthers": {
-    "lat": 38.4286,
-    "lng": -82.4586,
-    "city": "Chesapeake"
-  },
-  "Briggs Bruins": {
-    "lat": 39.9286,
-    "lng": -83.0739,
-    "city": "Columbus"
-  },
-  "Rock Hill Redmen": {
-    "lat": 38.5986,
-    "lng": -82.6886,
-    "city": "Ironton"
-  },
-  "Clearview Clippers": {
-    "lat": 41.4286,
-    "lng": -82.1386,
-    "city": "Lorain"
-  },
-  "Firestone Falcons": {
-    "lat": 41.1286,
-    "lng": -81.5886,
-    "city": "Akron"
-  },
-  "Upper Scioto Valley Rams": {
-    "lat": 40.6386,
-    "lng": -83.8286,
-    "city": "McGuffey"
-  },
-  "Madison Mohawks": {
-    "lat": 39.5294,
-    "lng": -84.4789,
-    "city": "Middletown"
-  },
-  "Cambridge Bobcats": {
-    "lat": 40.0259,
-    "lng": -81.5885,
-    "city": "Cambridge"
-  },
-  "Bowsher Blue Racers": {
-    "lat": 41.6139,
-    "lng": -83.6039,
-    "city": "Toledo"
-  },
-  "Swanton Bulldogs": {
-    "lat": 41.5886,
-    "lng": -83.8939,
-    "city": "Swanton"
-  },
-  "Field Falcons": {
-    "lat": 41.0786,
-    "lng": -81.3486,
-    "city": "Mogadore"
-  },
-  "Liberty Union Lions": {
-    "lat": 39.8369,
-    "lng": -82.6086,
-    "city": "Baltimore"
-  },
-  "Northeastern Jets": {
-    "lat": 39.9739,
-    "lng": -83.6739,
-    "city": "Springfield"
-  },
-  "Perry Commodores": {
-    "lat": 40.7186,
-    "lng": -84.0586,
-    "city": "Lima"
-  },
-  "Richmond Heights Spartans": {
-    "lat": 41.5539,
-    "lng": -81.5039,
-    "city": "Richmond Heights"
-  },
-  "Shaw Cardinals": {
-    "lat": 41.5339,
-    "lng": -81.5769,
-    "city": "East Cleveland"
-  },
-  "Hillsboro Indians": {
-    "lat": 39.2023,
-    "lng": -83.6116,
-    "city": "Hillsboro"
-  },
-  "Bucyrus Redmen": {
-    "lat": 40.8084,
-    "lng": -82.9755,
-    "city": "Bucyrus"
-  },
-  "Wellington Dukes": {
-    "lat": 41.1686,
-    "lng": -82.2186,
-    "city": "Wellington"
-  },
-  "Notre Dame Titans": {
-    "lat": 38.7386,
-    "lng": -82.9914,
-    "city": "Portsmouth"
-  },
-  "Meadowdale Lions": {
-    "lat": 39.8036,
-    "lng": -84.2364,
-    "city": "Dayton"
-  },
-  "Centennial Stars": {
-    "lat": 40.0569,
-    "lng": -83.0539,
-    "city": "Columbus"
-  },
-  "East Palestine Bulldogs": {
-    "lat": 40.8339,
-    "lng": -80.5439,
-    "city": "East Palestine"
-  },
-  "Gamble Montessori Gators": {
-    "lat": 39.1558,
-    "lng": -84.5872,
-    "city": "Cincinnati"
-  },
-  "South Gallia Rebels": {
-    "lat": 38.6886,
-    "lng": -82.2286,
-    "city": "Crown City"
-  },
-  "Mathews Mustangs": {
-    "lat": 41.2786,
-    "lng": -80.6686,
-    "city": "Vienna"
-  },
-  "Malvern Hornets": {
-    "lat": 40.6886,
-    "lng": -81.1839,
-    "city": "Malvern"
-  },
-  "Mapleton Mounties": {
-    "lat": 40.9786,
-    "lng": -82.2286,
-    "city": "Ashland"
-  },
-  "Minford Falcons": {
-    "lat": 38.8586,
-    "lng": -82.8586,
-    "city": "Minford"
-  },
-  "Walnut Hills Eagles": {
-    "lat": 39.1364,
-    "lng": -84.4719,
-    "city": "Cincinnati"
-  },
-  "Edgerton Bulldogs": {
-    "lat": 41.4486,
-    "lng": -84.7486,
-    "city": "Edgerton"
-  },
-  "Scott Bulldogs": {
-    "lat": 41.6639,
-    "lng": -83.5639,
-    "city": "Toledo"
-  },
-  "Clark Montessori Cougars": {
-    "lat": 39.1436,
-    "lng": -84.4422,
-    "city": "Cincinnati"
-  },
-  "West Carrollton Pirates": {
-    "lat": 39.6644,
-    "lng": -84.2414,
-    "city": "West Carrollton"
-  },
-  "Bethel-Tate Tigers": {
-    "lat": 38.9636,
-    "lng": -84.0808,
-    "city": "Bethel"
-  },
-  "Trimble Tomcats": {
-    "lat": 39.4886,
-    "lng": -82.0886,
-    "city": "Glouster"
-  },
-  "Spencerville Bearcats": {
-    "lat": 40.7086,
-    "lng": -84.3539,
-    "city": "Spencerville"
-  },
-  "Cedarville Indians": {
-    "lat": 39.7439,
-    "lng": -83.8086,
-    "city": "Cedarville"
-  },
-  "Fostoria Redmen": {
-    "lat": 41.1586,
-    "lng": -83.4139,
-    "city": "Fostoria"
-  },
-  "Alexander Spartans": {
-    "lat": 39.2486,
-    "lng": -82.2086,
-    "city": "Albany"
-  },
-  "Belmont Bison": {
-    "lat": 39.7269,
-    "lng": -84.1422,
-    "city": "Dayton"
-  },
-  "Riverdale Falcons": {
-    "lat": 40.8086,
-    "lng": -83.5186,
-    "city": "Mount Blanchard"
-  },
-  "Newton Falls Tigers": {
-    "lat": 41.1886,
-    "lng": -80.9786,
-    "city": "Newton Falls"
-  },
-  "Westfall Mustangs": {
-    "lat": 39.6186,
-    "lng": -83.1486,
-    "city": "Williamsport"
-  },
-  "John Marshall Lawyers": {
-    "lat": 41.4486,
-    "lng": -81.8039,
-    "city": "Cleveland"
-  },
-  "South Central Trojans": {
-    "lat": 41.0486,
-    "lng": -82.5586,
-    "city": "Greenwich"
-  },
-  "Crestline Bulldogs": {
-    "lat": 40.7869,
-    "lng": -82.7369,
-    "city": "Crestline"
-  },
-  "Lakewood Lancers": {
-    "lat": 39.9886,
-    "lng": -82.3839,
-    "city": "Hebron"
-  },
-  "Norwalk Truckers": {
-    "lat": 41.2425,
-    "lng": -82.6157,
-    "city": "Norwalk"
-  },
-  "Ridgemont Golden Gophers": {
-    "lat": 40.5386,
-    "lng": -83.5786,
-    "city": "Mount Victory"
-  },
-  "Triad Cardinals": {
-    "lat": 40.1939,
-    "lng": -83.5739,
-    "city": "North Lewisburg"
-  },
-  "Rogers Rams": {
-    "lat": 41.6386,
-    "lng": -83.6439,
-    "city": "Toledo"
-  },
-  "Hardin Northern Polar Bears": {
-    "lat": 40.7886,
-    "lng": -83.6486,
-    "city": "Dola"
-  },
-  "Buckeye Local Panthers": {
-    "lat": 40.2086,
-    "lng": -80.7186,
-    "city": "Rayland"
-  },
-  "Fisher Catholic Irish": {
-    "lat": 39.7386,
-    "lng": -82.5969,
-    "city": "Lancaster"
-  },
-  "Cardington-Lincoln Pirates": {
-    "lat": 40.5014,
-    "lng": -82.8939,
-    "city": "Cardington"
-  },
-  "Northwestern Warriors": {
-    "lat": 39.9839,
-    "lng": -83.9039,
-    "city": "Springfield"
-  },
-  "Lehman Catholic Cavaliers": {
-    "lat": 40.2644,
-    "lng": -84.1786,
-    "city": "Sidney"
-  },
-  "Bradford Railroaders": {
-    "lat": 40.1286,
-    "lng": -84.4319,
-    "city": "Bradford"
-  },
-  "Champion Golden Flashes": {
-    "lat": 41.2939,
-    "lng": -80.8486,
-    "city": "Warren"
-  },
-  "Southeastern Panthers": {
-    "lat": 39.2686,
-    "lng": -82.8586,
-    "city": "Richmond Dale"
-  },
-  "Belpre Golden Eagles": {
-    "lat": 39.2786,
-    "lng": -81.5786,
-    "city": "Belpre"
-  },
-  "Buckeye Central Bucks": {
-    "lat": 40.9686,
-    "lng": -82.7886,
-    "city": "New Washington"
-  },
-  "Troy Christian Eagles": {
-    "lat": 40.0619,
-    "lng": -84.2286,
-    "city": "Troy"
-  },
-  "Leetonia Bears": {
-    "lat": 40.8786,
-    "lng": -80.7586,
-    "city": "Leetonia"
-  },
-  "River Valley Raiders": {
-    "lat": 38.8686,
-    "lng": -82.3286,
-    "city": "Bidwell"
-  },
-  "Valley Christian School Eagles": {
-    "lat": 41.0486,
-    "lng": -80.6686,
+  "Bloom-Carroll Bulldogs": {
+    "lat": 39.7945,
+    "lng": -82.6977,
+    "city": "Carroll"
+  },
+  "Bluffton Pirates": {
+    "lat": 40.8929,
+    "lng": -83.8937,
+    "city": "Bluffton"
+  },
+  "Boardman Spartans": {
+    "lat": 41.01132,
+    "lng": -80.66857,
     "city": "Youngstown"
   },
-  "Waterloo Vikings": {
-    "lat": 41.0286,
-    "lng": -81.2086,
-    "city": "Atwater"
+  "Bowling Green Bobcats": {
+    "lat": 41.387463,
+    "lng": -83.65734,
+    "city": "Bowling Green"
   },
-  "New London Wildcats": {
-    "lat": 41.0839,
-    "lng": -82.3986,
-    "city": "New London"
+  "Bowsher Blue Racers": {
+    "lat": 41.6242,
+    "lng": -83.5981,
+    "city": "Toledo"
   },
-  "Coventry Comets": {
-    "lat": 40.9986,
-    "lng": -81.5386,
-    "city": "Akron"
+  "Bradford Railroaders": {
+    "lat": 40.141717,
+    "lng": -84.432851,
+    "city": "Bradford"
   },
-  "Beachwood Bison": {
-    "lat": 41.4839,
-    "lng": -81.5039,
-    "city": "Beachwood"
-  },
-  "Eastmoor Academy Warriors": {
-    "lat": 39.9539,
-    "lng": -82.9139,
-    "city": "Columbus"
-  },
-  "Northwest Mohawks": {
-    "lat": 38.8586,
-    "lng": -83.1586,
-    "city": "McDermott"
-  },
-  "Buckeye Trail Warriors": {
-    "lat": 40.0486,
-    "lng": -81.3386,
-    "city": "Lore City"
-  },
-  "Hicksville Aces": {
-    "lat": 41.2939,
-    "lng": -84.7619,
-    "city": "Hicksville"
-  },
-  "Crestview Cougars": {
-    "lat": 40.8486,
-    "lng": -84.7186,
-    "city": "Convoy"
-  },
-  "Fairport Skippers": {
-    "lat": 41.7514,
-    "lng": -81.2739,
-    "city": "Fairport Harbor"
+  "Brecksville Bees": {
+    "lat": 41.3039,
+    "lng": -81.6086,
+    "city": "Broadview Heights"
   },
   "Bridgeport Bulldogs": {
     "lat": 40.0686,
     "lng": -80.7439,
     "city": "Bridgeport"
   },
-  "Wellston Golden Rockets": {
-    "lat": 39.1239,
-    "lng": -82.5339,
-    "city": "Wellston"
+  "Briggs Bruins": {
+    "lat": 39.928,
+    "lng": -83.0651,
+    "city": "Columbus"
   },
-  "Paint Valley Bearcats": {
-    "lat": 39.2486,
-    "lng": -83.2586,
-    "city": "Bainbridge"
-  },
-  "East Technical Scarabs": {
-    "lat": 41.4914,
-    "lng": -81.6469,
-    "city": "Cleveland"
-  },
-  "Jackson-Milton Bluejays": {
-    "lat": 41.0986,
-    "lng": -80.9386,
-    "city": "North Jackson"
-  },
-  "Southern Indians": {
-    "lat": 40.6886,
-    "lng": -80.7686,
-    "city": "Salineville"
-  },
-  "Fayetteville Rockets": {
-    "lat": 39.1836,
-    "lng": -83.9314,
-    "city": "Fayetteville"
-  },
-  "Trinity Trojans": {
-    "lat": 41.4086,
-    "lng": -81.6139,
-    "city": "Garfield Heights"
-  },
-  "Dixie Greyhounds": {
-    "lat": 39.7914,
-    "lng": -84.4286,
-    "city": "New Lebanon"
-  },
-  "Tuscarawas Central Catholic Saints": {
-    "lat": 40.4839,
-    "lng": -81.4386,
-    "city": "New Philadelphia"
-  },
-  "St Thomas Aquinas Knights": {
-    "lat": 40.8614,
-    "lng": -81.2286,
-    "city": "Louisville"
-  },
-  "Shroder Jaguars": {
-    "lat": 39.1794,
-    "lng": -84.4389,
-    "city": "Cincinnati"
-  },
-  "Norwood Indians": {
-    "lat": 39.1589,
-    "lng": -84.4539,
-    "city": "Norwood"
-  },
-  "Finneytown Wildcats": {
-    "lat": 39.2167,
-    "lng": -84.5194,
-    "city": "Cincinnati"
-  },
-  "Woodward Polar Bears": {
-    "lat": 41.6839,
-    "lng": -83.5386,
-    "city": "Toledo"
-  },
-  "Woodward Bulldogs": {
-    "lat": 39.1931,
-    "lng": -84.4697,
-    "city": "Cincinnati"
-  },
-  "Cory-Rawson Hornets": {
-    "lat": 40.9186,
-    "lng": -83.7886,
-    "city": "Rawson"
+  "Brookfield Warriors": {
+    "lat": 41.226011,
+    "lng": -80.56155,
+    "city": "Brookfield"
   },
   "Brooklyn Hurricanes": {
-    "lat": 41.4369,
-    "lng": -81.7486,
+    "lat": 41.430829,
+    "lng": -81.749727,
     "city": "Brooklyn"
   },
-  "Normandy Invaders": {
-    "lat": 41.3686,
-    "lng": -81.7086,
-    "city": "Parma"
+  "Brookside Cardinals": {
+    "lat": 41.469123,
+    "lng": -82.095825,
+    "city": "Sheffield Village"
   },
-  "Thurgood Marshall Cougars": {
-    "lat": 39.7614,
-    "lng": -84.2489,
+  "Brookville Blue Devils": {
+    "lat": 39.828087,
+    "lng": -84.420824,
+    "city": "Brookville"
+  },
+  "Brunswick Blue Devils": {
+    "lat": 41.2417,
+    "lng": -81.8157,
+    "city": "Brunswick"
+  },
+  "Brush Arcs": {
+    "lat": 41.522291,
+    "lng": -81.505321,
+    "city": "Lyndhurst"
+  },
+  "Bryan Golden Bears": {
+    "lat": 41.4748,
+    "lng": -84.5525,
+    "city": "Bryan"
+  },
+  "Buchtel Griffins": {
+    "lat": 41.0939,
+    "lng": -81.5686,
+    "city": "Akron"
+  },
+  "Buckeye Bucks": {
+    "lat": 41.19,
+    "lng": -81.9269,
+    "city": "Medina"
+  },
+  "Buckeye Central Bucks": {
+    "lat": 40.950899,
+    "lng": -82.847524,
+    "city": "New Washington"
+  },
+  "Buckeye Local Panthers": {
+    "lat": 40.1936,
+    "lng": -80.7194,
+    "city": "Rayland"
+  },
+  "Buckeye Trail Warriors": {
+    "lat": 40.047567,
+    "lng": -81.445679,
+    "city": "Lore City"
+  },
+  "Buckeye Valley Barons": {
+    "lat": 40.3486,
+    "lng": -83.0686,
+    "city": "Delaware"
+  },
+  "Bucyrus Redmen": {
+    "lat": 40.8129,
+    "lng": -82.9881,
+    "city": "Bucyrus"
+  },
+  "Butler Aviators": {
+    "lat": 39.8847,
+    "lng": -84.198,
+    "city": "Vandalia"
+  },
+  "Caldwell Redskins": {
+    "lat": 39.750649,
+    "lng": -81.517946,
+    "city": "Caldwell"
+  },
+  "Calvert Senecas": {
+    "lat": 41.1186,
+    "lng": -83.1739,
+    "city": "Tiffin"
+  },
+  "Cambridge Bobcats": {
+    "lat": 40.0528,
+    "lng": -81.5847,
+    "city": "Cambridge"
+  },
+  "Campbell Memorial Red Devils": {
+    "lat": 41.081484,
+    "lng": -80.599643,
+    "city": "Campbell"
+  },
+  "Canal Winchester Indians": {
+    "lat": 39.8367,
+    "lng": -82.8124,
+    "city": "Canal Winchester"
+  },
+  "Canfield Cardinals": {
+    "lat": 41.0285,
+    "lng": -80.773,
+    "city": "Canfield"
+  },
+  "Canton Central Catholic Crusaders": {
+    "lat": 40.7986,
+    "lng": -81.4486,
+    "city": "Canton"
+  },
+  "Canton McKinley Bulldogs": {
+    "lat": 40.818535,
+    "lng": -81.397804,
+    "city": "Canton"
+  },
+  "Canton South Wildcats": {
+    "lat": 40.749018,
+    "lng": -81.373143,
+    "city": "Canton"
+  },
+  "Cardinal Huskies": {
+    "lat": 41.466,
+    "lng": -81.0677,
+    "city": "Middlefield"
+  },
+  "Cardinal Mooney Cardinals": {
+    "lat": 41.0639,
+    "lng": -80.6539,
+    "city": "Youngstown"
+  },
+  "Cardington-Lincoln Pirates": {
+    "lat": 40.494686,
+    "lng": -82.881987,
+    "city": "Cardington"
+  },
+  "Carey Blue Devils": {
+    "lat": 40.945354,
+    "lng": -83.386477,
+    "city": "Carey"
+  },
+  "Carlisle Indians": {
+    "lat": 39.587824,
+    "lng": -84.32147,
+    "city": "Carlisle"
+  },
+  "Carrollton Warriors": {
+    "lat": 40.5786,
+    "lng": -81.0886,
+    "city": "Carrollton"
+  },
+  "Catholic Central Crusaders": {
+    "lat": 40.3686,
+    "lng": -80.6586,
+    "city": "Steubenville"
+  },
+  "Catholic Central Irish": {
+    "lat": 39.9214,
+    "lng": -83.7986,
+    "city": "Springfield"
+  },
+  "Cedarville Indians": {
+    "lat": 39.747232,
+    "lng": -83.806182,
+    "city": "Cedarville"
+  },
+  "Celina Bulldogs": {
+    "lat": 40.5557,
+    "lng": -84.5583,
+    "city": "Celina"
+  },
+  "Centennial Stars": {
+    "lat": 40.061671,
+    "lng": -83.057887,
+    "city": "Columbus"
+  },
+  "Centerburg Trojans": {
+    "lat": 40.29512,
+    "lng": -82.706165,
+    "city": "Centerburg"
+  },
+  "Centerville Elks": {
+    "lat": 39.626623,
+    "lng": -84.148055,
+    "city": "Centerville"
+  },
+  "Central Catholic Fighting Irish": {
+    "lat": 41.6686,
+    "lng": -83.5539,
+    "city": "Toledo"
+  },
+  "Central Crossing Comets": {
+    "lat": 39.896894,
+    "lng": -83.113223,
+    "city": "Grove City"
+  },
+  "Chagrin Falls Tigers": {
+    "lat": 41.427054,
+    "lng": -81.380475,
+    "city": "Chagrin Falls"
+  },
+  "Chaminade Julienne Eagles": {
+    "lat": 39.7547,
+    "lng": -84.1969,
     "city": "Dayton"
   },
-  "Miller Falcons": {
-    "lat": 39.6086,
+  "Champion Golden Flashes": {
+    "lat": 41.315329,
+    "lng": -80.850232,
+    "city": "Warren"
+  },
+  "Chardon Hilltoppers": {
+    "lat": 41.5912,
+    "lng": -81.2006,
+    "city": "Chardon"
+  },
+  "Chesapeake Panthers": {
+    "lat": 38.4227,
+    "lng": -82.4861,
+    "city": "Chesapeake"
+  },
+  "Chillicothe Cavaliers": {
+    "lat": 39.3414,
+    "lng": -82.9885,
+    "city": "Chillicothe"
+  },
+  "Chippewa Chipps": {
+    "lat": 40.964679,
+    "lng": -81.704211,
+    "city": "Doylestown"
+  },
+  "Cincinnati College Prep Lions": {
+    "lat": 39.111,
+    "lng": -84.5282,
+    "city": "Cincinnati"
+  },
+  "Cincinnati Country Day Nighthawks": {
+    "lat": 39.2106,
+    "lng": -84.3164,
+    "city": "Indian Hill"
+  },
+  "Cincinnati Hills Christian Academy Eagles": {
+    "lat": 39.2775,
+    "lng": -84.3422,
+    "city": "Cincinnati"
+  },
+  "Circleville Tigers": {
+    "lat": 39.607998,
+    "lng": -82.922637,
+    "city": "Circleville"
+  },
+  "Clark Montessori Cougars": {
+    "lat": 39.139372,
+    "lng": -84.428782,
+    "city": "Cincinnati"
+  },
+  "Clay Eagles": {
+    "lat": 41.653797,
+    "lng": -83.412803,
+    "city": "Oregon"
+  },
+  "Claymont Mustangs": {
+    "lat": 40.4138,
+    "lng": -81.3646,
+    "city": "Uhrichsville"
+  },
+  "Clear Fork Colts": {
+    "lat": 40.6103,
+    "lng": -82.4749,
+    "city": "Bellville"
+  },
+  "Clearview Clippers": {
+    "lat": 41.425686,
+    "lng": -82.164236,
+    "city": "Lorain"
+  },
+  "Clermont Northeastern Rockets": {
+    "lat": 39.130596,
+    "lng": -84.102024,
+    "city": "Batavia"
+  },
+  "Cleveland Central Catholic Ironmen": {
+    "lat": 41.4569,
+    "lng": -81.6439,
+    "city": "Cleveland"
+  },
+  "Cleveland Heights Tigers": {
+    "lat": 41.5023,
+    "lng": -81.563,
+    "city": "Cleveland Heights"
+  },
+  "Clinton-Massie Falcons": {
+    "lat": 39.4465,
+    "lng": -83.9854,
+    "city": "Clarksville"
+  },
+  "Cloverleaf Colts": {
+    "lat": 41.0408,
+    "lng": -81.9647,
+    "city": "Lodi"
+  },
+  "Clyde Fliers": {
+    "lat": 41.2903,
+    "lng": -82.9857,
+    "city": "Clyde"
+  },
+  "Coal Grove Hornets": {
+    "lat": 38.5014,
+    "lng": -82.6339,
+    "city": "Coal Grove"
+  },
+  "Coldwater Cavaliers": {
+    "lat": 40.482227,
+    "lng": -84.629821,
+    "city": "Coldwater"
+  },
+  "Colerain Cardinals": {
+    "lat": 39.231995,
+    "lng": -84.602799,
+    "city": "Cincinnati"
+  },
+  "Colonel Crawford Eagles": {
+    "lat": 40.8039,
+    "lng": -82.8639,
+    "city": "North Robinson"
+  },
+  "Columbia Raiders": {
+    "lat": 41.311222,
+    "lng": -81.923411,
+    "city": "Columbia Station"
+  },
+  "Columbian Tornadoes": {
+    "lat": 41.1145,
+    "lng": -83.178,
+    "city": "Tiffin"
+  },
+  "Columbiana Clippers": {
+    "lat": 40.880684,
+    "lng": -80.680707,
+    "city": "Columbiana"
+  },
+  "Columbus Academy Vikings": {
+    "lat": 39.960276,
+    "lng": -82.996385,
+    "city": "Columbus"
+  },
+  "Columbus Grove Bulldogs": {
+    "lat": 40.922503,
+    "lng": -84.056038,
+    "city": "Columbus Grove"
+  },
+  "Conneaut Spartans": {
+    "lat": 41.9471,
+    "lng": -80.5615,
+    "city": "Conneaut"
+  },
+  "Conotton Valley Rockets": {
+    "lat": 40.462735,
+    "lng": -81.218902,
+    "city": "Bowerston"
+  },
+  "Copley Indians": {
+    "lat": 41.112684,
+    "lng": -81.64912,
+    "city": "Copley"
+  },
+  "Cory-Rawson Hornets": {
+    "lat": 40.937447,
+    "lng": -83.805781,
+    "city": "Rawson"
+  },
+  "Coshocton Redskins": {
+    "lat": 40.257766,
+    "lng": -81.844953,
+    "city": "Coshocton"
+  },
+  "Coventry Comets": {
+    "lat": 41.006433,
+    "lng": -81.553585,
+    "city": "Akron"
+  },
+  "Covington Buccs": {
+    "lat": 40.1195,
+    "lng": -84.3428,
+    "city": "Covington"
+  },
+  "Crestline Bulldogs": {
+    "lat": 40.800185,
+    "lng": -82.744027,
+    "city": "Crestline"
+  },
+  "Crestview Cougars": {
+    "lat": 40.891977,
+    "lng": -82.459623,
+    "city": "Ashland"
+  },
+  "Crestview Knights": {
+    "lat": 40.915057,
+    "lng": -84.701739,
+    "city": "Convoy"
+  },
+  "Crestview Rebels": {
+    "lat": 40.8435,
+    "lng": -80.6679,
+    "city": "Columbiana"
+  },
+  "Crestwood Red Devils": {
+    "lat": 41.2888,
+    "lng": -81.226,
+    "city": "Mantua"
+  },
+  "Crooksville Ceramics": {
+    "lat": 39.744204,
+    "lng": -82.095843,
+    "city": "Crooksville"
+  },
+  "Cuyahoga Falls Black Tigers": {
+    "lat": 41.139562,
+    "lng": -81.487112,
+    "city": "Cuyahoga Falls"
+  },
+  "Cuyahoga Heights Red Wolves": {
+    "lat": 41.4286,
+    "lng": -81.6486,
+    "city": "Cuyahoga Heights"
+  },
+  "Cuyahoga Valley Christian Academy Royals": {
+    "lat": 41.2014,
+    "lng": -81.5039,
+    "city": "Cuyahoga Falls"
+  },
+  "Dalton Bulldogs": {
+    "lat": 40.803515,
+    "lng": -81.695402,
+    "city": "Dalton"
+  },
+  "Danville Blue Devils": {
+    "lat": 40.4474,
+    "lng": -82.2617,
+    "city": "Danville"
+  },
+  "Dayton Christian Warriors": {
+    "lat": 39.6386,
+    "lng": -84.2286,
+    "city": "Miamisburg"
+  },
+  "Deer Park Wildcats": {
+    "lat": 39.2111,
+    "lng": -84.3998,
+    "city": "Cincinnati"
+  },
+  "Defiance Bulldogs": {
+    "lat": 41.263643,
+    "lng": -84.357176,
+    "city": "Defiance"
+  },
+  "Delaware Hayes Pacers": {
+    "lat": 40.3086,
+    "lng": -83.0769,
+    "city": "Delaware"
+  },
+  "Delta Panthers": {
+    "lat": 41.5739,
+    "lng": -84.0039,
+    "city": "Delta"
+  },
+  "Dixie Greyhounds": {
+    "lat": 39.741687,
+    "lng": -84.401677,
+    "city": "New Lebanon"
+  },
+  "Dover Crimson Tornadoes": {
+    "lat": 40.522523,
+    "lng": -81.481467,
+    "city": "Dover"
+  },
+  "Dublin Coffman Shamrocks": {
+    "lat": 40.1073,
+    "lng": -83.1305,
+    "city": "Dublin"
+  },
+  "Dublin Jerome Celtics": {
+    "lat": 40.1343,
+    "lng": -83.1774,
+    "city": "Dublin"
+  },
+  "Dublin Scioto Irish": {
+    "lat": 40.1215,
+    "lng": -83.1005,
+    "city": "Dublin"
+  },
+  "Dunbar Wolverines": {
+    "lat": 39.7332,
+    "lng": -84.2312,
+    "city": "Dayton"
+  },
+  "East Canton Hornets": {
+    "lat": 40.792098,
+    "lng": -81.275088,
+    "city": "East Canton"
+  },
+  "East Clinton Astros": {
+    "lat": 39.418168,
+    "lng": -83.648639,
+    "city": "Sabina"
+  },
+  "East Dragons": {
+    "lat": 41.0686,
+    "lng": -81.4686,
+    "city": "Akron"
+  },
+  "East Knox Bulldogs": {
+    "lat": 40.409,
+    "lng": -82.3297,
+    "city": "Howard"
+  },
+  "East Liverpool Potters": {
+    "lat": 40.6286,
+    "lng": -80.5676,
+    "city": "East Liverpool"
+  },
+  "East Palestine Bulldogs": {
+    "lat": 40.8398,
+    "lng": -80.5467,
+    "city": "East Palestine"
+  },
+  "East Technical Scarabs": {
+    "lat": 41.4926,
+    "lng": -81.6498,
+    "city": "Cleveland"
+  },
+  "East Tigers": {
+    "lat": 39.9674,
+    "lng": -82.9609,
+    "city": "Columbus"
+  },
+  "Eastern Eagles": {
+    "lat": 39.1221,
+    "lng": -81.8831,
+    "city": "Reedsville"
+  },
+  "Eastmoor Academy Warriors": {
+    "lat": 39.9638,
+    "lng": -82.9084,
+    "city": "Columbus"
+  },
+  "Eastwood Eagles": {
+    "lat": 41.4039,
+    "lng": -83.5039,
+    "city": "Pemberville"
+  },
+  "Eaton Eagles": {
+    "lat": 39.733003,
+    "lng": -84.649033,
+    "city": "Eaton"
+  },
+  "Edgerton Bulldogs": {
+    "lat": 41.455759,
+    "lng": -84.746163,
+    "city": "Edgerton"
+  },
+  "Edgewood Cougars": {
+    "lat": 39.4666,
+    "lng": -84.490127,
+    "city": "Trenton"
+  },
+  "Edgewood Warriors": {
+    "lat": 41.885977,
+    "lng": -80.73101,
+    "city": "Ashtabula"
+  },
+  "Edison Chargers": {
+    "lat": 41.2995,
+    "lng": -82.5743,
+    "city": "Milan"
+  },
+  "Edison Wildcats": {
+    "lat": 40.448599,
+    "lng": -80.746795,
+    "city": "Richmond"
+  },
+  "Edon Bombers": {
+    "lat": 41.557836,
+    "lng": -84.780819,
+    "city": "Edon"
+  },
+  "Elder Panthers": {
+    "lat": 39.1154,
+    "lng": -84.6143,
+    "city": "Cincinnati"
+  },
+  "Elgin Comets": {
+    "lat": 40.56884,
+    "lng": -83.245048,
+    "city": "Marion"
+  },
+  "Elida Bulldogs": {
+    "lat": 40.789378,
+    "lng": -84.195213,
+    "city": "Elida"
+  },
+  "Ellet Orangemen": {
+    "lat": 41.0486,
+    "lng": -81.4386,
+    "city": "Akron"
+  },
+  "Elmwood Royals": {
+    "lat": 41.25482,
+    "lng": -83.551339,
+    "city": "Bloomdale"
+  },
+  "Elyria Catholic Panthers": {
+    "lat": 41.3814,
     "lng": -82.0886,
-    "city": "Corning"
+    "city": "Elyria"
   },
-  "River View Black Bears": {
-    "lat": 40.2686,
-    "lng": -81.9686,
-    "city": "Warsaw"
+  "Elyria Pioneers": {
+    "lat": 41.362211,
+    "lng": -82.10822,
+    "city": "Elyria"
   },
-  "Mississinawa Valley Blackhawks": {
-    "lat": 40.2039,
-    "lng": -84.7914,
-    "city": "Union City"
+  "Euclid Panthers": {
+    "lat": 41.595911,
+    "lng": -81.526203,
+    "city": "Euclid"
   },
-  "Ridgedale Rockets": {
-    "lat": 40.6686,
-    "lng": -83.1586,
-    "city": "Morral"
+  "Evergreen Vikings": {
+    "lat": 41.679382,
+    "lng": -83.974349,
+    "city": "Metamora"
   },
-  "Oak Hill Oaks": {
-    "lat": 38.8986,
-    "lng": -82.5686,
-    "city": "Oak Hill"
+  "Fairbanks Panthers": {
+    "lat": 40.160721,
+    "lng": -83.392377,
+    "city": "Milford Center"
+  },
+  "Fairborn Skyhawks": {
+    "lat": 39.7846,
+    "lng": -84.0051,
+    "city": "Fairborn"
   },
   "Fairfield Christian Academy Knights": {
     "lat": 39.7539,
     "lng": -82.6214,
     "city": "Lancaster"
   },
+  "Fairfield Indians": {
+    "lat": 39.336684,
+    "lng": -84.518152,
+    "city": "Fairfield"
+  },
+  "Fairfield Union Falcons": {
+    "lat": 39.754333,
+    "lng": -82.466999,
+    "city": "Lancaster"
+  },
+  "Fairland Dragons": {
+    "lat": 38.4484,
+    "lng": -82.3568,
+    "city": "Proctorville"
+  },
+  "Fairless Falcons": {
+    "lat": 40.704899,
+    "lng": -81.586573,
+    "city": "Brewster"
+  },
+  "Fairport Skippers": {
+    "lat": 41.7514,
+    "lng": -81.2739,
+    "city": "Fairport Harbor"
+  },
+  "Fairview Apaches": {
+    "lat": 41.3503,
+    "lng": -84.5533,
+    "city": "Sherwood"
+  },
+  "Fairview Warriors": {
+    "lat": 41.4423,
+    "lng": -81.8557,
+    "city": "Fairview Park"
+  },
+  "Fayetteville Rockets": {
+    "lat": 39.1836,
+    "lng": -83.9314,
+    "city": "Fayetteville"
+  },
+  "Federal Hocking Lancers": {
+    "lat": 39.312053,
+    "lng": -81.879743,
+    "city": "Stewart"
+  },
+  "Field Falcons": {
+    "lat": 41.068185,
+    "lng": -81.345219,
+    "city": "Mogadore"
+  },
+  "Findlay Trojans": {
+    "lat": 41.056685,
+    "lng": -83.665825,
+    "city": "Findlay"
+  },
+  "Finneytown Wildcats": {
+    "lat": 39.230058,
+    "lng": -84.515919,
+    "city": "Cincinnati"
+  },
+  "Firelands Falcons": {
+    "lat": 41.33806,
+    "lng": -82.298614,
+    "city": "Oberlin"
+  },
+  "Firestone Falcons": {
+    "lat": 41.1286,
+    "lng": -81.5886,
+    "city": "Akron"
+  },
+  "Fisher Catholic Irish": {
+    "lat": 39.7386,
+    "lng": -82.5969,
+    "city": "Lancaster"
+  },
+  "Fort Frye Cadets": {
+    "lat": 39.547592,
+    "lng": -81.632173,
+    "city": "Beverly"
+  },
+  "Fort Loramie Redskins": {
+    "lat": 40.344389,
+    "lng": -84.362564,
+    "city": "Fort Loramie"
+  },
+  "Fort Recovery Indians": {
+    "lat": 40.412326,
+    "lng": -84.774729,
+    "city": "Fort Recovery"
+  },
+  "Fostoria Redmen": {
+    "lat": 41.168987,
+    "lng": -83.432591,
+    "city": "Fostoria"
+  },
+  "Franklin Heights Golden Falcons": {
+    "lat": 39.932118,
+    "lng": -83.090932,
+    "city": "Columbus"
+  },
+  "Franklin Wildcats": {
+    "lat": 39.553714,
+    "lng": -84.286833,
+    "city": "Franklin"
+  },
+  "Fredericktown Freddies": {
+    "lat": 40.475812,
+    "lng": -82.553099,
+    "city": "Fredericktown"
+  },
+  "Fremont Ross Little Giants": {
+    "lat": 41.36264,
+    "lng": -83.124094,
+    "city": "Fremont"
+  },
+  "Frontier Cougars": {
+    "lat": 39.5086,
+    "lng": -81.1886,
+    "city": "New Matamoras"
+  },
+  "Gahanna Lincoln Golden Lions": {
+    "lat": 40.0162,
+    "lng": -82.8657,
+    "city": "Gahanna"
+  },
+  "Galion Tigers": {
+    "lat": 40.740142,
+    "lng": -82.805304,
+    "city": "Galion"
+  },
+  "Gallia Academy Blue Devils": {
+    "lat": 38.804645,
+    "lng": -82.26213,
+    "city": "Gallipolis"
+  },
+  "Gamble Montessori Gators": {
+    "lat": 39.1558,
+    "lng": -84.5872,
+    "city": "Cincinnati"
+  },
+  "Garaway Pirates": {
+    "lat": 40.507451,
+    "lng": -81.640469,
+    "city": "Sugarcreek"
+  },
+  "Garfield Golden Rams": {
+    "lat": 41.0386,
+    "lng": -81.5286,
+    "city": "Akron"
+  },
+  "Garfield Heights Bulldogs": {
+    "lat": 41.427865,
+    "lng": -81.61469,
+    "city": "Garfield Heights"
+  },
+  "Garrettsville Garfield G-Men": {
+    "lat": 41.2839,
+    "lng": -81.0986,
+    "city": "Garrettsville"
+  },
+  "Geneva Eagles": {
+    "lat": 41.800647,
+    "lng": -80.928359,
+    "city": "Geneva"
+  },
+  "Genoa Area Comets": {
+    "lat": 41.559,
+    "lng": -83.3602,
+    "city": "Genoa"
+  },
+  "Gibsonburg Golden Bears": {
+    "lat": 41.375396,
+    "lng": -83.321574,
+    "city": "Gibsonburg"
+  },
+  "Gilmour Academy Lancers": {
+    "lat": 41.5239,
+    "lng": -81.4386,
+    "city": "Gates Mills"
+  },
+  "Girard Indians": {
+    "lat": 41.1713,
+    "lng": -80.6926,
+    "city": "Girard"
+  },
+  "GlenOak Golden Eagles": {
+    "lat": 40.869225,
+    "lng": -81.349998,
+    "city": "Canton"
+  },
+  "Glenville Tarblooders": {
+    "lat": 41.5389,
+    "lng": -81.6066,
+    "city": "Cleveland"
+  },
+  "Goshen Warriors": {
+    "lat": 39.227941,
+    "lng": -84.156873,
+    "city": "Goshen"
+  },
+  "Graham Falcons": {
+    "lat": 40.1186,
+    "lng": -83.8886,
+    "city": "St. Paris"
+  },
+  "Grand Valley Mustangs": {
+    "lat": 41.544804,
+    "lng": -80.872075,
+    "city": "Orwell"
+  },
+  "Grandview Heights Bobcats": {
+    "lat": 39.984556,
+    "lng": -83.048407,
+    "city": "Columbus"
+  },
+  "Granville Blue Aces": {
+    "lat": 40.078836,
+    "lng": -82.527455,
+    "city": "Granville"
+  },
+  "Green Bobcats": {
+    "lat": 38.619546,
+    "lng": -82.844457,
+    "city": "Franklin Furnace"
+  },
+  "Green Bulldogs": {
+    "lat": 40.95763,
+    "lng": -81.473325,
+    "city": "Uniontown"
+  },
+  "Greeneview Rams": {
+    "lat": 39.6572,
+    "lng": -83.7587,
+    "city": "Jamestown"
+  },
+  "Greenon Knights": {
+    "lat": 39.863747,
+    "lng": -83.935421,
+    "city": "Enon"
+  },
+  "Greenville Green Wave": {
+    "lat": 40.1147,
+    "lng": -84.6327,
+    "city": "Greenville"
+  },
+  "Grove City Christian Eagles": {
+    "lat": 39.8786,
+    "lng": -83.0686,
+    "city": "Grove City"
+  },
+  "Grove City Greyhounds": {
+    "lat": 39.869623,
+    "lng": -83.072315,
+    "city": "Grove City"
+  },
+  "Groveport Madison Cruisers": {
+    "lat": 39.879376,
+    "lng": -82.886715,
+    "city": "Groveport"
+  },
+  "Hamilton Big Blue": {
+    "lat": 39.4252,
+    "lng": -84.5793,
+    "city": "Hamilton"
+  },
+  "Hamilton Township Rangers": {
+    "lat": 39.860628,
+    "lng": -82.972754,
+    "city": "Columbus"
+  },
+  "Hardin Northern Polar Bears": {
+    "lat": 40.7802,
+    "lng": -83.6599,
+    "city": "Dola"
+  },
+  "Harrison Central Huskies": {
+    "lat": 40.262693,
+    "lng": -80.993854,
+    "city": "Cadiz"
+  },
+  "Harrison Wildcats": {
+    "lat": 39.2669,
+    "lng": -84.7836,
+    "city": "Harrison"
+  },
+  "Harvest Prep Warriors": {
+    "lat": 39.8653,
+    "lng": -82.8286,
+    "city": "Canal Winchester"
+  },
+  "Harvey Red Raiders": {
+    "lat": 41.715536,
+    "lng": -81.246829,
+    "city": "Painesville"
+  },
+  "Hawken Hawks": {
+    "lat": 41.5186,
+    "lng": -81.3986,
+    "city": "Gates Mills"
+  },
+  "Heath Bulldogs": {
+    "lat": 40.027479,
+    "lng": -82.432289,
+    "city": "Heath"
+  },
+  "Hicksville Aces": {
+    "lat": 41.301708,
+    "lng": -84.746162,
+    "city": "Hicksville"
+  },
+  "Highland Fighting Scots": {
+    "lat": 40.3961,
+    "lng": -82.703971,
+    "city": "Marengo"
+  },
+  "Highland Hornets": {
+    "lat": 41.162857,
+    "lng": -81.742096,
+    "city": "Medina"
+  },
+  "Hilliard Bradley Jaguars": {
+    "lat": 40.0054,
+    "lng": -83.2008,
+    "city": "Hilliard"
+  },
+  "Hilliard Darby Panthers": {
+    "lat": 40.0352,
+    "lng": -83.1682,
+    "city": "Hilliard"
+  },
+  "Hilliard Davidson Wildcats": {
+    "lat": 40.0498,
+    "lng": -83.1567,
+    "city": "Hilliard"
+  },
+  "Hillsboro Indians": {
+    "lat": 39.184003,
+    "lng": -83.613958,
+    "city": "Hillsboro"
+  },
+  "Hillsdale Falcons": {
+    "lat": 40.8039,
+    "lng": -82.1939,
+    "city": "Jeromesville"
+  },
+  "Hilltop Cadets": {
+    "lat": 41.5848,
+    "lng": -84.455,
+    "city": "West Unity"
+  },
+  "Hoban Knights": {
+    "lat": 41.0636,
+    "lng": -81.4886,
+    "city": "Akron"
+  },
+  "Holy Name Green Wave": {
+    "lat": 41.3839,
+    "lng": -81.7439,
+    "city": "Parma Heights"
+  },
+  "Hoover Vikings": {
+    "lat": 40.88538,
+    "lng": -81.394429,
+    "city": "North Canton"
+  },
+  "Hopewell-Loudon Chieftains": {
+    "lat": 41.1286,
+    "lng": -83.2886,
+    "city": "Bascom"
+  },
+  "Howland Tigers": {
+    "lat": 41.2396,
+    "lng": -80.7454,
+    "city": "Warren"
+  },
+  "Hubbard Eagles": {
+    "lat": 41.152,
+    "lng": -80.5825,
+    "city": "Hubbard"
+  },
+  "Hudson Explorers": {
+    "lat": 41.2571,
+    "lng": -81.4142,
+    "city": "Hudson"
+  },
+  "Hughes Big Red Bulls": {
+    "lat": 39.1286,
+    "lng": -84.5169,
+    "city": "Cincinnati"
+  },
+  "Huntington Huntsmen": {
+    "lat": 39.244937,
+    "lng": -83.057219,
+    "city": "Chillicothe"
+  },
+  "Huron Tigers": {
+    "lat": 41.39776,
+    "lng": -82.564737,
+    "city": "Huron"
+  },
+  "Independence 76ers": {
+    "lat": 39.9196,
+    "lng": -82.8542,
+    "city": "Columbus"
+  },
+  "Independence Blue Devils": {
+    "lat": 41.374399,
+    "lng": -81.649132,
+    "city": "Independence"
+  },
+  "Indian Creek Redskins": {
+    "lat": 40.376893,
+    "lng": -80.715804,
+    "city": "Wintersville"
+  },
+  "Indian Hill Braves": {
+    "lat": 39.185894,
+    "lng": -84.347216,
+    "city": "Cincinnati"
+  },
+  "Indian Lake Lakers": {
+    "lat": 40.4372,
+    "lng": -83.9048,
+    "city": "Lewistown"
+  },
+  "Indian Valley Braves": {
+    "lat": 40.3559,
+    "lng": -81.4319,
+    "city": "Gnadenhutten"
+  },
+  "Ironton Fighting Tigers": {
+    "lat": 38.5246,
+    "lng": -82.6696,
+    "city": "Ironton"
+  },
+  "Jackson Ironmen": {
+    "lat": 39.038961,
+    "lng": -82.642067,
+    "city": "Jackson"
+  },
+  "Jackson Polar Bears": {
+    "lat": 40.859437,
+    "lng": -81.490877,
+    "city": "Massillon"
+  },
+  "Jackson-Milton Bluejays": {
+    "lat": 41.10025,
+    "lng": -80.914957,
+    "city": "North Jackson"
+  },
+  "Jefferson Area Falcons": {
+    "lat": 41.730881,
+    "lng": -80.781214,
+    "city": "Jefferson"
+  },
+  "Jefferson Wildcats": {
+    "lat": 40.851075,
+    "lng": -84.351397,
+    "city": "Delphos"
+  },
+  "John Adams Rebels": {
+    "lat": 41.4514,
+    "lng": -81.5839,
+    "city": "Cleveland"
+  },
+  "John F Kennedy Eagles": {
+    "lat": 41.2386,
+    "lng": -80.7839,
+    "city": "Warren"
+  },
+  "John F Kennedy Fighting Eagles": {
+    "lat": 41.444035,
+    "lng": -81.574204,
+    "city": "Cleveland"
+  },
+  "John Glenn Muskies": {
+    "lat": 40.0079,
+    "lng": -81.7387,
+    "city": "New Concord"
+  },
+  "John Hay Hornets": {
+    "lat": 41.5039,
+    "lng": -81.6139,
+    "city": "Cleveland"
+  },
+  "John Marshall Lawyers": {
+    "lat": 41.4486,
+    "lng": -81.8039,
+    "city": "Cleveland"
+  },
+  "Johnstown Johnnies": {
+    "lat": 40.144475,
+    "lng": -82.680592,
+    "city": "Johnstown"
+  },
+  "Jonathan Alder Pioneers": {
+    "lat": 40.077967,
+    "lng": -83.287979,
+    "city": "Plain City"
+  },
+  "KIPP Columbus Jaguars": {
+    "lat": 40.029374,
+    "lng": -82.939866,
+    "city": "Columbus"
+  },
+  "Kenston Bombers": {
+    "lat": 41.396631,
+    "lng": -81.303841,
+    "city": "Chagrin Falls"
+  },
+  "Kent Roosevelt Rough Riders": {
+    "lat": 41.1686,
+    "lng": -81.3586,
+    "city": "Kent"
+  },
+  "Kenton Ridge Cougars": {
+    "lat": 39.983598,
+    "lng": -83.759099,
+    "city": "Springfield"
+  },
+  "Kenton Wildcats": {
+    "lat": 40.6534,
+    "lng": -83.5966,
+    "city": "Kenton"
+  },
+  "Kettering Fairmont Firebirds": {
+    "lat": 39.698905,
+    "lng": -84.164594,
+    "city": "Kettering"
+  },
+  "Keystone Wildcats": {
+    "lat": 41.2306,
+    "lng": -82.106,
+    "city": "LaGrange"
+  },
+  "Kings Knights": {
+    "lat": 39.354491,
+    "lng": -84.254621,
+    "city": "Kings Mills"
+  },
+  "Kirtland Hornets": {
+    "lat": 41.6211,
+    "lng": -81.3609,
+    "city": "Kirtland"
+  },
+  "La Salle Lancers": {
+    "lat": 39.1972,
+    "lng": -84.5761,
+    "city": "Cincinnati"
+  },
+  "LaBrae Vikings": {
+    "lat": 41.253443,
+    "lng": -80.876208,
+    "city": "Leavittsburg"
+  },
+  "Lake Blue Streaks": {
+    "lat": 40.9586,
+    "lng": -81.3639,
+    "city": "Uniontown"
+  },
+  "Lake Catholic Cougars": {
+    "lat": 41.6714,
+    "lng": -81.3686,
+    "city": "Mentor"
+  },
+  "Lake Flyers": {
+    "lat": 41.559554,
+    "lng": -83.470552,
+    "city": "Millbury"
+  },
+  "Lakeside Dragons": {
+    "lat": 41.844463,
+    "lng": -80.820745,
+    "city": "Ashtabula"
+  },
+  "Lakeview Bulldogs": {
+    "lat": 41.3198,
+    "lng": -80.7258,
+    "city": "Cortland"
+  },
+  "Lakewood Lancers": {
+    "lat": 39.9582,
+    "lng": -82.4363,
+    "city": "Hebron"
+  },
+  "Lakewood Rangers": {
+    "lat": 41.4808,
+    "lng": -81.7911,
+    "city": "Lakewood"
+  },
+  "Lakota East Thunderhawks": {
+    "lat": 39.3792,
+    "lng": -84.3711,
+    "city": "Liberty Township"
+  },
+  "Lakota Raiders": {
+    "lat": 41.272867,
+    "lng": -83.326263,
+    "city": "Kansas"
+  },
+  "Lakota West Firebirds": {
+    "lat": 39.3303,
+    "lng": -84.431,
+    "city": "West Chester"
+  },
+  "Lancaster Golden Gales": {
+    "lat": 39.7328,
+    "lng": -82.5861,
+    "city": "Lancaster"
+  },
+  "Lebanon Warriors": {
+    "lat": 39.4639,
+    "lng": -84.1812,
+    "city": "Lebanon"
+  },
+  "Leetonia Bears": {
+    "lat": 40.8888,
+    "lng": -80.7659,
+    "city": "Leetonia"
+  },
+  "Lehman Catholic Cavaliers": {
+    "lat": 40.2644,
+    "lng": -84.1786,
+    "city": "Sidney"
+  },
+  "Leipsic Vikings": {
+    "lat": 41.099361,
+    "lng": -83.990182,
+    "city": "Leipsic"
+  },
+  "Lexington Minutemen": {
+    "lat": 40.671705,
+    "lng": -82.587101,
+    "city": "Lexington"
+  },
+  "Liberty Center Tigers": {
+    "lat": 41.441201,
+    "lng": -84.012467,
+    "city": "Liberty Center"
+  },
+  "Liberty Leopards": {
+    "lat": 41.156111,
+    "lng": -80.655019,
+    "city": "Youngstown"
+  },
+  "Liberty Union Lions": {
+    "lat": 39.8472,
+    "lng": -82.6074,
+    "city": "Baltimore"
+  },
+  "Liberty-Benton Eagles": {
+    "lat": 41.033973,
+    "lng": -83.700206,
+    "city": "Findlay"
+  },
+  "Licking Heights Hornets": {
+    "lat": 40.028916,
+    "lng": -82.745277,
+    "city": "Pataskala"
+  },
+  "Licking Valley Panthers": {
+    "lat": 40.080311,
+    "lng": -82.287699,
+    "city": "Newark"
+  },
+  "Lima Central Catholic Thunderbirds": {
+    "lat": 40.7339,
+    "lng": -84.0886,
+    "city": "Lima"
+  },
+  "Lima Senior Spartans": {
+    "lat": 40.7425,
+    "lng": -84.1052,
+    "city": "Lima"
+  },
+  "Linden McKinley Panthers": {
+    "lat": 40.0169,
+    "lng": -82.9769,
+    "city": "Columbus"
+  },
+  "Lisbon Blue Devils": {
+    "lat": 40.7739,
+    "lng": -80.7686,
+    "city": "Lisbon"
+  },
+  "Little Miami Panthers": {
+    "lat": 39.356612,
+    "lng": -84.159738,
+    "city": "Morrow"
+  },
+  "Logan Chieftains": {
+    "lat": 39.517064,
+    "lng": -82.375687,
+    "city": "Logan"
+  },
+  "Logan Elm Braves": {
+    "lat": 39.56063,
+    "lng": -82.854152,
+    "city": "Circleville"
+  },
+  "London Red Raiders": {
+    "lat": 39.9052,
+    "lng": -83.4484,
+    "city": "London"
+  },
+  "Lorain Titans": {
+    "lat": 41.447025,
+    "lng": -82.190695,
+    "city": "Lorain"
+  },
+  "Loudonville Redbirds": {
+    "lat": 40.6388,
+    "lng": -82.2431,
+    "city": "Loudonville"
+  },
+  "Louisville Leopards": {
+    "lat": 40.829317,
+    "lng": -81.252657,
+    "city": "Louisville"
+  },
+  "Loveland Tigers": {
+    "lat": 39.279716,
+    "lng": -84.275215,
+    "city": "Loveland"
+  },
+  "Lowellville Rockets": {
+    "lat": 41.044822,
+    "lng": -80.552325,
+    "city": "Lowellville"
+  },
+  "Lucas Cubs": {
+    "lat": 40.705077,
+    "lng": -82.417867,
+    "city": "Lucas"
+  },
+  "Lutheran East Falcons": {
+    "lat": 41.5186,
+    "lng": -81.5539,
+    "city": "Cleveland Heights"
+  },
+  "Lutheran West Longhorns": {
+    "lat": 41.4686,
+    "lng": -81.8239,
+    "city": "Rocky River"
+  },
+  "Madeira Mustangs": {
+    "lat": 39.20091,
+    "lng": -84.365474,
+    "city": "Cincinnati"
+  },
+  "Madison Blue Streaks": {
+    "lat": 41.7897,
+    "lng": -81.0675,
+    "city": "Madison"
+  },
+  "Madison Comprehensive Rams": {
+    "lat": 40.7746,
+    "lng": -82.4609,
+    "city": "Mansfield"
+  },
+  "Madison Mohawks": {
+    "lat": 39.5333,
+    "lng": -84.4442,
+    "city": "Middletown"
+  },
+  "Madison-Plains Golden Eagles": {
+    "lat": 39.788794,
+    "lng": -83.481504,
+    "city": "London"
+  },
+  "Malvern Hornets": {
+    "lat": 40.686945,
+    "lng": -81.162137,
+    "city": "Malvern"
+  },
   "Manchester Greyhounds": {
-    "lat": 38.6886,
-    "lng": -83.6086,
+    "lat": 38.694885,
+    "lng": -83.589195,
     "city": "Manchester"
   },
-  "Springfield Spartans": {
-    "lat": 41.0286,
-    "lng": -81.4386,
+  "Manchester Panthers": {
+    "lat": 40.9386,
+    "lng": -81.5686,
+    "city": "New Franklin"
+  },
+  "Mansfield Senior Tygers": {
+    "lat": 40.7584,
+    "lng": -82.5154,
+    "city": "Mansfield"
+  },
+  "Maple Heights Mustangs": {
+    "lat": 41.4123,
+    "lng": -81.5632,
+    "city": "Maple Heights"
+  },
+  "Mapleton Mounties": {
+    "lat": 40.968263,
+    "lng": -82.280089,
+    "city": "Ashland"
+  },
+  "Margaretta Polar Bears": {
+    "lat": 41.3991,
+    "lng": -82.8013,
+    "city": "Castalia"
+  },
+  "Mariemont Warriors": {
+    "lat": 39.144778,
+    "lng": -84.364856,
+    "city": "Cincinnati"
+  },
+  "Marietta Tigers": {
+    "lat": 39.439632,
+    "lng": -81.453742,
+    "city": "Marietta"
+  },
+  "Marion Harding Presidents": {
+    "lat": 40.593,
+    "lng": -83.0907,
+    "city": "Marion"
+  },
+  "Marion Local Flyers": {
+    "lat": 40.4047,
+    "lng": -84.4943,
+    "city": "Maria Stein"
+  },
+  "Marion-Franklin Red Devils": {
+    "lat": 39.9118,
+    "lng": -82.9613,
+    "city": "Columbus"
+  },
+  "Marlington Dukes": {
+    "lat": 40.922657,
+    "lng": -81.180616,
+    "city": "Alliance"
+  },
+  "Martins Ferry Purple Riders": {
+    "lat": 40.110781,
+    "lng": -80.727057,
+    "city": "Martins Ferry"
+  },
+  "Marysville Monarchs": {
+    "lat": 40.250265,
+    "lng": -83.381181,
+    "city": "Marysville"
+  },
+  "Mason Comets": {
+    "lat": 39.3582,
+    "lng": -84.3129,
+    "city": "Mason"
+  },
+  "Massillon Washington Tigers": {
+    "lat": 40.7925,
+    "lng": -81.5036,
+    "city": "Massillon"
+  },
+  "Mathews Mustangs": {
+    "lat": 41.2383,
+    "lng": -80.6596,
+    "city": "Vienna"
+  },
+  "Maumee Panthers": {
+    "lat": 41.577419,
+    "lng": -83.640602,
+    "city": "Maumee"
+  },
+  "Mayfield Wildcats": {
+    "lat": 41.5362,
+    "lng": -81.459,
+    "city": "Cleveland"
+  },
+  "Maysville Panthers": {
+    "lat": 39.879077,
+    "lng": -82.050487,
+    "city": "Zanesville"
+  },
+  "McClain Tigers": {
+    "lat": 39.3513,
+    "lng": -83.3886,
+    "city": "Greenfield"
+  },
+  "McComb Panthers": {
+    "lat": 41.1086,
+    "lng": -83.7939,
+    "city": "McComb"
+  },
+  "McDonald Blue Devils": {
+    "lat": 41.1609,
+    "lng": -80.7281,
+    "city": "Mc Donald"
+  },
+  "Meadowbrook Colts": {
+    "lat": 39.952246,
+    "lng": -81.560645,
+    "city": "Byesville"
+  },
+  "Meadowdale Lions": {
+    "lat": 39.813477,
+    "lng": -84.251543,
+    "city": "Dayton"
+  },
+  "Mechanicsburg Indians": {
+    "lat": 40.077169,
+    "lng": -83.559284,
+    "city": "Mechanicsburg"
+  },
+  "Medina Battling Bees": {
+    "lat": 41.1451,
+    "lng": -81.8499,
+    "city": "Medina"
+  },
+  "Meigs Marauders": {
+    "lat": 39.055365,
+    "lng": -82.010494,
+    "city": "Pomeroy"
+  },
+  "Mentor Cardinals": {
+    "lat": 41.6948,
+    "lng": -81.3372,
+    "city": "Mentor"
+  },
+  "Miami East Vikings": {
+    "lat": 40.086015,
+    "lng": -84.115776,
+    "city": "Casstown"
+  },
+  "Miami Trace Panthers": {
+    "lat": 39.577569,
+    "lng": -83.467445,
+    "city": "Washington Court House"
+  },
+  "Miami Valley Christian Academy Lions": {
+    "lat": 39.1525,
+    "lng": -84.3814,
+    "city": "Newtown"
+  },
+  "Miamisburg Vikings": {
+    "lat": 39.627613,
+    "lng": -84.257444,
+    "city": "Miamisburg"
+  },
+  "Middletown Middies": {
+    "lat": 39.5228,
+    "lng": -84.3488,
+    "city": "Middletown"
+  },
+  "Midview Middies": {
+    "lat": 41.302395,
+    "lng": -82.06367,
+    "city": "Grafton"
+  },
+  "Mifflin Punchers": {
+    "lat": 40.0392,
+    "lng": -82.9238,
+    "city": "Columbus"
+  },
+  "Milford Eagles": {
+    "lat": 39.1802,
+    "lng": -84.2408,
+    "city": "Milford"
+  },
+  "Miller Falcons": {
+    "lat": 39.591203,
+    "lng": -82.141298,
+    "city": "Corning"
+  },
+  "Millersport Lakers": {
+    "lat": 39.8936,
+    "lng": -82.5335,
+    "city": "Millersport"
+  },
+  "Milton-Union Bulldogs": {
+    "lat": 39.963131,
+    "lng": -84.34482,
+    "city": "West Milton"
+  },
+  "Mineral Ridge Rams": {
+    "lat": 41.1446,
+    "lng": -80.7718,
+    "city": "Mineral Ridge"
+  },
+  "Minerva Lions": {
+    "lat": 40.735455,
+    "lng": -81.097733,
+    "city": "Minerva"
+  },
+  "Minford Falcons": {
+    "lat": 38.861189,
+    "lng": -82.853386,
+    "city": "Minford"
+  },
+  "Minster Wildcats": {
+    "lat": 40.4013,
+    "lng": -84.3788,
+    "city": "Minster"
+  },
+  "Mississinawa Valley Blackhawks": {
+    "lat": 40.2203,
+    "lng": -84.7484,
+    "city": "Union City"
+  },
+  "Mogadore Wildcats": {
+    "lat": 41.047779,
+    "lng": -81.39433,
+    "city": "Mogadore"
+  },
+  "Mohawk Warriors": {
+    "lat": 40.9855,
+    "lng": -83.1675,
+    "city": "Sycamore"
+  },
+  "Monroe Central Seminoles": {
+    "lat": 39.762379,
+    "lng": -81.130112,
+    "city": "Woodsfield"
+  },
+  "Monroe Hornets": {
+    "lat": 39.4501,
+    "lng": -84.3828,
+    "city": "Monroe"
+  },
+  "Monroeville Eagles": {
+    "lat": 41.2471,
+    "lng": -82.7021,
+    "city": "Monroeville"
+  },
+  "Montpelier Locomotives": {
+    "lat": 41.573571,
+    "lng": -84.59657,
+    "city": "Montpelier"
+  },
+  "Morgan Raiders": {
+    "lat": 39.6121,
+    "lng": -81.8193,
+    "city": "Mc Connelsville"
+  },
+  "Mount Gilead Indians": {
+    "lat": 40.556,
+    "lng": -82.8321,
+    "city": "Mt. Gilead"
+  },
+  "Mount Healthy Fighting Owls": {
+    "lat": 39.2413,
+    "lng": -84.5516,
+    "city": "Cincinnati"
+  },
+  "Mount Vernon Yellow Jackets": {
+    "lat": 40.378273,
+    "lng": -82.474474,
+    "city": "Mt. Vernon"
+  },
+  "Napoleon Wildcats": {
+    "lat": 41.3905,
+    "lng": -84.1474,
+    "city": "Napoleon"
+  },
+  "National Trail Blazers": {
+    "lat": 39.836933,
+    "lng": -84.722147,
+    "city": "New Paris"
+  },
+  "Nelsonville-York Buckeyes": {
+    "lat": 39.4628,
+    "lng": -82.1887,
+    "city": "Nelsonville"
+  },
+  "New Albany Eagles": {
+    "lat": 40.084843,
+    "lng": -82.816072,
+    "city": "New Albany"
+  },
+  "New Bremen Cardinals": {
+    "lat": 40.436403,
+    "lng": -84.362067,
+    "city": "New Bremen"
+  },
+  "New Lexington Panthers": {
+    "lat": 39.7293,
+    "lng": -82.2115,
+    "city": "New Lexington"
+  },
+  "New London Wildcats": {
+    "lat": 41.075278,
+    "lng": -82.390248,
+    "city": "New London"
+  },
+  "New Miami Vikings": {
+    "lat": 39.439388,
+    "lng": -84.536793,
+    "city": "Hamilton"
+  },
+  "New Philadelphia Quakers": {
+    "lat": 40.4942,
+    "lng": -81.45,
+    "city": "New Philadelphia"
+  },
+  "New Richmond Lions": {
+    "lat": 38.9535,
+    "lng": -84.2694,
+    "city": "New Richmond"
+  },
+  "Newark Catholic Green Wave": {
+    "lat": 40.0786,
+    "lng": -82.4386,
+    "city": "Newark"
+  },
+  "Newark Wildcats": {
+    "lat": 40.065785,
+    "lng": -82.419373,
+    "city": "Newark"
+  },
+  "Newcomerstown Trojans": {
+    "lat": 40.265907,
+    "lng": -81.611875,
+    "city": "Newcomerstown"
+  },
+  "Newton Falls Tigers": {
+    "lat": 41.176818,
+    "lng": -80.961273,
+    "city": "Newton Falls"
+  },
+  "Niles McKinley Red Dragons": {
+    "lat": 41.1889,
+    "lng": -80.76,
+    "city": "Niles"
+  },
+  "Nordonia Knights": {
+    "lat": 41.301989,
+    "lng": -81.510854,
+    "city": "Macedonia"
+  },
+  "Normandy Invaders": {
+    "lat": 41.3623,
+    "lng": -81.6991,
+    "city": "Parma"
+  },
+  "North Baltimore Tigers": {
+    "lat": 41.187739,
+    "lng": -83.666126,
+    "city": "North Baltimore"
+  },
+  "North Central Eagles": {
+    "lat": 41.6439,
+    "lng": -84.5486,
+    "city": "Pioneer"
+  },
+  "North College Hill Trojans": {
+    "lat": 39.219115,
+    "lng": -84.550571,
+    "city": "Cincinnati"
+  },
+  "North Olmsted Eagles": {
+    "lat": 41.410714,
+    "lng": -81.924078,
+    "city": "North Olmsted"
+  },
+  "North Rangers": {
+    "lat": 41.653031,
+    "lng": -81.445331,
+    "city": "Eastlake"
+  },
+  "North Ridgeville Rangers": {
+    "lat": 41.3884,
+    "lng": -82.0016,
+    "city": "North Ridgeville"
+  },
+  "North Royalton Bears": {
+    "lat": 41.308916,
+    "lng": -81.733674,
+    "city": "North Royalton"
+  },
+  "North Union Wildcats": {
+    "lat": 40.437109,
+    "lng": -83.297323,
+    "city": "Richwood"
+  },
+  "North Vikings": {
+    "lat": 41.103973,
+    "lng": -81.497977,
     "city": "Akron"
+  },
+  "Northeastern Jets": {
+    "lat": 39.929848,
+    "lng": -83.615793,
+    "city": "South Vienna"
+  },
+  "Northland Vikings": {
+    "lat": 40.0711,
+    "lng": -82.9661,
+    "city": "Columbus"
+  },
+  "Northmont Thunderbolts": {
+    "lat": 39.871991,
+    "lng": -84.346366,
+    "city": "Clayton"
+  },
+  "Northmor Golden Knights": {
+    "lat": 40.640703,
+    "lng": -82.763862,
+    "city": "Galion"
+  },
+  "Northridge Polar Bears": {
+    "lat": 39.8138,
+    "lng": -84.195778,
+    "city": "Dayton"
+  },
+  "Northridge Vikings": {
+    "lat": 40.1875,
+    "lng": -82.6073,
+    "city": "Johnstown"
+  },
+  "Northwest Indians": {
+    "lat": 40.908433,
+    "lng": -81.615751,
+    "city": "Canal Fulton"
+  },
+  "Northwest Knights": {
+    "lat": 39.271645,
+    "lng": -84.576361,
+    "city": "Cincinnati"
+  },
+  "Northwest Mohawks": {
+    "lat": 38.8586,
+    "lng": -83.1586,
+    "city": "McDermott"
+  },
+  "Northwestern Huskies": {
+    "lat": 40.889547,
+    "lng": -82.107089,
+    "city": "West Salem"
+  },
+  "Northwestern Warriors": {
+    "lat": 39.994446,
+    "lng": -83.908166,
+    "city": "Springfield"
+  },
+  "Northwood Rangers": {
+    "lat": 41.60647,
+    "lng": -83.4754,
+    "city": "Northwood"
+  },
+  "Norton Panthers": {
+    "lat": 41.034611,
+    "lng": -81.642221,
+    "city": "Norton"
+  },
+  "Norwalk Truckers": {
+    "lat": 41.226181,
+    "lng": -82.610641,
+    "city": "Norwalk"
+  },
+  "Norwayne Bobcats": {
+    "lat": 40.965116,
+    "lng": -81.900884,
+    "city": "Creston"
+  },
+  "Norwood Indians": {
+    "lat": 39.161355,
+    "lng": -84.459435,
+    "city": "Norwood"
+  },
+  "Notre Dame Titans": {
+    "lat": 38.7386,
+    "lng": -82.9914,
+    "city": "Portsmouth"
+  },
+  "Notre Dame-Cathedral Latin Lions": {
+    "lat": 41.5186,
+    "lng": -81.3386,
+    "city": "Chardon"
+  },
+  "Oak Harbor Rockets": {
+    "lat": 41.5139,
+    "lng": -83.1567,
+    "city": "Oak Harbor"
+  },
+  "Oak Hill Oaks": {
+    "lat": 38.9073,
+    "lng": -82.571,
+    "city": "Oak Hill"
+  },
+  "Oak Hills Highlanders": {
+    "lat": 39.14689,
+    "lng": -84.648493,
+    "city": "Cincinnati"
+  },
+  "Oakwood Lumberjacks": {
+    "lat": 39.7208,
+    "lng": -84.1709,
+    "city": "Dayton"
+  },
+  "Olentangy Berlin Bears": {
+    "lat": 40.25418,
+    "lng": -83.005204,
+    "city": "Delaware"
+  },
+  "Olentangy Braves": {
+    "lat": 40.205,
+    "lng": -83.0205,
+    "city": "Lewis Center"
+  },
+  "Olentangy Liberty Patriots": {
+    "lat": 40.1977,
+    "lng": -83.0988,
+    "city": "Powell"
+  },
+  "Olentangy Orange Pioneers": {
+    "lat": 40.1814,
+    "lng": -82.9769,
+    "city": "Lewis Center"
+  },
+  "Olmsted Falls Bulldogs": {
+    "lat": 41.370641,
+    "lng": -81.926775,
+    "city": "Olmsted Falls"
+  },
+  "Ontario Warriors": {
+    "lat": 40.765213,
+    "lng": -82.647681,
+    "city": "Mansfield"
+  },
+  "Orange Lions": {
+    "lat": 41.458028,
+    "lng": -81.454646,
+    "city": "Pepper Pike"
+  },
+  "Orrville Red Riders": {
+    "lat": 40.8478,
+    "lng": -81.7706,
+    "city": "Orrville"
+  },
+  "Otsego Knights": {
+    "lat": 41.422202,
+    "lng": -83.743637,
+    "city": "Bowling Green"
+  },
+  "Ottawa Hills Green Bears": {
+    "lat": 41.67,
+    "lng": -83.6317,
+    "city": "Toledo"
+  },
+  "Ottawa-Glandorf Titans": {
+    "lat": 41.028971,
+    "lng": -84.045829,
+    "city": "Ottawa"
+  },
+  "Padua Franciscan Bruins": {
+    "lat": 41.3614,
+    "lng": -81.7369,
+    "city": "Parma"
+  },
+  "Paint Valley Bearcats": {
+    "lat": 39.241993,
+    "lng": -83.214429,
+    "city": "Bainbridge"
+  },
+  "Pandora-Gilboa Rockets": {
+    "lat": 40.954646,
+    "lng": -83.970091,
+    "city": "Pandora"
+  },
+  "Parkway Panthers": {
+    "lat": 40.6833,
+    "lng": -84.6514,
+    "city": "Rockford"
+  },
+  "Patrick Henry Patriots": {
+    "lat": 41.226,
+    "lng": -83.9957,
+    "city": "Hamler"
+  },
+  "Paulding Panthers": {
+    "lat": 41.139912,
+    "lng": -84.577928,
+    "city": "Paulding"
+  },
+  "Perkins Pirates": {
+    "lat": 41.41302,
+    "lng": -82.701972,
+    "city": "Sandusky"
+  },
+  "Perry Commodores": {
+    "lat": 40.686936,
+    "lng": -84.053384,
+    "city": "Lima"
+  },
+  "Perry Panthers": {
+    "lat": 40.789063,
+    "lng": -81.463018,
+    "city": "Massillon"
+  },
+  "Perry Pirates": {
+    "lat": 41.7743,
+    "lng": -81.14,
+    "city": "Perry"
+  },
+  "Perrysburg Yellow Jackets": {
+    "lat": 41.5196,
+    "lng": -83.6532,
+    "city": "Perrysburg"
+  },
+  "Philo Electrics": {
+    "lat": 39.884025,
+    "lng": -81.910075,
+    "city": "Duncan Falls"
+  },
+  "Pickerington Central Tigers": {
+    "lat": 39.8766,
+    "lng": -82.7558,
+    "city": "Pickerington"
+  },
+  "Pickerington North Panthers": {
+    "lat": 39.909173,
+    "lng": -82.733666,
+    "city": "Pickerington"
+  },
+  "Piketon Redstreaks": {
+    "lat": 39.064464,
+    "lng": -83.022613,
+    "city": "Piketon"
+  },
+  "Piqua Indians": {
+    "lat": 40.164,
+    "lng": -84.2073,
+    "city": "Piqua"
+  },
+  "Pleasant Spartans": {
+    "lat": 40.516582,
+    "lng": -83.138855,
+    "city": "Marion"
+  },
+  "Poland Seminary Bulldogs": {
+    "lat": 41.0046,
+    "lng": -80.5908,
+    "city": "Poland"
+  },
+  "Ponitz Tech Golden Panthers": {
+    "lat": 39.7544,
+    "lng": -84.2053,
+    "city": "Dayton"
+  },
+  "Port Clinton Redskins": {
+    "lat": 41.503695,
+    "lng": -82.937274,
+    "city": "Port Clinton"
+  },
+  "Portsmouth Trojans": {
+    "lat": 38.7317,
+    "lng": -82.9977,
+    "city": "Portsmouth"
+  },
+  "Portsmouth West Senators": {
+    "lat": 38.7156,
+    "lng": -83.0521,
+    "city": "West Portsmouth"
+  },
+  "Preble Shawnee Arrows": {
+    "lat": 39.627335,
+    "lng": -84.555015,
+    "city": "Camden"
+  },
+  "Princeton Vikings": {
+    "lat": 39.275597,
+    "lng": -84.446374,
+    "city": "Cincinnati"
+  },
+  "Purcell Marian Cavaliers": {
+    "lat": 39.1331,
+    "lng": -84.4714,
+    "city": "Cincinnati"
+  },
+  "Pymatuning Valley Lakers": {
+    "lat": 41.611272,
+    "lng": -80.584357,
+    "city": "Andover"
+  },
+  "Ravenna Ravens": {
+    "lat": 41.17068,
+    "lng": -81.246222,
+    "city": "Ravenna"
+  },
+  "Reading Blue Devils": {
+    "lat": 39.220954,
+    "lng": -84.42665,
+    "city": "Reading"
+  },
+  "Revere Minutemen": {
+    "lat": 41.201047,
+    "lng": -81.618039,
+    "city": "Richfield"
+  },
+  "Reynoldsburg Raiders": {
+    "lat": 39.943142,
+    "lng": -82.816206,
+    "city": "Reynoldsburg"
+  },
+  "Rhodes Rams": {
+    "lat": 41.4386,
+    "lng": -81.7214,
+    "city": "Cleveland"
+  },
+  "Richmond Heights Spartans": {
+    "lat": 41.555019,
+    "lng": -81.494707,
+    "city": "Richmond Heights"
+  },
+  "Ridgedale Rockets": {
+    "lat": 40.6492,
+    "lng": -83.1744,
+    "city": "Morral"
+  },
+  "Ridgemont Golden Gophers": {
+    "lat": 40.533371,
+    "lng": -83.528097,
+    "city": "Mt. Victory"
+  },
+  "Ridgewood Generals": {
+    "lat": 40.2694,
+    "lng": -81.7572,
+    "city": "West Lafayette"
+  },
+  "Rittman Indians": {
+    "lat": 40.974962,
+    "lng": -81.796192,
+    "city": "Rittman"
+  },
+  "River Pilots": {
+    "lat": 39.6744,
+    "lng": -80.8708,
+    "city": "Hannibal"
+  },
+  "River Valley Raiders": {
+    "lat": 38.918439,
+    "lng": -82.289096,
+    "city": "Bidwell"
+  },
+  "River Valley Vikings": {
+    "lat": 40.584781,
+    "lng": -83.013479,
+    "city": "Caledonia"
+  },
+  "River View Black Bears": {
+    "lat": 40.339387,
+    "lng": -81.959046,
+    "city": "Warsaw"
+  },
+  "Riverdale Falcons": {
+    "lat": 40.866498,
+    "lng": -83.518063,
+    "city": "Mt. Blanchard"
+  },
+  "Riverside Beavers": {
+    "lat": 41.712236,
+    "lng": -81.218394,
+    "city": "Painesville"
+  },
+  "Riverside Pirates": {
+    "lat": 40.2969,
+    "lng": -83.9586,
+    "city": "DeGraff"
+  },
+  "Rock Hill Redmen": {
+    "lat": 38.6135,
+    "lng": -82.6587,
+    "city": "Ironton"
+  },
+  "Rocky River Pirates": {
+    "lat": 41.4735,
+    "lng": -81.8513,
+    "city": "Rocky River"
+  },
+  "Roger Bacon Spartans": {
+    "lat": 39.1678,
+    "lng": -84.4919,
+    "city": "St. Bernard"
+  },
+  "Rogers Rams": {
+    "lat": 41.6413,
+    "lng": -83.6748,
+    "city": "Toledo"
+  },
+  "Rootstown Rovers": {
+    "lat": 41.0986,
+    "lng": -81.2439,
+    "city": "Rootstown"
+  },
+  "Ross Rams": {
+    "lat": 39.32974,
+    "lng": -84.634618,
+    "city": "Hamilton"
+  },
+  "Rossford Bulldogs": {
+    "lat": 41.608811,
+    "lng": -83.559004,
+    "city": "Rossford"
+  },
+  "Salem Quakers": {
+    "lat": 40.907214,
+    "lng": -80.844754,
+    "city": "Salem"
+  },
+  "Sandusky Blue Streaks": {
+    "lat": 41.434663,
+    "lng": -82.712893,
+    "city": "Sandusky"
+  },
+  "Sandy Valley Cardinals": {
+    "lat": 40.637015,
+    "lng": -81.352239,
+    "city": "Magnolia"
   },
   "Sciotoville East Tartans": {
     "lat": 38.7586,
     "lng": -82.9086,
     "city": "Portsmouth"
   },
-  "John F Kennedy Fighting Eagles": {
-    "lat": 41.4486,
-    "lng": -81.5586,
-    "city": "Cleveland"
+  "Scott Bulldogs": {
+    "lat": 41.6639,
+    "lng": -83.5639,
+    "city": "Toledo"
   },
-  "Wellsville Tigers": {
-    "lat": 40.6039,
-    "lng": -80.6539,
-    "city": "Wellsville"
+  "Seneca East Tigers": {
+    "lat": 41.07887,
+    "lng": -82.915345,
+    "city": "Attica"
   },
-  "Mifflin Punchers": {
-    "lat": 40.0239,
+  "Shadyside Tigers": {
+    "lat": 39.9713,
+    "lng": -80.7464,
+    "city": "Shadyside"
+  },
+  "Shaker Heights Red Raiders": {
+    "lat": 41.4714,
+    "lng": -81.5539,
+    "city": "Shaker Heights"
+  },
+  "Shaw Cardinals": {
+    "lat": 41.5371,
+    "lng": -81.5735,
+    "city": "East Cleveland"
+  },
+  "Shawnee Braves": {
+    "lat": 39.8839,
+    "lng": -83.7839,
+    "city": "Springfield"
+  },
+  "Shawnee Indians": {
+    "lat": 40.6927,
+    "lng": -84.1675,
+    "city": "Lima"
+  },
+  "Shelby Whippets": {
+    "lat": 40.890088,
+    "lng": -82.673467,
+    "city": "Shelby"
+  },
+  "Shenandoah Zeps": {
+    "lat": 39.809068,
+    "lng": -81.448317,
+    "city": "Sarahsville"
+  },
+  "Sheridan Generals": {
+    "lat": 39.8267,
+    "lng": -82.3799,
+    "city": "Thornville"
+  },
+  "Shroder Jaguars": {
+    "lat": 39.165705,
+    "lng": -84.409338,
+    "city": "Cincinnati"
+  },
+  "Sidney Yellow Jackets": {
+    "lat": 40.27863,
+    "lng": -84.173465,
+    "city": "Sidney"
+  },
+  "Smithville Smithies": {
+    "lat": 40.868777,
+    "lng": -81.857964,
+    "city": "Smithville"
+  },
+  "Solon Comets": {
+    "lat": 41.378,
+    "lng": -81.4408,
+    "city": "Solon"
+  },
+  "South Bulldogs": {
+    "lat": 39.9402,
+    "lng": -82.9796,
+    "city": "Columbus"
+  },
+  "South Central Trojans": {
+    "lat": 41.0464,
+    "lng": -82.5183,
+    "city": "Greenwich"
+  },
+  "South Gallia Rebels": {
+    "lat": 38.661426,
+    "lng": -82.278251,
+    "city": "Crown City"
+  },
+  "South Point Pointers": {
+    "lat": 38.439413,
+    "lng": -82.578574,
+    "city": "South Point"
+  },
+  "South Range Raiders": {
+    "lat": 40.954389,
+    "lng": -80.743503,
+    "city": "Canfield"
+  },
+  "South Rebels": {
+    "lat": 41.624586,
+    "lng": -81.420713,
+    "city": "Willoughby"
+  },
+  "Southeast Pirates": {
+    "lat": 41.099969,
+    "lng": -81.087586,
+    "city": "Ravenna"
+  },
+  "Southeastern Local Trojans": {
+    "lat": 39.7769,
+    "lng": -83.6886,
+    "city": "South Charleston"
+  },
+  "Southeastern Panthers": {
+    "lat": 39.2686,
+    "lng": -82.8586,
+    "city": "Richmond Dale"
+  },
+  "Southern Indians": {
+    "lat": 40.6886,
+    "lng": -80.7686,
+    "city": "Salineville"
+  },
+  "Southern Tornadoes": {
+    "lat": 38.970541,
+    "lng": -81.908487,
+    "city": "Racine"
+  },
+  "Spencerville Bearcats": {
+    "lat": 40.701662,
+    "lng": -84.344563,
+    "city": "Spencerville"
+  },
+  "Springboro Panthers": {
+    "lat": 39.532322,
+    "lng": -84.240759,
+    "city": "Springboro"
+  },
+  "Springfield Blue Devils": {
+    "lat": 41.616,
+    "lng": -83.7048,
+    "city": "Holland"
+  },
+  "Springfield Spartans": {
+    "lat": 41.017432,
+    "lng": -81.414629,
+    "city": "Akron"
+  },
+  "Springfield Tigers": {
+    "lat": 40.9552,
+    "lng": -80.5483,
+    "city": "New Middletown"
+  },
+  "Springfield Wildcats": {
+    "lat": 39.946825,
+    "lng": -83.796777,
+    "city": "Springfield"
+  },
+  "St Bernard-Elmwood Place Titans": {
+    "lat": 39.1672,
+    "lng": -84.497,
+    "city": "St. Bernard"
+  },
+  "St Charles Cardinals": {
+    "lat": 39.9714,
     "lng": -82.9369,
     "city": "Columbus"
   },
-  "Bishop Rosecrans Bishops": {
-    "lat": 39.9539,
-    "lng": -82.0086,
-    "city": "Zanesville"
+  "St Clairsville Red Devils": {
+    "lat": 40.0795,
+    "lng": -80.8962,
+    "city": "St. Clairsville"
   },
-  "Whetstone Braves": {
-    "lat": 40.0439,
-    "lng": -83.0286,
+  "St Edward Eagles": {
+    "lat": 41.4842,
+    "lng": -81.7875,
+    "city": "Lakewood"
+  },
+  "St Francis DeSales Stallions": {
+    "lat": 40.0619,
+    "lng": -82.9764,
     "city": "Columbus"
   },
-  "Twin Valley South Panthers": {
-    "lat": 39.7314,
-    "lng": -84.5386,
-    "city": "West Alexandria"
+  "St Francis de Sales Knights": {
+    "lat": 41.6539,
+    "lng": -83.6086,
+    "city": "Toledo"
   },
-  "North Vikings": {
-    "lat": 41.6486,
-    "lng": -81.4286,
-    "city": "Eastlake"
+  "St Henry Redskins": {
+    "lat": 40.416406,
+    "lng": -84.634688,
+    "city": "St. Henry"
   },
-  "East Clinton Astros": {
-    "lat": 39.4614,
-    "lng": -83.6819,
-    "city": "Sabina"
+  "St Ignatius Wildcats": {
+    "lat": 41.4856,
+    "lng": -81.7094,
+    "city": "Cleveland"
   },
-  "Millersport Lakers": {
-    "lat": 39.9014,
-    "lng": -82.5339,
-    "city": "Millersport"
+  "St John School Heralds": {
+    "lat": 41.8786,
+    "lng": -80.7986,
+    "city": "Ashtabula"
   },
-  "New Miami Vikings": {
-    "lat": 39.4339,
-    "lng": -84.5386,
-    "city": "Hamilton"
+  "St John's Blue Jays": {
+    "lat": 40.8439,
+    "lng": -84.3386,
+    "city": "Delphos"
   },
-  "Green Bobcats": {
-    "lat": 38.6286,
-    "lng": -82.8486,
-    "city": "Franklin Furnace"
+  "St John's Jesuit Titans": {
+    "lat": 41.6386,
+    "lng": -83.6686,
+    "city": "Toledo"
   },
-  "Cardinal Huskies": {
-    "lat": 41.4639,
-    "lng": -81.0886,
-    "city": "Middlefield"
+  "St Marys Memorial Roughriders": {
+    "lat": 40.55841,
+    "lng": -84.374255,
+    "city": "St. Marys"
+  },
+  "St Paul Flyers": {
+    "lat": 41.2414,
+    "lng": -82.6114,
+    "city": "Norwalk"
+  },
+  "St Thomas Aquinas Knights": {
+    "lat": 40.8614,
+    "lng": -81.2286,
+    "city": "Louisville"
+  },
+  "St Vincent-St Mary Irish": {
+    "lat": 41.0886,
+    "lng": -81.5239,
+    "city": "Akron"
+  },
+  "St Xavier Bombers": {
+    "lat": 39.2185,
+    "lng": -84.5198,
+    "city": "Cincinnati"
+  },
+  "Start Spartans": {
+    "lat": 41.6997,
+    "lng": -83.5926,
+    "city": "Toledo"
+  },
+  "Stebbins Indians": {
+    "lat": 39.7965,
+    "lng": -84.1277,
+    "city": "Dayton"
+  },
+  "Steubenville Big Red": {
+    "lat": 40.3646,
+    "lng": -80.6122,
+    "city": "Steubenville"
   },
   "Stivers Tigers": {
     "lat": 39.7575,
     "lng": -84.1725,
     "city": "Dayton"
   },
-  "Federal Hocking Lancers": {
-    "lat": 39.3186,
-    "lng": -81.8686,
-    "city": "Stewart"
+  "Stow-Munroe Falls Bulldogs": {
+    "lat": 41.168385,
+    "lng": -81.3973,
+    "city": "Stow"
+  },
+  "Strasburg Tigers": {
+    "lat": 40.5986,
+    "lng": -81.5286,
+    "city": "Strasburg"
+  },
+  "Streetsboro Rockets": {
+    "lat": 41.225006,
+    "lng": -81.322822,
+    "city": "Streetsboro"
+  },
+  "Strongsville Mustangs": {
+    "lat": 41.3034,
+    "lng": -81.8456,
+    "city": "Strongsville"
+  },
+  "Struthers Wildcats": {
+    "lat": 41.052156,
+    "lng": -80.599215,
+    "city": "Struthers"
+  },
+  "Summit Country Day Silver Knights": {
+    "lat": 39.1353,
+    "lng": -84.4556,
+    "city": "Cincinnati"
+  },
+  "Swanton Bulldogs": {
+    "lat": 41.5931,
+    "lng": -83.8996,
+    "city": "Swanton"
+  },
+  "Sycamore Aviators": {
+    "lat": 39.266887,
+    "lng": -84.352099,
+    "city": "Cincinnati"
+  },
+  "Sylvania Northview Wildcats": {
+    "lat": 41.7131,
+    "lng": -83.7105,
+    "city": "Sylvania"
+  },
+  "Sylvania Southview Cougars": {
+    "lat": 41.6876,
+    "lng": -83.7164,
+    "city": "Sylvania"
+  },
+  "Symmes Valley Vikings": {
+    "lat": 38.607249,
+    "lng": -82.485211,
+    "city": "Willow Wood"
+  },
+  "Taft Senators": {
+    "lat": 39.1118,
+    "lng": -84.5244,
+    "city": "Cincinnati"
+  },
+  "Talawanda Brave": {
+    "lat": 39.489945,
+    "lng": -84.732793,
+    "city": "Oxford"
+  },
+  "Tallmadge Blue Devils": {
+    "lat": 41.105158,
+    "lng": -81.413007,
+    "city": "Tallmadge"
+  },
+  "Taylor Yellowjackets": {
+    "lat": 39.170404,
+    "lng": -84.75081,
+    "city": "Cleves"
+  },
+  "Teays Valley Vikings": {
+    "lat": 39.722301,
+    "lng": -82.945664,
+    "city": "Ashville"
+  },
+  "Tecumseh Arrows": {
+    "lat": 39.9148,
+    "lng": -83.9965,
+    "city": "New Carlisle"
+  },
+  "Thomas Worthington Cardinals": {
+    "lat": 40.090622,
+    "lng": -83.024972,
+    "city": "Worthington"
+  },
+  "Thurgood Marshall Cougars": {
+    "lat": 39.762829,
+    "lng": -84.261006,
+    "city": "Dayton"
+  },
+  "Tinora Rams": {
+    "lat": 41.356509,
+    "lng": -84.321971,
+    "city": "Defiance"
+  },
+  "Tippecanoe Red Devils": {
+    "lat": 39.983,
+    "lng": -84.188229,
+    "city": "Tipp City"
+  },
+  "Toledo Christian Eagles": {
+    "lat": 41.5986,
+    "lng": -83.6586,
+    "city": "Toledo"
+  },
+  "Toronto Red Knights": {
+    "lat": 40.4642,
+    "lng": -80.6009,
+    "city": "Toronto"
+  },
+  "Tri-County North Panthers": {
+    "lat": 39.850821,
+    "lng": -84.536746,
+    "city": "Lewisburg"
+  },
+  "Tri-Valley Scotties": {
+    "lat": 40.1211,
+    "lng": -82.0049,
+    "city": "Dresden"
+  },
+  "Tri-Village Patriots": {
+    "lat": 39.964629,
+    "lng": -84.711017,
+    "city": "New Madison"
+  },
+  "Triad Cardinals": {
+    "lat": 40.1794,
+    "lng": -83.5876,
+    "city": "North Lewisburg"
+  },
+  "Trimble Tomcats": {
+    "lat": 39.4988,
+    "lng": -82.0887,
+    "city": "Glouster"
+  },
+  "Trinity Trojans": {
+    "lat": 41.4086,
+    "lng": -81.6139,
+    "city": "Garfield Heights"
+  },
+  "Triway Titans": {
+    "lat": 40.760627,
+    "lng": -81.977297,
+    "city": "Wooster"
+  },
+  "Trotwood-Madison Rams": {
+    "lat": 39.810139,
+    "lng": -84.310132,
+    "city": "Trotwood"
+  },
+  "Troy Christian Eagles": {
+    "lat": 40.0619,
+    "lng": -84.2286,
+    "city": "Troy"
+  },
+  "Troy Trojans": {
+    "lat": 40.045946,
+    "lng": -84.200984,
+    "city": "Troy"
+  },
+  "Turpin Spartans": {
+    "lat": 39.105703,
+    "lng": -84.366827,
+    "city": "Cincinnati"
+  },
+  "Tuscarawas Central Catholic Saints": {
+    "lat": 40.4839,
+    "lng": -81.4386,
+    "city": "New Philadelphia"
+  },
+  "Tuscarawas Valley Trojans": {
+    "lat": 40.602032,
+    "lng": -81.406067,
+    "city": "Zoarville"
+  },
+  "Tuslaw Mustangs": {
+    "lat": 40.810934,
+    "lng": -81.602586,
+    "city": "Massillon"
+  },
+  "Twin Valley South Panthers": {
+    "lat": 39.747142,
+    "lng": -84.537148,
+    "city": "West Alexandria"
+  },
+  "Twinsburg Tigers": {
+    "lat": 41.317418,
+    "lng": -81.450921,
+    "city": "Twinsburg"
+  },
+  "Union Local Jets": {
+    "lat": 40.0637,
+    "lng": -81.0537,
+    "city": "Belmont"
+  },
+  "Unioto Sherman Tanks": {
+    "lat": 39.365763,
+    "lng": -83.012957,
+    "city": "Chillicothe"
+  },
+  "United Golden Eagles": {
+    "lat": 40.783631,
+    "lng": -80.928893,
+    "city": "Hanoverton"
+  },
+  "University School Preppers": {
+    "lat": 41.4786,
+    "lng": -81.4239,
+    "city": "Hunting Valley"
+  },
+  "Upper Arlington Golden Bears": {
+    "lat": 40.017519,
+    "lng": -83.05532,
+    "city": "Upper Arlington"
+  },
+  "Upper Sandusky Rams": {
+    "lat": 40.841094,
+    "lng": -83.282377,
+    "city": "Upper Sandusky"
+  },
+  "Upper Scioto Valley Rams": {
+    "lat": 40.69168,
+    "lng": -83.786945,
+    "city": "McGuffey"
+  },
+  "Urbana Hillclimbers": {
+    "lat": 40.1123,
+    "lng": -83.7426,
+    "city": "Urbana"
+  },
+  "Ursuline Fighting Irish": {
+    "lat": 41.1114,
+    "lng": -80.6586,
+    "city": "Youngstown"
+  },
+  "Utica Redskins": {
+    "lat": 40.237196,
+    "lng": -82.44691,
+    "city": "Utica"
+  },
+  "Valley Christian School Eagles": {
+    "lat": 41.0486,
+    "lng": -80.6686,
+    "city": "Youngstown"
+  },
+  "Valley Forge Patriots": {
+    "lat": 41.3722,
+    "lng": -81.7557,
+    "city": "Parma Heights"
+  },
+  "Valley Indians": {
+    "lat": 38.882519,
+    "lng": -82.966802,
+    "city": "Lucasville"
+  },
+  "Valley View Spartans": {
+    "lat": 39.6569,
+    "lng": -84.3982,
+    "city": "Germantown"
+  },
+  "Van Buren Black Knights": {
+    "lat": 41.13506,
+    "lng": -83.647993,
+    "city": "Van Buren"
+  },
+  "Van Wert Cougars": {
+    "lat": 40.849046,
+    "lng": -84.60513,
+    "city": "Van Wert"
   },
   "Vanlue Wildcats": {
-    "lat": 40.9739,
-    "lng": -83.4886,
+    "lat": 40.9745,
+    "lng": -83.4763,
     "city": "Vanlue"
   },
-  "Catholic Central Irish": {
-    "lat": 39.9214,
-    "lng": -83.7986,
-    "city": "Springfield"
+  "Vermilion Sailors": {
+    "lat": 41.41095,
+    "lng": -82.357476,
+    "city": "Vermilion"
+  },
+  "Versailles Tigers": {
+    "lat": 40.2134,
+    "lng": -84.4866,
+    "city": "Versailles"
+  },
+  "Villa Angela-St Joseph Vikings": {
+    "lat": 41.5839,
+    "lng": -81.5539,
+    "city": "Cleveland"
+  },
+  "Vinton County Vikings": {
+    "lat": 39.2507,
+    "lng": -82.4934,
+    "city": "Mc Arthur"
+  },
+  "Wadsworth Grizzlies": {
+    "lat": 41.02162,
+    "lng": -81.710792,
+    "city": "Wadsworth"
+  },
+  "Waite Indians": {
+    "lat": 41.6491,
+    "lng": -83.518,
+    "city": "Toledo"
+  },
+  "Walnut Hills Eagles": {
+    "lat": 39.1406,
+    "lng": -84.4801,
+    "city": "Cincinnati"
+  },
+  "Walnut Ridge Scots": {
+    "lat": 39.9435,
+    "lng": -82.8661,
+    "city": "Columbus"
+  },
+  "Walsh Jesuit Warriors": {
+    "lat": 41.1869,
+    "lng": -81.4914,
+    "city": "Cuyahoga Falls"
+  },
+  "Wapakoneta Redskins": {
+    "lat": 40.583309,
+    "lng": -84.194209,
+    "city": "Wapakoneta"
+  },
+  "Warren G Harding Raiders": {
+    "lat": 41.2424,
+    "lng": -80.8049,
+    "city": "Warren"
+  },
+  "Warren Warriors": {
+    "lat": 39.387225,
+    "lng": -81.664157,
+    "city": "Vincent"
+  },
+  "Warrensville Heights Tigers": {
+    "lat": 41.4438,
+    "lng": -81.531,
+    "city": "Warrensville Heights"
+  },
+  "Washington Blue Lions": {
+    "lat": 39.543713,
+    "lng": -83.425936,
+    "city": "Washington Court House"
+  },
+  "Waterford Wildcats": {
+    "lat": 39.538348,
+    "lng": -81.638233,
+    "city": "Waterford"
+  },
+  "Waterloo Vikings": {
+    "lat": 41.028929,
+    "lng": -81.192535,
+    "city": "Atwater"
+  },
+  "Watkins Memorial Warriors": {
+    "lat": 39.958819,
+    "lng": -82.664432,
+    "city": "Pataskala"
+  },
+  "Wauseon Indians": {
+    "lat": 41.553378,
+    "lng": -84.127883,
+    "city": "Wauseon"
+  },
+  "Waverly Tigers": {
+    "lat": 39.131469,
+    "lng": -82.997879,
+    "city": "Waverly"
+  },
+  "Wayne Trace Raiders": {
+    "lat": 41.046826,
+    "lng": -84.574408,
+    "city": "Haviland"
+  },
+  "Wayne Warriors": {
+    "lat": 39.847231,
+    "lng": -84.134536,
+    "city": "Huber Heights"
+  },
+  "Waynedale Golden Bears": {
+    "lat": 40.7373,
+    "lng": -81.8119,
+    "city": "Apple Creek"
+  },
+  "Waynesfield-Goshen Tigers": {
+    "lat": 40.6014,
+    "lng": -83.9739,
+    "city": "Waynesfield"
+  },
+  "Waynesville Spartans": {
+    "lat": 39.535563,
+    "lng": -84.093025,
+    "city": "Waynesville"
+  },
+  "Wellington Dukes": {
+    "lat": 41.1776,
+    "lng": -82.22,
+    "city": "Wellington"
+  },
+  "Wellston Golden Rockets": {
+    "lat": 39.134,
+    "lng": -82.5349,
+    "city": "Wellston"
+  },
+  "Wellsville Tigers": {
+    "lat": 40.6022,
+    "lng": -80.6562,
+    "city": "Wellsville"
+  },
+  "West Branch Warriors": {
+    "lat": 40.91179,
+    "lng": -80.992475,
+    "city": "Beloit"
+  },
+  "West Carrollton Pirates": {
+    "lat": 39.671958,
+    "lng": -84.230375,
+    "city": "West Carrollton"
+  },
+  "West Clermont Wolves": {
+    "lat": 39.069888,
+    "lng": -84.246808,
+    "city": "Cincinnati"
+  },
+  "West Cowboys": {
+    "lat": 39.9517,
+    "lng": -83.0757,
+    "city": "Columbus"
+  },
+  "West Geauga Wolverines": {
+    "lat": 41.503278,
+    "lng": -81.338036,
+    "city": "Chesterland"
+  },
+  "West Holmes Knights": {
+    "lat": 40.576861,
+    "lng": -82.016386,
+    "city": "Millersburg"
+  },
+  "West Jefferson Rough Riders": {
+    "lat": 39.933765,
+    "lng": -83.277626,
+    "city": "West Jefferson"
+  },
+  "West Liberty-Salem Tigers": {
+    "lat": 40.215861,
+    "lng": -83.754486,
+    "city": "West Liberty"
+  },
+  "West Muskingum Tornadoes": {
+    "lat": 39.957415,
+    "lng": -82.083781,
+    "city": "Zanesville"
+  },
+  "Western Brown Broncos": {
+    "lat": 39.034212,
+    "lng": -83.938008,
+    "city": "Mt. Orab"
+  },
+  "Western Hills Mustangs": {
+    "lat": 39.1311,
+    "lng": -84.6006,
+    "city": "Cincinnati"
+  },
+  "Western Reserve Blue Devils": {
+    "lat": 41.025742,
+    "lng": -80.912814,
+    "city": "Berlin Center"
+  },
+  "Western Reserve Roughriders": {
+    "lat": 41.2458,
+    "lng": -82.4519,
+    "city": "Collins"
+  },
+  "Westerville Central Warhawks": {
+    "lat": 40.155,
+    "lng": -82.9042,
+    "city": "Westerville"
+  },
+  "Westerville North Warriors": {
+    "lat": 40.1329,
+    "lng": -82.8979,
+    "city": "Westerville"
+  },
+  "Westerville South Wildcats": {
+    "lat": 40.1178,
+    "lng": -82.9237,
+    "city": "Westerville"
+  },
+  "Westfall Mustangs": {
+    "lat": 39.6554,
+    "lng": -83.1217,
+    "city": "Williamsport"
+  },
+  "Westlake Demons": {
+    "lat": 41.460833,
+    "lng": -81.929773,
+    "city": "Westlake"
+  },
+  "Westland Cougars": {
+    "lat": 39.948422,
+    "lng": -83.150292,
+    "city": "Galloway"
+  },
+  "Wheelersburg Pirates": {
+    "lat": 38.722088,
+    "lng": -82.846379,
+    "city": "Wheelersburg"
+  },
+  "Whetstone Braves": {
+    "lat": 40.0509,
+    "lng": -83.0298,
+    "city": "Columbus"
+  },
+  "Whitehall-Yearling Rams": {
+    "lat": 39.9603,
+    "lng": -82.8865,
+    "city": "Whitehall"
+  },
+  "Whitmer Panthers": {
+    "lat": 41.718568,
+    "lng": -83.610749,
+    "city": "Toledo"
+  },
+  "Wickliffe Blue Devils": {
+    "lat": 41.6086,
+    "lng": -81.4686,
+    "city": "Wickliffe"
+  },
+  "Willard Crimson Flashes": {
+    "lat": 41.045834,
+    "lng": -82.729722,
+    "city": "Willard"
+  },
+  "Williamsburg Wildcats": {
+    "lat": 39.0516,
+    "lng": -84.0657,
+    "city": "Williamsburg"
+  },
+  "Wilmington Hurricane": {
+    "lat": 39.4492,
+    "lng": -83.8397,
+    "city": "Wilmington"
+  },
+  "Winton Woods Warriors": {
+    "lat": 39.287993,
+    "lng": -84.526807,
+    "city": "Cincinnati"
+  },
+  "Withrow Tigers": {
+    "lat": 39.1456,
+    "lng": -84.4375,
+    "city": "Cincinnati"
+  },
+  "Woodmore Wildcats": {
+    "lat": 41.4729,
+    "lng": -83.2883,
+    "city": "Elmore"
+  },
+  "Woodridge Bulldogs": {
+    "lat": 41.1921,
+    "lng": -81.5111,
+    "city": "Peninsula"
+  },
+  "Woodward Bulldogs": {
+    "lat": 39.1931,
+    "lng": -84.4697,
+    "city": "Cincinnati"
+  },
+  "Woodward Polar Bears": {
+    "lat": 41.68,
+    "lng": -83.5275,
+    "city": "Toledo"
+  },
+  "Wooster Generals": {
+    "lat": 40.836794,
+    "lng": -81.946688,
+    "city": "Wooster"
+  },
+  "Worthington Christian Warriors": {
+    "lat": 40.1053,
+    "lng": -83.0039,
+    "city": "Worthington"
+  },
+  "Worthington Kilbourne Wolves": {
+    "lat": 40.115508,
+    "lng": -83.055547,
+    "city": "Columbus"
+  },
+  "Wynford Royals": {
+    "lat": 40.8228,
+    "lng": -83.018,
+    "city": "Bucyrus"
+  },
+  "Wyoming Cowboys": {
+    "lat": 39.2333,
+    "lng": -84.4702,
+    "city": "Wyoming"
+  },
+  "Xenia Buccaneers": {
+    "lat": 39.7089,
+    "lng": -83.9283,
+    "city": "Xenia"
+  },
+  "Youngstown Defenders": {
+    "lat": 41.0986,
+    "lng": -80.6986,
+    "city": "Youngstown"
+  },
+  "Zane Trace Pioneers": {
+    "lat": 39.427549,
+    "lng": -82.937631,
+    "city": "Chillicothe"
+  },
+  "Zanesville Blue Devils": {
+    "lat": 39.95984,
+    "lng": -82.019506,
+    "city": "Zanesville"
   }
 }

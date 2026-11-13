@@ -1,1082 +1,1082 @@
 {
-  "Highlands": {
-    "lat": 39.08244,
-    "lng": -84.45711,
-    "city": "Fort Thomas"
-  },
-  "Boyle County": {
-    "lat": 37.64401,
-    "lng": -84.77491,
-    "city": "Danville"
-  },
-  "Covington Catholic": {
-    "lat": 39.06713,
-    "lng": -84.53267,
-    "city": "Park Hills"
-  },
-  "Paducah Tilghman": {
-    "lat": 37.06963,
-    "lng": -88.64919,
-    "city": "Paducah"
-  },
-  "Corbin": {
-    "lat": 36.93664,
-    "lng": -84.10359,
-    "city": "Corbin"
-  },
-  "Blazer": {
-    "lat": 38.46398,
-    "lng": -82.64778,
-    "city": "Ashland"
-  },
-  "Johnson Central": {
-    "lat": 37.82566,
-    "lng": -82.8038,
-    "city": "Paintsville"
-  },
-  "Logan County": {
-    "lat": 36.83714,
-    "lng": -86.90005,
-    "city": "Russellville"
-  },
-  "North Oldham": {
-    "lat": 38.40343,
-    "lng": -85.58372,
-    "city": "Goshen"
-  },
-  "Spencer County": {
-    "lat": 38.03227,
-    "lng": -85.34949,
-    "city": "Taylorsville"
-  },
-  "Nelson County": {
-    "lat": 37.82195,
-    "lng": -85.45949,
-    "city": "Bardstown"
-  },
-  "Greenup County": {
-    "lat": 38.5665,
-    "lng": -82.82362,
-    "city": "Greenup"
-  },
-  "Franklin County": {
-    "lat": 38.19904,
-    "lng": -84.86918,
-    "city": "Frankfort"
-  },
-  "Elizabethtown": {
-    "lat": 37.70661,
-    "lng": -85.88051,
-    "city": "Elizabethtown"
-  },
-  "Boyd County": {
-    "lat": 38.46541,
-    "lng": -82.64581,
-    "city": "Ashland"
-  },
-  "Wayne County": {
-    "lat": 36.84114,
-    "lng": -84.85133,
-    "city": "Monticello"
-  },
-  "Taylor County": {
-    "lat": 37.34578,
-    "lng": -85.35002,
-    "city": "Campbellsville"
-  },
-  "Warren East": {
-    "lat": 36.9789,
-    "lng": -86.43906,
-    "city": "Bowling Green"
-  },
-  "Calloway County": {
-    "lat": 36.61542,
-    "lng": -88.31809,
-    "city": "Murray"
-  },
-  "Franklin-Simpson": {
-    "lat": 36.71803,
-    "lng": -86.55758,
-    "city": "Franklin"
-  },
-  "Perry County Central": {
-    "lat": 37.26227,
-    "lng": -83.20006,
-    "city": "Hazard"
-  },
-  "Lincoln County": {
-    "lat": 37.53074,
-    "lng": -84.65703,
-    "city": "Stanford"
-  },
-  "Mason County": {
-    "lat": 38.65002,
-    "lng": -83.79296,
-    "city": "Maysville"
-  },
-  "Marion County": {
-    "lat": 37.57016,
-    "lng": -85.26013,
-    "city": "Lebanon"
-  },
-  "Rowan County": {
-    "lat": 38.19003,
-    "lng": -83.44907,
-    "city": "Morehead"
-  },
-  "John Hardin": {
-    "lat": 37.70079,
-    "lng": -85.87429,
-    "city": "Elizabethtown"
-  },
-  "Shelby County": {
-    "lat": 38.21048,
-    "lng": -85.22812,
-    "city": "Shelbyville"
-  },
-  "Breckinridge County": {
-    "lat": 37.75173,
-    "lng": -86.41359,
-    "city": "Harned"
-  },
-  "Harlan County": {
-    "lat": 36.84611,
-    "lng": -83.32326,
-    "city": "Harlan"
-  },
-  "Valley": {
-    "lat": 38.2264,
-    "lng": -85.74253,
-    "city": "Louisville"
-  },
-  "Russell County": {
-    "lat": 37.0507,
-    "lng": -85.08048,
-    "city": "Russell Springs"
-  },
-  "Harrison County": {
-    "lat": 38.38295,
-    "lng": -84.30175,
-    "city": "Cynthiana"
-  },
-  "Allen County-Scottsville": {
-    "lat": 36.74926,
-    "lng": -86.20762,
-    "city": "Scottsville"
-  },
-  "Western Hills": {
-    "lat": 38.19204,
-    "lng": -84.86445,
-    "city": "Frankfort"
-  },
-  "Waggener": {
-    "lat": 38.22497,
-    "lng": -85.73862,
-    "city": "Louisville"
-  },
-  "Whitley County": {
-    "lat": 36.73717,
-    "lng": -84.16719,
-    "city": "Williamsburg"
-  },
-  "Doss": {
-    "lat": 38.22122,
-    "lng": -85.744,
-    "city": "Louisville"
-  },
-  "Grant County": {
-    "lat": 38.68541,
-    "lng": -84.60022,
-    "city": "Dry Ridge"
-  },
-  "Christian Academy-Louisville": {
-    "lat": 38.22634,
-    "lng": -85.73888,
-    "city": "Louisville"
-  },
-  "Lexington Catholic": {
-    "lat": 38.04474,
-    "lng": -84.45391,
-    "city": "Lexington"
-  },
-  "Lawrence County": {
-    "lat": 38.11161,
-    "lng": -82.61517,
-    "city": "Louisa"
-  },
-  "Rockcastle County": {
-    "lat": 37.35707,
-    "lng": -84.33287,
-    "city": "Mt. Vernon"
-  },
-  "Murray": {
-    "lat": 36.61031,
-    "lng": -88.32706,
-    "city": "Murray"
-  },
-  "Larue County": {
-    "lat": 37.56337,
-    "lng": -85.73116,
-    "city": "Hodgenville"
-  },
-  "Glasgow": {
-    "lat": 37.0005,
-    "lng": -85.92596,
-    "city": "Glasgow"
-  },
-  "Bourbon County": {
-    "lat": 38.19894,
-    "lng": -84.26871,
-    "city": "Paris"
-  },
-  "Lloyd Memorial": {
-    "lat": 39.03943,
-    "lng": -84.60013,
-    "city": "Erlanger"
-  },
-  "Russell": {
-    "lat": 38.51304,
-    "lng": -82.69605,
-    "city": "Russell"
-  },
-  "Central": {
-    "lat": 38.22302,
-    "lng": -85.73958,
-    "city": "Louisville"
-  },
-  "Knox Central": {
-    "lat": 36.86574,
-    "lng": -83.88322,
-    "city": "Barbourville"
-  },
-  "Bardstown": {
-    "lat": 37.81998,
-    "lng": -85.45493,
-    "city": "Bardstown"
-  },
-  "DeSales": {
-    "lat": 38.22759,
-    "lng": -85.74106,
-    "city": "Louisville"
-  },
-  "Butler County": {
-    "lat": 37.21741,
-    "lng": -86.70015,
-    "city": "Morgantown"
-  },
-  "Henry County": {
-    "lat": 38.43356,
-    "lng": -85.16924,
-    "city": "New Castle"
-  },
-  "Letcher County Central": {
-    "lat": 37.11775,
-    "lng": -82.82302,
-    "city": "Whitesburg"
-  },
-  "Union County": {
-    "lat": 37.6889,
-    "lng": -87.88139,
-    "city": "Morganfield"
-  },
-  "East Carter": {
-    "lat": 38.33389,
-    "lng": -82.93581,
-    "city": "Grayson"
-  },
-  "Estill County": {
-    "lat": 37.69643,
-    "lng": -83.96834,
-    "city": "Irvine"
-  },
-  "Fleming County": {
-    "lat": 38.42457,
-    "lng": -83.74049,
-    "city": "Flemingsburg"
-  },
-  "Hart County": {
-    "lat": 37.27887,
-    "lng": -85.8987,
-    "city": "Munfordville"
-  },
-  "Garrard County": {
-    "lat": 37.61696,
-    "lng": -84.58182,
-    "city": "Lancaster"
-  },
-  "Clay County": {
-    "lat": 37.14807,
-    "lng": -83.76379,
-    "city": "Manchester"
-  },
   "Adair County": {
-    "lat": 37.10344,
-    "lng": -85.30754,
+    "lat": 37.107655,
+    "lng": -85.328236,
     "city": "Columbia"
   },
-  "Carroll County": {
-    "lat": 38.67962,
-    "lng": -85.16576,
-    "city": "Carrollton"
+  "Allen County-Scottsville": {
+    "lat": 36.754017,
+    "lng": -86.217384,
+    "city": "Scottsville"
   },
-  "McCreary Central": {
-    "lat": 36.69591,
-    "lng": -84.47599,
-    "city": "Stearns"
+  "Anderson County": {
+    "lat": 38.023441,
+    "lng": -84.907923,
+    "city": "Lawrenceburg"
   },
-  "Bell County": {
-    "lat": 36.74515,
-    "lng": -83.70594,
-    "city": "Pineville"
-  },
-  "Edmonson County": {
-    "lat": 37.19491,
-    "lng": -86.26525,
-    "city": "Brownsville"
-  },
-  "Mercer County": {
-    "lat": 37.76807,
-    "lng": -84.84878,
-    "city": "Harrodsburg"
-  },
-  "Hopkins County Central": {
-    "lat": 37.33652,
-    "lng": -87.50339,
-    "city": "Madisonville"
-  },
-  "Powell County": {
-    "lat": 37.8492,
-    "lng": -83.85561,
-    "city": "Stanton"
-  },
-  "Magoffin County": {
-    "lat": 37.74189,
-    "lng": -83.06358,
-    "city": "Salyersville"
-  },
-  "Lewis County": {
-    "lat": 38.59453,
-    "lng": -83.32361,
-    "city": "Vanceburg"
-  },
-  "Casey County": {
-    "lat": 37.31799,
-    "lng": -84.93049,
-    "city": "Liberty"
-  },
-  "Pendleton County": {
-    "lat": 38.6718,
-    "lng": -84.33085,
-    "city": "Falmouth"
-  },
-  "Bath County": {
-    "lat": 38.13657,
-    "lng": -83.75535,
-    "city": "Owingsville"
-  },
-  "Webster County": {
-    "lat": 37.51368,
-    "lng": -87.68843,
-    "city": "Dixon"
-  },
-  "Western": {
-    "lat": 38.22287,
-    "lng": -85.73862,
-    "city": "Louisville"
-  },
-  "Beechwood": {
-    "lat": 39.04555,
-    "lng": -84.55615,
-    "city": "Fort Mitchell"
-  },
-  "Owensboro Catholic": {
-    "lat": 37.75915,
-    "lng": -87.11528,
-    "city": "Owensboro"
-  },
-  "Lexington Christian": {
-    "lat": 38.03728,
-    "lng": -84.46295,
-    "city": "Lexington"
-  },
-  "Belfry": {
-    "lat": 37.61941,
-    "lng": -82.26843,
-    "city": "Belfry"
-  },
-  "Somerset": {
-    "lat": 37.0876,
-    "lng": -84.60268,
-    "city": "Somerset"
-  },
-  "Mayfield": {
-    "lat": 36.73855,
-    "lng": -88.63936,
-    "city": "Mayfield"
-  },
-  "Prestonsburg": {
-    "lat": 37.68156,
-    "lng": -82.76587,
-    "city": "Prestonsburg"
-  },
-  "Danville": {
-    "lat": 37.63882,
-    "lng": -84.77242,
-    "city": "Danville"
-  },
-  "Breathitt County": {
-    "lat": 37.56545,
-    "lng": -83.37624,
-    "city": "Jackson"
-  },
-  "W.E.B. DuBois Academy": {
-    "lat": 38.22261,
-    "lng": -85.7446,
-    "city": "Louisville"
-  },
-  "Caldwell County": {
-    "lat": 37.10648,
-    "lng": -87.8849,
-    "city": "Princeton"
-  },
-  "Green County": {
-    "lat": 37.2595,
-    "lng": -85.49335,
-    "city": "Greensburg"
-  },
-  "Walton-Verona": {
-    "lat": 38.86243,
-    "lng": -84.61504,
-    "city": "Walton"
-  },
-  "Monroe County": {
-    "lat": 36.7013,
-    "lng": -85.69303,
-    "city": "Tompkinsville"
-  },
-  "East Ridge": {
-    "lat": 37.38038,
-    "lng": -82.29709,
-    "city": "Lick Creek"
-  },
-  "Shelby Valley": {
-    "lat": 37.47319,
-    "lng": -82.52621,
-    "city": "Pikeville"
-  },
-  "Washington County": {
-    "lat": 37.69391,
-    "lng": -85.22289,
-    "city": "Springfield"
-  },
-  "Leslie County": {
-    "lat": 37.15679,
-    "lng": -83.37575,
-    "city": "Hyden"
-  },
-  "Martin County": {
-    "lat": 37.86934,
-    "lng": -82.5398,
-    "city": "Inez"
-  },
-  "McLean County": {
-    "lat": 37.54031,
-    "lng": -87.25904,
-    "city": "Calhoun"
-  },
-  "Floyd Central": {
-    "lat": 37.51704,
-    "lng": -82.80599,
-    "city": "Eastern"
-  },
-  "Knott County Central": {
-    "lat": 37.335,
-    "lng": -82.9819,
-    "city": "Hindman"
-  },
-  "West Carter": {
-    "lat": 38.30584,
-    "lng": -83.1682,
-    "city": "Olive Hill"
-  },
-  "Trigg County": {
-    "lat": 36.86154,
-    "lng": -87.81721,
-    "city": "Cadiz"
-  },
-  "Metcalfe County": {
-    "lat": 36.98524,
-    "lng": -85.62228,
-    "city": "Edmonton"
-  },
-  "Crittenden County": {
-    "lat": 37.33167,
-    "lng": -88.08124,
-    "city": "Marion"
-  },
-  "Hancock County": {
-    "lat": 37.93067,
-    "lng": -86.90282,
-    "city": "Lewisport"
-  },
-  "Betsy Layne": {
-    "lat": 37.55201,
-    "lng": -82.62473,
-    "city": "Betsy Layne"
-  },
-  "Bracken County": {
-    "lat": 38.67943,
-    "lng": -84.06532,
-    "city": "Brooksville"
-  },
-  "Pike County Central": {
-    "lat": 37.47829,
-    "lng": -82.52713,
-    "city": "Pikeville"
-  },
-  "Morgan County": {
-    "lat": 37.91804,
-    "lng": -83.26741,
-    "city": "West Liberty"
-  },
-  "Jackson County": {
-    "lat": 37.4302,
-    "lng": -83.98563,
-    "city": "McKee"
-  },
-  "Shawnee": {
-    "lat": 38.22781,
-    "lng": -85.74416,
-    "city": "Louisville"
-  },
-  "Fort Knox": {
-    "lat": 37.89164,
-    "lng": -85.96715,
-    "city": "Fort Knox"
-  },
-  "Fort Campbell": {
-    "lat": 36.63134,
-    "lng": -87.61569,
-    "city": "Fort Campbell"
-  },
-  "Owen County": {
-    "lat": 38.53903,
-    "lng": -84.83922,
-    "city": "Owenton"
-  },
-  "Clinton County": {
-    "lat": 36.69055,
-    "lng": -85.13549,
-    "city": "Albany"
-  },
-  "Gallatin County": {
-    "lat": 38.78356,
-    "lng": -84.89253,
-    "city": "Warsaw"
-  },
-  "Todd County Central": {
-    "lat": 36.81608,
-    "lng": -87.16114,
-    "city": "Elkton"
-  },
-  "Pulaski County": {
-    "lat": 37.08407,
-    "lng": -84.60697,
-    "city": "Somerset"
-  },
-  "Bowling Green": {
-    "lat": 36.9809,
-    "lng": -86.43696,
-    "city": "Bowling Green"
-  },
-  "Woodford County": {
-    "lat": 38.04907,
-    "lng": -84.72497,
-    "city": "Versailles"
-  },
-  "Scott County": {
-    "lat": 38.26118,
-    "lng": -84.5384,
-    "city": "Georgetown"
-  },
-  "Owensboro": {
-    "lat": 37.75916,
-    "lng": -87.11651,
+  "Apollo": {
+    "lat": 37.730587,
+    "lng": -87.144127,
     "city": "Owensboro"
   },
   "Atherton": {
-    "lat": 38.22988,
-    "lng": -85.73894,
+    "lat": 38.2141,
+    "lng": -85.6884,
     "city": "Louisville"
   },
-  "West Jessamine": {
-    "lat": 37.88668,
-    "lng": -84.56516,
-    "city": "Nicholasville"
+  "Ballard": {
+    "lat": 38.2836,
+    "lng": -85.6249,
+    "city": "Louisville"
   },
-  "Madisonville-North Hopkins": {
-    "lat": 37.34199,
-    "lng": -87.50641,
-    "city": "Madisonville"
+  "Ballard Memorial": {
+    "lat": 37.067687,
+    "lng": -88.988292,
+    "city": "Barlow"
   },
-  "Collins": {
-    "lat": 38.20692,
-    "lng": -85.22683,
-    "city": "Shelbyville"
-  },
-  "Cooper": {
-    "lat": 38.94585,
-    "lng": -84.67769,
-    "city": "Union"
+  "Bardstown": {
+    "lat": 37.814653,
+    "lng": -85.469364,
+    "city": "Bardstown"
   },
   "Barren County": {
-    "lat": 37.00258,
-    "lng": -85.92473,
+    "lat": 36.9748,
+    "lng": -85.9194,
     "city": "Glasgow"
   },
-  "North Laurel": {
-    "lat": 37.10889,
-    "lng": -84.0771,
-    "city": "London"
+  "Bath County": {
+    "lat": 38.137205,
+    "lng": -83.776702,
+    "city": "Owingsville"
   },
-  "Fairdale": {
-    "lat": 38.10507,
-    "lng": -85.75885,
-    "city": "Fairdale"
+  "Beechwood": {
+    "lat": 39.049165,
+    "lng": -84.555171,
+    "city": "Fort Mitchell"
   },
-  "South Laurel": {
-    "lat": 37.11447,
-    "lng": -84.08351,
-    "city": "London"
+  "Belfry": {
+    "lat": 37.648169,
+    "lng": -82.265666,
+    "city": "Belfry"
   },
-  "Apollo": {
-    "lat": 37.76207,
-    "lng": -87.12011,
-    "city": "Owensboro"
+  "Bell County": {
+    "lat": 36.712546,
+    "lng": -83.691789,
+    "city": "Pineville"
   },
-  "Graves County": {
-    "lat": 36.74198,
-    "lng": -88.64441,
-    "city": "Mayfield"
+  "Bellevue": {
+    "lat": 39.102227,
+    "lng": -84.482017,
+    "city": "Bellevue"
   },
-  "Grayson County": {
-    "lat": 37.48624,
-    "lng": -86.28469,
-    "city": "Leitchfield"
-  },
-  "Dixie Heights": {
-    "lat": 39.00872,
-    "lng": -84.55988,
-    "city": "Edgewood"
-  },
-  "Madison Southern": {
-    "lat": 37.58532,
-    "lng": -84.29941,
+  "Berea": {
+    "lat": 37.5787,
+    "lng": -84.2942,
     "city": "Berea"
-  },
-  "Conner": {
-    "lat": 39.06382,
-    "lng": -84.70828,
-    "city": "Hebron"
-  },
-  "Anderson County": {
-    "lat": 38.03387,
-    "lng": -84.9047,
-    "city": "Lawrenceburg"
-  },
-  "Southwestern": {
-    "lat": 37.08609,
-    "lng": -84.60103,
-    "city": "Somerset"
-  },
-  "Greenwood": {
-    "lat": 36.97216,
-    "lng": -86.43128,
-    "city": "Bowling Green"
-  },
-  "Muhlenberg County": {
-    "lat": 37.21049,
-    "lng": -87.17757,
-    "city": "Greenville"
-  },
-  "South Oldham": {
-    "lat": 38.34367,
-    "lng": -85.47766,
-    "city": "Crestwood"
-  },
-  "North Bullitt": {
-    "lat": 37.98275,
-    "lng": -85.70005,
-    "city": "Shepherdsville"
-  },
-  "Bullitt Central": {
-    "lat": 37.98577,
-    "lng": -85.70326,
-    "city": "Shepherdsville"
-  },
-  "East Jessamine": {
-    "lat": 37.88993,
-    "lng": -84.56842,
-    "city": "Nicholasville"
-  },
-  "Seneca": {
-    "lat": 38.22428,
-    "lng": -85.74384,
-    "city": "Louisville"
-  },
-  "Jeffersontown": {
-    "lat": 38.22994,
-    "lng": -85.7435,
-    "city": "Louisville"
-  },
-  "Butler": {
-    "lat": 38.22412,
-    "lng": -85.74326,
-    "city": "Louisville"
-  },
-  "Scott": {
-    "lat": 39.03511,
-    "lng": -84.51965,
-    "city": "Covington"
-  },
-  "Moore": {
-    "lat": 38.22245,
-    "lng": -85.7378,
-    "city": "Louisville"
-  },
-  "Marshall County": {
-    "lat": 36.848,
-    "lng": -88.36165,
-    "city": "Benton"
-  },
-  "Warren Central": {
-    "lat": 36.97873,
-    "lng": -86.43304,
-    "city": "Bowling Green"
-  },
-  "Montgomery County": {
-    "lat": 38.06547,
-    "lng": -83.94882,
-    "city": "Mt. Sterling"
-  },
-  "Boone County": {
-    "lat": 38.99341,
-    "lng": -84.64819,
-    "city": "Florence"
-  },
-  "Iroquois": {
-    "lat": 38.2266,
-    "lng": -85.73989,
-    "city": "Louisville"
-  },
-  "Pikeville": {
-    "lat": 37.47095,
-    "lng": -82.53096,
-    "city": "Pikeville"
-  },
-  "Raceland": {
-    "lat": 38.53737,
-    "lng": -82.73875,
-    "city": "Raceland"
-  },
-  "Sayre": {
-    "lat": 38.0358,
-    "lng": -84.45827,
-    "city": "Lexington"
-  },
-  "Kentucky Country Day": {
-    "lat": 38.22324,
-    "lng": -85.7443,
-    "city": "Louisville"
-  },
-  "Paintsville": {
-    "lat": 37.81817,
-    "lng": -82.81016,
-    "city": "Paintsville"
-  },
-  "Middlesboro": {
-    "lat": 36.61347,
-    "lng": -83.72245,
-    "city": "Middlesboro"
   },
   "Bethlehem": {
     "lat": 37.82103,
     "lng": -85.45261,
     "city": "Bardstown"
   },
-  "Holy Cross": {
-    "lat": 38.22879,
-    "lng": -85.73863,
-    "city": "Louisville"
-  },
-  "Eminence": {
-    "lat": 38.36369,
-    "lng": -85.1769,
-    "city": "Eminence"
-  },
-  "Williamsburg": {
-    "lat": 36.73656,
-    "lng": -84.16603,
-    "city": "Williamsburg"
-  },
-  "Newport Central Catholic": {
-    "lat": 39.09029,
-    "lng": -84.49142,
-    "city": "Newport"
+  "Betsy Layne": {
+    "lat": 37.562953,
+    "lng": -82.637695,
+    "city": "Stanville"
   },
   "Bishop Brossart": {
     "lat": 38.97337,
     "lng": -84.38382,
     "city": "Alexandria"
   },
+  "Blazer": {
+    "lat": 38.46398,
+    "lng": -82.64778,
+    "city": "Ashland"
+  },
+  "Boone County": {
+    "lat": 39.005754,
+    "lng": -84.63115,
+    "city": "Florence"
+  },
+  "Bourbon County": {
+    "lat": 38.1941,
+    "lng": -84.2716,
+    "city": "Paris"
+  },
+  "Bowling Green": {
+    "lat": 36.96445,
+    "lng": -86.442133,
+    "city": "Bowling Green"
+  },
+  "Boyd County": {
+    "lat": 38.373202,
+    "lng": -82.715336,
+    "city": "Ashland"
+  },
+  "Boyle County": {
+    "lat": 37.649844,
+    "lng": -84.798302,
+    "city": "Danville"
+  },
+  "Bracken County": {
+    "lat": 38.69,
+    "lng": -84.0719,
+    "city": "Brooksville"
+  },
+  "Breathitt County": {
+    "lat": 37.5549,
+    "lng": -83.3845,
+    "city": "Jackson"
+  },
+  "Breckinridge County": {
+    "lat": 37.7548,
+    "lng": -86.4244,
+    "city": "Harned"
+  },
+  "Bryan Station": {
+    "lat": 38.0673,
+    "lng": -84.4561,
+    "city": "Lexington"
+  },
+  "Bullitt Central": {
+    "lat": 37.9997,
+    "lng": -85.6978,
+    "city": "Shepherdsville"
+  },
+  "Bullitt East": {
+    "lat": 38.0565,
+    "lng": -85.5318,
+    "city": "Mt. Washington"
+  },
+  "Butler": {
+    "lat": 38.193238,
+    "lng": -85.815632,
+    "city": "Louisville"
+  },
+  "Butler County": {
+    "lat": 37.2055,
+    "lng": -86.7005,
+    "city": "Morgantown"
+  },
+  "Caldwell County": {
+    "lat": 37.1372,
+    "lng": -87.8956,
+    "city": "Princeton"
+  },
+  "Calloway County": {
+    "lat": 36.6185,
+    "lng": -88.3412,
+    "city": "Murray"
+  },
+  "Campbell County": {
+    "lat": 38.9189,
+    "lng": -84.3936,
+    "city": "Alexandria"
+  },
+  "Campbellsville": {
+    "lat": 37.338848,
+    "lng": -85.348037,
+    "city": "Campbellsville"
+  },
+  "Carroll County": {
+    "lat": 38.6832,
+    "lng": -85.1569,
+    "city": "Carrollton"
+  },
+  "Casey County": {
+    "lat": 37.326914,
+    "lng": -84.905237,
+    "city": "Liberty"
+  },
+  "Caverna": {
+    "lat": 37.1526,
+    "lng": -85.9315,
+    "city": "Horse Cave"
+  },
+  "Central": {
+    "lat": 38.249732,
+    "lng": -85.770641,
+    "city": "Louisville"
+  },
+  "Central Hardin": {
+    "lat": 37.675628,
+    "lng": -85.907345,
+    "city": "Cecilia"
+  },
+  "Christian Academy-Louisville": {
+    "lat": 38.232445,
+    "lng": -85.49738,
+    "city": "Louisville"
+  },
+  "Christian County": {
+    "lat": 36.8792,
+    "lng": -87.4928,
+    "city": "Hopkinsville"
+  },
+  "Clay County": {
+    "lat": 37.1804,
+    "lng": -83.7663,
+    "city": "Manchester"
+  },
+  "Clinton County": {
+    "lat": 36.709247,
+    "lng": -85.132863,
+    "city": "Albany"
+  },
+  "Collins": {
+    "lat": 38.20692,
+    "lng": -85.22683,
+    "city": "Shelbyville"
+  },
+  "Conner": {
+    "lat": 39.061,
+    "lng": -84.6964,
+    "city": "Hebron"
+  },
+  "Cooper": {
+    "lat": 38.94585,
+    "lng": -84.67769,
+    "city": "Union"
+  },
+  "Corbin": {
+    "lat": 36.9316,
+    "lng": -84.0948,
+    "city": "Corbin"
+  },
+  "Covington Catholic": {
+    "lat": 39.06713,
+    "lng": -84.53267,
+    "city": "Park Hills"
+  },
+  "Crittenden County": {
+    "lat": 37.330539,
+    "lng": -88.091198,
+    "city": "Marion"
+  },
+  "Danville": {
+    "lat": 37.649577,
+    "lng": -84.767229,
+    "city": "Danville"
+  },
+  "Daviess County": {
+    "lat": 37.729814,
+    "lng": -87.084692,
+    "city": "Owensboro"
+  },
+  "Dayton": {
+    "lat": 39.1169,
+    "lng": -84.4703,
+    "city": "Dayton"
+  },
+  "DeSales": {
+    "lat": 38.22759,
+    "lng": -85.74106,
+    "city": "Louisville"
+  },
+  "Dixie Heights": {
+    "lat": 39.023595,
+    "lng": -84.586019,
+    "city": "Fort Mitchell"
+  },
+  "Doss": {
+    "lat": 38.153108,
+    "lng": -85.813363,
+    "city": "Louisville"
+  },
+  "DuPont Manual": {
+    "lat": 38.222014,
+    "lng": -85.757897,
+    "city": "Louisville"
+  },
+  "East Carter": {
+    "lat": 38.3249,
+    "lng": -82.9331,
+    "city": "Grayson"
+  },
+  "East Jessamine": {
+    "lat": 37.8766,
+    "lng": -84.5542,
+    "city": "Nicholasville"
+  },
+  "East Ridge": {
+    "lat": 37.3625,
+    "lng": -82.307,
+    "city": "Lick Creek"
+  },
+  "Eastern": {
+    "lat": 38.243307,
+    "lng": -85.526202,
+    "city": "Middletown"
+  },
+  "Edmonson County": {
+    "lat": 37.1934,
+    "lng": -86.2518,
+    "city": "Brownsville"
+  },
+  "Elizabethtown": {
+    "lat": 37.7045,
+    "lng": -85.8524,
+    "city": "Elizabethtown"
+  },
+  "Eminence": {
+    "lat": 38.37281,
+    "lng": -85.18261,
+    "city": "Eminence"
+  },
+  "Estill County": {
+    "lat": 37.735712,
+    "lng": -83.988923,
+    "city": "Irvine"
+  },
+  "Fairdale": {
+    "lat": 38.112083,
+    "lng": -85.751529,
+    "city": "Fairdale"
+  },
+  "Fairview": {
+    "lat": 38.479935,
+    "lng": -82.674993,
+    "city": "Ashland"
+  },
+  "Fern Creek": {
+    "lat": 38.156335,
+    "lng": -85.59218,
+    "city": "Louisville"
+  },
+  "Fleming County": {
+    "lat": 38.422045,
+    "lng": -83.764113,
+    "city": "Flemingsburg"
+  },
+  "Floyd Central": {
+    "lat": 37.499816,
+    "lng": -82.804305,
+    "city": "Eastern"
+  },
+  "Fort Campbell": {
+    "lat": 36.63134,
+    "lng": -87.61569,
+    "city": "Fort Campbell"
+  },
+  "Fort Knox": {
+    "lat": 37.89164,
+    "lng": -85.96715,
+    "city": "Fort Knox"
+  },
+  "Frankfort": {
+    "lat": 38.192754,
+    "lng": -84.877032,
+    "city": "Frankfort"
+  },
+  "Franklin County": {
+    "lat": 38.2117,
+    "lng": -84.8271,
+    "city": "Frankfort"
+  },
+  "Franklin-Simpson": {
+    "lat": 36.7157,
+    "lng": -86.5809,
+    "city": "Franklin"
+  },
+  "Frederick Douglass": {
+    "lat": 38.040057,
+    "lng": -84.435792,
+    "city": "Lexington"
+  },
+  "Fulton County": {
+    "lat": 36.568074,
+    "lng": -89.156579,
+    "city": "Hickman"
+  },
+  "Gallatin County": {
+    "lat": 38.786084,
+    "lng": -84.889052,
+    "city": "Warsaw"
+  },
+  "Garrard County": {
+    "lat": 37.602128,
+    "lng": -84.570063,
+    "city": "Lancaster"
+  },
+  "George Rogers Clark": {
+    "lat": 37.961171,
+    "lng": -84.214046,
+    "city": "Winchester"
+  },
+  "Glasgow": {
+    "lat": 37.008893,
+    "lng": -85.888157,
+    "city": "Glasgow"
+  },
+  "Grant County": {
+    "lat": 38.6839,
+    "lng": -84.6186,
+    "city": "Dry Ridge"
+  },
+  "Graves County": {
+    "lat": 36.761179,
+    "lng": -88.653538,
+    "city": "Mayfield"
+  },
+  "Grayson County": {
+    "lat": 37.46291,
+    "lng": -86.337103,
+    "city": "Leitchfield"
+  },
+  "Great Crossing": {
+    "lat": 38.215797,
+    "lng": -84.599045,
+    "city": "Georgetown"
+  },
+  "Green County": {
+    "lat": 37.256,
+    "lng": -85.4884,
+    "city": "Greensburg"
+  },
+  "Greenup County": {
+    "lat": 38.6305,
+    "lng": -82.8697,
+    "city": "Greenup"
+  },
+  "Greenwood": {
+    "lat": 36.926498,
+    "lng": -86.41441,
+    "city": "Bowling Green"
+  },
+  "Hancock County": {
+    "lat": 37.9176,
+    "lng": -86.803,
+    "city": "Lewisport"
+  },
+  "Harlan": {
+    "lat": 36.8469,
+    "lng": -83.3185,
+    "city": "Harlan"
+  },
+  "Harlan County": {
+    "lat": 36.885191,
+    "lng": -83.276174,
+    "city": "Baxter"
+  },
+  "Harrison County": {
+    "lat": 38.381428,
+    "lng": -84.293859,
+    "city": "Cynthiana"
+  },
+  "Hart County": {
+    "lat": 37.2597,
+    "lng": -85.8817,
+    "city": "Munfordville"
+  },
+  "Hazard": {
+    "lat": 37.240566,
+    "lng": -83.187222,
+    "city": "Hazard"
+  },
+  "Henderson County": {
+    "lat": 37.828,
+    "lng": -87.5605,
+    "city": "Henderson"
+  },
+  "Henry Clay": {
+    "lat": 38.0162,
+    "lng": -84.4689,
+    "city": "Lexington"
+  },
+  "Henry County": {
+    "lat": 38.419229,
+    "lng": -85.169188,
+    "city": "New Castle"
+  },
+  "Highlands": {
+    "lat": 39.084436,
+    "lng": -84.450476,
+    "city": "Fort Thomas"
+  },
+  "Holy Cross": {
+    "lat": 38.22879,
+    "lng": -85.73863,
+    "city": "Louisville"
+  },
+  "Hopkins County Central": {
+    "lat": 37.24927,
+    "lng": -87.481555,
+    "city": "Madisonville"
+  },
+  "Iroquois": {
+    "lat": 38.1734,
+    "lng": -85.7815,
+    "city": "Louisville"
+  },
+  "Jackson County": {
+    "lat": 37.437661,
+    "lng": -83.985862,
+    "city": "McKee"
+  },
+  "Jeffersontown": {
+    "lat": 38.20126,
+    "lng": -85.581276,
+    "city": "Jeffersontown"
+  },
+  "John Hardin": {
+    "lat": 37.75573,
+    "lng": -85.904581,
+    "city": "Elizabethtown"
+  },
+  "Johnson Central": {
+    "lat": 37.821757,
+    "lng": -82.816853,
+    "city": "Paintsville"
+  },
+  "Kentucky Country Day": {
+    "lat": 38.22324,
+    "lng": -85.7443,
+    "city": "Louisville"
+  },
+  "Knott County Central": {
+    "lat": 37.3237,
+    "lng": -82.9692,
+    "city": "Hindman"
+  },
+  "Knox Central": {
+    "lat": 36.868565,
+    "lng": -83.832702,
+    "city": "Barbourville"
+  },
+  "Lafayette": {
+    "lat": 38.0257,
+    "lng": -84.5248,
+    "city": "Lexington"
+  },
+  "Larue County": {
+    "lat": 37.554379,
+    "lng": -85.733152,
+    "city": "Hodgenville"
+  },
+  "Lawrence County": {
+    "lat": 38.097495,
+    "lng": -82.605967,
+    "city": "Louisa"
+  },
+  "Leslie County": {
+    "lat": 37.14594,
+    "lng": -83.379514,
+    "city": "Hyden"
+  },
+  "Letcher County Central": {
+    "lat": 37.119403,
+    "lng": -82.789793,
+    "city": "Whitesburg"
+  },
+  "Lewis County": {
+    "lat": 38.6001,
+    "lng": -83.3448,
+    "city": "Vanceburg"
+  },
+  "Lexington Catholic": {
+    "lat": 38.04474,
+    "lng": -84.45391,
+    "city": "Lexington"
+  },
+  "Lexington Christian": {
+    "lat": 38.03728,
+    "lng": -84.46295,
+    "city": "Lexington"
+  },
+  "Lincoln County": {
+    "lat": 37.51249,
+    "lng": -84.655347,
+    "city": "Stanford"
+  },
+  "Lloyd Memorial": {
+    "lat": 39.020601,
+    "lng": -84.608425,
+    "city": "Erlanger"
+  },
+  "Logan County": {
+    "lat": 36.844686,
+    "lng": -86.84866,
+    "city": "Russellville"
+  },
+  "Ludlow": {
+    "lat": 39.091704,
+    "lng": -84.553494,
+    "city": "Ludlow"
+  },
+  "Lynn Camp": {
+    "lat": 36.946829,
+    "lng": -84.037347,
+    "city": "Corbin"
+  },
+  "Madison Central": {
+    "lat": 37.755788,
+    "lng": -84.290244,
+    "city": "Richmond"
+  },
+  "Madison Southern": {
+    "lat": 37.58746,
+    "lng": -84.287501,
+    "city": "Berea"
+  },
+  "Madisonville-North Hopkins": {
+    "lat": 37.380512,
+    "lng": -87.495073,
+    "city": "Madisonville"
+  },
+  "Magoffin County": {
+    "lat": 37.734669,
+    "lng": -83.031759,
+    "city": "Salyersville"
+  },
+  "Male": {
+    "lat": 38.184866,
+    "lng": -85.72116,
+    "city": "Louisville"
+  },
+  "Marion County": {
+    "lat": 37.578898,
+    "lng": -85.225813,
+    "city": "Lebanon"
+  },
+  "Marshall County": {
+    "lat": 36.9128,
+    "lng": -88.3329,
+    "city": "Benton"
+  },
+  "Martin County": {
+    "lat": 37.864389,
+    "lng": -82.509614,
+    "city": "Inez"
+  },
+  "Mason County": {
+    "lat": 38.635153,
+    "lng": -83.789136,
+    "city": "Maysville"
+  },
+  "Mayfield": {
+    "lat": 36.7302,
+    "lng": -88.6278,
+    "city": "Mayfield"
+  },
+  "McCracken County": {
+    "lat": 37.067373,
+    "lng": -88.734925,
+    "city": "Paducah"
+  },
+  "McCreary Central": {
+    "lat": 36.709141,
+    "lng": -84.465043,
+    "city": "Stearns"
+  },
+  "McLean County": {
+    "lat": 37.5483,
+    "lng": -87.2328,
+    "city": "Calhoun"
+  },
+  "Meade County": {
+    "lat": 37.994087,
+    "lng": -86.172916,
+    "city": "Brandenburg"
+  },
+  "Mercer County": {
+    "lat": 37.784143,
+    "lng": -84.862153,
+    "city": "Harrodsburg"
+  },
+  "Metcalfe County": {
+    "lat": 36.9822,
+    "lng": -85.6323,
+    "city": "Edmonton"
+  },
+  "Middlesboro": {
+    "lat": 36.6094,
+    "lng": -83.7493,
+    "city": "Middlesboro"
+  },
+  "Monroe County": {
+    "lat": 36.693146,
+    "lng": -85.702955,
+    "city": "Tompkinsville"
+  },
+  "Montgomery County": {
+    "lat": 38.0441,
+    "lng": -83.9403,
+    "city": "Mt. Sterling"
+  },
+  "Moore": {
+    "lat": 38.22245,
+    "lng": -85.7378,
+    "city": "Louisville"
+  },
+  "Morgan County": {
+    "lat": 37.893958,
+    "lng": -83.282241,
+    "city": "West Liberty"
+  },
+  "Muhlenberg County": {
+    "lat": 37.223233,
+    "lng": -87.186115,
+    "city": "Greenville"
+  },
+  "Murray": {
+    "lat": 36.601702,
+    "lng": -88.331949,
+    "city": "Murray"
+  },
+  "Nelson County": {
+    "lat": 37.8293,
+    "lng": -85.4243,
+    "city": "Bardstown"
+  },
   "Newport": {
-    "lat": 39.09092,
-    "lng": -84.48617,
+    "lat": 39.096,
+    "lng": -84.4838,
+    "city": "Newport"
+  },
+  "Newport Central Catholic": {
+    "lat": 39.09029,
+    "lng": -84.49142,
     "city": "Newport"
   },
   "Nicholas County": {
-    "lat": 38.31579,
-    "lng": -84.03337,
+    "lat": 38.317272,
+    "lng": -84.037844,
     "city": "Carlisle"
   },
-  "Campbellsville": {
-    "lat": 37.34644,
-    "lng": -85.35326,
-    "city": "Campbellsville"
+  "North Bullitt": {
+    "lat": 38.048687,
+    "lng": -85.672131,
+    "city": "Shepherdsville"
   },
-  "Dayton": {
-    "lat": 39.11231,
-    "lng": -84.46284,
-    "city": "Dayton"
+  "North Hardin": {
+    "lat": 37.823792,
+    "lng": -85.948458,
+    "city": "Radcliff"
   },
-  "Hazard": {
-    "lat": 37.26322,
-    "lng": -83.20354,
-    "city": "Hazard"
+  "North Laurel": {
+    "lat": 37.14813,
+    "lng": -84.076938,
+    "city": "London"
   },
-  "Ludlow": {
-    "lat": 39.08875,
-    "lng": -84.54848,
-    "city": "Ludlow"
+  "North Oldham": {
+    "lat": 38.395472,
+    "lng": -85.58487,
+    "city": "Goshen"
   },
-  "Harlan": {
-    "lat": 36.8396,
-    "lng": -83.32115,
-    "city": "Harlan"
+  "Oldham County": {
+    "lat": 38.387345,
+    "lng": -85.437087,
+    "city": "La Grange"
   },
-  "Ballard Memorial": {
-    "lat": 37.05079,
-    "lng": -89.04499,
-    "city": "Barlow"
+  "Owen County": {
+    "lat": 38.529643,
+    "lng": -84.808676,
+    "city": "Owenton"
+  },
+  "Owensboro": {
+    "lat": 37.7578,
+    "lng": -87.1125,
+    "city": "Owensboro"
+  },
+  "Owensboro Catholic": {
+    "lat": 37.75915,
+    "lng": -87.11528,
+    "city": "Owensboro"
+  },
+  "Paducah Tilghman": {
+    "lat": 37.0728,
+    "lng": -88.6235,
+    "city": "Paducah"
+  },
+  "Paintsville": {
+    "lat": 37.815545,
+    "lng": -82.804776,
+    "city": "Paintsville"
   },
   "Paris": {
-    "lat": 38.19931,
-    "lng": -84.27804,
+    "lat": 38.212686,
+    "lng": -84.255246,
     "city": "Paris"
   },
-  "Fairview": {
-    "lat": 38.46134,
-    "lng": -82.64624,
-    "city": "Ashland"
+  "Paul Laurence Dunbar": {
+    "lat": 38.0171,
+    "lng": -84.5769,
+    "city": "Lexington"
   },
-  "Fulton County": {
-    "lat": 36.56664,
-    "lng": -89.18403,
-    "city": "Hickman"
+  "Pendleton County": {
+    "lat": 38.6884,
+    "lng": -84.3598,
+    "city": "Falmouth"
+  },
+  "Perry County Central": {
+    "lat": 37.284629,
+    "lng": -83.210495,
+    "city": "Hazard"
+  },
+  "Pike County Central": {
+    "lat": 37.514494,
+    "lng": -82.500354,
+    "city": "Pikeville"
+  },
+  "Pikeville": {
+    "lat": 37.4881,
+    "lng": -82.543,
+    "city": "Pikeville"
   },
   "Pineville": {
     "lat": 36.74867,
     "lng": -83.70438,
     "city": "Pineville"
   },
+  "Pleasure Ridge Park": {
+    "lat": 38.145873,
+    "lng": -85.86349,
+    "city": "Louisville"
+  },
+  "Powell County": {
+    "lat": 37.8474,
+    "lng": -83.8731,
+    "city": "Stanton"
+  },
+  "Prestonsburg": {
+    "lat": 37.677142,
+    "lng": -82.78014,
+    "city": "Prestonsburg"
+  },
+  "Pulaski County": {
+    "lat": 37.106709,
+    "lng": -84.603414,
+    "city": "Somerset"
+  },
+  "Raceland": {
+    "lat": 38.5428,
+    "lng": -82.7373,
+    "city": "Raceland"
+  },
+  "Rockcastle County": {
+    "lat": 37.361491,
+    "lng": -84.364506,
+    "city": "Mt. Vernon"
+  },
+  "Rowan County": {
+    "lat": 38.204371,
+    "lng": -83.4795,
+    "city": "Morehead"
+  },
+  "Russell": {
+    "lat": 38.5118,
+    "lng": -82.7056,
+    "city": "Russell"
+  },
+  "Russell County": {
+    "lat": 37.0355,
+    "lng": -85.0729,
+    "city": "Russell Springs"
+  },
   "Russellville": {
-    "lat": 36.8365,
-    "lng": -86.89198,
+    "lat": 36.830792,
+    "lng": -86.903628,
     "city": "Russellville"
-  },
-  "Bellevue": {
-    "lat": 39.10125,
-    "lng": -84.47749,
-    "city": "Bellevue"
-  },
-  "Frankfort": {
-    "lat": 38.19693,
-    "lng": -84.86626,
-    "city": "Frankfort"
-  },
-  "Trimble County": {
-    "lat": 38.59423,
-    "lng": -85.31744,
-    "city": "Bedford"
-  },
-  "Lynn Camp": {
-    "lat": 36.92771,
-    "lng": -84.09846,
-    "city": "Corbin"
-  },
-  "Berea": {
-    "lat": 37.58796,
-    "lng": -84.29037,
-    "city": "Berea"
-  },
-  "Caverna": {
-    "lat": 37.16989,
-    "lng": -85.91719,
-    "city": "Horse Cave"
-  },
-  "Trinity": {
-    "lat": 38.22553,
-    "lng": -85.73801,
-    "city": "Louisville"
-  },
-  "Frederick Douglass": {
-    "lat": 38.03838,
-    "lng": -84.45774,
-    "city": "Lexington"
-  },
-  "DuPont Manual": {
-    "lat": 38.22764,
-    "lng": -85.7379,
-    "city": "Louisville"
-  },
-  "Madison Central": {
-    "lat": 37.72915,
-    "lng": -84.29936,
-    "city": "Richmond"
-  },
-  "St. Xavier": {
-    "lat": 38.22147,
-    "lng": -85.73723,
-    "city": "Louisville"
-  },
-  "South Warren": {
-    "lat": 36.9774,
-    "lng": -86.43137,
-    "city": "Bowling Green"
-  },
-  "Bryan Station": {
-    "lat": 38.04288,
-    "lng": -84.45254,
-    "city": "Lexington"
-  },
-  "Male": {
-    "lat": 38.22654,
-    "lng": -85.73706,
-    "city": "Louisville"
-  },
-  "Ballard": {
-    "lat": 38.22234,
-    "lng": -85.74148,
-    "city": "Louisville"
-  },
-  "George Rogers Clark": {
-    "lat": 38.00236,
-    "lng": -84.19059,
-    "city": "Winchester"
-  },
-  "Bullitt East": {
-    "lat": 38.04262,
-    "lng": -85.55602,
-    "city": "Mt. Washington"
-  },
-  "North Hardin": {
-    "lat": 37.82006,
-    "lng": -85.93637,
-    "city": "Radcliff"
   },
   "Ryle": {
     "lat": 38.94619,
     "lng": -84.67889,
     "city": "Union"
   },
-  "McCracken County": {
-    "lat": 37.07216,
-    "lng": -88.64748,
-    "city": "Paducah"
-  },
-  "Oldham County": {
-    "lat": 38.38992,
-    "lng": -85.45256,
-    "city": "Buckner"
-  },
-  "Christian County": {
-    "lat": 36.83928,
-    "lng": -87.47354,
-    "city": "Hopkinsville"
-  },
-  "Simon Kenton": {
-    "lat": 38.95744,
-    "lng": -84.54737,
-    "city": "Independence"
-  },
-  "Eastern": {
-    "lat": 38.22223,
-    "lng": -85.73729,
-    "city": "Louisville"
-  },
-  "Lafayette": {
-    "lat": 38.03808,
-    "lng": -84.45907,
+  "Sayre": {
+    "lat": 38.0358,
+    "lng": -84.45827,
     "city": "Lexington"
   },
-  "Campbell County": {
-    "lat": 38.96599,
-    "lng": -84.38235,
-    "city": "Alexandria"
+  "Scott": {
+    "lat": 38.996451,
+    "lng": -84.507118,
+    "city": "Taylor Mill"
   },
-  "Henderson County": {
-    "lat": 37.83842,
-    "lng": -87.58097,
-    "city": "Henderson"
-  },
-  "Paul Laurence Dunbar": {
-    "lat": 38.04019,
-    "lng": -84.46222,
-    "city": "Lexington"
-  },
-  "Great Crossing": {
-    "lat": 38.25855,
-    "lng": -84.53875,
+  "Scott County": {
+    "lat": 38.2327,
+    "lng": -84.573,
     "city": "Georgetown"
   },
-  "Tates Creek": {
-    "lat": 38.03669,
-    "lng": -84.46139,
-    "city": "Lexington"
-  },
-  "Meade County": {
-    "lat": 37.99695,
-    "lng": -86.18033,
-    "city": "Brandenburg"
-  },
-  "Pleasure Ridge Park": {
-    "lat": 38.226,
-    "lng": -85.74281,
+  "Seneca": {
+    "lat": 38.207821,
+    "lng": -85.655153,
     "city": "Louisville"
   },
-  "Fern Creek": {
-    "lat": 38.22165,
-    "lng": -85.73955,
+  "Shawnee": {
+    "lat": 38.262092,
+    "lng": -85.815312,
     "city": "Louisville"
   },
-  "Henry Clay": {
-    "lat": 38.0361,
-    "lng": -84.45573,
-    "city": "Lexington"
+  "Shelby County": {
+    "lat": 38.210187,
+    "lng": -85.179315,
+    "city": "Shelbyville"
   },
-  "Daviess County": {
-    "lat": 37.75488,
-    "lng": -87.12231,
-    "city": "Owensboro"
+  "Shelby Valley": {
+    "lat": 37.38,
+    "lng": -82.5378,
+    "city": "Pikeville"
   },
-  "Central Hardin": {
-    "lat": 37.66174,
-    "lng": -85.94885,
-    "city": "Cecilia"
+  "Simon Kenton": {
+    "lat": 38.924298,
+    "lng": -84.545016,
+    "city": "Independence"
+  },
+  "Somerset": {
+    "lat": 37.095325,
+    "lng": -84.601367,
+    "city": "Somerset"
+  },
+  "South Laurel": {
+    "lat": 37.103493,
+    "lng": -84.07234,
+    "city": "London"
+  },
+  "South Oldham": {
+    "lat": 38.331989,
+    "lng": -85.469161,
+    "city": "Crestwood"
+  },
+  "South Warren": {
+    "lat": 36.894872,
+    "lng": -86.518404,
+    "city": "Bowling Green"
   },
   "Southern": {
-    "lat": 38.22439,
-    "lng": -85.74548,
+    "lat": 38.126608,
+    "lng": -85.681304,
     "city": "Louisville"
+  },
+  "Southwestern": {
+    "lat": 37.060836,
+    "lng": -84.655416,
+    "city": "Somerset"
+  },
+  "Spencer County": {
+    "lat": 38.039199,
+    "lng": -85.338598,
+    "city": "Taylorsville"
+  },
+  "St. Xavier": {
+    "lat": 38.22147,
+    "lng": -85.73723,
+    "city": "Louisville"
+  },
+  "Tates Creek": {
+    "lat": 37.984732,
+    "lng": -84.479124,
+    "city": "Lexington"
+  },
+  "Taylor County": {
+    "lat": 37.357732,
+    "lng": -85.381597,
+    "city": "Campbellsville"
+  },
+  "Todd County Central": {
+    "lat": 36.7977,
+    "lng": -87.1614,
+    "city": "Elkton"
+  },
+  "Trigg County": {
+    "lat": 36.867718,
+    "lng": -87.826478,
+    "city": "Cadiz"
+  },
+  "Trimble County": {
+    "lat": 38.608209,
+    "lng": -85.322978,
+    "city": "Bedford"
+  },
+  "Trinity": {
+    "lat": 38.252477,
+    "lng": -85.652506,
+    "city": "Louisville"
+  },
+  "Union County": {
+    "lat": 37.629768,
+    "lng": -87.944509,
+    "city": "Morganfield"
+  },
+  "Valley": {
+    "lat": 38.1074,
+    "lng": -85.868,
+    "city": "Louisville"
+  },
+  "W.E.B. DuBois Academy": {
+    "lat": 38.22261,
+    "lng": -85.7446,
+    "city": "Louisville"
+  },
+  "Waggener": {
+    "lat": 38.244676,
+    "lng": -85.637134,
+    "city": "Louisville"
+  },
+  "Walton-Verona": {
+    "lat": 38.863,
+    "lng": -84.619,
+    "city": "Walton"
+  },
+  "Warren Central": {
+    "lat": 36.98337,
+    "lng": -86.470607,
+    "city": "Bowling Green"
+  },
+  "Warren East": {
+    "lat": 37.03698,
+    "lng": -86.340363,
+    "city": "Bowling Green"
+  },
+  "Washington County": {
+    "lat": 37.708309,
+    "lng": -85.213685,
+    "city": "Springfield"
+  },
+  "Wayne County": {
+    "lat": 36.8307,
+    "lng": -84.8665,
+    "city": "Monticello"
+  },
+  "Webster County": {
+    "lat": 37.4982,
+    "lng": -87.7129,
+    "city": "Dixon"
+  },
+  "West Carter": {
+    "lat": 38.3113,
+    "lng": -83.1511,
+    "city": "Olive Hill"
+  },
+  "West Jessamine": {
+    "lat": 37.8873,
+    "lng": -84.6159,
+    "city": "Nicholasville"
+  },
+  "Western": {
+    "lat": 38.177954,
+    "lng": -85.844449,
+    "city": "Louisville"
+  },
+  "Western Hills": {
+    "lat": 38.1625,
+    "lng": -84.908,
+    "city": "Frankfort"
+  },
+  "Whitley County": {
+    "lat": 36.778522,
+    "lng": -84.153097,
+    "city": "Williamsburg"
+  },
+  "Williamsburg": {
+    "lat": 36.73656,
+    "lng": -84.16603,
+    "city": "Williamsburg"
+  },
+  "Woodford County": {
+    "lat": 38.0623,
+    "lng": -84.7321,
+    "city": "Versailles"
   }
 }
