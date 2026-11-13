@@ -33139,6 +33139,123 @@
       }
     ]
   },
+  "Sangamon Valley/Tri-City": {
+    "team": "Sangamon Valley/Tri-City",
+    "state": "IL",
+    "division": "2A",
+    "conference": "IHSA 2A",
+    "city": "Niantic",
+    "record": "3-7",
+    "wins": 3,
+    "losses": 7,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 43.0,
+    "ppg_scored": 14.5,
+    "ppg_allowed": 29.2,
+    "schedule_2026": [
+      {
+        "date": "2026-08-21",
+        "date_iso": "2026-08-21",
+        "opponent": "Tri-County [Kansas/Shiloh/Oakland]",
+        "result": "W",
+        "team_score": 13,
+        "opp_score": 8,
+        "is_playoff": false,
+        "round": "2026 Week 1"
+      },
+      {
+        "date": "2026-08-28",
+        "date_iso": "2026-08-28",
+        "opponent": "Arthur-Lovington/Atwood-Hammond",
+        "result": "L",
+        "team_score": 13,
+        "opp_score": 42,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Fisher",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 48,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "Sullivan",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 41,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "Arcola",
+        "result": "W",
+        "team_score": 19,
+        "opp_score": 12,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "Nokomis",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 20,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Cumberland",
+        "result": "L",
+        "team_score": 19,
+        "opp_score": 41,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Villa Grove/Heritage",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 35,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "Argenta-Oreana",
+        "result": "W",
+        "team_score": 38,
+        "opp_score": 7,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "Hamilton County",
+        "result": "L",
+        "team_score": 8,
+        "opp_score": 38,
+        "is_playoff": true,
+        "round": "2026 IHSA First Round"
+      }
+    ]
+  },
   "Dupo": {
     "team": "Dupo",
     "state": "IL",
@@ -33263,123 +33380,6 @@
         "opp_score": 34,
         "is_playoff": false,
         "round": "2026 Week 10"
-      }
-    ]
-  },
-  "Sangamon Valley/Tri-City": {
-    "team": "Sangamon Valley/Tri-City",
-    "state": "IL",
-    "division": "2A",
-    "conference": "IHSA 2A",
-    "city": "Niantic",
-    "record": "3-7",
-    "wins": 3,
-    "losses": 7,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 43.0,
-    "ppg_scored": 14.5,
-    "ppg_allowed": 29.2,
-    "schedule_2026": [
-      {
-        "date": "2026-08-21",
-        "date_iso": "2026-08-21",
-        "opponent": "Tri-County [Kansas/Shiloh/Oakland]",
-        "result": "W",
-        "team_score": 13,
-        "opp_score": 8,
-        "is_playoff": false,
-        "round": "2026 Week 1"
-      },
-      {
-        "date": "2026-08-28",
-        "date_iso": "2026-08-28",
-        "opponent": "Arthur-Lovington/Atwood-Hammond",
-        "result": "L",
-        "team_score": 13,
-        "opp_score": 42,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Fisher",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 48,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "Sullivan",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 41,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "Arcola",
-        "result": "W",
-        "team_score": 19,
-        "opp_score": 12,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "Nokomis",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 20,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Cumberland",
-        "result": "L",
-        "team_score": 19,
-        "opp_score": 41,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Villa Grove/Heritage",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 35,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "Argenta-Oreana",
-        "result": "W",
-        "team_score": 38,
-        "opp_score": 7,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "Hamilton County",
-        "result": "L",
-        "team_score": 8,
-        "opp_score": 38,
-        "is_playoff": true,
-        "round": "2026 IHSA First Round"
       }
     ]
   },
@@ -34035,108 +34035,108 @@
       }
     ]
   },
-  "Niles West": {
-    "team": "Niles West",
+  "New Berlin/Franklin/Waverly": {
+    "team": "New Berlin/Franklin/Waverly",
     "state": "IL",
-    "division": "8A",
-    "conference": "IHSA 8A",
-    "city": "Skokie",
+    "division": "3A",
+    "conference": "IHSA 3A",
+    "city": "New Berlin",
     "record": "0-9",
     "wins": 0,
     "losses": 9,
     "power_index": 15.0,
     "raw_rating": -35.0,
-    "sos_index": 50.1,
-    "ppg_scored": 7.3,
-    "ppg_allowed": 36.7,
+    "sos_index": 49.1,
+    "ppg_scored": 3.9,
+    "ppg_allowed": 48.2,
     "schedule_2026": [
       {
         "date": "2026-08-21",
         "date_iso": "2026-08-21",
-        "opponent": "Taft",
+        "opponent": "Maroa-Forsyth",
         "result": "L",
-        "team_score": 7,
-        "opp_score": 28,
+        "team_score": 0,
+        "opp_score": 59,
         "is_playoff": false,
         "round": "2026 Week 1"
       },
       {
         "date": "2026-08-28",
         "date_iso": "2026-08-28",
-        "opponent": "Niles North",
+        "opponent": "Pleasant Plains",
         "result": "L",
-        "team_score": 19,
-        "opp_score": 41,
+        "team_score": 7,
+        "opp_score": 40,
         "is_playoff": false,
         "round": "2026 Week 2"
       },
       {
         "date": "2026-09-04",
         "date_iso": "2026-09-04",
-        "opponent": "Deerfield",
+        "opponent": "Auburn",
         "result": "L",
-        "team_score": 7,
-        "opp_score": 41,
+        "team_score": 0,
+        "opp_score": 63,
         "is_playoff": false,
         "round": "2026 Week 3"
       },
       {
-        "date": "2026-09-10",
-        "date_iso": "2026-09-10",
-        "opponent": "Vernon Hills",
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "PORTA/Ashland-Chandlerville Central/Greenview",
         "result": "L",
-        "team_score": 7,
-        "opp_score": 12,
+        "team_score": 6,
+        "opp_score": 28,
         "is_playoff": false,
-        "round": "2026 Week 3"
+        "round": "2026 Week 4"
       },
       {
         "date": "2026-09-18",
         "date_iso": "2026-09-18",
-        "opponent": "New Trier",
+        "opponent": "Riverton",
         "result": "L",
         "team_score": 0,
-        "opp_score": 56,
+        "opp_score": 46,
         "is_playoff": false,
         "round": "2026 Week 5"
       },
       {
         "date": "2026-09-25",
         "date_iso": "2026-09-25",
-        "opponent": "Maine South",
+        "opponent": "Pittsfield",
         "result": "L",
-        "team_score": 0,
-        "opp_score": 56,
+        "team_score": 14,
+        "opp_score": 25,
         "is_playoff": false,
         "round": "2026 Week 6"
       },
       {
         "date": "2026-10-02",
         "date_iso": "2026-10-02",
-        "opponent": "Glenbrook North",
+        "opponent": "Olympia",
         "result": "L",
-        "team_score": 14,
-        "opp_score": 41,
+        "team_score": 0,
+        "opp_score": 56,
         "is_playoff": false,
         "round": "2026 Week 7"
       },
       {
         "date": "2026-10-09",
         "date_iso": "2026-10-09",
-        "opponent": "Maine West",
+        "opponent": "Williamsville",
         "result": "L",
         "team_score": 0,
-        "opp_score": 20,
+        "opp_score": 55,
         "is_playoff": false,
         "round": "2026 Week 8"
       },
       {
         "date": "2026-10-16",
         "date_iso": "2026-10-16",
-        "opponent": "Highland Park",
+        "opponent": "Athens",
         "result": "L",
-        "team_score": 12,
-        "opp_score": 35,
+        "team_score": 8,
+        "opp_score": 62,
         "is_playoff": false,
         "round": "2026 Week 9"
       }
@@ -34249,108 +34249,108 @@
       }
     ]
   },
-  "New Berlin/Franklin/Waverly": {
-    "team": "New Berlin/Franklin/Waverly",
+  "Niles West": {
+    "team": "Niles West",
     "state": "IL",
-    "division": "3A",
-    "conference": "IHSA 3A",
-    "city": "New Berlin",
+    "division": "8A",
+    "conference": "IHSA 8A",
+    "city": "Skokie",
     "record": "0-9",
     "wins": 0,
     "losses": 9,
     "power_index": 15.0,
     "raw_rating": -35.0,
-    "sos_index": 49.1,
-    "ppg_scored": 3.9,
-    "ppg_allowed": 48.2,
+    "sos_index": 50.1,
+    "ppg_scored": 7.3,
+    "ppg_allowed": 36.7,
     "schedule_2026": [
       {
         "date": "2026-08-21",
         "date_iso": "2026-08-21",
-        "opponent": "Maroa-Forsyth",
+        "opponent": "Taft",
         "result": "L",
-        "team_score": 0,
-        "opp_score": 59,
+        "team_score": 7,
+        "opp_score": 28,
         "is_playoff": false,
         "round": "2026 Week 1"
       },
       {
         "date": "2026-08-28",
         "date_iso": "2026-08-28",
-        "opponent": "Pleasant Plains",
+        "opponent": "Niles North",
         "result": "L",
-        "team_score": 7,
-        "opp_score": 40,
+        "team_score": 19,
+        "opp_score": 41,
         "is_playoff": false,
         "round": "2026 Week 2"
       },
       {
         "date": "2026-09-04",
         "date_iso": "2026-09-04",
-        "opponent": "Auburn",
+        "opponent": "Deerfield",
         "result": "L",
-        "team_score": 0,
-        "opp_score": 63,
+        "team_score": 7,
+        "opp_score": 41,
         "is_playoff": false,
         "round": "2026 Week 3"
       },
       {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "PORTA/Ashland-Chandlerville Central/Greenview",
+        "date": "2026-09-10",
+        "date_iso": "2026-09-10",
+        "opponent": "Vernon Hills",
         "result": "L",
-        "team_score": 6,
-        "opp_score": 28,
+        "team_score": 7,
+        "opp_score": 12,
         "is_playoff": false,
-        "round": "2026 Week 4"
+        "round": "2026 Week 3"
       },
       {
         "date": "2026-09-18",
         "date_iso": "2026-09-18",
-        "opponent": "Riverton",
+        "opponent": "New Trier",
         "result": "L",
         "team_score": 0,
-        "opp_score": 46,
+        "opp_score": 56,
         "is_playoff": false,
         "round": "2026 Week 5"
       },
       {
         "date": "2026-09-25",
         "date_iso": "2026-09-25",
-        "opponent": "Pittsfield",
+        "opponent": "Maine South",
         "result": "L",
-        "team_score": 14,
-        "opp_score": 25,
+        "team_score": 0,
+        "opp_score": 56,
         "is_playoff": false,
         "round": "2026 Week 6"
       },
       {
         "date": "2026-10-02",
         "date_iso": "2026-10-02",
-        "opponent": "Olympia",
+        "opponent": "Glenbrook North",
         "result": "L",
-        "team_score": 0,
-        "opp_score": 56,
+        "team_score": 14,
+        "opp_score": 41,
         "is_playoff": false,
         "round": "2026 Week 7"
       },
       {
         "date": "2026-10-09",
         "date_iso": "2026-10-09",
-        "opponent": "Williamsville",
+        "opponent": "Maine West",
         "result": "L",
         "team_score": 0,
-        "opp_score": 55,
+        "opp_score": 20,
         "is_playoff": false,
         "round": "2026 Week 8"
       },
       {
         "date": "2026-10-16",
         "date_iso": "2026-10-16",
-        "opponent": "Athens",
+        "opponent": "Highland Park",
         "result": "L",
-        "team_score": 8,
-        "opp_score": 62,
+        "team_score": 12,
+        "opp_score": 35,
         "is_playoff": false,
         "round": "2026 Week 9"
       }

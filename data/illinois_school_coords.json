@@ -1,324 +1,4 @@
 {
-  "Lincoln-Way East": {
-    "lat": 41.50702,
-    "lng": -87.87097,
-    "city": "Frankfort"
-  },
-  "Chicago Mt. Carmel": {
-    "lat": 41.83483,
-    "lng": -87.68256,
-    "city": "Chicago"
-  },
-  "Loyola Academy": {
-    "lat": 42.07732,
-    "lng": -87.72862,
-    "city": "Wilmette"
-  },
-  "Marist": {
-    "lat": 41.83502,
-    "lng": -87.67991,
-    "city": "Chicago"
-  },
-  "Sandburg": {
-    "lat": 41.60815,
-    "lng": -87.85929,
-    "city": "Orland Park"
-  },
-  "Oswego": {
-    "lat": 41.68322,
-    "lng": -88.33885,
-    "city": "Oswego"
-  },
-  "Lyons": {
-    "lat": 41.80721,
-    "lng": -87.87415,
-    "city": "LaGrange"
-  },
-  "Barrington": {
-    "lat": 42.15154,
-    "lng": -88.12853,
-    "city": "Barrington"
-  },
-  "Naperville North": {
-    "lat": 41.75441,
-    "lng": -88.16193,
-    "city": "Naperville"
-  },
-  "York": {
-    "lat": 41.89701,
-    "lng": -87.94366,
-    "city": "Elmhurst"
-  },
-  "Huntley": {
-    "lat": 42.1608,
-    "lng": -88.43546,
-    "city": "Huntley"
-  },
-  "Maine South": {
-    "lat": 42.01176,
-    "lng": -87.84343,
-    "city": "Park Ridge"
-  },
-  "New Trier": {
-    "lat": 42.10621,
-    "lng": -87.74276,
-    "city": "Winnetka"
-  },
-  "Naperville Central": {
-    "lat": 41.74893,
-    "lng": -88.16545,
-    "city": "Naperville"
-  },
-  "Fremd": {
-    "lat": 42.11494,
-    "lng": -88.04148,
-    "city": "Palatine"
-  },
-  "Glenbrook South": {
-    "lat": 42.08516,
-    "lng": -87.82739,
-    "city": "Glenview"
-  },
-  "Edwardsville": {
-    "lat": 38.79084,
-    "lng": -89.98861,
-    "city": "Edwardsville"
-  },
-  "Minooka": {
-    "lat": 41.44761,
-    "lng": -88.28415,
-    "city": "Minooka"
-  },
-  "Belleville East": {
-    "lat": 38.52024,
-    "lng": -89.99312,
-    "city": "Belleville"
-  },
-  "Warren Township": {
-    "lat": 42.37009,
-    "lng": -87.93681,
-    "city": "Gurnee"
-  },
-  "Downers Grove South": {
-    "lat": 41.8,
-    "lng": -88.02009,
-    "city": "Downers Grove"
-  },
-  "Palatine": {
-    "lat": 42.11437,
-    "lng": -88.04329,
-    "city": "Palatine"
-  },
-  "Plainfield South": {
-    "lat": 41.6303,
-    "lng": -88.24528,
-    "city": "Plainfield"
-  },
-  "West Aurora": {
-    "lat": 41.76604,
-    "lng": -88.29424,
-    "city": "Aurora"
-  },
-  "South Elgin": {
-    "lat": 41.99025,
-    "lng": -88.31428,
-    "city": "South Elgin"
-  },
-  "Waubonsie Valley": {
-    "lat": 41.76261,
-    "lng": -88.29287,
-    "city": "Aurora"
-  },
-  "Glenbard East": {
-    "lat": 41.87228,
-    "lng": -88.01068,
-    "city": "Lombard"
-  },
-  "Stevenson": {
-    "lat": 42.19652,
-    "lng": -87.91774,
-    "city": "Lincolnshire"
-  },
-  "Andrew": {
-    "lat": 41.57095,
-    "lng": -87.8093,
-    "city": "Tinley Park"
-  },
-  "Joliet West": {
-    "lat": 41.51974,
-    "lng": -88.15359,
-    "city": "Joliet"
-  },
-  "Schaumburg": {
-    "lat": 42.0289,
-    "lng": -88.08377,
-    "city": "Schaumburg"
-  },
-  "Taft": {
-    "lat": 41.83674,
-    "lng": -87.68746,
-    "city": "Chicago"
-  },
-  "Curie": {
-    "lat": 41.83327,
-    "lng": -87.68978,
-    "city": "Chicago"
-  },
-  "Niles West": {
-    "lat": 42.03597,
-    "lng": -87.73999,
-    "city": "Skokie"
-  },
-  "Nazareth Academy": {
-    "lat": 41.83078,
-    "lng": -87.87227,
-    "city": "LaGrange Park"
-  },
-  "St. Francis": {
-    "lat": 41.85982,
-    "lng": -88.11102,
-    "city": "Wheaton"
-  },
-  "Joliet Catholic": {
-    "lat": 41.51976,
-    "lng": -88.14776,
-    "city": "Joliet"
-  },
-  "Sacred Heart-Griffin": {
-    "lat": 39.79181,
-    "lng": -89.64177,
-    "city": "Springfield"
-  },
-  "Mahomet-Seymour": {
-    "lat": 40.19013,
-    "lng": -88.38952,
-    "city": "Mahomet"
-  },
-  "Morgan Park": {
-    "lat": 41.84275,
-    "lng": -87.6832,
-    "city": "Chicago"
-  },
-  "Metamora": {
-    "lat": 40.79496,
-    "lng": -89.3684,
-    "city": "Metamora"
-  },
-  "Rochelle": {
-    "lat": 41.91915,
-    "lng": -89.06366,
-    "city": "Rochelle"
-  },
-  "Triad": {
-    "lat": 38.72622,
-    "lng": -89.89347,
-    "city": "Troy"
-  },
-  "Jacksonville": {
-    "lat": 39.72478,
-    "lng": -90.23337,
-    "city": "Jacksonville"
-  },
-  "Sterling": {
-    "lat": 41.79811,
-    "lng": -89.69716,
-    "city": "Sterling"
-  },
-  "Benet Academy": {
-    "lat": 41.79211,
-    "lng": -88.0877,
-    "city": "Lisle"
-  },
-  "Highland": {
-    "lat": 38.76982,
-    "lng": -89.68611,
-    "city": "Highland"
-  },
-  "Sycamore": {
-    "lat": 41.99673,
-    "lng": -88.67764,
-    "city": "Sycamore"
-  },
-  "Goode STEM Academy": {
-    "lat": 41.83426,
-    "lng": -87.68326,
-    "city": "Chicago"
-  },
-  "Westinghouse": {
-    "lat": 41.83621,
-    "lng": -87.68809,
-    "city": "Chicago"
-  },
-  "Marmion": {
-    "lat": 41.75997,
-    "lng": -88.28783,
-    "city": "Aurora"
-  },
-  "Hillcrest": {
-    "lat": 41.56345,
-    "lng": -87.72541,
-    "city": "Country Club Hills"
-  },
-  "Thornton Fractional North": {
-    "lat": 41.59649,
-    "lng": -87.53857,
-    "city": "Calumet City"
-  },
-  "Bulls College Prep": {
-    "lat": 41.83492,
-    "lng": -87.68015,
-    "city": "Chicago"
-  },
-  "Marion": {
-    "lat": 37.73445,
-    "lng": -88.94116,
-    "city": "Marion"
-  },
-  "Mascoutah": {
-    "lat": 38.51812,
-    "lng": -89.80004,
-    "city": "Mascoutah"
-  },
-  "Corliss/Butler College Prep": {
-    "lat": 41.84165,
-    "lng": -87.68592,
-    "city": "Chicago"
-  },
-  "Prairie Ridge": {
-    "lat": 42.23321,
-    "lng": -88.33436,
-    "city": "Crystal Lake"
-  },
-  "Payton College Prep": {
-    "lat": 41.83281,
-    "lng": -87.68218,
-    "city": "Chicago"
-  },
-  "Woodstock North": {
-    "lat": 42.30954,
-    "lng": -88.43534,
-    "city": "Woodstock"
-  },
-  "Peoria": {
-    "lat": 40.74944,
-    "lng": -89.61635,
-    "city": "Peoria"
-  },
-  "Freeport": {
-    "lat": 42.28901,
-    "lng": -89.63426,
-    "city": "Freeport"
-  },
-  "Tinley Park": {
-    "lat": 41.57267,
-    "lng": -87.80778,
-    "city": "Tinley Park"
-  },
-  "Prosser": {
-    "lat": 41.8323,
-    "lng": -87.68715,
-    "city": "Chicago"
-  },
   "Geneva": {
     "lat": 41.88211,
     "lng": -88.32946,
@@ -489,180 +169,155 @@
     "lng": -87.68319,
     "city": "Chicago"
   },
-  "Stockton": {
-    "lat": 42.35252,
-    "lng": -90.00202,
-    "city": "Stockton"
+  "Nazareth Academy": {
+    "lat": 41.83078,
+    "lng": -87.87227,
+    "city": "LaGrange Park"
   },
-  "Heyworth": {
-    "lat": 40.31436,
-    "lng": -88.99228,
-    "city": "Heyworth"
+  "St. Francis": {
+    "lat": 41.85982,
+    "lng": -88.11102,
+    "city": "Wheaton"
   },
-  "Brown County": {
-    "lat": 39.98589,
-    "lng": -90.76464,
-    "city": "Mt. Sterling"
+  "Joliet Catholic": {
+    "lat": 41.51976,
+    "lng": -88.14776,
+    "city": "Joliet"
   },
-  "Calhoun/Brussels": {
-    "lat": 39.15897,
-    "lng": -90.62314,
-    "city": "Hardin"
+  "Sacred Heart-Griffin": {
+    "lat": 39.79181,
+    "lng": -89.64177,
+    "city": "Springfield"
   },
-  "Camp Point Central": {
-    "lat": 40.03641,
-    "lng": -91.06413,
-    "city": "Camp Point"
+  "Mahomet-Seymour": {
+    "lat": 40.19013,
+    "lng": -88.38952,
+    "city": "Mahomet"
   },
-  "Aurora Christian": {
-    "lat": 41.76772,
-    "lng": -88.28568,
-    "city": "Aurora"
-  },
-  "Lena-Winslow": {
-    "lat": 42.37855,
-    "lng": -89.82171,
-    "city": "Lena"
-  },
-  "Clifton Central": {
-    "lat": 40.93473,
-    "lng": -87.93433,
-    "city": "Clifton"
-  },
-  "Tuscola": {
-    "lat": 39.79591,
-    "lng": -88.27548,
-    "city": "Tuscola"
-  },
-  "Oakwood": {
-    "lat": 40.11436,
-    "lng": -87.87498,
-    "city": "Fithian"
-  },
-  "Chicago Hope Academy": {
-    "lat": 41.83972,
-    "lng": -87.68175,
+  "Morgan Park": {
+    "lat": 41.84275,
+    "lng": -87.6832,
     "city": "Chicago"
   },
-  "Galena": {
-    "lat": 42.42206,
-    "lng": -90.4278,
-    "city": "Galena"
+  "Metamora": {
+    "lat": 40.79496,
+    "lng": -89.3684,
+    "city": "Metamora"
   },
-  "Greenfield/Northwestern": {
-    "lat": 39.34449,
-    "lng": -90.20819,
-    "city": "Greenfield"
+  "Rochelle": {
+    "lat": 41.91915,
+    "lng": -89.06366,
+    "city": "Rochelle"
   },
-  "Marquette": {
-    "lat": 41.35405,
-    "lng": -88.82341,
-    "city": "Ottawa"
+  "Triad": {
+    "lat": 38.72622,
+    "lng": -89.89347,
+    "city": "Troy"
   },
-  "Althoff Catholic": {
-    "lat": 38.51883,
-    "lng": -89.99023,
-    "city": "Belleville"
-  },
-  "Newman Central Catholic": {
-    "lat": 41.80122,
-    "lng": -89.69722,
-    "city": "Sterling"
-  },
-  "Salt Fork": {
-    "lat": 39.90972,
-    "lng": -87.8236,
-    "city": "Sidell"
-  },
-  "Annawan-Wethersfield": {
-    "lat": 41.23734,
-    "lng": -89.92334,
-    "city": "Kewanee"
-  },
-  "West Central co-op [Winchester-Bluffs]": {
-    "lat": 39.62978,
-    "lng": -90.45596,
-    "city": "Winchester"
-  },
-  "Central A & M": {
-    "lat": 39.62579,
-    "lng": -89.02142,
-    "city": "Moweaqua"
-  },
-  "LeRoy": {
-    "lat": 40.33937,
-    "lng": -88.7611,
-    "city": "Leroy"
-  },
-  "Stark County": {
-    "lat": 41.09337,
-    "lng": -89.86318,
-    "city": "Toulon"
-  },
-  "Carrollton": {
-    "lat": 39.29449,
-    "lng": -90.40689,
-    "city": "Carrollton"
-  },
-  "Red Hill": {
-    "lat": 38.70995,
-    "lng": -87.75865,
-    "city": "Bridgeport"
-  },
-  "Cumberland": {
-    "lat": 39.27278,
-    "lng": -88.24219,
-    "city": "Toledo"
-  },
-  "Ridgeview/Lexington": {
-    "lat": 40.5666,
-    "lng": -88.61605,
-    "city": "Colfax"
-  },
-  "Casey-Westfield": {
-    "lat": 39.30542,
-    "lng": -87.98531,
-    "city": "Casey"
-  },
-  "Princeville": {
-    "lat": 40.93475,
-    "lng": -89.75471,
-    "city": "Princeville"
-  },
-  "Gibson City-Melvin-Sibley": {
-    "lat": 40.46683,
-    "lng": -88.3792,
-    "city": "Gibson City"
-  },
-  "Sesser-Valier/Waltonville": {
-    "lat": 38.09034,
-    "lng": -89.05081,
-    "city": "Sesser"
-  },
-  "Nokomis": {
-    "lat": 39.30029,
-    "lng": -89.28515,
-    "city": "Nokomis"
-  },
-  "Rushville-Industry": {
-    "lat": 40.11997,
-    "lng": -90.56655,
-    "city": "Rushville"
-  },
-  "Routt Catholic/Lutheran": {
-    "lat": 39.73212,
-    "lng": -90.23428,
+  "Jacksonville": {
+    "lat": 39.72478,
+    "lng": -90.23337,
     "city": "Jacksonville"
   },
-  "Dupo": {
-    "lat": 38.51612,
-    "lng": -90.2176,
-    "city": "Dupo"
+  "Sterling": {
+    "lat": 41.79811,
+    "lng": -89.69716,
+    "city": "Sterling"
   },
-  "Lutheran": {
-    "lat": 42.26135,
-    "lng": -89.06199,
-    "city": "Rockford"
+  "Benet Academy": {
+    "lat": 41.79211,
+    "lng": -88.0877,
+    "city": "Lisle"
+  },
+  "Highland": {
+    "lat": 38.76982,
+    "lng": -89.68611,
+    "city": "Highland"
+  },
+  "Sycamore": {
+    "lat": 41.99673,
+    "lng": -88.67764,
+    "city": "Sycamore"
+  },
+  "Goode STEM Academy": {
+    "lat": 41.83426,
+    "lng": -87.68326,
+    "city": "Chicago"
+  },
+  "Westinghouse": {
+    "lat": 41.83621,
+    "lng": -87.68809,
+    "city": "Chicago"
+  },
+  "Marmion": {
+    "lat": 41.75997,
+    "lng": -88.28783,
+    "city": "Aurora"
+  },
+  "Hillcrest": {
+    "lat": 41.56345,
+    "lng": -87.72541,
+    "city": "Country Club Hills"
+  },
+  "Thornton Fractional North": {
+    "lat": 41.59649,
+    "lng": -87.53857,
+    "city": "Calumet City"
+  },
+  "Bulls College Prep": {
+    "lat": 41.83492,
+    "lng": -87.68015,
+    "city": "Chicago"
+  },
+  "Marion": {
+    "lat": 37.73445,
+    "lng": -88.94116,
+    "city": "Marion"
+  },
+  "Mascoutah": {
+    "lat": 38.51812,
+    "lng": -89.80004,
+    "city": "Mascoutah"
+  },
+  "Corliss/Butler College Prep": {
+    "lat": 41.84165,
+    "lng": -87.68592,
+    "city": "Chicago"
+  },
+  "Prairie Ridge": {
+    "lat": 42.23321,
+    "lng": -88.33436,
+    "city": "Crystal Lake"
+  },
+  "Payton College Prep": {
+    "lat": 41.83281,
+    "lng": -87.68218,
+    "city": "Chicago"
+  },
+  "Woodstock North": {
+    "lat": 42.30954,
+    "lng": -88.43534,
+    "city": "Woodstock"
+  },
+  "Peoria": {
+    "lat": 40.74944,
+    "lng": -89.61635,
+    "city": "Peoria"
+  },
+  "Freeport": {
+    "lat": 42.28901,
+    "lng": -89.63426,
+    "city": "Freeport"
+  },
+  "Tinley Park": {
+    "lat": 41.57267,
+    "lng": -87.80778,
+    "city": "Tinley Park"
+  },
+  "Prosser": {
+    "lat": 41.8323,
+    "lng": -87.68715,
+    "city": "Chicago"
   },
   "El Paso-Gridley": {
     "lat": 40.74049,
@@ -823,151 +478,6 @@
     "lat": 39.85407,
     "lng": -89.16526,
     "city": "Niantic"
-  },
-  "Byron": {
-    "lat": 42.12183,
-    "lng": -89.26681,
-    "city": "Byron"
-  },
-  "St. Joseph-Ogden": {
-    "lat": 40.11471,
-    "lng": -88.03562,
-    "city": "St. Joseph"
-  },
-  "Tolono Unity": {
-    "lat": 39.99125,
-    "lng": -88.26248,
-    "city": "Tolono"
-  },
-  "Monticello": {
-    "lat": 40.03354,
-    "lng": -88.57411,
-    "city": "Monticello"
-  },
-  "Frankfort": {
-    "lat": 37.8995,
-    "lng": -88.93081,
-    "city": "West Frankfort"
-  },
-  "Nashville": {
-    "lat": 38.35362,
-    "lng": -89.37799,
-    "city": "Nashville"
-  },
-  "Williamsville": {
-    "lat": 39.95611,
-    "lng": -89.54363,
-    "city": "Williamsville"
-  },
-  "Mt. Carmel": {
-    "lat": 38.41905,
-    "lng": -87.76979,
-    "city": "Mt Carmel"
-  },
-  "Peotone": {
-    "lat": 41.33073,
-    "lng": -87.79635,
-    "city": "Peotone"
-  },
-  "Durand/Pecatonica": {
-    "lat": 42.4338,
-    "lng": -89.32678,
-    "city": "Durand"
-  },
-  "Benton": {
-    "lat": 38.01319,
-    "lng": -88.91728,
-    "city": "Benton"
-  },
-  "King": {
-    "lat": 41.83931,
-    "lng": -87.68234,
-    "city": "Chicago"
-  },
-  "Olympia": {
-    "lat": 40.43218,
-    "lng": -89.22076,
-    "city": "Stanford"
-  },
-  "Prairie Central": {
-    "lat": 40.74618,
-    "lng": -88.51556,
-    "city": "Fairbury"
-  },
-  "DuQuoin": {
-    "lat": 38.00172,
-    "lng": -89.23284,
-    "city": "Duquoin"
-  },
-  "Roxana": {
-    "lat": 38.82159,
-    "lng": -90.04585,
-    "city": "Roxana"
-  },
-  "Fairfield": {
-    "lat": 38.38063,
-    "lng": -88.37252,
-    "city": "Fairfield"
-  },
-  "PORTA/Ashland-Chandlerville Central/Greenview": {
-    "lat": 40.01429,
-    "lng": -89.84533,
-    "city": "Petersburg"
-  },
-  "Eureka": {
-    "lat": 40.71404,
-    "lng": -89.27702,
-    "city": "Eureka"
-  },
-  "Princeton": {
-    "lat": 41.38056,
-    "lng": -89.4641,
-    "city": "Princeton"
-  },
-  "Genoa-Kingston": {
-    "lat": 42.09103,
-    "lng": -88.69496,
-    "city": "Genoa"
-  },
-  "Stillman Valley": {
-    "lat": 42.10543,
-    "lng": -89.17899,
-    "city": "Stillman Valley"
-  },
-  "Greenville": {
-    "lat": 38.8866,
-    "lng": -89.38943,
-    "city": "Greenville"
-  },
-  "Oregon": {
-    "lat": 42.0127,
-    "lng": -89.33577,
-    "city": "Oregon"
-  },
-  "Carlinville": {
-    "lat": 39.27748,
-    "lng": -89.87613,
-    "city": "Carlinville"
-  },
-  "Monmouth-Roseville": {
-    "lat": 40.91423,
-    "lng": -90.64307,
-    "city": "Monmouth"
-  },
-  "Paxton-Buckley-Loda": {
-    "lat": 40.45629,
-    "lng": -88.1034,
-    "city": "Paxton"
-  },
-  "North Lawndale": {
-    "lat": 41.8369,
-    "lng": -87.68928,
-    "city": "Chicago"
-  },
-  "New Berlin/Franklin/Waverly": {
-    "lat": 39.72606,
-    "lng": -89.91435,
-    "city": "New Berlin"
   },
   "Morris": {
     "lat": 41.38023,
@@ -1148,6 +658,496 @@
     "lat": 41.8419,
     "lng": -87.68774,
     "city": "Chicago"
+  },
+  "Byron": {
+    "lat": 42.12183,
+    "lng": -89.26681,
+    "city": "Byron"
+  },
+  "St. Joseph-Ogden": {
+    "lat": 40.11471,
+    "lng": -88.03562,
+    "city": "St. Joseph"
+  },
+  "Tolono Unity": {
+    "lat": 39.99125,
+    "lng": -88.26248,
+    "city": "Tolono"
+  },
+  "Monticello": {
+    "lat": 40.03354,
+    "lng": -88.57411,
+    "city": "Monticello"
+  },
+  "Frankfort": {
+    "lat": 37.8995,
+    "lng": -88.93081,
+    "city": "West Frankfort"
+  },
+  "Nashville": {
+    "lat": 38.35362,
+    "lng": -89.37799,
+    "city": "Nashville"
+  },
+  "Williamsville": {
+    "lat": 39.95611,
+    "lng": -89.54363,
+    "city": "Williamsville"
+  },
+  "Mt. Carmel": {
+    "lat": 38.41905,
+    "lng": -87.76979,
+    "city": "Mt Carmel"
+  },
+  "Peotone": {
+    "lat": 41.33073,
+    "lng": -87.79635,
+    "city": "Peotone"
+  },
+  "Durand/Pecatonica": {
+    "lat": 42.4338,
+    "lng": -89.32678,
+    "city": "Durand"
+  },
+  "Benton": {
+    "lat": 38.01319,
+    "lng": -88.91728,
+    "city": "Benton"
+  },
+  "King": {
+    "lat": 41.83931,
+    "lng": -87.68234,
+    "city": "Chicago"
+  },
+  "Olympia": {
+    "lat": 40.43218,
+    "lng": -89.22076,
+    "city": "Stanford"
+  },
+  "Prairie Central": {
+    "lat": 40.74618,
+    "lng": -88.51556,
+    "city": "Fairbury"
+  },
+  "DuQuoin": {
+    "lat": 38.00172,
+    "lng": -89.23284,
+    "city": "Duquoin"
+  },
+  "Roxana": {
+    "lat": 38.82159,
+    "lng": -90.04585,
+    "city": "Roxana"
+  },
+  "Fairfield": {
+    "lat": 38.38063,
+    "lng": -88.37252,
+    "city": "Fairfield"
+  },
+  "PORTA/Ashland-Chandlerville Central/Greenview": {
+    "lat": 40.01429,
+    "lng": -89.84533,
+    "city": "Petersburg"
+  },
+  "Eureka": {
+    "lat": 40.71404,
+    "lng": -89.27702,
+    "city": "Eureka"
+  },
+  "Princeton": {
+    "lat": 41.38056,
+    "lng": -89.4641,
+    "city": "Princeton"
+  },
+  "Genoa-Kingston": {
+    "lat": 42.09103,
+    "lng": -88.69496,
+    "city": "Genoa"
+  },
+  "Stillman Valley": {
+    "lat": 42.10543,
+    "lng": -89.17899,
+    "city": "Stillman Valley"
+  },
+  "Greenville": {
+    "lat": 38.8866,
+    "lng": -89.38943,
+    "city": "Greenville"
+  },
+  "Oregon": {
+    "lat": 42.0127,
+    "lng": -89.33577,
+    "city": "Oregon"
+  },
+  "Carlinville": {
+    "lat": 39.27748,
+    "lng": -89.87613,
+    "city": "Carlinville"
+  },
+  "Monmouth-Roseville": {
+    "lat": 40.91423,
+    "lng": -90.64307,
+    "city": "Monmouth"
+  },
+  "Paxton-Buckley-Loda": {
+    "lat": 40.45629,
+    "lng": -88.1034,
+    "city": "Paxton"
+  },
+  "North Lawndale": {
+    "lat": 41.8369,
+    "lng": -87.68928,
+    "city": "Chicago"
+  },
+  "New Berlin/Franklin/Waverly": {
+    "lat": 39.72606,
+    "lng": -89.91435,
+    "city": "New Berlin"
+  },
+  "Stockton": {
+    "lat": 42.35252,
+    "lng": -90.00202,
+    "city": "Stockton"
+  },
+  "Heyworth": {
+    "lat": 40.31436,
+    "lng": -88.99228,
+    "city": "Heyworth"
+  },
+  "Brown County": {
+    "lat": 39.98589,
+    "lng": -90.76464,
+    "city": "Mt. Sterling"
+  },
+  "Calhoun/Brussels": {
+    "lat": 39.15897,
+    "lng": -90.62314,
+    "city": "Hardin"
+  },
+  "Camp Point Central": {
+    "lat": 40.03641,
+    "lng": -91.06413,
+    "city": "Camp Point"
+  },
+  "Aurora Christian": {
+    "lat": 41.76772,
+    "lng": -88.28568,
+    "city": "Aurora"
+  },
+  "Lena-Winslow": {
+    "lat": 42.37855,
+    "lng": -89.82171,
+    "city": "Lena"
+  },
+  "Clifton Central": {
+    "lat": 40.93473,
+    "lng": -87.93433,
+    "city": "Clifton"
+  },
+  "Tuscola": {
+    "lat": 39.79591,
+    "lng": -88.27548,
+    "city": "Tuscola"
+  },
+  "Oakwood": {
+    "lat": 40.11436,
+    "lng": -87.87498,
+    "city": "Fithian"
+  },
+  "Chicago Hope Academy": {
+    "lat": 41.83972,
+    "lng": -87.68175,
+    "city": "Chicago"
+  },
+  "Galena": {
+    "lat": 42.42206,
+    "lng": -90.4278,
+    "city": "Galena"
+  },
+  "Greenfield/Northwestern": {
+    "lat": 39.34449,
+    "lng": -90.20819,
+    "city": "Greenfield"
+  },
+  "Marquette": {
+    "lat": 41.35405,
+    "lng": -88.82341,
+    "city": "Ottawa"
+  },
+  "Althoff Catholic": {
+    "lat": 38.51883,
+    "lng": -89.99023,
+    "city": "Belleville"
+  },
+  "Newman Central Catholic": {
+    "lat": 41.80122,
+    "lng": -89.69722,
+    "city": "Sterling"
+  },
+  "Salt Fork": {
+    "lat": 39.90972,
+    "lng": -87.8236,
+    "city": "Sidell"
+  },
+  "Annawan-Wethersfield": {
+    "lat": 41.23734,
+    "lng": -89.92334,
+    "city": "Kewanee"
+  },
+  "West Central co-op [Winchester-Bluffs]": {
+    "lat": 39.62978,
+    "lng": -90.45596,
+    "city": "Winchester"
+  },
+  "Central A & M": {
+    "lat": 39.62579,
+    "lng": -89.02142,
+    "city": "Moweaqua"
+  },
+  "LeRoy": {
+    "lat": 40.33937,
+    "lng": -88.7611,
+    "city": "Leroy"
+  },
+  "Stark County": {
+    "lat": 41.09337,
+    "lng": -89.86318,
+    "city": "Toulon"
+  },
+  "Carrollton": {
+    "lat": 39.29449,
+    "lng": -90.40689,
+    "city": "Carrollton"
+  },
+  "Red Hill": {
+    "lat": 38.70995,
+    "lng": -87.75865,
+    "city": "Bridgeport"
+  },
+  "Cumberland": {
+    "lat": 39.27278,
+    "lng": -88.24219,
+    "city": "Toledo"
+  },
+  "Ridgeview/Lexington": {
+    "lat": 40.5666,
+    "lng": -88.61605,
+    "city": "Colfax"
+  },
+  "Casey-Westfield": {
+    "lat": 39.30542,
+    "lng": -87.98531,
+    "city": "Casey"
+  },
+  "Princeville": {
+    "lat": 40.93475,
+    "lng": -89.75471,
+    "city": "Princeville"
+  },
+  "Gibson City-Melvin-Sibley": {
+    "lat": 40.46683,
+    "lng": -88.3792,
+    "city": "Gibson City"
+  },
+  "Sesser-Valier/Waltonville": {
+    "lat": 38.09034,
+    "lng": -89.05081,
+    "city": "Sesser"
+  },
+  "Nokomis": {
+    "lat": 39.30029,
+    "lng": -89.28515,
+    "city": "Nokomis"
+  },
+  "Rushville-Industry": {
+    "lat": 40.11997,
+    "lng": -90.56655,
+    "city": "Rushville"
+  },
+  "Routt Catholic/Lutheran": {
+    "lat": 39.73212,
+    "lng": -90.23428,
+    "city": "Jacksonville"
+  },
+  "Dupo": {
+    "lat": 38.51612,
+    "lng": -90.2176,
+    "city": "Dupo"
+  },
+  "Lutheran": {
+    "lat": 42.26135,
+    "lng": -89.06199,
+    "city": "Rockford"
+  },
+  "Lincoln-Way East": {
+    "lat": 41.50702,
+    "lng": -87.87097,
+    "city": "Frankfort"
+  },
+  "Chicago Mt. Carmel": {
+    "lat": 41.83483,
+    "lng": -87.68256,
+    "city": "Chicago"
+  },
+  "Loyola Academy": {
+    "lat": 42.07732,
+    "lng": -87.72862,
+    "city": "Wilmette"
+  },
+  "Marist": {
+    "lat": 41.83502,
+    "lng": -87.67991,
+    "city": "Chicago"
+  },
+  "Sandburg": {
+    "lat": 41.60815,
+    "lng": -87.85929,
+    "city": "Orland Park"
+  },
+  "Oswego": {
+    "lat": 41.68322,
+    "lng": -88.33885,
+    "city": "Oswego"
+  },
+  "Lyons": {
+    "lat": 41.80721,
+    "lng": -87.87415,
+    "city": "LaGrange"
+  },
+  "Barrington": {
+    "lat": 42.15154,
+    "lng": -88.12853,
+    "city": "Barrington"
+  },
+  "Naperville North": {
+    "lat": 41.75441,
+    "lng": -88.16193,
+    "city": "Naperville"
+  },
+  "York": {
+    "lat": 41.89701,
+    "lng": -87.94366,
+    "city": "Elmhurst"
+  },
+  "Huntley": {
+    "lat": 42.1608,
+    "lng": -88.43546,
+    "city": "Huntley"
+  },
+  "Maine South": {
+    "lat": 42.01176,
+    "lng": -87.84343,
+    "city": "Park Ridge"
+  },
+  "New Trier": {
+    "lat": 42.10621,
+    "lng": -87.74276,
+    "city": "Winnetka"
+  },
+  "Naperville Central": {
+    "lat": 41.74893,
+    "lng": -88.16545,
+    "city": "Naperville"
+  },
+  "Fremd": {
+    "lat": 42.11494,
+    "lng": -88.04148,
+    "city": "Palatine"
+  },
+  "Glenbrook South": {
+    "lat": 42.08516,
+    "lng": -87.82739,
+    "city": "Glenview"
+  },
+  "Edwardsville": {
+    "lat": 38.79084,
+    "lng": -89.98861,
+    "city": "Edwardsville"
+  },
+  "Minooka": {
+    "lat": 41.44761,
+    "lng": -88.28415,
+    "city": "Minooka"
+  },
+  "Belleville East": {
+    "lat": 38.52024,
+    "lng": -89.99312,
+    "city": "Belleville"
+  },
+  "Warren Township": {
+    "lat": 42.37009,
+    "lng": -87.93681,
+    "city": "Gurnee"
+  },
+  "Downers Grove South": {
+    "lat": 41.8,
+    "lng": -88.02009,
+    "city": "Downers Grove"
+  },
+  "Palatine": {
+    "lat": 42.11437,
+    "lng": -88.04329,
+    "city": "Palatine"
+  },
+  "Plainfield South": {
+    "lat": 41.6303,
+    "lng": -88.24528,
+    "city": "Plainfield"
+  },
+  "West Aurora": {
+    "lat": 41.76604,
+    "lng": -88.29424,
+    "city": "Aurora"
+  },
+  "South Elgin": {
+    "lat": 41.99025,
+    "lng": -88.31428,
+    "city": "South Elgin"
+  },
+  "Waubonsie Valley": {
+    "lat": 41.76261,
+    "lng": -88.29287,
+    "city": "Aurora"
+  },
+  "Glenbard East": {
+    "lat": 41.87228,
+    "lng": -88.01068,
+    "city": "Lombard"
+  },
+  "Stevenson": {
+    "lat": 42.19652,
+    "lng": -87.91774,
+    "city": "Lincolnshire"
+  },
+  "Andrew": {
+    "lat": 41.57095,
+    "lng": -87.8093,
+    "city": "Tinley Park"
+  },
+  "Joliet West": {
+    "lat": 41.51974,
+    "lng": -88.15359,
+    "city": "Joliet"
+  },
+  "Schaumburg": {
+    "lat": 42.0289,
+    "lng": -88.08377,
+    "city": "Schaumburg"
+  },
+  "Taft": {
+    "lat": 41.83674,
+    "lng": -87.68746,
+    "city": "Chicago"
+  },
+  "Curie": {
+    "lat": 41.83327,
+    "lng": -87.68978,
+    "city": "Chicago"
+  },
+  "Niles West": {
+    "lat": 42.03597,
+    "lng": -87.73999,
+    "city": "Skokie"
   },
   "Brother Rice": {
     "lat": 41.84036,

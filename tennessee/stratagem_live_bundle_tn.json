@@ -46410,139 +46410,6 @@
     },
     {
       "rank": 335,
-      "division_rank": 48,
-      "team": "Memphis East",
-      "state": "TN",
-      "division": "3A",
-      "conference": "TSSAA 3A",
-      "city": "Memphis",
-      "wins": 0,
-      "losses": 10,
-      "ties": 0,
-      "games_played": 10,
-      "record": "0-10",
-      "power_index": 15.0,
-      "spi": 15.0,
-      "raw_rating": -35.0,
-      "sos_index": 42.9,
-      "sos_raw": -7.09,
-      "sos_rank": 309,
-      "ppg_scored": 0.0,
-      "ppg_off": 0.0,
-      "ppg_allowed": 45.2,
-      "ppg_def": 45.2,
-      "net_margin": -45.2,
-      "pqs": 28.0,
-      "ppa": 28.0,
-      "harbin_avg": 28.0,
-      "contender_tier": "Varsity Program",
-      "lat": 35.11209,
-      "lng": -89.97064,
-      "schedule_2026": [
-        {
-          "date": "2026-08-21",
-          "date_iso": "2026-08-21",
-          "opponent": "Chester County",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 46,
-          "is_playoff": false,
-          "round": "2026 Week 1"
-        },
-        {
-          "date": "2026-08-28",
-          "date_iso": "2026-08-28",
-          "opponent": "Arlington",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 66,
-          "is_playoff": false,
-          "round": "2026 Week 2"
-        },
-        {
-          "date": "2026-09-03",
-          "date_iso": "2026-09-03",
-          "opponent": "Middle College",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 32,
-          "is_playoff": false,
-          "round": "2026 Week 2"
-        },
-        {
-          "date": "2026-09-11",
-          "date_iso": "2026-09-11",
-          "opponent": "Wooddale",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 30,
-          "is_playoff": false,
-          "round": "2026 Week 4"
-        },
-        {
-          "date": "2026-09-24",
-          "date_iso": "2026-09-24",
-          "opponent": "Raleigh-Egypt",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 38,
-          "is_playoff": false,
-          "round": "2026 Week 5"
-        },
-        {
-          "date": "2026-10-02",
-          "date_iso": "2026-10-02",
-          "opponent": "KIPP Nashville Collegiate",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 44,
-          "is_playoff": false,
-          "round": "2026 Week 7"
-        },
-        {
-          "date": "2026-10-09",
-          "date_iso": "2026-10-09",
-          "opponent": "Bolton",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 50,
-          "is_playoff": false,
-          "round": "2026 Week 8"
-        },
-        {
-          "date": "2026-10-15",
-          "date_iso": "2026-10-15",
-          "opponent": "Douglass",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 44,
-          "is_playoff": false,
-          "round": "2026 Week 8"
-        },
-        {
-          "date": "2026-10-23",
-          "date_iso": "2026-10-23",
-          "opponent": "Hamilton",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 48,
-          "is_playoff": false,
-          "round": "2026 Week 10"
-        },
-        {
-          "date": "2026-10-29",
-          "date_iso": "2026-10-29",
-          "opponent": "Melrose",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 54,
-          "is_playoff": false,
-          "round": "2026 Week 10"
-        }
-      ]
-    },
-    {
-      "rank": 336,
       "division_rank": 44,
       "team": "Sheffield",
       "state": "TN",
@@ -46671,6 +46538,139 @@
           "opp_score": 56,
           "is_playoff": false,
           "round": "2026 Week 11"
+        }
+      ]
+    },
+    {
+      "rank": 336,
+      "division_rank": 48,
+      "team": "Memphis East",
+      "state": "TN",
+      "division": "3A",
+      "conference": "TSSAA 3A",
+      "city": "Memphis",
+      "wins": 0,
+      "losses": 10,
+      "ties": 0,
+      "games_played": 10,
+      "record": "0-10",
+      "power_index": 15.0,
+      "spi": 15.0,
+      "raw_rating": -35.0,
+      "sos_index": 42.9,
+      "sos_raw": -7.09,
+      "sos_rank": 309,
+      "ppg_scored": 0.0,
+      "ppg_off": 0.0,
+      "ppg_allowed": 45.2,
+      "ppg_def": 45.2,
+      "net_margin": -45.2,
+      "pqs": 28.0,
+      "ppa": 28.0,
+      "harbin_avg": 28.0,
+      "contender_tier": "Varsity Program",
+      "lat": 35.11209,
+      "lng": -89.97064,
+      "schedule_2026": [
+        {
+          "date": "2026-08-21",
+          "date_iso": "2026-08-21",
+          "opponent": "Chester County",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 46,
+          "is_playoff": false,
+          "round": "2026 Week 1"
+        },
+        {
+          "date": "2026-08-28",
+          "date_iso": "2026-08-28",
+          "opponent": "Arlington",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 66,
+          "is_playoff": false,
+          "round": "2026 Week 2"
+        },
+        {
+          "date": "2026-09-03",
+          "date_iso": "2026-09-03",
+          "opponent": "Middle College",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 32,
+          "is_playoff": false,
+          "round": "2026 Week 2"
+        },
+        {
+          "date": "2026-09-11",
+          "date_iso": "2026-09-11",
+          "opponent": "Wooddale",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 30,
+          "is_playoff": false,
+          "round": "2026 Week 4"
+        },
+        {
+          "date": "2026-09-24",
+          "date_iso": "2026-09-24",
+          "opponent": "Raleigh-Egypt",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 38,
+          "is_playoff": false,
+          "round": "2026 Week 5"
+        },
+        {
+          "date": "2026-10-02",
+          "date_iso": "2026-10-02",
+          "opponent": "KIPP Nashville Collegiate",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 44,
+          "is_playoff": false,
+          "round": "2026 Week 7"
+        },
+        {
+          "date": "2026-10-09",
+          "date_iso": "2026-10-09",
+          "opponent": "Bolton",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 50,
+          "is_playoff": false,
+          "round": "2026 Week 8"
+        },
+        {
+          "date": "2026-10-15",
+          "date_iso": "2026-10-15",
+          "opponent": "Douglass",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 44,
+          "is_playoff": false,
+          "round": "2026 Week 8"
+        },
+        {
+          "date": "2026-10-23",
+          "date_iso": "2026-10-23",
+          "opponent": "Hamilton",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 48,
+          "is_playoff": false,
+          "round": "2026 Week 10"
+        },
+        {
+          "date": "2026-10-29",
+          "date_iso": "2026-10-29",
+          "opponent": "Melrose",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 54,
+          "is_playoff": false,
+          "round": "2026 Week 10"
         }
       ]
     },
@@ -92748,123 +92748,6 @@
         }
       ]
     },
-    "Memphis East": {
-      "team": "Memphis East",
-      "state": "TN",
-      "division": "3A",
-      "conference": "TSSAA 3A",
-      "city": "Memphis",
-      "record": "0-10",
-      "wins": 0,
-      "losses": 10,
-      "power_index": 15.0,
-      "raw_rating": -35.0,
-      "sos_index": 42.9,
-      "ppg_scored": 0.0,
-      "ppg_allowed": 45.2,
-      "schedule_2026": [
-        {
-          "date": "2026-08-21",
-          "date_iso": "2026-08-21",
-          "opponent": "Chester County",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 46,
-          "is_playoff": false,
-          "round": "2026 Week 1"
-        },
-        {
-          "date": "2026-08-28",
-          "date_iso": "2026-08-28",
-          "opponent": "Arlington",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 66,
-          "is_playoff": false,
-          "round": "2026 Week 2"
-        },
-        {
-          "date": "2026-09-03",
-          "date_iso": "2026-09-03",
-          "opponent": "Middle College",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 32,
-          "is_playoff": false,
-          "round": "2026 Week 2"
-        },
-        {
-          "date": "2026-09-11",
-          "date_iso": "2026-09-11",
-          "opponent": "Wooddale",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 30,
-          "is_playoff": false,
-          "round": "2026 Week 4"
-        },
-        {
-          "date": "2026-09-24",
-          "date_iso": "2026-09-24",
-          "opponent": "Raleigh-Egypt",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 38,
-          "is_playoff": false,
-          "round": "2026 Week 5"
-        },
-        {
-          "date": "2026-10-02",
-          "date_iso": "2026-10-02",
-          "opponent": "KIPP Nashville Collegiate",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 44,
-          "is_playoff": false,
-          "round": "2026 Week 7"
-        },
-        {
-          "date": "2026-10-09",
-          "date_iso": "2026-10-09",
-          "opponent": "Bolton",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 50,
-          "is_playoff": false,
-          "round": "2026 Week 8"
-        },
-        {
-          "date": "2026-10-15",
-          "date_iso": "2026-10-15",
-          "opponent": "Douglass",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 44,
-          "is_playoff": false,
-          "round": "2026 Week 8"
-        },
-        {
-          "date": "2026-10-23",
-          "date_iso": "2026-10-23",
-          "opponent": "Hamilton",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 48,
-          "is_playoff": false,
-          "round": "2026 Week 10"
-        },
-        {
-          "date": "2026-10-29",
-          "date_iso": "2026-10-29",
-          "opponent": "Melrose",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 54,
-          "is_playoff": false,
-          "round": "2026 Week 10"
-        }
-      ]
-    },
     "Sheffield": {
       "team": "Sheffield",
       "state": "TN",
@@ -92979,6 +92862,123 @@
           "opp_score": 56,
           "is_playoff": false,
           "round": "2026 Week 11"
+        }
+      ]
+    },
+    "Memphis East": {
+      "team": "Memphis East",
+      "state": "TN",
+      "division": "3A",
+      "conference": "TSSAA 3A",
+      "city": "Memphis",
+      "record": "0-10",
+      "wins": 0,
+      "losses": 10,
+      "power_index": 15.0,
+      "raw_rating": -35.0,
+      "sos_index": 42.9,
+      "ppg_scored": 0.0,
+      "ppg_allowed": 45.2,
+      "schedule_2026": [
+        {
+          "date": "2026-08-21",
+          "date_iso": "2026-08-21",
+          "opponent": "Chester County",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 46,
+          "is_playoff": false,
+          "round": "2026 Week 1"
+        },
+        {
+          "date": "2026-08-28",
+          "date_iso": "2026-08-28",
+          "opponent": "Arlington",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 66,
+          "is_playoff": false,
+          "round": "2026 Week 2"
+        },
+        {
+          "date": "2026-09-03",
+          "date_iso": "2026-09-03",
+          "opponent": "Middle College",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 32,
+          "is_playoff": false,
+          "round": "2026 Week 2"
+        },
+        {
+          "date": "2026-09-11",
+          "date_iso": "2026-09-11",
+          "opponent": "Wooddale",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 30,
+          "is_playoff": false,
+          "round": "2026 Week 4"
+        },
+        {
+          "date": "2026-09-24",
+          "date_iso": "2026-09-24",
+          "opponent": "Raleigh-Egypt",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 38,
+          "is_playoff": false,
+          "round": "2026 Week 5"
+        },
+        {
+          "date": "2026-10-02",
+          "date_iso": "2026-10-02",
+          "opponent": "KIPP Nashville Collegiate",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 44,
+          "is_playoff": false,
+          "round": "2026 Week 7"
+        },
+        {
+          "date": "2026-10-09",
+          "date_iso": "2026-10-09",
+          "opponent": "Bolton",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 50,
+          "is_playoff": false,
+          "round": "2026 Week 8"
+        },
+        {
+          "date": "2026-10-15",
+          "date_iso": "2026-10-15",
+          "opponent": "Douglass",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 44,
+          "is_playoff": false,
+          "round": "2026 Week 8"
+        },
+        {
+          "date": "2026-10-23",
+          "date_iso": "2026-10-23",
+          "opponent": "Hamilton",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 48,
+          "is_playoff": false,
+          "round": "2026 Week 10"
+        },
+        {
+          "date": "2026-10-29",
+          "date_iso": "2026-10-29",
+          "opponent": "Melrose",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 54,
+          "is_playoff": false,
+          "round": "2026 Week 10"
         }
       ]
     },

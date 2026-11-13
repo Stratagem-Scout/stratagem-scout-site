@@ -35166,6 +35166,149 @@
     },
     {
       "rank": 254,
+      "division_rank": 37,
+      "team": "North Pitt",
+      "state": "NC",
+      "division": "4A",
+      "conference": "NCHSAA 4A",
+      "city": "Bethel",
+      "wins": 5,
+      "losses": 6,
+      "ties": 0,
+      "games_played": 11,
+      "record": "5-6",
+      "power_index": 44.0,
+      "spi": 44.0,
+      "raw_rating": -5.96,
+      "sos_index": 47.5,
+      "sos_raw": -2.5,
+      "sos_rank": 265,
+      "ppg_scored": 18.4,
+      "ppg_off": 18.4,
+      "ppg_allowed": 23.7,
+      "ppg_def": 23.7,
+      "net_margin": -5.3,
+      "pqs": 48.0,
+      "ppa": 48.0,
+      "harbin_avg": 48.0,
+      "contender_tier": "Varsity Program",
+      "lat": 35.80722,
+      "lng": -77.37625,
+      "schedule_2026": [
+        {
+          "date": "2026-08-24",
+          "date_iso": "2026-08-24",
+          "opponent": "Martin County",
+          "result": "L",
+          "team_score": 12,
+          "opp_score": 28,
+          "is_playoff": false,
+          "round": "2026 Week 1"
+        },
+        {
+          "date": "2026-08-28",
+          "date_iso": "2026-08-28",
+          "opponent": "Ayden - Grifton",
+          "result": "W",
+          "team_score": 14,
+          "opp_score": 13,
+          "is_playoff": false,
+          "round": "2026 Week 2"
+        },
+        {
+          "date": "2026-09-07",
+          "date_iso": "2026-09-07",
+          "opponent": "South Central",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 34,
+          "is_playoff": false,
+          "round": "2026 Week 3"
+        },
+        {
+          "date": "2026-09-11",
+          "date_iso": "2026-09-11",
+          "opponent": "Greene Central",
+          "result": "L",
+          "team_score": 8,
+          "opp_score": 29,
+          "is_playoff": false,
+          "round": "2026 Week 4"
+        },
+        {
+          "date": "2026-09-18",
+          "date_iso": "2026-09-18",
+          "opponent": "West Craven",
+          "result": "L",
+          "team_score": 12,
+          "opp_score": 49,
+          "is_playoff": false,
+          "round": "2026 Week 5"
+        },
+        {
+          "date": "2026-09-25",
+          "date_iso": "2026-09-25",
+          "opponent": "North Johnston",
+          "result": "W",
+          "team_score": 26,
+          "opp_score": 14,
+          "is_playoff": false,
+          "round": "2026 Week 6"
+        },
+        {
+          "date": "2026-10-02",
+          "date_iso": "2026-10-02",
+          "opponent": "North Lenoir",
+          "result": "W",
+          "team_score": 42,
+          "opp_score": 6,
+          "is_playoff": false,
+          "round": "2026 Week 7"
+        },
+        {
+          "date": "2026-10-09",
+          "date_iso": "2026-10-09",
+          "opponent": "SouthWest Edgecombe",
+          "result": "L",
+          "team_score": 18,
+          "opp_score": 19,
+          "is_playoff": false,
+          "round": "2026 Week 8"
+        },
+        {
+          "date": "2026-10-16",
+          "date_iso": "2026-10-16",
+          "opponent": "Eastern Wayne",
+          "result": "W",
+          "team_score": 28,
+          "opp_score": 7,
+          "is_playoff": false,
+          "round": "2026 Week 9"
+        },
+        {
+          "date": "2026-10-30",
+          "date_iso": "2026-10-30",
+          "opponent": "Washington",
+          "result": "W",
+          "team_score": 28,
+          "opp_score": 14,
+          "is_playoff": false,
+          "round": "2026 Week 11"
+        },
+        {
+          "date": "2026-11-06",
+          "date_iso": "2026-11-06",
+          "opponent": "Southwest Onslow",
+          "result": "L",
+          "team_score": 8,
+          "opp_score": 48,
+          "is_playoff": true,
+          "round": "2026 NCHSAA Second Round"
+        }
+      ]
+    },
+    {
+      "rank": 255,
       "division_rank": 42,
       "team": "West Carteret",
       "state": "NC",
@@ -35312,149 +35455,6 @@
           "result": "W",
           "team_score": 21,
           "opp_score": 14,
-          "is_playoff": true,
-          "round": "2026 NCHSAA Second Round"
-        }
-      ]
-    },
-    {
-      "rank": 255,
-      "division_rank": 37,
-      "team": "North Pitt",
-      "state": "NC",
-      "division": "4A",
-      "conference": "NCHSAA 4A",
-      "city": "Bethel",
-      "wins": 5,
-      "losses": 6,
-      "ties": 0,
-      "games_played": 11,
-      "record": "5-6",
-      "power_index": 44.0,
-      "spi": 44.0,
-      "raw_rating": -5.96,
-      "sos_index": 47.5,
-      "sos_raw": -2.5,
-      "sos_rank": 265,
-      "ppg_scored": 18.4,
-      "ppg_off": 18.4,
-      "ppg_allowed": 23.7,
-      "ppg_def": 23.7,
-      "net_margin": -5.3,
-      "pqs": 48.0,
-      "ppa": 48.0,
-      "harbin_avg": 48.0,
-      "contender_tier": "Varsity Program",
-      "lat": 35.80722,
-      "lng": -77.37625,
-      "schedule_2026": [
-        {
-          "date": "2026-08-24",
-          "date_iso": "2026-08-24",
-          "opponent": "Martin County",
-          "result": "L",
-          "team_score": 12,
-          "opp_score": 28,
-          "is_playoff": false,
-          "round": "2026 Week 1"
-        },
-        {
-          "date": "2026-08-28",
-          "date_iso": "2026-08-28",
-          "opponent": "Ayden - Grifton",
-          "result": "W",
-          "team_score": 14,
-          "opp_score": 13,
-          "is_playoff": false,
-          "round": "2026 Week 2"
-        },
-        {
-          "date": "2026-09-07",
-          "date_iso": "2026-09-07",
-          "opponent": "South Central",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 34,
-          "is_playoff": false,
-          "round": "2026 Week 3"
-        },
-        {
-          "date": "2026-09-11",
-          "date_iso": "2026-09-11",
-          "opponent": "Greene Central",
-          "result": "L",
-          "team_score": 8,
-          "opp_score": 29,
-          "is_playoff": false,
-          "round": "2026 Week 4"
-        },
-        {
-          "date": "2026-09-18",
-          "date_iso": "2026-09-18",
-          "opponent": "West Craven",
-          "result": "L",
-          "team_score": 12,
-          "opp_score": 49,
-          "is_playoff": false,
-          "round": "2026 Week 5"
-        },
-        {
-          "date": "2026-09-25",
-          "date_iso": "2026-09-25",
-          "opponent": "North Johnston",
-          "result": "W",
-          "team_score": 26,
-          "opp_score": 14,
-          "is_playoff": false,
-          "round": "2026 Week 6"
-        },
-        {
-          "date": "2026-10-02",
-          "date_iso": "2026-10-02",
-          "opponent": "North Lenoir",
-          "result": "W",
-          "team_score": 42,
-          "opp_score": 6,
-          "is_playoff": false,
-          "round": "2026 Week 7"
-        },
-        {
-          "date": "2026-10-09",
-          "date_iso": "2026-10-09",
-          "opponent": "SouthWest Edgecombe",
-          "result": "L",
-          "team_score": 18,
-          "opp_score": 19,
-          "is_playoff": false,
-          "round": "2026 Week 8"
-        },
-        {
-          "date": "2026-10-16",
-          "date_iso": "2026-10-16",
-          "opponent": "Eastern Wayne",
-          "result": "W",
-          "team_score": 28,
-          "opp_score": 7,
-          "is_playoff": false,
-          "round": "2026 Week 9"
-        },
-        {
-          "date": "2026-10-30",
-          "date_iso": "2026-10-30",
-          "opponent": "Washington",
-          "result": "W",
-          "team_score": 28,
-          "opp_score": 14,
-          "is_playoff": false,
-          "round": "2026 Week 11"
-        },
-        {
-          "date": "2026-11-06",
-          "date_iso": "2026-11-06",
-          "opponent": "Southwest Onslow",
-          "result": "L",
-          "team_score": 8,
-          "opp_score": 48,
           "is_playoff": true,
           "round": "2026 NCHSAA Second Round"
         }
@@ -53512,139 +53512,6 @@
     },
     {
       "rank": 386,
-      "division_rank": 55,
-      "team": "Surry Central",
-      "state": "NC",
-      "division": "3A",
-      "conference": "NCHSAA 3A",
-      "city": "Dobson",
-      "wins": 0,
-      "losses": 10,
-      "ties": 0,
-      "games_played": 10,
-      "record": "0-10",
-      "power_index": 15.0,
-      "spi": 15.0,
-      "raw_rating": -35.0,
-      "sos_index": 44.6,
-      "sos_raw": -5.42,
-      "sos_rank": 330,
-      "ppg_scored": 5.1,
-      "ppg_off": 5.1,
-      "ppg_allowed": 29.9,
-      "ppg_def": 29.9,
-      "net_margin": -24.8,
-      "pqs": 28.0,
-      "ppa": 28.0,
-      "harbin_avg": 28.0,
-      "contender_tier": "Varsity Program",
-      "lat": 36.39264,
-      "lng": -80.72374,
-      "schedule_2026": [
-        {
-          "date": "2026-08-21",
-          "date_iso": "2026-08-21",
-          "opponent": "Elkin",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 8,
-          "is_playoff": false,
-          "round": "2026 Week 1"
-        },
-        {
-          "date": "2026-08-28",
-          "date_iso": "2026-08-28",
-          "opponent": "North Wilkes",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 46,
-          "is_playoff": false,
-          "round": "2026 Week 2"
-        },
-        {
-          "date": "2026-09-04",
-          "date_iso": "2026-09-04",
-          "opponent": "West Wilkes",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 38,
-          "is_playoff": false,
-          "round": "2026 Week 3"
-        },
-        {
-          "date": "2026-09-11",
-          "date_iso": "2026-09-11",
-          "opponent": "South Stokes",
-          "result": "L",
-          "team_score": 10,
-          "opp_score": 27,
-          "is_playoff": false,
-          "round": "2026 Week 4"
-        },
-        {
-          "date": "2026-09-18",
-          "date_iso": "2026-09-18",
-          "opponent": "Trinity",
-          "result": "L",
-          "team_score": 28,
-          "opp_score": 35,
-          "is_playoff": false,
-          "round": "2026 Week 5"
-        },
-        {
-          "date": "2026-10-02",
-          "date_iso": "2026-10-02",
-          "opponent": "East Surry",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 55,
-          "is_playoff": false,
-          "round": "2026 Week 7"
-        },
-        {
-          "date": "2026-10-09",
-          "date_iso": "2026-10-09",
-          "opponent": "Forbush",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 44,
-          "is_playoff": false,
-          "round": "2026 Week 8"
-        },
-        {
-          "date": "2026-10-16",
-          "date_iso": "2026-10-16",
-          "opponent": "North Surry",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 43,
-          "is_playoff": false,
-          "round": "2026 Week 9"
-        },
-        {
-          "date": "2026-10-23",
-          "date_iso": "2026-10-23",
-          "opponent": "Mount Airy",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 1,
-          "is_playoff": false,
-          "round": "2026 Week 10"
-        },
-        {
-          "date": "2026-10-30",
-          "date_iso": "2026-10-30",
-          "opponent": "West Stokes",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 2,
-          "is_playoff": false,
-          "round": "2026 Week 11"
-        }
-      ]
-    },
-    {
-      "rank": 387,
       "division_rank": 45,
       "team": "Highland Tech",
       "state": "NC",
@@ -53773,6 +53640,139 @@
           "opp_score": 48,
           "is_playoff": false,
           "round": "2026 Week 10"
+        }
+      ]
+    },
+    {
+      "rank": 387,
+      "division_rank": 55,
+      "team": "Surry Central",
+      "state": "NC",
+      "division": "3A",
+      "conference": "NCHSAA 3A",
+      "city": "Dobson",
+      "wins": 0,
+      "losses": 10,
+      "ties": 0,
+      "games_played": 10,
+      "record": "0-10",
+      "power_index": 15.0,
+      "spi": 15.0,
+      "raw_rating": -35.0,
+      "sos_index": 44.6,
+      "sos_raw": -5.42,
+      "sos_rank": 330,
+      "ppg_scored": 5.1,
+      "ppg_off": 5.1,
+      "ppg_allowed": 29.9,
+      "ppg_def": 29.9,
+      "net_margin": -24.8,
+      "pqs": 28.0,
+      "ppa": 28.0,
+      "harbin_avg": 28.0,
+      "contender_tier": "Varsity Program",
+      "lat": 36.39264,
+      "lng": -80.72374,
+      "schedule_2026": [
+        {
+          "date": "2026-08-21",
+          "date_iso": "2026-08-21",
+          "opponent": "Elkin",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 8,
+          "is_playoff": false,
+          "round": "2026 Week 1"
+        },
+        {
+          "date": "2026-08-28",
+          "date_iso": "2026-08-28",
+          "opponent": "North Wilkes",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 46,
+          "is_playoff": false,
+          "round": "2026 Week 2"
+        },
+        {
+          "date": "2026-09-04",
+          "date_iso": "2026-09-04",
+          "opponent": "West Wilkes",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 38,
+          "is_playoff": false,
+          "round": "2026 Week 3"
+        },
+        {
+          "date": "2026-09-11",
+          "date_iso": "2026-09-11",
+          "opponent": "South Stokes",
+          "result": "L",
+          "team_score": 10,
+          "opp_score": 27,
+          "is_playoff": false,
+          "round": "2026 Week 4"
+        },
+        {
+          "date": "2026-09-18",
+          "date_iso": "2026-09-18",
+          "opponent": "Trinity",
+          "result": "L",
+          "team_score": 28,
+          "opp_score": 35,
+          "is_playoff": false,
+          "round": "2026 Week 5"
+        },
+        {
+          "date": "2026-10-02",
+          "date_iso": "2026-10-02",
+          "opponent": "East Surry",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 55,
+          "is_playoff": false,
+          "round": "2026 Week 7"
+        },
+        {
+          "date": "2026-10-09",
+          "date_iso": "2026-10-09",
+          "opponent": "Forbush",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 44,
+          "is_playoff": false,
+          "round": "2026 Week 8"
+        },
+        {
+          "date": "2026-10-16",
+          "date_iso": "2026-10-16",
+          "opponent": "North Surry",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 43,
+          "is_playoff": false,
+          "round": "2026 Week 9"
+        },
+        {
+          "date": "2026-10-23",
+          "date_iso": "2026-10-23",
+          "opponent": "Mount Airy",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 1,
+          "is_playoff": false,
+          "round": "2026 Week 10"
+        },
+        {
+          "date": "2026-10-30",
+          "date_iso": "2026-10-30",
+          "opponent": "West Stokes",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 2,
+          "is_playoff": false,
+          "round": "2026 Week 11"
         }
       ]
     },
@@ -93714,6 +93714,133 @@
         }
       ]
     },
+    "North Pitt": {
+      "team": "North Pitt",
+      "state": "NC",
+      "division": "4A",
+      "conference": "NCHSAA 4A",
+      "city": "Bethel",
+      "record": "5-6",
+      "wins": 5,
+      "losses": 6,
+      "power_index": 44.0,
+      "raw_rating": -5.96,
+      "sos_index": 47.5,
+      "ppg_scored": 18.4,
+      "ppg_allowed": 23.7,
+      "schedule_2026": [
+        {
+          "date": "2026-08-24",
+          "date_iso": "2026-08-24",
+          "opponent": "Martin County",
+          "result": "L",
+          "team_score": 12,
+          "opp_score": 28,
+          "is_playoff": false,
+          "round": "2026 Week 1"
+        },
+        {
+          "date": "2026-08-28",
+          "date_iso": "2026-08-28",
+          "opponent": "Ayden - Grifton",
+          "result": "W",
+          "team_score": 14,
+          "opp_score": 13,
+          "is_playoff": false,
+          "round": "2026 Week 2"
+        },
+        {
+          "date": "2026-09-07",
+          "date_iso": "2026-09-07",
+          "opponent": "South Central",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 34,
+          "is_playoff": false,
+          "round": "2026 Week 3"
+        },
+        {
+          "date": "2026-09-11",
+          "date_iso": "2026-09-11",
+          "opponent": "Greene Central",
+          "result": "L",
+          "team_score": 8,
+          "opp_score": 29,
+          "is_playoff": false,
+          "round": "2026 Week 4"
+        },
+        {
+          "date": "2026-09-18",
+          "date_iso": "2026-09-18",
+          "opponent": "West Craven",
+          "result": "L",
+          "team_score": 12,
+          "opp_score": 49,
+          "is_playoff": false,
+          "round": "2026 Week 5"
+        },
+        {
+          "date": "2026-09-25",
+          "date_iso": "2026-09-25",
+          "opponent": "North Johnston",
+          "result": "W",
+          "team_score": 26,
+          "opp_score": 14,
+          "is_playoff": false,
+          "round": "2026 Week 6"
+        },
+        {
+          "date": "2026-10-02",
+          "date_iso": "2026-10-02",
+          "opponent": "North Lenoir",
+          "result": "W",
+          "team_score": 42,
+          "opp_score": 6,
+          "is_playoff": false,
+          "round": "2026 Week 7"
+        },
+        {
+          "date": "2026-10-09",
+          "date_iso": "2026-10-09",
+          "opponent": "SouthWest Edgecombe",
+          "result": "L",
+          "team_score": 18,
+          "opp_score": 19,
+          "is_playoff": false,
+          "round": "2026 Week 8"
+        },
+        {
+          "date": "2026-10-16",
+          "date_iso": "2026-10-16",
+          "opponent": "Eastern Wayne",
+          "result": "W",
+          "team_score": 28,
+          "opp_score": 7,
+          "is_playoff": false,
+          "round": "2026 Week 9"
+        },
+        {
+          "date": "2026-10-30",
+          "date_iso": "2026-10-30",
+          "opponent": "Washington",
+          "result": "W",
+          "team_score": 28,
+          "opp_score": 14,
+          "is_playoff": false,
+          "round": "2026 Week 11"
+        },
+        {
+          "date": "2026-11-06",
+          "date_iso": "2026-11-06",
+          "opponent": "Southwest Onslow",
+          "result": "L",
+          "team_score": 8,
+          "opp_score": 48,
+          "is_playoff": true,
+          "round": "2026 NCHSAA Second Round"
+        }
+      ]
+    },
     "West Carteret": {
       "team": "West Carteret",
       "state": "NC",
@@ -93846,133 +93973,6 @@
           "result": "W",
           "team_score": 21,
           "opp_score": 14,
-          "is_playoff": true,
-          "round": "2026 NCHSAA Second Round"
-        }
-      ]
-    },
-    "North Pitt": {
-      "team": "North Pitt",
-      "state": "NC",
-      "division": "4A",
-      "conference": "NCHSAA 4A",
-      "city": "Bethel",
-      "record": "5-6",
-      "wins": 5,
-      "losses": 6,
-      "power_index": 44.0,
-      "raw_rating": -5.96,
-      "sos_index": 47.5,
-      "ppg_scored": 18.4,
-      "ppg_allowed": 23.7,
-      "schedule_2026": [
-        {
-          "date": "2026-08-24",
-          "date_iso": "2026-08-24",
-          "opponent": "Martin County",
-          "result": "L",
-          "team_score": 12,
-          "opp_score": 28,
-          "is_playoff": false,
-          "round": "2026 Week 1"
-        },
-        {
-          "date": "2026-08-28",
-          "date_iso": "2026-08-28",
-          "opponent": "Ayden - Grifton",
-          "result": "W",
-          "team_score": 14,
-          "opp_score": 13,
-          "is_playoff": false,
-          "round": "2026 Week 2"
-        },
-        {
-          "date": "2026-09-07",
-          "date_iso": "2026-09-07",
-          "opponent": "South Central",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 34,
-          "is_playoff": false,
-          "round": "2026 Week 3"
-        },
-        {
-          "date": "2026-09-11",
-          "date_iso": "2026-09-11",
-          "opponent": "Greene Central",
-          "result": "L",
-          "team_score": 8,
-          "opp_score": 29,
-          "is_playoff": false,
-          "round": "2026 Week 4"
-        },
-        {
-          "date": "2026-09-18",
-          "date_iso": "2026-09-18",
-          "opponent": "West Craven",
-          "result": "L",
-          "team_score": 12,
-          "opp_score": 49,
-          "is_playoff": false,
-          "round": "2026 Week 5"
-        },
-        {
-          "date": "2026-09-25",
-          "date_iso": "2026-09-25",
-          "opponent": "North Johnston",
-          "result": "W",
-          "team_score": 26,
-          "opp_score": 14,
-          "is_playoff": false,
-          "round": "2026 Week 6"
-        },
-        {
-          "date": "2026-10-02",
-          "date_iso": "2026-10-02",
-          "opponent": "North Lenoir",
-          "result": "W",
-          "team_score": 42,
-          "opp_score": 6,
-          "is_playoff": false,
-          "round": "2026 Week 7"
-        },
-        {
-          "date": "2026-10-09",
-          "date_iso": "2026-10-09",
-          "opponent": "SouthWest Edgecombe",
-          "result": "L",
-          "team_score": 18,
-          "opp_score": 19,
-          "is_playoff": false,
-          "round": "2026 Week 8"
-        },
-        {
-          "date": "2026-10-16",
-          "date_iso": "2026-10-16",
-          "opponent": "Eastern Wayne",
-          "result": "W",
-          "team_score": 28,
-          "opp_score": 7,
-          "is_playoff": false,
-          "round": "2026 Week 9"
-        },
-        {
-          "date": "2026-10-30",
-          "date_iso": "2026-10-30",
-          "opponent": "Washington",
-          "result": "W",
-          "team_score": 28,
-          "opp_score": 14,
-          "is_playoff": false,
-          "round": "2026 Week 11"
-        },
-        {
-          "date": "2026-11-06",
-          "date_iso": "2026-11-06",
-          "opponent": "Southwest Onslow",
-          "result": "L",
-          "team_score": 8,
-          "opp_score": 48,
           "is_playoff": true,
           "round": "2026 NCHSAA Second Round"
         }
@@ -109948,123 +109948,6 @@
         }
       ]
     },
-    "Surry Central": {
-      "team": "Surry Central",
-      "state": "NC",
-      "division": "3A",
-      "conference": "NCHSAA 3A",
-      "city": "Dobson",
-      "record": "0-10",
-      "wins": 0,
-      "losses": 10,
-      "power_index": 15.0,
-      "raw_rating": -35.0,
-      "sos_index": 44.6,
-      "ppg_scored": 5.1,
-      "ppg_allowed": 29.9,
-      "schedule_2026": [
-        {
-          "date": "2026-08-21",
-          "date_iso": "2026-08-21",
-          "opponent": "Elkin",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 8,
-          "is_playoff": false,
-          "round": "2026 Week 1"
-        },
-        {
-          "date": "2026-08-28",
-          "date_iso": "2026-08-28",
-          "opponent": "North Wilkes",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 46,
-          "is_playoff": false,
-          "round": "2026 Week 2"
-        },
-        {
-          "date": "2026-09-04",
-          "date_iso": "2026-09-04",
-          "opponent": "West Wilkes",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 38,
-          "is_playoff": false,
-          "round": "2026 Week 3"
-        },
-        {
-          "date": "2026-09-11",
-          "date_iso": "2026-09-11",
-          "opponent": "South Stokes",
-          "result": "L",
-          "team_score": 10,
-          "opp_score": 27,
-          "is_playoff": false,
-          "round": "2026 Week 4"
-        },
-        {
-          "date": "2026-09-18",
-          "date_iso": "2026-09-18",
-          "opponent": "Trinity",
-          "result": "L",
-          "team_score": 28,
-          "opp_score": 35,
-          "is_playoff": false,
-          "round": "2026 Week 5"
-        },
-        {
-          "date": "2026-10-02",
-          "date_iso": "2026-10-02",
-          "opponent": "East Surry",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 55,
-          "is_playoff": false,
-          "round": "2026 Week 7"
-        },
-        {
-          "date": "2026-10-09",
-          "date_iso": "2026-10-09",
-          "opponent": "Forbush",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 44,
-          "is_playoff": false,
-          "round": "2026 Week 8"
-        },
-        {
-          "date": "2026-10-16",
-          "date_iso": "2026-10-16",
-          "opponent": "North Surry",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 43,
-          "is_playoff": false,
-          "round": "2026 Week 9"
-        },
-        {
-          "date": "2026-10-23",
-          "date_iso": "2026-10-23",
-          "opponent": "Mount Airy",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 1,
-          "is_playoff": false,
-          "round": "2026 Week 10"
-        },
-        {
-          "date": "2026-10-30",
-          "date_iso": "2026-10-30",
-          "opponent": "West Stokes",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 2,
-          "is_playoff": false,
-          "round": "2026 Week 11"
-        }
-      ]
-    },
     "Highland Tech": {
       "team": "Highland Tech",
       "state": "NC",
@@ -110179,6 +110062,123 @@
           "opp_score": 48,
           "is_playoff": false,
           "round": "2026 Week 10"
+        }
+      ]
+    },
+    "Surry Central": {
+      "team": "Surry Central",
+      "state": "NC",
+      "division": "3A",
+      "conference": "NCHSAA 3A",
+      "city": "Dobson",
+      "record": "0-10",
+      "wins": 0,
+      "losses": 10,
+      "power_index": 15.0,
+      "raw_rating": -35.0,
+      "sos_index": 44.6,
+      "ppg_scored": 5.1,
+      "ppg_allowed": 29.9,
+      "schedule_2026": [
+        {
+          "date": "2026-08-21",
+          "date_iso": "2026-08-21",
+          "opponent": "Elkin",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 8,
+          "is_playoff": false,
+          "round": "2026 Week 1"
+        },
+        {
+          "date": "2026-08-28",
+          "date_iso": "2026-08-28",
+          "opponent": "North Wilkes",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 46,
+          "is_playoff": false,
+          "round": "2026 Week 2"
+        },
+        {
+          "date": "2026-09-04",
+          "date_iso": "2026-09-04",
+          "opponent": "West Wilkes",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 38,
+          "is_playoff": false,
+          "round": "2026 Week 3"
+        },
+        {
+          "date": "2026-09-11",
+          "date_iso": "2026-09-11",
+          "opponent": "South Stokes",
+          "result": "L",
+          "team_score": 10,
+          "opp_score": 27,
+          "is_playoff": false,
+          "round": "2026 Week 4"
+        },
+        {
+          "date": "2026-09-18",
+          "date_iso": "2026-09-18",
+          "opponent": "Trinity",
+          "result": "L",
+          "team_score": 28,
+          "opp_score": 35,
+          "is_playoff": false,
+          "round": "2026 Week 5"
+        },
+        {
+          "date": "2026-10-02",
+          "date_iso": "2026-10-02",
+          "opponent": "East Surry",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 55,
+          "is_playoff": false,
+          "round": "2026 Week 7"
+        },
+        {
+          "date": "2026-10-09",
+          "date_iso": "2026-10-09",
+          "opponent": "Forbush",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 44,
+          "is_playoff": false,
+          "round": "2026 Week 8"
+        },
+        {
+          "date": "2026-10-16",
+          "date_iso": "2026-10-16",
+          "opponent": "North Surry",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 43,
+          "is_playoff": false,
+          "round": "2026 Week 9"
+        },
+        {
+          "date": "2026-10-23",
+          "date_iso": "2026-10-23",
+          "opponent": "Mount Airy",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 1,
+          "is_playoff": false,
+          "round": "2026 Week 10"
+        },
+        {
+          "date": "2026-10-30",
+          "date_iso": "2026-10-30",
+          "opponent": "West Stokes",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 2,
+          "is_playoff": false,
+          "round": "2026 Week 11"
         }
       ]
     },

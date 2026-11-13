@@ -43941,139 +43941,6 @@
     },
     {
       "rank": 319,
-      "division_rank": 40,
-      "team": "Abbeville",
-      "state": "AL",
-      "division": "1A",
-      "conference": "AHSAA 1A",
-      "city": "Abbeville",
-      "wins": 2,
-      "losses": 8,
-      "ties": 0,
-      "games_played": 10,
-      "record": "2-8",
-      "power_index": 34.1,
-      "spi": 34.1,
-      "raw_rating": -15.86,
-      "sos_index": 47.3,
-      "sos_raw": -2.72,
-      "sos_rank": 270,
-      "ppg_scored": 18.8,
-      "ppg_off": 18.8,
-      "ppg_allowed": 33.2,
-      "ppg_def": 33.2,
-      "net_margin": -14.4,
-      "pqs": 36.8,
-      "ppa": 36.8,
-      "harbin_avg": 36.8,
-      "contender_tier": "Varsity Program",
-      "lat": 31.56471,
-      "lng": -85.25912,
-      "schedule_2026": [
-        {
-          "date": "2026-08-21",
-          "date_iso": "2026-08-21",
-          "opponent": "Headland",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 41,
-          "is_playoff": false,
-          "round": "2026 Week 1"
-        },
-        {
-          "date": "2026-08-28",
-          "date_iso": "2026-08-28",
-          "opponent": "Ashford",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 36,
-          "is_playoff": false,
-          "round": "2026 Week 2"
-        },
-        {
-          "date": "2026-09-04",
-          "date_iso": "2026-09-04",
-          "opponent": "Barbour County",
-          "result": "W",
-          "team_score": 28,
-          "opp_score": 0,
-          "is_playoff": false,
-          "round": "2026 Week 3"
-        },
-        {
-          "date": "2026-09-11",
-          "date_iso": "2026-09-11",
-          "opponent": "Pleasant Home",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 28,
-          "is_playoff": false,
-          "round": "2026 Week 4"
-        },
-        {
-          "date": "2026-09-18",
-          "date_iso": "2026-09-18",
-          "opponent": "Elba",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 36,
-          "is_playoff": false,
-          "round": "2026 Week 5"
-        },
-        {
-          "date": "2026-10-02",
-          "date_iso": "2026-10-02",
-          "opponent": "Brantley",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 39,
-          "is_playoff": false,
-          "round": "2026 Week 7"
-        },
-        {
-          "date": "2026-10-08",
-          "date_iso": "2026-10-08",
-          "opponent": "Florala",
-          "result": "L",
-          "team_score": 20,
-          "opp_score": 38,
-          "is_playoff": false,
-          "round": "2026 Week 7"
-        },
-        {
-          "date": "2026-10-15",
-          "date_iso": "2026-10-15",
-          "opponent": "Kinston",
-          "result": "L",
-          "team_score": 34,
-          "opp_score": 59,
-          "is_playoff": false,
-          "round": "2026 Week 8"
-        },
-        {
-          "date": "2026-10-22",
-          "date_iso": "2026-10-22",
-          "opponent": "Samson",
-          "result": "L",
-          "team_score": 36,
-          "opp_score": 43,
-          "is_playoff": false,
-          "round": "2026 Week 9"
-        },
-        {
-          "date": "2026-10-30",
-          "date_iso": "2026-10-30",
-          "opponent": "Daleville",
-          "result": "W",
-          "team_score": 30,
-          "opp_score": 12,
-          "is_playoff": false,
-          "round": "2026 Week 11"
-        }
-      ]
-    },
-    {
-      "rank": 320,
       "division_rank": 58,
       "team": "Woodlawn",
       "state": "AL",
@@ -44202,6 +44069,139 @@
           "opp_score": 42,
           "is_playoff": false,
           "round": "2026 Week 10"
+        }
+      ]
+    },
+    {
+      "rank": 320,
+      "division_rank": 40,
+      "team": "Abbeville",
+      "state": "AL",
+      "division": "1A",
+      "conference": "AHSAA 1A",
+      "city": "Abbeville",
+      "wins": 2,
+      "losses": 8,
+      "ties": 0,
+      "games_played": 10,
+      "record": "2-8",
+      "power_index": 34.1,
+      "spi": 34.1,
+      "raw_rating": -15.86,
+      "sos_index": 47.3,
+      "sos_raw": -2.72,
+      "sos_rank": 270,
+      "ppg_scored": 18.8,
+      "ppg_off": 18.8,
+      "ppg_allowed": 33.2,
+      "ppg_def": 33.2,
+      "net_margin": -14.4,
+      "pqs": 36.8,
+      "ppa": 36.8,
+      "harbin_avg": 36.8,
+      "contender_tier": "Varsity Program",
+      "lat": 31.56471,
+      "lng": -85.25912,
+      "schedule_2026": [
+        {
+          "date": "2026-08-21",
+          "date_iso": "2026-08-21",
+          "opponent": "Headland",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 41,
+          "is_playoff": false,
+          "round": "2026 Week 1"
+        },
+        {
+          "date": "2026-08-28",
+          "date_iso": "2026-08-28",
+          "opponent": "Ashford",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 36,
+          "is_playoff": false,
+          "round": "2026 Week 2"
+        },
+        {
+          "date": "2026-09-04",
+          "date_iso": "2026-09-04",
+          "opponent": "Barbour County",
+          "result": "W",
+          "team_score": 28,
+          "opp_score": 0,
+          "is_playoff": false,
+          "round": "2026 Week 3"
+        },
+        {
+          "date": "2026-09-11",
+          "date_iso": "2026-09-11",
+          "opponent": "Pleasant Home",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 28,
+          "is_playoff": false,
+          "round": "2026 Week 4"
+        },
+        {
+          "date": "2026-09-18",
+          "date_iso": "2026-09-18",
+          "opponent": "Elba",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 36,
+          "is_playoff": false,
+          "round": "2026 Week 5"
+        },
+        {
+          "date": "2026-10-02",
+          "date_iso": "2026-10-02",
+          "opponent": "Brantley",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 39,
+          "is_playoff": false,
+          "round": "2026 Week 7"
+        },
+        {
+          "date": "2026-10-08",
+          "date_iso": "2026-10-08",
+          "opponent": "Florala",
+          "result": "L",
+          "team_score": 20,
+          "opp_score": 38,
+          "is_playoff": false,
+          "round": "2026 Week 7"
+        },
+        {
+          "date": "2026-10-15",
+          "date_iso": "2026-10-15",
+          "opponent": "Kinston",
+          "result": "L",
+          "team_score": 34,
+          "opp_score": 59,
+          "is_playoff": false,
+          "round": "2026 Week 8"
+        },
+        {
+          "date": "2026-10-22",
+          "date_iso": "2026-10-22",
+          "opponent": "Samson",
+          "result": "L",
+          "team_score": 36,
+          "opp_score": 43,
+          "is_playoff": false,
+          "round": "2026 Week 9"
+        },
+        {
+          "date": "2026-10-30",
+          "date_iso": "2026-10-30",
+          "opponent": "Daleville",
+          "result": "W",
+          "team_score": 30,
+          "opp_score": 12,
+          "is_playoff": false,
+          "round": "2026 Week 11"
         }
       ]
     },
@@ -51718,6 +51718,139 @@
     },
     {
       "rank": 378,
+      "division_rank": 64,
+      "team": "Crossville",
+      "state": "AL",
+      "division": "4A",
+      "conference": "AHSAA 4A",
+      "city": "Crossville",
+      "wins": 1,
+      "losses": 9,
+      "ties": 0,
+      "games_played": 10,
+      "record": "1-9",
+      "power_index": 15.0,
+      "spi": 15.0,
+      "raw_rating": -35.0,
+      "sos_index": 47.7,
+      "sos_raw": -2.28,
+      "sos_rank": 259,
+      "ppg_scored": 5.6,
+      "ppg_off": 5.6,
+      "ppg_allowed": 48.1,
+      "ppg_def": 48.1,
+      "net_margin": -42.5,
+      "pqs": 32.4,
+      "ppa": 32.4,
+      "harbin_avg": 32.4,
+      "contender_tier": "Varsity Program",
+      "lat": 34.2827,
+      "lng": -85.99974,
+      "schedule_2026": [
+        {
+          "date": "2026-08-21",
+          "date_iso": "2026-08-21",
+          "opponent": "Asbury",
+          "result": "W",
+          "team_score": 24,
+          "opp_score": 13,
+          "is_playoff": false,
+          "round": "2026 Week 1"
+        },
+        {
+          "date": "2026-08-28",
+          "date_iso": "2026-08-28",
+          "opponent": "Scottsboro",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 62,
+          "is_playoff": false,
+          "round": "2026 Week 2"
+        },
+        {
+          "date": "2026-09-04",
+          "date_iso": "2026-09-04",
+          "opponent": "Brewer",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 49,
+          "is_playoff": false,
+          "round": "2026 Week 3"
+        },
+        {
+          "date": "2026-09-11",
+          "date_iso": "2026-09-11",
+          "opponent": "Sardis",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 48,
+          "is_playoff": false,
+          "round": "2026 Week 4"
+        },
+        {
+          "date": "2026-09-18",
+          "date_iso": "2026-09-18",
+          "opponent": "Good Hope",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 46,
+          "is_playoff": false,
+          "round": "2026 Week 5"
+        },
+        {
+          "date": "2026-09-25",
+          "date_iso": "2026-09-25",
+          "opponent": "Geraldine",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 62,
+          "is_playoff": false,
+          "round": "2026 Week 6"
+        },
+        {
+          "date": "2026-10-02",
+          "date_iso": "2026-10-02",
+          "opponent": "Guntersville",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 56,
+          "is_playoff": false,
+          "round": "2026 Week 7"
+        },
+        {
+          "date": "2026-10-16",
+          "date_iso": "2026-10-16",
+          "opponent": "Fairview",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 41,
+          "is_playoff": false,
+          "round": "2026 Week 9"
+        },
+        {
+          "date": "2026-10-22",
+          "date_iso": "2026-10-22",
+          "opponent": "Cherokee County",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 49,
+          "is_playoff": false,
+          "round": "2026 Week 9"
+        },
+        {
+          "date": "2026-10-30",
+          "date_iso": "2026-10-30",
+          "opponent": "Hayden",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 55,
+          "is_playoff": false,
+          "round": "2026 Week 11"
+        }
+      ]
+    },
+    {
+      "rank": 379,
       "division_rank": 58,
       "team": "Calhoun",
       "state": "AL",
@@ -51850,7 +51983,7 @@
       ]
     },
     {
-      "rank": 379,
+      "rank": 380,
       "division_rank": 59,
       "team": "Phillips",
       "state": "AL",
@@ -51979,139 +52112,6 @@
           "opp_score": 47,
           "is_playoff": false,
           "round": "2026 Week 9"
-        }
-      ]
-    },
-    {
-      "rank": 380,
-      "division_rank": 64,
-      "team": "Crossville",
-      "state": "AL",
-      "division": "4A",
-      "conference": "AHSAA 4A",
-      "city": "Crossville",
-      "wins": 1,
-      "losses": 9,
-      "ties": 0,
-      "games_played": 10,
-      "record": "1-9",
-      "power_index": 15.0,
-      "spi": 15.0,
-      "raw_rating": -35.0,
-      "sos_index": 47.7,
-      "sos_raw": -2.28,
-      "sos_rank": 259,
-      "ppg_scored": 5.6,
-      "ppg_off": 5.6,
-      "ppg_allowed": 48.1,
-      "ppg_def": 48.1,
-      "net_margin": -42.5,
-      "pqs": 32.4,
-      "ppa": 32.4,
-      "harbin_avg": 32.4,
-      "contender_tier": "Varsity Program",
-      "lat": 34.2827,
-      "lng": -85.99974,
-      "schedule_2026": [
-        {
-          "date": "2026-08-21",
-          "date_iso": "2026-08-21",
-          "opponent": "Asbury",
-          "result": "W",
-          "team_score": 24,
-          "opp_score": 13,
-          "is_playoff": false,
-          "round": "2026 Week 1"
-        },
-        {
-          "date": "2026-08-28",
-          "date_iso": "2026-08-28",
-          "opponent": "Scottsboro",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 62,
-          "is_playoff": false,
-          "round": "2026 Week 2"
-        },
-        {
-          "date": "2026-09-04",
-          "date_iso": "2026-09-04",
-          "opponent": "Brewer",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 49,
-          "is_playoff": false,
-          "round": "2026 Week 3"
-        },
-        {
-          "date": "2026-09-11",
-          "date_iso": "2026-09-11",
-          "opponent": "Sardis",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 48,
-          "is_playoff": false,
-          "round": "2026 Week 4"
-        },
-        {
-          "date": "2026-09-18",
-          "date_iso": "2026-09-18",
-          "opponent": "Good Hope",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 46,
-          "is_playoff": false,
-          "round": "2026 Week 5"
-        },
-        {
-          "date": "2026-09-25",
-          "date_iso": "2026-09-25",
-          "opponent": "Geraldine",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 62,
-          "is_playoff": false,
-          "round": "2026 Week 6"
-        },
-        {
-          "date": "2026-10-02",
-          "date_iso": "2026-10-02",
-          "opponent": "Guntersville",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 56,
-          "is_playoff": false,
-          "round": "2026 Week 7"
-        },
-        {
-          "date": "2026-10-16",
-          "date_iso": "2026-10-16",
-          "opponent": "Fairview",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 41,
-          "is_playoff": false,
-          "round": "2026 Week 9"
-        },
-        {
-          "date": "2026-10-22",
-          "date_iso": "2026-10-22",
-          "opponent": "Cherokee County",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 49,
-          "is_playoff": false,
-          "round": "2026 Week 9"
-        },
-        {
-          "date": "2026-10-30",
-          "date_iso": "2026-10-30",
-          "opponent": "Hayden",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 55,
-          "is_playoff": false,
-          "round": "2026 Week 11"
         }
       ]
     },
@@ -52343,6 +52343,139 @@
     },
     {
       "rank": 383,
+      "division_rank": 61,
+      "team": "Breakthrough Charter",
+      "state": "AL",
+      "division": "1A",
+      "conference": "AHSAA 1A",
+      "city": "Marion",
+      "wins": 0,
+      "losses": 10,
+      "ties": 0,
+      "games_played": 10,
+      "record": "0-10",
+      "power_index": 15.0,
+      "spi": 15.0,
+      "raw_rating": -35.0,
+      "sos_index": 40.7,
+      "sos_raw": -9.26,
+      "sos_rank": 382,
+      "ppg_scored": 4.2,
+      "ppg_off": 4.2,
+      "ppg_allowed": 41.6,
+      "ppg_def": 41.6,
+      "net_margin": -37.4,
+      "pqs": 28.0,
+      "ppa": 28.0,
+      "harbin_avg": 28.0,
+      "contender_tier": "Varsity Program",
+      "lat": 32.62852,
+      "lng": -87.32078,
+      "schedule_2026": [
+        {
+          "date": "2026-08-21",
+          "date_iso": "2026-08-21",
+          "opponent": "Dallas County",
+          "result": "L",
+          "team_score": 8,
+          "opp_score": 40,
+          "is_playoff": false,
+          "round": "2026 Week 1"
+        },
+        {
+          "date": "2026-08-28",
+          "date_iso": "2026-08-28",
+          "opponent": "Central-Hayneville",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 30,
+          "is_playoff": false,
+          "round": "2026 Week 2"
+        },
+        {
+          "date": "2026-09-04",
+          "date_iso": "2026-09-04",
+          "opponent": "Hatch",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 30,
+          "is_playoff": false,
+          "round": "2026 Week 3"
+        },
+        {
+          "date": "2026-09-11",
+          "date_iso": "2026-09-11",
+          "opponent": "Sweet Water",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 56,
+          "is_playoff": false,
+          "round": "2026 Week 4"
+        },
+        {
+          "date": "2026-09-18",
+          "date_iso": "2026-09-18",
+          "opponent": "Linden",
+          "result": "L",
+          "team_score": 8,
+          "opp_score": 52,
+          "is_playoff": false,
+          "round": "2026 Week 5"
+        },
+        {
+          "date": "2026-09-25",
+          "date_iso": "2026-09-25",
+          "opponent": "Calhoun",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 38,
+          "is_playoff": false,
+          "round": "2026 Week 6"
+        },
+        {
+          "date": "2026-10-02",
+          "date_iso": "2026-10-02",
+          "opponent": "Marion",
+          "result": "L",
+          "team_score": 20,
+          "opp_score": 22,
+          "is_playoff": false,
+          "round": "2026 Week 7"
+        },
+        {
+          "date": "2026-10-09",
+          "date_iso": "2026-10-09",
+          "opponent": "Shields",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 42,
+          "is_playoff": false,
+          "round": "2026 Week 8"
+        },
+        {
+          "date": "2026-10-16",
+          "date_iso": "2026-10-16",
+          "opponent": "University Charter",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 60,
+          "is_playoff": false,
+          "round": "2026 Week 9"
+        },
+        {
+          "date": "2026-10-23",
+          "date_iso": "2026-10-23",
+          "opponent": "Keith",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 46,
+          "is_playoff": false,
+          "round": "2026 Week 10"
+        }
+      ]
+    },
+    {
+      "rank": 384,
       "division_rank": 63,
       "team": "Asbury",
       "state": "AL",
@@ -52475,7 +52608,7 @@
       ]
     },
     {
-      "rank": 384,
+      "rank": 385,
       "division_rank": 64,
       "team": "Hanceville",
       "state": "AL",
@@ -52604,139 +52737,6 @@
           "opp_score": 48,
           "is_playoff": false,
           "round": "2026 Week 11"
-        }
-      ]
-    },
-    {
-      "rank": 385,
-      "division_rank": 61,
-      "team": "Breakthrough Charter",
-      "state": "AL",
-      "division": "1A",
-      "conference": "AHSAA 1A",
-      "city": "Marion",
-      "wins": 0,
-      "losses": 10,
-      "ties": 0,
-      "games_played": 10,
-      "record": "0-10",
-      "power_index": 15.0,
-      "spi": 15.0,
-      "raw_rating": -35.0,
-      "sos_index": 40.7,
-      "sos_raw": -9.26,
-      "sos_rank": 382,
-      "ppg_scored": 4.2,
-      "ppg_off": 4.2,
-      "ppg_allowed": 41.6,
-      "ppg_def": 41.6,
-      "net_margin": -37.4,
-      "pqs": 28.0,
-      "ppa": 28.0,
-      "harbin_avg": 28.0,
-      "contender_tier": "Varsity Program",
-      "lat": 32.62852,
-      "lng": -87.32078,
-      "schedule_2026": [
-        {
-          "date": "2026-08-21",
-          "date_iso": "2026-08-21",
-          "opponent": "Dallas County",
-          "result": "L",
-          "team_score": 8,
-          "opp_score": 40,
-          "is_playoff": false,
-          "round": "2026 Week 1"
-        },
-        {
-          "date": "2026-08-28",
-          "date_iso": "2026-08-28",
-          "opponent": "Central-Hayneville",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 30,
-          "is_playoff": false,
-          "round": "2026 Week 2"
-        },
-        {
-          "date": "2026-09-04",
-          "date_iso": "2026-09-04",
-          "opponent": "Hatch",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 30,
-          "is_playoff": false,
-          "round": "2026 Week 3"
-        },
-        {
-          "date": "2026-09-11",
-          "date_iso": "2026-09-11",
-          "opponent": "Sweet Water",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 56,
-          "is_playoff": false,
-          "round": "2026 Week 4"
-        },
-        {
-          "date": "2026-09-18",
-          "date_iso": "2026-09-18",
-          "opponent": "Linden",
-          "result": "L",
-          "team_score": 8,
-          "opp_score": 52,
-          "is_playoff": false,
-          "round": "2026 Week 5"
-        },
-        {
-          "date": "2026-09-25",
-          "date_iso": "2026-09-25",
-          "opponent": "Calhoun",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 38,
-          "is_playoff": false,
-          "round": "2026 Week 6"
-        },
-        {
-          "date": "2026-10-02",
-          "date_iso": "2026-10-02",
-          "opponent": "Marion",
-          "result": "L",
-          "team_score": 20,
-          "opp_score": 22,
-          "is_playoff": false,
-          "round": "2026 Week 7"
-        },
-        {
-          "date": "2026-10-09",
-          "date_iso": "2026-10-09",
-          "opponent": "Shields",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 42,
-          "is_playoff": false,
-          "round": "2026 Week 8"
-        },
-        {
-          "date": "2026-10-16",
-          "date_iso": "2026-10-16",
-          "opponent": "University Charter",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 60,
-          "is_playoff": false,
-          "round": "2026 Week 9"
-        },
-        {
-          "date": "2026-10-23",
-          "date_iso": "2026-10-23",
-          "opponent": "Keith",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 46,
-          "is_playoff": false,
-          "round": "2026 Week 10"
         }
       ]
     },
@@ -95913,123 +95913,6 @@
         }
       ]
     },
-    "Abbeville": {
-      "team": "Abbeville",
-      "state": "AL",
-      "division": "1A",
-      "conference": "AHSAA 1A",
-      "city": "Abbeville",
-      "record": "2-8",
-      "wins": 2,
-      "losses": 8,
-      "power_index": 34.1,
-      "raw_rating": -15.86,
-      "sos_index": 47.3,
-      "ppg_scored": 18.8,
-      "ppg_allowed": 33.2,
-      "schedule_2026": [
-        {
-          "date": "2026-08-21",
-          "date_iso": "2026-08-21",
-          "opponent": "Headland",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 41,
-          "is_playoff": false,
-          "round": "2026 Week 1"
-        },
-        {
-          "date": "2026-08-28",
-          "date_iso": "2026-08-28",
-          "opponent": "Ashford",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 36,
-          "is_playoff": false,
-          "round": "2026 Week 2"
-        },
-        {
-          "date": "2026-09-04",
-          "date_iso": "2026-09-04",
-          "opponent": "Barbour County",
-          "result": "W",
-          "team_score": 28,
-          "opp_score": 0,
-          "is_playoff": false,
-          "round": "2026 Week 3"
-        },
-        {
-          "date": "2026-09-11",
-          "date_iso": "2026-09-11",
-          "opponent": "Pleasant Home",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 28,
-          "is_playoff": false,
-          "round": "2026 Week 4"
-        },
-        {
-          "date": "2026-09-18",
-          "date_iso": "2026-09-18",
-          "opponent": "Elba",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 36,
-          "is_playoff": false,
-          "round": "2026 Week 5"
-        },
-        {
-          "date": "2026-10-02",
-          "date_iso": "2026-10-02",
-          "opponent": "Brantley",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 39,
-          "is_playoff": false,
-          "round": "2026 Week 7"
-        },
-        {
-          "date": "2026-10-08",
-          "date_iso": "2026-10-08",
-          "opponent": "Florala",
-          "result": "L",
-          "team_score": 20,
-          "opp_score": 38,
-          "is_playoff": false,
-          "round": "2026 Week 7"
-        },
-        {
-          "date": "2026-10-15",
-          "date_iso": "2026-10-15",
-          "opponent": "Kinston",
-          "result": "L",
-          "team_score": 34,
-          "opp_score": 59,
-          "is_playoff": false,
-          "round": "2026 Week 8"
-        },
-        {
-          "date": "2026-10-22",
-          "date_iso": "2026-10-22",
-          "opponent": "Samson",
-          "result": "L",
-          "team_score": 36,
-          "opp_score": 43,
-          "is_playoff": false,
-          "round": "2026 Week 9"
-        },
-        {
-          "date": "2026-10-30",
-          "date_iso": "2026-10-30",
-          "opponent": "Daleville",
-          "result": "W",
-          "team_score": 30,
-          "opp_score": 12,
-          "is_playoff": false,
-          "round": "2026 Week 11"
-        }
-      ]
-    },
     "Woodlawn": {
       "team": "Woodlawn",
       "state": "AL",
@@ -96144,6 +96027,123 @@
           "opp_score": 42,
           "is_playoff": false,
           "round": "2026 Week 10"
+        }
+      ]
+    },
+    "Abbeville": {
+      "team": "Abbeville",
+      "state": "AL",
+      "division": "1A",
+      "conference": "AHSAA 1A",
+      "city": "Abbeville",
+      "record": "2-8",
+      "wins": 2,
+      "losses": 8,
+      "power_index": 34.1,
+      "raw_rating": -15.86,
+      "sos_index": 47.3,
+      "ppg_scored": 18.8,
+      "ppg_allowed": 33.2,
+      "schedule_2026": [
+        {
+          "date": "2026-08-21",
+          "date_iso": "2026-08-21",
+          "opponent": "Headland",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 41,
+          "is_playoff": false,
+          "round": "2026 Week 1"
+        },
+        {
+          "date": "2026-08-28",
+          "date_iso": "2026-08-28",
+          "opponent": "Ashford",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 36,
+          "is_playoff": false,
+          "round": "2026 Week 2"
+        },
+        {
+          "date": "2026-09-04",
+          "date_iso": "2026-09-04",
+          "opponent": "Barbour County",
+          "result": "W",
+          "team_score": 28,
+          "opp_score": 0,
+          "is_playoff": false,
+          "round": "2026 Week 3"
+        },
+        {
+          "date": "2026-09-11",
+          "date_iso": "2026-09-11",
+          "opponent": "Pleasant Home",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 28,
+          "is_playoff": false,
+          "round": "2026 Week 4"
+        },
+        {
+          "date": "2026-09-18",
+          "date_iso": "2026-09-18",
+          "opponent": "Elba",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 36,
+          "is_playoff": false,
+          "round": "2026 Week 5"
+        },
+        {
+          "date": "2026-10-02",
+          "date_iso": "2026-10-02",
+          "opponent": "Brantley",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 39,
+          "is_playoff": false,
+          "round": "2026 Week 7"
+        },
+        {
+          "date": "2026-10-08",
+          "date_iso": "2026-10-08",
+          "opponent": "Florala",
+          "result": "L",
+          "team_score": 20,
+          "opp_score": 38,
+          "is_playoff": false,
+          "round": "2026 Week 7"
+        },
+        {
+          "date": "2026-10-15",
+          "date_iso": "2026-10-15",
+          "opponent": "Kinston",
+          "result": "L",
+          "team_score": 34,
+          "opp_score": 59,
+          "is_playoff": false,
+          "round": "2026 Week 8"
+        },
+        {
+          "date": "2026-10-22",
+          "date_iso": "2026-10-22",
+          "opponent": "Samson",
+          "result": "L",
+          "team_score": 36,
+          "opp_score": 43,
+          "is_playoff": false,
+          "round": "2026 Week 9"
+        },
+        {
+          "date": "2026-10-30",
+          "date_iso": "2026-10-30",
+          "opponent": "Daleville",
+          "result": "W",
+          "team_score": 30,
+          "opp_score": 12,
+          "is_playoff": false,
+          "round": "2026 Week 11"
         }
       ]
     },
@@ -102746,6 +102746,123 @@
         }
       ]
     },
+    "Crossville": {
+      "team": "Crossville",
+      "state": "AL",
+      "division": "4A",
+      "conference": "AHSAA 4A",
+      "city": "Crossville",
+      "record": "1-9",
+      "wins": 1,
+      "losses": 9,
+      "power_index": 15.0,
+      "raw_rating": -35.0,
+      "sos_index": 47.7,
+      "ppg_scored": 5.6,
+      "ppg_allowed": 48.1,
+      "schedule_2026": [
+        {
+          "date": "2026-08-21",
+          "date_iso": "2026-08-21",
+          "opponent": "Asbury",
+          "result": "W",
+          "team_score": 24,
+          "opp_score": 13,
+          "is_playoff": false,
+          "round": "2026 Week 1"
+        },
+        {
+          "date": "2026-08-28",
+          "date_iso": "2026-08-28",
+          "opponent": "Scottsboro",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 62,
+          "is_playoff": false,
+          "round": "2026 Week 2"
+        },
+        {
+          "date": "2026-09-04",
+          "date_iso": "2026-09-04",
+          "opponent": "Brewer",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 49,
+          "is_playoff": false,
+          "round": "2026 Week 3"
+        },
+        {
+          "date": "2026-09-11",
+          "date_iso": "2026-09-11",
+          "opponent": "Sardis",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 48,
+          "is_playoff": false,
+          "round": "2026 Week 4"
+        },
+        {
+          "date": "2026-09-18",
+          "date_iso": "2026-09-18",
+          "opponent": "Good Hope",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 46,
+          "is_playoff": false,
+          "round": "2026 Week 5"
+        },
+        {
+          "date": "2026-09-25",
+          "date_iso": "2026-09-25",
+          "opponent": "Geraldine",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 62,
+          "is_playoff": false,
+          "round": "2026 Week 6"
+        },
+        {
+          "date": "2026-10-02",
+          "date_iso": "2026-10-02",
+          "opponent": "Guntersville",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 56,
+          "is_playoff": false,
+          "round": "2026 Week 7"
+        },
+        {
+          "date": "2026-10-16",
+          "date_iso": "2026-10-16",
+          "opponent": "Fairview",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 41,
+          "is_playoff": false,
+          "round": "2026 Week 9"
+        },
+        {
+          "date": "2026-10-22",
+          "date_iso": "2026-10-22",
+          "opponent": "Cherokee County",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 49,
+          "is_playoff": false,
+          "round": "2026 Week 9"
+        },
+        {
+          "date": "2026-10-30",
+          "date_iso": "2026-10-30",
+          "opponent": "Hayden",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 55,
+          "is_playoff": false,
+          "round": "2026 Week 11"
+        }
+      ]
+    },
     "Calhoun": {
       "team": "Calhoun",
       "state": "AL",
@@ -102980,123 +103097,6 @@
         }
       ]
     },
-    "Crossville": {
-      "team": "Crossville",
-      "state": "AL",
-      "division": "4A",
-      "conference": "AHSAA 4A",
-      "city": "Crossville",
-      "record": "1-9",
-      "wins": 1,
-      "losses": 9,
-      "power_index": 15.0,
-      "raw_rating": -35.0,
-      "sos_index": 47.7,
-      "ppg_scored": 5.6,
-      "ppg_allowed": 48.1,
-      "schedule_2026": [
-        {
-          "date": "2026-08-21",
-          "date_iso": "2026-08-21",
-          "opponent": "Asbury",
-          "result": "W",
-          "team_score": 24,
-          "opp_score": 13,
-          "is_playoff": false,
-          "round": "2026 Week 1"
-        },
-        {
-          "date": "2026-08-28",
-          "date_iso": "2026-08-28",
-          "opponent": "Scottsboro",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 62,
-          "is_playoff": false,
-          "round": "2026 Week 2"
-        },
-        {
-          "date": "2026-09-04",
-          "date_iso": "2026-09-04",
-          "opponent": "Brewer",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 49,
-          "is_playoff": false,
-          "round": "2026 Week 3"
-        },
-        {
-          "date": "2026-09-11",
-          "date_iso": "2026-09-11",
-          "opponent": "Sardis",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 48,
-          "is_playoff": false,
-          "round": "2026 Week 4"
-        },
-        {
-          "date": "2026-09-18",
-          "date_iso": "2026-09-18",
-          "opponent": "Good Hope",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 46,
-          "is_playoff": false,
-          "round": "2026 Week 5"
-        },
-        {
-          "date": "2026-09-25",
-          "date_iso": "2026-09-25",
-          "opponent": "Geraldine",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 62,
-          "is_playoff": false,
-          "round": "2026 Week 6"
-        },
-        {
-          "date": "2026-10-02",
-          "date_iso": "2026-10-02",
-          "opponent": "Guntersville",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 56,
-          "is_playoff": false,
-          "round": "2026 Week 7"
-        },
-        {
-          "date": "2026-10-16",
-          "date_iso": "2026-10-16",
-          "opponent": "Fairview",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 41,
-          "is_playoff": false,
-          "round": "2026 Week 9"
-        },
-        {
-          "date": "2026-10-22",
-          "date_iso": "2026-10-22",
-          "opponent": "Cherokee County",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 49,
-          "is_playoff": false,
-          "round": "2026 Week 9"
-        },
-        {
-          "date": "2026-10-30",
-          "date_iso": "2026-10-30",
-          "opponent": "Hayden",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 55,
-          "is_playoff": false,
-          "round": "2026 Week 11"
-        }
-      ]
-    },
     "Vina": {
       "team": "Vina",
       "state": "AL",
@@ -103288,6 +103288,123 @@
           "opp_score": 48,
           "is_playoff": false,
           "round": "2026 Week 9"
+        }
+      ]
+    },
+    "Breakthrough Charter": {
+      "team": "Breakthrough Charter",
+      "state": "AL",
+      "division": "1A",
+      "conference": "AHSAA 1A",
+      "city": "Marion",
+      "record": "0-10",
+      "wins": 0,
+      "losses": 10,
+      "power_index": 15.0,
+      "raw_rating": -35.0,
+      "sos_index": 40.7,
+      "ppg_scored": 4.2,
+      "ppg_allowed": 41.6,
+      "schedule_2026": [
+        {
+          "date": "2026-08-21",
+          "date_iso": "2026-08-21",
+          "opponent": "Dallas County",
+          "result": "L",
+          "team_score": 8,
+          "opp_score": 40,
+          "is_playoff": false,
+          "round": "2026 Week 1"
+        },
+        {
+          "date": "2026-08-28",
+          "date_iso": "2026-08-28",
+          "opponent": "Central-Hayneville",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 30,
+          "is_playoff": false,
+          "round": "2026 Week 2"
+        },
+        {
+          "date": "2026-09-04",
+          "date_iso": "2026-09-04",
+          "opponent": "Hatch",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 30,
+          "is_playoff": false,
+          "round": "2026 Week 3"
+        },
+        {
+          "date": "2026-09-11",
+          "date_iso": "2026-09-11",
+          "opponent": "Sweet Water",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 56,
+          "is_playoff": false,
+          "round": "2026 Week 4"
+        },
+        {
+          "date": "2026-09-18",
+          "date_iso": "2026-09-18",
+          "opponent": "Linden",
+          "result": "L",
+          "team_score": 8,
+          "opp_score": 52,
+          "is_playoff": false,
+          "round": "2026 Week 5"
+        },
+        {
+          "date": "2026-09-25",
+          "date_iso": "2026-09-25",
+          "opponent": "Calhoun",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 38,
+          "is_playoff": false,
+          "round": "2026 Week 6"
+        },
+        {
+          "date": "2026-10-02",
+          "date_iso": "2026-10-02",
+          "opponent": "Marion",
+          "result": "L",
+          "team_score": 20,
+          "opp_score": 22,
+          "is_playoff": false,
+          "round": "2026 Week 7"
+        },
+        {
+          "date": "2026-10-09",
+          "date_iso": "2026-10-09",
+          "opponent": "Shields",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 42,
+          "is_playoff": false,
+          "round": "2026 Week 8"
+        },
+        {
+          "date": "2026-10-16",
+          "date_iso": "2026-10-16",
+          "opponent": "University Charter",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 60,
+          "is_playoff": false,
+          "round": "2026 Week 9"
+        },
+        {
+          "date": "2026-10-23",
+          "date_iso": "2026-10-23",
+          "opponent": "Keith",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 46,
+          "is_playoff": false,
+          "round": "2026 Week 10"
         }
       ]
     },
@@ -103522,123 +103639,6 @@
           "opp_score": 48,
           "is_playoff": false,
           "round": "2026 Week 11"
-        }
-      ]
-    },
-    "Breakthrough Charter": {
-      "team": "Breakthrough Charter",
-      "state": "AL",
-      "division": "1A",
-      "conference": "AHSAA 1A",
-      "city": "Marion",
-      "record": "0-10",
-      "wins": 0,
-      "losses": 10,
-      "power_index": 15.0,
-      "raw_rating": -35.0,
-      "sos_index": 40.7,
-      "ppg_scored": 4.2,
-      "ppg_allowed": 41.6,
-      "schedule_2026": [
-        {
-          "date": "2026-08-21",
-          "date_iso": "2026-08-21",
-          "opponent": "Dallas County",
-          "result": "L",
-          "team_score": 8,
-          "opp_score": 40,
-          "is_playoff": false,
-          "round": "2026 Week 1"
-        },
-        {
-          "date": "2026-08-28",
-          "date_iso": "2026-08-28",
-          "opponent": "Central-Hayneville",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 30,
-          "is_playoff": false,
-          "round": "2026 Week 2"
-        },
-        {
-          "date": "2026-09-04",
-          "date_iso": "2026-09-04",
-          "opponent": "Hatch",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 30,
-          "is_playoff": false,
-          "round": "2026 Week 3"
-        },
-        {
-          "date": "2026-09-11",
-          "date_iso": "2026-09-11",
-          "opponent": "Sweet Water",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 56,
-          "is_playoff": false,
-          "round": "2026 Week 4"
-        },
-        {
-          "date": "2026-09-18",
-          "date_iso": "2026-09-18",
-          "opponent": "Linden",
-          "result": "L",
-          "team_score": 8,
-          "opp_score": 52,
-          "is_playoff": false,
-          "round": "2026 Week 5"
-        },
-        {
-          "date": "2026-09-25",
-          "date_iso": "2026-09-25",
-          "opponent": "Calhoun",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 38,
-          "is_playoff": false,
-          "round": "2026 Week 6"
-        },
-        {
-          "date": "2026-10-02",
-          "date_iso": "2026-10-02",
-          "opponent": "Marion",
-          "result": "L",
-          "team_score": 20,
-          "opp_score": 22,
-          "is_playoff": false,
-          "round": "2026 Week 7"
-        },
-        {
-          "date": "2026-10-09",
-          "date_iso": "2026-10-09",
-          "opponent": "Shields",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 42,
-          "is_playoff": false,
-          "round": "2026 Week 8"
-        },
-        {
-          "date": "2026-10-16",
-          "date_iso": "2026-10-16",
-          "opponent": "University Charter",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 60,
-          "is_playoff": false,
-          "round": "2026 Week 9"
-        },
-        {
-          "date": "2026-10-23",
-          "date_iso": "2026-10-23",
-          "opponent": "Keith",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 46,
-          "is_playoff": false,
-          "round": "2026 Week 10"
         }
       ]
     },

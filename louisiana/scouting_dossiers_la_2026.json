@@ -32981,123 +32981,6 @@
       }
     ]
   },
-  "Delhi Charter": {
-    "team": "Delhi Charter",
-    "state": "LA",
-    "division": "SD-4",
-    "conference": "LHSAA SD-4",
-    "city": "Delhi",
-    "record": "1-9",
-    "wins": 1,
-    "losses": 9,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 45.7,
-    "ppg_scored": 12.6,
-    "ppg_allowed": 45.3,
-    "schedule_2026": [
-      {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Cedar Creek",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 55,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "Jonesboro-Hodge",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 50,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "Delhi",
-        "result": "L",
-        "team_score": 2,
-        "opp_score": 26,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "Caldwell Parish",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 55,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Delta Charter",
-        "result": "L",
-        "team_score": 15,
-        "opp_score": 50,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Ferriday",
-        "result": "L",
-        "team_score": 12,
-        "opp_score": 54,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "Madison",
-        "result": "W",
-        "team_score": 41,
-        "opp_score": 12,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "Vidalia",
-        "result": "L",
-        "team_score": 22,
-        "opp_score": 56,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "Mangham",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 55,
-        "is_playoff": true,
-        "round": "2026 LHSAA First Round"
-      },
-      {
-        "date": "2026-11-05",
-        "date_iso": "2026-11-05",
-        "opponent": "Rayville",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 40,
-        "is_playoff": false,
-        "round": "2026 LHSAA Postseason"
-      }
-    ]
-  },
   "Thomas Jefferson": {
     "team": "Thomas Jefferson",
     "state": "LA",
@@ -33215,6 +33098,123 @@
       }
     ]
   },
+  "Delhi Charter": {
+    "team": "Delhi Charter",
+    "state": "LA",
+    "division": "SD-4",
+    "conference": "LHSAA SD-4",
+    "city": "Delhi",
+    "record": "1-9",
+    "wins": 1,
+    "losses": 9,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 45.7,
+    "ppg_scored": 12.6,
+    "ppg_allowed": 45.3,
+    "schedule_2026": [
+      {
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Cedar Creek",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 55,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "Jonesboro-Hodge",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 50,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "Delhi",
+        "result": "L",
+        "team_score": 2,
+        "opp_score": 26,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "Caldwell Parish",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 55,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Delta Charter",
+        "result": "L",
+        "team_score": 15,
+        "opp_score": 50,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Ferriday",
+        "result": "L",
+        "team_score": 12,
+        "opp_score": 54,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "Madison",
+        "result": "W",
+        "team_score": 41,
+        "opp_score": 12,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "Vidalia",
+        "result": "L",
+        "team_score": 22,
+        "opp_score": 56,
+        "is_playoff": false,
+        "round": "2026 Week 10"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "Mangham",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 55,
+        "is_playoff": true,
+        "round": "2026 LHSAA First Round"
+      },
+      {
+        "date": "2026-11-05",
+        "date_iso": "2026-11-05",
+        "opponent": "Rayville",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 40,
+        "is_playoff": false,
+        "round": "2026 LHSAA Postseason"
+      }
+    ]
+  },
   "Collegiate": {
     "team": "Collegiate",
     "state": "LA",
@@ -33307,113 +33307,6 @@
         "result": "L",
         "team_score": 0,
         "opp_score": 61,
-        "is_playoff": false,
-        "round": "2026 LHSAA Postseason"
-      }
-    ]
-  },
-  "Arcadia": {
-    "team": "Arcadia",
-    "state": "LA",
-    "division": "NS-D4",
-    "conference": "LHSAA NS-D4",
-    "city": "Arcadia",
-    "record": "0-9",
-    "wins": 0,
-    "losses": 9,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 47.6,
-    "ppg_scored": 7.8,
-    "ppg_allowed": 45.2,
-    "schedule_2026": [
-      {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Booker T. Washington-Shreveport",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 54,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "Winnfield",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 40,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "D'Arbonne Woods",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 42,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "Ringgold",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 48,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Jonesboro-Hodge",
-        "result": "L",
-        "team_score": 18,
-        "opp_score": 38,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Lincoln Prep",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 46,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "Haynesville",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 50,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "Cedar Creek",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 62,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-11-06",
-        "date_iso": "2026-11-06",
-        "opponent": "Glenbrook",
-        "result": "L",
-        "team_score": 20,
-        "opp_score": 27,
         "is_playoff": false,
         "round": "2026 LHSAA Postseason"
       }
@@ -33526,6 +33419,113 @@
       }
     ]
   },
+  "Arcadia": {
+    "team": "Arcadia",
+    "state": "LA",
+    "division": "NS-D4",
+    "conference": "LHSAA NS-D4",
+    "city": "Arcadia",
+    "record": "0-9",
+    "wins": 0,
+    "losses": 9,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 47.6,
+    "ppg_scored": 7.8,
+    "ppg_allowed": 45.2,
+    "schedule_2026": [
+      {
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Booker T. Washington-Shreveport",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 54,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "Winnfield",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 40,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "D'Arbonne Woods",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 42,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "Ringgold",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 48,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Jonesboro-Hodge",
+        "result": "L",
+        "team_score": 18,
+        "opp_score": 38,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Lincoln Prep",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 46,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "Haynesville",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 50,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "Cedar Creek",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 62,
+        "is_playoff": false,
+        "round": "2026 Week 10"
+      },
+      {
+        "date": "2026-11-06",
+        "date_iso": "2026-11-06",
+        "opponent": "Glenbrook",
+        "result": "L",
+        "team_score": 20,
+        "opp_score": 27,
+        "is_playoff": false,
+        "round": "2026 LHSAA Postseason"
+      }
+    ]
+  },
   "Jefferson RISE Charter": {
     "team": "Jefferson RISE Charter",
     "state": "LA",
@@ -33628,123 +33628,6 @@
         "result": "L",
         "team_score": 8,
         "opp_score": 12,
-        "is_playoff": false,
-        "round": "2026 LHSAA Postseason"
-      }
-    ]
-  },
-  "Highland Baptist Christian": {
-    "team": "Highland Baptist Christian",
-    "state": "LA",
-    "division": "SD-4",
-    "conference": "LHSAA SD-4",
-    "city": "New Iberia",
-    "record": "0-10",
-    "wins": 0,
-    "losses": 10,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 39.5,
-    "ppg_scored": 16.8,
-    "ppg_allowed": 45.7,
-    "schedule_2026": [
-      {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Houma Christian",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 33,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "Thrive Academy",
-        "result": "L",
-        "team_score": 28,
-        "opp_score": 40,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-17",
-        "date_iso": "2026-09-17",
-        "opponent": "Berchmans Academy",
-        "result": "L",
-        "team_score": 19,
-        "opp_score": 32,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-24",
-        "date_iso": "2026-09-24",
-        "opponent": "Delcambre",
-        "result": "L",
-        "team_score": 13,
-        "opp_score": 55,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Central Private",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 42,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "North Central",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 44,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "East Iberville",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 42,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "Ascension Christian",
-        "result": "L",
-        "team_score": 13,
-        "opp_score": 52,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "Hanson Memorial",
-        "result": "L",
-        "team_score": 21,
-        "opp_score": 55,
-        "is_playoff": true,
-        "round": "2026 LHSAA First Round"
-      },
-      {
-        "date": "2026-11-06",
-        "date_iso": "2026-11-06",
-        "opponent": "Gueydan",
-        "result": "L",
-        "team_score": 46,
-        "opp_score": 62,
         "is_playoff": false,
         "round": "2026 LHSAA Postseason"
       }
@@ -34096,6 +33979,123 @@
         "result": "L",
         "team_score": 32,
         "opp_score": 54,
+        "is_playoff": false,
+        "round": "2026 LHSAA Postseason"
+      }
+    ]
+  },
+  "Highland Baptist Christian": {
+    "team": "Highland Baptist Christian",
+    "state": "LA",
+    "division": "SD-4",
+    "conference": "LHSAA SD-4",
+    "city": "New Iberia",
+    "record": "0-10",
+    "wins": 0,
+    "losses": 10,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 39.5,
+    "ppg_scored": 16.8,
+    "ppg_allowed": 45.7,
+    "schedule_2026": [
+      {
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Houma Christian",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 33,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "Thrive Academy",
+        "result": "L",
+        "team_score": 28,
+        "opp_score": 40,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-17",
+        "date_iso": "2026-09-17",
+        "opponent": "Berchmans Academy",
+        "result": "L",
+        "team_score": 19,
+        "opp_score": 32,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-24",
+        "date_iso": "2026-09-24",
+        "opponent": "Delcambre",
+        "result": "L",
+        "team_score": 13,
+        "opp_score": 55,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Central Private",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 42,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "North Central",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 44,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "East Iberville",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 42,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "Ascension Christian",
+        "result": "L",
+        "team_score": 13,
+        "opp_score": 52,
+        "is_playoff": false,
+        "round": "2026 Week 10"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "Hanson Memorial",
+        "result": "L",
+        "team_score": 21,
+        "opp_score": 55,
+        "is_playoff": true,
+        "round": "2026 LHSAA First Round"
+      },
+      {
+        "date": "2026-11-06",
+        "date_iso": "2026-11-06",
+        "opponent": "Gueydan",
+        "result": "L",
+        "team_score": 46,
+        "opp_score": 62,
         "is_playoff": false,
         "round": "2026 LHSAA Postseason"
       }

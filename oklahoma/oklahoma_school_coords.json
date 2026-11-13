@@ -69,86 +69,6 @@
     "lng": -97.51078,
     "city": "Oklahoma City"
   },
-  "Broken Arrow": {
-    "lat": 36.03262,
-    "lng": -95.7765,
-    "city": "Broken Arrow"
-  },
-  "Bixby": {
-    "lat": 35.94557,
-    "lng": -95.87834,
-    "city": "Bixby"
-  },
-  "Jenks": {
-    "lat": 35.99822,
-    "lng": -95.9734,
-    "city": "Jenks"
-  },
-  "Owasso": {
-    "lat": 36.28985,
-    "lng": -95.83146,
-    "city": "Owasso"
-  },
-  "Mustang": {
-    "lat": 35.39185,
-    "lng": -97.72514,
-    "city": "Mustang"
-  },
-  "Union": {
-    "lat": 36.1269,
-    "lng": -95.90521,
-    "city": "Tulsa"
-  },
-  "Yukon": {
-    "lat": 35.52028,
-    "lng": -97.76328,
-    "city": "Yukon"
-  },
-  "Norman North": {
-    "lat": 35.23963,
-    "lng": -97.34088,
-    "city": "Norman"
-  },
-  "Deer Creek": {
-    "lat": 35.67338,
-    "lng": -97.40695,
-    "city": "Edmond"
-  },
-  "Edmond Memorial": {
-    "lat": 35.67665,
-    "lng": -97.41659,
-    "city": "Edmond"
-  },
-  "Moore": {
-    "lat": 35.32622,
-    "lng": -97.47195,
-    "city": "Moore"
-  },
-  "Edmond North": {
-    "lat": 35.67241,
-    "lng": -97.40747,
-    "city": "Edmond"
-  },
-  "Edmond Santa Fe": {
-    "lat": 35.67073,
-    "lng": -97.41319,
-    "city": "Edmond"
-  },
-  "Enid": {
-    "lat": 36.41096,
-    "lng": -97.86787,
-    "city": "Enid"
-  },
-  "Southmoore": {
-    "lat": 35.32527,
-    "lng": -97.47186,
-    "city": "Moore"
-  },
-  "Westmoore": {
-    "lat": 35.47059,
-    "lng": -97.51002,
-    "city": "Oklahoma City"
-  },
   "Mangum": {
     "lat": 34.87856,
     "lng": -99.50391,
@@ -308,6 +228,241 @@
     "lat": 35.42927,
     "lng": -96.30031,
     "city": "Okemah"
+  },
+  "Broken Arrow": {
+    "lat": 36.03262,
+    "lng": -95.7765,
+    "city": "Broken Arrow"
+  },
+  "Bixby": {
+    "lat": 35.94557,
+    "lng": -95.87834,
+    "city": "Bixby"
+  },
+  "Jenks": {
+    "lat": 35.99822,
+    "lng": -95.9734,
+    "city": "Jenks"
+  },
+  "Owasso": {
+    "lat": 36.28985,
+    "lng": -95.83146,
+    "city": "Owasso"
+  },
+  "Mustang": {
+    "lat": 35.39185,
+    "lng": -97.72514,
+    "city": "Mustang"
+  },
+  "Union": {
+    "lat": 36.1269,
+    "lng": -95.90521,
+    "city": "Tulsa"
+  },
+  "Yukon": {
+    "lat": 35.52028,
+    "lng": -97.76328,
+    "city": "Yukon"
+  },
+  "Norman North": {
+    "lat": 35.23963,
+    "lng": -97.34088,
+    "city": "Norman"
+  },
+  "Deer Creek": {
+    "lat": 35.67338,
+    "lng": -97.40695,
+    "city": "Edmond"
+  },
+  "Edmond Memorial": {
+    "lat": 35.67665,
+    "lng": -97.41659,
+    "city": "Edmond"
+  },
+  "Moore": {
+    "lat": 35.32622,
+    "lng": -97.47195,
+    "city": "Moore"
+  },
+  "Edmond North": {
+    "lat": 35.67241,
+    "lng": -97.40747,
+    "city": "Edmond"
+  },
+  "Edmond Santa Fe": {
+    "lat": 35.67073,
+    "lng": -97.41319,
+    "city": "Edmond"
+  },
+  "Enid": {
+    "lat": 36.41096,
+    "lng": -97.86787,
+    "city": "Enid"
+  },
+  "Southmoore": {
+    "lat": 35.32527,
+    "lng": -97.47186,
+    "city": "Moore"
+  },
+  "Westmoore": {
+    "lat": 35.47059,
+    "lng": -97.51002,
+    "city": "Oklahoma City"
+  },
+  "Tuttle": {
+    "lat": 35.31388,
+    "lng": -97.75361,
+    "city": "Tuttle"
+  },
+  "Sallisaw": {
+    "lat": 35.45677,
+    "lng": -94.80538,
+    "city": "Sallisaw"
+  },
+  "Broken Bow": {
+    "lat": 34.02886,
+    "lng": -94.74136,
+    "city": "Broken Bow"
+  },
+  "Ardmore": {
+    "lat": 34.19344,
+    "lng": -97.13717,
+    "city": "Ardmore"
+  },
+  "Fort Gibson": {
+    "lat": 35.78218,
+    "lng": -95.26014,
+    "city": "Fort Gibson"
+  },
+  "Weatherford": {
+    "lat": 35.53739,
+    "lng": -98.68434,
+    "city": "Weatherford"
+  },
+  "Chickasha": {
+    "lat": 35.04054,
+    "lng": -97.94717,
+    "city": "Chickasha"
+  },
+  "Stilwell": {
+    "lat": 35.81522,
+    "lng": -94.63147,
+    "city": "Stilwell"
+  },
+  "Cushing": {
+    "lat": 35.97968,
+    "lng": -96.76175,
+    "city": "Cushing"
+  },
+  "Poteau": {
+    "lat": 35.06665,
+    "lng": -94.61027,
+    "city": "Poteau"
+  },
+  "Clinton": {
+    "lat": 35.5071,
+    "lng": -98.9705,
+    "city": "Clinton"
+  },
+  "Grove": {
+    "lat": 36.58503,
+    "lng": -94.78725,
+    "city": "Grove"
+  },
+  "Wagoner": {
+    "lat": 35.96569,
+    "lng": -95.37771,
+    "city": "Wagoner"
+  },
+  "Skiatook": {
+    "lat": 36.34654,
+    "lng": -95.94536,
+    "city": "Skiatook"
+  },
+  "Ada": {
+    "lat": 34.76791,
+    "lng": -96.66911,
+    "city": "Ada"
+  },
+  "Cache": {
+    "lat": 34.62756,
+    "lng": -98.61955,
+    "city": "Cache"
+  },
+  "Harrah": {
+    "lat": 35.47205,
+    "lng": -97.18269,
+    "city": "Harrah"
+  },
+  "Bethany": {
+    "lat": 35.50717,
+    "lng": -97.64173,
+    "city": "Bethany"
+  },
+  "Woodward": {
+    "lat": 36.42483,
+    "lng": -99.40473,
+    "city": "Woodward"
+  },
+  "Hilldale": {
+    "lat": 35.74048,
+    "lng": -95.35972,
+    "city": "Muskogee"
+  },
+  "Blanchard": {
+    "lat": 35.15856,
+    "lng": -97.66412,
+    "city": "Blanchard"
+  },
+  "Bridge Creek": {
+    "lat": 35.15081,
+    "lng": -97.6685,
+    "city": "Blanchard"
+  },
+  "Mannford": {
+    "lat": 36.13286,
+    "lng": -96.33043,
+    "city": "Mannford"
+  },
+  "Oologah": {
+    "lat": 36.44378,
+    "lng": -95.70891,
+    "city": "Oologah"
+  },
+  "Miami": {
+    "lat": 36.88774,
+    "lng": -94.87091,
+    "city": "Miami"
+  },
+  "McLain Science & Tech": {
+    "lat": 36.13247,
+    "lng": -95.90248,
+    "city": "Tulsa"
+  },
+  "Elk City": {
+    "lat": 35.38904,
+    "lng": -99.42409,
+    "city": "Elk City"
+  },
+  "Cleveland": {
+    "lat": 36.31091,
+    "lng": -96.47218,
+    "city": "Cleveland"
+  },
+  "Tecumseh": {
+    "lat": 35.26427,
+    "lng": -96.93345,
+    "city": "Tecumseh"
+  },
+  "Douglass": {
+    "lat": 35.4702,
+    "lng": -97.51511,
+    "city": "Oklahoma City"
+  },
+  "Western Heights": {
+    "lat": 35.47079,
+    "lng": -97.50995,
+    "city": "Oklahoma City"
   },
   "Holdenville": {
     "lat": 35.08348,
@@ -469,320 +624,155 @@
     "lng": -95.90154,
     "city": "Tulsa"
   },
-  "Tuttle": {
-    "lat": 35.31388,
-    "lng": -97.75361,
-    "city": "Tuttle"
+  "Elgin": {
+    "lat": 34.78594,
+    "lng": -98.29663,
+    "city": "Elgin"
   },
-  "Sallisaw": {
-    "lat": 35.45677,
-    "lng": -94.80538,
-    "city": "Sallisaw"
+  "Carl Albert": {
+    "lat": 35.4628,
+    "lng": -97.3773,
+    "city": "Midwest City"
   },
-  "Broken Bow": {
-    "lat": 34.02886,
-    "lng": -94.74136,
-    "city": "Broken Bow"
-  },
-  "Ardmore": {
-    "lat": 34.19344,
-    "lng": -97.13717,
-    "city": "Ardmore"
-  },
-  "Fort Gibson": {
-    "lat": 35.78218,
-    "lng": -95.26014,
-    "city": "Fort Gibson"
-  },
-  "Weatherford": {
-    "lat": 35.53739,
-    "lng": -98.68434,
-    "city": "Weatherford"
-  },
-  "Chickasha": {
-    "lat": 35.04054,
-    "lng": -97.94717,
-    "city": "Chickasha"
-  },
-  "Stilwell": {
-    "lat": 35.81522,
-    "lng": -94.63147,
-    "city": "Stilwell"
-  },
-  "Cushing": {
-    "lat": 35.97968,
-    "lng": -96.76175,
-    "city": "Cushing"
-  },
-  "Poteau": {
-    "lat": 35.06665,
-    "lng": -94.61027,
-    "city": "Poteau"
-  },
-  "Clinton": {
-    "lat": 35.5071,
-    "lng": -98.9705,
-    "city": "Clinton"
-  },
-  "Grove": {
-    "lat": 36.58503,
-    "lng": -94.78725,
-    "city": "Grove"
-  },
-  "Wagoner": {
-    "lat": 35.96569,
-    "lng": -95.37771,
-    "city": "Wagoner"
-  },
-  "Skiatook": {
-    "lat": 36.34654,
-    "lng": -95.94536,
-    "city": "Skiatook"
-  },
-  "Ada": {
-    "lat": 34.76791,
-    "lng": -96.66911,
-    "city": "Ada"
-  },
-  "Cache": {
-    "lat": 34.62756,
-    "lng": -98.61955,
-    "city": "Cache"
-  },
-  "Harrah": {
-    "lat": 35.47205,
-    "lng": -97.18269,
-    "city": "Harrah"
-  },
-  "Bethany": {
-    "lat": 35.50717,
-    "lng": -97.64173,
-    "city": "Bethany"
-  },
-  "Woodward": {
-    "lat": 36.42483,
-    "lng": -99.40473,
-    "city": "Woodward"
-  },
-  "Hilldale": {
-    "lat": 35.74048,
-    "lng": -95.35972,
-    "city": "Muskogee"
-  },
-  "Blanchard": {
-    "lat": 35.15856,
-    "lng": -97.66412,
-    "city": "Blanchard"
-  },
-  "Bridge Creek": {
-    "lat": 35.15081,
-    "lng": -97.6685,
-    "city": "Blanchard"
-  },
-  "Mannford": {
-    "lat": 36.13286,
-    "lng": -96.33043,
-    "city": "Mannford"
-  },
-  "Oologah": {
-    "lat": 36.44378,
-    "lng": -95.70891,
-    "city": "Oologah"
-  },
-  "Miami": {
-    "lat": 36.88774,
-    "lng": -94.87091,
-    "city": "Miami"
-  },
-  "McLain Science & Tech": {
-    "lat": 36.13247,
-    "lng": -95.90248,
-    "city": "Tulsa"
-  },
-  "Elk City": {
-    "lat": 35.38904,
-    "lng": -99.42409,
-    "city": "Elk City"
-  },
-  "Cleveland": {
-    "lat": 36.31091,
-    "lng": -96.47218,
-    "city": "Cleveland"
-  },
-  "Tecumseh": {
-    "lat": 35.26427,
-    "lng": -96.93345,
-    "city": "Tecumseh"
-  },
-  "Douglass": {
-    "lat": 35.4702,
-    "lng": -97.51511,
+  "Bishop McGuinness": {
+    "lat": 35.46861,
+    "lng": -97.51979,
     "city": "Oklahoma City"
   },
-  "Western Heights": {
-    "lat": 35.47079,
-    "lng": -97.50995,
-    "city": "Oklahoma City"
+  "Del City": {
+    "lat": 35.44855,
+    "lng": -97.43556,
+    "city": "Del City"
   },
-  "Talihina": {
-    "lat": 34.75284,
-    "lng": -95.04357,
-    "city": "Talihina"
+  "Newcastle": {
+    "lat": 35.2424,
+    "lng": -97.59534,
+    "city": "Newcastle"
   },
-  "Thomas-Fay-Custer": {
-    "lat": 35.74477,
-    "lng": -98.73969,
-    "city": "Thomas"
+  "Coweta": {
+    "lat": 35.96711,
+    "lng": -95.65586,
+    "city": "Coweta"
   },
-  "Konawa": {
-    "lat": 34.95789,
-    "lng": -96.75381,
-    "city": "Konawa"
+  "Guthrie": {
+    "lat": 35.87651,
+    "lng": -97.40866,
+    "city": "Guthrie"
   },
-  "Regent Prep": {
-    "lat": 36.12614,
-    "lng": -95.90481,
+  "Sapulpa": {
+    "lat": 36.00421,
+    "lng": -96.12328,
+    "city": "Sapulpa"
+  },
+  "Bishop Kelley": {
+    "lat": 36.12559,
+    "lng": -95.90327,
     "city": "Tulsa"
   },
-  "Hobart": {
-    "lat": 35.02461,
-    "lng": -99.08758,
-    "city": "Hobart"
+  "Claremore": {
+    "lat": 36.31536,
+    "lng": -95.61468,
+    "city": "Claremore"
   },
-  "Ringling": {
-    "lat": 34.17726,
-    "lng": -97.59147,
-    "city": "Ringling"
+  "Collinsville": {
+    "lat": 36.36926,
+    "lng": -95.86176,
+    "city": "Collinsville"
   },
-  "Ketchum": {
-    "lat": 36.51757,
-    "lng": -95.03733,
-    "city": "Ketchum"
+  "Pryor": {
+    "lat": 36.29968,
+    "lng": -95.31129,
+    "city": "Pryor"
   },
-  "Wewoka": {
-    "lat": 35.14407,
-    "lng": -96.49677,
-    "city": "Wewoka"
+  "McAlester": {
+    "lat": 34.92613,
+    "lng": -95.77362,
+    "city": "Mcalester"
   },
-  "Hominy": {
-    "lat": 36.42193,
-    "lng": -96.39303,
-    "city": "Hominy"
+  "Tahlequah": {
+    "lat": 35.91336,
+    "lng": -94.97496,
+    "city": "Tahlequah"
   },
-  "Woodland": {
-    "lat": 36.57008,
-    "lng": -96.70789,
-    "city": "Fairfax"
+  "MacArthur": {
+    "lat": 34.6206,
+    "lng": -98.42164,
+    "city": "Lawton"
   },
-  "Southwest Covenant": {
-    "lat": 35.51813,
-    "lng": -97.76292,
-    "city": "Yukon"
+  "Lawton": {
+    "lat": 34.6211,
+    "lng": -98.42078,
+    "city": "Lawton"
   },
-  "Central": {
-    "lat": 35.45865,
-    "lng": -94.80559,
-    "city": "Sallisaw"
+  "Glenpool": {
+    "lat": 35.94949,
+    "lng": -96.00675,
+    "city": "Glenpool"
   },
-  "Liberty": {
-    "lat": 35.88085,
-    "lng": -96.06876,
-    "city": "Mounds"
+  "Shawnee": {
+    "lat": 35.37249,
+    "lng": -96.95996,
+    "city": "Shawnee"
   },
-  "Gore": {
-    "lat": 35.54061,
-    "lng": -95.11215,
-    "city": "Gore"
+  "Midwest City": {
+    "lat": 35.4546,
+    "lng": -97.37805,
+    "city": "Midwest City"
   },
-  "Wayne": {
-    "lat": 34.91691,
-    "lng": -97.31652,
-    "city": "Wayne"
+  "Durant": {
+    "lat": 33.99515,
+    "lng": -96.39254,
+    "city": "Durant"
   },
-  "Healdton": {
-    "lat": 34.23151,
-    "lng": -97.48717,
-    "city": "Healdton"
+  "Noble": {
+    "lat": 35.13492,
+    "lng": -97.37109,
+    "city": "Noble"
   },
-  "Empire": {
-    "lat": 34.48387,
-    "lng": -97.95663,
+  "Nathan Hale": {
+    "lat": 36.12556,
+    "lng": -95.90319,
+    "city": "Tulsa"
+  },
+  "Duncan": {
+    "lat": 34.47966,
+    "lng": -97.95891,
     "city": "Duncan"
   },
-  "Cordell": {
-    "lat": 35.29686,
-    "lng": -98.98377,
-    "city": "Cordell"
+  "El Reno": {
+    "lat": 35.54183,
+    "lng": -97.96127,
+    "city": "El Reno"
   },
-  "Quapaw": {
-    "lat": 36.94999,
-    "lng": -94.78653,
-    "city": "Quapaw"
+  "Edison": {
+    "lat": 36.12371,
+    "lng": -95.90508,
+    "city": "Tulsa"
   },
-  "Fairland": {
-    "lat": 36.75139,
-    "lng": -94.84727,
-    "city": "Fairland"
+  "Altus": {
+    "lat": 34.65706,
+    "lng": -99.30905,
+    "city": "Altus"
   },
-  "Barnsdall": {
-    "lat": 36.56094,
-    "lng": -96.15577,
-    "city": "Barnsdall"
+  "East Central": {
+    "lat": 36.12742,
+    "lng": -95.90535,
+    "city": "Tulsa"
   },
-  "Wilson": {
-    "lat": 34.16866,
-    "lng": -97.42541,
-    "city": "Wilson"
+  "Southeast": {
+    "lat": 35.465,
+    "lng": -97.51302,
+    "city": "Oklahoma City"
   },
-  "Apache": {
-    "lat": 34.89417,
-    "lng": -98.35873,
-    "city": "Apache"
+  "Will Rogers College": {
+    "lat": 36.13115,
+    "lng": -95.90402,
+    "city": "Tulsa"
   },
-  "Carnegie": {
-    "lat": 35.10274,
-    "lng": -98.59959,
-    "city": "Carnegie"
-  },
-  "Mooreland": {
-    "lat": 36.4377,
-    "lng": -99.20485,
-    "city": "Mooreland"
-  },
-  "Afton": {
-    "lat": 36.69653,
-    "lng": -94.95746,
-    "city": "Afton"
-  },
-  "Drumright": {
-    "lat": 35.98992,
-    "lng": -96.59742,
-    "city": "Drumright"
-  },
-  "Canadian": {
-    "lat": 35.17396,
-    "lng": -95.6494,
-    "city": "Canadian"
-  },
-  "Porter": {
-    "lat": 35.86841,
-    "lng": -95.51595,
-    "city": "Porter"
-  },
-  "Mounds": {
-    "lat": 35.8805,
-    "lng": -96.06934,
-    "city": "Mounds"
-  },
-  "Allen": {
-    "lat": 34.87763,
-    "lng": -96.41289,
-    "city": "Allen"
-  },
-  "Oklahoma Union": {
-    "lat": 36.99209,
-    "lng": -95.62184,
-    "city": "South Coffeyville"
+  "Memorial": {
+    "lat": 36.12803,
+    "lng": -95.90702,
+    "city": "Tulsa"
   },
   "Sulphur": {
     "lat": 34.50161,
@@ -944,6 +934,166 @@
     "lng": -95.16887,
     "city": "Locust Grove"
   },
+  "Talihina": {
+    "lat": 34.75284,
+    "lng": -95.04357,
+    "city": "Talihina"
+  },
+  "Thomas-Fay-Custer": {
+    "lat": 35.74477,
+    "lng": -98.73969,
+    "city": "Thomas"
+  },
+  "Konawa": {
+    "lat": 34.95789,
+    "lng": -96.75381,
+    "city": "Konawa"
+  },
+  "Regent Prep": {
+    "lat": 36.12614,
+    "lng": -95.90481,
+    "city": "Tulsa"
+  },
+  "Hobart": {
+    "lat": 35.02461,
+    "lng": -99.08758,
+    "city": "Hobart"
+  },
+  "Ringling": {
+    "lat": 34.17726,
+    "lng": -97.59147,
+    "city": "Ringling"
+  },
+  "Ketchum": {
+    "lat": 36.51757,
+    "lng": -95.03733,
+    "city": "Ketchum"
+  },
+  "Wewoka": {
+    "lat": 35.14407,
+    "lng": -96.49677,
+    "city": "Wewoka"
+  },
+  "Hominy": {
+    "lat": 36.42193,
+    "lng": -96.39303,
+    "city": "Hominy"
+  },
+  "Woodland": {
+    "lat": 36.57008,
+    "lng": -96.70789,
+    "city": "Fairfax"
+  },
+  "Southwest Covenant": {
+    "lat": 35.51813,
+    "lng": -97.76292,
+    "city": "Yukon"
+  },
+  "Central": {
+    "lat": 35.45865,
+    "lng": -94.80559,
+    "city": "Sallisaw"
+  },
+  "Liberty": {
+    "lat": 35.88085,
+    "lng": -96.06876,
+    "city": "Mounds"
+  },
+  "Gore": {
+    "lat": 35.54061,
+    "lng": -95.11215,
+    "city": "Gore"
+  },
+  "Wayne": {
+    "lat": 34.91691,
+    "lng": -97.31652,
+    "city": "Wayne"
+  },
+  "Healdton": {
+    "lat": 34.23151,
+    "lng": -97.48717,
+    "city": "Healdton"
+  },
+  "Empire": {
+    "lat": 34.48387,
+    "lng": -97.95663,
+    "city": "Duncan"
+  },
+  "Cordell": {
+    "lat": 35.29686,
+    "lng": -98.98377,
+    "city": "Cordell"
+  },
+  "Quapaw": {
+    "lat": 36.94999,
+    "lng": -94.78653,
+    "city": "Quapaw"
+  },
+  "Fairland": {
+    "lat": 36.75139,
+    "lng": -94.84727,
+    "city": "Fairland"
+  },
+  "Barnsdall": {
+    "lat": 36.56094,
+    "lng": -96.15577,
+    "city": "Barnsdall"
+  },
+  "Wilson": {
+    "lat": 34.16866,
+    "lng": -97.42541,
+    "city": "Wilson"
+  },
+  "Apache": {
+    "lat": 34.89417,
+    "lng": -98.35873,
+    "city": "Apache"
+  },
+  "Carnegie": {
+    "lat": 35.10274,
+    "lng": -98.59959,
+    "city": "Carnegie"
+  },
+  "Mooreland": {
+    "lat": 36.4377,
+    "lng": -99.20485,
+    "city": "Mooreland"
+  },
+  "Afton": {
+    "lat": 36.69653,
+    "lng": -94.95746,
+    "city": "Afton"
+  },
+  "Drumright": {
+    "lat": 35.98992,
+    "lng": -96.59742,
+    "city": "Drumright"
+  },
+  "Canadian": {
+    "lat": 35.17396,
+    "lng": -95.6494,
+    "city": "Canadian"
+  },
+  "Porter": {
+    "lat": 35.86841,
+    "lng": -95.51595,
+    "city": "Porter"
+  },
+  "Mounds": {
+    "lat": 35.8805,
+    "lng": -96.06934,
+    "city": "Mounds"
+  },
+  "Allen": {
+    "lat": 34.87763,
+    "lng": -96.41289,
+    "city": "Allen"
+  },
+  "Oklahoma Union": {
+    "lat": 36.99209,
+    "lng": -95.62184,
+    "city": "South Coffeyville"
+  },
   "Lincoln Christian": {
     "lat": 36.12922,
     "lng": -95.90532,
@@ -1093,155 +1243,5 @@
     "lat": 35.24287,
     "lng": -97.34477,
     "city": "Norman"
-  },
-  "Elgin": {
-    "lat": 34.78594,
-    "lng": -98.29663,
-    "city": "Elgin"
-  },
-  "Carl Albert": {
-    "lat": 35.4628,
-    "lng": -97.3773,
-    "city": "Midwest City"
-  },
-  "Bishop McGuinness": {
-    "lat": 35.46861,
-    "lng": -97.51979,
-    "city": "Oklahoma City"
-  },
-  "Del City": {
-    "lat": 35.44855,
-    "lng": -97.43556,
-    "city": "Del City"
-  },
-  "Newcastle": {
-    "lat": 35.2424,
-    "lng": -97.59534,
-    "city": "Newcastle"
-  },
-  "Coweta": {
-    "lat": 35.96711,
-    "lng": -95.65586,
-    "city": "Coweta"
-  },
-  "Guthrie": {
-    "lat": 35.87651,
-    "lng": -97.40866,
-    "city": "Guthrie"
-  },
-  "Sapulpa": {
-    "lat": 36.00421,
-    "lng": -96.12328,
-    "city": "Sapulpa"
-  },
-  "Bishop Kelley": {
-    "lat": 36.12559,
-    "lng": -95.90327,
-    "city": "Tulsa"
-  },
-  "Claremore": {
-    "lat": 36.31536,
-    "lng": -95.61468,
-    "city": "Claremore"
-  },
-  "Collinsville": {
-    "lat": 36.36926,
-    "lng": -95.86176,
-    "city": "Collinsville"
-  },
-  "Pryor": {
-    "lat": 36.29968,
-    "lng": -95.31129,
-    "city": "Pryor"
-  },
-  "McAlester": {
-    "lat": 34.92613,
-    "lng": -95.77362,
-    "city": "Mcalester"
-  },
-  "Tahlequah": {
-    "lat": 35.91336,
-    "lng": -94.97496,
-    "city": "Tahlequah"
-  },
-  "MacArthur": {
-    "lat": 34.6206,
-    "lng": -98.42164,
-    "city": "Lawton"
-  },
-  "Lawton": {
-    "lat": 34.6211,
-    "lng": -98.42078,
-    "city": "Lawton"
-  },
-  "Glenpool": {
-    "lat": 35.94949,
-    "lng": -96.00675,
-    "city": "Glenpool"
-  },
-  "Shawnee": {
-    "lat": 35.37249,
-    "lng": -96.95996,
-    "city": "Shawnee"
-  },
-  "Midwest City": {
-    "lat": 35.4546,
-    "lng": -97.37805,
-    "city": "Midwest City"
-  },
-  "Durant": {
-    "lat": 33.99515,
-    "lng": -96.39254,
-    "city": "Durant"
-  },
-  "Noble": {
-    "lat": 35.13492,
-    "lng": -97.37109,
-    "city": "Noble"
-  },
-  "Nathan Hale": {
-    "lat": 36.12556,
-    "lng": -95.90319,
-    "city": "Tulsa"
-  },
-  "Duncan": {
-    "lat": 34.47966,
-    "lng": -97.95891,
-    "city": "Duncan"
-  },
-  "El Reno": {
-    "lat": 35.54183,
-    "lng": -97.96127,
-    "city": "El Reno"
-  },
-  "Edison": {
-    "lat": 36.12371,
-    "lng": -95.90508,
-    "city": "Tulsa"
-  },
-  "Altus": {
-    "lat": 34.65706,
-    "lng": -99.30905,
-    "city": "Altus"
-  },
-  "East Central": {
-    "lat": 36.12742,
-    "lng": -95.90535,
-    "city": "Tulsa"
-  },
-  "Southeast": {
-    "lat": 35.465,
-    "lng": -97.51302,
-    "city": "Oklahoma City"
-  },
-  "Will Rogers College": {
-    "lat": 36.13115,
-    "lng": -95.90402,
-    "city": "Tulsa"
-  },
-  "Memorial": {
-    "lat": 36.12803,
-    "lng": -95.90702,
-    "city": "Tulsa"
   }
 }

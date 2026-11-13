@@ -1,4 +1,309 @@
 {
+  "Blessed Trinity": {
+    "lat": 34.04141,
+    "lng": -84.35133,
+    "city": "Roswell"
+  },
+  "Cartersville": {
+    "lat": 34.16856,
+    "lng": -84.79679,
+    "city": "Cartersville"
+  },
+  "North Oconee": {
+    "lat": 33.94763,
+    "lng": -83.53375,
+    "city": "Bogart"
+  },
+  "Jefferson": {
+    "lat": 34.13847,
+    "lng": -83.60769,
+    "city": "Jefferson"
+  },
+  "Central": {
+    "lat": 33.58014,
+    "lng": -85.0823,
+    "city": "Carrollton"
+  },
+  "Ware County": {
+    "lat": 31.21101,
+    "lng": -82.35766,
+    "city": "Waycross"
+  },
+  "LaGrange": {
+    "lat": 33.0267,
+    "lng": -85.03501,
+    "city": "Lagrange"
+  },
+  "Dalton": {
+    "lat": 34.76895,
+    "lng": -84.96916,
+    "city": "Dalton"
+  },
+  "Benedictine": {
+    "lat": 32.01631,
+    "lng": -81.19488,
+    "city": "Savannah"
+  },
+  "Marist": {
+    "lat": 33.76088,
+    "lng": -84.41764,
+    "city": "Atlanta"
+  },
+  "Tucker": {
+    "lat": 33.84517,
+    "lng": -84.20208,
+    "city": "Tucker"
+  },
+  "Ola": {
+    "lat": 33.44208,
+    "lng": -84.15296,
+    "city": "McDonough"
+  },
+  "Lithonia": {
+    "lat": 33.71537,
+    "lng": -84.10698,
+    "city": "Lithonia"
+  },
+  "Stockbridge": {
+    "lat": 33.53002,
+    "lng": -84.23427,
+    "city": "Stockbridge"
+  },
+  "Perry": {
+    "lat": 32.47371,
+    "lng": -83.72781,
+    "city": "Perry"
+  },
+  "Cass": {
+    "lat": 34.28223,
+    "lng": -84.74803,
+    "city": "White"
+  },
+  "Richmond Academy": {
+    "lat": 33.36206,
+    "lng": -82.07187,
+    "city": "Augusta"
+  },
+  "Jones County": {
+    "lat": 33.00202,
+    "lng": -83.54093,
+    "city": "Gray"
+  },
+  "Southwest DeKalb": {
+    "lat": 33.77083,
+    "lng": -84.29127,
+    "city": "Decatur"
+  },
+  "Mays": {
+    "lat": 33.75917,
+    "lng": -84.42404,
+    "city": "Atlanta"
+  },
+  "Cambridge": {
+    "lat": 34.14229,
+    "lng": -84.31036,
+    "city": "Milton"
+  },
+  "Jenkins": {
+    "lat": 32.01593,
+    "lng": -81.19987,
+    "city": "Savannah"
+  },
+  "Warner Robins": {
+    "lat": 32.59476,
+    "lng": -83.65693,
+    "city": "Warner Robins"
+  },
+  "Statesboro": {
+    "lat": 32.43773,
+    "lng": -81.77564,
+    "city": "Statesboro"
+  },
+  "Whitewater": {
+    "lat": 33.44368,
+    "lng": -84.4757,
+    "city": "Fayetteville"
+  },
+  "Cedartown": {
+    "lat": 34.02175,
+    "lng": -85.24753,
+    "city": "Cedartown"
+  },
+  "Jonesboro": {
+    "lat": 33.51658,
+    "lng": -84.35308,
+    "city": "Jonesboro"
+  },
+  "Flowery Branch": {
+    "lat": 34.16543,
+    "lng": -83.91978,
+    "city": "Flowery Branch"
+  },
+  "Villa Rica": {
+    "lat": 33.72836,
+    "lng": -84.91666,
+    "city": "Villa Rica"
+  },
+  "Griffin": {
+    "lat": 33.24131,
+    "lng": -84.27044,
+    "city": "Griffin"
+  },
+  "M.L. King": {
+    "lat": 33.71108,
+    "lng": -84.10548,
+    "city": "Lithonia"
+  },
+  "Centennial": {
+    "lat": 34.03767,
+    "lng": -84.3489,
+    "city": "Roswell"
+  },
+  "Allatoona": {
+    "lat": 34.06199,
+    "lng": -84.68112,
+    "city": "Acworth"
+  },
+  "Dutchtown": {
+    "lat": 33.38192,
+    "lng": -84.30059,
+    "city": "Hampton"
+  },
+  "Sprayberry": {
+    "lat": 33.95367,
+    "lng": -84.54878,
+    "city": "Marietta"
+  },
+  "East Forsyth": {
+    "lat": 34.28944,
+    "lng": -83.83449,
+    "city": "Gainesville"
+  },
+  "Evans": {
+    "lat": 33.56606,
+    "lng": -82.13771,
+    "city": "Evans"
+  },
+  "St. Pius X Catholic": {
+    "lat": 33.75944,
+    "lng": -84.42113,
+    "city": "Atlanta"
+  },
+  "Harris County": {
+    "lat": 32.76467,
+    "lng": -84.87526,
+    "city": "Hamilton"
+  },
+  "Winder-Barrow": {
+    "lat": 33.99063,
+    "lng": -83.72532,
+    "city": "Winder"
+  },
+  "Starr's Mill": {
+    "lat": 33.44927,
+    "lng": -84.47083,
+    "city": "Fayetteville"
+  },
+  "Lithia Springs": {
+    "lat": 33.78249,
+    "lng": -84.64849,
+    "city": "Lithia Springs"
+  },
+  "Jackson": {
+    "lat": 33.76301,
+    "lng": -84.41707,
+    "city": "Atlanta"
+  },
+  "Banneker": {
+    "lat": 33.64363,
+    "lng": -84.46345,
+    "city": "College Park"
+  },
+  "Locust Grove": {
+    "lat": 33.34813,
+    "lng": -84.10255,
+    "city": "Locust Grove"
+  },
+  "Woodland": {
+    "lat": 34.16259,
+    "lng": -84.79744,
+    "city": "Cartersville"
+  },
+  "Eastside": {
+    "lat": 33.60308,
+    "lng": -83.84667,
+    "city": "Covington"
+  },
+  "Wayne County": {
+    "lat": 31.59457,
+    "lng": -81.8957,
+    "city": "Jesup"
+  },
+  "Chattahoochee": {
+    "lat": 34.077,
+    "lng": -84.27308,
+    "city": "Alpharetta"
+  },
+  "Madison County": {
+    "lat": 34.1256,
+    "lng": -83.21615,
+    "city": "Danielsville"
+  },
+  "Drew": {
+    "lat": 33.56072,
+    "lng": -84.41514,
+    "city": "Riverdale"
+  },
+  "Mundy's Mill": {
+    "lat": 33.51907,
+    "lng": -84.3537,
+    "city": "Jonesboro"
+  },
+  "Druid Hills": {
+    "lat": 33.76693,
+    "lng": -84.42683,
+    "city": "Atlanta"
+  },
+  "Union Grove": {
+    "lat": 33.44377,
+    "lng": -84.15222,
+    "city": "McDonough"
+  },
+  "Eagle's Landing": {
+    "lat": 33.43963,
+    "lng": -84.15466,
+    "city": "McDonough"
+  },
+  "Northview": {
+    "lat": 34.03623,
+    "lng": -84.20699,
+    "city": "Johns Creek"
+  },
+  "Arabia Mountain": {
+    "lat": 33.7161,
+    "lng": -84.10536,
+    "city": "Lithonia"
+  },
+  "Groves": {
+    "lat": 32.08722,
+    "lng": -81.17661,
+    "city": "Garden City"
+  },
+  "Forest Park": {
+    "lat": 33.62054,
+    "lng": -84.35818,
+    "city": "Forest Park"
+  },
+  "Johnson": {
+    "lat": 34.2942,
+    "lng": -83.83102,
+    "city": "Gainesville"
+  },
+  "Cross Keys": {
+    "lat": 33.76263,
+    "lng": -84.42808,
+    "city": "Atlanta"
+  },
   "Thomas County Central": {
     "lat": 30.83962,
     "lng": -83.97318,
@@ -309,320 +614,295 @@
     "lng": -84.42229,
     "city": "Atlanta"
   },
-  "Heard County": {
-    "lat": 33.27983,
-    "lng": -85.09864,
-    "city": "Franklin"
+  "Sandy Creek": {
+    "lat": 33.47606,
+    "lng": -84.59452,
+    "city": "Tyrone"
   },
-  "Prince Avenue Christian": {
-    "lat": 33.94686,
-    "lng": -83.37149,
-    "city": "Athens"
+  "Peach County": {
+    "lat": 32.55111,
+    "lng": -83.87994,
+    "city": "Fort Valley"
   },
-  "Calvary Day": {
-    "lat": 32.02174,
-    "lng": -81.19734,
-    "city": "Savannah"
+  "Troup County": {
+    "lat": 33.02574,
+    "lng": -85.03243,
+    "city": "LaGrange"
   },
-  "Bleckley County": {
-    "lat": 32.38806,
-    "lng": -83.35043,
-    "city": "Cochran"
+  "Cairo": {
+    "lat": 30.87923,
+    "lng": -84.20551,
+    "city": "Cairo"
   },
-  "Dublin": {
-    "lat": 32.53547,
-    "lng": -82.92881,
-    "city": "Dublin"
+  "Monroe Area": {
+    "lat": 33.79748,
+    "lng": -83.71873,
+    "city": "Monroe"
   },
-  "Bremen": {
-    "lat": 33.71077,
-    "lng": -85.1519,
-    "city": "Bremen"
+  "Stephenson": {
+    "lat": 33.8064,
+    "lng": -84.17406,
+    "city": "Stone Mountain"
   },
-  "Jeff Davis": {
-    "lat": 31.86413,
-    "lng": -82.59928,
-    "city": "Hazlehurst"
-  },
-  "Thomasville": {
-    "lat": 30.8386,
-    "lng": -83.98396,
-    "city": "Thomasville"
-  },
-  "Fitzgerald": {
-    "lat": 31.71304,
-    "lng": -83.25221,
-    "city": "Fitzgerald"
-  },
-  "Commerce": {
-    "lat": 34.21271,
-    "lng": -83.48032,
-    "city": "Commerce"
-  },
-  "Whitefield Academy": {
-    "lat": 33.81334,
-    "lng": -84.58182,
-    "city": "Mableton"
-  },
-  "Swainsboro": {
-    "lat": 32.58559,
-    "lng": -82.33478,
-    "city": "Swainsboro"
-  },
-  "Mount Vernon": {
-    "lat": 33.76576,
-    "lng": -84.41828,
+  "Douglass": {
+    "lat": 33.76603,
+    "lng": -84.42413,
     "city": "Atlanta"
   },
-  "Aquinas": {
-    "lat": 33.36785,
-    "lng": -82.07297,
-    "city": "Augusta"
+  "Calhoun": {
+    "lat": 34.50494,
+    "lng": -84.93139,
+    "city": "Calhoun"
   },
-  "Model": {
-    "lat": 34.26731,
-    "lng": -85.18928,
-    "city": "Rome"
+  "Mary Persons": {
+    "lat": 33.03936,
+    "lng": -83.93444,
+    "city": "Forsyth"
   },
-  "Jasper County": {
-    "lat": 33.29588,
-    "lng": -83.68658,
-    "city": "Monticello"
+  "Greater Atlanta Christian": {
+    "lat": 33.9421,
+    "lng": -84.20437,
+    "city": "Norcross"
   },
-  "Laney": {
-    "lat": 33.36538,
-    "lng": -82.07052,
-    "city": "Augusta"
+  "Dougherty": {
+    "lat": 31.57722,
+    "lng": -84.17234,
+    "city": "Albany"
   },
-  "Dodge County": {
-    "lat": 32.19756,
-    "lng": -83.17066,
-    "city": "Eastman"
+  "Baldwin": {
+    "lat": 33.08335,
+    "lng": -83.2374,
+    "city": "Milledgeville"
   },
-  "Cook": {
-    "lat": 31.1248,
-    "lng": -83.42548,
-    "city": "Adel"
+  "North Hall": {
+    "lat": 34.29301,
+    "lng": -83.83155,
+    "city": "Gainesville"
   },
-  "Social Circle": {
-    "lat": 33.64614,
-    "lng": -83.71278,
-    "city": "Social Circle"
+  "Hampton": {
+    "lat": 33.37777,
+    "lng": -84.30277,
+    "city": "Hampton"
   },
-  "Fellowship Christian": {
-    "lat": 34.03398,
-    "lng": -84.35411,
-    "city": "Roswell"
+  "Northwest Whitfield": {
+    "lat": 34.85541,
+    "lng": -85.03678,
+    "city": "Tunnel Hill"
   },
-  "Trinity Christian": {
-    "lat": 33.33943,
-    "lng": -84.6505,
-    "city": "Sharpsburg"
+  "Oconee County": {
+    "lat": 33.85967,
+    "lng": -83.40479,
+    "city": "Watkinsville"
   },
-  "Christian Heritage": {
-    "lat": 34.76937,
-    "lng": -84.97708,
-    "city": "Dalton"
+  "Spencer": {
+    "lat": 32.5063,
+    "lng": -84.87898,
+    "city": "Columbus"
   },
-  "Eagle's Landing Christian Academy": {
-    "lat": 33.4405,
-    "lng": -84.15351,
-    "city": "McDonough"
+  "West Laurens": {
+    "lat": 32.43319,
+    "lng": -83.05913,
+    "city": "Dexter"
   },
-  "Putnam County": {
-    "lat": 33.32582,
-    "lng": -83.38886,
-    "city": "Eatonton"
+  "Westover": {
+    "lat": 31.57576,
+    "lng": -84.17486,
+    "city": "Albany"
   },
-  "Screven County": {
-    "lat": 32.74723,
-    "lng": -81.64069,
-    "city": "Sylvania"
+  "Cherokee Bluff": {
+    "lat": 34.16707,
+    "lng": -83.91973,
+    "city": "Flowery Branch"
   },
-  "Berrien": {
-    "lat": 31.2057,
-    "lng": -83.24639,
-    "city": "Nashville"
+  "Adairsville": {
+    "lat": 34.37085,
+    "lng": -84.92119,
+    "city": "Adairsville"
   },
-  "Savannah Christian": {
-    "lat": 32.01882,
-    "lng": -81.19094,
-    "city": "Savannah"
+  "North Clayton": {
+    "lat": 33.64103,
+    "lng": -84.46135,
+    "city": "College Park"
   },
-  "Brooks County": {
-    "lat": 30.78453,
-    "lng": -83.56055,
-    "city": "Quitman"
+  "Bainbridge": {
+    "lat": 30.90621,
+    "lng": -84.57265,
+    "city": "Bainbridge"
   },
-  "Academy for Classical Education": {
-    "lat": 32.8061,
-    "lng": -83.68885,
+  "Spalding": {
+    "lat": 33.24349,
+    "lng": -84.26753,
+    "city": "Griffin"
+  },
+  "Howard": {
+    "lat": 32.80767,
+    "lng": -83.69168,
     "city": "Macon"
   },
-  "Rabun County": {
-    "lat": 34.84607,
-    "lng": -83.43256,
-    "city": "Tiger"
+  "Harlem": {
+    "lat": 33.43535,
+    "lng": -82.31606,
+    "city": "Harlem"
   },
-  "Providence Christian Academy": {
-    "lat": 33.89222,
-    "lng": -84.13564,
-    "city": "Lilburn"
-  },
-  "Darlington": {
-    "lat": 34.26688,
-    "lng": -85.1881,
-    "city": "Rome"
-  },
-  "King's Ridge Christian": {
-    "lat": 34.06682,
-    "lng": -84.27421,
-    "city": "Alpharetta"
-  },
-  "East Laurens": {
-    "lat": 32.54693,
-    "lng": -82.86697,
-    "city": "East Dublin"
-  },
-  "Gordon Lee": {
-    "lat": 34.87747,
-    "lng": -85.28835,
-    "city": "Chickamauga"
-  },
-  "Athens Academy": {
-    "lat": 33.95002,
-    "lng": -83.3735,
-    "city": "Athens"
-  },
-  "Pepperell": {
-    "lat": 34.18769,
-    "lng": -85.18072,
-    "city": "Lindale"
-  },
-  "Vidalia": {
-    "lat": 32.21208,
-    "lng": -82.40219,
-    "city": "Vidalia"
-  },
-  "Fannin County": {
-    "lat": 34.86649,
-    "lng": -84.32186,
-    "city": "Blue Ridge"
-  },
-  "Bacon County": {
-    "lat": 31.54333,
-    "lng": -82.47558,
-    "city": "Alma"
-  },
-  "Metter": {
-    "lat": 32.39451,
-    "lng": -82.06243,
-    "city": "Metter"
-  },
-  "Mt. Zion": {
-    "lat": 33.64256,
-    "lng": -85.181,
-    "city": "Mt Zion"
-  },
-  "Mt. Bethel Christian Academy": {
-    "lat": 33.95225,
-    "lng": -84.54464,
-    "city": "Marietta"
-  },
-  "Dade County": {
-    "lat": 34.87415,
-    "lng": -85.50965,
-    "city": "Trenton"
-  },
-  "Mount Paran Christian": {
-    "lat": 34.02503,
-    "lng": -84.61375,
-    "city": "Kennesaw"
-  },
-  "Washington": {
-    "lat": 33.76634,
-    "lng": -84.42238,
-    "city": "Atlanta"
-  },
-  "Bryan County": {
-    "lat": 32.14453,
-    "lng": -81.61692,
-    "city": "Pembroke"
-  },
-  "Landmark Christian": {
-    "lat": 33.54758,
-    "lng": -84.58312,
-    "city": "Fairburn"
-  },
-  "Jefferson County": {
-    "lat": 32.99287,
-    "lng": -82.39719,
-    "city": "Louisville"
-  },
-  "Utopian Academy for the Arts": {
-    "lat": 33.61311,
-    "lng": -84.28596,
-    "city": "Ellenwood"
-  },
-  "Coosa": {
-    "lat": 34.26336,
-    "lng": -85.19173,
-    "city": "Rome"
-  },
-  "Glenn Hills": {
-    "lat": 33.35997,
-    "lng": -82.07083,
-    "city": "Augusta"
-  },
-  "Banks County": {
-    "lat": 34.33796,
-    "lng": -83.49478,
-    "city": "Homer"
-  },
-  "Mount Pisgah Christian": {
-    "lat": 34.03466,
-    "lng": -84.2067,
-    "city": "Johns Creek"
-  },
-  "Oglethorpe County": {
-    "lat": 33.87007,
-    "lng": -83.11015,
-    "city": "Lexington"
-  },
-  "Chattooga": {
-    "lat": 34.47873,
-    "lng": -85.34908,
-    "city": "Summerville"
-  },
-  "Walker": {
-    "lat": 33.95937,
-    "lng": -84.54046,
-    "city": "Marietta"
-  },
-  "Lakeview-Fort Oglethorpe": {
-    "lat": 34.93185,
-    "lng": -85.24601,
-    "city": "Fort Oglethorpe"
-  },
-  "Savannah": {
-    "lat": 32.01603,
-    "lng": -81.19906,
+  "New Hampstead": {
+    "lat": 32.01456,
+    "lng": -81.19842,
     "city": "Savannah"
   },
-  "Armuchee": {
-    "lat": 34.26289,
-    "lng": -85.18565,
-    "city": "Rome"
+  "Gilmer": {
+    "lat": 34.69144,
+    "lng": -84.48349,
+    "city": "Ellijay"
   },
-  "Josey": {
-    "lat": 33.36855,
-    "lng": -82.0722,
-    "city": "Augusta"
+  "Mt. Zion": {
+    "lat": 33.52229,
+    "lng": -84.35336,
+    "city": "Jonesboro"
   },
-  "Gordon Central": {
-    "lat": 34.49941,
-    "lng": -84.92946,
-    "city": "Calhoun"
+  "White County": {
+    "lat": 34.59704,
+    "lng": -83.76071,
+    "city": "Cleveland"
+  },
+  "East Jackson": {
+    "lat": 34.2143,
+    "lng": -83.46939,
+    "city": "Commerce"
+  },
+  "Liberty County": {
+    "lat": 31.83068,
+    "lng": -81.61584,
+    "city": "Hinesville"
+  },
+  "Pickens": {
+    "lat": 34.4662,
+    "lng": -84.43586,
+    "city": "Jasper"
+  },
+  "Southeast Bulloch": {
+    "lat": 32.3891,
+    "lng": -81.66997,
+    "city": "Brooklet"
+  },
+  "Monroe": {
+    "lat": 31.57333,
+    "lng": -84.17368,
+    "city": "Albany"
+  },
+  "Shaw": {
+    "lat": 32.51228,
+    "lng": -84.87294,
+    "city": "Columbus"
+  },
+  "Windsor Forest": {
+    "lat": 32.01531,
+    "lng": -81.19963,
+    "city": "Savannah"
+  },
+  "Long County": {
+    "lat": 31.71401,
+    "lng": -81.74029,
+    "city": "Ludowici"
+  },
+  "Pace Academy": {
+    "lat": 33.76541,
+    "lng": -84.42829,
+    "city": "Atlanta"
+  },
+  "Westside": {
+    "lat": 32.8132,
+    "lng": -83.69511,
+    "city": "Macon"
+  },
+  "Westminster": {
+    "lat": 33.76369,
+    "lng": -84.42025,
+    "city": "Atlanta"
+  },
+  "McDonough": {
+    "lat": 33.43793,
+    "lng": -84.14795,
+    "city": "Mcdonough"
+  },
+  "Upson-Lee": {
+    "lat": 32.89167,
+    "lng": -84.32669,
+    "city": "Thomaston"
+  },
+  "Dawson County": {
+    "lat": 34.43365,
+    "lng": -84.12445,
+    "city": "Dawsonville"
+  },
+  "Ridgeland": {
+    "lat": 34.97577,
+    "lng": -85.28957,
+    "city": "Rossville"
+  },
+  "Fayette County": {
+    "lat": 33.44346,
+    "lng": -84.47088,
+    "city": "Fayetteville"
+  },
+  "North Springs": {
+    "lat": 33.75983,
+    "lng": -84.42252,
+    "city": "Atlanta"
+  },
+  "Columbus": {
+    "lat": 32.50733,
+    "lng": -84.87771,
+    "city": "Columbus"
+  },
+  "Luella": {
+    "lat": 33.35206,
+    "lng": -84.17853,
+    "city": "Luella"
+  },
+  "East Hall": {
+    "lat": 34.28652,
+    "lng": -83.82968,
+    "city": "Gainesville"
+  },
+  "Riverdale": {
+    "lat": 33.55918,
+    "lng": -84.41121,
+    "city": "Riverdale"
+  },
+  "West Hall": {
+    "lat": 34.22213,
+    "lng": -83.88486,
+    "city": "Oakwood"
+  },
+  "Southeast Whitfield": {
+    "lat": 34.77394,
+    "lng": -84.97466,
+    "city": "Dalton"
+  },
+  "Hardaway": {
+    "lat": 32.50817,
+    "lng": -84.87727,
+    "city": "Columbus"
+  },
+  "Salem": {
+    "lat": 33.65461,
+    "lng": -83.98496,
+    "city": "Conyers"
+  },
+  "Chestatee": {
+    "lat": 34.28889,
+    "lng": -83.83531,
+    "city": "Gainesville"
+  },
+  "Stone Mountain": {
+    "lat": 33.80119,
+    "lng": -84.17403,
+    "city": "Stone Mountain"
+  },
+  "Clarkston": {
+    "lat": 33.81349,
+    "lng": -84.24185,
+    "city": "Clarkston"
   },
   "Johnson County": {
     "lat": 32.72681,
@@ -879,11 +1159,6 @@
     "lng": -84.71633,
     "city": "Greenville"
   },
-  "Central": {
-    "lat": 32.67725,
-    "lng": -84.54065,
-    "city": "Talbotton"
-  },
   "Scintilla Charter Academy": {
     "lat": 30.85008,
     "lng": -83.27611,
@@ -893,591 +1168,6 @@
     "lat": 31.75709,
     "lng": -84.6159,
     "city": "Shellman"
-  },
-  "Blessed Trinity": {
-    "lat": 34.04141,
-    "lng": -84.35133,
-    "city": "Roswell"
-  },
-  "Cartersville": {
-    "lat": 34.16856,
-    "lng": -84.79679,
-    "city": "Cartersville"
-  },
-  "North Oconee": {
-    "lat": 33.94763,
-    "lng": -83.53375,
-    "city": "Bogart"
-  },
-  "Jefferson": {
-    "lat": 34.13847,
-    "lng": -83.60769,
-    "city": "Jefferson"
-  },
-  "Ware County": {
-    "lat": 31.21101,
-    "lng": -82.35766,
-    "city": "Waycross"
-  },
-  "LaGrange": {
-    "lat": 33.0267,
-    "lng": -85.03501,
-    "city": "Lagrange"
-  },
-  "Dalton": {
-    "lat": 34.76895,
-    "lng": -84.96916,
-    "city": "Dalton"
-  },
-  "Benedictine": {
-    "lat": 32.01631,
-    "lng": -81.19488,
-    "city": "Savannah"
-  },
-  "Marist": {
-    "lat": 33.76088,
-    "lng": -84.41764,
-    "city": "Atlanta"
-  },
-  "Tucker": {
-    "lat": 33.84517,
-    "lng": -84.20208,
-    "city": "Tucker"
-  },
-  "Ola": {
-    "lat": 33.44208,
-    "lng": -84.15296,
-    "city": "McDonough"
-  },
-  "Lithonia": {
-    "lat": 33.71537,
-    "lng": -84.10698,
-    "city": "Lithonia"
-  },
-  "Stockbridge": {
-    "lat": 33.53002,
-    "lng": -84.23427,
-    "city": "Stockbridge"
-  },
-  "Perry": {
-    "lat": 32.47371,
-    "lng": -83.72781,
-    "city": "Perry"
-  },
-  "Cass": {
-    "lat": 34.28223,
-    "lng": -84.74803,
-    "city": "White"
-  },
-  "Richmond Academy": {
-    "lat": 33.36206,
-    "lng": -82.07187,
-    "city": "Augusta"
-  },
-  "Jones County": {
-    "lat": 33.00202,
-    "lng": -83.54093,
-    "city": "Gray"
-  },
-  "Southwest DeKalb": {
-    "lat": 33.77083,
-    "lng": -84.29127,
-    "city": "Decatur"
-  },
-  "Mays": {
-    "lat": 33.75917,
-    "lng": -84.42404,
-    "city": "Atlanta"
-  },
-  "Cambridge": {
-    "lat": 34.14229,
-    "lng": -84.31036,
-    "city": "Milton"
-  },
-  "Jenkins": {
-    "lat": 32.01593,
-    "lng": -81.19987,
-    "city": "Savannah"
-  },
-  "Warner Robins": {
-    "lat": 32.59476,
-    "lng": -83.65693,
-    "city": "Warner Robins"
-  },
-  "Statesboro": {
-    "lat": 32.43773,
-    "lng": -81.77564,
-    "city": "Statesboro"
-  },
-  "Whitewater": {
-    "lat": 33.44368,
-    "lng": -84.4757,
-    "city": "Fayetteville"
-  },
-  "Cedartown": {
-    "lat": 34.02175,
-    "lng": -85.24753,
-    "city": "Cedartown"
-  },
-  "Jonesboro": {
-    "lat": 33.51658,
-    "lng": -84.35308,
-    "city": "Jonesboro"
-  },
-  "Flowery Branch": {
-    "lat": 34.16543,
-    "lng": -83.91978,
-    "city": "Flowery Branch"
-  },
-  "Villa Rica": {
-    "lat": 33.72836,
-    "lng": -84.91666,
-    "city": "Villa Rica"
-  },
-  "Griffin": {
-    "lat": 33.24131,
-    "lng": -84.27044,
-    "city": "Griffin"
-  },
-  "M.L. King": {
-    "lat": 33.71108,
-    "lng": -84.10548,
-    "city": "Lithonia"
-  },
-  "Centennial": {
-    "lat": 34.03767,
-    "lng": -84.3489,
-    "city": "Roswell"
-  },
-  "Allatoona": {
-    "lat": 34.06199,
-    "lng": -84.68112,
-    "city": "Acworth"
-  },
-  "Dutchtown": {
-    "lat": 33.38192,
-    "lng": -84.30059,
-    "city": "Hampton"
-  },
-  "Sprayberry": {
-    "lat": 33.95367,
-    "lng": -84.54878,
-    "city": "Marietta"
-  },
-  "East Forsyth": {
-    "lat": 34.28944,
-    "lng": -83.83449,
-    "city": "Gainesville"
-  },
-  "Evans": {
-    "lat": 33.56606,
-    "lng": -82.13771,
-    "city": "Evans"
-  },
-  "St. Pius X Catholic": {
-    "lat": 33.75944,
-    "lng": -84.42113,
-    "city": "Atlanta"
-  },
-  "Harris County": {
-    "lat": 32.76467,
-    "lng": -84.87526,
-    "city": "Hamilton"
-  },
-  "Winder-Barrow": {
-    "lat": 33.99063,
-    "lng": -83.72532,
-    "city": "Winder"
-  },
-  "Starr's Mill": {
-    "lat": 33.44927,
-    "lng": -84.47083,
-    "city": "Fayetteville"
-  },
-  "Lithia Springs": {
-    "lat": 33.78249,
-    "lng": -84.64849,
-    "city": "Lithia Springs"
-  },
-  "Jackson": {
-    "lat": 33.76301,
-    "lng": -84.41707,
-    "city": "Atlanta"
-  },
-  "Banneker": {
-    "lat": 33.64363,
-    "lng": -84.46345,
-    "city": "College Park"
-  },
-  "Locust Grove": {
-    "lat": 33.34813,
-    "lng": -84.10255,
-    "city": "Locust Grove"
-  },
-  "Woodland": {
-    "lat": 34.16259,
-    "lng": -84.79744,
-    "city": "Cartersville"
-  },
-  "Eastside": {
-    "lat": 33.60308,
-    "lng": -83.84667,
-    "city": "Covington"
-  },
-  "Wayne County": {
-    "lat": 31.59457,
-    "lng": -81.8957,
-    "city": "Jesup"
-  },
-  "Chattahoochee": {
-    "lat": 34.077,
-    "lng": -84.27308,
-    "city": "Alpharetta"
-  },
-  "Madison County": {
-    "lat": 34.1256,
-    "lng": -83.21615,
-    "city": "Danielsville"
-  },
-  "Drew": {
-    "lat": 33.56072,
-    "lng": -84.41514,
-    "city": "Riverdale"
-  },
-  "Mundy's Mill": {
-    "lat": 33.51907,
-    "lng": -84.3537,
-    "city": "Jonesboro"
-  },
-  "Druid Hills": {
-    "lat": 33.76693,
-    "lng": -84.42683,
-    "city": "Atlanta"
-  },
-  "Union Grove": {
-    "lat": 33.44377,
-    "lng": -84.15222,
-    "city": "McDonough"
-  },
-  "Eagle's Landing": {
-    "lat": 33.43963,
-    "lng": -84.15466,
-    "city": "McDonough"
-  },
-  "Northview": {
-    "lat": 34.03623,
-    "lng": -84.20699,
-    "city": "Johns Creek"
-  },
-  "Arabia Mountain": {
-    "lat": 33.7161,
-    "lng": -84.10536,
-    "city": "Lithonia"
-  },
-  "Groves": {
-    "lat": 32.08722,
-    "lng": -81.17661,
-    "city": "Garden City"
-  },
-  "Forest Park": {
-    "lat": 33.62054,
-    "lng": -84.35818,
-    "city": "Forest Park"
-  },
-  "Johnson": {
-    "lat": 34.2942,
-    "lng": -83.83102,
-    "city": "Gainesville"
-  },
-  "Cross Keys": {
-    "lat": 33.76263,
-    "lng": -84.42808,
-    "city": "Atlanta"
-  },
-  "Sandy Creek": {
-    "lat": 33.47606,
-    "lng": -84.59452,
-    "city": "Tyrone"
-  },
-  "Peach County": {
-    "lat": 32.55111,
-    "lng": -83.87994,
-    "city": "Fort Valley"
-  },
-  "Troup County": {
-    "lat": 33.02574,
-    "lng": -85.03243,
-    "city": "LaGrange"
-  },
-  "Cairo": {
-    "lat": 30.87923,
-    "lng": -84.20551,
-    "city": "Cairo"
-  },
-  "Monroe Area": {
-    "lat": 33.79748,
-    "lng": -83.71873,
-    "city": "Monroe"
-  },
-  "Stephenson": {
-    "lat": 33.8064,
-    "lng": -84.17406,
-    "city": "Stone Mountain"
-  },
-  "Douglass": {
-    "lat": 33.76603,
-    "lng": -84.42413,
-    "city": "Atlanta"
-  },
-  "Calhoun": {
-    "lat": 34.50494,
-    "lng": -84.93139,
-    "city": "Calhoun"
-  },
-  "Mary Persons": {
-    "lat": 33.03936,
-    "lng": -83.93444,
-    "city": "Forsyth"
-  },
-  "Greater Atlanta Christian": {
-    "lat": 33.9421,
-    "lng": -84.20437,
-    "city": "Norcross"
-  },
-  "Dougherty": {
-    "lat": 31.57722,
-    "lng": -84.17234,
-    "city": "Albany"
-  },
-  "Baldwin": {
-    "lat": 33.08335,
-    "lng": -83.2374,
-    "city": "Milledgeville"
-  },
-  "North Hall": {
-    "lat": 34.29301,
-    "lng": -83.83155,
-    "city": "Gainesville"
-  },
-  "Hampton": {
-    "lat": 33.37777,
-    "lng": -84.30277,
-    "city": "Hampton"
-  },
-  "Northwest Whitfield": {
-    "lat": 34.85541,
-    "lng": -85.03678,
-    "city": "Tunnel Hill"
-  },
-  "Oconee County": {
-    "lat": 33.85967,
-    "lng": -83.40479,
-    "city": "Watkinsville"
-  },
-  "Spencer": {
-    "lat": 32.5063,
-    "lng": -84.87898,
-    "city": "Columbus"
-  },
-  "West Laurens": {
-    "lat": 32.43319,
-    "lng": -83.05913,
-    "city": "Dexter"
-  },
-  "Westover": {
-    "lat": 31.57576,
-    "lng": -84.17486,
-    "city": "Albany"
-  },
-  "Cherokee Bluff": {
-    "lat": 34.16707,
-    "lng": -83.91973,
-    "city": "Flowery Branch"
-  },
-  "Adairsville": {
-    "lat": 34.37085,
-    "lng": -84.92119,
-    "city": "Adairsville"
-  },
-  "North Clayton": {
-    "lat": 33.64103,
-    "lng": -84.46135,
-    "city": "College Park"
-  },
-  "Bainbridge": {
-    "lat": 30.90621,
-    "lng": -84.57265,
-    "city": "Bainbridge"
-  },
-  "Spalding": {
-    "lat": 33.24349,
-    "lng": -84.26753,
-    "city": "Griffin"
-  },
-  "Howard": {
-    "lat": 32.80767,
-    "lng": -83.69168,
-    "city": "Macon"
-  },
-  "Harlem": {
-    "lat": 33.43535,
-    "lng": -82.31606,
-    "city": "Harlem"
-  },
-  "New Hampstead": {
-    "lat": 32.01456,
-    "lng": -81.19842,
-    "city": "Savannah"
-  },
-  "Gilmer": {
-    "lat": 34.69144,
-    "lng": -84.48349,
-    "city": "Ellijay"
-  },
-  "White County": {
-    "lat": 34.59704,
-    "lng": -83.76071,
-    "city": "Cleveland"
-  },
-  "East Jackson": {
-    "lat": 34.2143,
-    "lng": -83.46939,
-    "city": "Commerce"
-  },
-  "Liberty County": {
-    "lat": 31.83068,
-    "lng": -81.61584,
-    "city": "Hinesville"
-  },
-  "Pickens": {
-    "lat": 34.4662,
-    "lng": -84.43586,
-    "city": "Jasper"
-  },
-  "Southeast Bulloch": {
-    "lat": 32.3891,
-    "lng": -81.66997,
-    "city": "Brooklet"
-  },
-  "Monroe": {
-    "lat": 31.57333,
-    "lng": -84.17368,
-    "city": "Albany"
-  },
-  "Shaw": {
-    "lat": 32.51228,
-    "lng": -84.87294,
-    "city": "Columbus"
-  },
-  "Windsor Forest": {
-    "lat": 32.01531,
-    "lng": -81.19963,
-    "city": "Savannah"
-  },
-  "Long County": {
-    "lat": 31.71401,
-    "lng": -81.74029,
-    "city": "Ludowici"
-  },
-  "Pace Academy": {
-    "lat": 33.76541,
-    "lng": -84.42829,
-    "city": "Atlanta"
-  },
-  "Westside": {
-    "lat": 32.8132,
-    "lng": -83.69511,
-    "city": "Macon"
-  },
-  "Westminster": {
-    "lat": 33.76369,
-    "lng": -84.42025,
-    "city": "Atlanta"
-  },
-  "McDonough": {
-    "lat": 33.43793,
-    "lng": -84.14795,
-    "city": "Mcdonough"
-  },
-  "Upson-Lee": {
-    "lat": 32.89167,
-    "lng": -84.32669,
-    "city": "Thomaston"
-  },
-  "Dawson County": {
-    "lat": 34.43365,
-    "lng": -84.12445,
-    "city": "Dawsonville"
-  },
-  "Ridgeland": {
-    "lat": 34.97577,
-    "lng": -85.28957,
-    "city": "Rossville"
-  },
-  "Fayette County": {
-    "lat": 33.44346,
-    "lng": -84.47088,
-    "city": "Fayetteville"
-  },
-  "North Springs": {
-    "lat": 33.75983,
-    "lng": -84.42252,
-    "city": "Atlanta"
-  },
-  "Columbus": {
-    "lat": 32.50733,
-    "lng": -84.87771,
-    "city": "Columbus"
-  },
-  "Luella": {
-    "lat": 33.35206,
-    "lng": -84.17853,
-    "city": "Luella"
-  },
-  "East Hall": {
-    "lat": 34.28652,
-    "lng": -83.82968,
-    "city": "Gainesville"
-  },
-  "Riverdale": {
-    "lat": 33.55918,
-    "lng": -84.41121,
-    "city": "Riverdale"
-  },
-  "West Hall": {
-    "lat": 34.22213,
-    "lng": -83.88486,
-    "city": "Oakwood"
-  },
-  "Southeast Whitfield": {
-    "lat": 34.77394,
-    "lng": -84.97466,
-    "city": "Dalton"
-  },
-  "Hardaway": {
-    "lat": 32.50817,
-    "lng": -84.87727,
-    "city": "Columbus"
-  },
-  "Salem": {
-    "lat": 33.65461,
-    "lng": -83.98496,
-    "city": "Conyers"
-  },
-  "Chestatee": {
-    "lat": 34.28889,
-    "lng": -83.83531,
-    "city": "Gainesville"
-  },
-  "Stone Mountain": {
-    "lat": 33.80119,
-    "lng": -84.17403,
-    "city": "Stone Mountain"
-  },
-  "Clarkston": {
-    "lat": 33.81349,
-    "lng": -84.24185,
-    "city": "Clarkston"
   },
   "Appling County": {
     "lat": 31.76475,
@@ -1759,9 +1449,319 @@
     "lng": -84.17262,
     "city": "Stone Mountain"
   },
+  "Heard County": {
+    "lat": 33.27983,
+    "lng": -85.09864,
+    "city": "Franklin"
+  },
+  "Prince Avenue Christian": {
+    "lat": 33.94686,
+    "lng": -83.37149,
+    "city": "Athens"
+  },
+  "Calvary Day": {
+    "lat": 32.02174,
+    "lng": -81.19734,
+    "city": "Savannah"
+  },
+  "Bleckley County": {
+    "lat": 32.38806,
+    "lng": -83.35043,
+    "city": "Cochran"
+  },
+  "Dublin": {
+    "lat": 32.53547,
+    "lng": -82.92881,
+    "city": "Dublin"
+  },
+  "Bremen": {
+    "lat": 33.71077,
+    "lng": -85.1519,
+    "city": "Bremen"
+  },
+  "Jeff Davis": {
+    "lat": 31.86413,
+    "lng": -82.59928,
+    "city": "Hazlehurst"
+  },
+  "Thomasville": {
+    "lat": 30.8386,
+    "lng": -83.98396,
+    "city": "Thomasville"
+  },
+  "Fitzgerald": {
+    "lat": 31.71304,
+    "lng": -83.25221,
+    "city": "Fitzgerald"
+  },
+  "Commerce": {
+    "lat": 34.21271,
+    "lng": -83.48032,
+    "city": "Commerce"
+  },
+  "Whitefield Academy": {
+    "lat": 33.81334,
+    "lng": -84.58182,
+    "city": "Mableton"
+  },
+  "Swainsboro": {
+    "lat": 32.58559,
+    "lng": -82.33478,
+    "city": "Swainsboro"
+  },
+  "Mount Vernon": {
+    "lat": 33.76576,
+    "lng": -84.41828,
+    "city": "Atlanta"
+  },
+  "Aquinas": {
+    "lat": 33.36785,
+    "lng": -82.07297,
+    "city": "Augusta"
+  },
+  "Model": {
+    "lat": 34.26731,
+    "lng": -85.18928,
+    "city": "Rome"
+  },
+  "Jasper County": {
+    "lat": 33.29588,
+    "lng": -83.68658,
+    "city": "Monticello"
+  },
+  "Laney": {
+    "lat": 33.36538,
+    "lng": -82.07052,
+    "city": "Augusta"
+  },
+  "Dodge County": {
+    "lat": 32.19756,
+    "lng": -83.17066,
+    "city": "Eastman"
+  },
+  "Cook": {
+    "lat": 31.1248,
+    "lng": -83.42548,
+    "city": "Adel"
+  },
+  "Social Circle": {
+    "lat": 33.64614,
+    "lng": -83.71278,
+    "city": "Social Circle"
+  },
+  "Fellowship Christian": {
+    "lat": 34.03398,
+    "lng": -84.35411,
+    "city": "Roswell"
+  },
+  "Trinity Christian": {
+    "lat": 33.33943,
+    "lng": -84.6505,
+    "city": "Sharpsburg"
+  },
+  "Christian Heritage": {
+    "lat": 34.76937,
+    "lng": -84.97708,
+    "city": "Dalton"
+  },
+  "Eagle's Landing Christian Academy": {
+    "lat": 33.4405,
+    "lng": -84.15351,
+    "city": "McDonough"
+  },
+  "Putnam County": {
+    "lat": 33.32582,
+    "lng": -83.38886,
+    "city": "Eatonton"
+  },
+  "Screven County": {
+    "lat": 32.74723,
+    "lng": -81.64069,
+    "city": "Sylvania"
+  },
+  "Berrien": {
+    "lat": 31.2057,
+    "lng": -83.24639,
+    "city": "Nashville"
+  },
+  "Savannah Christian": {
+    "lat": 32.01882,
+    "lng": -81.19094,
+    "city": "Savannah"
+  },
+  "Brooks County": {
+    "lat": 30.78453,
+    "lng": -83.56055,
+    "city": "Quitman"
+  },
+  "Academy for Classical Education": {
+    "lat": 32.8061,
+    "lng": -83.68885,
+    "city": "Macon"
+  },
+  "Rabun County": {
+    "lat": 34.84607,
+    "lng": -83.43256,
+    "city": "Tiger"
+  },
+  "Providence Christian Academy": {
+    "lat": 33.89222,
+    "lng": -84.13564,
+    "city": "Lilburn"
+  },
+  "Darlington": {
+    "lat": 34.26688,
+    "lng": -85.1881,
+    "city": "Rome"
+  },
+  "King's Ridge Christian": {
+    "lat": 34.06682,
+    "lng": -84.27421,
+    "city": "Alpharetta"
+  },
+  "East Laurens": {
+    "lat": 32.54693,
+    "lng": -82.86697,
+    "city": "East Dublin"
+  },
+  "Gordon Lee": {
+    "lat": 34.87747,
+    "lng": -85.28835,
+    "city": "Chickamauga"
+  },
+  "Athens Academy": {
+    "lat": 33.95002,
+    "lng": -83.3735,
+    "city": "Athens"
+  },
+  "Pepperell": {
+    "lat": 34.18769,
+    "lng": -85.18072,
+    "city": "Lindale"
+  },
+  "Vidalia": {
+    "lat": 32.21208,
+    "lng": -82.40219,
+    "city": "Vidalia"
+  },
+  "Fannin County": {
+    "lat": 34.86649,
+    "lng": -84.32186,
+    "city": "Blue Ridge"
+  },
+  "Bacon County": {
+    "lat": 31.54333,
+    "lng": -82.47558,
+    "city": "Alma"
+  },
+  "Metter": {
+    "lat": 32.39451,
+    "lng": -82.06243,
+    "city": "Metter"
+  },
+  "Mt. Bethel Christian Academy": {
+    "lat": 33.95225,
+    "lng": -84.54464,
+    "city": "Marietta"
+  },
+  "Dade County": {
+    "lat": 34.87415,
+    "lng": -85.50965,
+    "city": "Trenton"
+  },
+  "Mount Paran Christian": {
+    "lat": 34.02503,
+    "lng": -84.61375,
+    "city": "Kennesaw"
+  },
+  "Washington": {
+    "lat": 33.76634,
+    "lng": -84.42238,
+    "city": "Atlanta"
+  },
+  "Bryan County": {
+    "lat": 32.14453,
+    "lng": -81.61692,
+    "city": "Pembroke"
+  },
+  "Landmark Christian": {
+    "lat": 33.54758,
+    "lng": -84.58312,
+    "city": "Fairburn"
+  },
+  "Jefferson County": {
+    "lat": 32.99287,
+    "lng": -82.39719,
+    "city": "Louisville"
+  },
+  "Utopian Academy for the Arts": {
+    "lat": 33.61311,
+    "lng": -84.28596,
+    "city": "Ellenwood"
+  },
+  "Coosa": {
+    "lat": 34.26336,
+    "lng": -85.19173,
+    "city": "Rome"
+  },
+  "Glenn Hills": {
+    "lat": 33.35997,
+    "lng": -82.07083,
+    "city": "Augusta"
+  },
+  "Banks County": {
+    "lat": 34.33796,
+    "lng": -83.49478,
+    "city": "Homer"
+  },
+  "Mount Pisgah Christian": {
+    "lat": 34.03466,
+    "lng": -84.2067,
+    "city": "Johns Creek"
+  },
+  "Oglethorpe County": {
+    "lat": 33.87007,
+    "lng": -83.11015,
+    "city": "Lexington"
+  },
+  "Chattooga": {
+    "lat": 34.47873,
+    "lng": -85.34908,
+    "city": "Summerville"
+  },
+  "Walker": {
+    "lat": 33.95937,
+    "lng": -84.54046,
+    "city": "Marietta"
+  },
+  "Lakeview-Fort Oglethorpe": {
+    "lat": 34.93185,
+    "lng": -85.24601,
+    "city": "Fort Oglethorpe"
+  },
+  "Savannah": {
+    "lat": 32.01603,
+    "lng": -81.19906,
+    "city": "Savannah"
+  },
+  "Armuchee": {
+    "lat": 34.26289,
+    "lng": -85.18565,
+    "city": "Rome"
+  },
+  "Josey": {
+    "lat": 33.36855,
+    "lng": -82.0722,
+    "city": "Augusta"
+  },
+  "Gordon Central": {
+    "lat": 34.49941,
+    "lng": -84.92946,
+    "city": "Calhoun"
+  },
   "Carrollton": {
-    "lat": 33.58185,
-    "lng": -85.08333,
+    "lat": 33.58004,
+    "lng": -85.07861,
     "city": "Carrollton"
   },
   "Buford": {

@@ -1,589 +1,4 @@
 {
-  "Clear Lake": {
-    "lat": 43.13509,
-    "lng": -93.37365,
-    "city": "Clear Lake"
-  },
-  "Solon": {
-    "lat": 41.80683,
-    "lng": -91.49892,
-    "city": "Solon"
-  },
-  "Des Moines Christian": {
-    "lat": 41.57238,
-    "lng": -93.6041,
-    "city": "Des Moines"
-  },
-  "West Delaware": {
-    "lat": 42.48534,
-    "lng": -91.45609,
-    "city": "Manchester"
-  },
-  "Algona": {
-    "lat": 43.07635,
-    "lng": -94.23175,
-    "city": "Algona"
-  },
-  "Carroll": {
-    "lat": 42.07403,
-    "lng": -94.85949,
-    "city": "Carroll"
-  },
-  "Sioux Center": {
-    "lat": 43.07485,
-    "lng": -96.17065,
-    "city": "Sioux Center"
-  },
-  "Bishop Heelan Catholic": {
-    "lat": 42.49181,
-    "lng": -96.38567,
-    "city": "Sioux City"
-  },
-  "Wahlert": {
-    "lat": 42.50349,
-    "lng": -90.70559,
-    "city": "Dubuque"
-  },
-  "Mt. Vernon": {
-    "lat": 41.92427,
-    "lng": -91.4256,
-    "city": "Mt Vernon"
-  },
-  "Williamsburg": {
-    "lat": 41.66888,
-    "lng": -92.01325,
-    "city": "Williamsburg"
-  },
-  "Harlan": {
-    "lat": 41.64953,
-    "lng": -95.32679,
-    "city": "Harlan"
-  },
-  "Iowa Falls-Alden": {
-    "lat": 42.51917,
-    "lng": -93.26605,
-    "city": "Iowa Falls"
-  },
-  "Assumption": {
-    "lat": 41.55439,
-    "lng": -90.60585,
-    "city": "Davenport"
-  },
-  "Mt. Pleasant": {
-    "lat": 40.9622,
-    "lng": -91.54716,
-    "city": "Mt Pleasant"
-  },
-  "Nevada": {
-    "lat": 42.01749,
-    "lng": -93.46967,
-    "city": "Nevada"
-  },
-  "Atlantic": {
-    "lat": 41.39299,
-    "lng": -95.02188,
-    "city": "Atlantic"
-  },
-  "Central DeWitt": {
-    "lat": 41.82271,
-    "lng": -90.54409,
-    "city": "DeWitt"
-  },
-  "Independence": {
-    "lat": 42.46219,
-    "lng": -91.90315,
-    "city": "Independence"
-  },
-  "MOC-Floyd Valley": {
-    "lat": 43.0073,
-    "lng": -96.05414,
-    "city": "Orange City"
-  },
-  "Washington": {
-    "lat": 41.29791,
-    "lng": -91.69367,
-    "city": "Washington"
-  },
-  "Fairfield": {
-    "lat": 41.00638,
-    "lng": -91.96663,
-    "city": "Fairfield"
-  },
-  "Humboldt": {
-    "lat": 42.72293,
-    "lng": -94.22502,
-    "city": "Humboldt"
-  },
-  "Creston": {
-    "lat": 41.06031,
-    "lng": -94.36473,
-    "city": "Creston"
-  },
-  "Benton": {
-    "lat": 42.00831,
-    "lng": -92.08972,
-    "city": "Van Horne"
-  },
-  "Webster City": {
-    "lat": 41.43846,
-    "lng": -92.17172,
-    "city": "Webster City"
-  },
-  "Center Point-Urbana": {
-    "lat": 42.18381,
-    "lng": -91.78048,
-    "city": "Center Point"
-  },
-  "Greene County": {
-    "lat": 42.01774,
-    "lng": -94.37942,
-    "city": "Jefferson"
-  },
-  "Winterset": {
-    "lat": 41.3499,
-    "lng": -94.01807,
-    "city": "Winterset"
-  },
-  "Fort Madison": {
-    "lat": 40.62146,
-    "lng": -91.34626,
-    "city": "Fort Madison"
-  },
-  "Charles City": {
-    "lat": 43.06476,
-    "lng": -92.67446,
-    "city": "Charles City"
-  },
-  "Keokuk": {
-    "lat": 40.40955,
-    "lng": -91.40251,
-    "city": "Keokuk"
-  },
-  "Knoxville": {
-    "lat": 41.31848,
-    "lng": -93.10262,
-    "city": "Knoxville"
-  },
-  "Maquoketa": {
-    "lat": 42.06053,
-    "lng": -90.66386,
-    "city": "Maquoketa"
-  },
-  "Perry": {
-    "lat": 41.83791,
-    "lng": -94.09325,
-    "city": "Perry"
-  },
-  "Saydel": {
-    "lat": 41.57456,
-    "lng": -93.61184,
-    "city": "Des Moines"
-  },
-  "Central Lyon/George-Little Rock": {
-    "lat": 43.4267,
-    "lng": -96.16639,
-    "city": "Rock Rapids"
-  },
-  "Kuemper": {
-    "lat": 42.06632,
-    "lng": -94.86575,
-    "city": "Carroll"
-  },
-  "Odebolt Arthur Battle Creek Ida Grove": {
-    "lat": 42.34324,
-    "lng": -95.47337,
-    "city": "Ida Grove"
-  },
-  "Spirit Lake": {
-    "lat": 43.41666,
-    "lng": -95.11307,
-    "city": "Spirit Lake"
-  },
-  "Roland-Story": {
-    "lat": 42.18574,
-    "lng": -93.58688,
-    "city": "Story City"
-  },
-  "Van Meter": {
-    "lat": 41.52464,
-    "lng": -93.94418,
-    "city": "Van Meter"
-  },
-  "Alburnett": {
-    "lat": 42.14894,
-    "lng": -91.62011,
-    "city": "Alburnett"
-  },
-  "Dike-New Hartford": {
-    "lat": 42.46412,
-    "lng": -92.62557,
-    "city": "Dike"
-  },
-  "Wilton": {
-    "lat": 41.58911,
-    "lng": -91.02548,
-    "city": "Wilton"
-  },
-  "Crestwood": {
-    "lat": 43.37175,
-    "lng": -92.11629,
-    "city": "Cresco"
-  },
-  "Western Christian": {
-    "lat": 43.18946,
-    "lng": -96.1341,
-    "city": "Hull"
-  },
-  "Okoboji": {
-    "lat": 43.34172,
-    "lng": -95.14571,
-    "city": "Milford"
-  },
-  "Osage": {
-    "lat": 43.28267,
-    "lng": -92.81131,
-    "city": "Osage"
-  },
-  "Waukon": {
-    "lat": 43.26852,
-    "lng": -91.47849,
-    "city": "Waukon"
-  },
-  "Prairie City-Monroe": {
-    "lat": 41.51895,
-    "lng": -93.10374,
-    "city": "Monroe"
-  },
-  "Centerville": {
-    "lat": 40.72984,
-    "lng": -92.87203,
-    "city": "Centerville"
-  },
-  "Clarinda": {
-    "lat": 40.73771,
-    "lng": -95.03375,
-    "city": "Clarinda"
-  },
-  "Southeast Valley": {
-    "lat": 42.27793,
-    "lng": -94.28973,
-    "city": "Gowrie"
-  },
-  "Mid-Prairie": {
-    "lat": 41.46924,
-    "lng": -91.83525,
-    "city": "Wellman"
-  },
-  "Hampton-Dumont/CAL": {
-    "lat": 42.74199,
-    "lng": -93.20499,
-    "city": "Hampton"
-  },
-  "Unity Christian": {
-    "lat": 43.00194,
-    "lng": -96.05294,
-    "city": "Orange City"
-  },
-  "Boyden-Hull/Rock Valley": {
-    "lat": 43.20258,
-    "lng": -96.28904,
-    "city": "Rock Valley"
-  },
-  "Pella Christian": {
-    "lat": 41.40123,
-    "lng": -92.91968,
-    "city": "Pella"
-  },
-  "Cherokee Washington": {
-    "lat": 42.7495,
-    "lng": -95.55216,
-    "city": "Cherokee"
-  },
-  "North Fayette Valley": {
-    "lat": 42.95887,
-    "lng": -91.81302,
-    "city": "West Union"
-  },
-  "Chariton": {
-    "lat": 41.01745,
-    "lng": -93.30963,
-    "city": "Chariton"
-  },
-  "Grand View Christian": {
-    "lat": 41.57007,
-    "lng": -93.60847,
-    "city": "Des Moines"
-  },
-  "Mediapolis": {
-    "lat": 41.00787,
-    "lng": -91.16372,
-    "city": "Mediapolis"
-  },
-  "Denver": {
-    "lat": 42.66822,
-    "lng": -92.33394,
-    "city": "Denver"
-  },
-  "New Hampton": {
-    "lat": 43.05622,
-    "lng": -92.31472,
-    "city": "New Hampton"
-  },
-  "West Liberty": {
-    "lat": 41.57299,
-    "lng": -91.26264,
-    "city": "West Liberty"
-  },
-  "West Branch": {
-    "lat": 41.66616,
-    "lng": -91.3442,
-    "city": "West Branch"
-  },
-  "Bellevue": {
-    "lat": 42.25963,
-    "lng": -90.4311,
-    "city": "Bellevue"
-  },
-  "Albia": {
-    "lat": 41.02651,
-    "lng": -92.80378,
-    "city": "Albia"
-  },
-  "Vinton-Shellsburg": {
-    "lat": 42.16311,
-    "lng": -92.02621,
-    "city": "Vinton"
-  },
-  "Anamosa": {
-    "lat": 42.10883,
-    "lng": -91.2752,
-    "city": "Anamosa"
-  },
-  "Tipton": {
-    "lat": 41.77012,
-    "lng": -91.12828,
-    "city": "Tipton"
-  },
-  "Monticello": {
-    "lat": 42.23042,
-    "lng": -91.18592,
-    "city": "Monticello"
-  },
-  "Forest City": {
-    "lat": 43.25708,
-    "lng": -93.63656,
-    "city": "Forest City"
-  },
-  "Central Lee": {
-    "lat": 40.64532,
-    "lng": -91.5641,
-    "city": "Donnellson"
-  },
-  "South Tama County": {
-    "lat": 41.96512,
-    "lng": -92.5738,
-    "city": "Tama"
-  },
-  "Woodward-Granger": {
-    "lat": 41.85273,
-    "lng": -93.92075,
-    "city": "Woodward"
-  },
-  "Estherville Lincoln Central": {
-    "lat": 43.39973,
-    "lng": -94.83422,
-    "city": "Estherville"
-  },
-  "Clarke": {
-    "lat": 41.03495,
-    "lng": -93.7866,
-    "city": "Osceola"
-  },
-  "Sheldon": {
-    "lat": 43.17965,
-    "lng": -95.84335,
-    "city": "Sheldon"
-  },
-  "Oelwein": {
-    "lat": 42.67158,
-    "lng": -91.91279,
-    "city": "Oelwein"
-  },
-  "Southeast Polk": {
-    "lat": 41.59911,
-    "lng": -93.50505,
-    "city": "Pleasant Hill"
-  },
-  "Dowling Catholic": {
-    "lat": 41.55373,
-    "lng": -93.78102,
-    "city": "West Des Moines"
-  },
-  "Johnston": {
-    "lat": 41.69195,
-    "lng": -93.72446,
-    "city": "Johnston"
-  },
-  "Ankeny": {
-    "lat": 41.72617,
-    "lng": -93.60551,
-    "city": "Ankeny"
-  },
-  "Valley": {
-    "lat": 41.55161,
-    "lng": -93.78327,
-    "city": "West Des Moines"
-  },
-  "Waukee": {
-    "lat": 41.58537,
-    "lng": -93.884,
-    "city": "Waukee"
-  },
-  "Sioux City East": {
-    "lat": 42.49871,
-    "lng": -96.39091,
-    "city": "Sioux City"
-  },
-  "Liberty": {
-    "lat": 41.74362,
-    "lng": -91.61122,
-    "city": "North Liberty"
-  },
-  "Northwest": {
-    "lat": 41.58837,
-    "lng": -93.8814,
-    "city": "Waukee"
-  },
-  "Indianola": {
-    "lat": 41.36297,
-    "lng": -93.56555,
-    "city": "Indianola"
-  },
-  "Cedar Falls": {
-    "lat": 42.51907,
-    "lng": -92.45401,
-    "city": "Cedar Falls"
-  },
-  "Dallas Center-Grimes": {
-    "lat": 41.68555,
-    "lng": -93.98071,
-    "city": "Dallas Center"
-  },
-  "Prairie": {
-    "lat": 41.96281,
-    "lng": -91.68515,
-    "city": "Cedar Rapids"
-  },
-  "Pleasant Valley": {
-    "lat": 41.56942,
-    "lng": -90.4226,
-    "city": "Pleasant Valley"
-  },
-  "Urbandale": {
-    "lat": 41.63666,
-    "lng": -93.77989,
-    "city": "Urbandale"
-  },
-  "Norwalk": {
-    "lat": 41.48366,
-    "lng": -93.69549,
-    "city": "Norwalk"
-  },
-  "Bettendorf": {
-    "lat": 41.56684,
-    "lng": -90.47688,
-    "city": "Bettendorf"
-  },
-  "Kennedy": {
-    "lat": 41.9619,
-    "lng": -91.68096,
-    "city": "Cedar Rapids"
-  },
-  "Iowa City": {
-    "lat": 41.65794,
-    "lng": -91.52975,
-    "city": "Iowa City"
-  },
-  "Ankeny Centennial": {
-    "lat": 41.72654,
-    "lng": -93.60108,
-    "city": "Ankeny"
-  },
-  "Linn-Mar": {
-    "lat": 42.03878,
-    "lng": -91.58369,
-    "city": "Marion"
-  },
-  "Iowa City West": {
-    "lat": 41.65294,
-    "lng": -91.531,
-    "city": "Iowa City"
-  },
-  "Roosevelt": {
-    "lat": 41.57668,
-    "lng": -93.60615,
-    "city": "Des Moines"
-  },
-  "Ames": {
-    "lat": 42.02633,
-    "lng": -93.62126,
-    "city": "Ames"
-  },
-  "Waterloo West": {
-    "lat": 42.49323,
-    "lng": -92.34734,
-    "city": "Waterloo"
-  },
-  "Lincoln": {
-    "lat": 41.24063,
-    "lng": -95.85003,
-    "city": "Council Bluffs"
-  },
-  "Jefferson": {
-    "lat": 41.96642,
-    "lng": -91.6847,
-    "city": "Cedar Rapids"
-  },
-  "Dubuque Senior": {
-    "lat": 42.50007,
-    "lng": -90.71163,
-    "city": "Dubuque"
-  },
-  "Davenport Central": {
-    "lat": 41.55866,
-    "lng": -90.60828,
-    "city": "Davenport"
-  },
-  "Sioux City North": {
-    "lat": 42.49324,
-    "lng": -96.3905,
-    "city": "Sioux City"
-  },
-  "Ottumwa": {
-    "lat": 41.02225,
-    "lng": -92.42326,
-    "city": "Ottumwa"
-  },
-  "Muscatine": {
-    "lat": 41.41906,
-    "lng": -91.06795,
-    "city": "Muscatine"
-  },
-  "Des Moines East": {
-    "lat": 41.57349,
-    "lng": -93.60453,
-    "city": "Des Moines"
-  },
-  "Hempstead": {
-    "lat": 42.49716,
-    "lng": -90.71334,
-    "city": "Dubuque"
-  },
-  "Marshalltown": {
-    "lat": 42.0343,
-    "lng": -92.90627,
-    "city": "Marshalltown"
-  },
   "Regina": {
     "lat": 41.65606,
     "lng": -91.53464,
@@ -823,6 +238,591 @@
     "lat": 41.01413,
     "lng": -95.22437,
     "city": "Red Oak"
+  },
+  "Southeast Polk": {
+    "lat": 41.59911,
+    "lng": -93.50505,
+    "city": "Pleasant Hill"
+  },
+  "Dowling Catholic": {
+    "lat": 41.55373,
+    "lng": -93.78102,
+    "city": "West Des Moines"
+  },
+  "Johnston": {
+    "lat": 41.69195,
+    "lng": -93.72446,
+    "city": "Johnston"
+  },
+  "Ankeny": {
+    "lat": 41.72617,
+    "lng": -93.60551,
+    "city": "Ankeny"
+  },
+  "Valley": {
+    "lat": 41.55161,
+    "lng": -93.78327,
+    "city": "West Des Moines"
+  },
+  "Waukee": {
+    "lat": 41.58537,
+    "lng": -93.884,
+    "city": "Waukee"
+  },
+  "Sioux City East": {
+    "lat": 42.49871,
+    "lng": -96.39091,
+    "city": "Sioux City"
+  },
+  "Liberty": {
+    "lat": 41.74362,
+    "lng": -91.61122,
+    "city": "North Liberty"
+  },
+  "Northwest": {
+    "lat": 41.58837,
+    "lng": -93.8814,
+    "city": "Waukee"
+  },
+  "Indianola": {
+    "lat": 41.36297,
+    "lng": -93.56555,
+    "city": "Indianola"
+  },
+  "Cedar Falls": {
+    "lat": 42.51907,
+    "lng": -92.45401,
+    "city": "Cedar Falls"
+  },
+  "Dallas Center-Grimes": {
+    "lat": 41.68555,
+    "lng": -93.98071,
+    "city": "Dallas Center"
+  },
+  "Prairie": {
+    "lat": 41.96281,
+    "lng": -91.68515,
+    "city": "Cedar Rapids"
+  },
+  "Pleasant Valley": {
+    "lat": 41.56942,
+    "lng": -90.4226,
+    "city": "Pleasant Valley"
+  },
+  "Urbandale": {
+    "lat": 41.63666,
+    "lng": -93.77989,
+    "city": "Urbandale"
+  },
+  "Norwalk": {
+    "lat": 41.48366,
+    "lng": -93.69549,
+    "city": "Norwalk"
+  },
+  "Bettendorf": {
+    "lat": 41.56684,
+    "lng": -90.47688,
+    "city": "Bettendorf"
+  },
+  "Kennedy": {
+    "lat": 41.9619,
+    "lng": -91.68096,
+    "city": "Cedar Rapids"
+  },
+  "Iowa City": {
+    "lat": 41.65794,
+    "lng": -91.52975,
+    "city": "Iowa City"
+  },
+  "Ankeny Centennial": {
+    "lat": 41.72654,
+    "lng": -93.60108,
+    "city": "Ankeny"
+  },
+  "Linn-Mar": {
+    "lat": 42.03878,
+    "lng": -91.58369,
+    "city": "Marion"
+  },
+  "Iowa City West": {
+    "lat": 41.65294,
+    "lng": -91.531,
+    "city": "Iowa City"
+  },
+  "Roosevelt": {
+    "lat": 41.57668,
+    "lng": -93.60615,
+    "city": "Des Moines"
+  },
+  "Ames": {
+    "lat": 42.02633,
+    "lng": -93.62126,
+    "city": "Ames"
+  },
+  "Waterloo West": {
+    "lat": 42.49323,
+    "lng": -92.34734,
+    "city": "Waterloo"
+  },
+  "Lincoln": {
+    "lat": 41.24063,
+    "lng": -95.85003,
+    "city": "Council Bluffs"
+  },
+  "Jefferson": {
+    "lat": 41.96642,
+    "lng": -91.6847,
+    "city": "Cedar Rapids"
+  },
+  "Dubuque Senior": {
+    "lat": 42.50007,
+    "lng": -90.71163,
+    "city": "Dubuque"
+  },
+  "Davenport Central": {
+    "lat": 41.55866,
+    "lng": -90.60828,
+    "city": "Davenport"
+  },
+  "Sioux City North": {
+    "lat": 42.49324,
+    "lng": -96.3905,
+    "city": "Sioux City"
+  },
+  "Ottumwa": {
+    "lat": 41.02225,
+    "lng": -92.42326,
+    "city": "Ottumwa"
+  },
+  "Muscatine": {
+    "lat": 41.41906,
+    "lng": -91.06795,
+    "city": "Muscatine"
+  },
+  "Des Moines East": {
+    "lat": 41.57349,
+    "lng": -93.60453,
+    "city": "Des Moines"
+  },
+  "Hempstead": {
+    "lat": 42.49716,
+    "lng": -90.71334,
+    "city": "Dubuque"
+  },
+  "Marshalltown": {
+    "lat": 42.0343,
+    "lng": -92.90627,
+    "city": "Marshalltown"
+  },
+  "Central Lyon/George-Little Rock": {
+    "lat": 43.4267,
+    "lng": -96.16639,
+    "city": "Rock Rapids"
+  },
+  "Kuemper": {
+    "lat": 42.06632,
+    "lng": -94.86575,
+    "city": "Carroll"
+  },
+  "Odebolt Arthur Battle Creek Ida Grove": {
+    "lat": 42.34324,
+    "lng": -95.47337,
+    "city": "Ida Grove"
+  },
+  "Spirit Lake": {
+    "lat": 43.41666,
+    "lng": -95.11307,
+    "city": "Spirit Lake"
+  },
+  "Roland-Story": {
+    "lat": 42.18574,
+    "lng": -93.58688,
+    "city": "Story City"
+  },
+  "Van Meter": {
+    "lat": 41.52464,
+    "lng": -93.94418,
+    "city": "Van Meter"
+  },
+  "Alburnett": {
+    "lat": 42.14894,
+    "lng": -91.62011,
+    "city": "Alburnett"
+  },
+  "Dike-New Hartford": {
+    "lat": 42.46412,
+    "lng": -92.62557,
+    "city": "Dike"
+  },
+  "Wilton": {
+    "lat": 41.58911,
+    "lng": -91.02548,
+    "city": "Wilton"
+  },
+  "Crestwood": {
+    "lat": 43.37175,
+    "lng": -92.11629,
+    "city": "Cresco"
+  },
+  "Western Christian": {
+    "lat": 43.18946,
+    "lng": -96.1341,
+    "city": "Hull"
+  },
+  "Okoboji": {
+    "lat": 43.34172,
+    "lng": -95.14571,
+    "city": "Milford"
+  },
+  "Osage": {
+    "lat": 43.28267,
+    "lng": -92.81131,
+    "city": "Osage"
+  },
+  "Waukon": {
+    "lat": 43.26852,
+    "lng": -91.47849,
+    "city": "Waukon"
+  },
+  "Prairie City-Monroe": {
+    "lat": 41.51895,
+    "lng": -93.10374,
+    "city": "Monroe"
+  },
+  "Centerville": {
+    "lat": 40.72984,
+    "lng": -92.87203,
+    "city": "Centerville"
+  },
+  "Clarinda": {
+    "lat": 40.73771,
+    "lng": -95.03375,
+    "city": "Clarinda"
+  },
+  "Southeast Valley": {
+    "lat": 42.27793,
+    "lng": -94.28973,
+    "city": "Gowrie"
+  },
+  "Mid-Prairie": {
+    "lat": 41.46924,
+    "lng": -91.83525,
+    "city": "Wellman"
+  },
+  "Hampton-Dumont/CAL": {
+    "lat": 42.74199,
+    "lng": -93.20499,
+    "city": "Hampton"
+  },
+  "Unity Christian": {
+    "lat": 43.00194,
+    "lng": -96.05294,
+    "city": "Orange City"
+  },
+  "Boyden-Hull/Rock Valley": {
+    "lat": 43.20258,
+    "lng": -96.28904,
+    "city": "Rock Valley"
+  },
+  "Pella Christian": {
+    "lat": 41.40123,
+    "lng": -92.91968,
+    "city": "Pella"
+  },
+  "Cherokee Washington": {
+    "lat": 42.7495,
+    "lng": -95.55216,
+    "city": "Cherokee"
+  },
+  "North Fayette Valley": {
+    "lat": 42.95887,
+    "lng": -91.81302,
+    "city": "West Union"
+  },
+  "Chariton": {
+    "lat": 41.01745,
+    "lng": -93.30963,
+    "city": "Chariton"
+  },
+  "Grand View Christian": {
+    "lat": 41.57007,
+    "lng": -93.60847,
+    "city": "Des Moines"
+  },
+  "Mediapolis": {
+    "lat": 41.00787,
+    "lng": -91.16372,
+    "city": "Mediapolis"
+  },
+  "Denver": {
+    "lat": 42.66822,
+    "lng": -92.33394,
+    "city": "Denver"
+  },
+  "New Hampton": {
+    "lat": 43.05622,
+    "lng": -92.31472,
+    "city": "New Hampton"
+  },
+  "West Liberty": {
+    "lat": 41.57299,
+    "lng": -91.26264,
+    "city": "West Liberty"
+  },
+  "West Branch": {
+    "lat": 41.66616,
+    "lng": -91.3442,
+    "city": "West Branch"
+  },
+  "Bellevue": {
+    "lat": 42.25963,
+    "lng": -90.4311,
+    "city": "Bellevue"
+  },
+  "Albia": {
+    "lat": 41.02651,
+    "lng": -92.80378,
+    "city": "Albia"
+  },
+  "Vinton-Shellsburg": {
+    "lat": 42.16311,
+    "lng": -92.02621,
+    "city": "Vinton"
+  },
+  "Anamosa": {
+    "lat": 42.10883,
+    "lng": -91.2752,
+    "city": "Anamosa"
+  },
+  "Tipton": {
+    "lat": 41.77012,
+    "lng": -91.12828,
+    "city": "Tipton"
+  },
+  "Monticello": {
+    "lat": 42.23042,
+    "lng": -91.18592,
+    "city": "Monticello"
+  },
+  "Forest City": {
+    "lat": 43.25708,
+    "lng": -93.63656,
+    "city": "Forest City"
+  },
+  "Central Lee": {
+    "lat": 40.64532,
+    "lng": -91.5641,
+    "city": "Donnellson"
+  },
+  "South Tama County": {
+    "lat": 41.96512,
+    "lng": -92.5738,
+    "city": "Tama"
+  },
+  "Woodward-Granger": {
+    "lat": 41.85273,
+    "lng": -93.92075,
+    "city": "Woodward"
+  },
+  "Estherville Lincoln Central": {
+    "lat": 43.39973,
+    "lng": -94.83422,
+    "city": "Estherville"
+  },
+  "Clarke": {
+    "lat": 41.03495,
+    "lng": -93.7866,
+    "city": "Osceola"
+  },
+  "Sheldon": {
+    "lat": 43.17965,
+    "lng": -95.84335,
+    "city": "Sheldon"
+  },
+  "Oelwein": {
+    "lat": 42.67158,
+    "lng": -91.91279,
+    "city": "Oelwein"
+  },
+  "Clear Lake": {
+    "lat": 43.13509,
+    "lng": -93.37365,
+    "city": "Clear Lake"
+  },
+  "Solon": {
+    "lat": 41.80683,
+    "lng": -91.49892,
+    "city": "Solon"
+  },
+  "Des Moines Christian": {
+    "lat": 41.57238,
+    "lng": -93.6041,
+    "city": "Des Moines"
+  },
+  "West Delaware": {
+    "lat": 42.48534,
+    "lng": -91.45609,
+    "city": "Manchester"
+  },
+  "Algona": {
+    "lat": 43.07635,
+    "lng": -94.23175,
+    "city": "Algona"
+  },
+  "Carroll": {
+    "lat": 42.07403,
+    "lng": -94.85949,
+    "city": "Carroll"
+  },
+  "Sioux Center": {
+    "lat": 43.07485,
+    "lng": -96.17065,
+    "city": "Sioux Center"
+  },
+  "Bishop Heelan Catholic": {
+    "lat": 42.49181,
+    "lng": -96.38567,
+    "city": "Sioux City"
+  },
+  "Wahlert": {
+    "lat": 42.50349,
+    "lng": -90.70559,
+    "city": "Dubuque"
+  },
+  "Mt. Vernon": {
+    "lat": 41.92427,
+    "lng": -91.4256,
+    "city": "Mt Vernon"
+  },
+  "Williamsburg": {
+    "lat": 41.66888,
+    "lng": -92.01325,
+    "city": "Williamsburg"
+  },
+  "Harlan": {
+    "lat": 41.64953,
+    "lng": -95.32679,
+    "city": "Harlan"
+  },
+  "Iowa Falls-Alden": {
+    "lat": 42.51917,
+    "lng": -93.26605,
+    "city": "Iowa Falls"
+  },
+  "Assumption": {
+    "lat": 41.55439,
+    "lng": -90.60585,
+    "city": "Davenport"
+  },
+  "Mt. Pleasant": {
+    "lat": 40.9622,
+    "lng": -91.54716,
+    "city": "Mt Pleasant"
+  },
+  "Nevada": {
+    "lat": 42.01749,
+    "lng": -93.46967,
+    "city": "Nevada"
+  },
+  "Atlantic": {
+    "lat": 41.39299,
+    "lng": -95.02188,
+    "city": "Atlantic"
+  },
+  "Central DeWitt": {
+    "lat": 41.82271,
+    "lng": -90.54409,
+    "city": "DeWitt"
+  },
+  "Independence": {
+    "lat": 42.46219,
+    "lng": -91.90315,
+    "city": "Independence"
+  },
+  "MOC-Floyd Valley": {
+    "lat": 43.0073,
+    "lng": -96.05414,
+    "city": "Orange City"
+  },
+  "Washington": {
+    "lat": 41.29791,
+    "lng": -91.69367,
+    "city": "Washington"
+  },
+  "Fairfield": {
+    "lat": 41.00638,
+    "lng": -91.96663,
+    "city": "Fairfield"
+  },
+  "Humboldt": {
+    "lat": 42.72293,
+    "lng": -94.22502,
+    "city": "Humboldt"
+  },
+  "Creston": {
+    "lat": 41.06031,
+    "lng": -94.36473,
+    "city": "Creston"
+  },
+  "Benton": {
+    "lat": 42.00831,
+    "lng": -92.08972,
+    "city": "Van Horne"
+  },
+  "Webster City": {
+    "lat": 41.43846,
+    "lng": -92.17172,
+    "city": "Webster City"
+  },
+  "Center Point-Urbana": {
+    "lat": 42.18381,
+    "lng": -91.78048,
+    "city": "Center Point"
+  },
+  "Greene County": {
+    "lat": 42.01774,
+    "lng": -94.37942,
+    "city": "Jefferson"
+  },
+  "Winterset": {
+    "lat": 41.3499,
+    "lng": -94.01807,
+    "city": "Winterset"
+  },
+  "Fort Madison": {
+    "lat": 40.62146,
+    "lng": -91.34626,
+    "city": "Fort Madison"
+  },
+  "Charles City": {
+    "lat": 43.06476,
+    "lng": -92.67446,
+    "city": "Charles City"
+  },
+  "Keokuk": {
+    "lat": 40.40955,
+    "lng": -91.40251,
+    "city": "Keokuk"
+  },
+  "Knoxville": {
+    "lat": 41.31848,
+    "lng": -93.10262,
+    "city": "Knoxville"
+  },
+  "Maquoketa": {
+    "lat": 42.06053,
+    "lng": -90.66386,
+    "city": "Maquoketa"
+  },
+  "Perry": {
+    "lat": 41.83791,
+    "lng": -94.09325,
+    "city": "Perry"
+  },
+  "Saydel": {
+    "lat": 41.57456,
+    "lng": -93.61184,
+    "city": "Des Moines"
   },
   "Xavier": {
     "lat": 41.96497,

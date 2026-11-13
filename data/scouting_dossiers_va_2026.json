@@ -5692,6 +5692,123 @@
       }
     ]
   },
+  "Heritage": {
+    "team": "Heritage",
+    "state": "VA",
+    "division": "C3",
+    "conference": "VHSL C3",
+    "city": "Lynchburg",
+    "record": "6-4",
+    "wins": 6,
+    "losses": 4,
+    "power_index": 73.8,
+    "raw_rating": 23.8,
+    "sos_index": 55.0,
+    "ppg_scored": 24.9,
+    "ppg_allowed": 15.3,
+    "schedule_2026": [
+      {
+        "date": "2026-09-05",
+        "date_iso": "2026-09-05",
+        "opponent": "Graham",
+        "result": "W",
+        "team_score": 21,
+        "opp_score": 6,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "Appomattox County",
+        "result": "W",
+        "team_score": 47,
+        "opp_score": 14,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "Glass",
+        "result": "W",
+        "team_score": 41,
+        "opp_score": 0,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "Rustburg",
+        "result": "W",
+        "team_score": 46,
+        "opp_score": 7,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-01",
+        "date_iso": "2026-10-01",
+        "opponent": "Thomas Jefferson",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 14,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Brookville",
+        "result": "L",
+        "team_score": 28,
+        "opp_score": 34,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "Amherst County",
+        "result": "W",
+        "team_score": 24,
+        "opp_score": 0,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "Liberty-Bedford",
+        "result": "W",
+        "team_score": 35,
+        "opp_score": 0,
+        "is_playoff": false,
+        "round": "2026 Week 10"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "Liberty Christian",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 36,
+        "is_playoff": true,
+        "round": "2026 VHSL First Round"
+      },
+      {
+        "date": "2026-11-06",
+        "date_iso": "2026-11-06",
+        "opponent": "Jefferson Forest",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 42,
+        "is_playoff": false,
+        "round": "2026 VHSL Postseason"
+      }
+    ]
+  },
   "Poquoson": {
     "team": "Poquoson",
     "state": "VA",
@@ -11273,123 +11390,6 @@
         "result": "L",
         "team_score": 14,
         "opp_score": 21,
-        "is_playoff": false,
-        "round": "2026 VHSL Postseason"
-      }
-    ]
-  },
-  "Heritage": {
-    "team": "Heritage",
-    "state": "VA",
-    "division": "C4",
-    "conference": "VHSL C3",
-    "city": "Leesburg",
-    "record": "7-3",
-    "wins": 7,
-    "losses": 3,
-    "power_index": 61.3,
-    "raw_rating": 11.34,
-    "sos_index": 50.6,
-    "ppg_scored": 24.9,
-    "ppg_allowed": 15.3,
-    "schedule_2026": [
-      {
-        "date": "2026-09-05",
-        "date_iso": "2026-09-05",
-        "opponent": "Graham",
-        "result": "W",
-        "team_score": 21,
-        "opp_score": 6,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "Appomattox County",
-        "result": "W",
-        "team_score": 47,
-        "opp_score": 14,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "Glass",
-        "result": "W",
-        "team_score": 41,
-        "opp_score": 0,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "Rustburg",
-        "result": "W",
-        "team_score": 46,
-        "opp_score": 7,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-01",
-        "date_iso": "2026-10-01",
-        "opponent": "Thomas Jefferson",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 14,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Brookville",
-        "result": "L",
-        "team_score": 28,
-        "opp_score": 34,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "Amherst County",
-        "result": "W",
-        "team_score": 24,
-        "opp_score": 0,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "Liberty-Bedford",
-        "result": "W",
-        "team_score": 35,
-        "opp_score": 0,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "Liberty Christian",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 36,
-        "is_playoff": true,
-        "round": "2026 VHSL First Round"
-      },
-      {
-        "date": "2026-11-06",
-        "date_iso": "2026-11-06",
-        "opponent": "Jefferson Forest",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 42,
         "is_playoff": false,
         "round": "2026 VHSL Postseason"
       }
@@ -32050,113 +32050,6 @@
       }
     ]
   },
-  "Prince Edward County": {
-    "team": "Prince Edward County",
-    "state": "VA",
-    "division": "C2",
-    "conference": "VHSL C2",
-    "city": "Farmville",
-    "record": "1-8",
-    "wins": 1,
-    "losses": 8,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 45.3,
-    "ppg_scored": 5.0,
-    "ppg_allowed": 36.6,
-    "schedule_2026": [
-      {
-        "date": "2026-08-28",
-        "date_iso": "2026-08-28",
-        "opponent": "Chatham",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 25,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Windsor",
-        "result": "W",
-        "team_score": 19,
-        "opp_score": 14,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "Buckingham",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 42,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Amelia County",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 37,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Nottoway",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 52,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-15",
-        "date_iso": "2026-10-15",
-        "opponent": "Cumberland",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 20,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "Lunenburg Central",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 55,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-10-29",
-        "date_iso": "2026-10-29",
-        "opponent": "King William",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 49,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-11-06",
-        "date_iso": "2026-11-06",
-        "opponent": "Randolph-Henry",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 35,
-        "is_playoff": false,
-        "round": "2026 VHSL Postseason"
-      }
-    ]
-  },
   "Smith Mountain Lake Christian Academy": {
     "team": "Smith Mountain Lake Christian Academy",
     "state": "VA",
@@ -32264,118 +32157,108 @@
       }
     ]
   },
-  "Nandua": {
-    "team": "Nandua",
+  "Prince Edward County": {
+    "team": "Prince Edward County",
     "state": "VA",
     "division": "C2",
     "conference": "VHSL C2",
-    "city": "Onley",
-    "record": "1-9",
+    "city": "Farmville",
+    "record": "1-8",
     "wins": 1,
-    "losses": 9,
+    "losses": 8,
     "power_index": 15.0,
     "raw_rating": -35.0,
-    "sos_index": 40.5,
-    "ppg_scored": 11.0,
-    "ppg_allowed": 32.3,
+    "sos_index": 45.3,
+    "ppg_scored": 5.0,
+    "ppg_allowed": 36.6,
     "schedule_2026": [
       {
-        "date": "2026-08-27",
-        "date_iso": "2026-08-27",
-        "opponent": "Rappahannock",
+        "date": "2026-08-28",
+        "date_iso": "2026-08-28",
+        "opponent": "Chatham",
         "result": "L",
         "team_score": 0,
-        "opp_score": 42,
+        "opp_score": 25,
         "is_playoff": false,
-        "round": "2026 Week 1"
+        "round": "2026 Week 2"
       },
       {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "Snow Hill",
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Windsor",
+        "result": "W",
+        "team_score": 19,
+        "opp_score": 14,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "Buckingham",
         "result": "L",
         "team_score": 6,
         "opp_score": 42,
         "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "Amelia County",
-        "result": "L",
-        "team_score": 19,
-        "opp_score": 39,
-        "is_playoff": false,
-        "round": "2026 Week 5"
+        "round": "2026 Week 6"
       },
       {
         "date": "2026-10-02",
         "date_iso": "2026-10-02",
-        "opponent": "Washington",
+        "opponent": "Amelia County",
         "result": "L",
-        "team_score": 10,
-        "opp_score": 20,
+        "team_score": 14,
+        "opp_score": 37,
         "is_playoff": false,
         "round": "2026 Week 7"
       },
       {
         "date": "2026-10-09",
         "date_iso": "2026-10-09",
-        "opponent": "Isle of Wight Academy",
-        "result": "W",
-        "team_score": 28,
-        "opp_score": 7,
+        "opponent": "Nottoway",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 52,
         "is_playoff": false,
         "round": "2026 Week 8"
       },
       {
         "date": "2026-10-15",
         "date_iso": "2026-10-15",
-        "opponent": "Colonel Richardson",
+        "opponent": "Cumberland",
         "result": "L",
         "team_score": 0,
-        "opp_score": 30,
+        "opp_score": 20,
         "is_playoff": false,
         "round": "2026 Week 8"
       },
       {
-        "date": "2026-10-19",
-        "date_iso": "2026-10-19",
-        "opponent": "Kent County",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 42,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
         "date": "2026-10-23",
         "date_iso": "2026-10-23",
-        "opponent": "Arcadia",
+        "opponent": "Lunenburg Central",
         "result": "L",
-        "team_score": 7,
-        "opp_score": 45,
+        "team_score": 0,
+        "opp_score": 55,
         "is_playoff": false,
         "round": "2026 Week 10"
       },
       {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "West Point",
+        "date": "2026-10-29",
+        "date_iso": "2026-10-29",
+        "opponent": "King William",
         "result": "L",
-        "team_score": 20,
-        "opp_score": 28,
-        "is_playoff": true,
-        "round": "2026 VHSL First Round"
+        "team_score": 6,
+        "opp_score": 49,
+        "is_playoff": false,
+        "round": "2026 Week 10"
       },
       {
-        "date": "2026-11-05",
-        "date_iso": "2026-11-05",
-        "opponent": "Northampton",
+        "date": "2026-11-06",
+        "date_iso": "2026-11-06",
+        "opponent": "Randolph-Henry",
         "result": "L",
-        "team_score": 13,
-        "opp_score": 28,
+        "team_score": 0,
+        "opp_score": 35,
         "is_playoff": false,
         "round": "2026 VHSL Postseason"
       }
@@ -32732,6 +32615,123 @@
       }
     ]
   },
+  "Nandua": {
+    "team": "Nandua",
+    "state": "VA",
+    "division": "C2",
+    "conference": "VHSL C2",
+    "city": "Onley",
+    "record": "1-9",
+    "wins": 1,
+    "losses": 9,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 40.5,
+    "ppg_scored": 11.0,
+    "ppg_allowed": 32.3,
+    "schedule_2026": [
+      {
+        "date": "2026-08-27",
+        "date_iso": "2026-08-27",
+        "opponent": "Rappahannock",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 42,
+        "is_playoff": false,
+        "round": "2026 Week 1"
+      },
+      {
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "Snow Hill",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 42,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "Amelia County",
+        "result": "L",
+        "team_score": 19,
+        "opp_score": 39,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Washington",
+        "result": "L",
+        "team_score": 10,
+        "opp_score": 20,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Isle of Wight Academy",
+        "result": "W",
+        "team_score": 28,
+        "opp_score": 7,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-15",
+        "date_iso": "2026-10-15",
+        "opponent": "Colonel Richardson",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 30,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-19",
+        "date_iso": "2026-10-19",
+        "opponent": "Kent County",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 42,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "Arcadia",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 45,
+        "is_playoff": false,
+        "round": "2026 Week 10"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "West Point",
+        "result": "L",
+        "team_score": 20,
+        "opp_score": 28,
+        "is_playoff": true,
+        "round": "2026 VHSL First Round"
+      },
+      {
+        "date": "2026-11-05",
+        "date_iso": "2026-11-05",
+        "opponent": "Northampton",
+        "result": "L",
+        "team_score": 13,
+        "opp_score": 28,
+        "is_playoff": false,
+        "round": "2026 VHSL Postseason"
+      }
+    ]
+  },
   "First Colonial": {
     "team": "First Colonial",
     "state": "VA",
@@ -32844,347 +32844,6 @@
         "result": "L",
         "team_score": 8,
         "opp_score": 48,
-        "is_playoff": false,
-        "round": "2026 VHSL Postseason"
-      }
-    ]
-  },
-  "Justice": {
-    "team": "Justice",
-    "state": "VA",
-    "division": "C6",
-    "conference": "VHSL C6",
-    "city": "Falls Church",
-    "record": "1-9",
-    "wins": 1,
-    "losses": 9,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 48.2,
-    "ppg_scored": 6.6,
-    "ppg_allowed": 36.0,
-    "schedule_2026": [
-      {
-        "date": "2026-08-28",
-        "date_iso": "2026-08-28",
-        "opponent": "Meridian",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 17,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-03",
-        "date_iso": "2026-09-03",
-        "opponent": "Oakton",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 49,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-10",
-        "date_iso": "2026-09-10",
-        "opponent": "George C. Marshall",
-        "result": "L",
-        "team_score": 12,
-        "opp_score": 55,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "Wakefield",
-        "result": "W",
-        "team_score": 26,
-        "opp_score": 2,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Annandale",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 35,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Mount Vernon",
-        "result": "L",
-        "team_score": 15,
-        "opp_score": 56,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "Lewis",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 27,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "Edison",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 28,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "Hayfield",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 40,
-        "is_playoff": true,
-        "round": "2026 VHSL First Round"
-      },
-      {
-        "date": "2026-11-06",
-        "date_iso": "2026-11-06",
-        "opponent": "Falls Church",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 51,
-        "is_playoff": false,
-        "round": "2026 VHSL Postseason"
-      }
-    ]
-  },
-  "Osbourn Park": {
-    "team": "Osbourn Park",
-    "state": "VA",
-    "division": "C6",
-    "conference": "VHSL C6",
-    "city": "Manassas",
-    "record": "1-9",
-    "wins": 1,
-    "losses": 9,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 48.7,
-    "ppg_scored": 6.7,
-    "ppg_allowed": 35.6,
-    "schedule_2026": [
-      {
-        "date": "2026-08-28",
-        "date_iso": "2026-08-28",
-        "opponent": "Freedom-Woodbridge",
-        "result": "W",
-        "team_score": 14,
-        "opp_score": 0,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-03",
-        "date_iso": "2026-09-03",
-        "opponent": "Hylton",
-        "result": "L",
-        "team_score": 16,
-        "opp_score": 18,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-10",
-        "date_iso": "2026-09-10",
-        "opponent": "Stafford",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 53,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "Gainesville",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 35,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Patriot",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 50,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Independence",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 42,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "Freedom",
-        "result": "L",
-        "team_score": 16,
-        "opp_score": 21,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "Battlefield",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 41,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "Unity Reed",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 60,
-        "is_playoff": true,
-        "round": "2026 VHSL First Round"
-      }
-    ]
-  },
-  "Jamestown": {
-    "team": "Jamestown",
-    "state": "VA",
-    "division": "C4",
-    "conference": "VHSL C4",
-    "city": "Williamsburg",
-    "record": "1-9",
-    "wins": 1,
-    "losses": 9,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 50.5,
-    "ppg_scored": 6.4,
-    "ppg_allowed": 41.7,
-    "schedule_2026": [
-      {
-        "date": "2026-08-27",
-        "date_iso": "2026-08-27",
-        "opponent": "Tabb",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 38,
-        "is_playoff": false,
-        "round": "2026 Week 1"
-      },
-      {
-        "date": "2026-09-03",
-        "date_iso": "2026-09-03",
-        "opponent": "Gloucester",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 6,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "Warhill",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 47,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "Bruton",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 27,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Poquoson",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 56,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Lafayette",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 55,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "Grafton",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 63,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-22",
-        "date_iso": "2026-10-22",
-        "opponent": "Smithfield",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 61,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "York",
-        "result": "W",
-        "team_score": 28,
-        "opp_score": 7,
-        "is_playoff": true,
-        "round": "2026 VHSL First Round"
-      },
-      {
-        "date": "2026-11-06",
-        "date_iso": "2026-11-06",
-        "opponent": "New Kent",
-        "result": "L",
-        "team_score": 16,
-        "opp_score": 57,
         "is_playoff": false,
         "round": "2026 VHSL Postseason"
       }
@@ -33419,6 +33078,347 @@
         "result": "L",
         "team_score": 0,
         "opp_score": 21,
+        "is_playoff": true,
+        "round": "2026 VHSL First Round"
+      }
+    ]
+  },
+  "Jamestown": {
+    "team": "Jamestown",
+    "state": "VA",
+    "division": "C4",
+    "conference": "VHSL C4",
+    "city": "Williamsburg",
+    "record": "1-9",
+    "wins": 1,
+    "losses": 9,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 50.5,
+    "ppg_scored": 6.4,
+    "ppg_allowed": 41.7,
+    "schedule_2026": [
+      {
+        "date": "2026-08-27",
+        "date_iso": "2026-08-27",
+        "opponent": "Tabb",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 38,
+        "is_playoff": false,
+        "round": "2026 Week 1"
+      },
+      {
+        "date": "2026-09-03",
+        "date_iso": "2026-09-03",
+        "opponent": "Gloucester",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 6,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "Warhill",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 47,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "Bruton",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 27,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Poquoson",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 56,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Lafayette",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 55,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "Grafton",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 63,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-22",
+        "date_iso": "2026-10-22",
+        "opponent": "Smithfield",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 61,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "York",
+        "result": "W",
+        "team_score": 28,
+        "opp_score": 7,
+        "is_playoff": true,
+        "round": "2026 VHSL First Round"
+      },
+      {
+        "date": "2026-11-06",
+        "date_iso": "2026-11-06",
+        "opponent": "New Kent",
+        "result": "L",
+        "team_score": 16,
+        "opp_score": 57,
+        "is_playoff": false,
+        "round": "2026 VHSL Postseason"
+      }
+    ]
+  },
+  "Justice": {
+    "team": "Justice",
+    "state": "VA",
+    "division": "C6",
+    "conference": "VHSL C6",
+    "city": "Falls Church",
+    "record": "1-9",
+    "wins": 1,
+    "losses": 9,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 48.2,
+    "ppg_scored": 6.6,
+    "ppg_allowed": 36.0,
+    "schedule_2026": [
+      {
+        "date": "2026-08-28",
+        "date_iso": "2026-08-28",
+        "opponent": "Meridian",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 17,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-03",
+        "date_iso": "2026-09-03",
+        "opponent": "Oakton",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 49,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-10",
+        "date_iso": "2026-09-10",
+        "opponent": "George C. Marshall",
+        "result": "L",
+        "team_score": 12,
+        "opp_score": 55,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "Wakefield",
+        "result": "W",
+        "team_score": 26,
+        "opp_score": 2,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Annandale",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 35,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Mount Vernon",
+        "result": "L",
+        "team_score": 15,
+        "opp_score": 56,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "Lewis",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 27,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "Edison",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 28,
+        "is_playoff": false,
+        "round": "2026 Week 10"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "Hayfield",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 40,
+        "is_playoff": true,
+        "round": "2026 VHSL First Round"
+      },
+      {
+        "date": "2026-11-06",
+        "date_iso": "2026-11-06",
+        "opponent": "Falls Church",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 51,
+        "is_playoff": false,
+        "round": "2026 VHSL Postseason"
+      }
+    ]
+  },
+  "Osbourn Park": {
+    "team": "Osbourn Park",
+    "state": "VA",
+    "division": "C6",
+    "conference": "VHSL C6",
+    "city": "Manassas",
+    "record": "1-9",
+    "wins": 1,
+    "losses": 9,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 48.7,
+    "ppg_scored": 6.7,
+    "ppg_allowed": 35.6,
+    "schedule_2026": [
+      {
+        "date": "2026-08-28",
+        "date_iso": "2026-08-28",
+        "opponent": "Freedom-Woodbridge",
+        "result": "W",
+        "team_score": 14,
+        "opp_score": 0,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-03",
+        "date_iso": "2026-09-03",
+        "opponent": "Hylton",
+        "result": "L",
+        "team_score": 16,
+        "opp_score": 18,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-10",
+        "date_iso": "2026-09-10",
+        "opponent": "Stafford",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 53,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "Gainesville",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 35,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Patriot",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 50,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Independence",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 42,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "Freedom",
+        "result": "L",
+        "team_score": 16,
+        "opp_score": 21,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "Battlefield",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 41,
+        "is_playoff": false,
+        "round": "2026 Week 10"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "Unity Reed",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 60,
         "is_playoff": true,
         "round": "2026 VHSL First Round"
       }
@@ -33852,240 +33852,6 @@
       }
     ]
   },
-  "John Battle": {
-    "team": "John Battle",
-    "state": "VA",
-    "division": "C2",
-    "conference": "VHSL C2",
-    "city": "Bristol",
-    "record": "0-10",
-    "wins": 0,
-    "losses": 10,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 51.2,
-    "ppg_scored": 9.3,
-    "ppg_allowed": 45.6,
-    "schedule_2026": [
-      {
-        "date": "2026-08-28",
-        "date_iso": "2026-08-28",
-        "opponent": "Abingdon",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 62,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Virginia High",
-        "result": "L",
-        "team_score": 3,
-        "opp_score": 28,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-10",
-        "date_iso": "2026-09-10",
-        "opponent": "Holston",
-        "result": "L",
-        "team_score": 20,
-        "opp_score": 45,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "Central Wise",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 42,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "Patrick Henry-Glade Spring",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 42,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Lebanon",
-        "result": "L",
-        "team_score": 11,
-        "opp_score": 41,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Gate City",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 42,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "Ridgeview",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 50,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "Lee",
-        "result": "L",
-        "team_score": 27,
-        "opp_score": 41,
-        "is_playoff": true,
-        "round": "2026 VHSL First Round"
-      },
-      {
-        "date": "2026-11-05",
-        "date_iso": "2026-11-05",
-        "opponent": "Union",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 63,
-        "is_playoff": false,
-        "round": "2026 VHSL Postseason"
-      }
-    ]
-  },
-  "Windsor": {
-    "team": "Windsor",
-    "state": "VA",
-    "division": "C2",
-    "conference": "VHSL C2",
-    "city": "Windsor",
-    "record": "0-10",
-    "wins": 0,
-    "losses": 10,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 42.6,
-    "ppg_scored": 2.0,
-    "ppg_allowed": 42.3,
-    "schedule_2026": [
-      {
-        "date": "2026-08-27",
-        "date_iso": "2026-08-27",
-        "opponent": "Lakeland",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 35,
-        "is_playoff": false,
-        "round": "2026 Week 1"
-      },
-      {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Prince Edward County",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 19,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "Middlesex",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 28,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "Northampton",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 34,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "Franklin",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 44,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Brunswick",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 58,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Sussex Central",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 44,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "Surry County",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 46,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "Greensville County",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 43,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "Southampton",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 72,
-        "is_playoff": true,
-        "round": "2026 VHSL First Round"
-      }
-    ]
-  },
   "Fort Chiswell": {
     "team": "Fort Chiswell",
     "state": "VA",
@@ -34320,6 +34086,240 @@
       }
     ]
   },
+  "John Battle": {
+    "team": "John Battle",
+    "state": "VA",
+    "division": "C2",
+    "conference": "VHSL C2",
+    "city": "Bristol",
+    "record": "0-10",
+    "wins": 0,
+    "losses": 10,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 51.2,
+    "ppg_scored": 9.3,
+    "ppg_allowed": 45.6,
+    "schedule_2026": [
+      {
+        "date": "2026-08-28",
+        "date_iso": "2026-08-28",
+        "opponent": "Abingdon",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 62,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Virginia High",
+        "result": "L",
+        "team_score": 3,
+        "opp_score": 28,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-10",
+        "date_iso": "2026-09-10",
+        "opponent": "Holston",
+        "result": "L",
+        "team_score": 20,
+        "opp_score": 45,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "Central Wise",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 42,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "Patrick Henry-Glade Spring",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 42,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Lebanon",
+        "result": "L",
+        "team_score": 11,
+        "opp_score": 41,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Gate City",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 42,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "Ridgeview",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 50,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "Lee",
+        "result": "L",
+        "team_score": 27,
+        "opp_score": 41,
+        "is_playoff": true,
+        "round": "2026 VHSL First Round"
+      },
+      {
+        "date": "2026-11-05",
+        "date_iso": "2026-11-05",
+        "opponent": "Union",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 63,
+        "is_playoff": false,
+        "round": "2026 VHSL Postseason"
+      }
+    ]
+  },
+  "Windsor": {
+    "team": "Windsor",
+    "state": "VA",
+    "division": "C2",
+    "conference": "VHSL C2",
+    "city": "Windsor",
+    "record": "0-10",
+    "wins": 0,
+    "losses": 10,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 42.6,
+    "ppg_scored": 2.0,
+    "ppg_allowed": 42.3,
+    "schedule_2026": [
+      {
+        "date": "2026-08-27",
+        "date_iso": "2026-08-27",
+        "opponent": "Lakeland",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 35,
+        "is_playoff": false,
+        "round": "2026 Week 1"
+      },
+      {
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Prince Edward County",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 19,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "Middlesex",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 28,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "Northampton",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 34,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "Franklin",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 44,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Brunswick",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 58,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Sussex Central",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 44,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "Surry County",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 46,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "Greensville County",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 43,
+        "is_playoff": false,
+        "round": "2026 Week 10"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "Southampton",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 72,
+        "is_playoff": true,
+        "round": "2026 VHSL First Round"
+      }
+    ]
+  },
   "Princess Anne": {
     "team": "Princess Anne",
     "state": "VA",
@@ -34437,57 +34437,57 @@
       }
     ]
   },
-  "J.R. Tucker": {
-    "team": "J.R. Tucker",
+  "Rockbridge County": {
+    "team": "Rockbridge County",
     "state": "VA",
-    "division": "C6",
-    "conference": "VHSL C6",
-    "city": "Henrico",
+    "division": "C3",
+    "conference": "VHSL C3",
+    "city": "Lexington",
     "record": "0-10",
     "wins": 0,
     "losses": 10,
     "power_index": 15.0,
     "raw_rating": -35.0,
-    "sos_index": 49.4,
-    "ppg_scored": 7.6,
-    "ppg_allowed": 42.8,
+    "sos_index": 51.0,
+    "ppg_scored": 12.3,
+    "ppg_allowed": 43.2,
     "schedule_2026": [
       {
         "date": "2026-08-28",
         "date_iso": "2026-08-28",
-        "opponent": "Caroline",
+        "opponent": "Parry McCluer",
         "result": "L",
-        "team_score": 23,
-        "opp_score": 42,
+        "team_score": 14,
+        "opp_score": 36,
         "is_playoff": false,
         "round": "2026 Week 2"
       },
       {
-        "date": "2026-09-03",
-        "date_iso": "2026-09-03",
-        "opponent": "Prince George",
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Turner Ashby",
         "result": "L",
-        "team_score": 20,
-        "opp_score": 62,
+        "team_score": 0,
+        "opp_score": 43,
         "is_playoff": false,
-        "round": "2026 Week 2"
+        "round": "2026 Week 3"
       },
       {
         "date": "2026-09-11",
         "date_iso": "2026-09-11",
-        "opponent": "Mechanicsville",
+        "opponent": "Staunton",
         "result": "L",
-        "team_score": 7,
-        "opp_score": 23,
+        "team_score": 8,
+        "opp_score": 16,
         "is_playoff": false,
         "round": "2026 Week 4"
       },
       {
         "date": "2026-09-18",
         "date_iso": "2026-09-18",
-        "opponent": "Atlee",
+        "opponent": "Waynesboro",
         "result": "L",
-        "team_score": 0,
+        "team_score": 13,
         "opp_score": 49,
         "is_playoff": false,
         "round": "2026 Week 5"
@@ -34495,62 +34495,62 @@
       {
         "date": "2026-09-25",
         "date_iso": "2026-09-25",
-        "opponent": "Godwin",
+        "opponent": "Stuarts Draft",
         "result": "L",
-        "team_score": 6,
-        "opp_score": 51,
+        "team_score": 21,
+        "opp_score": 35,
         "is_playoff": false,
         "round": "2026 Week 6"
       },
       {
         "date": "2026-10-02",
         "date_iso": "2026-10-02",
-        "opponent": "Freeman",
+        "opponent": "Buffalo Gap",
         "result": "L",
-        "team_score": 0,
-        "opp_score": 58,
+        "team_score": 14,
+        "opp_score": 59,
         "is_playoff": false,
         "round": "2026 Week 7"
       },
       {
         "date": "2026-10-09",
         "date_iso": "2026-10-09",
-        "opponent": "Henrico",
+        "opponent": "Wilson Memorial",
         "result": "L",
-        "team_score": 0,
-        "opp_score": 36,
+        "team_score": 7,
+        "opp_score": 42,
         "is_playoff": false,
         "round": "2026 Week 8"
       },
       {
         "date": "2026-10-16",
         "date_iso": "2026-10-16",
-        "opponent": "Patrick Henry-Ashland",
+        "opponent": "Riverheads",
         "result": "L",
         "team_score": 20,
-        "opp_score": 49,
+        "opp_score": 62,
         "is_playoff": false,
         "round": "2026 Week 9"
       },
       {
         "date": "2026-10-23",
         "date_iso": "2026-10-23",
-        "opponent": "John Marshall",
+        "opponent": "Fort Defiance",
         "result": "L",
-        "team_score": 0,
-        "opp_score": 7,
+        "team_score": 14,
+        "opp_score": 56,
         "is_playoff": false,
         "round": "2026 Week 10"
       },
       {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "Deep Run",
+        "date": "2026-11-06",
+        "date_iso": "2026-11-06",
+        "opponent": "Alleghany",
         "result": "L",
-        "team_score": 0,
-        "opp_score": 51,
-        "is_playoff": true,
-        "round": "2026 VHSL First Round"
+        "team_score": 12,
+        "opp_score": 34,
+        "is_playoff": false,
+        "round": "2026 VHSL Postseason"
       }
     ]
   },
@@ -34671,57 +34671,57 @@
       }
     ]
   },
-  "Rockbridge County": {
-    "team": "Rockbridge County",
+  "J.R. Tucker": {
+    "team": "J.R. Tucker",
     "state": "VA",
-    "division": "C3",
-    "conference": "VHSL C3",
-    "city": "Lexington",
+    "division": "C6",
+    "conference": "VHSL C6",
+    "city": "Henrico",
     "record": "0-10",
     "wins": 0,
     "losses": 10,
     "power_index": 15.0,
     "raw_rating": -35.0,
-    "sos_index": 51.0,
-    "ppg_scored": 12.3,
-    "ppg_allowed": 43.2,
+    "sos_index": 49.4,
+    "ppg_scored": 7.6,
+    "ppg_allowed": 42.8,
     "schedule_2026": [
       {
         "date": "2026-08-28",
         "date_iso": "2026-08-28",
-        "opponent": "Parry McCluer",
+        "opponent": "Caroline",
         "result": "L",
-        "team_score": 14,
-        "opp_score": 36,
+        "team_score": 23,
+        "opp_score": 42,
         "is_playoff": false,
         "round": "2026 Week 2"
       },
       {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Turner Ashby",
+        "date": "2026-09-03",
+        "date_iso": "2026-09-03",
+        "opponent": "Prince George",
         "result": "L",
-        "team_score": 0,
-        "opp_score": 43,
+        "team_score": 20,
+        "opp_score": 62,
         "is_playoff": false,
-        "round": "2026 Week 3"
+        "round": "2026 Week 2"
       },
       {
         "date": "2026-09-11",
         "date_iso": "2026-09-11",
-        "opponent": "Staunton",
+        "opponent": "Mechanicsville",
         "result": "L",
-        "team_score": 8,
-        "opp_score": 16,
+        "team_score": 7,
+        "opp_score": 23,
         "is_playoff": false,
         "round": "2026 Week 4"
       },
       {
         "date": "2026-09-18",
         "date_iso": "2026-09-18",
-        "opponent": "Waynesboro",
+        "opponent": "Atlee",
         "result": "L",
-        "team_score": 13,
+        "team_score": 0,
         "opp_score": 49,
         "is_playoff": false,
         "round": "2026 Week 5"
@@ -34729,62 +34729,62 @@
       {
         "date": "2026-09-25",
         "date_iso": "2026-09-25",
-        "opponent": "Stuarts Draft",
+        "opponent": "Godwin",
         "result": "L",
-        "team_score": 21,
-        "opp_score": 35,
+        "team_score": 6,
+        "opp_score": 51,
         "is_playoff": false,
         "round": "2026 Week 6"
       },
       {
         "date": "2026-10-02",
         "date_iso": "2026-10-02",
-        "opponent": "Buffalo Gap",
+        "opponent": "Freeman",
         "result": "L",
-        "team_score": 14,
-        "opp_score": 59,
+        "team_score": 0,
+        "opp_score": 58,
         "is_playoff": false,
         "round": "2026 Week 7"
       },
       {
         "date": "2026-10-09",
         "date_iso": "2026-10-09",
-        "opponent": "Wilson Memorial",
+        "opponent": "Henrico",
         "result": "L",
-        "team_score": 7,
-        "opp_score": 42,
+        "team_score": 0,
+        "opp_score": 36,
         "is_playoff": false,
         "round": "2026 Week 8"
       },
       {
         "date": "2026-10-16",
         "date_iso": "2026-10-16",
-        "opponent": "Riverheads",
+        "opponent": "Patrick Henry-Ashland",
         "result": "L",
         "team_score": 20,
-        "opp_score": 62,
+        "opp_score": 49,
         "is_playoff": false,
         "round": "2026 Week 9"
       },
       {
         "date": "2026-10-23",
         "date_iso": "2026-10-23",
-        "opponent": "Fort Defiance",
+        "opponent": "John Marshall",
         "result": "L",
-        "team_score": 14,
-        "opp_score": 56,
+        "team_score": 0,
+        "opp_score": 7,
         "is_playoff": false,
         "round": "2026 Week 10"
       },
       {
-        "date": "2026-11-06",
-        "date_iso": "2026-11-06",
-        "opponent": "Alleghany",
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "Deep Run",
         "result": "L",
-        "team_score": 12,
-        "opp_score": 34,
-        "is_playoff": false,
-        "round": "2026 VHSL Postseason"
+        "team_score": 0,
+        "opp_score": 51,
+        "is_playoff": true,
+        "round": "2026 VHSL First Round"
       }
     ]
   }
