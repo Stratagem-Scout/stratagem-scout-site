@@ -51,7 +51,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-08-21,Heard County,50,Central-Carrollton,28,2A,2026 Week 1
 2026-08-21,Jeff Davis,37,Vidalia,0,2A,2026 Week 1
 2026-08-21,Model,49,Walker,13,2A,2026 Week 1
-2026-08-21,Mt. Zion,34,Calvary Christian,19,4A,2026 Week 1
+2026-08-21,Mt. Zion,34,Calvary Christian,19,2A,2026 Week 1
 2026-08-21,Pepperell,21,Dade County,14,2A,2026 Week 1
 2026-08-21,Putnam County,21,Greene County,0,2A,2026 Week 1
 2026-08-21,Sherwood Christian Academy,47,Central Fellowship Christian Academy,7,1A,2026 Week 1
@@ -94,7 +94,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-08-21,Hart County,51,Habersham Central,3,3A,2026 Week 1
 2026-08-21,Hephzibah,47,Oglethorpe County,0,3A,2026 Week 1
 2026-08-21,Islands,36,Groves,24,3A,2026 Week 1
-2026-08-21,Johnson,20,Savannah,6,3A,2026 Week 1
+2026-08-21,Johnson,20,Savannah,6,5A,2026 Week 1
 2026-08-21,LaFayette,33,Chattooga,14,3A,2026 Week 1
 2026-08-21,Lamar County,24,Upson-Lee,3,3A,2026 Week 1
 2026-08-21,Lumpkin County,42,Dawson County,31,3A,2026 Week 1
@@ -133,7 +133,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-08-21,Westover,30,King's Ridge Christian,12,4A,2026 Week 1
 2026-08-21,White County,49,East Hall,14,4A,2026 Week 1
 2026-08-21,Windsor Forest,20,Beach,14,4A,2026 Week 1
-2026-08-21,Woodland,45,Union Grove,40,4A,2026 Week 1
+2026-08-21,Woodland,45,Union Grove,40,5A,2026 Week 1
 2026-08-21,Arabia Mountain,42,Redan,7,5A,2026 Week 1
 2026-08-21,Banneker,40,Mundy's Mill,0,5A,2026 Week 1
 2026-08-21,Bluffton,29,Savannah Country Day,7,4A,2026 Week 1
@@ -148,7 +148,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-08-21,Evans,37,Harlem,20,5A,2026 Week 1
 2026-08-21,Frederica Academy,42,Pinewood Christian,6,4A,2026 Week 1
 2026-08-21,Griffin,54,Locust Grove,34,5A,2026 Week 1
-2026-08-21,Jackson,37,Midtown,0,3A,2026 Week 1
+2026-08-21,Jackson,37,Midtown,0,5A,2026 Week 1
 2026-08-21,LaGrange,28,Newnan,9,5A,2026 Week 1
 2026-08-21,Marist,10,Woodward Academy,3,5A,2026 Week 1
 2026-08-21,Mays,19,New Manchester,16,5A,2026 Week 1
@@ -350,7 +350,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-08-28,Westside-Macon,40,Rutland,23,3A,2026 Week 2
 2026-08-28,White County,20,Union County,14,4A,2026 Week 2
 2026-08-28,Windsor Forest,31,Tattnall County,21,4A,2026 Week 2
-2026-08-28,Woodland,19,Jackson,7,4A,2026 Week 2
+2026-08-28,Woodland,19,Jackson,7,5A,2026 Week 2
 2026-08-28,Banneker,26,Eagle's Landing,0,5A,2026 Week 2
 2026-08-28,Benedictine,48,Hebron Christian,17,5A,2026 Week 2
 2026-08-28,Blessed Trinity,21,Milton,20,5A,2026 Week 2
@@ -532,7 +532,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-09-04,Hart County,48,Cedar Shoals,14,3A,2026 Week 3
 2026-09-04,Hephzibah,28,Laney,14,3A,2026 Week 3
 2026-09-04,Islands,14,Bryan County,7,3A,2026 Week 3
-2026-09-04,Jackson,70,Union Grove,27,3A,2026 Week 3
+2026-09-04,Jackson,70,Union Grove,27,5A,2026 Week 3
 2026-09-04,KIPP Atlanta Collegiate,41,KIPP College Prep,0,3A,2026 Week 3
 2026-09-04,Kendrick,43,Calhoun County,42,3A,2026 Week 3
 2026-09-04,Lamar County,20,Bowdon,7,3A,2026 Week 3
@@ -561,7 +561,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-09-04,Luella,20,Riverdale,12,4A,2026 Week 3
 2026-09-04,Mary Persons,42,Rockmart,21,4A,2026 Week 3
 2026-09-04,Monroe Area,49,Habersham Central,17,4A,2026 Week 3
-2026-09-04,Mt. Zion,29,McDonough,12,4A,2026 Week 3
+2026-09-04,Mt. Zion,29,McDonough,12,2A,2026 Week 3
 2026-09-04,North Hall,28,Cherokee Bluff,27,4A,2026 Week 3
 2026-09-04,Northwest Whitfield,42,Sonoraville,20,4A,2026 Week 3
 2026-09-04,Oconee County,36,Morgan County,15,4A,2026 Week 3
@@ -574,7 +574,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-09-04,West Hall,49,Chestatee,14,4A,2026 Week 3
 2026-09-04,West Laurens,30,Dodge County,29,4A,2026 Week 3
 2026-09-04,Westover,49,Columbus,8,4A,2026 Week 3
-2026-09-04,Woodland,44,Fayette County,9,4A,2026 Week 3
+2026-09-04,Woodland,44,Fayette County,9,5A,2026 Week 3
 2026-09-04,Athens Christian,21,Tattnall Square Academy,14,4A,2026 Week 3
 2026-09-04,Benedictine,27,Camden County,23,5A,2026 Week 3
 2026-09-04,Blessed Trinity,37,Hebron Christian,20,5A,2026 Week 3
@@ -687,7 +687,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-09-11,Fitzgerald,28,Dodge County,14,2A,2026 Week 4
 2026-09-11,Heard County,46,Bowdon,6,2A,2026 Week 4
 2026-09-11,Josey,16,Cross Creek,14,2A,2026 Week 4
-2026-09-11,Mt. Zion,40,Towns County,26,4A,2026 Week 4
+2026-09-11,Mt. Zion,40,Towns County,26,2A,2026 Week 4
 2026-09-11,Putnam County,31,Oglethorpe County,0,2A,2026 Week 4
 2026-09-11,Thomasville,30,Worth County,16,2A,2026 Week 4
 2026-09-11,Utopian Academy for the Arts,36,Rock Springs Christian Academy,6,2A,2026 Week 4
@@ -750,7 +750,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-09-11,Thomas Jefferson Academy,32,Augusta Prep,0,3A,2026 Week 4
 2026-09-11,Westside-Macon,35,Southwest,24,3A,2026 Week 4
 2026-09-11,White County,22,East Jackson,21,4A,2026 Week 4
-2026-09-11,Woodland,20,Mt. Zion,14,4A,2026 Week 4
+2026-09-11,Woodland,20,Mt. Zion,14,5A,2026 Week 4
 2026-09-11,Allatoona,28,Sprayberry,27,5A,2026 Week 4
 2026-09-11,Athens Christian,35,Riverside Military Academy,14,4A,2026 Week 4
 2026-09-11,Blessed Trinity,55,Lambert,33,5A,2026 Week 4
@@ -1118,7 +1118,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-09-25,Haralson County,17,Therrell,0,3A,2026 Week 6
 2026-09-25,Hart County,50,Lumpkin County,14,3A,2026 Week 6
 2026-09-25,Hephzibah,21,Burke County,20,3A,2026 Week 6
-2026-09-25,Jackson,52,Rutland,8,3A,2026 Week 6
+2026-09-25,Jackson,52,Rutland,8,5A,2026 Week 6
 2026-09-25,Jordan,35,Greenville,20,3A,2026 Week 6
 2026-09-25,KIPP Atlanta Collegiate,34,Lovett,0,3A,2026 Week 6
 2026-09-25,LaFayette,21,Murray County,7,3A,2026 Week 6
@@ -1153,7 +1153,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-09-25,Troup County,24,Mary Persons,21,4A,2026 Week 6
 2026-09-25,West Laurens,21,Southeast Bulloch,0,4A,2026 Week 6
 2026-09-25,Westover,21,Bainbridge,17,4A,2026 Week 6
-2026-09-25,Woodland,37,McDonough,32,4A,2026 Week 6
+2026-09-25,Woodland,37,McDonough,32,5A,2026 Week 6
 2026-09-25,Benedictine,52,Richmond Academy,49,5A,2026 Week 6
 2026-09-25,Blessed Trinity,17,Marist,14,5A,2026 Week 6
 2026-09-25,Cartersville,58,Villa Rica,0,5A,2026 Week 6
@@ -1342,7 +1342,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-02,Dalton,49,Allatoona,7,5A,2026 Week 7
 2026-10-02,East Forsyth,35,Madison County,26,5A,2026 Week 7
 2026-10-02,Griffin,36,Whitewater,27,5A,2026 Week 7
-2026-10-02,Jackson,9,Banneker,6,3A,2026 Week 7
+2026-10-02,Jackson,9,Banneker,6,5A,2026 Week 7
 2026-10-02,Jefferson,35,Flowery Branch,0,5A,2026 Week 7
 2026-10-02,Jenkins,47,Wayne County,6,5A,2026 Week 7
 2026-10-02,Jones County,65,Union Grove,7,5A,2026 Week 7
@@ -1510,7 +1510,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-09,Gilmer,35,Dawson County,21,4A,2026 Week 8
 2026-10-09,Harlem,20,West Laurens,17,4A,2026 Week 8
 2026-10-09,Monroe Area,42,East Jackson,0,4A,2026 Week 8
-2026-10-09,Mt. Zion,34,Fayette County,13,4A,2026 Week 8
+2026-10-09,Mt. Zion,34,Fayette County,13,2A,2026 Week 8
 2026-10-09,North Clayton,51,Riverdale,8,4A,2026 Week 8
 2026-10-09,North Springs,65,Salem,0,4A,2026 Week 8
 2026-10-09,Northwest Whitfield,55,Southeast Whitfield,14,4A,2026 Week 8
@@ -1677,7 +1677,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-16,Thomas Jefferson Academy,49,Robert Toombs Christian Academy,8,3A,2026 Week 9
 2026-10-16,West Laurens,48,Long County,26,4A,2026 Week 9
 2026-10-16,White County,29,Dawson County,19,4A,2026 Week 9
-2026-10-16,Woodland,48,Luella,6,4A,2026 Week 9
+2026-10-16,Woodland,48,Luella,6,5A,2026 Week 9
 2026-10-16,Blessed Trinity,49,St. Pius X Catholic,7,5A,2026 Week 9
 2026-10-16,Cambridge,49,Chattahoochee,14,5A,2026 Week 9
 2026-10-16,Cartersville,60,Allatoona,0,5A,2026 Week 9
@@ -1779,7 +1779,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-23,Laney,54,Jefferson County,12,2A,2026 Week 10
 2026-10-23,Metter,20,Bryan County,7,2A,2026 Week 10
 2026-10-23,Model,54,Darlington,21,2A,2026 Week 10
-2026-10-23,Mt. Zion,28,Coosa,21,4A,2026 Week 10
+2026-10-23,Mt. Zion,28,Coosa,21,2A,2026 Week 10
 2026-10-23,Piedmont Academy,34,Trinity Christian-Dublin,13,1A,2026 Week 10
 2026-10-23,Rabun County,35,Oglethorpe County,6,2A,2026 Week 10
 2026-10-23,Sherwood Christian Academy,16,Pataula Charter Academy,6,1A,2026 Week 10
@@ -1821,7 +1821,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-23,Hart County,49,Morgan County,35,3A,2026 Week 10
 2026-10-23,Heathwood Hall Episcopal,36,Augusta Christian,6,2A,2026 Week 10
 2026-10-23,Hephzibah,75,Cross Creek,0,3A,2026 Week 10
-2026-10-23,Jackson,56,Central-Macon,7,3A,2026 Week 10
+2026-10-23,Jackson,56,Central-Macon,7,5A,2026 Week 10
 2026-10-23,Kendrick,20,Jordan,10,3A,2026 Week 10
 2026-10-23,Lamar County,33,Pike County,6,3A,2026 Week 10
 2026-10-23,Miller Grove,24,South Atlanta,14,3A,2026 Week 10
@@ -1845,7 +1845,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-23,East Jackson,43,East Hall,3,4A,2026 Week 10
 2026-10-23,George Walton Academy,41,Lakeview Academy,14,3A,2026 Week 10
 2026-10-23,Monroe Area,35,Cherokee Bluff,31,4A,2026 Week 10
-2026-10-23,Mt. Zion,14,Luella,11,4A,2026 Week 10
+2026-10-23,Mt. Zion,14,Luella,11,2A,2026 Week 10
 2026-10-23,New Hampstead,34,Long County,14,4A,2026 Week 10
 2026-10-23,North Clayton,36,Fayette County,7,4A,2026 Week 10
 2026-10-23,North Hall,49,Pickens,13,4A,2026 Week 10
@@ -1860,7 +1860,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-23,West Laurens,28,Liberty County,6,4A,2026 Week 10
 2026-10-23,Westover,14,Monroe,6,4A,2026 Week 10
 2026-10-23,Windsor Forest,29,Harlem,28,4A,2026 Week 10
-2026-10-23,Woodland,56,Riverdale,19,4A,2026 Week 10
+2026-10-23,Woodland,56,Riverdale,19,5A,2026 Week 10
 2026-10-23,Athens Christian,21,Loganville Christian Academy,16,4A,2026 Week 10
 2026-10-23,Benedictine,50,Wayne County,0,5A,2026 Week 10
 2026-10-23,Cambridge,17,St. Pius X Catholic,13,5A,2026 Week 10
@@ -2028,7 +2028,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-30,Crisp County,55,Kendrick,0,3A,2026 GHSA First Round
 2026-10-30,Flint River Academy,33,Creekside Christian Academy,27,2A,2026 GHSA First Round
 2026-10-30,Hart County,49,Franklin County,30,3A,2026 GHSA First Round
-2026-10-30,Jackson,45,Southwest,16,3A,2026 GHSA First Round
+2026-10-30,Jackson,45,Southwest,16,5A,2026 GHSA First Round
 2026-10-30,Jordan,51,Southwest Georgia STEM Charter,12,3A,2026 GHSA First Round
 2026-10-30,Lakeview Academy,32,Calvary Christian,14,2A,2026 GHSA First Round
 2026-10-30,Lamar County,31,Rutland,0,3A,2026 GHSA First Round
@@ -2062,7 +2062,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-30,Heritage-Ringgold,42,Southeast Whitfield,10,3A,2026 GHSA First Round
 2026-10-30,Mary Persons,38,Spalding,14,4A,2026 GHSA First Round
 2026-10-30,Monroe Area,27,Oconee County,14,4A,2026 GHSA First Round
-2026-10-30,Mt. Zion,57,Riverdale,7,4A,2026 GHSA First Round
+2026-10-30,Mt. Zion,57,Riverdale,7,2A,2026 GHSA First Round
 2026-10-30,New Hampstead,48,Southeast Bulloch,34,4A,2026 GHSA First Round
 2026-10-30,North Hall,42,White County,20,4A,2026 GHSA First Round
 2026-10-30,Peach County,52,Baldwin,24,4A,2026 GHSA First Round
@@ -2200,7 +2200,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-11-06,Jasper County,35,Jefferson County,6,2A,2026 GHSA Postseason
 2026-11-06,Jeff Davis,28,Brooks County,0,2A,2026 GHSA Postseason
 2026-11-06,Laney,50,Glenn Hills,6,2A,2026 GHSA Postseason
-2026-11-06,Mt. Zion,41,Armuchee,8,4A,2026 GHSA Postseason
+2026-11-06,Mt. Zion,41,Armuchee,8,2A,2026 GHSA Postseason
 2026-11-06,Screven County,27,Metter,7,2A,2026 GHSA Postseason
 2026-11-06,Social Circle,20,Putnam County,0,2A,2026 GHSA Postseason
 2026-11-06,Swainsboro,36,Vidalia,0,2A,2026 GHSA Postseason
@@ -2288,7 +2288,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-11-06,Dutchtown,26,Mundy's Mill,20,5A,2026 GHSA Postseason
 2026-11-06,Evans,63,Groves,0,5A,2026 GHSA Postseason
 2026-11-06,Flowery Branch,58,Madison County,0,5A,2026 GHSA Postseason
-2026-11-06,Jackson,38,Druid Hills,6,3A,2026 GHSA Postseason
+2026-11-06,Jackson,38,Druid Hills,6,5A,2026 GHSA Postseason
 2026-11-06,Lithia Springs,28,Starr's Mill,14,5A,2026 GHSA Postseason
 2026-11-06,Lithonia,38,Banneker,6,5A,2026 GHSA Postseason
 2026-11-06,Locust Grove,47,Eagle's Landing,20,5A,2026 GHSA Postseason
@@ -2378,3 +2378,4 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-11-06,Walker,14,King's Ridge Christian,0,PRIV,2026 GHSA Postseason
 2026-11-06,Wesleyan,41,Temple,20,PRIV,2026 GHSA Postseason
 2026-11-06,Whitefield Academy,56,Trinity Christian,44,PRIV,2026 GHSA Postseason
+2026-11-12,Cairo,39,Bainbridge,7,4A,GHSA Playoffs R1

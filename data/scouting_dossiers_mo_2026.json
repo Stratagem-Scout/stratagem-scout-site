@@ -31340,133 +31340,6 @@
       }
     ]
   },
-  "Grandview": {
-    "team": "Grandview",
-    "state": "MO",
-    "division": "C5",
-    "conference": "MSHSAA C1",
-    "city": "Grandview",
-    "record": "4-6",
-    "wins": 4,
-    "losses": 6,
-    "power_index": 23.9,
-    "raw_rating": -26.13,
-    "sos_index": 45.4,
-    "ppg_scored": 24.7,
-    "ppg_allowed": 32.7,
-    "schedule_2026": [
-      {
-        "date": "2026-08-28",
-        "date_iso": "2026-08-28",
-        "opponent": "Battle",
-        "result": "W",
-        "team_score": 41,
-        "opp_score": 6,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Park Hill South",
-        "result": "L",
-        "team_score": 20,
-        "opp_score": 61,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "Southeast",
-        "result": "W",
-        "team_score": 63,
-        "opp_score": 0,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "Raytown South",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 34,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "Smithville",
-        "result": "L",
-        "team_score": 8,
-        "opp_score": 51,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Ruskin",
-        "result": "W",
-        "team_score": 34,
-        "opp_score": 14,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Winnetonka",
-        "result": "L",
-        "team_score": 19,
-        "opp_score": 56,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "Kearney",
-        "result": "L",
-        "team_score": 8,
-        "opp_score": 58,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "Truman",
-        "result": "W",
-        "team_score": 56,
-        "opp_score": 8,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "Ruskin",
-        "result": "L",
-        "team_score": 8,
-        "opp_score": 36,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Second Round"
-      },
-      {
-        "date": "2026-11-13",
-        "date_iso": "2026-11-13",
-        "opponent": "Ruskin",
-        "result": "L",
-        "team_score": 8,
-        "opp_score": 36,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Quarterfinals"
-      }
-    ]
-  },
   "Willard": {
     "team": "Willard",
     "state": "MO",
@@ -34846,133 +34719,6 @@
       }
     ]
   },
-  "Doniphan": {
-    "team": "Doniphan",
-    "state": "MO",
-    "division": "C3",
-    "conference": "MSHSAA C3",
-    "city": "Doniphan",
-    "record": "2-8",
-    "wins": 2,
-    "losses": 8,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 40.7,
-    "ppg_scored": 14.1,
-    "ppg_allowed": 34.9,
-    "schedule_2026": [
-      {
-        "date": "2026-08-28",
-        "date_iso": "2026-08-28",
-        "opponent": "Piggott",
-        "result": "W",
-        "team_score": 40,
-        "opp_score": 14,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Cabool",
-        "result": "L",
-        "team_score": 21,
-        "opp_score": 26,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "East Prairie",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 8,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "Dexter",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 58,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "Kelly",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 36,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Kennett",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 44,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "New Madrid County Central",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 38,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "Missouri Military Academy",
-        "result": "W",
-        "team_score": 62,
-        "opp_score": 0,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "Malden",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 48,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "Ste. Genevieve",
-        "result": "L",
-        "team_score": 3,
-        "opp_score": 56,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Second Round"
-      },
-      {
-        "date": "2026-11-13",
-        "date_iso": "2026-11-13",
-        "opponent": "Ste. Genevieve",
-        "result": "L",
-        "team_score": 3,
-        "opp_score": 56,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Quarterfinals"
-      }
-    ]
-  },
   "St. Charles": {
     "team": "St. Charles",
     "state": "MO",
@@ -35227,204 +34973,77 @@
       }
     ]
   },
-  "Lutheran": {
-    "team": "Lutheran",
+  "Doniphan": {
+    "team": "Doniphan",
     "state": "MO",
     "division": "C3",
     "conference": "MSHSAA C3",
-    "city": "St. Peters",
-    "record": "1-9",
-    "wins": 1,
-    "losses": 9,
+    "city": "Doniphan",
+    "record": "2-8",
+    "wins": 2,
+    "losses": 8,
     "power_index": 15.0,
     "raw_rating": -35.0,
-    "sos_index": 50.8,
-    "ppg_scored": 11.3,
-    "ppg_allowed": 50.1,
+    "sos_index": 40.7,
+    "ppg_scored": 14.1,
+    "ppg_allowed": 34.9,
     "schedule_2026": [
       {
         "date": "2026-08-28",
         "date_iso": "2026-08-28",
-        "opponent": "University City",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 67,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Fort Zumwalt East",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 47,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "Vianney",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 78,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "Lift for Life Academy",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 49,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "North County",
-        "result": "L",
-        "team_score": 12,
-        "opp_score": 48,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "St. Pius X-Festus",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 46,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Confluence Prep Academy",
+        "opponent": "Piggott",
         "result": "W",
-        "team_score": 50,
-        "opp_score": 6,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "St. Francis Borgia",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 41,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "Orchard Farm",
-        "result": "L",
-        "team_score": 16,
-        "opp_score": 55,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "Lutheran North",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 57,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Second Round"
-      },
-      {
-        "date": "2026-11-13",
-        "date_iso": "2026-11-13",
-        "opponent": "Lutheran North",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 57,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Quarterfinals"
-      }
-    ]
-  },
-  "Pleasant Hope/Halfway/Early": {
-    "team": "Pleasant Hope/Halfway/Early",
-    "state": "MO",
-    "division": "C3",
-    "conference": "MSHSAA C3",
-    "city": "Pleasant Hope",
-    "record": "1-9",
-    "wins": 1,
-    "losses": 9,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 40.5,
-    "ppg_scored": 8.9,
-    "ppg_allowed": 37.0,
-    "schedule_2026": [
-      {
-        "date": "2026-08-29",
-        "date_iso": "2026-08-29",
-        "opponent": "KIPP Legacy",
-        "result": "L",
-        "team_score": 32,
-        "opp_score": 38,
+        "team_score": 40,
+        "opp_score": 14,
         "is_playoff": false,
         "round": "2026 Week 2"
       },
       {
         "date": "2026-09-04",
         "date_iso": "2026-09-04",
-        "opponent": "Central-Kansas City",
+        "opponent": "Cabool",
         "result": "L",
-        "team_score": 8,
-        "opp_score": 18,
+        "team_score": 21,
+        "opp_score": 26,
         "is_playoff": false,
         "round": "2026 Week 3"
       },
       {
         "date": "2026-09-11",
         "date_iso": "2026-09-11",
-        "opponent": "El Dorado Springs",
+        "opponent": "East Prairie",
         "result": "L",
-        "team_score": 0,
-        "opp_score": 50,
+        "team_score": 7,
+        "opp_score": 8,
         "is_playoff": false,
         "round": "2026 Week 4"
       },
       {
         "date": "2026-09-18",
         "date_iso": "2026-09-18",
-        "opponent": "Cole Camp",
+        "opponent": "Dexter",
         "result": "L",
         "team_score": 0,
-        "opp_score": 34,
+        "opp_score": 58,
         "is_playoff": false,
         "round": "2026 Week 5"
       },
       {
         "date": "2026-09-25",
         "date_iso": "2026-09-25",
-        "opponent": "Crest Ridge/Chilhowee",
+        "opponent": "Kelly",
         "result": "L",
         "team_score": 0,
-        "opp_score": 21,
+        "opp_score": 36,
         "is_playoff": false,
         "round": "2026 Week 6"
       },
       {
         "date": "2026-10-02",
         "date_iso": "2026-10-02",
-        "opponent": "Cuba",
+        "opponent": "Kennett",
         "result": "L",
-        "team_score": 0,
+        "team_score": 6,
         "opp_score": 44,
         "is_playoff": false,
         "round": "2026 Week 7"
@@ -35432,50 +35051,50 @@
       {
         "date": "2026-10-09",
         "date_iso": "2026-10-09",
-        "opponent": "Clinton",
+        "opponent": "New Madrid County Central",
         "result": "L",
-        "team_score": 0,
-        "opp_score": 42,
+        "team_score": 6,
+        "opp_score": 38,
         "is_playoff": false,
         "round": "2026 Week 8"
       },
       {
         "date": "2026-10-16",
         "date_iso": "2026-10-16",
-        "opponent": "Lone Jack/Kingsville",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 24,
+        "opponent": "Missouri Military Academy",
+        "result": "W",
+        "team_score": 62,
+        "opp_score": 0,
         "is_playoff": false,
         "round": "2026 Week 9"
       },
       {
         "date": "2026-10-23",
         "date_iso": "2026-10-23",
-        "opponent": "Missouri Military Academy",
-        "result": "W",
-        "team_score": 52,
-        "opp_score": 0,
+        "opponent": "Malden",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 48,
         "is_playoff": false,
         "round": "2026 Week 10"
       },
       {
         "date": "2026-10-30",
         "date_iso": "2026-10-30",
-        "opponent": "Strafford",
+        "opponent": "Ste. Genevieve",
         "result": "L",
-        "team_score": 0,
-        "opp_score": 68,
+        "team_score": 3,
+        "opp_score": 56,
         "is_playoff": true,
         "round": "2026 MSHSAA Second Round"
       },
       {
         "date": "2026-11-13",
         "date_iso": "2026-11-13",
-        "opponent": "Strafford",
+        "opponent": "Ste. Genevieve",
         "result": "L",
-        "team_score": 0,
-        "opp_score": 68,
+        "team_score": 3,
+        "opp_score": 56,
         "is_playoff": true,
         "round": "2026 MSHSAA Quarterfinals"
       }
@@ -35735,6 +35354,504 @@
       }
     ]
   },
+  "Van-Far": {
+    "team": "Van-Far",
+    "state": "MO",
+    "division": "C1",
+    "conference": "MSHSAA C1",
+    "city": "Vandalia",
+    "record": "1-9",
+    "wins": 1,
+    "losses": 9,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 45.5,
+    "ppg_scored": 15.4,
+    "ppg_allowed": 47.5,
+    "schedule_2026": [
+      {
+        "date": "2026-08-28",
+        "date_iso": "2026-08-28",
+        "opponent": "Westran",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 32,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Russellville",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 47,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "Louisiana",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 43,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "Mark Twain",
+        "result": "W",
+        "team_score": 38,
+        "opp_score": 34,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "Montgomery County",
+        "result": "L",
+        "team_score": 30,
+        "opp_score": 62,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Bowling Green",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 65,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Wright City",
+        "result": "L",
+        "team_score": 18,
+        "opp_score": 48,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "North Callaway",
+        "result": "L",
+        "team_score": 22,
+        "opp_score": 81,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "Winfield",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 36,
+        "is_playoff": false,
+        "round": "2026 Week 10"
+      },
+      {
+        "date": "2026-11-06",
+        "date_iso": "2026-11-06",
+        "opponent": "Westran",
+        "result": "L",
+        "team_score": 8,
+        "opp_score": 27,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Second Round"
+      }
+    ]
+  },
+  "Cabool": {
+    "team": "Cabool",
+    "state": "MO",
+    "division": "C1",
+    "conference": "MSHSAA C1",
+    "city": "Cabool",
+    "record": "1-9",
+    "wins": 1,
+    "losses": 9,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 47.8,
+    "ppg_scored": 6.3,
+    "ppg_allowed": 51.9,
+    "schedule_2026": [
+      {
+        "date": "2026-08-28",
+        "date_iso": "2026-08-28",
+        "opponent": "Miller",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 66,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Doniphan",
+        "result": "W",
+        "team_score": 26,
+        "opp_score": 21,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "Willow Springs",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 42,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "Houston",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 56,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "Mountain Grove",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 68,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Thayer",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 58,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Liberty-Mountain View",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 84,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "Ava",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 37,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "Salem",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 39,
+        "is_playoff": false,
+        "round": "2026 Week 10"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "Charleston",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 50,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Second Round"
+      },
+      {
+        "date": "2026-11-13",
+        "date_iso": "2026-11-13",
+        "opponent": "Charleston",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 50,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Quarterfinals"
+      }
+    ]
+  },
+  "Lutheran": {
+    "team": "Lutheran",
+    "state": "MO",
+    "division": "C3",
+    "conference": "MSHSAA C3",
+    "city": "St. Peters",
+    "record": "1-9",
+    "wins": 1,
+    "losses": 9,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 50.8,
+    "ppg_scored": 11.3,
+    "ppg_allowed": 50.1,
+    "schedule_2026": [
+      {
+        "date": "2026-08-28",
+        "date_iso": "2026-08-28",
+        "opponent": "University City",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 67,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Fort Zumwalt East",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 47,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "Vianney",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 78,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "Lift for Life Academy",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 49,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "North County",
+        "result": "L",
+        "team_score": 12,
+        "opp_score": 48,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "St. Pius X-Festus",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 46,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Confluence Prep Academy",
+        "result": "W",
+        "team_score": 50,
+        "opp_score": 6,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "St. Francis Borgia",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 41,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "Orchard Farm",
+        "result": "L",
+        "team_score": 16,
+        "opp_score": 55,
+        "is_playoff": false,
+        "round": "2026 Week 10"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "Lutheran North",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 57,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Second Round"
+      },
+      {
+        "date": "2026-11-13",
+        "date_iso": "2026-11-13",
+        "opponent": "Lutheran North",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 57,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Quarterfinals"
+      }
+    ]
+  },
+  "Pleasant Hope/Halfway/Early": {
+    "team": "Pleasant Hope/Halfway/Early",
+    "state": "MO",
+    "division": "C3",
+    "conference": "MSHSAA C3",
+    "city": "Pleasant Hope",
+    "record": "1-9",
+    "wins": 1,
+    "losses": 9,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 40.5,
+    "ppg_scored": 8.9,
+    "ppg_allowed": 37.0,
+    "schedule_2026": [
+      {
+        "date": "2026-08-29",
+        "date_iso": "2026-08-29",
+        "opponent": "KIPP Legacy",
+        "result": "L",
+        "team_score": 32,
+        "opp_score": 38,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Central-Kansas City",
+        "result": "L",
+        "team_score": 8,
+        "opp_score": 18,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "El Dorado Springs",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 50,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "Cole Camp",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 34,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "Crest Ridge/Chilhowee",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 21,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Cuba",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 44,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Clinton",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 42,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "Lone Jack/Kingsville",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 24,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "Missouri Military Academy",
+        "result": "W",
+        "team_score": 52,
+        "opp_score": 0,
+        "is_playoff": false,
+        "round": "2026 Week 10"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "Strafford",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 68,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Second Round"
+      },
+      {
+        "date": "2026-11-13",
+        "date_iso": "2026-11-13",
+        "opponent": "Strafford",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 68,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Quarterfinals"
+      }
+    ]
+  },
   "Mark Twain": {
     "team": "Mark Twain",
     "state": "MO",
@@ -35989,250 +36106,6 @@
       }
     ]
   },
-  "Van-Far": {
-    "team": "Van-Far",
-    "state": "MO",
-    "division": "C1",
-    "conference": "MSHSAA C1",
-    "city": "Vandalia",
-    "record": "1-9",
-    "wins": 1,
-    "losses": 9,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 45.5,
-    "ppg_scored": 15.4,
-    "ppg_allowed": 47.5,
-    "schedule_2026": [
-      {
-        "date": "2026-08-28",
-        "date_iso": "2026-08-28",
-        "opponent": "Westran",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 32,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Russellville",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 47,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "Louisiana",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 43,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "Mark Twain",
-        "result": "W",
-        "team_score": 38,
-        "opp_score": 34,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "Montgomery County",
-        "result": "L",
-        "team_score": 30,
-        "opp_score": 62,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Bowling Green",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 65,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Wright City",
-        "result": "L",
-        "team_score": 18,
-        "opp_score": 48,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "North Callaway",
-        "result": "L",
-        "team_score": 22,
-        "opp_score": 81,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "Winfield",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 36,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-11-06",
-        "date_iso": "2026-11-06",
-        "opponent": "Westran",
-        "result": "L",
-        "team_score": 8,
-        "opp_score": 27,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Second Round"
-      }
-    ]
-  },
-  "Cabool": {
-    "team": "Cabool",
-    "state": "MO",
-    "division": "C1",
-    "conference": "MSHSAA C1",
-    "city": "Cabool",
-    "record": "1-9",
-    "wins": 1,
-    "losses": 9,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 47.8,
-    "ppg_scored": 6.3,
-    "ppg_allowed": 51.9,
-    "schedule_2026": [
-      {
-        "date": "2026-08-28",
-        "date_iso": "2026-08-28",
-        "opponent": "Miller",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 66,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Doniphan",
-        "result": "W",
-        "team_score": 26,
-        "opp_score": 21,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "Willow Springs",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 42,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "Houston",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 56,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "Mountain Grove",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 68,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Thayer",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 58,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Liberty-Mountain View",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 84,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "Ava",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 37,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "Salem",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 39,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "Charleston",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 50,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Second Round"
-      },
-      {
-        "date": "2026-11-13",
-        "date_iso": "2026-11-13",
-        "opponent": "Charleston",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 50,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Quarterfinals"
-      }
-    ]
-  },
   "Southeast": {
     "team": "Southeast",
     "state": "MO",
@@ -36327,113 +36200,6 @@
         "opp_score": 49,
         "is_playoff": false,
         "round": "2026 Week 9"
-      }
-    ]
-  },
-  "Confluence Prep Academy": {
-    "team": "Confluence Prep Academy",
-    "state": "MO",
-    "division": "C2",
-    "conference": "MSHSAA C2",
-    "city": "St. Louis",
-    "record": "0-9",
-    "wins": 0,
-    "losses": 9,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 42.5,
-    "ppg_scored": 8.2,
-    "ppg_allowed": 52.6,
-    "schedule_2026": [
-      {
-        "date": "2026-08-27",
-        "date_iso": "2026-08-27",
-        "opponent": "Normandy",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 49,
-        "is_playoff": false,
-        "round": "2026 Week 1"
-      },
-      {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Sparta/Steeleville",
-        "result": "L",
-        "team_score": 26,
-        "opp_score": 74,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-12",
-        "date_iso": "2026-09-12",
-        "opponent": "Principia",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 66,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "Crystal City",
-        "result": "L",
-        "team_score": 16,
-        "opp_score": 44,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-09-26",
-        "date_iso": "2026-09-26",
-        "opponent": "Gateway Tech",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 64,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Lutheran",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 50,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-17",
-        "date_iso": "2026-10-17",
-        "opponent": "Priory",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 57,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "Windsor",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 56,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "Montgomery County",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 13,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Second Round"
       }
     ]
   },
@@ -36549,6 +36315,865 @@
         "result": "L",
         "team_score": 13,
         "opp_score": 54,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Quarterfinals"
+      }
+    ]
+  },
+  "Confluence Prep Academy": {
+    "team": "Confluence Prep Academy",
+    "state": "MO",
+    "division": "C2",
+    "conference": "MSHSAA C2",
+    "city": "St. Louis",
+    "record": "0-9",
+    "wins": 0,
+    "losses": 9,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 42.5,
+    "ppg_scored": 8.2,
+    "ppg_allowed": 52.6,
+    "schedule_2026": [
+      {
+        "date": "2026-08-27",
+        "date_iso": "2026-08-27",
+        "opponent": "Normandy",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 49,
+        "is_playoff": false,
+        "round": "2026 Week 1"
+      },
+      {
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Sparta/Steeleville",
+        "result": "L",
+        "team_score": 26,
+        "opp_score": 74,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-12",
+        "date_iso": "2026-09-12",
+        "opponent": "Principia",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 66,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "Crystal City",
+        "result": "L",
+        "team_score": 16,
+        "opp_score": 44,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-09-26",
+        "date_iso": "2026-09-26",
+        "opponent": "Gateway Tech",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 64,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Lutheran",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 50,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-17",
+        "date_iso": "2026-10-17",
+        "opponent": "Priory",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 57,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "Windsor",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 56,
+        "is_playoff": false,
+        "round": "2026 Week 10"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "Montgomery County",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 13,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Second Round"
+      }
+    ]
+  },
+  "Clayton/Brentwood": {
+    "team": "Clayton/Brentwood",
+    "state": "MO",
+    "division": "C4",
+    "conference": "MSHSAA C4",
+    "city": "St. Louis",
+    "record": "0-10",
+    "wins": 0,
+    "losses": 10,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 47.2,
+    "ppg_scored": 8.5,
+    "ppg_allowed": 47.2,
+    "schedule_2026": [
+      {
+        "date": "2026-08-28",
+        "date_iso": "2026-08-28",
+        "opponent": "St. Charles West",
+        "result": "L",
+        "team_score": 16,
+        "opp_score": 62,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-03",
+        "date_iso": "2026-09-03",
+        "opponent": "St. Charles",
+        "result": "L",
+        "team_score": 20,
+        "opp_score": 48,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-10",
+        "date_iso": "2026-09-10",
+        "opponent": "Parkway South",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 54,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "Affton",
+        "result": "L",
+        "team_score": 19,
+        "opp_score": 49,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-09-26",
+        "date_iso": "2026-09-26",
+        "opponent": "McCluer",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 32,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "University City",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 13,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Oakville",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 63,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-17",
+        "date_iso": "2026-10-17",
+        "opponent": "Normandy",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 42,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "Jennings",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 44,
+        "is_playoff": false,
+        "round": "2026 Week 10"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "Gateway Tech",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 56,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Second Round"
+      },
+      {
+        "date": "2026-11-13",
+        "date_iso": "2026-11-13",
+        "opponent": "Gateway Tech",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 56,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Quarterfinals"
+      }
+    ]
+  },
+  "Linn": {
+    "team": "Linn",
+    "state": "MO",
+    "division": "C1",
+    "conference": "MSHSAA C1",
+    "city": "Linn",
+    "record": "0-10",
+    "wins": 0,
+    "losses": 10,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 44.0,
+    "ppg_scored": 9.1,
+    "ppg_allowed": 34.0,
+    "schedule_2026": [
+      {
+        "date": "2026-08-28",
+        "date_iso": "2026-08-28",
+        "opponent": "Cuba",
+        "result": "L",
+        "team_score": 26,
+        "opp_score": 46,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Salem",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 35,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "Windsor",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 18,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-19",
+        "date_iso": "2026-09-19",
+        "opponent": "Miller Career Academy/Sumner",
+        "result": "L",
+        "team_score": 20,
+        "opp_score": 34,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "Harrisburg",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 14,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Fayette",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 30,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Russellville",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 44,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "Tipton",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 68,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "South Callaway",
+        "result": "L",
+        "team_score": 16,
+        "opp_score": 45,
+        "is_playoff": false,
+        "round": "2026 Week 10"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "Windsor",
+        "result": "L",
+        "team_score": 16,
+        "opp_score": 20,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Second Round"
+      },
+      {
+        "date": "2026-11-13",
+        "date_iso": "2026-11-13",
+        "opponent": "Windsor",
+        "result": "L",
+        "team_score": 16,
+        "opp_score": 20,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Quarterfinals"
+      }
+    ]
+  },
+  "Grandview": {
+    "team": "Grandview",
+    "state": "MO",
+    "division": "C1",
+    "conference": "MSHSAA C1",
+    "city": "Hillsboro",
+    "record": "0-10",
+    "wins": 0,
+    "losses": 10,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 41.9,
+    "ppg_scored": 24.7,
+    "ppg_allowed": 32.7,
+    "schedule_2026": [
+      {
+        "date": "2026-08-28",
+        "date_iso": "2026-08-28",
+        "opponent": "Battle",
+        "result": "W",
+        "team_score": 41,
+        "opp_score": 6,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Park Hill South",
+        "result": "L",
+        "team_score": 20,
+        "opp_score": 61,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "Southeast",
+        "result": "W",
+        "team_score": 63,
+        "opp_score": 0,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "Raytown South",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 34,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "Smithville",
+        "result": "L",
+        "team_score": 8,
+        "opp_score": 51,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Ruskin",
+        "result": "W",
+        "team_score": 34,
+        "opp_score": 14,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Winnetonka",
+        "result": "L",
+        "team_score": 19,
+        "opp_score": 56,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "Kearney",
+        "result": "L",
+        "team_score": 8,
+        "opp_score": 58,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "Truman",
+        "result": "W",
+        "team_score": 56,
+        "opp_score": 8,
+        "is_playoff": false,
+        "round": "2026 Week 10"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "Ruskin",
+        "result": "L",
+        "team_score": 8,
+        "opp_score": 36,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Second Round"
+      },
+      {
+        "date": "2026-11-13",
+        "date_iso": "2026-11-13",
+        "opponent": "Ruskin",
+        "result": "L",
+        "team_score": 8,
+        "opp_score": 36,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Quarterfinals"
+      }
+    ]
+  },
+  "Hollister": {
+    "team": "Hollister",
+    "state": "MO",
+    "division": "C3",
+    "conference": "MSHSAA C3",
+    "city": "Hollister",
+    "record": "0-10",
+    "wins": 0,
+    "losses": 10,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 51.9,
+    "ppg_scored": 7.9,
+    "ppg_allowed": 52.9,
+    "schedule_2026": [
+      {
+        "date": "2026-08-28",
+        "date_iso": "2026-08-28",
+        "opponent": "Berryville",
+        "result": "L",
+        "team_score": 24,
+        "opp_score": 40,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Sarcoxie",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 43,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "Fair Grove",
+        "result": "L",
+        "team_score": 13,
+        "opp_score": 64,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "Buffalo",
+        "result": "L",
+        "team_score": 22,
+        "opp_score": 56,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "Strafford",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 47,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Clever",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 41,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Springfield Catholic",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 42,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-17",
+        "date_iso": "2026-10-17",
+        "opponent": "Reeds Spring",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 47,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "Forsyth",
+        "result": "L",
+        "team_score": 28,
+        "opp_score": 64,
+        "is_playoff": false,
+        "round": "2026 Week 10"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "Seneca",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 69,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Second Round"
+      },
+      {
+        "date": "2026-11-13",
+        "date_iso": "2026-11-13",
+        "opponent": "Seneca",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 69,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Quarterfinals"
+      }
+    ]
+  },
+  "Lexington": {
+    "team": "Lexington",
+    "state": "MO",
+    "division": "C2",
+    "conference": "MSHSAA C2",
+    "city": "Lexington",
+    "record": "0-10",
+    "wins": 0,
+    "losses": 10,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 43.9,
+    "ppg_scored": 12.5,
+    "ppg_allowed": 40.1,
+    "schedule_2026": [
+      {
+        "date": "2026-08-28",
+        "date_iso": "2026-08-28",
+        "opponent": "Lone Jack/Kingsville",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 27,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Plattsburg",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 26,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "Versailles",
+        "result": "L",
+        "team_score": 12,
+        "opp_score": 32,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "Crest Ridge/Chilhowee",
+        "result": "L",
+        "team_score": 12,
+        "opp_score": 18,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "Holden",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 34,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Knob Noster/Leeton",
+        "result": "L",
+        "team_score": 18,
+        "opp_score": 35,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Carrollton",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 37,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "Lafayette County",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 48,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-23",
+        "date_iso": "2026-10-23",
+        "opponent": "Richmond",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 48,
+        "is_playoff": false,
+        "round": "2026 Week 10"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "Butler",
+        "result": "L",
+        "team_score": 18,
+        "opp_score": 68,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Second Round"
+      },
+      {
+        "date": "2026-11-13",
+        "date_iso": "2026-11-13",
+        "opponent": "Butler",
+        "result": "L",
+        "team_score": 18,
+        "opp_score": 68,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Quarterfinals"
+      }
+    ]
+  },
+  "Highland": {
+    "team": "Highland",
+    "state": "MO",
+    "division": "C2",
+    "conference": "MSHSAA C2",
+    "city": "Ewing",
+    "record": "0-10",
+    "wins": 0,
+    "losses": 10,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 49.3,
+    "ppg_scored": 6.4,
+    "ppg_allowed": 51.0,
+    "schedule_2026": [
+      {
+        "date": "2026-08-28",
+        "date_iso": "2026-08-28",
+        "opponent": "Mark Twain",
+        "result": "L",
+        "team_score": 12,
+        "opp_score": 28,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Scotland County",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 57,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "Centralia",
+        "result": "L",
+        "team_score": 20,
+        "opp_score": 64,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "South Shelby",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 43,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "Monroe City",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 52,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Palmyra",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 56,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Louisiana",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 56,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "Clark County",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 36,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      },
+      {
+        "date": "2026-10-30",
+        "date_iso": "2026-10-30",
+        "opponent": "Palmyra",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 59,
+        "is_playoff": true,
+        "round": "2026 MSHSAA Second Round"
+      },
+      {
+        "date": "2026-11-13",
+        "date_iso": "2026-11-13",
+        "opponent": "Palmyra",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 59,
         "is_playoff": true,
         "round": "2026 MSHSAA Quarterfinals"
       }
@@ -36930,631 +37555,6 @@
         "result": "L",
         "team_score": 0,
         "opp_score": 51,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Quarterfinals"
-      }
-    ]
-  },
-  "Hollister": {
-    "team": "Hollister",
-    "state": "MO",
-    "division": "C3",
-    "conference": "MSHSAA C3",
-    "city": "Hollister",
-    "record": "0-10",
-    "wins": 0,
-    "losses": 10,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 51.9,
-    "ppg_scored": 7.9,
-    "ppg_allowed": 52.9,
-    "schedule_2026": [
-      {
-        "date": "2026-08-28",
-        "date_iso": "2026-08-28",
-        "opponent": "Berryville",
-        "result": "L",
-        "team_score": 24,
-        "opp_score": 40,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Sarcoxie",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 43,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "Fair Grove",
-        "result": "L",
-        "team_score": 13,
-        "opp_score": 64,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "Buffalo",
-        "result": "L",
-        "team_score": 22,
-        "opp_score": 56,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "Strafford",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 47,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Clever",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 41,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Springfield Catholic",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 42,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-17",
-        "date_iso": "2026-10-17",
-        "opponent": "Reeds Spring",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 47,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "Forsyth",
-        "result": "L",
-        "team_score": 28,
-        "opp_score": 64,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "Seneca",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 69,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Second Round"
-      },
-      {
-        "date": "2026-11-13",
-        "date_iso": "2026-11-13",
-        "opponent": "Seneca",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 69,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Quarterfinals"
-      }
-    ]
-  },
-  "Clayton/Brentwood": {
-    "team": "Clayton/Brentwood",
-    "state": "MO",
-    "division": "C4",
-    "conference": "MSHSAA C4",
-    "city": "St. Louis",
-    "record": "0-10",
-    "wins": 0,
-    "losses": 10,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 47.2,
-    "ppg_scored": 8.5,
-    "ppg_allowed": 47.2,
-    "schedule_2026": [
-      {
-        "date": "2026-08-28",
-        "date_iso": "2026-08-28",
-        "opponent": "St. Charles West",
-        "result": "L",
-        "team_score": 16,
-        "opp_score": 62,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-03",
-        "date_iso": "2026-09-03",
-        "opponent": "St. Charles",
-        "result": "L",
-        "team_score": 20,
-        "opp_score": 48,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-10",
-        "date_iso": "2026-09-10",
-        "opponent": "Parkway South",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 54,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "Affton",
-        "result": "L",
-        "team_score": 19,
-        "opp_score": 49,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-09-26",
-        "date_iso": "2026-09-26",
-        "opponent": "McCluer",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 32,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "University City",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 13,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Oakville",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 63,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-17",
-        "date_iso": "2026-10-17",
-        "opponent": "Normandy",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 42,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "Jennings",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 44,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "Gateway Tech",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 56,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Second Round"
-      },
-      {
-        "date": "2026-11-13",
-        "date_iso": "2026-11-13",
-        "opponent": "Gateway Tech",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 56,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Quarterfinals"
-      }
-    ]
-  },
-  "Lexington": {
-    "team": "Lexington",
-    "state": "MO",
-    "division": "C2",
-    "conference": "MSHSAA C2",
-    "city": "Lexington",
-    "record": "0-10",
-    "wins": 0,
-    "losses": 10,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 43.9,
-    "ppg_scored": 12.5,
-    "ppg_allowed": 40.1,
-    "schedule_2026": [
-      {
-        "date": "2026-08-28",
-        "date_iso": "2026-08-28",
-        "opponent": "Lone Jack/Kingsville",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 27,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Plattsburg",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 26,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "Versailles",
-        "result": "L",
-        "team_score": 12,
-        "opp_score": 32,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "Crest Ridge/Chilhowee",
-        "result": "L",
-        "team_score": 12,
-        "opp_score": 18,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "Holden",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 34,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Knob Noster/Leeton",
-        "result": "L",
-        "team_score": 18,
-        "opp_score": 35,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Carrollton",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 37,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "Lafayette County",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 48,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "Richmond",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 48,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "Butler",
-        "result": "L",
-        "team_score": 18,
-        "opp_score": 68,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Second Round"
-      },
-      {
-        "date": "2026-11-13",
-        "date_iso": "2026-11-13",
-        "opponent": "Butler",
-        "result": "L",
-        "team_score": 18,
-        "opp_score": 68,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Quarterfinals"
-      }
-    ]
-  },
-  "Highland": {
-    "team": "Highland",
-    "state": "MO",
-    "division": "C2",
-    "conference": "MSHSAA C2",
-    "city": "Ewing",
-    "record": "0-10",
-    "wins": 0,
-    "losses": 10,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 49.3,
-    "ppg_scored": 6.4,
-    "ppg_allowed": 51.0,
-    "schedule_2026": [
-      {
-        "date": "2026-08-28",
-        "date_iso": "2026-08-28",
-        "opponent": "Mark Twain",
-        "result": "L",
-        "team_score": 12,
-        "opp_score": 28,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Scotland County",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 57,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "Centralia",
-        "result": "L",
-        "team_score": 20,
-        "opp_score": 64,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "South Shelby",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 43,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "Monroe City",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 52,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Palmyra",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 56,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Louisiana",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 56,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "Clark County",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 36,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "Palmyra",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 59,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Second Round"
-      },
-      {
-        "date": "2026-11-13",
-        "date_iso": "2026-11-13",
-        "opponent": "Palmyra",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 59,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Quarterfinals"
-      }
-    ]
-  },
-  "Linn": {
-    "team": "Linn",
-    "state": "MO",
-    "division": "C1",
-    "conference": "MSHSAA C1",
-    "city": "Linn",
-    "record": "0-10",
-    "wins": 0,
-    "losses": 10,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 44.0,
-    "ppg_scored": 9.1,
-    "ppg_allowed": 34.0,
-    "schedule_2026": [
-      {
-        "date": "2026-08-28",
-        "date_iso": "2026-08-28",
-        "opponent": "Cuba",
-        "result": "L",
-        "team_score": 26,
-        "opp_score": 46,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Salem",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 35,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "Windsor",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 18,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-19",
-        "date_iso": "2026-09-19",
-        "opponent": "Miller Career Academy/Sumner",
-        "result": "L",
-        "team_score": 20,
-        "opp_score": 34,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "Harrisburg",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 14,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Fayette",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 30,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Russellville",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 44,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "Tipton",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 68,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      },
-      {
-        "date": "2026-10-23",
-        "date_iso": "2026-10-23",
-        "opponent": "South Callaway",
-        "result": "L",
-        "team_score": 16,
-        "opp_score": 45,
-        "is_playoff": false,
-        "round": "2026 Week 10"
-      },
-      {
-        "date": "2026-10-30",
-        "date_iso": "2026-10-30",
-        "opponent": "Windsor",
-        "result": "L",
-        "team_score": 16,
-        "opp_score": 20,
-        "is_playoff": true,
-        "round": "2026 MSHSAA Second Round"
-      },
-      {
-        "date": "2026-11-13",
-        "date_iso": "2026-11-13",
-        "opponent": "Windsor",
-        "result": "L",
-        "team_score": 16,
-        "opp_score": 20,
         "is_playoff": true,
         "round": "2026 MSHSAA Quarterfinals"
       }

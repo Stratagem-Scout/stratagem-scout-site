@@ -34035,113 +34035,6 @@
       }
     ]
   },
-  "New Berlin/Franklin/Waverly": {
-    "team": "New Berlin/Franklin/Waverly",
-    "state": "IL",
-    "division": "3A",
-    "conference": "IHSA 3A",
-    "city": "New Berlin",
-    "record": "0-9",
-    "wins": 0,
-    "losses": 9,
-    "power_index": 15.0,
-    "raw_rating": -35.0,
-    "sos_index": 49.1,
-    "ppg_scored": 3.9,
-    "ppg_allowed": 48.2,
-    "schedule_2026": [
-      {
-        "date": "2026-08-21",
-        "date_iso": "2026-08-21",
-        "opponent": "Maroa-Forsyth",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 59,
-        "is_playoff": false,
-        "round": "2026 Week 1"
-      },
-      {
-        "date": "2026-08-28",
-        "date_iso": "2026-08-28",
-        "opponent": "Pleasant Plains",
-        "result": "L",
-        "team_score": 7,
-        "opp_score": 40,
-        "is_playoff": false,
-        "round": "2026 Week 2"
-      },
-      {
-        "date": "2026-09-04",
-        "date_iso": "2026-09-04",
-        "opponent": "Auburn",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 63,
-        "is_playoff": false,
-        "round": "2026 Week 3"
-      },
-      {
-        "date": "2026-09-11",
-        "date_iso": "2026-09-11",
-        "opponent": "PORTA/Ashland-Chandlerville Central/Greenview",
-        "result": "L",
-        "team_score": 6,
-        "opp_score": 28,
-        "is_playoff": false,
-        "round": "2026 Week 4"
-      },
-      {
-        "date": "2026-09-18",
-        "date_iso": "2026-09-18",
-        "opponent": "Riverton",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 46,
-        "is_playoff": false,
-        "round": "2026 Week 5"
-      },
-      {
-        "date": "2026-09-25",
-        "date_iso": "2026-09-25",
-        "opponent": "Pittsfield",
-        "result": "L",
-        "team_score": 14,
-        "opp_score": 25,
-        "is_playoff": false,
-        "round": "2026 Week 6"
-      },
-      {
-        "date": "2026-10-02",
-        "date_iso": "2026-10-02",
-        "opponent": "Olympia",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 56,
-        "is_playoff": false,
-        "round": "2026 Week 7"
-      },
-      {
-        "date": "2026-10-09",
-        "date_iso": "2026-10-09",
-        "opponent": "Williamsville",
-        "result": "L",
-        "team_score": 0,
-        "opp_score": 55,
-        "is_playoff": false,
-        "round": "2026 Week 8"
-      },
-      {
-        "date": "2026-10-16",
-        "date_iso": "2026-10-16",
-        "opponent": "Athens",
-        "result": "L",
-        "team_score": 8,
-        "opp_score": 62,
-        "is_playoff": false,
-        "round": "2026 Week 9"
-      }
-    ]
-  },
   "Niles West": {
     "team": "Niles West",
     "state": "IL",
@@ -34351,6 +34244,113 @@
         "result": "L",
         "team_score": 6,
         "opp_score": 64,
+        "is_playoff": false,
+        "round": "2026 Week 9"
+      }
+    ]
+  },
+  "New Berlin/Franklin/Waverly": {
+    "team": "New Berlin/Franklin/Waverly",
+    "state": "IL",
+    "division": "3A",
+    "conference": "IHSA 3A",
+    "city": "New Berlin",
+    "record": "0-9",
+    "wins": 0,
+    "losses": 9,
+    "power_index": 15.0,
+    "raw_rating": -35.0,
+    "sos_index": 49.1,
+    "ppg_scored": 3.9,
+    "ppg_allowed": 48.2,
+    "schedule_2026": [
+      {
+        "date": "2026-08-21",
+        "date_iso": "2026-08-21",
+        "opponent": "Maroa-Forsyth",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 59,
+        "is_playoff": false,
+        "round": "2026 Week 1"
+      },
+      {
+        "date": "2026-08-28",
+        "date_iso": "2026-08-28",
+        "opponent": "Pleasant Plains",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 40,
+        "is_playoff": false,
+        "round": "2026 Week 2"
+      },
+      {
+        "date": "2026-09-04",
+        "date_iso": "2026-09-04",
+        "opponent": "Auburn",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 63,
+        "is_playoff": false,
+        "round": "2026 Week 3"
+      },
+      {
+        "date": "2026-09-11",
+        "date_iso": "2026-09-11",
+        "opponent": "PORTA/Ashland-Chandlerville Central/Greenview",
+        "result": "L",
+        "team_score": 6,
+        "opp_score": 28,
+        "is_playoff": false,
+        "round": "2026 Week 4"
+      },
+      {
+        "date": "2026-09-18",
+        "date_iso": "2026-09-18",
+        "opponent": "Riverton",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 46,
+        "is_playoff": false,
+        "round": "2026 Week 5"
+      },
+      {
+        "date": "2026-09-25",
+        "date_iso": "2026-09-25",
+        "opponent": "Pittsfield",
+        "result": "L",
+        "team_score": 14,
+        "opp_score": 25,
+        "is_playoff": false,
+        "round": "2026 Week 6"
+      },
+      {
+        "date": "2026-10-02",
+        "date_iso": "2026-10-02",
+        "opponent": "Olympia",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 56,
+        "is_playoff": false,
+        "round": "2026 Week 7"
+      },
+      {
+        "date": "2026-10-09",
+        "date_iso": "2026-10-09",
+        "opponent": "Williamsville",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 55,
+        "is_playoff": false,
+        "round": "2026 Week 8"
+      },
+      {
+        "date": "2026-10-16",
+        "date_iso": "2026-10-16",
+        "opponent": "Athens",
+        "result": "L",
+        "team_score": 8,
+        "opp_score": 62,
         "is_playoff": false,
         "round": "2026 Week 9"
       }

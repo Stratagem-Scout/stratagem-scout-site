@@ -1,772 +1,967 @@
 {
-  "A.C. Flora": {
-    "lat": 34.016993,
-    "lng": -80.983355,
-    "city": "Columbia"
-  },
-  "Abbeville": {
-    "lat": 34.187425,
-    "lng": -82.374457,
-    "city": "Abbeville"
-  },
-  "Academic Magnet": {
-    "lat": 32.88428,
-    "lng": -80.000996,
-    "city": "North Charleston"
-  },
-  "Aiken": {
-    "lat": 33.577682,
-    "lng": -81.713103,
-    "city": "Aiken"
-  },
-  "Airport": {
-    "lat": 33.950587,
-    "lng": -81.103979,
-    "city": "West Columbia"
-  },
-  "Allendale-Fairfax": {
-    "lat": 32.988798,
-    "lng": -81.282398,
-    "city": "Fairfax"
-  },
-  "American Leadership Academy": {
-    "lat": 33.99032,
-    "lng": -81.22273,
-    "city": "Lexington"
-  },
-  "Andrew Jackson": {
-    "lat": 34.573603,
-    "lng": -80.612038,
-    "city": "Kershaw"
-  },
-  "Andrews": {
-    "lat": 33.459743,
-    "lng": -79.572268,
-    "city": "Andrews"
-  },
-  "Ashley Ridge": {
-    "lat": 32.925229,
-    "lng": -80.233281,
-    "city": "Summerville"
-  },
-  "Atlantic Collegiate Academy": {
-    "lat": 33.711854,
-    "lng": -78.938132,
-    "city": "Myrtle Beach"
-  },
-  "Aynor": {
-    "lat": 33.99097,
-    "lng": -79.203645,
-    "city": "Aynor"
-  },
-  "Bamberg-Ehrhardt": {
-    "lat": 33.304407,
-    "lng": -81.027985,
-    "city": "Bamberg"
-  },
-  "Baptist Hill": {
-    "lat": 32.727957,
-    "lng": -80.261947,
-    "city": "Hollywood"
-  },
-  "Barnwell": {
-    "lat": 33.228499,
-    "lng": -81.359182,
-    "city": "Barnwell"
-  },
-  "Batesburg-Leesville": {
-    "lat": 33.923084,
-    "lng": -81.534501,
-    "city": "Batesburg-Leesville"
-  },
-  "Battery Creek": {
-    "lat": 32.433267,
-    "lng": -80.746927,
-    "city": "Beaufort"
-  },
-  "Beaufort": {
-    "lat": 32.415663,
-    "lng": -80.660522,
-    "city": "Beaufort"
-  },
-  "Belton-Honea Path": {
-    "lat": 34.473593,
-    "lng": -82.443982,
-    "city": "Honea Path"
-  },
-  "Berea": {
-    "lat": 34.876374,
-    "lng": -82.463838,
-    "city": "Greenville"
-  },
-  "Berkeley": {
-    "lat": 33.201671,
-    "lng": -80.025462,
-    "city": "Moncks Corner"
-  },
-  "Bethune-Bowman": {
-    "lat": 33.406435,
-    "lng": -80.740397,
-    "city": "Rowesville"
-  },
-  "Bishop England": {
-    "lat": 32.82296,
-    "lng": -79.97272,
-    "city": "Charleston"
-  },
-  "Blacksburg": {
-    "lat": 35.114465,
-    "lng": -81.514029,
-    "city": "Blacksburg"
-  },
-  "Blackville-Hilda": {
-    "lat": 33.364522,
-    "lng": -81.264709,
-    "city": "Blackville"
-  },
-  "Blue Ridge": {
-    "lat": 35.039784,
-    "lng": -82.286542,
-    "city": "Greer"
-  },
-  "Bluffton": {
-    "lat": 32.25134,
-    "lng": -80.898703,
-    "city": "Bluffton"
-  },
-  "Blythewood": {
-    "lat": 34.207577,
-    "lng": -80.978818,
-    "city": "Blythewood"
-  },
-  "Boiling Springs": {
-    "lat": 35.04769,
-    "lng": -81.973348,
-    "city": "Boiling Springs"
-  },
-  "Branchville": {
-    "lat": 33.246441,
-    "lng": -80.790289,
-    "city": "Branchville"
-  },
-  "Brookland-Cayce": {
-    "lat": 33.98211,
-    "lng": -81.056992,
-    "city": "Cayce"
-  },
-  "Broome": {
-    "lat": 34.986479,
-    "lng": -81.844197,
-    "city": "Spartanburg"
-  },
-  "Buford": {
-    "lat": 34.758101,
-    "lng": -80.623693,
-    "city": "Lancaster"
-  },
-  "Burke": {
-    "lat": 32.793517,
-    "lng": -79.953888,
-    "city": "Charleston"
-  },
-  "C.A. Johnson": {
-    "lat": 34.023504,
-    "lng": -81.018126,
-    "city": "Columbia"
-  },
-  "Calhoun County": {
-    "lat": 33.665325,
-    "lng": -80.799114,
-    "city": "St. Matthews"
-  },
-  "Calhoun Falls Charter": {
-    "lat": 34.099922,
-    "lng": -82.59658,
-    "city": "Calhoun Falls"
-  },
-  "Camden": {
-    "lat": 34.240721,
-    "lng": -80.615919,
-    "city": "Camden"
-  },
-  "Cane Bay": {
-    "lat": 33.102104,
-    "lng": -80.122268,
-    "city": "Summerville"
-  },
-  "Carolina Academy": {
-    "lat": 34.811534,
-    "lng": -82.441912,
-    "city": "Greenville"
-  },
-  "Carolina Forest": {
-    "lat": 33.779063,
-    "lng": -78.970287,
-    "city": "Myrtle Beach"
-  },
-  "Carvers Bay": {
-    "lat": 33.75856,
-    "lng": -79.44979,
-    "city": "Hemingway"
-  },
-  "Catawba Ridge": {
-    "lat": 34.979576,
-    "lng": -80.933656,
-    "city": "Fort Mill"
-  },
-  "Central": {
-    "lat": 34.75412,
-    "lng": -80.357914,
-    "city": "Pageland"
-  },
-  "Chapin": {
-    "lat": 34.167109,
-    "lng": -81.339914,
-    "city": "Chapin"
-  },
-  "Chapman": {
-    "lat": 35.062634,
-    "lng": -82.100305,
-    "city": "Inman"
-  },
-  "Cheraw": {
-    "lat": 34.692621,
-    "lng": -79.914016,
-    "city": "Cheraw"
-  },
-  "Chesnee": {
-    "lat": 35.132902,
-    "lng": -81.861634,
-    "city": "Chesnee"
-  },
-  "Chester": {
-    "lat": 34.688699,
-    "lng": -81.201363,
-    "city": "Chester"
-  },
-  "Chesterfield": {
-    "lat": 34.745177,
-    "lng": -80.089981,
-    "city": "Chesterfield"
-  },
-  "Christ Church Episcopal": {
-    "lat": 34.83806,
-    "lng": -82.36115,
-    "city": "Greenville"
-  },
-  "Clear Dot Charter": {
-    "lat": 34.04031,
-    "lng": -80.90845,
-    "city": "Columbia"
-  },
-  "Clinton": {
-    "lat": 34.485231,
-    "lng": -81.853902,
-    "city": "Clinton"
-  },
-  "Clover": {
-    "lat": 35.096795,
-    "lng": -81.182949,
-    "city": "Clover"
-  },
-  "Colleton County": {
-    "lat": 32.949377,
-    "lng": -80.654232,
-    "city": "Walterboro"
-  },
-  "Columbia": {
-    "lat": 34.049861,
-    "lng": -81.091939,
-    "city": "Columbia"
-  },
-  "Conway": {
-    "lat": 33.851183,
-    "lng": -79.076576,
-    "city": "Conway"
-  },
-  "Crescent": {
-    "lat": 34.340135,
-    "lng": -82.688823,
-    "city": "Iva"
-  },
-  "Crestwood": {
-    "lat": 33.972011,
-    "lng": -80.305885,
-    "city": "Sumter"
-  },
-  "Cross": {
-    "lat": 33.351386,
-    "lng": -80.163785,
-    "city": "Cross"
-  },
-  "Daniel": {
-    "lat": 34.7234,
-    "lng": -82.77471,
-    "city": "Central"
-  },
-  "Darlington": {
-    "lat": 34.31832,
-    "lng": -79.879369,
-    "city": "Darlington"
-  },
-  "Denmark-Olar": {
-    "lat": 33.327873,
-    "lng": -81.123076,
-    "city": "Denmark"
-  },
-  "Dillon": {
-    "lat": 34.434312,
-    "lng": -79.355225,
-    "city": "Dillon"
-  },
-  "Dixie": {
-    "lat": 34.327491,
-    "lng": -82.388343,
-    "city": "Due West"
-  },
-  "Dorman": {
-    "lat": 34.849447,
-    "lng": -81.971507,
-    "city": "Roebuck"
-  },
-  "Dreher": {
-    "lat": 33.999482,
-    "lng": -80.994141,
-    "city": "Columbia"
-  },
-  "Dutch Fork": {
-    "lat": 34.153055,
-    "lng": -81.199464,
-    "city": "Irmo"
-  },
-  "Easley": {
-    "lat": 34.789607,
-    "lng": -82.582452,
-    "city": "Easley"
-  },
-  "East Clarendon": {
-    "lat": 33.892524,
-    "lng": -80.014607,
-    "city": "Turbeville"
-  },
-  "Eastside": {
-    "lat": 34.893639,
-    "lng": -82.300793,
-    "city": "Taylors"
-  },
-  "Eau Claire": {
-    "lat": 34.048231,
-    "lng": -81.040984,
-    "city": "Columbia"
-  },
-  "Edisto": {
-    "lat": 33.444184,
-    "lng": -80.937776,
-    "city": "Cordova"
-  },
-  "Emerald": {
-    "lat": 34.191056,
-    "lng": -82.187366,
-    "city": "Greenwood"
-  },
-  "Fairfield Central": {
-    "lat": 34.357541,
-    "lng": -81.09772,
-    "city": "Winnsboro"
-  },
-  "Fort Dorchester": {
-    "lat": 32.926243,
-    "lng": -80.111133,
-    "city": "North Charleston"
-  },
-  "Fort Mill": {
-    "lat": 35.013145,
-    "lng": -80.96449,
-    "city": "Fort Mill"
-  },
-  "Fountain Inn": {
-    "lat": 34.69665,
-    "lng": -82.20213,
-    "city": "Fountain Inn"
-  },
-  "Fox Creek": {
-    "lat": 33.60815,
-    "lng": -81.939668,
-    "city": "North Augusta"
-  },
-  "Gaffney": {
-    "lat": 35.067436,
-    "lng": -81.682373,
-    "city": "Gaffney"
-  },
-  "Georgetown": {
-    "lat": 33.387006,
-    "lng": -79.303049,
-    "city": "Georgetown"
-  },
-  "Gilbert": {
-    "lat": 33.910648,
-    "lng": -81.390404,
-    "city": "Gilbert"
-  },
-  "Goose Creek": {
-    "lat": 32.973399,
-    "lng": -80.016449,
-    "city": "Goose Creek"
-  },
-  "Gray Collegiate Academy": {
-    "lat": 34.00508,
-    "lng": -81.141104,
-    "city": "West Columbia"
-  },
-  "Great Falls": {
-    "lat": 34.57589,
-    "lng": -80.917015,
-    "city": "Great Falls"
-  },
-  "Green Sea Floyds": {
-    "lat": 34.144325,
-    "lng": -79.020468,
-    "city": "Green Sea"
-  },
-  "Greenville": {
-    "lat": 34.826185,
-    "lng": -82.375273,
-    "city": "Greenville"
-  },
-  "Greenwood": {
-    "lat": 34.230782,
-    "lng": -82.175173,
-    "city": "Greenwood"
-  },
-  "Greer": {
-    "lat": 34.982136,
-    "lng": -82.231387,
-    "city": "Greer"
-  },
-  "Hampton County": {
-    "lat": 32.858874,
-    "lng": -81.089042,
-    "city": "Varnville"
-  },
-  "Hanahan": {
-    "lat": 32.915545,
-    "lng": -80.008103,
-    "city": "Hanahan"
-  },
-  "Hannah-Pamplico": {
-    "lat": 33.946259,
-    "lng": -79.550949,
-    "city": "Pamplico"
-  },
-  "Hardeeville": {
-    "lat": 32.29531,
-    "lng": -81.04098,
-    "city": "Hardeeville"
-  },
-  "Hartsville": {
-    "lat": 34.360412,
-    "lng": -80.086062,
-    "city": "Hartsville"
-  },
-  "Hemingway": {
-    "lat": 33.74805,
-    "lng": -79.446986,
-    "city": "Hemingway"
-  },
-  "Hillcrest": {
-    "lat": 34.713379,
-    "lng": -82.247178,
-    "city": "Simpsonville"
-  },
-  "Hilton Head Island": {
-    "lat": 32.219247,
-    "lng": -80.731115,
-    "city": "Hilton Head Island"
-  },
-  "Hunter-Kinard-Tyler": {
-    "lat": 33.474767,
-    "lng": -81.186955,
-    "city": "Neeses"
-  },
-  "Indian Land": {
-    "lat": 34.893253,
-    "lng": -80.79672,
-    "city": "Lancaster"
-  },
-  "Irmo": {
-    "lat": 34.067893,
-    "lng": -81.172804,
-    "city": "Columbia"
-  },
-  "J.L. Mann": {
-    "lat": 34.807137,
-    "lng": -82.337023,
-    "city": "Greenville"
-  },
-  "James F. Byrnes": {
-    "lat": 34.933095,
-    "lng": -82.12786,
-    "city": "Duncan"
-  },
-  "James Island": {
-    "lat": 32.731429,
-    "lng": -79.934228,
-    "city": "Charleston"
-  },
-  "Johnsonville": {
-    "lat": 33.816049,
-    "lng": -79.443159,
-    "city": "Johnsonville"
-  },
-  "Keenan": {
-    "lat": 34.0357,
-    "lng": -80.9096,
-    "city": "Columbia"
-  },
-  "Kingstree": {
-    "lat": 33.655118,
-    "lng": -79.817091,
-    "city": "Kingstree"
-  },
-  "Lake City": {
-    "lat": 33.888454,
-    "lng": -79.76588,
-    "city": "Lake City"
-  },
-  "Lake Marion": {
-    "lat": 33.446303,
-    "lng": -80.517001,
-    "city": "Santee"
-  },
-  "Lake View": {
-    "lat": 34.343408,
-    "lng": -79.162029,
-    "city": "Lake View"
-  },
-  "Lake Wylie": {
-    "lat": 34.9956,
-    "lng": -81.231,
-    "city": "York"
-  },
-  "Lakewood": {
-    "lat": 33.853316,
-    "lng": -80.356084,
-    "city": "Sumter"
-  },
-  "Lamar": {
-    "lat": 34.171853,
-    "lng": -80.054921,
-    "city": "Lamar"
-  },
-  "Lancaster": {
-    "lat": 34.726681,
-    "lng": -80.779443,
-    "city": "Lancaster"
-  },
-  "Landrum": {
-    "lat": 35.139683,
-    "lng": -82.164593,
-    "city": "Campobello"
-  },
-  "Latta": {
-    "lat": 34.342177,
-    "lng": -79.425914,
-    "city": "Latta"
-  },
-  "Laurens": {
-    "lat": 34.50269,
-    "lng": -82.02141,
-    "city": "Laurens"
-  },
-  "Lee Central": {
-    "lat": 34.179989,
-    "lng": -80.21229,
-    "city": "Bishopville"
-  },
-  "Lewisville": {
-    "lat": 34.719817,
-    "lng": -81.002917,
-    "city": "Richburg"
-  },
-  "Lexington": {
-    "lat": 33.977661,
-    "lng": -81.308593,
-    "city": "Lexington"
-  },
-  "Liberty": {
-    "lat": 34.766005,
-    "lng": -82.703473,
-    "city": "Liberty"
-  },
-  "Loris": {
-    "lat": 34.041598,
-    "lng": -78.860344,
-    "city": "Loris"
-  },
-  "Lower Richland": {
-    "lat": 33.9468,
-    "lng": -80.871801,
-    "city": "Hopkins"
-  },
-  "Lucy Beckham": {
-    "lat": 32.825677,
-    "lng": -79.845623,
-    "city": "Mt. Pleasant"
-  },
-  "Lugoff-Elgin": {
-    "lat": 34.217813,
-    "lng": -80.707367,
-    "city": "Lugoff"
-  },
-  "Manning": {
-    "lat": 33.69678,
-    "lng": -80.229145,
-    "city": "Manning"
-  },
-  "Marion": {
-    "lat": 34.16268,
-    "lng": -79.394313,
-    "city": "Marion"
+  "Strom Thurmond": {
+    "lat": 33.83338,
+    "lng": -81.80482,
+    "city": "Johnston"
   },
   "Marlboro County": {
-    "lat": 34.620033,
-    "lng": -79.66238,
+    "lat": 34.62822,
+    "lng": -79.68596,
     "city": "Bennettsville"
   },
-  "Mauldin": {
-    "lat": 34.793815,
-    "lng": -82.288527,
-    "city": "Mauldin"
+  "Saluda": {
+    "lat": 34.00117,
+    "lng": -81.77164,
+    "city": "Saluda"
   },
-  "May River": {
-    "lat": 32.216154,
-    "lng": -80.972008,
-    "city": "Bluffton"
+  "Dillon": {
+    "lat": 34.42441,
+    "lng": -79.36756,
+    "city": "Dillon"
   },
-  "McBee": {
-    "lat": 34.466511,
-    "lng": -80.252237,
-    "city": "Mcbee"
-  },
-  "McCormick": {
-    "lat": 33.868731,
-    "lng": -82.273467,
-    "city": "Mccormick"
+  "Southside Christian": {
+    "lat": 34.72249,
+    "lng": -82.25531,
+    "city": "Simpsonville"
   },
   "Mid-Carolina": {
-    "lat": 34.211104,
-    "lng": -81.479709,
+    "lat": 34.21337,
+    "lng": -81.52839,
     "city": "Prosperity"
   },
-  "Midland Valley": {
-    "lat": 33.525529,
-    "lng": -81.86587,
-    "city": "Graniteville"
+  "Crescent": {
+    "lat": 34.30815,
+    "lng": -82.66344,
+    "city": "Iva"
   },
-  "Military Magnet Academy": {
-    "lat": 32.850547,
-    "lng": -79.967851,
-    "city": "North Charleston"
+  "Woodland": {
+    "lat": 33.07563,
+    "lng": -80.34311,
+    "city": "Dorchester"
+  },
+  "Orangeburg-Wilkinson": {
+    "lat": 33.49858,
+    "lng": -80.8685,
+    "city": "Orangeburg"
+  },
+  "Philip Simmons": {
+    "lat": 32.83291,
+    "lng": -79.97102,
+    "city": "Charleston"
+  },
+  "St. Joseph's Catholic": {
+    "lat": 34.8369,
+    "lng": -82.35668,
+    "city": "Greenville"
+  },
+  "Clinton": {
+    "lat": 34.46939,
+    "lng": -81.86481,
+    "city": "Clinton"
+  },
+  "Chesnee": {
+    "lat": 35.14625,
+    "lng": -81.86298,
+    "city": "Chesnee"
   },
   "Mountain View Prep": {
     "lat": 34.95119,
     "lng": -81.92662,
     "city": "Spartanburg"
   },
-  "Mullins": {
-    "lat": 34.20697,
-    "lng": -79.281359,
-    "city": "Mullins"
+  "Keenan": {
+    "lat": 34.0357,
+    "lng": -80.9096,
+    "city": "Columbia"
   },
-  "Myrtle Beach": {
-    "lat": 33.719212,
-    "lng": -78.868213,
-    "city": "Myrtle Beach"
+  "Manning": {
+    "lat": 33.69332,
+    "lng": -80.21676,
+    "city": "Manning"
   },
-  "Nation Ford": {
-    "lat": 35.046695,
-    "lng": -80.91852,
-    "city": "Fort Mill"
+  "Woodruff": {
+    "lat": 34.7451,
+    "lng": -82.03745,
+    "city": "Woodruff"
+  },
+  "Battery Creek": {
+    "lat": 32.46016,
+    "lng": -80.72318,
+    "city": "Beaufort"
   },
   "Newberry": {
-    "lat": 34.284492,
-    "lng": -81.584056,
+    "lat": 34.27988,
+    "lng": -81.60033,
     "city": "Newberry"
   },
-  "Ninety Six": {
-    "lat": 34.157235,
-    "lng": -82.02609,
-    "city": "Ninety Six"
+  "East Clarendon": {
+    "lat": 33.88954,
+    "lng": -80.01615,
+    "city": "Turbeville"
   },
-  "North Augusta": {
-    "lat": 33.536356,
-    "lng": -81.973389,
-    "city": "North Augusta"
+  "Waccamaw": {
+    "lat": 33.42809,
+    "lng": -79.12499,
+    "city": "Pawley's Island"
   },
-  "North Central": {
-    "lat": 34.4328,
-    "lng": -80.524751,
+  "Andrew Jackson": {
+    "lat": 34.54488,
+    "lng": -80.58539,
     "city": "Kershaw"
   },
-  "North Charleston": {
-    "lat": 32.880895,
-    "lng": -79.978733,
-    "city": "North Charleston"
+  "Chester": {
+    "lat": 34.70502,
+    "lng": -81.21322,
+    "city": "Chester"
   },
-  "North Myrtle Beach": {
-    "lat": 33.862958,
-    "lng": -78.667929,
-    "city": "Little River"
+  "Lake Marion": {
+    "lat": 33.48458,
+    "lng": -80.48998,
+    "city": "Santee"
   },
-  "Northwestern": {
-    "lat": 34.949393,
-    "lng": -81.084091,
-    "city": "Rock Hill"
+  "Liberty": {
+    "lat": 34.79132,
+    "lng": -82.69633,
+    "city": "Liberty"
   },
-  "Oceanside Collegiate Academy": {
-    "lat": 32.894137,
-    "lng": -79.774048,
-    "city": "Mt. Pleasant"
-  },
-  "Orangeburg-Wilkinson": {
-    "lat": 33.524095,
-    "lng": -80.836538,
-    "city": "Orangeburg"
-  },
-  "Palmetto": {
-    "lat": 34.632052,
-    "lng": -82.476987,
-    "city": "Williamston"
-  },
-  "Pelion": {
-    "lat": 33.762655,
-    "lng": -81.255204,
-    "city": "Pelion"
+  "Silver Bluff": {
+    "lat": 33.52892,
+    "lng": -81.72394,
+    "city": "Aiken"
   },
   "Pendleton": {
-    "lat": 34.612809,
-    "lng": -82.783812,
-    "city": "Anderson"
+    "lat": 34.64224,
+    "lng": -82.77911,
+    "city": "Pendleton"
   },
-  "Philip Simmons": {
-    "lat": 32.917031,
-    "lng": -79.850871,
-    "city": "Charleston"
+  "Academic Magnet": {
+    "lat": 32.91687,
+    "lng": -80.06977,
+    "city": "North Charleston"
   },
-  "Pickens": {
-    "lat": 34.906272,
-    "lng": -82.716288,
-    "city": "Pickens"
+  "Lake City": {
+    "lat": 33.86773,
+    "lng": -79.75388,
+    "city": "Lake City"
   },
-  "Powdersville": {
-    "lat": 34.801067,
-    "lng": -82.486992,
+  "Pelion": {
+    "lat": 33.78486,
+    "lng": -81.25968,
+    "city": "Pelion"
+  },
+  "Landrum": {
+    "lat": 35.17509,
+    "lng": -82.18573,
+    "city": "Landrum"
+  },
+  "Timberland": {
+    "lat": 33.40263,
+    "lng": -79.92519,
+    "city": "St. Stephen"
+  },
+  "West-Oak": {
+    "lat": 34.66656,
+    "lng": -83.09066,
+    "city": "Westminster"
+  },
+  "Columbia": {
+    "lat": 34.04429,
+    "lng": -80.90246,
+    "city": "Columbia"
+  },
+  "Carolina Academy": {
+    "lat": 34.83659,
+    "lng": -82.35705,
     "city": "Greenville"
   },
+  "American Leadership Academy": {
+    "lat": 33.99032,
+    "lng": -81.22273,
+    "city": "Lexington"
+  },
+  "Northwestern": {
+    "lat": 34.93982,
+    "lng": -81.02038,
+    "city": "Rock Hill"
+  },
+  "Dutch Fork": {
+    "lat": 34.1026,
+    "lng": -81.1959,
+    "city": "Irmo"
+  },
+  "Dorman": {
+    "lat": 34.87899,
+    "lng": -81.96444,
+    "city": "Roebuck"
+  },
+  "Fort Mill": {
+    "lat": 35.01192,
+    "lng": -80.94073,
+    "city": "Fort Mill"
+  },
+  "Rock Hill": {
+    "lat": 34.94219,
+    "lng": -81.01897,
+    "city": "Rock Hill"
+  },
+  "James Island": {
+    "lat": 32.82372,
+    "lng": -79.97677,
+    "city": "Charleston"
+  },
+  "Ridge View": {
+    "lat": 34.04234,
+    "lng": -80.90081,
+    "city": "Columbia"
+  },
+  "Boiling Springs": {
+    "lat": 34.94978,
+    "lng": -81.92623,
+    "city": "Spartanburg"
+  },
+  "Berkeley": {
+    "lat": 33.19976,
+    "lng": -79.9866,
+    "city": "Moncks Corner"
+  },
+  "James F. Byrnes": {
+    "lat": 34.93243,
+    "lng": -82.14369,
+    "city": "Duncan"
+  },
+  "Sumter": {
+    "lat": 33.94406,
+    "lng": -80.39898,
+    "city": "Sumter"
+  },
+  "Summerville": {
+    "lat": 33.00405,
+    "lng": -80.17439,
+    "city": "Summerville"
+  },
+  "Spartanburg": {
+    "lat": 34.94759,
+    "lng": -81.9308,
+    "city": "Spartanburg"
+  },
+  "Gray Collegiate Academy": {
+    "lat": 33.99364,
+    "lng": -81.0968,
+    "city": "West Columbia"
+  },
+  "Carolina Forest": {
+    "lat": 33.71243,
+    "lng": -78.88484,
+    "city": "Myrtle Beach"
+  },
+  "River Bluff": {
+    "lat": 33.99072,
+    "lng": -81.21986,
+    "city": "Lexington"
+  },
+  "Lexington": {
+    "lat": 33.99773,
+    "lng": -81.22231,
+    "city": "Lexington"
+  },
+  "Hillcrest": {
+    "lat": 34.72955,
+    "lng": -82.25234,
+    "city": "Simpsonville"
+  },
+  "Ashley Ridge": {
+    "lat": 33.00944,
+    "lng": -80.17502,
+    "city": "Summerville"
+  },
+  "Chapin": {
+    "lat": 34.16525,
+    "lng": -81.33934,
+    "city": "Chapin"
+  },
+  "White Knoll": {
+    "lat": 33.99433,
+    "lng": -81.22721,
+    "city": "Lexington"
+  },
+  "Fort Dorchester": {
+    "lat": 32.92078,
+    "lng": -80.0651,
+    "city": "North Charleston"
+  },
+  "Wando": {
+    "lat": 32.80443,
+    "lng": -79.86791,
+    "city": "Mt. Pleasant"
+  },
+  "J.L. Mann": {
+    "lat": 34.83326,
+    "lng": -82.36677,
+    "city": "Greenville"
+  },
+  "Blythewood": {
+    "lat": 34.21192,
+    "lng": -80.99581,
+    "city": "Blythewood"
+  },
+  "Woodmont": {
+    "lat": 34.70764,
+    "lng": -82.46797,
+    "city": "Piedmont"
+  },
+  "Socastee": {
+    "lat": 33.71367,
+    "lng": -78.88887,
+    "city": "Myrtle Beach"
+  },
+  "Mauldin": {
+    "lat": 34.78102,
+    "lng": -82.30423,
+    "city": "Mauldin"
+  },
+  "Cane Bay": {
+    "lat": 33.00698,
+    "lng": -80.17725,
+    "city": "Summerville"
+  },
+  "Stratford": {
+    "lat": 32.99608,
+    "lng": -80.01528,
+    "city": "Goose Creek"
+  },
+  "Eastside": {
+    "lat": 34.91431,
+    "lng": -82.31391,
+    "city": "Taylors"
+  },
+  "West Ashley": {
+    "lat": 32.82794,
+    "lng": -79.97742,
+    "city": "Charleston"
+  },
+  "Goose Creek": {
+    "lat": 32.99295,
+    "lng": -80.00439,
+    "city": "Goose Creek"
+  },
+  "Spring Valley": {
+    "lat": 34.04069,
+    "lng": -80.91098,
+    "city": "Columbia"
+  },
+  "Stall": {
+    "lat": 32.829,
+    "lng": -79.9683,
+    "city": "Charleston"
+  },
+  "Oceanside Collegiate Academy": {
+    "lat": 32.8058,
+    "lng": -79.86336,
+    "city": "Mt. Pleasant"
+  },
+  "Daniel": {
+    "lat": 34.7234,
+    "lng": -82.77471,
+    "city": "Central"
+  },
+  "Wren": {
+    "lat": 34.70797,
+    "lng": -82.46691,
+    "city": "Piedmont"
+  },
+  "Camden": {
+    "lat": 34.25893,
+    "lng": -80.6092,
+    "city": "Camden"
+  },
+  "Bishop England": {
+    "lat": 32.82296,
+    "lng": -79.97272,
+    "city": "Charleston"
+  },
+  "Powdersville": {
+    "lat": 34.83624,
+    "lng": -82.36838,
+    "city": "Greenville"
+  },
+  "Belton-Honea Path": {
+    "lat": 34.44762,
+    "lng": -82.39496,
+    "city": "Honea Path"
+  },
+  "Loris": {
+    "lat": 34.05748,
+    "lng": -78.88842,
+    "city": "Loris"
+  },
+  "Chapman": {
+    "lat": 35.04579,
+    "lng": -82.08849,
+    "city": "Inman"
+  },
+  "Hartsville": {
+    "lat": 34.366,
+    "lng": -80.08326,
+    "city": "Hartsville"
+  },
+  "Emerald": {
+    "lat": 34.19199,
+    "lng": -82.15414,
+    "city": "Greenwood"
+  },
+  "Hanahan": {
+    "lat": 32.93096,
+    "lng": -80.00217,
+    "city": "Hanahan"
+  },
+  "Gilbert": {
+    "lat": 33.92411,
+    "lng": -81.39104,
+    "city": "Gilbert"
+  },
+  "Crestwood": {
+    "lat": 33.93976,
+    "lng": -80.39115,
+    "city": "Sumter"
+  },
+  "Seneca": {
+    "lat": 34.68106,
+    "lng": -82.9656,
+    "city": "Seneca"
+  },
+  "Pickens": {
+    "lat": 34.88574,
+    "lng": -82.7102,
+    "city": "Pickens"
+  },
+  "Darlington": {
+    "lat": 34.30138,
+    "lng": -79.86717,
+    "city": "Darlington"
+  },
+  "Aynor": {
+    "lat": 34.00023,
+    "lng": -79.20712,
+    "city": "Aynor"
+  },
+  "Atlantic Collegiate Academy": {
+    "lat": 33.83548,
+    "lng": -79.0521,
+    "city": "Conway"
+  },
+  "Christ Church Episcopal": {
+    "lat": 34.83806,
+    "lng": -82.36115,
+    "city": "Greenville"
+  },
+  "Swansea": {
+    "lat": 33.74002,
+    "lng": -81.10452,
+    "city": "Swansea"
+  },
+  "Brookland-Cayce": {
+    "lat": 33.9505,
+    "lng": -81.03981,
+    "city": "Cayce"
+  },
+  "Georgetown": {
+    "lat": 33.37243,
+    "lng": -79.28079,
+    "city": "Georgetown"
+  },
+  "Palmetto": {
+    "lat": 34.61909,
+    "lng": -82.48039,
+    "city": "Williamston"
+  },
+  "Lower Richland": {
+    "lat": 33.90022,
+    "lng": -80.85675,
+    "city": "Hopkins"
+  },
+  "Blue Ridge": {
+    "lat": 34.9291,
+    "lng": -82.22631,
+    "city": "Greer"
+  },
+  "Airport": {
+    "lat": 33.99162,
+    "lng": -81.10204,
+    "city": "West Columbia"
+  },
+  "Walhalla": {
+    "lat": 34.7695,
+    "lng": -83.05545,
+    "city": "Walhalla"
+  },
+  "Broome": {
+    "lat": 34.94762,
+    "lng": -81.92939,
+    "city": "Spartanburg"
+  },
+  "Lakewood": {
+    "lat": 33.94285,
+    "lng": -80.3971,
+    "city": "Sumter"
+  },
+  "North Charleston": {
+    "lat": 32.91492,
+    "lng": -80.06865,
+    "city": "North Charleston"
+  },
+  "Southside": {
+    "lat": 34.8345,
+    "lng": -82.36683,
+    "city": "Greenville"
+  },
+  "Union County": {
+    "lat": 34.72382,
+    "lng": -81.62485,
+    "city": "Union"
+  },
+  "Berea": {
+    "lat": 34.83556,
+    "lng": -82.35887,
+    "city": "Greenville"
+  },
+  "South Pointe": {
+    "lat": 34.93232,
+    "lng": -81.01692,
+    "city": "Rock Hill"
+  },
+  "Irmo": {
+    "lat": 34.04668,
+    "lng": -80.90752,
+    "city": "Columbia"
+  },
+  "Indian Land": {
+    "lat": 35.00616,
+    "lng": -80.94235,
+    "city": "Fort Mill"
+  },
+  "Gaffney": {
+    "lat": 35.07356,
+    "lng": -81.66153,
+    "city": "Gaffney"
+  },
+  "South Florence": {
+    "lat": 34.17982,
+    "lng": -79.79498,
+    "city": "Florence"
+  },
+  "Hilton Head Island": {
+    "lat": 32.19031,
+    "lng": -80.73843,
+    "city": "Hilton Head Island"
+  },
+  "North Augusta": {
+    "lat": 33.52198,
+    "lng": -81.95915,
+    "city": "North Augusta"
+  },
+  "T.L. Hanna": {
+    "lat": 34.52556,
+    "lng": -82.64022,
+    "city": "Anderson"
+  },
+  "Lugoff-Elgin": {
+    "lat": 34.21195,
+    "lng": -80.6976,
+    "city": "Lugoff"
+  },
+  "Westside": {
+    "lat": 34.5257,
+    "lng": -82.64457,
+    "city": "Anderson"
+  },
+  "Clover": {
+    "lat": 35.11162,
+    "lng": -81.22025,
+    "city": "Clover"
+  },
+  "Lucy Beckham": {
+    "lat": 32.80407,
+    "lng": -79.86557,
+    "city": "Mt. Pleasant"
+  },
+  "Catawba Ridge": {
+    "lat": 35.0115,
+    "lng": -80.93821,
+    "city": "Fort Mill"
+  },
+  "Greenville": {
+    "lat": 34.83494,
+    "lng": -82.36204,
+    "city": "Greenville"
+  },
+  "West Florence": {
+    "lat": 34.17284,
+    "lng": -79.79048,
+    "city": "Florence"
+  },
+  "South Aiken": {
+    "lat": 33.53681,
+    "lng": -81.72553,
+    "city": "Aiken"
+  },
+  "Aiken": {
+    "lat": 33.52725,
+    "lng": -81.72492,
+    "city": "Aiken"
+  },
+  "Greenwood": {
+    "lat": 34.19073,
+    "lng": -82.15129,
+    "city": "Greenwood"
+  },
+  "Wilson": {
+    "lat": 34.18054,
+    "lng": -79.7934,
+    "city": "Florence"
+  },
+  "Midland Valley": {
+    "lat": 33.56468,
+    "lng": -81.80923,
+    "city": "Graniteville"
+  },
+  "Conway": {
+    "lat": 33.83468,
+    "lng": -79.04483,
+    "city": "Conway"
+  },
+  "Myrtle Beach": {
+    "lat": 33.71516,
+    "lng": -78.88988,
+    "city": "Myrtle Beach"
+  },
+  "Fountain Inn": {
+    "lat": 34.69665,
+    "lng": -82.20213,
+    "city": "Fountain Inn"
+  },
+  "Dreher": {
+    "lat": 34.04538,
+    "lng": -80.90567,
+    "city": "Columbia"
+  },
+  "North Myrtle Beach": {
+    "lat": 33.88065,
+    "lng": -78.64049,
+    "city": "Little River"
+  },
+  "Lancaster": {
+    "lat": 34.72692,
+    "lng": -80.78309,
+    "city": "Lancaster"
+  },
+  "A.C. Flora": {
+    "lat": 34.04413,
+    "lng": -80.90442,
+    "city": "Columbia"
+  },
+  "York": {
+    "lat": 35.00256,
+    "lng": -81.23728,
+    "city": "York"
+  },
+  "Greer": {
+    "lat": 34.93077,
+    "lng": -82.2362,
+    "city": "Greer"
+  },
+  "Bluffton": {
+    "lat": 32.21205,
+    "lng": -80.92791,
+    "city": "Bluffton"
+  },
+  "May River": {
+    "lat": 32.21951,
+    "lng": -80.92962,
+    "city": "Bluffton"
+  },
+  "Laurens": {
+    "lat": 34.50269,
+    "lng": -82.02141,
+    "city": "Laurens"
+  },
+  "Nation Ford": {
+    "lat": 34.99987,
+    "lng": -80.93957,
+    "city": "Fort Mill"
+  },
+  "St. James": {
+    "lat": 33.55725,
+    "lng": -79.05716,
+    "city": "Murrells Inlet"
+  },
+  "Riverside": {
+    "lat": 34.93226,
+    "lng": -82.23251,
+    "city": "Greer"
+  },
+  "Westwood": {
+    "lat": 34.21529,
+    "lng": -80.99714,
+    "city": "Blythewood"
+  },
+  "Colleton County": {
+    "lat": 32.90133,
+    "lng": -80.67623,
+    "city": "Walterboro"
+  },
+  "Lake Wylie": {
+    "lat": 34.9956,
+    "lng": -81.231,
+    "city": "York"
+  },
   "Richland Northeast": {
-    "lat": 34.056231,
-    "lng": -80.937063,
+    "lat": 34.03663,
+    "lng": -80.90259,
+    "city": "Columbia"
+  },
+  "Beaufort": {
+    "lat": 32.46102,
+    "lng": -80.72548,
+    "city": "Beaufort"
+  },
+  "Wade Hampton": {
+    "lat": 34.83889,
+    "lng": -82.36486,
+    "city": "Greenville"
+  },
+  "Easley": {
+    "lat": 34.81981,
+    "lng": -82.58216,
+    "city": "Easley"
+  },
+  "Travelers Rest": {
+    "lat": 34.96003,
+    "lng": -82.44501,
+    "city": "Travelers Rest"
+  },
+  "Fox Creek": {
+    "lat": 33.52045,
+    "lng": -81.95434,
+    "city": "North Augusta"
+  },
+  "Bamberg-Ehrhardt": {
+    "lat": 33.30014,
+    "lng": -81.03122,
+    "city": "Bamberg"
+  },
+  "Fairfield Central": {
+    "lat": 34.3686,
+    "lng": -81.09138,
+    "city": "Winnsboro"
+  },
+  "Abbeville": {
+    "lat": 34.17854,
+    "lng": -82.37769,
+    "city": "Abbeville"
+  },
+  "Central": {
+    "lat": 34.77012,
+    "lng": -80.38571,
+    "city": "Pageland"
+  },
+  "Lamar": {
+    "lat": 34.16947,
+    "lng": -80.06507,
+    "city": "Lamar"
+  },
+  "Carvers Bay": {
+    "lat": 33.75856,
+    "lng": -79.44979,
+    "city": "Hemingway"
+  },
+  "Hampton County": {
+    "lat": 32.85203,
+    "lng": -81.08023,
+    "city": "Varnville"
+  },
+  "Blackville-Hilda": {
+    "lat": 33.34777,
+    "lng": -81.29491,
+    "city": "Blackville"
+  },
+  "Cheraw": {
+    "lat": 34.69789,
+    "lng": -79.91397,
+    "city": "Cheraw"
+  },
+  "Cross": {
+    "lat": 33.32739,
+    "lng": -80.14842,
+    "city": "Cross"
+  },
+  "Batesburg-Leesville": {
+    "lat": 33.91332,
+    "lng": -81.52806,
+    "city": "Batesburg"
+  },
+  "Johnsonville": {
+    "lat": 33.81424,
+    "lng": -79.44429,
+    "city": "Johnsonville"
+  },
+  "Lake View": {
+    "lat": 34.34078,
+    "lng": -79.16643,
+    "city": "Lake View"
+  },
+  "Scott's Branch": {
+    "lat": 33.60148,
+    "lng": -80.35265,
+    "city": "Summerton"
+  },
+  "Hunter-Kinard-Tyler": {
+    "lat": 33.53644,
+    "lng": -81.12361,
+    "city": "Neeses"
+  },
+  "Wagener-Salley": {
+    "lat": 33.6513,
+    "lng": -81.3626,
+    "city": "Wagener"
+  },
+  "Latta": {
+    "lat": 34.33894,
+    "lng": -79.43356,
+    "city": "Latta"
+  },
+  "Calhoun County": {
+    "lat": 33.66464,
+    "lng": -80.77875,
+    "city": "St. Matthews"
+  },
+  "C.A. Johnson": {
+    "lat": 34.04041,
+    "lng": -80.89996,
+    "city": "Columbia"
+  },
+  "North Central": {
+    "lat": 34.54113,
+    "lng": -80.58632,
+    "city": "Kershaw"
+  },
+  "Lee Central": {
+    "lat": 34.22007,
+    "lng": -80.24737,
+    "city": "Bishopville"
+  },
+  "Ninety Six": {
+    "lat": 34.16947,
+    "lng": -82.02296,
+    "city": "Ninety Six"
+  },
+  "Hardeeville": {
+    "lat": 32.29531,
+    "lng": -81.04098,
+    "city": "Hardeeville"
+  },
+  "Lewisville": {
+    "lat": 34.71662,
+    "lng": -81.01958,
+    "city": "Richburg"
+  },
+  "Marion": {
+    "lat": 34.17866,
+    "lng": -79.39566,
+    "city": "Marion"
+  },
+  "Branchville": {
+    "lat": 33.25171,
+    "lng": -80.81608,
+    "city": "Branchville"
+  },
+  "Chesterfield": {
+    "lat": 34.73299,
+    "lng": -80.07804,
+    "city": "Chesterfield"
+  },
+  "Baptist Hill": {
+    "lat": 32.75125,
+    "lng": -80.20193,
+    "city": "Hollywood"
+  },
+  "Whale Branch": {
+    "lat": 32.45893,
+    "lng": -80.72862,
+    "city": "Beaufort"
+  },
+  "Denmark-Olar": {
+    "lat": 33.3137,
+    "lng": -81.13379,
+    "city": "Denmark"
+  },
+  "Edisto": {
+    "lat": 33.43449,
+    "lng": -80.92103,
+    "city": "Cordova"
+  },
+  "Eau Claire": {
+    "lat": 34.04124,
+    "lng": -80.9102,
+    "city": "Columbia"
+  },
+  "Blacksburg": {
+    "lat": 35.12209,
+    "lng": -81.51812,
+    "city": "Blacksburg"
+  },
+  "Barnwell": {
+    "lat": 33.24163,
+    "lng": -81.36614,
+    "city": "Barnwell"
+  },
+  "Kingstree": {
+    "lat": 33.66723,
+    "lng": -79.82866,
+    "city": "Kingstree"
+  },
+  "Andrews": {
+    "lat": 33.44946,
+    "lng": -79.56598,
+    "city": "Andrews"
+  },
+  "Green Sea Floyds": {
+    "lat": 34.12878,
+    "lng": -78.97205,
+    "city": "Green Sea"
+  },
+  "Mullins": {
+    "lat": 34.20434,
+    "lng": -79.25498,
+    "city": "Mullins"
+  },
+  "Hannah-Pamplico": {
+    "lat": 33.99502,
+    "lng": -79.57062,
+    "city": "Pamplico"
+  },
+  "Dixie": {
+    "lat": 34.33477,
+    "lng": -82.39033,
+    "city": "Due West"
+  },
+  "Buford": {
+    "lat": 34.7242,
+    "lng": -80.78895,
+    "city": "Lancaster"
+  },
+  "Great Falls": {
+    "lat": 34.57213,
+    "lng": -80.9053,
+    "city": "Great Falls"
+  },
+  "Whitmire": {
+    "lat": 34.50407,
+    "lng": -81.61416,
+    "city": "Whitmire"
+  },
+  "Clear Dot Charter": {
+    "lat": 34.04031,
+    "lng": -80.90845,
     "city": "Columbia"
   },
   "Ridge Spring-Monetta": {
@@ -774,259 +969,64 @@
     "lng": -81.60993,
     "city": "Monetta"
   },
-  "Ridge View": {
-    "lat": 34.163173,
-    "lng": -80.910476,
-    "city": "Columbia"
+  "McCormick": {
+    "lat": 33.91284,
+    "lng": -82.28759,
+    "city": "Mccormick"
   },
   "Ridgeland Secondary Academy Of Excellence": {
-    "lat": 32.500435,
-    "lng": -80.987209,
+    "lat": 32.46884,
+    "lng": -80.92113,
     "city": "Ridgeland"
   },
-  "River Bluff": {
-    "lat": 34.027032,
-    "lng": -81.150378,
-    "city": "Lexington"
+  "Bethune-Bowman": {
+    "lat": 33.48854,
+    "lng": -80.86552,
+    "city": "Orangeburg"
   },
-  "Riverside": {
-    "lat": 34.903108,
-    "lng": -82.255801,
-    "city": "Greer"
+  "Calhoun Falls Charter": {
+    "lat": 34.09301,
+    "lng": -82.59646,
+    "city": "Calhoun Falls"
   },
-  "Rock Hill": {
-    "lat": 34.905049,
-    "lng": -80.980075,
-    "city": "Rock Hill"
+  "McBee": {
+    "lat": 34.46702,
+    "lng": -80.25713,
+    "city": "Mcbee"
   },
-  "Saluda": {
-    "lat": 34.006279,
-    "lng": -81.725874,
-    "city": "Saluda"
+  "Hemingway": {
+    "lat": 33.75381,
+    "lng": -79.44395,
+    "city": "Hemingway"
   },
-  "Scott's Branch": {
-    "lat": 33.61627,
-    "lng": -80.322047,
-    "city": "Summerton"
-  },
-  "Seneca": {
-    "lat": 34.675244,
-    "lng": -82.9884,
-    "city": "Seneca"
-  },
-  "Silver Bluff": {
-    "lat": 33.394734,
-    "lng": -81.759545,
-    "city": "Aiken"
-  },
-  "Socastee": {
-    "lat": 33.684623,
-    "lng": -78.997529,
-    "city": "Myrtle Beach"
-  },
-  "South Aiken": {
-    "lat": 33.521766,
-    "lng": -81.71303,
-    "city": "Aiken"
-  },
-  "South Florence": {
-    "lat": 34.132206,
-    "lng": -79.77186,
-    "city": "Florence"
-  },
-  "South Pointe": {
-    "lat": 34.888212,
-    "lng": -81.060566,
-    "city": "Rock Hill"
-  },
-  "Southside": {
-    "lat": 34.796802,
-    "lng": -82.403769,
-    "city": "Greenville"
-  },
-  "Southside Christian": {
-    "lat": 34.72249,
-    "lng": -82.25531,
-    "city": "Simpsonville"
-  },
-  "Spartanburg": {
-    "lat": 34.97958,
-    "lng": -81.879378,
-    "city": "Spartanburg"
-  },
-  "Spring Valley": {
-    "lat": 34.111321,
-    "lng": -80.883447,
-    "city": "Columbia"
-  },
-  "St. James": {
-    "lat": 33.61546,
-    "lng": -79.052579,
-    "city": "Murrells Inlet"
+  "Allendale-Fairfax": {
+    "lat": 32.95938,
+    "lng": -81.23623,
+    "city": "Fairfax"
   },
   "St. John's": {
-    "lat": 32.724739,
-    "lng": -80.098504,
+    "lat": 32.72249,
+    "lng": -80.07717,
     "city": "John's Island"
   },
-  "St. Joseph's Catholic": {
-    "lat": 34.8369,
-    "lng": -82.35668,
-    "city": "Greenville"
+  "Military Magnet Academy": {
+    "lat": 32.91626,
+    "lng": -80.06078,
+    "city": "North Charleston"
   },
-  "Stall": {
-    "lat": 32.829,
-    "lng": -79.9683,
-    "city": "Charleston"
-  },
-  "Stratford": {
-    "lat": 33.014376,
-    "lng": -80.084803,
-    "city": "Goose Creek"
-  },
-  "Strom Thurmond": {
-    "lat": 33.807773,
-    "lng": -81.864163,
-    "city": "Johnston"
-  },
-  "Summerville": {
-    "lat": 32.994213,
-    "lng": -80.218677,
-    "city": "Summerville"
-  },
-  "Sumter": {
-    "lat": 33.89808,
-    "lng": -80.391801,
-    "city": "Sumter"
-  },
-  "Swansea": {
-    "lat": 33.736514,
-    "lng": -81.094115,
-    "city": "Swansea"
-  },
-  "T.L. Hanna": {
-    "lat": 34.567223,
-    "lng": -82.623533,
-    "city": "Anderson"
+  "Ware Shoals": {
+    "lat": 34.38781,
+    "lng": -82.24327,
+    "city": "Ware Shoals"
   },
   "Thornwell": {
     "lat": 34.47348,
     "lng": -81.86322,
     "city": "Clinton"
   },
-  "Timberland": {
-    "lat": 33.337134,
-    "lng": -79.890857,
-    "city": "St. Stephen"
-  },
-  "Travelers Rest": {
-    "lat": 34.97056,
-    "lng": -82.449451,
-    "city": "Travelers Rest"
-  },
-  "Union County": {
-    "lat": 34.750298,
-    "lng": -81.605074,
-    "city": "Union"
-  },
-  "Waccamaw": {
-    "lat": 33.451182,
-    "lng": -79.146328,
-    "city": "Pawley's Island"
-  },
-  "Wade Hampton": {
-    "lat": 34.88629,
-    "lng": -82.355727,
-    "city": "Greenville"
-  },
-  "Wagener-Salley": {
-    "lat": 33.6513,
-    "lng": -81.3626,
-    "city": "Wagener"
-  },
-  "Walhalla": {
-    "lat": 34.816726,
-    "lng": -83.040434,
-    "city": "Walhalla"
-  },
-  "Wando": {
-    "lat": 32.885527,
-    "lng": -79.759186,
-    "city": "Mt. Pleasant"
-  },
-  "Ware Shoals": {
-    "lat": 34.393145,
-    "lng": -82.238603,
-    "city": "Ware Shoals"
-  },
-  "West Ashley": {
-    "lat": 32.819554,
-    "lng": -80.074886,
+  "Burke": {
+    "lat": 32.82975,
+    "lng": -79.97104,
     "city": "Charleston"
-  },
-  "West Florence": {
-    "lat": 34.194865,
-    "lng": -79.823758,
-    "city": "Florence"
-  },
-  "West-Oak": {
-    "lat": 34.620998,
-    "lng": -83.052625,
-    "city": "Westminster"
-  },
-  "Westside": {
-    "lat": 34.517665,
-    "lng": -82.689659,
-    "city": "Anderson"
-  },
-  "Westwood": {
-    "lat": 34.167847,
-    "lng": -80.980653,
-    "city": "Blythewood"
-  },
-  "Whale Branch": {
-    "lat": 32.52182,
-    "lng": -80.759358,
-    "city": "Seabrook"
-  },
-  "White Knoll": {
-    "lat": 33.905374,
-    "lng": -81.234322,
-    "city": "Lexington"
-  },
-  "Whitmire": {
-    "lat": 34.477779,
-    "lng": -81.634724,
-    "city": "Whitmire"
-  },
-  "Wilson": {
-    "lat": 34.220129,
-    "lng": -79.730405,
-    "city": "Florence"
-  },
-  "Woodland": {
-    "lat": 33.167572,
-    "lng": -80.492451,
-    "city": "Dorchester"
-  },
-  "Woodmont": {
-    "lat": 34.688724,
-    "lng": -82.359002,
-    "city": "Piedmont"
-  },
-  "Woodruff": {
-    "lat": 34.73214,
-    "lng": -82.022624,
-    "city": "Woodruff"
-  },
-  "Wren": {
-    "lat": 34.721781,
-    "lng": -82.545469,
-    "city": "Piedmont"
-  },
-  "York": {
-    "lat": 35.01426,
-    "lng": -81.226249,
-    "city": "York"
   }
 }

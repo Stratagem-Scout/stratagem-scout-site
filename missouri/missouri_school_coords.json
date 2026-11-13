@@ -1,1367 +1,652 @@
 {
-  "Adrian": {
-    "lat": 38.399286,
-    "lng": -94.348194,
-    "city": "Adrian"
-  },
-  "Affton": {
-    "lat": 38.559589,
-    "lng": -90.324386,
-    "city": "St. Louis"
-  },
-  "Ash Grove": {
-    "lat": 37.315206,
-    "lng": -93.577678,
-    "city": "Ash Grove"
-  },
-  "Aurora": {
-    "lat": 36.956109,
-    "lng": -93.725915,
-    "city": "Aurora"
-  },
-  "Ava": {
-    "lat": 36.957246,
-    "lng": -92.658763,
-    "city": "Ava"
-  },
-  "Battle": {
-    "lat": 38.9453,
-    "lng": -92.32453,
-    "city": "Columbia"
-  },
-  "Bayless/Hancock": {
-    "lat": 38.63208,
-    "lng": -90.24452,
-    "city": "St. Louis"
-  },
-  "Belton": {
-    "lat": 38.813735,
-    "lng": -94.552162,
-    "city": "Belton"
-  },
-  "Benton": {
-    "lat": 39.714713,
-    "lng": -94.854642,
-    "city": "St. Joseph"
-  },
-  "Blair Oaks": {
-    "lat": 38.490765,
-    "lng": -92.173647,
-    "city": "Jefferson City"
+  "Jackson": {
+    "lat": 37.38002,
+    "lng": -89.64847,
+    "city": "Jackson"
   },
   "Blue Springs": {
-    "lat": 39.027389,
-    "lng": -94.286936,
+    "lat": 39.00641,
+    "lng": -94.26732,
     "city": "Blue Springs"
-  },
-  "Blue Springs South": {
-    "lat": 39.003824,
-    "lng": -94.252841,
-    "city": "Blue Springs"
-  },
-  "Bolivar": {
-    "lat": 37.625441,
-    "lng": -93.394793,
-    "city": "Bolivar"
-  },
-  "Boonville": {
-    "lat": 38.940625,
-    "lng": -92.769816,
-    "city": "Boonville"
-  },
-  "Bowling Green": {
-    "lat": 39.336671,
-    "lng": -91.201474,
-    "city": "Bowling Green"
-  },
-  "Branson": {
-    "lat": 36.698054,
-    "lng": -93.232369,
-    "city": "Branson"
-  },
-  "Brookfield": {
-    "lat": 39.783039,
-    "lng": -93.101338,
-    "city": "Brookfield"
-  },
-  "Buffalo": {
-    "lat": 37.643074,
-    "lng": -93.096503,
-    "city": "Buffalo"
-  },
-  "Butler": {
-    "lat": 38.251448,
-    "lng": -94.336833,
-    "city": "Butler"
-  },
-  "Cabool": {
-    "lat": 37.126652,
-    "lng": -92.104242,
-    "city": "Cabool"
-  },
-  "California": {
-    "lat": 38.63473,
-    "lng": -92.593246,
-    "city": "California"
-  },
-  "Camdenton": {
-    "lat": 38.013131,
-    "lng": -92.728979,
-    "city": "Camdenton"
-  },
-  "Cameron": {
-    "lat": 39.729396,
-    "lng": -94.241298,
-    "city": "Cameron"
-  },
-  "Capital City": {
-    "lat": 38.562824,
-    "lng": -92.220391,
-    "city": "Jefferson City"
-  },
-  "Cardinal Ritter College Prep": {
-    "lat": 38.63155,
-    "lng": -90.24679,
-    "city": "St. Louis"
-  },
-  "Carl Junction": {
-    "lat": 37.179621,
-    "lng": -94.57531,
-    "city": "Carl Junction"
-  },
-  "Carrollton": {
-    "lat": 39.368789,
-    "lng": -93.49008,
-    "city": "Carrollton"
-  },
-  "Carthage": {
-    "lat": 37.145509,
-    "lng": -94.299101,
-    "city": "Carthage"
-  },
-  "Caruthersville": {
-    "lat": 36.180396,
-    "lng": -89.664381,
-    "city": "Caruthersville"
-  },
-  "Cassville": {
-    "lat": 36.690375,
-    "lng": -93.86277,
-    "city": "Cassville"
-  },
-  "Center": {
-    "lat": 39.12448,
-    "lng": -94.55238,
-    "city": "Kansas City"
-  },
-  "Central": {
-    "lat": 37.276811,
-    "lng": -89.565026,
-    "city": "Cape Girardeau"
-  },
-  "Centralia": {
-    "lat": 39.200584,
-    "lng": -92.135447,
-    "city": "Centralia"
-  },
-  "Chaminade College Prep": {
-    "lat": 38.650411,
-    "lng": -90.405478,
-    "city": "St. Louis"
-  },
-  "Charleston": {
-    "lat": 36.916174,
-    "lng": -89.336137,
-    "city": "Charleston"
-  },
-  "Chillicothe": {
-    "lat": 39.820958,
-    "lng": -93.555941,
-    "city": "Chillicothe"
-  },
-  "Chrisman": {
-    "lat": 39.08346,
-    "lng": -94.34685,
-    "city": "Independence"
   },
   "Christian Brothers College": {
     "lat": 38.63721,
     "lng": -90.24301,
     "city": "St. Louis"
   },
-  "Clark County": {
-    "lat": 40.418967,
-    "lng": -91.712251,
-    "city": "Kahoka"
-  },
-  "Clayton/Brentwood": {
-    "lat": 38.649756,
-    "lng": -90.346746,
-    "city": "Clayton"
-  },
-  "Clever": {
-    "lat": 37.036446,
-    "lng": -93.464708,
-    "city": "Clever"
-  },
-  "Clinton": {
-    "lat": 38.357606,
-    "lng": -93.771381,
-    "city": "Clinton"
-  },
-  "Cole Camp": {
-    "lat": 38.455937,
-    "lng": -93.209675,
-    "city": "Cole Camp"
-  },
-  "Confluence Prep Academy": {
-    "lat": 38.631015,
-    "lng": -90.200823,
-    "city": "St. Louis"
-  },
-  "Crest Ridge/Chilhowee": {
-    "lat": 38.74602,
-    "lng": -93.84427,
-    "city": "Centerview"
-  },
-  "Crystal City": {
-    "lat": 38.231361,
-    "lng": -90.378038,
-    "city": "Crystal City"
-  },
-  "Cuba": {
-    "lat": 38.053995,
-    "lng": -91.404944,
-    "city": "Cuba"
+  "Raymore-Peculiar": {
+    "lat": 38.73083,
+    "lng": -94.4686,
+    "city": "Peculiar"
   },
   "De Smet Jesuit": {
     "lat": 38.63407,
     "lng": -90.24197,
     "city": "St. Louis"
   },
-  "DeSoto": {
-    "lat": 38.134282,
-    "lng": -90.568958,
-    "city": "Desoto"
-  },
-  "Dexter": {
-    "lat": 36.787696,
-    "lng": -89.974729,
-    "city": "Dexter"
-  },
-  "Diamond": {
-    "lat": 36.988981,
-    "lng": -94.313491,
-    "city": "Diamond"
-  },
-  "Doniphan": {
-    "lat": 36.626135,
-    "lng": -90.816741,
-    "city": "Doniphan"
-  },
-  "Duchesne": {
-    "lat": 38.79225,
-    "lng": -90.51881,
-    "city": "St. Charles"
-  },
-  "East": {
-    "lat": 39.087988,
-    "lng": -94.521262,
-    "city": "Kansas City"
-  },
-  "East Buchanan": {
-    "lat": 39.608314,
-    "lng": -94.59583,
-    "city": "Gower"
-  },
-  "East Newton": {
-    "lat": 36.878431,
-    "lng": -94.229617,
-    "city": "Granby"
-  },
-  "East Prairie": {
-    "lat": 36.775157,
-    "lng": -89.379125,
-    "city": "East Prairie"
-  },
-  "El Dorado Springs": {
-    "lat": 37.868524,
-    "lng": -94.018809,
-    "city": "El Dorado Springs"
-  },
-  "Eldon": {
-    "lat": 38.349672,
-    "lng": -92.582556,
-    "city": "Eldon"
-  },
-  "Eureka": {
-    "lat": 38.515477,
-    "lng": -90.628717,
-    "city": "Eureka"
-  },
-  "Excelsior Springs": {
-    "lat": 39.348414,
-    "lng": -94.245514,
-    "city": "Excelsior Springs"
-  },
-  "Fair Grove": {
-    "lat": 37.387643,
-    "lng": -93.149044,
-    "city": "Fair Grove"
-  },
-  "Farmington": {
-    "lat": 37.779039,
-    "lng": -90.437263,
-    "city": "Farmington"
-  },
-  "Father Tolton": {
-    "lat": 38.94745,
-    "lng": -92.33091,
-    "city": "Columbia"
-  },
-  "Fayette": {
-    "lat": 39.150248,
-    "lng": -92.691806,
-    "city": "Fayette"
-  },
-  "Festus": {
-    "lat": 38.224401,
-    "lng": -90.414894,
-    "city": "Festus"
-  },
-  "Forsyth": {
-    "lat": 36.695787,
-    "lng": -93.117842,
-    "city": "Forsyth"
-  },
-  "Fort Osage": {
-    "lat": 39.138321,
-    "lng": -94.291331,
-    "city": "Independence"
-  },
-  "Fort Zumwalt East": {
-    "lat": 38.78707,
-    "lng": -90.60644,
-    "city": "St. Peters"
-  },
-  "Fort Zumwalt North": {
-    "lat": 38.78325,
-    "lng": -90.71863,
-    "city": "O'Fallon"
-  },
-  "Fort Zumwalt South": {
-    "lat": 38.78978,
-    "lng": -90.60595,
-    "city": "St. Peters"
-  },
-  "Fort Zumwalt West": {
-    "lat": 38.78271,
-    "lng": -90.71978,
-    "city": "O'Fallon"
-  },
-  "Fox": {
-    "lat": 38.449888,
-    "lng": -90.371028,
-    "city": "Arnold"
-  },
-  "Fredericktown": {
-    "lat": 37.565688,
-    "lng": -90.278338,
-    "city": "Fredericktown"
-  },
-  "Fulton": {
-    "lat": 38.872005,
-    "lng": -91.941207,
-    "city": "Fulton"
-  },
-  "Gallatin/Tri-County": {
-    "lat": 39.91035,
-    "lng": -93.96401,
-    "city": "Gallatin"
-  },
-  "Gateway Tech": {
-    "lat": 38.621722,
-    "lng": -90.269741,
-    "city": "St. Louis"
-  },
-  "Glendale": {
-    "lat": 37.163375,
-    "lng": -93.227327,
-    "city": "Springfield"
-  },
-  "Grain Valley": {
-    "lat": 39.009076,
-    "lng": -94.206697,
-    "city": "Grain Valley"
-  },
-  "Grandview": {
-    "lat": 38.88801,
-    "lng": -94.514937,
-    "city": "Grandview"
-  },
-  "Hallsville": {
-    "lat": 39.118844,
-    "lng": -92.226947,
-    "city": "Hallsville"
-  },
-  "Hannibal": {
-    "lat": 39.7213,
-    "lng": -91.39075,
-    "city": "Hannibal"
-  },
-  "Harrisburg": {
-    "lat": 39.13502,
-    "lng": -92.463008,
-    "city": "Harrisburg"
-  },
-  "Harrisonville": {
-    "lat": 38.658182,
-    "lng": -94.335873,
-    "city": "Harrisonville"
-  },
-  "Hayti": {
-    "lat": 36.238908,
-    "lng": -89.747337,
-    "city": "Hayti"
-  },
-  "Hazelwood Central": {
-    "lat": 38.830866,
-    "lng": -90.315368,
-    "city": "Florissant"
-  },
-  "Hazelwood East": {
-    "lat": 38.776104,
-    "lng": -90.235529,
-    "city": "St. Louis"
-  },
-  "Hazelwood West": {
-    "lat": 38.786356,
-    "lng": -90.381776,
-    "city": "Hazelwood"
-  },
-  "Helias": {
-    "lat": 38.56456,
-    "lng": -92.17939,
-    "city": "Jefferson City"
-  },
-  "Herculaneum": {
-    "lat": 38.266964,
-    "lng": -90.379428,
-    "city": "Herculaneum"
-  },
-  "Hermann": {
-    "lat": 38.686836,
-    "lng": -91.44422,
-    "city": "Hermann"
-  },
-  "Hickman": {
-    "lat": 38.94982,
-    "lng": -92.32844,
-    "city": "Columbia"
-  },
-  "Highland": {
-    "lat": 40.033738,
-    "lng": -91.734539,
-    "city": "Lewistown"
-  },
-  "Hillcrest": {
-    "lat": 37.257624,
-    "lng": -93.298931,
-    "city": "Springfield"
-  },
-  "Hillsboro": {
-    "lat": 38.24146,
-    "lng": -90.569991,
-    "city": "Hillsboro"
-  },
-  "Hogan Prep Charter": {
-    "lat": 39.010566,
-    "lng": -94.572345,
-    "city": "Kansas City"
-  },
-  "Holden": {
-    "lat": 38.701954,
-    "lng": -93.989208,
-    "city": "Holden"
-  },
-  "Hollister": {
-    "lat": 36.621752,
-    "lng": -93.191881,
-    "city": "Hollister"
-  },
-  "Holt": {
-    "lat": 38.81196,
-    "lng": -90.87267,
-    "city": "Wentzville"
-  },
-  "Houston": {
-    "lat": 37.326277,
-    "lng": -91.961147,
-    "city": "Houston"
-  },
-  "Howell": {
-    "lat": 38.79756,
-    "lng": -90.51709,
-    "city": "St. Charles"
-  },
-  "Howell Central": {
-    "lat": 38.79533,
-    "lng": -90.51303,
-    "city": "St. Charles"
-  },
-  "Howell North": {
-    "lat": 38.79266,
-    "lng": -90.51375,
-    "city": "St. Charles"
-  },
-  "Jackson": {
-    "lat": 37.379512,
-    "lng": -89.670703,
-    "city": "Jackson"
-  },
-  "Jefferson": {
-    "lat": 38.159439,
-    "lng": -90.347039,
-    "city": "Festus"
-  },
-  "Jefferson City": {
-    "lat": 38.562677,
-    "lng": -92.176627,
-    "city": "Jefferson City"
-  },
-  "Jennings": {
-    "lat": 38.727168,
-    "lng": -90.255518,
-    "city": "Jennings"
-  },
-  "John Burroughs": {
-    "lat": 38.63744,
-    "lng": -90.23888,
-    "city": "St. Louis"
-  },
-  "Joplin": {
-    "lat": 37.068489,
-    "lng": -94.50854,
-    "city": "Joplin"
-  },
-  "KIPP Legacy": {
-    "lat": 39.12302,
-    "lng": -94.55324,
-    "city": "Kansas City"
-  },
-  "Kearney": {
-    "lat": 39.351815,
-    "lng": -94.349811,
-    "city": "Kearney"
-  },
-  "Kelly": {
-    "lat": 37.045783,
-    "lng": -89.474662,
-    "city": "Benton"
-  },
-  "Kennett": {
-    "lat": 36.239559,
-    "lng": -90.071618,
-    "city": "Kennett"
-  },
-  "Kickapoo": {
-    "lat": 37.146785,
-    "lng": -93.290143,
-    "city": "Springfield"
-  },
-  "Kirksville": {
-    "lat": 40.185167,
-    "lng": -92.566199,
-    "city": "Kirksville"
-  },
-  "Kirkwood": {
-    "lat": 38.591241,
-    "lng": -90.422272,
-    "city": "Kirkwood"
-  },
-  "Knob Noster/Leeton": {
-    "lat": 38.76733,
-    "lng": -93.56364,
-    "city": "Knob Noster"
-  },
-  "Ladue Horton Watkins": {
-    "lat": 38.640001,
-    "lng": -90.397307,
-    "city": "St. Louis"
-  },
-  "Lafayette": {
-    "lat": 38.595552,
-    "lng": -90.637533,
-    "city": "Wildwood"
-  },
-  "Lafayette County": {
-    "lat": 39.063334,
-    "lng": -93.730997,
-    "city": "Higginsville"
-  },
-  "Lamar": {
-    "lat": 37.501452,
-    "lng": -94.282071,
-    "city": "Lamar"
-  },
-  "Lathrop": {
-    "lat": 39.560063,
-    "lng": -94.330276,
-    "city": "Lathrop"
-  },
-  "Lawson": {
-    "lat": 39.443199,
-    "lng": -94.199978,
-    "city": "Lawson"
-  },
-  "Lebanon": {
-    "lat": 37.692239,
-    "lng": -92.679012,
-    "city": "Lebanon"
-  },
-  "Lee's Summit": {
-    "lat": 38.904082,
-    "lng": -94.366478,
-    "city": "Lees Summit"
-  },
-  "Lee's Summit North": {
-    "lat": 38.929338,
-    "lng": -94.377946,
-    "city": "Lee's Summit"
-  },
-  "Lee's Summit West": {
-    "lat": 38.872899,
-    "lng": -94.399678,
-    "city": "Lee's Summit"
-  },
-  "Lexington": {
-    "lat": 39.174212,
-    "lng": -93.867792,
-    "city": "Lexington"
-  },
-  "Liberty": {
-    "lat": 39.241028,
-    "lng": -94.447819,
-    "city": "Liberty"
-  },
-  "Liberty North": {
-    "lat": 39.2845,
-    "lng": -94.43262,
-    "city": "Liberty"
-  },
-  "Lift for Life Academy": {
-    "lat": 38.608525,
-    "lng": -90.200442,
-    "city": "St. Louis"
-  },
-  "Lincoln College Prep": {
-    "lat": 39.086879,
-    "lng": -94.560568,
-    "city": "Kansas City"
-  },
-  "Lindbergh": {
-    "lat": 38.529215,
-    "lng": -90.375228,
-    "city": "St. Louis"
-  },
-  "Linn": {
-    "lat": 38.463773,
-    "lng": -91.808807,
-    "city": "Linn"
-  },
-  "Logan-Rogersville": {
-    "lat": 37.123933,
-    "lng": -93.117633,
-    "city": "Rogersville"
-  },
-  "Lone Jack/Kingsville": {
-    "lat": 38.8709,
-    "lng": -94.18559,
-    "city": "Lone Jack"
-  },
-  "Louisiana": {
-    "lat": 39.432835,
-    "lng": -91.073727,
-    "city": "Louisiana"
-  },
-  "Lutheran": {
-    "lat": 38.78557,
-    "lng": -90.60358,
-    "city": "St. Peters"
-  },
-  "Lutheran North": {
-    "lat": 38.64126,
-    "lng": -90.24199,
-    "city": "St. Louis"
-  },
-  "Lutheran South": {
-    "lat": 38.63226,
-    "lng": -90.24346,
-    "city": "St. Louis"
-  },
-  "MICDS": {
-    "lat": 38.63357,
-    "lng": -90.24937,
-    "city": "St. Louis"
-  },
-  "Macon": {
-    "lat": 39.745673,
-    "lng": -92.463962,
-    "city": "Macon"
-  },
-  "Malden": {
-    "lat": 36.568362,
-    "lng": -89.974067,
-    "city": "Malden"
-  },
-  "Marceline": {
-    "lat": 39.714493,
-    "lng": -92.945051,
-    "city": "Marceline"
-  },
-  "Marionville": {
-    "lat": 37.014989,
-    "lng": -93.630189,
-    "city": "Marionville"
-  },
-  "Mark Twain": {
-    "lat": 39.51575,
-    "lng": -91.51257,
-    "city": "Center"
-  },
-  "Marquette": {
-    "lat": 38.623994,
-    "lng": -90.582974,
-    "city": "Chesterfield"
-  },
-  "Marshall": {
-    "lat": 39.113784,
-    "lng": -93.209996,
-    "city": "Marshall"
-  },
-  "Marshfield": {
-    "lat": 37.338189,
-    "lng": -92.887449,
-    "city": "Marshfield"
-  },
-  "Maryville": {
-    "lat": 40.329833,
-    "lng": -94.881773,
-    "city": "Maryville"
-  },
-  "Maysville": {
-    "lat": 39.890288,
-    "lng": -94.365014,
-    "city": "Maysville"
-  },
-  "McCluer": {
-    "lat": 38.771515,
-    "lng": -90.310775,
-    "city": "Florissant"
-  },
-  "McCluer North": {
-    "lat": 38.790139,
-    "lng": -90.303391,
-    "city": "Florissant"
-  },
-  "McDonald County": {
-    "lat": 36.643433,
-    "lng": -94.42608,
-    "city": "Anderson"
-  },
-  "Mehlville": {
-    "lat": 38.512524,
-    "lng": -90.314396,
-    "city": "St. Louis"
-  },
-  "Mexico": {
-    "lat": 39.177758,
-    "lng": -91.890789,
-    "city": "Mexico"
-  },
-  "Mid-Buchanan": {
-    "lat": 39.632745,
-    "lng": -94.813281,
-    "city": "Faucett"
-  },
-  "Milan": {
-    "lat": 40.20324,
-    "lng": -93.124,
-    "city": "Milan"
-  },
-  "Miller": {
-    "lat": 37.221039,
-    "lng": -93.843942,
-    "city": "Miller"
-  },
-  "Miller Career Academy/Sumner": {
-    "lat": 38.642568,
-    "lng": -90.228308,
-    "city": "St. Louis"
-  },
-  "Moberly": {
-    "lat": 39.39779,
-    "lng": -92.425159,
-    "city": "Moberly"
-  },
-  "Monett": {
-    "lat": 36.929692,
-    "lng": -93.907802,
-    "city": "Monett"
-  },
-  "Monroe City": {
-    "lat": 39.65439,
-    "lng": -91.73249,
-    "city": "Monroe City"
-  },
-  "Montgomery County": {
-    "lat": 38.951575,
-    "lng": -91.481658,
-    "city": "Montgomery City"
-  },
-  "Mountain Grove": {
-    "lat": 37.132193,
-    "lng": -92.262696,
-    "city": "Mountain Grove"
-  },
-  "Mt. Vernon": {
-    "lat": 37.113955,
-    "lng": -93.823756,
-    "city": "Mt Vernon"
-  },
-  "Neosho": {
-    "lat": 36.863674,
-    "lng": -94.380604,
-    "city": "Neosho"
-  },
-  "Nevada": {
-    "lat": 37.843792,
-    "lng": -94.366364,
-    "city": "Nevada"
-  },
-  "New Madrid County Central": {
-    "lat": 36.573395,
-    "lng": -89.585484,
-    "city": "New Madrid"
-  },
-  "Nixa": {
-    "lat": 37.032761,
-    "lng": -93.325321,
-    "city": "Nixa"
-  },
-  "Normandy": {
-    "lat": 38.682662,
-    "lng": -90.297349,
-    "city": "St. Louis"
-  },
-  "North Callaway": {
-    "lat": 38.960889,
-    "lng": -91.919375,
-    "city": "Kingdom City"
-  },
-  "North County": {
-    "lat": 37.908055,
-    "lng": -90.52433,
-    "city": "Bonne Terre"
-  },
-  "North Kansas City": {
-    "lat": 39.14572,
-    "lng": -94.573052,
-    "city": "Kansas City"
-  },
-  "North Platte": {
-    "lat": 39.525492,
-    "lng": -94.771037,
-    "city": "Dearborn"
-  },
-  "North Point": {
-    "lat": 38.83048,
-    "lng": -90.901906,
-    "city": "Wentzville"
-  },
-  "Northeast": {
-    "lat": 39.108388,
-    "lng": -94.525367,
-    "city": "Kansas City"
-  },
-  "Northwest": {
-    "lat": 38.371959,
-    "lng": -90.627436,
-    "city": "Cedar Hill"
-  },
-  "Oak Grove": {
-    "lat": 39.002494,
-    "lng": -94.120861,
-    "city": "Oak Grove"
-  },
-  "Oak Park": {
-    "lat": 39.23697,
-    "lng": -94.56976,
-    "city": "Kansas City"
-  },
-  "Oakville": {
-    "lat": 38.472186,
-    "lng": -90.321442,
-    "city": "St. Louis"
-  },
-  "Odessa": {
-    "lat": 38.98817,
-    "lng": -93.957354,
-    "city": "Odessa"
-  },
-  "Orchard Farm": {
-    "lat": 38.843415,
-    "lng": -90.478065,
-    "city": "St. Charles"
-  },
-  "Osage": {
-    "lat": 38.146914,
-    "lng": -92.590837,
-    "city": "Osage Beach"
-  },
-  "Owensville": {
-    "lat": 38.370913,
-    "lng": -91.479351,
-    "city": "Owensville"
-  },
-  "Ozark": {
-    "lat": 37.031745,
-    "lng": -93.218181,
-    "city": "Ozark"
-  },
-  "Pacific": {
-    "lat": 38.484658,
-    "lng": -90.780831,
-    "city": "Pacific"
-  },
-  "Palmyra": {
-    "lat": 39.784765,
-    "lng": -91.521143,
-    "city": "Palmyra"
-  },
-  "Park Hill": {
-    "lat": 39.245559,
-    "lng": -94.669277,
-    "city": "Kansas City"
-  },
-  "Park Hill South": {
-    "lat": 39.175477,
-    "lng": -94.62596,
-    "city": "Riverside"
-  },
-  "Parkview": {
-    "lat": 37.189641,
-    "lng": -93.296827,
-    "city": "Springfield"
-  },
-  "Parkway Central": {
-    "lat": 38.6587,
-    "lng": -90.57861,
-    "city": "Chesterfield"
-  },
-  "Parkway North": {
-    "lat": 38.63114,
-    "lng": -90.24344,
-    "city": "St. Louis"
-  },
-  "Parkway South": {
-    "lat": 38.58304,
-    "lng": -90.50646,
-    "city": "Manchester"
-  },
-  "Parkway West": {
-    "lat": 38.59473,
-    "lng": -90.54996,
-    "city": "Ballwin"
-  },
-  "Pattonville": {
-    "lat": 38.741748,
-    "lng": -90.454669,
-    "city": "Maryland Heights"
-  },
-  "Pembroke Hill": {
-    "lat": 39.12326,
-    "lng": -94.55093,
-    "city": "Kansas City"
-  },
-  "Penney": {
-    "lat": 39.751278,
-    "lng": -93.998757,
-    "city": "Hamilton"
-  },
-  "Perryville": {
-    "lat": 37.71965,
-    "lng": -89.860292,
-    "city": "Perryville"
-  },
-  "Pierce City": {
-    "lat": 36.948619,
-    "lng": -93.998943,
-    "city": "Pierce City"
-  },
-  "Platte County": {
-    "lat": 39.359198,
-    "lng": -94.771184,
-    "city": "Platte City"
-  },
-  "Plattsburg": {
-    "lat": 39.561254,
-    "lng": -94.457144,
-    "city": "Plattsburg"
-  },
-  "Pleasant Hill": {
-    "lat": 38.786789,
-    "lng": -94.253548,
-    "city": "Pleasant Hill"
-  },
-  "Pleasant Hope/Halfway/Early": {
-    "lat": 37.464595,
-    "lng": -93.273547,
-    "city": "Pleasant Hope"
-  },
-  "Poplar Bluff": {
-    "lat": 36.792234,
-    "lng": -90.451374,
-    "city": "Poplar Bluff"
-  },
-  "Portageville": {
-    "lat": 36.433703,
-    "lng": -89.69885,
-    "city": "Portageville"
-  },
-  "Potosi": {
-    "lat": 37.935495,
-    "lng": -90.792102,
-    "city": "Potosi"
-  },
-  "Principia": {
-    "lat": 38.6338,
-    "lng": -90.25042,
-    "city": "St. Louis"
-  },
-  "Priory": {
-    "lat": 38.63274,
-    "lng": -90.24823,
-    "city": "St. Louis"
-  },
-  "Putnam County": {
-    "lat": 40.469846,
-    "lng": -93.00611,
-    "city": "Unionville"
-  },
-  "Raymore-Peculiar": {
-    "lat": 38.745339,
-    "lng": -94.457777,
-    "city": "Peculiar"
-  },
-  "Raytown": {
-    "lat": 39.012603,
-    "lng": -94.460711,
-    "city": "Raytown"
-  },
-  "Raytown South": {
-    "lat": 38.973171,
-    "lng": -94.449914,
-    "city": "Raytown"
-  },
-  "Reeds Spring": {
-    "lat": 36.721358,
-    "lng": -93.383326,
-    "city": "Reeds Spring"
-  },
-  "Republic": {
-    "lat": 37.134874,
-    "lng": -93.413074,
-    "city": "Republic"
-  },
-  "Richmond": {
-    "lat": 39.269307,
-    "lng": -93.968149,
-    "city": "Richmond"
-  },
-  "Ritenour": {
-    "lat": 38.710206,
-    "lng": -90.357181,
-    "city": "St. Louis"
-  },
-  "Riverview Gardens": {
-    "lat": 38.755484,
-    "lng": -90.212361,
-    "city": "St. Louis"
-  },
-  "Rock Bridge": {
-    "lat": 38.902015,
-    "lng": -92.337066,
-    "city": "Columbia"
-  },
   "Rockhurst": {
     "lat": 39.12971,
     "lng": -94.54592,
     "city": "Kansas City"
   },
-  "Rockwood Summit": {
-    "lat": 38.517832,
-    "lng": -90.493794,
-    "city": "Fenton"
+  "Liberty North": {
+    "lat": 39.23968,
+    "lng": -94.42208,
+    "city": "Liberty"
   },
-  "Rolla": {
-    "lat": 37.950516,
-    "lng": -91.766336,
-    "city": "Rolla"
+  "Lee's Summit": {
+    "lat": 38.9216,
+    "lng": -94.38476,
+    "city": "Lees Summit"
   },
-  "Ruskin": {
-    "lat": 38.92309,
-    "lng": -94.50676,
-    "city": "Kansas City"
+  "Blue Springs South": {
+    "lat": 39.0146,
+    "lng": -94.27012,
+    "city": "Blue Springs"
   },
-  "Russellville": {
-    "lat": 38.509731,
-    "lng": -92.448664,
-    "city": "Russellville"
+  "Lee's Summit North": {
+    "lat": 38.92352,
+    "lng": -94.38643,
+    "city": "Lee's Summit"
   },
-  "Salem": {
-    "lat": 37.645277,
-    "lng": -91.552229,
-    "city": "Salem"
+  "North Kansas City": {
+    "lat": 39.13956,
+    "lng": -94.56475,
+    "city": "North Kansas City"
   },
-  "Salisbury": {
-    "lat": 39.414839,
-    "lng": -92.805241,
-    "city": "Salisbury"
-  },
-  "Sarcoxie": {
-    "lat": 37.068325,
-    "lng": -94.131711,
-    "city": "Sarcoxie"
-  },
-  "Savannah": {
-    "lat": 39.945958,
-    "lng": -94.817025,
-    "city": "Savannah"
-  },
-  "Saxony Lutheran": {
-    "lat": 37.38141,
-    "lng": -89.64886,
-    "city": "Jackson"
-  },
-  "Scotland County": {
-    "lat": 40.47213,
-    "lng": -92.17801,
-    "city": "Memphis"
-  },
-  "Scott City": {
-    "lat": 37.214154,
-    "lng": -89.548815,
-    "city": "Scott City"
-  },
-  "Seckman": {
-    "lat": 38.397985,
-    "lng": -90.428057,
-    "city": "Imperial"
-  },
-  "Seneca": {
-    "lat": 36.837882,
-    "lng": -94.606329,
-    "city": "Seneca"
-  },
-  "Sherwood": {
-    "lat": 38.507963,
-    "lng": -94.087257,
-    "city": "Creighton"
-  },
-  "Sikeston": {
-    "lat": 36.879322,
-    "lng": -89.57177,
-    "city": "Sikeston"
-  },
-  "Skyline": {
-    "lat": 37.909758,
-    "lng": -93.192674,
-    "city": "Urbana"
-  },
-  "Smith-Cotton": {
-    "lat": 38.672401,
-    "lng": -93.257606,
-    "city": "Sedalia"
-  },
-  "Smithville": {
-    "lat": 39.375214,
-    "lng": -94.576291,
-    "city": "Smithville"
-  },
-  "South Callaway": {
-    "lat": 38.687384,
-    "lng": -91.891909,
-    "city": "Mokane"
-  },
-  "South Harrison": {
-    "lat": 40.281314,
-    "lng": -94.017839,
-    "city": "Bethany"
-  },
-  "South Shelby": {
-    "lat": 39.709708,
-    "lng": -92.102206,
-    "city": "Shelbina"
-  },
-  "Southeast": {
-    "lat": 39.008784,
-    "lng": -94.545862,
-    "city": "Kansas City"
-  },
-  "Southern Boone": {
-    "lat": 38.779085,
-    "lng": -92.261313,
-    "city": "Ashland"
-  },
-  "Springfield Catholic": {
-    "lat": 37.19454,
-    "lng": -93.28995,
-    "city": "Springfield"
-  },
-  "St. Charles": {
-    "lat": 38.790967,
-    "lng": -90.489238,
-    "city": "St Charles"
-  },
-  "St. Charles West": {
-    "lat": 38.801284,
-    "lng": -90.532521,
-    "city": "St. Charles"
-  },
-  "St. Clair": {
-    "lat": 38.33637,
-    "lng": -90.979454,
-    "city": "St Clair"
-  },
-  "St. Dominic": {
-    "lat": 38.78023,
-    "lng": -90.72352,
-    "city": "O'Fallon"
-  },
-  "St. Francis Borgia": {
-    "lat": 38.54938,
-    "lng": -91.01091,
-    "city": "Washington"
-  },
-  "St. James": {
-    "lat": 37.996236,
-    "lng": -91.612466,
-    "city": "St James"
+  "Lee's Summit West": {
+    "lat": 38.92378,
+    "lng": -94.38718,
+    "city": "Lee's Summit"
   },
   "St. Louis University": {
     "lat": 38.63725,
     "lng": -90.24805,
     "city": "St. Louis"
   },
-  "St. Mary's South Side": {
-    "lat": 38.57456,
-    "lng": -90.249388,
-    "city": "St. Louis"
+  "Nixa": {
+    "lat": 37.04509,
+    "lng": -93.29591,
+    "city": "Nixa"
   },
-  "St. Michael the Archangel": {
-    "lat": 38.92409,
-    "lng": -94.38875,
-    "city": "Lee's Summit"
-  },
-  "St. Pius X": {
-    "lat": 39.12833,
-    "lng": -94.54638,
-    "city": "Kansas City"
-  },
-  "St. Vincent": {
-    "lat": 37.72605,
-    "lng": -89.88046,
-    "city": "Perryville"
-  },
-  "Staley": {
-    "lat": 39.28822,
-    "lng": -94.5437,
-    "city": "Kansas City"
-  },
-  "Ste. Genevieve": {
-    "lat": 37.982368,
-    "lng": -90.052545,
-    "city": "Ste Genevieve"
-  },
-  "Stockton/Sheldon": {
-    "lat": 37.680784,
-    "lng": -93.802177,
-    "city": "Stockton"
-  },
-  "Strafford": {
-    "lat": 37.271223,
-    "lng": -93.119002,
-    "city": "Strafford"
-  },
-  "Sullivan": {
-    "lat": 38.216424,
-    "lng": -91.138114,
-    "city": "Sullivan"
-  },
-  "Summit Christian Academy": {
-    "lat": 38.92245,
-    "lng": -94.38957,
-    "city": "Lee's Summit"
-  },
-  "Thayer": {
-    "lat": 36.524468,
-    "lng": -91.52977,
-    "city": "Thayer"
-  },
-  "Timberland": {
-    "lat": 38.773755,
-    "lng": -90.845189,
-    "city": "Wentzville"
-  },
-  "Tipton": {
-    "lat": 38.652199,
-    "lng": -92.778892,
-    "city": "Tipton"
-  },
-  "Trenton": {
-    "lat": 40.079994,
-    "lng": -93.602109,
-    "city": "Trenton"
+  "Kirkwood": {
+    "lat": 38.58187,
+    "lng": -90.42233,
+    "city": "Kirkwood"
   },
   "Troy-Buchanan": {
-    "lat": 38.976133,
-    "lng": -90.960012,
+    "lat": 38.96999,
+    "lng": -90.96747,
     "city": "Troy"
   },
-  "Truman": {
-    "lat": 39.059428,
-    "lng": -94.413464,
-    "city": "Independence"
+  "Rock Bridge": {
+    "lat": 38.94942,
+    "lng": -92.32777,
+    "city": "Columbia"
+  },
+  "Pattonville": {
+    "lat": 38.71677,
+    "lng": -90.47184,
+    "city": "Maryland Heights"
+  },
+  "Oak Park": {
+    "lat": 39.12794,
+    "lng": -94.54722,
+    "city": "Kansas City"
+  },
+  "Park Hill": {
+    "lat": 39.12588,
+    "lng": -94.5555,
+    "city": "Kansas City"
+  },
+  "Staley": {
+    "lat": 39.12136,
+    "lng": -94.55241,
+    "city": "Kansas City"
+  },
+  "Howell": {
+    "lat": 38.79756,
+    "lng": -90.51709,
+    "city": "St. Charles"
+  },
+  "Hickman": {
+    "lat": 38.94982,
+    "lng": -92.32844,
+    "city": "Columbia"
+  },
+  "Seckman": {
+    "lat": 38.3547,
+    "lng": -90.383,
+    "city": "Imperial"
+  },
+  "Northwest": {
+    "lat": 38.35754,
+    "lng": -90.64096,
+    "city": "Cedar Hill"
+  },
+  "Lindbergh": {
+    "lat": 38.63876,
+    "lng": -90.23905,
+    "city": "St. Louis"
+  },
+  "Oakville": {
+    "lat": 38.63374,
+    "lng": -90.24132,
+    "city": "St. Louis"
+  },
+  "Liberty": {
+    "lat": 38.82139,
+    "lng": -90.87339,
+    "city": "Wentzville"
+  },
+  "Marquette": {
+    "lat": 38.65971,
+    "lng": -90.58113,
+    "city": "Chesterfield"
+  },
+  "Lafayette": {
+    "lat": 38.57707,
+    "lng": -90.66781,
+    "city": "Wildwood"
+  },
+  "Fort Zumwalt West": {
+    "lat": 38.78271,
+    "lng": -90.71978,
+    "city": "O'Fallon"
+  },
+  "Ritenour": {
+    "lat": 38.69595,
+    "lng": -90.36835,
+    "city": "Overland"
+  },
+  "Ozark": {
+    "lat": 37.0336,
+    "lng": -93.21804,
+    "city": "Ozark"
+  },
+  "Joplin": {
+    "lat": 37.07522,
+    "lng": -94.50126,
+    "city": "Joplin"
+  },
+  "Park Hill South": {
+    "lat": 39.17218,
+    "lng": -94.6325,
+    "city": "Riverside"
+  },
+  "Central": {
+    "lat": 37.30939,
+    "lng": -89.55836,
+    "city": "Cape Girardeau"
+  },
+  "Howell Central": {
+    "lat": 38.79533,
+    "lng": -90.51303,
+    "city": "St. Charles"
+  },
+  "Hazelwood West": {
+    "lat": 38.79471,
+    "lng": -90.396,
+    "city": "Hazelwood"
+  },
+  "Kickapoo": {
+    "lat": 37.19432,
+    "lng": -93.29572,
+    "city": "Springfield"
+  },
+  "Waynesville": {
+    "lat": 37.81943,
+    "lng": -92.21926,
+    "city": "Waynesville"
+  },
+  "Howell North": {
+    "lat": 38.79266,
+    "lng": -90.51375,
+    "city": "St. Charles"
+  },
+  "Kearney": {
+    "lat": 39.35511,
+    "lng": -94.35858,
+    "city": "Kearney"
+  },
+  "Savannah": {
+    "lat": 39.93879,
+    "lng": -94.82805,
+    "city": "Savannah"
+  },
+  "Lift for Life Academy": {
+    "lat": 38.63645,
+    "lng": -90.24273,
+    "city": "St. Louis"
+  },
+  "Festus": {
+    "lat": 38.2189,
+    "lng": -90.4076,
+    "city": "Festus"
+  },
+  "Logan-Rogersville": {
+    "lat": 37.11485,
+    "lng": -93.07478,
+    "city": "Rogersville"
+  },
+  "Warrensburg": {
+    "lat": 38.76238,
+    "lng": -93.72534,
+    "city": "Warrensburg"
+  },
+  "Hannibal": {
+    "lat": 39.71021,
+    "lng": -91.39404,
+    "city": "Hannibal"
+  },
+  "Moberly": {
+    "lat": 39.41811,
+    "lng": -92.43654,
+    "city": "Moberly"
+  },
+  "University City": {
+    "lat": 38.63164,
+    "lng": -90.24942,
+    "city": "St. Louis"
+  },
+  "Smithville": {
+    "lat": 39.39687,
+    "lng": -94.57099,
+    "city": "Smithville"
+  },
+  "Odessa": {
+    "lat": 38.9994,
+    "lng": -93.9664,
+    "city": "Odessa"
+  },
+  "Sikeston": {
+    "lat": 36.88373,
+    "lng": -89.5872,
+    "city": "Sikeston"
+  },
+  "Hillsboro": {
+    "lat": 38.23255,
+    "lng": -90.57044,
+    "city": "Hillsboro"
+  },
+  "Pleasant Hill": {
+    "lat": 38.80597,
+    "lng": -94.27228,
+    "city": "Pleasant Hill"
+  },
+  "Carl Junction": {
+    "lat": 37.16416,
+    "lng": -94.54265,
+    "city": "Carl Junction"
   },
   "Union": {
-    "lat": 38.447927,
-    "lng": -91.030066,
+    "lat": 38.43788,
+    "lng": -90.9958,
     "city": "Union"
+  },
+  "St. Charles West": {
+    "lat": 38.79122,
+    "lng": -90.51473,
+    "city": "St. Charles"
+  },
+  "Sullivan": {
+    "lat": 38.21279,
+    "lng": -91.16365,
+    "city": "Sullivan"
+  },
+  "Parkway North": {
+    "lat": 38.63114,
+    "lng": -90.24344,
+    "city": "St. Louis"
+  },
+  "Vianney": {
+    "lat": 38.58375,
+    "lng": -90.41633,
+    "city": "Kirkwood"
+  },
+  "North County": {
+    "lat": 37.9211,
+    "lng": -90.54268,
+    "city": "Bonne Terre"
+  },
+  "Bolivar": {
+    "lat": 37.6067,
+    "lng": -93.41671,
+    "city": "Bolivar"
+  },
+  "Harrisonville": {
+    "lat": 38.65016,
+    "lng": -94.35048,
+    "city": "Harrisonville"
+  },
+  "Monett": {
+    "lat": 36.92147,
+    "lng": -93.92711,
+    "city": "Monett"
+  },
+  "Warrenton": {
+    "lat": 38.81906,
+    "lng": -91.13793,
+    "city": "Warrenton"
+  },
+  "DeSoto": {
+    "lat": 38.14107,
+    "lng": -90.56083,
+    "city": "Desoto"
+  },
+  "Kirksville": {
+    "lat": 40.19817,
+    "lng": -92.57456,
+    "city": "Kirksville"
+  },
+  "Westminster Christian": {
+    "lat": 38.63444,
+    "lng": -90.23987,
+    "city": "St. Louis"
+  },
+  "Orchard Farm": {
+    "lat": 38.79986,
+    "lng": -90.51713,
+    "city": "St. Charles"
+  },
+  "Osage": {
+    "lat": 38.13365,
+    "lng": -92.58991,
+    "city": "Kaiser"
+  },
+  "McDonald County": {
+    "lat": 36.65315,
+    "lng": -94.44409,
+    "city": "Anderson"
+  },
+  "Benton": {
+    "lat": 39.75902,
+    "lng": -94.81864,
+    "city": "St. Joseph"
+  },
+  "Raytown South": {
+    "lat": 38.99599,
+    "lng": -94.46406,
+    "city": "Raytown"
+  },
+  "Mexico": {
+    "lat": 39.16217,
+    "lng": -91.87277,
+    "city": "Mexico"
+  },
+  "Hillcrest": {
+    "lat": 37.19517,
+    "lng": -93.2886,
+    "city": "Springfield"
+  },
+  "Marshfield": {
+    "lat": 37.3422,
+    "lng": -92.91104,
+    "city": "Marshfield"
+  },
+  "Gateway Tech": {
+    "lat": 38.63091,
+    "lng": -90.24781,
+    "city": "St. Louis"
+  },
+  "Van Horn": {
+    "lat": 39.08319,
+    "lng": -94.34797,
+    "city": "Independence"
+  },
+  "Holt": {
+    "lat": 38.81196,
+    "lng": -90.87267,
+    "city": "Wentzville"
+  },
+  "Windsor": {
+    "lat": 38.53227,
+    "lng": -93.52295,
+    "city": "Windsor"
+  },
+  "Riverview Gardens": {
+    "lat": 38.64058,
+    "lng": -90.24449,
+    "city": "St. Louis"
+  },
+  "Jennings": {
+    "lat": 38.72308,
+    "lng": -90.26437,
+    "city": "Jennings"
   },
   "University Academy Charter/Kauffman": {
     "lat": 39.12673,
     "lng": -94.54746,
     "city": "Kansas City"
   },
-  "University City": {
-    "lat": 38.665185,
-    "lng": -90.32952,
-    "city": "University City"
+  "Pacific": {
+    "lat": 38.47972,
+    "lng": -90.74945,
+    "city": "Pacific"
   },
-  "Valle Catholic": {
-    "lat": 37.96919,
-    "lng": -90.05122,
-    "city": "Ste. Genevieve"
+  "Excelsior Springs": {
+    "lat": 39.33993,
+    "lng": -94.24099,
+    "city": "Excelsior Springs"
   },
-  "Van Horn": {
-    "lat": 39.096059,
-    "lng": -94.463093,
-    "city": "Independnce"
+  "Marshall": {
+    "lat": 39.11509,
+    "lng": -93.20247,
+    "city": "Marshall"
+  },
+  "Affton": {
+    "lat": 38.63322,
+    "lng": -90.24511,
+    "city": "St. Louis"
+  },
+  "St. Charles": {
+    "lat": 38.79724,
+    "lng": -90.52112,
+    "city": "St Charles"
+  },
+  "Bayless/Hancock": {
+    "lat": 38.63208,
+    "lng": -90.24452,
+    "city": "St. Louis"
+  },
+  "Knob Noster/Leeton": {
+    "lat": 38.76733,
+    "lng": -93.56364,
+    "city": "Knob Noster"
+  },
+  "Northeast": {
+    "lat": 39.12349,
+    "lng": -94.5549,
+    "city": "Kansas City"
+  },
+  "Clayton/Brentwood": {
+    "lat": 38.6367,
+    "lng": -90.23944,
+    "city": "St. Louis"
+  },
+  "East": {
+    "lat": 39.11883,
+    "lng": -94.55042,
+    "city": "Kansas City"
+  },
+  "Southeast": {
+    "lat": 39.12308,
+    "lng": -94.54967,
+    "city": "Kansas City"
+  },
+  "Tipton": {
+    "lat": 38.65506,
+    "lng": -92.78127,
+    "city": "Tipton"
+  },
+  "Salisbury": {
+    "lat": 39.42333,
+    "lng": -92.80242,
+    "city": "Salisbury"
+  },
+  "Thayer": {
+    "lat": 36.52236,
+    "lng": -91.54078,
+    "city": "Thayer"
+  },
+  "Skyline": {
+    "lat": 37.84345,
+    "lng": -93.16756,
+    "city": "Urbana"
+  },
+  "Marionville": {
+    "lat": 37.0022,
+    "lng": -93.6356,
+    "city": "Marionville"
+  },
+  "Miller": {
+    "lat": 37.21514,
+    "lng": -93.84097,
+    "city": "Miller"
+  },
+  "Putnam County": {
+    "lat": 40.47571,
+    "lng": -93.00442,
+    "city": "Unionville"
+  },
+  "Russellville": {
+    "lat": 38.51235,
+    "lng": -92.43917,
+    "city": "Russellville"
+  },
+  "East Buchanan": {
+    "lat": 39.61317,
+    "lng": -94.59478,
+    "city": "Gower"
+  },
+  "Portageville": {
+    "lat": 36.42947,
+    "lng": -89.69934,
+    "city": "Portageville"
+  },
+  "Pierce City": {
+    "lat": 36.94688,
+    "lng": -94.00351,
+    "city": "Pierce City"
+  },
+  "North Platte": {
+    "lat": 39.52514,
+    "lng": -94.77197,
+    "city": "Dearborn"
+  },
+  "Carrollton": {
+    "lat": 39.36364,
+    "lng": -93.49506,
+    "city": "Carrollton"
+  },
+  "Louisiana": {
+    "lat": 39.44146,
+    "lng": -91.06203,
+    "city": "Louisiana"
+  },
+  "Marceline": {
+    "lat": 39.71752,
+    "lng": -92.94735,
+    "city": "Marceline"
+  },
+  "Penney": {
+    "lat": 39.74354,
+    "lng": -94.0024,
+    "city": "Hamilton"
+  },
+  "Gallatin/Tri-County": {
+    "lat": 39.91035,
+    "lng": -93.96401,
+    "city": "Gallatin"
+  },
+  "Ash Grove": {
+    "lat": 37.31853,
+    "lng": -93.57997,
+    "city": "Ash Grove"
+  },
+  "Hayti": {
+    "lat": 36.23253,
+    "lng": -89.74736,
+    "city": "Hayti"
+  },
+  "Scotland County": {
+    "lat": 40.4608,
+    "lng": -92.16993,
+    "city": "Memphis"
+  },
+  "Charleston": {
+    "lat": 36.91693,
+    "lng": -89.33391,
+    "city": "Charleston"
+  },
+  "Adrian": {
+    "lat": 38.39633,
+    "lng": -94.34295,
+    "city": "Adrian"
+  },
+  "South Shelby": {
+    "lat": 39.69302,
+    "lng": -92.03965,
+    "city": "Shelbina"
+  },
+  "Plattsburg": {
+    "lat": 39.55417,
+    "lng": -94.46336,
+    "city": "Plattsburg"
+  },
+  "Maysville": {
+    "lat": 39.88563,
+    "lng": -94.36899,
+    "city": "Maysville"
+  },
+  "Westran": {
+    "lat": 39.43643,
+    "lng": -92.54382,
+    "city": "Huntsville"
+  },
+  "Crest Ridge/Chilhowee": {
+    "lat": 38.74602,
+    "lng": -93.84427,
+    "city": "Centerview"
+  },
+  "Sherwood": {
+    "lat": 38.49656,
+    "lng": -94.07209,
+    "city": "Creighton"
+  },
+  "Diamond": {
+    "lat": 36.99707,
+    "lng": -94.31538,
+    "city": "Diamond"
+  },
+  "Fayette": {
+    "lat": 39.14729,
+    "lng": -92.68567,
+    "city": "Fayette"
+  },
+  "South Harrison": {
+    "lat": 40.26816,
+    "lng": -94.02982,
+    "city": "Bethany"
+  },
+  "Malden": {
+    "lat": 36.601,
+    "lng": -89.99751,
+    "city": "Malden"
+  },
+  "Principia": {
+    "lat": 38.6338,
+    "lng": -90.25042,
+    "city": "St. Louis"
+  },
+  "Harrisburg": {
+    "lat": 39.14024,
+    "lng": -92.45956,
+    "city": "Harrisburg"
   },
   "Van-Far": {
-    "lat": 39.300502,
-    "lng": -91.513199,
+    "lat": 39.30813,
+    "lng": -91.48949,
     "city": "Vandalia"
   },
   "Veritas Christian Academy": {
@@ -1369,99 +654,814 @@
     "lng": -90.72024,
     "city": "O'Fallon"
   },
-  "Versailles": {
-    "lat": 38.433834,
-    "lng": -92.856558,
-    "city": "Versailles"
+  "Cabool": {
+    "lat": 37.12648,
+    "lng": -92.10322,
+    "city": "Cabool"
   },
-  "Vianney": {
-    "lat": 38.58375,
-    "lng": -90.41633,
-    "city": "Kirkwood"
+  "Linn": {
+    "lat": 38.4788,
+    "lng": -91.84499,
+    "city": "Linn"
   },
-  "Warrensburg": {
-    "lat": 38.740475,
-    "lng": -93.710911,
-    "city": "Warrensburg"
+  "Crystal City": {
+    "lat": 38.22276,
+    "lng": -90.3815,
+    "city": "Crystal City"
   },
-  "Warrenton": {
-    "lat": 38.797986,
-    "lng": -91.139853,
-    "city": "Warrenton"
+  "Milan": {
+    "lat": 40.20324,
+    "lng": -93.124,
+    "city": "Milan"
   },
-  "Warsaw": {
-    "lat": 38.219844,
-    "lng": -93.335562,
-    "city": "Warsaw"
+  "Grandview": {
+    "lat": 38.23603,
+    "lng": -90.57075,
+    "city": "Hillsboro"
   },
-  "Washington": {
-    "lat": 38.547964,
-    "lng": -91.009187,
-    "city": "Washington"
-  },
-  "Waynesville": {
-    "lat": 37.813801,
-    "lng": -92.212218,
-    "city": "Waynesville"
-  },
-  "Webb City": {
-    "lat": 37.152446,
-    "lng": -94.472972,
-    "city": "Webb City"
-  },
-  "Webster Groves": {
-    "lat": 38.590081,
-    "lng": -90.348316,
-    "city": "St. Louis"
-  },
-  "West Plains": {
-    "lat": 36.734021,
-    "lng": -91.845089,
-    "city": "West Plains"
-  },
-  "West Platte": {
-    "lat": 39.418682,
-    "lng": -94.901165,
-    "city": "Weston"
-  },
-  "Westminster Christian": {
-    "lat": 38.63444,
-    "lng": -90.23987,
-    "city": "St. Louis"
-  },
-  "Westran": {
-    "lat": 39.429954,
-    "lng": -92.541851,
-    "city": "Huntsville"
-  },
-  "Willard": {
-    "lat": 37.301718,
-    "lng": -93.416757,
-    "city": "Willard"
-  },
-  "Willow Springs": {
-    "lat": 36.995652,
-    "lng": -91.970069,
-    "city": "Willow Springs"
-  },
-  "Windsor": {
-    "lat": 38.540271,
-    "lng": -93.524385,
-    "city": "Windsor"
-  },
-  "Winfield": {
-    "lat": 38.988993,
-    "lng": -90.750745,
-    "city": "Winfield"
-  },
-  "Winnetonka": {
-    "lat": 39.178992,
-    "lng": -94.509127,
+  "St. Pius X": {
+    "lat": 39.12833,
+    "lng": -94.54638,
     "city": "Kansas City"
   },
+  "Maryville": {
+    "lat": 40.34251,
+    "lng": -94.87005,
+    "city": "Maryville"
+  },
+  "Cassville": {
+    "lat": 36.6783,
+    "lng": -93.8681,
+    "city": "Cassville"
+  },
+  "Seneca": {
+    "lat": 36.84452,
+    "lng": -94.60924,
+    "city": "Seneca"
+  },
+  "Pembroke Hill": {
+    "lat": 39.12326,
+    "lng": -94.55093,
+    "city": "Kansas City"
+  },
+  "Mountain Grove": {
+    "lat": 37.13422,
+    "lng": -92.26629,
+    "city": "Mountain Grove"
+  },
+  "Southern Boone": {
+    "lat": 38.81246,
+    "lng": -92.23953,
+    "city": "Ashland"
+  },
+  "Hallsville": {
+    "lat": 39.11943,
+    "lng": -92.22676,
+    "city": "Hallsville"
+  },
+  "Lutheran North": {
+    "lat": 38.64126,
+    "lng": -90.24199,
+    "city": "St. Louis"
+  },
+  "Macon": {
+    "lat": 39.74223,
+    "lng": -92.47055,
+    "city": "Macon"
+  },
+  "Boonville": {
+    "lat": 38.96144,
+    "lng": -92.7462,
+    "city": "Boonville"
+  },
+  "Kennett": {
+    "lat": 36.24022,
+    "lng": -90.04722,
+    "city": "Kennett"
+  },
+  "MICDS": {
+    "lat": 38.63357,
+    "lng": -90.24937,
+    "city": "St. Louis"
+  },
+  "Dexter": {
+    "lat": 36.79282,
+    "lng": -89.96297,
+    "city": "Dexter"
+  },
+  "Oak Grove": {
+    "lat": 39.00703,
+    "lng": -94.12844,
+    "city": "Oak Grove"
+  },
+  "Ste. Genevieve": {
+    "lat": 37.97725,
+    "lng": -90.04713,
+    "city": "Ste Genevieve"
+  },
+  "Richmond": {
+    "lat": 39.27545,
+    "lng": -93.97258,
+    "city": "Richmond"
+  },
+  "St. Clair": {
+    "lat": 38.34661,
+    "lng": -90.99353,
+    "city": "St Clair"
+  },
+  "Nevada": {
+    "lat": 37.84491,
+    "lng": -94.35032,
+    "city": "Nevada"
+  },
+  "St. Michael the Archangel": {
+    "lat": 38.92409,
+    "lng": -94.38875,
+    "city": "Lee's Summit"
+  },
+  "Mt. Vernon": {
+    "lat": 37.10481,
+    "lng": -93.81867,
+    "city": "Mt Vernon"
+  },
+  "Summit Christian Academy": {
+    "lat": 38.92245,
+    "lng": -94.38957,
+    "city": "Lee's Summit"
+  },
+  "Center": {
+    "lat": 39.12448,
+    "lng": -94.55238,
+    "city": "Kansas City"
+  },
+  "Clinton": {
+    "lat": 38.37117,
+    "lng": -93.76814,
+    "city": "Clinton"
+  },
+  "Chillicothe": {
+    "lat": 39.79608,
+    "lng": -93.54996,
+    "city": "Chillicothe"
+  },
+  "St. Francis Borgia": {
+    "lat": 38.54938,
+    "lng": -91.01091,
+    "city": "Washington"
+  },
+  "Potosi": {
+    "lat": 37.93374,
+    "lng": -90.77503,
+    "city": "Potosi"
+  },
+  "Strafford": {
+    "lat": 37.26888,
+    "lng": -93.11804,
+    "city": "Strafford"
+  },
+  "Fulton": {
+    "lat": 38.85515,
+    "lng": -91.9508,
+    "city": "Fulton"
+  },
+  "Fredericktown": {
+    "lat": 37.56295,
+    "lng": -90.30351,
+    "city": "Fredericktown"
+  },
+  "John Burroughs": {
+    "lat": 38.63744,
+    "lng": -90.23888,
+    "city": "St. Louis"
+  },
+  "Aurora": {
+    "lat": 36.96744,
+    "lng": -93.7186,
+    "city": "Aurora"
+  },
+  "Herculaneum": {
+    "lat": 38.25756,
+    "lng": -90.39313,
+    "city": "Herculaneum"
+  },
+  "Cameron": {
+    "lat": 39.7445,
+    "lng": -94.23232,
+    "city": "Cameron"
+  },
+  "Perryville": {
+    "lat": 37.72431,
+    "lng": -89.87371,
+    "city": "Perryville"
+  },
+  "Buffalo": {
+    "lat": 37.64519,
+    "lng": -93.09656,
+    "city": "Buffalo"
+  },
+  "Normandy": {
+    "lat": 38.63723,
+    "lng": -90.2417,
+    "city": "St. Louis"
+  },
+  "Reeds Spring": {
+    "lat": 36.73926,
+    "lng": -93.38057,
+    "city": "Reeds Spring"
+  },
+  "Scott City": {
+    "lat": 37.22453,
+    "lng": -89.53765,
+    "city": "Scott City"
+  },
+  "Winfield": {
+    "lat": 38.99229,
+    "lng": -90.74513,
+    "city": "Winfield"
+  },
   "Wright City": {
-    "lat": 38.832949,
-    "lng": -91.030888,
+    "lat": 38.83219,
+    "lng": -91.03562,
     "city": "Wright City"
+  },
+  "St. James": {
+    "lat": 38.00236,
+    "lng": -91.61337,
+    "city": "St James"
+  },
+  "Salem": {
+    "lat": 37.63957,
+    "lng": -91.53486,
+    "city": "Salem"
+  },
+  "Priory": {
+    "lat": 38.63274,
+    "lng": -90.24823,
+    "city": "St. Louis"
+  },
+  "Eldon": {
+    "lat": 38.35115,
+    "lng": -92.57668,
+    "city": "Eldon"
+  },
+  "Owensville": {
+    "lat": 38.34844,
+    "lng": -91.49736,
+    "city": "Owensville"
+  },
+  "Lutheran South": {
+    "lat": 38.63226,
+    "lng": -90.24346,
+    "city": "St. Louis"
+  },
+  "Lutheran": {
+    "lat": 38.78557,
+    "lng": -90.60358,
+    "city": "St. Peters"
+  },
+  "Hollister": {
+    "lat": 36.60721,
+    "lng": -93.23201,
+    "city": "Hollister"
+  },
+  "Doniphan": {
+    "lat": 36.62335,
+    "lng": -90.82186,
+    "city": "Doniphan"
+  },
+  "Pleasant Hope/Halfway/Early": {
+    "lat": 37.46531,
+    "lng": -93.27436,
+    "city": "Pleasant Hope"
+  },
+  "Valle Catholic": {
+    "lat": 37.96919,
+    "lng": -90.05122,
+    "city": "Ste. Genevieve"
+  },
+  "Lamar": {
+    "lat": 37.49392,
+    "lng": -94.27843,
+    "city": "Lamar"
+  },
+  "Blair Oaks": {
+    "lat": 38.57173,
+    "lng": -92.17859,
+    "city": "Jefferson City"
+  },
+  "Centralia": {
+    "lat": 39.21078,
+    "lng": -92.13428,
+    "city": "Centralia"
+  },
+  "Mid-Buchanan": {
+    "lat": 39.60024,
+    "lng": -94.79747,
+    "city": "Faucett"
+  },
+  "Springfield Catholic": {
+    "lat": 37.19454,
+    "lng": -93.28995,
+    "city": "Springfield"
+  },
+  "Fair Grove": {
+    "lat": 37.38332,
+    "lng": -93.15215,
+    "city": "Fair Grove"
+  },
+  "Palmyra": {
+    "lat": 39.79778,
+    "lng": -91.52652,
+    "city": "Palmyra"
+  },
+  "North Callaway": {
+    "lat": 38.94731,
+    "lng": -91.93542,
+    "city": "Kingdom City"
+  },
+  "Clever": {
+    "lat": 37.03148,
+    "lng": -93.47086,
+    "city": "Clever"
+  },
+  "St. Vincent": {
+    "lat": 37.72605,
+    "lng": -89.88046,
+    "city": "Perryville"
+  },
+  "Lawson": {
+    "lat": 39.43297,
+    "lng": -94.22031,
+    "city": "Lawson"
+  },
+  "Brookfield": {
+    "lat": 39.78533,
+    "lng": -93.07797,
+    "city": "Brookfield"
+  },
+  "East Newton": {
+    "lat": 36.91961,
+    "lng": -94.26294,
+    "city": "Granby"
+  },
+  "Caruthersville": {
+    "lat": 36.18126,
+    "lng": -89.6669,
+    "city": "Caruthersville"
+  },
+  "West Platte": {
+    "lat": 39.40413,
+    "lng": -94.89126,
+    "city": "Weston"
+  },
+  "Father Tolton": {
+    "lat": 38.94745,
+    "lng": -92.33091,
+    "city": "Columbia"
+  },
+  "Bowling Green": {
+    "lat": 39.34477,
+    "lng": -91.20249,
+    "city": "Bowling Green"
+  },
+  "South Callaway": {
+    "lat": 38.67444,
+    "lng": -91.87244,
+    "city": "Mokane"
+  },
+  "Lathrop": {
+    "lat": 39.56185,
+    "lng": -94.31985,
+    "city": "Lathrop"
+  },
+  "Ava": {
+    "lat": 36.95622,
+    "lng": -92.66596,
+    "city": "Ava"
+  },
+  "Forsyth": {
+    "lat": 36.68528,
+    "lng": -93.10265,
+    "city": "Forsyth"
+  },
+  "Jefferson": {
+    "lat": 38.22166,
+    "lng": -90.41525,
+    "city": "Festus"
+  },
+  "Monroe City": {
+    "lat": 39.65439,
+    "lng": -91.73249,
+    "city": "Monroe City"
+  },
+  "Kelly": {
+    "lat": 37.09934,
+    "lng": -89.56052,
+    "city": "Benton"
+  },
+  "Sarcoxie": {
+    "lat": 37.06857,
+    "lng": -94.12692,
+    "city": "Sarcoxie"
+  },
+  "Saxony Lutheran": {
+    "lat": 37.38141,
+    "lng": -89.64886,
+    "city": "Jackson"
+  },
+  "Butler": {
+    "lat": 38.25936,
+    "lng": -94.33953,
+    "city": "Butler"
+  },
+  "Stockton/Sheldon": {
+    "lat": 37.69689,
+    "lng": -93.79589,
+    "city": "Stockton"
+  },
+  "Lafayette County": {
+    "lat": 39.06572,
+    "lng": -93.72681,
+    "city": "Higginsville"
+  },
+  "California": {
+    "lat": 38.63031,
+    "lng": -92.56708,
+    "city": "California"
+  },
+  "Montgomery County": {
+    "lat": 38.97389,
+    "lng": -91.50257,
+    "city": "Montgomery City"
+  },
+  "Warsaw": {
+    "lat": 38.24927,
+    "lng": -93.36704,
+    "city": "Warsaw"
+  },
+  "Houston": {
+    "lat": 37.32095,
+    "lng": -91.96116,
+    "city": "Houston"
+  },
+  "Willow Springs": {
+    "lat": 36.98675,
+    "lng": -91.96155,
+    "city": "Willow Springs"
+  },
+  "Versailles": {
+    "lat": 38.43345,
+    "lng": -92.84603,
+    "city": "Versailles"
+  },
+  "Hogan Prep Charter": {
+    "lat": 39.12183,
+    "lng": -94.5489,
+    "city": "Kansas City"
+  },
+  "Holden": {
+    "lat": 38.71346,
+    "lng": -93.98941,
+    "city": "Holden"
+  },
+  "Cole Camp": {
+    "lat": 38.45964,
+    "lng": -93.2021,
+    "city": "Cole Camp"
+  },
+  "Clark County": {
+    "lat": 40.42362,
+    "lng": -91.71871,
+    "city": "Kahoka"
+  },
+  "New Madrid County Central": {
+    "lat": 36.58641,
+    "lng": -89.55122,
+    "city": "New Madrid"
+  },
+  "Miller Career Academy/Sumner": {
+    "lat": 38.64069,
+    "lng": -90.2467,
+    "city": "St. Louis"
+  },
+  "Hermann": {
+    "lat": 38.69765,
+    "lng": -91.43487,
+    "city": "Hermann"
+  },
+  "Cuba": {
+    "lat": 38.0671,
+    "lng": -91.40573,
+    "city": "Cuba"
+  },
+  "El Dorado Springs": {
+    "lat": 37.8697,
+    "lng": -94.01995,
+    "city": "El Dorado Springs"
+  },
+  "Trenton": {
+    "lat": 40.08125,
+    "lng": -93.60239,
+    "city": "Trenton"
+  },
+  "KIPP Legacy": {
+    "lat": 39.12302,
+    "lng": -94.55324,
+    "city": "Kansas City"
+  },
+  "Lone Jack/Kingsville": {
+    "lat": 38.8709,
+    "lng": -94.18559,
+    "city": "Lone Jack"
+  },
+  "Mark Twain": {
+    "lat": 39.50944,
+    "lng": -91.52934,
+    "city": "Center"
+  },
+  "Lexington": {
+    "lat": 39.18031,
+    "lng": -93.86905,
+    "city": "Lexington"
+  },
+  "Duchesne": {
+    "lat": 38.79225,
+    "lng": -90.51881,
+    "city": "St. Charles"
+  },
+  "Highland": {
+    "lat": 40.00875,
+    "lng": -91.71468,
+    "city": "Ewing"
+  },
+  "East Prairie": {
+    "lat": 36.77892,
+    "lng": -89.38408,
+    "city": "East Prairie"
+  },
+  "Confluence Prep Academy": {
+    "lat": 38.63872,
+    "lng": -90.24122,
+    "city": "St. Louis"
+  },
+  "Cardinal Ritter College Prep": {
+    "lat": 38.63155,
+    "lng": -90.24679,
+    "city": "St. Louis"
+  },
+  "St. Mary's South Side": {
+    "lat": 38.63951,
+    "lng": -90.24574,
+    "city": "St. Louis"
+  },
+  "Helias": {
+    "lat": 38.56456,
+    "lng": -92.17939,
+    "city": "Jefferson City"
+  },
+  "Farmington": {
+    "lat": 37.78249,
+    "lng": -90.4273,
+    "city": "Farmington"
+  },
+  "Platte County": {
+    "lat": 39.35973,
+    "lng": -94.75632,
+    "city": "Platte City"
+  },
+  "Eureka": {
+    "lat": 38.49847,
+    "lng": -90.64542,
+    "city": "Eureka"
+  },
+  "Republic": {
+    "lat": 37.16855,
+    "lng": -93.41306,
+    "city": "Republic"
+  },
+  "Chaminade College Prep": {
+    "lat": 38.64019,
+    "lng": -90.24595,
+    "city": "St. Louis"
+  },
+  "Ladue Horton Watkins": {
+    "lat": 38.63906,
+    "lng": -90.24322,
+    "city": "St. Louis"
+  },
+  "Carthage": {
+    "lat": 37.1506,
+    "lng": -94.32787,
+    "city": "Carthage"
+  },
+  "Branson": {
+    "lat": 36.61229,
+    "lng": -93.29181,
+    "city": "Branson"
+  },
+  "Neosho": {
+    "lat": 36.84546,
+    "lng": -94.37644,
+    "city": "Neosho"
+  },
+  "Rockwood Summit": {
+    "lat": 38.52855,
+    "lng": -90.45067,
+    "city": "Fenton"
+  },
+  "Webb City": {
+    "lat": 37.14128,
+    "lng": -94.46763,
+    "city": "Webb City"
+  },
+  "Camdenton": {
+    "lat": 38.01324,
+    "lng": -92.75139,
+    "city": "Camdenton"
+  },
+  "Grain Valley": {
+    "lat": 39.01499,
+    "lng": -94.21637,
+    "city": "Grain Valley"
+  },
+  "Fort Zumwalt North": {
+    "lat": 38.78325,
+    "lng": -90.71863,
+    "city": "O'Fallon"
+  },
+  "Fort Osage": {
+    "lat": 39.0812,
+    "lng": -94.34971,
+    "city": "Independence"
+  },
+  "St. Dominic": {
+    "lat": 38.78023,
+    "lng": -90.72352,
+    "city": "O'Fallon"
+  },
+  "West Plains": {
+    "lat": 36.73743,
+    "lng": -91.86796,
+    "city": "West Plains"
+  },
+  "Rolla": {
+    "lat": 37.94594,
+    "lng": -91.7612,
+    "city": "Rolla"
+  },
+  "Fox": {
+    "lat": 38.42601,
+    "lng": -90.36931,
+    "city": "Arnold"
+  },
+  "Parkway West": {
+    "lat": 38.59473,
+    "lng": -90.54996,
+    "city": "Ballwin"
+  },
+  "Smith-Cotton": {
+    "lat": 38.70524,
+    "lng": -93.23582,
+    "city": "Sedalia"
+  },
+  "Jefferson City": {
+    "lat": 38.57175,
+    "lng": -92.17224,
+    "city": "Jefferson City"
+  },
+  "Capital City": {
+    "lat": 38.56691,
+    "lng": -92.18046,
+    "city": "Jefferson City"
+  },
+  "Glendale": {
+    "lat": 37.19769,
+    "lng": -93.29788,
+    "city": "Springfield"
+  },
+  "Timberland": {
+    "lat": 38.81307,
+    "lng": -90.87287,
+    "city": "Wentzville"
+  },
+  "Poplar Bluff": {
+    "lat": 36.76326,
+    "lng": -90.41395,
+    "city": "Poplar Bluff"
+  },
+  "Raytown": {
+    "lat": 38.99445,
+    "lng": -94.46675,
+    "city": "Raytown"
+  },
+  "Washington": {
+    "lat": 38.55535,
+    "lng": -91.01519,
+    "city": "Washington"
+  },
+  "Parkway South": {
+    "lat": 38.58304,
+    "lng": -90.50646,
+    "city": "Manchester"
+  },
+  "Lebanon": {
+    "lat": 37.67213,
+    "lng": -92.65967,
+    "city": "Lebanon"
+  },
+  "Hazelwood East": {
+    "lat": 38.63985,
+    "lng": -90.24806,
+    "city": "St. Louis"
+  },
+  "Belton": {
+    "lat": 38.81873,
+    "lng": -94.52964,
+    "city": "Belton"
+  },
+  "Winnetonka": {
+    "lat": 39.12255,
+    "lng": -94.54805,
+    "city": "Kansas City"
+  },
+  "North Point": {
+    "lat": 38.81333,
+    "lng": -90.86981,
+    "city": "Wentzville"
+  },
+  "McCluer North": {
+    "lat": 38.80024,
+    "lng": -90.3303,
+    "city": "Florissant"
+  },
+  "Chrisman": {
+    "lat": 39.08346,
+    "lng": -94.34685,
+    "city": "Independence"
+  },
+  "Fort Zumwalt South": {
+    "lat": 38.78978,
+    "lng": -90.60595,
+    "city": "St. Peters"
+  },
+  "Lincoln College Prep": {
+    "lat": 39.12085,
+    "lng": -94.5526,
+    "city": "Kansas City"
+  },
+  "Fort Zumwalt East": {
+    "lat": 38.78707,
+    "lng": -90.60644,
+    "city": "St. Peters"
+  },
+  "Hazelwood Central": {
+    "lat": 38.7958,
+    "lng": -90.32843,
+    "city": "Florissant"
+  },
+  "McCluer": {
+    "lat": 38.79908,
+    "lng": -90.32425,
+    "city": "Florissant"
+  },
+  "Webster Groves": {
+    "lat": 38.5866,
+    "lng": -90.35441,
+    "city": "Webster Groves"
+  },
+  "Ruskin": {
+    "lat": 39.12481,
+    "lng": -94.54743,
+    "city": "Kansas City"
+  },
+  "Parkview": {
+    "lat": 37.19073,
+    "lng": -93.29288,
+    "city": "Springfield"
+  },
+  "Willard": {
+    "lat": 37.29298,
+    "lng": -93.41705,
+    "city": "Willard"
+  },
+  "Parkway Central": {
+    "lat": 38.6587,
+    "lng": -90.57861,
+    "city": "Chesterfield"
+  },
+  "Battle": {
+    "lat": 38.9453,
+    "lng": -92.32453,
+    "city": "Columbia"
+  },
+  "Mehlville": {
+    "lat": 38.63048,
+    "lng": -90.24412,
+    "city": "St. Louis"
+  },
+  "Truman": {
+    "lat": 39.08215,
+    "lng": -94.34876,
+    "city": "Independence"
   }
 }

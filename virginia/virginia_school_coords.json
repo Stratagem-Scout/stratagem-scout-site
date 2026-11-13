@@ -1,547 +1,1097 @@
 {
-  "Abingdon": {
-    "lat": 36.7208,
-    "lng": -81.9537,
-    "city": "Abingdon"
+  "Graham": {
+    "lat": 37.23522,
+    "lng": -81.27466,
+    "city": "Bluefield"
   },
-  "Albemarle": {
-    "lat": 38.0762,
-    "lng": -78.5012,
-    "city": "Charlottesville"
+  "Union": {
+    "lat": 36.86274,
+    "lng": -82.77609,
+    "city": "Big Stone Gap"
   },
-  "Alexandria City": {
-    "lat": 38.823544,
-    "lng": -77.084667,
-    "city": "Alexandria"
+  "Ridgeview": {
+    "lat": 37.15299,
+    "lng": -82.45989,
+    "city": "Clintwood"
   },
-  "Alleghany": {
-    "lat": 37.7888,
-    "lng": -79.9091,
-    "city": "Covington"
+  "Radford": {
+    "lat": 37.12012,
+    "lng": -80.55915,
+    "city": "Radford"
   },
-  "Altavista": {
-    "lat": 37.110053,
-    "lng": -79.295692,
-    "city": "Altavista"
+  "Lunenburg Central": {
+    "lat": 36.99444,
+    "lng": -78.2243,
+    "city": "Victoria"
   },
-  "Amelia County": {
-    "lat": 37.3311,
-    "lng": -77.9876,
-    "city": "Amelia Court House"
+  "Poquoson": {
+    "lat": 37.12836,
+    "lng": -76.30353,
+    "city": "Poquoson"
   },
-  "Amherst County": {
-    "lat": 37.5701,
-    "lng": -79.0584,
-    "city": "Amherst"
+  "Gate City": {
+    "lat": 36.64614,
+    "lng": -82.57839,
+    "city": "Gate City"
   },
-  "Annandale": {
-    "lat": 38.8218,
-    "lng": -77.2078,
-    "city": "Annandale"
-  },
-  "Appomattox County": {
-    "lat": 37.344787,
-    "lng": -78.826184,
-    "city": "Appomattox"
-  },
-  "Arcadia": {
-    "lat": 37.9253,
-    "lng": -75.5501,
-    "city": "Oak Hall"
+  "Strasburg": {
+    "lat": 39.00339,
+    "lng": -78.34954,
+    "city": "Strasburg"
   },
   "Armstrong (Kennedy)": {
     "lat": 37.53586,
     "lng": -77.47672,
     "city": "Richmond"
   },
-  "Atlee": {
-    "lat": 37.6648,
-    "lng": -77.4104,
-    "city": "Mechanicsville"
+  "Floyd County": {
+    "lat": 36.91216,
+    "lng": -80.31812,
+    "city": "Floyd"
   },
-  "Auburn": {
-    "lat": 37.059796,
-    "lng": -80.443532,
-    "city": "Riner"
+  "Thomas Jefferson": {
+    "lat": 37.52635,
+    "lng": -77.47575,
+    "city": "Richmond"
   },
-  "Bassett": {
-    "lat": 36.7275,
-    "lng": -79.9628,
-    "city": "Bassett"
+  "Glenvar": {
+    "lat": 37.28533,
+    "lng": -80.05524,
+    "city": "Salem"
   },
-  "Bath County": {
-    "lat": 38.0339,
-    "lng": -79.7947,
-    "city": "Hot Springs"
+  "King William": {
+    "lat": 37.68323,
+    "lng": -77.02976,
+    "city": "King William"
   },
-  "Battlefield": {
-    "lat": 38.8453,
-    "lng": -77.6299,
-    "city": "Haymarket"
-  },
-  "Bayside": {
-    "lat": 36.8696,
-    "lng": -76.1511,
-    "city": "Virginia Beach"
-  },
-  "Bethel": {
-    "lat": 37.0535,
-    "lng": -76.4303,
-    "city": "Hampton"
-  },
-  "Blacksburg": {
-    "lat": 37.210842,
-    "lng": -80.459585,
-    "city": "Blacksburg"
-  },
-  "Bland County": {
-    "lat": 37.241302,
-    "lng": -81.109487,
-    "city": "Rocky Gap"
-  },
-  "Booker T. Washington": {
-    "lat": 36.8534,
-    "lng": -76.2662,
-    "city": "Norfolk"
-  },
-  "Brentsville District": {
-    "lat": 38.6919,
-    "lng": -77.5687,
-    "city": "Nokesville"
-  },
-  "Briar Woods": {
-    "lat": 38.992468,
-    "lng": -77.530999,
-    "city": "Ashburn"
-  },
-  "Broad Run": {
-    "lat": 39.0229,
-    "lng": -77.4915,
-    "city": "Ashburn"
-  },
-  "Broadway": {
-    "lat": 38.6057,
-    "lng": -78.7938,
-    "city": "Broadway"
-  },
-  "Brooke Point": {
-    "lat": 38.4066,
-    "lng": -77.3959,
-    "city": "Stafford"
-  },
-  "Brookville": {
-    "lat": 37.3457,
-    "lng": -79.2357,
-    "city": "Lynchburg"
-  },
-  "Brunswick": {
-    "lat": 36.7677,
-    "lng": -77.8294,
-    "city": "Lawrenceville"
-  },
-  "Bruton": {
-    "lat": 37.311,
-    "lng": -76.6919,
-    "city": "Williamsburg"
+  "Martinsville": {
+    "lat": 36.68353,
+    "lng": -79.86365,
+    "city": "Martinsville"
   },
   "Buckingham": {
-    "lat": 37.5413,
-    "lng": -78.5108,
+    "lat": 37.55588,
+    "lng": -78.55472,
     "city": "Buckingham"
   },
-  "Buffalo Gap": {
-    "lat": 38.1941,
-    "lng": -79.218,
-    "city": "Swoope"
+  "Stuarts Draft": {
+    "lat": 38.01883,
+    "lng": -79.03469,
+    "city": "Stuarts Draft"
   },
-  "Caroline": {
-    "lat": 38.0005,
-    "lng": -77.4146,
-    "city": "Milford"
+  "Southampton": {
+    "lat": 36.71226,
+    "lng": -77.06196,
+    "city": "Courtland"
   },
-  "Carroll County": {
-    "lat": 36.762344,
-    "lng": -80.723367,
-    "city": "Hillsville"
+  "Appomattox County": {
+    "lat": 37.35874,
+    "lng": -78.82645,
+    "city": "Appomattox"
   },
-  "Castlewood": {
-    "lat": 36.8715,
-    "lng": -82.2955,
-    "city": "Castlewood"
-  },
-  "Cave Spring": {
-    "lat": 37.2134,
-    "lng": -80.0007,
-    "city": "Roanoke"
-  },
-  "Central Wise": {
-    "lat": 36.93587,
-    "lng": -82.62555,
-    "city": "Norton"
+  "Fort Defiance": {
+    "lat": 38.24041,
+    "lng": -78.97197,
+    "city": "Fort Defiance"
   },
   "Central Woodstock": {
     "lat": 38.87212,
     "lng": -78.51713,
     "city": "Woodstock"
   },
-  "Centreville": {
-    "lat": 38.8251,
-    "lng": -77.4111,
-    "city": "Clifton"
+  "Nottoway": {
+    "lat": 37.14894,
+    "lng": -78.05839,
+    "city": "Nottoway"
   },
-  "Chancellor": {
-    "lat": 38.2728,
-    "lng": -77.555,
-    "city": "Fredericksburg"
+  "Randolph-Henry": {
+    "lat": 37.05625,
+    "lng": -78.63769,
+    "city": "Charlotte Court House"
   },
-  "Chantilly": {
-    "lat": 38.8803,
-    "lng": -77.4067,
-    "city": "Chantilly"
+  "Central Wise": {
+    "lat": 36.93587,
+    "lng": -82.62555,
+    "city": "Norton"
   },
-  "Charles City": {
-    "lat": 37.351,
-    "lng": -77.0763,
-    "city": "Charles City"
+  "Virginia High": {
+    "lat": 36.61931,
+    "lng": -82.1576,
+    "city": "Bristol"
   },
-  "Charles J. Colgan": {
-    "lat": 38.65387,
-    "lng": -77.437937,
-    "city": "Manassas"
+  "James River": {
+    "lat": 37.52085,
+    "lng": -79.69106,
+    "city": "Buchanan"
   },
-  "Charlottesville": {
-    "lat": 38.0524,
-    "lng": -78.4766,
-    "city": "Charlottesville"
+  "Lee": {
+    "lat": 36.68711,
+    "lng": -83.11531,
+    "city": "Jonesville"
   },
-  "Chatham": {
-    "lat": 36.787406,
-    "lng": -79.402445,
-    "city": "Chatham"
+  "Patrick County": {
+    "lat": 36.64036,
+    "lng": -80.26864,
+    "city": "Stuart"
   },
-  "Chilhowie": {
-    "lat": 36.8072,
-    "lng": -81.6673,
-    "city": "Chilhowie"
+  "Gretna": {
+    "lat": 36.94955,
+    "lng": -79.36261,
+    "city": "Gretna"
   },
-  "Christiansburg": {
-    "lat": 37.1456,
-    "lng": -80.4179,
-    "city": "Christiansburg"
-  },
-  "Churchland": {
-    "lat": 36.8805,
-    "lng": -76.3714,
-    "city": "Portsmouth"
+  "Westmoreland": {
+    "lat": 38.09242,
+    "lng": -76.81588,
+    "city": "Montross"
   },
   "Clarke County": {
-    "lat": 39.162212,
-    "lng": -77.995031,
+    "lat": 39.14773,
+    "lng": -77.98016,
     "city": "Berryville"
   },
-  "Clover Hill": {
-    "lat": 37.44794,
-    "lng": -77.64003,
-    "city": "Midlothian"
+  "Lebanon": {
+    "lat": 36.89949,
+    "lng": -82.07851,
+    "city": "Lebanon"
+  },
+  "Madison County": {
+    "lat": 38.37935,
+    "lng": -78.2586,
+    "city": "Madison"
+  },
+  "Tazewell": {
+    "lat": 37.12894,
+    "lng": -81.50656,
+    "city": "Tazewell"
+  },
+  "Liberty": {
+    "lat": 37.33999,
+    "lng": -79.51411,
+    "city": "Bedford"
+  },
+  "Nelson County": {
+    "lat": 37.76388,
+    "lng": -78.8597,
+    "city": "Lovingston"
+  },
+  "Bruton": {
+    "lat": 37.26799,
+    "lng": -76.71207,
+    "city": "Williamsburg"
+  },
+  "Dan River": {
+    "lat": 36.60819,
+    "lng": -79.2953,
+    "city": "Ringgold"
+  },
+  "Marion": {
+    "lat": 36.83739,
+    "lng": -81.51566,
+    "city": "Marion"
+  },
+  "Arcadia": {
+    "lat": 37.93078,
+    "lng": -75.54691,
+    "city": "Oak Hall"
+  },
+  "Chatham": {
+    "lat": 36.81185,
+    "lng": -79.40012,
+    "city": "Chatham"
+  },
+  "Amelia County": {
+    "lat": 37.33586,
+    "lng": -77.98664,
+    "city": "Amelia Court House"
+  },
+  "Richlands": {
+    "lat": 37.08802,
+    "lng": -81.81042,
+    "city": "Richlands"
+  },
+  "Greensville County": {
+    "lat": 36.69618,
+    "lng": -77.53597,
+    "city": "Emporia"
+  },
+  "Page County": {
+    "lat": 38.48713,
+    "lng": -78.61645,
+    "city": "Shenandoah"
+  },
+  "Stonewall Jackson": {
+    "lat": 38.69089,
+    "lng": -78.68239,
+    "city": "Quicksburg"
+  },
+  "John Battle": {
+    "lat": 36.61995,
+    "lng": -82.15958,
+    "city": "Bristol"
+  },
+  "John Marshall": {
+    "lat": 37.53354,
+    "lng": -77.47379,
+    "city": "Richmond"
+  },
+  "Nandua": {
+    "lat": 37.69132,
+    "lng": -75.71714,
+    "city": "Onley"
+  },
+  "Prince Edward County": {
+    "lat": 37.29612,
+    "lng": -78.40045,
+    "city": "Farmville"
+  },
+  "Windsor": {
+    "lat": 36.81119,
+    "lng": -76.73841,
+    "city": "Windsor"
+  },
+  "Chilhowie": {
+    "lat": 36.80017,
+    "lng": -81.68291,
+    "city": "Chilhowie"
+  },
+  "Buffalo Gap": {
+    "lat": 38.15819,
+    "lng": -79.20642,
+    "city": "Swoope"
+  },
+  "Craig County": {
+    "lat": 37.50099,
+    "lng": -80.11102,
+    "city": "New Castle"
+  },
+  "Rappahannock": {
+    "lat": 37.96035,
+    "lng": -76.76095,
+    "city": "Warsaw"
+  },
+  "Riverheads": {
+    "lat": 38.15408,
+    "lng": -79.06378,
+    "city": "Staunton"
+  },
+  "Eastside": {
+    "lat": 36.94565,
+    "lng": -82.4704,
+    "city": "Coeburn"
+  },
+  "Altavista": {
+    "lat": 37.12344,
+    "lng": -79.28338,
+    "city": "Altavista"
+  },
+  "Essex": {
+    "lat": 37.91239,
+    "lng": -76.86601,
+    "city": "Tappahannock"
+  },
+  "Sussex Central": {
+    "lat": 36.91736,
+    "lng": -77.27187,
+    "city": "Sussex"
+  },
+  "Rye Cove": {
+    "lat": 36.68002,
+    "lng": -82.74416,
+    "city": "Clinchport"
+  },
+  "Grayson County": {
+    "lat": 36.62748,
+    "lng": -81.14925,
+    "city": "Independence"
+  },
+  "Northwood": {
+    "lat": 36.87591,
+    "lng": -81.76291,
+    "city": "Saltville"
+  },
+  "Patrick Henry": {
+    "lat": 36.78994,
+    "lng": -81.77225,
+    "city": "Glade Spring"
+  },
+  "Brunswick": {
+    "lat": 36.7565,
+    "lng": -77.85387,
+    "city": "Lawrenceville"
+  },
+  "George Wythe": {
+    "lat": 36.95338,
+    "lng": -81.08844,
+    "city": "Wytheville"
+  },
+  "Honaker": {
+    "lat": 37.01559,
+    "lng": -81.96854,
+    "city": "Honaker"
+  },
+  "Luray": {
+    "lat": 38.66418,
+    "lng": -78.45448,
+    "city": "Luray"
+  },
+  "Parry McCluer": {
+    "lat": 37.72935,
+    "lng": -79.35813,
+    "city": "Buena Vista"
+  },
+  "Auburn": {
+    "lat": 37.06704,
+    "lng": -80.44057,
+    "city": "Riner"
+  },
+  "Holston": {
+    "lat": 36.63267,
+    "lng": -81.78936,
+    "city": "Damascus"
+  },
+  "Northumberland": {
+    "lat": 37.91149,
+    "lng": -76.47858,
+    "city": "Heathsville"
+  },
+  "Rural Retreat": {
+    "lat": 36.90513,
+    "lng": -81.27725,
+    "city": "Rural Retreat"
+  },
+  "J.I. Burton": {
+    "lat": 36.93149,
+    "lng": -82.62926,
+    "city": "Norton"
+  },
+  "Surry County": {
+    "lat": 37.03641,
+    "lng": -76.92406,
+    "city": "Dendron"
+  },
+  "Narrows": {
+    "lat": 37.33131,
+    "lng": -80.80926,
+    "city": "Narrows"
+  },
+  "Bath County": {
+    "lat": 38.00129,
+    "lng": -79.82389,
+    "city": "Hot Springs"
+  },
+  "Lancaster": {
+    "lat": 37.76007,
+    "lng": -76.44867,
+    "city": "Lancaster"
+  },
+  "Middlesex": {
+    "lat": 37.60527,
+    "lng": -76.5938,
+    "city": "Saluda"
+  },
+  "Giles": {
+    "lat": 37.32868,
+    "lng": -80.72729,
+    "city": "Pearisburg"
+  },
+  "Eastern Montgomery": {
+    "lat": 37.22301,
+    "lng": -80.21572,
+    "city": "Elliston"
+  },
+  "Northampton": {
+    "lat": 37.35106,
+    "lng": -75.9408,
+    "city": "Eastville"
+  },
+  "Thomas Walker": {
+    "lat": 36.63746,
+    "lng": -83.42947,
+    "city": "Ewing"
+  },
+  "Twin Springs": {
+    "lat": 36.74881,
+    "lng": -82.41719,
+    "city": "Nickelsville"
+  },
+  "Franklin": {
+    "lat": 36.68401,
+    "lng": -76.9414,
+    "city": "Franklin"
+  },
+  "Smith Mountain Lake Christian Academy": {
+    "lat": 37.18979,
+    "lng": -79.61702,
+    "city": "Moneta"
+  },
+  "West Point": {
+    "lat": 37.55226,
+    "lng": -76.80185,
+    "city": "West Point"
+  },
+  "William Campbell": {
+    "lat": 37.10598,
+    "lng": -79.00252,
+    "city": "Naruna"
+  },
+  "Cumberland": {
+    "lat": 37.49872,
+    "lng": -78.25751,
+    "city": "Cumberland"
   },
   "Colonial Beach": {
-    "lat": 38.257575,
-    "lng": -76.969085,
+    "lat": 38.26441,
+    "lng": -76.99373,
     "city": "Colonial Beach"
   },
-  "Colonial Forge": {
-    "lat": 38.4349,
-    "lng": -77.4513,
-    "city": "Stafford"
+  "Galax": {
+    "lat": 36.66564,
+    "lng": -80.91431,
+    "city": "Galax"
   },
-  "Colonial Heights": {
-    "lat": 37.268,
-    "lng": -77.3916,
-    "city": "Colonial Heights"
+  "Bland County": {
+    "lat": 37.24099,
+    "lng": -81.10748,
+    "city": "Rocky Gap"
   },
-  "Cosby": {
-    "lat": 37.4062,
-    "lng": -77.7028,
+  "Fort Chiswell": {
+    "lat": 36.97894,
+    "lng": -80.9618,
+    "city": "Max Meadows"
+  },
+  "Castlewood": {
+    "lat": 36.88014,
+    "lng": -82.29533,
+    "city": "Castlewood"
+  },
+  "Charles City": {
+    "lat": 37.34831,
+    "lng": -77.06296,
+    "city": "Charles City"
+  },
+  "Highland Springs": {
+    "lat": 37.5517,
+    "lng": -77.32789,
+    "city": "Highland Springs"
+  },
+  "Maury": {
+    "lat": 36.92413,
+    "lng": -76.24808,
+    "city": "Norfolk"
+  },
+  "Stone Bridge": {
+    "lat": 39.02718,
+    "lng": -77.46788,
+    "city": "Ashburn"
+  },
+  "Indian River": {
+    "lat": 36.6791,
+    "lng": -76.3072,
+    "city": "Chesapeake"
+  },
+  "Bethel": {
+    "lat": 37.04707,
+    "lng": -76.30061,
+    "city": "Hampton"
+  },
+  "Hermitage": {
+    "lat": 37.53515,
+    "lng": -77.4766,
+    "city": "Richmond"
+  },
+  "King's Fork": {
+    "lat": 36.69716,
+    "lng": -76.63008,
+    "city": "Suffolk"
+  },
+  "Riverbend": {
+    "lat": 38.29615,
+    "lng": -77.48521,
+    "city": "Fredericksburg"
+  },
+  "Green Run": {
+    "lat": 36.78359,
+    "lng": -76.02584,
+    "city": "Virginia Beach"
+  },
+  "Midlothian": {
+    "lat": 37.48454,
+    "lng": -77.64723,
     "city": "Midlothian"
   },
-  "Courtland": {
-    "lat": 38.232355,
-    "lng": -77.551734,
-    "city": "Spotsylvania"
+  "Warwick": {
+    "lat": 37.07602,
+    "lng": -76.52542,
+    "city": "Newport News"
   },
   "Cox": {
     "lat": 36.78256,
     "lng": -76.02967,
     "city": "Virginia Beach"
   },
-  "Craig County": {
-    "lat": 37.5158,
-    "lng": -80.0849,
-    "city": "New Castle"
+  "Lightridge": {
+    "lat": 38.97488,
+    "lng": -77.65158,
+    "city": "Aldie"
   },
-  "Culpeper County": {
-    "lat": 38.4945,
-    "lng": -77.9878,
-    "city": "Culpeper"
-  },
-  "Cumberland": {
-    "lat": 37.491435,
-    "lng": -78.247866,
-    "city": "Cumberland"
-  },
-  "Dan River": {
-    "lat": 36.6619,
-    "lng": -79.3002,
-    "city": "Ringgold"
-  },
-  "Deep Creek": {
-    "lat": 36.7543,
-    "lng": -76.3525,
-    "city": "Chesapeake"
-  },
-  "Deep Run": {
-    "lat": 37.675,
-    "lng": -77.5988,
+  "Glen Allen": {
+    "lat": 37.66428,
+    "lng": -77.48699,
     "city": "Glen Allen"
   },
-  "Denbigh": {
-    "lat": 37.126,
-    "lng": -76.549,
-    "city": "Newport News"
+  "John Champe": {
+    "lat": 38.97293,
+    "lng": -77.64867,
+    "city": "Aldie"
   },
-  "Dinwiddie": {
-    "lat": 37.113872,
-    "lng": -77.582669,
-    "city": "Dinwiddie"
+  "Meadowbrook": {
+    "lat": 37.52597,
+    "lng": -77.47736,
+    "city": "Richmond"
   },
-  "Dominion": {
-    "lat": 39.026403,
-    "lng": -77.373613,
+  "Freeman": {
+    "lat": 37.53589,
+    "lng": -77.47656,
+    "city": "Richmond"
+  },
+  "Salem": {
+    "lat": 36.77667,
+    "lng": -76.03029,
+    "city": "Virginia Beach"
+  },
+  "Nansemond River": {
+    "lat": 36.6951,
+    "lng": -76.639,
+    "city": "Suffolk"
+  },
+  "Potomac Falls": {
+    "lat": 38.99954,
+    "lng": -77.40464,
     "city": "Sterling"
   },
-  "East Rockingham": {
-    "lat": 38.399444,
-    "lng": -78.653868,
-    "city": "Elkton"
+  "Great Bridge": {
+    "lat": 36.67878,
+    "lng": -76.29969,
+    "city": "Chesapeake"
   },
-  "Eastern Montgomery": {
-    "lat": 37.204232,
-    "lng": -80.230194,
-    "city": "Elliston"
+  "Matoaca": {
+    "lat": 37.23293,
+    "lng": -77.46484,
+    "city": "Chesterfield"
   },
-  "Eastern View": {
-    "lat": 38.477039,
-    "lng": -77.946296,
-    "city": "Culpeper"
-  },
-  "Eastside": {
-    "lat": 36.945966,
-    "lng": -82.468743,
-    "city": "Coeburn"
-  },
-  "Edison": {
-    "lat": 38.7824,
-    "lng": -77.1342,
-    "city": "Alexandria"
-  },
-  "Essex": {
-    "lat": 37.9241,
-    "lng": -76.8747,
-    "city": "Tappahannock"
-  },
-  "Fairfax": {
-    "lat": 38.86024,
-    "lng": -77.286773,
-    "city": "Fairfax"
-  },
-  "Falls Church": {
-    "lat": 38.862,
-    "lng": -77.2061,
-    "city": "Falls Church"
-  },
-  "Fauquier": {
-    "lat": 38.72,
-    "lng": -77.8147,
-    "city": "Warrenton"
-  },
-  "First Colonial": {
-    "lat": 36.8737,
-    "lng": -76.0293,
+  "Kellam": {
+    "lat": 36.77768,
+    "lng": -76.03423,
     "city": "Virginia Beach"
+  },
+  "Hickory": {
+    "lat": 36.6769,
+    "lng": -76.30068,
+    "city": "Chesapeake"
   },
   "Fleming": {
     "lat": 37.28433,
     "lng": -79.95637,
     "city": "Roanoke"
   },
-  "Floyd County": {
-    "lat": 36.9088,
-    "lng": -80.3078,
-    "city": "Floyd"
+  "Prince George": {
+    "lat": 37.22087,
+    "lng": -77.2683,
+    "city": "Prince George"
   },
-  "Fluvanna County": {
-    "lat": 37.872316,
-    "lng": -78.298589,
-    "city": "Palmyra"
-  },
-  "Forest Park": {
-    "lat": 38.6118,
-    "lng": -77.364,
-    "city": "Woodbridge"
-  },
-  "Fort Chiswell": {
-    "lat": 36.9298,
-    "lng": -80.9391,
-    "city": "Max Meadows"
-  },
-  "Fort Defiance": {
-    "lat": 38.2471,
-    "lng": -78.9738,
-    "city": "Fort Defiance"
-  },
-  "Franklin": {
-    "lat": 36.6914,
-    "lng": -76.9479,
-    "city": "Franklin"
-  },
-  "Franklin County": {
-    "lat": 37.0049,
-    "lng": -79.8785,
-    "city": "Rocky Mount"
-  },
-  "Freedom": {
-    "lat": 38.91404,
-    "lng": -77.535067,
-    "city": "South Riding"
-  },
-  "Freeman": {
-    "lat": 37.6016,
-    "lng": -77.5584,
-    "city": "Richmond"
-  },
-  "Gainesville": {
-    "lat": 38.784273,
-    "lng": -77.592705,
-    "city": "Gainesville"
-  },
-  "Galax": {
-    "lat": 36.6546,
-    "lng": -80.9237,
-    "city": "Galax"
-  },
-  "Gar-Field": {
-    "lat": 38.6457,
-    "lng": -77.3044,
-    "city": "Woodbridge"
-  },
-  "Gate City": {
-    "lat": 36.6392,
-    "lng": -82.5698,
-    "city": "Gate City"
-  },
-  "George C. Marshall": {
-    "lat": 38.88834,
-    "lng": -77.17547,
-    "city": "Falls Church"
-  },
-  "George Washington": {
-    "lat": 36.5858,
-    "lng": -79.4124,
-    "city": "Danville"
-  },
-  "George Wythe": {
-    "lat": 36.9412,
-    "lng": -81.1023,
-    "city": "Wytheville"
-  },
-  "Giles": {
-    "lat": 37.3278,
-    "lng": -80.7045,
-    "city": "Pearisburg"
-  },
-  "Glass": {
-    "lat": 37.39771,
-    "lng": -79.19328,
-    "city": "Lynchburg"
-  },
-  "Glen Allen": {
-    "lat": 37.666,
-    "lng": -77.5342,
-    "city": "Glen Allen"
-  },
-  "Glenvar": {
-    "lat": 37.280154,
-    "lng": -80.139181,
-    "city": "Salem"
-  },
-  "Gloucester": {
-    "lat": 37.3815,
-    "lng": -76.5251,
-    "city": "Gloucester"
+  "Massaponax": {
+    "lat": 38.18443,
+    "lng": -77.67684,
+    "city": "Spotsylvania"
   },
   "Godwin": {
     "lat": 37.5308,
     "lng": -77.48176,
     "city": "Richmond"
   },
-  "Goochland": {
-    "lat": 37.7004,
-    "lng": -77.8971,
-    "city": "Goochland"
+  "James River Midlothian": {
+    "lat": 37.48127,
+    "lng": -77.6474,
+    "city": "Midlothian"
   },
-  "Grafton": {
-    "lat": 37.1633,
-    "lng": -76.4693,
-    "city": "Yorktown"
-  },
-  "Graham": {
-    "lat": 37.2377,
-    "lng": -81.271,
-    "city": "Bluefield"
-  },
-  "Granby": {
-    "lat": 36.9072,
-    "lng": -76.2772,
-    "city": "Norfolk"
-  },
-  "Grassfield": {
-    "lat": 36.7146,
-    "lng": -76.3192,
-    "city": "Chesapeake"
-  },
-  "Grayson County": {
-    "lat": 36.6217,
-    "lng": -81.1472,
-    "city": "Independence"
-  },
-  "Great Bridge": {
-    "lat": 36.6888,
-    "lng": -76.2406,
-    "city": "Chesapeake"
-  },
-  "Green Run": {
-    "lat": 36.8049,
-    "lng": -76.1114,
+  "Bayside": {
+    "lat": 36.78285,
+    "lng": -76.0273,
     "city": "Virginia Beach"
   },
-  "Greensville County": {
-    "lat": 36.679606,
-    "lng": -77.552311,
-    "city": "Emporia"
+  "Norview": {
+    "lat": 36.9245,
+    "lng": -76.24669,
+    "city": "Norfolk"
   },
-  "Gretna": {
-    "lat": 36.945655,
-    "lng": -79.369129,
-    "city": "Gretna"
+  "Briar Woods": {
+    "lat": 39.02922,
+    "lng": -77.47658,
+    "city": "Ashburn"
   },
-  "Halifax County": {
-    "lat": 36.7303,
-    "lng": -78.9087,
-    "city": "South Boston"
+  "Deep Run": {
+    "lat": 37.66719,
+    "lng": -77.48867,
+    "city": "Glen Allen"
+  },
+  "Ocean Lakes": {
+    "lat": 36.77772,
+    "lng": -76.02734,
+    "city": "Virginia Beach"
+  },
+  "Kecoughtan": {
+    "lat": 37.04422,
+    "lng": -76.29547,
+    "city": "Hampton"
+  },
+  "Riverside": {
+    "lat": 39.10537,
+    "lng": -77.56091,
+    "city": "Leesburg"
+  },
+  "Woodside": {
+    "lat": 37.08043,
+    "lng": -76.5213,
+    "city": "Newport News"
+  },
+  "Franklin County": {
+    "lat": 37.0044,
+    "lng": -79.88476,
+    "city": "Rocky Mount"
+  },
+  "Tallwood": {
+    "lat": 36.78191,
+    "lng": -76.03136,
+    "city": "Virginia Beach"
+  },
+  "Granby": {
+    "lat": 36.91866,
+    "lng": -76.24843,
+    "city": "Norfolk"
+  },
+  "Freedom": {
+    "lat": 38.91166,
+    "lng": -77.51328,
+    "city": "South Riding"
+  },
+  "Kempsville": {
+    "lat": 36.78233,
+    "lng": -76.02429,
+    "city": "Virginia Beach"
+  },
+  "Menchville": {
+    "lat": 37.07104,
+    "lng": -76.51927,
+    "city": "Newport News"
+  },
+  "Albemarle": {
+    "lat": 38.03517,
+    "lng": -78.48894,
+    "city": "Charlottesville"
+  },
+  "Deep Creek": {
+    "lat": 36.68264,
+    "lng": -76.29951,
+    "city": "Chesapeake"
+  },
+  "Clover Hill": {
+    "lat": 37.47968,
+    "lng": -77.64942,
+    "city": "Midlothian"
+  },
+  "First Colonial": {
+    "lat": 36.78292,
+    "lng": -76.02854,
+    "city": "Virginia Beach"
+  },
+  "Princess Anne": {
+    "lat": 36.78204,
+    "lng": -76.02883,
+    "city": "Virginia Beach"
+  },
+  "Oscar Smith": {
+    "lat": 36.68218,
+    "lng": -76.30705,
+    "city": "Chesapeake"
+  },
+  "Oakton": {
+    "lat": 38.89843,
+    "lng": -77.26122,
+    "city": "Vienna"
+  },
+  "James Madison": {
+    "lat": 38.89512,
+    "lng": -77.25938,
+    "city": "Vienna"
+  },
+  "Thomas Dale": {
+    "lat": 37.35204,
+    "lng": -77.4337,
+    "city": "Chester"
+  },
+  "Colonial Forge": {
+    "lat": 38.41768,
+    "lng": -77.46129,
+    "city": "Stafford"
+  },
+  "Brooke Point": {
+    "lat": 38.41913,
+    "lng": -77.4596,
+    "city": "Stafford"
+  },
+  "South Lakes": {
+    "lat": 38.94976,
+    "lng": -77.34624,
+    "city": "Reston"
+  },
+  "South County": {
+    "lat": 38.69872,
+    "lng": -77.21665,
+    "city": "Lorton"
+  },
+  "West Springfield": {
+    "lat": 38.78245,
+    "lng": -77.18572,
+    "city": "Springfield"
+  },
+  "Manchester": {
+    "lat": 37.48438,
+    "lng": -77.65446,
+    "city": "Midlothian"
+  },
+  "Westfield": {
+    "lat": 38.8896,
+    "lng": -77.44804,
+    "city": "Chantilly"
+  },
+  "Battlefield": {
+    "lat": 38.81217,
+    "lng": -77.63633,
+    "city": "Haymarket"
+  },
+  "Woodbridge": {
+    "lat": 38.63658,
+    "lng": -77.25018,
+    "city": "Woodbridge"
+  },
+  "Langley": {
+    "lat": 38.94561,
+    "lng": -77.19733,
+    "city": "McLean"
+  },
+  "L.C. Bird": {
+    "lat": 37.38955,
+    "lng": -77.57987,
+    "city": "Chesterfield"
+  },
+  "Centreville": {
+    "lat": 38.78013,
+    "lng": -77.38599,
+    "city": "Clifton"
+  },
+  "Stafford": {
+    "lat": 38.33018,
+    "lng": -77.46591,
+    "city": "Falmouth"
+  },
+  "Gar-Field": {
+    "lat": 38.6386,
+    "lng": -77.25471,
+    "city": "Woodbridge"
+  },
+  "Gainesville": {
+    "lat": 38.79319,
+    "lng": -77.64224,
+    "city": "Gainesville"
+  },
+  "Independence": {
+    "lat": 39.02785,
+    "lng": -77.46683,
+    "city": "Ashburn"
+  },
+  "Mount Vernon": {
+    "lat": 38.8221,
+    "lng": -77.07928,
+    "city": "Alexandria"
+  },
+  "Patriot": {
+    "lat": 38.69202,
+    "lng": -77.57469,
+    "city": "Nokesville"
+  },
+  "Cosby": {
+    "lat": 37.48544,
+    "lng": -77.65304,
+    "city": "Midlothian"
+  },
+  "Washington-Liberty": {
+    "lat": 38.87467,
+    "lng": -77.1054,
+    "city": "Arlington"
+  },
+  "West Potomac": {
+    "lat": 38.82209,
+    "lng": -77.08718,
+    "city": "Alexandria"
+  },
+  "Alexandria City": {
+    "lat": 38.81761,
+    "lng": -77.07757,
+    "city": "Alexandria"
+  },
+  "Lake Braddock": {
+    "lat": 38.77772,
+    "lng": -77.26259,
+    "city": "Burke"
+  },
+  "Yorktown": {
+    "lat": 38.87861,
+    "lng": -77.10593,
+    "city": "Arlington"
+  },
+  "Hayfield": {
+    "lat": 38.82555,
+    "lng": -77.08323,
+    "city": "Alexandria"
+  },
+  "Fairfax": {
+    "lat": 38.84932,
+    "lng": -77.29999,
+    "city": "Fairfax"
+  },
+  "Landstown": {
+    "lat": 36.77808,
+    "lng": -76.02775,
+    "city": "Virginia Beach"
+  },
+  "Chantilly": {
+    "lat": 38.89297,
+    "lng": -77.43963,
+    "city": "Chantilly"
+  },
+  "Forest Park": {
+    "lat": 38.64306,
+    "lng": -77.25177,
+    "city": "Woodbridge"
+  },
+  "George C. Marshall": {
+    "lat": 38.88834,
+    "lng": -77.17547,
+    "city": "Falls Church"
+  },
+  "Charles J. Colgan": {
+    "lat": 38.74842,
+    "lng": -77.48567,
+    "city": "Manassas"
+  },
+  "Robinson": {
+    "lat": 38.8516,
+    "lng": -77.3042,
+    "city": "Fairfax"
+  },
+  "Osbourn": {
+    "lat": 38.75144,
+    "lng": -77.48509,
+    "city": "Manassas"
+  },
+  "Woodson": {
+    "lat": 38.85075,
+    "lng": -77.29659,
+    "city": "Fairfax"
+  },
+  "Grassfield": {
+    "lat": 36.68302,
+    "lng": -76.29977,
+    "city": "Chesapeake"
+  },
+  "Mountain View": {
+    "lat": 38.41458,
+    "lng": -77.45663,
+    "city": "Stafford"
+  },
+  "McLean": {
+    "lat": 38.94141,
+    "lng": -77.19847,
+    "city": "Mclean"
+  },
+  "Falls Church": {
+    "lat": 38.8857,
+    "lng": -77.171,
+    "city": "Falls Church"
+  },
+  "Hartwood": {
+    "lat": 38.29307,
+    "lng": -77.48545,
+    "city": "Fredericksburg"
+  },
+  "Western Branch": {
+    "lat": 36.67865,
+    "lng": -76.30552,
+    "city": "Chesapeake"
+  },
+  "Potomac Senior": {
+    "lat": 38.56735,
+    "lng": -77.32242,
+    "city": "Dumfries"
+  },
+  "Edison": {
+    "lat": 38.81501,
+    "lng": -77.08643,
+    "city": "Alexandria"
+  },
+  "North Stafford": {
+    "lat": 38.41796,
+    "lng": -77.45956,
+    "city": "Stafford"
+  },
+  "Herndon": {
+    "lat": 38.97041,
+    "lng": -77.38707,
+    "city": "Herndon"
+  },
+  "Annandale": {
+    "lat": 38.8328,
+    "lng": -77.19623,
+    "city": "Annandale"
+  },
+  "Lewis": {
+    "lat": 38.77849,
+    "lng": -77.17968,
+    "city": "Springfield"
+  },
+  "Hylton": {
+    "lat": 38.6376,
+    "lng": -77.25192,
+    "city": "Woodbridge"
+  },
+  "Wakefield": {
+    "lat": 38.87746,
+    "lng": -77.10568,
+    "city": "Arlington"
+  },
+  "Unity Reed": {
+    "lat": 38.74974,
+    "lng": -77.48697,
+    "city": "Manassas"
+  },
+  "Justice": {
+    "lat": 38.88347,
+    "lng": -77.17841,
+    "city": "Falls Church"
+  },
+  "Osbourn Park": {
+    "lat": 38.74732,
+    "lng": -77.47941,
+    "city": "Manassas"
+  },
+  "J.R. Tucker": {
+    "lat": 37.51312,
+    "lng": -77.34651,
+    "city": "Henrico"
+  },
+  "Thomas Jefferson Science & Technology": {
+    "lat": 38.81335,
+    "lng": -77.08141,
+    "city": "Alexandria"
+  },
+  "Varina": {
+    "lat": 37.53033,
+    "lng": -77.47371,
+    "city": "Richmond"
+  },
+  "Jefferson Forest": {
+    "lat": 37.37493,
+    "lng": -79.27715,
+    "city": "Forest"
+  },
+  "Sherando": {
+    "lat": 39.09314,
+    "lng": -78.21832,
+    "city": "Stephens City"
+  },
+  "Huguenot": {
+    "lat": 37.53339,
+    "lng": -77.47584,
+    "city": "Richmond"
+  },
+  "Woodgrove": {
+    "lat": 39.13217,
+    "lng": -77.70966,
+    "city": "Purcellville"
+  },
+  "George Washington": {
+    "lat": 36.58333,
+    "lng": -79.40807,
+    "city": "Danville"
+  },
+  "James Wood": {
+    "lat": 39.17197,
+    "lng": -78.17052,
+    "city": "Winchester"
+  },
+  "Lafayette": {
+    "lat": 37.26688,
+    "lng": -76.70899,
+    "city": "Williamsburg"
+  },
+  "Loudoun Valley": {
+    "lat": 39.13996,
+    "lng": -77.71518,
+    "city": "Purcellville"
+  },
+  "Louisa County": {
+    "lat": 38.00758,
+    "lng": -77.90624,
+    "city": "Mineral"
+  },
+  "Courtland": {
+    "lat": 36.7081,
+    "lng": -77.05794,
+    "city": "Spotsylvania"
+  },
+  "Loudoun County": {
+    "lat": 39.10785,
+    "lng": -77.55473,
+    "city": "Leesburg"
+  },
+  "Smithfield": {
+    "lat": 36.97241,
+    "lng": -76.61415,
+    "city": "Smithfield"
+  },
+  "Warhill": {
+    "lat": 37.27084,
+    "lng": -76.71055,
+    "city": "Williamsburg"
+  },
+  "Phoebus": {
+    "lat": 37.04986,
+    "lng": -76.2951,
+    "city": "Hampton"
+  },
+  "Millbrook": {
+    "lat": 39.1765,
+    "lng": -78.17162,
+    "city": "Winchester"
+  },
+  "Hanover": {
+    "lat": 37.62551,
+    "lng": -77.35367,
+    "city": "Mechanicsville"
+  },
+  "Heritage": {
+    "lat": 39.10207,
+    "lng": -77.55949,
+    "city": "Leesburg"
+  },
+  "Spotsylvania": {
+    "lat": 38.19404,
+    "lng": -77.67387,
+    "city": "Spotsylvania"
   },
   "Hampton": {
-    "lat": 37.024,
-    "lng": -76.3829,
+    "lat": 37.04803,
+    "lng": -76.30109,
     "city": "Hampton"
   },
   "Handley": {
@@ -549,954 +1099,404 @@
     "lng": -78.18152,
     "city": "Winchester"
   },
-  "Hanover": {
-    "lat": 37.6886,
-    "lng": -77.3852,
+  "Atlee": {
+    "lat": 37.63304,
+    "lng": -77.35231,
     "city": "Mechanicsville"
   },
-  "Harrisonburg": {
-    "lat": 38.442773,
-    "lng": -78.909734,
-    "city": "Harrisonburg"
+  "Dinwiddie": {
+    "lat": 37.08501,
+    "lng": -77.58645,
+    "city": "Dinwiddie"
   },
-  "Hartwood": {
-    "lat": 38.29307,
-    "lng": -77.48545,
-    "city": "Fredericksburg"
-  },
-  "Hayfield": {
-    "lat": 38.750786,
-    "lng": -77.143765,
-    "city": "Alexandria"
-  },
-  "Henrico": {
-    "lat": 37.6037,
-    "lng": -77.4317,
-    "city": "Richmond"
-  },
-  "Heritage": {
-    "lat": 37.36298,
-    "lng": -79.206077,
+  "Glass": {
+    "lat": 37.39771,
+    "lng": -79.19328,
     "city": "Lynchburg"
   },
-  "Hermitage": {
-    "lat": 37.6333,
-    "lng": -77.5172,
-    "city": "Richmond"
+  "Mechanicsville": {
+    "lat": 37.63083,
+    "lng": -77.3522,
+    "city": "Mechanicsville"
   },
-  "Herndon": {
-    "lat": 38.9862,
-    "lng": -77.3747,
-    "city": "Herndon"
+  "Amherst County": {
+    "lat": 37.58189,
+    "lng": -79.052,
+    "city": "Amherst"
   },
-  "Hickory": {
-    "lat": 36.648,
-    "lng": -76.2158,
-    "city": "Chesapeake"
+  "Churchland": {
+    "lat": 36.85345,
+    "lng": -76.3579,
+    "city": "Portsmouth"
   },
-  "Hidden Valley": {
-    "lat": 37.224,
-    "lng": -80.0241,
-    "city": "Roanoke"
+  "Denbigh": {
+    "lat": 37.07738,
+    "lng": -76.51858,
+    "city": "Newport News"
   },
-  "Highland Springs": {
-    "lat": 37.536957,
-    "lng": -77.324,
-    "city": "Highland Springs"
-  },
-  "Holston": {
-    "lat": 36.6538,
-    "lng": -81.7942,
-    "city": "Damascus"
-  },
-  "Honaker": {
-    "lat": 37.0171,
-    "lng": -81.9783,
-    "city": "Honaker"
-  },
-  "Hopewell": {
-    "lat": 37.289838,
-    "lng": -77.315039,
-    "city": "Hopewell"
-  },
-  "Huguenot": {
-    "lat": 37.531707,
-    "lng": -77.540948,
-    "city": "Richmond"
-  },
-  "Hylton": {
-    "lat": 38.6376,
-    "lng": -77.25192,
-    "city": "Woodbridge"
-  },
-  "Independence": {
-    "lat": 38.976349,
-    "lng": -77.552782,
-    "city": "Ashburn"
-  },
-  "Indian River": {
-    "lat": 36.7974,
-    "lng": -76.2422,
-    "city": "Chesapeake"
-  },
-  "J.I. Burton": {
-    "lat": 36.9299,
-    "lng": -82.6334,
-    "city": "Norton"
-  },
-  "J.R. Tucker": {
-    "lat": 37.51312,
-    "lng": -77.34651,
-    "city": "Henrico"
-  },
-  "James Madison": {
-    "lat": 38.89512,
-    "lng": -77.25938,
-    "city": "Vienna"
-  },
-  "James Monroe": {
-    "lat": 38.311469,
-    "lng": -77.475201,
-    "city": "Fredericksburg"
-  },
-  "James River": {
-    "lat": 37.5469,
-    "lng": -79.7262,
-    "city": "Buchanan"
-  },
-  "James River Midlothian": {
-    "lat": 37.48127,
-    "lng": -77.6474,
-    "city": "Midlothian"
-  },
-  "James Wood": {
-    "lat": 39.2143,
-    "lng": -78.1826,
-    "city": "Winchester"
-  },
-  "Jamestown": {
-    "lat": 37.2527,
-    "lng": -76.7892,
-    "city": "Williamsburg"
-  },
-  "Jefferson Forest": {
-    "lat": 37.3761,
-    "lng": -79.3036,
-    "city": "Forest"
-  },
-  "John Battle": {
-    "lat": 36.61995,
-    "lng": -82.15958,
-    "city": "Bristol"
-  },
-  "John Champe": {
-    "lat": 38.9325,
-    "lng": -77.5663,
-    "city": "Aldie"
-  },
-  "John Marshall": {
-    "lat": 37.594196,
-    "lng": -77.446562,
-    "city": "Richmond"
-  },
-  "Justice": {
-    "lat": 38.857,
-    "lng": -77.15,
-    "city": "Falls Church"
-  },
-  "Kecoughtan": {
-    "lat": 37.0543,
-    "lng": -76.3188,
-    "city": "Hampton"
-  },
-  "Kellam": {
-    "lat": 36.77768,
-    "lng": -76.03423,
-    "city": "Virginia Beach"
-  },
-  "Kempsville": {
-    "lat": 36.8207,
-    "lng": -76.157,
-    "city": "Virginia Beach"
-  },
-  "Kettle Run": {
-    "lat": 38.732149,
-    "lng": -77.680902,
-    "city": "Nokesville"
+  "Blacksburg": {
+    "lat": 37.23126,
+    "lng": -80.42674,
+    "city": "Blacksburg"
   },
   "King George": {
-    "lat": 38.276127,
-    "lng": -77.197916,
+    "lat": 38.27944,
+    "lng": -77.18431,
     "city": "King George"
   },
-  "King William": {
-    "lat": 37.74214,
-    "lng": -77.130153,
-    "city": "King William"
+  "Grafton": {
+    "lat": 37.23096,
+    "lng": -76.51788,
+    "city": "Yorktown"
   },
-  "King's Fork": {
-    "lat": 36.784501,
-    "lng": -76.593338,
-    "city": "Suffolk"
+  "Broad Run": {
+    "lat": 39.02848,
+    "lng": -77.46928,
+    "city": "Ashburn"
   },
-  "L.C. Bird": {
-    "lat": 37.38955,
-    "lng": -77.57987,
-    "city": "Chesterfield"
+  "Henrico": {
+    "lat": 37.52907,
+    "lng": -77.47324,
+    "city": "Richmond"
   },
-  "Lafayette": {
-    "lat": 37.316,
-    "lng": -76.764,
+  "Tuscarora": {
+    "lat": 39.11075,
+    "lng": -77.55568,
+    "city": "Leesburg"
+  },
+  "Orange County": {
+    "lat": 38.24784,
+    "lng": -78.11319,
+    "city": "Orange"
+  },
+  "Monacan": {
+    "lat": 37.5357,
+    "lng": -77.47541,
+    "city": "Richmond"
+  },
+  "Mecklenburg County": {
+    "lat": 36.68441,
+    "lng": -78.2732,
+    "city": "Baskerville"
+  },
+  "Caroline": {
+    "lat": 38.02319,
+    "lng": -77.37331,
+    "city": "Milford"
+  },
+  "Powhatan": {
+    "lat": 37.54212,
+    "lng": -77.92708,
+    "city": "Powhatan"
+  },
+  "Eastern View": {
+    "lat": 38.47001,
+    "lng": -77.99435,
+    "city": "Culpeper"
+  },
+  "Charlottesville": {
+    "lat": 38.03383,
+    "lng": -78.48155,
+    "city": "Charlottesville"
+  },
+  "Chancellor": {
+    "lat": 38.19015,
+    "lng": -77.6788,
+    "city": "Spotsylvania"
+  },
+  "Manor": {
+    "lat": 36.86098,
+    "lng": -76.3602,
+    "city": "Portsmouth"
+  },
+  "Halifax County": {
+    "lat": 36.71182,
+    "lng": -78.91335,
+    "city": "South Boston"
+  },
+  "Gloucester": {
+    "lat": 37.44523,
+    "lng": -76.55945,
+    "city": "Gloucester"
+  },
+  "Richmond High School for the Arts": {
+    "lat": 37.53255,
+    "lng": -77.48001,
+    "city": "Richmond"
+  },
+  "Jamestown": {
+    "lat": 37.26737,
+    "lng": -76.7099,
     "city": "Williamsburg"
   },
-  "Lake Braddock": {
-    "lat": 38.8033,
-    "lng": -77.2661,
-    "city": "Burke"
+  "Dominion": {
+    "lat": 39.00209,
+    "lng": -77.40345,
+    "city": "Sterling"
   },
-  "Lake Taylor": {
-    "lat": 36.87,
-    "lng": -76.1982,
-    "city": "Norfolk"
+  "Park View": {
+    "lat": 39.00567,
+    "lng": -77.40187,
+    "city": "Sterling"
   },
-  "Lakeland": {
-    "lat": 36.721554,
-    "lng": -76.660371,
-    "city": "Suffolk"
-  },
-  "Lancaster": {
-    "lat": 37.768218,
-    "lng": -76.456065,
-    "city": "Lancaster"
-  },
-  "Landstown": {
-    "lat": 36.779279,
-    "lng": -76.10005,
-    "city": "Virginia Beach"
-  },
-  "Langley": {
-    "lat": 38.9499,
-    "lng": -77.1662,
-    "city": "McLean"
-  },
-  "Lebanon": {
-    "lat": 36.8885,
-    "lng": -82.1101,
-    "city": "Lebanon"
-  },
-  "Lee": {
-    "lat": 36.7308,
-    "lng": -83.0889,
-    "city": "Jonesville"
-  },
-  "Lewis": {
-    "lat": 38.7806,
-    "lng": -77.1695,
-    "city": "Springfield"
-  },
-  "Liberty": {
-    "lat": 38.5893,
-    "lng": -77.7655,
-    "city": "Bealeton"
+  "Rock Ridge": {
+    "lat": 39.03152,
+    "lng": -77.47338,
+    "city": "Ashburn"
   },
   "Liberty Christian": {
     "lat": 37.39943,
     "lng": -79.19778,
     "city": "Lynchburg"
   },
-  "Lightridge": {
-    "lat": 38.920657,
-    "lng": -77.584861,
-    "city": "Aldie"
-  },
-  "Lord Botetourt": {
-    "lat": 37.4055,
-    "lng": -79.9152,
-    "city": "Daleville"
-  },
-  "Loudoun County": {
-    "lat": 39.1109,
-    "lng": -77.5799,
-    "city": "Leesburg"
-  },
-  "Loudoun Valley": {
-    "lat": 39.1406,
-    "lng": -77.7017,
-    "city": "Purcellville"
-  },
-  "Louisa County": {
-    "lat": 38.0175,
-    "lng": -77.9211,
-    "city": "Mineral"
-  },
-  "Lunenburg Central": {
-    "lat": 36.99444,
-    "lng": -78.2243,
-    "city": "Victoria"
-  },
-  "Luray": {
-    "lat": 38.654879,
-    "lng": -78.485449,
-    "city": "Luray"
-  },
-  "Madison County": {
-    "lat": 38.3646,
-    "lng": -78.2685,
-    "city": "Madison"
-  },
-  "Magna Vista": {
-    "lat": 36.5928,
-    "lng": -79.8896,
-    "city": "Ridgeway"
-  },
-  "Manassas Park": {
-    "lat": 38.778278,
-    "lng": -77.440351,
-    "city": "Manassas Park"
-  },
-  "Manchester": {
-    "lat": 37.407,
-    "lng": -77.623,
-    "city": "Midlothian"
-  },
-  "Manor": {
-    "lat": 36.8139,
-    "lng": -76.3801,
-    "city": "Portsmouth"
-  },
-  "Marion": {
-    "lat": 36.838527,
-    "lng": -81.505059,
-    "city": "Marion"
-  },
-  "Martinsville": {
-    "lat": 36.694808,
-    "lng": -79.86169,
-    "city": "Martinsville"
-  },
-  "Massaponax": {
-    "lat": 38.1824,
-    "lng": -77.5114,
-    "city": "Fredericksburg"
-  },
-  "Matoaca": {
-    "lat": 37.2773,
-    "lng": -77.4673,
-    "city": "Chesterfield"
-  },
-  "Maury": {
-    "lat": 36.92413,
-    "lng": -76.24808,
-    "city": "Norfolk"
-  },
-  "McLean": {
-    "lat": 38.9233,
-    "lng": -77.186,
-    "city": "Mclean"
-  },
-  "Meadowbrook": {
-    "lat": 37.4357,
-    "lng": -77.4836,
-    "city": "North Chesterfield"
-  },
-  "Mechanicsville": {
-    "lat": 37.6127,
-    "lng": -77.3404,
-    "city": "Mechanicsville"
-  },
-  "Mecklenburg County": {
-    "lat": 36.67448,
-    "lng": -78.29243,
-    "city": "Baskerville"
-  },
-  "Menchville": {
-    "lat": 37.0963,
-    "lng": -76.5303,
-    "city": "Newport News"
-  },
-  "Meridian": {
-    "lat": 38.897961,
-    "lng": -77.192005,
-    "city": "Falls Church"
-  },
-  "Middlesex": {
-    "lat": 37.6079,
-    "lng": -76.6022,
-    "city": "Saluda"
-  },
-  "Midlothian": {
-    "lat": 37.496,
-    "lng": -77.6603,
-    "city": "Midlothian"
-  },
-  "Millbrook": {
-    "lat": 39.1912,
-    "lng": -78.1151,
-    "city": "Winchester"
-  },
-  "Monacan": {
-    "lat": 37.479,
-    "lng": -77.6133,
-    "city": "Richmond"
-  },
-  "Monticello": {
-    "lat": 37.999031,
-    "lng": -78.489184,
-    "city": "Charlottesville"
-  },
-  "Mount Vernon": {
-    "lat": 38.7266,
-    "lng": -77.0935,
-    "city": "Alexandria"
-  },
-  "Mountain View": {
-    "lat": 38.459,
-    "lng": -77.4979,
-    "city": "Stafford"
-  },
-  "Nandua": {
-    "lat": 37.6792,
-    "lng": -75.7256,
-    "city": "Onley"
-  },
-  "Nansemond River": {
-    "lat": 36.8017,
-    "lng": -76.5181,
-    "city": "Suffolk"
-  },
-  "Narrows": {
-    "lat": 37.3377,
-    "lng": -80.8044,
-    "city": "Narrows"
-  },
-  "Nelson County": {
-    "lat": 37.732508,
-    "lng": -78.89676,
-    "city": "Lovingston"
-  },
-  "New Kent": {
-    "lat": 37.510054,
-    "lng": -76.981097,
-    "city": "New Kent"
-  },
-  "Norcom": {
-    "lat": 36.86453,
-    "lng": -76.35624,
-    "city": "Portsmouth"
-  },
-  "North Stafford": {
-    "lat": 38.4669,
-    "lng": -77.4562,
-    "city": "Stafford"
-  },
-  "Northampton": {
-    "lat": 37.36144,
-    "lng": -75.940995,
-    "city": "Eastville"
-  },
-  "Northside": {
-    "lat": 37.3285,
-    "lng": -79.9989,
-    "city": "Roanoke"
-  },
-  "Northumberland": {
-    "lat": 37.912666,
-    "lng": -76.438549,
-    "city": "Heathsville"
-  },
-  "Northwood": {
-    "lat": 36.8788,
-    "lng": -81.7627,
-    "city": "Saltville"
-  },
-  "Norview": {
-    "lat": 36.9003,
-    "lng": -76.2405,
-    "city": "Norfolk"
-  },
-  "Nottoway": {
-    "lat": 37.1228,
-    "lng": -78.0644,
-    "city": "Crewe"
-  },
-  "Oakton": {
-    "lat": 38.8773,
-    "lng": -77.2827,
-    "city": "Vienna"
-  },
-  "Ocean Lakes": {
-    "lat": 36.7718,
-    "lng": -75.9815,
-    "city": "Virginia Beach"
-  },
-  "Orange County": {
-    "lat": 38.2452,
-    "lng": -78.0961,
-    "city": "Orange"
-  },
-  "Osbourn": {
-    "lat": 38.747421,
-    "lng": -77.46776,
-    "city": "Manassas"
-  },
-  "Osbourn Park": {
-    "lat": 38.7632,
-    "lng": -77.4492,
-    "city": "Manassas"
-  },
-  "Oscar Smith": {
-    "lat": 36.68218,
-    "lng": -76.30705,
-    "city": "Chesapeake"
-  },
-  "Page County": {
-    "lat": 38.563,
-    "lng": -78.6065,
-    "city": "Shenandoah"
-  },
-  "Park View": {
-    "lat": 39.015133,
-    "lng": -77.400498,
-    "city": "Sterling"
-  },
-  "Parry McCluer": {
-    "lat": 37.7183,
-    "lng": -79.3599,
-    "city": "Buena Vista"
-  },
-  "Patrick County": {
-    "lat": 36.62319,
-    "lng": -80.270749,
-    "city": "Stuart"
-  },
-  "Patrick Henry": {
-    "lat": 37.2551,
-    "lng": -79.9834,
-    "city": "Roanoke"
-  },
-  "Patriot": {
-    "lat": 38.7265,
-    "lng": -77.5801,
-    "city": "Nokesville"
-  },
   "Petersburg": {
-    "lat": 37.1871,
-    "lng": -77.3992,
+    "lat": 37.20473,
+    "lng": -77.39237,
     "city": "Petersburg"
   },
-  "Phoebus": {
-    "lat": 37.0344,
-    "lng": -76.3165,
-    "city": "Hampton"
+  "Broadway": {
+    "lat": 38.60849,
+    "lng": -78.80137,
+    "city": "Broadway"
   },
-  "Poquoson": {
-    "lat": 37.1288,
-    "lng": -76.38,
-    "city": "Poquoson"
+  "Turner Ashby": {
+    "lat": 38.38849,
+    "lng": -78.96445,
+    "city": "Bridgewater"
   },
-  "Potomac Falls": {
-    "lat": 39.0523,
-    "lng": -77.3905,
-    "city": "Potomac Falls"
+  "Magna Vista": {
+    "lat": 36.57817,
+    "lng": -79.85829,
+    "city": "Ridgeway"
   },
-  "Potomac Senior": {
-    "lat": 38.56735,
-    "lng": -77.32242,
-    "city": "Dumfries"
+  "William Byrd": {
+    "lat": 37.27424,
+    "lng": -79.88819,
+    "city": "Vinton"
   },
-  "Powhatan": {
-    "lat": 37.52211,
-    "lng": -77.802527,
-    "city": "Powhatan"
+  "Carroll County": {
+    "lat": 36.76161,
+    "lng": -80.7367,
+    "city": "Hillsville"
   },
-  "Prince Edward County": {
-    "lat": 37.2664,
-    "lng": -78.3992,
-    "city": "Farmville"
+  "Hopewell": {
+    "lat": 37.29101,
+    "lng": -77.29894,
+    "city": "Hopewell"
   },
-  "Prince George": {
-    "lat": 37.206,
-    "lng": -77.2662,
-    "city": "Prince George"
+  "Fluvanna County": {
+    "lat": 37.86637,
+    "lng": -78.25759,
+    "city": "Palmyra"
   },
-  "Princess Anne": {
-    "lat": 36.8449,
-    "lng": -76.1281,
-    "city": "Virginia Beach"
+  "Kettle Run": {
+    "lat": 38.69815,
+    "lng": -77.57735,
+    "city": "Nokesville"
   },
-  "Pulaski County": {
-    "lat": 37.0939,
-    "lng": -80.7173,
-    "city": "Dublin"
+  "Brookville": {
+    "lat": 37.40025,
+    "lng": -79.19788,
+    "city": "Lynchburg"
   },
-  "Radford": {
-    "lat": 37.1355,
-    "lng": -80.5699,
-    "city": "Radford"
+  "New Kent": {
+    "lat": 37.50948,
+    "lng": -76.98625,
+    "city": "New Kent"
   },
-  "Randolph-Henry": {
-    "lat": 37.0538,
-    "lng": -78.6471,
-    "city": "Charlotte C H"
+  "Tabb": {
+    "lat": 37.2368,
+    "lng": -76.51376,
+    "city": "Yorktown"
   },
-  "Rappahannock": {
-    "lat": 37.948982,
-    "lng": -76.743366,
-    "city": "Warsaw"
+  "Lord Botetourt": {
+    "lat": 37.41447,
+    "lng": -79.91377,
+    "city": "Daleville"
   },
-  "Richlands": {
-    "lat": 37.093448,
-    "lng": -81.777297,
-    "city": "Richlands"
+  "Skyline": {
+    "lat": 38.93021,
+    "lng": -78.18027,
+    "city": "Front Royal"
   },
-  "Richmond High School for the Arts": {
-    "lat": 37.510274,
-    "lng": -77.483075,
-    "city": "Richmond"
+  "Wilson Memorial": {
+    "lat": 38.10235,
+    "lng": -78.98616,
+    "city": "Fishersville"
   },
-  "Ridgeview": {
-    "lat": 37.134369,
-    "lng": -82.389672,
-    "city": "Clintwood"
+  "Booker T. Washington": {
+    "lat": 36.92876,
+    "lng": -76.24394,
+    "city": "Norfolk"
   },
-  "Riverbend": {
-    "lat": 38.295361,
-    "lng": -77.575187,
-    "city": "Fredericksburg"
+  "Cave Spring": {
+    "lat": 37.27232,
+    "lng": -79.95838,
+    "city": "Roanoke"
   },
-  "Riverheads": {
-    "lat": 38.0328,
-    "lng": -79.1401,
-    "city": "Staunton"
+  "Culpeper County": {
+    "lat": 38.46724,
+    "lng": -77.99506,
+    "city": "Culpeper"
   },
-  "Riverside": {
-    "lat": 39.092293,
-    "lng": -77.489784,
-    "city": "Leesburg"
+  "Warren County": {
+    "lat": 38.92514,
+    "lng": -78.18705,
+    "city": "Front Royal"
   },
-  "Robinson": {
-    "lat": 38.8161,
-    "lng": -77.3025,
-    "city": "Fairfax"
+  "Lake Taylor": {
+    "lat": 36.91983,
+    "lng": -76.24857,
+    "city": "Norfolk"
   },
-  "Rock Ridge": {
-    "lat": 38.978121,
-    "lng": -77.499972,
-    "city": "Ashburn"
+  "East Rockingham": {
+    "lat": 38.41069,
+    "lng": -78.61612,
+    "city": "Elkton"
   },
-  "Rockbridge County": {
-    "lat": 37.8018,
-    "lng": -79.4226,
-    "city": "Lexington"
+  "Northside": {
+    "lat": 37.27723,
+    "lng": -79.95554,
+    "city": "Roanoke"
+  },
+  "Monticello": {
+    "lat": 38.03421,
+    "lng": -78.48305,
+    "city": "Charlottesville"
+  },
+  "Staunton River": {
+    "lat": 37.18632,
+    "lng": -79.6123,
+    "city": "Moneta"
+  },
+  "Colonial Heights": {
+    "lat": 37.26168,
+    "lng": -77.3968,
+    "city": "Colonial Heights"
+  },
+  "Alleghany": {
+    "lat": 37.78106,
+    "lng": -79.98543,
+    "city": "Covington"
   },
   "Rocktown": {
     "lat": 38.43882,
     "lng": -78.87423,
     "city": "Harrisonburg"
   },
-  "Rural Retreat": {
-    "lat": 36.8952,
-    "lng": -81.2692,
-    "city": "Rural Retreat"
-  },
-  "Rustburg": {
-    "lat": 37.2766,
-    "lng": -79.0846,
-    "city": "Rustburg"
-  },
-  "Rye Cove": {
-    "lat": 36.7354,
-    "lng": -82.6909,
-    "city": "Duffield"
-  },
-  "Salem": {
-    "lat": 37.2954,
-    "lng": -80.0792,
-    "city": "Salem"
-  },
-  "Sherando": {
-    "lat": 39.0748,
-    "lng": -78.194,
-    "city": "Stephens City"
-  },
-  "Skyline": {
-    "lat": 38.9066,
-    "lng": -78.208,
-    "city": "Front Royal"
-  },
-  "Smith Mountain Lake Christian Academy": {
-    "lat": 37.18979,
-    "lng": -79.61702,
-    "city": "Moneta"
-  },
-  "Smithfield": {
-    "lat": 36.9452,
-    "lng": -76.5988,
-    "city": "Smithfield"
-  },
-  "South County": {
-    "lat": 38.717276,
-    "lng": -77.238618,
-    "city": "Lorton"
-  },
-  "South Lakes": {
-    "lat": 38.9321,
-    "lng": -77.3395,
-    "city": "Reston"
-  },
-  "Southampton": {
-    "lat": 36.7009,
-    "lng": -77.1064,
-    "city": "Courtland"
-  },
-  "Spotswood": {
-    "lat": 38.3754,
-    "lng": -78.7628,
-    "city": "Penn Laird"
-  },
-  "Spotsylvania": {
-    "lat": 38.16,
-    "lng": -77.6537,
-    "city": "Spotsylvania"
-  },
-  "Stafford": {
-    "lat": 38.360055,
-    "lng": -77.463511,
-    "city": "Fredericksburg"
-  },
-  "Staunton": {
-    "lat": 38.164907,
-    "lng": -79.052705,
-    "city": "Staunton"
-  },
-  "Staunton River": {
-    "lat": 37.2413,
-    "lng": -79.6228,
-    "city": "Moneta"
-  },
-  "Stone Bridge": {
-    "lat": 39.0492,
-    "lng": -77.5093,
-    "city": "Ashburn"
-  },
-  "Stonewall Jackson": {
-    "lat": 38.69089,
-    "lng": -78.68239,
-    "city": "Quicksburg"
-  },
-  "Strasburg": {
-    "lat": 38.9845,
-    "lng": -78.3633,
-    "city": "Strasburg"
-  },
-  "Stuarts Draft": {
-    "lat": 38.046556,
-    "lng": -79.012867,
-    "city": "Stuarts Draft"
-  },
-  "Surry County": {
-    "lat": 37.0803,
-    "lng": -76.904,
-    "city": "Dendron"
-  },
-  "Sussex Central": {
-    "lat": 36.92,
-    "lng": -77.2538,
-    "city": "Sussex"
-  },
-  "Tabb": {
-    "lat": 37.1235,
-    "lng": -76.4334,
-    "city": "Yorktown"
-  },
-  "Tallwood": {
-    "lat": 36.7843,
-    "lng": -76.1816,
-    "city": "Virginia Beach"
-  },
-  "Tazewell": {
-    "lat": 37.125,
-    "lng": -81.5053,
-    "city": "Tazewell"
-  },
-  "Thomas Dale": {
-    "lat": 37.3621,
-    "lng": -77.4367,
-    "city": "Chester"
-  },
-  "Thomas Jefferson": {
-    "lat": 37.571387,
-    "lng": -77.486325,
-    "city": "Richmond"
-  },
-  "Thomas Jefferson Science & Technology": {
-    "lat": 38.81335,
-    "lng": -77.08141,
-    "city": "Alexandria"
-  },
-  "Thomas Walker": {
-    "lat": 36.647559,
-    "lng": -83.407993,
-    "city": "Ewing"
-  },
-  "Tunstall": {
-    "lat": 36.6697,
-    "lng": -79.5246,
-    "city": "Dry Fork"
-  },
-  "Turner Ashby": {
-    "lat": 38.3951,
-    "lng": -78.9554,
-    "city": "Bridgewater"
-  },
-  "Tuscarora": {
-    "lat": 39.133155,
-    "lng": -77.558819,
-    "city": "Leesburg"
-  },
-  "Twin Springs": {
-    "lat": 36.7797,
-    "lng": -82.4633,
-    "city": "Nickelsville"
-  },
-  "Union": {
-    "lat": 36.879518,
-    "lng": -82.737078,
-    "city": "Big Stone Gap"
-  },
-  "Unity Reed": {
-    "lat": 38.7652,
-    "lng": -77.5086,
-    "city": "Manassas"
-  },
-  "Varina": {
-    "lat": 37.4719,
-    "lng": -77.3784,
-    "city": "Richmond"
-  },
-  "Virginia High": {
-    "lat": 36.614377,
-    "lng": -82.179936,
-    "city": "Bristol"
-  },
-  "Wakefield": {
-    "lat": 38.847656,
-    "lng": -77.11175,
-    "city": "Arlington"
-  },
-  "Warhill": {
-    "lat": 37.332946,
-    "lng": -76.756911,
-    "city": "Williamsburg"
-  },
-  "Warren County": {
-    "lat": 38.9166,
-    "lng": -78.1678,
-    "city": "Front Royal"
-  },
-  "Warwick": {
-    "lat": 37.0525,
-    "lng": -76.4759,
-    "city": "Newport News"
-  },
-  "Washington-Liberty": {
-    "lat": 38.8878,
-    "lng": -77.1103,
-    "city": "Arlington"
-  },
-  "Waynesboro": {
-    "lat": 38.070577,
-    "lng": -78.897895,
-    "city": "Waynesboro"
-  },
-  "West Point": {
-    "lat": 37.5577,
-    "lng": -76.7968,
-    "city": "West Point"
-  },
-  "West Potomac": {
-    "lat": 38.774392,
-    "lng": -77.072374,
-    "city": "Alexandria"
-  },
-  "West Springfield": {
-    "lat": 38.7863,
-    "lng": -77.2402,
-    "city": "Springfield"
+  "Goochland": {
+    "lat": 37.69707,
+    "lng": -77.89365,
+    "city": "Goochland"
   },
   "Western Albemarle": {
-    "lat": 38.0471,
-    "lng": -78.7073,
+    "lat": 38.06492,
+    "lng": -78.69696,
     "city": "Crozet"
   },
-  "Western Branch": {
-    "lat": 36.848,
-    "lng": -76.4074,
-    "city": "Chesapeake"
+  "Brentsville District": {
+    "lat": 38.69529,
+    "lng": -77.58115,
+    "city": "Nokesville"
   },
-  "Westfield": {
-    "lat": 38.8853,
-    "lng": -77.4643,
-    "city": "Chantilly"
+  "Abingdon": {
+    "lat": 36.70667,
+    "lng": -81.97163,
+    "city": "Abingdon"
   },
-  "Westmoreland": {
-    "lat": 38.092826,
-    "lng": -76.811154,
-    "city": "Montross"
+  "Spotswood": {
+    "lat": 38.38568,
+    "lng": -78.80252,
+    "city": "Penn Laird"
   },
-  "William Byrd": {
-    "lat": 37.284,
-    "lng": -79.8585,
-    "city": "Vinton"
+  "Norcom": {
+    "lat": 36.86453,
+    "lng": -76.35624,
+    "city": "Portsmouth"
   },
-  "William Campbell": {
-    "lat": 37.113,
-    "lng": -79.007,
-    "city": "Naruna"
+  "Tunstall": {
+    "lat": 36.75458,
+    "lng": -79.39975,
+    "city": "Dry Fork"
+  },
+  "Christiansburg": {
+    "lat": 37.14066,
+    "lng": -80.40451,
+    "city": "Christiansburg"
+  },
+  "Meridian": {
+    "lat": 38.88127,
+    "lng": -77.17793,
+    "city": "Falls Church"
+  },
+  "Bassett": {
+    "lat": 36.76152,
+    "lng": -79.98655,
+    "city": "Bassett"
+  },
+  "Rustburg": {
+    "lat": 37.27219,
+    "lng": -79.1001,
+    "city": "Rustburg"
+  },
+  "Staunton": {
+    "lat": 38.15518,
+    "lng": -79.06694,
+    "city": "Staunton"
+  },
+  "James Monroe": {
+    "lat": 38.2954,
+    "lng": -77.48433,
+    "city": "Fredericksburg"
+  },
+  "Pulaski County": {
+    "lat": 37.1055,
+    "lng": -80.6897,
+    "city": "Dublin"
+  },
+  "Waynesboro": {
+    "lat": 38.06716,
+    "lng": -78.90142,
+    "city": "Waynesboro"
   },
   "William Monroe": {
-    "lat": 38.2938,
-    "lng": -78.4435,
+    "lat": 38.29906,
+    "lng": -78.43683,
     "city": "Stanardsville"
   },
-  "Wilson Memorial": {
-    "lat": 38.1211,
-    "lng": -78.9847,
-    "city": "Fishersville"
+  "Lakeland": {
+    "lat": 36.69539,
+    "lng": -76.63773,
+    "city": "Suffolk"
   },
-  "Windsor": {
-    "lat": 36.8106,
-    "lng": -76.7394,
-    "city": "Windsor"
+  "Hidden Valley": {
+    "lat": 37.28027,
+    "lng": -79.96172,
+    "city": "Roanoke"
   },
-  "Woodbridge": {
-    "lat": 38.6815,
-    "lng": -77.3021,
-    "city": "Woodbridge"
+  "Rockbridge County": {
+    "lat": 37.78233,
+    "lng": -79.44432,
+    "city": "Lexington"
   },
-  "Woodgrove": {
-    "lat": 39.1542,
-    "lng": -77.7271,
-    "city": "Purcellville"
-  },
-  "Woodside": {
-    "lat": 37.1731,
-    "lng": -76.5242,
-    "city": "Newport News"
-  },
-  "Woodson": {
-    "lat": 38.8401,
-    "lng": -77.2768,
-    "city": "Fairfax"
+  "Fauquier": {
+    "lat": 38.71782,
+    "lng": -77.79732,
+    "city": "Warrenton"
   },
   "York": {
-    "lat": 37.2039,
-    "lng": -76.5,
+    "lat": 37.23822,
+    "lng": -76.52241,
     "city": "Yorktown"
   },
-  "Yorktown": {
-    "lat": 38.902846,
-    "lng": -77.140447,
-    "city": "Arlington"
+  "Manassas Park": {
+    "lat": 38.7694,
+    "lng": -77.44232,
+    "city": "Manassas Park"
+  },
+  "Harrisonburg": {
+    "lat": 38.43373,
+    "lng": -78.87348,
+    "city": "Harrisonburg"
   }
 }

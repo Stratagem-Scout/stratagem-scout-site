@@ -1,1127 +1,47 @@
 {
-  "A.J. Ellender": {
-    "lat": 29.57896,
-    "lng": -90.70604,
-    "city": "Houma"
-  },
-  "Abbeville": {
-    "lat": 29.983,
-    "lng": -92.1055,
-    "city": "Abbeville"
-  },
-  "Abramson": {
-    "lat": 30.05797,
-    "lng": -89.93889,
-    "city": "New Orleans"
-  },
-  "Acadiana": {
-    "lat": 30.2043,
-    "lng": -92.0911,
-    "city": "Lafayette"
-  },
-  "Airline": {
-    "lat": 32.55327,
-    "lng": -93.71143,
-    "city": "Bossier City"
-  },
-  "Albany": {
-    "lat": 30.49934,
-    "lng": -90.5878,
-    "city": "Albany"
-  },
-  "Alexandria": {
-    "lat": 31.26838,
-    "lng": -92.48919,
-    "city": "Alexandria"
-  },
-  "Amite": {
-    "lat": 30.7221,
-    "lng": -90.5063,
-    "city": "Amite"
-  },
-  "Arcadia": {
-    "lat": 32.5553,
-    "lng": -92.9076,
-    "city": "Arcadia"
-  },
-  "Archbishop Hannan": {
-    "lat": 30.48182,
-    "lng": -90.11353,
-    "city": "Covington"
-  },
-  "Archbishop Rummel": {
-    "lat": 29.99727,
-    "lng": -90.18317,
-    "city": "Metairie"
-  },
-  "Archbishop Shaw": {
-    "lat": 29.88008,
-    "lng": -90.11562,
-    "city": "Marrero"
-  },
-  "Ascension Catholic": {
-    "lat": 30.09233,
-    "lng": -90.99114,
-    "city": "Donaldsonville"
-  },
-  "Ascension Christian": {
-    "lat": 30.21112,
-    "lng": -90.92,
-    "city": "Gonzales"
-  },
-  "Ascension Episcopal": {
-    "lat": 30.20335,
-    "lng": -92.02623,
-    "city": "Lafayette"
-  },
-  "Assumption": {
-    "lat": 29.946323,
-    "lng": -91.026402,
-    "city": "Napoleonville"
-  },
-  "Avoyelles": {
-    "lat": 31.0354,
-    "lng": -91.9726,
-    "city": "Moreauville"
-  },
-  "Baker": {
-    "lat": 30.5876,
-    "lng": -91.166,
-    "city": "Baker"
-  },
-  "Barbe": {
-    "lat": 30.177,
-    "lng": -93.2563,
-    "city": "Lake Charles"
-  },
-  "Basile": {
-    "lat": 30.487344,
-    "lng": -92.597193,
-    "city": "Basile"
-  },
-  "Bastrop": {
-    "lat": 32.7889,
-    "lng": -91.9203,
-    "city": "Bastrop"
-  },
-  "Beau Chene": {
-    "lat": 30.403421,
-    "lng": -92.001295,
-    "city": "Arnaudville"
-  },
-  "Beekman Charter": {
-    "lat": 32.92486,
-    "lng": -91.88661,
-    "city": "Bastrop"
-  },
-  "Belaire": {
-    "lat": 30.4677,
-    "lng": -91.0483,
-    "city": "Baton Rouge"
-  },
-  "Belle Chasse": {
-    "lat": 29.85507,
-    "lng": -89.98664,
-    "city": "Belle Chasse"
-  },
-  "Benjamin Franklin": {
-    "lat": 30.024374,
-    "lng": -90.065491,
-    "city": "New Orleans"
-  },
-  "Benton": {
-    "lat": 32.64382,
-    "lng": -93.72606,
-    "city": "Benton"
-  },
-  "Berchmans Academy": {
-    "lat": 30.42024,
-    "lng": -92.04379,
-    "city": "Grand Coteau"
-  },
-  "Berwick": {
-    "lat": 29.714371,
-    "lng": -91.240224,
-    "city": "Berwick"
-  },
-  "Block": {
-    "lat": 31.6279,
-    "lng": -91.8174,
-    "city": "Jonesville"
-  },
-  "Bogalusa": {
-    "lat": 30.7802,
-    "lng": -89.8679,
-    "city": "Bogalusa"
-  },
-  "Bonnabel": {
-    "lat": 30.0106,
-    "lng": -90.22704,
-    "city": "Kenner"
-  },
-  "Booker T. Washington": {
-    "lat": 29.94991,
-    "lng": -90.08925,
-    "city": "New Orleans"
-  },
-  "Booker T. Washington-Shreveport": {
-    "lat": 32.4671,
-    "lng": -93.79472,
-    "city": "Shreveport"
-  },
-  "Bossier": {
-    "lat": 32.5193,
-    "lng": -93.7296,
-    "city": "Bossier City"
-  },
-  "Bourgeois": {
-    "lat": 29.678,
-    "lng": -90.78314,
-    "city": "Gray"
-  },
-  "Breaux Bridge": {
-    "lat": 30.255015,
-    "lng": -91.857879,
-    "city": "Breaux Bridge"
-  },
-  "Broadmoor": {
-    "lat": 30.4423,
-    "lng": -91.0756,
-    "city": "Baton Rouge"
-  },
-  "Brother Martin": {
-    "lat": 30.04997,
-    "lng": -89.93649,
-    "city": "New Orleans"
-  },
-  "Brusly": {
-    "lat": 30.394312,
-    "lng": -91.237713,
-    "city": "Brusly"
-  },
-  "Buckeye": {
-    "lat": 31.3662,
-    "lng": -92.18508,
-    "city": "Deville"
-  },
-  "Bunkie": {
-    "lat": 30.9524,
-    "lng": -92.1737,
-    "city": "Bunkie"
-  },
-  "Byrd": {
-    "lat": 32.4682,
-    "lng": -93.78787,
-    "city": "Shreveport"
-  },
-  "Caldwell Parish": {
-    "lat": 32.06026,
-    "lng": -92.09665,
-    "city": "Columbia"
-  },
-  "Calvary Baptist Academy": {
-    "lat": 32.46132,
-    "lng": -93.7906,
-    "city": "Shreveport"
-  },
-  "Capitol": {
-    "lat": 30.458652,
-    "lng": -91.164466,
-    "city": "Baton Rouge"
-  },
-  "Captain Shreve": {
-    "lat": 32.4482,
-    "lng": -93.7124,
-    "city": "Shreveport"
-  },
-  "Carencro": {
-    "lat": 30.2871,
-    "lng": -92.041,
-    "city": "Lafayette"
-  },
-  "Carroll": {
-    "lat": 32.515,
-    "lng": -92.086,
-    "city": "Monroe"
-  },
-  "Carver Collegiate Academy": {
-    "lat": 30.04968,
-    "lng": -89.93136,
-    "city": "New Orleans"
-  },
-  "Catholic": {
-    "lat": 30.43584,
-    "lng": -91.1303,
-    "city": "Baton Rouge"
-  },
-  "Catholic - N.I.": {
-    "lat": 30.00564,
-    "lng": -91.81615,
-    "city": "New Iberia"
-  },
-  "Catholic of Pointe Coupee": {
-    "lat": 30.69592,
-    "lng": -91.45379,
-    "city": "New Roads"
-  },
-  "Cecilia": {
-    "lat": 30.338377,
-    "lng": -91.844123,
-    "city": "Cecilia"
-  },
-  "Cedar Creek": {
-    "lat": 32.53654,
-    "lng": -92.63352,
-    "city": "Ruston"
-  },
-  "Centerville": {
-    "lat": 29.75932,
-    "lng": -91.429505,
-    "city": "Centerville"
-  },
-  "Central": {
-    "lat": 30.5419,
-    "lng": -91.0187,
-    "city": "Baton Rouge"
-  },
-  "Central Catholic": {
-    "lat": 29.71539,
-    "lng": -91.19145,
-    "city": "Morgan City"
-  },
-  "Central Lafourche": {
-    "lat": 29.6945,
-    "lng": -90.555,
-    "city": "Raceland"
-  },
-  "Central Private": {
-    "lat": 30.57904,
-    "lng": -91.15803,
-    "city": "Baker"
-  },
-  "Chalmette": {
-    "lat": 29.9378,
-    "lng": -89.9537,
-    "city": "Chalmette"
-  },
-  "Church Point": {
-    "lat": 30.4,
-    "lng": -92.2101,
-    "city": "Church Point"
-  },
-  "Cohen": {
-    "lat": 30.05584,
-    "lng": -89.93853,
-    "city": "New Orleans"
-  },
-  "Collegiate": {
-    "lat": 30.4455,
-    "lng": -91.13511,
-    "city": "Baton Rouge"
-  },
-  "Covenant Christian Academy": {
-    "lat": 29.58065,
-    "lng": -90.7052,
-    "city": "Houma"
-  },
-  "Covington": {
-    "lat": 30.49404,
-    "lng": -90.13252,
-    "city": "Covington"
-  },
-  "Crowley": {
-    "lat": 30.2589,
-    "lng": -92.4027,
-    "city": "Crowley"
-  },
-  "D'Arbonne Woods": {
-    "lat": 32.742638,
-    "lng": -92.430682,
-    "city": "Farmerville"
-  },
-  "De La Salle": {
-    "lat": 30.05363,
-    "lng": -89.93251,
-    "city": "New Orleans"
-  },
-  "DeQuincy": {
-    "lat": 30.4513,
-    "lng": -93.4452,
-    "city": "Dequincy"
-  },
-  "DeRidder": {
-    "lat": 30.8565,
-    "lng": -93.3073,
-    "city": "Deridder"
-  },
-  "Delcambre": {
-    "lat": 29.947361,
-    "lng": -91.99309,
-    "city": "Delcambre"
-  },
-  "Delhi": {
-    "lat": 32.4635,
-    "lng": -91.4917,
-    "city": "Delhi"
-  },
-  "Delhi Charter": {
-    "lat": 32.42656,
-    "lng": -91.497151,
-    "city": "Delhi"
-  },
-  "Delta Charter": {
-    "lat": 31.63703,
-    "lng": -91.55775,
-    "city": "Ferriday"
-  },
-  "Denham Springs": {
-    "lat": 30.49679,
-    "lng": -90.95545,
-    "city": "Denham Springs"
-  },
-  "Destrehan": {
-    "lat": 29.9647,
-    "lng": -90.383,
-    "city": "Destrehan"
-  },
-  "Donaldsonville": {
-    "lat": 30.09977,
-    "lng": -91.000753,
-    "city": "Donaldsonville"
-  },
-  "Dunham": {
-    "lat": 30.44532,
-    "lng": -91.13317,
-    "city": "Baton Rouge"
-  },
-  "Dutchtown": {
-    "lat": 30.259736,
-    "lng": -90.990998,
-    "city": "Geismar"
-  },
-  "E.D. White": {
-    "lat": 29.79695,
-    "lng": -90.81098,
-    "city": "Thibodaux"
-  },
-  "East Ascension": {
-    "lat": 30.226571,
-    "lng": -90.914809,
-    "city": "Gonzales"
-  },
-  "East Beauregard": {
-    "lat": 30.7446,
-    "lng": -93.02689,
-    "city": "DeRidder"
-  },
-  "East Feliciana": {
-    "lat": 30.8335,
-    "lng": -91.1918,
-    "city": "Jackson"
-  },
-  "East Iberville": {
-    "lat": 30.2552,
-    "lng": -91.10036,
-    "city": "St. Gabriel"
-  },
-  "East Jefferson": {
-    "lat": 29.97761,
-    "lng": -90.18139,
-    "city": "Metairie"
-  },
-  "East St. John": {
-    "lat": 30.07933,
-    "lng": -90.531486,
+  "Riverside Academy": {
+    "lat": 30.07643,
+    "lng": -90.55657,
     "city": "Reserve"
-  },
-  "Edna Karr": {
-    "lat": 29.93641,
-    "lng": -90.008329,
-    "city": "New Orleans"
-  },
-  "Eleanor McMain": {
-    "lat": 29.941876,
-    "lng": -90.111898,
-    "city": "New Orleans"
-  },
-  "Elton": {
-    "lat": 30.4788,
-    "lng": -92.6932,
-    "city": "Elton"
-  },
-  "Episcopal": {
-    "lat": 30.44605,
-    "lng": -91.13177,
-    "city": "Baton Rouge"
-  },
-  "Erath": {
-    "lat": 29.952,
-    "lng": -92.0361,
-    "city": "Erath"
-  },
-  "Eunice": {
-    "lat": 30.491296,
-    "lng": -92.441185,
-    "city": "Eunice"
-  },
-  "Evangel Christian Academy": {
-    "lat": 32.46552,
-    "lng": -93.79574,
-    "city": "Shreveport"
-  },
-  "Ferriday": {
-    "lat": 31.6379,
-    "lng": -91.5537,
-    "city": "Ferriday"
-  },
-  "Fisher": {
-    "lat": 29.856734,
-    "lng": -90.105606,
-    "city": "Marrero"
-  },
-  "Fontainebleau": {
-    "lat": 30.40717,
-    "lng": -90.03758,
-    "city": "Mandeville"
-  },
-  "Franklin": {
-    "lat": 29.80467,
-    "lng": -91.501778,
-    "city": "Franklin"
-  },
-  "Franklin Parish": {
-    "lat": 32.1515,
-    "lng": -91.7277,
-    "city": "Winnsboro"
-  },
-  "Franklinton": {
-    "lat": 30.8594,
-    "lng": -90.1239,
-    "city": "Franklinton"
-  },
-  "General Trass": {
-    "lat": 32.8007,
-    "lng": -91.1777,
-    "city": "Lake Providence"
-  },
-  "Glen Oaks": {
-    "lat": 30.5112,
-    "lng": -91.121,
-    "city": "Baton Rouge"
-  },
-  "Glenbrook": {
-    "lat": 32.61862,
-    "lng": -93.26972,
-    "city": "Minden"
-  },
-  "Grand Lake": {
-    "lat": 30.0163,
-    "lng": -93.1884,
-    "city": "Lake Charles"
-  },
-  "Grant": {
-    "lat": 31.5548,
-    "lng": -92.5212,
-    "city": "Dry Prong"
-  },
-  "Green Oaks": {
-    "lat": 32.47214,
-    "lng": -93.79535,
-    "city": "Shreveport"
-  },
-  "Gueydan": {
-    "lat": 30.0262,
-    "lng": -92.504,
-    "city": "Gueydan"
-  },
-  "Hahnville": {
-    "lat": 29.89,
-    "lng": -90.4063,
-    "city": "Boutte"
-  },
-  "Hammond": {
-    "lat": 30.5173,
-    "lng": -90.3798,
-    "city": "Hammond"
-  },
-  "Hanson Memorial": {
-    "lat": 29.78401,
-    "lng": -91.50515,
-    "city": "Franklin"
-  },
-  "Haughton": {
-    "lat": 32.5341,
-    "lng": -93.5009,
-    "city": "Haughton"
-  },
-  "Haynes Academy": {
-    "lat": 30.00026,
-    "lng": -90.18181,
-    "city": "Metairie"
-  },
-  "Haynesville": {
-    "lat": 32.958211,
-    "lng": -93.136953,
-    "city": "Haynesville"
-  },
-  "Highland Baptist Christian": {
-    "lat": 30.00424,
-    "lng": -91.81852,
-    "city": "New Iberia"
-  },
-  "Holy Cross": {
-    "lat": 30.05748,
-    "lng": -89.93252,
-    "city": "New Orleans"
-  },
-  "Holy Savior Menard": {
-    "lat": 31.29223,
-    "lng": -92.47221,
-    "city": "Alexandria"
-  },
-  "Homer": {
-    "lat": 32.7927,
-    "lng": -93.0677,
-    "city": "Homer"
-  },
-  "Houma Christian": {
-    "lat": 29.5767,
-    "lng": -90.7059,
-    "city": "Houma"
-  },
-  "Huntington": {
-    "lat": 32.44775,
-    "lng": -93.85663,
-    "city": "Shreveport"
-  },
-  "Independence": {
-    "lat": 30.6346,
-    "lng": -90.4943,
-    "city": "Independence"
-  },
-  "Iota": {
-    "lat": 30.3258,
-    "lng": -92.4956,
-    "city": "Iota"
-  },
-  "Iowa": {
-    "lat": 30.24483,
-    "lng": -93.01679,
-    "city": "Iowa"
-  },
-  "Istrouma": {
-    "lat": 30.47772,
-    "lng": -91.152246,
-    "city": "Baton Rouge"
-  },
-  "JS Clark Leadership Academy": {
-    "lat": 30.544314,
-    "lng": -92.099145,
-    "city": "Opelousas"
-  },
-  "Jeanerette": {
-    "lat": 29.9452,
-    "lng": -91.7026,
-    "city": "Jeanerette"
-  },
-  "Jefferson RISE Charter": {
-    "lat": 29.870008,
-    "lng": -90.081196,
-    "city": "Harvey"
-  },
-  "Jena": {
-    "lat": 31.6912,
-    "lng": -92.128,
-    "city": "Jena"
-  },
-  "Jennings": {
-    "lat": 30.243,
-    "lng": -92.65105,
-    "city": "Jennings"
-  },
-  "Jesuit": {
-    "lat": 30.05399,
-    "lng": -89.92911,
-    "city": "New Orleans"
-  },
-  "John Curtis Christian": {
-    "lat": 29.95861,
-    "lng": -90.22205,
-    "city": "River Ridge"
-  },
-  "John Ehret": {
-    "lat": 29.882,
-    "lng": -90.09163,
-    "city": "Marrero"
-  },
-  "Jonesboro-Hodge": {
-    "lat": 32.2471,
-    "lng": -92.7187,
-    "city": "Jonesboro"
-  },
-  "Kaplan": {
-    "lat": 29.9956,
-    "lng": -92.2724,
-    "city": "Kaplan"
-  },
-  "Kennedy": {
-    "lat": 30.05113,
-    "lng": -89.93629,
-    "city": "New Orleans"
-  },
-  "Kenner Discovery Health Sciences Academy": {
-    "lat": 30.001528,
-    "lng": -90.232051,
-    "city": "Kenner"
-  },
-  "Kentwood": {
-    "lat": 30.938,
-    "lng": -90.515,
-    "city": "Kentwood"
-  },
-  "Kinder": {
-    "lat": 30.481174,
-    "lng": -92.861628,
-    "city": "Kinder"
-  },
-  "L.W. Higgins": {
-    "lat": 29.88305,
-    "lng": -90.12887,
-    "city": "Marrero"
-  },
-  "LaGrange": {
-    "lat": 30.19544,
-    "lng": -93.20689,
-    "city": "Lake Charles"
-  },
-  "LaSalle": {
-    "lat": 31.897402,
-    "lng": -92.24236,
-    "city": "Olla"
-  },
-  "Lafayette": {
-    "lat": 30.2078,
-    "lng": -92.058,
-    "city": "Lafayette"
-  },
-  "Lafayette Christian Academy": {
-    "lat": 30.20682,
-    "lng": -92.03204,
-    "city": "Lafayette"
-  },
-  "Lafayette Renaissance Charter Academy": {
-    "lat": 30.270075,
-    "lng": -92.029506,
-    "city": "Lafayette"
-  },
-  "Lake Arthur": {
-    "lat": 30.0969,
-    "lng": -92.6692,
-    "city": "Lake Arthur"
-  },
-  "Lake Charles College Prep": {
-    "lat": 30.189025,
-    "lng": -93.174231,
-    "city": "Lake Charles"
-  },
-  "Lakeshore": {
-    "lat": 30.405869,
-    "lng": -89.965342,
-    "city": "Mandeville"
-  },
-  "Lakeside": {
-    "lat": 32.5171,
-    "lng": -93.304,
-    "city": "Sibley"
-  },
-  "Lakeview": {
-    "lat": 31.92383,
-    "lng": -93.087174,
-    "city": "Campti"
-  },
-  "Leesville": {
-    "lat": 31.1507,
-    "lng": -93.2572,
-    "city": "Leesville"
-  },
-  "Liberty Magnet": {
-    "lat": 30.40626,
-    "lng": -91.15278,
-    "city": "Baton Rouge"
-  },
-  "Lincoln Prep": {
-    "lat": 32.535657,
-    "lng": -92.69285,
-    "city": "Grambling"
-  },
-  "Live Oak": {
-    "lat": 30.591287,
-    "lng": -90.950626,
-    "city": "Watson"
-  },
-  "Livonia": {
-    "lat": 30.55955,
-    "lng": -91.55446,
-    "city": "Livonia"
-  },
-  "Logansport": {
-    "lat": 32.0018,
-    "lng": -93.9925,
-    "city": "Logansport"
-  },
-  "Loranger": {
-    "lat": 30.640538,
-    "lng": -90.400015,
-    "city": "Loranger"
-  },
-  "Lord Beaconsfield Landry": {
-    "lat": 30.0511,
-    "lng": -89.93495,
-    "city": "New Orleans"
-  },
-  "Loreauville": {
-    "lat": 30.05934,
-    "lng": -91.7369,
-    "city": "Loreauville"
-  },
-  "Loyola College Prep": {
-    "lat": 32.46209,
-    "lng": -93.79542,
-    "city": "Shreveport"
-  },
-  "Lutcher": {
-    "lat": 30.0461,
-    "lng": -90.6949,
-    "city": "Lutcher"
-  },
-  "Madison": {
-    "lat": 32.398398,
-    "lng": -91.207466,
-    "city": "Tallulah"
-  },
-  "Madison Prep Academy": {
-    "lat": 30.4685,
-    "lng": -91.17289,
-    "city": "Baton Rouge"
-  },
-  "Magnolia School of Excellence": {
-    "lat": 32.495231,
-    "lng": -93.71088,
-    "city": "Shreveport"
-  },
-  "Mamou": {
-    "lat": 30.636785,
-    "lng": -92.417923,
-    "city": "Mamou"
-  },
-  "Mandeville": {
-    "lat": 30.3813,
-    "lng": -90.1017,
-    "city": "Mandeville"
-  },
-  "Mangham": {
-    "lat": 32.310231,
-    "lng": -91.786506,
-    "city": "Mangham"
-  },
-  "Mansfield": {
-    "lat": 32.0294,
-    "lng": -93.7191,
-    "city": "Mansfield"
-  },
-  "Many": {
-    "lat": 31.5941,
-    "lng": -93.4501,
-    "city": "Many"
-  },
-  "Marksville": {
-    "lat": 31.1271,
-    "lng": -92.0716,
-    "city": "Marksville"
-  },
-  "McDonogh 35": {
-    "lat": 29.99766,
-    "lng": -90.082776,
-    "city": "New Orleans"
-  },
-  "McKinley": {
-    "lat": 30.42335,
-    "lng": -91.17434,
-    "city": "Baton Rouge"
-  },
-  "Merryville": {
-    "lat": 30.7464,
-    "lng": -93.537,
-    "city": "Merryville"
-  },
-  "Metairie Park Country Day": {
-    "lat": 29.99929,
-    "lng": -90.17592,
-    "city": "Metairie"
-  },
-  "Minden": {
-    "lat": 32.61935,
-    "lng": -93.28889,
-    "city": "Minden"
-  },
-  "Montgomery": {
-    "lat": 31.668,
-    "lng": -92.8931,
-    "city": "Montgomery"
-  },
-  "Morgan City": {
-    "lat": 29.716971,
-    "lng": -91.204355,
-    "city": "Morgan City"
-  },
-  "Natchitoches Central": {
-    "lat": 31.745322,
-    "lng": -93.108387,
-    "city": "Natchitoches"
-  },
-  "Neville": {
-    "lat": 32.5223,
-    "lng": -92.1257,
-    "city": "Monroe"
-  },
-  "New Iberia": {
-    "lat": 29.98284,
-    "lng": -91.81261,
-    "city": "New Iberia"
-  },
-  "Newman": {
-    "lat": 30.05632,
-    "lng": -89.93445,
-    "city": "New Orleans"
-  },
-  "North Caddo": {
-    "lat": 32.86099,
-    "lng": -93.99037,
-    "city": "Vivian"
-  },
-  "North Central": {
-    "lat": 30.727726,
-    "lng": -91.984475,
-    "city": "Washington"
-  },
-  "North DeSoto": {
-    "lat": 32.234133,
-    "lng": -93.827759,
-    "city": "Stonewall"
-  },
-  "North Iberville": {
-    "lat": 30.457882,
-    "lng": -91.478281,
-    "city": "Rosedale"
-  },
-  "North Vermilion": {
-    "lat": 30.079916,
-    "lng": -92.168366,
-    "city": "Maurice"
-  },
-  "North Webster": {
-    "lat": 33.00298,
-    "lng": -93.46621,
-    "city": "Springhill"
-  },
-  "Northeast": {
-    "lat": 30.7033,
-    "lng": -91.0115,
-    "city": "Pride"
-  },
-  "Northlake Christian": {
-    "lat": 30.48541,
-    "lng": -90.1122,
-    "city": "Covington"
-  },
-  "Northshore": {
-    "lat": 30.271,
-    "lng": -89.743,
-    "city": "Slidell"
-  },
-  "Northside": {
-    "lat": 30.25108,
-    "lng": -92.00246,
-    "city": "Lafayette"
-  },
-  "Northwest": {
-    "lat": 30.578141,
-    "lng": -92.188951,
-    "city": "Opelousas"
-  },
-  "Northwood": {
-    "lat": 32.6012,
-    "lng": -93.8508,
-    "city": "Shreveport"
-  },
-  "Notre Dame": {
-    "lat": 30.22089,
-    "lng": -92.37718,
-    "city": "Crowley"
-  },
-  "Oak Grove": {
-    "lat": 32.86017,
-    "lng": -91.39479,
-    "city": "Oak Grove"
-  },
-  "Oakdale": {
-    "lat": 30.815816,
-    "lng": -92.656894,
-    "city": "Oakdale"
-  },
-  "Oberlin": {
-    "lat": 30.619061,
-    "lng": -92.768899,
-    "city": "Oberlin"
-  },
-  "Opelousas": {
-    "lat": 30.49724,
-    "lng": -92.07889,
-    "city": "Opelousas"
-  },
-  "Opelousas Catholic": {
-    "lat": 30.52665,
-    "lng": -92.08007,
-    "city": "Opelousas"
   },
   "Ouachita Christian": {
     "lat": 32.52111,
     "lng": -92.08117,
     "city": "Monroe"
   },
-  "Ouachita Parish": {
-    "lat": 32.5027,
-    "lng": -91.9924,
-    "city": "Monroe"
-  },
-  "Parkview Baptist": {
-    "lat": 30.44086,
-    "lng": -91.13121,
+  "Southern Lab": {
+    "lat": 30.43789,
+    "lng": -91.13489,
     "city": "Baton Rouge"
   },
-  "Parkway": {
-    "lat": 32.433763,
-    "lng": -93.644442,
-    "city": "Bossier City"
+  "Kentwood": {
+    "lat": 30.9299,
+    "lng": -90.51993,
+    "city": "Kentwood"
   },
-  "Patrick Taylor Science & Tech Academy": {
-    "lat": 29.90536,
-    "lng": -90.14355,
-    "city": "Westwego"
+  "Ascension Catholic": {
+    "lat": 30.09233,
+    "lng": -90.99114,
+    "city": "Donaldsonville"
   },
-  "Patterson": {
-    "lat": 29.718927,
-    "lng": -91.30704,
-    "city": "Patterson"
+  "Westminster Christian Academy": {
+    "lat": 30.20431,
+    "lng": -92.03202,
+    "city": "Lafayette"
   },
-  "Peabody": {
-    "lat": 31.29329,
-    "lng": -92.4358,
-    "city": "Alexandria"
+  "St. Mary": {
+    "lat": 31.73156,
+    "lng": -93.0986,
+    "city": "Natchitoches"
   },
-  "Pearl River": {
-    "lat": 30.37082,
-    "lng": -89.75657,
-    "city": "Pearl River"
+  "Ascension Episcopal": {
+    "lat": 30.20335,
+    "lng": -92.02623,
+    "city": "Lafayette"
   },
-  "Pickering": {
-    "lat": 31.03883,
-    "lng": -93.27084,
-    "city": "Leesville"
-  },
-  "Pine": {
-    "lat": 30.92503,
-    "lng": -90.01501,
-    "city": "Franklinton"
-  },
-  "Pine Prairie": {
-    "lat": 30.784658,
-    "lng": -92.42302,
-    "city": "Pine Prairie"
-  },
-  "Pineville": {
-    "lat": 31.33483,
-    "lng": -92.43243,
-    "city": "Pineville"
-  },
-  "Plain Dealing": {
-    "lat": 32.9107,
-    "lng": -93.6987,
-    "city": "Plain Dealing"
-  },
-  "Plaquemine": {
-    "lat": 30.262,
-    "lng": -91.2503,
-    "city": "Plaquemine"
-  },
-  "Ponchatoula": {
-    "lat": 30.4387,
-    "lng": -90.4003,
-    "city": "Ponchatoula"
-  },
-  "Pope John Paul II": {
-    "lat": 30.29072,
-    "lng": -89.78208,
-    "city": "Slidell"
-  },
-  "Port Allen": {
-    "lat": 30.45988,
-    "lng": -91.25616,
-    "city": "Port Allen"
-  },
-  "Port Barre": {
-    "lat": 30.561662,
-    "lng": -91.952698,
-    "city": "Port Barre"
-  },
-  "Prairieville": {
-    "lat": 30.31353,
-    "lng": -90.95811,
-    "city": "Prairieville"
-  },
-  "Rayne": {
-    "lat": 30.2485,
-    "lng": -92.2663,
-    "city": "Rayne"
-  },
-  "Rayville": {
-    "lat": 32.4667,
-    "lng": -91.7464,
-    "city": "Rayville"
-  },
-  "Red River": {
-    "lat": 32.0145,
-    "lng": -93.3353,
-    "city": "Coushatta"
-  },
-  "Richwood": {
-    "lat": 32.4325,
-    "lng": -92.0892,
-    "city": "Monroe"
-  },
-  "Ringgold": {
-    "lat": 32.3226,
-    "lng": -93.2683,
-    "city": "Ringgold"
-  },
-  "Riverdale": {
-    "lat": 29.959523,
-    "lng": -90.16633,
-    "city": "Jefferson"
-  },
-  "Riverside Academy": {
-    "lat": 30.07643,
-    "lng": -90.55657,
-    "city": "Reserve"
-  },
-  "Rosepine": {
-    "lat": 30.92716,
-    "lng": -93.28602,
-    "city": "Rosepine"
-  },
-  "Ruston": {
-    "lat": 32.535139,
-    "lng": -92.649629,
+  "Cedar Creek": {
+    "lat": 32.53654,
+    "lng": -92.63352,
     "city": "Ruston"
   },
   "Sacred Heart": {
@@ -1129,90 +49,20 @@
     "lng": -92.27385,
     "city": "Ville Platte"
   },
-  "Salmen": {
-    "lat": 30.24754,
-    "lng": -89.78991,
-    "city": "Slidell"
+  "Catholic of Pointe Coupee": {
+    "lat": 30.69592,
+    "lng": -91.45379,
+    "city": "New Roads"
   },
-  "Sam Houston": {
-    "lat": 30.30118,
-    "lng": -93.2115,
-    "city": "Lake Charles"
+  "St. John": {
+    "lat": 30.28592,
+    "lng": -91.24554,
+    "city": "Plaquemine"
   },
-  "Sarah T. Reed": {
-    "lat": 30.05347,
-    "lng": -89.9316,
-    "city": "New Orleans"
-  },
-  "Scotlandville": {
-    "lat": 30.53367,
-    "lng": -91.1766,
-    "city": "Baton Rouge"
-  },
-  "Slaughter Community Charter": {
-    "lat": 30.720627,
-    "lng": -91.152318,
-    "city": "Slaughter"
-  },
-  "Slidell": {
-    "lat": 30.2875,
-    "lng": -89.7726,
-    "city": "Slidell"
-  },
-  "South Beauregard": {
-    "lat": 30.5695,
-    "lng": -93.2357,
-    "city": "Longville"
-  },
-  "South Lafourche": {
-    "lat": 29.4675,
-    "lng": -90.3108,
-    "city": "Cutoff"
-  },
-  "South Plaquemines": {
-    "lat": 29.366509,
-    "lng": -89.5717,
-    "city": "Buras"
-  },
-  "South Terrebonne": {
-    "lat": 29.564428,
-    "lng": -90.640695,
-    "city": "Bourg"
-  },
-  "Southern Lab": {
-    "lat": 30.43789,
-    "lng": -91.13489,
-    "city": "Baton Rouge"
-  },
-  "Southside": {
-    "lat": 30.089624,
-    "lng": -91.971267,
-    "city": "Youngsville"
-  },
-  "Southwood": {
-    "lat": 32.40903,
-    "lng": -93.81629,
-    "city": "Shreveport"
-  },
-  "Springfield": {
-    "lat": 30.42991,
-    "lng": -90.55115,
-    "city": "Springfield"
-  },
-  "St. Amant": {
-    "lat": 30.241916,
-    "lng": -90.871424,
-    "city": "St Amant"
-  },
-  "St. Augustine": {
-    "lat": 30.05588,
-    "lng": -89.93664,
-    "city": "New Orleans"
-  },
-  "St. Charles Catholic": {
-    "lat": 30.07216,
-    "lng": -90.47701,
-    "city": "LaPlace"
+  "JS Clark Leadership Academy": {
+    "lat": 30.5206,
+    "lng": -92.08025,
+    "city": "Opelousas"
   },
   "St. Edmund": {
     "lat": 30.49213,
@@ -1224,119 +74,354 @@
     "lng": -92.07197,
     "city": "Monroe"
   },
-  "St. Helena College and Career Academy": {
-    "lat": 30.8274,
-    "lng": -90.6714,
-    "city": "Greensburg"
-  },
-  "St. James": {
-    "lat": 29.96388,
-    "lng": -90.711365,
-    "city": "Vacherie"
-  },
-  "St. John": {
-    "lat": 30.28592,
-    "lng": -91.24554,
-    "city": "Plaquemine"
-  },
-  "St. Louis Catholic": {
-    "lat": 30.19761,
-    "lng": -93.2083,
-    "city": "Lake Charles"
+  "Ascension Christian": {
+    "lat": 30.21112,
+    "lng": -90.92,
+    "city": "Gonzales"
   },
   "St. Martin's Episcopal": {
     "lat": 29.99375,
     "lng": -90.18187,
     "city": "Metairie"
   },
-  "St. Martinville": {
-    "lat": 30.132087,
-    "lng": -91.826236,
-    "city": "St Martinville"
+  "Glenbrook": {
+    "lat": 32.61862,
+    "lng": -93.26972,
+    "city": "Minden"
   },
-  "St. Mary": {
-    "lat": 31.73156,
-    "lng": -93.0986,
-    "city": "Natchitoches"
+  "Opelousas Catholic": {
+    "lat": 30.52665,
+    "lng": -92.08007,
+    "city": "Opelousas"
   },
-  "St. Michael": {
-    "lat": 30.44347,
-    "lng": -91.13264,
+  "Vermilion Catholic": {
+    "lat": 29.9734,
+    "lng": -92.12371,
+    "city": "Abbeville"
+  },
+  "Covenant Christian Academy": {
+    "lat": 29.58065,
+    "lng": -90.7052,
+    "city": "Houma"
+  },
+  "Central Catholic": {
+    "lat": 29.71539,
+    "lng": -91.19145,
+    "city": "Morgan City"
+  },
+  "Delta Charter": {
+    "lat": 31.63703,
+    "lng": -91.55775,
+    "city": "Ferriday"
+  },
+  "Central Private": {
+    "lat": 30.57904,
+    "lng": -91.15803,
+    "city": "Baker"
+  },
+  "Lincoln Prep": {
+    "lat": 32.52633,
+    "lng": -92.70802,
+    "city": "Grambling"
+  },
+  "Hanson Memorial": {
+    "lat": 29.78401,
+    "lng": -91.50515,
+    "city": "Franklin"
+  },
+  "Berchmans Academy": {
+    "lat": 30.42024,
+    "lng": -92.04379,
+    "city": "Grand Coteau"
+  },
+  "Thrive Academy": {
+    "lat": 30.44137,
+    "lng": -91.12728,
     "city": "Baton Rouge"
   },
-  "St. Paul's": {
-    "lat": 30.47771,
-    "lng": -90.10918,
-    "city": "Covington"
+  "Block": {
+    "lat": 31.62232,
+    "lng": -91.83443,
+    "city": "Jonesville"
   },
-  "St. Thomas Aquinas": {
-    "lat": 30.50716,
-    "lng": -90.45958,
-    "city": "Hammond"
+  "Northwood": {
+    "lat": 32.46761,
+    "lng": -93.79443,
+    "city": "Shreveport"
   },
-  "St. Thomas More": {
-    "lat": 30.20528,
-    "lng": -92.03112,
+  "Capitol": {
+    "lat": 30.43807,
+    "lng": -91.13408,
+    "city": "Baton Rouge"
+  },
+  "Delhi Charter": {
+    "lat": 32.44934,
+    "lng": -91.48904,
+    "city": "Delhi"
+  },
+  "Highland Baptist Christian": {
+    "lat": 30.00424,
+    "lng": -91.81852,
+    "city": "New Iberia"
+  },
+  "East Feliciana": {
+    "lat": 30.83463,
+    "lng": -91.20848,
+    "city": "Jackson"
+  },
+  "Mangham": {
+    "lat": 32.30928,
+    "lng": -91.77944,
+    "city": "Mangham"
+  },
+  "Vinton": {
+    "lat": 30.19543,
+    "lng": -93.58225,
+    "city": "Vinton"
+  },
+  "Lake Arthur": {
+    "lat": 30.07997,
+    "lng": -92.67741,
+    "city": "Lake Arthur"
+  },
+  "Jeanerette": {
+    "lat": 29.91524,
+    "lng": -91.67631,
+    "city": "Jeanerette"
+  },
+  "Haynesville": {
+    "lat": 32.96634,
+    "lng": -93.13814,
+    "city": "Haynesville"
+  },
+  "Welsh": {
+    "lat": 30.23559,
+    "lng": -92.81239,
+    "city": "Welsh"
+  },
+  "Homer": {
+    "lat": 32.7938,
+    "lng": -93.05909,
+    "city": "Homer"
+  },
+  "Logansport": {
+    "lat": 31.97581,
+    "lng": -93.99336,
+    "city": "Logansport"
+  },
+  "Oak Grove": {
+    "lat": 32.86242,
+    "lng": -91.39117,
+    "city": "Oak Grove"
+  },
+  "Grand Lake": {
+    "lat": 30.20266,
+    "lng": -93.20882,
+    "city": "Lake Charles"
+  },
+  "South Plaquemines": {
+    "lat": 29.35366,
+    "lng": -89.52397,
+    "city": "Buras"
+  },
+  "Franklin": {
+    "lat": 29.78343,
+    "lng": -91.50732,
+    "city": "Franklin"
+  },
+  "Jonesboro-Hodge": {
+    "lat": 32.23354,
+    "lng": -92.71062,
+    "city": "Jonesboro"
+  },
+  "Elton": {
+    "lat": 30.48125,
+    "lng": -92.69761,
+    "city": "Elton"
+  },
+  "West St. Mary": {
+    "lat": 29.84128,
+    "lng": -91.55489,
+    "city": "Baldwin"
+  },
+  "North Iberville": {
+    "lat": 30.4429,
+    "lng": -91.46011,
+    "city": "Rosedale"
+  },
+  "Delcambre": {
+    "lat": 29.95111,
+    "lng": -91.99171,
+    "city": "Delcambre"
+  },
+  "East Beauregard": {
+    "lat": 30.85001,
+    "lng": -93.29231,
+    "city": "DeRidder"
+  },
+  "Ferriday": {
+    "lat": 31.63965,
+    "lng": -91.55301,
+    "city": "Ferriday"
+  },
+  "Montgomery": {
+    "lat": 31.66744,
+    "lng": -92.88711,
+    "city": "Montgomery"
+  },
+  "West St. John": {
+    "lat": 30.03083,
+    "lng": -90.54411,
+    "city": "Edgard"
+  },
+  "LaSalle": {
+    "lat": 31.89807,
+    "lng": -92.24041,
+    "city": "Olla"
+  },
+  "East Iberville": {
+    "lat": 30.2552,
+    "lng": -91.10036,
+    "city": "St. Gabriel"
+  },
+  "Merryville": {
+    "lat": 30.75597,
+    "lng": -93.52559,
+    "city": "Merryville"
+  },
+  "DeQuincy": {
+    "lat": 30.44896,
+    "lng": -93.44566,
+    "city": "Dequincy"
+  },
+  "Ringgold": {
+    "lat": 32.32655,
+    "lng": -93.2836,
+    "city": "Ringgold"
+  },
+  "Northeast": {
+    "lat": 30.6938,
+    "lng": -90.97816,
+    "city": "Pride"
+  },
+  "Basile": {
+    "lat": 30.48551,
+    "lng": -92.60102,
+    "city": "Basile"
+  },
+  "General Trass": {
+    "lat": 32.80197,
+    "lng": -91.17523,
+    "city": "Lake Providence"
+  },
+  "Centerville": {
+    "lat": 29.75628,
+    "lng": -91.42563,
+    "city": "Centerville"
+  },
+  "Varnado": {
+    "lat": 30.96133,
+    "lng": -89.82114,
+    "city": "Angie"
+  },
+  "North Central": {
+    "lat": 30.73278,
+    "lng": -91.96945,
+    "city": "Lebeau"
+  },
+  "White Castle": {
+    "lat": 30.16169,
+    "lng": -91.14853,
+    "city": "White Castle"
+  },
+  "Delhi": {
+    "lat": 32.44973,
+    "lng": -91.4878,
+    "city": "Delhi"
+  },
+  "Lakeview": {
+    "lat": 31.89796,
+    "lng": -93.11637,
+    "city": "Campti"
+  },
+  "Arcadia": {
+    "lat": 32.55085,
+    "lng": -92.92137,
+    "city": "Arcadia"
+  },
+  "Oberlin": {
+    "lat": 30.6081,
+    "lng": -92.77498,
+    "city": "Oberlin"
+  },
+  "Gueydan": {
+    "lat": 30.02902,
+    "lng": -92.50699,
+    "city": "Gueydan"
+  },
+  "Pickering": {
+    "lat": 31.14247,
+    "lng": -93.2803,
+    "city": "Leesville"
+  },
+  "Plain Dealing": {
+    "lat": 32.90702,
+    "lng": -93.69924,
+    "city": "Plain Dealing"
+  },
+  "Madison": {
+    "lat": 32.4067,
+    "lng": -91.1917,
+    "city": "Tallulah"
+  },
+  "Archbishop Shaw": {
+    "lat": 29.88008,
+    "lng": -90.11562,
+    "city": "Marrero"
+  },
+  "Madison Prep Academy": {
+    "lat": 30.44257,
+    "lng": -91.13024,
+    "city": "Baton Rouge"
+  },
+  "Lafayette Renaissance Charter Academy": {
+    "lat": 30.20714,
+    "lng": -92.03344,
     "city": "Lafayette"
   },
-  "Sterlington": {
-    "lat": 32.6464,
-    "lng": -92.063,
-    "city": "Monroe"
-  },
-  "Sulphur": {
-    "lat": 30.2335,
-    "lng": -93.3734,
-    "city": "Sulphur"
-  },
-  "Sumner": {
-    "lat": 30.8721,
-    "lng": -90.4661,
-    "city": "Kentwood"
-  },
-  "Tara": {
-    "lat": 30.43387,
-    "lng": -91.08851,
-    "city": "Baton Rouge"
-  },
-  "Terrebonne": {
-    "lat": 29.5998,
-    "lng": -90.737,
-    "city": "Houma"
+  "Lake Charles College Prep": {
+    "lat": 30.19617,
+    "lng": -93.21139,
+    "city": "Lake Charles"
   },
   "Teurlings Catholic": {
     "lat": 30.20258,
     "lng": -92.0247,
     "city": "Lafayette"
   },
-  "Thibodaux": {
-    "lat": 29.7778,
-    "lng": -90.8388,
-    "city": "Thibodaux"
-  },
-  "Thomas Jefferson": {
-    "lat": 29.9059,
-    "lng": -90.05146,
-    "city": "Gretna"
-  },
-  "Thrive Academy": {
-    "lat": 30.388468,
-    "lng": -91.188392,
-    "city": "Baton Rouge"
+  "Kennedy": {
+    "lat": 30.05113,
+    "lng": -89.93629,
+    "city": "New Orleans"
   },
   "Tioga": {
-    "lat": 31.3817,
-    "lng": -92.4259,
-    "city": "Ball"
+    "lat": 31.38775,
+    "lng": -92.42756,
+    "city": "Tioga"
   },
-  "Union Parish": {
-    "lat": 32.791143,
-    "lng": -92.388433,
-    "city": "Farmerville"
+  "Carencro": {
+    "lat": 30.20171,
+    "lng": -92.03304,
+    "city": "Lafayette"
   },
-  "University Lab": {
-    "lat": 30.43807,
-    "lng": -91.1289,
+  "E.D. White": {
+    "lat": 29.79695,
+    "lng": -90.81098,
+    "city": "Thibodaux"
+  },
+  "St. Michael": {
+    "lat": 30.44347,
+    "lng": -91.13264,
     "city": "Baton Rouge"
   },
   "Vandebilt Catholic": {
@@ -1344,139 +429,1054 @@
     "lng": -90.70978,
     "city": "Houma"
   },
-  "Varnado": {
-    "lat": 30.8925,
-    "lng": -89.8336,
-    "city": "Varnado"
-  },
-  "Vermilion Catholic": {
-    "lat": 29.9734,
-    "lng": -92.12371,
-    "city": "Abbeville"
-  },
-  "Vidalia": {
-    "lat": 31.575,
-    "lng": -91.4534,
-    "city": "Vidalia"
-  },
-  "Ville Platte": {
-    "lat": 30.686055,
-    "lng": -92.277671,
-    "city": "Ville Platte"
-  },
-  "Vinton": {
-    "lat": 30.1806,
-    "lng": -93.5844,
-    "city": "Vinton"
-  },
-  "Walker": {
-    "lat": 30.4893,
-    "lng": -90.87772,
-    "city": "Walker"
-  },
-  "Warren Easton": {
-    "lat": 29.96849,
-    "lng": -90.090461,
+  "McDonogh 35": {
+    "lat": 30.05504,
+    "lng": -89.93304,
     "city": "New Orleans"
   },
-  "Washington-Marion": {
-    "lat": 30.2521,
-    "lng": -93.1738,
-    "city": "Lake Charles"
+  "Archbishop Hannan": {
+    "lat": 30.48182,
+    "lng": -90.11353,
+    "city": "Covington"
   },
-  "Welsh": {
-    "lat": 30.2353,
-    "lng": -92.8106,
-    "city": "Welsh"
+  "Booker T. Washington-Shreveport": {
+    "lat": 32.4671,
+    "lng": -93.79472,
+    "city": "Shreveport"
   },
-  "West Feliciana": {
-    "lat": 30.8261,
-    "lng": -91.3834,
-    "city": "St. Francisville"
+  "Patrick Taylor Science & Tech Academy": {
+    "lat": 29.90536,
+    "lng": -90.14355,
+    "city": "Westwego"
   },
-  "West Jefferson": {
-    "lat": 29.90292,
-    "lng": -90.07446,
-    "city": "Harvey"
+  "Booker T. Washington": {
+    "lat": 30.05916,
+    "lng": -89.9338,
+    "city": "New Orleans"
   },
-  "West Monroe": {
-    "lat": 32.5107,
-    "lng": -92.1386,
-    "city": "West Monroe"
-  },
-  "West Ouachita": {
-    "lat": 32.4278,
-    "lng": -92.337,
-    "city": "West Monroe"
-  },
-  "West St. John": {
-    "lat": 30.016597,
-    "lng": -90.552899,
-    "city": "Edgard"
-  },
-  "West St. Mary": {
-    "lat": 29.858531,
-    "lng": -91.568191,
-    "city": "Baldwin"
-  },
-  "Westgate": {
-    "lat": 29.99879,
-    "lng": -91.85726,
-    "city": "New Iberia"
-  },
-  "Westlake": {
-    "lat": 30.2613,
-    "lng": -93.264,
-    "city": "Westlake"
-  },
-  "Westminster Christian Academy": {
-    "lat": 30.20431,
-    "lng": -92.03202,
+  "Northside": {
+    "lat": 30.20437,
+    "lng": -92.02543,
     "city": "Lafayette"
   },
-  "White Castle": {
-    "lat": 30.1662,
-    "lng": -91.1463,
-    "city": "White Castle"
+  "Haynes Academy": {
+    "lat": 30.00026,
+    "lng": -90.18181,
+    "city": "Metairie"
+  },
+  "Lord Beaconsfield Landry": {
+    "lat": 30.0511,
+    "lng": -89.93495,
+    "city": "New Orleans"
+  },
+  "Carver Collegiate Academy": {
+    "lat": 30.04968,
+    "lng": -89.93136,
+    "city": "New Orleans"
+  },
+  "Abramson": {
+    "lat": 30.05797,
+    "lng": -89.93889,
+    "city": "New Orleans"
+  },
+  "Young Audiences Charter": {
+    "lat": 29.9089,
+    "lng": -90.0469,
+    "city": "Gretna"
   },
   "Willow": {
     "lat": 30.05071,
     "lng": -89.93981,
     "city": "New Orleans"
   },
-  "Winnfield": {
-    "lat": 31.9466,
-    "lng": -92.6551,
-    "city": "Winnfield"
+  "Scotlandville": {
+    "lat": 30.43544,
+    "lng": -91.13238,
+    "city": "Baton Rouge"
+  },
+  "McKinley": {
+    "lat": 30.44386,
+    "lng": -91.13281,
+    "city": "Baton Rouge"
+  },
+  "Kenner Discovery Health Sciences Academy": {
+    "lat": 30.00807,
+    "lng": -90.25452,
+    "city": "Kenner"
+  },
+  "Washington-Marion": {
+    "lat": 30.19539,
+    "lng": -93.20566,
+    "city": "Lake Charles"
+  },
+  "Southwood": {
+    "lat": 32.46476,
+    "lng": -93.79268,
+    "city": "Shreveport"
+  },
+  "Belaire": {
+    "lat": 30.44288,
+    "lng": -91.13247,
+    "city": "Baton Rouge"
+  },
+  "Eleanor McMain": {
+    "lat": 30.04998,
+    "lng": -89.93432,
+    "city": "New Orleans"
+  },
+  "Tara": {
+    "lat": 30.44325,
+    "lng": -91.13247,
+    "city": "Baton Rouge"
+  },
+  "Collegiate": {
+    "lat": 30.4455,
+    "lng": -91.13511,
+    "city": "Baton Rouge"
+  },
+  "St. Augustine": {
+    "lat": 30.05588,
+    "lng": -89.93664,
+    "city": "New Orleans"
+  },
+  "Jesuit": {
+    "lat": 30.05399,
+    "lng": -89.92911,
+    "city": "New Orleans"
+  },
+  "Edna Karr": {
+    "lat": 30.05069,
+    "lng": -89.93136,
+    "city": "New Orleans"
+  },
+  "Alexandria": {
+    "lat": 31.29766,
+    "lng": -92.46598,
+    "city": "Alexandria"
+  },
+  "Archbishop Rummel": {
+    "lat": 29.99727,
+    "lng": -90.18317,
+    "city": "Metairie"
+  },
+  "Catholic": {
+    "lat": 30.43584,
+    "lng": -91.1303,
+    "city": "Baton Rouge"
+  },
+  "Brother Martin": {
+    "lat": 30.04997,
+    "lng": -89.93649,
+    "city": "New Orleans"
+  },
+  "St. Thomas More": {
+    "lat": 30.20528,
+    "lng": -92.03112,
+    "city": "Lafayette"
+  },
+  "John Curtis Christian": {
+    "lat": 29.95861,
+    "lng": -90.22205,
+    "city": "River Ridge"
+  },
+  "Acadiana": {
+    "lat": 30.20507,
+    "lng": -92.03036,
+    "city": "Lafayette"
+  },
+  "Holy Cross": {
+    "lat": 30.05748,
+    "lng": -89.93252,
+    "city": "New Orleans"
+  },
+  "Evangel Christian Academy": {
+    "lat": 32.46552,
+    "lng": -93.79574,
+    "city": "Shreveport"
+  },
+  "St. Paul's": {
+    "lat": 30.47771,
+    "lng": -90.10918,
+    "city": "Covington"
+  },
+  "Lafayette": {
+    "lat": 30.203,
+    "lng": -92.02886,
+    "city": "Lafayette"
+  },
+  "Captain Shreve": {
+    "lat": 32.46402,
+    "lng": -93.78943,
+    "city": "Shreveport"
+  },
+  "Huntington": {
+    "lat": 32.47158,
+    "lng": -93.79524,
+    "city": "Shreveport"
+  },
+  "Hammond": {
+    "lat": 30.50812,
+    "lng": -90.45067,
+    "city": "Hammond"
+  },
+  "Warren Easton": {
+    "lat": 30.05578,
+    "lng": -89.93314,
+    "city": "New Orleans"
+  },
+  "Byrd": {
+    "lat": 32.4682,
+    "lng": -93.78787,
+    "city": "Shreveport"
+  },
+  "Pineville": {
+    "lat": 31.34293,
+    "lng": -92.40893,
+    "city": "Pineville"
+  },
+  "Bonnabel": {
+    "lat": 30.006,
+    "lng": -90.25115,
+    "city": "Kenner"
+  },
+  "John Ehret": {
+    "lat": 29.88581,
+    "lng": -90.11558,
+    "city": "Marrero"
   },
   "Woodlawn-B.R.": {
     "lat": 30.43844,
     "lng": -91.12736,
     "city": "Baton Rouge"
   },
-  "Woodlawn-Shreveport": {
-    "lat": 32.46901,
-    "lng": -93.79081,
+  "West Jefferson": {
+    "lat": 29.89408,
+    "lng": -90.06406,
+    "city": "Harvey"
+  },
+  "L.W. Higgins": {
+    "lat": 29.88031,
+    "lng": -90.11331,
+    "city": "Marrero"
+  },
+  "Peabody": {
+    "lat": 31.29618,
+    "lng": -92.47424,
+    "city": "Alexandria"
+  },
+  "East Jefferson": {
+    "lat": 30.00239,
+    "lng": -90.18217,
+    "city": "Metairie"
+  },
+  "Riverdale": {
+    "lat": 29.96035,
+    "lng": -90.15591,
+    "city": "Jefferson"
+  },
+  "Liberty Magnet": {
+    "lat": 30.44448,
+    "lng": -91.13418,
+    "city": "Baton Rouge"
+  },
+  "Benjamin Franklin": {
+    "lat": 30.05239,
+    "lng": -89.92863,
+    "city": "New Orleans"
+  },
+  "St. James": {
+    "lat": 30.01864,
+    "lng": -90.85088,
+    "city": "St James"
+  },
+  "Jena": {
+    "lat": 31.69021,
+    "lng": -92.12858,
+    "city": "Jena"
+  },
+  "Jennings": {
+    "lat": 30.22398,
+    "lng": -92.65829,
+    "city": "Jennings"
+  },
+  "Kaplan": {
+    "lat": 30.00596,
+    "lng": -92.28388,
+    "city": "Kaplan"
+  },
+  "Church Point": {
+    "lat": 30.40371,
+    "lng": -92.21448,
+    "city": "Church Point"
+  },
+  "Loreauville": {
+    "lat": 30.05885,
+    "lng": -91.73883,
+    "city": "Loreauville"
+  },
+  "Mansfield": {
+    "lat": 32.03534,
+    "lng": -93.69966,
+    "city": "Mansfield"
+  },
+  "Marksville": {
+    "lat": 31.12543,
+    "lng": -92.06512,
+    "city": "Marksville"
+  },
+  "Caldwell Parish": {
+    "lat": 32.1021,
+    "lng": -92.07643,
+    "city": "Columbia"
+  },
+  "Rosepine": {
+    "lat": 30.92446,
+    "lng": -93.28848,
+    "city": "Rosepine"
+  },
+  "Union Parish": {
+    "lat": 32.77856,
+    "lng": -92.39707,
+    "city": "Farmerville"
+  },
+  "Sumner": {
+    "lat": 30.93316,
+    "lng": -90.518,
+    "city": "Kentwood"
+  },
+  "Green Oaks": {
+    "lat": 32.47214,
+    "lng": -93.79535,
     "city": "Shreveport"
   },
-  "Wossman": {
-    "lat": 32.4898,
-    "lng": -92.0862,
+  "South Beauregard": {
+    "lat": 30.61061,
+    "lng": -93.22505,
+    "city": "Longville"
+  },
+  "Pine": {
+    "lat": 30.84972,
+    "lng": -90.14199,
+    "city": "Franklinton"
+  },
+  "Winnfield": {
+    "lat": 31.92397,
+    "lng": -92.64248,
+    "city": "Winnfield"
+  },
+  "Kinder": {
+    "lat": 30.48309,
+    "lng": -92.85198,
+    "city": "Kinder"
+  },
+  "St. Helena College and Career Academy": {
+    "lat": 30.82964,
+    "lng": -90.66986,
+    "city": "Greensburg"
+  },
+  "Many": {
+    "lat": 31.56607,
+    "lng": -93.47723,
+    "city": "Many"
+  },
+  "Richwood": {
+    "lat": 32.52295,
+    "lng": -92.07847,
     "city": "Monroe"
+  },
+  "Lakeside": {
+    "lat": 32.54246,
+    "lng": -93.29394,
+    "city": "Sibley"
+  },
+  "Grant": {
+    "lat": 31.58131,
+    "lng": -92.53142,
+    "city": "Dry Prong"
+  },
+  "Vidalia": {
+    "lat": 31.56675,
+    "lng": -91.44044,
+    "city": "Vidalia"
+  },
+  "Abbeville": {
+    "lat": 29.96963,
+    "lng": -92.12506,
+    "city": "Abbeville"
+  },
+  "North Webster": {
+    "lat": 33.00193,
+    "lng": -93.46151,
+    "city": "Springhill"
+  },
+  "Avoyelles": {
+    "lat": 31.03418,
+    "lng": -91.98171,
+    "city": "Moreauville"
+  },
+  "Donaldsonville": {
+    "lat": 30.09141,
+    "lng": -90.9941,
+    "city": "Donaldsonville"
+  },
+  "Rayville": {
+    "lat": 32.47098,
+    "lng": -91.75745,
+    "city": "Rayville"
+  },
+  "Crowley": {
+    "lat": 30.21772,
+    "lng": -92.36978,
+    "city": "Crowley"
+  },
+  "Red River": {
+    "lat": 32.02583,
+    "lng": -93.3406,
+    "city": "Coushatta"
+  },
+  "Oakdale": {
+    "lat": 30.81642,
+    "lng": -92.65586,
+    "city": "Oakdale"
+  },
+  "Bastrop": {
+    "lat": 32.77585,
+    "lng": -91.90542,
+    "city": "Bastrop"
+  },
+  "Patterson": {
+    "lat": 29.69089,
+    "lng": -91.30953,
+    "city": "Patterson"
+  },
+  "Mamou": {
+    "lat": 30.63487,
+    "lng": -92.41792,
+    "city": "Mamou"
+  },
+  "St. Martinville": {
+    "lat": 30.127,
+    "lng": -91.83112,
+    "city": "St Martinville"
+  },
+  "Bogalusa": {
+    "lat": 30.77538,
+    "lng": -89.86166,
+    "city": "Bogalusa"
+  },
+  "Westlake": {
+    "lat": 30.26099,
+    "lng": -93.2635,
+    "city": "Westlake"
+  },
+  "Port Allen": {
+    "lat": 30.44383,
+    "lng": -91.20741,
+    "city": "Port Allen"
+  },
+  "Berwick": {
+    "lat": 29.70055,
+    "lng": -91.23518,
+    "city": "Berwick"
+  },
+  "Springfield": {
+    "lat": 30.42555,
+    "lng": -90.54441,
+    "city": "Springfield"
+  },
+  "Ville Platte": {
+    "lat": 30.69384,
+    "lng": -92.2741,
+    "city": "Ville Platte"
+  },
+  "Port Barre": {
+    "lat": 30.55552,
+    "lng": -91.95596,
+    "city": "Port Barre"
+  },
+  "Pine Prairie": {
+    "lat": 30.78203,
+    "lng": -92.42199,
+    "city": "Pine Prairie"
+  },
+  "St. Charles Catholic": {
+    "lat": 30.07216,
+    "lng": -90.47701,
+    "city": "LaPlace"
+  },
+  "Lafayette Christian Academy": {
+    "lat": 30.20682,
+    "lng": -92.03204,
+    "city": "Lafayette"
+  },
+  "Calvary Baptist Academy": {
+    "lat": 32.46132,
+    "lng": -93.7906,
+    "city": "Shreveport"
+  },
+  "University Lab": {
+    "lat": 30.43807,
+    "lng": -91.1289,
+    "city": "Baton Rouge"
+  },
+  "Notre Dame": {
+    "lat": 30.22089,
+    "lng": -92.37718,
+    "city": "Crowley"
+  },
+  "Dunham": {
+    "lat": 30.44532,
+    "lng": -91.13317,
+    "city": "Baton Rouge"
+  },
+  "Loyola College Prep": {
+    "lat": 32.46209,
+    "lng": -93.79542,
+    "city": "Shreveport"
+  },
+  "Newman": {
+    "lat": 30.05632,
+    "lng": -89.93445,
+    "city": "New Orleans"
+  },
+  "Catholic - N.I.": {
+    "lat": 30.00564,
+    "lng": -91.81615,
+    "city": "New Iberia"
+  },
+  "Bunkie": {
+    "lat": 30.95366,
+    "lng": -92.18811,
+    "city": "Bunkie"
+  },
+  "De La Salle": {
+    "lat": 30.05363,
+    "lng": -89.93251,
+    "city": "New Orleans"
+  },
+  "Amite": {
+    "lat": 30.73216,
+    "lng": -90.51529,
+    "city": "Amite"
+  },
+  "Metairie Park Country Day": {
+    "lat": 29.99929,
+    "lng": -90.17592,
+    "city": "Metairie"
+  },
+  "Episcopal": {
+    "lat": 30.44605,
+    "lng": -91.13177,
+    "city": "Baton Rouge"
+  },
+  "Baker": {
+    "lat": 30.57853,
+    "lng": -91.15961,
+    "city": "Baker"
+  },
+  "Parkview Baptist": {
+    "lat": 30.44086,
+    "lng": -91.13121,
+    "city": "Baton Rouge"
+  },
+  "Pope John Paul II": {
+    "lat": 30.29072,
+    "lng": -89.78208,
+    "city": "Slidell"
+  },
+  "Independence": {
+    "lat": 30.63605,
+    "lng": -90.50517,
+    "city": "Independence"
+  },
+  "Sarah T. Reed": {
+    "lat": 30.05347,
+    "lng": -89.9316,
+    "city": "New Orleans"
+  },
+  "St. Thomas Aquinas": {
+    "lat": 30.50716,
+    "lng": -90.45958,
+    "city": "Hammond"
+  },
+  "St. Louis Catholic": {
+    "lat": 30.19761,
+    "lng": -93.2083,
+    "city": "Lake Charles"
+  },
+  "Beekman Charter": {
+    "lat": 32.76946,
+    "lng": -91.91028,
+    "city": "Bastrop"
+  },
+  "Istrouma": {
+    "lat": 30.44162,
+    "lng": -91.13582,
+    "city": "Baton Rouge"
+  },
+  "Slaughter Community Charter": {
+    "lat": 30.72764,
+    "lng": -91.13612,
+    "city": "Slaughter"
+  },
+  "Buckeye": {
+    "lat": 31.36629,
+    "lng": -92.18902,
+    "city": "Buckeye"
   },
   "Wright": {
     "lat": 30.05763,
     "lng": -89.93791,
     "city": "New Orleans"
   },
-  "Young Audiences Charter": {
-    "lat": 29.929371,
-    "lng": -90.044364,
+  "Glen Oaks": {
+    "lat": 30.4423,
+    "lng": -91.13462,
+    "city": "Baton Rouge"
+  },
+  "D'Arbonne Woods": {
+    "lat": 32.77805,
+    "lng": -92.40442,
+    "city": "Farmerville"
+  },
+  "Fisher": {
+    "lat": 29.71088,
+    "lng": -90.09678,
+    "city": "Lafitte"
+  },
+  "North Caddo": {
+    "lat": 32.87107,
+    "lng": -93.98625,
+    "city": "Vivian"
+  },
+  "Northlake Christian": {
+    "lat": 30.48541,
+    "lng": -90.1122,
+    "city": "Covington"
+  },
+  "Cohen": {
+    "lat": 30.05584,
+    "lng": -89.93853,
+    "city": "New Orleans"
+  },
+  "Holy Savior Menard": {
+    "lat": 31.29223,
+    "lng": -92.47221,
+    "city": "Alexandria"
+  },
+  "Houma Christian": {
+    "lat": 29.5767,
+    "lng": -90.7059,
+    "city": "Houma"
+  },
+  "Thomas Jefferson": {
+    "lat": 29.9059,
+    "lng": -90.05146,
     "city": "Gretna"
   },
+  "Jefferson RISE Charter": {
+    "lat": 29.88828,
+    "lng": -90.06374,
+    "city": "Harvey"
+  },
+  "Magnolia School of Excellence": {
+    "lat": 32.46655,
+    "lng": -93.7884,
+    "city": "Shreveport"
+  },
+  "Ruston": {
+    "lat": 32.53372,
+    "lng": -92.63215,
+    "city": "Ruston"
+  },
+  "West Monroe": {
+    "lat": 32.50963,
+    "lng": -92.15083,
+    "city": "West Monroe"
+  },
+  "Barbe": {
+    "lat": 30.20022,
+    "lng": -93.21501,
+    "city": "Lake Charles"
+  },
   "Zachary": {
-    "lat": 30.6523,
-    "lng": -91.1609,
+    "lat": 30.66438,
+    "lng": -91.16578,
     "city": "Zachary"
+  },
+  "Destrehan": {
+    "lat": 29.97209,
+    "lng": -90.35416,
+    "city": "Destrehan"
+  },
+  "Southside": {
+    "lat": 30.09575,
+    "lng": -91.99651,
+    "city": "Youngsville"
+  },
+  "Central": {
+    "lat": 30.43873,
+    "lng": -91.13214,
+    "city": "Baton Rouge"
+  },
+  "East Ascension": {
+    "lat": 30.21349,
+    "lng": -90.92849,
+    "city": "Gonzales"
+  },
+  "Ouachita Parish": {
+    "lat": 32.51447,
+    "lng": -92.07734,
+    "city": "Monroe"
+  },
+  "Mandeville": {
+    "lat": 30.37588,
+    "lng": -90.09663,
+    "city": "Mandeville"
+  },
+  "Sam Houston": {
+    "lat": 30.19396,
+    "lng": -93.21278,
+    "city": "Lake Charles"
+  },
+  "Northshore": {
+    "lat": 30.28866,
+    "lng": -89.78058,
+    "city": "Slidell"
+  },
+  "Chalmette": {
+    "lat": 29.94402,
+    "lng": -89.966,
+    "city": "Chalmette"
+  },
+  "Hahnville": {
+    "lat": 29.88738,
+    "lng": -90.38876,
+    "city": "Boutte"
+  },
+  "Denham Springs": {
+    "lat": 30.47433,
+    "lng": -90.95903,
+    "city": "Denham Springs"
+  },
+  "St. Amant": {
+    "lat": 30.22464,
+    "lng": -90.86899,
+    "city": "St Amant"
+  },
+  "Slidell": {
+    "lat": 30.29451,
+    "lng": -89.78273,
+    "city": "Slidell"
+  },
+  "Thibodaux": {
+    "lat": 29.79279,
+    "lng": -90.81161,
+    "city": "Thibodaux"
+  },
+  "Dutchtown": {
+    "lat": 30.20436,
+    "lng": -91.0226,
+    "city": "Geismar"
+  },
+  "Covington": {
+    "lat": 30.47738,
+    "lng": -90.11583,
+    "city": "Covington"
+  },
+  "Airline": {
+    "lat": 32.52424,
+    "lng": -93.65901,
+    "city": "Bossier City"
+  },
+  "East St. John": {
+    "lat": 30.07445,
+    "lng": -90.55368,
+    "city": "Reserve"
+  },
+  "Haughton": {
+    "lat": 32.52761,
+    "lng": -93.50417,
+    "city": "Haughton"
+  },
+  "Prairieville": {
+    "lat": 30.31353,
+    "lng": -90.95811,
+    "city": "Prairieville"
+  },
+  "Parkway": {
+    "lat": 32.52053,
+    "lng": -93.6527,
+    "city": "Bossier City"
+  },
+  "Walker": {
+    "lat": 30.48637,
+    "lng": -90.86562,
+    "city": "Walker"
+  },
+  "Sulphur": {
+    "lat": 30.22979,
+    "lng": -93.35634,
+    "city": "Sulphur"
+  },
+  "Terrebonne": {
+    "lat": 29.57474,
+    "lng": -90.70546,
+    "city": "Houma"
+  },
+  "Natchitoches Central": {
+    "lat": 31.73046,
+    "lng": -93.10147,
+    "city": "Natchitoches"
+  },
+  "Live Oak": {
+    "lat": 30.5749,
+    "lng": -90.9508,
+    "city": "Watson"
+  },
+  "Ponchatoula": {
+    "lat": 30.4406,
+    "lng": -90.44279,
+    "city": "Ponchatoula"
+  },
+  "Benton": {
+    "lat": 32.68958,
+    "lng": -93.74013,
+    "city": "Benton"
+  },
+  "Central Lafourche": {
+    "lat": 29.72349,
+    "lng": -90.62975,
+    "city": "Raceland"
+  },
+  "Bourgeois": {
+    "lat": 29.678,
+    "lng": -90.78314,
+    "city": "Gray"
+  },
+  "Fontainebleau": {
+    "lat": 30.3775,
+    "lng": -90.1033,
+    "city": "Mandeville"
+  },
+  "New Iberia": {
+    "lat": 30.00524,
+    "lng": -91.8232,
+    "city": "New Iberia"
+  },
+  "Neville": {
+    "lat": 32.51996,
+    "lng": -92.08215,
+    "city": "Monroe"
+  },
+  "Westgate": {
+    "lat": 30.00204,
+    "lng": -91.82264,
+    "city": "New Iberia"
+  },
+  "North DeSoto": {
+    "lat": 32.27127,
+    "lng": -93.80739,
+    "city": "Stonewall"
+  },
+  "Cecilia": {
+    "lat": 30.3364,
+    "lng": -91.84792,
+    "city": "Cecilia"
+  },
+  "Sterlington": {
+    "lat": 32.68889,
+    "lng": -92.06034,
+    "city": "Sterlington"
+  },
+  "Opelousas": {
+    "lat": 30.52798,
+    "lng": -92.0816,
+    "city": "Opelousas"
+  },
+  "Iowa": {
+    "lat": 30.24137,
+    "lng": -93.01303,
+    "city": "Iowa"
+  },
+  "Eunice": {
+    "lat": 30.49532,
+    "lng": -92.41775,
+    "city": "Eunice"
+  },
+  "Lutcher": {
+    "lat": 30.06305,
+    "lng": -90.71168,
+    "city": "Lutcher"
+  },
+  "Leesville": {
+    "lat": 31.13882,
+    "lng": -93.28476,
+    "city": "Leesville"
+  },
+  "West Feliciana": {
+    "lat": 30.78423,
+    "lng": -91.37642,
+    "city": "St. Francisville"
+  },
+  "Franklin Parish": {
+    "lat": 32.16469,
+    "lng": -91.72065,
+    "city": "Winnsboro"
+  },
+  "Plaquemine": {
+    "lat": 30.28439,
+    "lng": -91.24118,
+    "city": "Plaquemine"
+  },
+  "Salmen": {
+    "lat": 30.2911,
+    "lng": -89.77898,
+    "city": "Slidell"
+  },
+  "Lakeshore": {
+    "lat": 30.37749,
+    "lng": -90.09808,
+    "city": "Mandeville"
+  },
+  "Belle Chasse": {
+    "lat": 29.8587,
+    "lng": -90.00329,
+    "city": "Belle Chasse"
+  },
+  "Northwest": {
+    "lat": 30.52279,
+    "lng": -92.08023,
+    "city": "Opelousas"
+  },
+  "Erath": {
+    "lat": 29.95879,
+    "lng": -92.03742,
+    "city": "Erath"
+  },
+  "Franklinton": {
+    "lat": 30.85396,
+    "lng": -90.14367,
+    "city": "Franklinton"
+  },
+  "DeRidder": {
+    "lat": 30.84479,
+    "lng": -93.29213,
+    "city": "Deridder"
+  },
+  "Iota": {
+    "lat": 30.32605,
+    "lng": -92.49561,
+    "city": "Iota"
+  },
+  "Brusly": {
+    "lat": 30.39425,
+    "lng": -91.25161,
+    "city": "Brusly"
+  },
+  "Pearl River": {
+    "lat": 30.37135,
+    "lng": -89.75036,
+    "city": "Pearl River"
+  },
+  "Minden": {
+    "lat": 32.61774,
+    "lng": -93.27608,
+    "city": "Minden"
+  },
+  "South Lafourche": {
+    "lat": 29.44586,
+    "lng": -90.30774,
+    "city": "Galliano"
+  },
+  "South Terrebonne": {
+    "lat": 29.56365,
+    "lng": -90.61497,
+    "city": "Bourg"
+  },
+  "Wossman": {
+    "lat": 32.52038,
+    "lng": -92.07909,
+    "city": "Monroe"
+  },
+  "Rayne": {
+    "lat": 30.24051,
+    "lng": -92.26734,
+    "city": "Rayne"
+  },
+  "West Ouachita": {
+    "lat": 32.50639,
+    "lng": -92.15076,
+    "city": "West Monroe"
+  },
+  "Beau Chene": {
+    "lat": 30.40172,
+    "lng": -91.93239,
+    "city": "Arnaudville"
+  },
+  "North Vermilion": {
+    "lat": 30.10412,
+    "lng": -92.12108,
+    "city": "Maurice"
+  },
+  "Assumption": {
+    "lat": 29.93827,
+    "lng": -91.02636,
+    "city": "Napoleonville"
+  },
+  "Carroll": {
+    "lat": 32.5227,
+    "lng": -92.07207,
+    "city": "Monroe"
+  },
+  "Albany": {
+    "lat": 30.49919,
+    "lng": -90.58382,
+    "city": "Albany"
+  },
+  "Broadmoor": {
+    "lat": 30.43766,
+    "lng": -91.13115,
+    "city": "Baton Rouge"
+  },
+  "Livonia": {
+    "lat": 30.56225,
+    "lng": -91.55011,
+    "city": "Livonia"
+  },
+  "Bossier": {
+    "lat": 32.5197,
+    "lng": -93.65515,
+    "city": "Bossier City"
+  },
+  "Woodlawn-Shreveport": {
+    "lat": 32.46901,
+    "lng": -93.79081,
+    "city": "Shreveport"
+  },
+  "Loranger": {
+    "lat": 30.63574,
+    "lng": -90.39814,
+    "city": "Loranger"
+  },
+  "Breaux Bridge": {
+    "lat": 30.2831,
+    "lng": -91.90592,
+    "city": "Breaux Bridge"
+  },
+  "A.J. Ellender": {
+    "lat": 29.57896,
+    "lng": -90.70604,
+    "city": "Houma"
+  },
+  "LaGrange": {
+    "lat": 30.19874,
+    "lng": -93.20759,
+    "city": "Lake Charles"
+  },
+  "Morgan City": {
+    "lat": 29.71207,
+    "lng": -91.18546,
+    "city": "Morgan City"
   }
 }
