@@ -7902,5 +7902,95 @@
       "Grind-It-Out Program: Zero running-clock wins. Expect physical, 4-quarter trench warfare with high time-of-possession sensitivity.",
       "Recent Performance Slump: Scoring efficiency has dropped by -9.7 PPG over the past 3 weeks. Opponents have exposed red-zone or line-of-scrimmage vulnerabilities."
     ]
+  },
+  "Lakeview": {
+    "team": "Lakeview",
+    "division": "D7",
+    "conference": "Central State Activities Association",
+    "record": "5-5",
+    "wins": 5,
+    "losses": 5,
+    "schedule_2026": [
+      {
+        "date": "Aug. 28, 2026",
+        "opponent": "Scottville Mason County Central",
+        "result": "L",
+        "team_score": 12,
+        "opp_score": 41,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep. 4, 2026",
+        "opponent": "Farwell",
+        "result": "W",
+        "team_score": 17,
+        "opp_score": 14,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep. 11, 2026",
+        "opponent": "Stanton Central Montcalm",
+        "result": "W",
+        "team_score": 45,
+        "opp_score": 12,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep. 18, 2026",
+        "opponent": "Morley-Stanwood",
+        "result": "W",
+        "team_score": 20,
+        "opp_score": 6,
+        "is_playoff": false
+      },
+      {
+        "date": "Sep. 25, 2026",
+        "opponent": "Kent City",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 27,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct. 2, 2026",
+        "opponent": "Harbor Springs",
+        "result": "L",
+        "team_score": 13,
+        "opp_score": 18,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct. 9, 2026",
+        "opponent": "White Cloud",
+        "result": "W",
+        "team_score": 43,
+        "opp_score": 6,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct. 16, 2026",
+        "opponent": "Vestaburg",
+        "result": "L",
+        "team_score": 8,
+        "opp_score": 26,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct. 23, 2026",
+        "opponent": "St. Louis",
+        "result": "W",
+        "team_score": 44,
+        "opp_score": 22,
+        "is_playoff": false
+      },
+      {
+        "date": "Oct. 30, 2026",
+        "opponent": "Menominee",
+        "result": "L",
+        "team_score": 0,
+        "opp_score": 48,
+        "is_playoff": true
+      }
+    ]
   }
 }

@@ -1,739 +1,263 @@
-rank,division_rank,team,state,division,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_scored,ppg_allowed,ppg_off,ppg_def,net_margin,off_index,def_index,playoff_points,harbin_avg,ppa,pqs,contender_tier,city,mascot
-1,1,Lincoln-Way East,IL,8A,SouthWest Suburban - Blue,10-0,10,0,0,10,106.2,106.2,56.2,93.1,1,36.7,12.0,36.7,12.0,24.7,67.8,66.8,132.58,43.0,43.0,43.0,State Title Contender,Frankfort,Griffins
-2,2,Loyola Academy,IL,8A,IHSA Conference,9-1,9,1,0,10,104.7,104.7,54.7,94.7,2,23.9,22.6,23.9,22.6,1.3,49.9,52.0,123.14,50.0,50.0,50.0,State Title Contender,Chicago,Ramblers
-3,3,Mount Carmel,IL,8A,IHSA Conference,9-2,9,2,0,11,100.6,100.6,50.6,90.8,3,27.0,22.9,27.0,22.9,4.1,54.2,51.5,113.6,47.0,47.0,47.0,State Title Contender,Chicago,Golden Aces
-4,1,Edwardsville,IL,7A,IHSA Conference,8-1,8,1,0,9,100.0,100.0,50.0,82.8,4,27.0,32.9,27.0,32.9,-5.9,54.2,37.5,117.87,32.0,32.0,32.0,State Title Contender,Edwardsville,Tigers
-5,2,Normal Community,IL,7A,IHSA 7A,10-0,10,0,0,10,99.9,99.9,49.9,85.4,5,41.4,21.5,41.4,21.5,19.9,74.4,53.5,129.89,19.0,19.0,19.0,State Title Contender,Normal,Ironmen
-6,3,Downers Grove North,IL,7A,IHSA Conference,9-0,9,0,0,9,99.2,99.2,49.2,92.4,6,28.2,15.3,28.2,15.3,12.9,55.9,62.2,132.34,50.0,50.0,50.0,State Title Contender,Downers Grove,Trojans
-7,4,Hersey,IL,7A,IHSA Conference,10-0,10,0,0,10,98.8,98.8,48.8,84.7,7,46.8,18.2,46.8,18.2,28.6,81.9,58.1,129.65,11.0,11.0,11.0,State Title Contender,Chicago,Huskies
-8,4,Naperville Central,IL,8A,IHSA Conference,7-2,7,2,0,9,98.8,98.8,48.8,88.9,8,13.7,23.3,13.7,23.3,-9.6,35.6,51.0,108.89,30.0,30.0,30.0,State Title Contender,Naperville,Redhawks
-9,5,Neuqua Valley,IL,8A,IHSA Conference,5-4,5,4,0,9,98.7,98.7,48.7,94.9,9,29.0,23.8,29.0,23.8,5.2,57.0,50.3,88.77,56.0,56.0,56.0,State Title Contender,Chicago,Varsity
-10,6,Glenbrook North,IL,8A,IHSA Conference,9-0,9,0,0,9,97.5,97.5,47.5,75.2,10,40.1,16.4,40.1,16.4,23.7,72.5,60.6,126.32,1.0,1.0,1.0,State Title Contender,Chicago,Varsity
-11,5,Glenbard West,IL,7A,IHSA Conference,5-4,5,4,0,9,97.5,97.5,47.5,92.5,11,30.0,23.3,30.0,23.3,6.7,58.4,51.0,87.93,61.0,61.0,61.0,State Title Contender,Chicago,Varsity
-12,7,Waubonsie Valley,IL,8A,IHSA Conference,5-4,5,4,0,9,97.4,97.4,47.4,94.3,12,25.8,28.2,25.8,28.2,-2.4,52.5,44.1,88.56,59.0,59.0,59.0,State Title Contender,Chicago,Warriors
-13,6,Brother Rice,IL,7A,IHSA Conference,13-1,13,1,0,14,94.2,94.2,44.21,77.2,13,37.9,10.3,37.9,10.3,27.6,69.5,69.2,119.88,40.0,40.0,40.0,State Title Contender,Chicago,Crusaders
-14,1,Montini Catholic,IL,4A,IHSA 4A,14-0,14,0,0,14,86.7,86.7,36.65,70.6,14,40.2,16.1,40.2,16.1,24.1,72.7,61.1,124.71,41.0,41.0,41.0,State Title Contender,Lombard,Broncos
-15,1,Fenwick,IL,6A,IHSA Conference,11-3,11,3,0,14,86.1,86.1,36.07,72.9,15,38.0,17.6,38.0,17.6,20.4,69.6,59.0,104.09,44.0,44.0,44.0,State Title Contender,Oak Park,Friars
-16,2,Nazareth Academy,IL,6A,IHSA Conference,11-2,11,2,0,13,84.8,84.8,34.85,74.9,16,35.2,17.3,35.2,17.3,17.9,65.7,59.4,110.83,37.0,37.0,37.0,Regional Contender,Lagrange Park,Roadrunners
-17,7,East St. Louis,IL,7A,IHSA Conference,9-4,9,4,0,13,84.2,84.2,34.2,76.7,17,44.0,13.8,44.0,13.8,30.2,78.0,64.3,96.08,20.0,20.0,20.0,Regional Contender,East St Louis,Flyers
-18,8,Maine South,IL,8A,IHSA Conference,10-2,10,2,0,12,82.8,82.8,32.76,70.5,18,38.6,15.2,38.6,15.2,23.4,70.4,62.3,108.01,30.0,30.0,30.0,Regional Contender,Park Ridge,Hawks
-19,9,Fremd,IL,8A,IHSA 8A,11-2,11,2,0,13,82.7,82.7,32.69,71.3,19,34.5,15.8,34.5,15.8,18.7,64.7,61.5,109.57,60.0,60.0,60.0,Regional Contender,Palatine,Vikings
-20,10,Oswego,IL,8A,IHSA Conference,11-3,11,3,0,14,82.6,82.6,32.62,74.6,20,26.0,11.0,26.0,11.0,15.0,52.8,68.2,104.68,7.0,7.0,7.0,Regional Contender,Oswego,Panthers
-21,8,St. Rita,IL,7A,IHSA Conference,9-5,9,5,0,14,82.4,82.4,32.4,80.8,21,31.9,24.6,31.9,24.6,7.3,61.1,49.2,92.57,30.0,30.0,30.0,Regional Contender,Chicago,Mustangs
-22,1,Byron,IL,3A,IHSA Conference,14-0,14,0,0,14,80.7,80.7,30.74,57.3,22,50.6,10.8,50.6,10.8,39.8,87.2,68.5,120.05,31.0,31.0,31.0,Regional Contender,Byron,Tigers
-23,2,Lockport,IL,4A,IHSA 4A,9-4,9,4,0,13,80.3,80.3,30.31,76.4,23,29.4,19.0,29.4,19.0,10.4,57.6,57.0,95.97,24.23,45.0,6.92,Regional Contender,IL,Varsity
-24,11,Barrington,IL,8A,IHSA Conference,10-2,10,2,0,12,80.0,80.0,29.95,71.9,24,37.6,20.2,37.6,20.2,17.4,69.0,55.3,108.5,19.0,19.0,19.0,Regional Contender,Barrington,Fillies Broncos
-25,9,St. Charles North,IL,7A,IHSA Conference,10-2,10,2,0,12,79.9,79.9,29.88,74.7,25,28.4,22.6,28.4,22.6,5.8,56.2,52.0,109.48,60.0,60.0,60.0,Regional Contender,St Charles,North Stars
-26,1,St. Francis,IL,5A,IHSA Conference,11-3,11,3,0,14,79.7,79.7,29.74,74.2,26,34.6,27.6,34.6,27.6,7.0,64.8,45.0,104.54,63.0,63.0,63.0,Regional Contender,Wheaton,Spartans
-27,10,Batavia,IL,7A,IHSA Conference,10-3,10,3,0,13,79.5,79.5,29.52,73.3,27,37.7,20.5,37.7,20.5,17.2,69.2,54.9,102.58,35.0,35.0,35.0,Regional Contender,Batavia,Bulldogs
-28,2,Carmel,IL,3A,IHSA 3A,8-3,8,3,0,11,79.4,79.4,29.38,73.1,28,30.4,18.1,30.4,18.1,12.3,59.0,58.3,98.31,25.45,47.27,7.27,Regional Contender,Mundelein,Varsity
-29,1,Wilmington,IL,2A,IHSA Conference,13-1,13,1,0,14,77.5,77.5,27.5,58.2,29,45.9,7.2,45.9,7.2,38.7,80.7,73.5,113.23,37.0,37.0,37.0,Regional Contender,Wilmington,Wildcats
-30,2,Providence Catholic,IL,5A,IHSA Conference,10-4,10,4,0,14,77.4,77.4,27.36,72.7,30,30.0,18.4,30.0,18.4,11.6,58.4,57.8,96.87,39.0,39.0,39.0,Regional Contender,New Lenox,Varsity
-31,12,Lyons,IL,8A,IHSA 8A,8-3,8,3,0,11,76.8,76.8,26.78,70.8,31,30.8,19.4,30.8,19.4,11.4,59.5,56.4,97.51,25.45,47.27,7.27,Regional Contender,Lagrange,Lions
-32,13,Bolingbrook,IL,8A,IHSA Conference,9-3,9,3,0,12,76.6,76.6,26.64,68.9,32,31.0,17.5,31.0,17.5,13.5,59.8,59.1,99.12,17.0,17.0,17.0,Regional Contender,Chicago,Varsity
-33,14,Sandburg,IL,8A,IHSA Conference,7-3,7,3,0,10,76.6,76.6,26.57,74.7,33,21.9,15.2,21.9,15.2,6.7,47.1,62.3,96.14,5.0,5.0,5.0,Regional Contender,Orland Park,Eagles
-34,3,IC Catholic Prep,IL,3A,IHSA 7A,8-4,8,4,0,12,76.3,76.3,26.35,72.0,34,28.7,19.7,28.7,19.7,9.0,56.6,56.0,91.87,31.0,31.0,31.0,Regional Contender,Elmhurst,Varsity
-35,1,Bridgeport Red Hill,IL,1A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,35,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,2.0,2.0,2.0,Regional Contender,Chicago,Varsity
-36,3,Burlington,IL,6A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,36,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,2.0,2.0,2.0,Regional Contender,Chicago,Varsity
-37,2,Carmi,IL,1A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,37,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,5.0,5.0,5.0,Regional Contender,Chicago,Varsity
-38,4,Carthage,IL,3A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,38,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,3.0,3.0,3.0,Regional Contender,Chicago,Varsity
-39,3,Chester IL,IL,1A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,39,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,3.0,3.0,3.0,Regional Contender,Chicago,Varsity
-40,3,Crane,IL,5A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,40,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,6.0,6.0,6.0,Regional Contender,Chicago,Varsity
-41,2,Cullom Tri-Point,IL,2A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,41,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,6.0,6.0,6.0,Regional Contender,Chicago,Varsity
-42,3,East Dubuque,IL,4A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,42,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,16.0,16.0,16.0,Regional Contender,Chicago,Varsity
-43,5,Eastland-Pearl City,IL,3A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,43,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,1.0,1.0,1.0,Regional Contender,Chicago,Varsity
-44,15,Evanston Township,IL,8A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,44,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,35.0,65.0,10.0,Regional Contender,Evanston,Varsity
-45,4,Flora IL,IL,1A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,45,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,7.0,7.0,7.0,Regional Contender,Chicago,Varsity
-46,4,Geno-Kingston,IL,6A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,46,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,1.0,1.0,1.0,Regional Contender,Chicago,Varsity
-47,6,Lombard Montini,IL,3A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,47,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,13.0,13.0,13.0,Regional Contender,Lombard,Varsity
-48,5,Madison IL,IL,1A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,48,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,3.0,3.0,3.0,Regional Contender,Chicago,Varsity
-49,7,Mid-County,IL,3A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,49,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,8.0,8.0,8.0,Regional Contender,Chicago,Varsity
-50,3,Milford,IL,2A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,50,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,1.0,1.0,1.0,Regional Contender,Chicago,Varsity
-51,4,Mt. Carmel IL,IL,2A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,51,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,11.0,11.0,11.0,Regional Contender,Chicago,Varsity
-52,4,Northside,IL,5A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,52,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,35.0,65.0,10.0,Regional Contender,Chicago,Varsity
-53,5,Oblomg,IL,2A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,53,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,3.0,3.0,3.0,Regional Contender,Chicago,Varsity
-54,6,Palestine,IL,2A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,54,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,3.0,3.0,3.0,Regional Contender,Chicago,Varsity
-55,5,Payton,IL,5A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,55,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,35.0,65.0,10.0,Regional Contender,Chicago,Varsity
-56,5,Peoria Manual,IL,6A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,56,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,12.0,12.0,12.0,Regional Contender,Peoria,Varsity
-57,6,Perspective,IL,5A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,57,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,35.0,65.0,10.0,Regional Contender,Chicago,Varsity
-58,4,Rockford Christian,IL,4A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,58,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,7.0,7.0,7.0,Regional Contender,Rockford,Varsity
-59,5,Rockford Lutheran,IL,4A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,59,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,5.0,5.0,5.0,Regional Contender,Rockford,Varsity
-60,7,Steinmetz,IL,5A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,60,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,3.0,3.0,3.0,Regional Contender,Chicago,Varsity
-61,11,TF South,IL,7A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,61,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,2.0,2.0,2.0,Regional Contender,Chicago,Varsity
-62,6,Timothy Christian,IL,4A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,62,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,1.0,1.0,1.0,Regional Contender,Chicago,Varsity
-63,6,Toledo Cumberland,IL,1A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,63,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,2.0,2.0,2.0,Regional Contender,Chicago,Varsity
-64,8,West Hancock,IL,3A,IHSA Conference,9-0,9,0,0,9,76.2,76.2,26.15,55.0,64,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,1.0,1.0,1.0,Regional Contender,Chicago,Varsity
-65,7,Enfield,IL,1A,IHSA Conference,8-0,8,0,0,8,76.2,76.2,26.15,55.0,65,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,23.0,23.0,23.0,Regional Contender,Chicago,Varsity
-66,7,Flanagan-Cornell,IL,2A,IHSA Conference,8-0,8,0,0,8,76.2,76.2,26.15,55.0,66,38.0,11.0,38.0,11.0,27.0,69.6,68.2,119.25,5.0,5.0,5.0,Regional Contender,Chicago,Varsity
-67,8,Lena-Winslow,IL,1A,IHSA 1A,13-1,13,1,0,14,76.1,76.1,26.14,61.3,67,42.9,15.7,42.9,15.7,27.2,76.5,61.6,114.31,58.0,58.0,58.0,Regional Contender,Lena,Panthers
-68,7,Rochester,IL,4A,IHSA Conference,12-2,12,2,0,14,75.6,75.6,25.63,62.7,68,46.6,23.1,46.6,23.1,23.5,81.6,51.3,107.66,34.0,34.0,34.0,Regional Contender,Rochester,Rockets
-69,16,Marist,IL,8A,IHSA Conference,4-5,4,5,0,9,75.6,75.6,25.56,79.1,69,25.6,23.4,25.6,23.4,2.2,52.2,50.8,72.13,72.0,72.0,72.0,Regional Contender,Chicago,Redhawks
-70,12,Glenbard North,IL,7A,IHSA Conference,8-4,8,4,0,12,75.0,75.0,24.98,71.3,70,28.7,19.7,28.7,19.7,9.0,56.6,56.0,91.62,51.0,51.0,51.0,Regional Contender,Carol Stream,Varsity
-71,17,Glenbrook South,IL,8A,IHSA Conference,8-3,8,3,0,11,74.6,74.6,24.62,68.1,71,31.8,16.5,31.8,16.5,15.3,60.9,60.5,96.56,25.45,47.27,7.27,Regional Contender,Glenview,Titans
-72,13,Wheaton-Warrenville South,IL,7A,IHSA Conference,7-4,7,4,0,11,74.3,74.3,24.34,72.2,72,27.9,18.2,27.9,18.2,9.7,55.5,58.1,88.91,63.0,63.0,63.0,Regional Contender,Wheaton,Tigers
-73,9,Amboy/LaMoille/Ohio,IL,1A,IHSA 1A,11-1,11,1,0,12,74.3,74.3,24.27,53.8,73,51.7,12.3,51.7,12.3,39.4,88.8,66.4,110.5,32.08,59.58,9.17,Regional Contender,Amboy,Ohio
-74,18,Naperville North,IL,8A,IHSA Conference,6-4,6,4,0,10,74.2,74.2,24.19,74.8,74,20.4,18.8,20.4,18.8,1.6,45.0,57.3,86.18,20.0,20.0,20.0,Regional Contender,Naperville,Huskies
-75,8,Morris,IL,4A,IHSA Conference,11-2,11,2,0,13,73.9,73.9,23.9,65.7,75,39.5,21.2,39.5,21.2,18.3,71.7,53.9,107.61,40.0,40.0,40.0,Playoff Qualifier,Morris,Warriors
-76,6,Glenwood,IL,6A,IHSA Conference,10-1,10,1,0,11,73.8,73.8,23.83,61.7,76,40.5,18.5,40.5,18.5,22.0,73.1,57.7,112.5,54.0,54.0,54.0,Playoff Qualifier,Chatham,Titans
-77,10,Milledgeville,IL,1A,IHSA 1A,11-1,11,1,0,12,73.8,73.8,23.82,53.8,77,43.7,16.7,43.7,16.7,27.0,77.6,60.2,110.5,32.08,59.58,9.17,Playoff Qualifier,Milledgeville,Missiles
-78,19,Hinsdale Central,IL,8A,IHSA Conference,7-4,7,4,0,11,73.7,73.7,23.69,70.2,78,27.8,20.5,27.8,20.5,7.3,55.3,54.9,88.21,30.0,30.0,30.0,Playoff Qualifier,Hinsdale,Varsity
-79,20,Homewood-Flossmoor,IL,8A,IHSA 3A,6-5,6,5,0,11,73.7,73.7,23.69,76.0,79,25.3,22.8,25.3,22.8,2.5,51.8,51.7,81.15,19.09,35.45,5.45,Playoff Qualifier,Flossmoor,Varsity
-80,7,St. Laurence,IL,6A,IHSA Conference,8-5,8,5,0,13,73.5,73.5,23.54,74.4,80,22.5,22.4,22.5,22.4,0.1,47.9,52.2,87.58,67.0,67.0,67.0,Playoff Qualifier,Burbank,Vikings
-81,14,Lincoln-Way Central,IL,7A,IHSA Conference,9-2,9,2,0,11,73.3,73.3,23.33,63.2,81,37.0,12.0,37.0,12.0,25.0,68.2,66.8,103.94,63.0,63.0,63.0,Playoff Qualifier,New Lenox,Knights
-82,21,York,IL,8A,IHSA 8A,6-4,6,4,0,10,73.2,73.2,23.18,70.1,82,32.9,20.0,32.9,20.0,12.9,62.5,55.6,84.53,36.0,36.0,36.0,Playoff Qualifier,Elmhurst,Dukes
-83,22,Warren Township,IL,8A,IHSA 8A,9-2,9,2,0,11,73.0,73.0,22.97,64.8,83,34.8,17.9,34.8,17.9,16.9,65.1,58.5,104.5,52.0,52.0,52.0,Playoff Qualifier,Gurnee,Blue Devils
-84,11,Stockton,IL,1A,IHSA Conference,12-1,12,1,0,13,72.8,72.8,22.82,58.4,84,37.8,8.8,37.8,8.8,29.0,69.3,71.3,112.75,16.0,16.0,16.0,Playoff Qualifier,Stockton,Blackhawks
-85,8,Lake Zurich,IL,6A,IHSA Conference,9-3,9,3,0,12,72.8,72.8,22.75,63.6,85,31.0,17.5,31.0,17.5,13.5,59.8,59.1,97.26,62.0,62.0,62.0,Playoff Qualifier,Lake Zurich,Varsity
-86,12,Saint Ignatius College Prep,IL,1A,IHSA 1A,5-7,5,7,0,12,72.4,72.4,22.39,77.3,86,21.7,26.2,21.7,26.2,-4.5,46.8,46.9,68.72,14.58,27.08,4.17,Playoff Qualifier,Chicago,Varsity
-87,8,Joliet Catholic,IL,5A,IHSA 5A,4-6,4,6,0,10,72.3,72.3,22.32,78.9,87,21.9,24.5,21.9,24.5,-2.6,47.1,49.3,67.62,40.0,40.0,40.0,Playoff Qualifier,Joliet,Hilltoppers
-88,15,Lincoln-Way West,IL,7A,IHSA Conference,10-2,10,2,0,12,72.0,72.0,22.03,63.0,88,33.4,15.4,33.4,15.4,18.0,63.2,62.0,105.38,62.0,62.0,62.0,Playoff Qualifier,New Lenox,Warriors
-89,16,Yorkville,IL,7A,IHSA Conference,7-3,7,3,0,10,71.7,71.7,21.67,70.2,89,19.3,14.2,19.3,14.2,5.1,43.4,63.7,94.57,78.0,78.0,78.0,Playoff Qualifier,Yorkville,Foxes
-90,13,Polo,IL,1A,IHSA 1A,11-2,11,2,0,13,71.5,71.5,21.53,52.8,90,42.0,15.7,42.0,15.7,26.3,75.2,61.6,103.1,29.62,55.0,8.46,Playoff Qualifier,Polo,Marcos
-91,9,Belvidere North,IL,6A,IHSA Conference,12-1,12,1,0,13,71.5,71.5,21.46,60.1,91,32.2,14.5,32.2,14.5,17.7,61.5,63.3,113.34,60.0,60.0,60.0,Playoff Qualifier,Belvidere,Blue Thunder
-92,14,South Fork/Edinburg/Morrisonville,IL,1A,IHSA 1A,11-1,11,1,0,12,71.4,71.4,21.43,53.8,92,43.3,21.6,43.3,21.6,21.7,77.0,53.4,110.5,32.08,59.58,9.17,Playoff Qualifier,Kincaid,Wildcats
-93,23,Palatine,IL,8A,IHSA Conference,6-5,6,5,0,11,71.4,71.4,21.38,73.5,93,25.8,27.8,25.8,27.8,-2.0,52.5,44.7,80.27,53.0,53.0,53.0,Playoff Qualifier,Palatine,Pirates
-94,9,Richmond-Burton,IL,3A,IHSA 4A,12-1,12,1,0,13,71.3,71.3,21.31,55.1,94,39.5,10.5,39.5,10.5,29.0,71.7,68.9,111.59,32.0,32.0,32.0,Playoff Qualifier,Richmond,Rockets
-95,10,Tolono Unity,IL,3A,IHSA Conference,12-2,12,2,0,14,71.0,71.0,21.02,58.4,95,42.7,18.4,42.7,18.4,24.3,76.2,57.8,106.15,66.0,66.0,66.0,Playoff Qualifier,Tolono,Rockets
-96,24,Minooka,IL,8A,IHSA Conference,6-4,6,4,0,10,71.0,71.0,21.02,71.1,96,22.8,17.2,22.8,17.2,5.6,48.3,59.5,84.88,66.0,66.0,66.0,Playoff Qualifier,Minooka,Indians
-97,15,Albion Edwards County,IL,1A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,97,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,11.0,11.0,11.0,Playoff Qualifier,Chicago,Varsity
-98,16,Catlin Salt Fork,IL,1A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,98,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,11.0,11.0,11.0,Playoff Qualifier,Chicago,Varsity
-99,9,Chicago Agricultural Science,IL,5A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,99,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,11.0,11.0,11.0,Playoff Qualifier,Chicago,Varsity
-100,17,Decatur St. Teresa,IL,1A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,100,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,5.0,5.0,5.0,Playoff Qualifier,Decatur,Varsity
-101,8,Gilman Iroquois West,IL,2A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,101,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,5.0,5.0,5.0,Playoff Qualifier,Chicago,Varsity
-102,10,Goode,IL,5A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,102,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,3.0,3.0,3.0,Playoff Qualifier,Chicago,Varsity
-103,9,Guerin,IL,4A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,103,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,3.0,3.0,3.0,Playoff Qualifier,Chicago,Varsity
-104,11,Hope Academy,IL,3A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,104,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,11.0,11.0,11.0,Playoff Qualifier,Chicago,Varsity
-105,10,IC Catholic,IL,6A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,105,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,5.0,5.0,5.0,Playoff Qualifier,Chicago,Varsity
-106,25,Lockport Township,IL,8A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,106,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,5.0,5.0,5.0,Playoff Qualifier,Chicago,Varsity
-107,18,Lovington,IL,1A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,107,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,6.0,6.0,6.0,Playoff Qualifier,Chicago,Varsity
-108,9,Marshall IL,IL,2A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,108,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,5.0,5.0,5.0,Playoff Qualifier,Chicago,Varsity
-109,19,Metropolis Massac,IL,1A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,109,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,18.0,18.0,18.0,Playoff Qualifier,Chicago,Varsity
-110,20,Newton IL,IL,1A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,110,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,10.0,10.0,10.0,Playoff Qualifier,Chicago,Varsity
-111,11,Peoria Richwoods,IL,6A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,111,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,10.0,10.0,10.0,Playoff Qualifier,Peoria,Varsity
-112,12,ROWVA,IL,3A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,112,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,3.0,3.0,3.0,Playoff Qualifier,Chicago,Varsity
-113,11,Raby,IL,5A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,113,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,8.0,8.0,8.0,Playoff Qualifier,Chicago,Varsity
-114,13,Roosevelt,IL,3A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,114,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,15.0,15.0,15.0,Playoff Qualifier,Chicago,Varsity
-115,17,TF North,IL,7A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,115,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,1.0,1.0,1.0,Playoff Qualifier,Chicago,Varsity
-116,14,United,IL,3A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,116,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,6.0,6.0,6.0,Playoff Qualifier,Chicago,Varsity
-117,12,Urban Prep,IL,5A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,117,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,16.0,16.0,16.0,Playoff Qualifier,Chicago,Varsity
-118,21,Vienna,IL,1A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,118,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,16.0,16.0,16.0,Playoff Qualifier,Chicago,Varsity
-119,10,Walther Christian,IL,4A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,119,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,4.0,4.0,4.0,Playoff Qualifier,Chicago,Varsity
-120,15,Warren IL,IL,3A,IHSA Conference,8-1,8,1,0,9,70.3,70.3,20.34,53.4,120,34.9,13.9,34.9,13.9,21.0,65.3,64.1,107.58,6.0,6.0,6.0,Playoff Qualifier,Chicago,Varsity
-121,18,Bradley-Bourbonnais,IL,7A,IHSA 7A,9-2,9,2,0,11,70.3,70.3,20.3,61.9,121,37.5,17.9,37.5,17.9,19.6,68.9,58.5,103.48,16.0,16.0,16.0,Playoff Qualifier,Bradley,Boilermakers
-122,12,Washington,IL,6A,IHSA Conference,10-2,10,2,0,12,69.9,69.9,19.87,59.6,122,35.4,13.7,35.4,13.7,21.7,66.0,64.4,104.19,67.0,67.0,67.0,Playoff Qualifier,Washington,Panthers
-123,13,Geneva,IL,6A,IHSA Conference,4-5,4,5,0,9,69.9,69.9,19.87,70.9,123,25.7,16.7,25.7,16.7,9.0,52.4,60.2,69.26,41.0,41.0,41.0,Playoff Qualifier,Geneva,Vikings
-124,11,Breese Central,IL,4A,IHSA Conference,11-2,11,2,0,13,69.5,69.5,19.51,54.1,124,43.9,12.8,43.9,12.8,31.1,77.9,65.7,103.55,46.0,46.0,46.0,Playoff Qualifier,Breese,Cougars
-125,12,Coal City,IL,4A,IHSA Conference,9-3,9,3,0,12,69.2,69.2,19.22,60.4,125,40.5,16.7,40.5,16.7,23.8,73.1,60.2,96.14,65.0,65.0,65.0,Playoff Qualifier,Coal City,Coalers
-126,26,Belleville East,IL,8A,IHSA Conference,8-3,8,3,0,11,69.2,69.2,19.15,65.1,126,31.3,22.3,31.3,22.3,9.0,60.2,52.4,95.51,74.0,74.0,74.0,Playoff Qualifier,Belleville,Lancers
-127,13,Sacred Heart-Griffin,IL,4A,IHSA Conference,8-4,8,4,0,12,69.1,69.1,19.08,63.2,127,42.5,25.8,42.5,25.8,16.7,75.9,47.5,88.79,35.0,35.0,35.0,Playoff Qualifier,Springfield,Cyclones
-128,14,Central,IL,6A,IHSA 6A,10-2,10,2,0,12,68.9,68.9,18.94,62.3,128,26.2,13.9,26.2,13.9,12.3,53.1,64.1,105.14,29.17,54.17,8.33,Playoff Qualifier,Burlington,Rockets
-129,13,Cary-Grove,IL,5A,IHSA Conference,9-3,9,3,0,12,68.7,68.7,18.65,61.0,129,35.9,19.0,35.9,19.0,16.9,66.7,57.0,96.35,45.0,45.0,45.0,Playoff Qualifier,Cary,Trojans
-130,19,Moline,IL,7A,IHSA Conference,9-2,9,2,0,11,68.4,68.4,18.43,59.3,130,31.5,10.2,31.5,10.2,21.3,60.5,69.3,102.57,77.0,77.0,77.0,Playoff Qualifier,Moline,Maroons
-131,15,Prairie Ridge,IL,6A,IHSA Conference,10-1,10,1,0,11,68.3,68.3,18.29,60.2,131,39.9,23.0,39.9,23.0,16.9,72.3,51.4,111.98,63.0,63.0,63.0,Playoff Qualifier,Crystal Lake,Wolves
-132,14,Morgan Park,IL,5A,IHSA Conference,9-5,9,5,0,14,68.3,68.3,18.29,66.9,132,26.3,15.5,26.3,15.5,10.8,53.2,61.9,87.7,66.0,66.0,66.0,Playoff Qualifier,Chicago,Mustangs
-133,22,St. Anne,IL,1A,IHSA 1A,9-2,9,2,0,11,68.3,68.3,18.27,52.5,133,38.8,18.0,38.8,18.0,20.8,70.7,58.4,100.19,66.0,66.0,66.0,Playoff Qualifier,St Anne,Cardinals
-134,23,Brown County,IL,1A,IHSA 1A,11-3,11,3,0,14,68.1,68.1,18.07,56.8,134,34.5,12.1,34.5,12.1,22.4,64.7,66.7,98.45,27.5,51.07,7.86,Playoff Qualifier,Mt Sterling,Hornets
-135,27,Oswego East,IL,8A,IHSA Conference,6-4,6,4,0,10,67.9,67.9,17.93,66.2,135,26.8,21.4,26.8,21.4,5.4,53.9,53.6,83.17,80.0,80.0,80.0,Playoff Qualifier,Oswego,Varsity
-136,14,Bishop McNamara,IL,4A,IHSA 2A,10-1,10,1,0,11,67.8,67.8,17.78,52.3,136,35.5,13.4,35.5,13.4,22.1,66.1,64.8,109.21,1.0,1.0,1.0,Playoff Qualifier,Kankakee,Varsity
-137,20,Guilford,IL,7A,IHSA 7A,8-2,8,2,0,10,67.6,67.6,17.64,59.6,137,34.2,17.0,34.2,17.0,17.2,64.3,59.8,100.86,28.0,52.0,8.0,Playoff Qualifier,Rockford,Vikings
-138,10,El Paso-Gridley,IL,2A,IHSA 2A,12-1,12,1,0,13,67.6,67.6,17.57,53.7,138,36.8,11.0,36.8,11.0,25.8,67.9,68.2,111.1,75.0,75.0,75.0,Playoff Qualifier,El Paso,Titans
-139,24,Camp Point Central,IL,1A,IHSA Conference,10-1,10,1,0,11,67.5,67.5,17.5,52.1,139,43.5,5.0,43.5,5.0,38.5,77.3,76.6,109.14,53.0,53.0,53.0,Playoff Qualifier,Camp Point,Panthers
-140,16,Dunlap,IL,6A,IHSA Conference,9-3,9,3,0,12,67.1,67.1,17.14,57.7,140,35.8,15.6,35.8,15.6,20.2,66.5,61.8,95.19,17.0,17.0,17.0,Playoff Qualifier,Dunlap,Eagles
-141,25,West Carroll,IL,1A,IHSA 1A,8-3,8,3,0,11,67.0,67.0,16.98,51.2,141,40.5,16.9,40.5,16.9,23.6,73.1,59.9,90.65,25.45,47.27,7.27,Playoff Qualifier,Mount Carroll,Thunder
-142,26,Calhoun/Brussels,IL,1A,IHSA 1A,12-1,12,1,0,13,66.7,66.7,16.7,53.3,142,36.7,7.9,36.7,7.9,28.8,67.8,72.5,110.96,32.31,60.0,9.23,Playoff Qualifier,Hardin,Warriors
-143,11,Bloomington Central Catholic,IL,2A,IHSA 2A,10-1,10,1,0,11,66.7,66.7,16.7,54.7,143,44.7,16.3,44.7,16.3,28.4,79.0,60.8,110.05,15.0,15.0,15.0,Playoff Qualifier,Bloomington,Saints
-144,12,Erie-Prophetstown,IL,2A,IHSA 2A,1-0,1,0,0,1,66.7,66.7,16.7,55.0,144,42.0,36.0,42.0,36.0,6.0,75.2,33.2,119.25,29.0,29.0,29.0,Playoff Qualifier,Erie,Cardinals
-145,15,Peoria,IL,5A,IHSA Conference,9-3,9,3,0,12,66.6,66.6,16.56,57.3,145,46.5,23.6,46.5,23.6,22.9,81.5,50.6,95.05,58.0,58.0,58.0,Playoff Qualifier,Peoria,Lions
-146,17,Oak Forest,IL,6A,IHSA Conference,11-2,11,2,0,13,66.5,66.5,16.49,54.1,146,36.3,15.8,36.3,15.8,20.5,67.2,61.5,103.55,29.0,29.0,29.0,Playoff Qualifier,Oak Forest,Bengals
-147,15,St. Patrick,IL,4A,IHSA Conference,6-5,6,5,0,11,66.4,66.4,16.42,67.4,147,25.3,22.8,25.3,22.8,2.5,51.8,51.7,78.14,27.0,27.0,27.0,Playoff Qualifier,Chicago,Varsity
-148,21,Kenwood,IL,7A,IHSA Conference,10-3,10,3,0,13,66.3,66.3,16.34,60.3,148,35.8,16.7,35.8,16.7,19.1,66.5,60.2,98.03,72.0,72.0,72.0,Playoff Qualifier,Chicago,Broncos
-149,22,Prospect,IL,7A,IHSA Conference,7-3,7,3,0,10,66.3,66.3,16.27,58.6,149,45.0,22.2,45.0,22.2,22.8,79.4,52.5,90.51,19.0,19.0,19.0,Playoff Qualifier,Mt Prospect,Knights
-150,27,Metro-East Lutheran,IL,1A,IHSA 1A,7-3,7,3,0,10,66.2,66.2,16.18,50.8,150,47.9,24.4,47.9,24.4,23.5,83.5,49.4,87.78,24.5,45.5,7.0,Playoff Qualifier,Edwardsville,Knights
-151,28,Hoffman Estates,IL,8A,IHSA Conference,6-4,6,4,0,10,66.0,66.0,15.98,66.1,151,27.9,23.3,27.9,23.3,4.6,55.5,51.0,83.13,8.0,8.0,8.0,Playoff Qualifier,Hoffman Estates,Hawks
-152,16,Williamsville,IL,3A,IHSA Conference,11-1,11,1,0,12,65.8,65.8,15.84,51.7,152,44.4,16.8,44.4,16.8,27.6,78.6,60.1,109.76,57.0,57.0,57.0,Playoff Qualifier,Williamsville,Bullets
-153,16,DePaul College Prep,IL,4A,IHSA 4A,3-6,3,6,0,9,65.8,65.8,15.84,72.9,153,23.8,28.7,23.8,28.7,-4.9,49.7,43.4,58.85,11.67,21.67,3.33,Playoff Qualifier,Chicago,Rams
-154,17,Dixon,IL,4A,IHSA Conference,9-2,9,2,0,11,65.7,65.7,15.7,51.9,154,49.4,10.9,49.4,10.9,38.5,85.6,68.3,99.98,65.0,65.0,65.0,Playoff Qualifier,Dixon,Dukes And Duchesses
-155,18,Kankakee,IL,6A,IHSA Conference,7-4,7,4,0,11,65.7,65.7,15.7,60.9,155,34.1,17.5,34.1,17.5,16.6,64.1,59.1,84.95,40.0,40.0,40.0,Playoff Qualifier,Kankakee,Kays
-156,28,Sesser-Valier,IL,1A,IHSA Conference,8-2,8,2,0,10,65.7,65.7,15.69,52.2,156,32.4,16.2,32.4,16.2,16.2,61.8,60.9,98.27,20.0,20.0,20.0,Playoff Qualifier,Chicago,Varsity
-157,29,Niles Notre Dame,IL,1A,IHSA 1A,4-7,4,7,0,11,65.5,65.5,15.55,74.6,157,20.2,27.5,20.2,27.5,-7.3,44.7,45.1,62.47,12.73,23.64,3.64,Playoff Qualifier,Niles,Varsity
-158,16,Metamora,IL,5A,IHSA Conference,8-3,8,3,0,11,65.3,65.3,15.34,58.4,158,42.1,24.4,42.1,24.4,17.7,75.3,49.4,93.17,40.0,40.0,40.0,Playoff Qualifier,Metamora,Redbirds
-159,13,Maroa-Forsyth,IL,2A,IHSA 2A,11-3,11,3,0,14,65.2,65.2,15.19,54.4,159,40.6,17.9,40.6,17.9,22.7,73.2,58.5,97.61,37.0,37.0,37.0,Playoff Qualifier,Maroa,Trojans
-160,23,Wheaton North,IL,7A,IHSA Conference,3-6,3,6,0,9,65.0,65.0,15.05,73.0,160,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,58.88,63.0,63.0,63.0,Playoff Qualifier,Wheaton,Varsity
-161,17,Durand/Pecatonica,IL,3A,IHSA Conference,7-4,7,4,0,11,65.0,65.0,14.98,63.7,161,31.6,21.4,31.6,21.4,10.2,60.6,53.6,85.93,27.0,27.0,27.0,Playoff Qualifier,Durand,Rivermen
-162,17,Rochelle,IL,5A,IHSA Conference,6-4,6,4,0,10,64.6,64.6,14.62,64.5,162,25.6,16.8,25.6,16.8,8.8,52.2,60.1,82.58,52.0,52.0,52.0,Playoff Qualifier,Rochelle,Hubs
-163,30,Belleville Althoff,IL,1A,IHSA Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,163,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,17.0,17.0,17.0,Playoff Qualifier,Belleville,Varsity
-164,24,Eisenhower,IL,7A,IHSA Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,164,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,8.0,8.0,8.0,Playoff Qualifier,Chicago,Varsity
-165,14,Fairfield IL,IL,2A,IHSA Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,165,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,14.0,14.0,14.0,Playoff Qualifier,Chicago,Varsity
-166,15,Gcms,IL,2A,IHSA Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,166,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,10.0,10.0,10.0,Playoff Qualifier,Chicago,Varsity
-167,19,Midlothian,IL,6A,IHSA Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,167,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,7.0,7.0,7.0,Playoff Qualifier,Chicago,Varsity
-168,31,Moweaqua Central A&M,IL,1A,IHSA Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,168,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,13.0,13.0,13.0,Playoff Qualifier,Chicago,Varsity
-169,18,Oregon IL,IL,4A,IHSA Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,169,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,10.0,10.0,10.0,Playoff Qualifier,Chicago,Varsity
-170,18,Pearl City,IL,3A,IHSA Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,170,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,9.0,9.0,9.0,Playoff Qualifier,Chicago,Varsity
-171,19,Pecatonica,IL,3A,IHSA Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,171,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,13.0,13.0,13.0,Playoff Qualifier,Chicago,Varsity
-172,16,Venice,IL,2A,IHSA Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,172,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,37.0,37.0,37.0,Playoff Qualifier,Chicago,Varsity
-173,20,West Central,IL,3A,IHSA Conference,7-2,7,2,0,9,64.5,64.5,14.53,51.9,173,31.8,16.8,31.8,16.8,15.0,60.9,60.1,95.94,11.0,11.0,11.0,Playoff Qualifier,Chicago,Varsity
-174,20,Kaneland,IL,6A,IHSA Conference,8-3,8,3,0,11,64.5,64.5,14.47,58.5,174,38.5,21.4,38.5,21.4,17.1,70.3,53.6,93.2,4.0,4.0,4.0,Playoff Qualifier,Maple Park,Knights
-175,29,New Trier,IL,8A,IHSA Conference,5-5,5,5,0,10,64.5,64.5,14.47,68.4,175,24.0,24.0,24.0,24.0,0.0,50.0,50.0,73.94,17.5,32.5,5.0,Playoff Qualifier,Winnetka,Varsity
-176,25,Jacobs,IL,7A,IHSA Conference,7-4,7,4,0,11,64.3,64.3,14.33,63.2,176,31.5,26.0,31.5,26.0,5.5,60.5,47.2,85.76,62.0,62.0,62.0,Playoff Qualifier,Algonquin,Eagles
-177,19,Geneseo,IL,4A,IHSA Conference,9-3,9,3,0,12,64.3,64.3,14.26,58.4,177,28.9,19.2,28.9,19.2,9.7,56.9,56.7,95.44,52.0,52.0,52.0,Playoff Qualifier,Geneseo,Maple Leafs
-178,21,Harlem,IL,6A,IHSA Conference,8-3,8,3,0,11,64.0,64.0,13.97,57.8,178,36.5,14.6,36.5,14.6,21.9,67.5,63.2,92.96,35.0,35.0,35.0,Playoff Qualifier,Machesney Park,Huskies
-179,30,Stevenson,IL,8A,IHSA Conference,6-4,6,4,0,10,63.8,63.8,13.82,63.8,179,21.1,21.0,21.1,21.0,0.1,45.9,54.2,82.33,54.0,54.0,54.0,Playoff Qualifier,Lincolnshire,Patriots
-180,26,Lake Park,IL,7A,IHSA Conference,3-6,3,6,0,9,63.8,63.8,13.75,70.9,180,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,58.15,10.0,10.0,10.0,Playoff Qualifier,Roselle,Varsity
-181,22,Simeon,IL,6A,IHSA Conference,7-5,7,5,0,12,63.7,63.7,13.68,61.3,181,30.5,18.7,30.5,18.7,11.8,59.1,57.4,79.79,81.0,81.0,81.0,Playoff Qualifier,Chicago,Wolverines
-182,23,Crete-Monee,IL,6A,IHSA Conference,8-3,8,3,0,11,63.5,63.5,13.54,54.8,182,42.2,17.5,42.2,17.5,24.7,75.5,59.1,91.91,61.0,61.0,61.0,Playoff Qualifier,Crete,Warriors
-183,17,Farmington,IL,2A,IHSA Conference,11-1,11,1,0,12,63.4,63.4,13.39,47.3,183,38.8,11.6,38.8,11.6,27.2,70.7,67.4,108.22,38.0,38.0,38.0,Playoff Qualifier,Farmington,Farmers
-184,32,Pawnee/Lincolnwood,IL,1A,IHSA 1A,9-2,9,2,0,11,63.3,63.3,13.27,52.5,184,30.7,21.0,30.7,21.0,9.7,59.4,54.2,100.19,28.64,53.18,8.18,Playoff Qualifier,Pawnee,Lincolnwood
-185,33,South Beloit,IL,1A,IHSA 1A,8-3,8,3,0,11,63.2,63.2,13.2,51.2,185,34.1,18.9,34.1,18.9,15.2,64.1,57.1,90.65,25.45,47.27,7.27,Playoff Qualifier,South Beloit,Sobos
-186,18,Colfax Ridgeview,IL,2A,IHSA Conference,6-2,6,2,0,8,63.1,63.1,13.07,51.5,186,31.0,17.5,31.0,17.5,13.5,59.8,59.1,93.03,10.0,10.0,10.0,Playoff Qualifier,Chicago,Varsity
-187,21,Fenger,IL,3A,IHSA Conference,6-2,6,2,0,8,63.1,63.1,13.07,51.5,187,31.0,17.5,31.0,17.5,13.5,59.8,59.1,93.03,25.0,25.0,25.0,Playoff Qualifier,Chicago,Varsity
-188,27,Marmion Academy,IL,7A,IHSA Conference,6-2,6,2,0,8,63.1,63.1,13.07,51.5,188,31.0,17.5,31.0,17.5,13.5,59.8,59.1,93.03,19.0,19.0,19.0,Playoff Qualifier,Chicago,Varsity
-189,24,Morton IL,IL,6A,IHSA Conference,6-2,6,2,0,8,63.1,63.1,13.07,51.5,189,31.0,17.5,31.0,17.5,13.5,59.8,59.1,93.03,16.0,16.0,16.0,Playoff Qualifier,Chicago,Varsity
-190,34,Norris City,IL,1A,IHSA Conference,6-2,6,2,0,8,63.1,63.1,13.07,51.5,190,31.0,17.5,31.0,17.5,13.5,59.8,59.1,93.03,21.0,21.0,21.0,Playoff Qualifier,Chicago,Varsity
-191,28,St. Viator,IL,7A,IHSA Conference,6-2,6,2,0,8,63.1,63.1,13.07,51.5,191,31.0,17.5,31.0,17.5,13.5,59.8,59.1,93.03,27.0,27.0,27.0,Playoff Qualifier,Chicago,Varsity
-192,19,Westville,IL,2A,IHSA Conference,11-1,11,1,0,12,63.0,63.0,13.03,43.4,192,53.1,14.1,53.1,14.1,39.0,90.7,63.9,106.86,72.0,72.0,72.0,Playoff Qualifier,Westville,Tigers
-193,22,Monmouth-Roseville,IL,3A,IHSA 3A,10-2,10,2,0,12,63.0,63.0,13.03,51.7,193,37.3,19.4,37.3,19.4,17.9,68.6,56.4,101.43,66.0,66.0,66.0,Playoff Qualifier,Monmouth,Titans
-194,31,Glenbard East,IL,8A,IHSA Conference,9-2,9,2,0,11,62.7,62.7,12.67,52.8,194,38.3,19.2,38.3,19.2,19.1,70.0,56.7,100.3,67.0,67.0,67.0,Playoff Qualifier,Lombard,Rams
-195,20,Mt. Zion,IL,4A,IHSA Conference,8-2,8,2,0,10,62.7,62.7,12.67,54.2,195,38.5,12.6,38.5,12.6,25.9,70.3,66.0,98.97,43.0,43.0,43.0,Playoff Qualifier,Mt Zion,Braves
-196,32,Rolling Meadows,IL,8A,IHSA Conference,7-4,7,4,0,11,62.7,62.7,12.67,56.8,196,40.5,21.0,40.5,21.0,19.5,73.1,54.2,83.52,16.0,16.0,16.0,Playoff Qualifier,Rolling Meadows,Mustangs
-197,20,Rockridge,IL,2A,IHSA Conference,10-1,10,1,0,11,62.6,62.6,12.6,50.9,197,42.3,15.3,42.3,15.3,27.0,75.6,62.2,108.72,31.0,31.0,31.0,Playoff Qualifier,Taylor Ridge,Rockets
-198,23,St. Joseph-Ogden,IL,3A,IHSA Conference,8-5,8,5,0,13,62.5,62.5,12.53,58.8,198,36.8,28.6,36.8,28.6,8.2,67.9,43.6,82.12,49.0,49.0,49.0,Playoff Qualifier,St Joseph,Spartans
-199,33,Lane Tech,IL,8A,IHSA 3A,9-2,9,2,0,11,62.5,62.5,12.46,54.2,199,32.9,15.7,32.9,15.7,17.2,62.5,61.6,100.79,77.0,77.0,77.0,Playoff Qualifier,Chicago,Varsity
-200,34,Plainfield North,IL,8A,IHSA Conference,2-7,2,7,0,9,62.3,62.3,12.31,72.5,200,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,47.6,45.0,45.0,45.0,Playoff Qualifier,Plainfield,Varsity
-201,21,Cahokia,IL,4A,IHSA Conference,9-3,9,3,0,12,62.2,62.2,12.24,53.5,201,35.8,17.0,35.8,17.0,18.8,66.5,59.8,93.72,72.0,72.0,72.0,Playoff Qualifier,Cahokia,Comanches
-202,35,Morton,IL,8A,IHSA Conference,7-4,7,4,0,11,62.2,62.2,12.24,58.9,202,27.8,20.5,27.8,20.5,7.3,55.3,54.9,84.25,29.0,29.0,29.0,Playoff Qualifier,Chicago,Varsity
-203,21,Seneca,IL,2A,IHSA 2A,10-1,10,1,0,11,62.1,62.1,12.1,50.0,203,39.9,19.3,39.9,19.3,20.6,72.3,56.6,108.41,54.0,54.0,54.0,Playoff Qualifier,Seneca,Fighting Irish
-204,29,Whitney Young,IL,7A,IHSA Conference,9-3,9,3,0,12,61.8,61.8,11.81,55.3,204,29.2,11.2,29.2,11.2,18.0,57.3,67.9,94.35,79.0,79.0,79.0,Playoff Qualifier,Chicago,Dolphins
-205,36,Metea Valley,IL,8A,IHSA Conference,2-7,2,7,0,9,61.7,61.7,11.74,72.3,205,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,47.53,56.0,56.0,56.0,Playoff Qualifier,Aurora,Varsity
-206,37,South Elgin,IL,8A,IHSA Conference,7-3,7,3,0,10,61.6,61.6,11.59,56.2,206,41.8,23.0,41.8,23.0,18.8,74.9,51.4,89.67,76.0,76.0,76.0,Playoff Qualifier,South Elgin,Storm
-207,22,Arthur-Lovington/Atwood-Hammond,IL,2A,IHSA Conference,12-1,12,1,0,13,61.5,61.5,11.52,48.6,207,32.8,14.7,32.8,14.7,18.1,62.3,63.0,109.32,54.0,54.0,54.0,Playoff Qualifier,Arthur,Knights
-208,35,Annawan-Wethersfield,IL,1A,IHSA 1A,11-1,11,1,0,12,61.5,61.5,11.52,45.6,208,38.2,13.0,38.2,13.0,25.2,69.9,65.4,107.63,30.0,30.0,30.0,Playoff Qualifier,Kewanee,Titans
-209,24,King,IL,3A,IHSA 3A,7-5,7,5,0,12,61.5,61.5,11.45,60.4,209,22.2,15.8,22.2,15.8,6.4,47.5,61.5,79.47,14.0,14.0,14.0,Playoff Qualifier,Chicago,Jaguars
-210,23,Vandalia,IL,2A,IHSA Conference,11-1,11,1,0,12,61.3,61.3,11.3,46.7,210,43.8,16.3,43.8,16.3,27.5,77.7,60.8,108.01,23.0,23.0,23.0,Playoff Qualifier,Vandalia,Vandals
-211,24,Quincy Notre Dame,IL,2A,IHSA 2A,7-3,7,3,0,10,61.1,61.1,11.09,52.2,211,40.8,13.2,40.8,13.2,27.6,73.5,65.1,88.27,38.0,38.0,38.0,Playoff Qualifier,Quincy,Raiders
-212,18,Antioch,IL,5A,IHSA Conference,8-3,8,3,0,11,61.0,61.0,11.02,54.7,212,38.0,20.2,38.0,20.2,17.8,69.6,55.3,91.87,31.0,31.0,31.0,Playoff Qualifier,Antioch,Sequoits
-213,38,West Aurora,IL,8A,IHSA Conference,7-3,7,3,0,10,60.9,60.9,10.94,55.0,213,35.7,23.0,35.7,23.0,12.7,66.4,51.4,89.25,50.0,50.0,50.0,Playoff Qualifier,Aurora,Blackhawks
-214,25,Tri-Valley,IL,2A,IHSA 2A,9-3,9,3,0,12,60.8,60.8,10.8,52.2,214,34.1,14.1,34.1,14.1,20.0,64.1,63.9,93.27,26.25,48.75,7.5,Playoff Qualifier,Downs,Vikings
-215,30,Addison Trail,IL,7A,IHSA 7A,8-2,8,2,0,10,60.7,60.7,10.66,53.1,215,31.4,13.2,31.4,13.2,18.2,60.4,65.1,98.59,11.0,11.0,11.0,Playoff Qualifier,Addison,Blazers
-216,25,Wauconda,IL,6A,IHSA Conference,9-1,9,1,0,10,60.4,60.4,10.44,50.1,216,42.8,22.6,42.8,22.6,20.2,76.3,52.0,107.53,69.0,69.0,69.0,Playoff Qualifier,Wauconda,Bulldogs
-217,19,Mahomet-Seymour,IL,5A,IHSA 5A,7-4,7,4,0,11,60.4,60.4,10.44,55.8,217,37.3,20.5,37.3,20.5,16.8,68.6,54.9,83.17,36.0,36.0,36.0,Playoff Qualifier,Mahomet,Bulldogs
-218,22,Carterville,IL,4A,IHSA Conference,10-1,10,1,0,11,60.3,60.3,10.3,46.2,218,37.4,14.2,37.4,14.2,23.2,68.8,63.7,107.08,59.0,59.0,59.0,Playoff Qualifier,Carterville,Lions
-219,26,Normal West,IL,6A,IHSA 6A,8-3,8,3,0,11,60.3,60.3,10.3,54.0,219,37.2,22.5,37.2,22.5,14.7,68.5,52.1,91.63,45.0,45.0,45.0,Playoff Qualifier,Normal,Wildcats
-220,39,Huntley,IL,8A,IHSA Conference,5-5,5,5,0,10,60.2,60.2,10.22,62.4,220,29.7,26.0,29.7,26.0,3.7,58.0,47.2,71.84,7.0,7.0,7.0,Playoff Qualifier,Huntley,Red Raiders
-221,40,Oak Park-River Forest,IL,8A,IHSA 7A,2-7,2,7,0,9,60.2,60.2,10.22,71.8,221,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,47.35,75.0,75.0,75.0,Playoff Qualifier,Oak Park,Varsity
-222,27,Peoria Notre Dame,IL,6A,IHSA 4A,8-3,8,3,0,11,60.1,60.1,10.08,53.6,222,40.0,25.0,40.0,25.0,15.0,72.4,48.6,91.49,11.0,11.0,11.0,Playoff Qualifier,Peoria,Irish
-223,28,Aurora Christian,IL,6A,IHSA 1A,8-3,8,3,0,11,59.9,59.9,9.86,52.2,223,40.1,19.5,40.1,19.5,20.6,72.5,56.3,91.0,4.0,4.0,4.0,Playoff Qualifier,Aurora,Eagles
-224,23,Waterloo,IL,4A,IHSA Conference,7-4,7,4,0,11,59.9,59.9,9.86,56.8,224,27.7,21.9,27.7,21.9,5.8,55.2,52.9,83.52,45.0,45.0,45.0,Playoff Qualifier,Waterloo,Bulldogs
-225,25,Benton,IL,3A,IHSA Conference,9-1,9,1,0,10,59.6,59.6,9.65,45.2,225,43.2,7.6,43.2,7.6,35.6,76.9,73.0,105.82,57.0,57.0,57.0,Playoff Qualifier,Benton,Rangers
-226,31,St. Charles East,IL,7A,IHSA Conference,1-8,1,8,0,9,59.6,59.6,9.58,74.9,226,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,37.33,6.0,6.0,6.0,Playoff Qualifier,St. Charles,Varsity
-227,36,Gibson City-Melvin-Sibley,IL,1A,IHSA 1A,8-3,8,3,0,11,59.5,59.5,9.5,54.2,227,29.5,20.7,29.5,20.7,8.8,57.7,54.6,91.7,68.0,68.0,68.0,Playoff Qualifier,Gibson City,Falcons
-228,29,Libertyville,IL,6A,IHSA Conference,5-5,5,5,0,10,59.5,59.5,9.5,62.5,228,22.2,20.2,22.2,20.2,2.0,47.5,55.3,71.88,54.0,54.0,54.0,Playoff Qualifier,Libertyville,Wildcats
-229,41,Andrew,IL,8A,IHSA Conference,5-5,5,5,0,10,59.4,59.4,9.43,61.0,229,31.9,25.6,31.9,25.6,6.3,61.1,47.8,71.35,17.5,32.5,5.0,Playoff Qualifier,Tinley Park,Thunderbolts
-230,37,Greenfield/Northwestern,IL,1A,IHSA Conference,7-4,7,4,0,11,59.2,59.2,9.22,54.1,230,27.1,14.1,27.1,14.1,13.0,54.3,63.9,82.57,29.0,29.0,29.0,Playoff Qualifier,Greenfield,Tigers
-231,32,Hononegah,IL,7A,IHSA Conference,5-5,5,5,0,10,59.1,59.1,9.14,60.7,231,24.5,17.4,24.5,17.4,7.1,50.7,59.2,71.25,73.0,73.0,73.0,Playoff Qualifier,Rockton,Indians
-232,24,Richland County,IL,4A,IHSA 4A,9-1,9,1,0,10,59.0,59.0,9.0,49.8,232,45.5,24.6,45.5,24.6,20.9,80.1,49.2,107.43,31.5,58.5,9.0,Playoff Qualifier,Olney,Tigers
-233,26,Monticello,IL,3A,IHSA Conference,8-3,8,3,0,11,59.0,59.0,9.0,55.9,233,24.6,18.1,24.6,18.1,6.5,50.8,58.3,92.29,77.0,77.0,77.0,Playoff Qualifier,Monticello,Sages
-234,38,Chicago Hope Academy,IL,1A,IHSA 1A,8-2,8,2,0,10,58.9,58.9,8.93,51.7,234,43.1,19.4,43.1,19.4,23.7,76.7,56.4,98.09,28.0,52.0,8.0,Playoff Qualifier,Chicago,Academy
-235,27,Harper,IL,3A,IHSA Conference,6-3,6,3,0,9,58.7,58.7,8.72,50.3,235,28.7,19.7,28.7,19.7,9.0,56.6,56.0,84.27,25.0,25.0,25.0,Playoff Qualifier,Chicago,Varsity
-236,25,Lisle,IL,4A,IHSA Conference,6-3,6,3,0,9,58.7,58.7,8.72,50.3,236,28.7,19.7,28.7,19.7,9.0,56.6,56.0,84.27,14.0,14.0,14.0,Playoff Qualifier,Chicago,Varsity
-237,20,South Shore,IL,5A,IHSA Conference,6-3,6,3,0,9,58.7,58.7,8.72,50.3,237,28.7,19.7,28.7,19.7,9.0,56.6,56.0,84.27,19.0,19.0,19.0,Playoff Qualifier,Chicago,Varsity
-238,26,Viator,IL,4A,IHSA Conference,6-3,6,3,0,9,58.7,58.7,8.72,50.3,238,28.7,19.7,28.7,19.7,9.0,56.6,56.0,84.27,18.0,18.0,18.0,Playoff Qualifier,Chicago,Varsity
-239,42,Downers Grove South,IL,8A,IHSA Conference,5-5,5,5,0,10,58.6,58.6,8.57,61.0,239,30.5,28.6,30.5,28.6,1.9,59.1,43.6,71.35,26.0,26.0,26.0,Playoff Qualifier,Downers Grove,Mustangs
-240,27,Johnsburg,IL,4A,IHSA Conference,7-3,7,3,0,10,58.5,58.5,8.5,54.3,240,23.4,17.2,23.4,17.2,6.2,49.2,59.5,89.0,42.0,42.0,42.0,Playoff Qualifier,Johnsburg,Skyhawks
-241,21,Benet Academy,IL,5A,IHSA Conference,3-6,3,6,0,9,58.3,58.3,8.28,72.1,241,17.4,30.6,17.4,30.6,-13.2,40.8,40.8,58.57,30.0,30.0,30.0,Playoff Qualifier,Lisle,Redwings
-242,28,Freeburg,IL,4A,IHSA Conference,9-2,9,2,0,11,58.2,58.2,8.21,51.7,242,31.2,21.9,31.2,21.9,9.3,60.1,52.9,99.91,79.0,79.0,79.0,Playoff Qualifier,Freeburg,Midgets
-243,30,Bloomington,IL,6A,IHSA Conference,7-4,7,4,0,11,58.1,58.1,8.14,54.3,243,33.5,24.6,33.5,24.6,8.9,63.3,49.2,82.64,33.0,33.0,33.0,Playoff Qualifier,Bloomington,Purple Raiders
-244,26,Casey-Westfield,IL,2A,IHSA 1A,9-3,9,3,0,12,58.1,58.1,8.06,50.1,244,32.9,16.8,32.9,16.8,16.1,62.5,60.1,92.53,4.0,4.0,4.0,Playoff Qualifier,Casey,Warriors
-245,31,Evanston,IL,6A,IHSA 6A,3-6,3,6,0,9,58.0,58.0,7.99,66.5,245,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,56.61,11.67,21.67,3.33,Playoff Qualifier,IL,Varsity
-246,39,Alden-Hebron,IL,1A,IHSA 1A,7-3,7,3,0,10,57.9,57.9,7.94,50.8,246,32.7,27.5,32.7,27.5,5.2,62.2,45.1,87.78,24.5,45.5,7.0,Varsity Program,Hebron,Green Giants
-247,28,DuQuoin,IL,3A,IHSA Conference,9-2,9,2,0,11,57.9,57.9,7.85,46.9,247,36.6,19.8,36.6,19.8,16.8,67.6,55.9,98.23,52.0,52.0,52.0,Varsity Program,Duquoin,Indians
-248,27,Johnston City,IL,2A,IHSA Conference,10-1,10,1,0,11,57.8,57.8,7.78,45.8,248,38.5,15.7,38.5,15.7,22.8,70.3,61.6,106.94,57.0,57.0,57.0,Varsity Program,Johnston City,Indians
-249,28,Pearl City-Eastland,IL,2A,IHSA 2A,5-5,5,5,0,10,57.7,57.7,7.7,60.5,249,27.2,26.5,27.2,26.5,0.7,54.5,46.5,71.17,17.5,32.5,5.0,Varsity Program,Pearl City,Wildcats
-250,32,Springfield,IL,6A,IHSA Conference,5-5,5,5,0,10,57.6,57.6,7.56,60.7,250,36.4,35.4,36.4,35.4,1.0,67.4,34.0,71.25,62.0,62.0,62.0,Varsity Program,Springfield,Springfield
-251,22,Sterling,IL,5A,IHSA Conference,6-4,6,4,0,10,57.5,57.5,7.49,56.6,251,33.0,23.1,33.0,23.1,9.9,62.6,51.3,79.81,49.0,49.0,49.0,Varsity Program,Sterling,Golden Warriors
-252,43,Joliet West,IL,8A,IHSA Conference,4-5,4,5,0,9,57.5,57.5,7.49,61.2,252,20.2,23.3,20.2,23.3,-3.1,44.7,51.0,65.86,30.0,30.0,30.0,Varsity Program,Joliet,Tigers
-253,29,Newman Central Catholic,IL,3A,IHSA Conference,8-3,8,3,0,11,57.3,57.3,7.34,51.5,253,32.5,19.8,32.5,19.8,12.7,61.9,55.9,90.75,25.45,47.27,7.27,Varsity Program,Sterling,Comets
-254,23,Sycamore,IL,5A,IHSA Conference,5-5,5,5,0,10,57.3,57.3,7.27,63.4,254,22.2,29.8,22.2,29.8,-7.6,47.5,41.9,72.19,65.0,65.0,65.0,Varsity Program,Sycamore,Spartans
-255,44,Conant,IL,8A,IHSA Conference,3-6,3,6,0,9,57.3,57.3,7.27,67.9,255,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,57.1,4.0,4.0,4.0,Varsity Program,Hoffman Estates,Varsity
-256,45,Plainfield South,IL,8A,IHSA Conference,4-5,4,5,0,9,57.2,57.2,7.2,58.6,256,28.6,21.8,28.6,21.8,6.8,56.4,53.1,64.95,38.0,38.0,38.0,Varsity Program,Plainfield,Cougars
-257,29,Macomb,IL,4A,IHSA Conference,9-2,9,2,0,11,57.1,57.1,7.13,51.1,257,27.5,15.8,27.5,15.8,11.7,54.9,61.5,99.7,72.0,72.0,72.0,Varsity Program,Macomb,Bombers
-258,46,Belleville West,IL,8A,IHSA 4A,4-5,4,5,0,9,57.1,57.1,7.06,59.5,258,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,65.27,73.0,73.0,73.0,Varsity Program,Belleville,Varsity
-259,47,O'Fallon,IL,8A,IHSA Conference,4-5,4,5,0,9,57.1,57.1,7.06,63.8,259,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,66.77,77.0,77.0,77.0,Varsity Program,Chicago,Varsity
-260,29,Pana,IL,2A,IHSA Conference,9-2,9,2,0,11,57.0,57.0,6.98,45.7,260,43.5,17.5,43.5,17.5,26.0,77.3,59.1,97.81,27.0,27.0,27.0,Varsity Program,Pana,Panthers
-261,40,Carrollton,IL,1A,IHSA Conference,8-4,8,4,0,12,57.0,57.0,6.98,54.2,261,27.9,17.2,27.9,17.2,10.7,55.5,59.5,85.64,71.0,71.0,71.0,Varsity Program,Carrollton,Hawks Lady Hawks
-262,33,Pekin,IL,7A,IHSA Conference,5-5,5,5,0,10,56.9,56.9,6.91,61.2,262,23.8,22.8,23.8,22.8,1.0,49.7,51.7,71.42,53.0,53.0,53.0,Varsity Program,Pekin,Dragons
-263,24,Payton College Prep,IL,5A,IHSA 5A,7-4,7,4,0,11,56.8,56.8,6.84,56.6,263,17.2,17.7,17.2,17.7,-0.5,40.5,58.8,83.45,22.27,41.36,6.36,Varsity Program,Chicago,Grizzlies
-264,41,Flanagan/Woodland,IL,1A,IHSA 1A,6-4,6,4,0,10,56.8,56.8,6.76,49.4,264,36.7,27.9,36.7,27.9,8.8,67.8,44.5,77.29,21.0,39.0,6.0,Varsity Program,Flanagan,Falcons
-265,30,Roxana,IL,3A,IHSA Conference,7-4,7,4,0,11,56.5,56.5,6.55,49.5,265,38.5,18.6,38.5,18.6,19.9,70.3,57.6,80.96,50.0,50.0,50.0,Varsity Program,Roxana,Shells
-266,42,Cisne,IL,1A,IHSA Conference,5-3,5,3,0,8,56.5,56.5,6.51,49.8,266,27.5,20.8,27.5,20.8,6.7,54.9,54.5,79.93,30.0,30.0,30.0,Varsity Program,Chicago,Varsity
-267,30,Downs Tri-Valley,IL,2A,IHSA Conference,5-3,5,3,0,8,56.5,56.5,6.51,49.8,267,27.5,20.8,27.5,20.8,6.7,54.9,54.5,79.93,41.0,41.0,41.0,Varsity Program,Chicago,Varsity
-268,31,Durand,IL,3A,IHSA Conference,5-3,5,3,0,8,56.5,56.5,6.51,49.8,268,27.5,20.8,27.5,20.8,6.7,54.9,54.5,79.93,14.0,14.0,14.0,Varsity Program,Chicago,Varsity
-269,43,St. Elmo,IL,1A,IHSA Conference,5-3,5,3,0,8,56.5,56.5,6.51,49.8,269,27.5,20.8,27.5,20.8,6.7,54.9,54.5,79.93,39.0,39.0,39.0,Varsity Program,Chicago,Varsity
-270,44,Sumner,IL,1A,IHSA Conference,5-3,5,3,0,8,56.5,56.5,6.51,49.8,270,27.5,20.8,27.5,20.8,6.7,54.9,54.5,79.93,37.0,37.0,37.0,Varsity Program,Chicago,Varsity
-271,32,Washington Chicago,IL,3A,IHSA Conference,5-3,5,3,0,8,56.5,56.5,6.51,49.8,271,27.5,20.8,27.5,20.8,6.7,54.9,54.5,79.93,31.0,31.0,31.0,Varsity Program,Washington,Varsity
-272,34,Riverside-Brookfield,IL,7A,IHSA 6A,8-2,8,2,0,10,56.5,56.5,6.48,48.4,272,41.0,20.0,41.0,20.0,21.0,73.8,55.6,96.94,14.0,14.0,14.0,Varsity Program,Riverside,Bulldogs
-273,45,Biggsville West Central,IL,1A,IHSA 1A,7-3,7,3,0,10,56.5,56.5,6.46,50.8,273,29.1,27.2,29.1,27.2,1.9,57.1,45.5,87.78,24.5,45.5,7.0,Varsity Program,Biggsville,Heat
-274,48,Schaumburg,IL,8A,IHSA 8A,3-6,3,6,0,9,56.4,56.4,6.41,65.7,274,22.2,31.3,22.2,31.3,-9.1,47.5,39.8,56.33,8.0,8.0,8.0,Varsity Program,Schaumburg,Saxons
-275,46,Heyworth,IL,1A,IHSA Conference,8-3,8,3,0,11,56.2,56.2,6.19,49.1,275,30.4,18.1,30.4,18.1,12.3,59.0,58.3,89.91,49.0,49.0,49.0,Varsity Program,Chicago,Varsity
-276,35,Willowbrook,IL,7A,IHSA Conference,5-5,5,5,0,10,56.2,56.2,6.19,56.5,276,29.8,22.6,29.8,22.6,7.2,58.1,52.0,69.78,9.0,9.0,9.0,Varsity Program,Villa Park,Warriors
-277,31,Deer Creek-Mackinaw,IL,2A,IHSA 2A,7-4,7,4,0,11,56.1,56.1,6.12,52.9,277,32.0,23.8,32.0,23.8,8.2,61.2,50.3,82.15,75.0,75.0,75.0,Varsity Program,Mackinaw,Chiefs
-278,49,Plainfield East,IL,8A,IHSA Conference,6-4,6,4,0,10,56.1,56.1,6.12,54.8,278,26.8,21.4,26.8,21.4,5.4,53.9,53.6,79.18,37.0,37.0,37.0,Varsity Program,Plainfield,Varsity
-279,30,Dwight,IL,4A,IHSA Conference,7-4,7,4,0,11,56.0,56.0,6.05,51.2,279,27.8,20.5,27.8,20.5,7.3,55.3,54.9,81.56,57.0,57.0,57.0,Varsity Program,Chicago,Varsity
-280,47,Forreston,IL,1A,IHSA Conference,5-5,5,5,0,10,56.0,56.0,5.98,61.3,280,24.0,24.0,24.0,24.0,0.0,50.0,50.0,71.45,36.0,36.0,36.0,Varsity Program,Chicago,Varsity
-281,32,Cumberland,IL,2A,IHSA Conference,9-2,9,2,0,11,55.9,55.9,5.9,46.2,281,30.7,12.6,30.7,12.6,18.1,59.4,66.0,97.99,4.0,4.0,4.0,Varsity Program,Toledo,Pirates
-282,48,Galena,IL,1A,IHSA Conference,5-5,5,5,0,10,55.8,55.8,5.83,59.8,282,20.7,23.3,20.7,23.3,-2.6,45.4,51.0,70.93,45.0,45.0,45.0,Varsity Program,Galena,Pirates
-283,33,Lemont,IL,6A,IHSA Conference,5-5,5,5,0,10,55.8,55.8,5.76,57.0,283,30.6,23.2,30.6,23.2,7.4,59.2,51.1,69.95,26.0,26.0,26.0,Varsity Program,Lemont,Lemont Hs
-284,34,Jefferson,IL,6A,IHSA 6A,5-5,5,5,0,10,55.7,55.7,5.69,62.0,284,24.0,24.0,24.0,24.0,0.0,50.0,50.0,71.7,17.5,32.5,5.0,Varsity Program,Rockford,Varsity
-285,25,Highland Park,IL,5A,IHSA 5A,7-3,7,3,0,10,55.6,55.6,5.62,49.1,285,29.6,18.8,29.6,18.8,10.8,57.8,57.3,87.19,24.5,45.5,7.0,Varsity Program,IL,Varsity
-286,35,Lake Forest,IL,6A,IHSA 6A,4-5,4,5,0,9,55.5,55.5,5.54,61.1,286,15.9,22.4,15.9,22.4,-6.5,38.7,52.2,65.83,15.56,28.89,4.44,Varsity Program,Lake Forest,Scouts
-287,36,Reavis,IL,7A,IHSA Conference,6-4,6,4,0,10,55.5,55.5,5.47,52.6,287,26.8,21.4,26.8,21.4,5.4,53.9,53.6,78.41,33.0,33.0,33.0,Varsity Program,Burbank,Varsity
-288,36,Hillcrest,IL,6A,IHSA Conference,5-5,5,5,0,10,55.3,55.3,5.33,56.7,288,24.4,16.5,24.4,16.5,7.9,50.6,60.5,69.84,10.0,10.0,10.0,Varsity Program,Country Club Hills,Hawks
-289,26,Marian Catholic,IL,5A,IHSA 2A,3-7,3,7,0,10,55.3,55.3,5.33,65.4,289,18.4,29.2,18.4,29.2,-10.8,42.2,42.7,52.89,21.0,21.0,21.0,Varsity Program,Chicago Heights,Varsity
-290,27,Corliss,IL,5A,IHSA Conference,8-3,8,3,0,11,55.3,55.3,5.26,48.1,290,30.4,18.1,30.4,18.1,12.3,59.0,58.3,89.56,8.0,8.0,8.0,Varsity Program,Chicago,Varsity
-291,37,Grant Community,IL,6A,IHSA 6A,6-4,6,4,0,10,55.3,55.3,5.26,51.6,291,38.2,24.3,38.2,24.3,13.9,69.9,49.6,78.06,21.0,39.0,6.0,Varsity Program,Fox Lake,Bulldogs
-292,28,Herscher,IL,5A,IHSA 7A,6-4,6,4,0,10,55.3,55.3,5.26,60.4,292,26.8,21.4,26.8,21.4,5.4,53.9,53.6,81.14,63.0,63.0,63.0,Varsity Program,IL,Varsity
-293,49,Marquette,IL,1A,IHSA 1A,6-4,6,4,0,10,55.2,55.2,5.18,52.6,293,38.4,19.8,38.4,19.8,18.6,70.2,55.9,78.41,21.0,39.0,6.0,Varsity Program,Ottawa,Crusaders
-294,29,Centralia,IL,5A,IHSA Conference,7-3,7,3,0,10,55.1,55.1,5.11,52.1,294,32.3,25.4,32.3,25.4,6.9,61.6,48.0,88.23,75.0,75.0,75.0,Varsity Program,Centralia,Orphans
-295,30,Marmion,IL,5A,IHSA 5A,4-6,4,6,0,10,55.0,55.0,4.97,62.4,295,23.7,27.0,23.7,27.0,-3.3,49.6,45.8,61.84,14.0,26.0,4.0,Varsity Program,Aurora,Cadets
-296,31,Manteno,IL,4A,IHSA Conference,6-4,6,4,0,10,54.9,54.9,4.9,57.0,296,23.8,27.5,23.8,27.5,-3.7,49.7,45.1,79.95,39.0,39.0,39.0,Varsity Program,Manteno,Panthers
-297,31,Woodstock North,IL,5A,IHSA Conference,6-4,6,4,0,10,54.9,54.9,4.9,53.5,297,28.3,15.4,28.3,15.4,12.9,56.0,62.0,78.72,19.0,19.0,19.0,Varsity Program,Woodstock,Thunder
-298,32,Marengo,IL,4A,IHSA Conference,7-3,7,3,0,10,54.7,54.7,4.68,52.1,298,28.9,20.1,28.9,20.1,8.8,56.9,55.5,88.23,26.0,26.0,26.0,Varsity Program,Marengo,Indians
-299,38,Belvidere,IL,6A,IHSA Conference,4-5,4,5,0,9,54.0,54.0,3.96,58.2,299,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,64.81,3.0,3.0,3.0,Varsity Program,Belvidere,Varsity
-300,33,Wheaton Academy,IL,4A,IHSA Conference,4-5,4,5,0,9,54.0,54.0,3.96,55.5,300,30.9,22.7,30.9,22.7,8.2,59.7,51.8,63.87,61.0,61.0,61.0,Varsity Program,West Chicago,Warriors
-301,33,Flora,IL,2A,IHSA Conference,10-2,10,2,0,12,53.9,53.9,3.89,47.6,301,27.7,22.7,27.7,22.7,5.0,55.2,51.8,99.99,14.0,14.0,14.0,Varsity Program,Flora,Wolves
-302,32,Marion,IL,5A,IHSA Conference,6-4,6,4,0,10,53.9,53.9,3.89,51.8,302,41.6,30.1,41.6,30.1,11.5,74.6,41.5,78.13,77.0,77.0,77.0,Varsity Program,Marion,Wildcats
-303,50,Dundee-Crown,IL,8A,IHSA Conference,3-6,3,6,0,9,53.9,53.9,3.89,60.5,303,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,54.51,52.0,52.0,52.0,Varsity Program,Carpentersville,Varsity
-304,37,Oak Lawn,IL,7A,IHSA 2A,7-3,7,3,0,10,53.8,53.8,3.82,51.1,304,29.6,18.8,29.6,18.8,10.8,57.8,57.3,87.88,3.0,3.0,3.0,Varsity Program,IL,Varsity
-305,38,Shepard,IL,7A,IHSA Conference,4-6,4,6,0,10,53.7,53.7,3.74,59.5,305,24.7,28.2,24.7,28.2,-3.5,51.0,44.1,60.83,19.0,19.0,19.0,Varsity Program,Palos Heights,Astros
-306,34,Chester,IL,2A,IHSA Conference,8-2,8,2,0,10,53.7,53.7,3.67,44.4,306,37.1,18.1,37.1,18.1,19.0,68.3,58.3,95.54,15.0,15.0,15.0,Varsity Program,Chester,Yellowjackets
-307,39,Leo,IL,7A,IHSA 8A,4-7,4,7,0,11,53.5,53.5,3.53,60.6,307,20.2,27.5,20.2,27.5,-7.3,44.7,45.1,57.57,19.0,19.0,19.0,Varsity Program,Chicago,Varsity
-308,40,Zion-Benton,IL,7A,IHSA 2A,4-5,4,5,0,9,53.5,53.5,3.46,57.9,308,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,64.71,37.0,37.0,37.0,Varsity Program,Zion,Varsity
-309,33,East Moline United,IL,3A,IHSA 3A,5-5,5,5,0,10,53.2,53.2,3.24,56.8,309,24.0,24.0,24.0,24.0,0.0,50.0,50.0,69.88,17.5,32.5,5.0,Varsity Program,East Moline,Varsity
-310,51,Curie,IL,8A,IHSA 8A,8-2,8,2,0,10,53.1,53.1,3.1,45.9,310,28.2,18.4,28.2,18.4,9.8,55.9,57.8,96.06,79.0,79.0,79.0,Varsity Program,Chicago,Condors
-311,34,Olympia,IL,3A,IHSA Conference,6-4,6,4,0,10,53.1,53.1,3.1,51.1,311,43.6,32.3,43.6,32.3,11.3,77.4,38.4,77.88,74.0,74.0,74.0,Varsity Program,Stanford,Spartans
-312,50,Tuscola,IL,1A,IHSA Conference,7-3,7,3,0,10,53.0,53.0,3.02,51.4,312,22.6,17.5,22.6,17.5,5.1,48.0,59.1,87.99,23.0,23.0,23.0,Varsity Program,Tuscola,Warriors
-313,35,PORTA/Ashland-Chandlerville Central/Greenview,IL,2A,IHSA 2A,7-4,7,4,0,11,53.0,53.0,2.95,52.2,313,27.8,20.5,27.8,20.5,7.3,55.3,54.9,81.91,22.27,41.36,6.36,Varsity Program,Petersburg,Varsity
-314,36,Albers,IL,2A,IHSA Conference,5-4,5,4,0,9,52.9,52.9,2.91,48.8,314,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,41.0,41.0,41.0,Varsity Program,Chicago,Varsity
-315,34,DePaul Prep,IL,4A,IHSA Conference,5-4,5,4,0,9,52.9,52.9,2.91,48.8,315,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,38.0,38.0,38.0,Varsity Program,Chicago,Varsity
-316,35,Du-Pec,IL,3A,IHSA Conference,5-4,5,4,0,9,52.9,52.9,2.91,48.8,316,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,27.0,27.0,27.0,Varsity Program,Chicago,Varsity
-317,51,Elizabethtown,IL,1A,IHSA Conference,5-4,5,4,0,9,52.9,52.9,2.91,48.8,317,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,21.0,21.0,21.0,Varsity Program,Chicago,Varsity
-318,52,Golconda,IL,1A,IHSA Conference,5-4,5,4,0,9,52.9,52.9,2.91,48.8,318,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,22.0,22.0,22.0,Varsity Program,Chicago,Varsity
-319,35,Notre Dame Niles,IL,4A,IHSA Conference,5-4,5,4,0,9,52.9,52.9,2.91,48.8,319,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,21.0,21.0,21.0,Varsity Program,Chicago,Varsity
-320,37,Piasa Southwestern,IL,2A,IHSA Conference,5-4,5,4,0,9,52.9,52.9,2.91,48.8,320,25.6,22.6,25.6,22.6,3.0,52.2,52.0,72.64,49.0,49.0,49.0,Varsity Program,Chicago,Varsity
-321,53,Blue Island Eisenhower,IL,1A,IHSA 1A,4-5,4,5,0,9,52.9,52.9,2.88,54.2,321,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,63.41,15.56,28.89,4.44,Varsity Program,Blue Island,Varsity
-322,36,Paxton-Buckley-Loda,IL,3A,IHSA 3A,4-5,4,5,0,9,52.9,52.9,2.88,56.2,322,22.4,22.6,22.4,22.6,-0.2,47.8,52.0,64.11,67.0,67.0,67.0,Varsity Program,Paxton,Panthers
-323,52,MacArthur,IL,8A,IHSA 8A,5-5,5,5,0,10,52.7,52.7,2.74,56.5,323,24.0,24.0,24.0,24.0,0.0,50.0,50.0,69.78,17.5,32.5,5.0,Varsity Program,Decatur,Varsity
-324,54,Ridgeview/Lexington,IL,1A,IHSA 1A,7-3,7,3,0,10,52.7,52.7,2.66,50.3,324,25.2,16.8,25.2,16.8,8.4,51.7,60.1,87.6,24.5,45.5,7.0,Varsity Program,Colfax,Mustangs
-325,33,Jacksonville,IL,5A,IHSA Conference,6-5,6,5,0,11,52.7,52.7,2.66,52.4,325,34.1,27.7,34.1,27.7,6.4,64.1,44.8,72.89,54.0,54.0,54.0,Varsity Program,Jacksonville,Crimsons
-326,37,Princeton,IL,3A,IHSA Conference,6-4,6,4,0,10,52.7,52.7,2.66,51.7,326,30.0,19.7,30.0,19.7,10.3,58.4,56.0,78.09,42.0,42.0,42.0,Varsity Program,Princeton,Tigers
-327,55,Rushville-Industry,IL,1A,IHSA 1A,7-3,7,3,0,10,52.6,52.6,2.59,45.8,327,38.0,20.3,38.0,20.3,17.7,69.6,55.2,86.03,60.0,60.0,60.0,Varsity Program,Rushville,Rockets
-328,53,McHenry,IL,8A,IHSA Conference,3-6,3,6,0,9,52.5,52.5,2.52,60.6,328,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,54.54,70.0,70.0,70.0,Varsity Program,Chicago,Varsity
-329,41,Lincoln Park,IL,7A,IHSA 7A,5-5,5,5,0,10,52.5,52.5,2.45,55.0,329,21.7,22.8,21.7,22.8,-1.1,46.8,51.7,69.25,17.5,32.5,5.0,Varsity Program,Chicago,Lions
-330,42,Thornwood,IL,7A,IHSA Conference,5-5,5,5,0,10,52.5,52.5,2.45,52.3,330,24.0,24.0,24.0,24.0,0.0,50.0,50.0,68.3,2.0,2.0,2.0,Varsity Program,South Holland,Varsity
-331,36,Athens,IL,4A,IHSA Conference,6-4,6,4,0,10,52.2,52.2,2.23,52.9,331,26.8,21.4,26.8,21.4,5.4,53.9,53.6,78.52,77.0,77.0,77.0,Varsity Program,Chicago,Varsity
-332,38,Oregon,IL,3A,IHSA 3A,5-5,5,5,0,10,52.2,52.2,2.23,55.7,332,22.6,27.5,22.6,27.5,-4.9,48.0,45.1,69.5,17.5,32.5,5.0,Varsity Program,Oregon,Hawks
-333,56,Althoff Catholic,IL,1A,IHSA Conference,4-5,4,5,0,9,52.2,52.2,2.23,56.9,333,27.4,31.3,27.4,31.3,-3.9,54.8,39.8,64.36,57.0,57.0,57.0,Varsity Program,Belleville,Crusaders
-334,39,Quincy,IL,6A,IHSA Conference,5-5,5,5,0,10,52.2,52.2,2.16,55.3,334,27.9,27.8,27.9,27.8,0.1,55.5,44.7,69.35,29.0,29.0,29.0,Varsity Program,Quincy,Blue Devils
-335,39,Greenville,IL,3A,IHSA Conference,7-4,7,4,0,11,52.1,52.1,2.09,47.7,335,33.3,25.6,33.3,25.6,7.7,63.0,47.8,80.33,31.0,31.0,31.0,Varsity Program,Greenville,Tigers
-336,37,Columbia,IL,4A,IHSA Conference,6-4,6,4,0,10,52.1,52.1,2.09,53.0,336,26.3,24.9,26.3,24.9,1.4,53.2,48.7,78.55,79.0,79.0,79.0,Varsity Program,Columbia,Eagles
-337,43,Lakes,IL,7A,IHSA 6A,6-4,6,4,0,10,52.1,52.1,2.09,51.1,337,26.8,21.4,26.8,21.4,5.4,53.9,53.6,77.88,67.0,67.0,67.0,Varsity Program,Lake Villa,Varsity
-338,57,Milford/Cissna Park,IL,1A,IHSA 1A,6-4,6,4,0,10,51.9,51.9,1.94,49.4,338,35.8,37.7,35.8,37.7,-1.9,66.5,30.8,77.29,21.0,39.0,6.0,Varsity Program,Milford,Bearcats
-339,40,Amundsen,IL,6A,IHSA Conference,4-5,4,5,0,9,51.9,51.9,1.94,58.1,339,15.3,16.1,15.3,16.1,-0.8,37.8,61.1,64.78,66.0,66.0,66.0,Varsity Program,Chicago,Vikings
-340,41,Glenbard South,IL,6A,IHSA Conference,6-4,6,4,0,10,51.8,51.8,1.8,49.0,340,32.3,19.9,32.3,19.9,12.4,61.6,55.7,77.15,4.0,4.0,4.0,Varsity Program,Glen Ellyn,Raiders
-341,34,Bulls College Prep,IL,5A,IHSA 5A,5-6,5,6,0,11,51.8,51.8,1.8,53.5,341,23.5,19.3,23.5,19.3,4.2,49.3,56.6,64.18,15.91,29.55,4.55,Varsity Program,Chicago,Bulls
-342,35,Mascoutah,IL,5A,IHSA Conference,6-4,6,4,0,10,51.7,51.7,1.73,53.1,342,25.9,25.2,25.9,25.2,0.7,52.7,48.3,78.59,76.0,76.0,76.0,Varsity Program,Mascoutah,Indians
-343,36,Reed-Custer,IL,5A,IHSA Conference,4-5,4,5,0,9,51.7,51.7,1.73,55.9,343,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,64.01,49.0,49.0,49.0,Varsity Program,Braidwood,Varsity
-344,38,Taylorville,IL,4A,IHSA Conference,5-5,5,5,0,10,51.7,51.7,1.66,54.5,344,29.6,29.7,29.6,29.7,-0.1,57.8,42.0,69.08,64.0,64.0,64.0,Varsity Program,Taylorville,Tornadoes
-345,58,Ridgewood [AlWood/Cambridge],IL,1A,IHSA 1A,4-5,4,5,0,9,51.5,51.5,1.55,47.2,345,39.8,32.9,39.8,32.9,6.9,72.1,37.5,60.96,15.56,28.89,4.44,Varsity Program,Woodhull,Spartans
-346,37,Highland,IL,5A,IHSA Conference,5-4,5,4,0,9,51.4,51.4,1.37,52.4,346,33.7,30.2,33.7,30.2,3.5,63.6,41.3,73.9,58.0,58.0,58.0,Varsity Program,Highland,Bulldogs
-347,59,Clifton Central,IL,1A,IHSA Conference,9-2,9,2,0,11,51.2,51.2,1.22,42.1,347,39.2,16.9,39.2,16.9,22.3,71.3,59.9,96.55,17.0,17.0,17.0,Varsity Program,Clifton,Comets
-348,60,Dupo,IL,1A,IHSA Conference,9-2,9,2,0,11,51.1,51.1,1.15,43.0,348,38.7,23.9,38.7,23.9,14.8,70.6,50.1,96.87,34.0,34.0,34.0,Varsity Program,Dupo,Tigers
-349,38,Thornton Fractional North,IL,5A,IHSA 5A,6-4,6,4,0,10,51.1,51.1,1.15,51.3,349,22.1,21.8,22.1,21.8,0.3,47.3,53.1,77.95,21.0,39.0,6.0,Varsity Program,Calumet City,Meteors
-350,39,Triad,IL,5A,IHSA 5A,4-5,4,5,0,9,51.1,51.1,1.08,54.0,350,18.6,17.9,18.6,17.9,0.7,42.4,58.5,63.34,29.0,29.0,29.0,Varsity Program,Troy,Knights
-351,40,Westinghouse,IL,5A,IHSA 5A,4-5,4,5,0,9,51.1,51.1,1.08,52.8,351,22.0,21.4,22.0,21.4,0.6,47.2,53.6,62.92,15.56,28.89,4.44,Varsity Program,Chicago,Warriors
-352,61,Princeville,IL,1A,IHSA Conference,7-3,7,3,0,10,51.0,51.0,1.01,44.2,352,35.3,15.4,35.3,15.4,19.9,65.8,62.0,85.47,1.0,1.0,1.0,Varsity Program,Princeville,Princes
-353,39,Normal University,IL,4A,IHSA 4A,5-5,5,5,0,10,50.9,50.9,0.94,52.1,353,33.6,25.2,33.6,25.2,8.4,63.4,48.3,68.23,55.0,55.0,55.0,Varsity Program,Normal,Pioneers
-354,62,West Central co-op [Winchester-Bluffs],IL,1A,IHSA 1A,5-5,5,5,0,10,50.9,50.9,0.94,54.2,354,25.2,26.3,25.2,26.3,-1.1,51.7,46.8,68.97,17.5,32.5,5.0,Varsity Program,Winchester,Cougars
-355,63,Galva,IL,1A,IHSA 1A,5-5,5,5,0,10,50.9,50.9,0.9,48.0,355,35.2,33.2,35.2,33.2,2.0,65.7,37.1,66.8,17.5,32.5,5.0,Varsity Program,Galva,Wildcats
-356,54,Hampshire,IL,8A,IHSA Conference,3-6,3,6,0,9,50.9,50.9,0.86,60.8,356,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,54.61,55.0,55.0,55.0,Varsity Program,Chicago,Varsity
-357,55,Bartlett,IL,8A,IHSA Conference,4-5,4,5,0,9,50.6,50.6,0.65,54.6,357,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,63.55,34.0,34.0,34.0,Varsity Program,Chicago,Varsity
-358,64,Hiawatha,IL,1A,IHSA 1A,5-5,5,5,0,10,50.6,50.6,0.63,48.0,358,27.1,25.7,27.1,25.7,1.4,54.3,47.6,66.8,17.5,32.5,5.0,Varsity Program,Kirkland,Hawks
-359,65,LeRoy,IL,1A,IHSA Conference,4-5,4,5,0,9,50.5,50.5,0.5,51.7,359,21.1,19.0,21.1,19.0,2.1,45.9,57.0,62.54,45.0,45.0,45.0,Varsity Program,Leroy,Panthers
-360,40,Genoa-Kingston,IL,3A,IHSA 3A,4-5,4,5,0,9,50.4,50.4,0.43,53.4,360,34.6,29.8,34.6,29.8,4.8,64.8,41.9,63.13,15.56,28.89,4.44,Varsity Program,Genoa,Mascot
-361,41,Freeport,IL,5A,IHSA Conference,3-6,3,6,0,9,50.4,50.4,0.36,58.6,361,16.4,26.9,16.4,26.9,-10.5,39.4,45.9,53.84,6.0,6.0,6.0,Varsity Program,Freeport,Pretzels
-362,42,Rich Township,IL,5A,IHSA Conference,4-5,4,5,0,9,50.3,50.3,0.29,55.6,362,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,63.9,14.0,14.0,14.0,Varsity Program,Olympia Fields,Varsity
-363,42,Saint Viator,IL,6A,IHSA 6A,1-8,1,8,0,9,50.2,50.2,0.22,69.9,363,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,35.58,3.89,7.22,1.11,Varsity Program,Arlington Heights,Varsity
-364,40,Agricultural Science,IL,4A,IHSA 4A,8-2,8,2,0,10,50.1,50.1,0.07,41.3,364,28.0,8.4,28.0,8.4,19.6,55.6,71.8,94.45,28.0,52.0,8.0,Varsity Program,Chicago,Cyclones
-365,43,Goode STEM Academy,IL,5A,IHSA 5A,7-3,7,3,0,10,50.1,50.1,0.07,44.0,365,35.8,22.8,35.8,22.8,13.0,66.5,51.7,85.4,24.5,45.5,7.0,Varsity Program,Chicago,Knights
-366,41,Carlinville,IL,3A,IHSA Conference,7-3,7,3,0,10,50.0,50.0,0.0,46.8,366,38.6,28.0,38.6,28.0,10.6,70.4,44.4,86.38,77.0,77.0,77.0,Varsity Program,Carlinville,Cavaliers
-367,42,Bowen,IL,3A,IHSA Conference,4-4,4,4,0,8,50.0,50.0,0.0,48.0,367,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,34.0,34.0,34.0,Varsity Program,Chicago,Varsity
-368,66,Effingham St. Anthony,IL,1A,IHSA Conference,4-4,4,4,0,8,50.0,50.0,0.0,48.0,368,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,47.0,47.0,47.0,Varsity Program,Chicago,Varsity
-369,67,Wayne City,IL,1A,IHSA Conference,4-4,4,4,0,8,50.0,50.0,0.0,48.0,369,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,27.0,27.0,27.0,Varsity Program,Chicago,Varsity
-370,68,Blue Ridge/Christ Lutheran/DeLand-Weldon,IL,1A,IHSA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,370,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Farmer City,Knights
-371,69,Christian Life/Keith Country Day/Our Lady of the Sacred Heart Academy,IL,1A,IHSA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,371,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Rockford,Academy
-372,44,Corliss/Butler College Prep,IL,5A,IHSA 5A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,372,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Chicago,Prep
-373,38,Dwight/Gardner-South Wilmington,IL,2A,IHSA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,373,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Dwight,Trojans
-374,43,Marshall/Raby,IL,3A,IHSA 3A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,374,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Chicago,Raby
-375,45,Perspectives Leadership/Perspectives-IIT Math & Science/Joslin,IL,5A,IHSA 5A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,375,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Chicago,Joslin
-376,44,Sullivan-Okaw Valley/Bethany,IL,3A,IHSA 3A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,376,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Sullivan,Redskins
-377,70,Unity Christian/Mt. Pulaski,IL,1A,IHSA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,377,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Fulton,Pulaski
-378,45,Prairie Central,IL,3A,IHSA 3A,4-5,4,5,0,9,49.9,49.9,-0.07,55.4,378,14.8,24.2,14.8,24.2,-9.4,37.1,49.7,63.83,15.56,28.89,4.44,Varsity Program,Fairbury,Hawks
-379,46,Unity/Seymour,IL,5A,IHSA 5A,4-5,4,5,0,9,49.9,49.9,-0.07,55.0,379,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,63.69,15.56,28.89,4.44,Varsity Program,Mendon,Varsity
-380,41,Sullivan,IL,4A,IHSA Conference,7-3,7,3,0,10,49.9,49.9,-0.14,45.6,380,29.6,18.8,29.6,18.8,10.8,57.8,57.3,85.96,55.0,55.0,55.0,Varsity Program,Chicago,Varsity
-381,43,LaSalle-Peru,IL,6A,IHSA Conference,2-7,2,7,0,9,49.9,49.9,-0.14,61.3,381,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,43.68,7.0,7.0,7.0,Varsity Program,LaSalle,Varsity
-382,44,East Peoria,IL,6A,IHSA Conference,4-5,4,5,0,9,49.8,49.8,-0.22,54.8,382,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,63.62,19.0,19.0,19.0,Varsity Program,Peoria,Varsity
-383,44,Collinsville,IL,7A,IHSA Conference,4-5,4,5,0,9,49.7,49.7,-0.29,53.7,383,19.8,22.9,19.8,22.9,-3.1,44.1,51.5,63.24,55.0,55.0,55.0,Varsity Program,Collinsville,Kahoks
-384,71,Triopia/Meredosia-Chambersburg/Virginia,IL,1A,IHSA 1A,4-5,4,5,0,9,49.6,49.6,-0.36,55.3,384,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,63.8,15.56,28.89,4.44,Varsity Program,Concord,Varsity
-385,72,Oblong,IL,1A,IHSA 1A,4-5,4,5,0,9,49.6,49.6,-0.39,47.2,385,33.2,30.6,33.2,30.6,2.6,62.9,40.8,60.96,10.0,10.0,10.0,Varsity Program,Oblong,Panthers
-386,73,Nokomis,IL,1A,IHSA Conference,7-4,7,4,0,11,49.5,49.5,-0.5,46.8,386,28.5,20.9,28.5,20.9,7.6,56.3,54.3,80.02,61.0,61.0,61.0,Varsity Program,Nokomis,Redskins
-387,39,Nashville,IL,2A,IHSA Conference,5-5,5,5,0,10,49.5,49.5,-0.5,49.0,387,35.7,24.3,35.7,24.3,11.4,66.4,49.6,67.15,25.0,25.0,25.0,Varsity Program,Nashville,Hornets
-388,47,Paris,IL,5A,IHSA Conference,6-4,6,4,0,10,49.4,49.4,-0.58,47.9,388,26.8,21.4,26.8,21.4,5.4,53.9,53.6,76.77,75.0,75.0,75.0,Varsity Program,Chicago,Varsity
-389,45,Effingham,IL,6A,IHSA Conference,4-5,4,5,0,9,49.4,49.4,-0.58,54.5,389,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,63.52,53.0,53.0,53.0,Varsity Program,Chicago,Varsity
-390,42,South Shore International,IL,4A,IHSA 4A,7-3,7,3,0,10,49.3,49.3,-0.72,46.3,390,25.0,20.5,25.0,20.5,4.5,51.4,54.9,86.2,24.5,45.5,7.0,Varsity Program,Chicago,Tars
-391,48,Marshall,IL,5A,IHSA Conference,5-5,5,5,0,10,49.3,49.3,-0.72,50.8,391,24.0,24.0,24.0,24.0,0.0,50.0,50.0,67.78,4.0,4.0,4.0,Varsity Program,Chicago,Varsity
-392,56,Buffalo Grove,IL,8A,IHSA Conference,3-6,3,6,0,9,49.2,49.2,-0.79,60.3,392,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,54.44,14.0,14.0,14.0,Varsity Program,Chicago,Varsity
-393,45,Centennial,IL,7A,IHSA Conference,5-5,5,5,0,10,49.1,49.1,-0.86,52.3,393,24.0,24.0,24.0,24.0,0.0,50.0,50.0,68.3,76.0,76.0,76.0,Varsity Program,Champaign,Varsity
-394,43,Marian Central Catholic,IL,4A,IHSA 5A,4-5,4,5,0,9,49.0,49.0,-1.01,52.3,394,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,62.75,2.0,2.0,2.0,Varsity Program,Woodstock,Varsity
-395,46,Erie,IL,3A,IHSA Conference,6-4,6,4,0,10,48.8,48.8,-1.22,49.1,395,26.8,21.4,26.8,21.4,5.4,53.9,53.6,77.19,1.0,1.0,1.0,Varsity Program,Chicago,Varsity
-396,46,Mt. Vernon,IL,6A,IHSA Conference,3-6,3,6,0,9,48.7,48.7,-1.3,55.1,396,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,52.62,74.0,74.0,74.0,Varsity Program,Chicago,Varsity
-397,47,Mather,IL,6A,IHSA 6A,6-4,6,4,0,10,48.6,48.6,-1.37,48.4,397,19.3,21.6,19.3,21.6,-2.3,43.4,53.4,76.94,61.0,61.0,61.0,Varsity Program,Chicago,Rangers
-398,49,Evergreen Park,IL,5A,IHSA Conference,4-5,4,5,0,9,48.6,48.6,-1.37,50.9,398,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,62.26,17.0,17.0,17.0,Varsity Program,Chicago,Varsity
-399,46,DeKalb,IL,7A,IHSA 6A,2-7,2,7,0,9,48.6,48.6,-1.37,61.7,399,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,43.82,1.0,1.0,1.0,Varsity Program,IL,Varsity
-400,50,Prosser,IL,5A,IHSA Conference,6-4,6,4,0,10,48.6,48.6,-1.44,50.7,400,17.7,21.8,17.7,21.8,-4.1,41.2,53.1,77.75,4.0,4.0,4.0,Varsity Program,Chicago,Falcons
-401,47,New Berlin/Franklin/Waverly,IL,3A,IHSA 3A,4-5,4,5,0,9,48.5,48.5,-1.51,51.3,401,27.9,28.0,27.9,28.0,-0.1,55.5,44.4,62.4,15.56,28.89,4.44,Varsity Program,New Berlin,Pretzels
-402,40,Oakwood,IL,2A,IHSA Conference,7-3,7,3,0,10,48.4,48.4,-1.58,42.1,402,32.8,20.7,32.8,20.7,12.1,62.3,54.6,84.73,78.0,78.0,78.0,Varsity Program,Fithian,Comets
-403,48,Perspectives Leadership/IIT/Joslin/Tech,IL,3A,IHSA 3A,5-5,5,5,0,10,48.4,48.4,-1.58,49.6,403,24.0,24.0,24.0,24.0,0.0,50.0,50.0,67.36,17.5,32.5,5.0,Varsity Program,Chicago,Varsity
-404,57,Leyden,IL,8A,IHSA Conference,4-5,4,5,0,9,48.3,48.3,-1.73,54.1,404,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,63.38,28.0,28.0,28.0,Varsity Program,Franklin Park,Varsity
-405,51,Woodstock,IL,5A,IHSA Conference,5-5,5,5,0,10,48.2,48.2,-1.8,53.2,405,24.0,24.0,24.0,24.0,0.0,50.0,50.0,68.62,28.0,28.0,28.0,Varsity Program,Chicago,Varsity
-406,41,Shelbyville,IL,2A,IHSA Conference,5-5,5,5,0,10,47.9,47.9,-2.09,52.4,406,22.2,29.7,22.2,29.7,-7.5,47.5,42.0,68.34,60.0,60.0,60.0,Varsity Program,Shelbyville,Rams
-407,44,North Boone,IL,4A,IHSA Conference,5-5,5,5,0,10,47.8,47.8,-2.16,53.1,407,24.0,24.0,24.0,24.0,0.0,50.0,50.0,68.59,3.0,3.0,3.0,Varsity Program,Poplar Grove,Varsity
-408,45,Fulton,IL,4A,IHSA Conference,2-7,2,7,0,9,47.8,47.8,-2.23,59.6,408,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,43.08,19.0,19.0,19.0,Varsity Program,Chicago,Varsity
-409,49,Peotone,IL,3A,IHSA Conference,3-6,3,6,0,9,47.7,47.7,-2.3,56.0,409,23.1,26.2,23.1,26.2,-3.1,48.7,46.9,52.93,56.0,56.0,56.0,Varsity Program,Peotone,Blue Devils
-410,46,Riverdale,IL,4A,IHSA Conference,6-5,6,5,0,11,47.6,47.6,-2.38,47.1,410,25.3,22.8,25.3,22.8,2.5,51.8,51.7,71.03,26.0,26.0,26.0,Varsity Program,Port Byron,Varsity
-411,47,Morrison,IL,4A,IHSA Conference,2-7,2,7,0,9,47.5,47.5,-2.45,60.8,411,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,43.5,19.0,19.0,19.0,Varsity Program,Morris,Varsity
-412,48,Vernon Hills,IL,4A,IHSA 4A,5-5,5,5,0,10,47.3,47.3,-2.66,48.9,412,24.0,24.0,24.0,24.0,0.0,50.0,50.0,67.11,17.5,32.5,5.0,Varsity Program,IL,Varsity
-413,58,Taft,IL,8A,IHSA 8A,2-7,2,7,0,9,47.3,47.3,-2.66,60.1,413,9.9,25.7,9.9,25.7,-15.8,30.3,47.6,43.26,76.0,76.0,76.0,Varsity Program,Chicago,Eagles
-414,74,Sesser-Valier/Waltonville,IL,1A,IHSA 1A,6-4,6,4,0,10,47.3,47.3,-2.74,46.1,414,27.6,19.5,27.6,19.5,8.1,55.0,56.3,76.13,21.0,39.0,6.0,Varsity Program,Sesser,Red Devils
-415,47,Champaign Central,IL,7A,IHSA Conference,4-5,4,5,0,9,47.3,47.3,-2.74,50.3,415,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,62.05,75.0,75.0,75.0,Varsity Program,Champaign,Varsity
-416,42,Mundelein,IL,2A,IHSA 2A,2-7,2,7,0,9,47.3,47.3,-2.74,58.8,416,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,42.8,7.78,14.44,2.22,Varsity Program,IL,Varsity
-417,48,Aurora Central Catholic,IL,6A,IHSA 4A,8-3,8,3,0,11,47.2,47.2,-2.81,38.3,417,30.4,18.1,30.4,18.1,12.3,59.0,58.3,86.13,7.0,7.0,7.0,Varsity Program,Aurora,Varsity
-418,43,Warrensburg-Latham,IL,2A,IHSA 2A,4-5,4,5,0,9,47.2,47.2,-2.81,50.0,418,19.2,20.0,19.2,20.0,-0.8,43.3,55.6,61.94,68.0,68.0,68.0,Varsity Program,Warrensburg,Cardinals
-419,48,West Chicago,IL,7A,IHSA 7A,5-5,5,5,0,10,47.1,47.1,-2.88,48.6,419,36.5,31.4,36.5,31.4,5.1,67.5,39.6,67.01,17.5,32.5,5.0,Varsity Program,West Chicago,Wildcats
-420,59,Mater Dei,IL,8A,IHSA 8A,3-6,3,6,0,9,47.1,47.1,-2.88,53.0,420,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,51.88,11.67,21.67,3.33,Varsity Program,Breese,Varsity
-421,49,Chatham Glenwood,IL,6A,IHSA Conference,4-5,4,5,0,9,47.1,47.1,-2.91,47.2,421,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,67.0,67.0,67.0,Varsity Program,Chatham,Varsity
-422,75,Neoga,IL,1A,IHSA Conference,4-5,4,5,0,9,47.1,47.1,-2.91,47.2,422,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,59.0,59.0,59.0,Varsity Program,Chicago,Varsity
-423,44,Sparta,IL,2A,IHSA Conference,4-5,4,5,0,9,47.1,47.1,-2.91,47.2,423,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.96,24.0,24.0,24.0,Varsity Program,Chicago,Varsity
-424,50,Frankfort,IL,3A,IHSA 3A,6-4,6,4,0,10,47.0,47.0,-2.95,46.4,424,37.6,33.0,37.6,33.0,4.6,69.0,37.4,76.24,21.0,39.0,6.0,Varsity Program,West Frankfort,Redbirds
-425,51,Fairfield,IL,3A,IHSA Conference,6-4,6,4,0,10,46.7,46.7,-3.31,45.5,425,31.4,22.7,31.4,22.7,8.7,60.4,51.8,75.92,6.0,6.0,6.0,Varsity Program,Fairfield,Mules
-426,49,Crystal Lake South,IL,7A,IHSA Conference,1-8,1,8,0,9,46.5,46.5,-3.46,61.3,426,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,32.57,72.0,72.0,72.0,Varsity Program,Crystal Lake,Varsity
-427,50,Hinsdale South,IL,7A,IHSA Conference,2-7,2,7,0,9,46.5,46.5,-3.53,57.4,427,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,42.31,13.0,13.0,13.0,Varsity Program,Darien,Varsity
-428,52,Hamilton/Warsaw,IL,5A,IHSA 5A,6-4,6,4,0,10,46.4,46.4,-3.6,42.0,428,26.8,21.4,26.8,21.4,5.4,53.9,53.6,74.7,21.0,39.0,6.0,Varsity Program,Hamilton,Varsity
-429,51,Grayslake Central,IL,7A,IHSA Conference,4-5,4,5,0,9,46.4,46.4,-3.6,52.9,429,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,62.96,59.0,59.0,59.0,Varsity Program,Grayslake,Varsity
-430,50,Ottawa,IL,6A,IHSA 1A,3-6,3,6,0,9,46.3,46.3,-3.67,54.1,430,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,52.27,3.0,3.0,3.0,Varsity Program,IL,Varsity
-431,49,Boylan Catholic,IL,4A,IHSA 4A,2-7,2,7,0,9,46.3,46.3,-3.74,59.1,431,17.1,34.1,17.1,34.1,-17.0,40.3,35.9,42.91,75.0,75.0,75.0,Varsity Program,Rockford,Titans
-432,60,Romeoville,IL,8A,IHSA 5A,4-5,4,5,0,9,46.0,46.0,-4.03,51.9,432,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,62.61,14.0,14.0,14.0,Varsity Program,IL,Varsity
-433,76,Crane Medical,IL,1A,IHSA 1A,7-3,7,3,0,10,45.9,45.9,-4.1,41.8,433,29.6,18.8,29.6,18.8,10.8,57.8,57.3,84.63,24.5,45.5,7.0,Varsity Program,Chicago,Varsity
-434,51,Pontiac,IL,6A,IHSA Conference,2-7,2,7,0,9,45.9,45.9,-4.1,58.9,434,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,42.84,32.0,32.0,32.0,Varsity Program,Chicago,Varsity
-435,61,Elgin,IL,8A,IHSA Conference,5-5,5,5,0,10,45.7,45.7,-4.32,50.8,435,24.0,24.0,24.0,24.0,0.0,50.0,50.0,67.78,39.0,39.0,39.0,Varsity Program,Chicago,Varsity
-436,53,Hillsboro,IL,5A,IHSA Conference,5-5,5,5,0,10,45.7,45.7,-4.32,48.0,436,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,71.0,71.0,71.0,Varsity Program,Chicago,Varsity
-437,50,Murphysboro,IL,4A,IHSA 4A,4-5,4,5,0,9,45.7,45.7,-4.32,48.5,437,26.3,26.7,26.3,26.7,-0.4,53.2,46.2,61.42,60.0,60.0,60.0,Varsity Program,Murphysboro,Red Devils
-438,51,Stillman Valley,IL,4A,IHSA Conference,4-5,4,5,0,9,45.7,45.7,-4.32,53.1,438,18.7,31.8,18.7,31.8,-13.1,42.6,39.1,63.03,6.0,6.0,6.0,Varsity Program,Stillman Valley,Cardinals
-439,45,Wesclin,IL,2A,IHSA Conference,5-5,5,5,0,10,45.2,45.2,-4.82,45.6,439,24.0,24.0,24.0,24.0,0.0,50.0,50.0,65.96,38.0,38.0,38.0,Varsity Program,Trenton,Varsity
-440,62,Elk Grove,IL,8A,IHSA 4A,3-6,3,6,0,9,45.2,45.2,-4.82,55.1,440,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,52.62,15.0,15.0,15.0,Varsity Program,Elk Grove Village,Varsity
-441,52,Pleasant Plains,IL,4A,IHSA Conference,4-5,4,5,0,9,45.1,45.1,-4.9,51.7,441,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,62.54,73.0,73.0,73.0,Varsity Program,Chicago,Varsity
-442,53,Winnebago,IL,4A,IHSA Conference,3-6,3,6,0,9,45.0,45.0,-4.97,52.3,442,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,51.64,9.0,9.0,9.0,Varsity Program,Chicago,Varsity
-443,54,Urban Prep-Bronzeville/Urban Prep-Englewood,IL,4A,IHSA 4A,4-6,4,6,0,10,45.0,45.0,-5.04,51.5,443,13.8,22.3,13.8,22.3,-8.5,35.7,52.4,58.02,14.0,26.0,4.0,Varsity Program,Chicago,Lions
-444,52,Knoxville,IL,3A,IHSA 1A,5-5,5,5,0,10,44.7,44.7,-5.26,47.0,444,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.45,8.0,8.0,8.0,Varsity Program,IL,Varsity
-445,52,Marquette Catholic,IL,7A,IHSA 7A,5-5,5,5,0,10,44.7,44.7,-5.26,46.3,445,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.2,17.5,32.5,5.0,Varsity Program,Alton,Varsity
-446,52,Phillips,IL,6A,IHSA 6A,2-7,2,7,0,9,44.5,44.5,-5.47,55.5,446,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,41.65,69.0,69.0,69.0,Varsity Program,Chicago,Varsity
-447,46,Bismarck-Henning/Rossville-Alvin,IL,2A,IHSA 2A,6-4,6,4,0,10,44.4,44.4,-5.62,42.5,447,30.2,18.2,30.2,18.2,12.0,58.7,58.1,74.88,21.0,39.0,6.0,Varsity Program,Bismarck,Blue Devils
-448,53,Carbondale,IL,6A,IHSA Conference,3-6,3,6,0,9,44.4,44.4,-5.62,49.0,448,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,50.48,72.0,72.0,72.0,Varsity Program,Chicago,Varsity
-449,54,Canton,IL,6A,IHSA 4A,1-8,1,8,0,9,44.4,44.4,-5.62,59.4,449,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,31.9,26.0,26.0,26.0,Varsity Program,IL,Varsity
-450,55,Jersey,IL,6A,IHSA Conference,2-7,2,7,0,9,44.2,44.2,-5.76,53.2,450,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,40.84,73.0,73.0,73.0,Varsity Program,Jerseyville,Varsity
-451,53,Rock Island,IL,7A,IHSA 8A,2-7,2,7,0,9,44.2,44.2,-5.76,58.8,451,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,42.8,77.0,77.0,77.0,Varsity Program,IL,Varsity
-452,56,Lake View,IL,6A,IHSA 3A,5-5,5,5,0,10,44.0,44.0,-6.05,45.4,452,24.0,24.0,24.0,24.0,0.0,50.0,50.0,65.89,56.0,56.0,56.0,Varsity Program,Chicago,Varsity
-453,77,River Ridge,IL,1A,IHSA 1A,4-5,4,5,0,9,43.9,43.9,-6.06,47.2,453,27.1,37.1,27.1,37.1,-10.0,54.3,31.7,60.96,15.56,28.89,4.44,Varsity Program,Hanover,Wildcats
-454,78,Chicago Marshall,IL,1A,IHSA 1A,5-5,5,5,0,10,43.8,43.8,-6.19,42.9,454,24.0,24.0,24.0,24.0,0.0,50.0,50.0,65.02,17.5,32.5,5.0,Varsity Program,Chicago,Varsity
-455,47,Christopher-Zeigler-Royalton,IL,2A,IHSA 4A,5-5,5,5,0,10,43.8,43.8,-6.19,46.7,455,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.34,19.0,19.0,19.0,Varsity Program,Christopher,Varsity
-456,57,Deerfield,IL,6A,IHSA 6A,1-8,1,8,0,9,43.8,43.8,-6.19,61.6,456,11.9,31.6,11.9,31.6,-19.7,33.1,39.4,32.67,3.89,7.22,1.11,Varsity Program,Deerfield,Warriors
-457,63,Rockford Auburn,IL,8A,IHSA 2A,1-8,1,8,0,9,43.7,43.7,-6.26,59.4,457,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,31.9,77.0,77.0,77.0,Varsity Program,Rockford,Varsity
-458,64,Rockford East,IL,8A,IHSA Conference,1-8,1,8,0,9,43.7,43.7,-6.34,59.4,458,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,31.9,64.0,64.0,64.0,Varsity Program,Rockford,Varsity
-459,53,Eureka,IL,3A,IHSA Conference,3-6,3,6,0,9,43.6,43.6,-6.41,52.9,459,14.7,24.4,14.7,24.4,-9.7,37.0,49.4,51.85,71.0,71.0,71.0,Varsity Program,Eureka,Hornets
-460,55,Tremont,IL,4A,IHSA Conference,2-7,2,7,0,9,43.6,43.6,-6.41,52.8,460,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,40.7,75.0,75.0,75.0,Varsity Program,Chicago,Varsity
-461,54,Illini West,IL,3A,IHSA Conference,5-5,5,5,0,10,43.5,43.5,-6.48,45.6,461,26.0,25.5,26.0,25.5,0.5,52.8,47.9,65.96,2.0,2.0,2.0,Varsity Program,Carthage,Chargers
-462,65,Maine West,IL,8A,IHSA Conference,3-6,3,6,0,9,43.5,43.5,-6.48,51.9,462,18.6,29.2,18.6,29.2,-10.6,42.4,42.7,51.5,3.0,3.0,3.0,Varsity Program,Des Plaines,Warriors
-463,56,Pleasant Hill/Western,IL,4A,IHSA 4A,2-7,2,7,0,9,43.5,43.5,-6.48,56.9,463,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,42.14,7.78,14.44,2.22,Varsity Program,Pleasant Hill,Varsity
-464,79,Bridgeport,IL,1A,IHSA Conference,3-5,3,5,0,8,43.5,43.5,-6.51,46.2,464,20.5,27.2,20.5,27.2,-6.7,45.1,45.5,53.67,35.0,35.0,35.0,Varsity Program,Chicago,Varsity
-465,54,Carmel Catholic,IL,7A,IHSA Conference,3-5,3,5,0,8,43.5,43.5,-6.51,46.2,465,20.5,27.2,20.5,27.2,-6.7,45.1,45.5,53.67,30.0,30.0,30.0,Varsity Program,Chicago,Varsity
-466,55,Tilden,IL,3A,IHSA Conference,3-5,3,5,0,8,43.5,43.5,-6.51,46.2,466,20.5,27.2,20.5,27.2,-6.7,45.1,45.5,53.67,43.0,43.0,43.0,Varsity Program,Chicago,Varsity
-467,58,Kennedy,IL,6A,IHSA 6A,7-3,7,3,0,10,43.5,43.5,-6.55,43.4,467,14.3,18.9,14.3,18.9,-4.6,36.4,57.1,85.19,24.5,45.5,7.0,Varsity Program,Chicago,Crusaders
-468,80,Stark County,IL,1A,IHSA Conference,5-5,5,5,0,10,43.4,43.4,-6.62,46.0,468,23.3,32.4,23.3,32.4,-9.1,49.0,38.2,66.1,38.0,38.0,38.0,Varsity Program,Toulon,Rebels
-469,48,St. Teresa,IL,2A,IHSA 2A,3-6,3,6,0,9,43.2,43.2,-6.84,49.7,469,25.7,30.8,25.7,30.8,-5.1,52.4,40.5,50.73,11.67,21.67,3.33,Varsity Program,Decatur,Bulldogs
-470,54,Robinson,IL,5A,IHSA Conference,3-6,3,6,0,9,43.1,43.1,-6.91,51.2,470,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,51.25,79.0,79.0,79.0,Varsity Program,Chicago,Varsity
-471,56,Illinois Valley Central,IL,3A,IHSA 3A,2-7,2,7,0,9,43.1,43.1,-6.91,54.7,471,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,41.37,7.78,14.44,2.22,Varsity Program,Chillicothe,Varsity
-472,49,Red Hill,IL,2A,IHSA Conference,5-5,5,5,0,10,42.9,42.9,-7.13,46.4,472,18.1,21.6,18.1,21.6,-3.5,41.7,53.4,66.24,6.0,6.0,6.0,Varsity Program,Bridgeport,Salukis
-473,50,Newton,IL,2A,IHSA Conference,3-6,3,6,0,9,42.9,42.9,-7.13,50.2,473,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,50.9,4.0,4.0,4.0,Varsity Program,Chicago,Varsity
-474,81,North Chicago,IL,1A,IHSA 1A,3-6,3,6,0,9,42.9,42.9,-7.13,49.7,474,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,50.73,11.67,21.67,3.33,Varsity Program,IL,Varsity
-475,57,Orion,IL,4A,IHSA Conference,3-6,3,6,0,9,42.7,42.7,-7.27,49.4,475,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,50.62,40.0,40.0,40.0,Varsity Program,Chicago,Varsity
-476,58,Sandwich,IL,4A,IHSA Conference,2-7,2,7,0,9,42.5,42.5,-7.49,56.9,476,20.8,39.2,20.8,39.2,-18.4,45.5,28.7,42.14,34.0,34.0,34.0,Varsity Program,Sandwich,Indians
-477,57,Rauner,IL,3A,IHSA 1A,7-3,7,3,0,10,42.4,42.4,-7.56,38.4,477,29.6,18.8,29.6,18.8,10.8,57.8,57.3,83.44,73.0,73.0,73.0,Varsity Program,Chicago,Varsity
-478,55,Salem,IL,5A,IHSA Conference,3-6,3,6,0,9,42.4,42.4,-7.56,52.2,478,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,51.6,80.0,80.0,80.0,Varsity Program,Chicago,Varsity
-479,56,Clark,IL,5A,IHSA 7A,1-7,1,7,0,8,42.3,42.3,-7.7,53.9,479,13.5,33.8,13.5,33.8,-20.3,35.3,36.3,31.36,8.0,8.0,8.0,Varsity Program,Chicago,Varsity
-480,57,Hall,IL,5A,IHSA 5A,3-6,3,6,0,9,42.1,42.1,-7.85,48.8,480,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,50.41,11.67,21.67,3.33,Varsity Program,Spring Valley,Varsity
-481,59,Galesburg,IL,6A,IHSA Conference,2-7,2,7,0,9,42.1,42.1,-7.92,55.6,481,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,41.68,29.0,29.0,29.0,Varsity Program,Galesburg,Varsity
-482,66,Plainfield Central,IL,8A,IHSA 7A,2-7,2,7,0,9,42.1,42.1,-7.92,57.2,482,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,42.24,32.0,32.0,32.0,Varsity Program,Plainfield,Varsity
-483,58,North Lawndale,IL,3A,IHSA 3A,3-6,3,6,0,9,42.0,42.0,-7.99,48.0,483,21.9,30.0,21.9,30.0,-8.1,47.1,41.6,50.13,15.0,15.0,15.0,Varsity Program,Chicago,Phoenix
-484,82,Thornton Fractional South,IL,1A,IHSA 1A,3-6,3,6,0,9,41.8,41.8,-8.21,51.9,484,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,51.5,11.67,21.67,3.33,Varsity Program,Lansing,Varsity
-485,67,Proviso West,IL,8A,IHSA 2A,1-8,1,8,0,9,41.8,41.8,-8.21,66.3,485,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,34.32,21.0,21.0,21.0,Varsity Program,Hillside,Varsity
-486,83,Salt Fork,IL,1A,IHSA Conference,5-5,5,5,0,10,41.7,41.7,-8.28,42.2,486,25.9,22.5,25.9,22.5,3.4,52.7,52.1,64.77,76.0,76.0,76.0,Varsity Program,Sidell,Storm
-487,59,Villa Grove,IL,3A,IHSA Conference,5-5,5,5,0,10,41.6,41.6,-8.35,47.8,487,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.73,69.0,69.0,69.0,Varsity Program,Chicago,Varsity
-488,59,Chicago Christian,IL,4A,IHSA Conference,3-6,3,6,0,9,41.4,41.4,-8.64,51.3,488,17.0,40.3,17.0,40.3,-23.3,40.2,27.2,51.29,5.0,5.0,5.0,Varsity Program,Palos Heights,Knights
-489,51,Sangamon Valley/Tri-City,IL,2A,IHSA 2A,3-6,3,6,0,9,41.4,41.4,-8.64,47.3,489,23.4,27.4,23.4,27.4,-4.0,49.2,45.2,49.89,11.67,21.67,3.33,Varsity Program,Niantic,Tornadoes
-490,52,Alton Marquette,IL,2A,IHSA Conference,3-6,3,6,0,9,41.3,41.3,-8.72,45.7,490,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,43.0,43.0,43.0,Varsity Program,Chicago,Varsity
-491,53,Bethalto,IL,2A,IHSA Conference,3-6,3,6,0,9,41.3,41.3,-8.72,45.7,491,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,55.0,55.0,55.0,Varsity Program,Chicago,Varsity
-492,60,Farragut,IL,3A,IHSA Conference,3-6,3,6,0,9,41.3,41.3,-8.72,45.7,492,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,51.0,51.0,51.0,Varsity Program,Chicago,Varsity
-493,84,Galatia,IL,1A,IHSA Conference,3-6,3,6,0,9,41.3,41.3,-8.72,45.7,493,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,28.0,28.0,28.0,Varsity Program,Chicago,Varsity
-494,54,Jacksonville Routt,IL,2A,IHSA Conference,3-6,3,6,0,9,41.3,41.3,-8.72,45.7,494,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,67.0,67.0,67.0,Varsity Program,Chicago,Varsity
-495,61,Kelvyn Park,IL,3A,IHSA Conference,3-6,3,6,0,9,41.3,41.3,-8.72,45.7,495,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,58.0,58.0,58.0,Varsity Program,Chicago,Varsity
-496,68,Lyons Township,IL,8A,IHSA Conference,3-6,3,6,0,9,41.3,41.3,-8.72,45.7,496,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,26.0,26.0,26.0,Varsity Program,Chicago,Varsity
-497,60,Spring Valley Hall,IL,4A,IHSA Conference,3-6,3,6,0,9,41.3,41.3,-8.72,45.7,497,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,44.0,44.0,44.0,Varsity Program,Chicago,Varsity
-498,85,Teutopolis,IL,1A,IHSA Conference,3-6,3,6,0,9,41.3,41.3,-8.72,45.7,498,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.33,51.0,51.0,51.0,Varsity Program,Chicago,Varsity
-499,60,Staunton/Bunker Hill,IL,6A,IHSA 6A,4-5,4,5,0,9,41.1,41.1,-8.86,46.3,499,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.65,15.56,28.89,4.44,Varsity Program,Staunton,Varsity
-500,61,Civic Memorial,IL,6A,IHSA Conference,2-7,2,7,0,9,41.1,41.1,-8.86,50.7,500,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,39.97,75.0,75.0,75.0,Varsity Program,Bethalto,Varsity
-501,61,Ridgewood,IL,4A,IHSA 1A,3-6,3,6,0,9,41.1,41.1,-8.93,49.3,501,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,50.59,4.0,4.0,4.0,Varsity Program,Norridge,Varsity
-502,55,Crystal Lake Central,IL,7A,IHSA 5A,0-9,0,9,0,9,41.1,41.1,-8.93,61.9,502,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,21.66,71.0,71.0,71.0,Varsity Program,Crystal Lake,Varsity
-503,86,Routt Catholic/Lutheran,IL,1A,IHSA 1A,1-8,1,8,0,9,41.0,41.0,-9.0,57.1,503,8.7,29.0,8.7,29.0,-20.3,28.6,43.0,31.1,3.89,7.22,1.11,Varsity Program,Jacksonville,Lutheran
-504,55,Martinsville,IL,2A,IHSA 1A,3-6,3,6,0,9,40.9,40.9,-9.12,45.7,504,23.0,32.9,23.0,32.9,-9.9,48.6,37.5,49.33,9.0,9.0,9.0,Varsity Program,Martinsville,Bluestreaks
-505,62,Fenton,IL,6A,IHSA Conference,3-6,3,6,0,9,40.8,40.8,-9.22,46.3,505,24.8,30.7,24.8,30.7,-5.9,51.1,40.6,49.54,9.0,9.0,9.0,Varsity Program,Bensenville,Bison
-506,56,Danville,IL,7A,IHSA Conference,2-7,2,7,0,9,40.7,40.7,-9.29,54.5,506,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,41.3,73.0,73.0,73.0,Varsity Program,Chicago,Varsity
-507,57,Bloom,IL,7A,IHSA 2A,4-5,4,5,0,9,40.4,40.4,-9.65,46.5,507,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,60.72,2.0,2.0,2.0,Varsity Program,Chicago Heights,Varsity
-508,62,Dyett,IL,4A,IHSA 4A,4-5,4,5,0,9,40.4,40.4,-9.65,46.3,508,14.0,29.4,14.0,29.4,-15.4,36.0,42.4,60.65,11.0,11.0,11.0,Varsity Program,Chicago,Eagles
-509,69,Niles West,IL,8A,IHSA 8A,2-7,2,7,0,9,40.2,40.2,-9.79,52.1,509,16.2,29.0,16.2,29.0,-12.8,39.1,43.0,40.46,2.0,2.0,2.0,Varsity Program,Skokie,Wolves
-510,70,Alton,IL,8A,IHSA 8A,0-9,0,9,0,9,40.2,40.2,-9.79,62.5,510,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,21.88,65.0,65.0,65.0,Varsity Program,IL,Varsity
-511,71,Streamwood,IL,8A,IHSA Conference,3-6,3,6,0,9,40.1,40.1,-9.94,47.1,511,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.82,48.0,48.0,48.0,Varsity Program,Chicago,Varsity
-512,63,Mercer County,IL,4A,IHSA 5A,2-7,2,7,0,9,40.1,40.1,-9.94,52.4,512,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,40.56,35.0,35.0,35.0,Varsity Program,Aledo,Varsity
-513,56,Elmwood/Brimfield,IL,2A,IHSA Conference,3-6,3,6,0,9,40.0,40.0,-10.01,47.8,513,23.8,34.0,23.8,34.0,-10.2,49.7,36.0,50.06,1.0,1.0,1.0,Varsity Program,Elmwood,Trojans
-514,58,Thornton,IL,7A,IHSA Conference,2-7,2,7,0,9,39.9,39.9,-10.08,54.9,514,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,41.44,7.78,14.44,2.22,Varsity Program,Harvey,Varsity
-515,58,Plano,IL,5A,IHSA Conference,1-8,1,8,0,9,39.9,39.9,-10.08,53.6,515,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,29.87,48.0,48.0,48.0,Varsity Program,Chicago,Varsity
-516,64,Chicago Sullivan,IL,4A,IHSA 4A,4-5,4,5,0,9,39.9,39.9,-10.15,43.1,516,25.8,28.1,25.8,28.1,-2.3,52.5,44.3,59.53,15.56,28.89,4.44,Varsity Program,Chicago,Tigers
-517,62,Orangeville,IL,3A,IHSA 1A,3-6,3,6,0,9,39.8,39.8,-10.16,45.7,517,25.6,37.8,25.6,37.8,-12.2,52.2,30.7,49.33,14.0,14.0,14.0,Varsity Program,Orangeville,Broncos
-518,59,Von Steuben,IL,5A,IHSA Conference,8-1,8,1,0,9,39.8,39.8,-10.22,28.7,518,34.9,13.9,34.9,13.9,21.0,65.3,64.1,98.93,1.0,1.0,1.0,Varsity Program,Chicago,Varsity
-519,63,Niles North,IL,3A,IHSA 3A,3-6,3,6,0,9,39.8,39.8,-10.22,47.5,519,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.96,11.67,21.67,3.33,Varsity Program,Skokie,Varsity
-520,63,Streator,IL,6A,IHSA 5A,1-8,1,8,0,9,39.7,39.7,-10.3,58.1,520,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,31.45,5.0,5.0,5.0,Varsity Program,IL,Varsity
-521,87,Sparta/Steeleville,IL,1A,IHSA 1A,4-5,4,5,0,9,39.6,39.6,-10.37,43.7,521,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,59.74,15.56,28.89,4.44,Varsity Program,Sparta,Varsity
-522,57,Eldorado,IL,2A,IHSA 4A,3-6,3,6,0,9,39.3,39.3,-10.66,45.3,522,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.19,21.0,21.0,21.0,Varsity Program,IL,Varsity
-523,88,Central A & M,IL,1A,IHSA Conference,3-6,3,6,0,9,39.3,39.3,-10.73,45.0,523,23.0,30.1,23.0,30.1,-7.1,48.6,41.5,49.08,53.0,53.0,53.0,Varsity Program,Moweaqua,Raiders
-524,64,Comer,IL,3A,IHSA 7A,5-4,5,4,0,9,39.2,39.2,-10.8,37.9,524,25.6,22.6,25.6,22.6,3.0,52.2,52.0,68.82,77.0,77.0,77.0,Varsity Program,Chicago,Varsity
-525,60,Mendota,IL,5A,IHSA Conference,2-7,2,7,0,9,39.1,39.1,-10.87,48.2,525,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,39.09,54.0,54.0,54.0,Varsity Program,Chicago,Varsity
-526,64,Springfield Southeast,IL,6A,IHSA 7A,3-6,3,6,0,9,39.0,39.0,-11.02,51.1,526,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,51.22,70.0,70.0,70.0,Varsity Program,Springfield,Varsity
-527,65,Bremen,IL,6A,IHSA 1A,1-8,1,8,0,9,39.0,39.0,-11.02,52.5,527,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,29.49,13.0,13.0,13.0,Varsity Program,Midlothian,Varsity
-528,65,UIC College Prep,IL,3A,IHSA 3A,5-4,5,4,0,9,38.9,38.9,-11.09,37.7,528,25.6,22.6,25.6,22.6,3.0,52.2,52.0,68.75,19.44,36.11,5.56,Varsity Program,Chicago,Varsity
-529,58,Havana,IL,2A,IHSA Conference,4-5,4,5,0,9,38.8,38.8,-11.23,44.2,529,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,59.91,58.0,58.0,58.0,Varsity Program,Chicago,Varsity
-530,61,Brooks,IL,5A,IHSA Conference,2-7,2,7,0,9,38.7,38.7,-11.3,52.3,530,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,40.53,6.0,6.0,6.0,Varsity Program,Chicago,Varsity
-531,89,St. Thomas More,IL,1A,IHSA 1A,2-7,2,7,0,9,38.5,38.5,-11.51,44.1,531,26.4,34.7,26.4,34.7,-8.3,53.4,35.0,37.66,7.78,14.44,2.22,Varsity Program,Champaign,Sabers
-532,72,Collins Academy/Manley,IL,8A,IHSA 8A,6-3,6,3,0,9,38.5,38.5,-11.52,36.2,532,28.7,19.7,28.7,19.7,9.0,56.6,56.0,79.34,23.33,43.33,6.67,Varsity Program,Chicago,Varsity
-533,59,Berwyn/Cicero Morton,IL,7A,IHSA 7A,1-8,1,8,0,9,38.3,38.3,-11.74,55.0,533,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,30.36,3.89,7.22,1.11,Varsity Program,Cicero,Varsity
-534,66,Abingdon/Avon,IL,3A,IHSA Conference,3-6,3,6,0,9,38.2,38.2,-11.81,44.8,534,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,49.01,5.0,5.0,5.0,Varsity Program,Abingdon,Varsity
-535,65,Sherrard,IL,4A,IHSA Conference,2-7,2,7,0,9,38.0,38.0,-11.95,47.4,535,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,38.81,43.0,43.0,43.0,Varsity Program,Chicago,Varsity
-536,66,Alleman,IL,4A,IHSA 4A,1-8,1,8,0,9,38.0,38.0,-11.95,50.8,536,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,28.89,3.89,7.22,1.11,Varsity Program,Rock Island,Varsity
-537,60,De La Salle,IL,7A,IHSA 7A,0-9,0,9,0,9,38.0,38.0,-11.95,66.9,537,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,23.41,15.0,15.0,15.0,Varsity Program,Chicago,Varsity
-538,67,Riverton,IL,4A,IHSA Conference,2-7,2,7,0,9,37.9,37.9,-12.1,52.5,538,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,40.6,71.0,71.0,71.0,Varsity Program,Chicago,Varsity
-539,61,Proviso East,IL,7A,IHSA 7A,1-8,1,8,0,9,37.8,37.8,-12.17,55.3,539,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,30.47,3.89,7.22,1.11,Varsity Program,Maywood,Varsity
-540,67,Dakota,IL,3A,IHSA 8A,1-8,1,8,0,9,37.7,37.7,-12.31,59.1,540,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,31.8,8.0,8.0,8.0,Varsity Program,IL,Varsity
-541,59,Momence,IL,2A,IHSA Conference,4-5,4,5,0,9,37.6,37.6,-12.38,41.4,541,23.3,30.1,23.3,30.1,-6.8,49.0,41.5,58.93,59.0,59.0,59.0,Varsity Program,Momence,Momence Athletics
-542,60,North Mac,IL,2A,IHSA 2A,3-6,3,6,0,9,37.4,37.4,-12.6,46.7,542,22.3,38.9,22.3,38.9,-16.6,47.6,29.1,49.68,11.67,21.67,3.33,Varsity Program,Virden,Panthers
-543,62,Massac County,IL,5A,IHSA Conference,4-5,4,5,0,9,37.3,37.3,-12.67,38.9,543,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,58.06,62.0,62.0,62.0,Varsity Program,Metropolis,Varsity
-544,68,Beardstown,IL,4A,IHSA Conference,1-8,1,8,0,9,37.0,37.0,-12.96,55.8,544,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,30.64,66.0,66.0,66.0,Varsity Program,Chicago,Varsity
-545,66,Hyde Park,IL,6A,IHSA Conference,2-7,2,7,0,9,37.0,37.0,-13.03,47.1,545,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,38.71,69.0,69.0,69.0,Varsity Program,Chicago,Varsity
-546,68,Hirsch,IL,3A,IHSA Conference,2-6,2,6,0,8,36.9,36.9,-13.07,44.5,546,17.0,30.5,17.0,30.5,-13.5,40.2,40.9,40.58,39.0,39.0,39.0,Varsity Program,Chicago,Varsity
-547,62,Loyola,IL,7A,IHSA Conference,2-6,2,6,0,8,36.9,36.9,-13.07,44.5,547,17.0,30.5,17.0,30.5,-13.5,40.2,40.9,40.58,40.0,40.0,40.0,Varsity Program,Chicago,Varsity
-548,69,Robeson,IL,3A,IHSA Conference,2-6,2,6,0,8,36.9,36.9,-13.07,44.5,548,17.0,30.5,17.0,30.5,-13.5,40.2,40.9,40.58,45.0,45.0,45.0,Varsity Program,Chicago,Varsity
-549,61,Longwood,IL,2A,IHSA 2A,6-3,6,3,0,9,36.8,36.8,-13.18,32.4,549,28.7,19.7,28.7,19.7,9.0,56.6,56.0,78.01,23.33,43.33,6.67,Varsity Program,Chicago,Varsity
-550,62,Pittsfield,IL,2A,IHSA 6A,1-8,1,8,0,9,36.8,36.8,-13.18,52.6,550,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,29.52,72.0,72.0,72.0,Varsity Program,IL,Varsity
-551,70,Bogan,IL,3A,IHSA 4A,6-2,6,2,0,8,36.8,36.8,-13.25,30.0,551,31.0,17.5,31.0,17.5,13.5,59.8,59.1,85.5,18.0,18.0,18.0,Varsity Program,Chicago,Varsity
-552,63,Christ the King,IL,7A,IHSA 7A,1-8,1,8,0,9,36.8,36.8,-13.25,52.1,552,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,29.35,3.89,7.22,1.11,Varsity Program,Chicago,Varsity
-553,69,Harrisburg,IL,4A,IHSA Conference,3-6,3,6,0,9,36.6,36.6,-13.39,47.1,553,15.1,33.3,15.1,33.3,-18.2,37.5,37.0,49.82,64.0,64.0,64.0,Varsity Program,Harrisburg,Bulldogs
-554,63,Pinckneyville,IL,2A,IHSA 2A,2-7,2,7,0,9,36.6,36.6,-13.39,47.9,554,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,38.99,32.0,32.0,32.0,Varsity Program,IL,Varsity
-555,64,Stagg,IL,7A,IHSA 2A,0-9,0,9,0,9,36.6,36.6,-13.39,63.0,555,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,22.05,14.0,14.0,14.0,Varsity Program,Palos Hills,Varsity
-556,71,Argenta-Oreana,IL,3A,IHSA 8A,2-7,2,7,0,9,36.5,36.5,-13.46,44.2,556,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.69,60.0,60.0,60.0,Varsity Program,Argenta,Varsity
-557,72,Woodlawn,IL,3A,IHSA 3A,9-0,9,0,0,9,36.4,36.4,-13.61,25.0,557,38.0,11.0,38.0,11.0,27.0,69.6,68.2,108.75,35.0,65.0,10.0,Varsity Program,Chicago,Varsity
-558,70,St. Bede,IL,4A,IHSA Conference,2-7,2,7,0,9,36.2,36.2,-13.75,48.5,558,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,39.2,50.0,50.0,50.0,Varsity Program,Peru,Varsity
-559,67,Mattoon,IL,6A,IHSA 5A,1-8,1,8,0,9,36.1,36.1,-13.9,51.3,559,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,29.07,43.0,43.0,43.0,Varsity Program,IL,Varsity
-560,63,Gillespie,IL,5A,IHSA 7A,2-7,2,7,0,9,35.7,35.7,-14.26,46.9,560,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,38.64,75.0,75.0,75.0,Varsity Program,IL,Varsity
-561,71,Fieldcrest,IL,4A,IHSA Conference,1-8,1,8,0,9,35.7,35.7,-14.33,53.6,561,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,29.87,74.0,74.0,74.0,Varsity Program,Minonk,Varsity
-562,90,Schlarman,IL,1A,IHSA 1A,0-4,0,4,0,4,35.5,35.5,-14.45,41.0,562,0.0,1.0,0.0,1.0,-1.0,25.0,82.2,14.35,0.0,0.0,0.0,Varsity Program,Danville,Hilltoppers
-563,68,Grayslake North,IL,6A,IHSA Conference,1-8,1,8,0,9,35.5,35.5,-14.47,51.2,563,11.3,32.1,11.3,32.1,-20.8,32.2,38.7,29.03,60.0,60.0,60.0,Varsity Program,Grayslake,Knights
-564,64,Bunker Hill,IL,2A,IHSA Conference,2-7,2,7,0,9,35.5,35.5,-14.53,44.1,564,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,59.0,59.0,59.0,Varsity Program,Chicago,Varsity
-565,73,East Aurora,IL,8A,IHSA Conference,2-7,2,7,0,9,35.5,35.5,-14.53,44.1,565,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,51.0,51.0,51.0,Varsity Program,Aurora,Varsity
-566,65,Franklin,IL,2A,IHSA Conference,2-7,2,7,0,9,35.5,35.5,-14.53,44.1,566,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,71.0,71.0,71.0,Varsity Program,Chicago,Varsity
-567,65,Grant,IL,7A,IHSA Conference,2-7,2,7,0,9,35.5,35.5,-14.53,44.1,567,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,55.0,55.0,55.0,Varsity Program,Chicago,Varsity
-568,66,Litchfield,IL,2A,IHSA Conference,2-7,2,7,0,9,35.5,35.5,-14.53,44.1,568,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,56.0,56.0,56.0,Varsity Program,Chicago,Varsity
-569,66,Oak Lawn Richards,IL,7A,IHSA Conference,2-7,2,7,0,9,35.5,35.5,-14.53,44.1,569,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,46.0,46.0,46.0,Varsity Program,Chicago,Varsity
-570,74,Rockford Guilford,IL,8A,IHSA Conference,2-7,2,7,0,9,35.5,35.5,-14.53,44.1,570,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,69.0,69.0,69.0,Varsity Program,Rockford,Varsity
-571,67,Unker,IL,2A,IHSA Conference,2-7,2,7,0,9,35.5,35.5,-14.53,44.1,571,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,53.0,53.0,53.0,Varsity Program,Chicago,Varsity
-572,91,Windsor,IL,1A,IHSA Conference,2-7,2,7,0,9,35.5,35.5,-14.53,44.1,572,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.66,59.0,59.0,59.0,Varsity Program,Chicago,Varsity
-573,69,Richwoods,IL,6A,IHSA 6A,1-7,1,7,0,8,35.5,35.5,-14.54,52.3,573,13.5,33.8,13.5,33.8,-20.3,35.3,36.3,30.8,4.38,8.12,1.25,Varsity Program,Peoria,Varsity
-574,68,Lawrenceville,IL,2A,IHSA 4A,1-8,1,8,0,9,35.4,35.4,-14.62,52.5,574,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,29.49,11.0,11.0,11.0,Varsity Program,IL,Varsity
-575,70,Charleston,IL,6A,IHSA 3A,1-8,1,8,0,9,35.3,35.3,-14.69,52.8,575,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,29.59,55.0,55.0,55.0,Varsity Program,IL,Varsity
-576,73,Julian,IL,3A,IHSA 7A,6-2,6,2,0,8,35.2,35.2,-14.76,29.1,576,31.0,17.5,31.0,17.5,13.5,59.8,59.1,85.19,27.0,27.0,27.0,Varsity Program,Chicago,Varsity
-577,74,The Noble Academy,IL,3A,IHSA 3A,7-2,7,2,0,9,35.0,35.0,-15.05,25.0,577,31.8,16.8,31.8,16.8,15.0,60.9,60.1,86.53,27.22,50.56,7.78,Varsity Program,Chicago,Varsity
-578,69,Edwards County,IL,2A,IHSA 2A,2-7,2,7,0,9,34.6,34.6,-15.41,45.8,578,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,38.25,7.78,14.44,2.22,Varsity Program,Albion,Varsity
-579,71,Tinley Park,IL,6A,IHSA Conference,1-8,1,8,0,9,34.6,34.6,-15.41,50.0,579,16.0,33.8,16.0,33.8,-17.8,38.8,36.3,28.61,22.0,22.0,22.0,Varsity Program,Tinley Park,Titans
-580,75,Wheeling,IL,8A,IHSA 1A,1-8,1,8,0,9,34.3,34.3,-15.7,55.2,580,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,30.43,13.0,13.0,13.0,Varsity Program,IL,Varsity
-581,64,Lindblom,IL,5A,IHSA Conference,2-7,2,7,0,9,34.2,34.2,-15.77,43.6,581,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.48,5.0,5.0,5.0,Varsity Program,Chicago,Varsity
-582,67,Richards,IL,7A,IHSA Conference,9-2,9,2,0,11,34.2,34.2,-15.84,34.1,582,40.2,22.5,40.2,22.5,17.7,72.7,52.1,93.75,6.0,6.0,6.0,Varsity Program,Oak Lawn,Bulldogs
-583,68,Limestone,IL,7A,IHSA 7A,0-9,0,9,0,9,34.2,34.2,-15.84,60.3,583,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,21.1,0.0,0.0,0.0,Varsity Program,Bartonville,Varsity
-584,72,Lincoln,IL,6A,IHSA Conference,1-8,1,8,0,9,34.1,34.1,-15.91,54.7,584,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,30.26,65.0,65.0,65.0,Varsity Program,Chicago,Varsity
-585,69,Waukegan,IL,7A,IHSA 3A,0-9,0,9,0,9,34.1,34.1,-15.91,59.2,585,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,20.72,42.0,42.0,42.0,Varsity Program,IL,Varsity
-586,72,Hamilton County,IL,4A,IHSA 4A,1-8,1,8,0,9,33.9,33.9,-16.06,45.9,586,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,27.18,3.89,7.22,1.11,Varsity Program,McLeansboro,Varsity
-587,65,Rantoul,IL,5A,IHSA 6A,0-9,0,9,0,9,33.7,33.7,-16.27,56.5,587,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,19.77,75.0,75.0,75.0,Varsity Program,IL,Varsity
-588,70,Urbana,IL,7A,IHSA 1A,1-7,1,7,0,8,33.5,33.5,-16.49,49.5,588,13.5,33.8,13.5,33.8,-20.3,35.3,36.3,29.82,74.0,74.0,74.0,Varsity Program,IL,Varsity
-589,76,Joliet Central,IL,8A,IHSA Conference,1-8,1,8,0,9,33.4,33.4,-16.63,55.8,589,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,30.64,13.0,13.0,13.0,Varsity Program,Joliet,Varsity
-590,77,Bowen/Baker College Prep,IL,8A,IHSA 8A,7-1,7,1,0,8,33.1,33.1,-16.85,25.0,590,34.5,14.2,34.5,14.2,20.3,64.7,63.7,96.25,30.62,56.88,8.75,Varsity Program,Chicago,Varsity
-591,66,Foreman,IL,5A,IHSA 4A,5-3,5,3,0,8,33.1,33.1,-16.92,26.3,591,27.5,20.8,27.5,20.8,6.7,54.9,54.5,71.7,1.0,1.0,1.0,Varsity Program,Chicago,Varsity
-592,73,Lanphier,IL,6A,IHSA 1A,1-8,1,8,0,9,33.1,33.1,-16.92,51.8,592,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,29.24,69.0,69.0,69.0,Varsity Program,Springfield,Varsity
-593,71,Argo,IL,7A,IHSA 7A,0-9,0,9,0,9,33.1,33.1,-16.92,55.7,593,6.8,42.1,6.8,42.1,-35.3,25.9,25.0,19.5,5.0,5.0,5.0,Varsity Program,Summit,Argonauts
-594,67,ROWVA/Williamsfield,IL,5A,IHSA 5A,2-7,2,7,0,9,32.9,32.9,-17.14,47.4,594,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,38.81,7.78,14.44,2.22,Varsity Program,Oneida,Varsity
-595,73,Auburn,IL,4A,IHSA 4A,0-9,0,9,0,9,32.9,32.9,-17.14,53.1,595,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,18.59,0.0,0.0,0.0,Varsity Program,IL,Varsity
-596,75,Carver,IL,3A,IHSA Conference,1-8,1,8,0,9,32.7,32.7,-17.28,49.6,596,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,28.47,19.0,19.0,19.0,Varsity Program,Chicago,Varsity
-597,72,Decatur Eisenhower,IL,7A,IHSA Conference,1-8,1,8,0,9,32.7,32.7,-17.28,52.4,597,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,29.45,64.0,64.0,64.0,Varsity Program,Decatur,Varsity
-598,68,Schurz,IL,5A,IHSA 1A,5-4,5,4,0,9,32.3,32.3,-17.71,29.8,598,25.6,22.6,25.6,22.6,3.0,52.2,52.0,65.99,1.0,1.0,1.0,Varsity Program,Chicago,Varsity
-599,70,Fisher,IL,2A,IHSA Conference,1-8,1,8,0,9,32.2,32.2,-17.78,48.9,599,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,28.23,10.0,10.0,10.0,Varsity Program,Chicago,Varsity
-600,73,Noble Street College Prep,IL,7A,IHSA 7A,1-6,1,6,0,7,32.2,32.2,-17.78,25.0,600,14.0,33.3,14.0,33.3,-19.3,36.0,37.0,23.04,5.0,9.29,1.43,Varsity Program,Chicago,Varsity
-601,71,Red Bud,IL,2A,IHSA Conference,1-8,1,8,0,9,31.9,31.9,-18.07,46.8,601,17.3,41.4,17.3,41.4,-24.1,40.6,25.6,27.49,24.0,24.0,24.0,Varsity Program,Red Bud,Musketeers
-602,69,Clemente,IL,5A,IHSA 4A,3-6,3,6,0,9,31.9,31.9,-18.14,39.7,602,7.3,18.1,7.3,18.1,-10.8,26.6,58.3,47.23,4.0,4.0,4.0,Varsity Program,Chicago,Wildcats
-603,74,Bureau Valley,IL,4A,IHSA Conference,1-8,1,8,0,9,31.8,31.8,-18.22,47.7,603,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,27.81,56.0,56.0,56.0,Varsity Program,Manlius,Varsity
-604,78,Larkin,IL,8A,IHSA 4A,0-9,0,9,0,9,31.8,31.8,-18.22,57.6,604,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,20.16,41.0,41.0,41.0,Varsity Program,Elgin,Varsity
-605,74,Muchin College Prep,IL,6A,IHSA 6A,3-5,3,5,0,8,31.6,31.6,-18.43,39.9,605,20.5,27.2,20.5,27.2,-6.7,45.1,45.5,51.46,13.12,24.38,3.75,Varsity Program,Chicago,Varsity
-606,70,Georgetown-Ridge Farm/Chrisman,IL,5A,IHSA 5A,3-6,3,6,0,9,31.5,31.5,-18.5,42.1,606,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,48.07,11.67,21.67,3.33,Varsity Program,Georgetown,Varsity
-607,92,Lutheran,IL,1A,IHSA 1A,1-8,1,8,0,9,31.3,31.3,-18.72,52.8,607,13.3,51.0,13.3,51.0,-37.7,35.0,25.0,29.59,3.89,7.22,1.11,Varsity Program,Rockford,Crusaders
-608,93,Peoria Heights,IL,1A,IHSA 1A,1-7,1,7,0,8,31.3,31.3,-18.73,42.8,608,27.2,45.5,27.2,45.5,-18.3,54.5,25.0,27.48,4.38,8.12,1.25,Varsity Program,Peoria Heights,Patriots
-609,75,Senn,IL,6A,IHSA 6A,2-7,2,7,0,9,31.1,31.1,-18.94,40.2,609,14.7,26.7,14.7,26.7,-12.0,37.0,46.2,36.29,58.0,58.0,58.0,Varsity Program,Chicago,Bulldogs
-610,76,Phoenix Military,IL,3A,IHSA 5A,3-6,3,6,0,9,30.9,30.9,-19.08,37.7,610,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,46.53,20.0,20.0,20.0,Varsity Program,Chicago,Varsity
-611,77,Illinois Crusaders,IL,3A,IHSA 3A,7-6,7,6,0,13,30.9,30.9,-19.15,32.5,611,25.1,23.0,25.1,23.0,2.1,51.5,51.4,65.22,18.85,35.0,5.38,Varsity Program,Big Rock,Varsity
-612,71,Harvard,IL,5A,IHSA 2A,0-9,0,9,0,9,30.6,30.6,-19.44,52.4,612,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,18.34,34.0,34.0,34.0,Varsity Program,IL,Varsity
-613,79,Astoria/VIT,IL,8A,IHSA 8A,2-7,2,7,0,9,30.5,30.5,-19.51,42.4,613,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,37.06,7.78,14.44,2.22,Varsity Program,Astoria,Varsity
-614,72,Carlyle,IL,2A,IHSA Conference,0-9,0,9,0,9,30.5,30.5,-19.51,49.3,614,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,17.25,28.0,28.0,28.0,Varsity Program,Chicago,Varsity
-615,74,Southwestern,IL,7A,IHSA 7A,1-8,1,8,0,9,30.4,30.4,-19.58,47.5,615,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,27.74,3.89,7.22,1.11,Varsity Program,Piasa,Varsity
-616,75,Thornridge,IL,7A,IHSA 3A,0-9,0,9,0,9,30.4,30.4,-19.58,52.0,616,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,18.2,1.0,1.0,1.0,Varsity Program,Dolton,Varsity
-617,94,Altamont,IL,1A,IHSA Conference,1-7,1,7,0,8,30.4,30.4,-19.63,42.8,617,13.5,33.8,13.5,33.8,-20.3,35.3,36.3,27.48,45.0,45.0,45.0,Varsity Program,Chicago,Varsity
-618,73,Madison,IL,2A,IHSA 6A,1-8,1,8,0,9,30.2,30.2,-19.8,46.0,618,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,27.21,47.0,47.0,47.0,Varsity Program,IL,Varsity
-619,76,Round Lake,IL,7A,IHSA 1A,1-8,1,8,0,9,30.2,30.2,-19.8,48.8,619,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,28.19,54.0,54.0,54.0,Varsity Program,IL,Varsity
-620,74,North Greene,IL,2A,IHSA 7A,0-9,0,9,0,9,30.1,30.1,-19.87,57.9,620,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,20.26,79.0,79.0,79.0,Varsity Program,White Hall,Varsity
-621,76,Hubbard,IL,6A,IHSA 4A,4-5,4,5,0,9,30.1,30.1,-19.94,36.2,621,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,57.11,51.0,51.0,51.0,Varsity Program,Chicago,Varsity
-622,95,Manual,IL,1A,IHSA 1A,0-9,0,9,0,9,30.0,30.0,-20.02,55.1,622,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,19.29,0.0,0.0,0.0,Varsity Program,Peoria,Varsity
-623,80,ITW David Speer Academy,IL,8A,IHSA 8A,3-6,3,6,0,9,29.9,29.9,-20.09,34.5,623,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,45.41,11.67,21.67,3.33,Varsity Program,Chicago,Varsity
-624,96,Atwood,IL,1A,IHSA Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,624,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,67.0,67.0,67.0,Varsity Program,Chicago,Varsity
-625,72,Bartonville Limestone,IL,5A,IHSA Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,625,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,73.0,73.0,73.0,Varsity Program,Chicago,Varsity
-626,97,Bethany Okaw Valley,IL,1A,IHSA Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,626,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,65.0,65.0,65.0,Varsity Program,Chicago,Varsity
-627,78,Bulls Prep,IL,3A,IHSA Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,627,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,76.0,76.0,76.0,Varsity Program,Chicago,Varsity
-628,77,Burlington Central,IL,7A,IHSA Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,628,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,73.0,73.0,73.0,Varsity Program,Chicago,Varsity
-629,75,Calhoun,IL,2A,IHSA Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,629,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,78.0,78.0,78.0,Varsity Program,Chicago,Varsity
-630,98,Dieterich,IL,1A,IHSA Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,630,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,55.0,55.0,55.0,Varsity Program,Chicago,Varsity
-631,99,Kansas,IL,1A,IHSA Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,631,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,71.0,71.0,71.0,Varsity Program,Chicago,Varsity
-632,100,Newman,IL,1A,IHSA Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,632,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,70.0,70.0,70.0,Varsity Program,Chicago,Varsity
-633,79,Noble Pritzker,IL,3A,IHSA Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,633,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,68.0,68.0,68.0,Varsity Program,Chicago,Varsity
-634,101,Oakland,IL,1A,IHSA Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,634,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,72.0,72.0,72.0,Varsity Program,Chicago,Varsity
-635,76,Palmyra Northwestern,IL,2A,IHSA Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,635,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,66.0,66.0,66.0,Varsity Program,Chicago,Varsity
-636,81,Rockford Jefferson,IL,8A,IHSA Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,636,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,74.0,74.0,74.0,Varsity Program,Rockford,Varsity
-637,102,Stewardson-Strasburg,IL,1A,IHSA Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,637,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,63.0,63.0,63.0,Varsity Program,Chicago,Varsity
-638,80,UIC Prep,IL,3A,IHSA Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,638,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,74.0,74.0,74.0,Varsity Program,Chicago,Varsity
-639,77,Virden North Mac,IL,2A,IHSA Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,639,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,65.0,65.0,65.0,Varsity Program,Chicago,Varsity
-640,78,Waverly,IL,2A,IHSA Conference,1-8,1,8,0,9,29.7,29.7,-20.34,42.6,640,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,66.0,66.0,66.0,Varsity Program,Chicago,Varsity
-641,81,Ashton-Franklin Center,IL,3A,IHSA 1A,2-7,2,7,0,9,29.6,29.6,-20.38,44.1,641,9.2,38.7,9.2,38.7,-29.5,29.3,29.4,37.66,5.0,5.0,5.0,Varsity Program,Ashton,Raiders
-642,78,Rock Falls,IL,7A,IHSA 7A,0-9,0,9,0,9,29.6,29.6,-20.38,53.6,642,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,18.76,0.0,0.0,0.0,Varsity Program,IL,Varsity
-643,79,Carmi-White County,IL,2A,IHSA 2A,0-9,0,9,0,9,29.5,29.5,-20.52,46.4,643,10.7,34.6,10.7,34.6,-23.9,31.4,35.2,16.24,16.0,16.0,16.0,Varsity Program,Carmi,Bulldogs
-644,77,Aurora East,IL,6A,IHSA 6A,2-7,2,7,0,9,29.3,29.3,-20.66,48.4,644,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,39.16,7.78,14.44,2.22,Varsity Program,Aurora,Varsity
-645,75,St. Edward,IL,4A,IHSA 1A,1-8,1,8,0,9,29.2,29.2,-20.81,51.0,645,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,28.96,3.0,3.0,3.0,Varsity Program,Elgin,Varsity
-646,78,Litchfield/Mt. Olive,IL,6A,IHSA 6A,0-9,0,9,0,9,29.2,29.2,-20.81,47.6,646,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,16.66,0.0,0.0,0.0,Varsity Program,Litchfield,Varsity
-647,82,Hansberry,IL,3A,IHSA 6A,3-6,3,6,0,9,29.1,29.1,-20.95,32.8,647,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,44.81,64.0,64.0,64.0,Varsity Program,Chicago,Varsity
-648,73,Herrin,IL,5A,IHSA 1A,0-9,0,9,0,9,29.1,29.1,-20.95,53.2,648,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,18.62,68.0,68.0,68.0,Varsity Program,IL,Varsity
-649,83,Monmouth United,IL,3A,IHSA 3A,1-8,1,8,0,9,28.9,28.9,-21.1,45.5,649,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,27.04,3.89,7.22,1.11,Varsity Program,Monmouth,Varsity
-650,80,Steinmetz College Prep,IL,2A,IHSA 2A,4-5,4,5,0,9,28.3,28.3,-21.67,29.4,650,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,54.73,15.56,28.89,4.44,Varsity Program,Chicago,Varsity
-651,84,Uplift,IL,3A,IHSA Conference,1-7,1,7,0,8,28.3,28.3,-21.74,32.2,651,13.5,33.8,13.5,33.8,-20.3,35.3,36.3,23.77,57.0,57.0,57.0,Varsity Program,Chicago,Varsity
-652,74,East Alton-Wood River,IL,5A,IHSA 2A,0-9,0,9,0,9,28.0,28.0,-21.96,54.4,652,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,19.04,78.0,78.0,78.0,Varsity Program,Wood River,Varsity
-653,79,Clinton,IL,7A,IHSA 7A,0-9,0,9,0,9,27.6,27.6,-22.39,54.0,653,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,18.9,0.0,0.0,0.0,Varsity Program,IL,Varsity
-654,79,Hoopeston/Armstrong,IL,6A,IHSA 6A,1-8,1,8,0,9,26.8,26.8,-23.18,42.6,654,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.02,3.89,7.22,1.11,Varsity Program,Hoopeston,Varsity
-655,75,Johnson,IL,5A,IHSA 5A,0-9,0,9,0,9,26.8,26.8,-23.18,52.1,655,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,18.23,0.0,0.0,0.0,Varsity Program,Chicago,Varsity
-656,76,Arcola,IL,4A,IHSA 6A,1-7,1,7,0,8,26.7,26.7,-23.33,47.0,656,13.5,33.8,13.5,33.8,-20.3,35.3,36.3,28.95,56.0,56.0,56.0,Varsity Program,IL,Varsity
-657,85,Christian Fenger Academy,IL,3A,IHSA 3A,3-6,3,6,0,9,26.6,26.6,-23.4,32.2,657,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,44.6,11.67,21.67,3.33,Varsity Program,Chicago,Varsity
-658,82,Granite City,IL,8A,IHSA 3A,0-9,0,9,0,9,26.5,26.5,-23.47,50.6,658,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,17.71,64.0,64.0,64.0,Varsity Program,IL,Varsity
-659,103,Bushnell-Prairie City,IL,1A,IHSA 1A,1-8,1,8,0,9,26.5,26.5,-23.49,42.6,659,21.8,57.4,21.8,57.4,-35.6,46.9,25.0,26.02,3.89,7.22,1.11,Varsity Program,Bushnell,Spartans
-660,104,West Prairie/Southeastern,IL,1A,IHSA 1A,1-8,1,8,0,9,26.5,26.5,-23.49,42.6,660,14.4,44.1,14.4,44.1,-29.7,36.6,25.0,26.02,3.89,7.22,1.11,Varsity Program,Sciota,Southeastern
-661,83,Chicago Academy/Disney II,IL,8A,IHSA 8A,5-4,5,4,0,9,26.2,26.2,-23.76,25.0,661,25.6,22.6,25.6,22.6,3.0,52.2,52.0,64.31,19.44,36.11,5.56,Varsity Program,Chicago,Varsity
-662,105,Chicago Vocational,IL,1A,IHSA 1A,2-6,2,6,0,8,26.2,26.2,-23.76,38.3,662,17.0,30.5,17.0,30.5,-13.5,40.2,40.9,38.41,8.75,16.25,2.5,Varsity Program,Chicago,Varsity
-663,77,Kewanee,IL,4A,IHSA Conference,0-9,0,9,0,9,26.2,26.2,-23.76,50.0,663,12.0,53.8,12.0,53.8,-41.8,33.2,25.0,17.5,69.0,69.0,69.0,Varsity Program,Kewanee,Boilermakers
-664,80,Orr,IL,7A,IHSA 7A,3-6,3,6,0,9,25.6,25.6,-24.41,32.6,664,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,44.74,11.67,21.67,3.33,Varsity Program,Chicago,Varsity
-665,80,Iroquois West,IL,6A,IHSA 6A,1-8,1,8,0,9,25.5,25.5,-24.48,42.8,665,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.09,3.89,7.22,1.11,Varsity Program,Gilman,Varsity
-666,106,Anna-Jonesboro,IL,1A,IHSA 3A,0-9,0,9,0,9,24.9,24.9,-25.13,50.0,666,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,17.5,15.0,15.0,15.0,Varsity Program,Anna,Varsity
-667,78,Elmwood Park,IL,4A,IHSA 3A,0-9,0,9,0,9,24.8,24.8,-25.2,50.6,667,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,17.71,11.0,11.0,11.0,Varsity Program,IL,Varsity
-668,86,Walther Christian Academy,IL,3A,IHSA 3A,3-6,3,6,0,9,24.4,24.4,-25.56,35.9,668,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,45.9,11.67,21.67,3.33,Varsity Program,Melrose Park,Varsity
-669,79,Watseka,IL,4A,IHSA Conference,1-8,1,8,0,9,24.1,24.1,-25.85,43.0,669,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,26.16,61.0,61.0,61.0,Varsity Program,Chicago,Varsity
-670,81,Astoria South Fulton,IL,2A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,670,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,68.0,68.0,68.0,Varsity Program,Chicago,Varsity
-671,82,Athens IL,IL,2A,IHSA Conference,0-8,0,8,0,8,23.9,23.9,-26.15,41.0,671,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,54.0,54.0,54.0,Varsity Program,Chicago,Varsity
-672,80,Auburn IL,IL,4A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,672,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,70.0,70.0,70.0,Varsity Program,Chicago,Varsity
-673,87,Baker,IL,3A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,673,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,78.0,78.0,78.0,Varsity Program,Chicago,Varsity
-674,107,Beecher,IL,1A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,674,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,61.0,61.0,61.0,Varsity Program,Chicago,Varsity
-675,76,Breese Mater Dei,IL,5A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,675,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,79.0,79.0,79.0,Varsity Program,Breese,Varsity
-676,88,Catalyst Maria,IL,3A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,676,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,63.0,63.0,63.0,Varsity Program,Chicago,Varsity
-677,108,Catlin,IL,1A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,677,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,72.0,72.0,72.0,Varsity Program,Chicago,Varsity
-678,89,Cerro Gordo,IL,3A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,678,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,72.0,72.0,72.0,Varsity Program,Chicago,Varsity
-679,77,Chillicothe IVC,IL,5A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,679,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,68.0,68.0,68.0,Varsity Program,Chicago,Varsity
-680,109,Chrisman,IL,1A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,680,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,75.0,75.0,75.0,Varsity Program,Chicago,Varsity
-681,110,Cissna Park,IL,1A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,681,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,71.0,71.0,71.0,Varsity Program,Chicago,Varsity
-682,111,Clifton,IL,1A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,682,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,68.0,68.0,68.0,Varsity Program,Chicago,Varsity
-683,112,Crete Illinois Lutheran,IL,1A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,683,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,62.0,62.0,62.0,Varsity Program,Chicago,Varsity
-684,83,Cuba North Fulton,IL,2A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,684,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,64.0,64.0,64.0,Varsity Program,Chicago,Varsity
-685,81,Decatur MacArthur,IL,7A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,685,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,70.0,70.0,70.0,Varsity Program,Decatur,Varsity
-686,113,Donovan,IL,1A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,686,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,68.0,68.0,68.0,Varsity Program,Chicago,Varsity
-687,81,Fairbury Prairie Central,IL,4A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,687,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,69.0,69.0,69.0,Varsity Program,Chicago,Varsity
-688,114,Fithian Oakwood,IL,1A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,688,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,73.0,73.0,73.0,Varsity Program,Chicago,Varsity
-689,90,Georgetown-Ridge Farm,IL,3A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,689,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,77.0,77.0,77.0,Varsity Program,Chicago,Varsity
-690,115,Grant Park,IL,1A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,690,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,66.0,66.0,66.0,Varsity Program,Chicago,Varsity
-691,84,Hardin Calhoun,IL,2A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,691,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,72.0,72.0,72.0,Varsity Program,Chicago,Varsity
-692,91,Hoopeston,IL,3A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,692,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,74.0,74.0,74.0,Varsity Program,Chicago,Varsity
-693,116,Hoopeston Area,IL,1A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,693,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,73.0,73.0,73.0,Varsity Program,Chicago,Varsity
-694,117,Hume Shiloh,IL,1A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,694,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,67.0,67.0,67.0,Varsity Program,Chicago,Varsity
-695,92,ITW Speer,IL,3A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,695,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,68.0,68.0,68.0,Varsity Program,Chicago,Varsity
-696,85,Lewistown,IL,2A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,696,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,66.0,66.0,66.0,Varsity Program,Chicago,Varsity
-697,93,Macon Meridian,IL,3A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,697,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,64.0,64.0,64.0,Varsity Program,Chicago,Varsity
-698,86,Manito Midwest Central,IL,2A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,698,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,58.0,58.0,58.0,Varsity Program,Chicago,Varsity
-699,87,Mendon Unity,IL,2A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,699,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,73.0,73.0,73.0,Varsity Program,Chicago,Varsity
-700,94,Mount Pulaski,IL,3A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,700,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,59.0,59.0,59.0,Varsity Program,Chicago,Varsity
-701,88,Mt. Olive,IL,2A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,701,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,62.0,62.0,62.0,Varsity Program,Chicago,Varsity
-702,89,Mt. Sterling Brown County,IL,2A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,702,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,70.0,70.0,70.0,Varsity Program,Chicago,Varsity
-703,95,Muchin,IL,3A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,703,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,71.0,71.0,71.0,Varsity Program,Chicago,Varsity
-704,82,New Berlin,IL,4A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,704,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,72.0,72.0,72.0,Varsity Program,Chicago,Varsity
-705,78,Olney Richland County,IL,5A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,705,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,78.0,78.0,78.0,Varsity Program,Chicago,Varsity
-706,83,PORTA,IL,4A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,706,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,66.0,66.0,66.0,Varsity Program,Chicago,Varsity
-707,118,Paxton,IL,1A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,707,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,70.0,70.0,70.0,Varsity Program,Chicago,Varsity
-708,90,Petersburg PORTA,IL,2A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,708,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,54.0,54.0,54.0,Varsity Program,Chicago,Varsity
-709,91,Pleasant Hill,IL,2A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,709,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,77.0,77.0,77.0,Varsity Program,Chicago,Varsity
-710,96,Sangamon Valley,IL,3A,IHSA Conference,0-8,0,8,0,8,23.9,23.9,-26.15,41.0,710,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,49.0,49.0,49.0,Varsity Program,Chicago,Varsity
-711,119,Sidell Jamaica,IL,1A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,711,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,73.0,73.0,73.0,Varsity Program,Chicago,Varsity
-712,84,St. Ignatius,IL,8A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,712,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,80.0,80.0,80.0,Varsity Program,Chicago,Varsity
-713,97,St. Joe-Ogden,IL,3A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,713,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,76.0,76.0,76.0,Varsity Program,Chicago,Varsity
-714,79,Staunton,IL,5A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,714,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,73.0,73.0,73.0,Varsity Program,Chicago,Varsity
-715,82,United Township,IL,7A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,715,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,76.0,76.0,76.0,Varsity Program,Chicago,Varsity
-716,80,West Frankfort,IL,5A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,716,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,56.0,56.0,56.0,Varsity Program,Frankfort,Varsity
-717,92,White Hall,IL,2A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,717,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,73.0,73.0,73.0,Varsity Program,Chicago,Varsity
-718,93,Winchester West Central,IL,2A,IHSA Conference,0-9,0,9,0,9,23.9,23.9,-26.15,41.0,718,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,14.35,76.0,76.0,76.0,Varsity Program,Chicago,Varsity
-719,120,Tri-County [Kansas/Shiloh/Oakland],IL,1A,IHSA 1A,1-8,1,8,0,9,23.8,23.8,-26.21,47.4,719,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,27.7,3.89,7.22,1.11,Varsity Program,Kansas,Varsity
-720,85,Pritzker,IL,8A,IHSA 8A,3-6,3,6,0,9,23.6,23.6,-26.42,30.3,720,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,43.94,11.67,21.67,3.33,Varsity Program,Chicago,Varsity
-721,83,Chicago Military Academy,IL,7A,IHSA 7A,3-6,3,6,0,9,23.5,23.5,-26.5,29.3,721,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,43.59,11.67,21.67,3.33,Varsity Program,Chicago,Varsity
-722,121,Hutsonville/Palestine,IL,1A,IHSA 1A,0-8,0,8,0,8,23.4,23.4,-26.6,41.0,722,11.0,43.6,11.0,43.6,-32.6,31.8,25.0,14.35,0.0,0.0,0.0,Varsity Program,Palestine,Tigers
-723,94,Dunbar,IL,2A,IHSA 2A,2-7,2,7,0,9,22.7,22.7,-27.29,32.5,723,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,33.6,7.78,14.44,2.22,Varsity Program,Chicago,Varsity
-724,122,Solorio,IL,1A,IHSA 1A,2-7,2,7,0,9,21.5,21.5,-28.51,33.8,724,16.2,31.2,16.2,31.2,-15.0,39.1,39.9,34.05,7.78,14.44,2.22,Varsity Program,Chicago,Varsity
-725,86,Rowe-Clark,IL,8A,IHSA 8A,1-8,1,8,0,9,21.0,21.0,-29.02,33.8,725,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,22.94,3.89,7.22,1.11,Varsity Program,Chicago,Varsity
-726,87,Maine East,IL,8A,IHSA 2A,0-9,0,9,0,9,19.7,19.7,-30.31,44.4,726,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,15.54,3.0,3.0,3.0,Varsity Program,Park Ridge,Varsity
-727,81,Lewistown/Cuba/Spoon River Valley,IL,6A,IHSA 6A,0-9,0,9,0,9,18.6,18.6,-31.39,43.9,727,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,15.36,0.0,0.0,0.0,Varsity Program,Lewistown,Varsity
-728,81,Back of the Yards College Prep,IL,5A,IHSA 5A,3-5,3,5,0,8,16.9,16.9,-33.12,25.0,728,20.5,27.2,20.5,27.2,-6.7,45.1,45.5,46.25,13.12,24.38,3.75,Varsity Program,Chicago,Varsity
-729,84,Little Village,IL,4A,IHSA 4A,4-3,4,3,0,7,16.7,16.7,-33.26,25.0,729,26.0,22.1,26.0,22.1,3.9,52.8,52.7,65.89,20.0,37.14,5.71,Varsity Program,Chicago,Varsity
-730,98,DuSable/Tilden/Air Force Academy,IL,3A,IHSA 3A,5-2,5,2,0,7,14.0,14.0,-36.0,25.0,730,30.0,18.4,30.0,18.4,11.6,58.4,57.8,80.18,25.0,46.43,7.14,Varsity Program,Chicago,Varsity
-731,88,Kelly,IL,8A,IHSA 8A,4-4,4,4,0,8,14.0,14.0,-36.0,25.0,731,24.0,24.0,24.0,24.0,0.0,50.0,50.0,58.75,17.5,32.5,5.0,Varsity Program,Chicago,Varsity
-732,84,DRW College Prep,IL,7A,IHSA 7A,2-4,2,4,0,6,14.0,14.0,-36.0,25.0,732,19.3,28.3,19.3,28.3,-9.0,43.4,44.0,42.08,11.67,21.67,3.33,Varsity Program,Chicago,Varsity
-733,99,Golder,IL,3A,IHSA Conference,2-6,2,6,0,8,14.0,14.0,-36.0,25.0,733,17.0,30.5,17.0,30.5,-13.5,40.2,40.9,33.75,78.0,78.0,78.0,Varsity Program,Chicago,Varsity
-734,82,Chicago Washington,IL,6A,IHSA 6A,1-6,1,6,0,7,14.0,14.0,-36.0,25.0,734,14.0,33.3,14.0,33.3,-19.3,36.0,37.0,23.04,5.0,9.29,1.43,Varsity Program,Chicago,Varsity
-735,100,Gage Park,IL,3A,IHSA 3A,1-7,1,7,0,8,14.0,14.0,-36.0,25.0,735,13.5,33.8,13.5,33.8,-20.3,35.3,36.3,21.25,50.0,50.0,50.0,Varsity Program,Chicago,Varsity
-736,123,Marine Leadership Academy,IL,1A,IHSA 1A,1-8,1,8,0,9,14.0,14.0,-36.0,25.0,736,13.1,34.1,13.1,34.1,-21.0,34.7,35.9,19.86,3.89,7.22,1.11,Varsity Program,Chicago,Varsity
-737,85,Westmont,IL,4A,IHSA 3A,1-5,1,5,0,6,14.0,14.0,-36.0,25.0,737,14.7,32.7,14.7,32.7,-18.0,37.0,37.8,25.42,10.0,10.0,10.0,Varsity Program,IL,Varsity
-738,95,Harlan,IL,2A,IHSA 2A,0-7,0,7,0,7,14.0,14.0,-36.0,33.0,738,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,11.55,0.0,0.0,0.0,Varsity Program,Chicago,Varsity
+rank,division_rank,team,state,division,conference,city,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_raw,sos_rank,ppg_off,ppg_def,net_margin,harbin_avg,ppa,pqs,contender_tier
+1,1,Lincoln-Way East,IL,8A,IHSA 8A,Frankfort,11-0,11,0,0,11,102.0,102.0,52.0,61.0,10.99,9,35.2,8.4,26.8,95.4,95.4,95.4,State Title Contender
+2,1,Brother Rice,IL,7A,IHSA 7A,Chicago,9-2,9,2,0,11,101.8,101.8,51.78,63.9,13.94,3,45.2,11.8,33.4,87.3,87.3,87.3,State Title Contender
+3,2,Chicago Mt. Carmel,IL,8A,IHSA 8A,Chicago,9-2,9,2,0,11,99.5,99.5,49.54,66.4,16.44,1,43.6,21.0,22.6,86.29,86.29,86.29,State Title Contender
+4,3,Loyola Academy,IL,8A,IHSA 8A,Wilmette,10-1,10,1,0,11,98.1,98.1,48.08,64.4,14.36,2,36.2,12.1,24.1,89.64,89.64,89.64,State Title Contender
+5,2,East St. Louis,IL,7A,IHSA 7A,East St Louis,10-1,10,1,0,11,96.9,96.9,46.88,57.6,7.56,25,49.6,9.0,40.6,89.1,89.1,89.1,State Title Contender
+6,1,Geneva,IL,6A,IHSA 6A,Geneva,9-2,9,2,0,11,88.6,88.6,38.58,60.8,10.82,10,43.6,27.6,16.0,81.36,81.36,81.36,State Title Contender
+7,2,Fenwick,IL,6A,IHSA 6A,Oak Park,8-3,8,3,0,11,87.1,87.1,37.12,60.7,10.67,11,32.0,19.0,13.0,76.7,76.7,76.7,State Title Contender
+8,3,Batavia,IL,7A,IHSA 7A,Batavia,8-3,8,3,0,11,85.9,85.9,35.87,63.3,13.26,4,34.4,30.3,4.1,76.14,76.14,76.14,State Title Contender
+9,4,Wheaton-Warrenville South,IL,7A,IHSA 7A,Wheaton,8-3,8,3,0,11,85.7,85.7,35.74,60.5,10.51,13,28.3,13.6,14.7,76.08,76.08,76.08,State Title Contender
+10,5,Hersey,IL,7A,IHSA 7A,Arlington Heights,11-0,11,0,0,11,84.9,84.9,34.93,55.3,5.31,39,41.2,12.2,29.0,87.72,87.72,87.72,Regional Contender
+11,1,Nazareth Academy,IL,5A,IHSA 5A,LaGrange Park,7-5,7,5,0,12,83.7,83.7,33.72,61.4,11.36,8,30.2,15.9,14.3,68.84,68.84,68.84,Regional Contender
+12,6,St. Rita,IL,7A,IHSA 7A,Chicago,7-4,7,4,0,11,83.2,83.2,33.2,63.3,13.33,5,27.1,24.6,2.5,70.94,70.94,70.94,Regional Contender
+13,2,St. Francis,IL,5A,IHSA 5A,Wheaton,7-5,7,5,0,12,81.9,81.9,31.9,58.5,8.49,20,34.2,19.0,15.2,68.02,68.02,68.02,Regional Contender
+14,1,Morris,IL,4A,IHSA 4A,Morris,11-0,11,0,0,11,81.5,81.5,31.53,55.9,5.9,36,47.0,9.1,37.9,86.19,86.19,86.19,Regional Contender
+15,4,Marist,IL,8A,IHSA 8A,Chicago,6-5,6,5,0,11,80.2,80.2,30.17,63.0,12.96,6,28.8,29.7,-0.9,65.58,65.58,65.58,Regional Contender
+16,5,Sandburg,IL,8A,IHSA 8A,Orland Park,7-3,7,3,0,10,80.1,80.1,30.09,58.9,8.9,18,28.2,19.0,9.2,72.34,72.34,72.34,Regional Contender
+17,3,Joliet Catholic,IL,5A,IHSA 5A,Joliet,6-5,6,5,0,11,79.6,79.6,29.63,61.8,11.81,7,20.7,17.7,3.0,65.33,65.33,65.33,Regional Contender
+18,7,Downers Grove North,IL,7A,IHSA 7A,Downers Grove,10-1,10,1,0,11,79.6,79.6,29.59,55.9,5.92,37,33.1,7.5,25.6,81.32,81.32,81.32,Regional Contender
+19,6,Oswego,IL,8A,IHSA 8A,Oswego,10-1,10,1,0,11,79.4,79.4,29.42,57.4,7.37,27,35.7,18.5,17.2,81.24,81.24,81.24,Regional Contender
+20,2,Montini Catholic,IL,4A,IHSA 4A,Lombard,8-3,8,3,0,11,78.4,78.4,28.38,57.0,7.02,32,34.5,24.8,9.7,72.77,72.77,72.77,Regional Contender
+21,7,Lyons,IL,8A,IHSA 8A,LaGrange,8-4,8,4,0,12,77.9,77.9,27.94,57.1,7.14,31,29.0,16.5,12.5,69.91,69.91,69.91,Regional Contender
+22,8,Barrington,IL,8A,IHSA 8A,Barrington,7-5,7,5,0,12,77.6,77.6,27.64,59.6,9.57,16,27.3,19.2,8.1,66.1,66.1,66.1,Regional Contender
+23,1,Byron,IL,3A,IHSA 3A,Byron,11-0,11,0,0,11,77.3,77.3,27.35,47.9,-2.09,182,50.4,5.9,44.5,84.31,84.31,84.31,Regional Contender
+24,9,Naperville North,IL,8A,IHSA 8A,Naperville,8-3,8,3,0,11,76.9,76.9,26.94,58.6,8.64,19,24.6,18.6,6.0,72.12,72.12,72.12,Regional Contender
+25,8,Lincoln-Way Central,IL,7A,IHSA 7A,New Lenox,6-5,6,5,0,11,76.6,76.6,26.63,59.5,9.47,17,24.3,21.4,2.9,63.98,63.98,63.98,Regional Contender
+26,10,York,IL,8A,IHSA 8A,Elmhurst,8-4,8,4,0,12,76.6,76.6,26.56,58.1,8.12,22,23.5,19.8,3.7,69.29,69.29,69.29,Regional Contender
+27,3,Rochester,IL,4A,IHSA 4A,Rochester,10-1,10,1,0,11,76.4,76.4,26.38,53.4,3.4,61,47.7,17.3,30.4,79.87,79.87,79.87,Regional Contender
+28,9,St. Charles North,IL,7A,IHSA 7A,St. Charles,6-5,6,5,0,11,76.1,76.1,26.1,60.0,10.01,15,30.1,29.3,0.8,63.75,63.75,63.75,Regional Contender
+29,1,El Paso-Gridley,IL,2A,IHSA 2A,El Paso,11-0,11,0,0,11,75.1,75.1,25.08,49.5,-0.5,144,38.3,7.4,30.9,83.29,83.29,83.29,Regional Contender
+30,4,Coal City,IL,4A,IHSA 4A,Coal City,10-1,10,1,0,11,75.0,75.0,24.98,53.1,3.07,68,41.6,8.0,33.6,79.24,79.24,79.24,Regional Contender
+31,10,Prospect,IL,7A,IHSA 7A,Mt. Prospect,10-1,10,1,0,11,74.2,74.2,24.16,54.5,4.48,46,45.9,15.2,30.7,78.87,78.87,78.87,Regional Contender
+32,2,St. Joseph-Ogden,IL,3A,IHSA 3A,St. Joseph,11-0,11,0,0,11,73.5,73.5,23.46,52.7,2.74,74,53.9,22.5,31.4,82.56,82.56,82.56,Regional Contender
+33,5,Richmond-Burton,IL,4A,IHSA 4A,Richmond,11-0,11,0,0,11,73.1,73.1,23.07,49.4,-0.57,147,46.5,10.3,36.2,82.38,82.38,82.38,Regional Contender
+34,4,Sacred Heart-Griffin,IL,5A,IHSA 5A,Springfield,10-1,10,1,0,11,72.7,72.7,22.68,52.7,2.68,75,42.4,14.0,28.4,78.21,78.21,78.21,Regional Contender
+35,11,Huntley,IL,8A,IHSA 8A,Huntley,11-0,11,0,0,11,72.3,72.3,22.34,51.2,1.2,99,47.4,7.5,39.9,82.05,82.05,82.05,Regional Contender
+36,2,Wilmington,IL,2A,IHSA 2A,Wilmington,10-1,10,1,0,11,72.1,72.1,22.14,51.0,0.95,103,39.2,12.5,26.7,77.96,77.96,77.96,Regional Contender
+37,5,Mahomet-Seymour,IL,5A,IHSA 5A,Mahomet,11-0,11,0,0,11,72.1,72.1,22.06,48.8,-1.18,162,45.5,13.2,32.3,81.93,81.93,81.93,Regional Contender
+38,6,Morgan Park,IL,5A,IHSA 5A,Chicago,9-2,9,2,0,11,71.7,71.7,21.73,54.4,4.44,49,34.4,15.2,19.2,73.78,73.78,73.78,Regional Contender
+39,12,Maine South,IL,8A,IHSA 8A,Park Ridge,9-2,9,2,0,11,71.5,71.5,21.48,54.0,4.01,54,42.9,21.4,21.5,73.67,73.67,73.67,Regional Contender
+40,13,New Trier,IL,8A,IHSA 8A,Winnetka,10-1,10,1,0,11,71.0,71.0,21.05,53.2,3.24,65,40.6,12.7,27.9,77.47,77.47,77.47,Regional Contender
+41,14,Naperville Central,IL,8A,IHSA 8A,Naperville,6-5,6,5,0,11,70.1,70.1,20.07,58.5,8.45,21,20.9,23.0,-2.1,61.03,61.03,61.03,Regional Contender
+42,1,Stockton,IL,1A,IHSA 1A,Stockton,10-1,10,1,0,11,69.8,69.8,19.78,52.5,2.54,77,34.9,12.8,22.1,76.9,76.9,76.9,Playoff Qualifier
+43,3,Kankakee,IL,6A,IHSA 6A,Kankakee,7-3,7,3,0,10,69.7,69.7,19.73,54.1,4.06,53,32.7,13.3,19.4,67.68,67.68,67.68,Playoff Qualifier
+44,11,Harlem,IL,7A,IHSA 7A,Machesney Park,11-0,11,0,0,11,69.3,69.3,19.32,49.2,-0.8,154,35.8,10.1,25.7,80.69,80.69,80.69,Playoff Qualifier
+45,2,Heyworth,IL,1A,IHSA 1A,Heyworth,11-0,11,0,0,11,68.8,68.8,18.8,46.9,-3.12,204,41.2,7.8,33.4,80.46,80.46,80.46,Playoff Qualifier
+46,3,Brown County,IL,1A,IHSA 1A,Mt. Sterling,11-0,11,0,0,11,68.3,68.3,18.31,44.4,-5.62,239,49.0,9.0,40.0,80.24,80.24,80.24,Playoff Qualifier
+47,4,Calhoun/Brussels,IL,1A,IHSA 1A,Hardin,10-1,10,1,0,11,68.3,68.3,18.3,45.9,-4.15,218,44.1,5.6,38.5,76.23,76.23,76.23,Playoff Qualifier
+48,12,Normal Community,IL,7A,IHSA 7A,Normal,11-0,11,0,0,11,67.8,67.8,17.75,48.0,-1.97,178,46.1,19.0,27.1,79.99,79.99,79.99,Playoff Qualifier
+49,3,Tri-Valley,IL,2A,IHSA 2A,Downs,9-2,9,2,0,11,67.5,67.5,17.48,52.0,1.96,86,40.9,16.6,24.3,71.87,71.87,71.87,Playoff Qualifier
+50,6,Centralia,IL,4A,IHSA 4A,Centralia,11-0,11,0,0,11,67.0,67.0,17.05,49.2,-0.79,155,44.6,13.9,30.7,79.67,79.67,79.67,Playoff Qualifier
+51,7,DePaul College Prep,IL,4A,IHSA 4A,Chicago,4-7,4,7,0,11,66.6,66.6,16.64,60.7,10.74,12,18.7,29.2,-10.5,51.49,51.49,51.49,Varsity Program
+52,13,Lincoln-Way West,IL,7A,IHSA 7A,New Lenox,8-4,8,4,0,12,66.1,66.1,16.07,58.0,8.05,23,21.4,15.1,6.3,64.56,64.56,64.56,Playoff Qualifier
+53,3,Tolono Unity,IL,3A,IHSA 3A,Tolono,9-3,9,3,0,12,66.0,66.0,16.02,53.2,3.25,66,37.9,19.7,18.2,68.21,68.21,68.21,Playoff Qualifier
+54,4,St. Laurence,IL,6A,IHSA 6A,Burbank,5-7,5,7,0,12,66.0,66.0,16.0,57.4,7.39,28,19.9,19.4,0.5,53.53,53.53,53.53,Varsity Program
+55,8,Cahokia,IL,4A,IHSA 4A,Cahokia,8-4,8,4,0,12,66.0,66.0,15.97,56.3,6.32,34,32.8,20.4,12.4,64.52,64.52,64.52,Playoff Qualifier
+56,15,Fremd,IL,8A,IHSA 8A,Palatine,7-4,7,4,0,11,65.9,65.9,15.92,55.2,5.24,40,27.8,17.0,10.8,63.16,63.16,63.16,Playoff Qualifier
+57,14,Kenwood,IL,7A,IHSA 7A,Chicago,7-4,7,4,0,11,65.5,65.5,15.53,54.4,4.4,50,39.0,17.2,21.8,62.99,62.99,62.99,Playoff Qualifier
+58,5,Kaneland,IL,6A,IHSA 6A,Maple Park,8-2,8,2,0,10,64.1,64.1,14.08,53.8,3.8,56,35.1,18.1,17.0,69.54,69.54,69.54,Playoff Qualifier
+59,16,Glenbrook South,IL,8A,IHSA 8A,Glenview,6-5,6,5,0,11,64.0,64.0,14.02,53.4,3.4,62,35.3,16.7,18.6,58.31,58.31,58.31,Playoff Qualifier
+60,5,Camp Point Central,IL,1A,IHSA 1A,Camp Point,10-1,10,1,0,11,63.9,63.9,13.9,44.3,-5.74,240,36.2,7.8,28.4,74.25,74.25,74.25,Playoff Qualifier
+61,6,Cary-Grove,IL,6A,IHSA 6A,Cary,9-2,9,2,0,11,63.9,63.9,13.88,51.8,1.79,89,41.0,18.6,22.4,70.25,70.25,70.25,Playoff Qualifier
+62,7,Crete-Monee,IL,6A,IHSA 6A,Crete,8-3,8,3,0,11,63.8,63.8,13.82,51.3,1.31,98,38.6,13.9,24.7,66.22,66.22,66.22,Playoff Qualifier
+63,17,Edwardsville,IL,8A,IHSA 8A,Edwardsville,5-6,5,6,0,11,63.1,63.1,13.09,56.0,6.0,35,23.7,17.7,6.0,53.89,53.89,53.89,Varsity Program
+64,9,Breese Central,IL,4A,IHSA 4A,Breese,8-2,8,2,0,10,63.0,63.0,12.99,49.5,-0.52,145,36.0,16.6,19.4,69.05,69.05,69.05,Playoff Qualifier
+65,4,Maroa-Forsyth,IL,2A,IHSA 2A,Maroa,9-2,9,2,0,11,62.4,62.4,12.38,47.7,-2.27,188,42.2,14.0,28.2,69.57,69.57,69.57,Playoff Qualifier
+66,5,Bloomington Central Catholic,IL,2A,IHSA 2A,Bloomington,7-3,7,3,0,10,62.2,62.2,12.25,53.7,3.67,59,32.2,22.6,9.6,64.31,64.31,64.31,Playoff Qualifier
+67,10,Carterville,IL,4A,IHSA 4A,Carterville,10-1,10,1,0,11,62.2,62.2,12.24,47.5,-2.47,191,44.7,19.5,25.2,73.51,73.51,73.51,Playoff Qualifier
+68,4,Monticello,IL,3A,IHSA 3A,Monticello,9-2,9,2,0,11,62.1,62.1,12.14,52.8,2.79,71,34.0,16.2,17.8,69.46,69.46,69.46,Playoff Qualifier
+69,8,Dunlap,IL,6A,IHSA 6A,Dunlap,8-2,8,2,0,10,62.1,62.1,12.07,51.5,1.46,95,33.7,20.7,13.0,68.63,68.63,68.63,Playoff Qualifier
+70,9,Antioch,IL,6A,IHSA 6A,Antioch,10-1,10,1,0,11,62.0,62.0,12.05,47.8,-2.21,185,42.6,18.3,24.3,73.42,73.42,73.42,Playoff Qualifier
+71,6,Aurora Christian,IL,1A,IHSA 1A,Aurora,10-1,10,1,0,11,62.0,62.0,12.01,51.0,0.97,104,33.9,14.6,19.3,73.4,73.4,73.4,Playoff Qualifier
+72,15,Hononegah,IL,7A,IHSA 7A,Rockton,9-2,9,2,0,11,62.0,62.0,11.96,49.7,-0.34,137,35.7,14.7,21.0,69.38,69.38,69.38,Playoff Qualifier
+73,10,Normal West,IL,6A,IHSA 6A,Normal,10-1,10,1,0,11,61.5,61.5,11.52,47.5,-2.54,192,45.3,19.1,26.2,73.18,73.18,73.18,Playoff Qualifier
+74,16,Yorkville,IL,7A,IHSA 7A,Yorkville,5-6,5,6,0,11,61.3,61.3,11.3,57.2,7.21,30,22.5,21.5,1.0,53.09,53.09,53.09,Varsity Program
+75,11,Libertyville,IL,6A,IHSA 6A,Libertyville,8-3,8,3,0,11,61.1,61.1,11.08,51.7,1.67,91,34.2,15.5,18.7,64.99,64.99,64.99,Playoff Qualifier
+76,7,Metamora,IL,5A,IHSA 5A,Metamora,8-4,8,4,0,12,60.7,60.7,10.73,53.8,3.77,57,29.2,19.8,9.4,62.16,62.16,62.16,Playoff Qualifier
+77,8,Rochelle,IL,5A,IHSA 5A,Rochelle,8-4,8,4,0,12,59.7,59.7,9.74,50.3,0.28,117,38.1,13.5,24.6,61.72,61.72,61.72,Playoff Qualifier
+78,6,Arthur-Lovington/Atwood-Hammond,IL,2A,IHSA 2A,Arthur,10-1,10,1,0,11,59.6,59.6,9.59,43.9,-6.08,245,46.8,13.9,32.9,72.32,72.32,72.32,Playoff Qualifier
+79,5,Frankfort,IL,3A,IHSA 3A,West Frankfort,10-1,10,1,0,11,59.1,59.1,9.15,48.5,-1.45,167,44.8,22.5,22.3,72.12,72.12,72.12,Playoff Qualifier
+80,9,Triad,IL,5A,IHSA 5A,Troy,9-2,9,2,0,11,59.1,59.1,9.09,50.2,0.16,122,33.2,21.5,11.7,68.09,68.09,68.09,Playoff Qualifier
+81,7,Lena-Winslow,IL,1A,IHSA 1A,Lena,7-4,7,4,0,11,58.2,58.2,8.25,52.7,2.73,76,27.8,18.9,8.9,59.71,59.71,59.71,Playoff Qualifier
+82,8,Clifton Central,IL,1A,IHSA 1A,Clifton,10-1,10,1,0,11,58.0,58.0,8.05,46.3,-3.68,212,37.2,12.9,24.3,71.62,71.62,71.62,Playoff Qualifier
+83,7,Johnston City,IL,2A,IHSA 2A,Johnston City,11-0,11,0,0,11,58.0,58.0,7.99,43.9,-6.06,246,36.5,8.3,28.2,75.6,75.6,75.6,Playoff Qualifier
+84,11,Wheaton Academy,IL,4A,IHSA 4A,West Chicago,7-3,7,3,0,10,57.9,57.9,7.87,51.7,1.66,92,31.9,17.6,14.3,62.34,62.34,62.34,Playoff Qualifier
+85,6,Nashville,IL,3A,IHSA 3A,Nashville,9-2,9,2,0,11,57.7,57.7,7.69,49.3,-0.71,149,41.3,22.5,18.8,67.46,67.46,67.46,Playoff Qualifier
+86,12,Richards,IL,6A,IHSA 6A,Oak Lawn,9-2,9,2,0,11,57.7,57.7,7.66,50.8,0.83,108,31.5,17.3,14.2,67.45,67.45,67.45,Playoff Qualifier
+87,7,Williamsville,IL,3A,IHSA 3A,Williamsville,10-1,10,1,0,11,57.5,57.5,7.54,48.0,-2.0,179,41.8,19.4,22.4,71.39,71.39,71.39,Playoff Qualifier
+88,17,Jacobs,IL,7A,IHSA 7A,Algonquin,8-2,8,2,0,10,57.2,57.2,7.23,52.3,2.29,79,29.9,19.6,10.3,66.45,66.45,66.45,Playoff Qualifier
+89,10,Jacksonville,IL,5A,IHSA 5A,Jacksonville,8-2,8,2,0,10,57.1,57.1,7.09,48.2,-1.84,172,40.0,22.9,17.1,66.39,66.39,66.39,Playoff Qualifier
+90,11,Sterling,IL,5A,IHSA 5A,Sterling,9-2,9,2,0,11,57.0,57.0,7.01,52.5,2.5,78,35.9,21.1,14.8,67.15,67.15,67.15,Playoff Qualifier
+91,8,Mt. Carmel,IL,3A,IHSA 3A,Mt Carmel,11-0,11,0,0,11,57.0,57.0,6.95,46.3,-3.67,213,38.4,16.8,21.6,75.13,75.13,75.13,Playoff Qualifier
+92,9,Peotone,IL,3A,IHSA 3A,Peotone,9-2,9,2,0,11,56.9,56.9,6.9,50.2,0.22,123,34.1,14.2,19.9,67.11,67.11,67.11,Playoff Qualifier
+93,10,Durand/Pecatonica,IL,3A,IHSA 3A,Durand,8-2,8,2,0,10,56.9,56.9,6.87,48.2,-1.8,173,31.5,16.1,15.4,66.29,66.29,66.29,Playoff Qualifier
+94,12,Geneseo,IL,4A,IHSA 4A,Geneseo,6-4,6,4,0,10,56.8,56.8,6.84,52.8,2.8,72,31.0,22.9,8.1,57.48,57.48,57.48,Playoff Qualifier
+95,12,Benet Academy,IL,5A,IHSA 5A,Lisle,2-8,2,8,0,10,56.7,56.7,6.7,60.3,10.26,14,21.5,36.2,-14.7,39.81,39.81,39.81,Varsity Program
+96,18,Guilford,IL,7A,IHSA 7A,Rockford,8-3,8,3,0,11,56.4,56.4,6.43,50.0,0.02,129,30.2,14.9,15.3,62.89,62.89,62.89,Playoff Qualifier
+97,13,Johnsburg,IL,4A,IHSA 4A,Johnsburg,8-3,8,3,0,11,56.3,56.3,6.31,50.2,0.25,124,30.0,17.2,12.8,62.84,62.84,62.84,Playoff Qualifier
+98,14,Macomb,IL,4A,IHSA 4A,Macomb,9-2,9,2,0,11,55.9,55.9,5.87,44.8,-5.23,232,40.5,15.3,25.2,66.64,66.64,66.64,Playoff Qualifier
+99,15,Mt. Zion,IL,4A,IHSA 4A,Mt Zion,8-3,8,3,0,11,55.9,55.9,5.85,49.5,-0.49,146,32.4,16.7,15.7,62.63,62.63,62.63,Playoff Qualifier
+100,19,Pekin,IL,7A,IHSA 7A,Pekin,7-4,7,4,0,11,55.7,55.7,5.71,52.2,2.19,83,32.0,19.7,12.3,58.57,58.57,58.57,Playoff Qualifier
+101,9,Tuscola,IL,1A,IHSA 1A,Tuscola,8-3,8,3,0,11,55.7,55.7,5.7,51.2,1.24,100,33.6,17.8,15.8,62.56,62.56,62.56,Playoff Qualifier
+102,13,Central,IL,6A,IHSA 6A,Burlington,8-4,8,4,0,12,55.4,55.4,5.43,51.8,1.82,90,23.1,14.4,8.7,59.78,59.78,59.78,Playoff Qualifier
+103,13,Highland,IL,5A,IHSA 5A,Highland,9-3,9,3,0,12,55.2,55.2,5.22,53.2,3.23,67,47.4,38.1,9.3,63.35,63.35,63.35,Playoff Qualifier
+104,8,Flora,IL,2A,IHSA 2A,Flora,10-1,10,1,0,11,55.0,55.0,5.03,44.2,-5.81,241,33.7,7.7,26.0,70.26,70.26,70.26,Playoff Qualifier
+105,14,Riverside-Brookfield,IL,6A,IHSA 6A,Riverside,9-2,9,2,0,11,54.8,54.8,4.84,48.3,-1.73,169,37.8,23.4,14.4,66.18,66.18,66.18,Playoff Qualifier
+106,11,Benton,IL,3A,IHSA 3A,Benton,9-2,9,2,0,11,54.8,54.8,4.79,48.2,-1.81,174,34.2,16.0,18.2,66.16,66.16,66.16,Playoff Qualifier
+107,10,Oakwood,IL,1A,IHSA 1A,Fithian,8-4,8,4,0,12,54.8,54.8,4.79,49.4,-0.65,148,38.8,17.3,21.5,59.49,59.49,59.49,Playoff Qualifier
+108,18,Minooka,IL,8A,IHSA 8A,Minooka,5-6,5,6,0,11,54.5,54.5,4.54,56.7,6.68,33,17.2,23.3,-6.1,50.04,50.04,50.04,Varsity Program
+109,15,Wauconda,IL,6A,IHSA 6A,Wauconda,9-2,9,2,0,11,54.5,54.5,4.48,47.4,-2.56,195,40.4,16.1,24.3,66.02,66.02,66.02,Playoff Qualifier
+110,14,Sycamore,IL,5A,IHSA 5A,Sycamore,8-4,8,4,0,12,54.4,54.4,4.41,54.5,4.46,47,27.8,21.3,6.5,59.32,59.32,59.32,Playoff Qualifier
+111,12,King,IL,3A,IHSA 3A,Chicago,8-3,8,3,0,11,54.2,54.2,4.17,52.8,2.81,73,25.0,20.8,4.2,61.88,61.88,61.88,Playoff Qualifier
+112,19,Belleville East,IL,8A,IHSA 8A,Belleville,5-5,5,5,0,10,54.0,54.0,4.04,55.1,5.11,41,23.0,25.3,-2.3,51.82,51.82,51.82,Playoff Qualifier
+113,20,Warren Township,IL,8A,IHSA 8A,Gurnee,4-6,4,6,0,10,53.9,53.9,3.92,53.7,3.67,60,24.2,21.1,3.1,47.36,47.36,47.36,Varsity Program
+114,16,Manteno,IL,4A,IHSA 4A,Manteno,8-4,8,4,0,12,53.8,53.8,3.84,51.9,1.94,88,34.1,22.3,11.8,59.06,59.06,59.06,Playoff Qualifier
+115,11,Chicago Hope Academy,IL,1A,IHSA 1A,Chicago,8-4,8,4,0,12,53.8,53.8,3.78,52.3,2.29,80,25.2,18.8,6.4,59.03,59.03,59.03,Playoff Qualifier
+116,20,Hoffman Estates,IL,7A,IHSA 7A,Hoffman Estates,5-5,5,5,0,10,53.7,53.7,3.73,55.8,5.79,38,18.0,20.9,-2.9,51.68,51.68,51.68,Playoff Qualifier
+117,16,Simeon,IL,6A,IHSA 6A,Chicago,6-6,6,6,0,12,53.4,53.4,3.43,55.0,4.97,42,25.1,24.6,0.5,51.54,51.54,51.54,Playoff Qualifier
+118,12,Galena,IL,1A,IHSA 1A,Galena,6-5,6,5,0,11,53.2,53.2,3.19,50.4,0.35,114,36.2,19.5,16.7,53.44,53.44,53.44,Playoff Qualifier
+119,9,Pearl City-Eastland,IL,2A,IHSA 2A,Pearl City,6-6,6,6,0,12,53.2,53.2,3.18,50.6,0.64,111,26.9,16.1,10.8,51.43,51.43,51.43,Playoff Qualifier
+120,21,Moline,IL,7A,IHSA 7A,Moline,7-4,7,4,0,11,53.1,53.1,3.13,54.4,4.35,51,23.5,30.6,-7.1,57.41,57.41,57.41,Playoff Qualifier
+121,21,Downers Grove South,IL,8A,IHSA 8A,Downers Grove,7-3,7,3,0,10,53.0,53.0,2.98,52.3,2.33,81,30.5,25.6,4.9,60.14,60.14,60.14,Playoff Qualifier
+122,22,Palatine,IL,8A,IHSA 8A,Palatine,4-6,4,6,0,10,52.7,52.7,2.74,54.6,4.57,45,19.5,24.2,-4.7,46.83,46.83,46.83,Varsity Program
+123,22,Bradley-Bourbonnais,IL,7A,IHSA 7A,Bradley,4-6,4,6,0,10,52.6,52.6,2.62,57.5,7.46,26,20.6,30.5,-9.9,46.78,46.78,46.78,Varsity Program
+124,13,Greenfield/Northwestern,IL,1A,IHSA 1A,Greenfield,7-3,7,3,0,10,52.4,52.4,2.4,44.8,-5.16,233,27.1,11.4,15.7,59.88,59.88,59.88,Playoff Qualifier
+125,17,Glenwood,IL,6A,IHSA 6A,Chatham,6-5,6,5,0,11,52.1,52.1,2.12,51.6,1.64,94,36.1,28.1,8.0,52.95,52.95,52.95,Playoff Qualifier
+126,17,Freeburg,IL,4A,IHSA 4A,Freeburg,7-3,7,3,0,10,51.9,51.9,1.9,49.3,-0.7,150,32.2,21.5,10.7,59.65,59.65,59.65,Playoff Qualifier
+127,13,Olympia,IL,3A,IHSA 3A,Stanford,8-3,8,3,0,11,51.6,51.6,1.62,48.0,-2.03,180,37.5,22.9,14.6,60.73,60.73,60.73,Playoff Qualifier
+128,14,Marquette,IL,1A,IHSA 1A,Ottawa,7-4,7,4,0,11,51.4,51.4,1.4,49.9,-0.1,133,31.1,25.3,5.8,56.63,56.63,56.63,Playoff Qualifier
+129,15,Goode STEM Academy,IL,5A,IHSA 5A,Chicago,6-3,6,3,0,9,51.3,51.3,1.34,47.1,-2.92,200,41.0,23.6,17.4,57.94,57.94,57.94,Playoff Qualifier
+130,23,Plainfield South,IL,8A,IHSA 8A,Plainfield,8-2,8,2,0,10,51.1,51.1,1.08,50.0,0.04,130,30.6,21.3,9.3,63.69,63.69,63.69,Playoff Qualifier
+131,18,Lemont,IL,6A,IHSA 6A,Lemont,6-5,6,5,0,11,50.0,50.0,0.0,52.3,2.29,82,29.0,19.5,9.5,52.0,52.0,52.0,Playoff Qualifier
+132,23,Quincy,IL,7A,IHSA 7A,Quincy,9-3,9,3,0,12,49.6,49.6,-0.36,49.6,-0.43,141,43.4,29.1,14.3,61.0,61.0,61.0,Playoff Qualifier
+133,18,Dixon,IL,4A,IHSA 4A,Dixon,8-4,8,4,0,12,49.5,49.5,-0.53,49.8,-0.22,134,24.0,18.9,5.1,57.33,57.33,57.33,Playoff Qualifier
+134,19,Washington,IL,6A,IHSA 6A,Washington,4-7,4,7,0,11,48.9,48.9,-1.07,54.0,3.95,55,25.5,26.5,-1.0,44.0,44.0,44.0,Varsity Program
+135,10,Warrensburg-Latham,IL,2A,IHSA 2A,Warrensburg,8-4,8,4,0,12,48.7,48.7,-1.27,50.9,0.86,106,24.1,21.4,2.7,57.33,57.33,57.33,Playoff Qualifier
+136,14,Prairie Central,IL,3A,IHSA 3A,Fairbury,5-6,5,6,0,11,48.5,48.5,-1.47,54.5,4.51,48,24.6,29.6,-5.0,48.0,48.0,48.0,Varsity Program
+137,24,West Aurora,IL,8A,IHSA 8A,Aurora,7-4,7,4,0,11,48.5,48.5,-1.48,48.1,-1.92,175,36.4,22.0,14.4,56.0,56.0,56.0,Playoff Qualifier
+138,11,Rockridge,IL,2A,IHSA 2A,Taylor Ridge,8-2,8,2,0,10,48.1,48.1,-1.93,47.6,-2.39,189,21.1,16.7,4.4,63.2,63.2,63.2,Playoff Qualifier
+139,12,Quincy Notre Dame,IL,2A,IHSA 2A,Quincy,4-6,4,6,0,10,47.7,47.7,-2.28,51.7,1.68,93,24.8,22.0,2.8,45.6,45.6,45.6,Varsity Program
+140,15,Althoff Catholic,IL,1A,IHSA 1A,Belleville,7-4,7,4,0,11,47.5,47.5,-2.48,50.3,0.3,118,34.5,37.1,-2.6,56.0,56.0,56.0,Playoff Qualifier
+141,20,Oak Forest,IL,6A,IHSA 6A,Oak Forest,6-5,6,5,0,11,47.4,47.4,-2.56,48.7,-1.27,163,32.1,20.5,11.6,52.0,52.0,52.0,Playoff Qualifier
+142,21,Belvidere North,IL,6A,IHSA 6A,Belvidere,7-5,7,5,0,12,47.3,47.3,-2.72,49.6,-0.43,142,28.1,25.7,2.4,53.67,53.67,53.67,Playoff Qualifier
+143,15,DuQuoin,IL,3A,IHSA 3A,Duquoin,6-5,6,5,0,11,47.3,47.3,-2.74,49.0,-1.0,158,33.2,22.8,10.4,52.0,52.0,52.0,Playoff Qualifier
+144,25,South Elgin,IL,8A,IHSA 8A,South Elgin,7-3,7,3,0,10,47.0,47.0,-3.03,45.5,-4.49,225,33.3,17.5,15.8,58.8,58.8,58.8,Playoff Qualifier
+145,26,Waubonsie Valley,IL,8A,IHSA 8A,Aurora,3-7,3,7,0,10,46.7,46.7,-3.31,57.4,7.39,29,13.1,26.4,-13.3,41.2,41.2,41.2,Varsity Program
+146,22,Shepard,IL,6A,IHSA 6A,Palos Heights,5-5,5,5,0,10,46.7,46.7,-3.32,50.7,0.73,109,25.0,19.6,5.4,50.0,50.0,50.0,Playoff Qualifier
+147,19,Peoria Notre Dame,IL,4A,IHSA 4A,Peoria,6-4,6,4,0,10,46.7,46.7,-3.33,47.1,-2.93,201,37.5,26.2,11.3,54.4,54.4,54.4,Playoff Qualifier
+148,16,Newman Central Catholic,IL,1A,IHSA 1A,Sterling,7-5,7,5,0,12,46.5,46.5,-3.52,47.9,-2.13,183,26.2,14.1,12.1,53.67,53.67,53.67,Playoff Qualifier
+149,27,Glenbard East,IL,8A,IHSA 8A,Lombard,7-4,7,4,0,11,46.1,46.1,-3.86,47.2,-2.77,198,30.7,17.9,12.8,56.0,56.0,56.0,Playoff Qualifier
+150,13,Vandalia,IL,2A,IHSA 2A,Vandalia,8-3,8,3,0,11,46.1,46.1,-3.93,44.2,-5.84,242,38.7,22.7,16.0,60.0,60.0,60.0,Playoff Qualifier
+151,16,Westinghouse,IL,5A,IHSA 5A,Chicago,7-3,7,3,0,10,46.0,46.0,-3.98,44.9,-5.1,231,36.6,17.0,19.6,58.8,58.8,58.8,Playoff Qualifier
+152,28,Stevenson,IL,8A,IHSA 8A,Lincolnshire,4-6,4,6,0,10,46.0,46.0,-4.03,53.3,3.28,64,21.1,24.4,-3.3,45.6,45.6,45.6,Varsity Program
+153,14,Chicago Christian,IL,2A,IHSA 2A,Palos Heights,5-5,5,5,0,10,45.9,45.9,-4.1,51.1,1.14,102,22.9,20.7,2.2,50.0,50.0,50.0,Playoff Qualifier
+154,17,Marmion,IL,5A,IHSA 5A,Aurora,4-7,4,7,0,11,45.6,45.6,-4.4,54.4,4.37,52,21.8,26.2,-4.4,44.0,44.0,44.0,Varsity Program
+155,16,Roxana,IL,3A,IHSA 3A,Roxana,8-4,8,4,0,12,45.3,45.3,-4.71,47.2,-2.81,199,40.9,33.9,7.0,57.33,57.33,57.33,Playoff Qualifier
+156,17,Salt Fork,IL,1A,IHSA 1A,Sidell,8-3,8,3,0,11,45.2,45.2,-4.8,46.8,-3.16,207,26.7,18.3,8.4,60.0,60.0,60.0,Playoff Qualifier
+157,24,Addison Trail,IL,7A,IHSA 7A,Addison,6-4,6,4,0,10,45.0,45.0,-4.97,47.8,-2.21,186,37.0,27.0,10.0,54.4,54.4,54.4,Playoff Qualifier
+158,15,St. Teresa,IL,2A,IHSA 2A,Decatur,5-6,5,6,0,11,44.9,44.9,-5.13,52.9,2.94,70,26.0,29.4,-3.4,48.0,48.0,48.0,Varsity Program
+159,16,Chester,IL,2A,IHSA 2A,Chester,6-5,6,5,0,11,44.9,44.9,-5.15,47.3,-2.67,197,30.0,17.5,12.5,52.0,52.0,52.0,Playoff Qualifier
+160,20,Agricultural Science,IL,4A,IHSA 4A,Chicago,9-2,9,2,0,11,44.8,44.8,-5.16,46.7,-3.32,208,21.5,12.3,9.2,64.0,64.0,64.0,Playoff Qualifier
+161,23,Grant Community,IL,6A,IHSA 6A,Fox Lake,7-3,7,3,0,10,44.6,44.6,-5.36,48.1,-1.91,176,27.8,22.5,5.3,58.8,58.8,58.8,Playoff Qualifier
+162,18,Hillcrest,IL,5A,IHSA 5A,Country Club Hills,7-5,7,5,0,12,44.0,44.0,-6.0,48.3,-1.7,170,28.0,19.7,8.3,53.67,53.67,53.67,Playoff Qualifier
+163,18,Annawan-Wethersfield,IL,1A,IHSA 1A,Kewanee,8-2,8,2,0,10,43.9,43.9,-6.06,44.0,-5.99,243,30.4,16.6,13.8,63.2,63.2,63.2,Playoff Qualifier
+164,19,Thornton Fractional North,IL,5A,IHSA 5A,Calumet City,7-3,7,3,0,10,43.9,43.9,-6.08,50.0,-0.04,131,19.1,19.0,0.1,58.8,58.8,58.8,Playoff Qualifier
+165,21,Waterloo,IL,4A,IHSA 4A,Waterloo,5-6,5,6,0,11,43.9,43.9,-6.08,53.0,2.98,69,22.4,27.7,-5.3,48.0,48.0,48.0,Varsity Program
+166,22,Taylorville,IL,4A,IHSA 4A,Taylorville,6-4,6,4,0,10,43.6,43.6,-6.41,49.3,-0.71,151,26.5,21.9,4.6,54.4,54.4,54.4,Playoff Qualifier
+167,20,Bulls College Prep,IL,5A,IHSA 5A,Chicago,4-7,4,7,0,11,43.6,43.6,-6.41,51.5,1.47,96,21.8,22.5,-0.7,44.0,44.0,44.0,Varsity Program
+168,21,Marion,IL,5A,IHSA 5A,Marion,5-6,5,6,0,11,43.6,43.6,-6.43,51.2,1.17,101,35.3,29.9,5.4,48.0,48.0,48.0,Varsity Program
+169,17,Westville,IL,2A,IHSA 2A,Westville,6-4,6,4,0,10,43.2,43.2,-6.82,46.2,-3.8,214,25.7,23.1,2.6,54.4,54.4,54.4,Playoff Qualifier
+170,18,Pana,IL,2A,IHSA 2A,Pana,7-3,7,3,0,10,43.0,43.0,-7.03,44.5,-5.54,238,32.7,19.0,13.7,58.8,58.8,58.8,Playoff Qualifier
+171,22,Mascoutah,IL,5A,IHSA 5A,Mascoutah,6-4,6,4,0,10,42.9,42.9,-7.07,46.5,-3.48,210,37.4,28.0,9.4,54.4,54.4,54.4,Playoff Qualifier
+172,19,Newton,IL,2A,IHSA 2A,Newton,7-4,7,4,0,11,42.9,42.9,-7.12,47.0,-2.99,203,37.1,20.3,16.8,56.0,56.0,56.0,Playoff Qualifier
+173,19,West Central co-op [Winchester-Bluffs],IL,1A,IHSA 1A,Winchester,8-5,8,5,0,13,42.8,42.8,-7.23,45.6,-4.41,223,26.4,18.0,8.4,55.08,55.08,55.08,Playoff Qualifier
+174,23,Harrisburg,IL,4A,IHSA 4A,Harrisburg,5-5,5,5,0,10,42.7,42.7,-7.28,48.6,-1.39,165,27.9,18.8,9.1,50.0,50.0,50.0,Playoff Qualifier
+175,24,Sandwich,IL,4A,IHSA 4A,Sandwich,7-5,7,5,0,12,42.7,42.7,-7.29,50.9,0.88,107,23.6,25.6,-2.0,53.67,53.67,53.67,Playoff Qualifier
+176,24,Kennedy,IL,6A,IHSA 6A,Chicago,8-2,8,2,0,10,42.3,42.3,-7.66,42.8,-7.24,253,30.3,19.0,11.3,63.2,63.2,63.2,Playoff Qualifier
+177,25,Glenbard South,IL,6A,IHSA 6A,Glen Ellyn,6-5,6,5,0,11,42.3,42.3,-7.7,46.9,-3.11,205,30.8,19.0,11.8,52.0,52.0,52.0,Playoff Qualifier
+178,29,Andrew,IL,8A,IHSA 8A,Tinley Park,2-8,2,8,0,10,42.2,42.2,-7.75,57.9,7.91,24,16.5,36.8,-20.3,36.8,36.8,36.8,Varsity Program
+179,25,Rolling Meadows,IL,7A,IHSA 7A,Rolling Meadows,3-8,3,8,0,11,42.0,42.0,-8.01,54.8,4.82,43,19.5,31.7,-12.2,40.0,40.0,40.0,Varsity Program
+180,20,Erie-Prophetstown,IL,2A,IHSA 2A,Erie,8-3,8,3,0,11,42.0,42.0,-8.02,46.4,-3.58,211,22.9,17.8,5.1,60.0,60.0,60.0,Playoff Qualifier
+181,20,Central A & M,IL,1A,IHSA 1A,Moweaqua,6-5,6,5,0,11,41.8,41.8,-8.25,49.3,-0.67,152,19.0,18.4,0.6,52.0,52.0,52.0,Playoff Qualifier
+182,21,Farmington,IL,2A,IHSA 2A,Farmington,6-5,6,5,0,11,41.7,41.7,-8.3,47.9,-2.1,184,30.5,27.1,3.4,52.0,52.0,52.0,Playoff Qualifier
+183,17,Fairfield,IL,3A,IHSA 3A,Fairfield,8-3,8,3,0,11,41.6,41.6,-8.39,45.0,-5.05,230,27.8,19.2,8.6,60.0,60.0,60.0,Playoff Qualifier
+184,26,Deerfield,IL,6A,IHSA 6A,Deerfield,6-5,6,5,0,11,40.9,40.9,-9.08,49.7,-0.34,138,23.7,22.9,0.8,52.0,52.0,52.0,Playoff Qualifier
+185,26,Willowbrook,IL,7A,IHSA 7A,Villa Park,6-5,6,5,0,11,40.7,40.7,-9.28,48.6,-1.43,166,24.5,17.9,6.6,52.0,52.0,52.0,Playoff Qualifier
+186,21,LeRoy,IL,1A,IHSA 1A,Leroy,5-5,5,5,0,10,40.4,40.4,-9.59,49.7,-0.31,139,20.5,21.5,-1.0,50.0,50.0,50.0,Playoff Qualifier
+187,18,PORTA/Ashland-Chandlerville Central/Greenview,IL,3A,IHSA 3A,Petersburg,5-5,5,5,0,10,40.1,40.1,-9.94,47.4,-2.58,196,26.2,28.0,-1.8,50.0,50.0,50.0,Playoff Qualifier
+188,19,Eureka,IL,3A,IHSA 3A,Eureka,4-6,4,6,0,10,39.6,39.6,-10.37,50.5,0.51,113,15.6,21.4,-5.8,45.6,45.6,45.6,Varsity Program
+189,20,Princeton,IL,3A,IHSA 3A,Princeton,5-6,5,6,0,11,39.4,39.4,-10.61,48.9,-1.13,159,29.5,23.3,6.2,48.0,48.0,48.0,Varsity Program
+190,27,Whitney Young,IL,7A,IHSA 7A,Chicago,4-6,4,6,0,10,38.8,38.8,-11.18,48.9,-1.13,160,14.8,19.7,-4.9,45.6,45.6,45.6,Varsity Program
+191,30,Joliet West,IL,8A,IHSA 8A,Joliet,4-6,4,6,0,10,38.5,38.5,-11.47,50.7,0.72,110,23.0,28.7,-5.7,45.6,45.6,45.6,Varsity Program
+192,23,Corliss/Butler College Prep,IL,5A,IHSA 5A,Chicago,7-3,7,3,0,10,38.5,38.5,-11.55,44.0,-5.99,244,29.1,18.2,10.9,58.8,58.8,58.8,Playoff Qualifier
+193,25,Kewanee,IL,4A,IHSA 4A,Kewanee,5-5,5,5,0,10,38.2,38.2,-11.76,48.1,-1.89,177,24.6,25.2,-0.6,50.0,50.0,50.0,Playoff Qualifier
+194,24,Prairie Ridge,IL,5A,IHSA 5A,Crystal Lake,3-8,3,8,0,11,38.0,38.0,-12.0,52.1,2.08,85,18.4,26.2,-7.8,40.0,40.0,40.0,Varsity Program
+195,21,Genoa-Kingston,IL,3A,IHSA 3A,Genoa,6-5,6,5,0,11,37.9,37.9,-12.1,50.3,0.34,119,24.2,25.3,-1.1,52.0,52.0,52.0,Playoff Qualifier
+196,22,Stillman Valley,IL,3A,IHSA 3A,Stillman Valley,5-6,5,6,0,11,37.5,37.5,-12.53,50.3,0.26,120,24.5,30.2,-5.7,48.0,48.0,48.0,Varsity Program
+197,23,Greenville,IL,3A,IHSA 3A,Greenville,7-4,7,4,0,11,37.4,37.4,-12.59,45.9,-4.07,219,26.2,22.8,3.4,56.0,56.0,56.0,Playoff Qualifier
+198,22,Shelbyville,IL,2A,IHSA 2A,Shelbyville,4-8,4,8,0,12,37.4,37.4,-12.63,52.2,2.23,84,16.8,23.0,-6.2,42.67,42.67,42.67,Varsity Program
+199,23,Bismarck-Henning/Rossville-Alvin,IL,2A,IHSA 2A,Bismarck,7-5,7,5,0,12,37.2,37.2,-12.82,47.5,-2.55,193,31.1,32.5,-1.4,53.67,53.67,53.67,Playoff Qualifier
+200,27,Lake Forest,IL,6A,IHSA 6A,Lake Forest,2-7,2,7,0,9,36.1,36.1,-13.85,51.0,0.97,105,19.3,27.1,-7.8,37.78,37.78,37.78,Varsity Program
+201,25,Payton College Prep,IL,5A,IHSA 5A,Chicago,5-5,5,5,0,10,35.8,35.8,-14.2,48.0,-2.0,181,18.9,25.1,-6.2,50.0,50.0,50.0,Playoff Qualifier
+202,26,Woodstock North,IL,5A,IHSA 5A,Woodstock,4-6,4,6,0,10,35.8,35.8,-14.22,48.7,-1.34,164,21.5,23.4,-1.9,45.6,45.6,45.6,Varsity Program
+203,24,Oregon,IL,3A,IHSA 3A,Oregon,4-7,4,7,0,11,35.3,35.3,-14.72,49.7,-0.33,140,22.7,28.3,-5.6,44.0,44.0,44.0,Varsity Program
+204,26,Marengo,IL,4A,IHSA 4A,Marengo,3-7,3,7,0,10,35.3,35.3,-14.73,50.6,0.61,112,19.4,24.7,-5.3,41.2,41.2,41.2,Varsity Program
+205,28,Lincoln Park,IL,7A,IHSA 7A,Chicago,5-7,5,7,0,12,34.9,34.9,-15.15,50.4,0.37,115,9.4,22.5,-13.1,46.33,46.33,46.33,Varsity Program
+206,22,Stark County,IL,1A,IHSA 1A,Toulon,7-3,7,3,0,10,34.8,34.8,-15.16,45.5,-4.51,226,27.2,31.5,-4.3,58.8,58.8,58.8,Playoff Qualifier
+207,27,Richland County,IL,4A,IHSA 4A,Olney,4-6,4,6,0,10,34.7,34.7,-15.27,46.9,-3.1,206,30.5,29.7,0.8,45.6,45.6,45.6,Varsity Program
+208,24,Red Bud,IL,2A,IHSA 2A,Red Bud,6-4,6,4,0,10,33.9,33.9,-16.07,46.2,-3.83,215,21.9,26.5,-4.6,54.4,54.4,54.4,Playoff Qualifier
+209,28,Columbia,IL,4A,IHSA 4A,Columbia,2-8,2,8,0,10,33.9,33.9,-16.11,52.0,2.04,87,23.6,33.3,-9.7,36.8,36.8,36.8,Varsity Program
+210,28,Amundsen,IL,6A,IHSA 6A,Chicago,3-7,3,7,0,10,33.1,33.1,-16.85,48.3,-1.71,171,15.8,26.7,-10.9,41.2,41.2,41.2,Varsity Program
+211,27,Peoria,IL,5A,IHSA 5A,Peoria,4-6,4,6,0,10,33.1,33.1,-16.86,45.5,-4.48,227,31.6,32.3,-0.7,45.6,45.6,45.6,Varsity Program
+212,28,Freeport,IL,5A,IHSA 5A,Freeport,4-6,4,6,0,10,33.0,33.0,-16.95,49.6,-0.38,143,20.9,29.1,-8.2,45.6,45.6,45.6,Varsity Program
+213,29,Tinley Park,IL,5A,IHSA 5A,Tinley Park,5-6,5,6,0,11,32.6,32.6,-17.35,47.8,-2.17,187,24.2,28.0,-3.8,48.0,48.0,48.0,Varsity Program
+214,29,Springfield,IL,6A,IHSA 6A,Springfield,3-7,3,7,0,10,32.6,32.6,-17.38,50.1,0.1,126,18.2,27.9,-9.7,41.2,41.2,41.2,Varsity Program
+215,25,Carlinville,IL,3A,IHSA 3A,Carlinville,5-6,5,6,0,11,32.6,32.6,-17.4,46.7,-3.31,209,30.4,30.9,-0.5,48.0,48.0,48.0,Varsity Program
+216,23,Carrollton,IL,1A,IHSA 1A,Carrollton,5-5,5,5,0,10,32.5,32.5,-17.54,45.7,-4.34,221,21.3,29.0,-7.7,50.0,50.0,50.0,Playoff Qualifier
+217,25,Seneca,IL,2A,IHSA 2A,Seneca,1-8,1,8,0,9,32.4,32.4,-17.58,49.8,-0.2,135,18.1,30.3,-12.2,32.89,32.89,32.89,Varsity Program
+218,31,Schaumburg,IL,8A,IHSA 8A,Schaumburg,1-8,1,8,0,9,32.2,32.2,-17.76,53.8,3.84,58,18.2,38.7,-20.5,32.89,32.89,32.89,Varsity Program
+219,29,Normal University,IL,4A,IHSA 4A,Normal,1-8,1,8,0,9,32.2,32.2,-17.81,54.7,4.71,44,17.3,41.2,-23.9,32.89,32.89,32.89,Varsity Program
+220,30,Grayslake North,IL,6A,IHSA 6A,Grayslake,5-5,5,5,0,10,32.1,32.1,-17.87,47.5,-2.55,194,24.8,30.7,-5.9,50.0,50.0,50.0,Playoff Qualifier
+221,26,Illini West,IL,2A,IHSA 2A,Carthage,8-3,8,3,0,11,32.1,32.1,-17.93,44.8,-5.19,234,26.7,30.3,-3.6,60.0,60.0,60.0,Playoff Qualifier
+222,32,Taft,IL,8A,IHSA 8A,Chicago,3-7,3,7,0,10,32.1,32.1,-17.93,48.9,-1.06,161,20.7,23.8,-3.1,41.2,41.2,41.2,Varsity Program
+223,31,Bloomington,IL,6A,IHSA 6A,Bloomington,4-6,4,6,0,10,31.9,31.9,-18.15,47.6,-2.44,190,21.4,29.4,-8.0,45.6,45.6,45.6,Varsity Program
+224,24,Red Hill,IL,1A,IHSA 1A,Bridgeport,5-6,5,6,0,11,31.7,31.7,-18.33,45.4,-4.63,228,15.9,21.4,-5.5,48.0,48.0,48.0,Varsity Program
+225,30,Murphysboro,IL,4A,IHSA 4A,Murphysboro,1-8,1,8,0,9,31.6,31.6,-18.41,51.4,1.41,97,15.8,34.3,-18.5,32.89,32.89,32.89,Varsity Program
+226,29,Maine West,IL,7A,IHSA 7A,Des Plaines,3-7,3,7,0,10,31.4,31.4,-18.61,49.8,-0.25,136,19.0,30.4,-11.4,41.2,41.2,41.2,Varsity Program
+227,27,Carmi-White County,IL,2A,IHSA 2A,Carmi,5-5,5,5,0,10,30.8,30.8,-19.25,44.7,-5.29,236,24.0,20.9,3.1,50.0,50.0,50.0,Playoff Qualifier
+228,26,Monmouth-Roseville,IL,3A,IHSA 3A,Monmouth,4-6,4,6,0,10,30.2,30.2,-19.78,46.1,-3.91,216,22.1,25.9,-3.8,45.6,45.6,45.6,Varsity Program
+229,25,Cumberland,IL,1A,IHSA 1A,Toledo,5-5,5,5,0,10,29.9,29.9,-20.11,42.4,-7.57,256,27.5,24.0,3.5,50.0,50.0,50.0,Playoff Qualifier
+230,26,Ridgeview/Lexington,IL,1A,IHSA 1A,Colfax,2-7,2,7,0,9,29.9,29.9,-20.14,50.3,0.28,121,15.2,26.9,-11.7,37.78,37.78,37.78,Varsity Program
+231,33,Curie,IL,8A,IHSA 8A,Chicago,5-5,5,5,0,10,29.7,29.7,-20.32,43.8,-6.25,247,17.5,22.4,-4.9,50.0,50.0,50.0,Playoff Qualifier
+232,30,West Chicago,IL,7A,IHSA 7A,West Chicago,5-6,5,6,0,11,29.4,29.4,-20.61,45.8,-4.19,220,31.6,33.2,-1.6,48.0,48.0,48.0,Varsity Program
+233,31,Collinsville,IL,7A,IHSA 7A,Collinsville,3-7,3,7,0,10,29.0,29.0,-21.03,50.1,0.13,127,22.9,38.0,-15.1,41.2,41.2,41.2,Varsity Program
+234,27,Paxton-Buckley-Loda,IL,3A,IHSA 3A,Paxton,2-7,2,7,0,9,28.2,28.2,-21.8,53.4,3.44,63,12.9,35.0,-22.1,37.78,37.78,37.78,Varsity Program
+235,27,Casey-Westfield,IL,1A,IHSA 1A,Casey,4-7,4,7,0,11,28.2,28.2,-21.81,46.1,-3.92,217,15.9,25.8,-9.9,44.0,44.0,44.0,Varsity Program
+236,28,Elmwood/Brimfield,IL,2A,IHSA 2A,Elmwood,4-6,4,6,0,10,28.2,28.2,-21.82,44.7,-5.3,237,24.6,29.3,-4.7,45.6,45.6,45.6,Varsity Program
+237,29,Deer Creek-Mackinaw,IL,2A,IHSA 2A,Mackinaw,2-7,2,7,0,9,28.0,28.0,-22.0,49.3,-0.72,153,14.9,32.2,-17.3,37.78,37.78,37.78,Varsity Program
+238,28,North Lawndale,IL,3A,IHSA 3A,Chicago,5-5,5,5,0,10,27.2,27.2,-22.81,42.9,-7.08,252,15.5,21.0,-5.5,50.0,50.0,50.0,Playoff Qualifier
+239,28,Princeville,IL,1A,IHSA 1A,Princeville,3-7,3,7,0,10,26.7,26.7,-23.31,45.6,-4.42,224,22.5,30.9,-8.4,41.2,41.2,41.2,Varsity Program
+240,30,Prosser,IL,5A,IHSA 5A,Chicago,5-5,5,5,0,10,26.4,26.4,-23.65,40.9,-9.1,259,25.0,23.8,1.2,50.0,50.0,50.0,Playoff Qualifier
+241,31,South Shore International,IL,4A,IHSA 4A,Chicago,5-5,5,5,0,10,25.9,25.9,-24.09,41.4,-8.65,258,22.5,22.8,-0.3,50.0,50.0,50.0,Playoff Qualifier
+242,29,Gibson City-Melvin-Sibley,IL,1A,IHSA 1A,Gibson City,1-8,1,8,0,9,24.9,24.9,-25.13,50.2,0.18,125,6.7,30.6,-23.9,32.89,32.89,32.89,Varsity Program
+243,32,Dyett,IL,4A,IHSA 4A,Chicago,6-4,6,4,0,10,24.0,24.0,-25.99,42.2,-7.84,257,24.7,24.3,0.4,54.4,54.4,54.4,Playoff Qualifier
+244,30,Sesser-Valier/Waltonville,IL,1A,IHSA 1A,Sesser,3-7,3,7,0,10,24.0,24.0,-26.03,45.3,-4.74,229,16.4,27.5,-11.1,41.2,41.2,41.2,Varsity Program
+245,30,Momence,IL,2A,IHSA 2A,Momence,3-7,3,7,0,10,21.3,21.3,-28.69,47.1,-2.87,202,16.8,36.4,-19.6,41.2,41.2,41.2,Varsity Program
+246,33,Boylan Catholic,IL,4A,IHSA 4A,Rockford,1-8,1,8,0,9,20.4,20.4,-29.61,50.0,0.0,132,10.1,34.9,-24.8,32.89,32.89,32.89,Varsity Program
+247,31,Nokomis,IL,1A,IHSA 1A,Nokomis,4-6,4,6,0,10,18.4,18.4,-31.57,43.0,-6.98,250,19.3,32.3,-13.0,45.6,45.6,45.6,Varsity Program
+248,32,Rushville-Industry,IL,1A,IHSA 1A,Rushville,1-8,1,8,0,9,17.8,17.8,-32.16,44.8,-5.2,235,15.1,34.6,-19.5,32.89,32.89,32.89,Varsity Program
+249,32,Senn,IL,6A,IHSA 6A,Chicago,5-5,5,5,0,10,17.2,17.2,-32.8,40.4,-9.57,261,11.8,22.4,-10.6,50.0,50.0,50.0,Playoff Qualifier
+250,33,Fenton,IL,6A,IHSA 6A,Bensenville,4-6,4,6,0,10,16.2,16.2,-33.75,42.8,-7.22,254,20.5,30.2,-9.7,45.6,45.6,45.6,Varsity Program
+251,33,Dupo,IL,1A,IHSA 1A,Dupo,3-7,3,7,0,10,15.0,15.0,-35.0,43.2,-6.83,249,8.9,32.6,-23.7,41.2,41.2,41.2,Varsity Program
+252,31,Sangamon Valley/Tri-City,IL,2A,IHSA 2A,Niantic,3-7,3,7,0,10,15.0,15.0,-35.0,43.0,-6.95,251,14.5,29.2,-14.7,41.2,41.2,41.2,Varsity Program
+253,34,Mather,IL,6A,IHSA 6A,Chicago,2-6,2,6,0,8,15.0,15.0,-35.0,40.6,-9.44,260,9.2,35.2,-26.0,39.0,39.0,39.0,Varsity Program
+254,32,North Mac,IL,2A,IHSA 2A,Virden,2-7,2,7,0,9,15.0,15.0,-35.0,45.7,-4.34,222,12.2,40.2,-28.0,37.78,37.78,37.78,Varsity Program
+255,34,Routt Catholic/Lutheran,IL,1A,IHSA 1A,Jacksonville,2-8,2,8,0,10,15.0,15.0,-35.0,48.5,-1.48,168,7.5,42.0,-34.5,36.8,36.8,36.8,Varsity Program
+256,34,Urban Prep-Bronzeville/Urban Prep-Englewood,IL,4A,IHSA 4A,Chicago,1-8,1,8,0,9,15.0,15.0,-35.0,43.6,-6.41,248,8.4,35.4,-27.0,32.89,32.89,32.89,Varsity Program
+257,35,Clemente,IL,4A,IHSA 4A,Chicago,1-8,1,8,0,9,15.0,15.0,-35.0,42.8,-7.22,255,6.2,29.7,-23.5,32.89,32.89,32.89,Varsity Program
+258,36,Chicago Sullivan,IL,4A,IHSA 4A,Chicago,1-8,1,8,0,9,15.0,15.0,-35.0,38.8,-11.16,262,2.9,25.3,-22.4,32.89,32.89,32.89,Varsity Program
+259,29,New Berlin/Franklin/Waverly,IL,3A,IHSA 3A,New Berlin,0-9,0,9,0,9,15.0,15.0,-35.0,49.1,-0.88,156,3.9,48.2,-44.3,28.0,28.0,28.0,Varsity Program
+260,34,Niles West,IL,8A,IHSA 8A,Skokie,0-9,0,9,0,9,15.0,15.0,-35.0,50.1,0.08,128,7.3,36.7,-29.4,28.0,28.0,28.0,Varsity Program
+261,35,Lutheran,IL,1A,IHSA 1A,Rockford,0-9,0,9,0,9,15.0,15.0,-35.0,50.4,0.38,116,11.8,56.0,-44.2,28.0,28.0,28.0,Varsity Program
+262,32,Argo,IL,7A,IHSA 7A,Summit,0-9,0,9,0,9,15.0,15.0,-35.0,49.1,-0.89,157,6.4,45.7,-39.3,28.0,28.0,28.0,Varsity Program

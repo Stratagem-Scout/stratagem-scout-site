@@ -56,7 +56,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-08-28,Nashville,49,Bismarck,25,4A,2026 Week 2
 2026-08-28,Ozark,36,Maumelle,14,4A,2026 Week 2
 2026-08-28,Pottsville,49,Prairie Grove,46,4A,2026 Week 2
-2026-08-28,Southside,35,Brookland,23,4A,2026 Week 2
+2026-08-28,Southside,35,Brookland,23,6A,2026 Week 2
 2026-08-28,Stuttgart,35,Lonoke,19,4A,2026 Week 2
 2026-08-28,Waldron,35,Clarksville,10,4A,2026 Week 2
 2026-08-28,Warren,38,Malvern,21,4A,2026 Week 2
@@ -68,7 +68,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-08-28,Greene County Tech,31,Salem,6,5A,2026 Week 2
 2026-08-28,Harrison,27,Branson,16,5A,2026 Week 2
 2026-08-28,Jacksonville,44,Watson Chapel,6,5A,2026 Week 2
-2026-08-28,Lakeside,28,Lake Hamilton,24,5A,2026 Week 2
+2026-08-28,Lakeside,28,Lake Hamilton,24,3A,2026 Week 2
 2026-08-28,Mills University Studies,30,Osceola,14,5A,2026 Week 2
 2026-08-28,Morrilton,35,Russellville,13,5A,2026 Week 2
 2026-08-28,Paragould,45,Manila,21,5A,2026 Week 2
@@ -239,7 +239,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-09-11,Malvern,21,Harmony Grove,14,4A,2026 Week 4
 2026-09-11,Nashville,54,Arkansas,34,4A,2026 Week 4
 2026-09-11,Ozark,57,Charleston,7,4A,2026 Week 4
-2026-09-11,Southside,27,Walnut Ridge,24,4A,2026 Week 4
+2026-09-11,Southside,27,Walnut Ridge,24,6A,2026 Week 4
 2026-09-11,Star City,39,Drew Central,28,4A,2026 Week 4
 2026-09-11,Stuttgart,55,White Hall,12,4A,2026 Week 4
 2026-09-11,Waldron,58,Cossatot River,6,4A,2026 Week 4
@@ -252,7 +252,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-09-11,Greenbrier,50,Van Buren,42,5A,2026 Week 4
 2026-09-11,Greenwood,28,Rogers,14,5A,2026 Week 4
 2026-09-11,Jacksonville,40,Lake Hamilton,20,5A,2026 Week 4
-2026-09-11,Lakeside,42,Benton,41,5A,2026 Week 4
+2026-09-11,Lakeside,42,Benton,41,3A,2026 Week 4
 2026-09-11,Maumelle,34,Hot Springs,19,5A,2026 Week 4
 2026-09-11,Mills University Studies,47,Monticello,28,5A,2026 Week 4
 2026-09-11,Morrilton,14,Harding Academy,6,5A,2026 Week 4
@@ -360,7 +360,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-09-25,Fountain Lake,41,Fouke,20,4A,2026 Week 6
 2026-09-25,Gosnell,36,Pocahontas,21,4A,2026 Week 6
 2026-09-25,Gravette,69,Lincoln,7,4A,2026 Week 6
-2026-09-25,Harmony Grove,21,Bald Knob,0,4A,2026 Week 6
+2026-09-25,Harmony Grove,21,Bald Knob,0,3A,2026 Week 6
 2026-09-25,Heber Springs,28,Central Arkansas Christian,21,4A,2026 Week 6
 2026-09-25,Highland,41,Westside,7,4A,2026 Week 6
 2026-09-25,Lonoke,31,Bauxite,7,4A,2026 Week 6
@@ -372,7 +372,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-09-25,Ozark,42,Lamar,22,4A,2026 Week 6
 2026-09-25,Pottsville,42,Dover,12,4A,2026 Week 6
 2026-09-25,Prairie Grove,40,Green Forest,6,4A,2026 Week 6
-2026-09-25,Southside,35,Trumann,6,4A,2026 Week 6
+2026-09-25,Southside,35,Trumann,6,6A,2026 Week 6
 2026-09-25,Stuttgart,48,Watson Chapel,0,4A,2026 Week 6
 2026-09-25,Warren,38,DeWitt,14,4A,2026 Week 6
 2026-09-25,Alma,58,Clarksville,0,5A,2026 Week 6
@@ -464,7 +464,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-02,Pocahontas,35,Westside,8,4A,2026 Week 7
 2026-10-02,Pottsville,47,Subiaco Academy,14,4A,2026 Week 7
 2026-10-02,Prairie Grove,41,Huntsville,20,4A,2026 Week 7
-2026-10-02,Southside,50,Blytheville,14,4A,2026 Week 7
+2026-10-02,Southside,50,Blytheville,14,6A,2026 Week 7
 2026-10-02,Star City,28,DeWitt,22,4A,2026 Week 7
 2026-10-02,Stuttgart,35,Crossett,6,4A,2026 Week 7
 2026-10-02,Warren,17,Monticello,7,4A,2026 Week 7
@@ -475,7 +475,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-02,Greenwood,52,Harrison,16,5A,2026 Week 7
 2026-10-02,Harding Academy,26,Valley View,21,5A,2026 Week 7
 2026-10-02,Jacksonville,30,Parkview,28,5A,2026 Week 7
-2026-10-02,Lakeside,42,Magnolia,10,5A,2026 Week 7
+2026-10-02,Lakeside,42,Magnolia,10,3A,2026 Week 7
 2026-10-02,Morrilton,49,Dardanelle,35,5A,2026 Week 7
 2026-10-02,Nettleton,20,Brookland,16,5A,2026 Week 7
 2026-10-02,Pea Ridge,34,Clarksville,8,5A,2026 Week 7
@@ -560,7 +560,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-09,Nashville,48,Fouke,25,4A,2026 Week 8
 2026-10-09,Ozark,44,Pottsville,19,4A,2026 Week 8
 2026-10-09,Prairie Grove,63,Berryville,32,4A,2026 Week 8
-2026-10-09,Southside,61,Westside,6,4A,2026 Week 8
+2026-10-09,Southside,61,Westside,6,6A,2026 Week 8
 2026-10-09,Stuttgart,42,DeWitt,6,4A,2026 Week 8
 2026-10-09,Batesville,31,Harding Academy,28,5A,2026 Week 8
 2026-10-09,Camden Fairview,51,Magnolia,47,5A,2026 Week 8
@@ -570,7 +570,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-09,Harrison,56,Clarksville,8,5A,2026 Week 8
 2026-10-09,Hot Springs,34,De Queen,31,5A,2026 Week 8
 2026-10-09,Jacksonville,60,Greenbrier,25,5A,2026 Week 8
-2026-10-09,Lakeside,35,Arkansas,14,5A,2026 Week 8
+2026-10-09,Lakeside,35,Arkansas,14,3A,2026 Week 8
 2026-10-09,Mills University Studies,49,Beebe,21,5A,2026 Week 8
 2026-10-09,Nettleton,43,Paragould,33,5A,2026 Week 8
 2026-10-09,Pea Ridge,35,Alma,21,5A,2026 Week 8
@@ -642,7 +642,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-16,Gravette,55,Berryville,10,4A,2026 Week 9
 2026-10-16,Green Forest,31,Lincoln,16,4A,2026 Week 9
 2026-10-16,Hamburg,51,Crossett,14,4A,2026 Week 9
-2026-10-16,Harmony Grove,35,Clinton,7,4A,2026 Week 9
+2026-10-16,Harmony Grove,35,Clinton,7,3A,2026 Week 9
 2026-10-16,Heber Springs,62,Mayflower,40,4A,2026 Week 9
 2026-10-16,Highland,40,Pocahontas,6,4A,2026 Week 9
 2026-10-16,Lamar,30,Waldron,16,4A,2026 Week 9
@@ -651,7 +651,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-16,Nashville,35,Ashdown,13,4A,2026 Week 9
 2026-10-16,Ozark,2,Subiaco Academy,0,4A,2026 Week 9
 2026-10-16,Pottsville,28,Mena,26,4A,2026 Week 9
-2026-10-16,Southside,40,Gosnell,37,4A,2026 Week 9
+2026-10-16,Southside,40,Gosnell,37,6A,2026 Week 9
 2026-10-16,Stuttgart,38,Monticello,3,4A,2026 Week 9
 2026-10-16,Warren,49,Star City,21,4A,2026 Week 9
 2026-10-16,Westside,42,Blytheville,6,4A,2026 Week 9
@@ -664,7 +664,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-16,Harrison,52,Pea Ridge,21,5A,2026 Week 9
 2026-10-16,Hot Springs,36,Magnolia,33,5A,2026 Week 9
 2026-10-16,Jacksonville,50,Vilonia,29,5A,2026 Week 9
-2026-10-16,Lakeside,22,Pine Bluff,7,5A,2026 Week 9
+2026-10-16,Lakeside,22,Pine Bluff,7,3A,2026 Week 9
 2026-10-16,Maumelle,35,Beebe,27,5A,2026 Week 9
 2026-10-16,Mills University Studies,48,Greenbrier,35,5A,2026 Week 9
 2026-10-16,Morrilton,42,Clarksville,7,5A,2026 Week 9
@@ -734,7 +734,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-23,Gentry,42,Berryville,0,4A,2026 Week 10
 2026-10-23,Gravette,43,Prairie Grove,0,4A,2026 Week 10
 2026-10-23,Hamburg,63,Star City,19,4A,2026 Week 10
-2026-10-23,Harmony Grove,48,Mayflower,12,4A,2026 Week 10
+2026-10-23,Harmony Grove,48,Mayflower,12,3A,2026 Week 10
 2026-10-23,Highland,56,Gosnell,27,4A,2026 Week 10
 2026-10-23,Huntsville,38,Lincoln,35,4A,2026 Week 10
 2026-10-23,Lamar,36,Pottsville,29,4A,2026 Week 10
@@ -744,7 +744,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-23,Nashville,63,Hope,6,4A,2026 Week 10
 2026-10-23,Ozark,34,Booneville,18,4A,2026 Week 10
 2026-10-23,Pocahontas,46,Blytheville,12,4A,2026 Week 10
-2026-10-23,Southside,23,Forrest City,14,4A,2026 Week 10
+2026-10-23,Southside,23,Forrest City,14,6A,2026 Week 10
 2026-10-23,Stuttgart,45,Warren,16,4A,2026 Week 10
 2026-10-23,Waldron,41,Subiaco Academy,0,4A,2026 Week 10
 2026-10-23,Westside,28,Trumann,12,4A,2026 Week 10
@@ -756,7 +756,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-23,Harding Academy,45,Nettleton,20,5A,2026 Week 10
 2026-10-23,Harrison,63,Dardanelle,23,5A,2026 Week 10
 2026-10-23,Jacksonville,64,Maumelle,0,5A,2026 Week 10
-2026-10-23,Lakeside,42,De Queen,7,5A,2026 Week 10
+2026-10-23,Lakeside,42,De Queen,7,3A,2026 Week 10
 2026-10-23,Mills University Studies,36,Vilonia,24,5A,2026 Week 10
 2026-10-23,Pine Bluff,48,Camden Fairview,21,5A,2026 Week 10
 2026-10-23,Robinson,44,Greenbrier,13,5A,2026 Week 10
@@ -837,7 +837,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-30,Nashville,46,Malvern,28,4A,2026 AAA First Round
 2026-10-30,Ozark,53,Dover,12,4A,2026 AAA First Round
 2026-10-30,Pottsville,34,Waldron,0,4A,2026 AAA First Round
-2026-10-30,Southside,27,Pocahontas,26,4A,2026 AAA First Round
+2026-10-30,Southside,27,Pocahontas,26,6A,2026 AAA First Round
 2026-10-30,Stuttgart,49,Star City,14,4A,2026 AAA First Round
 2026-10-30,Warren,42,Watson Chapel,12,4A,2026 AAA First Round
 2026-10-30,Alma,32,Harrison,26,5A,2026 AAA First Round
@@ -849,7 +849,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-10-30,Greenbrier,35,Maumelle,21,5A,2026 AAA First Round
 2026-10-30,Greenwood,58,Clarksville,0,5A,2026 AAA First Round
 2026-10-30,Harding Academy,22,Wynne,14,5A,2026 AAA First Round
-2026-10-30,Lakeside,58,White Hall,37,5A,2026 AAA First Round
+2026-10-30,Lakeside,58,White Hall,37,3A,2026 AAA First Round
 2026-10-30,Magnolia,47,De Queen,17,5A,2026 AAA First Round
 2026-10-30,Mills University Studies,37,Jacksonville,34,5A,2026 AAA First Round
 2026-10-30,Morrilton,28,Pea Ridge,6,5A,2026 AAA First Round
@@ -946,7 +946,7 @@ date,winner,winner_score,loser,loser_score,division,round
 2026-11-06,Greenwood,56,Alma,0,5A,2026 AAA Postseason
 2026-11-06,Harding Academy,41,Brookland,18,5A,2026 AAA Postseason
 2026-11-06,Harrison,28,Morrilton,13,5A,2026 AAA Postseason
-2026-11-06,Lakeside,59,Hot Springs,3,5A,2026 AAA Postseason
+2026-11-06,Lakeside,59,Hot Springs,3,3A,2026 AAA Postseason
 2026-11-06,Nettleton,42,Wynne,39,5A,2026 AAA Postseason
 2026-11-06,Pine Bluff,37,Magnolia,35,5A,2026 AAA Postseason
 2026-11-06,Benton,56,Marion,17,6A,2026 AAA Postseason

@@ -1,5308 +1,1927 @@
 {
-  "Academy at the Lakes": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Land O Lakes",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "All Saints' Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Winter Haven",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Alonso": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "American": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Hialeah",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
   "American Heritage": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Anclote": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Holiday",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Andrew Jackson": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Apopka": {
-    "lat": 28.6934,
-    "lng": -81.5322,
-    "city": "Apopka",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Apopka High": {
-    "lat": 28.6934,
-    "lng": -81.5322,
-    "city": "Apopka",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Arcadia": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Arcadia High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Archbishop Carroll": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Archbishop McCarthy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Southwest Ranches",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Armwood": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Arnold": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Panama City Beach",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Astronaut": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Titusville",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Atlantic (Delray Beach)": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Atlantic Coast": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Aubrey Rogers": {
-    "lat": 26.142,
-    "lng": -81.7948,
-    "city": "Naples",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Auburndale": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Auburndale",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Auburndale High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Aucilla Christian": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Monticello",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Avant Garde Academy": {
-    "lat": 26.0112,
-    "lng": -80.1495,
-    "city": "Hollywood",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Ave Maria": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Ave Maria",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Avon Park": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Avon Park",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Avon Park High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Babcock": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Punta Gorda",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Baker": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Baker County": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Glen St Mary",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Baldwin": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Baldwin",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Barron Collier": {
-    "lat": 26.142,
-    "lng": -81.7948,
-    "city": "Naples",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Bartow": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Bartow",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Bartow High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Bartram Trail": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "St Johns",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Bay": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Panama City",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Bayshore": {
-    "lat": 27.4989,
-    "lng": -82.5748,
-    "city": "Bradenton",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Bayside": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Palm Bay",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Bayside Fl": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Beachside": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "St Johns",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Belen Jesuit": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Bell": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Bell",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Belle Glade": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Belle Glade High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Belleview": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Belleview",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Belleview High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Benjamin": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Berkeley Prep": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Bishop Kenny": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Bishop McLaughlin Catholic": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Spring Hill",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Bishop Moore": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Bishop Snyder": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Bishop Verot": {
-    "lat": 26.6406,
-    "lng": -81.8723,
-    "city": "Fort Myers",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Blake": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Blanche Ely": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Bloomingdale": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Valrico",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Blountstown": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Blountstown High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Boca Ciega": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Gulfport",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Boca Raton": {
-    "lat": 26.3683,
-    "lng": -80.1289,
-    "city": "Boca Raton",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Boca Raton Christian": {
-    "lat": 26.3683,
-    "lng": -80.1289,
-    "city": "Boca Raton",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Boca Raton High": {
-    "lat": 26.3683,
-    "lng": -80.1289,
-    "city": "Boca Raton",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Bolles": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Bonifay": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Bonifay High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Bonita Springs": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Bonita Springs",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Bonita Springs High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Booker (Sarasota)": {
-    "lat": 27.3364,
-    "lng": -82.5307,
-    "city": "Sarasota",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Booker T. Washington": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Boone": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Boyd Anderson": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Lauderdale Lakes",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Boynton Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Boynton Beach",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Boynton Beach High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Bozeman": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Braddock": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Braden River": {
-    "lat": 27.4989,
-    "lng": -82.5748,
-    "city": "Bradenton",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Bradenton": {
-    "lat": 27.4989,
-    "lng": -82.5748,
-    "city": "Bradenton",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Bradenton Christian": {
-    "lat": 27.4989,
-    "lng": -82.5748,
-    "city": "Bradenton",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Bradenton High": {
-    "lat": 27.4989,
-    "lng": -82.5748,
-    "city": "Bradenton",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Bradford": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Brandon": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Brandon",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Brandon High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Branford": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Branford",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Branford High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Bronson": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Bronson",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Bronson High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Brooksville": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Brooksville High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Buchholz": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Bunnell": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Bunnell High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Bushnell": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Bushnell High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Callahan": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Callahan High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Calvary Chapel Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "West Melbourne",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Calvary Christian": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Calvary Christian Academy": {
-    "lat": 26.1224,
-    "lng": -80.1373,
-    "city": "Fort Lauderdale",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Cambridge Christian": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Canterbury": {
-    "lat": 26.6406,
-    "lng": -81.8723,
-    "city": "Fort Myers",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Cape Coral": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Cape Coral",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Cape Coral High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Cardinal Gibbons": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Cardinal Mooney": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Cardinal Newman": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Carol City": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Carrabelle": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Carrabelle High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Carrollwood Day": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Cedar Creek Christian": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Celebration": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Celebration",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Centennial": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Port St Lucie",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Centennial Fl": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Central": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Milton",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Central Florida Christian Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Ocoee",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Chamberlain": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Chaminade-Madonna": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Charlotte": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Punta Gorda",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Chiefland": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Chiefland High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Chiles": {
-    "lat": 30.4383,
-    "lng": -84.2807,
-    "city": "Tallahassee",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Chipley": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Chipley",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Chipley High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Choctawhatchee": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Choctawhatchee, FL",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Christ's Church Academy": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Citrus": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Inverness",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "City of Life Christian Academy": {
-    "lat": 28.292,
-    "lng": -81.4076,
-    "city": "Kissimmee",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Classical Academy (Sarasota)": {
-    "lat": 27.3364,
-    "lng": -82.5307,
-    "city": "Sarasota",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Clay": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Green Cove Springs",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Clearwater": {
-    "lat": 27.9659,
-    "lng": -82.8001,
-    "city": "Clearwater",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Clearwater Central Catholic": {
-    "lat": 27.9659,
-    "lng": -82.8001,
-    "city": "Clearwater",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Clearwater High": {
-    "lat": 27.9659,
-    "lng": -82.8001,
-    "city": "Clearwater",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Clermont": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Clermont High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Clewiston": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Clewiston",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Clewiston High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Cocoa": {
-    "lat": 28.3861,
-    "lng": -80.742,
-    "city": "Cocoa",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Cocoa Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Cocoa Beach",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Cocoa High": {
-    "lat": 28.3861,
-    "lng": -80.742,
-    "city": "Cocoa",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Coconut Creek": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Coconut Creek",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Coconut Creek High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Colonial": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
+    "lat": 26.12662,
+    "lng": -80.26603,
+    "city": "Plantation"
   },
   "Columbia": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Lake City",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Columbia Lake City": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Columbus": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Community School of Naples": {
-    "lat": 26.142,
-    "lng": -81.7948,
-    "city": "Naples",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Cooper City": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Cooper City",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Cooper City High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Coral Gables": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Coral Gables",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Coral Gables High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Coral Glades": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Coral Springs",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Coral Park": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Coral Reef": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Coral Shores": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Tavernier",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Coral Springs": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Coral Springs",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Coral Springs Charter": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Coral Springs",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Cornerstone Academy": {
-    "lat": 29.6516,
-    "lng": -82.3248,
-    "city": "Gainesville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Cornerstone Charter Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Belle Isle",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Cornerstone Classical Academy": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Cottondale": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Cottondale",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Countryside": {
-    "lat": 27.9659,
-    "lng": -82.8001,
-    "city": "Clearwater",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Countryside Christian": {
-    "lat": 29.6516,
-    "lng": -82.3248,
-    "city": "Gainesville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Crawfordville": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Creekside": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "St Johns",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Crescent City": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Crescent City",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Crestview": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Crestview",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Cross City": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Crystal River": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Crystal River",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Cutler Bay": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Cypress Bay": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Weston",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Cypress Creek": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Cypress Creek Fl": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Cypress Lake": {
-    "lat": 26.6406,
-    "lng": -81.8723,
-    "city": "Fort Myers",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Dade City": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Dania Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Davenport": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Davenport",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Davie": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Daytona Beach": {
-    "lat": 29.2108,
-    "lng": -81.0228,
-    "city": "Daytona Beach",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Daytona Mainland": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "DeLand": {
-    "lat": 29.0283,
-    "lng": -81.3031,
-    "city": "Deland",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "DeSoto County": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Arcadia",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Debary": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Deerfield Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Deerfield Beach",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Defuniak Springs": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Delray Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Deltona": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Deltona",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Destin": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Destin",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Dillard": {
-    "lat": 26.1224,
-    "lng": -80.1373,
-    "city": "Fort Lauderdale",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Discovery": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Lake Alfred",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Dixie County": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Cross City",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Doral": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Doral Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Doral",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Dr. Joaquin Garcia": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Lake Worth",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Dr. Krop": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Dr. Phillips": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Dunbar": {
-    "lat": 26.6406,
-    "lng": -81.8723,
-    "city": "Fort Myers",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Dunedin": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Dunedin",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Dunnellon": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Durant": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Plant City",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Duval Charter": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Dwyer": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Palm Beach Gardens",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "ED White": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Eagle's View": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "East Bay": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Gibsonton",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "East Lake": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Tarpon Springs",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "East Lee County": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Lehigh Acres",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "East Ridge": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Clermont",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "East River": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Eastland Christian": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Eastside": {
-    "lat": 29.6516,
-    "lng": -82.3248,
-    "city": "Gainesville",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Eau Gallie": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Edgewater": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Edison": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Englewood": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Episcopal School of Jacksonville": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Escambia": {
-    "lat": 30.4213,
-    "lng": -87.2169,
-    "city": "Pensacola",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Estcro": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Estero": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Estero",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Eustis": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Eustis",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Evangelical Christian": {
-    "lat": 26.6406,
-    "lng": -81.8723,
-    "city": "Fort Myers",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Evans": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Everglades": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miramar",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Everglades Prep Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Homestead",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "FAMU DRS": {
-    "lat": 30.4383,
-    "lng": -84.2807,
-    "city": "Tallahassee",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Faith Christian": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Father Lopez": {
-    "lat": 29.2108,
-    "lng": -81.0228,
-    "city": "Daytona Beach",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Ferguson": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Fernandina Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Fernandina Beach",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "First Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Leesburg",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "First Baptist Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "First Coast": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "First Coast Christian": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Fivay": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Hudson",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Flagler Palm Coast": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Palm Coast",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Flanagan": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Pembroke Pines",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Fleming Island": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Fletcher": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Neptune Beach",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Florida Christian": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Florida High": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Florida State University High School": {
-    "lat": 30.4383,
-    "lng": -84.2807,
-    "city": "Tallahassee",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Forest": {
-    "lat": 29.1872,
-    "lng": -82.1401,
-    "city": "Ocala",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Forest Hill": {
-    "lat": 26.7153,
-    "lng": -80.0534,
-    "city": "West Palm Beach",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Forest Ocala": {
-    "lat": 29.1872,
-    "lng": -82.1401,
-    "city": "Ocala",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Fort Lauderdale": {
-    "lat": 26.1224,
-    "lng": -80.1373,
-    "city": "Fort Lauderdale",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Fort Meade": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Fort Myers": {
-    "lat": 26.6406,
-    "lng": -81.8723,
-    "city": "Fort Myers",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Fort Pierce": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Fort Pierce Central": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Fort Pierce Westwood": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Fort Walton Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Fort Walton Beach",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Fort White": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Fort White",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Foundation Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Winter Garden",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Foundation Christian Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Valrico",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Four Corners": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Davenport",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Franklin County": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Eastpoint",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Freedom": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Freedom Fl": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Freeport": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Freeport",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Frostproof": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Frostproof",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Fruitland Park": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Gadsden County": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Gainesville": {
-    "lat": 29.6516,
-    "lng": -82.3248,
-    "city": "Gainesville",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Gainesville Christian Community": {
-    "lat": 29.6516,
-    "lng": -82.3248,
-    "city": "Gainesville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Gaither": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Gateway": {
-    "lat": 26.6406,
-    "lng": -81.8723,
-    "city": "Fort Myers",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Gateway Charter": {
-    "lat": 26.6406,
-    "lng": -81.8723,
-    "city": "Fort Myers",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Geneva": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Casselberry",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Geneva Classical Academy": {
-    "lat": 28.0395,
-    "lng": -81.9498,
-    "city": "Lakeland",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "George Jenkins": {
-    "lat": 28.0395,
-    "lng": -81.9498,
-    "city": "Lakeland",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Gibbs": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "St Petersburg",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Gibsonton": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Glades Central": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Belle Glade",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Glades Day": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Belle Glade",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Godby": {
-    "lat": 30.4383,
-    "lng": -84.2807,
-    "city": "Tallahassee",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Golden Gate": {
-    "lat": 26.142,
-    "lng": -81.7948,
-    "city": "Naples",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Goleman": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Graceville": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Graceville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Green Cove Springs": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Gulf": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "New Port Richey",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Gulf Breeze": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Gulf Breeze",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Gulf Coast": {
-    "lat": 26.142,
-    "lng": -81.7948,
-    "city": "Naples",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Gulliver Prep": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Hagerty": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Oviedo",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Haines City": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Haines City",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Halifax Academy": {
-    "lat": 29.2108,
-    "lng": -81.0228,
-    "city": "Daytona Beach",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Hallandale": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Hallandale",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Hamilton County": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Jasper",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Hardee": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Wauchula",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Harmony": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Harmony",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Harvest Community": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Havana": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Hawthorne": {
-    "lat": 29.5919,
-    "lng": -82.0873,
-    "city": "Hawthorne",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Heritage": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Palm Bay",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Heritage Palm Bay": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Hernando": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Brooksville",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Hernando Christian Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Brooksville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Hialeah": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Hialeah",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Hialeah Gardens": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Hialeah Gardens",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Hialeah-Miami Lakes": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Hialeah",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "High Springs": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Hilliard": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Hilliard",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Hillsborough": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Hobe Sound": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Hollins": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "St Petersburg",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Hollywood": {
-    "lat": 26.0112,
-    "lng": -80.1495,
-    "city": "Hollywood",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Hollywood Hills": {
-    "lat": 26.0112,
-    "lng": -80.1495,
-    "city": "Hollywood",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Holmes County": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Holy Trinity Episcopal Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Melbourne",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Homestead": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Homestead",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Horizon": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Winter Garden",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Hudson": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Hudson",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "IMG Academy": {
-    "lat": 27.4989,
-    "lng": -82.5748,
-    "city": "Bradenton",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "IMG Academy Junior National": {
-    "lat": 27.4989,
-    "lng": -82.5748,
-    "city": "Bradenton",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "IMG Academy State": {
-    "lat": 27.4989,
-    "lng": -82.5748,
-    "city": "Bradenton",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Ida Baker": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Cape Coral",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Immaculata-La Salle": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Immokalee": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Immokalee",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Impact Christian Academy": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Indialantic": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Indian Rocks": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Indian Rocks Christian": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Largo",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Inlet Grove": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Riviera Beach",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Innovation": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Interlachen": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Interlachen",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Inverness": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Islamorda": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Island Coast": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Cape Coral",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Jackson": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Jasper": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Jay": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Jay",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Jefferson": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Jensen Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Jensen Beach",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Jesuit (Tampa)": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Jesuit Tampa": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "John Carroll Catholic": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Fort Pierce",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Jones": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Joshua Christian Academy": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Jupiter": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Jupiter",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Jupiter Christian": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Jupiter",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "KIPP Bold City": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Kathleen": {
-    "lat": 28.0395,
-    "lng": -81.9498,
-    "city": "Lakeland",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Keswick Christian": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "St Petersburg",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Key West": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Key West",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Keystone Heights": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Keystone Heights",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Killian": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "King": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "King Tampa": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "King's Academy": {
-    "lat": 26.7153,
-    "lng": -80.0534,
-    "city": "West Palm Beach",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Kissimmee": {
-    "lat": 28.292,
-    "lng": -81.4076,
-    "city": "Kissimmee",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Kissimmee Osceola": {
-    "lat": 28.292,
-    "lng": -81.4076,
-    "city": "Kissimmee",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "LaBelle": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Labelle",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Lafayette": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Mayo",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Lake Alfred": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Lake Brantley": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Altamonte Springs",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Lake Buena Vista": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Lake Butler": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Lake City": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Lake Gibson": {
-    "lat": 28.0395,
-    "lng": -81.9498,
-    "city": "Lakeland",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Lake Highland Prep": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Lake Howell": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Winter Park",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Lake Mary": {
-    "lat": 28.7589,
-    "lng": -81.3178,
-    "city": "Lake Mary",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Lake Mary Prep": {
-    "lat": 28.7589,
-    "lng": -81.3178,
-    "city": "Lake Mary",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Lake Minneola": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Minneola",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Lake Nona": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Lake Placid": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Lake Placid",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Lake Region": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Eagle Lake",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Lake Wales": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Lake Wales",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Lake Weir": {
-    "lat": 29.1872,
-    "lng": -82.1401,
-    "city": "Ocala",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Lake Worth": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Lake Worth",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Lakeland": {
-    "lat": 28.0395,
-    "lng": -81.9498,
-    "city": "Lakeland",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Lakeland Christian": {
-    "lat": 28.0395,
-    "lng": -81.9498,
-    "city": "Lakeland",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Lakeside Christian": {
-    "lat": 27.9659,
-    "lng": -82.8001,
-    "city": "Clearwater",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Lakewood": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Lakewood Ranch": {
-    "lat": 27.4989,
-    "lng": -82.5748,
-    "city": "Bradenton",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Land O' Lakes": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Land O Lakes",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Lantana": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Largo": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Largo",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Lauderdale Lakes": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Lauderhill": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Lecanto": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Lecanto",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Leesburg": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Leesburg",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Legacy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Port St Lucie",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Lehigh": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Lehigh Acres",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Lehigh Acres": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Lely": {
-    "lat": 26.142,
-    "lng": -81.7948,
-    "city": "Naples",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Lemon Bay": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Englewood",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Lennard": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Ruskin",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Leon": {
-    "lat": 30.4383,
-    "lng": -84.2807,
-    "city": "Tallahassee",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Leonard": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Greenacres",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Leto": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Letot": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Liberty": {
-    "lat": 28.292,
-    "lng": -81.4076,
-    "city": "Kissimmee",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Liberty County": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Bristol",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Lighthouse Private Christian Academy": {
-    "lat": 30.4213,
-    "lng": -87.2169,
-    "city": "Pensacola",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Lincoln": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Lithia": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Live Oak": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Longwood": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Lutz": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Lyman": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Longwood",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Lynn Haven": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Macclenny": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Maclay": {
-    "lat": 30.4383,
-    "lng": -84.2807,
-    "city": "Tallahassee",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Madison": {
-    "lat": 30.4694,
-    "lng": -83.4129,
-    "city": "Madison",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Madison County": {
-    "lat": 30.4694,
-    "lng": -83.4129,
-    "city": "Madison",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Mainland": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Maitland": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Manatee": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Mandarin": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Marathon": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Marathon",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Marco Island": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Marco Island Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Marco Island",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Margate": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Marianna": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Marianna",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Mariner": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Cape Coral",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Marjory Stoneman Douglas": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Martin County": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Stuart",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Master's Academy": {
-    "lat": 27.6386,
-    "lng": -80.3973,
-    "city": "Vero Beach",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Matanzas": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Palm Coast",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Mater Academy Charter": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Hialeah Gardens",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Mayo": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "McArthur": {
-    "lat": 26.0112,
-    "lng": -80.1495,
-    "city": "Hollywood",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "McLaughlin": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Lake Wales",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Melbourne": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Melbourne",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Melbourne Central Catholic": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Melbourne",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Menendez": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "St Augustine",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Merrit Island": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Merritt Island": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Merritt Island",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Merritt Island Christian": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Merritt Island",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Miami": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Miami Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami Beach",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Miami Braddock": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Miami Central": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Miami Columbus": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Miami Coral Park": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Miami Coral Reef": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Miami Ferguson": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Miami Killian": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Miami Norland": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Miami Northwestern": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Miami Palmetto": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Miami Southridge": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Miami Southwest": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Miami Springs": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami Springs",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Middleburg": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Middleburg",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Middleton": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Milton": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Milton",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Minneola": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Miramar": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miramar",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Mitchell": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "New Port Richey",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Monarch": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Monsignor Pace": {
-    "lat": 30.6005,
-    "lng": -87.1611,
-    "city": "Pace",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Monticello": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Moore Haven": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Moore Haven",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Morgan": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Wimauma",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Mosley": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Lynn Haven",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Mount Dora": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Mount Dora",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Mount Dora Christian Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Mount Dora",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Mulberry": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Mulberry",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "NEXTGEN PREP": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Pompano Beach",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "NSU University": {
-    "lat": 26.1224,
-    "lng": -80.1373,
-    "city": "Fort Lauderdale",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Naples": {
-    "lat": 26.142,
-    "lng": -81.7948,
-    "city": "Naples",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Nature Coast Tech": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Brooksville",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Navarre": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Navarre",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Nease": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Neptune Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Neumann": {
-    "lat": 26.142,
-    "lng": -81.7948,
-    "city": "Naples",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "New Port Richey": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "New Smyrna Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "New Smyrna Beach",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Newberry": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Newsome": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Lithia",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Niceville": {
-    "lat": 30.5169,
-    "lng": -86.4822,
-    "city": "Niceville",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Nokomis": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Norland": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "North Bay Haven Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Panama City",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "North Broward Prep": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Coconut Creek",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "North Florida Christian": {
-    "lat": 30.4383,
-    "lng": -84.2807,
-    "city": "Tallahassee",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "North Florida Educational Institute": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "North Fort Myers": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "North Fort Myers",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "North Marion": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Citra",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "North Miami": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "North Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "North Miami Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "North Miami Beach",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "North Palm Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "North Port": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "North Port",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Northeast": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "St Petersburg",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Northeast St. Pete": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Northside Christian": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "St Petersburg",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Northview": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Bratt",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Northwestern": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Nova": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Davie",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Nova Lakes": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "St Cloud",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Oak Hall": {
-    "lat": 29.6516,
-    "lng": -82.3248,
-    "city": "Gainesville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Oak Hill": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Oak Ridge": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Oakleaf": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Oasis": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Cape Coral",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Ocala": {
-    "lat": 29.1872,
-    "lng": -82.1401,
-    "city": "Ocala",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Ocala Christian": {
-    "lat": 29.1872,
-    "lng": -82.1401,
-    "city": "Ocala",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Ocoee": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Ocoee",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Odessa": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Okeechobee": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Okeechobee",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Old Plank Christian Academy": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Oldsmar": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Olympia": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Olympic Heights": {
-    "lat": 26.3683,
-    "lng": -80.1289,
-    "city": "Boca Raton",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Opa-Locka": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Orange City": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Orange Park": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Orange Park",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Orangewood Christian": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Maitland",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Orlando": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Ormond Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Osceola": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Out-of-Door Academy": {
-    "lat": 27.3364,
-    "lng": -82.5307,
-    "city": "Sarasota",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Oviedo": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Oviedo",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Oxbridge Academy": {
-    "lat": 26.7153,
-    "lng": -80.0534,
-    "city": "West Palm Beach",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "P.K. Yonge": {
-    "lat": 29.6516,
-    "lng": -82.3248,
-    "city": "Gainesville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Pace": {
-    "lat": 30.6005,
-    "lng": -87.1611,
-    "city": "Pace",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Pahokee": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Palatka": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Palatka",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Palm Bay": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Melbourne",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Palm Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Palm Beach Central": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Wellington",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Palm Beach Christian Prep": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Greenacres",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Palm Beach Gardens": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Palm Beach Gardens",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Palm Beach Lakes": {
-    "lat": 26.7153,
-    "lng": -80.0534,
-    "city": "West Palm Beach",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Palm Coast": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Palm Glades Prep Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Palm Harbor": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Palm Harbor University": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Palm Harbor",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Palmer Trinity": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Palmetto": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Palmetto",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Palmetto Fl": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Palmetto Ridge": {
-    "lat": 26.142,
-    "lng": -81.7948,
-    "city": "Naples",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Panama City": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Park Vista": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Lake Worth",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Parkland": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Parkridge Christian": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Coral Springs",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Parrish Community": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Parrish",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Pasco": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Dade City",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Paxon School For Advanced Studies": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Pembroke Pines": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Pembroke Pines Charter": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Pembroke Pines",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Pensacola": {
-    "lat": 30.4213,
-    "lng": -87.2169,
-    "city": "Pensacola",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Pensacola Catholic": {
-    "lat": 30.4213,
-    "lng": -87.2169,
-    "city": "Pensacola",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Perry": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Pierson": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Pine Crest": {
-    "lat": 26.1224,
-    "lng": -80.1373,
-    "city": "Fort Lauderdale",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Pine Forest": {
-    "lat": 30.4213,
-    "lng": -87.2169,
-    "city": "Pensacola",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Pine Ridge": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Deltona",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Pinecrest": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Pinellas Park": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Largo",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Piper": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Sunrise",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Plant City": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Plant City",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Plantation": {
-    "lat": 26.1276,
-    "lng": -80.2331,
-    "city": "Plantation",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Poinciana": {
-    "lat": 28.292,
-    "lng": -81.4076,
-    "city": "Kissimmee",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Polk City": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Pompano Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Pompano Beach",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Ponte Vedra": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
+    "lat": 30.18864,
+    "lng": -82.64225,
+    "city": "Lake City"
   },
   "Port Charlotte": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Port Orange": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Port St. Joe": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Port St. Lucie": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Port St Lucie",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Providence School": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Punta Gorda": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Quincy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Raines": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Ransom Everglades": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Reagan": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Doral",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Real Life Christian Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Clermont",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Ribault": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Rickards": {
-    "lat": 30.4383,
-    "lng": -84.2807,
-    "city": "Tallahassee",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Ridge Community": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Davenport",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Ridgeview": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Orange Park",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "River Ridge": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "New Port Richey",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Riverdale": {
-    "lat": 26.6406,
-    "lng": -81.8723,
-    "city": "Fort Myers",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Riverdale Fl": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Riverside": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Riverview": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Riverview",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Riverview Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Riverview",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Riverview Sarasota": {
-    "lat": 27.3364,
-    "lng": -82.5307,
-    "city": "Sarasota",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Riviera Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Robinson": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Robinson Tampa": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Rockledge": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Rockledge",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Rocky Bayou Christian": {
-    "lat": 30.5169,
-    "lng": -86.4822,
-    "city": "Niceville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Royal Palm Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Royal Palm Beach",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Ruskin": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Rutherford": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Panama City",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "SFA": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Dover",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Safety Harbor": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Saint Andrew's": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Saint Francis Catholic Academy": {
-    "lat": 29.6516,
-    "lng": -82.3248,
-    "city": "Gainesville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Saint Stephen's Episcopal": {
-    "lat": 27.4989,
-    "lng": -82.5748,
-    "city": "Bradenton",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Sandalwood": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Sanford": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Sanford Seminole": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Santa Fe": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Alachua",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Santa Fe Catholic": {
-    "lat": 28.0395,
-    "lng": -81.9498,
-    "city": "Lakeland",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Santaluces": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Lantana",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Sarasota": {
-    "lat": 27.3364,
-    "lng": -82.5307,
-    "city": "Sarasota",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Sarasota Booker": {
-    "lat": 27.3364,
-    "lng": -82.5307,
-    "city": "Sarasota",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Sarasota Christian": {
-    "lat": 27.3364,
-    "lng": -82.5307,
-    "city": "Sarasota",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Sarasota Riverview": {
-    "lat": 27.3364,
-    "lng": -82.5307,
-    "city": "Sarasota",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Satellite": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Satellite Beach",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Satellite Beach": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Seabreeze": {
-    "lat": 29.2108,
-    "lng": -81.0228,
-    "city": "Daytona Beach",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Sebastian": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Sebastian River": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Sebastian",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Sebring": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Sebring",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Seffner": {
-    "lat": 28.0014,
-    "lng": -82.2756,
-    "city": "Seffner",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Seffner Christian": {
-    "lat": 28.0014,
-    "lng": -82.2756,
-    "city": "Seffner",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Seminole": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Seminole Ridge": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Loxahatchee",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Seven Rivers Christian": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Lecanto",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Shalimar": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Sickles": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "SmartEn Sports Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Sneads": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Sneads",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Somerset Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Pembroke Pines",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Somerset Academy - Canyons": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Boynton Beach",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Somerset Academy South Homestead": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Homestead",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Somerset Prep": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "North Lauderdale",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "South Broward": {
-    "lat": 26.0112,
-    "lng": -80.1495,
-    "city": "Hollywood",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "South Dade": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Homestead",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "South Fork": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Stuart",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "South Fort Myers": {
-    "lat": 26.6406,
-    "lng": -81.8723,
-    "city": "Fort Myers",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "South Lake": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Groveland",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "South Marion": {
-    "lat": 29.1872,
-    "lng": -82.1401,
-    "city": "Ocala",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "South Miami": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "South Plantation": {
-    "lat": 26.1276,
-    "lng": -80.2331,
-    "city": "Plantation",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "South Sumter": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Bushnell",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "South Walton": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Santa Rosa Beach",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Southeast": {
-    "lat": 27.4989,
-    "lng": -82.5748,
-    "city": "Bradenton",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Southridge": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Southwest": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Southwest Florida Christian": {
-    "lat": 26.6406,
-    "lng": -81.8723,
-    "city": "Fort Myers",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Space Coast": {
-    "lat": 28.3861,
-    "lng": -80.742,
-    "city": "Cocoa",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Spanish River": {
-    "lat": 26.3683,
-    "lng": -80.1289,
-    "city": "Boca Raton",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Sports Leadership & Management": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Spoto": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Riverview",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Spring Hill": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Springstead": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Spring Hill",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Spruce Creek": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Port Orange",
-    "state": "FL",
-    "conference": "FHSAA 6A"
+    "lat": 26.98947,
+    "lng": -82.11365,
+    "city": "Port Charlotte"
+  },
+  "Bishop Moore": {
+    "lat": 28.40441,
+    "lng": -81.25205,
+    "city": "Orlando"
+  },
+  "Jones": {
+    "lat": 28.40776,
+    "lng": -81.25738,
+    "city": "Orlando"
+  },
+  "Northwestern": {
+    "lat": 25.77676,
+    "lng": -80.20981,
+    "city": "Miami"
   },
   "St. Augustine": {
-    "lat": 29.9012,
-    "lng": -81.3124,
-    "city": "St. Augustine",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "St. Brendan": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "St. Cloud": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "St Cloud",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "St. Edward's": {
-    "lat": 27.6386,
-    "lng": -80.3973,
-    "city": "Vero Beach",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "St. John Lutheran": {
-    "lat": 29.1872,
-    "lng": -82.1401,
-    "city": "Ocala",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "St. John Paul II": {
-    "lat": 30.4383,
-    "lng": -84.2807,
-    "city": "Tallahassee",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "St. John Paul II Academy": {
-    "lat": 26.3683,
-    "lng": -80.1289,
-    "city": "Boca Raton",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "St. Joseph Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "St Augustine",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "St. Petersburg": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "St Petersburg",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "St. Petersburg Catholic": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "St Petersburg",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "St. Thomas Aquinas": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Stanton": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Starke": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Steinbrenner": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Lutz",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Stoneman Douglas": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Parkland",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Stranahan": {
-    "lat": 26.1224,
-    "lng": -80.1373,
-    "city": "Fort Lauderdale",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Strawberry Crest": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Dover",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Stuart": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Summerfield": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Sumner": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Riverview",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Suncoast": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Riviera Beach",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Sunlake": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Land O Lakes",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Sunrise": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Sunset": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Suwannee": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Live Oak",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Tallahassee": {
-    "lat": 30.4383,
-    "lng": -84.2807,
-    "city": "Tallahassee",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Tamarac": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Tampa": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Tampa Bay Tech": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Tampa Catholic": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Taravella": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Coral Springs",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Tarpon Springs": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Tarpon Springs",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Tate": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Cantonment",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Tavares": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Tavares",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Tavernier": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Taylor County": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Perry",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Temple Terrace": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Tenoroc": {
-    "lat": 28.0395,
-    "lng": -81.9498,
-    "city": "Lakeland",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Tequesta": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Terry Parker": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "The First Academy": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "The Master's Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Oviedo",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "The Villages": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "The Villages Charter": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "The Villages",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Thonotosassa": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Timber Creek": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Titusville": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Titusville",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Tocoi Creek": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "St Augustine",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Tohopekaliga": {
-    "lat": 28.292,
-    "lng": -81.4076,
-    "city": "Kissimmee",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Tradition Prep": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Port St Lucie",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Treasure Coast": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Port St Lucie",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Trenton": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Trenton",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Trinity": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Trinity Catholic": {
-    "lat": 29.1872,
-    "lng": -82.1401,
-    "city": "Ocala",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Trinity Christian": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Trinity Christian Academy": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Trinity Prep": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Winter Park",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "True North Classical": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "True North Classical Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Umatilla": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Umatilla",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Union County": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "University": {
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "city": "Orlando",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "University Christian": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "University Orange City": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Valrico": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
+    "lat": 29.89861,
+    "lng": -81.31327,
+    "city": "St Augustine"
+  },
+  "Lake Wales": {
+    "lat": 27.91856,
+    "lng": -81.60389,
+    "city": "Lake Wales"
+  },
+  "ED White": {
+    "lat": 30.33771,
+    "lng": -81.6579,
+    "city": "Jacksonville"
+  },
+  "McArthur": {
+    "lat": 26.03151,
+    "lng": -80.17073,
+    "city": "Hollywood"
+  },
+  "Norland": {
+    "lat": 25.77436,
+    "lng": -80.21121,
+    "city": "Miami"
+  },
+  "Choctawhatchee": {
+    "lat": 30.42527,
+    "lng": -86.62409,
+    "city": "Fort Walton Beach"
+  },
+  "Jesuit": {
+    "lat": 27.97066,
+    "lng": -82.47428,
+    "city": "Tampa"
+  },
+  "Atlantic": {
+    "lat": 26.4559,
+    "lng": -80.09042,
+    "city": "Delray Beach"
+  },
+  "Mosley": {
+    "lat": 30.23357,
+    "lng": -85.63692,
+    "city": "Lynn Haven"
   },
   "Vanguard": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
+    "lat": 29.18316,
+    "lng": -82.14983,
+    "city": "Ocala"
   },
-  "Varela": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
+  "Rickards": {
+    "lat": 30.45532,
+    "lng": -84.24677,
+    "city": "Tallahassee"
   },
-  "Venice": {
-    "lat": 27.0998,
-    "lng": -82.4543,
-    "city": "Venice",
-    "state": "FL",
-    "conference": "FHSAA 7A"
+  "Naples": {
+    "lat": 26.15226,
+    "lng": -81.79624,
+    "city": "Naples"
   },
-  "Vernon": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Vernon",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
+  "Jensen Beach": {
+    "lat": 27.24398,
+    "lng": -80.24114,
+    "city": "Jensen Beach"
   },
-  "Vero Beach": {
-    "lat": 27.6386,
-    "lng": -80.3973,
-    "city": "Vero Beach",
-    "state": "FL",
-    "conference": "FHSAA 7A"
+  "Miramar": {
+    "lat": 25.96666,
+    "lng": -80.33678,
+    "city": "Miramar"
   },
-  "Victory Christian": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 1A"
+  "Dunbar": {
+    "lat": 26.61925,
+    "lng": -81.82628,
+    "city": "Fort Myers"
   },
-  "Victory Christian Academy": {
-    "lat": 28.0395,
-    "lng": -81.9498,
-    "city": "Lakeland",
-    "state": "FL",
-    "conference": "FHSAA 1A"
+  "Lincoln": {
+    "lat": 30.45817,
+    "lng": -84.24914,
+    "city": "Tallahassee"
   },
-  "Viera": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Viera",
-    "state": "FL",
-    "conference": "FHSAA 5A"
+  "Clearwater": {
+    "lat": 27.98349,
+    "lng": -82.7704,
+    "city": "Clearwater"
   },
-  "Wakulla": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
+  "Clay": {
+    "lat": 29.98531,
+    "lng": -81.68098,
+    "city": "Green Cove Springs"
   },
-  "Walton": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Defuniak Springs",
-    "state": "FL",
-    "conference": "FHSAA 2A"
+  "South Fort Myers": {
+    "lat": 26.62269,
+    "lng": -81.83127,
+    "city": "Fort Myers"
   },
-  "Washington Pensacola": {
-    "lat": 30.4213,
-    "lng": -87.2169,
-    "city": "Pensacola",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Wauchula": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Webster": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Weeki Wachee": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Weeki Wachee",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Wekiva": {
-    "lat": 28.6934,
-    "lng": -81.5322,
-    "city": "Apopka",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Wekiwa Springs": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Wellen Park": {
-    "lat": 27.0998,
-    "lng": -82.4543,
-    "city": "Venice",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Wellington": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Wellington",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Wesley Chapel": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Wesley Chapel",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "West Boca Raton": {
-    "lat": 26.3683,
-    "lng": -80.1289,
-    "city": "Boca Raton",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "West Broward": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Pembroke Pines",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "West Florida": {
-    "lat": 30.4213,
-    "lng": -87.2169,
-    "city": "Pensacola",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "West Melbourne": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "West Nassau": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Callahan",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "West Orange": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Winter Garden",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "West Palm Beach": {
-    "lat": 26.7153,
-    "lng": -80.0534,
-    "city": "West Palm Beach",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "West Port": {
-    "lat": 29.1872,
-    "lng": -82.1401,
-    "city": "Ocala",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Western": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Westminster Academy": {
-    "lat": 26.1224,
-    "lng": -80.1373,
-    "city": "Fort Lauderdale",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Westminster Christian": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Weston": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Westside": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Westwood": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Fort Pierce",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Wewahitchka": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Wewahitchka",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Wharton": {
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "city": "Tampa",
-    "state": "FL",
-    "conference": "FHSAA 5A"
-  },
-  "Wharton Fl": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Whelchel": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 2A"
-  },
-  "Wildwood": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Wildwood",
-    "state": "FL",
-    "conference": "FHSAA 1A"
-  },
-  "Williston": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Windermere": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Windermere",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Windermere Prep": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Windermere",
-    "state": "FL",
-    "conference": "FHSAA RURAL"
-  },
-  "Winter Garden": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Winter Haven": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Winter Haven",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Winter Park": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 7A"
-  },
-  "Winter Springs": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Winter Springs",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Wiregrass Ranch": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 6A"
-  },
-  "Wolfson": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA 3A"
-  },
-  "Yulee": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Yulee",
-    "state": "FL",
-    "conference": "FHSAA 4A"
-  },
-  "Zarephath Academy": {
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "city": "Jacksonville",
-    "state": "FL",
-    "conference": "FHSAA 7A"
+  "Blanche Ely": {
+    "lat": 26.24162,
+    "lng": -80.13385,
+    "city": "Pompano Beach"
   },
   "Zephyrhills": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Miami",
-    "state": "FL",
-    "conference": "FHSAA 4A"
+    "lat": 28.23461,
+    "lng": -82.17838,
+    "city": "Zephyrhills"
+  },
+  "New Smyrna Beach": {
+    "lat": 29.02936,
+    "lng": -80.95486,
+    "city": "New Smyrna Beach"
+  },
+  "Estero": {
+    "lat": 26.42559,
+    "lng": -81.79954,
+    "city": "Estero"
+  },
+  "Gulf Coast": {
+    "lat": 26.15028,
+    "lng": -81.80144,
+    "city": "Naples"
+  },
+  "Escambia": {
+    "lat": 30.44345,
+    "lng": -87.18745,
+    "city": "Pensacola"
+  },
+  "Hillsborough": {
+    "lat": 27.97259,
+    "lng": -82.47757,
+    "city": "Tampa"
+  },
+  "Riverside": {
+    "lat": 30.33583,
+    "lng": -81.66331,
+    "city": "Jacksonville"
+  },
+  "American": {
+    "lat": 25.86894,
+    "lng": -80.30577,
+    "city": "Hialeah"
+  },
+  "Fleming Island": {
+    "lat": 30.17485,
+    "lng": -81.70187,
+    "city": "Orange Park"
+  },
+  "Middleburg": {
+    "lat": 30.05023,
+    "lng": -81.90108,
+    "city": "Middleburg"
+  },
+  "Lake Weir": {
+    "lat": 29.18174,
+    "lng": -82.14633,
+    "city": "Ocala"
+  },
+  "Booker T. Washington": {
+    "lat": 30.44673,
+    "lng": -87.19054,
+    "city": "Pensacola"
+  },
+  "Yulee": {
+    "lat": 30.63542,
+    "lng": -81.56958,
+    "city": "Yulee"
+  },
+  "East Bay": {
+    "lat": 27.82756,
+    "lng": -82.37928,
+    "city": "Gibsonton"
+  },
+  "River Ridge": {
+    "lat": 28.24906,
+    "lng": -82.72153,
+    "city": "New Port Richey"
+  },
+  "Chiles": {
+    "lat": 30.45511,
+    "lng": -84.2535,
+    "city": "Tallahassee"
+  },
+  "Seabreeze": {
+    "lat": 29.19347,
+    "lng": -81.09798,
+    "city": "Daytona Beach"
+  },
+  "Heritage": {
+    "lat": 27.9548,
+    "lng": -80.66496,
+    "city": "Palm Bay"
+  },
+  "Leon": {
+    "lat": 30.45128,
+    "lng": -84.2541,
+    "city": "Tallahassee"
+  },
+  "North Miami": {
+    "lat": 25.90083,
+    "lng": -80.1686,
+    "city": "North Miami"
+  },
+  "Springstead": {
+    "lat": 28.47921,
+    "lng": -82.52966,
+    "city": "Spring Hill"
+  },
+  "Milton": {
+    "lat": 30.62964,
+    "lng": -87.05141,
+    "city": "Milton"
+  },
+  "Plantation": {
+    "lat": 26.12408,
+    "lng": -80.26341,
+    "city": "Plantation"
+  },
+  "Ribault": {
+    "lat": 30.34132,
+    "lng": -81.66089,
+    "city": "Jacksonville"
+  },
+  "Deltona": {
+    "lat": 28.90512,
+    "lng": -81.21098,
+    "city": "Deltona"
+  },
+  "Gainesville": {
+    "lat": 29.68299,
+    "lng": -82.34878,
+    "city": "Gainesville"
+  },
+  "St. Petersburg": {
+    "lat": 27.76491,
+    "lng": -82.64544,
+    "city": "St Petersburg"
+  },
+  "Fort Walton Beach": {
+    "lat": 30.4252,
+    "lng": -86.6196,
+    "city": "Fort Walton Beach"
+  },
+  "Aubrey Rogers": {
+    "lat": 26.15085,
+    "lng": -81.79116,
+    "city": "Naples"
+  },
+  "Westwood": {
+    "lat": 27.43215,
+    "lng": -80.34434,
+    "city": "Fort Pierce"
+  },
+  "Pinellas Park": {
+    "lat": 27.91154,
+    "lng": -82.77467,
+    "city": "Largo"
+  },
+  "Barron Collier": {
+    "lat": 26.14677,
+    "lng": -81.79019,
+    "city": "Naples"
+  },
+  "Gulf": {
+    "lat": 28.24807,
+    "lng": -82.72217,
+    "city": "New Port Richey"
+  },
+  "Northeast": {
+    "lat": 27.76106,
+    "lng": -82.64872,
+    "city": "St. Petersburg"
+  },
+  "Winter Springs": {
+    "lat": 28.68806,
+    "lng": -81.26996,
+    "city": "Winter Springs"
+  },
+  "Arnold": {
+    "lat": 30.23315,
+    "lng": -85.87712,
+    "city": "Panama City Beach"
+  },
+  "Orange Park": {
+    "lat": 30.16503,
+    "lng": -81.70714,
+    "city": "Orange Park"
+  },
+  "Fivay": {
+    "lat": 28.3544,
+    "lng": -82.69034,
+    "city": "Hudson"
+  },
+  "Middleton": {
+    "lat": 27.96757,
+    "lng": -82.48507,
+    "city": "Tampa"
+  },
+  "Golden Gate": {
+    "lat": 26.15008,
+    "lng": -81.79762,
+    "city": "Naples"
+  },
+  "Lecanto": {
+    "lat": 28.82509,
+    "lng": -82.49979,
+    "city": "Lecanto"
+  },
+  "Fort Myers": {
+    "lat": 26.61747,
+    "lng": -81.82639,
+    "city": "Fort Myers"
+  },
+  "Mariner": {
+    "lat": 26.63958,
+    "lng": -81.99711,
+    "city": "Cape Coral"
+  },
+  "Blake": {
+    "lat": 27.96746,
+    "lng": -82.4809,
+    "city": "Tampa"
+  },
+  "Kathleen": {
+    "lat": 28.05198,
+    "lng": -81.9598,
+    "city": "Lakeland"
+  },
+  "Lake Region": {
+    "lat": 27.97427,
+    "lng": -81.75539,
+    "city": "Eagle Lake"
+  },
+  "Mount Dora": {
+    "lat": 28.81335,
+    "lng": -81.63341,
+    "city": "Mount Dora"
+  },
+  "Pasco": {
+    "lat": 28.35263,
+    "lng": -82.19416,
+    "city": "Dade City"
+  },
+  "Ridgeview": {
+    "lat": 30.17287,
+    "lng": -81.70589,
+    "city": "Orange Park"
+  },
+  "Brandon": {
+    "lat": 27.93598,
+    "lng": -82.29926,
+    "city": "Brandon"
+  },
+  "Hialeah": {
+    "lat": 25.86729,
+    "lng": -80.30039,
+    "city": "Hialeah"
+  },
+  "Gulf Breeze": {
+    "lat": 30.36826,
+    "lng": -87.17345,
+    "city": "Gulf Breeze"
+  },
+  "Legacy": {
+    "lat": 27.28275,
+    "lng": -80.38331,
+    "city": "Port St. Lucie"
+  },
+  "Osceola": {
+    "lat": 27.83883,
+    "lng": -82.78793,
+    "city": "Seminole"
+  },
+  "Sebastian River": {
+    "lat": 27.77921,
+    "lng": -80.48265,
+    "city": "Sebastian"
+  },
+  "Hudson": {
+    "lat": 28.36165,
+    "lng": -82.68697,
+    "city": "Hudson"
+  },
+  "Port St. Lucie": {
+    "lat": 27.2806,
+    "lng": -80.39134,
+    "city": "Port St Lucie"
+  },
+  "Leesburg": {
+    "lat": 28.71721,
+    "lng": -81.90309,
+    "city": "Leesburg"
+  },
+  "Hollins": {
+    "lat": 27.76568,
+    "lng": -82.64551,
+    "city": "St. Petersburg"
+  },
+  "Freedom": {
+    "lat": 27.97423,
+    "lng": -82.47931,
+    "city": "Tampa"
+  },
+  "Carrollwood Day": {
+    "lat": 27.9694,
+    "lng": -82.48193,
+    "city": "Tampa"
+  },
+  "Trinity Christian Academy": {
+    "lat": 30.33436,
+    "lng": -81.66054,
+    "city": "Jacksonville"
+  },
+  "True North Classical Academy": {
+    "lat": 25.77732,
+    "lng": -80.20888,
+    "city": "Miami"
+  },
+  "Hawthorne": {
+    "lat": 29.59368,
+    "lng": -82.09447,
+    "city": "Hawthorne"
+  },
+  "Lakeland Christian": {
+    "lat": 28.0554,
+    "lng": -81.96037,
+    "city": "Lakeland"
+  },
+  "Madison County": {
+    "lat": 30.47149,
+    "lng": -83.41345,
+    "city": "Madison"
+  },
+  "University Christian": {
+    "lat": 30.33359,
+    "lng": -81.65797,
+    "city": "Jacksonville"
+  },
+  "John Carroll Catholic": {
+    "lat": 27.42711,
+    "lng": -80.33735,
+    "city": "Fort Pierce"
+  },
+  "Melbourne Central Catholic": {
+    "lat": 28.10695,
+    "lng": -80.65958,
+    "city": "Melbourne"
+  },
+  "Neumann": {
+    "lat": 26.15578,
+    "lng": -81.79643,
+    "city": "Naples"
+  },
+  "Pahokee": {
+    "lat": 26.82021,
+    "lng": -80.66205,
+    "city": "Pahokee"
+  },
+  "Blountstown": {
+    "lat": 30.44285,
+    "lng": -85.0454,
+    "city": "Blountstown"
+  },
+  "St. Petersburg Catholic": {
+    "lat": 27.76326,
+    "lng": -82.64165,
+    "city": "St. Petersburg"
+  },
+  "Archbishop Carroll": {
+    "lat": 25.78129,
+    "lng": -80.20904,
+    "city": "Miami"
+  },
+  "Benjamin": {
+    "lat": 26.84969,
+    "lng": -80.17283,
+    "city": "Palm Beach Gardens"
+  },
+  "Community School of Naples": {
+    "lat": 26.15598,
+    "lng": -81.79297,
+    "city": "Naples"
+  },
+  "Fort White": {
+    "lat": 29.92222,
+    "lng": -82.71262,
+    "city": "Fort White"
+  },
+  "Holmes County": {
+    "lat": 30.78135,
+    "lng": -85.68876,
+    "city": "Bonifay"
+  },
+  "Victory Christian Academy": {
+    "lat": 28.05984,
+    "lng": -81.95469,
+    "city": "Lakeland"
+  },
+  "Taylor County": {
+    "lat": 30.10905,
+    "lng": -83.58227,
+    "city": "Perry"
+  },
+  "Baker": {
+    "lat": 30.31435,
+    "lng": -82.28472,
+    "city": "Baker"
   },
   "Zephyrhills Christian Academy": {
-    "lat": 25.7617,
-    "lng": -80.1918,
-    "city": "Zephyrhills",
-    "state": "FL",
-    "conference": "FHSAA 1A"
+    "lat": 28.23922,
+    "lng": -82.17344,
+    "city": "Zephyrhills"
+  },
+  "Williston": {
+    "lat": 29.39388,
+    "lng": -82.44231,
+    "city": "Williston"
+  },
+  "Wildwood": {
+    "lat": 28.80581,
+    "lng": -82.00732,
+    "city": "Wildwood"
+  },
+  "First Baptist Academy": {
+    "lat": 26.14834,
+    "lng": -81.7943,
+    "city": "Naples"
+  },
+  "Marianna": {
+    "lat": 30.76144,
+    "lng": -85.25626,
+    "city": "Marianna"
+  },
+  "Chiefland": {
+    "lat": 29.49225,
+    "lng": -82.86633,
+    "city": "Chiefland"
+  },
+  "Chipley": {
+    "lat": 30.77564,
+    "lng": -85.54005,
+    "city": "Chipley"
+  },
+  "Northview": {
+    "lat": 30.96574,
+    "lng": -87.42748,
+    "city": "Bratt"
+  },
+  "Palmer Trinity": {
+    "lat": 25.77965,
+    "lng": -80.21164,
+    "city": "Miami"
+  },
+  "Northside Christian": {
+    "lat": 27.76449,
+    "lng": -82.64596,
+    "city": "St. Petersburg"
+  },
+  "Father Lopez": {
+    "lat": 29.19092,
+    "lng": -81.09943,
+    "city": "Daytona Beach"
+  },
+  "Moore Haven": {
+    "lat": 26.83375,
+    "lng": -81.09845,
+    "city": "Moore Haven"
+  },
+  "FAMU DRS": {
+    "lat": 30.45555,
+    "lng": -84.25349,
+    "city": "Tallahassee"
+  },
+  "Somerset Prep": {
+    "lat": 26.21245,
+    "lng": -80.22139,
+    "city": "North Lauderdale"
+  },
+  "Fort Meade": {
+    "lat": 27.76588,
+    "lng": -81.80546,
+    "city": "Fort Meade"
+  },
+  "North Florida Christian": {
+    "lat": 30.45275,
+    "lng": -84.25469,
+    "city": "Tallahassee"
+  },
+  "Impact Christian Academy": {
+    "lat": 30.34105,
+    "lng": -81.65877,
+    "city": "Jacksonville"
+  },
+  "Port St. Joe": {
+    "lat": 29.81756,
+    "lng": -85.30915,
+    "city": "Port St Joe"
+  },
+  "McLaughlin": {
+    "lat": 27.92379,
+    "lng": -81.59672,
+    "city": "Lake Wales"
+  },
+  "Central": {
+    "lat": 25.77345,
+    "lng": -80.20758,
+    "city": "Miami"
+  },
+  "Raines": {
+    "lat": 30.33891,
+    "lng": -81.66642,
+    "city": "Jacksonville"
+  },
+  "Cardinal Mooney": {
+    "lat": 27.33477,
+    "lng": -82.54686,
+    "city": "Sarasota"
+  },
+  "Merritt Island": {
+    "lat": 28.30924,
+    "lng": -80.67596,
+    "city": "Merritt Island"
+  },
+  "Eau Gallie": {
+    "lat": 28.10925,
+    "lng": -80.66028,
+    "city": "Melbourne"
+  },
+  "Godby": {
+    "lat": 30.45393,
+    "lng": -84.25804,
+    "city": "Tallahassee"
+  },
+  "Cardinal Gibbons": {
+    "lat": 26.14123,
+    "lng": -80.14131,
+    "city": "Fort Lauderdale"
+  },
+  "Baker County": {
+    "lat": 30.27517,
+    "lng": -82.1603,
+    "city": "Glen St. Mary"
+  },
+  "Bishop Verot": {
+    "lat": 26.61626,
+    "lng": -81.83445,
+    "city": "Fort Myers"
+  },
+  "The Villages Charter": {
+    "lat": 28.89895,
+    "lng": -81.99374,
+    "city": "The Villages"
+  },
+  "Dillard": {
+    "lat": 26.14172,
+    "lng": -80.15231,
+    "city": "Fort Lauderdale"
+  },
+  "Wakulla": {
+    "lat": 30.19955,
+    "lng": -84.3634,
+    "city": "Crawfordville"
+  },
+  "Bishop Kenny": {
+    "lat": 30.33546,
+    "lng": -81.65846,
+    "city": "Jacksonville"
+  },
+  "Pine Forest": {
+    "lat": 30.4428,
+    "lng": -87.19438,
+    "city": "Pensacola"
+  },
+  "Santa Fe": {
+    "lat": 29.7652,
+    "lng": -82.4751,
+    "city": "Alachua"
+  },
+  "Glades Central": {
+    "lat": 26.69222,
+    "lng": -80.66556,
+    "city": "Belle Glade"
+  },
+  "Bay": {
+    "lat": 30.16548,
+    "lng": -85.66647,
+    "city": "Panama City"
+  },
+  "Nature Coast Tech": {
+    "lat": 28.51733,
+    "lng": -82.41003,
+    "city": "Brooksville"
+  },
+  "South Walton": {
+    "lat": 30.34664,
+    "lng": -86.2308,
+    "city": "Santa Rosa Beach"
+  },
+  "Dunnellon": {
+    "lat": 29.05961,
+    "lng": -82.42538,
+    "city": "Dunnellon"
+  },
+  "South Sumter": {
+    "lat": 28.68695,
+    "lng": -82.11441,
+    "city": "Bushnell"
+  },
+  "Titusville": {
+    "lat": 28.57635,
+    "lng": -80.82477,
+    "city": "Titusville"
+  },
+  "North Miami Beach": {
+    "lat": 25.93,
+    "lng": -80.16518,
+    "city": "North Miami Beach"
+  },
+  "Miami Springs": {
+    "lat": 25.82016,
+    "lng": -80.28894,
+    "city": "Miami Springs"
+  },
+  "Key West": {
+    "lat": 24.56506,
+    "lng": -81.77554,
+    "city": "Key West"
+  },
+  "Palatka": {
+    "lat": 29.64487,
+    "lng": -81.67674,
+    "city": "Palatka"
+  },
+  "Suwannee": {
+    "lat": 30.29565,
+    "lng": -82.98512,
+    "city": "Live Oak"
+  },
+  "Astronaut": {
+    "lat": 28.57229,
+    "lng": -80.82342,
+    "city": "Titusville"
+  },
+  "Braden River": {
+    "lat": 27.49303,
+    "lng": -82.57725,
+    "city": "Bradenton"
+  },
+  "Robinson": {
+    "lat": 27.96851,
+    "lng": -82.48485,
+    "city": "Tampa"
+  },
+  "Eastside": {
+    "lat": 29.67718,
+    "lng": -82.34683,
+    "city": "Gainesville"
+  },
+  "Rockledge": {
+    "lat": 28.32136,
+    "lng": -80.73782,
+    "city": "Rockledge"
+  },
+  "West Florida": {
+    "lat": 30.43825,
+    "lng": -87.1903,
+    "city": "Pensacola"
+  },
+  "Menendez": {
+    "lat": 29.89326,
+    "lng": -81.31412,
+    "city": "St. Augustine"
+  },
+  "Jackson": {
+    "lat": 25.77526,
+    "lng": -80.20301,
+    "city": "Miami"
+  },
+  "Tarpon Springs": {
+    "lat": 28.15336,
+    "lng": -82.77475,
+    "city": "Tarpon Springs"
+  },
+  "Jefferson": {
+    "lat": 27.97232,
+    "lng": -82.4852,
+    "city": "Tampa"
+  },
+  "Belleview": {
+    "lat": 29.06061,
+    "lng": -82.05587,
+    "city": "Belleview"
+  },
+  "Gibbs": {
+    "lat": 27.76635,
+    "lng": -82.64419,
+    "city": "St. Petersburg"
+  },
+  "Tavares": {
+    "lat": 28.76588,
+    "lng": -81.75638,
+    "city": "Tavares"
+  },
+  "Pensacola": {
+    "lat": 30.44074,
+    "lng": -87.19413,
+    "city": "Pensacola"
+  },
+  "Dunedin": {
+    "lat": 28.03805,
+    "lng": -82.79478,
+    "city": "Dunedin"
+  },
+  "Bayshore": {
+    "lat": 27.49419,
+    "lng": -82.57848,
+    "city": "Bradenton"
+  },
+  "Countryside": {
+    "lat": 27.9805,
+    "lng": -82.76724,
+    "city": "Clearwater"
+  },
+  "North Marion": {
+    "lat": 29.41192,
+    "lng": -82.10982,
+    "city": "Citra"
+  },
+  "Southeast": {
+    "lat": 27.48772,
+    "lng": -82.57616,
+    "city": "Bradenton"
+  },
+  "Hernando": {
+    "lat": 28.5116,
+    "lng": -82.40378,
+    "city": "Brooksville"
+  },
+  "Wellen Park": {
+    "lat": 27.11265,
+    "lng": -82.41557,
+    "city": "Venice"
+  },
+  "Tenoroc": {
+    "lat": 28.05069,
+    "lng": -81.95392,
+    "city": "Lakeland"
+  },
+  "Palm Bay": {
+    "lat": 28.11275,
+    "lng": -80.66321,
+    "city": "Melbourne"
+  },
+  "Terry Parker": {
+    "lat": 30.33308,
+    "lng": -81.65676,
+    "city": "Jacksonville"
+  },
+  "Eustis": {
+    "lat": 28.85717,
+    "lng": -81.67682,
+    "city": "Eustis"
+  },
+  "Chamberlain": {
+    "lat": 27.9733,
+    "lng": -82.48311,
+    "city": "Tampa"
+  },
+  "Stranahan": {
+    "lat": 26.14717,
+    "lng": -80.14725,
+    "city": "Fort Lauderdale"
+  },
+  "Boynton Beach": {
+    "lat": 26.52833,
+    "lng": -80.08072,
+    "city": "Boynton Beach"
+  },
+  "Crystal River": {
+    "lat": 28.8955,
+    "lng": -82.60187,
+    "city": "Crystal River"
+  },
+  "Morgan": {
+    "lat": 27.67491,
+    "lng": -82.31316,
+    "city": "Wimauma"
+  },
+  "Wolfson": {
+    "lat": 30.34107,
+    "lng": -81.66055,
+    "city": "Jacksonville"
+  },
+  "Seminole": {
+    "lat": 27.84735,
+    "lng": -82.78689,
+    "city": "Seminole"
+  },
+  "Cypress Lake": {
+    "lat": 26.62131,
+    "lng": -81.83416,
+    "city": "Fort Myers"
+  },
+  "Lely": {
+    "lat": 26.14851,
+    "lng": -81.79438,
+    "city": "Naples"
+  },
+  "Citrus": {
+    "lat": 28.84415,
+    "lng": -82.34289,
+    "city": "Inverness"
+  },
+  "Mulberry": {
+    "lat": 27.90545,
+    "lng": -81.98825,
+    "city": "Mulberry"
+  },
+  "Island Coast": {
+    "lat": 26.64447,
+    "lng": -82.00337,
+    "city": "Cape Coral"
+  },
+  "Westside": {
+    "lat": 30.34107,
+    "lng": -81.66265,
+    "city": "Jacksonville"
+  },
+  "St. Brendan": {
+    "lat": 25.7707,
+    "lng": -80.20663,
+    "city": "Miami"
+  },
+  "King": {
+    "lat": 27.97235,
+    "lng": -82.47707,
+    "city": "Tampa"
+  },
+  "Weeki Wachee": {
+    "lat": 28.51565,
+    "lng": -82.57357,
+    "city": "Weeki Wachee"
+  },
+  "Anclote": {
+    "lat": 28.18622,
+    "lng": -82.74264,
+    "city": "Holiday"
+  },
+  "Liberty": {
+    "lat": 28.30772,
+    "lng": -81.42046,
+    "city": "Kissimmee"
+  },
+  "Discovery": {
+    "lat": 28.13725,
+    "lng": -81.71679,
+    "city": "Lake Alfred"
+  },
+  "Chaminade-Madonna": {
+    "lat": 26.0307,
+    "lng": -80.16677,
+    "city": "Hollywood"
+  },
+  "Carol City": {
+    "lat": 25.77318,
+    "lng": -80.21073,
+    "city": "Miami"
+  },
+  "Cardinal Newman": {
+    "lat": 26.74924,
+    "lng": -80.1252,
+    "city": "West Palm Beach"
+  },
+  "The First Academy": {
+    "lat": 28.40618,
+    "lng": -81.25424,
+    "city": "Orlando"
+  },
+  "Clearwater Central Catholic": {
+    "lat": 27.98115,
+    "lng": -82.76651,
+    "city": "Clearwater"
+  },
+  "Bolles": {
+    "lat": 30.33379,
+    "lng": -81.66539,
+    "city": "Jacksonville"
+  },
+  "Berkeley Prep": {
+    "lat": 27.97214,
+    "lng": -82.48145,
+    "city": "Tampa"
+  },
+  "Tampa Catholic": {
+    "lat": 27.96572,
+    "lng": -82.48084,
+    "city": "Tampa"
+  },
+  "Cocoa": {
+    "lat": 28.37664,
+    "lng": -80.76331,
+    "city": "Cocoa"
+  },
+  "Bradford": {
+    "lat": 29.94745,
+    "lng": -82.11289,
+    "city": "Starke"
+  },
+  "Pensacola Catholic": {
+    "lat": 30.44554,
+    "lng": -87.18768,
+    "city": "Pensacola"
+  },
+  "Immaculata-La Salle": {
+    "lat": 25.77948,
+    "lng": -80.209,
+    "city": "Miami"
+  },
+  "Killian": {
+    "lat": 25.77431,
+    "lng": -80.21043,
+    "city": "Miami"
+  },
+  "Lakewood": {
+    "lat": 27.76473,
+    "lng": -82.64569,
+    "city": "St. Petersburg"
+  },
+  "Calvary Christian": {
+    "lat": 27.97641,
+    "lng": -82.76814,
+    "city": "Clearwater"
+  },
+  "Walton": {
+    "lat": 30.70613,
+    "lng": -86.11857,
+    "city": "DeFuniak Springs"
+  },
+  "Newberry": {
+    "lat": 29.64582,
+    "lng": -82.5946,
+    "city": "Newberry"
+  },
+  "Ransom Everglades": {
+    "lat": 25.76992,
+    "lng": -80.20861,
+    "city": "Miami"
+  },
+  "Florida State University High School": {
+    "lat": 30.45683,
+    "lng": -84.25634,
+    "city": "Tallahassee"
+  },
+  "Westminster Christian": {
+    "lat": 25.7739,
+    "lng": -80.2039,
+    "city": "Miami"
+  },
+  "Boca Ciega": {
+    "lat": 27.74644,
+    "lng": -82.70994,
+    "city": "Gulfport"
+  },
+  "Saint Andrew's": {
+    "lat": 26.37526,
+    "lng": -80.09794,
+    "city": "Boca Raton"
+  },
+  "Gulliver Prep": {
+    "lat": 25.77018,
+    "lng": -80.2125,
+    "city": "Miami"
+  },
+  "Andrew Jackson": {
+    "lat": 30.33841,
+    "lng": -81.65982,
+    "city": "Jacksonville"
+  },
+  "Gadsden County": {
+    "lat": 30.63033,
+    "lng": -84.4138,
+    "city": "Havana"
+  },
+  "Trinity Catholic": {
+    "lat": 29.17847,
+    "lng": -82.15319,
+    "city": "Ocala"
+  },
+  "Somerset Academy (Silver Palms)": {
+    "lat": 25.77805,
+    "lng": -80.20491,
+    "city": "Miami"
+  },
+  "Baldwin": {
+    "lat": 30.30778,
+    "lng": -81.97366,
+    "city": "Baldwin"
+  },
+  "Destin": {
+    "lat": 30.40438,
+    "lng": -86.47145,
+    "city": "Destin"
+  },
+  "Freeport": {
+    "lat": 30.49852,
+    "lng": -86.13135,
+    "city": "Freeport"
+  },
+  "Rutherford": {
+    "lat": 30.16497,
+    "lng": -85.67298,
+    "city": "Panama City"
+  },
+  "Edison": {
+    "lat": 25.77092,
+    "lng": -80.21137,
+    "city": "Miami"
+  },
+  "North Bay Haven Academy": {
+    "lat": 30.16839,
+    "lng": -85.6662,
+    "city": "Panama City"
+  },
+  "KIPP Bold City": {
+    "lat": 30.33277,
+    "lng": -81.66569,
+    "city": "Jacksonville"
+  },
+  "Columbus": {
+    "lat": 25.7723,
+    "lng": -80.21137,
+    "city": "Miami"
+  },
+  "Venice": {
+    "lat": 27.11817,
+    "lng": -82.42084,
+    "city": "Venice"
+  },
+  "Palmetto": {
+    "lat": 25.77788,
+    "lng": -80.20856,
+    "city": "Miami"
+  },
+  "Vero Beach": {
+    "lat": 27.64722,
+    "lng": -80.39314,
+    "city": "Vero Beach"
+  },
+  "DeLand": {
+    "lat": 29.02266,
+    "lng": -81.2865,
+    "city": "Deland"
+  },
+  "Mainland": {
+    "lat": 29.19397,
+    "lng": -81.09714,
+    "city": "Daytona Beach"
+  },
+  "Edgewater": {
+    "lat": 28.40879,
+    "lng": -81.2568,
+    "city": "Orlando"
+  },
+  "Riverview Sarasota": {
+    "lat": 27.34043,
+    "lng": -82.54353,
+    "city": "Sarasota"
+  },
+  "Cypress Bay": {
+    "lat": 26.10039,
+    "lng": -80.40206,
+    "city": "Weston"
+  },
+  "Western": {
+    "lat": 26.07731,
+    "lng": -80.28102,
+    "city": "Davie"
+  },
+  "West Broward": {
+    "lat": 26.01742,
+    "lng": -80.34402,
+    "city": "Pembroke Pines"
+  },
+  "Creekside": {
+    "lat": 29.90709,
+    "lng": -81.41611,
+    "city": "St. Johns"
+  },
+  "Lake Mary": {
+    "lat": 28.7591,
+    "lng": -81.33281,
+    "city": "Lake Mary"
+  },
+  "South Dade": {
+    "lat": 25.461,
+    "lng": -80.44534,
+    "city": "Homestead"
+  },
+  "Lake Nona": {
+    "lat": 28.40433,
+    "lng": -81.25442,
+    "city": "Orlando"
+  },
+  "Winter Park": {
+    "lat": 28.59393,
+    "lng": -81.34542,
+    "city": "Winter Park"
+  },
+  "West Orange": {
+    "lat": 28.53781,
+    "lng": -81.59746,
+    "city": "Winter Garden"
+  },
+  "Spruce Creek": {
+    "lat": 29.11344,
+    "lng": -81.01322,
+    "city": "Port Orange"
+  },
+  "Dr. Phillips": {
+    "lat": 28.40995,
+    "lng": -81.25105,
+    "city": "Orlando"
+  },
+  "Alonso": {
+    "lat": 27.96878,
+    "lng": -82.47349,
+    "city": "Tampa"
+  },
+  "Lennard": {
+    "lat": 27.70683,
+    "lng": -82.42218,
+    "city": "Ruskin"
+  },
+  "Spanish River": {
+    "lat": 26.37269,
+    "lng": -80.10009,
+    "city": "Boca Raton"
+  },
+  "Palm Beach Central": {
+    "lat": 26.65476,
+    "lng": -80.26464,
+    "city": "Wellington"
+  },
+  "Plant City": {
+    "lat": 28.01757,
+    "lng": -82.11306,
+    "city": "Plant City"
+  },
+  "Jupiter": {
+    "lat": 26.91855,
+    "lng": -80.11694,
+    "city": "Jupiter"
+  },
+  "East Ridge": {
+    "lat": 28.52402,
+    "lng": -81.72303,
+    "city": "Clermont"
+  },
+  "Palm Beach Lakes": {
+    "lat": 26.74836,
+    "lng": -80.12681,
+    "city": "West Palm Beach"
+  },
+  "Ocoee": {
+    "lat": 28.57882,
+    "lng": -81.53305,
+    "city": "Ocoee"
+  },
+  "Lake Brantley": {
+    "lat": 28.66102,
+    "lng": -81.39468,
+    "city": "Altamonte Springs"
+  },
+  "Flagler Palm Coast": {
+    "lat": 29.53371,
+    "lng": -81.24173,
+    "city": "Palm Coast"
+  },
+  "Durant": {
+    "lat": 28.01563,
+    "lng": -82.12105,
+    "city": "Plant City"
+  },
+  "Hagerty": {
+    "lat": 28.66478,
+    "lng": -81.18518,
+    "city": "Oviedo"
+  },
+  "Park Vista": {
+    "lat": 26.61879,
+    "lng": -80.07237,
+    "city": "Lake Worth"
+  },
+  "Santaluces": {
+    "lat": 26.58336,
+    "lng": -80.05538,
+    "city": "Lantana"
+  },
+  "Sarasota": {
+    "lat": 27.33578,
+    "lng": -82.54483,
+    "city": "Sarasota"
+  },
+  "St. Cloud": {
+    "lat": 28.23522,
+    "lng": -81.28396,
+    "city": "St Cloud"
+  },
+  "Treasure Coast": {
+    "lat": 27.2854,
+    "lng": -80.39141,
+    "city": "Port St. Lucie"
+  },
+  "Apopka": {
+    "lat": 28.69918,
+    "lng": -81.53359,
+    "city": "Apopka"
+  },
+  "Newsome": {
+    "lat": 27.86629,
+    "lng": -82.23055,
+    "city": "Lithia"
+  },
+  "Steinbrenner": {
+    "lat": 28.14069,
+    "lng": -82.44972,
+    "city": "Lutz"
+  },
+  "Timber Creek": {
+    "lat": 28.40665,
+    "lng": -81.25491,
+    "city": "Orlando"
+  },
+  "Wellington": {
+    "lat": 26.64809,
+    "lng": -80.27292,
+    "city": "Wellington"
+  },
+  "Coral Gables": {
+    "lat": 25.68306,
+    "lng": -80.26166,
+    "city": "Coral Gables"
+  },
+  "Gateway": {
+    "lat": 28.30853,
+    "lng": -81.41723,
+    "city": "Kissimmee"
+  },
+  "Boone": {
+    "lat": 28.41461,
+    "lng": -81.25491,
+    "city": "Orlando"
+  },
+  "Doral Academy": {
+    "lat": 25.81596,
+    "lng": -80.35756,
+    "city": "Doral"
+  },
+  "Tocoi Creek": {
+    "lat": 29.89796,
+    "lng": -81.30758,
+    "city": "St. Augustine"
+  },
+  "Goleman": {
+    "lat": 25.77253,
+    "lng": -80.20387,
+    "city": "Miami"
+  },
+  "Dr. Joaquin Garcia": {
+    "lat": 26.61835,
+    "lng": -80.07293,
+    "city": "Lake Worth"
+  },
+  "Sandalwood": {
+    "lat": 30.33932,
+    "lng": -81.66539,
+    "city": "Jacksonville"
+  },
+  "South Plantation": {
+    "lat": 26.12115,
+    "lng": -80.25976,
+    "city": "Plantation"
+  },
+  "Coral Glades": {
+    "lat": 26.27072,
+    "lng": -80.2593,
+    "city": "Coral Springs"
+  },
+  "Nova": {
+    "lat": 26.08075,
+    "lng": -80.28058,
+    "city": "Davie"
+  },
+  "First Coast": {
+    "lat": 30.34201,
+    "lng": -81.65941,
+    "city": "Jacksonville"
+  },
+  "Haines City": {
+    "lat": 28.11282,
+    "lng": -81.61654,
+    "city": "Haines City"
+  },
+  "Lakewood Ranch": {
+    "lat": 27.49083,
+    "lng": -82.58212,
+    "city": "Bradenton"
+  },
+  "Homestead": {
+    "lat": 25.46275,
+    "lng": -80.44379,
+    "city": "Homestead"
+  },
+  "Tohopekaliga": {
+    "lat": 28.29991,
+    "lng": -81.41323,
+    "city": "Kissimmee"
+  },
+  "George Jenkins": {
+    "lat": 28.05731,
+    "lng": -81.95392,
+    "city": "Lakeland"
+  },
+  "Winter Haven": {
+    "lat": 28.04584,
+    "lng": -81.73274,
+    "city": "Winter Haven"
+  },
+  "Riverview": {
+    "lat": 27.83018,
+    "lng": -82.30618,
+    "city": "Riverview"
+  },
+  "Poinciana": {
+    "lat": 28.3051,
+    "lng": -81.4168,
+    "city": "Kissimmee"
+  },
+  "Olympia": {
+    "lat": 28.40908,
+    "lng": -81.25966,
+    "city": "Orlando"
+  },
+  "Palm Harbor University": {
+    "lat": 28.08477,
+    "lng": -82.75757,
+    "city": "Palm Harbor"
+  },
+  "Boca Raton": {
+    "lat": 26.37,
+    "lng": -80.10102,
+    "city": "Boca Raton"
+  },
+  "North Port": {
+    "lat": 27.05817,
+    "lng": -82.19804,
+    "city": "North Port"
+  },
+  "Miami": {
+    "lat": 25.7766,
+    "lng": -80.20631,
+    "city": "Miami"
+  },
+  "Horizon": {
+    "lat": 28.54242,
+    "lng": -81.59287,
+    "city": "Winter Garden"
+  },
+  "University": {
+    "lat": 28.93728,
+    "lng": -81.28334,
+    "city": "Orange City"
+  },
+  "Strawberry Crest": {
+    "lat": 27.98682,
+    "lng": -82.23115,
+    "city": "Dover"
+  },
+  "Harmony": {
+    "lat": 28.18946,
+    "lng": -81.14507,
+    "city": "Harmony"
+  },
+  "Atlantic Coast": {
+    "lat": 30.33593,
+    "lng": -81.65904,
+    "city": "Jacksonville"
+  },
+  "Lehigh": {
+    "lat": 26.6129,
+    "lng": -81.64084,
+    "city": "Lehigh Acres"
+  },
+  "Davenport": {
+    "lat": 28.16308,
+    "lng": -81.60914,
+    "city": "Davenport"
+  },
+  "Southwest": {
+    "lat": 25.77601,
+    "lng": -80.20641,
+    "city": "Miami"
+  },
+  "Centennial": {
+    "lat": 27.27877,
+    "lng": -80.38621,
+    "city": "Port St. Lucie"
+  },
+  "Ridge Community": {
+    "lat": 28.15965,
+    "lng": -81.60508,
+    "city": "Davenport"
+  },
+  "Celebration": {
+    "lat": 28.31034,
+    "lng": -81.55106,
+    "city": "Celebration"
+  },
+  "St. Thomas Aquinas": {
+    "lat": 26.14274,
+    "lng": -80.14982,
+    "city": "Fort Lauderdale"
+  },
+  "West Boca Raton": {
+    "lat": 26.37481,
+    "lng": -80.10268,
+    "city": "Boca Raton"
+  },
+  "Lakeland": {
+    "lat": 28.05373,
+    "lng": -81.95772,
+    "city": "Lakeland"
+  },
+  "Mandarin": {
+    "lat": 30.33663,
+    "lng": -81.65943,
+    "city": "Jacksonville"
+  },
+  "Buchholz": {
+    "lat": 29.67775,
+    "lng": -82.34804,
+    "city": "Gainesville"
+  },
+  "Armwood": {
+    "lat": 28.00164,
+    "lng": -82.27408,
+    "city": "Seffner"
+  },
+  "Nease": {
+    "lat": 30.23681,
+    "lng": -81.38594,
+    "city": "Ponte Vedra"
+  },
+  "Archbishop McCarthy": {
+    "lat": 26.04969,
+    "lng": -80.37383,
+    "city": "Southwest Ranches"
+  },
+  "Coconut Creek": {
+    "lat": 26.28123,
+    "lng": -80.18057,
+    "city": "Coconut Creek"
+  },
+  "Tampa Bay Tech": {
+    "lat": 27.97287,
+    "lng": -82.48276,
+    "city": "Tampa"
+  },
+  "Evans": {
+    "lat": 28.40707,
+    "lng": -81.25196,
+    "city": "Orlando"
+  },
+  "Monarch": {
+    "lat": 26.27737,
+    "lng": -80.18258,
+    "city": "Coconut Creek"
+  },
+  "Bartram Trail": {
+    "lat": 29.90879,
+    "lng": -81.41241,
+    "city": "St. Johns"
+  },
+  "Pace": {
+    "lat": 30.61674,
+    "lng": -87.16473,
+    "city": "Pace"
+  },
+  "Southridge": {
+    "lat": 25.77679,
+    "lng": -80.20667,
+    "city": "Miami"
+  },
+  "Sumner": {
+    "lat": 27.82368,
+    "lng": -82.30733,
+    "city": "Riverview"
+  },
+  "Manatee": {
+    "lat": 27.49536,
+    "lng": -82.57466,
+    "city": "Bradenton"
+  },
+  "Ponte Vedra": {
+    "lat": 30.24295,
+    "lng": -81.38368,
+    "city": "Ponte Vedra"
+  },
+  "Oakleaf": {
+    "lat": 30.17315,
+    "lng": -81.7052,
+    "city": "Orange Park"
+  },
+  "Sebring": {
+    "lat": 27.4714,
+    "lng": -81.45157,
+    "city": "Sebring"
+  },
+  "Fletcher": {
+    "lat": 30.31257,
+    "lng": -81.39312,
+    "city": "Neptune Beach"
+  },
+  "Royal Palm Beach": {
+    "lat": 26.69901,
+    "lng": -80.22758,
+    "city": "Royal Palm Beach"
+  },
+  "Oviedo": {
+    "lat": 28.66193,
+    "lng": -81.18312,
+    "city": "Oviedo"
+  },
+  "Niceville": {
+    "lat": 30.52883,
+    "lng": -86.47599,
+    "city": "Niceville"
+  },
+  "Forest": {
+    "lat": 29.18181,
+    "lng": -82.15042,
+    "city": "Ocala"
+  },
+  "Gaither": {
+    "lat": 27.96757,
+    "lng": -82.48202,
+    "city": "Tampa"
+  },
+  "Plant": {
+    "lat": 27.96862,
+    "lng": -82.4754,
+    "city": "Tampa"
+  },
+  "Piper": {
+    "lat": 26.1716,
+    "lng": -80.26163,
+    "city": "Sunrise"
+  },
+  "Lake Gibson": {
+    "lat": 28.05359,
+    "lng": -81.95371,
+    "city": "Lakeland"
+  },
+  "Melbourne": {
+    "lat": 28.11164,
+    "lng": -80.65707,
+    "city": "Melbourne"
+  },
+  "Cape Coral": {
+    "lat": 26.64158,
+    "lng": -81.99563,
+    "city": "Cape Coral"
+  },
+  "Mater Academy Charter": {
+    "lat": 25.88771,
+    "lng": -80.35693,
+    "city": "Hialeah Gardens"
+  },
+  "South Lake": {
+    "lat": 28.61022,
+    "lng": -81.82709,
+    "city": "Groveland"
+  },
+  "Tate": {
+    "lat": 30.60543,
+    "lng": -87.34444,
+    "city": "Cantonment"
+  },
+  "Bartow": {
+    "lat": 27.8868,
+    "lng": -81.82176,
+    "city": "Bartow"
+  },
+  "Lake Howell": {
+    "lat": 28.5958,
+    "lng": -81.33985,
+    "city": "Winter Park"
+  },
+  "Riverdale": {
+    "lat": 26.61513,
+    "lng": -81.83192,
+    "city": "Fort Myers"
+  },
+  "Mitchell": {
+    "lat": 28.25109,
+    "lng": -82.71672,
+    "city": "New Port Richey"
+  },
+  "Auburndale": {
+    "lat": 28.11,
+    "lng": -81.79732,
+    "city": "Auburndale"
+  },
+  "Wiregrass Ranch": {
+    "lat": 28.20004,
+    "lng": -82.31386,
+    "city": "Wesley Chapel"
+  },
+  "Beachside": {
+    "lat": 29.90679,
+    "lng": -81.41864,
+    "city": "St. Johns"
+  },
+  "Bloomingdale": {
+    "lat": 27.91908,
+    "lng": -82.23126,
+    "city": "Valrico"
+  },
+  "Crestview": {
+    "lat": 30.74793,
+    "lng": -86.57927,
+    "city": "Crestview"
+  },
+  "Land O' Lakes": {
+    "lat": 28.21045,
+    "lng": -82.44626,
+    "city": "Land O Lakes"
+  },
+  "Deerfield Beach": {
+    "lat": 26.31172,
+    "lng": -80.12538,
+    "city": "Deerfield Beach"
+  },
+  "East Lake": {
+    "lat": 28.14526,
+    "lng": -82.7791,
+    "city": "Tarpon Springs"
+  },
+  "Largo": {
+    "lat": 27.90795,
+    "lng": -82.77936,
+    "city": "Largo"
+  },
+  "Immokalee": {
+    "lat": 26.42401,
+    "lng": -81.42156,
+    "city": "Immokalee"
+  },
+  "Martin County": {
+    "lat": 27.19459,
+    "lng": -80.23928,
+    "city": "Stuart"
+  },
+  "South Fork": {
+    "lat": 27.19325,
+    "lng": -80.24689,
+    "city": "Stuart"
+  },
+  "Charlotte": {
+    "lat": 26.89775,
+    "lng": -82.06581,
+    "city": "Punta Gorda"
+  },
+  "Viera": {
+    "lat": 28.24301,
+    "lng": -80.73015,
+    "city": "Viera"
+  },
+  "Flanagan": {
+    "lat": 26.02025,
+    "lng": -80.3424,
+    "city": "Pembroke Pines"
+  },
+  "Matanzas": {
+    "lat": 29.54179,
+    "lng": -81.24092,
+    "city": "Palm Coast"
+  },
+  "Dwyer": {
+    "lat": 26.85184,
+    "lng": -80.16968,
+    "city": "Palm Beach Gardens"
+  },
+  "Palm Beach Gardens": {
+    "lat": 26.8489,
+    "lng": -80.17326,
+    "city": "Palm Beach Gardens"
+  },
+  "Wesley Chapel": {
+    "lat": 28.20767,
+    "lng": -82.31442,
+    "city": "Wesley Chapel"
+  },
+  "Wharton": {
+    "lat": 27.96904,
+    "lng": -82.47678,
+    "city": "Tampa"
+  },
+  "Lake Minneola": {
+    "lat": 28.60232,
+    "lng": -81.72945,
+    "city": "Minneola"
+  },
+  "Spoto": {
+    "lat": 27.82653,
+    "lng": -82.3084,
+    "city": "Riverview"
+  },
+  "Navarre": {
+    "lat": 30.41607,
+    "lng": -86.88867,
+    "city": "Navarre"
+  },
+  "Sunlake": {
+    "lat": 28.20953,
+    "lng": -82.44093,
+    "city": "Land O' Lakes"
+  },
+  "North Fort Myers": {
+    "lat": 26.71796,
+    "lng": -81.84581,
+    "city": "North Fort Myers"
+  },
+  "Olympic Heights": {
+    "lat": 26.37292,
+    "lng": -80.10804,
+    "city": "Boca Raton"
+  },
+  "Boyd Anderson": {
+    "lat": 26.16693,
+    "lng": -80.20083,
+    "city": "Lauderdale Lakes"
+  },
+  "West Port": {
+    "lat": 29.17702,
+    "lng": -82.1566,
+    "city": "Ocala"
+  },
+  "East River": {
+    "lat": 28.4097,
+    "lng": -81.25975,
+    "city": "Orlando"
+  },
+  "Wekiva": {
+    "lat": 28.70275,
+    "lng": -81.52761,
+    "city": "Apopka"
+  },
+  "Seminole Ridge": {
+    "lat": 27.84274,
+    "lng": -82.7853,
+    "city": "Loxahatchee"
+  },
+  "Parrish Community": {
+    "lat": 27.58754,
+    "lng": -82.42509,
+    "city": "Parrish"
+  },
+  "Lyman": {
+    "lat": 28.7014,
+    "lng": -81.34839,
+    "city": "Longwood"
+  },
+  "Everglades": {
+    "lat": 25.97655,
+    "lng": -80.33442,
+    "city": "Miramar"
+  },
+  "Cypress Creek": {
+    "lat": 28.21013,
+    "lng": -82.31711,
+    "city": "Wesley Chapel"
+  },
+  "Sickles": {
+    "lat": 27.9733,
+    "lng": -82.48311,
+    "city": "Tampa"
+  },
+  "Leto": {
+    "lat": 27.97104,
+    "lng": -82.47655,
+    "city": "Tampa"
+  },
+  "East Lee County": {
+    "lat": 26.60956,
+    "lng": -81.63795,
+    "city": "Lehigh Acres"
   }
 }

@@ -1,4720 +1,2012 @@
 {
-  "Academy for Classical Education": {
-    "lat": 32.8407,
-    "lng": -83.6324,
-    "city": "Macon",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Acworth": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Adairsville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Adairsville",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Adel": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Alamo": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Albany": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "GA",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Alcovy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Covington",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Alexander": {
-    "lat": 33.7515,
-    "lng": -84.7477,
-    "city": "Douglasville",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Allatoona": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Acworth",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Alma": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Alpharetta": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Alpharetta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Americus": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Apalachee": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Winder",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Apopka Ga": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Appling": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Appling County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Baxley",
-    "state": "GA",
-    "conference": "GHSA 2A Region 3"
-  },
-  "Aquinas": {
-    "lat": 33.4735,
-    "lng": -82.0105,
-    "city": "Augusta",
-    "state": "GA",
-    "conference": "GHSA Private Region 4"
-  },
-  "Arabia Mountain": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Lithonia",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Archer": {
-    "lat": 33.9562,
-    "lng": -83.988,
-    "city": "Lawrenceville",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Armuchee": {
-    "lat": 34.257,
-    "lng": -85.1647,
-    "city": "Rome",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Ashburn": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Athens": {
-    "lat": 33.9519,
-    "lng": -83.3576,
-    "city": "Athens",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Athens Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Athens Academy, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Athens Christian": {
-    "lat": 33.9519,
-    "lng": -83.3576,
-    "city": "Athens",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Atkinson County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Pearson",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Atlanta": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Augusta": {
-    "lat": 33.4735,
-    "lng": -82.0105,
-    "city": "Augusta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Augusta Christian": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Martinez",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "Augusta Eagles": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Martinez",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Augusta Prep": {
-    "lat": 33.4735,
-    "lng": -82.0105,
-    "city": "Augusta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Austell": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Bacon County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Alma",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Baconton Charter": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Baconton",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Bainbridge": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Bainbridge",
-    "state": "GA",
-    "conference": "GHSA 3A Region 1"
-  },
-  "Baker County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Newton",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Baldwin": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Milledgeville",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Banks County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Homer",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Banneker": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "College Park",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Barnesville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Baxley": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Beach": {
-    "lat": 32.0809,
-    "lng": -81.0912,
-    "city": "Savannah",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Benedictine": {
-    "lat": 32.0809,
-    "lng": -81.0912,
-    "city": "Savannah",
-    "state": "GA",
-    "conference": "GHSA 4A Region 1"
-  },
-  "Berkmar": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Lilburn",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Berrien": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Nashville",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Bethesda Academy": {
-    "lat": 32.0809,
-    "lng": -81.0912,
-    "city": "Savannah",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Bethlehem Christian Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Bethlehem",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Blackshear": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Blairsville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Blakely": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Bleckley County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Cochran",
-    "state": "GA",
-    "conference": "GHSA 1A-D1 Region 2"
-  },
-  "Blessed Trinity": {
-    "lat": 34.0232,
-    "lng": -84.3616,
-    "city": "Roswell",
-    "state": "GA",
-    "conference": "GHSA 4A Region 6"
-  },
-  "Blue Ridge": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Bonaire": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Bowdon": {
-    "lat": 33.5379,
-    "lng": -85.2533,
-    "city": "Bowdon",
-    "state": "GA",
-    "conference": "GHSA 1A-D2 Region 7"
-  },
-  "Bradwell Institute": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Hinesville",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Brantley County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Nahunta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Braselton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Bremen": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Bremen",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Brentwood": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Sandersville",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Briarwood Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Warrenton",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Brooks County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Quitman",
-    "state": "GA",
-    "conference": "GHSA 1A-D2 Region 2"
-  },
-  "Brookstone": {
-    "lat": 32.461,
-    "lng": -84.9877,
-    "city": "Columbus",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Brookwood": {
-    "lat": 30.8366,
-    "lng": -83.9788,
-    "city": "Thomasville",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Brunswick": {
-    "lat": 31.1499,
-    "lng": -81.4915,
-    "city": "Brunswick",
-    "state": "GA",
-    "conference": "GHSA 5A Region 1"
-  },
-  "Bryan County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Pembroke",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Buchanan": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Buford": {
-    "lat": 34.1207,
-    "lng": -84.0044,
-    "city": "Buford",
-    "state": "GA",
-    "conference": "GHSA 6A Region 8"
-  },
-  "Bulloch Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Statesboro",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Burke County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Waynesboro",
-    "state": "GA",
-    "conference": "GHSA 2A Region 4"
-  },
-  "Business Engineering Science Tech": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Butler": {
-    "lat": 33.4735,
-    "lng": -82.0105,
-    "city": "Augusta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Byron": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Cairo": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Cairo",
-    "state": "GA",
-    "conference": "GHSA 3A Region 1"
-  },
-  "Calhoun": {
-    "lat": 34.5026,
-    "lng": -84.9511,
-    "city": "Calhoun",
-    "state": "GA",
-    "conference": "GHSA 3A Region 7"
-  },
-  "Calhoun County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Edison",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Callaway": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Hogansville",
-    "state": "GA",
-    "conference": "GHSA 2A Region 2"
-  },
-  "Calvary Christian": {
-    "lat": 32.461,
-    "lng": -84.9877,
-    "city": "Columbus",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Calvary Day": {
-    "lat": 32.0809,
-    "lng": -81.0912,
-    "city": "Savannah",
-    "state": "GA",
-    "conference": "GHSA Private Region 3"
-  },
-  "Cambridge": {
-    "lat": 34.1323,
-    "lng": -84.3007,
-    "city": "Milton",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Camilla": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Campbell": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Smyrna",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Canton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Carnesville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Carrollton": {
-    "lat": 33.5801,
-    "lng": -85.0766,
-    "city": "Carrollton",
-    "state": "GA",
-    "conference": "GHSA 6A Region 2"
-  },
-  "Cartersville": {
-    "lat": 34.1651,
-    "lng": -84.7999,
-    "city": "Cartersville",
-    "state": "GA",
-    "conference": "GHSA 4A Region 7"
-  },
-  "Carver": {
-    "lat": 32.461,
-    "lng": -84.9877,
-    "city": "Columbus",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Carver-Columbus": {
-    "lat": 32.461,
-    "lng": -84.9877,
-    "city": "Columbus",
-    "state": "GA",
-    "conference": "GHSA 2A Region 1"
-  },
-  "Cass": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "White",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Cedar Grove": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Ellenwood",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Cedar Shoals": {
-    "lat": 33.9519,
-    "lng": -83.3576,
-    "city": "Athens",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Cedartown": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Cedartown, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Centennial": {
-    "lat": 34.0232,
-    "lng": -84.3616,
-    "city": "Roswell",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Centennial Ga": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Central": {
-    "lat": 33.5801,
-    "lng": -85.0766,
-    "city": "Carrollton",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Central Christian": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Sharpsburg",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Central Fellowship Christian Academy": {
-    "lat": 32.8407,
-    "lng": -83.6324,
-    "city": "Macon",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Central Gwinnett": {
-    "lat": 33.9562,
-    "lng": -83.988,
-    "city": "Lawrenceville",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Chamblee": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Chamblee",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Chapel Hill": {
-    "lat": 33.7515,
-    "lng": -84.7477,
-    "city": "Douglasville",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Chapel Hill Ga": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Charlton County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Folkston",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Chatsworth": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Chattahoochee": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Alpharetta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Chattahoochee County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Cusseta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Chattooga": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Summerville",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Cherokee": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Canton",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Cherokee Christian": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Woodstock",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Chestatee": {
-    "lat": 34.2979,
-    "lng": -83.8241,
-    "city": "Gainesville",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Chickamauga": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Christian Heritage": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Dalton",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Citizens Christian Academy": {
-    "lat": 31.5088,
-    "lng": -82.8499,
-    "city": "Douglas",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Clarke Central": {
-    "lat": 33.9519,
-    "lng": -83.3576,
-    "city": "Athens",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Clarkesville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Clarkston": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Clarkston",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Claxton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Claxton",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Clayton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Cleveland": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Clinch County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Homerville",
-    "state": "GA",
-    "conference": "GHSA 1A-D2 Region 2"
-  },
-  "Clinich County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Clinich County, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Coahulla Creek": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Dalton",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Cochran": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Coffee": {
-    "lat": 31.5088,
-    "lng": -82.8499,
-    "city": "Douglas",
-    "state": "GA",
-    "conference": "GHSA 5A Region 2"
-  },
-  "College Park": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "Collins Hill": {
-    "lat": 34.0515,
-    "lng": -84.0713,
-    "city": "Suwanee",
-    "state": "GA",
-    "conference": "GHSA 6A Region 8"
-  },
-  "Colquitt": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Colquitt County": {
-    "lat": 31.1799,
-    "lng": -83.7891,
-    "city": "Moultrie",
-    "state": "GA",
-    "conference": "GHSA 6A Region 1"
-  },
-  "Columbia": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Decatur",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Columbia Dekalb": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Columbus": {
-    "lat": 32.461,
-    "lng": -84.9877,
-    "city": "Columbus",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Commerce": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Commerce",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Commerce Ga": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Community Christian": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Stockbridge",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Community Christian Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Martinez",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "Conyers": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Cook": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Adel",
-    "state": "GA",
-    "conference": "GHSA 2A Region 3"
-  },
-  "Coosa": {
-    "lat": 34.257,
-    "lng": -85.1647,
-    "city": "Rome",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Cordele": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Cornelia": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Covenant Academy": {
-    "lat": 32.8407,
-    "lng": -83.6324,
-    "city": "Macon",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Covenant Christian Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Cumming",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Covington": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Covington Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Covington",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Crawford County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Roberta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Creekside": {
-    "lat": 33.5671,
-    "lng": -84.581,
-    "city": "Fairburn",
-    "state": "GA",
-    "conference": "GHSA 4A Region 4"
-  },
-  "Creekside Christian Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Mcdonough",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Creekview": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Canton",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Crisp Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Cordele",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Crisp County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Crisp County, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Cross Creek": {
-    "lat": 33.4735,
-    "lng": -82.0105,
-    "city": "Augusta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Cross Keys": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "CrossPointe Christian Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Williamson",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Cumming": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "Cusseta": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Cuthbert": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Dacula": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Dacula",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Dade County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Trenton",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Dahlonega": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Dallas": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Dalton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Dalton",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Danielsville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Darien": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "Darlington": {
-    "lat": 34.257,
-    "lng": -85.1647,
-    "city": "Rome",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "David Emanuel Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Stillmore",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Dawson": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Dawson County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Dawsonville",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Dawsonville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Decatur": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Decatur",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Deerfield-Windsor": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Albany",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Denmark": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Alpharetta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Discovery": {
-    "lat": 33.9562,
-    "lng": -83.988,
-    "city": "Lawrenceville",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Dodge County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Dodge County, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Dominion Christian": {
-    "lat": 33.9526,
-    "lng": -84.5499,
-    "city": "Marietta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Donalsonville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Dooly County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Vienna",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Doraville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Dougherty": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Albany",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Douglas": {
-    "lat": 31.5088,
-    "lng": -82.8499,
-    "city": "Douglas",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Douglas County": {
-    "lat": 33.7515,
-    "lng": -84.7477,
-    "city": "Douglasville",
-    "state": "GA",
-    "conference": "GHSA 6A Region 2"
-  },
-  "Douglass": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Douglasville": {
-    "lat": 33.7515,
-    "lng": -84.7477,
-    "city": "Douglasville",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Drew": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Riverdale",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Druid Hills": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Dublin": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Dublin",
-    "state": "GA",
-    "conference": "GHSA 1A-D1 Region 2"
-  },
-  "Duluth": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Duluth",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Dunwoody": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Dunwoody",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Dutchtown": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Hampton",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "ELCA": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "ELCA, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "ELCA (Eagle's Landing Christian)": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "McDonough",
-    "state": "GA",
-    "conference": "GHSA Private Region 2"
-  },
-  "Eagle's Landing": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Mcdonough",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Eagle's Landing Christian Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Mcdonough",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Early County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Blakely",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "East Coweta": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Sharpsburg",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "East Forsyth": {
-    "lat": 34.2979,
-    "lng": -83.8241,
-    "city": "Gainesville",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "East Hall": {
-    "lat": 34.2979,
-    "lng": -83.8241,
-    "city": "Gainesville",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "East Jackson": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Commerce",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "East Laurens": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "East Dublin",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "East Paulding": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Dallas",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "East Point": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Eastman": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Eastside": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Eastside, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Eatonton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Edison": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Edmund Burke Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Waynesboro",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Effingham County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Springfield",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Elbert County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Elberton",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Elberton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Ellaville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "Ellijay": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Emanuel County Institute": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Twin City",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Etowah": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Woodstock",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Evans": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Evans",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Evans Ga": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Fairburn": {
-    "lat": 33.5671,
-    "lng": -84.581,
-    "city": "Fairburn",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Fayette County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Fayetteville",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Fayetteville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Fellowship Christian": {
-    "lat": 34.0232,
-    "lng": -84.3616,
-    "city": "Roswell",
-    "state": "GA",
-    "conference": "GHSA Private Region 6"
-  },
-  "Fideles Christian": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Cumming",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "First Presbyterian Day": {
-    "lat": 32.8407,
-    "lng": -83.6324,
-    "city": "Macon",
-    "state": "GA",
-    "conference": "GHSA Private Region 4"
-  },
-  "Fitzgerald": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Fitzgerald",
-    "state": "GA",
-    "conference": "GHSA 1A-D1 Region 1"
-  },
-  "Flint River Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Woodbury",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Flowery Branch": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Flowery Branch",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Folkston": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Forest Park": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Forest Park",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Forsyth": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Forsyth Central": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Cumming",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Fort Oglethorpe": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Fort Valley": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Franklin": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Franklin County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Carnesville",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Frederica Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "St Simons Island",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Fullington Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Pinehurst",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "GAPPS": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "GAPPS, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Gac": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Gainesville": {
-    "lat": 34.2979,
-    "lng": -83.8241,
-    "city": "Gainesville",
-    "state": "GA",
-    "conference": "GHSA 5A Region 7"
-  },
-  "Gatewood": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Eatonton",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "George Walton Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Monroe",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Georgia Christian": {
-    "lat": 30.8327,
-    "lng": -83.2785,
-    "city": "Valdosta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Georgia Force Christian": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Sugar Hill",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Georgia Military College": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Milledgeville",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Georgia School for Innovation & Classics": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Hephzibah",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Gilmer": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Ellijay",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Glascock County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Gibson",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Glenn Hills": {
-    "lat": 33.4735,
-    "lng": -82.0105,
-    "city": "Augusta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Glennville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Glynn Academy": {
-    "lat": 31.1499,
-    "lng": -81.4915,
-    "city": "Brunswick",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Gordon Central": {
-    "lat": 34.5026,
-    "lng": -84.9511,
-    "city": "Calhoun",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Gordon Lee": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Chickamauga",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Grace Christian Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Bainbridge",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Gray": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Grayson": {
-    "lat": 33.8387,
-    "lng": -83.9007,
-    "city": "Loganville",
-    "state": "GA",
-    "conference": "GHSA 6A Region 4"
-  },
-  "Greater Atlanta Christian": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Greater Atlanta Christian, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Greenbrier": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Evans",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Greene County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Greensboro",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Greensboro": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "Greenville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Greenville",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Griffin": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Griffin",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Griffin Christian": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Griffin",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Groves": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Garden City",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Grovetown": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Grovetown",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Guyton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Habersham Central": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Mt Airy",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Hahira": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Hamilton": {
-    "lat": 34.1323,
-    "lng": -84.3007,
-    "city": "Milton",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Hampton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Hampton",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Hancock Central": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Sparta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Hapeville Charter": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 2A Region 6"
-  },
-  "Haralson County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Tallapoosa",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Hardaway": {
-    "lat": 32.461,
-    "lng": -84.9877,
-    "city": "Columbus",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Harlem": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Harlem",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Harris County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Hamilton",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Harrison": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Kennesaw",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Hart County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Hartwell",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Hartwell": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Harvester Christian Academy": {
-    "lat": 33.7515,
-    "lng": -84.7477,
-    "city": "Douglasville",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Hawkinsville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Hawkinsville",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Hazlehurst": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Heard County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Heard County, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Hearts Academy": {
-    "lat": 33.8595,
-    "lng": -84.6838,
-    "city": "Powder Springs",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Hebron Christian": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Dacula",
-    "state": "GA",
-    "conference": "GHSA Private Region 8"
-  },
-  "Hephzibah": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Hephzibah",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Heritage": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Conyers",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Heritage Conyers": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Hiawassee": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Hillgrove": {
-    "lat": 33.8595,
-    "lng": -84.6838,
-    "city": "Powder Springs",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Hinesville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Hiram": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Hiram",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Hogansville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Holy Ground Baptist Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Roopville",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Holy Innocents": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Holy Innocents Episcopal": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Holy Spirit Prep": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Homer": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "Homerville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Horizon Christian Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Cumming",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Hoschton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Houston County": {
-    "lat": 32.613,
-    "lng": -83.6242,
-    "city": "Warner Robins",
-    "state": "GA",
-    "conference": "GHSA 5A Region 2"
-  },
-  "Howard": {
-    "lat": 32.8407,
-    "lng": -83.6324,
-    "city": "Macon",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Irwin County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Ocilla",
-    "state": "GA",
-    "conference": "GHSA 1A-D2 Region 2"
-  },
-  "Irwinton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Islands": {
-    "lat": 32.0809,
-    "lng": -81.0912,
-    "city": "Savannah",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Jackson": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Jackson County": {
-    "lat": 34.1171,
-    "lng": -83.5724,
-    "city": "Jefferson",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Jasper": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Jasper County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Monticello",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Jeff Davis": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Hazlehurst",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Jefferson": {
-    "lat": 34.1171,
-    "lng": -83.5724,
-    "city": "Jefferson",
-    "state": "GA",
-    "conference": "GHSA 3A Region 8"
-  },
-  "Jefferson County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Louisville",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Jeffersonville": {
-    "lat": 34.1171,
-    "lng": -83.5724,
-    "city": "Jefferson",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Jenkins": {
-    "lat": 32.0809,
-    "lng": -81.0912,
-    "city": "Savannah",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Jenkins County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Millen",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Jesup": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "John Hancock Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Sparta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "John Milledge Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Milledgeville",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Johns Creek": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Johns Creek",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Johnson": {
-    "lat": 34.2979,
-    "lng": -83.8241,
-    "city": "Gainesville",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Johnson County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Wrightsville",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Johnson Ferry Christian Academy": {
-    "lat": 33.9526,
-    "lng": -84.5499,
-    "city": "Marietta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Johnson Gainesville": {
-    "lat": 34.2979,
-    "lng": -83.8241,
-    "city": "Gainesville",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "Jones County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Gray",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Jonesboro": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Jonesboro",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Jordan": {
-    "lat": 32.461,
-    "lng": -84.9877,
-    "city": "Columbus",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Josey": {
-    "lat": 33.4735,
-    "lng": -82.0105,
-    "city": "Augusta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "KIPP Atlanta Collegiate": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Kell": {
-    "lat": 33.9526,
-    "lng": -84.5499,
-    "city": "Marietta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Kendrick": {
-    "lat": 32.461,
-    "lng": -84.9877,
-    "city": "Columbus",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Kennesaw": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Kennesaw Mountain": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Kennesaw",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "King's Ridge Christian": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Alpharetta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Kingsland": {
-    "lat": 30.7999,
-    "lng": -81.6898,
-    "city": "Kingsland",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "LaFayette": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Lafayette",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "LaGrange": {
-    "lat": 33.0393,
-    "lng": -85.0313,
-    "city": "LaGrange",
-    "state": "GA",
-    "conference": "GHSA 3A Region 2"
-  },
-  "Lafayette Christian": {
-    "lat": 33.0393,
-    "lng": -85.0313,
-    "city": "Lagrange",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Lake Oconee Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Greensboro",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Lakeland": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Lakeside": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Lakeside Dekalb": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Lakeside Evans": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Lakeview Academy": {
-    "lat": 34.2979,
-    "lng": -83.8241,
-    "city": "Gainesville",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Lakeview-Fort Oglethorpe": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Fort Oglethorpe",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Lamar County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Barnesville",
-    "state": "GA",
-    "conference": "GHSA 1A-D1 Region 4"
-  },
-  "Lambert": {
-    "lat": 34.0515,
-    "lng": -84.0713,
-    "city": "Suwanee",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Landmark Christian": {
-    "lat": 33.5671,
-    "lng": -84.581,
-    "city": "Fairburn",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Laney": {
-    "lat": 33.4735,
-    "lng": -82.0105,
-    "city": "Augusta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Langston Hughes": {
-    "lat": 33.5671,
-    "lng": -84.581,
-    "city": "Fairburn",
-    "state": "GA",
-    "conference": "GHSA 5A Region 3"
-  },
-  "Lanier": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Sugar Hill",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Lanier Christian Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Flowery Branch",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Lanier County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Lakeland",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Lassiter": {
-    "lat": 33.9526,
-    "lng": -84.5499,
-    "city": "Marietta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Lavonia": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "Lawrenceville": {
-    "lat": 33.9562,
-    "lng": -83.988,
-    "city": "Lawrenceville",
-    "state": "GA",
-    "conference": "GHSA PRIV"
+  "Thomas County Central": {
+    "lat": 30.83962,
+    "lng": -83.97318,
+    "city": "Thomasville"
   },
   "Lee County": {
-    "lat": 31.7324,
-    "lng": -84.1707,
-    "city": "Leesburg",
-    "state": "GA",
-    "conference": "GHSA 5A Region 2"
+    "lat": 31.73206,
+    "lng": -84.16855,
+    "city": "Leesburg"
   },
-  "Leesburg": {
-    "lat": 31.7324,
-    "lng": -84.1707,
-    "city": "Leesburg",
-    "state": "GA",
-    "conference": "GHSA 6A"
+  "Creekside": {
+    "lat": 33.55166,
+    "lng": -84.58882,
+    "city": "Fairburn"
   },
-  "Lexington": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
+  "Gainesville": {
+    "lat": 34.29355,
+    "lng": -83.8311,
+    "city": "Gainesville"
   },
-  "Liberty County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Hinesville",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Lilburn": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Lincolnton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Lithia Springs": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Lithia Springs",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Lithonia": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Lithonia",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Locust Grove": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Locust Grove",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Loganville": {
-    "lat": 33.8387,
-    "lng": -83.9007,
-    "city": "Loganville",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Loganville Christian Academy": {
-    "lat": 33.8387,
-    "lng": -83.9007,
-    "city": "Loganville",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Long County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Ludowici",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Louisville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Lovejoy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Lovejoy",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Lovejoy Ga": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Lovett": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Lovett, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Lowndes": {
-    "lat": 30.8327,
-    "lng": -83.2785,
-    "city": "Valdosta",
-    "state": "GA",
-    "conference": "GHSA 6A Region 1"
-  },
-  "Ludowici": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Luella": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Luella",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Lumpkin": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Lumpkin County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Dahlonega",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Lyons": {
-    "lat": 32.2044,
-    "lng": -82.3218,
-    "city": "Lyons",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "M.L. King": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Lithonia",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Mableton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Macon": {
-    "lat": 32.8407,
-    "lng": -83.6324,
-    "city": "Macon",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Macon County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Montezuma",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Madison": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Madison County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Danielsville",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Man Class A from otherGAPPS": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Man Class A from otherGAPPS, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Manchester": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Manchester",
-    "state": "GA",
-    "conference": "GHSA 1A-D2 Region 6"
-  },
-  "Marietta": {
-    "lat": 33.9526,
-    "lng": -84.5499,
-    "city": "Marietta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Marion County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Buena Vista",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Marist": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A Region 5"
-  },
-  "Martinez": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Mary Persons": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Mary Persons, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Maynard Jackson": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Mays": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "McDonough": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Mcdonough",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "McEachern": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "McEachern, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "McIntosh": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Peachtree City",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "McIntosh County Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Darien",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "McNair": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Mcrae": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Meadowcreek": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Norcross",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Metter": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Metter",
-    "state": "GA",
-    "conference": "GHSA 1A-D2 Region 3"
-  },
-  "Midtown": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Mill Creek": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Hoschton",
-    "state": "GA",
-    "conference": "GHSA 6A Region 8"
-  },
-  "Milledgeville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Millen": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Miller County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Colquitt",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Miller Grove": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Lithonia",
-    "state": "GA",
-    "conference": "GHSA 3A"
+  "Coffee": {
+    "lat": 31.50611,
+    "lng": -82.85434,
+    "city": "Douglas"
   },
   "Milton": {
-    "lat": 34.1323,
-    "lng": -84.3007,
-    "city": "Milton",
-    "state": "GA",
-    "conference": "GHSA 5A Region 7"
-  },
-  "Mitchell County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Camilla",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Mlk": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Model": {
-    "lat": 34.257,
-    "lng": -85.1647,
-    "city": "Rome",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Monroe": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Albany",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Monroe Area": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Monroe",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Monsignor Donovan Catholic": {
-    "lat": 33.9519,
-    "lng": -83.3576,
-    "city": "Athens",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Montezuma": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Montgomery County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Mt Vernon",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Monticello": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Morgan County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Madison",
-    "state": "GA",
-    "conference": "GHSA 2A Region 8"
-  },
-  "Morrow": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Morrow",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Moultrie": {
-    "lat": 31.1799,
-    "lng": -83.7891,
-    "city": "Moultrie",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Mount Paran Christian": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Kennesaw",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Mount Pisgah Christian": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Johns Creek",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Mount Vernon": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Mount de Sales Academy": {
-    "lat": 32.8407,
-    "lng": -83.6324,
-    "city": "Macon",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Mountain View": {
-    "lat": 33.9562,
-    "lng": -83.988,
-    "city": "Lawrenceville",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Mountain View Ga": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Mt. Bethel Christian Academy": {
-    "lat": 33.9526,
-    "lng": -84.5499,
-    "city": "Marietta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Mt. Zion": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Mt Zion",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Mundy'S Mill": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Murray County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Chatsworth",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Nahunta": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Nashville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "New Creation Christian Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Mcdonough",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "New Hampstead": {
-    "lat": 32.0809,
-    "lng": -81.0912,
-    "city": "Savannah",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "New Manchester": {
-    "lat": 33.7515,
-    "lng": -84.7477,
-    "city": "Douglasville",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Newman": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Newnan": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Newnan",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Newton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Covington",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Nicholls": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Norcross": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Norcross",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "North Atlanta": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "North Clayton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "College Park",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "North Cobb": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Kennesaw",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "North Cobb Christian": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Kennesaw",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "North Forsyth": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Cumming",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "North Gwinnett": {
-    "lat": 34.0515,
-    "lng": -84.0713,
-    "city": "Suwanee",
-    "state": "GA",
-    "conference": "GHSA 6A Region 7"
-  },
-  "North Hall": {
-    "lat": 34.2979,
-    "lng": -83.8241,
-    "city": "Gainesville",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "North Murray": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Chatsworth",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "North Oconee": {
-    "lat": 33.9487,
-    "lng": -83.5338,
-    "city": "Bogart",
-    "state": "GA",
-    "conference": "GHSA 4A Region 8"
-  },
-  "North Paulding": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Dallas",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "North Springs": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Northeast": {
-    "lat": 32.8407,
-    "lng": -83.6324,
-    "city": "Macon",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Northeast Macon": {
-    "lat": 32.8407,
-    "lng": -83.6324,
-    "city": "Macon",
-    "state": "GA",
-    "conference": "GHSA 1A-D1 Region 2"
-  },
-  "Northgate": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Newnan",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Northside": {
-    "lat": 32.461,
-    "lng": -84.9877,
-    "city": "Columbus",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Northside Wr": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Northview": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Johns Creek",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Northwest Whitfield": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Tunnel Hill",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Ocilla": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Oconee County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Watkinsville",
-    "state": "GA",
-    "conference": "GHSA 3A Region 8"
-  },
-  "Oglethorpe": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Oglethorpe County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Lexington",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Ola": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Mcdonough",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Omega": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Osborne": {
-    "lat": 33.9526,
-    "lng": -84.5499,
-    "city": "Marietta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Pace Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Palmetto": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "Parkview": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Lilburn",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Pataula Charter Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Edison",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Paulding County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Dallas",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Peach County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Fort Valley",
-    "state": "GA",
-    "conference": "GHSA 3A Region 2"
-  },
-  "Peachtree Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Covington",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Peachtree City": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Peachtree Ridge": {
-    "lat": 34.0515,
-    "lng": -84.0713,
-    "city": "Suwanee",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Pearson": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Pebblebrook": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Mableton",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Pelham": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Pelham",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Pembroke": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Pepperell": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Lindale",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Perry": {
-    "lat": 32.4582,
-    "lng": -83.7316,
-    "city": "Perry",
-    "state": "GA",
-    "conference": "GHSA 4A Region 1"
-  },
-  "Pickens": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Jasper",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Piedmont Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Monticello",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Pierce County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Blackshear",
-    "state": "GA",
-    "conference": "GHSA 2A Region 3"
-  },
-  "Pike County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Zebulon",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Pinecrest Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Cumming",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Pinewood Christian": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Bellville",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Pooler": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Pope": {
-    "lat": 33.9526,
-    "lng": -84.5499,
-    "city": "Marietta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Portal": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Portal",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Powder Springs": {
-    "lat": 33.8595,
-    "lng": -84.6838,
-    "city": "Powder Springs",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Praise Academy": {
-    "lat": 33.8595,
-    "lng": -84.6838,
-    "city": "Powder Springs",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Preston": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "Prince Avenue Christian": {
-    "lat": 33.9487,
-    "lng": -83.5338,
-    "city": "Bogart",
-    "state": "GA",
-    "conference": "GHSA Private Region 8"
-  },
-  "Providence Athletic Club": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Columbia",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Providence Christian Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Lilburn",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Putnam County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Eatonton",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Quitman": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Rabun County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Rabun County, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Randolph-Clay": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Cuthbert",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Redan": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Stone Mountain",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Reidsville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Richland": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Richmond Academy": {
-    "lat": 33.4735,
-    "lng": -82.0105,
-    "city": "Augusta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Richmond Hill": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Richmond Hill",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Ridgeland": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Rossville",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Rincon": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Ringgold": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Ringgold",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "River Ridge": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Woodstock",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Riverdale": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Riverdale",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Riverdale Ga": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Riverside Military Academy": {
-    "lat": 34.2979,
-    "lng": -83.8241,
-    "city": "Gainesville",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Riverwood": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Sandy Springs",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Robert Toombs Christian Academy": {
-    "lat": 32.2044,
-    "lng": -82.3218,
-    "city": "Lyons",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Roberta": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Rochelle": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Rock Springs Christian Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Milner",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Rockdale County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Conyers",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Rockmart": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Rockmart",
-    "state": "GA",
-    "conference": "GHSA 2A Region 7"
-  },
-  "Rome": {
-    "lat": 34.257,
-    "lng": -85.1647,
-    "city": "Rome",
-    "state": "GA",
-    "conference": "GHSA 5A Region 5"
-  },
-  "Rossville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
+    "lat": 34.14608,
+    "lng": -84.30983,
+    "city": "Milton"
   },
   "Roswell": {
-    "lat": 34.0232,
-    "lng": -84.3616,
-    "city": "Roswell",
-    "state": "GA",
-    "conference": "GHSA 5A Region 7"
+    "lat": 34.04207,
+    "lng": -84.3458,
+    "city": "Roswell"
   },
-  "Royston": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
+  "Houston County": {
+    "lat": 32.59499,
+    "lng": -83.65732,
+    "city": "Warner Robins"
   },
-  "Rutland": {
-    "lat": 32.8407,
-    "lng": -83.6324,
-    "city": "Macon",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Salem": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Conyers",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Sandersville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "Sandy Creek": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Tyrone",
-    "state": "GA",
-    "conference": "GHSA 3A Region 2"
-  },
-  "Sandy Springs": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Savannah": {
-    "lat": 32.0809,
-    "lng": -81.0912,
-    "city": "Savannah",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Savannah Christian": {
-    "lat": 32.0809,
-    "lng": -81.0912,
-    "city": "Savannah",
-    "state": "GA",
-    "conference": "GHSA Private Region 3"
-  },
-  "Savannah Country Day": {
-    "lat": 32.0809,
-    "lng": -81.0912,
-    "city": "Savannah",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Schley County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Ellaville",
-    "state": "GA",
-    "conference": "GHSA 1A-D2 Region 6"
-  },
-  "Scintilla Charter Academy": {
-    "lat": 30.8327,
-    "lng": -83.2785,
-    "city": "Valdosta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Screven County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Sylvania",
-    "state": "GA",
-    "conference": "GHSA 1A-D2 Region 3"
-  },
-  "Seckinger": {
-    "lat": 34.1207,
-    "lng": -84.0044,
-    "city": "Buford",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Seminole County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Donalsonville",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Senoia": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
+  "Langston Hughes": {
+    "lat": 33.54329,
+    "lng": -84.58496,
+    "city": "Fairburn"
   },
   "Sequoyah": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Canton",
-    "state": "GA",
-    "conference": "GHSA 5A Region 6"
-  },
-  "Shaw": {
-    "lat": 32.461,
-    "lng": -84.9877,
-    "city": "Columbus",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Sherwood Christian Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Albany",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Shiloh": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Snellville",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Skipstone Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Griffin",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Smyrna": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Snellville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Social Circle": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Social Circle",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Sonoraville": {
-    "lat": 34.5026,
-    "lng": -84.9511,
-    "city": "Calhoun",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Soperton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "South Atlanta": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "South Cobb": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Austell",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "South Effingham": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Guyton",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "South Forsyth": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Cumming",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "South Gwinnett": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Snellville",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "South Paulding": {
-    "lat": 33.7515,
-    "lng": -84.7477,
-    "city": "Douglasville",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Southeast Whitfield": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Dalton",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Southland Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Americus",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Southwest": {
-    "lat": 32.8407,
-    "lng": -83.6324,
-    "city": "Macon",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Southwest DeKalb": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Decatur",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Southwest Georgia Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Damascus",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Southwest Georgia STEM Charter": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Shellman",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Spalding": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Griffin",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Sparta": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "Spencer": {
-    "lat": 32.461,
-    "lng": -84.9877,
-    "city": "Columbus",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Spring Creek Charter Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Bainbridge",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Springfield": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "St. Andrew's": {
-    "lat": 32.0809,
-    "lng": -81.0912,
-    "city": "Savannah",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "St. Anne-Pacelli": {
-    "lat": 32.461,
-    "lng": -84.9877,
-    "city": "Columbus",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "St. Francis": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Alpharetta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "St. Marys": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "St. Pius X": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "St. Pius X, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "St. Pius X Catholic": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Starr's Mill": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Fayetteville",
-    "state": "GA",
-    "conference": "GHSA 4A Region 4"
-  },
-  "Statesboro": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Statesboro",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Stephens County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Toccoa",
-    "state": "GA",
-    "conference": "GHSA 2A Region 8"
-  },
-  "Stephenson": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Stone Mountain",
-    "state": "GA",
-    "conference": "GHSA 3A Region 5"
-  },
-  "Stewart County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Lumpkin",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Stockbridge": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Stockbridge",
-    "state": "GA",
-    "conference": "GHSA 4A Region 2"
-  },
-  "Stone Mountain": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Stone Mountain",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Stratford Academy": {
-    "lat": 32.8407,
-    "lng": -83.6324,
-    "city": "Macon",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Strong Rock Christian": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Locust Grove",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Sugar Hill": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Summerville": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Sumter County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Sumter County, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Suwanee": {
-    "lat": 34.0515,
-    "lng": -84.0713,
-    "city": "Suwanee",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "Swainsboro": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Swainsboro",
-    "state": "GA",
-    "conference": "GHSA 1A-D1 Region 3"
-  },
-  "Sylvania": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Sylvester": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Talbotton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Tallapoosa": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Tattnall County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Reidsville",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Tattnall Square Academy": {
-    "lat": 32.8407,
-    "lng": -83.6324,
-    "city": "Macon",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Taylor County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Butler",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Telfair County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Mcrae",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Temple": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Temple",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Tennille": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Terrell Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Dawson",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Terrell County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Dawson",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "The King's Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Woodstock",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Therrell": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Thomas County Central": {
-    "lat": 30.8366,
-    "lng": -83.9788,
-    "city": "Thomasville",
-    "state": "GA",
-    "conference": "GHSA 5A Region 2"
-  },
-  "Thomas Jefferson Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Louisville",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Thomaston": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "Thomasville": {
-    "lat": 30.8366,
-    "lng": -83.9788,
-    "city": "Thomasville",
-    "state": "GA",
-    "conference": "GHSA 1A-D1 Region 1"
-  },
-  "Thomson": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Thomson",
-    "state": "GA",
-    "conference": "GHSA 3A"
+    "lat": 34.24563,
+    "lng": -84.48921,
+    "city": "Canton"
+  },
+  "Jackson County": {
+    "lat": 34.13385,
+    "lng": -83.60557,
+    "city": "Jefferson"
+  },
+  "East Paulding": {
+    "lat": 33.91775,
+    "lng": -84.84635,
+    "city": "Dallas"
   },
   "Tift County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Tifton",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Tiftarea Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Chula",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Tifton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Toccoa": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Toombs County": {
-    "lat": 32.2044,
-    "lng": -82.3218,
-    "city": "Lyons",
-    "state": "GA",
-    "conference": "GHSA 1A-D1 Region 3"
-  },
-  "Towers": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Decatur",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Towns County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Hiawassee",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Trenton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Treutlen": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Soperton",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Tri-Cities": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "East Point",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Trinity Christian": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Dublin",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Trinity Christian Ga": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Trion": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Trion",
-    "state": "GA",
-    "conference": "GHSA 1A-D2 Region 7"
-  },
-  "Troup County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Troup County, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "True Institute": {
-    "lat": 31.1499,
-    "lng": -81.4915,
-    "city": "Brunswick",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Tucker": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Tucker",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Turner County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Ashburn",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Twiggs Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Jeffersonville",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Twiggs County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Jeffersonville",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Tybee Island": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "Tyrone": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Unadilla": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Union City": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Union County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Blairsville",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Union Grove": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Mcdonough",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Unity Christian": {
-    "lat": 34.257,
-    "lng": -85.1647,
-    "city": "Rome",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Upson-Lee": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Thomaston",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Utopian Academy for the Arts": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Ellenwood",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Valwood": {
-    "lat": 30.8327,
-    "lng": -83.2785,
-    "city": "Valdosta",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Veterans": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Kathleen",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Victory Baptist": {
-    "lat": 33.8387,
-    "lng": -83.9007,
-    "city": "Loganville",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Vidalia": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Vidalia",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Vidalia Heritage Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Vidalia",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Vienna": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Villa Rica": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Villa Rica",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Wadley": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 1A-D2"
-  },
-  "Walker": {
-    "lat": 33.9526,
-    "lng": -84.5499,
-    "city": "Marietta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Walnut Grove": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Walnut Grove",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Walton": {
-    "lat": 33.9526,
-    "lng": -84.5499,
-    "city": "Marietta",
-    "state": "GA",
-    "conference": "GHSA 6A Region 5"
-  },
-  "Ware County": {
-    "lat": 31.2136,
-    "lng": -82.354,
-    "city": "Waycross",
-    "state": "GA",
-    "conference": "GHSA 4A Region 1"
-  },
-  "Warren County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Warrenton",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Warrenton": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Washington": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 2A"
-  },
-  "Washington County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Sandersville",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Washington-Wilkes": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Washington",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Wayne County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Jesup",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Wesleyan": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Peachtree Corners",
-    "state": "GA",
-    "conference": "GHSA Private Region 7"
-  },
-  "West Forsyth": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Cumming",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "West Hall": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Oakwood",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "West Laurens": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Dexter",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Westfield School": {
-    "lat": 32.4582,
-    "lng": -83.7316,
-    "city": "Perry",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Westlake": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Westlake Ga": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Westminster": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Westminster Christian Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Watkinsville",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Westminster Ga": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 3A"
-  },
-  "Westover": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Albany",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Westside": {
-    "lat": 32.8407,
-    "lng": -83.6324,
-    "city": "Macon",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Westwood": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Camilla",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Wheeler": {
-    "lat": 33.9526,
-    "lng": -84.5499,
-    "city": "Marietta",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Wheeler County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Alamo",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "White County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Cleveland",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Whitefield Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Mableton",
-    "state": "GA",
-    "conference": "GHSA Private Region 6"
-  },
-  "Whitewater": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Fayetteville",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Wilcox County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Wilcox County, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Wilkinson County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Irwinton",
-    "state": "GA",
-    "conference": "GHSA 1A-D1"
-  },
-  "Winder-Barrow": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Winder",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Windsor Academy": {
-    "lat": 32.8407,
-    "lng": -83.6324,
-    "city": "Macon",
-    "state": "GA",
-    "conference": "GHSA PRIV"
-  },
-  "Windsor Forest": {
-    "lat": 32.0809,
-    "lng": -81.0912,
-    "city": "Savannah",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Woodland": {
-    "lat": 34.1651,
-    "lng": -84.7999,
-    "city": "Cartersville",
-    "state": "GA",
-    "conference": "GHSA 5A"
-  },
-  "Woodland Cartersville": {
-    "lat": 34.1651,
-    "lng": -84.7999,
-    "city": "Cartersville",
-    "state": "GA",
-    "conference": "GHSA 6A"
-  },
-  "Woodland Stockbridge": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Atlanta",
-    "state": "GA",
-    "conference": "GHSA 4A"
-  },
-  "Woodstock": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Woodstock",
-    "state": "GA",
-    "conference": "GHSA 6A"
+    "lat": 31.4621,
+    "lng": -83.5205,
+    "city": "Tifton"
+  },
+  "Newnan": {
+    "lat": 33.38054,
+    "lng": -84.77962,
+    "city": "Newnan"
+  },
+  "Kell": {
+    "lat": 33.95595,
+    "lng": -84.53951,
+    "city": "Marietta"
   },
   "Woodward Academy": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "College Park",
-    "state": "GA",
-    "conference": "GHSA 5A Region 4"
+    "lat": 33.63983,
+    "lng": -84.46847,
+    "city": "College Park"
+  },
+  "Northside": {
+    "lat": 32.59587,
+    "lng": -83.65131,
+    "city": "Warner Robins"
+  },
+  "Clarke Central": {
+    "lat": 33.94931,
+    "lng": -83.36775,
+    "city": "Athens"
+  },
+  "Lassiter": {
+    "lat": 33.9569,
+    "lng": -84.54463,
+    "city": "Marietta"
+  },
+  "Effingham County": {
+    "lat": 32.37216,
+    "lng": -81.31529,
+    "city": "Springfield"
+  },
+  "New Manchester": {
+    "lat": 33.73785,
+    "lng": -84.69502,
+    "city": "Douglasville"
+  },
+  "Brunswick": {
+    "lat": 31.13434,
+    "lng": -81.46572,
+    "city": "Brunswick"
+  },
+  "Lanier": {
+    "lat": 34.08596,
+    "lng": -84.03397,
+    "city": "Sugar Hill"
+  },
+  "Bradwell Institute": {
+    "lat": 31.82765,
+    "lng": -81.61341,
+    "city": "Hinesville"
+  },
+  "Veterans": {
+    "lat": 32.49529,
+    "lng": -83.60997,
+    "city": "Kathleen"
+  },
+  "Heritage": {
+    "lat": 34.90933,
+    "lng": -85.12181,
+    "city": "Ringgold"
+  },
+  "Rome": {
+    "lat": 34.26497,
+    "lng": -85.1842,
+    "city": "Rome"
+  },
+  "Lovejoy": {
+    "lat": 33.44368,
+    "lng": -84.31886,
+    "city": "Lovejoy"
+  },
+  "Creekview": {
+    "lat": 34.24832,
+    "lng": -84.48653,
+    "city": "Canton"
+  },
+  "Habersham Central": {
+    "lat": 34.52349,
+    "lng": -83.49717,
+    "city": "Mt. Airy"
+  },
+  "Dunwoody": {
+    "lat": 33.94139,
+    "lng": -84.3127,
+    "city": "Dunwoody"
+  },
+  "Walnut Grove": {
+    "lat": 33.74786,
+    "lng": -83.84996,
+    "city": "Walnut Grove"
+  },
+  "South Effingham": {
+    "lat": 32.33227,
+    "lng": -81.39038,
+    "city": "Guyton"
+  },
+  "Glynn Academy": {
+    "lat": 31.13238,
+    "lng": -81.46304,
+    "city": "Brunswick"
+  },
+  "Shiloh": {
+    "lat": 33.85506,
+    "lng": -84.0072,
+    "city": "Snellville"
+  },
+  "Mountain View": {
+    "lat": 33.95072,
+    "lng": -83.99088,
+    "city": "Lawrenceville"
+  },
+  "Woodstock": {
+    "lat": 34.0995,
+    "lng": -84.50949,
+    "city": "Woodstock"
+  },
+  "Greenbrier": {
+    "lat": 33.56597,
+    "lng": -82.13597,
+    "city": "Evans"
+  },
+  "Alexander": {
+    "lat": 33.73502,
+    "lng": -84.70619,
+    "city": "Douglasville"
+  },
+  "Loganville": {
+    "lat": 33.83246,
+    "lng": -83.89714,
+    "city": "Loganville"
+  },
+  "Alpharetta": {
+    "lat": 34.06474,
+    "lng": -84.27308,
+    "city": "Alpharetta"
+  },
+  "South Cobb": {
+    "lat": 33.81977,
+    "lng": -84.64377,
+    "city": "Austell"
+  },
+  "Grovetown": {
+    "lat": 33.44977,
+    "lng": -82.20797,
+    "city": "Grovetown"
+  },
+  "Hiram": {
+    "lat": 33.89079,
+    "lng": -84.75055,
+    "city": "Hiram"
+  },
+  "McIntosh": {
+    "lat": 33.39189,
+    "lng": -84.57066,
+    "city": "Peachtree City"
+  },
+  "South Paulding": {
+    "lat": 33.74196,
+    "lng": -84.7047,
+    "city": "Douglasville"
+  },
+  "Tri-Cities": {
+    "lat": 33.67112,
+    "lng": -84.47343,
+    "city": "East Point"
+  },
+  "Cedar Shoals": {
+    "lat": 33.94565,
+    "lng": -83.36722,
+    "city": "Athens"
+  },
+  "Chapel Hill": {
+    "lat": 33.732,
+    "lng": -84.69942,
+    "city": "Douglasville"
+  },
+  "Pope": {
+    "lat": 33.95554,
+    "lng": -84.54712,
+    "city": "Marietta"
+  },
+  "River Ridge": {
+    "lat": 34.10556,
+    "lng": -84.51703,
+    "city": "Woodstock"
+  },
+  "Chamblee": {
+    "lat": 33.88113,
+    "lng": -84.30165,
+    "city": "Chamblee"
+  },
+  "Decatur": {
+    "lat": 33.77422,
+    "lng": -84.30063,
+    "city": "Decatur"
+  },
+  "Apalachee": {
+    "lat": 33.99076,
+    "lng": -83.72708,
+    "city": "Winder"
+  },
+  "Morrow": {
+    "lat": 33.5783,
+    "lng": -84.33555,
+    "city": "Morrow"
+  },
+  "Johns Creek": {
+    "lat": 34.03514,
+    "lng": -84.20768,
+    "city": "Johns Creek"
+  },
+  "Alcovy": {
+    "lat": 33.60176,
+    "lng": -83.84893,
+    "city": "Covington"
+  },
+  "Lakeside": {
+    "lat": 33.57067,
+    "lng": -82.13607,
+    "city": "Evans"
+  },
+  "Osborne": {
+    "lat": 33.95552,
+    "lng": -84.54204,
+    "city": "Marietta"
+  },
+  "Meadowcreek": {
+    "lat": 33.93524,
+    "lng": -84.20601,
+    "city": "Norcross"
+  },
+  "Riverwood": {
+    "lat": 33.9315,
+    "lng": -84.36889,
+    "city": "Sandy Springs"
+  },
+  "Midtown": {
+    "lat": 33.75859,
+    "lng": -84.42229,
+    "city": "Atlanta"
+  },
+  "Carrollton": {
+    "lat": 33.58185,
+    "lng": -85.08333,
+    "city": "Carrollton"
+  },
+  "Buford": {
+    "lat": 34.11884,
+    "lng": -83.99186,
+    "city": "Buford"
+  },
+  "Valdosta": {
+    "lat": 30.84746,
+    "lng": -83.28037,
+    "city": "Valdosta"
+  },
+  "Newton": {
+    "lat": 33.60058,
+    "lng": -83.84859,
+    "city": "Covington"
+  },
+  "Lowndes": {
+    "lat": 30.85191,
+    "lng": -83.27678,
+    "city": "Valdosta"
+  },
+  "North Gwinnett": {
+    "lat": 34.04832,
+    "lng": -84.06106,
+    "city": "Suwanee"
+  },
+  "Grayson": {
+    "lat": 33.83851,
+    "lng": -83.89935,
+    "city": "Loganville"
+  },
+  "Colquitt County": {
+    "lat": 31.26902,
+    "lng": -83.68453,
+    "city": "Norman Park"
+  },
+  "Brookwood": {
+    "lat": 33.85533,
+    "lng": -84.00441,
+    "city": "Snellville"
+  },
+  "Westlake": {
+    "lat": 33.76737,
+    "lng": -84.42338,
+    "city": "Atlanta"
+  },
+  "North Cobb": {
+    "lat": 34.02954,
+    "lng": -84.6161,
+    "city": "Kennesaw"
+  },
+  "Douglas County": {
+    "lat": 33.7403,
+    "lng": -84.69965,
+    "city": "Douglasville"
+  },
+  "East Coweta": {
+    "lat": 33.33393,
+    "lng": -84.64698,
+    "city": "Sharpsburg"
+  },
+  "Parkview": {
+    "lat": 33.88721,
+    "lng": -84.13711,
+    "city": "Lilburn"
+  },
+  "McEachern": {
+    "lat": 33.86204,
+    "lng": -84.68073,
+    "city": "Powder Springs"
+  },
+  "Camden County": {
+    "lat": 30.8461,
+    "lng": -81.79091,
+    "city": "Kingsland"
+  },
+  "Marietta": {
+    "lat": 33.95898,
+    "lng": -84.54255,
+    "city": "Marietta"
+  },
+  "South Gwinnett": {
+    "lat": 33.8575,
+    "lng": -84.00268,
+    "city": "Snellville"
+  },
+  "Walton": {
+    "lat": 33.95277,
+    "lng": -84.5393,
+    "city": "Marietta"
+  },
+  "Richmond Hill": {
+    "lat": 31.90019,
+    "lng": -81.31008,
+    "city": "Richmond Hill"
+  },
+  "Archer": {
+    "lat": 33.95126,
+    "lng": -83.99665,
+    "city": "Lawrenceville"
+  },
+  "North Paulding": {
+    "lat": 33.91781,
+    "lng": -84.84346,
+    "city": "Dallas"
+  },
+  "Peachtree Ridge": {
+    "lat": 34.0552,
+    "lng": -84.0667,
+    "city": "Suwanee"
+  },
+  "Lambert": {
+    "lat": 34.04617,
+    "lng": -84.0642,
+    "city": "Suwanee"
+  },
+  "Norcross": {
+    "lat": 33.94316,
+    "lng": -84.20306,
+    "city": "Norcross"
+  },
+  "Hillgrove": {
+    "lat": 33.8626,
+    "lng": -84.67666,
+    "city": "Powder Springs"
+  },
+  "Harrison": {
+    "lat": 34.02918,
+    "lng": -84.61617,
+    "city": "Kennesaw"
+  },
+  "Collins Hill": {
+    "lat": 34.0563,
+    "lng": -84.06509,
+    "city": "Suwanee"
+  },
+  "North Forsyth": {
+    "lat": 34.20607,
+    "lng": -84.12879,
+    "city": "Cumming"
+  },
+  "Denmark": {
+    "lat": 34.07087,
+    "lng": -84.27771,
+    "city": "Alpharetta"
+  },
+  "West Forsyth": {
+    "lat": 34.20575,
+    "lng": -84.13746,
+    "city": "Cumming"
+  },
+  "Mill Creek": {
+    "lat": 34.08562,
+    "lng": -83.75987,
+    "city": "Hoschton"
+  },
+  "Etowah": {
+    "lat": 34.10109,
+    "lng": -84.51095,
+    "city": "Woodstock"
+  },
+  "North Atlanta": {
+    "lat": 33.76166,
+    "lng": -84.41833,
+    "city": "Atlanta"
+  },
+  "South Forsyth": {
+    "lat": 34.20404,
+    "lng": -84.13232,
+    "city": "Cumming"
+  },
+  "Dacula": {
+    "lat": 33.98342,
+    "lng": -83.90294,
+    "city": "Dacula"
+  },
+  "Rockdale County": {
+    "lat": 33.65775,
+    "lng": -83.98579,
+    "city": "Conyers"
+  },
+  "Duluth": {
+    "lat": 34.00152,
+    "lng": -84.15046,
+    "city": "Duluth"
+  },
+  "Paulding County": {
+    "lat": 33.91888,
+    "lng": -84.83928,
+    "city": "Dallas"
+  },
+  "Pebblebrook": {
+    "lat": 33.8173,
+    "lng": -84.57308,
+    "city": "Mableton"
+  },
+  "Campbell": {
+    "lat": 33.86256,
+    "lng": -84.51612,
+    "city": "Smyrna"
+  },
+  "Northgate": {
+    "lat": 33.37177,
+    "lng": -84.7793,
+    "city": "Newnan"
+  },
+  "Kennesaw Mountain": {
+    "lat": 34.02257,
+    "lng": -84.61334,
+    "city": "Kennesaw"
+  },
+  "Cherokee": {
+    "lat": 34.25071,
+    "lng": -84.4916,
+    "city": "Canton"
+  },
+  "Central Gwinnett": {
+    "lat": 33.94677,
+    "lng": -83.99387,
+    "city": "Lawrenceville"
+  },
+  "Wheeler": {
+    "lat": 33.95607,
+    "lng": -84.54506,
+    "city": "Marietta"
+  },
+  "Forsyth Central": {
+    "lat": 34.20438,
+    "lng": -84.13005,
+    "city": "Cumming"
+  },
+  "Seckinger": {
+    "lat": 34.11967,
+    "lng": -83.98555,
+    "city": "Buford"
+  },
+  "Discovery": {
+    "lat": 33.95009,
+    "lng": -83.99055,
+    "city": "Lawrenceville"
+  },
+  "Berkmar": {
+    "lat": 33.88828,
+    "lng": -84.14051,
+    "city": "Lilburn"
+  },
+  "Johnson County": {
+    "lat": 32.72681,
+    "lng": -82.71907,
+    "city": "Wrightsville"
+  },
+  "Lincoln County": {
+    "lat": 33.79271,
+    "lng": -82.47844,
+    "city": "Lincolnton"
+  },
+  "Bowdon": {
+    "lat": 33.53784,
+    "lng": -85.25398,
+    "city": "Bowdon"
+  },
+  "Taylor County": {
+    "lat": 32.55719,
+    "lng": -84.23733,
+    "city": "Butler"
+  },
+  "Washington-Wilkes": {
+    "lat": 33.73524,
+    "lng": -82.74227,
+    "city": "Washington"
+  },
+  "Clinch County": {
+    "lat": 31.03823,
+    "lng": -82.74208,
+    "city": "Homerville"
+  },
+  "Emanuel County Institute": {
+    "lat": 32.58223,
+    "lng": -82.15938,
+    "city": "Twin City"
+  },
+  "Macon County": {
+    "lat": 32.29724,
+    "lng": -84.01906,
+    "city": "Montezuma"
+  },
+  "Randolph-Clay": {
+    "lat": 31.77069,
+    "lng": -84.79358,
+    "city": "Cuthbert"
+  },
+  "Charlton County": {
+    "lat": 30.83907,
+    "lng": -82.00734,
+    "city": "Folkston"
+  },
+  "Trion": {
+    "lat": 34.54842,
+    "lng": -85.31077,
+    "city": "Trion"
+  },
+  "Wheeler County": {
+    "lat": 32.14761,
+    "lng": -82.77977,
+    "city": "Alamo"
+  },
+  "Schley County": {
+    "lat": 32.23766,
+    "lng": -84.30911,
+    "city": "Ellaville"
+  },
+  "Mitchell County": {
+    "lat": 31.23406,
+    "lng": -84.20956,
+    "city": "Camilla"
+  },
+  "Portal": {
+    "lat": 32.5382,
+    "lng": -81.92875,
+    "city": "Portal"
+  },
+  "Warren County": {
+    "lat": 33.40766,
+    "lng": -82.66512,
+    "city": "Warrenton"
+  },
+  "Early County": {
+    "lat": 31.38094,
+    "lng": -84.92706,
+    "city": "Blakely"
+  },
+  "Treutlen": {
+    "lat": 32.37827,
+    "lng": -82.59402,
+    "city": "Soperton"
+  },
+  "Jenkins County": {
+    "lat": 32.80689,
+    "lng": -81.94204,
+    "city": "Millen"
+  },
+  "Seminole County": {
+    "lat": 31.03969,
+    "lng": -84.87842,
+    "city": "Donalsonville"
+  },
+  "Hawkinsville": {
+    "lat": 32.30118,
+    "lng": -83.47886,
+    "city": "Hawkinsville"
+  },
+  "McIntosh County Academy": {
+    "lat": 31.34349,
+    "lng": -81.4241,
+    "city": "Darien"
+  },
+  "Telfair County": {
+    "lat": 32.06358,
+    "lng": -82.89689,
+    "city": "McRae"
+  },
+  "Glascock County": {
+    "lat": 33.23169,
+    "lng": -82.60098,
+    "city": "Gibson"
+  },
+  "Miller County": {
+    "lat": 31.17321,
+    "lng": -84.73238,
+    "city": "Colquitt"
+  },
+  "Montgomery County": {
+    "lat": 32.18524,
+    "lng": -82.59659,
+    "city": "Mt. Vernon"
+  },
+  "Lake Oconee Academy": {
+    "lat": 33.56481,
+    "lng": -83.19249,
+    "city": "Greensboro"
+  },
+  "Manchester": {
+    "lat": 32.85906,
+    "lng": -84.63437,
+    "city": "Manchester"
+  },
+  "Baconton Charter": {
+    "lat": 31.38038,
+    "lng": -84.15918,
+    "city": "Baconton"
+  },
+  "Claxton": {
+    "lat": 32.16208,
+    "lng": -81.90966,
+    "city": "Claxton"
+  },
+  "Irwin County": {
+    "lat": 31.59863,
+    "lng": -83.24981,
+    "city": "Ocilla"
+  },
+  "Turner County": {
+    "lat": 31.70919,
+    "lng": -83.65242,
+    "city": "Ashburn"
+  },
+  "Business Engineering Science Tech": {
+    "lat": 33.75862,
+    "lng": -84.42569,
+    "city": "Atlanta"
+  },
+  "Greene County": {
+    "lat": 33.56175,
+    "lng": -83.18639,
+    "city": "Greensboro"
+  },
+  "Wilkinson County": {
+    "lat": 32.81076,
+    "lng": -83.1737,
+    "city": "Irwinton"
+  },
+  "Marion County": {
+    "lat": 32.31848,
+    "lng": -84.51756,
+    "city": "Buena Vista"
+  },
+  "Dooly County": {
+    "lat": 32.09275,
+    "lng": -83.78684,
+    "city": "Vienna"
+  },
+  "Towns County": {
+    "lat": 34.94616,
+    "lng": -83.74634,
+    "city": "Hiawassee"
+  },
+  "Georgia Military College": {
+    "lat": 33.09083,
+    "lng": -83.23956,
+    "city": "Milledgeville"
+  },
+  "Calhoun County": {
+    "lat": 31.55922,
+    "lng": -84.74333,
+    "city": "Edison"
+  },
+  "Chattahoochee County": {
+    "lat": 32.34745,
+    "lng": -84.78802,
+    "city": "Cusseta"
+  },
+  "Lanier County": {
+    "lat": 31.04082,
+    "lng": -83.07473,
+    "city": "Lakeland"
+  },
+  "Hancock Central": {
+    "lat": 33.27791,
+    "lng": -82.96981,
+    "city": "Sparta"
+  },
+  "Pataula Charter Academy": {
+    "lat": 31.56353,
+    "lng": -84.73745,
+    "city": "Edison"
+  },
+  "Terrell County": {
+    "lat": 31.77186,
+    "lng": -84.4435,
+    "city": "Dawson"
+  },
+  "Pelham": {
+    "lat": 31.12664,
+    "lng": -84.15146,
+    "city": "Pelham"
+  },
+  "Wilcox County": {
+    "lat": 31.94877,
+    "lng": -83.45688,
+    "city": "Rochelle"
+  },
+  "Crawford County": {
+    "lat": 32.71978,
+    "lng": -84.01038,
+    "city": "Roberta"
+  },
+  "Atkinson County": {
+    "lat": 31.29721,
+    "lng": -82.85396,
+    "city": "Pearson"
+  },
+  "Twiggs County": {
+    "lat": 32.68629,
+    "lng": -83.34268,
+    "city": "Jeffersonville"
+  },
+  "Greenville": {
+    "lat": 33.03093,
+    "lng": -84.71633,
+    "city": "Greenville"
+  },
+  "Central": {
+    "lat": 32.67725,
+    "lng": -84.54065,
+    "city": "Talbotton"
+  },
+  "Scintilla Charter Academy": {
+    "lat": 30.85008,
+    "lng": -83.27611,
+    "city": "Valdosta"
+  },
+  "Southwest Georgia STEM Charter": {
+    "lat": 31.75709,
+    "lng": -84.6159,
+    "city": "Shellman"
+  },
+  "Sandy Creek": {
+    "lat": 33.47606,
+    "lng": -84.59452,
+    "city": "Tyrone"
+  },
+  "Peach County": {
+    "lat": 32.55111,
+    "lng": -83.87994,
+    "city": "Fort Valley"
+  },
+  "Troup County": {
+    "lat": 33.02574,
+    "lng": -85.03243,
+    "city": "LaGrange"
+  },
+  "Cairo": {
+    "lat": 30.87923,
+    "lng": -84.20551,
+    "city": "Cairo"
+  },
+  "Monroe Area": {
+    "lat": 33.79748,
+    "lng": -83.71873,
+    "city": "Monroe"
+  },
+  "Stephenson": {
+    "lat": 33.8064,
+    "lng": -84.17406,
+    "city": "Stone Mountain"
+  },
+  "Douglass": {
+    "lat": 33.76603,
+    "lng": -84.42413,
+    "city": "Atlanta"
+  },
+  "Calhoun": {
+    "lat": 34.50494,
+    "lng": -84.93139,
+    "city": "Calhoun"
+  },
+  "Mary Persons": {
+    "lat": 33.03936,
+    "lng": -83.93444,
+    "city": "Forsyth"
+  },
+  "Greater Atlanta Christian": {
+    "lat": 33.9421,
+    "lng": -84.20437,
+    "city": "Norcross"
+  },
+  "Dougherty": {
+    "lat": 31.57722,
+    "lng": -84.17234,
+    "city": "Albany"
+  },
+  "Baldwin": {
+    "lat": 33.08335,
+    "lng": -83.2374,
+    "city": "Milledgeville"
+  },
+  "North Hall": {
+    "lat": 34.29301,
+    "lng": -83.83155,
+    "city": "Gainesville"
+  },
+  "Hampton": {
+    "lat": 33.37777,
+    "lng": -84.30277,
+    "city": "Hampton"
+  },
+  "Northwest Whitfield": {
+    "lat": 34.85541,
+    "lng": -85.03678,
+    "city": "Tunnel Hill"
+  },
+  "Oconee County": {
+    "lat": 33.85967,
+    "lng": -83.40479,
+    "city": "Watkinsville"
+  },
+  "Spencer": {
+    "lat": 32.5063,
+    "lng": -84.87898,
+    "city": "Columbus"
+  },
+  "West Laurens": {
+    "lat": 32.43319,
+    "lng": -83.05913,
+    "city": "Dexter"
+  },
+  "Westover": {
+    "lat": 31.57576,
+    "lng": -84.17486,
+    "city": "Albany"
+  },
+  "Cherokee Bluff": {
+    "lat": 34.16707,
+    "lng": -83.91973,
+    "city": "Flowery Branch"
+  },
+  "Adairsville": {
+    "lat": 34.37085,
+    "lng": -84.92119,
+    "city": "Adairsville"
+  },
+  "North Clayton": {
+    "lat": 33.64103,
+    "lng": -84.46135,
+    "city": "College Park"
+  },
+  "Bainbridge": {
+    "lat": 30.90621,
+    "lng": -84.57265,
+    "city": "Bainbridge"
+  },
+  "Spalding": {
+    "lat": 33.24349,
+    "lng": -84.26753,
+    "city": "Griffin"
+  },
+  "Howard": {
+    "lat": 32.80767,
+    "lng": -83.69168,
+    "city": "Macon"
+  },
+  "Harlem": {
+    "lat": 33.43535,
+    "lng": -82.31606,
+    "city": "Harlem"
+  },
+  "New Hampstead": {
+    "lat": 32.01456,
+    "lng": -81.19842,
+    "city": "Savannah"
+  },
+  "Woodland": {
+    "lat": 33.52803,
+    "lng": -84.23001,
+    "city": "Stockbridge"
+  },
+  "Gilmer": {
+    "lat": 34.69144,
+    "lng": -84.48349,
+    "city": "Ellijay"
+  },
+  "Mt. Zion": {
+    "lat": 33.52229,
+    "lng": -84.35336,
+    "city": "Jonesboro"
+  },
+  "White County": {
+    "lat": 34.59704,
+    "lng": -83.76071,
+    "city": "Cleveland"
+  },
+  "East Jackson": {
+    "lat": 34.2143,
+    "lng": -83.46939,
+    "city": "Commerce"
+  },
+  "Liberty County": {
+    "lat": 31.83068,
+    "lng": -81.61584,
+    "city": "Hinesville"
+  },
+  "Pickens": {
+    "lat": 34.4662,
+    "lng": -84.43586,
+    "city": "Jasper"
+  },
+  "Southeast Bulloch": {
+    "lat": 32.3891,
+    "lng": -81.66997,
+    "city": "Brooklet"
+  },
+  "Monroe": {
+    "lat": 31.57333,
+    "lng": -84.17368,
+    "city": "Albany"
+  },
+  "Shaw": {
+    "lat": 32.51228,
+    "lng": -84.87294,
+    "city": "Columbus"
+  },
+  "Windsor Forest": {
+    "lat": 32.01531,
+    "lng": -81.19963,
+    "city": "Savannah"
+  },
+  "Long County": {
+    "lat": 31.71401,
+    "lng": -81.74029,
+    "city": "Ludowici"
+  },
+  "Pace Academy": {
+    "lat": 33.76541,
+    "lng": -84.42829,
+    "city": "Atlanta"
+  },
+  "Westside": {
+    "lat": 32.8132,
+    "lng": -83.69511,
+    "city": "Macon"
+  },
+  "Westminster": {
+    "lat": 33.76369,
+    "lng": -84.42025,
+    "city": "Atlanta"
+  },
+  "McDonough": {
+    "lat": 33.43793,
+    "lng": -84.14795,
+    "city": "Mcdonough"
+  },
+  "Upson-Lee": {
+    "lat": 32.89167,
+    "lng": -84.32669,
+    "city": "Thomaston"
+  },
+  "Dawson County": {
+    "lat": 34.43365,
+    "lng": -84.12445,
+    "city": "Dawsonville"
+  },
+  "Ridgeland": {
+    "lat": 34.97577,
+    "lng": -85.28957,
+    "city": "Rossville"
+  },
+  "Fayette County": {
+    "lat": 33.44346,
+    "lng": -84.47088,
+    "city": "Fayetteville"
+  },
+  "North Springs": {
+    "lat": 33.75983,
+    "lng": -84.42252,
+    "city": "Atlanta"
+  },
+  "Columbus": {
+    "lat": 32.50733,
+    "lng": -84.87771,
+    "city": "Columbus"
+  },
+  "Luella": {
+    "lat": 33.35206,
+    "lng": -84.17853,
+    "city": "Luella"
+  },
+  "East Hall": {
+    "lat": 34.28652,
+    "lng": -83.82968,
+    "city": "Gainesville"
+  },
+  "Riverdale": {
+    "lat": 33.55918,
+    "lng": -84.41121,
+    "city": "Riverdale"
+  },
+  "West Hall": {
+    "lat": 34.22213,
+    "lng": -83.88486,
+    "city": "Oakwood"
+  },
+  "Southeast Whitfield": {
+    "lat": 34.77394,
+    "lng": -84.97466,
+    "city": "Dalton"
+  },
+  "Hardaway": {
+    "lat": 32.50817,
+    "lng": -84.87727,
+    "city": "Columbus"
+  },
+  "Salem": {
+    "lat": 33.65461,
+    "lng": -83.98496,
+    "city": "Conyers"
+  },
+  "Chestatee": {
+    "lat": 34.28889,
+    "lng": -83.83531,
+    "city": "Gainesville"
+  },
+  "Stone Mountain": {
+    "lat": 33.80119,
+    "lng": -84.17403,
+    "city": "Stone Mountain"
+  },
+  "Clarkston": {
+    "lat": 33.81349,
+    "lng": -84.24185,
+    "city": "Clarkston"
+  },
+  "Heard County": {
+    "lat": 33.27983,
+    "lng": -85.09864,
+    "city": "Franklin"
+  },
+  "Prince Avenue Christian": {
+    "lat": 33.94686,
+    "lng": -83.37149,
+    "city": "Athens"
+  },
+  "Calvary Day": {
+    "lat": 32.02174,
+    "lng": -81.19734,
+    "city": "Savannah"
+  },
+  "Bleckley County": {
+    "lat": 32.38806,
+    "lng": -83.35043,
+    "city": "Cochran"
+  },
+  "Dublin": {
+    "lat": 32.53547,
+    "lng": -82.92881,
+    "city": "Dublin"
+  },
+  "Bremen": {
+    "lat": 33.71077,
+    "lng": -85.1519,
+    "city": "Bremen"
+  },
+  "Jeff Davis": {
+    "lat": 31.86413,
+    "lng": -82.59928,
+    "city": "Hazlehurst"
+  },
+  "Thomasville": {
+    "lat": 30.8386,
+    "lng": -83.98396,
+    "city": "Thomasville"
+  },
+  "Fitzgerald": {
+    "lat": 31.71304,
+    "lng": -83.25221,
+    "city": "Fitzgerald"
+  },
+  "Commerce": {
+    "lat": 34.21271,
+    "lng": -83.48032,
+    "city": "Commerce"
+  },
+  "Whitefield Academy": {
+    "lat": 33.81334,
+    "lng": -84.58182,
+    "city": "Mableton"
+  },
+  "Swainsboro": {
+    "lat": 32.58559,
+    "lng": -82.33478,
+    "city": "Swainsboro"
+  },
+  "Mount Vernon": {
+    "lat": 33.76576,
+    "lng": -84.41828,
+    "city": "Atlanta"
+  },
+  "Aquinas": {
+    "lat": 33.36785,
+    "lng": -82.07297,
+    "city": "Augusta"
+  },
+  "Model": {
+    "lat": 34.26731,
+    "lng": -85.18928,
+    "city": "Rome"
+  },
+  "Jasper County": {
+    "lat": 33.29588,
+    "lng": -83.68658,
+    "city": "Monticello"
+  },
+  "Laney": {
+    "lat": 33.36538,
+    "lng": -82.07052,
+    "city": "Augusta"
+  },
+  "Dodge County": {
+    "lat": 32.19756,
+    "lng": -83.17066,
+    "city": "Eastman"
+  },
+  "Cook": {
+    "lat": 31.1248,
+    "lng": -83.42548,
+    "city": "Adel"
+  },
+  "Social Circle": {
+    "lat": 33.64614,
+    "lng": -83.71278,
+    "city": "Social Circle"
+  },
+  "Fellowship Christian": {
+    "lat": 34.03398,
+    "lng": -84.35411,
+    "city": "Roswell"
+  },
+  "Trinity Christian": {
+    "lat": 33.33943,
+    "lng": -84.6505,
+    "city": "Sharpsburg"
+  },
+  "Christian Heritage": {
+    "lat": 34.76937,
+    "lng": -84.97708,
+    "city": "Dalton"
+  },
+  "Eagle's Landing Christian Academy": {
+    "lat": 33.4405,
+    "lng": -84.15351,
+    "city": "McDonough"
+  },
+  "Putnam County": {
+    "lat": 33.32582,
+    "lng": -83.38886,
+    "city": "Eatonton"
+  },
+  "Screven County": {
+    "lat": 32.74723,
+    "lng": -81.64069,
+    "city": "Sylvania"
+  },
+  "Berrien": {
+    "lat": 31.2057,
+    "lng": -83.24639,
+    "city": "Nashville"
+  },
+  "Savannah Christian": {
+    "lat": 32.01882,
+    "lng": -81.19094,
+    "city": "Savannah"
+  },
+  "Brooks County": {
+    "lat": 30.78453,
+    "lng": -83.56055,
+    "city": "Quitman"
+  },
+  "Academy for Classical Education": {
+    "lat": 32.8061,
+    "lng": -83.68885,
+    "city": "Macon"
+  },
+  "Rabun County": {
+    "lat": 34.84607,
+    "lng": -83.43256,
+    "city": "Tiger"
+  },
+  "Providence Christian Academy": {
+    "lat": 33.89222,
+    "lng": -84.13564,
+    "city": "Lilburn"
+  },
+  "Darlington": {
+    "lat": 34.26688,
+    "lng": -85.1881,
+    "city": "Rome"
+  },
+  "King's Ridge Christian": {
+    "lat": 34.06682,
+    "lng": -84.27421,
+    "city": "Alpharetta"
+  },
+  "East Laurens": {
+    "lat": 32.54693,
+    "lng": -82.86697,
+    "city": "East Dublin"
+  },
+  "Gordon Lee": {
+    "lat": 34.87747,
+    "lng": -85.28835,
+    "city": "Chickamauga"
+  },
+  "Athens Academy": {
+    "lat": 33.95002,
+    "lng": -83.3735,
+    "city": "Athens"
+  },
+  "Pepperell": {
+    "lat": 34.18769,
+    "lng": -85.18072,
+    "city": "Lindale"
+  },
+  "Vidalia": {
+    "lat": 32.21208,
+    "lng": -82.40219,
+    "city": "Vidalia"
+  },
+  "Fannin County": {
+    "lat": 34.86649,
+    "lng": -84.32186,
+    "city": "Blue Ridge"
+  },
+  "Bacon County": {
+    "lat": 31.54333,
+    "lng": -82.47558,
+    "city": "Alma"
+  },
+  "Metter": {
+    "lat": 32.39451,
+    "lng": -82.06243,
+    "city": "Metter"
+  },
+  "Mt. Bethel Christian Academy": {
+    "lat": 33.95225,
+    "lng": -84.54464,
+    "city": "Marietta"
+  },
+  "Dade County": {
+    "lat": 34.87415,
+    "lng": -85.50965,
+    "city": "Trenton"
+  },
+  "Mount Paran Christian": {
+    "lat": 34.02503,
+    "lng": -84.61375,
+    "city": "Kennesaw"
+  },
+  "Washington": {
+    "lat": 33.76634,
+    "lng": -84.42238,
+    "city": "Atlanta"
+  },
+  "Bryan County": {
+    "lat": 32.14453,
+    "lng": -81.61692,
+    "city": "Pembroke"
+  },
+  "Landmark Christian": {
+    "lat": 33.54758,
+    "lng": -84.58312,
+    "city": "Fairburn"
+  },
+  "Jefferson County": {
+    "lat": 32.99287,
+    "lng": -82.39719,
+    "city": "Louisville"
+  },
+  "Utopian Academy for the Arts": {
+    "lat": 33.61311,
+    "lng": -84.28596,
+    "city": "Ellenwood"
+  },
+  "Coosa": {
+    "lat": 34.26336,
+    "lng": -85.19173,
+    "city": "Rome"
+  },
+  "Glenn Hills": {
+    "lat": 33.35997,
+    "lng": -82.07083,
+    "city": "Augusta"
+  },
+  "Banks County": {
+    "lat": 34.33796,
+    "lng": -83.49478,
+    "city": "Homer"
+  },
+  "Mount Pisgah Christian": {
+    "lat": 34.03466,
+    "lng": -84.2067,
+    "city": "Johns Creek"
+  },
+  "Oglethorpe County": {
+    "lat": 33.87007,
+    "lng": -83.11015,
+    "city": "Lexington"
+  },
+  "Chattooga": {
+    "lat": 34.47873,
+    "lng": -85.34908,
+    "city": "Summerville"
+  },
+  "Walker": {
+    "lat": 33.95937,
+    "lng": -84.54046,
+    "city": "Marietta"
+  },
+  "Lakeview-Fort Oglethorpe": {
+    "lat": 34.93185,
+    "lng": -85.24601,
+    "city": "Fort Oglethorpe"
+  },
+  "Savannah": {
+    "lat": 32.01603,
+    "lng": -81.19906,
+    "city": "Savannah"
+  },
+  "Armuchee": {
+    "lat": 34.26289,
+    "lng": -85.18565,
+    "city": "Rome"
+  },
+  "Josey": {
+    "lat": 33.36855,
+    "lng": -82.0722,
+    "city": "Augusta"
+  },
+  "Gordon Central": {
+    "lat": 34.49941,
+    "lng": -84.92946,
+    "city": "Calhoun"
+  },
+  "Appling County": {
+    "lat": 31.76475,
+    "lng": -82.34925,
+    "city": "Baxley"
+  },
+  "Toombs County": {
+    "lat": 32.20491,
+    "lng": -82.32122,
+    "city": "Lyons"
+  },
+  "Holy Innocents Episcopal": {
+    "lat": 33.7656,
+    "lng": -84.42229,
+    "city": "Atlanta"
+  },
+  "Pierce County": {
+    "lat": 31.29083,
+    "lng": -82.25293,
+    "city": "Blackshear"
+  },
+  "Columbia": {
+    "lat": 33.77484,
+    "lng": -84.29214,
+    "city": "Decatur"
+  },
+  "Rockmart": {
+    "lat": 34.00831,
+    "lng": -85.04498,
+    "city": "Rockmart"
+  },
+  "KIPP Atlanta Collegiate": {
+    "lat": 33.76488,
+    "lng": -84.42233,
+    "city": "Atlanta"
+  },
+  "Northeast": {
+    "lat": 32.80732,
+    "lng": -83.69865,
+    "city": "Macon"
+  },
+  "Hart County": {
+    "lat": 34.34965,
+    "lng": -82.92802,
+    "city": "Hartwell"
+  },
+  "Hebron Christian": {
+    "lat": 33.98468,
+    "lng": -83.90132,
+    "city": "Dacula"
+  },
+  "Hapeville Charter": {
+    "lat": 33.76671,
+    "lng": -84.41992,
+    "city": "Atlanta"
+  },
+  "Lovett": {
+    "lat": 33.76093,
+    "lng": -84.42396,
+    "city": "Atlanta"
+  },
+  "Burke County": {
+    "lat": 33.09128,
+    "lng": -82.01429,
+    "city": "Waynesboro"
+  },
+  "Thomson": {
+    "lat": 33.46927,
+    "lng": -82.49512,
+    "city": "Thomson"
+  },
+  "Carver": {
+    "lat": 32.51554,
+    "lng": -84.8758,
+    "city": "Columbus"
+  },
+  "Wesleyan": {
+    "lat": 33.93337,
+    "lng": -84.20726,
+    "city": "Norcross"
   },
   "Worth County": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Sylvester",
-    "state": "GA",
-    "conference": "GHSA 1A-D1 Region 1"
+    "lat": 31.52974,
+    "lng": -83.83457,
+    "city": "Sylvester"
   },
-  "Young Americans Christian": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Conyers",
-    "state": "GA",
-    "conference": "GHSA PRIV"
+  "Hephzibah": {
+    "lat": 33.2923,
+    "lng": -82.09573,
+    "city": "Hephzibah"
   },
-  "cherokee Bluff": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "Flowery Branch",
-    "state": "GA",
-    "conference": "GHSA 3A Region 8"
+  "North Cobb Christian": {
+    "lat": 34.02874,
+    "lng": -84.61133,
+    "city": "Kennesaw"
   },
-  "southeast bulloch": {
-    "lat": 33.749,
-    "lng": -84.388,
-    "city": "southeast bulloch, GA",
-    "state": "GA",
-    "conference": "GHSA 4A"
+  "Lamar County": {
+    "lat": 33.04865,
+    "lng": -84.14928,
+    "city": "Barnesville"
+  },
+  "Stephens County": {
+    "lat": 34.58208,
+    "lng": -83.32717,
+    "city": "Toccoa"
+  },
+  "Callaway": {
+    "lat": 33.16699,
+    "lng": -84.90279,
+    "city": "Hogansville"
+  },
+  "Crisp County": {
+    "lat": 31.95609,
+    "lng": -83.77008,
+    "city": "Cordele"
+  },
+  "Lumpkin County": {
+    "lat": 34.52991,
+    "lng": -83.97958,
+    "city": "Dahlonega"
+  },
+  "Ringgold": {
+    "lat": 34.91025,
+    "lng": -85.1239,
+    "city": "Ringgold"
+  },
+  "Sumter County": {
+    "lat": 32.07438,
+    "lng": -84.22283,
+    "city": "Americus"
+  },
+  "Washington County": {
+    "lat": 32.98179,
+    "lng": -82.80513,
+    "city": "Sandersville"
+  },
+  "Elbert County": {
+    "lat": 34.10492,
+    "lng": -82.87276,
+    "city": "Elberton"
+  },
+  "Morgan County": {
+    "lat": 33.57904,
+    "lng": -83.47597,
+    "city": "Madison"
+  },
+  "Miller Grove": {
+    "lat": 33.71131,
+    "lng": -84.1001,
+    "city": "Lithonia"
+  },
+  "Pike County": {
+    "lat": 33.091,
+    "lng": -84.33947,
+    "city": "Zebulon"
+  },
+  "Haralson County": {
+    "lat": 33.73666,
+    "lng": -85.28736,
+    "city": "Tallapoosa"
+  },
+  "Jackson": {
+    "lat": 33.29236,
+    "lng": -83.96785,
+    "city": "Jackson"
+  },
+  "Franklin County": {
+    "lat": 34.37676,
+    "lng": -83.23448,
+    "city": "Carnesville"
+  },
+  "Beach": {
+    "lat": 32.0161,
+    "lng": -81.19888,
+    "city": "Savannah"
+  },
+  "Temple": {
+    "lat": 33.73324,
+    "lng": -85.02729,
+    "city": "Temple"
+  },
+  "LaFayette": {
+    "lat": 34.70885,
+    "lng": -85.28149,
+    "city": "Lafayette"
+  },
+  "North Murray": {
+    "lat": 34.77899,
+    "lng": -84.7814,
+    "city": "Chatsworth"
+  },
+  "Union County": {
+    "lat": 34.87701,
+    "lng": -83.952,
+    "city": "Blairsville"
+  },
+  "Brantley County": {
+    "lat": 31.20622,
+    "lng": -81.98122,
+    "city": "Nahunta"
+  },
+  "Therrell": {
+    "lat": 33.76884,
+    "lng": -84.42426,
+    "city": "Atlanta"
+  },
+  "South Atlanta": {
+    "lat": 33.76128,
+    "lng": -84.42529,
+    "city": "Atlanta"
+  },
+  "Sonoraville": {
+    "lat": 34.50343,
+    "lng": -84.93755,
+    "city": "Calhoun"
+  },
+  "Tattnall County": {
+    "lat": 32.08733,
+    "lng": -82.12479,
+    "city": "Reidsville"
+  },
+  "Rutland": {
+    "lat": 32.8103,
+    "lng": -83.70024,
+    "city": "Macon"
+  },
+  "Coahulla Creek": {
+    "lat": 34.7659,
+    "lng": -84.97156,
+    "city": "Dalton"
+  },
+  "Murray County": {
+    "lat": 34.78279,
+    "lng": -84.78646,
+    "city": "Chatsworth"
+  },
+  "McNair": {
+    "lat": 33.76831,
+    "lng": -84.42475,
+    "city": "Atlanta"
+  },
+  "Islands": {
+    "lat": 32.01428,
+    "lng": -81.19866,
+    "city": "Savannah"
+  },
+  "Cedar Grove": {
+    "lat": 33.61291,
+    "lng": -84.29304,
+    "city": "Ellenwood"
+  },
+  "Johnson": {
+    "lat": 32.02214,
+    "lng": -81.1984,
+    "city": "Savannah"
+  },
+  "Towers": {
+    "lat": 33.77339,
+    "lng": -84.29619,
+    "city": "Decatur"
+  },
+  "Southwest": {
+    "lat": 32.80984,
+    "lng": -83.69186,
+    "city": "Macon"
+  },
+  "Butler": {
+    "lat": 33.36492,
+    "lng": -82.07607,
+    "city": "Augusta"
+  },
+  "Kendrick": {
+    "lat": 32.511,
+    "lng": -84.87312,
+    "city": "Columbus"
+  },
+  "Jordan": {
+    "lat": 32.50841,
+    "lng": -84.8765,
+    "city": "Columbus"
+  },
+  "Cross Creek": {
+    "lat": 33.3662,
+    "lng": -82.07135,
+    "city": "Augusta"
+  },
+  "Redan": {
+    "lat": 33.80703,
+    "lng": -84.17262,
+    "city": "Stone Mountain"
+  },
+  "Blessed Trinity": {
+    "lat": 34.04141,
+    "lng": -84.35133,
+    "city": "Roswell"
+  },
+  "Cartersville": {
+    "lat": 34.16458,
+    "lng": -84.8017,
+    "city": "Cartersville"
+  },
+  "North Oconee": {
+    "lat": 33.94763,
+    "lng": -83.53375,
+    "city": "Bogart"
+  },
+  "Jefferson": {
+    "lat": 34.13847,
+    "lng": -83.60769,
+    "city": "Jefferson"
+  },
+  "Ware County": {
+    "lat": 31.21101,
+    "lng": -82.35766,
+    "city": "Waycross"
+  },
+  "LaGrange": {
+    "lat": 33.0267,
+    "lng": -85.03501,
+    "city": "Lagrange"
+  },
+  "Dalton": {
+    "lat": 34.76895,
+    "lng": -84.96916,
+    "city": "Dalton"
+  },
+  "Benedictine": {
+    "lat": 32.01631,
+    "lng": -81.19488,
+    "city": "Savannah"
+  },
+  "Marist": {
+    "lat": 33.76088,
+    "lng": -84.41764,
+    "city": "Atlanta"
+  },
+  "Tucker": {
+    "lat": 33.84517,
+    "lng": -84.20208,
+    "city": "Tucker"
+  },
+  "Ola": {
+    "lat": 33.44208,
+    "lng": -84.15296,
+    "city": "McDonough"
+  },
+  "Lithonia": {
+    "lat": 33.71537,
+    "lng": -84.10698,
+    "city": "Lithonia"
+  },
+  "Stockbridge": {
+    "lat": 33.52696,
+    "lng": -84.22875,
+    "city": "Stockbridge"
+  },
+  "Perry": {
+    "lat": 32.47371,
+    "lng": -83.72781,
+    "city": "Perry"
+  },
+  "Cass": {
+    "lat": 34.28223,
+    "lng": -84.74803,
+    "city": "White"
+  },
+  "Richmond Academy": {
+    "lat": 33.36206,
+    "lng": -82.07187,
+    "city": "Augusta"
+  },
+  "Jones County": {
+    "lat": 33.00202,
+    "lng": -83.54093,
+    "city": "Gray"
+  },
+  "Southwest DeKalb": {
+    "lat": 33.77083,
+    "lng": -84.29127,
+    "city": "Decatur"
+  },
+  "Mays": {
+    "lat": 33.75917,
+    "lng": -84.42404,
+    "city": "Atlanta"
+  },
+  "Cambridge": {
+    "lat": 34.14229,
+    "lng": -84.31036,
+    "city": "Milton"
+  },
+  "Jenkins": {
+    "lat": 32.01593,
+    "lng": -81.19987,
+    "city": "Savannah"
+  },
+  "Warner Robins": {
+    "lat": 32.59476,
+    "lng": -83.65693,
+    "city": "Warner Robins"
+  },
+  "Statesboro": {
+    "lat": 32.43773,
+    "lng": -81.77564,
+    "city": "Statesboro"
+  },
+  "Whitewater": {
+    "lat": 33.44368,
+    "lng": -84.4757,
+    "city": "Fayetteville"
+  },
+  "Cedartown": {
+    "lat": 34.02175,
+    "lng": -85.24753,
+    "city": "Cedartown"
+  },
+  "Jonesboro": {
+    "lat": 33.51658,
+    "lng": -84.35308,
+    "city": "Jonesboro"
+  },
+  "Flowery Branch": {
+    "lat": 34.16543,
+    "lng": -83.91978,
+    "city": "Flowery Branch"
+  },
+  "Villa Rica": {
+    "lat": 33.72836,
+    "lng": -84.91666,
+    "city": "Villa Rica"
+  },
+  "Griffin": {
+    "lat": 33.24131,
+    "lng": -84.27044,
+    "city": "Griffin"
+  },
+  "M.L. King": {
+    "lat": 33.71108,
+    "lng": -84.10548,
+    "city": "Lithonia"
+  },
+  "Centennial": {
+    "lat": 34.03767,
+    "lng": -84.3489,
+    "city": "Roswell"
+  },
+  "Allatoona": {
+    "lat": 34.06199,
+    "lng": -84.68112,
+    "city": "Acworth"
+  },
+  "Dutchtown": {
+    "lat": 33.38192,
+    "lng": -84.30059,
+    "city": "Hampton"
+  },
+  "Sprayberry": {
+    "lat": 33.95367,
+    "lng": -84.54878,
+    "city": "Marietta"
+  },
+  "East Forsyth": {
+    "lat": 34.28944,
+    "lng": -83.83449,
+    "city": "Gainesville"
+  },
+  "Evans": {
+    "lat": 33.56606,
+    "lng": -82.13771,
+    "city": "Evans"
+  },
+  "St. Pius X Catholic": {
+    "lat": 33.75944,
+    "lng": -84.42113,
+    "city": "Atlanta"
+  },
+  "Harris County": {
+    "lat": 32.76467,
+    "lng": -84.87526,
+    "city": "Hamilton"
+  },
+  "Winder-Barrow": {
+    "lat": 33.99063,
+    "lng": -83.72532,
+    "city": "Winder"
+  },
+  "Starr's Mill": {
+    "lat": 33.44927,
+    "lng": -84.47083,
+    "city": "Fayetteville"
+  },
+  "Lithia Springs": {
+    "lat": 33.78249,
+    "lng": -84.64849,
+    "city": "Lithia Springs"
+  },
+  "Banneker": {
+    "lat": 33.64363,
+    "lng": -84.46345,
+    "city": "College Park"
+  },
+  "Locust Grove": {
+    "lat": 33.34813,
+    "lng": -84.10255,
+    "city": "Locust Grove"
+  },
+  "Eastside": {
+    "lat": 33.60308,
+    "lng": -83.84667,
+    "city": "Covington"
+  },
+  "Wayne County": {
+    "lat": 31.59457,
+    "lng": -81.8957,
+    "city": "Jesup"
+  },
+  "Chattahoochee": {
+    "lat": 34.077,
+    "lng": -84.27308,
+    "city": "Alpharetta"
+  },
+  "Madison County": {
+    "lat": 34.1256,
+    "lng": -83.21615,
+    "city": "Danielsville"
+  },
+  "Drew": {
+    "lat": 33.56072,
+    "lng": -84.41514,
+    "city": "Riverdale"
+  },
+  "Mundy's Mill": {
+    "lat": 33.51907,
+    "lng": -84.3537,
+    "city": "Jonesboro"
+  },
+  "Druid Hills": {
+    "lat": 33.76693,
+    "lng": -84.42683,
+    "city": "Atlanta"
+  },
+  "Union Grove": {
+    "lat": 33.44377,
+    "lng": -84.15222,
+    "city": "McDonough"
+  },
+  "Eagle's Landing": {
+    "lat": 33.43963,
+    "lng": -84.15466,
+    "city": "McDonough"
+  },
+  "Northview": {
+    "lat": 34.03623,
+    "lng": -84.20699,
+    "city": "Johns Creek"
+  },
+  "Arabia Mountain": {
+    "lat": 33.7161,
+    "lng": -84.10536,
+    "city": "Lithonia"
+  },
+  "Groves": {
+    "lat": 32.08722,
+    "lng": -81.17661,
+    "city": "Garden City"
+  },
+  "Forest Park": {
+    "lat": 33.62054,
+    "lng": -84.35818,
+    "city": "Forest Park"
+  },
+  "Cross Keys": {
+    "lat": 33.76263,
+    "lng": -84.42808,
+    "city": "Atlanta"
   }
 }

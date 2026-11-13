@@ -1,495 +1,389 @@
-rank,division_rank,team,state,division,conference,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_rank,ppg_scored,ppg_allowed,ppg_off,ppg_def,net_margin,off_index,def_index,playoff_points,harbin_avg,ppa,pqs,contender_tier,city,mascot
-1,1,Grimsley,NC,7A,NCHSAA 7A,11-0,11,0,0,11,104.2,104.2,54.2,79.0,1,39.7,11.7,39.7,11.7,28.0,72.0,67.2,127.65,69.99,69.99,69.99,State Title Contender,Greensboro,Whirlies
-2,1,Hough,NC,8A,NCHSAA 8A,14-0,14,0,0,14,100.1,100.1,50.11,76.4,2,37.0,6.6,37.0,6.6,30.4,68.2,74.4,125.94,54.26,54.26,54.26,State Title Contender,Cornelius,Huskies
-3,1,Providence Day,NC,4A,NCHSAA 4A,13-0,13,0,0,13,97.0,97.0,47.02,73.9,3,44.8,10.2,44.8,10.2,34.6,79.1,69.3,125.87,35.0,65.0,10.0,State Title Contender,Charlotte,Chargers
-4,2,Weddington,NC,7A,NCHSAA 7A,12-2,12,2,0,14,91.5,91.5,41.47,77.8,4,35.5,7.2,35.5,7.2,28.3,66.1,73.5,127.12,63.03,63.03,63.03,State Title Contender,Matthews,Warriors
-5,2,West Charlotte,NC,8A,NCHSAA 8A,10-3,10,3,0,13,86.6,86.6,36.58,79.8,5,32.1,8.2,32.1,8.2,23.9,61.3,72.1,91.32,66.56,66.56,66.56,State Title Contender,Charlotte,Mighty Lions
-6,3,Millbrook,NC,8A,NCHSAA 8A,13-1,13,1,1,14,85.1,85.1,35.06,68.9,6,36.8,6.6,36.8,6.6,30.2,67.9,74.4,114.29,63.58,63.58,63.58,State Title Contender,Raleigh,Wildcats
-7,3,Clayton,NC,7A,NCHSAA 7A,12-3,12,3,0,15,84.0,84.0,33.98,74.6,7,36.3,14.7,36.3,14.7,21.6,67.2,63.0,104.22,37.05,37.05,37.05,Regional Contender,Clayton,Comets
-8,4,Independence,NC,7A,NCHSAA 7A,10-3,10,3,0,13,83.6,83.6,33.62,78.8,8,29.5,15.8,29.5,15.8,13.7,57.7,61.5,44.57,46.46,46.46,46.46,Regional Contender,Charlotte,Patriots
-9,5,Cardinal Gibbons,NC,7A,NCHSAA 7A,12-2,12,2,0,14,82.8,82.8,32.83,73.3,9,38.1,12.4,38.1,12.4,25.7,69.7,66.2,95.9,54.85,54.85,54.85,Regional Contender,Raleigh,Crusaders
-10,4,West Forsyth,NC,8A,NCHSAA 8A,10-3,10,3,0,13,82.7,82.7,32.69,74.2,10,34.9,13.0,34.9,13.0,21.9,65.3,65.4,105.3,39.0,39.0,39.0,Regional Contender,Clemmons,Titans
-11,5,Myers Park,NC,8A,NCHSAA 8A,9-3,9,3,0,12,82.2,82.2,32.18,73.8,11,34.3,11.8,34.3,11.8,22.5,64.4,67.1,98.42,50.31,50.31,50.31,Regional Contender,Charlotte,Mustangs
-12,6,Cleveland,NC,7A,NCHSAA 7A,10-2,10,2,0,12,81.9,81.9,31.9,72.6,12,44.1,17.5,44.1,17.5,26.6,78.1,59.1,115.13,56.47,56.47,56.47,Regional Contender,Clayton,Rams
-13,7,Mooresville,NC,7A,NCHSAA 7A,9-3,9,3,0,12,81.6,81.6,31.61,74.5,13,37.5,17.2,37.5,17.2,20.3,68.9,59.5,80.34,38.16,38.16,38.16,Regional Contender,Mooresville,Blue Devils
-14,1,Crest,NC,5A,NCHSAA 5A,13-2,13,2,0,15,81.4,81.4,31.39,69.1,14,44.1,12.3,44.1,12.3,31.8,78.1,66.4,115.16,57.03,57.03,57.03,Regional Contender,Shelby,Chargers
-15,6,Hoggard,NC,8A,NCHSAA 8A,12-1,12,1,0,13,81.0,81.0,30.96,67.5,15,35.8,12.5,35.8,12.5,23.3,66.5,66.1,113.97,63.07,63.07,63.07,Regional Contender,Wilmington,Vikings
-16,8,Southeast Raleigh,NC,7A,NCHSAA 7A,9-4,9,4,0,13,80.7,80.7,30.67,73.4,16,38.3,21.9,38.3,21.9,16.4,70.0,52.9,97.05,42.6,42.6,42.6,Regional Contender,Raleigh,Bulldogs
-17,1,Watauga,NC,6A,NCHSAA 6A,15-0,15,0,0,15,80.6,80.6,30.6,63.7,17,45.0,15.6,45.0,15.6,29.4,79.4,61.8,76.84,61.5,61.5,61.5,Regional Contender,Boone,Pioneers
-18,9,Reagan,NC,7A,NCHSAA 7A,10-3,10,3,0,13,79.3,79.3,29.3,73.6,18,25.8,14.9,25.8,14.9,10.9,52.5,62.7,105.66,58.34,58.34,58.34,Regional Contender,Pfafftown,Raiders
-19,10,Garner,NC,7A,NCHSAA 7A,9-4,9,4,0,13,77.8,77.8,27.79,74.7,19,36.3,21.8,36.3,21.8,14.5,67.2,53.1,105.94,60.16,60.16,60.16,Regional Contender,Garner,Trojans
-20,7,Mallard Creek,NC,8A,NCHSAA 8A,7-4,7,4,0,11,77.8,77.8,27.79,81.4,20,19.9,21.5,19.9,21.5,-1.6,44.3,53.5,107.58,55.56,55.56,55.56,Regional Contender,Charlotte,Mavericks
-21,2,Sun Valley,NC,6A,NCHSAA 6A,9-4,9,4,0,13,77.4,77.4,27.36,72.0,21,28.8,14.2,28.8,14.2,14.6,56.7,63.7,80.03,62.76,62.76,62.76,Regional Contender,Monroe,Spartans
-22,3,Northern Guilford,NC,6A,NCHSAA 6A,12-2,12,2,0,14,77.0,77.0,27.0,67.6,22,34.1,17.8,34.1,17.8,16.3,64.1,58.7,86.95,52.23,52.23,52.23,Regional Contender,Greensboro,Nighthawks
-23,8,Jordan,NC,8A,NCHSAA 8A,11-1,11,1,0,12,76.3,76.3,26.35,63.8,23,33.2,9.6,33.2,9.6,23.6,62.9,70.2,95.41,65.29,65.29,65.29,Regional Contender,Durham,Falcons
-24,2,South Point,NC,5A,NCHSAA 5A,10-3,10,3,0,13,75.3,75.3,25.34,66.7,24,37.1,17.0,37.1,17.0,20.1,68.3,59.8,114.19,42.14,42.14,42.14,Regional Contender,Belmont,Red Raiders
-25,4,Middle Creek,NC,6A,NCHSAA 6A,11-3,11,3,0,14,75.3,75.3,25.27,69.5,25,36.0,23.0,36.0,23.0,13.0,66.8,51.4,104.22,54.72,54.72,54.72,Regional Contender,Apex,Mustangs
-26,11,Richmond Senior,NC,7A,NCHSAA 7A,9-3,9,3,0,12,75.3,75.3,25.27,70.0,26,39.2,27.1,39.2,27.1,12.1,71.3,45.7,70.44,56.85,56.85,56.85,Regional Contender,Rockingham,Raiders
-27,12,Lake Norman,NC,7A,NCHSAA 7A,8-4,8,4,0,12,75.1,75.1,25.06,72.5,27,29.9,18.7,29.9,18.7,11.2,58.3,57.4,123.97,58.06,58.06,58.06,Regional Contender,Mooresville,Wildcats
-28,2,Charlotte Christian,NC,4A,NCHSAA 4A,7-6,7,6,0,13,75.1,75.1,25.06,76.4,28,32.3,26.5,32.3,26.5,5.8,61.6,46.5,80.59,18.85,35.0,5.38,Regional Contender,Charlotte,Knights
-29,1,Tarboro,NC,2A,NCHSAA 2A,15-0,15,0,0,15,74.0,74.0,23.98,57.1,29,41.1,8.3,41.1,8.3,32.8,73.9,72.0,111.7,67.59,67.59,67.59,Regional Contender,Tarboro,Vikings
-30,9,Rolesville,NC,8A,NCHSAA 8A,9-4,9,4,1,13,73.9,73.9,23.9,70.4,30,35.2,14.8,35.2,14.8,20.4,65.7,62.9,97.44,59.8,59.8,59.8,Playoff Qualifier,Rolesville,Rams
-31,3,Reidsville,NC,4A,NCHSAA 4A,13-2,13,2,0,15,73.6,73.6,23.62,58.5,31,42.8,15.9,42.8,15.9,26.9,76.3,61.3,91.42,60.3,60.3,60.3,Playoff Qualifier,Reidsville,Rams
-32,2,High Point Christian Academy,NC,2A,NCHSAA 2A,12-0,12,0,0,12,73.6,73.6,23.62,54.3,32,46.3,9.2,46.3,9.2,37.1,81.2,70.7,119.0,35.0,65.0,10.0,Playoff Qualifier,High Point,Cougars
-33,5,Jacksonville,NC,6A,NCHSAA 6A,12-1,12,1,0,13,73.6,73.6,23.62,64.5,33,39.9,19.9,39.9,19.9,20.0,72.3,55.7,102.56,50.53,50.53,50.53,Playoff Qualifier,Jacksonville,Cardinals
-34,1,Arendell Parrott Academy,NC,1A,NCHSAA 1A,13-0,13,0,0,13,73.5,73.5,23.45,55.0,34,38.1,17.1,38.1,17.1,21.0,69.7,59.7,119.25,35.0,65.0,10.0,Playoff Qualifier,Kinston,Patriots
-35,3,Hickory,NC,5A,NCHSAA 5A,12-2,12,2,0,14,73.3,73.3,23.26,63.5,35,41.1,17.9,41.1,17.9,23.2,73.9,58.5,96.53,49.82,49.82,49.82,Playoff Qualifier,Hickory,Tornadoes
-36,6,Charlotte Catholic,NC,6A,NCHSAA 6A,7-5,7,5,0,12,72.8,72.8,22.82,75.1,36,19.6,16.5,19.6,16.5,3.1,43.8,60.5,88.17,47.82,47.82,47.82,Playoff Qualifier,Charlotte,Cougars
-37,4,East Lincoln,NC,5A,NCHSAA 5A,10-2,10,2,0,12,72.4,72.4,22.39,62.8,37,45.2,19.4,45.2,19.4,25.8,79.7,56.4,113.38,42.27,42.27,42.27,Playoff Qualifier,Denver,Mustangs
-38,7,Ashbrook,NC,6A,NCHSAA 6A,12-1,12,1,0,13,70.9,70.9,20.88,63.3,38,28.3,12.5,28.3,12.5,15.8,56.0,66.1,78.28,40.21,40.21,40.21,Playoff Qualifier,Gastonia,Greenwave
-39,1,Shelby,NC,3A,NCHSAA 3A,13-3,13,3,0,16,70.6,70.6,20.59,57.1,39,50.1,20.7,50.1,20.7,29.4,86.5,54.6,113.1,52.47,52.47,52.47,Playoff Qualifier,Shelby,Golden Lions
-40,13,East Forsyth,NC,7A,NCHSAA 7A,7-5,7,5,0,12,70.5,70.5,20.52,69.9,40,31.3,15.8,31.3,15.8,15.5,60.2,61.5,95.16,40.23,40.23,40.23,Playoff Qualifier,Kernersville,Eagles
-41,8,Northern Nash,NC,6A,NCHSAA 6A,11-2,11,2,0,13,70.5,70.5,20.45,62.3,41,38.3,19.7,38.3,19.7,18.6,70.0,56.0,103.8,39.67,39.67,39.67,Playoff Qualifier,Rocky Mount,Knights
-42,10,Leesville Road,NC,8A,NCHSAA 8A,8-4,8,4,0,12,69.6,69.6,19.58,65.4,42,33.5,13.1,33.5,13.1,20.4,63.3,65.3,87.89,59.91,59.91,59.91,Playoff Qualifier,Raleigh,Pride
-43,5,Hunt,NC,5A,NCHSAA 5A,12-3,12,3,0,15,69.3,69.3,19.3,63.7,43,35.3,22.1,35.3,22.1,13.2,65.8,52.7,112.89,57.94,57.94,57.94,Playoff Qualifier,Wilson,Warriors
-44,11,Providence,NC,8A,NCHSAA 8A,8-4,8,4,0,12,69.0,69.0,19.01,68.4,44,23.6,21.7,23.6,21.7,1.9,49.4,53.2,69.78,59.91,59.91,59.91,Playoff Qualifier,Charlotte,Panthers
-45,14,Porter Ridge,NC,7A,NCHSAA 7A,7-5,7,5,0,12,69.0,69.0,19.01,71.3,45,24.6,21.2,24.6,21.2,3.4,50.8,53.9,61.53,45.72,45.72,45.72,Playoff Qualifier,Indian Trail,Pirates
-46,4,West Craven,NC,4A,NCHSAA 4A,12-2,12,2,0,14,68.8,68.8,18.79,59.3,46,34.9,16.4,34.9,16.4,18.5,65.3,60.6,101.0,53.94,53.94,53.94,Playoff Qualifier,Vanceboro,Eagles
-47,2,Cary Christian,NC,1A,NCHSAA 1A,11-2,11,2,0,13,68.7,68.7,18.74,52.8,47,38.4,18.3,38.4,18.3,20.1,70.2,58.0,103.1,29.62,55.0,8.46,Playoff Qualifier,Cary,Knights
-48,6,Jay M. Robinson,NC,5A,NCHSAA 5A,11-2,11,2,0,13,68.7,68.7,18.72,59.5,48,39.1,14.1,39.1,14.1,25.0,71.1,63.9,121.77,61.43,61.43,61.43,Playoff Qualifier,Concord,Bulldogs
-49,3,John Paul II Catholic,NC,1A,NCHSAA 1A,9-3,9,3,0,12,68.7,68.7,18.7,51.5,49,40.2,14.2,40.2,14.2,26.0,72.7,63.7,93.03,26.25,48.75,7.5,Playoff Qualifier,Greenville,Saints
-50,12,Palisades,NC,8A,NCHSAA 8A,8-4,8,4,0,12,68.6,68.6,18.58,65.3,50,29.2,18.6,29.2,18.6,10.6,57.3,57.6,105.23,49.35,49.35,49.35,Playoff Qualifier,Charlotte,Pumas
-51,5,Cannon [Cannon/Concord Academy],NC,4A,NCHSAA 4A,7-5,7,5,0,12,68.6,68.6,18.58,69.8,51,28.0,23.4,28.0,23.4,4.6,55.6,50.8,82.76,20.42,37.92,5.83,Playoff Qualifier,Concord,Cougars
-52,6,Brevard,NC,4A,NCHSAA 4A,14-1,14,1,0,15,67.8,67.8,17.78,57.0,52,38.5,19.5,38.5,19.5,19.0,70.3,56.3,32.75,49.86,49.86,49.86,Playoff Qualifier,Brevard,Blue Devils
-53,15,D.H. Conley,NC,7A,NCHSAA 7A,8-4,8,4,0,12,67.7,67.7,17.71,68.0,53,31.2,29.2,31.2,29.2,2.0,60.1,42.7,87.89,52.93,52.93,52.93,Playoff Qualifier,Greenville,Vikings
-54,4,Community Christian,NC,1A,NCHSAA 1A,9-3,9,3,0,12,67.5,67.5,17.53,51.5,54,46.3,22.9,46.3,22.9,23.4,81.2,51.5,93.03,26.25,48.75,7.5,Playoff Qualifier,Wilson,Cyclones
-55,16,Butler,NC,7A,NCHSAA 7A,5-7,5,7,0,12,67.1,67.1,17.14,76.9,55,18.1,26.2,18.1,26.2,-8.1,41.7,46.9,71.28,48.42,48.42,48.42,Playoff Qualifier,Matthews,Bulldogs
-56,17,New Bern,NC,7A,NCHSAA 7A,6-6,6,6,0,12,67.0,67.0,16.99,72.0,56,30.1,31.2,30.1,31.2,-1.1,58.5,39.9,95.06,24.5,45.5,7.0,Playoff Qualifier,New Bern,Bears
-57,18,Jack Britt,NC,7A,NCHSAA 7A,7-5,7,5,0,12,66.8,66.8,16.78,68.6,57,32.7,29.0,32.7,29.0,3.7,62.2,43.0,78.66,66.37,66.37,66.37,Playoff Qualifier,Fayetteville,Buccaneers
-58,9,Union Pines,NC,6A,NCHSAA 6A,11-2,11,2,0,13,66.1,66.1,16.13,57.2,58,32.5,8.4,32.5,8.4,24.1,61.9,71.8,111.53,61.32,61.32,61.32,Playoff Qualifier,Cameron,Vikings
-59,10,Freedom,NC,6A,NCHSAA 6A,10-2,10,2,0,12,65.8,65.8,15.84,55.5,59,42.8,17.7,42.8,17.7,25.1,76.3,58.8,100.89,42.13,42.13,42.13,Playoff Qualifier,Morganton,Patriots
-60,13,Apex Friendship,NC,8A,NCHSAA 8A,9-2,9,2,0,11,65.8,65.8,15.77,60.4,60,24.6,9.5,24.6,9.5,15.1,50.8,70.3,121.53,48.72,48.72,48.72,Playoff Qualifier,Apex,Patriots
-61,7,Monroe,NC,5A,NCHSAA 5A,7-4,7,4,0,11,65.7,65.7,15.7,66.2,61,29.8,23.1,29.8,23.1,6.7,58.1,51.3,104.29,67.61,67.61,67.61,Playoff Qualifier,Monroe,Redhawks
-62,19,Ambassador Christian School,NC,7A,NCHSAA 7A,5-4,5,4,0,9,65.5,65.5,15.48,71.6,62,25.6,22.6,25.6,22.6,3.0,52.2,52.0,80.62,19.44,36.11,5.56,Playoff Qualifier,Huntersville,Varsity
-63,14,Pinecrest,NC,8A,NCHSAA 8A,8-3,8,3,0,11,65.0,65.0,14.98,65.6,63,30.7,28.5,30.7,28.5,2.2,59.4,43.7,97.47,42.07,42.07,42.07,Playoff Qualifier,Southern Pines,Patriots
-64,8,Oak Grove,NC,5A,NCHSAA 5A,9-4,9,4,0,13,64.9,64.9,14.9,57.5,64,37.3,15.2,37.3,15.2,22.1,68.6,62.3,103.03,44.12,44.12,44.12,Playoff Qualifier,Winston Salem,Grizzlies
-65,11,Seventy-First,NC,6A,NCHSAA 6A,9-3,9,3,0,12,64.7,64.7,14.69,57.4,65,32.9,14.0,32.9,14.0,18.9,62.5,64.0,116.53,64.78,64.78,64.78,Playoff Qualifier,Fayetteville,Falcons
-66,9,Croatan,NC,5A,NCHSAA 5A,11-2,11,2,0,13,64.6,64.6,14.62,54.7,66,41.3,14.9,41.3,14.9,26.4,74.2,62.7,111.88,57.53,57.53,57.53,Playoff Qualifier,Newport,Cougars
-67,20,South Garner,NC,7A,NCHSAA 7A,5-7,5,7,0,12,64.5,64.5,14.54,69.9,67,27.5,28.2,27.5,28.2,-0.7,54.9,44.1,60.09,54.88,54.88,54.88,Playoff Qualifier,Garner,Titans
-68,12,Kings Mountain,NC,6A,NCHSAA 6A,8-5,8,5,0,13,64.5,64.5,14.47,66.7,68,25.6,26.0,25.6,26.0,-0.4,52.2,47.2,94.19,34.24,34.24,34.24,Playoff Qualifier,Kings Mountain,Mountaineers
-69,10,Northside - Jacksonville,NC,5A,NCHSAA 5A,11-3,11,3,0,14,64.4,64.4,14.4,59.7,69,31.5,19.6,31.5,19.6,11.9,60.5,56.2,123.28,48.84,48.84,48.84,Playoff Qualifier,Jacksonville,Monarchs
-70,7,Maiden,NC,4A,NCHSAA 4A,9-5,9,5,0,14,64.4,64.4,14.4,62.1,70,31.6,21.4,31.6,21.4,10.2,60.6,53.6,78.45,43.1,43.1,43.1,Playoff Qualifier,Maiden,Blue Devils
-71,5,Sandhills Classical Christian,NC,1A,NCHSAA 1A,8-2,8,2,0,10,64.3,64.3,14.34,52.2,71,35.0,21.8,35.0,21.8,13.2,65.4,53.1,98.27,28.0,52.0,8.0,Playoff Qualifier,Whispering Pines,Lions
-72,21,Marvin Ridge,NC,7A,NCHSAA 7A,6-6,6,6,0,12,64.3,64.3,14.33,69.4,72,18.9,23.7,18.9,23.7,-4.8,42.9,50.4,113.91,52.42,52.42,52.42,Playoff Qualifier,Waxhaw,Mavericks
-73,3,Murphy,NC,2A,NCHSAA 2A,12-3,12,3,0,15,64.1,64.1,14.11,54.7,73,35.8,14.2,35.8,14.2,21.6,66.5,63.7,100.55,49.51,49.51,49.51,Playoff Qualifier,Murphy,Bulldogs
-74,15,Chambers,NC,8A,NCHSAA 8A,5-7,5,7,0,12,64.1,64.1,14.11,71.3,74,15.9,24.3,15.9,24.3,-8.4,38.7,49.6,115.38,37.35,37.35,37.35,Playoff Qualifier,Charlotte,Cougars
-75,22,Fuquay-Varina,NC,7A,NCHSAA 7A,5-7,5,7,0,12,64.0,64.0,13.97,70.6,75,19.9,26.5,19.9,26.5,-6.6,44.3,46.5,61.28,39.94,39.94,39.94,Playoff Qualifier,Fuquay Varina,Bengals
-76,13,Williams,NC,6A,NCHSAA 6A,10-2,10,2,0,12,63.9,63.9,13.9,52.4,76,38.8,12.2,38.8,12.2,26.6,70.7,66.5,98.66,54.2,54.2,54.2,Playoff Qualifier,Burlington,Bulldogs
-77,23,Davie County,NC,7A,NCHSAA 7A,7-5,7,5,0,12,63.9,63.9,13.9,66.4,77,19.8,16.8,19.8,16.8,3.0,44.1,60.1,88.17,47.33,47.33,47.33,Playoff Qualifier,Mocksville,War Eagles
-78,16,South Mecklenburg,NC,8A,NCHSAA 8A,7-4,7,4,0,11,63.9,63.9,13.9,64.8,78,33.1,24.5,33.1,24.5,8.6,62.7,49.3,60.72,40.29,40.29,40.29,Playoff Qualifier,Charlotte,Sabres
-79,24,Cape Fear,NC,7A,NCHSAA 7A,10-2,10,2,0,12,63.8,63.8,13.82,56.4,79,33.4,20.9,33.4,20.9,12.5,63.2,54.3,101.94,59.32,59.32,59.32,Playoff Qualifier,Fayetteville,Colts
-80,8,Charlotte Latin,NC,4A,NCHSAA 4A,7-4,7,4,0,11,63.7,63.7,13.68,61.2,80,35.1,18.6,35.1,18.6,16.5,65.5,57.6,85.06,22.27,41.36,6.36,Playoff Qualifier,Charlotte,Hawks
-81,2,James Kenan,NC,3A,NCHSAA 3A,12-2,12,2,0,14,63.6,63.6,13.61,51.7,81,43.2,18.1,43.2,18.1,25.1,76.9,58.3,110.06,60.19,60.19,60.19,Playoff Qualifier,Warsaw,Tigers
-82,14,Dudley,NC,6A,NCHSAA 6A,8-5,8,5,0,13,63.5,63.5,13.54,66.4,82,24.0,18.8,24.0,18.8,5.2,50.0,57.3,84.08,53.06,53.06,53.06,Playoff Qualifier,Greensboro,Panthers
-83,15,Scotland,NC,6A,NCHSAA 6A,8-4,8,4,0,12,63.5,63.5,13.54,61.6,83,35.8,28.4,35.8,28.4,7.4,66.5,43.8,113.1,45.1,45.1,45.1,Playoff Qualifier,Laurinburg,Scots
-84,3,Lincolnton,NC,3A,NCHSAA 3A,11-3,11,3,0,14,63.4,63.4,13.39,56.0,84,37.4,21.2,37.4,21.2,16.2,68.8,53.9,92.16,37.71,37.71,37.71,Playoff Qualifier,Lincolnton,Wolves
-85,25,Page,NC,7A,NCHSAA 7A,8-4,8,4,0,12,63.2,63.2,13.25,63.4,85,33.3,19.7,33.3,19.7,13.6,63.0,56.0,112.12,47.53,47.53,47.53,Playoff Qualifier,Greensboro,Pirates
-86,26,Hillside,NC,7A,NCHSAA 7A,9-3,9,3,0,12,63.0,63.0,13.03,53.8,86,27.8,8.2,27.8,8.2,19.6,55.3,72.1,85.27,59.25,59.25,59.25,Playoff Qualifier,Durham,Hornets
-87,16,Southern Alamance,NC,6A,NCHSAA 6A,8-4,8,4,0,12,62.9,62.9,12.89,57.5,87,33.9,21.1,33.9,21.1,12.8,63.9,54.1,103.28,54.32,54.32,54.32,Playoff Qualifier,Graham,Patriots
-88,11,Northeast Guilford,NC,5A,NCHSAA 5A,9-3,9,3,0,12,62.6,62.6,12.6,58.3,88,27.2,14.2,27.2,14.2,13.0,54.5,63.7,33.03,54.72,54.72,54.72,Playoff Qualifier,Mcleansville,Rams
-89,12,Rocky Mount,NC,5A,NCHSAA 5A,9-4,9,4,0,13,62.6,62.6,12.6,58.1,89,29.2,16.1,29.2,16.1,13.1,57.3,61.1,85.83,56.68,56.68,56.68,Playoff Qualifier,Rocky Mount,Gryphons
-90,4,Mount Airy,NC,3A,NCHSAA 3A,9-3,9,3,0,12,62.5,62.5,12.46,56.9,90,35.7,20.1,35.7,20.1,15.6,66.4,55.5,91.98,59.53,59.53,59.53,Playoff Qualifier,Mount Airy,Granite Bears
-91,27,A.L. Brown,NC,7A,NCHSAA 7A,8-4,8,4,0,12,62.5,62.5,12.46,61.6,91,29.8,20.9,29.8,20.9,8.9,58.1,54.3,121.8,41.94,41.94,41.94,Playoff Qualifier,Kannapolis,Wonders
-92,5,Kinston,NC,3A,NCHSAA 3A,11-5,11,5,0,16,62.4,62.4,12.38,56.5,92,37.2,24.4,37.2,24.4,12.8,68.5,49.4,65.65,41.2,41.2,41.2,Playoff Qualifier,Kinston,Vikings
-93,6,Eastern Randolph,NC,3A,NCHSAA 3A,10-3,10,3,0,13,62.4,62.4,12.38,54.4,93,34.2,12.2,34.2,12.2,22.0,64.3,66.5,91.66,46.54,46.54,46.54,Playoff Qualifier,Ramseur,Wildcats
-94,17,Ardrey Kell,NC,8A,NCHSAA 8A,6-5,6,5,0,11,62.3,62.3,12.31,63.8,94,22.6,13.7,22.6,13.7,8.9,48.0,64.4,87.16,48.85,48.85,48.85,Playoff Qualifier,Charlotte,Knights
-95,7,Mountain Heritage,NC,3A,NCHSAA 3A,10-2,10,2,0,12,62.2,62.2,12.24,51.4,95,42.2,16.1,42.2,16.1,26.1,75.5,61.1,92.47,41.87,41.87,41.87,Playoff Qualifier,Burnsville,Cougars
-96,17,Statesville,NC,6A,NCHSAA 6A,8-4,8,4,0,12,62.2,62.2,12.17,60.6,96,26.0,19.2,26.0,19.2,6.8,52.8,56.7,59.85,62.47,62.47,62.47,Playoff Qualifier,Statesville,Greyhounds
-97,28,Wake Forest,NC,7A,NCHSAA 7A,7-5,7,5,0,12,62.1,62.1,12.1,61.1,97,30.9,21.3,30.9,21.3,9.6,59.7,53.8,103.31,48.33,48.33,48.33,Playoff Qualifier,Wake Forest,Cougars
-98,18,Olympic,NC,6A,NCHSAA 6A,9-3,9,3,0,12,62.0,62.0,11.95,59.3,98,21.4,15.3,21.4,15.3,6.1,46.4,62.2,59.18,43.4,43.4,43.4,Playoff Qualifier,Charlotte,Trojans
-99,19,J.H. Rose,NC,6A,NCHSAA 6A,6-6,6,6,0,12,61.9,61.9,11.88,65.4,99,34.2,28.2,34.2,28.2,6.0,64.3,44.1,125.13,51.78,51.78,51.78,Playoff Qualifier,Greenville,Rampants
-100,13,Franklin,NC,5A,NCHSAA 5A,9-3,9,3,0,12,61.8,61.8,11.81,57.7,100,30.1,18.5,30.1,18.5,11.6,58.5,57.7,121.63,60.62,60.62,60.62,Playoff Qualifier,Franklin,Panthers
-101,9,Charlotte Country Day School,NC,4A,NCHSAA 4A,6-4,6,4,0,10,61.7,61.7,11.66,65.0,101,24.6,22.8,24.6,22.8,1.8,50.8,51.7,82.75,21.0,39.0,6.0,Playoff Qualifier,Charlotte,Buccaneers
-102,6,Lawrence Academy,NC,1A,NCHSAA 1A,8-3,8,3,0,11,61.4,61.4,11.36,51.2,102,33.8,22.7,33.8,22.7,11.1,63.7,51.8,90.65,25.45,47.27,7.27,Playoff Qualifier,Merry Hill,Warriors
-103,10,Central Davidson,NC,4A,NCHSAA 4A,11-2,11,2,0,13,61.3,61.3,11.3,51.8,103,37.0,14.9,37.0,14.9,22.1,68.2,62.7,57.75,56.9,56.9,56.9,Playoff Qualifier,Lexington,Spartans
-104,18,Panther Creek,NC,8A,NCHSAA 8A,7-5,7,5,0,12,61.2,61.2,11.23,65.2,104,16.0,22.5,16.0,22.5,-6.5,38.8,52.1,77.82,51.56,51.56,51.56,Playoff Qualifier,Cary,Catamounts
-105,14,Havelock,NC,5A,NCHSAA 5A,7-6,7,6,0,13,61.2,61.2,11.16,62.2,105,25.8,17.2,25.8,17.2,8.6,52.5,59.5,74.39,61.31,61.31,61.31,Playoff Qualifier,Havelock,Rams
-106,20,T.C. Roberson,NC,6A,NCHSAA 6A,7-4,7,4,0,11,61.1,61.1,11.09,61.4,106,25.4,17.2,25.4,17.2,8.2,52.0,59.5,103.28,63.42,63.42,63.42,Playoff Qualifier,Asheville,Rams
-107,11,Hibriten,NC,4A,NCHSAA 4A,11-2,11,2,0,13,60.7,60.7,10.66,48.4,107,43.8,17.4,43.8,17.4,26.4,77.7,59.2,120.05,64.87,64.87,64.87,Playoff Qualifier,Lenoir,Panthers
-108,29,Southern School of Energy and Sustainability,NC,7A,NCHSAA 7A,7-5,7,5,0,12,60.6,60.6,10.58,58.4,108,35.2,19.1,35.2,19.1,16.1,65.7,56.9,111.31,47.61,47.61,47.61,Playoff Qualifier,Durham,Spartans
-109,19,Willow Spring,NC,8A,NCHSAA 8A,6-6,6,6,0,12,60.5,60.5,10.51,64.5,109,22.6,24.0,22.6,24.0,-1.4,48.0,50.0,50.83,32.18,32.18,32.18,Playoff Qualifier,Fuquay Varina,Storm
-110,4,Corvian Community,NC,2A,NCHSAA 2A,10-2,10,2,0,12,60.4,60.4,10.44,50.3,110,34.2,14.1,34.2,14.1,20.1,64.3,63.9,111.66,61.15,61.15,61.15,Playoff Qualifier,Charlotte,Cardinals
-111,15,Southern Nash,NC,5A,NCHSAA 5A,7-5,7,5,0,12,60.4,60.4,10.44,61.8,111,37.3,31.7,37.3,31.7,5.6,68.6,39.2,68.62,41.38,41.38,41.38,Playoff Qualifier,Bailey,Firebirds
-112,12,East Duplin,NC,4A,NCHSAA 4A,9-3,9,3,0,12,60.4,60.4,10.37,54.2,112,34.0,16.8,34.0,16.8,17.2,64.0,60.1,111.45,39.76,39.76,39.76,Playoff Qualifier,Beulaville,Panthers
-113,21,Terry Sanford,NC,6A,NCHSAA 6A,8-4,8,4,0,12,60.3,60.3,10.3,56.5,113,43.0,28.2,43.0,28.2,14.8,76.6,44.1,59.39,40.39,40.39,40.39,Playoff Qualifier,Fayetteville,Bulldogs
-114,13,Burns,NC,4A,NCHSAA 4A,7-5,7,5,0,12,60.1,60.1,10.15,57.1,114,38.7,21.9,38.7,21.9,16.8,70.6,52.9,93.17,58.61,58.61,58.61,Playoff Qualifier,Lawndale,Bulldogs
-115,14,Rabun Gap-Nacoochee,NC,4A,NCHSAA 4A,7-5,7,5,0,12,60.1,60.1,10.12,49.2,115,45.1,27.8,45.1,27.8,17.3,79.5,44.7,75.55,20.42,37.92,5.83,Playoff Qualifier,Rabun Gap,Eagles
-116,7,Faith Christian,NC,1A,NCHSAA 1A,8-4,8,4,0,12,60.1,60.1,10.11,50.3,116,37.9,25.8,37.9,25.8,12.1,69.5,47.5,84.27,23.33,43.33,6.67,Playoff Qualifier,Rocky Mount,Patriots
-117,8,Northeastern,NC,3A,NCHSAA 3A,9-4,9,4,0,13,60.0,60.0,10.01,54.3,117,34.0,18.3,34.0,18.3,15.7,64.0,58.0,112.26,64.89,64.89,64.89,Playoff Qualifier,Elizabeth City,Eagles
-118,15,Newton-Conover,NC,4A,NCHSAA 4A,9-3,9,3,0,12,59.9,59.9,9.94,59.0,118,31.2,25.9,31.2,25.9,5.3,60.1,47.3,59.95,41.58,41.58,41.58,Playoff Qualifier,Newton,Red Devils
-119,8,Wilson Prep Academy,NC,1A,NCHSAA 1A,9-5,9,5,0,14,59.9,59.9,9.94,55.1,119,36.6,23.4,36.6,23.4,13.2,67.6,50.8,80.75,36.75,36.75,36.75,Playoff Qualifier,Wilson,Tigers
-120,22,A.C. Reynolds,NC,6A,NCHSAA 6A,7-5,7,5,0,12,59.7,59.7,9.72,62.2,120,26.2,23.6,26.2,23.6,2.6,53.1,50.6,60.27,56.78,56.78,56.78,Playoff Qualifier,Asheville,Rockets
-121,16,Eastern Wayne,NC,4A,NCHSAA 4A,8-4,8,4,0,12,59.5,59.5,9.5,56.2,121,34.0,19.2,34.0,19.2,14.8,64.0,56.7,68.86,50.7,50.7,50.7,Playoff Qualifier,Goldsboro,Warriors
-122,17,Stuart W. Cramer,NC,4A,NCHSAA 4A,9-3,9,3,0,12,59.4,59.4,9.36,52.8,122,37.2,19.0,37.2,19.0,18.2,68.5,57.0,100.89,55.4,55.4,55.4,Playoff Qualifier,Belmont,Storm
-123,23,Mount Tabor,NC,6A,NCHSAA 6A,5-6,5,6,0,11,59.4,59.4,9.36,62.6,123,27.2,23.1,27.2,23.1,4.1,54.5,51.3,84.85,47.5,47.5,47.5,Playoff Qualifier,Winston Salem,Spartans
-124,20,Northwest Guilford,NC,8A,NCHSAA 8A,3-8,3,8,0,11,59.3,59.3,9.29,70.9,124,20.0,29.2,20.0,29.2,-9.2,44.4,42.7,45.62,50.47,50.47,50.47,Playoff Qualifier,Greensboro,Vikings
-125,18,SouthWest Edgecombe,NC,4A,NCHSAA 4A,8-6,8,6,0,14,59.2,59.2,9.22,58.6,125,29.1,21.7,29.1,21.7,7.4,57.1,53.2,91.1,49.58,49.58,49.58,Playoff Qualifier,Pinetops,Cougars
-126,5,Starmount,NC,2A,NCHSAA 2A,11-3,11,3,0,14,59.1,59.1,9.14,49.8,126,33.2,9.7,33.2,9.7,23.5,62.9,70.0,110.34,52.5,52.5,52.5,Playoff Qualifier,Boonville,Rams
-127,6,Asheville School (Independent),NC,2A,NCHSAA 2A,7-3,7,3,1,10,59.1,59.1,9.14,57.0,127,32.8,20.4,32.8,20.4,12.4,62.3,55.0,89.95,24.5,45.5,7.0,Playoff Qualifier,Asheville,Blues
-128,21,Laney,NC,8A,NCHSAA 8A,6-5,6,5,0,11,59.1,59.1,9.14,64.4,128,22.2,24.0,22.2,24.0,-1.8,47.5,50.0,79.71,52.91,52.91,52.91,Playoff Qualifier,Wilmington,Buccaneers
-129,16,St. Pauls,NC,5A,NCHSAA 5A,10-2,10,2,0,12,59.0,59.0,9.0,51.0,129,32.4,16.8,32.4,16.8,15.6,61.8,60.1,93.24,49.16,49.16,49.16,Playoff Qualifier,St Pauls,Bulldogs
-130,19,Pisgah,NC,4A,NCHSAA 4A,9-4,9,4,0,13,58.4,58.4,8.42,56.3,130,32.6,25.9,32.6,25.9,6.7,62.0,47.3,76.63,58.71,58.71,58.71,Playoff Qualifier,Canton,Bears
-131,24,St. Stephens,NC,6A,NCHSAA 6A,6-6,6,6,0,12,58.4,58.4,8.42,61.1,131,27.9,26.8,27.9,26.8,1.1,55.5,46.1,49.57,39.75,39.75,39.75,Playoff Qualifier,Hickory,Indians
-132,22,Broughton,NC,8A,NCHSAA 8A,5-6,5,6,0,11,58.4,58.4,8.42,63.9,132,24.2,23.5,24.2,23.5,0.7,50.3,50.7,69.6,47.2,47.2,47.2,Playoff Qualifier,Raleigh,Capitals
-133,23,Enloe,NC,8A,NCHSAA 8A,6-5,6,5,0,11,58.4,58.4,8.35,63.9,133,26.3,30.3,26.3,30.3,-4.0,53.2,41.2,63.87,57.88,57.88,57.88,Playoff Qualifier,Raleigh,Eagles
-134,25,Asheboro,NC,6A,NCHSAA 6A,7-4,7,4,0,11,58.2,58.2,8.21,56.4,134,29.5,18.3,29.5,18.3,11.2,57.7,58.0,111.91,54.46,54.46,54.46,Playoff Qualifier,Asheboro,Blue Comets
-135,26,Asheville,NC,6A,NCHSAA 6A,6-6,6,6,0,12,58.2,58.2,8.21,64.0,135,24.2,31.3,24.2,31.3,-7.1,50.3,39.8,114.39,61.92,61.92,61.92,Playoff Qualifier,Asheville,Cougars
-136,9,Walkertown,NC,3A,NCHSAA 3A,9-2,9,2,0,11,58.1,58.1,8.06,46.8,136,43.3,15.4,43.3,15.4,27.9,77.0,62.0,109.35,57.95,57.95,57.95,Playoff Qualifier,Walkertown,Wolfpack
-137,20,Bandys,NC,4A,NCHSAA 4A,6-6,6,6,0,12,58.0,58.0,7.99,60.6,137,39.9,31.2,39.9,31.2,8.7,72.3,39.9,51.35,52.89,52.89,52.89,Playoff Qualifier,Catawba,Trojans
-138,30,New Hanover,NC,7A,NCHSAA 7A,6-6,6,6,0,12,58.0,58.0,7.99,64.0,138,20.1,22.9,20.1,22.9,-2.8,44.5,51.5,43.17,40.91,40.91,40.91,Playoff Qualifier,Wilmington,Wildcats
-139,24,Corinth Holders,NC,8A,NCHSAA 8A,4-6,4,6,0,10,58.0,58.0,7.99,66.5,139,18.3,29.8,18.3,29.8,-11.5,42.0,41.9,44.71,42.83,42.83,42.83,Playoff Qualifier,Wendell,Pirates
-140,10,Farmville Central,NC,3A,NCHSAA 3A,8-6,8,6,0,14,57.9,57.9,7.85,59.5,140,31.1,31.1,31.1,31.1,0.0,59.9,40.1,84.99,60.88,60.88,60.88,Varsity Program,Farmville,Jaguars
-141,17,Northwest Cabarrus,NC,5A,NCHSAA 5A,7-4,7,4,0,11,57.7,57.7,7.7,57.4,141,28.7,21.4,28.7,21.4,7.3,56.6,53.6,85.86,56.46,56.46,56.46,Varsity Program,Concord,Trojans
-142,27,West Brunswick,NC,6A,NCHSAA 6A,7-5,7,5,0,12,57.6,57.6,7.63,58.5,142,25.3,22.7,25.3,22.7,2.6,51.8,51.8,43.59,42.11,42.11,42.11,Varsity Program,Shallotte,Trojans
-143,31,Cuthbertson,NC,7A,NCHSAA 7A,3-8,3,8,0,11,57.3,57.3,7.27,68.6,143,15.6,23.5,15.6,23.5,-7.9,38.2,50.7,34.75,58.0,58.0,58.0,Varsity Program,Waxhaw,Cavaliers
-144,32,West Cabarrus,NC,7A,NCHSAA 7A,6-6,6,6,0,12,57.2,57.2,7.2,63.9,144,21.4,27.1,21.4,27.1,-5.7,46.4,45.7,77.82,46.39,46.39,46.39,Varsity Program,Concord,Wolverines
-145,7,Harrells Christian Academy,NC,2A,NCHSAA 2A,9-3,9,3,0,12,57.1,57.1,7.06,48.0,145,37.7,21.8,37.7,21.8,15.9,69.2,53.1,91.8,26.25,48.75,7.5,Varsity Program,Harrells,Crusaders
-146,33,South Central,NC,7A,NCHSAA 7A,4-7,4,7,0,11,56.9,56.9,6.91,67.0,146,19.0,33.9,19.0,33.9,-14.9,43.0,36.1,60.83,52.8,52.8,52.8,Varsity Program,Winterville,Falcons
-147,21,Mount Pleasant,NC,4A,NCHSAA 4A,8-4,8,4,0,12,56.8,56.8,6.84,58.0,147,26.4,23.7,26.4,23.7,2.7,53.4,50.4,92.78,50.12,50.12,50.12,Varsity Program,Mount Pleasant,Tigers
-148,11,Pender,NC,3A,NCHSAA 3A,10-2,10,2,0,12,56.8,56.8,6.77,49.2,148,42.3,24.8,42.3,24.8,17.5,75.6,48.9,56.14,54.08,54.08,54.08,Varsity Program,Burgaw,Patriots
-149,28,South Johnston,NC,6A,NCHSAA 6A,8-4,8,4,0,12,56.7,56.7,6.7,53.4,149,25.2,11.8,25.2,11.8,13.4,51.7,67.1,66.73,41.61,41.61,41.61,Varsity Program,Four Oaks,Trojans
-150,8,Warren County,NC,2A,NCHSAA 2A,11-3,11,3,0,14,56.5,56.5,6.55,46.2,150,37.4,13.6,37.4,13.6,23.8,68.8,64.6,118.2,36.98,36.98,36.98,Varsity Program,Warrenton,Eagles
-151,12,East Rutherford,NC,3A,NCHSAA 3A,9-2,9,2,0,11,56.3,56.3,6.34,43.6,151,46.2,18.0,46.2,18.0,28.2,81.1,58.4,49.81,51.92,51.92,51.92,Varsity Program,Bostic,Cavaliers
-152,18,Currituck County,NC,5A,NCHSAA 5A,8-3,8,3,0,11,56.3,56.3,6.34,52.1,152,34.4,20.6,34.4,20.6,13.8,64.6,54.8,57.78,44.25,44.25,44.25,Varsity Program,Barco,Knights
-153,34,Cary,NC,7A,NCHSAA 7A,7-3,7,3,0,10,56.3,56.3,6.34,59.1,153,23.2,23.6,23.2,23.6,-0.4,48.9,50.6,52.5,54.94,54.94,54.94,Varsity Program,Cary,Imps
-154,19,Forest Hills,NC,5A,NCHSAA 5A,9-3,9,3,0,12,56.3,56.3,6.26,53.8,154,23.9,15.6,23.9,15.6,8.3,49.9,61.8,103.94,53.05,53.05,53.05,Varsity Program,Marshville,Yellow Jackets
-155,35,Sanderson,NC,7A,NCHSAA 7A,7-5,7,5,0,12,56.3,56.3,6.26,58.3,155,34.2,31.6,34.2,31.6,2.6,64.3,39.4,76.77,42.6,42.6,42.6,Varsity Program,Raleigh,Spartans
-156,9,Pungo Christian Academy,NC,1A,NCHSAA 1A,7-3,7,3,0,10,56.2,56.2,6.23,50.8,156,26.6,25.2,26.6,25.2,1.4,53.6,48.3,87.78,24.5,45.5,7.0,Varsity Program,Belhaven,Raiders
-157,13,Martin County,NC,3A,NCHSAA 3A,8-4,8,4,0,12,56.0,56.0,5.98,52.8,157,33.2,14.7,33.2,14.7,18.5,62.9,63.0,91.63,55.08,55.08,55.08,Varsity Program,Williamston,Gators
-158,22,T.W. Andrews,NC,4A,NCHSAA 4A,9-3,9,3,0,12,55.9,55.9,5.9,51.1,158,25.7,17.0,25.7,17.0,8.7,52.4,59.8,111.31,50.63,50.63,50.63,Varsity Program,High Point,Raiders
-159,9,East Wilkes,NC,2A,NCHSAA 2A,8-4,8,4,0,12,55.9,55.9,5.9,50.4,159,34.5,12.2,34.5,12.2,22.3,64.7,66.5,80.75,47.62,47.62,47.62,Varsity Program,Ronda,Cardinals
-160,14,Hendersonville,NC,3A,NCHSAA 3A,9-3,9,3,0,12,55.8,55.8,5.76,47.5,160,42.8,15.8,42.8,15.8,27.0,76.3,61.5,119.74,38.63,38.63,38.63,Varsity Program,Hendersonville,Bearcats
-161,20,Eastern Alamance,NC,5A,NCHSAA 5A,5-7,5,7,0,12,55.8,55.8,5.76,56.2,161,27.9,19.2,27.9,19.2,8.7,55.5,56.7,100.63,40.21,40.21,40.21,Varsity Program,Mebane,Eagles
-162,10,Trinity Christian,NC,2A,NCHSAA 2A,8-3,8,3,0,11,55.7,55.7,5.69,52.1,162,29.1,15.4,29.1,15.4,13.7,57.1,62.0,90.96,25.45,47.27,7.27,Varsity Program,Fayetteville,Crusaders
-163,36,North Mecklenburg,NC,7A,NCHSAA 7A,3-7,3,7,0,10,55.7,55.7,5.69,66.8,163,14.1,22.6,14.1,22.6,-8.5,36.1,52.0,53.55,66.16,66.16,66.16,Varsity Program,Huntersville,Vikings
-164,10,Robbinsville,NC,1A,NCHSAA 1A,10-4,10,4,0,14,55.5,55.5,5.47,48.9,164,34.4,13.0,34.4,13.0,21.4,64.6,65.4,70.83,53.56,53.56,53.56,Varsity Program,Robbinsville,Black Knights
-165,21,West Henderson,NC,5A,NCHSAA 5A,7-5,7,5,0,12,55.5,55.5,5.47,55.2,165,28.2,24.5,28.2,24.5,3.7,55.9,49.3,76.81,52.51,52.51,52.51,Varsity Program,Hendersonville,Falcons
-166,15,Ayden - Grifton,NC,3A,NCHSAA 3A,8-5,8,5,0,13,55.4,55.4,5.4,56.1,166,30.4,24.0,30.4,24.0,6.4,59.0,50.0,39.5,39.23,39.23,39.23,Varsity Program,Ayden,Chargers
-167,22,Erwin,NC,5A,NCHSAA 5A,4-8,4,8,0,12,55.4,55.4,5.4,62.9,167,24.8,30.2,24.8,30.2,-5.4,51.1,41.3,59.64,35.95,35.95,35.95,Varsity Program,Asheville,Warriors
-168,16,Midway,NC,3A,NCHSAA 3A,8-3,8,3,0,11,55.3,55.3,5.26,49.9,168,40.1,25.6,40.1,25.6,14.5,72.5,47.8,109.96,56.97,56.97,56.97,Varsity Program,Newton Grove,Raiders
-169,23,North Pitt,NC,4A,NCHSAA 4A,7-6,7,6,0,13,55.1,55.1,5.11,56.7,169,27.0,24.0,27.0,24.0,3.0,54.2,50.0,66.14,33.05,33.05,33.05,Varsity Program,Bethel,Panthers
-170,29,White Oak,NC,6A,NCHSAA 6A,5-7,5,7,0,12,55.1,55.1,5.11,62.5,170,25.8,30.8,25.8,30.8,-5.0,52.5,40.5,44.05,46.41,46.41,46.41,Varsity Program,Jacksonville,Vikings
-171,11,Liberty Christian Academy,NC,1A,NCHSAA 1A,6-5,6,5,0,11,55.1,55.1,5.1,48.6,171,29.3,20.8,29.3,20.8,8.5,57.4,54.5,71.56,19.09,35.45,5.45,Varsity Program,Richlands,Heat
-172,24,Christ School,NC,4A,NCHSAA 4A,3-8,3,8,0,11,55.0,55.0,5.04,68.0,172,20.2,36.3,20.2,36.3,-16.1,44.7,32.8,51.07,9.55,17.73,2.73,Varsity Program,Arden,Greenies
-173,23,Southeast Alamance,NC,5A,NCHSAA 5A,8-4,8,4,0,12,54.9,54.9,4.9,50.9,173,35.8,20.2,35.8,20.2,15.6,66.5,55.3,122.75,53.73,53.73,53.73,Varsity Program,Haw River,Mascot
-174,25,West Iredell,NC,4A,NCHSAA 4A,6-6,6,6,0,12,54.8,54.8,4.82,57.3,174,29.7,21.0,29.7,21.0,8.7,58.0,54.2,112.64,44.3,44.3,44.3,Varsity Program,Statesville,Warriors
-175,24,North Davidson,NC,5A,NCHSAA 5A,7-5,7,5,0,12,54.5,54.5,4.54,54.2,175,21.9,18.6,21.9,18.6,3.3,47.1,57.6,94.74,49.98,49.98,49.98,Varsity Program,Lexington,Black Knights
-176,11,Community School of Davidson,NC,2A,NCHSAA 2A,7-5,7,5,0,12,54.5,54.5,4.46,51.5,176,34.9,18.8,34.9,18.8,16.1,65.3,57.3,91.1,34.7,34.7,34.7,Varsity Program,Davidson,Spartans
-177,26,Randleman,NC,4A,NCHSAA 4A,7-4,7,4,0,11,54.5,54.5,4.46,53.6,177,27.5,20.5,27.5,20.5,7.0,54.9,54.9,67.29,39.86,39.86,39.86,Varsity Program,Randleman,Tigers
-178,37,Hopewell,NC,7A,NCHSAA 7A,4-7,4,7,0,11,54.5,54.5,4.46,64.8,178,23.6,30.7,23.6,30.7,-7.1,49.4,40.6,68.8,42.5,42.5,42.5,Varsity Program,Huntersville,Titans
-179,25,Green Hope,NC,8A,NCHSAA 8A,6-5,6,5,0,11,54.4,54.4,4.39,55.3,179,27.5,20.8,27.5,20.8,6.7,54.9,54.5,102.71,49.25,49.25,49.25,Varsity Program,Cary,Falcons
-180,25,Concord,NC,5A,NCHSAA 5A,7-5,7,5,0,12,54.3,54.3,4.32,56.7,180,23.2,24.8,23.2,24.8,-1.6,48.9,48.9,32.33,60.36,60.36,60.36,Varsity Program,Concord,Spiders
-181,26,West Carteret,NC,5A,NCHSAA 5A,7-5,7,5,0,12,54.3,54.3,4.32,57.2,181,32.8,35.4,32.8,35.4,-2.6,62.3,34.0,68.48,39.52,39.52,39.52,Varsity Program,Morehead City,Patriots
-182,12,KIPP Pride,NC,1A,NCHSAA 1A,11-1,11,1,0,12,54.2,54.2,4.25,44.0,182,35.3,10.5,35.3,10.5,24.8,65.8,68.9,54.88,33.94,33.94,33.94,Varsity Program,Gaston,Pride
-183,17,North Stanly,NC,3A,NCHSAA 3A,10-2,10,2,0,12,54.2,54.2,4.18,47.7,183,32.6,19.2,32.6,19.2,13.4,62.0,56.7,120.19,51.32,51.32,51.32,Varsity Program,New London,Comets
-184,30,Central Cabarrus,NC,6A,NCHSAA 6A,5-7,5,7,0,12,54.2,54.2,4.18,57.6,184,24.9,21.6,24.9,21.6,3.3,51.3,53.4,49.99,54.38,54.38,54.38,Varsity Program,Concord,Vikings
-185,18,Pasquotank County,NC,3A,NCHSAA 3A,8-4,8,4,0,12,54.1,54.1,4.1,51.1,185,27.8,15.2,27.8,15.2,12.6,55.3,62.3,81.14,54.16,54.16,54.16,Varsity Program,Elizabeth City,Panthers
-186,13,Northside - Pinetown,NC,1A,NCHSAA 1A,12-1,12,1,0,13,53.9,53.9,3.89,39.6,186,41.2,13.7,41.2,13.7,27.5,74.1,64.4,117.67,43.0,43.0,43.0,Varsity Program,Pinetown,Panthers
-187,31,Harnett Central,NC,6A,NCHSAA 6A,7-5,7,5,0,12,53.9,53.9,3.89,53.7,187,28.4,23.0,28.4,23.0,5.4,56.2,51.4,102.01,51.62,51.62,51.62,Varsity Program,Angier,Trojans
-188,12,South Stanly,NC,2A,NCHSAA 2A,8-3,8,3,0,11,53.7,53.7,3.67,47.5,188,28.5,14.5,28.5,14.5,14.0,56.3,63.3,47.5,58.18,58.18,58.18,Varsity Program,Norwood,Bulls
-189,32,Franklinton,NC,6A,NCHSAA 6A,8-4,8,4,0,12,53.6,53.6,3.6,52.3,189,24.4,17.3,24.4,17.3,7.1,50.6,59.4,93.52,64.12,64.12,64.12,Varsity Program,Franklinton,Red Rams
-190,19,Wallace-Rose Hill,NC,3A,NCHSAA 3A,6-6,6,6,0,12,53.5,53.5,3.53,53.3,190,34.8,20.9,34.8,20.9,13.9,65.1,54.3,80.83,34.14,34.14,34.14,Varsity Program,Teachey,Bulldogs
-191,33,Eastern Guilford,NC,6A,NCHSAA 6A,4-7,4,7,0,11,53.5,53.5,3.53,61.4,191,20.7,22.8,20.7,22.8,-2.1,45.4,51.7,63.0,46.05,46.05,46.05,Varsity Program,Gibsonville,Wildcats
-192,27,West Rowan,NC,5A,NCHSAA 5A,7-5,7,5,0,12,53.5,53.5,3.46,55.7,192,27.5,27.2,27.5,27.2,0.3,54.9,45.5,102.4,68.65,68.65,68.65,Varsity Program,Mt Ulla,Falcons
-193,38,South Iredell,NC,7A,NCHSAA 7A,3-8,3,8,0,11,53.4,53.4,3.38,66.0,193,23.3,35.5,23.3,35.5,-12.2,49.0,33.9,42.89,49.33,49.33,49.33,Varsity Program,Statesville,Vikings
-194,34,Lee County,NC,6A,NCHSAA 6A,7-5,7,5,0,12,53.3,53.3,3.31,57.1,194,16.5,21.4,16.5,21.4,-4.9,39.5,53.6,40.83,51.71,51.71,51.71,Varsity Program,Sanford,Yellow Jackets
-195,39,R.J. Reynolds,NC,7A,NCHSAA 7A,6-5,6,5,0,11,53.3,53.3,3.31,57.7,195,21.8,25.4,21.8,25.4,-3.6,46.9,48.0,59.01,42.12,42.12,42.12,Varsity Program,Winston Salem,Demons
-196,28,Western Alamance,NC,5A,NCHSAA 5A,7-4,7,4,0,11,52.8,52.8,2.81,51.4,196,26.4,16.7,26.4,16.7,9.7,53.4,60.2,77.3,43.58,43.58,43.58,Varsity Program,Elon,Warriors
-197,35,Southeast Guilford,NC,6A,NCHSAA 6A,6-5,6,5,0,11,52.7,52.7,2.74,58.8,197,23.3,23.2,23.3,23.2,0.1,49.0,51.1,52.16,66.38,66.38,66.38,Varsity Program,Greensboro,Falcons
-198,40,Holly Springs,NC,7A,NCHSAA 7A,4-7,4,7,0,11,52.7,52.7,2.74,63.6,198,14.5,25.4,14.5,25.4,-10.9,36.7,48.0,77.89,57.65,57.65,57.65,Varsity Program,Holly Springs,Golden Hawks
-199,20,West Davidson,NC,3A,NCHSAA 3A,10-4,10,4,0,14,52.4,52.4,2.38,47.5,199,28.9,19.3,28.9,19.3,9.6,56.9,56.6,91.7,50.76,50.76,50.76,Varsity Program,Lexington,Dragons
-200,29,Huss,NC,5A,NCHSAA 5A,5-6,5,6,0,11,52.2,52.2,2.16,61.0,200,19.9,26.9,19.9,26.9,-7.0,44.3,45.9,50.79,64.6,64.6,64.6,Varsity Program,Gastonia,Huskies
-201,41,Ashley,NC,7A,NCHSAA 7A,4-8,4,8,0,12,51.9,51.9,1.94,60.4,201,17.8,22.8,17.8,22.8,-5.0,41.3,51.7,87.47,39.18,39.18,39.18,Varsity Program,Wilmington,Screaming Eagle
-202,27,Bunn,NC,4A,NCHSAA 4A,8-3,8,3,0,11,51.9,51.9,1.87,48.2,202,31.5,20.0,31.5,20.0,11.5,60.5,55.6,64.77,49.32,49.32,49.32,Varsity Program,Bunn,Wildcats
-203,21,Greene Central,NC,3A,NCHSAA 3A,5-6,5,6,0,11,51.4,51.4,1.37,55.9,203,32.7,25.9,32.7,25.9,6.8,62.2,47.3,83.27,52.06,52.06,52.06,Varsity Program,Snow Hill,Rams
-204,42,Cox Mill,NC,7A,NCHSAA 7A,4-6,4,6,0,10,51.4,51.4,1.37,57.0,204,21.1,21.4,21.1,21.4,-0.3,45.9,53.6,42.09,40.49,40.49,40.49,Varsity Program,Concord,Chargers
-205,43,North Brunswick,NC,7A,NCHSAA 7A,3-8,3,8,0,11,51.4,51.4,1.37,60.9,205,29.1,31.7,29.1,31.7,-2.6,57.1,39.2,77.54,57.17,57.17,57.17,Varsity Program,Leland,Scorpions
-206,30,Dixon,NC,5A,NCHSAA 5A,6-6,6,6,0,12,51.1,51.1,1.15,54.2,206,41.7,38.6,41.7,38.6,3.1,74.8,29.6,41.91,58.69,58.69,58.69,Varsity Program,Holly Ridge,Bulldogs
-207,28,North Raleigh Christian Academy,NC,4A,NCHSAA 4A,6-5,6,5,0,11,51.1,51.1,1.08,56.3,207,24.9,26.9,24.9,26.9,-2.0,51.3,45.9,74.25,19.09,35.45,5.45,Varsity Program,Raleigh,Knights
-208,13,Holmes,NC,2A,NCHSAA 2A,8-5,8,5,0,13,50.9,50.9,0.94,48.6,208,41.3,27.6,41.3,27.6,13.7,74.2,45.0,109.19,53.2,53.2,53.2,Varsity Program,Edenton,Aces
-209,14,Swain County,NC,2A,NCHSAA 2A,6-5,6,5,0,11,50.9,50.9,0.94,52.5,209,26.3,20.3,26.3,20.3,6.0,53.2,55.2,47.99,38.39,38.39,38.39,Varsity Program,Bryson City,Maroon Devils
-210,44,Hickory Ridge,NC,7A,NCHSAA 7A,4-6,4,6,0,10,50.8,50.8,0.79,57.3,210,14.9,19.2,14.9,19.2,-4.3,37.3,56.7,103.38,57.8,57.8,57.8,Varsity Program,Harrisburg,Bulls
-211,15,Alleghany,NC,2A,NCHSAA 2A,8-3,8,3,0,11,50.7,50.7,0.72,46.2,211,32.4,13.5,32.4,13.5,18.9,61.8,64.7,90.47,53.77,53.77,53.77,Varsity Program,Sparta,Trojans
-212,36,South View,NC,6A,NCHSAA 6A,5-6,5,6,0,11,50.7,50.7,0.72,55.7,212,32.4,27.8,32.4,27.8,4.6,61.8,44.7,50.2,59.3,59.3,59.3,Varsity Program,Hope Mills,Tigers
-213,26,Hoke County,NC,8A,NCHSAA 8A,2-7,2,7,0,9,50.7,50.7,0.72,63.9,213,13.2,26.6,13.2,26.6,-13.4,34.9,46.4,70.44,53.55,53.55,53.55,Varsity Program,Raeford,Bucks
-214,22,Providence Grove,NC,3A,NCHSAA 3A,8-3,8,3,0,11,50.5,50.5,0.5,46.4,214,29.9,17.3,29.9,17.3,12.6,58.3,59.4,83.17,46.5,46.5,46.5,Varsity Program,Franklinville,Patriots
-215,14,North East Carolina Prep,NC,1A,NCHSAA 1A,5-5,5,5,0,10,50.5,50.5,0.45,48.0,215,26.7,25.7,26.7,25.7,1.0,53.8,47.6,66.2,38.33,38.33,38.33,Varsity Program,Tarboro,Huskies
-216,31,Montgomery Central,NC,5A,NCHSAA 5A,5-7,5,7,0,12,50.4,50.4,0.43,54.3,216,20.6,18.9,20.6,18.9,1.7,45.2,57.1,76.81,56.17,56.17,56.17,Varsity Program,Troy,Timberwolves
-217,37,Piedmont,NC,6A,NCHSAA 6A,2-8,2,8,0,10,50.4,50.4,0.36,66.4,217,14.7,31.7,14.7,31.7,-17.0,37.0,39.2,51.25,51.51,51.51,51.51,Varsity Program,Monroe,Panthers
-218,29,Foard,NC,4A,NCHSAA 4A,5-7,5,7,0,12,50.2,50.2,0.22,58.8,218,12.2,25.5,12.2,25.5,-13.3,33.5,47.9,51.0,57.55,57.55,57.55,Varsity Program,Newton,Tigers
-219,16,East Bladen,NC,2A,NCHSAA 2A,9-4,9,4,0,13,50.0,50.0,0.0,45.6,219,29.9,16.9,29.9,16.9,13.0,58.3,59.9,88.97,38.34,38.34,38.34,Varsity Program,Elizabethtown,Eagles
-220,38,Alexander Central,NC,6A,NCHSAA 6A,3-8,3,8,0,11,50.0,50.0,0.0,62.1,220,20.2,34.0,20.2,34.0,-13.8,44.7,36.0,101.56,45.78,45.78,45.78,Varsity Program,Taylorsville,Cougars
-221,15,Ascend Leadership Academy,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,221,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Sanford,Aviators
-222,16,Bethany Community,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,222,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Summerfield,Wolves
-223,17,Blue Ridge Early College,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,223,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Cashiers,Bobcats
-224,18,Cape Hatteras Secondary,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,224,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Buxton,Hurricanes
-225,19,Carolina International,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,225,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Concord,Comets
-226,30,Central Academy of Technology & Arts,NC,4A,NCHSAA 4A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,226,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Monroe,Cougars
-227,20,Central Carolina Academy,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,227,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Sanford,Eagles
-228,21,Chatham Charter,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,228,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Siler City,Knights
-229,22,Clover Garden School,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,229,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Burlington,Grizzlies
-230,17,Cornerstone Charter Academy,NC,2A,NCHSAA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,230,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Greensboro,Cardinals
-231,23,Discovery Charter School,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,231,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Bahama,Trailblazers
-232,24,Durham Charter,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,232,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Durham,Lions
-233,32,Durham School of the Arts,NC,5A,NCHSAA 5A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,233,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Durham,Bulldogs
-234,18,East Wake Academy,NC,2A,NCHSAA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,234,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Zebulon,Eagles
-235,25,Eastern North Carolina School for the Deaf,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,235,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Wilson,Fighting Hornet
-236,19,Eno River Academy,NC,2A,NCHSAA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,236,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Hillsborough,Bobcats
-237,26,Excelsior Classical Academy,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,237,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Durham,Lions
-238,27,Falls Lake Academy,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,238,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Creedmoor,Firebirds
-239,20,Franklin Academy,NC,2A,NCHSAA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,239,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Wake Forest,Patriots
-240,21,Gray Stone Day,NC,2A,NCHSAA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,240,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Misenheimer,Knights
-241,22,Henderson Collegiate,NC,2A,NCHSAA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,241,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Henderson,Pride
-242,28,Highlands,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,242,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Highlands,Highlanders
-243,29,Hiwassee Dam,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,243,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Murphy,Eagles
-244,30,Jackson Day,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,244,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Charlotte,Mariners
-245,31,Macon Early College,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,245,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Franklin,Foxes
-246,32,Millennium Charter Academy,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,246,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Mount Airy,Lions
-247,33,N.C. School for the Deaf,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,247,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Morganton,Bears
-248,23,NCSSM: Durham,NC,3A,NCHSAA 3A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,248,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Durham,Unicorns
-249,34,NCSSM: Morganton,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,249,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Morganton,Dragons
-250,35,Nantahala,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,250,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Topton,Hawks
-251,36,Neuse Charter,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,251,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Smithfield,Cougars
-252,23,Northampton Collegiate & Technical - dupe,NC,2A,NCHSAA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,252,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,NC,Varsity
-253,37,Ocracoke,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,253,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Ocracoke,Dolphins
-254,38,Onslow Early College,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,254,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Jacksonville,Owls
-255,39,Oxford Prep,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,255,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Oxford,Griffins
-256,40,Phoenix Academy,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,256,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,High Point,Phoenix
-257,24,Piedmont Classical,NC,2A,NCHSAA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,257,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Browns Summit,Bobcats
-258,24,Piedmont Community Charter,NC,3A,NCHSAA 3A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,258,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Gastonia,Patriots
-259,25,Queen's Grant,NC,2A,NCHSAA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,259,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Matthews,Stallions
-260,26,Raleigh Charter,NC,2A,NCHSAA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,260,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Raleigh,Phoenix
-261,27,Research Triangle,NC,2A,NCHSAA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,261,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Research Triangle Park,Triangle
-262,41,Revolution Academy,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,262,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Oak Ridge,Rhinos
-263,42,River Mill Academy,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,263,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Graham,Jaguars
-264,43,Rocky Mount Academy,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,264,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Rocky Mount,Eagles
-265,28,Roxboro Community,NC,2A,NCHSAA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,265,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Roxboro,Bulldogs
-266,44,Southern Wake Academy,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,266,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Holly Springs,Lions
-267,29,Sugar Creek Charter,NC,2A,NCHSAA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,267,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Charlotte,Wildcats
-268,45,Summit Charter Academy,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,268,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Cashiers,Bears
-269,46,The Hawbridge School,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,269,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Graham,Herons
-270,47,The Math and Science Academy of Charlotte - Concord Campus,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,270,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Charlotte,Lions
-271,48,The North Carolina Leadership Academy,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,271,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Kernersville,Falcons
-272,49,Tri-County Early College,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,272,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Murphy,Jaguars
-273,50,Triad Math and Science Academy,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,273,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Greensboro,Mascot
-274,31,Uwharrie Charter Academy,NC,4A,NCHSAA 4A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,274,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Asheboro,Eagles
-275,51,Vance Charter,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,275,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Henderson,Knights
-276,30,Voyager Academy,NC,2A,NCHSAA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,276,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Durham,Vikings
-277,31,Wilson's Mills,NC,2A,NCHSAA 2A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,277,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,NC,Varsity
-278,52,Woods Charter,NC,1A,NCHSAA 1A,0-0,0,0,0,0,50.0,50.0,0.0,48.0,278,24.0,24.0,24.0,24.0,0.0,50.0,50.0,66.8,17.5,32.5,5.0,Varsity Program,Chapel Hill,Wolves
-279,32,Tuscola,NC,4A,NCHSAA 4A,6-6,6,6,0,12,49.9,49.9,-0.07,53.0,279,22.8,22.1,22.8,22.1,0.7,48.3,52.7,111.56,63.77,63.77,63.77,Varsity Program,Waynesville,Mountaineers
-280,33,Fike,NC,5A,NCHSAA 5A,4-7,4,7,0,11,49.9,49.9,-0.07,58.3,280,30.5,36.9,30.5,36.9,-6.4,59.1,31.9,101.56,65.97,65.97,65.97,Varsity Program,Wilson,Golden Demons
-281,32,Mitchell,NC,2A,NCHSAA 2A,9-5,9,5,0,14,49.8,49.8,-0.22,48.1,281,31.7,24.8,31.7,24.8,6.9,60.8,48.9,89.7,46.73,46.73,46.73,Varsity Program,Bakersville,Mountaineers
-282,25,Whiteville,NC,3A,NCHSAA 3A,7-4,7,4,0,11,49.8,49.8,-0.22,46.9,282,35.5,19.6,35.5,19.6,15.9,66.1,56.2,119.98,55.2,55.2,55.2,Varsity Program,Whiteville,Wolfpack
-283,33,North Duplin,NC,2A,NCHSAA 2A,10-2,10,2,0,12,49.7,49.7,-0.29,38.2,283,37.2,12.8,37.2,12.8,24.4,68.5,65.7,73.62,58.55,58.55,58.55,Varsity Program,Calypso,Rebels
-284,45,Heritage,NC,7A,NCHSAA 7A,4-7,4,7,0,11,49.7,49.7,-0.29,60.4,284,16.5,28.6,16.5,28.6,-12.1,39.5,43.6,69.08,39.5,39.5,39.5,Varsity Program,Wake Forest,Huskies
-285,46,West Mecklenburg,NC,7A,NCHSAA 7A,1-10,1,10,0,11,49.6,49.6,-0.43,71.5,285,7.5,30.4,7.5,30.4,-22.9,26.9,41.0,43.34,49.61,49.61,49.61,Varsity Program,Charlotte,Hawks
-286,33,North Johnston,NC,4A,NCHSAA 4A,6-6,6,6,0,12,49.4,49.4,-0.58,53.7,286,32.0,31.9,32.0,31.9,0.1,61.2,38.9,40.3,52.58,52.58,52.58,Varsity Program,Kenly,Panthers
-287,26,Princeton,NC,3A,NCHSAA 3A,7-5,7,5,0,12,49.4,49.4,-0.65,49.9,287,41.1,38.6,41.1,38.6,2.5,73.9,29.6,75.62,41.81,41.81,41.81,Varsity Program,Princeton,Bulldogs
-288,47,Overhills,NC,7A,NCHSAA 7A,3-8,3,8,0,11,49.2,49.2,-0.79,61.5,288,18.2,32.1,18.2,32.1,-13.9,41.9,38.7,59.25,44.54,44.54,44.54,Varsity Program,Spring Lake,Jaguars
-289,48,Knightdale,NC,7A,NCHSAA 7A,3-7,3,7,0,10,49.1,49.1,-0.86,57.1,289,32.2,31.5,32.2,31.5,0.7,61.5,39.5,32.26,41.01,41.01,41.01,Varsity Program,Knightdale,Knights
-290,34,Carson,NC,5A,NCHSAA 5A,5-6,5,6,0,11,48.9,48.9,-1.08,53.9,290,23.8,21.7,23.8,21.7,2.1,49.7,53.2,58.45,64.63,64.63,64.63,Varsity Program,China Grove,Cougars
-291,34,Clinton,NC,4A,NCHSAA 4A,6-6,6,6,0,12,48.8,48.8,-1.22,51.1,291,29.2,26.4,29.2,26.4,2.8,57.3,46.6,91.07,54.05,54.05,54.05,Varsity Program,Clinton,Dark Horses
-292,35,North Lincoln,NC,5A,NCHSAA 5A,2-9,2,9,0,11,48.7,48.7,-1.3,62.8,292,19.8,37.9,19.8,37.9,-18.1,44.1,30.5,60.27,52.24,52.24,52.24,Varsity Program,Lincolnton,Knights
-293,39,Ragsdale,NC,6A,NCHSAA 6A,3-8,3,8,0,11,48.6,48.6,-1.37,62.5,293,16.2,24.8,16.2,24.8,-8.6,39.1,48.9,76.98,45.12,45.12,45.12,Varsity Program,Jamestown,Tigers
-294,27,Louisburg,NC,3A,NCHSAA 3A,8-3,8,3,0,11,48.6,48.6,-1.44,44.9,294,30.8,19.4,30.8,19.4,11.4,59.5,56.4,90.79,40.36,40.36,40.36,Varsity Program,Louisburg,Warriors
-295,27,Apex,NC,8A,NCHSAA 8A,2-8,2,8,0,10,48.6,48.6,-1.44,61.7,295,11.5,25.1,11.5,25.1,-13.6,32.5,48.5,52.26,58.99,58.99,58.99,Varsity Program,Apex,Cougars
-296,40,Ben L. Smith,NC,6A,NCHSAA 6A,2-8,2,8,0,10,48.6,48.6,-1.44,62.5,296,15.5,24.5,15.5,24.5,-9.0,38.1,49.3,33.0,51.41,51.41,51.41,Varsity Program,Greensboro,Golden Eagles
-297,35,Metrolina Christian Academy,NC,4A,NCHSAA 4A,3-7,3,7,0,10,48.5,48.5,-1.51,58.4,297,16.9,23.5,16.9,23.5,-6.6,40.1,50.7,50.44,10.5,19.5,3.0,Varsity Program,Indian Trail,Warriors
-298,53,Father Capodanno,NC,1A,NCHSAA 1A,5-5,5,5,0,10,48.5,48.5,-1.53,48.0,298,26.1,29.5,26.1,29.5,-3.4,52.9,42.3,66.8,17.5,32.5,5.0,Varsity Program,Vass,Grunts
-299,36,North Surry,NC,4A,NCHSAA 4A,7-5,7,5,0,12,48.3,48.3,-1.73,47.8,299,28.2,23.4,28.2,23.4,4.8,55.9,50.8,66.14,36.6,36.6,36.6,Varsity Program,Mount Airy,Greyhounds
-300,34,Hobbton,NC,2A,NCHSAA 2A,7-5,7,5,0,12,48.2,48.2,-1.8,48.4,300,26.8,24.8,26.8,24.8,2.0,53.9,48.9,56.49,37.34,37.34,37.34,Varsity Program,Newton Grove,Wildcats
-301,36,Rockingham County,NC,5A,NCHSAA 5A,5-5,5,5,0,10,48.1,48.1,-1.87,51.0,301,29.7,25.9,29.7,25.9,3.8,58.0,47.3,57.22,47.0,47.0,47.0,Varsity Program,Wentworth,Cougars
-302,28,West Lincoln,NC,3A,NCHSAA 3A,6-6,6,6,0,12,48.1,48.1,-1.94,51.6,302,30.8,31.4,30.8,31.4,-0.6,59.5,39.6,58.17,37.21,37.21,37.21,Varsity Program,Lincolnton,Rebels
-303,41,West Johnston,NC,6A,NCHSAA 6A,4-7,4,7,0,11,48.1,48.1,-1.94,58.3,303,13.6,21.9,13.6,21.9,-8.3,35.4,52.9,58.13,58.29,58.29,58.29,Varsity Program,Benson,Wildcats
-304,49,McDowell,NC,7A,NCHSAA 7A,5-6,5,6,0,11,47.8,47.8,-2.16,54.5,304,25.9,32.6,25.9,32.6,-6.7,52.7,38.0,31.91,48.94,48.94,48.94,Varsity Program,Marion,Titans
-305,29,East Surry,NC,3A,NCHSAA 3A,5-7,5,7,0,12,47.8,47.8,-2.23,52.3,305,30.2,30.0,30.2,30.0,0.2,58.7,41.6,66.31,41.53,41.53,41.53,Varsity Program,Pilot Mountain,Cardinals
-306,30,Wake Prep Academy,NC,3A,NCHSAA 3A,7-4,7,4,0,11,47.7,47.7,-2.3,43.7,306,30.6,16.2,30.6,16.2,14.4,59.2,60.9,73.66,61.36,61.36,61.36,Varsity Program,Wake Forest,Guardians
-307,37,Lexington Senior,NC,4A,NCHSAA 4A,6-5,6,5,0,11,47.7,47.7,-2.3,50.0,307,21.5,14.0,21.5,14.0,7.5,46.5,64.0,48.97,42.05,42.05,42.05,Varsity Program,Lexington,Yellowjackets
-308,37,Forestview,NC,5A,NCHSAA 5A,3-8,3,8,0,11,47.7,47.7,-2.3,60.6,308,19.6,30.2,19.6,30.2,-10.6,43.8,41.3,42.33,51.82,51.82,51.82,Varsity Program,Gastonia,Jaguars
-309,50,Pine Forest,NC,7A,NCHSAA 7A,2-8,2,8,0,10,47.7,47.7,-2.3,62.1,309,18.3,35.2,18.3,35.2,-16.9,42.0,34.3,51.25,52.57,52.57,52.57,Varsity Program,Fayetteville,Trojans
-310,31,South Columbus,NC,3A,NCHSAA 3A,7-5,7,5,0,12,47.5,47.5,-2.52,50.0,310,29.2,32.0,29.2,32.0,-2.8,57.3,38.8,83.24,45.09,45.09,45.09,Varsity Program,Tabor City,Stallions
-311,35,Hickory Grove Christian,NC,2A,NCHSAA 2A,7-4,7,4,0,11,47.4,47.4,-2.59,46.3,311,24.4,19.1,24.4,19.1,5.3,50.6,56.9,79.84,22.27,41.36,6.36,Varsity Program,Charlotte,Lions
-312,42,Glenn,NC,6A,NCHSAA 6A,4-7,4,7,0,11,47.3,47.3,-2.66,54.1,312,20.8,21.9,20.8,21.9,-1.1,45.5,52.9,76.63,41.28,41.28,41.28,Varsity Program,Kernersville,Bobcats
-313,38,North Henderson,NC,5A,NCHSAA 5A,4-7,4,7,0,11,47.2,47.2,-2.81,54.4,313,27.9,30.0,27.9,30.0,-2.1,55.5,41.6,41.35,42.14,42.14,42.14,Varsity Program,Hendersonville,Knights
-314,43,Westover,NC,6A,NCHSAA 6A,3-8,3,8,0,11,47.2,47.2,-2.81,56.2,314,26.2,25.3,26.2,25.3,0.9,53.1,48.2,85.72,65.6,65.6,65.6,Varsity Program,Fayetteville,Wolverines
-315,39,South Brunswick,NC,5A,NCHSAA 5A,7-4,7,4,0,11,47.0,47.0,-2.95,47.9,315,25.5,26.5,25.5,26.5,-1.0,52.1,46.5,65.19,51.68,51.68,51.68,Varsity Program,Southport,Cougars
-316,44,Western Guilford,NC,6A,NCHSAA 6A,5-6,5,6,0,11,47.0,47.0,-2.95,56.9,316,22.9,33.1,22.9,33.1,-10.2,48.5,37.3,52.26,53.06,53.06,53.06,Varsity Program,Greensboro,Fighting Hornets
-317,32,Hertford County,NC,3A,NCHSAA 3A,6-6,6,6,0,12,47.0,47.0,-3.02,52.6,317,18.2,28.2,18.2,28.2,-10.0,41.9,44.1,81.73,62.32,62.32,62.32,Varsity Program,Ahoskie,Bears
-318,40,South Granville,NC,5A,NCHSAA 5A,5-7,5,7,0,12,46.8,46.8,-3.24,47.9,318,20.4,16.0,20.4,16.0,4.4,45.0,61.2,83.41,56.89,56.89,56.89,Varsity Program,Creedmoor,Vikings
-319,36,North Rowan,NC,2A,NCHSAA 2A,7-5,7,5,0,12,46.7,46.7,-3.31,46.2,319,33.7,21.2,33.7,21.2,12.5,63.6,53.9,90.27,64.32,64.32,64.32,Varsity Program,Spencer,Cavaliers
-320,38,Southwestern Randolph,NC,4A,NCHSAA 4A,7-4,7,4,0,11,46.7,46.7,-3.31,45.4,320,26.6,20.5,26.6,20.5,6.1,53.6,54.9,88.23,52.02,52.02,52.02,Varsity Program,Asheboro,Cougars
-321,41,Parkwood,NC,5A,NCHSAA 5A,2-8,2,8,0,10,46.7,46.7,-3.31,61.6,321,14.8,31.5,14.8,31.5,-16.7,37.1,39.5,77.86,57.56,57.56,57.56,Varsity Program,Monroe,Wolf Pack
-322,42,Person,NC,5A,NCHSAA 5A,5-7,5,7,0,12,46.6,46.6,-3.38,51.9,322,31.4,35.3,31.4,35.3,-3.9,60.4,34.2,41.53,37.17,37.17,37.17,Varsity Program,Roxboro,Rockets
-323,43,C.B. Aycock,NC,5A,NCHSAA 5A,3-8,3,8,0,11,46.6,46.6,-3.38,57.7,323,21.7,32.5,21.7,32.5,-10.8,46.8,38.1,40.55,36.6,36.6,36.6,Varsity Program,Pikeville,Falcons
-324,39,Anson,NC,4A,NCHSAA 4A,2-9,2,9,0,11,46.6,46.6,-3.38,56.9,324,22.2,28.5,22.2,28.5,-6.3,47.5,43.7,66.73,59.95,59.95,59.95,Varsity Program,Wadesboro,Bearcats
-325,51,Chapel Hill,NC,7A,NCHSAA 7A,6-5,6,5,0,11,46.5,46.5,-3.53,48.0,325,25.7,24.8,25.7,24.8,0.9,52.4,48.9,48.41,55.16,55.16,55.16,Varsity Program,Chapel Hill,Tigers
-326,37,Christ the King,NC,2A,NCHSAA 2A,7-4,7,4,0,11,46.3,46.3,-3.67,46.1,326,23.3,20.2,23.3,20.2,3.1,49.0,55.3,89.74,42.87,42.87,42.87,Varsity Program,Huntersville,Crusaders
-327,40,West Stokes,NC,4A,NCHSAA 4A,5-7,5,7,0,12,46.3,46.3,-3.74,51.8,327,20.8,25.0,20.8,25.0,-4.2,45.5,48.6,100.89,38.67,38.67,38.67,Varsity Program,King,Wildcats
-328,38,Mountain Island Charter,NC,2A,NCHSAA 2A,7-6,7,6,0,13,46.1,46.1,-3.89,45.2,328,23.2,18.5,23.2,18.5,4.7,48.9,57.7,98.59,55.51,55.51,55.51,Varsity Program,Mt Holly,Raptors
-329,28,East Mecklenburg,NC,8A,NCHSAA 8A,3-7,3,7,0,10,46.0,46.0,-4.03,57.8,329,12.1,29.6,12.1,29.6,-17.5,33.3,42.2,61.77,58.17,58.17,58.17,Varsity Program,Charlotte,Eagles
-330,33,West Wilkes,NC,3A,NCHSAA 3A,7-4,7,4,0,11,45.9,45.9,-4.1,43.2,330,27.8,10.7,27.8,10.7,17.1,55.3,68.6,92.15,45.99,45.99,45.99,Varsity Program,Millers Creek,Blackhawks
-331,44,Richlands,NC,5A,NCHSAA 5A,3-8,3,8,0,11,45.8,45.8,-4.18,58.2,331,14.5,29.9,14.5,29.9,-15.4,36.7,41.7,40.83,37.84,37.84,37.84,Varsity Program,Richlands,Wildcats
-332,41,R-S Central,NC,4A,NCHSAA 4A,6-6,6,6,0,12,45.5,45.5,-4.46,46.2,332,32.9,24.3,32.9,24.3,8.6,62.5,49.6,93.48,48.67,48.67,48.67,Varsity Program,Rutherfordton,Hilltoppers
-333,45,Gray's Creek,NC,6A,NCHSAA 6A,4-7,4,7,0,11,45.5,45.5,-4.54,53.1,333,26.1,31.8,26.1,31.8,-5.7,52.9,39.1,84.81,66.07,66.07,66.07,Varsity Program,Hope Mills,Bears
-334,52,Smithfield-Selma,NC,7A,NCHSAA 7A,1-9,1,9,0,10,45.4,45.4,-4.61,68.7,334,10.6,40.3,10.6,40.3,-29.7,31.2,27.2,24.53,50.32,50.32,50.32,Varsity Program,Smithfield,Spartans
-335,42,Red Springs,NC,4A,NCHSAA 4A,5-7,5,7,0,12,45.0,45.0,-4.97,49.5,335,23.7,23.1,23.7,23.1,0.6,49.6,51.3,39.74,51.44,51.44,51.44,Varsity Program,Red Springs,Red Devils
-336,39,Hayesville,NC,2A,NCHSAA 2A,7-5,7,5,0,12,45.0,45.0,-5.04,46.4,336,25.7,25.2,25.7,25.2,0.5,52.4,48.3,29.35,43.24,43.24,43.24,Varsity Program,Hayesville,Yellowjackets
-337,40,Manteo,NC,2A,NCHSAA 2A,7-4,7,4,0,11,44.9,44.9,-5.11,42.3,337,26.5,18.7,26.5,18.7,7.8,53.5,57.4,89.84,44.08,44.08,44.08,Varsity Program,Manteo,Redskins
-338,41,East Carteret,NC,2A,NCHSAA 2A,6-6,6,6,0,12,44.9,44.9,-5.11,43.9,338,35.2,26.9,35.2,26.9,8.3,65.7,45.9,63.93,37.13,37.13,37.13,Varsity Program,Beaufort,Mariners
-339,45,Seaforth,NC,5A,NCHSAA 5A,6-6,6,6,0,12,44.8,44.8,-5.18,45.5,339,30.7,26.4,30.7,26.4,4.3,59.4,46.6,109.14,49.19,49.19,49.19,Varsity Program,Pittsboro,Hawks
-340,46,Smoky Mountain,NC,5A,NCHSAA 5A,3-8,3,8,0,11,44.8,44.8,-5.18,53.3,340,18.4,25.2,18.4,25.2,-6.8,42.2,48.3,102.54,52.8,52.8,52.8,Varsity Program,Sylva,Mustangs
-341,53,East Wake,NC,7A,NCHSAA 7A,3-8,3,8,0,11,44.7,44.7,-5.26,58.2,341,16.7,34.4,16.7,34.4,-17.7,39.8,35.4,49.57,40.11,40.11,40.11,Varsity Program,Wendell,Warriors
-342,54,Ballantyne Ridge,NC,7A,NCHSAA 7A,2-8,2,8,0,10,44.7,44.7,-5.26,60.4,342,16.4,36.9,16.4,36.9,-20.5,39.4,31.9,58.8,51.83,51.83,51.83,Varsity Program,Charlotte,Wolves
-343,43,Washington,NC,4A,NCHSAA 4A,2-9,2,9,0,11,44.7,44.7,-5.26,59.6,343,19.0,37.5,19.0,37.5,-18.5,43.0,31.1,58.13,65.02,65.02,65.02,Varsity Program,Washington,Pam Pack
-344,44,West Stanly,NC,4A,NCHSAA 4A,2-10,2,10,0,12,44.7,44.7,-5.26,57.6,344,18.0,33.2,18.0,33.2,-15.2,41.6,37.1,68.31,54.74,54.74,54.74,Varsity Program,Oakboro,Colts
-345,46,Triton,NC,6A,NCHSAA 6A,3-8,3,8,0,11,44.7,44.7,-5.33,57.1,345,12.7,31.2,12.7,31.2,-18.5,34.2,39.9,111.73,42.95,42.95,42.95,Varsity Program,Erwin,Hawks
-346,55,Rocky River,NC,7A,NCHSAA 7A,3-7,3,7,0,10,44.5,44.5,-5.47,56.0,346,14.5,29.2,14.5,29.2,-14.7,36.7,42.7,21.91,51.39,51.39,51.39,Varsity Program,Mint Hill,Cms Athletics
-347,47,Harding University,NC,6A,NCHSAA 6A,2-8,2,8,0,10,44.2,44.2,-5.76,58.1,347,9.0,29.2,9.0,29.2,-20.2,29.0,42.7,42.61,49.17,49.17,49.17,Varsity Program,Charlotte,Rams
-348,34,Thomasville,NC,3A,NCHSAA 3A,6-6,6,6,0,12,44.2,44.2,-5.83,46.9,348,19.6,21.2,19.6,21.2,-1.6,43.8,53.9,108.83,50.52,50.52,50.52,Varsity Program,Thomasville,Bulldogs
-349,56,Purnell Swett,NC,7A,NCHSAA 7A,3-8,3,8,0,11,44.0,44.0,-6.05,56.8,349,16.7,37.1,16.7,37.1,-20.4,39.8,31.7,50.97,53.13,53.13,53.13,Varsity Program,Pembroke,Rams
-350,57,Lumberton,NC,7A,NCHSAA 7A,3-7,3,7,0,10,43.9,43.9,-6.12,55.1,350,15.9,28.6,15.9,28.6,-12.7,38.7,43.6,41.21,49.21,49.21,49.21,Varsity Program,Lumberton,Pirates
-351,47,J.F. Webb,NC,5A,NCHSAA 5A,7-4,7,4,0,11,43.7,43.7,-6.26,41.5,351,39.0,32.4,39.0,32.4,6.6,71.0,38.2,56.1,56.46,56.46,56.46,Varsity Program,Oxford,Warriors
-352,42,Cherryville,NC,2A,NCHSAA 2A,6-6,6,6,0,12,43.7,43.7,-6.26,49.1,352,24.8,30.9,24.8,30.9,-6.1,51.1,40.3,84.32,43.17,43.17,43.17,Varsity Program,Cherryville,Ironmen
-353,43,Gates County,NC,2A,NCHSAA 2A,5-6,5,6,0,11,43.7,43.7,-6.26,47.6,353,25.1,23.5,25.1,23.5,1.6,51.5,50.7,70.89,41.68,41.68,41.68,Varsity Program,Gatesville,Red Barons
-354,54,Bear Grass Charter,NC,1A,NCHSAA 1A,11-1,11,1,0,12,43.5,43.5,-6.55,28.5,354,37.1,13.2,37.1,13.2,23.9,68.3,65.1,27.67,61.99,61.99,61.99,Varsity Program,Williamston,Charter
-355,48,E.E. Smith,NC,6A,NCHSAA 6A,3-8,3,8,0,11,43.4,43.4,-6.62,54.9,355,14.9,29.8,14.9,29.8,-14.9,37.3,41.9,42.22,57.3,57.3,57.3,Varsity Program,Fayetteville,Bulls
-356,55,South Davidson,NC,1A,NCHSAA 1A,10-2,10,2,0,12,43.0,43.0,-6.98,32.8,356,27.8,11.3,27.8,11.3,16.5,55.3,67.8,71.14,53.94,53.94,53.94,Varsity Program,Denton,Wildcats
-357,49,Vance County,NC,6A,NCHSAA 6A,2-9,2,9,0,11,42.9,42.9,-7.06,59.8,357,12.9,38.7,12.9,38.7,-25.8,34.5,29.4,33.2,42.52,42.52,42.52,Varsity Program,Henderson,Vipers
-358,56,Rocky Mount Prep,NC,1A,NCHSAA 1A,4-7,4,7,0,11,42.9,42.9,-7.1,46.1,358,20.2,27.5,20.2,27.5,-7.3,44.7,45.1,52.88,53.48,53.48,53.48,Varsity Program,Rocky Mount,Jaguars
-359,45,Carver,NC,4A,NCHSAA 4A,7-5,7,5,0,12,42.9,42.9,-7.13,43.8,359,24.8,19.8,24.8,19.8,5.0,51.1,55.9,46.45,56.61,56.61,56.61,Varsity Program,Winston Salem,Yellowjackets
-360,44,Lakewood,NC,2A,NCHSAA 2A,6-5,6,5,0,11,42.9,42.9,-7.13,43.6,360,23.5,19.6,23.5,19.6,3.9,49.3,56.2,89.6,34.2,34.2,34.2,Varsity Program,Roseboro,Leopards
-361,45,Bishop McGuinness,NC,2A,NCHSAA 2A,9-2,9,2,0,11,42.8,42.8,-7.2,34.5,361,36.5,16.7,36.5,16.7,19.8,67.5,60.2,44.84,50.55,50.55,50.55,Varsity Program,Kernersville,Villains
-362,46,Lake Norman Charter,NC,4A,NCHSAA 4A,5-6,5,6,0,11,42.8,42.8,-7.2,46.2,362,22.9,21.1,22.9,21.1,1.8,48.5,54.1,90.58,45.39,45.39,45.39,Varsity Program,Huntersville,Knights
-363,48,Southern Guilford,NC,5A,NCHSAA 5A,2-9,2,9,0,11,42.8,42.8,-7.2,57.2,363,16.7,33.8,16.7,33.8,-17.1,39.8,36.3,32.26,52.7,52.7,52.7,Varsity Program,Greensboro,Storm
-364,47,Ravenscroft,NC,4A,NCHSAA 4A,3-7,3,7,0,10,42.7,42.7,-7.27,54.9,364,19.6,38.6,19.6,38.6,-19.0,43.8,29.6,49.22,10.5,19.5,3.0,Varsity Program,Raleigh,Ravens
-365,29,Wakefield,NC,8A,NCHSAA 8A,1-9,1,9,0,10,42.7,42.7,-7.34,64.6,365,9.3,40.0,9.3,40.0,-30.7,29.4,27.6,60.97,60.14,60.14,60.14,Varsity Program,Raleigh,Wolverines
-366,30,Green Level,NC,8A,NCHSAA 8A,1-9,1,9,0,10,42.6,42.6,-7.42,61.7,366,15.3,41.3,15.3,41.3,-26.0,37.8,25.8,32.58,56.24,56.24,56.24,Varsity Program,Cary,Gators
-367,50,Southern Lee,NC,6A,NCHSAA 6A,1-9,1,9,0,10,42.5,42.5,-7.49,59.4,367,18.7,37.7,18.7,37.7,-19.0,42.6,30.8,22.29,46.38,46.38,46.38,Varsity Program,Sanford,Cavaliers
-368,57,Wake Christian Academy,NC,1A,NCHSAA 1A,4-7,4,7,0,11,42.5,42.5,-7.55,46.1,368,23.9,32.2,23.9,32.2,-8.3,49.9,38.5,52.5,12.73,23.64,3.64,Varsity Program,Raleigh,Bulldogs
-369,51,Swansboro,NC,6A,NCHSAA 6A,2-8,2,8,0,10,42.4,42.4,-7.56,54.8,369,19.2,33.1,19.2,33.1,-13.9,43.3,37.3,94.01,48.15,48.15,48.15,Varsity Program,Swansboro,Pirates
-370,58,Topsail,NC,7A,NCHSAA 7A,0-10,0,10,0,10,42.4,42.4,-7.63,65.1,370,10.6,36.7,10.6,36.7,-26.1,31.2,32.2,70.06,62.74,62.74,62.74,Varsity Program,Hampstead,Pirates
-371,48,Salisbury,NC,4A,NCHSAA 4A,2-9,2,9,0,11,42.1,42.1,-7.85,56.0,371,16.4,33.5,16.4,33.5,-17.1,39.4,36.7,50.34,36.7,36.7,36.7,Varsity Program,Salisbury,Hornets
-372,49,East Burke,NC,4A,NCHSAA 4A,4-7,4,7,0,11,42.1,42.1,-7.92,48.8,372,25.1,24.8,25.1,24.8,0.3,51.5,48.9,75.97,54.57,54.57,54.57,Varsity Program,Connelly Springs,Cavaliers
-373,49,East Rowan,NC,5A,NCHSAA 5A,4-7,4,7,0,11,42.1,42.1,-7.92,52.2,373,16.4,32.3,16.4,32.3,-15.9,39.4,38.4,58.06,50.01,50.01,50.01,Varsity Program,Salisbury,Mustangs
-374,50,Nash Central,NC,4A,NCHSAA 4A,3-8,3,8,0,11,42.0,42.0,-7.99,54.7,374,18.8,25.7,18.8,25.7,-6.9,42.7,47.6,57.82,60.05,60.05,60.05,Varsity Program,Rocky Mount,Bulldogs
-375,52,South Caldwell,NC,6A,NCHSAA 6A,2-9,2,9,0,11,42.0,42.0,-7.99,58.5,375,18.3,45.5,18.3,45.5,-27.2,42.0,25.0,49.95,68.0,68.0,68.0,Varsity Program,Hudson,Spartans
-376,50,North Gaston,NC,5A,NCHSAA 5A,1-9,1,9,0,10,41.4,41.4,-8.64,62.4,376,7.2,39.7,7.2,39.7,-32.5,26.5,28.0,23.77,47.32,47.32,47.32,Varsity Program,Dallas,Wildcats
-377,51,Enka,NC,5A,NCHSAA 5A,2-8,2,8,0,10,41.1,41.1,-8.86,54.4,377,15.3,28.9,15.3,28.9,-13.6,37.8,43.1,103.27,38.35,38.35,38.35,Varsity Program,Enka,Jets
-378,51,Bunker Hill,NC,4A,NCHSAA 4A,1-9,1,9,0,10,41.1,41.1,-8.86,60.1,378,16.9,42.1,16.9,42.1,-25.2,40.1,25.0,86.28,42.15,42.15,42.15,Varsity Program,Claremont,Bears
-379,53,North Iredell,NC,6A,NCHSAA 6A,1-9,1,9,0,10,41.0,41.0,-9.0,61.3,379,17.3,39.9,17.3,39.9,-22.6,40.6,27.7,23.83,42.56,42.56,42.56,Varsity Program,Olin,Raiders
-380,58,Southeast Collegiate Prep Academy,NC,1A,NCHSAA 1A,6-5,6,5,0,11,40.9,40.9,-9.07,40.1,380,31.7,25.8,31.7,25.8,5.9,60.8,47.5,57.95,51.5,51.5,51.5,Varsity Program,Halifax,Trojans
-381,52,Roanoke Rapids,NC,4A,NCHSAA 4A,3-9,3,9,0,12,40.6,40.6,-9.36,51.7,381,13.4,29.3,13.4,29.3,-15.9,35.2,42.6,65.68,47.49,47.49,47.49,Varsity Program,Roanoke Rapids,Yellowjackets
-382,52,North Buncombe,NC,5A,NCHSAA 5A,2-8,2,8,0,10,40.6,40.6,-9.36,53.1,382,16.8,32.4,16.8,32.4,-15.6,39.9,38.2,58.06,50.04,50.04,50.04,Varsity Program,Weaverville,Black Hawks
-383,31,Mount Zion Christian Academy,NC,8A,NCHSAA 8A,4-5,4,5,0,9,40.4,40.4,-9.65,42.8,383,22.4,25.4,22.4,25.4,-3.0,47.8,48.0,59.42,15.56,28.89,4.44,Varsity Program,Durham,Varsity
-384,32,Athens Drive,NC,8A,NCHSAA 8A,0-10,0,10,0,10,40.4,40.4,-9.65,63.7,384,11.7,42.5,11.7,42.5,-30.8,32.8,25.0,43.83,45.37,45.37,45.37,Varsity Program,Raleigh,Jaguars
-385,53,Southwest Onslow,NC,4A,NCHSAA 4A,2-8,2,8,0,10,40.2,40.2,-9.79,54.6,385,9.6,31.8,9.6,31.8,-22.2,29.8,39.1,65.96,65.9,65.9,65.9,Varsity Program,Jacksonville,Stallions
-386,59,St. David's,NC,1A,NCHSAA 1A,4-7,4,7,0,11,40.1,40.1,-9.89,46.1,386,21.0,34.5,21.0,34.5,-13.5,45.8,35.3,52.5,12.73,23.64,3.64,Varsity Program,Raleigh,Warriors
-387,35,Union Academy,NC,3A,NCHSAA 3A,5-7,5,7,0,12,40.1,40.1,-9.94,44.2,387,22.4,26.4,22.4,26.4,-4.0,47.8,46.6,91.73,49.08,49.08,49.08,Varsity Program,Monroe,Cardinals
-388,46,Covenant Day,NC,2A,NCHSAA 2A,2-8,2,8,0,10,40.0,40.0,-10.01,58.6,388,13.9,41.9,13.9,41.9,-28.0,35.9,25.0,40.51,7.0,13.0,2.0,Varsity Program,Matthews,Lions
-389,54,East Gaston,NC,4A,NCHSAA 4A,2-8,2,8,0,10,40.0,40.0,-10.01,52.8,389,13.8,26.6,13.8,26.6,-12.8,35.7,46.4,67.15,64.13,64.13,64.13,Varsity Program,Mt Holly,Warriors
-390,36,Northwood,NC,3A,NCHSAA 3A,3-8,3,8,0,11,39.8,39.8,-10.22,50.6,390,17.0,29.9,17.0,29.9,-12.9,40.2,41.7,75.2,61.09,61.09,61.09,Varsity Program,Pittsboro,Chargers
-391,54,Felton Grove,NC,6A,NCHSAA 6A,4-7,4,7,0,11,39.6,39.6,-10.39,46.1,391,20.5,35.1,20.5,35.1,-14.6,45.1,34.5,58.48,40.47,40.47,40.47,Varsity Program,Apex,Galaxy
-392,47,Albemarle,NC,2A,NCHSAA 2A,5-7,5,7,0,12,39.4,39.4,-10.58,43.6,392,20.3,25.8,20.3,25.8,-5.5,44.8,47.5,65.23,55.29,55.29,55.29,Varsity Program,Albemarle,Bulldogs
-393,37,Owen,NC,3A,NCHSAA 3A,5-6,5,6,0,11,39.4,39.4,-10.58,45.3,393,19.5,24.5,19.5,24.5,-5.0,43.7,49.3,65.33,41.7,41.7,41.7,Varsity Program,Black Mountain,Warhorses
-394,48,Wayne Christian,NC,2A,NCHSAA 2A,4-7,4,7,0,11,39.4,39.4,-10.58,43.5,394,23.6,22.5,23.6,22.5,1.1,49.4,52.1,51.59,12.73,23.64,3.64,Varsity Program,Goldsboro,Eagles
-395,49,Perquimans County,NC,2A,NCHSAA 2A,5-6,5,6,0,11,39.3,39.3,-10.66,45.3,395,19.2,26.9,19.2,26.9,-7.7,43.3,45.9,40.89,40.69,40.69,40.69,Varsity Program,Hertford,Pirates
-396,55,Ledford,NC,4A,NCHSAA 4A,2-9,2,9,0,11,39.3,39.3,-10.73,53.1,396,14.5,31.0,14.5,31.0,-16.5,36.7,40.2,67.85,49.42,49.42,49.42,Varsity Program,Thomasville,Senior Panthers
-397,50,Rosewood,NC,2A,NCHSAA 2A,3-9,3,9,0,12,39.1,39.1,-10.94,49.4,397,18.7,35.2,18.7,35.2,-16.5,42.6,34.3,56.73,52.37,52.37,52.37,Varsity Program,Goldsboro,Eagles
-398,38,Madison,NC,3A,NCHSAA 3A,4-7,4,7,0,11,39.0,39.0,-11.02,44.4,398,23.4,30.4,23.4,30.4,-7.0,49.2,41.0,29.88,66.01,66.01,66.01,Varsity Program,Marshall,Patriots
-399,59,Parkland,NC,7A,NCHSAA 7A,1-9,1,9,0,10,39.0,39.0,-11.02,59.3,399,11.0,33.1,11.0,33.1,-22.1,31.8,37.3,49.95,55.06,55.06,55.06,Varsity Program,Winston Salem,Mustangs
-400,39,Heide Trask,NC,3A,NCHSAA 3A,3-8,3,8,0,11,38.9,38.9,-11.09,48.6,400,21.3,27.1,21.3,27.1,-5.8,46.2,45.7,37.82,33.92,33.92,33.92,Varsity Program,Rocky Point,Titans
-401,51,SouthLake Christian Academy,NC,2A,NCHSAA 2A,3-8,3,8,0,11,38.6,38.6,-11.38,50.9,401,18.8,35.5,18.8,35.5,-16.7,42.7,33.9,45.09,9.55,17.73,2.73,Varsity Program,Huntersville,Eagles
-402,56,Wilkes Central,NC,4A,NCHSAA 4A,5-6,5,6,0,11,38.5,38.5,-11.45,44.5,402,19.8,28.5,19.8,28.5,-8.7,44.1,43.7,91.66,58.53,58.53,58.53,Varsity Program,Wilkesboro,Eagles
-403,53,Orange,NC,5A,NCHSAA 5A,3-8,3,8,0,11,38.3,38.3,-11.66,49.8,403,19.1,32.4,19.1,32.4,-13.3,43.1,38.2,83.62,55.0,55.0,55.0,Varsity Program,Hillsborough,Panthers
-404,57,Cummings,NC,4A,NCHSAA 4A,3-8,3,8,0,11,38.3,38.3,-11.74,50.5,404,23.5,35.6,23.5,35.6,-12.1,49.3,33.8,32.3,45.23,45.23,45.23,Varsity Program,Burlington,Cavaliers
-405,40,CHASE,NC,3A,NCHSAA 3A,5-6,5,6,0,11,38.0,38.0,-12.02,42.7,405,30.4,27.6,30.4,27.6,2.8,59.0,45.0,99.42,53.19,53.19,53.19,Varsity Program,Forest City,Trojans
-406,41,North Wilkes,NC,3A,NCHSAA 3A,4-7,4,7,0,11,37.9,37.9,-12.1,44.8,406,26.8,25.1,26.8,25.1,1.7,53.9,48.5,64.88,63.1,63.1,63.1,Varsity Program,Hays,Vikings
-407,55,Phillip O. Berry Academy of Technology,NC,6A,NCHSAA 6A,0-10,0,10,0,10,37.9,37.9,-12.1,60.2,407,5.0,31.1,5.0,31.1,-26.1,25.0,40.1,67.43,39.56,39.56,39.56,Varsity Program,Charlotte,Cardinals
-408,42,Wheatmore,NC,3A,NCHSAA 3A,3-9,3,9,0,12,37.8,37.8,-12.24,45.8,408,15.4,30.2,15.4,30.2,-14.8,38.0,41.3,46.56,41.03,41.03,41.03,Varsity Program,Trinity,Warriors
-409,52,Cherokee,NC,2A,NCHSAA 2A,3-8,3,8,0,11,37.5,37.5,-12.46,48.1,409,21.1,28.2,21.1,28.2,-7.1,45.9,44.1,83.34,60.42,60.42,60.42,Varsity Program,Cherokee,Braves
-410,43,North Moore,NC,3A,NCHSAA 3A,3-8,3,8,0,11,37.5,37.5,-12.46,48.7,410,15.8,31.1,15.8,31.1,-15.3,38.5,40.1,22.05,44.29,44.29,44.29,Varsity Program,Robbins,Mustangs
-411,44,Polk County,NC,3A,NCHSAA 3A,3-8,3,8,0,11,37.5,37.5,-12.53,47.6,411,23.4,32.5,23.4,32.5,-9.1,49.2,38.1,56.38,59.68,59.68,59.68,Varsity Program,Columbus,Wolverines
-412,58,Forbush,NC,4A,NCHSAA 4A,5-6,5,6,0,11,37.3,37.3,-12.67,45.5,412,16.5,29.2,16.5,29.2,-12.7,39.5,42.7,55.96,48.81,48.81,48.81,Varsity Program,East Bend,Falcons
-413,54,North Forsyth,NC,5A,NCHSAA 5A,2-8,2,8,0,10,37.3,37.3,-12.74,52.4,413,10.0,28.7,10.0,28.7,-18.7,30.4,43.4,32.22,40.07,40.07,40.07,Varsity Program,Winston Salem,Vikings
-414,45,Wayne Preparatory Academy,NC,3A,NCHSAA 3A,0-7,0,7,0,7,37.2,37.2,-12.82,43.9,414,10.0,37.0,10.0,37.0,-27.0,30.4,31.8,15.36,0.0,0.0,0.0,Varsity Program,Goldsboro,Varsity
-415,60,Thomas Jefferson Classical Academy,NC,1A,NCHSAA 1A,5-7,5,7,0,12,36.9,36.9,-13.1,41.1,415,20.2,24.1,20.2,24.1,-3.9,44.7,49.9,29.18,61.21,61.21,61.21,Varsity Program,Mooresboro,Gryphons
-416,59,Ashe County,NC,4A,NCHSAA 4A,3-8,3,8,0,11,36.9,36.9,-13.1,52.0,416,16.8,38.4,16.8,38.4,-21.6,39.9,29.8,31.28,48.0,48.0,48.0,Varsity Program,West Jefferson,Huskies
-417,60,North Lenoir,NC,4A,NCHSAA 4A,1-9,1,9,0,10,36.8,36.8,-13.25,57.2,417,8.7,36.8,8.7,36.8,-28.1,28.6,32.1,20.23,40.42,40.42,40.42,Varsity Program,Lagrange,Hawks
-418,61,South Rowan,NC,4A,NCHSAA 4A,3-8,3,8,0,11,36.5,36.5,-13.46,50.5,418,14.7,37.5,14.7,37.5,-22.8,37.0,31.1,84.08,48.06,48.06,48.06,Varsity Program,China Grove,Raiders
-419,60,Southwest Guilford,NC,7A,NCHSAA 7A,1-9,1,9,0,10,36.5,36.5,-13.46,58.4,419,12.5,39.6,12.5,39.6,-27.1,33.9,28.2,42.92,56.28,56.28,56.28,Varsity Program,High Point,Cowboys
-420,53,Camden County,NC,2A,NCHSAA 2A,4-8,4,8,0,12,36.4,36.4,-13.61,47.9,420,12.8,33.6,12.8,33.6,-20.8,34.3,36.6,65.3,58.01,58.01,58.01,Varsity Program,Camden,Bruins
-421,54,GRACE Christian,NC,2A,NCHSAA 2A,7-2,7,2,0,9,36.3,36.3,-13.68,27.6,421,32.1,14.9,32.1,14.9,17.2,61.3,62.7,87.44,27.22,50.56,7.78,Varsity Program,Raleigh,Eagles
-422,61,Riverside-Durham,NC,7A,NCHSAA 7A,2-8,2,8,0,10,35.9,35.9,-14.11,51.0,422,16.3,32.1,16.3,32.1,-15.8,39.2,38.7,41.21,48.14,48.14,48.14,Varsity Program,Durham,Pirates
-423,55,Southern Wayne,NC,5A,NCHSAA 5A,2-8,2,8,0,10,35.7,35.7,-14.26,55.2,423,13.0,44.7,13.0,44.7,-31.7,34.6,25.0,58.1,52.79,52.79,52.79,Varsity Program,Dudley,Saints
-424,33,Garinger,NC,8A,NCHSAA 8A,1-9,1,9,0,10,35.7,35.7,-14.26,58.6,424,11.3,41.6,11.3,41.6,-30.3,32.2,25.4,42.4,51.54,51.54,51.54,Varsity Program,Charlotte,Wildcats
-425,46,Beddingfield,NC,3A,NCHSAA 3A,1-10,1,10,0,11,35.4,35.4,-14.62,56.1,425,8.7,40.6,8.7,40.6,-31.9,28.6,26.8,20.51,39.15,39.15,39.15,Varsity Program,Wilson,Bruins
-426,55,Northampton Collegiate & Technical,NC,2A,NCHSAA 2A,4-8,4,8,0,12,35.0,35.0,-14.98,45.6,426,17.7,30.8,17.7,30.8,-13.1,41.2,40.5,40.16,34.86,34.86,34.86,Varsity Program,Gaston,Jaguars
-427,61,Washington County,NC,1A,NCHSAA 1A,5-5,5,5,0,10,35.0,35.0,-15.05,40.3,427,23.7,25.0,23.7,25.0,-1.3,49.6,48.6,44.95,44.67,44.67,44.67,Varsity Program,Plymouth,Vikings
-428,62,Sallie B. Howard,NC,1A,NCHSAA 1A,5-7,5,7,0,12,34.7,34.7,-15.34,40.6,428,18.1,25.5,18.1,25.5,-7.4,41.7,47.9,84.38,44.72,44.72,44.72,Varsity Program,Wilson,Eagles
-429,62,Jordan-Matthews,NC,4A,NCHSAA 4A,5-6,5,6,0,11,34.5,34.5,-15.55,40.8,429,21.0,26.2,21.0,26.2,-5.2,45.8,46.9,55.16,43.49,43.49,43.49,Varsity Program,Siler City,Jets
-430,63,Fairmont,NC,4A,NCHSAA 4A,1-9,1,9,0,10,34.5,34.5,-15.55,48.9,430,13.8,30.5,13.8,30.5,-16.7,35.7,40.9,74.74,54.07,54.07,54.07,Varsity Program,Fairmont,Golden Tornadoes
-431,56,Southside,NC,2A,NCHSAA 2A,5-7,5,7,0,12,34.2,34.2,-15.77,39.6,431,20.4,30.5,20.4,30.5,-10.1,45.0,40.9,87.78,57.1,57.1,57.1,Varsity Program,Chocowinity,Seahawks
-432,56,Western Harnett,NC,6A,NCHSAA 6A,3-7,3,7,0,10,34.2,34.2,-15.84,49.2,432,12.6,35.6,12.6,35.6,-23.0,34.0,33.8,56.35,47.82,47.82,47.82,Varsity Program,Lillington,Eagles
-433,64,Lincoln Charter,NC,4A,NCHSAA 4A,3-7,3,7,0,10,34.0,34.0,-15.98,45.0,433,26.7,40.6,26.7,40.6,-13.9,53.8,26.8,39.36,39.95,39.95,39.95,Varsity Program,Denver,Eagles
-434,47,Bartlett Yancey,NC,3A,NCHSAA 3A,3-8,3,8,0,11,33.7,33.7,-16.27,46.1,434,23.6,37.2,23.6,37.2,-13.6,49.4,31.5,29.42,59.4,59.4,59.4,Varsity Program,Yanceyville,Buccaneers
-435,57,American Leadership Academy-Johnston,NC,2A,NCHSAA 2A,4-7,4,7,0,11,33.6,33.6,-16.42,42.6,435,28.7,36.5,28.7,36.5,-7.8,56.6,32.5,28.62,52.08,52.08,52.08,Varsity Program,Clayton,Patriots
-436,58,West Columbus,NC,2A,NCHSAA 2A,3-8,3,8,0,11,33.5,33.5,-16.49,43.2,436,26.4,35.7,26.4,35.7,-9.3,53.4,33.6,68.72,48.55,48.55,48.55,Varsity Program,Cerro Gordo,Vikings
-437,65,Morehead,NC,4A,NCHSAA 4A,2-9,2,9,0,11,33.4,33.4,-16.56,51.0,437,6.0,29.3,6.0,29.3,-23.3,25.0,42.6,89.67,49.25,49.25,49.25,Varsity Program,Eden,Panthers
-438,59,Bradford Prep,NC,2A,NCHSAA 2A,2-9,2,9,0,11,33.4,33.4,-16.65,43.5,438,15.2,32.4,15.2,32.4,-17.2,37.7,38.2,37.92,44.1,44.1,44.1,Varsity Program,Charlotte,Bears
-439,48,West Bladen,NC,3A,NCHSAA 3A,2-9,2,9,0,11,33.1,33.1,-16.92,46.7,439,12.2,29.6,12.2,29.6,-17.4,33.5,42.2,18.59,50.79,50.79,50.79,Varsity Program,Bladenboro,Knights
-440,49,Pine Lake Prep,NC,3A,NCHSAA 3A,2-8,2,8,0,10,32.6,32.6,-17.35,45.9,440,10.9,28.4,10.9,28.4,-17.5,31.7,43.8,56.03,44.31,44.31,44.31,Varsity Program,Mooresville,Pride
-441,66,First Flight,NC,4A,NCHSAA 4A,1-9,1,9,0,10,32.1,32.1,-17.93,50.1,441,10.8,40.5,10.8,40.5,-29.7,31.5,26.9,20.37,47.86,47.86,47.86,Varsity Program,Outer Banks,Nighthawks
-442,50,East Davidson,NC,3A,NCHSAA 3A,1-10,1,10,0,11,31.9,31.9,-18.14,47.4,442,11.2,33.4,11.2,33.4,-22.2,32.1,36.8,47.08,52.15,52.15,52.15,Varsity Program,Thomasville,Golden Eagles
-443,51,Bessemer City,NC,3A,NCHSAA 3A,1-9,1,9,0,10,31.6,31.6,-18.43,53.2,443,9.8,44.7,9.8,44.7,-34.9,30.1,25.0,31.49,41.1,41.1,41.1,Varsity Program,Bessemer City,Yellow Jackets
-444,52,South Lenoir,NC,3A,NCHSAA 3A,3-8,3,8,0,11,31.5,31.5,-18.5,44.0,444,16.9,30.1,16.9,30.1,-13.2,40.1,41.5,46.0,47.48,47.48,47.48,Varsity Program,Deep Run,Blue Devils
-445,60,Northwest Halifax Collegiate & Technical Academy,NC,2A,NCHSAA 2A,4-7,4,7,0,11,31.2,31.2,-18.79,38.8,445,30.0,28.2,30.0,28.2,1.8,58.4,44.1,71.98,29.02,29.02,29.02,Varsity Program,Littleton,Vikings
-446,57,East Chapel Hill,NC,6A,NCHSAA 6A,3-7,3,7,0,10,30.9,30.9,-19.15,41.5,446,17.4,30.6,17.4,30.6,-13.2,40.8,40.8,30.47,60.49,60.49,60.49,Varsity Program,Chapel Hill,Wildcats
-447,53,Goldsboro,NC,3A,NCHSAA 3A,1-9,1,9,0,10,30.8,30.8,-19.22,50.5,447,12.9,43.4,12.9,43.4,-30.5,34.5,25.0,21.59,54.31,54.31,54.31,Varsity Program,Goldsboro,Cougars
-448,54,McMichael,NC,3A,NCHSAA 3A,2-9,2,9,0,11,30.7,30.7,-19.3,47.6,448,20.0,45.0,20.0,45.0,-25.0,44.4,25.0,37.85,56.67,56.67,56.67,Varsity Program,Mayodan,Phoenix
-449,63,East Columbus,NC,1A,NCHSAA 1A,3-9,3,9,0,12,30.3,30.3,-19.73,43.6,449,11.2,35.7,11.2,35.7,-24.5,32.1,33.6,59.42,62.79,62.79,62.79,Varsity Program,Lake Waccamaw,Gators
-450,64,Halifax Academy,NC,1A,NCHSAA 1A,0-8,0,8,0,8,30.1,30.1,-19.89,41.0,450,3.8,16.9,3.8,16.9,-13.1,25.0,59.9,14.35,0.0,0.0,0.0,Varsity Program,Roanoke Rapids,Vikings
-451,65,Rosman,NC,1A,NCHSAA 1A,3-9,3,9,0,12,29.8,29.8,-20.23,43.1,451,11.7,37.5,11.7,37.5,-25.8,32.8,31.1,72.61,37.31,37.31,37.31,Varsity Program,Rosman,Tigers
-452,56,Douglas Byrd,NC,5A,NCHSAA 5A,0-10,0,10,0,10,29.8,29.8,-20.23,53.0,452,7.5,45.0,7.5,45.0,-37.5,26.9,25.0,21.77,62.9,62.9,62.9,Varsity Program,Fayetteville,Eagles
-453,61,Union,NC,2A,NCHSAA 2A,3-9,3,9,0,12,29.6,29.6,-20.38,40.3,453,16.2,33.1,16.2,33.1,-16.9,39.1,37.3,45.19,58.14,58.14,58.14,Varsity Program,Rose Hill,Spartans
-454,66,Lee Christian,NC,1A,NCHSAA 1A,2-7,2,7,0,9,29.6,29.6,-20.38,44.1,454,9.9,47.6,9.9,47.6,-37.7,30.3,25.0,37.66,7.78,14.44,2.22,Varsity Program,Sanford,Falcons
-455,67,Northeast Academy,NC,1A,NCHSAA 1A,0-4,0,4,0,4,29.2,29.2,-20.84,41.0,455,16.0,31.2,16.0,31.2,-15.2,38.8,39.9,14.35,0.0,0.0,0.0,Varsity Program,Lasker,Eagles
-456,62,Bertie,NC,2A,NCHSAA 2A,0-10,0,10,0,10,29.1,29.1,-20.88,50.1,456,12.0,42.4,12.0,42.4,-30.4,33.2,25.0,56.98,50.88,50.88,50.88,Varsity Program,Windsor,Falcons
-457,55,West Caldwell,NC,3A,NCHSAA 3A,2-8,2,8,0,10,29.1,29.1,-20.95,43.7,457,22.4,44.2,22.4,44.2,-21.8,47.8,25.0,35.3,7.0,13.0,2.0,Varsity Program,Lenoir,Warriors
-458,58,South Wake Christian Athletics,NC,6A,NCHSAA 6A,1-9,1,9,0,10,28.9,28.9,-21.1,49.2,458,12.8,34.4,12.8,34.4,-21.6,34.3,35.4,27.22,3.5,6.5,1.0,Varsity Program,Cary,Varsity
-459,63,Highland Tech,NC,2A,NCHSAA 2A,1-9,1,9,0,10,28.8,28.8,-21.24,52.9,459,4.0,49.7,4.0,49.7,-45.7,25.0,25.0,22.15,48.27,48.27,48.27,Varsity Program,Gastonia,Rams
-460,68,North Edgecombe,NC,1A,NCHSAA 1A,2-10,2,10,0,12,28.3,28.3,-21.67,41.8,460,9.7,40.0,9.7,40.0,-30.3,30.0,27.6,77.43,43.86,43.86,43.86,Varsity Program,Tarboro,Warriors
-461,64,Elkin,NC,2A,NCHSAA 2A,2-9,2,9,0,11,28.3,28.3,-21.74,44.3,461,14.8,45.7,14.8,45.7,-30.9,37.1,25.0,38.17,61.98,61.98,61.98,Varsity Program,Elkin,Bucking Elks
-462,59,Northern Durham,NC,6A,NCHSAA 6A,3-7,3,7,0,10,28.1,28.1,-21.89,41.9,462,11.0,34.2,11.0,34.2,-23.2,31.8,35.7,65.16,60.71,60.71,60.71,Varsity Program,Durham,Knights
-463,69,Hobgood Charter,NC,1A,NCHSAA 1A,4-6,4,6,0,10,28.0,28.0,-21.96,31.8,463,20.3,26.1,20.3,26.1,-5.8,44.8,47.1,95.82,36.56,36.56,36.56,Varsity Program,Hobgood,Raiders
-464,70,Andrews,NC,1A,NCHSAA 1A,2-10,2,10,0,12,28.0,28.0,-22.03,46.7,464,9.2,43.5,9.2,43.5,-34.3,29.3,25.0,29.84,59.45,59.45,59.45,Varsity Program,Andrews,Wildcats
-465,65,Langtree Charter Academy,NC,2A,NCHSAA 2A,0-10,0,10,0,10,27.8,27.8,-22.25,47.6,465,12.7,46.7,12.7,46.7,-34.0,34.2,25.0,55.61,40.27,40.27,40.27,Varsity Program,Mooresville,Lions
-466,56,Trinity,NC,3A,NCHSAA 3A,1-9,1,9,0,10,27.0,27.0,-22.97,43.7,466,13.0,38.2,13.0,38.2,-25.2,34.6,30.1,28.87,34.2,34.2,34.2,Varsity Program,Trinity,Bulldogs
-467,57,Patton,NC,3A,NCHSAA 3A,1-9,1,9,0,10,27.0,27.0,-23.04,47.0,467,8.5,39.0,8.5,39.0,-30.5,28.3,29.0,30.09,45.48,45.48,45.48,Varsity Program,Morganton,Panthers
-468,67,East Henderson,NC,4A,NCHSAA 4A,0-10,0,10,0,10,26.7,26.7,-23.33,54.4,468,3.7,49.2,3.7,49.2,-45.5,25.0,25.0,32.16,48.61,48.61,48.61,Varsity Program,East Flat Rock,Eagles
-469,57,Atkins,NC,5A,NCHSAA 5A,0-10,0,10,0,10,26.5,26.5,-23.47,54.6,469,3.4,44.4,3.4,44.4,-41.0,25.0,25.0,42.09,47.64,47.64,47.64,Varsity Program,Winston Salem,Camels
-470,66,South Stokes,NC,2A,NCHSAA 2A,4-7,4,7,0,11,26.0,26.0,-23.98,35.9,470,12.5,26.9,12.5,26.9,-14.4,33.9,45.9,63.09,38.99,38.99,38.99,Varsity Program,Walnut Cove,Sauras
-471,67,Pamlico County,NC,2A,NCHSAA 2A,2-9,2,9,0,11,25.7,25.7,-24.34,41.3,471,16.2,41.5,16.2,41.5,-25.3,39.1,25.5,45.58,36.65,36.65,36.65,Varsity Program,Bayboro,Hurricanes
-472,58,High Point Central,NC,5A,NCHSAA 5A,0-10,0,10,0,10,25.6,25.6,-24.41,52.7,472,0.0,52.3,0.0,52.3,-52.3,25.0,25.0,18.45,0.0,0.0,0.0,Varsity Program,High Point,Bison
-473,59,Cabarrus Stallions,NC,5A,NCHSAA 5A,1-6,1,6,0,7,25.4,25.4,-24.55,41.6,473,14.0,33.3,14.0,33.3,-19.3,36.0,37.0,28.85,5.0,9.29,1.43,Varsity Program,Concord,Varsity
-474,68,Avery County,NC,2A,NCHSAA 2A,1-10,1,10,0,11,25.3,25.3,-24.7,45.7,474,17.8,50.2,17.8,50.2,-32.4,41.3,25.0,46.35,36.14,36.14,36.14,Varsity Program,Newland,Vikings
-475,58,Draughn,NC,3A,NCHSAA 3A,1-9,1,9,0,10,24.9,24.9,-25.06,47.5,475,8.8,51.5,8.8,51.5,-42.7,28.7,25.0,22.26,33.51,33.51,33.51,Varsity Program,Valdese,Wildcats
-476,71,North Stokes,NC,1A,NCHSAA 1A,4-7,4,7,0,11,24.7,24.7,-25.34,34.2,476,13.5,38.1,13.5,38.1,-24.6,35.3,30.3,27.19,39.7,39.7,39.7,Varsity Program,Danbury,Vikings
-477,72,Berean Baptist Academy,NC,1A,NCHSAA 1A,0-8,0,8,0,8,23.4,23.4,-26.6,41.0,477,18.2,49.0,18.2,49.0,-30.8,41.9,25.0,14.35,0.0,0.0,0.0,Varsity Program,Fayetteville,Bulldogs
-478,73,Winston-Salem Preparatory Academy,NC,1A,NCHSAA 1A,3-9,3,9,0,12,22.9,22.9,-27.07,35.5,478,8.3,31.8,8.3,31.8,-23.5,28.0,39.1,78.2,41.7,41.7,41.7,Varsity Program,Winston Salem,Phoenix
-479,74,Bonnie Cone Leadership Academy,NC,1A,NCHSAA 1A,0-8,0,8,0,8,22.9,22.9,-27.07,45.3,479,10.8,43.9,10.8,43.9,-33.1,31.5,25.0,28.69,33.12,33.12,33.12,Varsity Program,Huntersville,Eagles
-480,68,Carrboro,NC,4A,NCHSAA 4A,1-9,1,9,0,10,22.8,22.8,-27.22,40.8,480,6.0,33.1,6.0,33.1,-27.1,25.0,37.3,28.65,43.98,43.98,43.98,Varsity Program,Carrboro,Jaguars
-481,59,Surry Central,NC,3A,NCHSAA 3A,0-10,0,10,0,10,22.0,22.0,-28.01,43.7,481,11.5,42.6,11.5,42.6,-31.1,32.5,25.0,19.42,53.25,53.25,53.25,Varsity Program,Dobson,Golden Eagles
-482,69,North Wake Saints,NC,4A,NCHSAA 4A,2-9,2,9,0,11,21.6,21.6,-28.37,38.9,482,15.1,32.3,15.1,32.3,-17.2,37.5,38.4,31.8,6.36,11.82,1.82,Varsity Program,Wake Forest,Varsity
-483,69,Lejeune,NC,2A,NCHSAA 2A,1-10,1,10,0,11,19.1,19.1,-30.89,38.1,483,7.3,36.8,7.3,36.8,-29.5,26.6,32.1,37.11,41.62,41.62,41.62,Varsity Program,Camp Lejeune,Devilpups
-484,75,The College Prep & Leadership Academy,NC,1A,NCHSAA 1A,1-9,1,9,0,10,19.1,19.1,-30.89,36.9,484,15.2,41.7,15.2,41.7,-26.5,37.7,25.2,54.0,56.86,56.86,56.86,Varsity Program,Jamestown,Royals
-485,60,Spring Creek,NC,3A,NCHSAA 3A,0-10,0,10,0,10,18.5,18.5,-31.46,46.9,485,3.0,53.1,3.0,53.1,-50.1,25.0,25.0,16.41,0.0,0.0,0.0,Varsity Program,Seven Springs,Gators
-486,76,Weldon STEM,NC,1A,NCHSAA 1A,0-8,0,8,0,8,18.3,18.3,-31.68,41.0,486,5.0,41.9,5.0,41.9,-36.9,25.0,25.0,27.6,48.38,48.38,48.38,Varsity Program,Weldon,Chargers
-487,60,Cedar Ridge,NC,5A,NCHSAA 5A,1-9,1,9,0,10,18.2,18.2,-31.82,36.7,487,7.9,40.7,7.9,40.7,-32.8,27.5,26.6,30.8,43.03,43.03,43.03,Varsity Program,Hillsborough,Fighting Red Wolves
-488,70,Asheville Christian Academy,NC,2A,NCHSAA 2A,0-9,0,9,0,9,17.4,17.4,-32.62,43.5,488,11.0,56.3,11.0,56.3,-45.3,31.8,25.0,15.22,0.0,0.0,0.0,Varsity Program,Swannanoa,Lions
-489,70,Graham,NC,4A,NCHSAA 4A,0-10,0,10,0,10,16.9,16.9,-33.12,47.2,489,5.0,56.5,5.0,56.5,-51.5,25.0,25.0,19.07,52.25,52.25,52.25,Varsity Program,Graham,Red Devils
-490,77,Chatham Central,NC,1A,NCHSAA 1A,1-10,1,10,0,11,16.7,16.7,-33.34,31.9,490,12.1,31.0,12.1,31.0,-18.9,33.3,40.2,117.01,42.42,42.42,42.42,Varsity Program,Bear Creek,Bears
-491,78,Columbia,NC,1A,NCHSAA 1A,1-7,1,7,0,8,15.6,15.6,-34.42,43.1,491,14.8,40.4,14.8,40.4,-25.6,37.1,27.0,40.12,58.31,58.31,58.31,Varsity Program,Columbia,Wildcats
-492,79,Jones Senior,NC,1A,NCHSAA 1A,0-10,0,10,0,10,14.9,14.9,-35.14,40.9,492,2.6,46.3,2.6,46.3,-43.7,25.0,25.0,16.84,50.25,50.25,50.25,Varsity Program,Trenton,Trojans
-493,80,Mattamuskeet,NC,1A,NCHSAA 1A,0-5,0,5,0,5,14.0,14.0,-36.0,49.7,493,12.4,36.4,12.4,36.4,-24.0,33.8,32.6,17.39,0.0,0.0,0.0,Varsity Program,Swan Quarter,Lakers
-494,71,Triangle Math & Science Academy,NC,2A,NCHSAA 2A,0-5,0,5,0,5,14.0,14.0,-36.0,32.6,494,4.4,34.8,4.4,34.8,-30.4,25.0,34.9,46.41,64.15,64.15,64.15,Varsity Program,Apex,Tigers
+rank,division_rank,team,state,division,conference,city,record,wins,losses,ties,games_played,power_index,spi,raw_rating,sos_index,sos_raw,sos_rank,ppg_off,ppg_def,net_margin,harbin_avg,ppa,pqs,contender_tier
+1,1,Hough,NC,8A,NCHSAA 8A,Cornelius,10-0,10,0,0,10,102.0,102.0,52.0,59.4,9.43,4,42.1,3.3,38.8,95.4,95.4,95.4,State Title Contender
+2,1,Grimsley,NC,7A,NCHSAA 7A,Greensboro,10-0,10,0,0,10,92.6,92.6,42.6,56.4,6.39,34,42.5,4.5,38.0,91.17,91.17,91.17,State Title Contender
+3,2,Weddington,NC,7A,NCHSAA 7A,Matthews,10-0,10,0,0,10,91.1,91.1,41.13,58.9,8.91,9,42.4,7.6,34.8,90.51,90.51,90.51,State Title Contender
+4,2,Mallard Creek,NC,8A,NCHSAA 8A,Charlotte,8-2,8,2,0,10,88.7,88.7,38.72,63.2,13.22,1,31.4,16.9,14.5,80.62,80.62,80.62,State Title Contender
+5,3,Millbrook,NC,8A,NCHSAA 8A,Raleigh,9-0,9,0,0,9,84.6,84.6,34.58,55.7,5.66,46,36.4,1.4,35.0,87.56,87.56,87.56,Regional Contender
+6,3,Garner,NC,7A,NCHSAA 7A,Garner,8-2,8,2,0,10,84.6,84.6,34.58,59.4,9.43,5,37.2,20.2,17.0,78.76,78.76,78.76,Regional Contender
+7,4,Cardinal Gibbons,NC,7A,NCHSAA 7A,Raleigh,7-3,7,3,0,10,83.8,83.8,33.78,59.4,9.35,6,33.5,14.7,18.8,74.0,74.0,74.0,Regional Contender
+8,5,Lake Norman,NC,7A,NCHSAA 7A,Mooresville,10-0,10,0,0,10,83.5,83.5,33.47,55.0,4.97,60,45.8,8.4,37.4,87.06,87.06,87.06,Regional Contender
+9,6,Reagan,NC,7A,NCHSAA 7A,Pfafftown,8-2,8,2,0,10,83.5,83.5,33.46,58.8,8.83,11,35.5,11.7,23.8,78.26,78.26,78.26,Regional Contender
+10,4,Chambers,NC,8A,NCHSAA 8A,Charlotte,9-1,9,1,0,10,83.4,83.4,33.36,58.1,8.12,15,37.9,10.7,27.2,82.61,82.61,82.61,Regional Contender
+11,5,West Forsyth,NC,8A,NCHSAA 8A,Clemmons,8-2,8,2,0,10,83.0,83.0,33.05,58.0,8.0,16,34.8,12.6,22.2,78.07,78.07,78.07,Regional Contender
+12,6,Myers Park,NC,8A,NCHSAA 8A,Charlotte,8-3,8,3,0,11,82.8,82.8,32.83,58.9,8.86,10,32.3,21.4,10.9,74.77,74.77,74.77,Regional Contender
+13,7,Cleveland,NC,7A,NCHSAA 7A,Clayton,9-1,9,1,0,10,82.3,82.3,32.32,57.6,7.63,20,39.6,16.9,22.7,82.14,82.14,82.14,Regional Contender
+14,1,Crest,NC,5A,NCHSAA 5A,Shelby,9-1,9,1,0,10,81.2,81.2,31.19,57.6,7.64,21,32.8,11.9,20.9,81.64,81.64,81.64,Regional Contender
+15,1,J.H. Rose,NC,6A,NCHSAA 6A,Greenville,10-0,10,0,0,10,80.2,80.2,30.25,57.7,7.67,17,41.1,12.6,28.5,85.61,85.61,85.61,Regional Contender
+16,7,West Charlotte,NC,8A,NCHSAA 8A,Charlotte,7-4,7,4,0,11,79.8,79.8,29.85,61.9,11.88,2,17.0,21.5,-4.5,69.43,69.43,69.43,Regional Contender
+17,8,A.L. Brown,NC,7A,NCHSAA 7A,Kannapolis,10-0,10,0,0,10,79.7,79.7,29.7,50.0,0.01,192,42.3,13.4,28.9,85.36,85.36,85.36,Regional Contender
+18,9,Mooresville,NC,7A,NCHSAA 7A,Mooresville,6-5,6,5,0,11,79.6,79.6,29.64,59.1,9.13,8,33.2,27.2,6.0,65.34,65.34,65.34,Regional Contender
+19,10,East Forsyth,NC,7A,NCHSAA 7A,Kernersville,7-3,7,3,0,10,79.5,79.5,29.53,57.7,7.72,18,32.0,12.9,19.1,72.09,72.09,72.09,Regional Contender
+20,11,Clayton,NC,7A,NCHSAA 7A,Clayton,8-2,8,2,0,10,79.3,79.3,29.33,55.6,5.58,48,38.1,12.8,25.3,76.4,76.4,76.4,Regional Contender
+21,2,Northside - Jacksonville,NC,5A,NCHSAA 5A,Jacksonville,10-0,10,0,0,10,79.1,79.1,29.08,53.4,3.41,95,38.8,10.1,28.7,85.09,85.09,85.09,Regional Contender
+22,2,Jacksonville,NC,6A,NCHSAA 6A,Jacksonville,7-2,7,2,0,9,79.1,79.1,29.06,56.8,6.81,29,43.4,14.1,29.3,75.3,75.3,75.3,Regional Contender
+23,8,Rolesville,NC,8A,NCHSAA 8A,Rolesville,7-2,7,2,0,9,79.0,79.0,28.96,58.3,8.3,14,40.7,10.3,30.4,75.25,75.25,75.25,Regional Contender
+24,3,Jay M. Robinson,NC,5A,NCHSAA 5A,Concord,10-0,10,0,0,10,77.5,77.5,27.48,50.0,-0.04,193,44.0,4.0,40.0,84.37,84.37,84.37,Regional Contender
+25,12,Southeast Raleigh,NC,7A,NCHSAA 7A,Raleigh,8-3,8,3,0,11,77.2,77.2,27.2,55.8,5.79,43,37.5,14.6,22.9,72.24,72.24,72.24,Regional Contender
+26,3,Middle Creek,NC,6A,NCHSAA 6A,Apex,8-2,8,2,0,10,77.2,77.2,27.18,55.5,5.51,51,43.9,19.4,24.5,75.43,75.43,75.43,Regional Contender
+27,13,New Bern,NC,7A,NCHSAA 7A,New Bern,7-3,7,3,0,10,76.5,76.5,26.54,57.5,7.51,23,35.3,27.6,7.7,70.74,70.74,70.74,Regional Contender
+28,9,Hoggard,NC,8A,NCHSAA 8A,Wilmington,9-1,9,1,0,10,76.3,76.3,26.3,55.0,4.97,61,38.5,8.8,29.7,79.44,79.44,79.44,Regional Contender
+29,4,Northern Nash,NC,6A,NCHSAA 6A,Rocky Mount,8-2,8,2,0,10,75.3,75.3,25.28,54.6,4.59,71,41.1,10.2,30.9,74.58,74.58,74.58,Regional Contender
+30,4,Monroe,NC,5A,NCHSAA 5A,Monroe,8-2,8,2,0,10,75.1,75.1,25.07,55.7,5.69,47,35.5,11.4,24.1,74.48,74.48,74.48,Regional Contender
+31,5,South Point,NC,5A,NCHSAA 5A,Belmont,9-1,9,1,0,10,74.9,74.9,24.93,55.5,5.48,52,36.9,15.6,21.3,78.82,78.82,78.82,Regional Contender
+32,1,Shelby,NC,3A,NCHSAA 3A,Shelby,9-1,9,1,0,10,74.7,74.7,24.74,52.9,2.93,108,40.6,15.5,25.1,78.73,78.73,78.73,Regional Contender
+33,5,T.C. Roberson,NC,6A,NCHSAA 6A,Asheville,8-2,8,2,0,10,74.5,74.5,24.48,53.3,3.34,101,42.2,11.6,30.6,74.22,74.22,74.22,Regional Contender
+34,14,Page,NC,7A,NCHSAA 7A,Greensboro,9-1,9,1,0,10,74.3,74.3,24.35,50.7,0.7,171,46.2,12.1,34.1,78.56,78.56,78.56,Regional Contender
+35,15,Marvin Ridge,NC,7A,NCHSAA 7A,Waxhaw,9-1,9,1,0,10,74.1,74.1,24.12,54.8,4.78,64,39.1,16.6,22.5,78.45,78.45,78.45,Regional Contender
+36,6,Oak Grove,NC,5A,NCHSAA 5A,Winston-Salem,8-2,8,2,0,10,73.9,73.9,23.86,52.8,2.78,111,40.3,8.0,32.3,73.94,73.94,73.94,Regional Contender
+37,1,Tarboro,NC,2A,NCHSAA 2A,Tarboro,9-1,9,1,0,10,73.2,73.2,23.24,49.8,-0.16,201,46.0,17.3,28.7,78.06,78.06,78.06,Regional Contender
+38,16,Southern School of Energy and Sustainability,NC,7A,NCHSAA 7A,Durham,9-1,9,1,0,10,72.9,72.9,22.91,48.9,-1.09,226,41.8,9.0,32.8,77.91,77.91,77.91,Regional Contender
+39,17,Wake Forest,NC,7A,NCHSAA 7A,Wake Forest,8-2,8,2,0,10,72.7,72.7,22.66,53.5,3.49,89,38.6,9.8,28.8,73.4,73.4,73.4,Regional Contender
+40,7,Franklin,NC,5A,NCHSAA 5A,Franklin,10-0,10,0,0,10,72.5,72.5,22.47,49.6,-0.37,209,40.4,12.0,28.4,82.11,82.11,82.11,Regional Contender
+41,1,Hibriten,NC,4A,NCHSAA 4A,Lenoir,10-0,10,0,0,10,72.3,72.3,22.32,46.0,-3.97,290,45.8,7.6,38.2,82.04,82.04,82.04,Regional Contender
+42,8,Hickory,NC,5A,NCHSAA 5A,Hickory,8-3,8,3,0,11,72.2,72.2,22.18,54.6,4.59,72,46.5,20.1,26.4,69.98,69.98,69.98,Regional Contender
+43,18,Butler,NC,7A,NCHSAA 7A,Matthews,5-6,5,6,0,11,72.1,72.1,22.08,59.2,9.2,7,20.5,25.5,-5.0,57.94,57.94,57.94,Regional Contender
+44,6,Sun Valley,NC,6A,NCHSAA 6A,Monroe,6-5,6,5,0,11,72.1,72.1,22.06,58.4,8.38,13,22.7,24.8,-2.1,61.93,61.93,61.93,Regional Contender
+45,7,Kings Mountain,NC,6A,NCHSAA 6A,Kings Mountain,7-3,7,3,0,10,71.9,71.9,21.94,55.4,5.41,53,37.0,14.2,22.8,68.67,68.67,68.67,Regional Contender
+46,8,Asheville,NC,6A,NCHSAA 6A,Asheville,9-1,9,1,0,10,71.9,71.9,21.87,55.9,5.92,42,40.4,21.2,19.2,77.44,77.44,77.44,Regional Contender
+47,2,Stuart W. Cramer,NC,4A,NCHSAA 4A,Belmont,8-2,8,2,0,10,71.8,71.8,21.77,47.9,-2.06,249,43.9,9.6,34.3,73.0,73.0,73.0,Regional Contender
+48,3,Tuscola,NC,4A,NCHSAA 4A,Waynesville,9-1,9,1,0,10,71.7,71.7,21.73,49.4,-0.58,213,42.9,13.7,29.2,77.38,77.38,77.38,Regional Contender
+49,9,East Lincoln,NC,5A,NCHSAA 5A,Denver,9-1,9,1,0,10,71.7,71.7,21.72,53.6,3.64,88,43.1,19.4,23.7,77.37,77.37,77.37,Regional Contender
+50,2,Corvian Community,NC,2A,NCHSAA 2A,Charlotte,9-1,9,1,0,10,71.6,71.6,21.6,49.7,-0.33,206,37.8,14.0,23.8,77.32,77.32,77.32,Regional Contender
+51,9,Seventy-First,NC,6A,NCHSAA 6A,Fayetteville,10-1,10,1,0,11,71.3,71.3,21.33,50.1,0.13,190,40.5,11.5,29.0,77.6,77.6,77.6,Regional Contender
+52,10,Scotland,NC,6A,NCHSAA 6A,Laurinburg,9-1,9,1,0,10,71.2,71.2,21.21,53.0,2.95,107,36.1,11.2,24.9,77.14,77.14,77.14,Regional Contender
+53,10,Southeast Alamance,NC,5A,NCHSAA 5A,Haw River,10-0,10,0,0,10,70.9,70.9,20.92,52.2,2.17,126,47.5,23.4,24.1,81.41,81.41,81.41,Regional Contender
+54,3,Warren County,NC,2A,NCHSAA 2A,Warrenton,10-0,10,0,0,10,70.7,70.7,20.73,42.0,-8.04,360,44.4,1.2,43.2,81.33,81.33,81.33,Regional Contender
+55,2,North Stanly,NC,3A,NCHSAA 3A,New London,10-0,10,0,0,10,70.5,70.5,20.52,46.3,-3.7,287,44.8,9.0,35.8,81.23,81.23,81.23,Regional Contender
+56,4,Burns,NC,4A,NCHSAA 4A,Lawndale,7-3,7,3,0,10,69.7,69.7,19.71,53.1,3.15,104,38.1,19.5,18.6,67.67,67.67,67.67,Playoff Qualifier
+57,4,Holmes,NC,2A,NCHSAA 2A,Edenton,8-1,8,1,0,9,69.7,69.7,19.7,46.8,-3.22,277,46.6,15.7,30.9,75.98,75.98,75.98,Playoff Qualifier
+58,11,Mount Tabor,NC,6A,NCHSAA 6A,Winston-Salem,6-4,6,4,0,10,69.6,69.6,19.64,57.0,6.97,28,25.4,17.0,8.4,63.24,63.24,63.24,Playoff Qualifier
+59,3,Northeastern,NC,3A,NCHSAA 3A,Elizabeth City,9-1,9,1,0,10,69.6,69.6,19.56,51.2,1.18,149,43.4,22.4,21.0,76.4,76.4,76.4,Playoff Qualifier
+60,10,Palisades,NC,8A,NCHSAA 8A,Charlotte,9-2,9,2,0,11,69.5,69.5,19.46,53.7,3.66,87,35.6,14.1,21.5,72.76,72.76,72.76,Playoff Qualifier
+61,12,Union Pines,NC,6A,NCHSAA 6A,Cameron,9-1,9,1,0,10,69.3,69.3,19.35,49.4,-0.59,214,38.4,12.4,26.0,76.31,76.31,76.31,Playoff Qualifier
+62,19,Richmond Senior,NC,7A,NCHSAA 7A,Rockingham,5-6,5,6,0,11,69.2,69.2,19.21,57.3,7.31,24,26.7,22.0,4.7,56.64,56.64,56.64,Varsity Program
+63,5,Reidsville,NC,4A,NCHSAA 4A,Reidsville,7-3,7,3,0,10,69.1,69.1,19.14,49.1,-0.87,222,38.9,12.7,26.2,67.41,67.41,67.41,Playoff Qualifier
+64,13,Southern Alamance,NC,6A,NCHSAA 6A,Graham,8-2,8,2,0,10,69.1,69.1,19.09,53.4,3.38,96,40.2,21.7,18.5,71.79,71.79,71.79,Playoff Qualifier
+65,11,Eastern Alamance,NC,5A,NCHSAA 5A,Mebane,7-2,7,2,0,9,69.0,69.0,19.05,52.4,2.43,122,40.3,22.3,18.0,70.79,70.79,70.79,Playoff Qualifier
+66,4,James Kenan,NC,3A,NCHSAA 3A,Warsaw,8-1,8,1,0,9,68.8,68.8,18.76,48.6,-1.43,234,36.3,11.8,24.5,75.55,75.55,75.55,Playoff Qualifier
+67,5,Lincolnton,NC,3A,NCHSAA 3A,Lincolnton,7-3,7,3,0,10,68.5,68.5,18.48,50.8,0.79,167,44.4,17.5,26.9,67.12,67.12,67.12,Playoff Qualifier
+68,11,Pinecrest,NC,8A,NCHSAA 8A,Southern Pines,8-3,8,3,0,11,68.4,68.4,18.41,56.7,6.71,31,37.0,26.3,10.7,68.28,68.28,68.28,Playoff Qualifier
+69,12,Croatan,NC,5A,NCHSAA 5A,Newport,9-1,9,1,0,10,67.8,67.8,17.83,50.2,0.19,187,37.5,15.0,22.5,75.62,75.62,75.62,Playoff Qualifier
+70,14,Charlotte Catholic,NC,6A,NCHSAA 6A,Charlotte,7-4,7,4,0,11,67.7,67.7,17.73,56.2,6.21,38,25.2,19.5,5.7,63.98,63.98,63.98,Playoff Qualifier
+71,6,West Iredell,NC,4A,NCHSAA 4A,Statesville,9-1,9,1,0,10,67.6,67.6,17.64,51.9,1.93,135,40.5,18.7,21.8,75.54,75.54,75.54,Playoff Qualifier
+72,13,Hunt,NC,5A,NCHSAA 5A,Wilson,9-1,9,1,0,10,67.5,67.5,17.54,52.5,2.51,120,33.9,22.1,11.8,75.49,75.49,75.49,Playoff Qualifier
+73,20,Hickory Ridge,NC,7A,NCHSAA 7A,Harrisburg,9-2,9,2,0,11,67.5,67.5,17.45,49.4,-0.56,215,44.1,8.0,36.1,71.85,71.85,71.85,Playoff Qualifier
+74,21,Davie County,NC,7A,NCHSAA 7A,Mocksville,7-4,7,4,0,11,67.3,67.3,17.34,56.2,6.22,39,33.8,25.5,8.3,63.8,63.8,63.8,Playoff Qualifier
+75,12,Apex Friendship,NC,8A,NCHSAA 8A,Apex,10-0,10,0,0,10,67.0,67.0,17.04,49.4,-0.61,216,33.2,11.2,22.0,79.67,79.67,79.67,Playoff Qualifier
+76,7,West Craven,NC,4A,NCHSAA 4A,Vanceboro,8-2,8,2,0,10,67.0,67.0,16.99,48.2,-1.76,244,38.8,15.3,23.5,70.85,70.85,70.85,Playoff Qualifier
+77,14,Fike,NC,5A,NCHSAA 5A,Wilson,8-2,8,2,0,10,66.9,66.9,16.88,49.5,-0.49,212,45.3,15.4,29.9,70.8,70.8,70.8,Playoff Qualifier
+78,1,Northside - Pinetown,NC,1A,NCHSAA 1A,Pinetown,10-0,10,0,0,10,66.5,66.5,16.49,40.7,-9.26,372,41.7,6.9,34.8,79.42,79.42,79.42,Playoff Qualifier
+79,15,Williams,NC,6A,NCHSAA 6A,Burlington,6-2,6,2,0,8,66.2,66.2,16.15,54.2,4.24,78,26.8,18.6,8.2,68.27,68.27,68.27,Playoff Qualifier
+80,8,T.W. Andrews,NC,4A,NCHSAA 4A,High Point,9-1,9,1,0,10,66.1,66.1,16.14,48.9,-1.14,227,36.3,10.6,25.7,74.86,74.86,74.86,Playoff Qualifier
+81,13,Leesville Road,NC,8A,NCHSAA 8A,Raleigh,7-4,7,4,0,11,66.0,66.0,15.97,55.6,5.65,49,27.5,15.6,11.9,63.19,63.19,63.19,Playoff Qualifier
+82,9,East Duplin,NC,4A,NCHSAA 4A,Beulaville,9-1,9,1,0,10,65.6,65.6,15.59,49.2,-0.75,220,34.1,14.4,19.7,74.62,74.62,74.62,Playoff Qualifier
+83,16,Northern Guilford,NC,6A,NCHSAA 6A,Greensboro,7-4,7,4,0,11,65.4,65.4,15.42,53.4,3.43,97,36.6,27.8,8.8,62.94,62.94,62.94,Playoff Qualifier
+84,6,Eastern Randolph,NC,3A,NCHSAA 3A,Ramseur,7-3,7,3,0,10,65.2,65.2,15.22,49.7,-0.34,207,31.4,13.1,18.3,65.65,65.65,65.65,Playoff Qualifier
+85,22,Independence,NC,7A,NCHSAA 7A,Charlotte,2-9,2,9,0,11,64.9,64.9,14.93,60.5,10.49,3,8.7,25.8,-17.1,42.72,42.72,42.72,Varsity Program
+86,7,Midway,NC,3A,NCHSAA 3A,Dunn,8-1,8,1,0,9,64.9,64.9,14.89,48.3,-1.67,243,39.6,21.8,17.8,73.81,73.81,73.81,Playoff Qualifier
+87,15,Havelock,NC,5A,NCHSAA 5A,Havelock,5-5,5,5,0,10,64.2,64.2,14.22,56.0,5.98,41,33.9,26.8,7.1,56.4,56.4,56.4,Playoff Qualifier
+88,23,D.H. Conley,NC,7A,NCHSAA 7A,Greenville,7-4,7,4,0,11,64.2,64.2,14.2,55.6,5.63,50,35.3,33.8,1.5,62.39,62.39,62.39,Playoff Qualifier
+89,17,Ashbrook,NC,6A,NCHSAA 6A,Gastonia,6-5,6,5,0,11,63.9,63.9,13.85,54.4,4.36,75,31.4,22.3,9.1,58.23,58.23,58.23,Playoff Qualifier
+90,8,Hendersonville,NC,3A,NCHSAA 3A,Hendersonville,10-0,10,0,0,10,63.8,63.8,13.78,45.3,-4.7,306,40.0,16.3,23.7,78.2,78.2,78.2,Playoff Qualifier
+91,5,Starmount,NC,2A,NCHSAA 2A,Boonville,9-1,9,1,0,10,63.8,63.8,13.76,46.6,-3.36,280,38.7,14.7,24.0,73.79,73.79,73.79,Playoff Qualifier
+92,9,Whiteville,NC,3A,NCHSAA 3A,Whiteville,9-0,9,0,0,9,63.6,63.6,13.6,45.9,-4.15,292,37.7,15.5,22.2,78.12,78.12,78.12,Playoff Qualifier
+93,16,West Rowan,NC,5A,NCHSAA 5A,Mt. Ulla,8-2,8,2,0,10,63.6,63.6,13.56,51.4,1.39,143,39.3,22.5,16.8,69.3,69.3,69.3,Playoff Qualifier
+94,14,Laney,NC,8A,NCHSAA 8A,Wilmington,6-5,6,5,0,11,63.5,63.5,13.55,57.7,7.69,19,25.5,24.0,1.5,58.1,58.1,58.1,Playoff Qualifier
+95,18,Asheboro,NC,6A,NCHSAA 6A,Asheboro,9-1,9,1,0,10,63.5,63.5,13.53,50.2,0.25,188,31.6,14.7,16.9,73.69,73.69,73.69,Playoff Qualifier
+96,10,Wallace-Rose Hill,NC,3A,NCHSAA 3A,Teachey,6-4,6,4,0,10,63.5,63.5,13.47,47.8,-2.25,255,36.3,10.5,25.8,60.46,60.46,60.46,Playoff Qualifier
+97,11,Thomasville,NC,3A,NCHSAA 3A,Thomasville,9-1,9,1,0,10,63.4,63.4,13.44,43.2,-6.77,348,42.8,9.4,33.4,73.65,73.65,73.65,Playoff Qualifier
+98,6,Community School of Davidson,NC,2A,NCHSAA 2A,Davidson,7-3,7,3,0,10,63.3,63.3,13.33,48.4,-1.58,240,31.2,14.6,16.6,64.8,64.8,64.8,Playoff Qualifier
+99,19,Dudley,NC,6A,NCHSAA 6A,Greensboro,6-4,6,4,0,10,63.2,63.2,13.16,55.2,5.2,57,28.0,22.6,5.4,60.32,60.32,60.32,Playoff Qualifier
+100,24,Cape Fear,NC,7A,NCHSAA 7A,Fayetteville,8-2,8,2,0,10,63.0,63.0,12.99,50.3,0.31,184,37.4,15.2,22.2,69.05,69.05,69.05,Playoff Qualifier
+101,15,Providence,NC,8A,NCHSAA 8A,Charlotte,5-6,5,6,0,11,63.0,63.0,12.95,55.8,5.76,44,26.4,25.8,0.6,53.83,53.83,53.83,Varsity Program
+102,17,Smoky Mountain,NC,5A,NCHSAA 5A,Sylva,9-2,9,2,0,11,62.5,62.5,12.46,47.5,-2.48,262,43.5,15.3,28.2,69.61,69.61,69.61,Playoff Qualifier
+103,20,Freedom,NC,6A,NCHSAA 6A,Morganton,8-2,8,2,0,10,62.1,62.1,12.13,47.9,-2.08,250,31.4,14.6,16.8,68.66,68.66,68.66,Playoff Qualifier
+104,16,Jordan,NC,8A,NCHSAA 8A,Durham,8-3,8,3,0,11,62.0,62.0,12.03,52.0,2.05,130,36.6,22.1,14.5,65.41,65.41,65.41,Playoff Qualifier
+105,18,North Davidson,NC,5A,NCHSAA 5A,Lexington,8-3,8,3,0,11,62.0,62.0,12.01,50.5,0.47,181,32.9,16.1,16.8,65.4,65.4,65.4,Playoff Qualifier
+106,17,Hoke County,NC,8A,NCHSAA 8A,Raeford,5-6,5,6,0,11,61.4,61.4,11.42,57.3,7.28,25,24.4,27.5,-3.1,53.14,53.14,53.14,Varsity Program
+107,18,Ardrey Kell,NC,8A,NCHSAA 8A,Charlotte,7-4,7,4,0,11,61.4,61.4,11.37,53.9,3.92,85,28.4,22.1,6.3,61.12,61.12,61.12,Playoff Qualifier
+108,19,Green Hope,NC,8A,NCHSAA 8A,Cary,9-2,9,2,0,11,61.4,61.4,11.36,47.9,-2.1,251,34.8,12.6,22.2,69.11,69.11,69.11,Playoff Qualifier
+109,12,Walkertown,NC,3A,NCHSAA 3A,Walkertown,9-1,9,1,0,10,61.2,61.2,11.19,44.5,-5.55,331,33.6,10.2,23.4,72.64,72.64,72.64,Playoff Qualifier
+110,13,Martin County,NC,3A,NCHSAA 3A,Williamston,7-3,7,3,0,10,61.0,61.0,11.0,49.7,-0.31,208,32.7,19.7,13.0,63.75,63.75,63.75,Playoff Qualifier
+111,7,Murphy,NC,2A,NCHSAA 2A,Murphy,8-2,8,2,0,10,60.6,60.6,10.61,47.1,-2.88,270,31.2,17.8,13.4,67.97,67.97,67.97,Playoff Qualifier
+112,19,Seaforth,NC,5A,NCHSAA 5A,Pittsboro,9-1,9,1,0,10,60.5,60.5,10.48,44.0,-6.04,338,44.9,15.7,29.2,72.32,72.32,72.32,Playoff Qualifier
+113,20,Forest Hills,NC,5A,NCHSAA 5A,Marshville,9-2,9,2,0,11,59.7,59.7,9.69,50.7,0.73,172,28.4,15.9,12.5,68.36,68.36,68.36,Playoff Qualifier
+114,10,West Stokes,NC,4A,NCHSAA 4A,King,8-2,8,2,0,10,59.7,59.7,9.68,47.9,-2.06,252,36.0,19.6,16.4,67.56,67.56,67.56,Playoff Qualifier
+115,14,Mount Airy,NC,3A,NCHSAA 3A,Mount Airy,7-3,7,3,0,10,59.7,59.7,9.66,50.4,0.37,182,24.7,22.2,2.5,63.15,63.15,63.15,Playoff Qualifier
+116,2,Robbinsville,NC,1A,NCHSAA 1A,Robbinsville,5-5,5,5,0,10,59.3,59.3,9.26,47.7,-2.28,257,23.1,12.4,10.7,54.17,54.17,54.17,Playoff Qualifier
+117,25,Porter Ridge,NC,7A,NCHSAA 7A,Indian Trail,4-7,4,7,0,11,59.2,59.2,9.25,57.6,7.65,22,15.3,25.8,-10.5,48.16,48.16,48.16,Varsity Program
+118,8,East Wilkes,NC,2A,NCHSAA 2A,Ronda,6-4,6,4,0,10,59.2,59.2,9.23,47.6,-2.42,260,33.4,17.1,16.3,58.55,58.55,58.55,Playoff Qualifier
+119,26,Jack Britt,NC,7A,NCHSAA 7A,Fayetteville,6-5,6,5,0,11,59.2,59.2,9.18,55.3,5.33,55,23.1,24.4,-1.3,56.13,56.13,56.13,Playoff Qualifier
+120,21,Harnett Central,NC,6A,NCHSAA 6A,Angier,9-2,9,2,0,11,58.9,58.9,8.89,46.3,-3.7,288,44.4,24.6,19.8,68.0,68.0,68.0,Playoff Qualifier
+121,3,Wilson Prep Academy,NC,1A,NCHSAA 1A,Wilson,6-4,6,4,0,10,58.8,58.8,8.79,47.9,-2.14,253,30.2,20.5,9.7,58.36,58.36,58.36,Playoff Qualifier
+122,27,Fuquay-Varina,NC,7A,NCHSAA 7A,Fuquay Varina,4-7,4,7,0,11,58.7,58.7,8.71,57.1,7.14,27,27.1,34.4,-7.3,47.92,47.92,47.92,Varsity Program
+123,22,Alexander Central,NC,6A,NCHSAA 6A,Taylorsville,8-2,8,2,0,10,58.6,58.6,8.58,49.4,-0.58,217,35.4,19.1,16.3,67.06,67.06,67.06,Playoff Qualifier
+124,11,Mount Pleasant,NC,4A,NCHSAA 4A,Mount Pleasant,7-3,7,3,0,10,58.3,58.3,8.26,52.3,2.29,124,22.3,20.2,2.1,62.52,62.52,62.52,Playoff Qualifier
+125,12,Maiden,NC,4A,NCHSAA 4A,Maiden,6-5,6,5,0,11,58.0,58.0,7.99,54.8,4.76,65,28.1,30.7,-2.6,55.6,55.6,55.6,Playoff Qualifier
+126,28,South Central,NC,7A,NCHSAA 7A,Winterville,4-7,4,7,0,11,57.8,57.8,7.8,56.2,6.16,40,31.0,34.4,-3.4,47.51,47.51,47.51,Varsity Program
+127,29,Ashley,NC,7A,NCHSAA 7A,Wilmington,7-4,7,4,0,11,57.3,57.3,7.32,54.6,4.63,73,22.9,20.1,2.8,59.29,59.29,59.29,Playoff Qualifier
+128,21,Rocky Mount,NC,5A,NCHSAA 5A,Rocky Mount,7-4,7,4,0,11,57.2,57.2,7.2,51.0,0.96,157,30.3,21.2,9.1,59.24,59.24,59.24,Playoff Qualifier
+129,15,Hertford County,NC,3A,NCHSAA 3A,Ahoskie,6-4,6,4,0,10,57.2,57.2,7.19,50.0,0.0,194,35.1,27.6,7.5,57.64,57.64,57.64,Playoff Qualifier
+130,13,SouthWest Edgecombe,NC,4A,NCHSAA 4A,Pinetops,7-3,7,3,0,10,57.1,57.1,7.11,48.5,-1.54,237,30.1,20.6,9.5,62.0,62.0,62.0,Playoff Qualifier
+131,9,North Rowan,NC,2A,NCHSAA 2A,Spencer,7-3,7,3,0,10,57.0,57.0,6.99,46.5,-3.53,281,35.2,18.6,16.6,61.95,61.95,61.95,Playoff Qualifier
+132,14,Clinton,NC,4A,NCHSAA 4A,Clinton,7-3,7,3,0,10,56.9,56.9,6.92,48.4,-1.6,241,31.0,19.4,11.6,61.91,61.91,61.91,Playoff Qualifier
+133,30,Topsail,NC,7A,NCHSAA 7A,Hampstead,5-6,5,6,0,11,56.9,56.9,6.86,56.4,6.44,35,20.0,24.5,-4.5,51.09,51.09,51.09,Varsity Program
+134,23,Triton,NC,6A,NCHSAA 6A,Erwin,10-1,10,1,0,11,56.7,56.7,6.73,47.7,-2.26,258,36.4,21.3,15.1,71.03,71.03,71.03,Playoff Qualifier
+135,22,St. Pauls,NC,5A,NCHSAA 5A,St Pauls,8-3,8,3,0,11,56.6,56.6,6.56,47.0,-2.98,272,30.2,15.6,14.6,62.95,62.95,62.95,Playoff Qualifier
+136,24,Westover,NC,6A,NCHSAA 6A,Fayetteville,7-4,7,4,0,11,56.4,56.4,6.37,50.6,0.64,175,25.8,13.8,12.0,58.87,58.87,58.87,Playoff Qualifier
+137,10,Alleghany,NC,2A,NCHSAA 2A,Sparta,7-3,7,3,0,10,56.4,56.4,6.36,47.0,-3.02,273,26.3,15.1,11.2,61.66,61.66,61.66,Playoff Qualifier
+138,23,Northeast Guilford,NC,5A,NCHSAA 5A,McLeansville,1-9,1,9,0,10,56.3,56.3,6.32,52.8,2.82,112,33.8,18.0,15.8,35.24,35.24,35.24,Varsity Program
+139,16,Pasquotank County,NC,3A,NCHSAA 3A,Elizabeth City,6-4,6,4,0,10,56.3,56.3,6.3,48.6,-1.41,235,24.6,21.7,2.9,57.23,57.23,57.23,Playoff Qualifier
+140,25,Watauga,NC,6A,NCHSAA 6A,Boone,6-5,6,5,0,11,56.3,56.3,6.27,51.1,1.08,151,31.5,27.4,4.1,54.82,54.82,54.82,Playoff Qualifier
+141,17,Greene Central,NC,3A,NCHSAA 3A,Snow Hill,7-4,7,4,0,11,56.1,56.1,6.14,45.1,-4.85,318,42.7,22.7,20.0,58.76,58.76,58.76,Playoff Qualifier
+142,18,Princeton,NC,3A,NCHSAA 3A,Princeton,6-5,6,5,0,11,56.0,56.0,5.97,48.4,-1.62,242,45.3,28.5,16.8,54.69,54.69,54.69,Playoff Qualifier
+143,11,Cherryville,NC,2A,NCHSAA 2A,Cherryville,7-4,7,4,0,11,55.9,55.9,5.92,47.5,-2.55,263,39.4,27.3,12.1,58.66,58.66,58.66,Playoff Qualifier
+144,31,Holly Springs,NC,7A,NCHSAA 7A,Holly Springs,6-5,6,5,0,11,55.9,55.9,5.91,53.5,3.55,90,24.3,21.0,3.3,54.66,54.66,54.66,Playoff Qualifier
+145,24,Northwest Cabarrus,NC,5A,NCHSAA 5A,Concord,7-4,7,4,0,11,55.9,55.9,5.87,51.0,0.97,158,31.1,25.5,5.6,58.64,58.64,58.64,Playoff Qualifier
+146,26,Statesville,NC,6A,NCHSAA 6A,Statesville,4-7,4,7,0,11,55.8,55.8,5.84,53.9,3.85,86,20.8,23.0,-2.2,46.63,46.63,46.63,Varsity Program
+147,15,R-S Central,NC,4A,NCHSAA 4A,Rutherfordton,8-3,8,3,0,11,55.8,55.8,5.82,47.6,-2.4,261,38.7,24.8,13.9,62.62,62.62,62.62,Playoff Qualifier
+148,16,Bunker Hill,NC,4A,NCHSAA 4A,Claremont,7-4,7,4,0,11,55.7,55.7,5.73,51.9,1.88,136,30.3,27.6,2.7,58.58,58.58,58.58,Playoff Qualifier
+149,19,Mountain Heritage,NC,3A,NCHSAA 3A,Burnsville,8-3,8,3,0,11,55.6,55.6,5.64,45.3,-4.7,307,32.2,20.8,11.4,62.54,62.54,62.54,Playoff Qualifier
+150,27,Ragsdale,NC,6A,NCHSAA 6A,Jamestown,6-5,6,5,0,11,55.6,55.6,5.61,51.5,1.48,142,25.1,16.2,8.9,54.52,54.52,54.52,Playoff Qualifier
+151,12,Mitchell,NC,2A,NCHSAA 2A,Bakersville,7-3,7,3,0,10,55.3,55.3,5.31,45.2,-4.82,313,27.9,12.8,15.1,61.19,61.19,61.19,Playoff Qualifier
+152,28,Franklinton,NC,6A,NCHSAA 6A,Franklinton,8-3,8,3,0,11,55.3,55.3,5.28,47.7,-2.28,259,38.0,19.5,18.5,62.38,62.38,62.38,Playoff Qualifier
+153,25,Enka,NC,5A,NCHSAA 5A,Enka,9-2,9,2,0,11,55.1,55.1,5.14,49.2,-0.76,221,33.7,22.7,11.0,66.31,66.31,66.31,Playoff Qualifier
+154,26,Parkwood,NC,5A,NCHSAA 5A,Monroe,6-5,6,5,0,11,55.1,55.1,5.08,53.5,3.47,91,25.7,25.5,0.2,54.29,54.29,54.29,Playoff Qualifier
+155,20,Broughton,NC,8A,NCHSAA 8A,Raleigh,5-6,5,6,0,11,54.6,54.6,4.65,55.4,5.4,54,23.2,33.3,-10.1,50.09,50.09,50.09,Varsity Program
+156,13,Christ the King,NC,2A,NCHSAA 2A,Huntersville,7-3,7,3,0,10,54.6,54.6,4.59,45.3,-4.69,308,31.5,14.9,16.6,60.87,60.87,60.87,Playoff Qualifier
+157,21,Panther Creek,NC,8A,NCHSAA 8A,Cary,6-5,6,5,0,11,54.3,54.3,4.29,53.4,3.38,98,23.5,23.5,0.0,53.93,53.93,53.93,Playoff Qualifier
+158,17,Pisgah,NC,4A,NCHSAA 4A,Canton,6-5,6,5,0,11,54.2,54.2,4.2,50.6,0.62,176,27.5,25.2,2.3,53.89,53.89,53.89,Playoff Qualifier
+159,32,Sanderson,NC,7A,NCHSAA 7A,Raleigh,6-5,6,5,0,11,54.0,54.0,4.04,51.0,1.01,159,28.9,22.5,6.4,53.82,53.82,53.82,Playoff Qualifier
+160,33,Hillside,NC,7A,NCHSAA 7A,Durham,7-4,7,4,0,11,54.0,54.0,4.03,49.6,-0.35,210,22.8,18.3,4.5,57.81,57.81,57.81,Playoff Qualifier
+161,29,A.C. Reynolds,NC,6A,NCHSAA 6A,Asheville,4-7,4,7,0,11,54.0,54.0,4.0,54.8,4.81,66,13.8,22.1,-8.3,45.8,45.8,45.8,Varsity Program
+162,18,Wilkes Central,NC,4A,NCHSAA 4A,Wilkesboro,8-3,8,3,0,11,53.7,53.7,3.69,43.4,-6.58,346,38.1,12.9,25.2,61.66,61.66,61.66,Playoff Qualifier
+163,19,Newton-Conover,NC,4A,NCHSAA 4A,Newton,4-7,4,7,0,11,53.6,53.6,3.61,54.1,4.12,79,25.1,30.1,-5.0,45.62,45.62,45.62,Varsity Program
+164,27,Western Alamance,NC,5A,NCHSAA 5A,Elon,6-5,6,5,0,11,53.6,53.6,3.6,52.2,2.21,127,24.9,23.1,1.8,53.62,53.62,53.62,Playoff Qualifier
+165,30,Swansboro,NC,6A,NCHSAA 6A,Swansboro,8-3,8,3,0,11,53.0,53.0,3.02,48.9,-1.11,228,24.5,15.0,9.5,61.36,61.36,61.36,Playoff Qualifier
+166,22,South Mecklenburg,NC,8A,NCHSAA 8A,Charlotte,4-7,4,7,0,11,52.6,52.6,2.64,55.8,5.81,45,19.7,29.7,-10.0,45.19,45.19,45.19,Varsity Program
+167,34,South Garner,NC,7A,NCHSAA 7A,Garner,4-7,4,7,0,11,52.6,52.6,2.57,54.4,4.39,76,22.7,28.0,-5.3,45.16,45.16,45.16,Varsity Program
+168,35,North Mecklenburg,NC,7A,NCHSAA 7A,Huntersville,3-7,3,7,0,10,52.5,52.5,2.47,54.0,4.0,82,18.6,19.9,-1.3,42.31,42.31,42.31,Varsity Program
+169,28,West Henderson,NC,5A,NCHSAA 5A,Hendersonville,6-5,6,5,0,11,52.3,52.3,2.29,51.0,1.02,160,26.8,27.5,-0.7,53.03,53.03,53.03,Playoff Qualifier
+170,14,Gates County,NC,2A,NCHSAA 2A,Gatesville,5-5,5,5,0,10,52.3,52.3,2.29,48.1,-1.87,245,22.1,16.7,5.4,51.03,51.03,51.03,Playoff Qualifier
+171,36,West Cabarrus,NC,7A,NCHSAA 7A,Concord,6-5,6,5,0,11,52.2,52.2,2.17,53.4,3.4,99,22.6,26.8,-4.2,52.98,52.98,52.98,Playoff Qualifier
+172,37,North Brunswick,NC,7A,NCHSAA 7A,Leland,6-5,6,5,0,11,52.1,52.1,2.11,52.7,2.71,115,18.1,21.1,-3.0,52.95,52.95,52.95,Playoff Qualifier
+173,20,Bandys,NC,4A,NCHSAA 4A,Catawba,3-8,3,8,0,11,52.0,52.0,2.05,55.2,5.2,58,21.6,33.3,-11.7,40.92,40.92,40.92,Varsity Program
+174,31,Eastern Guilford,NC,6A,NCHSAA 6A,Gibsonville,4-6,4,6,0,10,52.0,52.0,2.01,52.7,2.7,116,22.2,25.4,-3.2,46.5,46.5,46.5,Varsity Program
+175,20,CHASE,NC,3A,NCHSAA 3A,Forest City,8-2,8,2,0,10,52.0,52.0,1.99,44.5,-5.48,332,34.8,21.9,12.9,64.1,64.1,64.1,Playoff Qualifier
+176,29,Montgomery Central,NC,5A,NCHSAA 5A,Troy,6-5,6,5,0,11,52.0,52.0,1.99,51.1,1.09,152,27.2,26.3,0.9,52.9,52.9,52.9,Playoff Qualifier
+177,21,East Burke,NC,4A,NCHSAA 4A,Connelly Springs,6-5,6,5,0,11,51.6,51.6,1.65,49.1,-0.87,223,24.3,20.0,4.3,52.74,52.74,52.74,Playoff Qualifier
+178,23,Wakefield,NC,8A,NCHSAA 8A,Raleigh,4-7,4,7,0,11,51.6,51.6,1.64,56.4,6.42,36,27.0,43.9,-16.9,44.74,44.74,44.74,Varsity Program
+179,21,West Davidson,NC,3A,NCHSAA 3A,Lexington,8-3,8,3,0,11,51.6,51.6,1.63,43.5,-6.47,345,25.3,11.0,14.3,60.73,60.73,60.73,Playoff Qualifier
+180,38,Heritage,NC,7A,NCHSAA 7A,Wake Forest,5-6,5,6,0,11,51.5,51.5,1.55,54.1,4.14,80,20.6,26.6,-6.0,48.7,48.7,48.7,Varsity Program
+181,39,New Hanover,NC,7A,NCHSAA 7A,Wilmington,2-9,2,9,0,11,51.5,51.5,1.48,57.3,7.28,26,11.7,31.6,-19.9,36.67,36.67,36.67,Varsity Program
+182,30,North Lincoln,NC,5A,NCHSAA 5A,Lincolnton,4-7,4,7,0,11,51.3,51.3,1.34,54.8,4.79,67,20.7,32.1,-11.4,44.6,44.6,44.6,Varsity Program
+183,24,Northwest Guilford,NC,8A,NCHSAA 8A,Greensboro,2-8,2,8,0,10,51.3,51.3,1.28,58.7,8.69,12,17.0,41.8,-24.8,37.38,37.38,37.38,Varsity Program
+184,22,Farmville Central,NC,3A,NCHSAA 3A,Farmville,7-4,7,4,0,11,50.9,50.9,0.91,49.0,-1.0,225,39.9,37.4,2.5,56.41,56.41,56.41,Playoff Qualifier
+185,23,Kinston,NC,3A,NCHSAA 3A,Kinston,5-6,5,6,0,11,50.9,50.9,0.89,46.4,-3.61,283,31.8,25.5,6.3,48.4,48.4,48.4,Varsity Program
+186,24,West Wilkes,NC,3A,NCHSAA 3A,Millers Creek,8-3,8,3,0,11,50.7,50.7,0.7,44.6,-5.42,326,26.7,14.9,11.8,60.31,60.31,60.31,Playoff Qualifier
+187,31,Erwin,NC,5A,NCHSAA 5A,Asheville,4-7,4,7,0,11,50.5,50.5,0.51,53.4,3.4,100,29.5,35.5,-6.0,44.23,44.23,44.23,Varsity Program
+188,22,Ledford,NC,4A,NCHSAA 4A,Thomasville,5-6,5,6,0,11,50.5,50.5,0.49,51.4,1.36,144,21.9,26.1,-4.2,48.22,48.22,48.22,Varsity Program
+189,23,West Stanly,NC,4A,NCHSAA 4A,Oakboro,5-6,5,6,0,11,50.5,50.5,0.46,52.4,2.41,123,18.7,27.8,-9.1,48.21,48.21,48.21,Varsity Program
+190,32,Southern Nash,NC,5A,NCHSAA 5A,Bailey,5-6,5,6,0,11,50.4,50.4,0.4,53.1,3.14,105,23.3,30.2,-6.9,48.18,48.18,48.18,Varsity Program
+191,24,Randleman,NC,4A,NCHSAA 4A,Randleman,5-6,5,6,0,11,50.3,50.3,0.33,50.1,0.11,191,26.6,28.5,-1.9,48.15,48.15,48.15,Varsity Program
+192,40,Hopewell,NC,7A,NCHSAA 7A,Huntersville,5-6,5,6,0,11,50.3,50.3,0.29,53.5,3.53,92,20.3,24.8,-4.5,48.13,48.13,48.13,Varsity Program
+193,32,South View,NC,6A,NCHSAA 6A,Hope Mills,3-8,3,8,0,11,50.2,50.2,0.2,52.6,2.6,118,21.9,26.1,-4.2,40.09,40.09,40.09,Varsity Program
+194,33,Gray's Creek,NC,6A,NCHSAA 6A,Hope Mills,7-4,7,4,0,11,50.0,50.0,0.0,48.6,-1.39,236,24.1,21.2,2.9,56.0,56.0,56.0,Playoff Qualifier
+195,25,Lake Norman Charter,NC,4A,NCHSAA 4A,Huntersville,7-3,7,3,0,10,49.9,49.9,-0.11,47.2,-2.77,269,27.2,20.7,6.5,58.8,58.8,58.8,Playoff Qualifier
+196,34,Glenn,NC,6A,NCHSAA 6A,Kernersville,6-5,6,5,0,11,49.5,49.5,-0.48,50.7,0.66,173,14.4,12.5,1.9,52.0,52.0,52.0,Playoff Qualifier
+197,15,Lakewood,NC,2A,NCHSAA 2A,Roseboro,7-3,7,3,0,10,49.5,49.5,-0.49,45.0,-5.01,320,29.2,23.6,5.6,58.8,58.8,58.8,Playoff Qualifier
+198,25,Corinth Holders,NC,8A,NCHSAA 8A,Wendell,2-8,2,8,0,10,49.4,49.4,-0.6,56.7,6.68,32,15.9,26.6,-10.7,36.8,36.8,36.8,Varsity Program
+199,35,Terry Sanford,NC,6A,NCHSAA 6A,Fayetteville,4-7,4,7,0,11,49.3,49.3,-0.67,52.8,2.82,113,24.9,35.0,-10.1,44.0,44.0,44.0,Varsity Program
+200,26,Southwestern Randolph,NC,4A,NCHSAA 4A,Asheboro,7-3,7,3,0,10,49.2,49.2,-0.81,41.8,-8.16,361,36.1,17.6,18.5,58.8,58.8,58.8,Playoff Qualifier
+201,16,Manteo,NC,2A,NCHSAA 2A,Manteo,7-3,7,3,0,10,49.2,49.2,-0.82,45.9,-4.07,293,23.8,21.3,2.5,58.8,58.8,58.8,Playoff Qualifier
+202,36,St. Stephens,NC,6A,NCHSAA 6A,Hickory,3-8,3,8,0,11,49.0,49.0,-0.96,51.1,1.1,153,24.4,27.3,-2.9,40.0,40.0,40.0,Varsity Program
+203,41,Overhills,NC,7A,NCHSAA 7A,Spring Lake,4-7,4,7,0,11,49.0,49.0,-1.01,52.5,2.48,121,29.5,33.0,-3.5,44.0,44.0,44.0,Varsity Program
+204,42,Ballantyne Ridge,NC,7A,NCHSAA 7A,Charlotte,4-7,4,7,0,11,48.8,48.8,-1.17,51.4,1.43,145,25.8,28.8,-3.0,44.0,44.0,44.0,Varsity Program
+205,26,Apex,NC,8A,NCHSAA 8A,Apex,3-7,3,7,0,10,48.8,48.8,-1.17,51.0,1.04,161,21.4,21.5,-0.1,41.2,41.2,41.2,Varsity Program
+206,27,South Rowan,NC,4A,NCHSAA 4A,China Grove,7-4,7,4,0,11,48.6,48.6,-1.35,46.9,-3.14,275,30.8,24.9,5.9,56.0,56.0,56.0,Playoff Qualifier
+207,27,Enloe,NC,8A,NCHSAA 8A,Raleigh,4-6,4,6,0,10,48.6,48.6,-1.35,54.8,4.75,68,20.1,32.6,-12.5,45.6,45.6,45.6,Varsity Program
+208,17,Mountain Island Charter,NC,2A,NCHSAA 2A,Mt. Holly,8-2,8,2,0,10,48.6,48.6,-1.36,42.6,-7.4,356,26.8,18.1,8.7,63.2,63.2,63.2,Playoff Qualifier
+209,43,Pine Forest,NC,7A,NCHSAA 7A,Fayetteville,3-8,3,8,0,11,48.6,48.6,-1.41,55.0,5.0,62,14.4,33.5,-19.1,40.0,40.0,40.0,Varsity Program
+210,25,South Columbus,NC,3A,NCHSAA 3A,Tabor City,7-4,7,4,0,11,48.5,48.5,-1.5,45.0,-4.98,321,23.4,18.5,4.9,56.0,56.0,56.0,Playoff Qualifier
+211,37,Olympic,NC,6A,NCHSAA 6A,Charlotte,4-7,4,7,0,11,48.5,48.5,-1.5,52.3,2.32,125,16.6,25.8,-9.2,44.0,44.0,44.0,Varsity Program
+212,38,Piedmont,NC,6A,NCHSAA 6A,Monroe,3-8,3,8,0,11,48.4,48.4,-1.59,54.9,4.93,63,24.3,36.0,-11.7,40.0,40.0,40.0,Varsity Program
+213,28,Willow Spring,NC,8A,NCHSAA 8A,Fuquay-Varina,3-8,3,8,0,11,48.3,48.3,-1.68,54.0,4.04,83,27.0,39.4,-12.4,40.0,40.0,40.0,Varsity Program
+214,28,Fairmont,NC,4A,NCHSAA 4A,Fairmont,6-5,6,5,0,11,48.1,48.1,-1.92,46.4,-3.65,284,28.2,21.1,7.1,52.0,52.0,52.0,Playoff Qualifier
+215,26,Providence Grove,NC,3A,NCHSAA 3A,Franklinville,7-4,7,4,0,11,47.8,47.8,-2.23,44.8,-5.18,325,27.5,18.5,9.0,56.0,56.0,56.0,Playoff Qualifier
+216,44,R.J. Reynolds,NC,7A,NCHSAA 7A,Winston-Salem,4-7,4,7,0,11,47.4,47.4,-2.62,51.9,1.92,137,16.9,22.9,-6.0,44.0,44.0,44.0,Varsity Program
+217,39,E.E. Smith,NC,6A,NCHSAA 6A,Fayetteville,2-8,2,8,0,10,47.4,47.4,-2.62,51.0,0.97,162,19.9,23.8,-3.9,36.8,36.8,36.8,Varsity Program
+218,29,Foard,NC,4A,NCHSAA 4A,Newton,3-8,3,8,0,11,47.2,47.2,-2.84,54.4,4.36,77,17.5,35.3,-17.8,40.0,40.0,40.0,Varsity Program
+219,30,Anson,NC,4A,NCHSAA 4A,Wadesboro,5-6,5,6,0,11,47.0,47.0,-3.0,48.8,-1.22,230,20.2,20.1,0.1,48.0,48.0,48.0,Varsity Program
+220,27,East Rutherford,NC,3A,NCHSAA 3A,Bostic,3-8,3,8,0,11,46.9,46.9,-3.13,51.7,1.67,139,25.4,36.0,-10.6,40.0,40.0,40.0,Varsity Program
+221,31,North Surry,NC,4A,NCHSAA 4A,Mount Airy,5-6,5,6,0,11,46.7,46.7,-3.29,47.5,-2.54,264,27.5,27.3,0.2,48.0,48.0,48.0,Varsity Program
+222,40,Central Cabarrus,NC,6A,NCHSAA 6A,Concord,3-8,3,8,0,11,46.6,46.6,-3.38,52.1,2.12,128,16.3,25.5,-9.2,40.0,40.0,40.0,Varsity Program
+223,28,Northwood,NC,3A,NCHSAA 3A,Pittsboro,6-5,6,5,0,11,46.6,46.6,-3.39,47.4,-2.64,268,24.4,24.1,0.3,52.0,52.0,52.0,Playoff Qualifier
+224,33,Huss,NC,5A,NCHSAA 5A,Gastonia,3-8,3,8,0,11,46.6,46.6,-3.42,54.0,3.95,84,22.5,30.5,-8.0,40.0,40.0,40.0,Varsity Program
+225,45,South Iredell,NC,7A,NCHSAA 7A,Statesville,2-9,2,9,0,11,46.6,46.6,-3.43,56.6,6.6,33,13.5,34.2,-20.7,36.0,36.0,36.0,Varsity Program
+226,29,West Lincoln,NC,3A,NCHSAA 3A,Lincolnton,4-7,4,7,0,11,46.4,46.4,-3.58,50.0,0.01,195,24.6,31.5,-6.9,44.0,44.0,44.0,Varsity Program
+227,32,Washington,NC,4A,NCHSAA 4A,Washington,4-7,4,7,0,11,46.3,46.3,-3.73,50.0,-0.01,196,20.6,24.9,-4.3,44.0,44.0,44.0,Varsity Program
+228,29,East Mecklenburg,NC,8A,NCHSAA 8A,Charlotte,4-6,4,6,0,10,46.2,46.2,-3.84,49.9,-0.08,199,20.2,25.0,-4.8,45.6,45.6,45.6,Varsity Program
+229,34,Currituck County,NC,5A,NCHSAA 5A,Barco,4-7,4,7,0,11,46.1,46.1,-3.89,49.3,-0.74,218,17.5,23.9,-6.4,44.0,44.0,44.0,Varsity Program
+230,30,Union Academy,NC,3A,NCHSAA 3A,Monroe,8-3,8,3,0,11,46.0,46.0,-4.04,43.6,-6.41,343,28.4,23.4,5.0,60.0,60.0,60.0,Playoff Qualifier
+231,35,Forestview,NC,5A,NCHSAA 5A,Gastonia,2-9,2,9,0,11,46.0,46.0,-4.04,55.3,5.33,56,16.2,36.3,-20.1,36.0,36.0,36.0,Varsity Program
+232,18,East Bladen,NC,2A,NCHSAA 2A,Elizabethtown,7-3,7,3,0,10,45.9,45.9,-4.08,43.6,-6.42,344,35.4,28.6,6.8,58.8,58.8,58.8,Playoff Qualifier
+233,36,Carson,NC,5A,NCHSAA 5A,China Grove,4-7,4,7,0,11,45.9,45.9,-4.09,50.6,0.61,177,26.5,33.7,-7.2,44.0,44.0,44.0,Varsity Program
+234,37,Rockingham County,NC,5A,NCHSAA 5A,Wentworth,4-7,4,7,0,11,45.8,45.8,-4.2,47.9,-2.12,254,23.1,23.8,-0.7,44.0,44.0,44.0,Varsity Program
+235,41,South Johnston,NC,6A,NCHSAA 6A,Four Oaks,5-6,5,6,0,11,45.8,45.8,-4.22,48.8,-1.22,231,27.8,26.3,1.5,48.0,48.0,48.0,Varsity Program
+236,42,West Brunswick,NC,6A,NCHSAA 6A,Shallotte,2-8,2,8,0,10,45.7,45.7,-4.27,54.1,4.09,81,21.3,34.2,-12.9,36.8,36.8,36.8,Varsity Program
+237,4,Chatham Central,NC,1A,NCHSAA 1A,Bear Creek,10-0,10,0,0,10,45.5,45.5,-4.46,39.0,-10.97,380,30.4,12.0,18.4,72.0,72.0,72.0,Playoff Qualifier
+238,31,East Surry,NC,3A,NCHSAA 3A,Pilot Mountain,5-6,5,6,0,11,45.5,45.5,-4.46,47.8,-2.16,256,29.4,31.2,-1.8,48.0,48.0,48.0,Varsity Program
+239,46,West Mecklenburg,NC,7A,NCHSAA 7A,Charlotte,2-8,2,8,0,10,45.5,45.5,-4.46,53.5,3.51,93,15.9,30.2,-14.3,36.8,36.8,36.8,Varsity Program
+240,38,North Henderson,NC,5A,NCHSAA 5A,Hendersonville,2-9,2,9,0,11,45.5,45.5,-4.54,53.1,3.12,106,17.5,30.9,-13.4,36.0,36.0,36.0,Varsity Program
+241,39,Orange,NC,5A,NCHSAA 5A,Hillsborough,7-4,7,4,0,11,45.2,45.2,-4.8,45.9,-4.13,294,29.2,21.5,7.7,56.0,56.0,56.0,Playoff Qualifier
+242,32,North Wilkes,NC,3A,NCHSAA 3A,Hays,5-6,5,6,0,11,45.1,45.1,-4.93,44.6,-5.41,327,29.4,21.9,7.5,48.0,48.0,48.0,Varsity Program
+243,33,Nash Central,NC,4A,NCHSAA 4A,Rocky Mount,4-7,4,7,0,11,44.9,44.9,-5.11,49.3,-0.7,219,16.0,23.2,-7.2,44.0,44.0,44.0,Varsity Program
+244,19,Cherokee,NC,2A,NCHSAA 2A,Cherokee,7-4,7,4,0,11,44.8,44.8,-5.22,45.2,-4.79,314,36.1,36.0,0.1,56.0,56.0,56.0,Playoff Qualifier
+245,40,South Granville,NC,5A,NCHSAA 5A,Creedmoor,7-4,7,4,0,11,44.5,44.5,-5.47,45.4,-4.56,302,25.5,19.9,5.6,56.0,56.0,56.0,Playoff Qualifier
+246,41,Person,NC,5A,NCHSAA 5A,Roxboro,2-9,2,9,0,11,44.5,44.5,-5.52,53.5,3.53,94,21.0,36.5,-15.5,36.0,36.0,36.0,Varsity Program
+247,34,Central Davidson,NC,4A,NCHSAA 4A,Lexington,4-7,4,7,0,11,44.4,44.4,-5.57,49.1,-0.91,224,27.2,32.5,-5.3,44.0,44.0,44.0,Varsity Program
+248,35,East Gaston,NC,4A,NCHSAA 4A,Mt. Holly,5-6,5,6,0,11,44.3,44.3,-5.73,49.8,-0.22,202,20.2,33.6,-13.4,48.0,48.0,48.0,Varsity Program
+249,43,White Oak,NC,6A,NCHSAA 6A,Jacksonville,2-8,2,8,0,10,44.2,44.2,-5.78,55.1,5.14,59,10.4,34.1,-23.7,36.8,36.8,36.8,Varsity Program
+250,36,Southwest Onslow,NC,4A,NCHSAA 4A,Jacksonville,5-6,5,6,0,11,44.2,44.2,-5.79,47.0,-2.96,274,26.0,24.0,2.0,48.0,48.0,48.0,Varsity Program
+251,33,Pender,NC,3A,NCHSAA 3A,Burgaw,4-7,4,7,0,11,44.2,44.2,-5.8,45.4,-4.6,303,31.6,26.8,4.8,44.0,44.0,44.0,Varsity Program
+252,47,East Wake,NC,7A,NCHSAA 7A,Wendell,3-8,3,8,0,11,44.1,44.1,-5.92,51.1,1.14,154,18.6,30.5,-11.9,40.0,40.0,40.0,Varsity Program
+253,34,Louisburg,NC,3A,NCHSAA 3A,Louisburg,8-3,8,3,0,11,44.0,44.0,-5.95,41.5,-8.45,363,22.9,14.1,8.8,60.0,60.0,60.0,Playoff Qualifier
+254,37,North Pitt,NC,4A,NCHSAA 4A,Bethel,5-6,5,6,0,11,44.0,44.0,-5.96,47.5,-2.5,265,18.4,23.7,-5.3,48.0,48.0,48.0,Varsity Program
+255,42,West Carteret,NC,5A,NCHSAA 5A,Morehead City,5-6,5,6,0,11,44.0,44.0,-5.96,52.9,2.85,109,14.3,27.6,-13.3,48.0,48.0,48.0,Varsity Program
+256,38,Bunn,NC,4A,NCHSAA 4A,Bunn,5-6,5,6,0,11,44.0,44.0,-5.97,44.4,-5.57,333,23.6,19.0,4.6,48.0,48.0,48.0,Varsity Program
+257,39,Lexington Senior,NC,4A,NCHSAA 4A,Lexington,3-8,3,8,0,11,44.0,44.0,-5.97,49.8,-0.19,203,20.2,25.6,-5.4,40.0,40.0,40.0,Varsity Program
+258,40,Morehead,NC,4A,NCHSAA 4A,Eden,7-3,7,3,0,10,44.0,44.0,-5.98,45.2,-4.82,315,23.5,22.7,0.8,58.8,58.8,58.8,Playoff Qualifier
+259,35,Owen,NC,3A,NCHSAA 3A,Black Mountain,5-6,5,6,0,11,44.0,44.0,-5.98,45.6,-4.36,298,32.2,31.3,0.9,48.0,48.0,48.0,Varsity Program
+260,41,Eastern Wayne,NC,4A,NCHSAA 4A,Goldsboro,5-5,5,5,0,10,43.9,43.9,-6.13,43.3,-6.67,347,26.9,17.5,9.4,50.0,50.0,50.0,Playoff Qualifier
+261,43,North Buncombe,NC,5A,NCHSAA 5A,Weaverville,4-7,4,7,0,11,43.7,43.7,-6.27,49.8,-0.25,204,34.9,41.8,-6.9,44.0,44.0,44.0,Varsity Program
+262,20,Hobbton,NC,2A,NCHSAA 2A,Newton Grove,4-7,4,7,0,11,43.5,43.5,-6.55,46.2,-3.83,289,35.8,30.4,5.4,44.0,44.0,44.0,Varsity Program
+263,21,North Duplin,NC,2A,NCHSAA 2A,Calypso,5-4,5,4,0,9,43.4,43.4,-6.61,41.5,-8.51,364,25.7,20.3,5.4,52.44,52.44,52.44,Playoff Qualifier
+264,5,Winston-Salem Preparatory Academy,NC,1A,NCHSAA 1A,Winston-Salem,6-4,6,4,0,10,43.3,43.3,-6.73,41.7,-8.26,362,28.4,19.9,8.5,54.4,54.4,54.4,Playoff Qualifier
+265,36,Wake Prep Academy,NC,3A,NCHSAA 3A,Wake Forest,6-5,6,5,0,11,43.1,43.1,-6.87,44.0,-6.05,339,24.1,21.2,2.9,52.0,52.0,52.0,Playoff Qualifier
+266,44,East Rowan,NC,5A,NCHSAA 5A,Salisbury,4-7,4,7,0,11,43.0,43.0,-6.97,49.8,-0.2,205,17.5,27.1,-9.6,44.0,44.0,44.0,Varsity Program
+267,45,South Brunswick,NC,5A,NCHSAA 5A,Southport,5-6,5,6,0,11,42.7,42.7,-7.29,45.3,-4.68,309,25.4,24.8,0.6,48.0,48.0,48.0,Varsity Program
+268,48,Lumberton,NC,7A,NCHSAA 7A,Lumberton,2-9,2,9,0,11,42.6,42.6,-7.39,52.8,2.8,114,14.7,33.5,-18.8,36.0,36.0,36.0,Varsity Program
+269,22,Camden County,NC,2A,NCHSAA 2A,Camden,5-6,5,6,0,11,42.3,42.3,-7.66,45.7,-4.28,297,20.9,21.6,-0.7,48.0,48.0,48.0,Varsity Program
+270,44,Phillip O. Berry Academy of Technology,NC,6A,NCHSAA 6A,Charlotte,5-6,5,6,0,11,42.3,42.3,-7.73,50.4,0.42,183,12.8,26.0,-13.2,48.0,48.0,48.0,Varsity Program
+271,30,Athens Drive,NC,8A,NCHSAA 8A,Raleigh,2-8,2,8,0,10,42.2,42.2,-7.8,54.7,4.69,69,16.4,37.1,-20.7,36.8,36.8,36.8,Varsity Program
+272,42,Roanoke Rapids,NC,4A,NCHSAA 4A,Roanoke Rapids,5-6,5,6,0,11,42.1,42.1,-7.91,46.5,-3.49,282,18.5,19.6,-1.1,48.0,48.0,48.0,Varsity Program
+273,23,Bertie,NC,2A,NCHSAA 2A,Windsor,4-7,4,7,0,11,42.0,42.0,-7.96,47.5,-2.48,266,11.5,27.0,-15.5,44.0,44.0,44.0,Varsity Program
+274,49,Parkland,NC,7A,NCHSAA 7A,Winston-Salem,3-8,3,8,0,11,42.0,42.0,-7.96,52.0,1.97,131,12.0,25.7,-13.7,40.0,40.0,40.0,Varsity Program
+275,45,Felton Grove,NC,6A,NCHSAA 6A,Apex,4-7,4,7,0,11,42.0,42.0,-7.98,50.7,0.72,174,20.5,35.1,-14.6,44.0,44.0,44.0,Varsity Program
+276,46,Lee County,NC,6A,NCHSAA 6A,Sanford,2-9,2,9,0,11,41.9,41.9,-8.1,52.0,1.98,132,20.6,37.3,-16.7,36.0,36.0,36.0,Varsity Program
+277,46,Dixon,NC,5A,NCHSAA 5A,Holly Ridge,2-8,2,8,0,10,41.8,41.8,-8.19,50.3,0.31,185,26.5,36.4,-9.9,36.8,36.8,36.8,Varsity Program
+278,50,Cuthbertson,NC,7A,NCHSAA 7A,Waxhaw,1-9,1,9,0,10,41.8,41.8,-8.19,56.8,6.76,30,17.3,45.9,-28.6,32.4,32.4,32.4,Varsity Program
+279,47,West Johnston,NC,6A,NCHSAA 6A,Benson,4-7,4,7,0,11,41.8,41.8,-8.23,50.0,-0.03,197,19.5,31.5,-12.0,44.0,44.0,44.0,Varsity Program
+280,43,Salisbury,NC,4A,NCHSAA 4A,Salisbury,3-8,3,8,0,11,41.7,41.7,-8.33,52.9,2.86,110,12.2,37.9,-25.7,40.0,40.0,40.0,Varsity Program
+281,51,Cary,NC,7A,NCHSAA 7A,Cary,3-7,3,7,0,10,41.6,41.6,-8.43,51.6,1.62,141,12.7,30.3,-17.6,41.2,41.2,41.2,Varsity Program
+282,6,Hobgood Charter,NC,1A,NCHSAA 1A,Hobgood,8-2,8,2,0,10,41.2,41.2,-8.83,36.6,-13.37,387,26.6,13.8,12.8,63.2,63.2,63.2,Playoff Qualifier
+283,47,Southern Wayne,NC,5A,NCHSAA 5A,Dudley,4-7,4,7,0,11,41.1,41.1,-8.88,49.9,-0.1,200,15.5,32.1,-16.6,44.0,44.0,44.0,Varsity Program
+284,24,West Columbus,NC,2A,NCHSAA 2A,Cerro Gordo,5-5,5,5,0,10,40.8,40.8,-9.22,43.0,-6.98,350,25.2,26.3,-1.1,50.0,50.0,50.0,Playoff Qualifier
+285,48,Southeast Guilford,NC,6A,NCHSAA 6A,Greensboro,3-7,3,7,0,10,40.4,40.4,-9.6,50.8,0.79,168,16.3,32.0,-15.7,41.2,41.2,41.2,Varsity Program
+286,37,Ayden - Grifton,NC,3A,NCHSAA 3A,Ayden,2-9,2,9,0,11,40.3,40.3,-9.66,48.9,-1.09,229,13.8,29.4,-15.6,36.0,36.0,36.0,Varsity Program
+287,7,Sallie B. Howard,NC,1A,NCHSAA 1A,Wilson,6-3,6,3,0,9,40.3,40.3,-9.68,41.1,-8.93,369,17.8,14.8,3.0,57.33,57.33,57.33,Playoff Qualifier
+288,52,Cox Mill,NC,7A,NCHSAA 7A,Concord,2-8,2,8,0,10,40.3,40.3,-9.68,50.6,0.63,178,22.5,41.8,-19.3,36.8,36.8,36.8,Varsity Program
+289,48,J.F. Webb,NC,5A,NCHSAA 5A,Oxford,4-7,4,7,0,11,40.1,40.1,-9.91,45.4,-4.64,304,25.0,27.3,-2.3,44.0,44.0,44.0,Varsity Program
+290,25,Rosewood,NC,2A,NCHSAA 2A,Goldsboro,4-7,4,7,0,11,40.0,40.0,-10.03,46.8,-3.21,278,25.0,31.5,-6.5,44.0,44.0,44.0,Varsity Program
+291,49,Richlands,NC,5A,NCHSAA 5A,Richlands,2-9,2,9,0,11,39.9,39.9,-10.1,52.0,1.95,133,12.0,29.5,-17.5,36.0,36.0,36.0,Varsity Program
+292,49,Harding University,NC,6A,NCHSAA 6A,Charlotte,2-8,2,8,0,10,39.8,39.8,-10.19,51.9,1.85,138,15.9,33.2,-17.3,36.8,36.8,36.8,Varsity Program
+293,8,Rosman,NC,1A,NCHSAA 1A,Rosman,6-5,6,5,0,11,39.6,39.6,-10.41,41.5,-8.53,365,28.2,23.6,4.6,52.0,52.0,52.0,Playoff Qualifier
+294,31,Green Level,NC,8A,NCHSAA 8A,Cary,1-9,1,9,0,10,39.5,39.5,-10.54,51.7,1.74,140,19.7,41.3,-21.6,32.4,32.4,32.4,Varsity Program
+295,26,Southside,NC,2A,NCHSAA 2A,Chocowinity,7-3,7,3,0,10,39.4,39.4,-10.59,41.0,-9.02,370,19.7,18.0,1.7,58.8,58.8,58.8,Playoff Qualifier
+296,50,Vance County,NC,6A,NCHSAA 6A,Henderson,1-9,1,9,0,10,39.0,39.0,-11.02,53.2,3.25,102,13.4,41.4,-28.0,32.4,32.4,32.4,Varsity Program
+297,53,Purnell Swett,NC,7A,NCHSAA 7A,Pembroke,3-7,3,7,0,10,38.9,38.9,-11.12,48.1,-1.88,246,22.2,27.4,-5.2,41.2,41.2,41.2,Varsity Program
+298,44,Cummings,NC,4A,NCHSAA 4A,Burlington,1-10,1,10,0,11,38.8,38.8,-11.25,53.2,3.22,103,15.5,39.3,-23.8,32.0,32.0,32.0,Varsity Program
+299,50,C.B. Aycock,NC,5A,NCHSAA 5A,Pikeville,2-9,2,9,0,11,38.6,38.6,-11.37,51.3,1.28,147,15.1,31.5,-16.4,36.0,36.0,36.0,Varsity Program
+300,9,North Edgecombe,NC,1A,NCHSAA 1A,Tarboro,6-4,6,4,0,10,38.2,38.2,-11.82,40.3,-9.66,376,20.4,19.8,0.6,54.4,54.4,54.4,Playoff Qualifier
+301,38,Wheatmore,NC,3A,NCHSAA 3A,Trinity,3-8,3,8,0,11,37.9,37.9,-12.15,44.3,-5.72,336,26.6,27.5,-0.9,40.0,40.0,40.0,Varsity Program
+302,27,Albemarle,NC,2A,NCHSAA 2A,Albemarle,5-6,5,6,0,11,37.8,37.8,-12.19,45.3,-4.68,310,16.2,25.1,-8.9,48.0,48.0,48.0,Varsity Program
+303,39,Polk County,NC,3A,NCHSAA 3A,Columbus,4-7,4,7,0,11,37.8,37.8,-12.21,46.0,-4.04,291,26.9,34.0,-7.1,44.0,44.0,44.0,Varsity Program
+304,54,Southwest Guilford,NC,7A,NCHSAA 7A,High Point,2-8,2,8,0,10,37.8,37.8,-12.25,52.6,2.58,119,10.2,32.7,-22.5,36.8,36.8,36.8,Varsity Program
+305,28,East Carteret,NC,2A,NCHSAA 2A,Beaufort,5-6,5,6,0,11,37.6,37.6,-12.35,42.5,-7.51,357,18.8,21.5,-2.7,48.0,48.0,48.0,Varsity Program
+306,51,South Caldwell,NC,6A,NCHSAA 6A,Hudson,3-8,3,8,0,11,37.5,37.5,-12.45,52.0,2.03,134,16.0,41.3,-25.3,40.0,40.0,40.0,Varsity Program
+307,10,East Columbus,NC,1A,NCHSAA 1A,Lake Waccamaw,4-6,4,6,0,10,37.4,37.4,-12.6,44.6,-5.41,328,10.2,18.6,-8.4,45.6,45.6,45.6,Varsity Program
+308,55,Knightdale,NC,7A,NCHSAA 7A,Knightdale,1-9,1,9,0,10,37.4,37.4,-12.62,51.0,1.03,163,9.3,33.2,-23.9,32.4,32.4,32.4,Varsity Program
+309,29,South Stanly,NC,2A,NCHSAA 2A,Norwood,3-8,3,8,0,11,37.2,37.2,-12.84,46.4,-3.61,285,16.4,32.2,-15.8,40.0,40.0,40.0,Varsity Program
+310,45,First Flight,NC,4A,NCHSAA 4A,Outer Banks,0-7,0,7,0,7,37.1,37.1,-12.87,46.9,-3.13,276,6.3,15.7,-9.4,28.0,28.0,28.0,Varsity Program
+311,46,Brevard,NC,4A,NCHSAA 4A,Brevard,1-9,1,9,0,10,37.1,37.1,-12.93,52.1,2.13,129,10.7,40.4,-29.7,32.4,32.4,32.4,Varsity Program
+312,56,Riverside-Durham,NC,7A,NCHSAA 7A,Durham,2-8,2,8,0,10,36.9,36.9,-13.14,48.7,-1.31,233,12.8,30.8,-18.0,36.8,36.8,36.8,Varsity Program
+313,11,Southeast Collegiate Prep Academy,NC,1A,NCHSAA 1A,Halifax,4-6,4,6,0,10,36.5,36.5,-13.49,41.5,-8.47,366,19.7,18.4,1.3,45.6,45.6,45.6,Varsity Program
+314,12,Thomas Jefferson Classical Academy,NC,1A,NCHSAA 1A,Mooresboro,1-9,1,9,0,10,36.0,36.0,-14.02,44.0,-6.01,340,6.3,7.9,-1.6,32.4,32.4,32.4,Varsity Program
+315,47,Forbush,NC,4A,NCHSAA 4A,East Bend,4-7,4,7,0,11,35.9,35.9,-14.1,44.9,-5.07,324,20.9,28.2,-7.3,44.0,44.0,44.0,Varsity Program
+316,30,Perquimans County,NC,2A,NCHSAA 2A,Hertford,2-8,2,8,0,10,35.7,35.7,-14.33,48.1,-1.85,247,12.9,25.5,-12.6,36.8,36.8,36.8,Varsity Program
+317,13,South Davidson,NC,1A,NCHSAA 1A,Denton,6-5,6,5,0,11,35.6,35.6,-14.43,38.0,-11.95,384,25.2,18.8,6.4,52.0,52.0,52.0,Playoff Qualifier
+318,52,Northern Durham,NC,6A,NCHSAA 6A,Durham,5-6,5,6,0,11,35.1,35.1,-14.89,45.2,-4.78,316,25.0,31.4,-6.4,48.0,48.0,48.0,Varsity Program
+319,31,Swain County,NC,2A,NCHSAA 2A,Bryson City,3-8,3,8,0,11,34.9,34.9,-15.08,47.5,-2.45,267,20.6,32.3,-11.7,40.0,40.0,40.0,Varsity Program
+320,51,Concord,NC,5A,NCHSAA 5A,Concord,1-9,1,9,0,10,34.9,34.9,-15.08,51.2,1.24,150,12.1,35.5,-23.4,32.4,32.4,32.4,Varsity Program
+321,53,Western Harnett,NC,6A,NCHSAA 6A,Lillington,4-7,4,7,0,11,34.7,34.7,-15.34,45.9,-4.1,295,15.5,29.2,-13.7,44.0,44.0,44.0,Varsity Program
+322,54,Western Guilford,NC,6A,NCHSAA 6A,Greensboro,3-7,3,7,0,10,34.4,34.4,-15.6,51.0,1.04,164,10.9,36.2,-25.3,41.2,41.2,41.2,Varsity Program
+323,57,McDowell,NC,7A,NCHSAA 7A,Marion,1-9,1,9,0,10,33.9,33.9,-16.1,50.2,0.2,189,18.0,42.1,-24.1,32.4,32.4,32.4,Varsity Program
+324,32,Langtree Charter Academy,NC,2A,NCHSAA 2A,Mooresville,4-7,4,7,0,11,33.0,33.0,-16.95,44.2,-5.83,337,29.9,38.4,-8.5,44.0,44.0,44.0,Varsity Program
+325,40,Pine Lake Prep,NC,3A,NCHSAA 3A,Mooresville,4-7,4,7,0,11,31.9,31.9,-18.08,45.1,-4.88,319,21.5,33.4,-11.9,44.0,44.0,44.0,Varsity Program
+326,32,Garinger,NC,8A,NCHSAA 8A,Charlotte,2-8,2,8,0,10,31.5,31.5,-18.48,51.3,1.32,148,10.2,39.0,-28.8,36.8,36.8,36.8,Varsity Program
+327,33,Northwest Halifax Collegiate & Technical Academy,NC,2A,NCHSAA 2A,Littleton,6-5,6,5,0,11,31.1,31.1,-18.94,40.4,-9.59,375,18.0,21.3,-3.3,52.0,52.0,52.0,Playoff Qualifier
+328,48,North Johnston,NC,4A,NCHSAA 4A,Kenly,2-8,2,8,0,10,31.0,31.0,-18.96,46.7,-3.33,279,14.4,32.3,-17.9,36.8,36.8,36.8,Varsity Program
+329,14,Washington County,NC,1A,NCHSAA 1A,Plymouth,3-8,3,8,0,11,30.8,30.8,-19.21,40.2,-9.78,378,26.8,24.9,1.9,40.0,40.0,40.0,Varsity Program
+330,34,Bishop McGuinness,NC,2A,NCHSAA 2A,Kernersville,3-8,3,8,0,11,30.7,30.7,-19.26,40.3,-9.66,377,22.1,27.2,-5.1,40.0,40.0,40.0,Varsity Program
+331,58,Smithfield-Selma,NC,7A,NCHSAA 7A,Smithfield,0-10,0,10,0,10,30.7,30.7,-19.26,56.3,6.29,37,6.3,44.9,-38.6,28.0,28.0,28.0,Varsity Program
+332,49,East Henderson,NC,4A,NCHSAA 4A,East Flat Rock,1-9,1,9,0,10,30.7,30.7,-19.33,50.8,0.82,169,11.0,36.0,-25.0,32.4,32.4,32.4,Varsity Program
+333,59,Chapel Hill,NC,7A,NCHSAA 7A,Chapel Hill,3-8,3,8,0,11,30.6,30.6,-19.38,48.5,-1.54,238,11.1,39.2,-28.1,40.0,40.0,40.0,Varsity Program
+334,52,Atkins,NC,5A,NCHSAA 5A,Winston-Salem,2-8,2,8,0,10,30.2,30.2,-19.79,50.6,0.61,179,6.3,34.6,-28.3,36.8,36.8,36.8,Varsity Program
+335,41,East Davidson,NC,3A,NCHSAA 3A,Thomasville,3-8,3,8,0,11,29.9,29.9,-20.05,45.5,-4.52,300,13.0,32.8,-19.8,40.0,40.0,40.0,Varsity Program
+336,35,South Stokes,NC,2A,NCHSAA 2A,Walnut Cove,5-6,5,6,0,11,29.8,29.8,-20.21,40.5,-9.51,373,23.5,28.1,-4.6,48.0,48.0,48.0,Varsity Program
+337,36,Avery County,NC,2A,NCHSAA 2A,Newland,3-8,3,8,0,11,29.6,29.6,-20.37,43.7,-6.26,342,25.5,37.1,-11.6,40.0,40.0,40.0,Varsity Program
+338,50,Lincoln Charter,NC,4A,NCHSAA 4A,Denver,2-9,2,9,0,11,29.5,29.5,-20.48,48.5,-1.46,239,14.1,39.5,-25.4,36.0,36.0,36.0,Varsity Program
+339,15,KIPP Pride,NC,1A,NCHSAA 1A,Gaston,4-7,4,7,0,11,29.5,29.5,-20.52,42.7,-7.28,354,12.6,33.4,-20.8,44.0,44.0,44.0,Varsity Program
+340,53,North Forsyth,NC,5A,NCHSAA 5A,Winston-Salem,1-9,1,9,0,10,29.2,29.2,-20.77,51.0,0.97,165,7.6,39.6,-32.0,32.4,32.4,32.4,Varsity Program
+341,37,Bradford Prep,NC,2A,NCHSAA 2A,Charlotte,2-9,2,9,0,11,28.9,28.9,-21.07,45.3,-4.74,311,15.2,32.4,-17.2,36.0,36.0,36.0,Varsity Program
+342,55,Ben L. Smith,NC,6A,NCHSAA 6A,Greensboro,1-9,1,9,0,10,28.8,28.8,-21.2,52.7,2.71,117,7.8,38.7,-30.9,32.4,32.4,32.4,Varsity Program
+343,16,North East Carolina Prep,NC,1A,NCHSAA 1A,Tarboro,5-5,5,5,0,10,28.4,28.4,-21.61,37.6,-12.43,386,26.7,25.7,1.0,50.0,50.0,50.0,Playoff Qualifier
+344,60,Rocky River,NC,7A,NCHSAA 7A,Mint Hill,0-10,0,10,0,10,28.2,28.2,-21.76,50.3,0.28,186,5.9,39.5,-33.6,28.0,28.0,28.0,Varsity Program
+345,51,Jordan-Matthews,NC,4A,NCHSAA 4A,Siler City,4-7,4,7,0,11,28.0,28.0,-21.98,43.2,-6.84,349,19.1,37.0,-17.9,44.0,44.0,44.0,Varsity Program
+346,52,Carver,NC,4A,NCHSAA 4A,Winston-Salem,3-8,3,8,0,11,28.0,28.0,-22.02,44.0,-6.0,341,18.7,39.1,-20.4,40.0,40.0,40.0,Varsity Program
+347,17,Rocky Mount Prep,NC,1A,NCHSAA 1A,Rocky Mount,4-7,4,7,0,11,27.9,27.9,-22.15,38.4,-11.62,382,18.8,21.2,-2.4,44.0,44.0,44.0,Varsity Program
+348,18,The College Prep & Leadership Academy,NC,1A,NCHSAA 1A,Jamestown,4-7,4,7,0,11,27.1,27.1,-22.9,40.5,-9.48,374,23.2,26.2,-3.0,44.0,44.0,44.0,Varsity Program
+349,38,Union,NC,2A,NCHSAA 2A,Rose Hill,3-8,3,8,0,11,26.8,26.8,-23.21,41.2,-8.8,368,20.0,30.2,-10.2,40.0,40.0,40.0,Varsity Program
+350,42,Patton,NC,3A,NCHSAA 3A,Morganton,1-10,1,10,0,11,24.8,24.8,-25.25,48.1,-1.86,248,7.9,34.6,-26.7,32.0,32.0,32.0,Varsity Program
+351,53,Ashe County,NC,4A,NCHSAA 4A,West Jefferson,1-9,1,9,0,10,24.7,24.7,-25.28,48.8,-1.22,232,9.7,42.3,-32.6,32.4,32.4,32.4,Varsity Program
+352,43,Heide Trask,NC,3A,NCHSAA 3A,Rocky Point,2-9,2,9,0,11,23.9,23.9,-26.11,45.0,-4.96,322,8.4,38.1,-29.7,36.0,36.0,36.0,Varsity Program
+353,44,South Lenoir,NC,3A,NCHSAA 3A,Deep Run,3-8,3,8,0,11,23.5,23.5,-26.46,43.0,-7.03,351,13.7,34.5,-20.8,40.0,40.0,40.0,Varsity Program
+354,54,North Lenoir,NC,4A,NCHSAA 4A,LaGrange,0-10,0,10,0,10,23.5,23.5,-26.54,46.4,-3.57,286,7.8,37.7,-29.9,28.0,28.0,28.0,Varsity Program
+355,45,Bessemer City,NC,3A,NCHSAA 3A,Bessemer City,1-10,1,10,0,11,23.4,23.4,-26.56,51.4,1.39,146,11.1,49.7,-38.6,32.0,32.0,32.0,Varsity Program
+356,39,Pamlico County,NC,2A,NCHSAA 2A,Bayboro,3-8,3,8,0,11,23.4,23.4,-26.6,42.1,-7.88,358,19.7,39.1,-19.4,40.0,40.0,40.0,Varsity Program
+357,56,North Iredell,NC,6A,NCHSAA 6A,Olin,0-10,0,10,0,10,23.1,23.1,-26.92,54.7,4.68,70,1.6,52.0,-50.4,28.0,28.0,28.0,Varsity Program
+358,46,Madison,NC,3A,NCHSAA 3A,Marshall,1-9,1,9,0,10,23.0,23.0,-26.97,45.6,-4.42,299,13.6,40.9,-27.3,32.4,32.4,32.4,Varsity Program
+359,40,American Leadership Academy-Johnston,NC,2A,NCHSAA 2A,Clayton,1-9,1,9,0,10,22.1,22.1,-27.95,42.8,-7.17,353,9.8,38.5,-28.7,32.4,32.4,32.4,Varsity Program
+360,54,North Gaston,NC,5A,NCHSAA 5A,Dallas,0-10,0,10,0,10,21.7,21.7,-28.27,54.5,4.49,74,2.2,53.2,-51.0,28.0,28.0,28.0,Varsity Program
+361,57,Southern Lee,NC,6A,NCHSAA 6A,Sanford,0-10,0,10,0,10,21.4,21.4,-28.64,51.1,1.15,155,6.7,49.5,-42.8,28.0,28.0,28.0,Varsity Program
+362,19,North Stokes,NC,1A,NCHSAA 1A,Danbury,1-10,1,10,0,11,21.2,21.2,-28.8,41.5,-8.48,367,15.2,36.9,-21.7,32.0,32.0,32.0,Varsity Program
+363,41,Lejeune,NC,2A,NCHSAA 2A,Camp Lejeune,2-8,2,8,0,10,21.0,21.0,-28.98,39.4,-10.58,379,12.5,23.4,-10.9,36.8,36.8,36.8,Varsity Program
+364,20,Bear Grass Charter,NC,1A,NCHSAA 1A,Williamston,1-8,1,8,0,9,20.9,20.9,-29.07,38.4,-11.61,383,21.4,34.1,-12.7,32.89,32.89,32.89,Varsity Program
+365,47,Draughn,NC,3A,NCHSAA 3A,Valdese,0-11,0,11,0,11,20.8,20.8,-29.18,51.0,1.04,166,4.0,44.8,-40.8,28.0,28.0,28.0,Varsity Program
+366,48,North Moore,NC,3A,NCHSAA 3A,Robbins,0-10,0,10,0,10,20.6,20.6,-29.45,50.6,0.6,180,5.1,42.9,-37.8,28.0,28.0,28.0,Varsity Program
+367,42,Hayesville,NC,2A,NCHSAA 2A,Hayesville,1-9,1,9,0,10,20.3,20.3,-29.68,44.4,-5.6,334,11.3,41.1,-29.8,32.4,32.4,32.4,Varsity Program
+368,21,Andrews,NC,1A,NCHSAA 1A,Andrews,1-9,1,9,0,10,20.2,20.2,-29.79,45.5,-4.49,301,14.1,43.0,-28.9,32.4,32.4,32.4,Varsity Program
+369,43,Elkin,NC,2A,NCHSAA 2A,Elkin,2-9,2,9,0,11,19.6,19.6,-30.37,45.8,-4.16,296,5.4,40.0,-34.6,36.0,36.0,36.0,Varsity Program
+370,22,Weldon STEM,NC,1A,NCHSAA 1A,Weldon,1-9,1,9,0,10,19.5,19.5,-30.52,40.8,-9.2,371,7.3,31.7,-24.4,32.4,32.4,32.4,Varsity Program
+371,55,Red Springs,NC,4A,NCHSAA 4A,Red Springs,2-8,2,8,0,10,19.4,19.4,-30.64,45.3,-4.69,312,2.8,36.3,-33.5,36.8,36.8,36.8,Varsity Program
+372,23,Bonnie Cone Leadership Academy,NC,1A,NCHSAA 1A,Huntersville,1-10,1,10,0,11,19.1,19.1,-30.95,45.0,-5.04,323,7.3,34.8,-27.5,32.0,32.0,32.0,Varsity Program
+373,24,Columbia,NC,1A,NCHSAA 1A,Columbia,2-6,2,6,0,8,18.8,18.8,-31.17,35.7,-14.32,388,21.6,39.1,-17.5,39.0,39.0,39.0,Varsity Program
+374,49,Bartlett Yancey,NC,3A,NCHSAA 3A,Yanceyville,1-9,1,9,0,10,18.6,18.6,-31.4,44.6,-5.39,329,9.6,41.2,-31.6,32.4,32.4,32.4,Varsity Program
+375,58,East Chapel Hill,NC,6A,NCHSAA 6A,Chapel Hill,1-8,1,8,0,9,18.4,18.4,-31.61,44.4,-5.59,335,10.1,41.6,-31.5,32.89,32.89,32.89,Varsity Program
+376,56,Carrboro,NC,4A,NCHSAA 4A,Carrboro,1-9,1,9,0,10,18.1,18.1,-31.95,42.9,-7.15,352,10.2,34.3,-24.1,32.4,32.4,32.4,Varsity Program
+377,55,Southern Guilford,NC,5A,NCHSAA 5A,Greensboro,1-9,1,9,0,10,17.2,17.2,-32.8,51.1,1.07,156,0.9,51.3,-50.4,32.4,32.4,32.4,Varsity Program
+378,50,Goldsboro,NC,3A,NCHSAA 3A,Goldsboro,0-10,0,10,0,10,17.1,17.1,-32.87,49.6,-0.41,211,1.8,56.0,-54.2,28.0,28.0,28.0,Varsity Program
+379,51,Beddingfield,NC,3A,NCHSAA 3A,Wilson,0-10,0,10,0,10,16.6,16.6,-33.44,47.1,-2.89,271,4.3,47.0,-42.7,28.0,28.0,28.0,Varsity Program
+380,52,West Bladen,NC,3A,NCHSAA 3A,Bladenboro,0-8,0,8,0,8,15.9,15.9,-34.13,42.7,-7.33,355,4.1,19.5,-15.4,28.0,28.0,28.0,Varsity Program
+381,53,McMichael,NC,3A,NCHSAA 3A,Mayodan,2-9,2,9,0,11,15.9,15.9,-34.14,45.2,-4.82,317,8.7,48.1,-39.4,36.0,36.0,36.0,Varsity Program
+382,56,Douglas Byrd,NC,5A,NCHSAA 5A,Fayetteville,0-10,0,10,0,10,15.6,15.6,-34.35,50.0,-0.05,198,7.5,49.6,-42.1,28.0,28.0,28.0,Varsity Program
+383,44,Triangle Math & Science Academy,NC,2A,NCHSAA 2A,Apex,3-7,3,7,0,10,15.0,15.0,-35.0,38.0,-12.01,385,4.9,21.2,-16.3,41.2,41.2,41.2,Varsity Program
+384,57,Cedar Ridge,NC,5A,NCHSAA 5A,Hillsborough,1-7,1,7,0,8,15.0,15.0,-35.0,42.1,-7.93,359,6.5,44.0,-37.5,33.5,33.5,33.5,Varsity Program
+385,54,Trinity,NC,3A,NCHSAA 3A,Trinity,1-10,1,10,0,11,15.0,15.0,-35.0,45.4,-4.59,305,6.8,47.9,-41.1,32.0,32.0,32.0,Varsity Program
+386,45,Highland Tech,NC,2A,NCHSAA 2A,Gastonia,0-10,0,10,0,10,15.0,15.0,-35.0,50.8,0.81,170,4.6,50.1,-45.5,28.0,28.0,28.0,Varsity Program
+387,55,Surry Central,NC,3A,NCHSAA 3A,Dobson,0-10,0,10,0,10,15.0,15.0,-35.0,44.6,-5.42,330,5.1,29.9,-24.8,28.0,28.0,28.0,Varsity Program
+388,25,Jones Senior,NC,1A,NCHSAA 1A,Trenton,0-11,0,11,0,11,15.0,15.0,-35.0,38.8,-11.18,381,6.7,37.7,-31.0,28.0,28.0,28.0,Varsity Program

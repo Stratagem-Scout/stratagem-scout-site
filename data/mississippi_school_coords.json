@@ -1,2781 +1,1122 @@
 {
-  "Aberdeen": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Aberdeen High": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Ackerman": {
-    "lat": 33.3101,
-    "lng": -89.1728,
-    "city": "Ackerman",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Ackerman High": {
-    "lat": 33.3101,
-    "lng": -89.1728,
-    "city": "Ackerman",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Adams County Christian": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Natchez",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Alcorn Central": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Glen",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Algoma": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Algoma High": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Alligator": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Alligator High": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Amanda Elzy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Greenwood",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Amite County": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Liberty",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Amite School Center": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Liberty",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Amory": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Amory",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Amory High": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Anguilla": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Anguilla High": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Arcola": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Arcola High": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Artesia": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Artesia High": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Ashland": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Ashland",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Ashland High": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Bailey Magnet": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "MS",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Baldwyn": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Baldwyn High": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Bassfield": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Batesville": {
-    "lat": 34.3115,
-    "lng": -89.9443,
-    "city": "Batesville",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Bay": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Bay St Louis",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Bay High": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Bay Springs": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Bay St. Louis": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Bayou Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Cleveland",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Beaumont": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Beauregard": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Belmont": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Belmont",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Belzoni": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Ben's Ford Christian": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Bogalusa",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Benoit": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Benton": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Benton Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Benton",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Bentonia": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Beulah": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Big Creek": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Biggersville": {
-    "lat": 34.8445,
-    "lng": -88.5734,
-    "city": "Biggersville",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Biloxi": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Biloxi",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Blue Mountain": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Blue Springs": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Bogue Chitto": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Bogue Chitto",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Bolton": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Booneville": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Bowling Green": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Franklinton",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Boyle": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Brandon": {
-    "lat": 32.2732,
-    "lng": -89.9859,
-    "city": "Brandon",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Braxton": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Briarfield Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Lake Providence",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Brookhaven": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Brookhaven Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Brookhaven",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Bruce": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Bruce",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Byers": {
-    "lat": 34.7676,
-    "lng": -89.4487,
-    "city": "Holly Springs",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Byhalia": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Byhalia",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Byram": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Caledonia": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Calhoun Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Calhoun City",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Calhoun City": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Callaway": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Calvin": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Canton": {
-    "lat": 32.6126,
-    "lng": -90.0368,
-    "city": "Canton",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Canton Academy": {
-    "lat": 32.6126,
-    "lng": -90.0368,
-    "city": "Canton",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Carroll Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Carrollton",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Carthage Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Cathedral": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Natchez",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Cathedral Natchez": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Center Hill": {
-    "lat": 34.9618,
-    "lng": -89.8295,
-    "city": "Olive Branch",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Central Hinds Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Raymond",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Centreville Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Centreville",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Charleston": {
-    "lat": 34.0068,
-    "lng": -90.0568,
-    "city": "Charleston",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Choctaw Central": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Philadelphia",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Choctaw County": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Christ Covenant": {
-    "lat": 32.4285,
-    "lng": -90.1323,
-    "city": "Ridgeland",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Christian Collegiate Academy": {
-    "lat": 30.3674,
-    "lng": -89.0928,
-    "city": "Gulfport",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Claiborne Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Haynesville",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Clarkdale": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Meridian",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Clarksdale": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Cleveland Central": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Clinton": {
-    "lat": 32.3415,
-    "lng": -90.3218,
-    "city": "Clinton",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Clinton Christian Academy": {
-    "lat": 32.3415,
-    "lng": -90.3218,
-    "city": "Clinton",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Coahoma County": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Clarksdale",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Coffeeville": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Coffeeville",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Coldwater": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Collins": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Columbia": {
-    "lat": 31.251,
-    "lng": -89.8373,
-    "city": "Columbia",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Columbia Academy": {
-    "lat": 31.251,
-    "lng": -89.8373,
-    "city": "Columbia",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Columbus": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Columbus",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Columbus Christian Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Steens",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Columbus Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Copiah Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Gallman",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Corinth": {
-    "lat": 34.9342,
-    "lng": -88.5223,
-    "city": "Corinth",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Crystal Springs": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Crystal Springs",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "D'Iberville": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Diberville",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "DeSoto": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "West Helena",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "DeSoto Central": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Deer Creek": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Arcola",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Delta Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Marks",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Delta Streets Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Greenwood",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Discovery Christian": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Florence",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "East Central": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Moss Point",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "East Central Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "East Marion": {
-    "lat": 31.251,
-    "lng": -89.8373,
-    "city": "Columbia",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "East Rankin Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Pelahatchie",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "East Side Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "East Union": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Edwards": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Ruleville",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Enterprise": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Enterprise",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Enterprise Clarke": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Enterprise Lincoln": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Ethel": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Ethel",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Eupora": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Eupora",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Faithful Explorers ALC": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Byram",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Falkner": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Falkner",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Florence": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Florence",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Florence Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Forest": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Forest",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Forest Hill": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Forest Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Forrest County Agricultural": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Brooklyn",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Forrest County Ahs": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Franklin County": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Meadville",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Franklin County Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "French Camp": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "French Camp Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "French Camp",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Gautier": {
-    "lat": 30.3857,
-    "lng": -88.6117,
-    "city": "Gautier",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Gentry": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Indianola",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "George County": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Germantown": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Greene County": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Leakesville",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Greenville": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Greenville",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Greenville Christian": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Greenville",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Greenville Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Greenwood": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Greenwood",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Grenada": {
-    "lat": 33.769,
-    "lng": -89.8084,
-    "city": "Grenada",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Gulfport": {
-    "lat": 30.3674,
-    "lng": -89.0928,
-    "city": "Gulfport",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Hamilton": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Hamilton",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Hamilton Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Hancock": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Harrison Central": {
-    "lat": 30.3674,
-    "lng": -89.0928,
-    "city": "Gulfport",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Hartfield Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Flowood",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Hatley": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Amory",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Hattiesburg": {
-    "lat": 31.3271,
-    "lng": -89.2903,
-    "city": "Hattiesburg",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Hazlehurst": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Hazlehurst",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Hebron Christian": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Pheba",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Heidelberg": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Heritage Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Columbus",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Heritage Christian Academy": {
-    "lat": 30.5255,
-    "lng": -89.6795,
-    "city": "Picayune",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Hernando": {
-    "lat": 34.8239,
-    "lng": -89.9937,
-    "city": "Hernando",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Holly Springs": {
-    "lat": 34.7676,
-    "lng": -89.4487,
-    "city": "Holly Springs",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Holmes Central": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Holmes County Central": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Horn Lake": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Horn Lake",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Houston": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Humphreys Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Belzoni",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Humphreys County": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Belzoni",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Independence": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Independence",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Independence Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Indianola Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Indianola",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Ingomar": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Itawamba AHS": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Itawamba Agricultural": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Fulton",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Iuka": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "J.Z. George": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "North Carrollton",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Jackson Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Jackson Prep": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Jefferson County": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Fayette",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Jefferson County Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Jefferson Davis County": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Jim Hill": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Kemper Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Dekalb",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Kemper County": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Kirk Academy": {
-    "lat": 33.769,
-    "lng": -89.8084,
-    "city": "Grenada",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Kossuth": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Lafayette": {
-    "lat": 34.3668,
-    "lng": -89.5192,
-    "city": "Oxford",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Lafayette Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Lake": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Lake",
-    "state": "MS",
-    "conference": "MHSAA 2A"
+  "Warren Central": {
+    "lat": 32.3239,
+    "lng": -90.88094,
+    "city": "Vicksburg"
   },
   "Lake Cormorant": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Lamar": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Meridian",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Lanier": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Lanier Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Laurel": {
-    "lat": 31.6941,
-    "lng": -89.1306,
-    "city": "Laurel",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Lawrence County": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Monticello",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Lawrence County Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Leake": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Carthage",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Leake Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Madden",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Leake Central": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Lee Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Clarksdale",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Leflore County": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Itta Bena",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Leland": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Leland",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Lewisburg": {
-    "lat": 34.9618,
-    "lng": -89.8295,
-    "city": "Olive Branch",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Lewisburg Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Long Beach": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Long Beach",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Louisville": {
-    "lat": 33.1237,
-    "lng": -89.0551,
-    "city": "Louisville",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Loyd Star": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Lumberton": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Madison Central": {
-    "lat": 32.4618,
-    "lng": -90.1154,
-    "city": "Madison",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Madison-Ridgeland Academy": {
-    "lat": 32.4618,
-    "lng": -90.1154,
-    "city": "Madison",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Magee": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Magnolia": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Terry",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Magnolia Heights": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Senatobia",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Man 1A District": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA District"
-  },
-  "Man 1A District 1 (8 Man)MAIS": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA District"
-  },
-  "Man 2A District": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA District"
-  },
-  "Man)MAIS": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA District"
-  },
-  "Manchester Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Yazoo City",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Mantachie": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Mantachie",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Marshall Academy": {
-    "lat": 34.7676,
-    "lng": -89.4487,
-    "city": "Holly Springs",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Marvell Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Marvell",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "McAdams": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Mcadams",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "McComb": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "McEvans": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "McLaurin": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Florence",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Mendenhall": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Meridian": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Meridian",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Mize": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Mooreville": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Mooreville",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Morton": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Morton",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Moss Point": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Moss Point",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Mount Olive": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Mount Olive",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Murrah": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Myrtle": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Nanih Waiya": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Natchez": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Natchez",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Neshoba Central": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Nettleton": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "New Albany": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "New Hope": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Columbus",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "New Hope Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Newton": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Newton",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Newton County": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Decatur",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Newton County Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Decatur",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Newton Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "North Delta": {
-    "lat": 34.3115,
-    "lng": -89.9443,
-    "city": "Batesville",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "North Forrest": {
-    "lat": 31.3271,
-    "lng": -89.2903,
-    "city": "Hattiesburg",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "North Panola": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Sardis",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "North Pike": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Summit",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "North Pontotoc": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Ecru",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "North Side": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Shelby",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "North Sunflower Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Drew",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Northeast Jones": {
-    "lat": 31.6941,
-    "lng": -89.1306,
-    "city": "Laurel",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Northeast Lauderdale": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Meridian",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Northpoint Christian": {
-    "lat": 34.9918,
-    "lng": -90.0023,
-    "city": "Southaven",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Northwest Rankin": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Noxapater": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Noxapater",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Noxubee County": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "O'Bannon": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Greenville",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Oak Forest Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Amite",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Oak Grove": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Oak Hill Academy": {
-    "lat": 33.6076,
-    "lng": -88.6503,
-    "city": "West Point",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Ocean Springs": {
-    "lat": 30.4113,
-    "lng": -88.8278,
-    "city": "Ocean Springs",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Okolona": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Okolona",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Olive Branch": {
-    "lat": 34.9618,
-    "lng": -89.8295,
-    "city": "Olive Branch",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Oxford": {
-    "lat": 34.3668,
-    "lng": -89.5192,
-    "city": "Oxford",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Palmer": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Marks",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Park Place Christian Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Pearl",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Parklane Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Mccomb",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Pascagoula": {
-    "lat": 30.3658,
-    "lng": -88.5561,
-    "city": "Pascagoula",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Pass Christian": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Pearl": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Pearl",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Pearl River Central": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Carriere",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Pelahatchie": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Pelahatchie",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Perry Central": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "New Augusta",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Petal": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Petal",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Philadelphia": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Philadelphia",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Philadelphia Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Picayune": {
-    "lat": 30.5255,
-    "lng": -89.6795,
-    "city": "Picayune",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Pillow Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Greenwood",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Pine Belt": {
-    "lat": 31.3271,
-    "lng": -89.2903,
-    "city": "Hattiesburg",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Pisgah": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Pontotoc": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Poplarville": {
-    "lat": 30.8402,
-    "lng": -89.5342,
-    "city": "Poplarville",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Port Gibson": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Port Gibson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Porter'S Chapel": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Porter's Chapel Academy": {
-    "lat": 32.3526,
-    "lng": -90.8779,
-    "city": "Vicksburg",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Potts Camp": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Potts Camp",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Prairie View Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Bastrop",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Prentiss": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Prentiss Christian": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Prentiss",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Presbyterian Christian": {
-    "lat": 31.3271,
-    "lng": -89.2903,
-    "city": "Hattiesburg",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Provine": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Puckett": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Puckett",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Purvis": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Purvis",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Quitman": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Quitman",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Quitman Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Raleigh": {
-    "lat": 32.0335,
-    "lng": -89.5223,
-    "city": "Raleigh",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Raymond": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Raymond",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Regents": {
-    "lat": 34.3668,
-    "lng": -89.5192,
-    "city": "Oxford",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Resurrection Catholic": {
-    "lat": 30.3658,
-    "lng": -88.5561,
-    "city": "Pascagoula",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Richland": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Richland",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Richland Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Richton": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Richton",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Ridgeland": {
-    "lat": 32.4285,
-    "lng": -90.1323,
-    "city": "Ridgeland",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Ripley": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Ripley",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Ripley Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "River Oaks": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Monroe",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Riverdale Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Coushatta",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Riverfield Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Rayville",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Riverside": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Avon",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Rosa Fort": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Tunica",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Rosa Scott": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Rossville Christian Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Rossville",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Russell Christian Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Meridian",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "SAHE": {
-    "lat": 32.2732,
-    "lng": -89.9859,
-    "city": "Brandon",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Sacred Heart": {
-    "lat": 31.3271,
-    "lng": -89.2903,
-    "city": "Hattiesburg",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Salem": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Tylertown",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Saltillo": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Saltillo",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Scott Central": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Sebastopol": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Sebastopol",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Seminary": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Seminary",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Senatobia": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Senatobia",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Shannon": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Shannon",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Shaw": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Shaw",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Silliman Institute": {
-    "lat": 32.3415,
-    "lng": -90.3218,
-    "city": "Clinton",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Simmons": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Simpson Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Mendenhall",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Smithville": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "South Delta": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Rolling Fork",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "South Jones": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Ellisville",
-    "state": "MS",
-    "conference": "MHSAA 5A"
+    "lat": 32.32999,
+    "lng": -89.31435,
+    "city": "Lake Cormorant"
   },
   "South Panola": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
+    "lat": 34.32098,
+    "lng": -89.92488,
+    "city": "Batesville"
   },
-  "South Pike": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Magnolia",
-    "state": "MS",
-    "conference": "MHSAA 4A"
+  "Picayune": {
+    "lat": 30.53082,
+    "lng": -89.67063,
+    "city": "Picayune"
   },
-  "South Pontotoc": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Pontotoc",
-    "state": "MS",
-    "conference": "MHSAA 4A"
+  "Neshoba Central": {
+    "lat": 32.77701,
+    "lng": -89.12266,
+    "city": "Philadelphia"
   },
-  "Southaven": {
-    "lat": 34.9918,
-    "lng": -90.0023,
-    "city": "Southaven",
-    "state": "MS",
-    "conference": "MHSAA 7A"
+  "Center Hill": {
+    "lat": 34.95057,
+    "lng": -89.84197,
+    "city": "Olive Branch"
   },
-  "Southeast Lauderdale": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Meridian",
-    "state": "MS",
-    "conference": "MHSAA 3A"
+  "Grenada": {
+    "lat": 33.78144,
+    "lng": -89.81155,
+    "city": "Grenada"
   },
-  "St. Aloysius": {
-    "lat": 32.3526,
-    "lng": -90.8779,
-    "city": "Vicksburg",
-    "state": "MS",
-    "conference": "MHSAA 3A"
+  "Hattiesburg": {
+    "lat": 31.30541,
+    "lng": -89.32133,
+    "city": "Hattiesburg"
   },
-  "St. Andrew's Episcopal": {
-    "lat": 32.4285,
-    "lng": -90.1323,
-    "city": "Ridgeland",
-    "state": "MS",
-    "conference": "MHSAA 3A"
+  "Pearl River Central": {
+    "lat": 32.79688,
+    "lng": -89.2409,
+    "city": "Carriere"
   },
-  "St. Joseph": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Greenville",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "St. Joseph Catholic": {
-    "lat": 32.4618,
-    "lng": -90.1154,
-    "city": "Madison",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "St. Joseph Greenville": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "St. Joseph Madison": {
-    "lat": 32.4618,
-    "lng": -90.1154,
-    "city": "Madison",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "St. Martin": {
-    "lat": 30.4113,
-    "lng": -88.8278,
-    "city": "Ocean Springs",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "St. Patrick": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Biloxi",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "St. Stanislaus": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Bay St Louis",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Starkville": {
-    "lat": 33.4504,
-    "lng": -88.8184,
-    "city": "Starkville",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Starkville Academy": {
-    "lat": 33.4504,
-    "lng": -88.8184,
-    "city": "Starkville",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Stone": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Strayhorn": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Sarah",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Stringer": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Sumrall": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Sumrall",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Sylva Bay Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Bay Springs",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Tallulah Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Tallulah",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Taylorsville": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Tensas Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "St Joseph",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Terry": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Terry",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Thrasher": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Booneville",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Tishomingo County": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Iuka",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Tri-County Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Flora",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Tunica Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Tunica",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Tupelo": {
-    "lat": 34.2576,
-    "lng": -88.7034,
-    "city": "Tupelo",
-    "state": "MS",
-    "conference": "MHSAA 7A"
-  },
-  "Tupelo Christian Prep": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Belden",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Tylertown": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Tylertown",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Union": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Union",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Union Christian Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Farmerville",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Union Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
-  },
-  "Unity Christian Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Leland",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "University Christian": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "MS",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Vancleave": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Vancleave",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Vardaman": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Velma Jackson": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Vicksburg": {
-    "lat": 32.3526,
-    "lng": -90.8779,
-    "city": "Vicksburg",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Walnut": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Walnut",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Warren Central": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
-  },
-  "Washington": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Greenville",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Washington School": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Water Valley": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Water Valley",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "Wayne Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Waynesboro",
-    "state": "MS",
-    "conference": "MHSAA 3A"
-  },
-  "Wayne County": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 5A"
-  },
-  "Weir": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "Wesson": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Wesson",
-    "state": "MS",
-    "conference": "MHSAA 2A"
-  },
-  "West Bolivar": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Rosedale",
-    "state": "MS",
-    "conference": "MHSAA 1A"
-  },
-  "West Harrison": {
-    "lat": 30.3674,
-    "lng": -89.0928,
-    "city": "Gulfport",
-    "state": "MS",
-    "conference": "MHSAA 7A"
+  "Canton": {
+    "lat": 32.59842,
+    "lng": -90.03219,
+    "city": "Canton"
   },
   "West Jones": {
-    "lat": 31.6941,
-    "lng": -89.1306,
-    "city": "Laurel",
-    "state": "MS",
-    "conference": "MHSAA 6A"
+    "lat": 31.6935,
+    "lng": -89.14317,
+    "city": "Laurel"
   },
-  "West Lauderdale": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Collinsville",
-    "state": "MS",
-    "conference": "MHSAA 4A"
+  "Gautier": {
+    "lat": 30.40621,
+    "lng": -88.65934,
+    "city": "Gautier"
   },
-  "West Lincoln": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Brookhaven",
-    "state": "MS",
-    "conference": "MHSAA 1A"
+  "Pascagoula": {
+    "lat": 30.35577,
+    "lng": -88.55573,
+    "city": "Pascagoula"
   },
-  "West Lowndes": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Columbus",
-    "state": "MS",
-    "conference": "MHSAA 1A"
+  "Ridgeland": {
+    "lat": 32.4261,
+    "lng": -90.16255,
+    "city": "Ridgeland"
   },
-  "West Marion": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
+  "Olive Branch": {
+    "lat": 34.95676,
+    "lng": -89.83711,
+    "city": "Olive Branch"
   },
-  "West Memphis Christian": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "West Memphis",
-    "state": "MS",
-    "conference": "MHSAA 3A"
+  "Terry": {
+    "lat": 32.10606,
+    "lng": -90.2926,
+    "city": "Terry"
   },
-  "West Point": {
-    "lat": 33.6076,
-    "lng": -88.6503,
-    "city": "West Point",
-    "state": "MS",
-    "conference": "MHSAA 5A"
+  "Hancock": {
+    "lat": 30.41844,
+    "lng": -89.42978,
+    "city": "Kiln"
   },
-  "West Tallahatchie": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Webb",
-    "state": "MS",
-    "conference": "MHSAA 1A"
+  "George County": {
+    "lat": 30.93121,
+    "lng": -88.5959,
+    "city": "Lucedale"
   },
-  "West Union": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
+  "Callaway": {
+    "lat": 32.31759,
+    "lng": -90.21797,
+    "city": "Jackson"
   },
-  "Wheeler Ms": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 4A"
+  "Long Beach": {
+    "lat": 30.35447,
+    "lng": -89.16268,
+    "city": "Long Beach"
   },
-  "Wilkinson County": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Woodville",
-    "state": "MS",
-    "conference": "MHSAA 2A"
+  "Saltillo": {
+    "lat": 34.38029,
+    "lng": -88.69622,
+    "city": "Saltillo"
   },
-  "Wilkinson County Christian Academy": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Woodville",
-    "state": "MS",
-    "conference": "MHSAA 2A"
+  "Greenville": {
+    "lat": 33.3815,
+    "lng": -91.05135,
+    "city": "Greenville"
   },
-  "Wingfield": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 6A"
+  "Forest Hill": {
+    "lat": 32.31272,
+    "lng": -90.21729,
+    "city": "Jackson"
+  },
+  "Jim Hill": {
+    "lat": 32.31302,
+    "lng": -90.21215,
+    "city": "Jackson"
   },
   "Winona": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
+    "lat": 33.49026,
+    "lng": -89.72929,
+    "city": "Winona"
   },
-  "Winona Christian": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Winona",
-    "state": "MS",
-    "conference": "MHSAA 2A"
+  "Noxubee County": {
+    "lat": 33.12206,
+    "lng": -88.55671,
+    "city": "Macon"
   },
-  "Winston Academy": {
-    "lat": 33.1237,
-    "lng": -89.0551,
-    "city": "Louisville",
-    "state": "MS",
-    "conference": "MHSAA 2A"
+  "Seminary": {
+    "lat": 31.5577,
+    "lng": -89.49931,
+    "city": "Seminary"
   },
-  "Yazoo City": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Yazoo City",
-    "state": "MS",
-    "conference": "MHSAA 4A"
+  "Raleigh": {
+    "lat": 32.03466,
+    "lng": -89.5257,
+    "city": "Raleigh"
+  },
+  "Choctaw County": {
+    "lat": 33.31144,
+    "lng": -89.17012,
+    "city": "Ackerman"
+  },
+  "Magee": {
+    "lat": 31.87301,
+    "lng": -89.734,
+    "city": "Magee"
+  },
+  "Edwards": {
+    "lat": 33.72491,
+    "lng": -90.55032,
+    "city": "Ruleville"
+  },
+  "Booneville": {
+    "lat": 34.66442,
+    "lng": -88.56799,
+    "city": "Booneville"
+  },
+  "Presbyterian Christian": {
+    "lat": 31.30947,
+    "lng": -89.31766,
+    "city": "Hattiesburg"
+  },
+  "Hazlehurst": {
+    "lat": 31.86386,
+    "lng": -90.39279,
+    "city": "Hazlehurst"
+  },
+  "Kossuth": {
+    "lat": 34.86937,
+    "lng": -88.64326,
+    "city": "Kossuth"
+  },
+  "Franklin County": {
+    "lat": 31.47201,
+    "lng": -90.89309,
+    "city": "Meadville"
+  },
+  "O'Bannon": {
+    "lat": 33.38048,
+    "lng": -91.05151,
+    "city": "Greenville"
+  },
+  "Aberdeen": {
+    "lat": 33.8283,
+    "lng": -88.55474,
+    "city": "Aberdeen"
+  },
+  "Jefferson Davis County": {
+    "lat": 31.49595,
+    "lng": -89.74493,
+    "city": "Bassfield"
+  },
+  "Port Gibson": {
+    "lat": 31.95582,
+    "lng": -90.98344,
+    "city": "Port Gibson"
+  },
+  "St. Stanislaus": {
+    "lat": 30.32822,
+    "lng": -89.36265,
+    "city": "Bay St. Louis"
+  },
+  "North Panola": {
+    "lat": 34.4355,
+    "lng": -89.91136,
+    "city": "Sardis"
+  },
+  "Tylertown": {
+    "lat": 31.11777,
+    "lng": -90.14256,
+    "city": "Tylertown"
+  },
+  "Independence": {
+    "lat": 34.70778,
+    "lng": -89.80752,
+    "city": "Independence"
+  },
+  "Union": {
+    "lat": 32.57113,
+    "lng": -89.1152,
+    "city": "Union"
+  },
+  "Southeast Lauderdale": {
+    "lat": 32.38609,
+    "lng": -88.69471,
+    "city": "Meridian"
+  },
+  "Quitman": {
+    "lat": 32.04152,
+    "lng": -88.72052,
+    "city": "Quitman"
+  },
+  "Jefferson County": {
+    "lat": 31.71221,
+    "lng": -91.06206,
+    "city": "Fayette"
+  },
+  "Pisgah": {
+    "lat": 30.45124,
+    "lng": -88.68138,
+    "city": "Sandhill"
+  },
+  "West Marion": {
+    "lat": 31.23855,
+    "lng": -89.88283,
+    "city": "Foxworth"
+  },
+  "Belmont": {
+    "lat": 34.50503,
+    "lng": -88.20831,
+    "city": "Belmont"
+  },
+  "Coahoma County": {
+    "lat": 34.19458,
+    "lng": -90.57064,
+    "city": "Clarksdale"
+  },
+  "Amanda Elzy": {
+    "lat": 33.51184,
+    "lng": -90.20289,
+    "city": "Greenwood"
   },
   "Yazoo County": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Yazoo City",
-    "state": "MS",
-    "conference": "MHSAA 3A"
+    "lat": 32.8577,
+    "lng": -90.40792,
+    "city": "Yazoo City"
   },
-  "east webster": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
+  "Alcorn Central": {
+    "lat": 34.85822,
+    "lng": -88.41757,
+    "city": "Glen"
   },
-  "enterprise-clarke": {
-    "lat": 32.2988,
-    "lng": -90.1848,
-    "city": "Jackson",
-    "state": "MS",
-    "conference": "MHSAA 3A"
+  "Mantachie": {
+    "lat": 34.32134,
+    "lng": -88.50257,
+    "city": "Mantachie"
+  },
+  "Nettleton": {
+    "lat": 34.08307,
+    "lng": -88.6263,
+    "city": "Nettleton"
+  },
+  "St. Patrick": {
+    "lat": 30.42296,
+    "lng": -88.93661,
+    "city": "Biloxi"
+  },
+  "Holly Springs": {
+    "lat": 34.78415,
+    "lng": -89.44614,
+    "city": "Holly Springs"
+  },
+  "St. Andrew's Episcopal": {
+    "lat": 32.41912,
+    "lng": -90.16588,
+    "city": "Ridgeland"
+  },
+  "McLaurin": {
+    "lat": 32.15362,
+    "lng": -90.12266,
+    "city": "Florence"
+  },
+  "Humphreys County": {
+    "lat": 33.1805,
+    "lng": -90.48629,
+    "city": "Belzoni"
+  },
+  "Crystal Springs": {
+    "lat": 31.98995,
+    "lng": -90.35533,
+    "city": "Crystal Springs"
+  },
+  "Brookhaven": {
+    "lat": 31.58095,
+    "lng": -90.44124,
+    "city": "Brookhaven"
+  },
+  "West Point": {
+    "lat": 33.60624,
+    "lng": -88.65757,
+    "city": "West Point"
+  },
+  "Pontotoc": {
+    "lat": 34.2567,
+    "lng": -89.00588,
+    "city": "Pontotoc"
+  },
+  "New Hope": {
+    "lat": 33.50821,
+    "lng": -88.40117,
+    "city": "Columbus"
+  },
+  "Laurel": {
+    "lat": 31.68938,
+    "lng": -89.15396,
+    "city": "Laurel"
+  },
+  "Lafayette": {
+    "lat": 34.34866,
+    "lng": -89.53778,
+    "city": "Oxford"
+  },
+  "Cleveland Central": {
+    "lat": 33.74401,
+    "lng": -90.72848,
+    "city": "Cleveland"
+  },
+  "Wayne County": {
+    "lat": 31.67756,
+    "lng": -88.63384,
+    "city": "Waynesboro"
+  },
+  "Natchez": {
+    "lat": 31.54244,
+    "lng": -91.38565,
+    "city": "Natchez"
+  },
+  "Lanier": {
+    "lat": 32.31113,
+    "lng": -90.2159,
+    "city": "Jackson"
+  },
+  "Leake": {
+    "lat": 32.74423,
+    "lng": -89.53345,
+    "city": "Carthage"
+  },
+  "Stone": {
+    "lat": 30.85605,
+    "lng": -89.13898,
+    "city": "Wiggins"
+  },
+  "South Jones": {
+    "lat": 31.59728,
+    "lng": -89.21027,
+    "city": "Ellisville"
+  },
+  "Caledonia": {
+    "lat": 33.68361,
+    "lng": -88.32602,
+    "city": "Caledonia"
+  },
+  "Sumrall": {
+    "lat": 31.41703,
+    "lng": -89.54178,
+    "city": "Sumrall"
+  },
+  "Vicksburg": {
+    "lat": 32.3239,
+    "lng": -90.87687,
+    "city": "Vicksburg"
+  },
+  "East Central": {
+    "lat": 30.42538,
+    "lng": -88.53576,
+    "city": "Moss Point"
+  },
+  "Florence": {
+    "lat": 32.15649,
+    "lng": -90.12026,
+    "city": "Florence"
+  },
+  "Purvis": {
+    "lat": 31.14637,
+    "lng": -89.40628,
+    "city": "Purvis"
+  },
+  "Holmes County Central": {
+    "lat": 33.11709,
+    "lng": -90.04962,
+    "city": "Lexington"
+  },
+  "Northeast Jones": {
+    "lat": 31.69527,
+    "lng": -89.14673,
+    "city": "Laurel"
+  },
+  "North Pike": {
+    "lat": 31.28082,
+    "lng": -90.46698,
+    "city": "Summit"
+  },
+  "Provine": {
+    "lat": 32.31239,
+    "lng": -90.21124,
+    "city": "Jackson"
+  },
+  "Vancleave": {
+    "lat": 30.54592,
+    "lng": -88.67341,
+    "city": "Vancleave"
+  },
+  "Columbus": {
+    "lat": 33.50535,
+    "lng": -88.40989,
+    "city": "Columbus"
+  },
+  "Heidelberg": {
+    "lat": 31.89051,
+    "lng": -88.99022,
+    "city": "Heidelberg"
+  },
+  "Wesson": {
+    "lat": 31.69993,
+    "lng": -90.39504,
+    "city": "Wesson"
+  },
+  "Kemper County": {
+    "lat": 32.7731,
+    "lng": -88.6561,
+    "city": "DeKalb"
+  },
+  "East Webster": {
+    "lat": 33.55417,
+    "lng": -89.08104,
+    "city": "Maben"
+  },
+  "Amite County": {
+    "lat": 31.1619,
+    "lng": -90.79833,
+    "city": "Liberty"
+  },
+  "East Marion": {
+    "lat": 31.25677,
+    "lng": -89.81493,
+    "city": "Columbia"
+  },
+  "Scott Central": {
+    "lat": 32.36008,
+    "lng": -89.4779,
+    "city": "Forest"
+  },
+  "Eupora": {
+    "lat": 33.54256,
+    "lng": -89.27934,
+    "city": "Eupora"
+  },
+  "North Side": {
+    "lat": 33.95053,
+    "lng": -90.76509,
+    "city": "Shelby"
+  },
+  "Mize": {
+    "lat": 31.86642,
+    "lng": -89.55416,
+    "city": "Mize"
+  },
+  "Perry Central": {
+    "lat": 31.20338,
+    "lng": -89.02934,
+    "city": "New Augusta"
+  },
+  "Charleston": {
+    "lat": 34.00765,
+    "lng": -90.05517,
+    "city": "Charleston"
+  },
+  "Myrtle": {
+    "lat": 34.56052,
+    "lng": -89.11786,
+    "city": "Myrtle"
+  },
+  "Baldwyn": {
+    "lat": 34.50549,
+    "lng": -88.64279,
+    "city": "Baldwyn"
+  },
+  "Enterprise": {
+    "lat": 32.17254,
+    "lng": -88.81582,
+    "city": "Enterprise"
+  },
+  "Clarkdale": {
+    "lat": 32.38154,
+    "lng": -88.68822,
+    "city": "Meridian"
+  },
+  "Bruce": {
+    "lat": 33.99091,
+    "lng": -89.34546,
+    "city": "Bruce"
+  },
+  "Bay Springs": {
+    "lat": 31.978,
+    "lng": -89.27961,
+    "city": "Bay Springs"
+  },
+  "Water Valley": {
+    "lat": 34.16199,
+    "lng": -89.63012,
+    "city": "Water Valley"
+  },
+  "Lake": {
+    "lat": 32.32999,
+    "lng": -89.31435,
+    "city": "Lake"
+  },
+  "Wilkinson County": {
+    "lat": 31.10289,
+    "lng": -91.29926,
+    "city": "Woodville"
+  },
+  "Velma Jackson": {
+    "lat": 32.78236,
+    "lng": -89.83869,
+    "city": "Camden"
+  },
+  "Loyd Star": {
+    "lat": 31.58472,
+    "lng": -90.44361,
+    "city": "Brookhaven"
+  },
+  "Collins": {
+    "lat": 31.64827,
+    "lng": -89.56758,
+    "city": "Collins"
+  },
+  "Hamilton": {
+    "lat": 33.74658,
+    "lng": -88.40758,
+    "city": "Hamilton"
+  },
+  "Puckett": {
+    "lat": 32.08683,
+    "lng": -89.78169,
+    "city": "Puckett"
+  },
+  "North Forrest": {
+    "lat": 31.30737,
+    "lng": -89.32105,
+    "city": "Hattiesburg"
+  },
+  "Pelahatchie": {
+    "lat": 32.3209,
+    "lng": -89.80795,
+    "city": "Pelahatchie"
+  },
+  "J.Z. George": {
+    "lat": 33.51863,
+    "lng": -89.9194,
+    "city": "North Carrollton"
+  },
+  "Hatley": {
+    "lat": 33.98319,
+    "lng": -88.48674,
+    "city": "Amory"
+  },
+  "Newton": {
+    "lat": 32.33011,
+    "lng": -89.14753,
+    "city": "Newton"
+  },
+  "Walnut": {
+    "lat": 34.94967,
+    "lng": -88.92445,
+    "city": "Walnut"
+  },
+  "Sacred Heart": {
+    "lat": 31.30928,
+    "lng": -89.31712,
+    "city": "Hattiesburg"
+  },
+  "Philadelphia": {
+    "lat": 32.77421,
+    "lng": -89.11892,
+    "city": "Philadelphia"
+  },
+  "Leland": {
+    "lat": 33.40483,
+    "lng": -90.89092,
+    "city": "Leland"
+  },
+  "Strayhorn": {
+    "lat": 34.6159,
+    "lng": -90.15257,
+    "city": "Sarah"
+  },
+  "East Union": {
+    "lat": 34.39278,
+    "lng": -88.88327,
+    "city": "Blue Springs"
+  },
+  "Palmer": {
+    "lat": 34.25352,
+    "lng": -90.27222,
+    "city": "Marks"
+  },
+  "Tupelo": {
+    "lat": 34.2706,
+    "lng": -88.73246,
+    "city": "Tupelo"
+  },
+  "Gulfport": {
+    "lat": 30.41663,
+    "lng": -89.06787,
+    "city": "Gulfport"
+  },
+  "Brandon": {
+    "lat": 32.27619,
+    "lng": -89.98679,
+    "city": "Brandon"
+  },
+  "Starkville": {
+    "lat": 33.46326,
+    "lng": -88.8278,
+    "city": "Starkville"
+  },
+  "Germantown": {
+    "lat": 32.47827,
+    "lng": -90.12977,
+    "city": "Madison"
+  },
+  "Oak Grove": {
+    "lat": 31.30378,
+    "lng": -89.31308,
+    "city": "Hattiesburg"
+  },
+  "Oxford": {
+    "lat": 34.3554,
+    "lng": -89.53741,
+    "city": "Oxford"
+  },
+  "Meridian": {
+    "lat": 32.38072,
+    "lng": -88.69178,
+    "city": "Meridian"
+  },
+  "Madison Central": {
+    "lat": 32.47218,
+    "lng": -90.13192,
+    "city": "Madison"
+  },
+  "Petal": {
+    "lat": 31.34817,
+    "lng": -89.23513,
+    "city": "Petal"
+  },
+  "D'Iberville": {
+    "lat": 30.44352,
+    "lng": -88.89536,
+    "city": "Diberville"
+  },
+  "Northwest Rankin": {
+    "lat": 32.27564,
+    "lng": -89.98566,
+    "city": "Brandon"
+  },
+  "Clinton": {
+    "lat": 32.35444,
+    "lng": -90.34189,
+    "city": "Clinton"
+  },
+  "DeSoto Central": {
+    "lat": 34.95435,
+    "lng": -89.9769,
+    "city": "Southaven"
+  },
+  "St. Martin": {
+    "lat": 30.40477,
+    "lng": -88.78932,
+    "city": "Ocean Springs"
+  },
+  "Hernando": {
+    "lat": 34.84959,
+    "lng": -89.9924,
+    "city": "Hernando"
+  },
+  "Ocean Springs": {
+    "lat": 30.40087,
+    "lng": -88.7864,
+    "city": "Ocean Springs"
+  },
+  "Biloxi": {
+    "lat": 30.42738,
+    "lng": -88.93389,
+    "city": "Biloxi"
+  },
+  "Horn Lake": {
+    "lat": 34.95208,
+    "lng": -90.04921,
+    "city": "Horn Lake"
+  },
+  "West Harrison": {
+    "lat": 30.41973,
+    "lng": -89.06703,
+    "city": "Gulfport"
+  },
+  "Pearl": {
+    "lat": 32.27246,
+    "lng": -90.09183,
+    "city": "Pearl"
+  },
+  "Southaven": {
+    "lat": 34.95514,
+    "lng": -89.97901,
+    "city": "Southaven"
+  },
+  "Harrison Central": {
+    "lat": 30.4221,
+    "lng": -89.06775,
+    "city": "Gulfport"
+  },
+  "Lewisburg": {
+    "lat": 34.96059,
+    "lng": -89.83737,
+    "city": "Olive Branch"
+  },
+  "Murrah": {
+    "lat": 32.31727,
+    "lng": -90.21054,
+    "city": "Jackson"
+  },
+  "Louisville": {
+    "lat": 33.12574,
+    "lng": -89.05363,
+    "city": "Louisville"
+  },
+  "Poplarville": {
+    "lat": 30.8397,
+    "lng": -89.53009,
+    "city": "Poplarville"
+  },
+  "Kosciusko": {
+    "lat": 33.05817,
+    "lng": -89.58936,
+    "city": "Kosciusko"
+  },
+  "Shannon": {
+    "lat": 34.11442,
+    "lng": -88.69313,
+    "city": "Shannon"
+  },
+  "Senatobia": {
+    "lat": 34.60865,
+    "lng": -89.98099,
+    "city": "Senatobia"
+  },
+  "McComb": {
+    "lat": 31.24447,
+    "lng": -90.47159,
+    "city": "Mccomb"
+  },
+  "Pass Christian": {
+    "lat": 30.31803,
+    "lng": -89.23908,
+    "city": "Pass Christian"
+  },
+  "Columbia": {
+    "lat": 31.26236,
+    "lng": -89.81503,
+    "city": "Columbia"
+  },
+  "Corinth": {
+    "lat": 34.9478,
+    "lng": -88.50732,
+    "city": "Corinth"
+  },
+  "Mendenhall": {
+    "lat": 31.9607,
+    "lng": -89.86948,
+    "city": "Mendenhall"
+  },
+  "Itawamba Agricultural": {
+    "lat": 34.26288,
+    "lng": -88.40193,
+    "city": "Fulton"
+  },
+  "New Albany": {
+    "lat": 34.49229,
+    "lng": -89.02172,
+    "city": "New Albany"
+  },
+  "Clarksdale": {
+    "lat": 34.19823,
+    "lng": -90.57259,
+    "city": "Clarksdale"
+  },
+  "Greenwood": {
+    "lat": 33.50779,
+    "lng": -90.19658,
+    "city": "Greenwood"
+  },
+  "Morton": {
+    "lat": 32.34553,
+    "lng": -89.65914,
+    "city": "Morton"
+  },
+  "Houston": {
+    "lat": 33.89619,
+    "lng": -89.00349,
+    "city": "Houston"
+  },
+  "Amory": {
+    "lat": 33.97933,
+    "lng": -88.48363,
+    "city": "Amory"
+  },
+  "Greene County": {
+    "lat": 31.1492,
+    "lng": -88.55585,
+    "city": "Leakesville"
+  },
+  "West Lauderdale": {
+    "lat": 32.48732,
+    "lng": -88.84431,
+    "city": "Collinsville"
+  },
+  "Richland": {
+    "lat": 32.23041,
+    "lng": -90.15962,
+    "city": "Richland"
+  },
+  "Forest": {
+    "lat": 32.36414,
+    "lng": -89.47531,
+    "city": "Forest"
+  },
+  "Rosa Fort": {
+    "lat": 34.68814,
+    "lng": -90.38094,
+    "city": "Tunica"
+  },
+  "Newton County": {
+    "lat": 32.43397,
+    "lng": -89.11123,
+    "city": "Decatur"
+  },
+  "South Pike": {
+    "lat": 31.16116,
+    "lng": -90.46953,
+    "city": "Magnolia"
+  },
+  "Choctaw Central": {
+    "lat": 32.77539,
+    "lng": -89.12475,
+    "city": "Philadelphia"
+  },
+  "Forrest County Agricultural": {
+    "lat": 31.05769,
+    "lng": -89.18928,
+    "city": "Brooklyn"
+  },
+  "North Pontotoc": {
+    "lat": 34.34799,
+    "lng": -89.02563,
+    "city": "Ecru"
+  },
+  "Ripley": {
+    "lat": 34.7359,
+    "lng": -88.93603,
+    "city": "Ripley"
+  },
+  "Tishomingo County": {
+    "lat": 34.80738,
+    "lng": -88.19692,
+    "city": "Iuka"
+  },
+  "Mooreville": {
+    "lat": 34.2649,
+    "lng": -88.57687,
+    "city": "Mooreville"
+  },
+  "Lawrence County": {
+    "lat": 31.55324,
+    "lng": -90.11867,
+    "city": "Monticello"
+  },
+  "Yazoo City": {
+    "lat": 32.85908,
+    "lng": -90.41073,
+    "city": "Yazoo City"
+  },
+  "Moss Point": {
+    "lat": 30.42758,
+    "lng": -88.53732,
+    "city": "Moss Point"
+  },
+  "Bay": {
+    "lat": 30.32266,
+    "lng": -89.35507,
+    "city": "Bay St. Louis"
+  },
+  "Gentry": {
+    "lat": 33.4489,
+    "lng": -90.64375,
+    "city": "Indianola"
+  },
+  "Northeast Lauderdale": {
+    "lat": 32.38271,
+    "lng": -88.68809,
+    "city": "Meridian"
+  },
+  "South Pontotoc": {
+    "lat": 34.2497,
+    "lng": -89.011,
+    "city": "Pontotoc"
+  },
+  "Raymond": {
+    "lat": 32.26097,
+    "lng": -90.40902,
+    "city": "Raymond"
+  },
+  "Byhalia": {
+    "lat": 34.86919,
+    "lng": -89.68999,
+    "city": "Byhalia"
+  },
+  "Leflore County": {
+    "lat": 33.50087,
+    "lng": -90.32429,
+    "city": "Itta Bena"
+  },
+  "Simmons": {
+    "lat": 33.1761,
+    "lng": -90.8529,
+    "city": "Hollandale"
+  },
+  "Tupelo Christian Prep": {
+    "lat": 34.2706,
+    "lng": -88.73246,
+    "city": "Belden"
+  },
+  "Calhoun City": {
+    "lat": 33.85935,
+    "lng": -89.31462,
+    "city": "Calhoun City"
+  },
+  "Nanih Waiya": {
+    "lat": 33.12684,
+    "lng": -89.05346,
+    "city": "Louisville"
+  },
+  "South Delta": {
+    "lat": 32.9073,
+    "lng": -90.87691,
+    "city": "Rolling Fork"
+  },
+  "Stringer": {
+    "lat": 31.86694,
+    "lng": -89.26331,
+    "city": "Stringer"
+  },
+  "Lumberton": {
+    "lat": 31.00587,
+    "lng": -89.45901,
+    "city": "Lumberton"
+  },
+  "Ethel": {
+    "lat": 33.12209,
+    "lng": -89.46502,
+    "city": "Ethel"
+  },
+  "Noxapater": {
+    "lat": 32.99358,
+    "lng": -89.06353,
+    "city": "Noxapater"
+  },
+  "Okolona": {
+    "lat": 34.00506,
+    "lng": -88.74769,
+    "city": "Okolona"
+  },
+  "Sebastopol": {
+    "lat": 32.56793,
+    "lng": -89.33399,
+    "city": "Sebastopol"
+  },
+  "West Tallahatchie": {
+    "lat": 33.94775,
+    "lng": -90.34633,
+    "city": "Webb"
+  },
+  "Potts Camp": {
+    "lat": 34.64919,
+    "lng": -89.30642,
+    "city": "Potts Camp"
+  },
+  "McAdams": {
+    "lat": 33.02272,
+    "lng": -89.68713,
+    "city": "Mcadams"
+  },
+  "French Camp Academy": {
+    "lat": 33.29233,
+    "lng": -89.39928,
+    "city": "French Camp"
+  },
+  "Smithville": {
+    "lat": 34.06796,
+    "lng": -88.39815,
+    "city": "Smithville"
+  },
+  "Bogue Chitto": {
+    "lat": 31.42942,
+    "lng": -90.46188,
+    "city": "Bogue Chitto"
+  },
+  "Shaw": {
+    "lat": 33.60149,
+    "lng": -90.77199,
+    "city": "Shaw"
+  },
+  "Coffeeville": {
+    "lat": 33.97649,
+    "lng": -89.68448,
+    "city": "Coffeeville"
+  },
+  "Biggersville": {
+    "lat": 34.94365,
+    "lng": -88.51667,
+    "city": "Corinth"
+  },
+  "Vardaman": {
+    "lat": 33.8822,
+    "lng": -89.1778,
+    "city": "Vardaman"
+  },
+  "West Bolivar": {
+    "lat": 33.86022,
+    "lng": -91.04353,
+    "city": "Rosedale"
+  },
+  "Richton": {
+    "lat": 31.34948,
+    "lng": -88.94074,
+    "city": "Richton"
+  },
+  "Taylorsville": {
+    "lat": 31.83217,
+    "lng": -89.43397,
+    "city": "Taylorsville"
+  },
+  "Salem": {
+    "lat": 31.11434,
+    "lng": -90.146,
+    "city": "Tylertown"
+  },
+  "Falkner": {
+    "lat": 34.83935,
+    "lng": -88.94841,
+    "city": "Falkner"
+  },
+  "Resurrection Catholic": {
+    "lat": 30.36183,
+    "lng": -88.55316,
+    "city": "Pascagoula"
+  },
+  "Mount Olive": {
+    "lat": 31.75381,
+    "lng": -89.65595,
+    "city": "Mount Olive"
+  },
+  "West Lowndes": {
+    "lat": 33.50532,
+    "lng": -88.40688,
+    "city": "Columbus"
+  },
+  "Riverside": {
+    "lat": 33.23012,
+    "lng": -91.04733,
+    "city": "Avon"
+  },
+  "Ashland": {
+    "lat": 34.83412,
+    "lng": -89.17774,
+    "city": "Ashland"
+  },
+  "Byers": {
+    "lat": 34.78317,
+    "lng": -89.44749,
+    "city": "Holly Springs"
+  },
+  "West Lincoln": {
+    "lat": 31.58262,
+    "lng": -90.43857,
+    "city": "Brookhaven"
   }
 }

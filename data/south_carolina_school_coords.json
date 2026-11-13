@@ -1,2214 +1,1032 @@
 {
-  "A.C. Flora": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Abbeville": {
-    "lat": 34.1782,
-    "lng": -82.379,
-    "city": "Abbeville",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Abbeville High": {
-    "lat": 34.1782,
-    "lng": -82.379,
-    "city": "Abbeville",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Ac Flora": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "Academic Magnet": {
-    "lat": 32.8546,
-    "lng": -79.9748,
-    "city": "North Charleston",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Aiken": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Aiken",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Aiken High": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Airport": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "West Columbia",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Allendale": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Allendale-Fairfax": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Fairfax",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "American Leadership": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "American Leadership Academy": {
-    "lat": 33.9815,
-    "lng": -81.2362,
-    "city": "Lexington",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Anderson": {
-    "lat": 34.5034,
-    "lng": -82.6501,
-    "city": "Anderson",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Andrew Jackson": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Kershaw",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Andrew Jackson Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Ehrhardt",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Andrews": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Arcadia": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Ashley Ridge": {
-    "lat": 33.0185,
-    "lng": -80.1756,
-    "city": "Summerville",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "Atlantic Beach": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "Atlantic Collegiate Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Conway",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Augusta Christian": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Martinez",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Awendaw": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Aynor": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Aynor",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Bamberg": {
-    "lat": 33.2974,
-    "lng": -81.0348,
-    "city": "Bamberg",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Bamberg-Ehrhardt": {
-    "lat": 33.2974,
-    "lng": -81.0348,
-    "city": "Bamberg",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Baptist Hill": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Hollywood",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Barnwell": {
-    "lat": 33.2451,
-    "lng": -81.3607,
-    "city": "Barnwell",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Batesburg-Leesville": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Battery Creek": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Beaufort",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Beaufort": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Beaufort",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Beaufort Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Beaufort",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Belton": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Belton-Honea Path": {
-    "lat": 34.4451,
-    "lng": -82.3921,
-    "city": "Honea Path",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Ben Lippen": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Bennettsville": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Berea": {
-    "lat": 34.8526,
-    "lng": -82.394,
-    "city": "Greenville",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Berkeley": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Bethesda Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Savannah",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Bethune": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Bethune-Bowman": {
-    "lat": 33.4918,
-    "lng": -80.8556,
-    "city": "Orangeburg",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Bishop England": {
-    "lat": 32.7765,
-    "lng": -79.9311,
-    "city": "Charleston",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Bishopville": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Blacksburg": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Blacksburg",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Blackville": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "Blackville-Hilda": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Blenheim": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Blue Ridge": {
-    "lat": 34.9387,
-    "lng": -82.2271,
-    "city": "Greer",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Bluffton": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Bluffton",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Blythewood": {
-    "lat": 34.2143,
-    "lng": -80.9743,
-    "city": "Blythewood",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "Bonneau": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Branchville": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Branchville",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Brookland-Cayce": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Broome": {
-    "lat": 34.9496,
-    "lng": -81.932,
-    "city": "Spartanburg",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Buford": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Lancaster",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Buford Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Burke": {
-    "lat": 32.7765,
-    "lng": -79.9311,
-    "city": "Charleston",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Byrnes": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "C.A. Johnson": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Calhoun Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "St Matthews",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Calhoun County": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "St Matthews",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Calhoun Falls Charter": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Calhoun Falls",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Camden": {
-    "lat": 34.2465,
-    "lng": -80.607,
-    "city": "Camden",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Camden Military": {
-    "lat": 34.2465,
-    "lng": -80.607,
-    "city": "Camden",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Cane Bay": {
-    "lat": 33.0185,
-    "lng": -80.1756,
-    "city": "Summerville",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "Cardinal Newman": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Carolina": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Carolina Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Lake City",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Carolina Forest": {
-    "lat": 33.6891,
-    "lng": -78.8867,
-    "city": "Myrtle Beach",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Carvers Bay": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Hemingway",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Catawba Ridge": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Cathedral Academy": {
-    "lat": 32.8546,
-    "lng": -79.9748,
-    "city": "North Charleston",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Ce Murray": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Central (Pageland)": {
-    "lat": 34.7248,
-    "lng": -82.7801,
-    "city": "Central",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Central Pageland": {
-    "lat": 34.7248,
-    "lng": -82.7801,
-    "city": "Central",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Chapin": {
-    "lat": 34.166,
-    "lng": -81.3498,
-    "city": "Chapin",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Chapman": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Inman",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Cheraw": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Cheraw",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Chesnee": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Chesnee",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Chester": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Chesterfield": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Chesterfield",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Christ Church": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Christ Church Episcopal": {
-    "lat": 34.8526,
-    "lng": -82.394,
-    "city": "Greenville",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Clarendon Hall": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Summerton",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Clear Dot Charter": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Clinton": {
-    "lat": 34.4718,
-    "lng": -81.8798,
-    "city": "Clinton",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Clover": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Clover",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Colleton County": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Walterboro",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Colleton Prep Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Walterboro",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Columbia": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Columbia Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Conway": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Conway",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Conway Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Crescent": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Iva",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Cross": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Daniel": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Darlington": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Darlington",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Denmark-Olar": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Dillon": {
-    "lat": 34.4165,
-    "lng": -79.3712,
-    "city": "Dillon",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Dillon Christian": {
-    "lat": 34.4165,
-    "lng": -79.3712,
-    "city": "Dillon",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Dixie": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Due West",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Dorchester Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "St George",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Dorman": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "Dreher": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Dutch Fork": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "Easley": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Easley",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "East Clarendon": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Turbeville",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Eastside": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Taylors",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Eau Claire": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Edisto": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Cordova",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Emerald": {
-    "lat": 34.1954,
-    "lng": -82.1618,
-    "city": "Greenwood",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Fairfield Central": {
-    "lat": 34.7248,
-    "lng": -82.7801,
-    "city": "Central",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Faith Christian": {
-    "lat": 33.0185,
-    "lng": -80.1756,
-    "city": "Summerville",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "First Baptist Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "First Baptist School": {
-    "lat": 32.7765,
-    "lng": -79.9311,
-    "city": "Charleston",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Florence": {
-    "lat": 34.1954,
-    "lng": -79.7626,
-    "city": "Florence",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Florence Christian": {
-    "lat": 34.1954,
-    "lng": -79.7626,
-    "city": "Florence",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Fort Dorchester": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "Fort Mill": {
-    "lat": 35.0074,
-    "lng": -80.9451,
-    "city": "Fort Mill",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Fountain Inn": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Fountain Inn",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Fox Creek": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "North Augusta",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Gaffney": {
-    "lat": 35.0718,
-    "lng": -81.6501,
-    "city": "Gaffney",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Georgetown": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Georgetown",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Gilbert": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Goose Creek": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Goose Creek",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "Gray Collegiate": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Gray Collegiate Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "West Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Great Falls": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Great Falls",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Green Sea Floyds": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Green Sea",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Greenville": {
-    "lat": 34.8526,
-    "lng": -82.394,
-    "city": "Greenville",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Greenville Hurricanes": {
-    "lat": 34.8526,
-    "lng": -82.394,
-    "city": "Greenville",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Greenville Sc": {
-    "lat": 34.8526,
-    "lng": -82.394,
-    "city": "Greenville",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "Greenwood": {
-    "lat": 34.1954,
-    "lng": -82.1618,
-    "city": "Greenwood",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Greenwood Christian": {
-    "lat": 34.1954,
-    "lng": -82.1618,
-    "city": "Greenwood",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Greer": {
-    "lat": 34.9387,
-    "lng": -82.2271,
-    "city": "Greer",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Hammond": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Hammond Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Hampton County": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Hanahan": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Hanahan",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Hannah-Pamplico": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Hardeeville": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Hardeeville",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Hartsville": {
-    "lat": 34.374,
-    "lng": -80.0734,
-    "city": "Hartsville",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Heathwood Hall": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Heathwood Hall Episcopal": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Hemingway": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Hemingway",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Hillcrest": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Hilton Head": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Hilton Head Christian": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Hilton Head Christian Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Hilton Head Island",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Hilton Head Island": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Hilton Head Island",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Hilton Head Prep": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Hilton Head Island",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Hunter-Kinard-Tyler": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Indian Land": {
-    "lat": 35.0074,
-    "lng": -80.9451,
-    "city": "Fort Mill",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Inman": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 3A"
+  "South Pointe": {
+    "lat": 34.93232,
+    "lng": -81.01692,
+    "city": "Rock Hill"
   },
   "Irmo": {
-    "lat": 34.0865,
-    "lng": -81.1832,
-    "city": "Irmo",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "J.L. Mann": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "James F. Byrnes": {
-    "lat": 34.9382,
-    "lng": -82.1451,
-    "city": "Duncan",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "James Island": {
-    "lat": 32.7765,
-    "lng": -79.9311,
-    "city": "Charleston",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "John Paul II": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Ridgeland",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "John Paul Ii Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Johnsonville": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Keenan": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "King Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Batesburg",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "King's Academy": {
-    "lat": 34.1954,
-    "lng": -79.7626,
-    "city": "Florence",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Kingstree": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Kingstree",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Lake City": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Lake City",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Lake Marion": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Santee",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Lake View": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Lake Wylie": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "York",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Lakewood": {
-    "lat": 33.9204,
-    "lng": -80.3415,
-    "city": "Sumter",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Lakewood Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Lamar": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Lancaster": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Lancaster",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Lancaster Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Landrum": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Landrum",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Latta": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Latta",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Laurence Manning": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Laurence Manning Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Manning",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Laurens": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Laurens",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Lee Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Bishopville",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Lee Central": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Bishopville",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Lewisville": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Lexington": {
-    "lat": 33.9815,
-    "lng": -81.2362,
-    "city": "Lexington",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "Liberty": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Liberty",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Liberty Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Lincoln": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "SC",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Loris": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Lorris": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Lower Richland": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Lucy Beckham": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Mt Pleasant",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Lugoff-Elgin": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Lugoff",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Man Region I (8 Man)SCISA": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL District"
-  },
-  "Man Region II (8 Man)SCISA": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL District"
-  },
-  "Manning": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Manning",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Marion": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Marion",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Marion Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Marlboro County": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Mauldin": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Mauldin",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "May River": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Bluffton",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Mayo": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "McBee": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Mcbee",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "McCormick": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Mccormick",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Mid-Carolina": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Prosperity",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Midland Valley": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Graniteville",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Military Magnet Academy": {
-    "lat": 32.8546,
-    "lng": -79.9748,
-    "city": "North Charleston",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Mountain View Prep": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Mullins": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Mullins",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Myrtle Beach": {
-    "lat": 33.6891,
-    "lng": -78.8867,
-    "city": "Myrtle Beach",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Nation Ford": {
-    "lat": 35.0074,
-    "lng": -80.9451,
-    "city": "Fort Mill",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Newberry": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Newberry Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Newberry",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Ninety Six": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Ninety Six",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "North Augusta": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "North Central": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Kershaw",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "North Charleston": {
-    "lat": 32.8546,
-    "lng": -79.9748,
-    "city": "North Charleston",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "North Myrtle Beach": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Little River",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Northside Christian Academy": {
-    "lat": 33.9815,
-    "lng": -81.2362,
-    "city": "Lexington",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Northside Christian Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Northwestern": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Northwood Academy": {
-    "lat": 32.7765,
-    "lng": -79.9311,
-    "city": "Charleston",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Oakbrook Prep": {
-    "lat": 34.9496,
-    "lng": -81.932,
-    "city": "Spartanburg",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Oceanside Collegiate": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Oceanside Collegiate Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Mt Pleasant",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Orangeburg Christian Academy": {
-    "lat": 33.4918,
-    "lng": -80.8556,
-    "city": "Orangeburg",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Orangeburg Prep": {
-    "lat": 33.4918,
-    "lng": -80.8556,
-    "city": "Orangeburg",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Orangeburg-Wilkinson": {
-    "lat": 33.4918,
-    "lng": -80.8556,
-    "city": "Orangeburg",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Palmetto": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Williamston",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Palmetto Christian Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Mt Pleasant",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Palmetto Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Patrick Henry Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Estill",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Pee Dee Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Mullins",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Pelion": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Pelion",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Pendleton": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Philip Simmons": {
-    "lat": 32.7765,
-    "lng": -79.9311,
-    "city": "Charleston",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Pickens": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Pickens",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Pinewood Prep": {
-    "lat": 33.0185,
-    "lng": -80.1756,
-    "city": "Summerville",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Porter-Gaud": {
-    "lat": 32.7765,
-    "lng": -79.9311,
-    "city": "Charleston",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Powdersville": {
-    "lat": 34.8526,
-    "lng": -82.394,
-    "city": "Greenville",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Richland Northeast": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Ridge Spring-Monetta": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Monetta",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Ridge View": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Ridgeland Secondary Academy Of Excellence": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Ridgeland",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "River Bluff": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "Riverside": {
-    "lat": 34.9387,
-    "lng": -82.2271,
-    "city": "Greer",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Riverside Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Rock Hill": {
-    "lat": 34.9249,
-    "lng": -81.0251,
-    "city": "Rock Hill",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Saluda": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Scott's Branch": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Summerton",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Seneca": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Silver Bluff": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Socastee": {
-    "lat": 33.6891,
-    "lng": -78.8867,
-    "city": "Myrtle Beach",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "South Aiken": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Aiken",
-    "state": "SC",
-    "conference": "SCHSL 4A"
+    "lat": 34.04668,
+    "lng": -80.90752,
+    "city": "Columbia"
+  },
+  "Indian Land": {
+    "lat": 35.00616,
+    "lng": -80.94235,
+    "city": "Fort Mill"
+  },
+  "Gaffney": {
+    "lat": 35.07356,
+    "lng": -81.66153,
+    "city": "Gaffney"
   },
   "South Florence": {
-    "lat": 34.1954,
-    "lng": -79.7626,
-    "city": "Florence",
-    "state": "SC",
-    "conference": "SCHSL 4A"
+    "lat": 34.17982,
+    "lng": -79.79498,
+    "city": "Florence"
   },
-  "South Pointe": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
+  "Hilton Head Island": {
+    "lat": 32.19031,
+    "lng": -80.73843,
+    "city": "Hilton Head Island"
   },
-  "Southside": {
-    "lat": 34.8526,
-    "lng": -82.394,
-    "city": "Greenville",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Southside Christian": {
-    "lat": 34.7371,
-    "lng": -82.2543,
-    "city": "Simpsonville",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Spartanburg": {
-    "lat": 34.9496,
-    "lng": -81.932,
-    "city": "Spartanburg",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "Spartanburg Christian Academy": {
-    "lat": 34.9496,
-    "lng": -81.932,
-    "city": "Spartanburg",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Spartanburg Day": {
-    "lat": 34.9496,
-    "lng": -81.932,
-    "city": "Spartanburg",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Spring Valley": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "St. Frances": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "St. James": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Murrells Inlet",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "St. James Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "St. John'S Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "St. John's": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Johns Island",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "St. John's Christian Academy": {
-    "lat": 33.196,
-    "lng": -80.0131,
-    "city": "Moncks Corner",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "St. Joseph'S Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "St. Joseph's Catholic": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Stall": {
-    "lat": 32.7765,
-    "lng": -79.9311,
-    "city": "Charleston",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "Stratford": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Goose Creek",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Stratford Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Strom Thurmond": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Summerville": {
-    "lat": 33.0185,
-    "lng": -80.1756,
-    "city": "Summerville",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "Sumter": {
-    "lat": 33.9204,
-    "lng": -80.3415,
-    "city": "Sumter",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "Swansea": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Swansea",
-    "state": "SC",
-    "conference": "SCHSL 3A"
+  "North Augusta": {
+    "lat": 33.52198,
+    "lng": -81.95915,
+    "city": "North Augusta"
   },
   "T.L. Hanna": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
+    "lat": 34.52556,
+    "lng": -82.64022,
+    "city": "Anderson"
   },
-  "Thomas Heyward Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Ridgeland",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Thomas Sumter Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Dalzell",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Thornwell": {
-    "lat": 34.4718,
-    "lng": -81.8798,
-    "city": "Clinton",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Timberland": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "St Stephen",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Timmonsville": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Travelers Rest": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Travelers Rest",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Trinity Collegiate": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Darlington",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Union County": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Union",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Union County Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "W.J. Keenan": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Waccamaw": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Pawleys Island",
-    "state": "SC",
-    "conference": "SCHSL 2A"
-  },
-  "Wade Hampton": {
-    "lat": 34.8526,
-    "lng": -82.394,
-    "city": "Greenville",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Wade Hampton Estill": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Wadmalaw": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "Wagener-Salley": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Wagener",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Walhalla": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Walhalla",
-    "state": "SC",
-    "conference": "SCHSL 3A"
-  },
-  "Wando": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Mt Pleasant",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
-  },
-  "Wardlaw Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Johnston",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "Ware Shoals": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Ware Shoals",
-    "state": "SC",
-    "conference": "SCHSL 1A"
-  },
-  "West Ashley": {
-    "lat": 32.7765,
-    "lng": -79.9311,
-    "city": "Charleston",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
-  },
-  "West Florence": {
-    "lat": 34.1954,
-    "lng": -79.7626,
-    "city": "Florence",
-    "state": "SC",
-    "conference": "SCHSL 4A"
-  },
-  "West-Oak": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Westminster",
-    "state": "SC",
-    "conference": "SCHSL 2A"
+  "Lugoff-Elgin": {
+    "lat": 34.21195,
+    "lng": -80.6976,
+    "city": "Lugoff"
   },
   "Westside": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 4A"
+    "lat": 34.5257,
+    "lng": -82.64457,
+    "city": "Anderson"
   },
-  "Westwood": {
-    "lat": 34.2143,
-    "lng": -80.9743,
-    "city": "Blythewood",
-    "state": "SC",
-    "conference": "SCHSL 4A"
+  "Clover": {
+    "lat": 35.11162,
+    "lng": -81.22025,
+    "city": "Clover"
   },
-  "Westwood Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 3A"
+  "Lucy Beckham": {
+    "lat": 32.80407,
+    "lng": -79.86557,
+    "city": "Mt. Pleasant"
   },
-  "Whale Branch": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Beaufort",
-    "state": "SC",
-    "conference": "SCHSL 1A"
+  "Catawba Ridge": {
+    "lat": 35.0115,
+    "lng": -80.93821,
+    "city": "Fort Mill"
   },
-  "White Knoll": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
+  "Greenville": {
+    "lat": 34.83494,
+    "lng": -82.36204,
+    "city": "Greenville"
   },
-  "Whitmire": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Whitmire",
-    "state": "SC",
-    "conference": "SCHSL 1A"
+  "West Florence": {
+    "lat": 34.17284,
+    "lng": -79.79048,
+    "city": "Florence"
   },
-  "Williamsburg Academy": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Kingstree",
-    "state": "SC",
-    "conference": "SCHSL 2A"
+  "South Aiken": {
+    "lat": 33.53681,
+    "lng": -81.72553,
+    "city": "Aiken"
   },
-  "Williston-Elko": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
+  "Aiken": {
+    "lat": 33.52725,
+    "lng": -81.72492,
+    "city": "Aiken"
+  },
+  "Greenwood": {
+    "lat": 34.19073,
+    "lng": -82.15129,
+    "city": "Greenwood"
   },
   "Wilson": {
-    "lat": 34.1954,
-    "lng": -79.7626,
-    "city": "Florence",
-    "state": "SC",
-    "conference": "SCHSL 4A"
+    "lat": 34.18054,
+    "lng": -79.7934,
+    "city": "Florence"
   },
-  "Wilson Hall": {
-    "lat": 33.9204,
-    "lng": -80.3415,
-    "city": "Sumter",
-    "state": "SC",
-    "conference": "SCHSL 3A"
+  "Midland Valley": {
+    "lat": 33.56468,
+    "lng": -81.80923,
+    "city": "Graniteville"
   },
-  "Wilson Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 1A"
+  "Conway": {
+    "lat": 33.83468,
+    "lng": -79.04483,
+    "city": "Conway"
   },
-  "Woodland": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Dorchester",
-    "state": "SC",
-    "conference": "SCHSL 2A"
+  "Myrtle Beach": {
+    "lat": 33.71516,
+    "lng": -78.88988,
+    "city": "Myrtle Beach"
   },
-  "Woodland Sc": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D2"
+  "Fountain Inn": {
+    "lat": 34.69665,
+    "lng": -82.20213,
+    "city": "Fountain Inn"
   },
-  "Woodmont": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Piedmont",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
+  "Dreher": {
+    "lat": 34.04538,
+    "lng": -80.90567,
+    "city": "Columbia"
   },
-  "Woodruff": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 3A"
+  "North Myrtle Beach": {
+    "lat": 33.88065,
+    "lng": -78.64049,
+    "city": "Little River"
   },
-  "Wren": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 3A"
+  "Lancaster": {
+    "lat": 34.72692,
+    "lng": -80.78309,
+    "city": "Lancaster"
+  },
+  "A.C. Flora": {
+    "lat": 34.04413,
+    "lng": -80.90442,
+    "city": "Columbia"
   },
   "York": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "York",
-    "state": "SC",
-    "conference": "SCHSL 4A"
+    "lat": 35.00256,
+    "lng": -81.23728,
+    "city": "York"
   },
-  "boiling springs": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 5A-D1"
+  "Greer": {
+    "lat": 34.93077,
+    "lng": -82.2362,
+    "city": "Greer"
   },
-  "crestwood": {
-    "lat": 34.0007,
-    "lng": -81.0348,
-    "city": "Columbia",
-    "state": "SC",
-    "conference": "SCHSL 3A"
+  "Bluffton": {
+    "lat": 32.21205,
+    "lng": -80.92791,
+    "city": "Bluffton"
+  },
+  "May River": {
+    "lat": 32.21951,
+    "lng": -80.92962,
+    "city": "Bluffton"
+  },
+  "Laurens": {
+    "lat": 34.50269,
+    "lng": -82.02141,
+    "city": "Laurens"
+  },
+  "Nation Ford": {
+    "lat": 34.99987,
+    "lng": -80.93957,
+    "city": "Fort Mill"
+  },
+  "St. James": {
+    "lat": 33.55725,
+    "lng": -79.05716,
+    "city": "Murrells Inlet"
+  },
+  "Riverside": {
+    "lat": 34.93226,
+    "lng": -82.23251,
+    "city": "Greer"
+  },
+  "Westwood": {
+    "lat": 34.21529,
+    "lng": -80.99714,
+    "city": "Blythewood"
+  },
+  "Colleton County": {
+    "lat": 32.90133,
+    "lng": -80.67623,
+    "city": "Walterboro"
+  },
+  "Lake Wylie": {
+    "lat": 34.9956,
+    "lng": -81.231,
+    "city": "York"
+  },
+  "Richland Northeast": {
+    "lat": 34.03663,
+    "lng": -80.90259,
+    "city": "Columbia"
+  },
+  "Beaufort": {
+    "lat": 32.46102,
+    "lng": -80.72548,
+    "city": "Beaufort"
+  },
+  "Wade Hampton": {
+    "lat": 34.83889,
+    "lng": -82.36486,
+    "city": "Greenville"
+  },
+  "Easley": {
+    "lat": 34.81981,
+    "lng": -82.58216,
+    "city": "Easley"
+  },
+  "Travelers Rest": {
+    "lat": 34.96003,
+    "lng": -82.44501,
+    "city": "Travelers Rest"
+  },
+  "Fox Creek": {
+    "lat": 33.52045,
+    "lng": -81.95434,
+    "city": "North Augusta"
+  },
+  "Oceanside Collegiate Academy": {
+    "lat": 32.8058,
+    "lng": -79.86336,
+    "city": "Mt. Pleasant"
+  },
+  "Daniel": {
+    "lat": 34.7234,
+    "lng": -82.77471,
+    "city": "Central"
+  },
+  "Wren": {
+    "lat": 34.70797,
+    "lng": -82.46691,
+    "city": "Piedmont"
+  },
+  "Camden": {
+    "lat": 34.25893,
+    "lng": -80.6092,
+    "city": "Camden"
+  },
+  "Bishop England": {
+    "lat": 32.82296,
+    "lng": -79.97272,
+    "city": "Charleston"
+  },
+  "Powdersville": {
+    "lat": 34.83624,
+    "lng": -82.36838,
+    "city": "Greenville"
+  },
+  "Belton-Honea Path": {
+    "lat": 34.44762,
+    "lng": -82.39496,
+    "city": "Honea Path"
+  },
+  "Loris": {
+    "lat": 34.05748,
+    "lng": -78.88842,
+    "city": "Loris"
+  },
+  "Chapman": {
+    "lat": 35.04579,
+    "lng": -82.08849,
+    "city": "Inman"
+  },
+  "Hartsville": {
+    "lat": 34.366,
+    "lng": -80.08326,
+    "city": "Hartsville"
+  },
+  "Emerald": {
+    "lat": 34.19199,
+    "lng": -82.15414,
+    "city": "Greenwood"
+  },
+  "Hanahan": {
+    "lat": 32.93096,
+    "lng": -80.00217,
+    "city": "Hanahan"
+  },
+  "Gilbert": {
+    "lat": 33.92411,
+    "lng": -81.39104,
+    "city": "Gilbert"
+  },
+  "Crestwood": {
+    "lat": 33.93976,
+    "lng": -80.39115,
+    "city": "Sumter"
+  },
+  "Seneca": {
+    "lat": 34.68106,
+    "lng": -82.9656,
+    "city": "Seneca"
+  },
+  "Pickens": {
+    "lat": 34.88574,
+    "lng": -82.7102,
+    "city": "Pickens"
+  },
+  "Darlington": {
+    "lat": 34.30138,
+    "lng": -79.86717,
+    "city": "Darlington"
+  },
+  "Aynor": {
+    "lat": 34.00023,
+    "lng": -79.20712,
+    "city": "Aynor"
+  },
+  "Atlantic Collegiate Academy": {
+    "lat": 33.83548,
+    "lng": -79.0521,
+    "city": "Conway"
+  },
+  "Christ Church Episcopal": {
+    "lat": 34.83806,
+    "lng": -82.36115,
+    "city": "Greenville"
+  },
+  "Swansea": {
+    "lat": 33.74002,
+    "lng": -81.10452,
+    "city": "Swansea"
+  },
+  "Brookland-Cayce": {
+    "lat": 33.9505,
+    "lng": -81.03981,
+    "city": "Cayce"
+  },
+  "Georgetown": {
+    "lat": 33.37243,
+    "lng": -79.28079,
+    "city": "Georgetown"
+  },
+  "Palmetto": {
+    "lat": 34.61909,
+    "lng": -82.48039,
+    "city": "Williamston"
+  },
+  "Lower Richland": {
+    "lat": 33.90022,
+    "lng": -80.85675,
+    "city": "Hopkins"
+  },
+  "Blue Ridge": {
+    "lat": 34.9291,
+    "lng": -82.22631,
+    "city": "Greer"
+  },
+  "Airport": {
+    "lat": 33.99162,
+    "lng": -81.10204,
+    "city": "West Columbia"
+  },
+  "Walhalla": {
+    "lat": 34.7695,
+    "lng": -83.05545,
+    "city": "Walhalla"
+  },
+  "Broome": {
+    "lat": 34.94762,
+    "lng": -81.92939,
+    "city": "Spartanburg"
+  },
+  "Lakewood": {
+    "lat": 33.94285,
+    "lng": -80.3971,
+    "city": "Sumter"
+  },
+  "North Charleston": {
+    "lat": 32.91492,
+    "lng": -80.06865,
+    "city": "North Charleston"
+  },
+  "Southside": {
+    "lat": 34.8345,
+    "lng": -82.36683,
+    "city": "Greenville"
+  },
+  "Union County": {
+    "lat": 34.72382,
+    "lng": -81.62485,
+    "city": "Union"
+  },
+  "Berea": {
+    "lat": 34.83556,
+    "lng": -82.35887,
+    "city": "Greenville"
+  },
+  "Strom Thurmond": {
+    "lat": 33.83338,
+    "lng": -81.80482,
+    "city": "Johnston"
+  },
+  "Marlboro County": {
+    "lat": 34.62822,
+    "lng": -79.68596,
+    "city": "Bennettsville"
+  },
+  "Saluda": {
+    "lat": 34.00117,
+    "lng": -81.77164,
+    "city": "Saluda"
+  },
+  "Dillon": {
+    "lat": 34.42441,
+    "lng": -79.36756,
+    "city": "Dillon"
+  },
+  "Southside Christian": {
+    "lat": 34.72249,
+    "lng": -82.25531,
+    "city": "Simpsonville"
+  },
+  "Mid-Carolina": {
+    "lat": 34.21337,
+    "lng": -81.52839,
+    "city": "Prosperity"
+  },
+  "Crescent": {
+    "lat": 34.30815,
+    "lng": -82.66344,
+    "city": "Iva"
+  },
+  "Woodland": {
+    "lat": 33.07563,
+    "lng": -80.34311,
+    "city": "Dorchester"
+  },
+  "Orangeburg-Wilkinson": {
+    "lat": 33.49858,
+    "lng": -80.8685,
+    "city": "Orangeburg"
+  },
+  "Philip Simmons": {
+    "lat": 32.83291,
+    "lng": -79.97102,
+    "city": "Charleston"
+  },
+  "St. Joseph's Catholic": {
+    "lat": 34.8369,
+    "lng": -82.35668,
+    "city": "Greenville"
+  },
+  "Clinton": {
+    "lat": 34.46939,
+    "lng": -81.86481,
+    "city": "Clinton"
+  },
+  "Chesnee": {
+    "lat": 35.14625,
+    "lng": -81.86298,
+    "city": "Chesnee"
+  },
+  "Mountain View Prep": {
+    "lat": 34.95119,
+    "lng": -81.92662,
+    "city": "Spartanburg"
+  },
+  "Keenan": {
+    "lat": 34.0357,
+    "lng": -80.9096,
+    "city": "Columbia"
+  },
+  "Manning": {
+    "lat": 33.69332,
+    "lng": -80.21676,
+    "city": "Manning"
+  },
+  "Woodruff": {
+    "lat": 34.7451,
+    "lng": -82.03745,
+    "city": "Woodruff"
+  },
+  "Battery Creek": {
+    "lat": 32.46016,
+    "lng": -80.72318,
+    "city": "Beaufort"
+  },
+  "Newberry": {
+    "lat": 34.27988,
+    "lng": -81.60033,
+    "city": "Newberry"
+  },
+  "East Clarendon": {
+    "lat": 33.88954,
+    "lng": -80.01615,
+    "city": "Turbeville"
+  },
+  "Waccamaw": {
+    "lat": 33.42809,
+    "lng": -79.12499,
+    "city": "Pawley's Island"
+  },
+  "Andrew Jackson": {
+    "lat": 34.54488,
+    "lng": -80.58539,
+    "city": "Kershaw"
+  },
+  "Chester": {
+    "lat": 34.70502,
+    "lng": -81.21322,
+    "city": "Chester"
+  },
+  "Lake Marion": {
+    "lat": 33.48458,
+    "lng": -80.48998,
+    "city": "Santee"
+  },
+  "Liberty": {
+    "lat": 34.79132,
+    "lng": -82.69633,
+    "city": "Liberty"
+  },
+  "Silver Bluff": {
+    "lat": 33.52892,
+    "lng": -81.72394,
+    "city": "Aiken"
+  },
+  "Pendleton": {
+    "lat": 34.64224,
+    "lng": -82.77911,
+    "city": "Pendleton"
+  },
+  "Academic Magnet": {
+    "lat": 32.91687,
+    "lng": -80.06977,
+    "city": "North Charleston"
+  },
+  "Lake City": {
+    "lat": 33.86773,
+    "lng": -79.75388,
+    "city": "Lake City"
+  },
+  "Pelion": {
+    "lat": 33.78486,
+    "lng": -81.25968,
+    "city": "Pelion"
+  },
+  "Landrum": {
+    "lat": 35.17509,
+    "lng": -82.18573,
+    "city": "Landrum"
+  },
+  "Timberland": {
+    "lat": 33.40263,
+    "lng": -79.92519,
+    "city": "St. Stephen"
+  },
+  "West-Oak": {
+    "lat": 34.66656,
+    "lng": -83.09066,
+    "city": "Westminster"
+  },
+  "Columbia": {
+    "lat": 34.04429,
+    "lng": -80.90246,
+    "city": "Columbia"
+  },
+  "Carolina Academy": {
+    "lat": 34.83659,
+    "lng": -82.35705,
+    "city": "Greenville"
+  },
+  "American Leadership Academy": {
+    "lat": 33.99032,
+    "lng": -81.22273,
+    "city": "Lexington"
+  },
+  "Northwestern": {
+    "lat": 34.93982,
+    "lng": -81.02038,
+    "city": "Rock Hill"
+  },
+  "Dutch Fork": {
+    "lat": 34.1026,
+    "lng": -81.1959,
+    "city": "Irmo"
+  },
+  "Dorman": {
+    "lat": 34.87899,
+    "lng": -81.96444,
+    "city": "Roebuck"
+  },
+  "Fort Mill": {
+    "lat": 35.01192,
+    "lng": -80.94073,
+    "city": "Fort Mill"
+  },
+  "Rock Hill": {
+    "lat": 34.94219,
+    "lng": -81.01897,
+    "city": "Rock Hill"
+  },
+  "James Island": {
+    "lat": 32.82372,
+    "lng": -79.97677,
+    "city": "Charleston"
+  },
+  "Ridge View": {
+    "lat": 34.04234,
+    "lng": -80.90081,
+    "city": "Columbia"
+  },
+  "Boiling Springs": {
+    "lat": 34.94978,
+    "lng": -81.92623,
+    "city": "Spartanburg"
+  },
+  "Berkeley": {
+    "lat": 33.19976,
+    "lng": -79.9866,
+    "city": "Moncks Corner"
+  },
+  "James F. Byrnes": {
+    "lat": 34.93243,
+    "lng": -82.14369,
+    "city": "Duncan"
+  },
+  "Sumter": {
+    "lat": 33.94406,
+    "lng": -80.39898,
+    "city": "Sumter"
+  },
+  "Summerville": {
+    "lat": 33.00405,
+    "lng": -80.17439,
+    "city": "Summerville"
+  },
+  "Spartanburg": {
+    "lat": 34.94759,
+    "lng": -81.9308,
+    "city": "Spartanburg"
+  },
+  "Gray Collegiate Academy": {
+    "lat": 33.99364,
+    "lng": -81.0968,
+    "city": "West Columbia"
+  },
+  "Carolina Forest": {
+    "lat": 33.71243,
+    "lng": -78.88484,
+    "city": "Myrtle Beach"
+  },
+  "River Bluff": {
+    "lat": 33.99072,
+    "lng": -81.21986,
+    "city": "Lexington"
+  },
+  "Lexington": {
+    "lat": 33.99773,
+    "lng": -81.22231,
+    "city": "Lexington"
+  },
+  "Hillcrest": {
+    "lat": 34.72955,
+    "lng": -82.25234,
+    "city": "Simpsonville"
+  },
+  "Ashley Ridge": {
+    "lat": 33.00944,
+    "lng": -80.17502,
+    "city": "Summerville"
+  },
+  "Chapin": {
+    "lat": 34.16525,
+    "lng": -81.33934,
+    "city": "Chapin"
+  },
+  "White Knoll": {
+    "lat": 33.99433,
+    "lng": -81.22721,
+    "city": "Lexington"
+  },
+  "Fort Dorchester": {
+    "lat": 32.92078,
+    "lng": -80.0651,
+    "city": "North Charleston"
+  },
+  "Wando": {
+    "lat": 32.80443,
+    "lng": -79.86791,
+    "city": "Mt. Pleasant"
+  },
+  "J.L. Mann": {
+    "lat": 34.83326,
+    "lng": -82.36677,
+    "city": "Greenville"
+  },
+  "Blythewood": {
+    "lat": 34.21192,
+    "lng": -80.99581,
+    "city": "Blythewood"
+  },
+  "Woodmont": {
+    "lat": 34.70764,
+    "lng": -82.46797,
+    "city": "Piedmont"
+  },
+  "Socastee": {
+    "lat": 33.71367,
+    "lng": -78.88887,
+    "city": "Myrtle Beach"
+  },
+  "Mauldin": {
+    "lat": 34.78102,
+    "lng": -82.30423,
+    "city": "Mauldin"
+  },
+  "Cane Bay": {
+    "lat": 33.00698,
+    "lng": -80.17725,
+    "city": "Summerville"
+  },
+  "Stratford": {
+    "lat": 32.99608,
+    "lng": -80.01528,
+    "city": "Goose Creek"
+  },
+  "Eastside": {
+    "lat": 34.91431,
+    "lng": -82.31391,
+    "city": "Taylors"
+  },
+  "West Ashley": {
+    "lat": 32.82794,
+    "lng": -79.97742,
+    "city": "Charleston"
+  },
+  "Goose Creek": {
+    "lat": 32.99295,
+    "lng": -80.00439,
+    "city": "Goose Creek"
+  },
+  "Spring Valley": {
+    "lat": 34.04069,
+    "lng": -80.91098,
+    "city": "Columbia"
+  },
+  "Stall": {
+    "lat": 32.829,
+    "lng": -79.9683,
+    "city": "Charleston"
+  },
+  "Bamberg-Ehrhardt": {
+    "lat": 33.30014,
+    "lng": -81.03122,
+    "city": "Bamberg"
+  },
+  "Fairfield Central": {
+    "lat": 34.3686,
+    "lng": -81.09138,
+    "city": "Winnsboro"
+  },
+  "Abbeville": {
+    "lat": 34.17854,
+    "lng": -82.37769,
+    "city": "Abbeville"
+  },
+  "Central": {
+    "lat": 34.77012,
+    "lng": -80.38571,
+    "city": "Pageland"
+  },
+  "Lamar": {
+    "lat": 34.16947,
+    "lng": -80.06507,
+    "city": "Lamar"
+  },
+  "Carvers Bay": {
+    "lat": 33.75856,
+    "lng": -79.44979,
+    "city": "Hemingway"
+  },
+  "Hampton County": {
+    "lat": 32.85203,
+    "lng": -81.08023,
+    "city": "Varnville"
+  },
+  "Blackville-Hilda": {
+    "lat": 33.34777,
+    "lng": -81.29491,
+    "city": "Blackville"
+  },
+  "Cheraw": {
+    "lat": 34.69789,
+    "lng": -79.91397,
+    "city": "Cheraw"
+  },
+  "Cross": {
+    "lat": 33.32739,
+    "lng": -80.14842,
+    "city": "Cross"
+  },
+  "Batesburg-Leesville": {
+    "lat": 33.91332,
+    "lng": -81.52806,
+    "city": "Batesburg"
+  },
+  "Johnsonville": {
+    "lat": 33.81424,
+    "lng": -79.44429,
+    "city": "Johnsonville"
+  },
+  "Lake View": {
+    "lat": 34.34078,
+    "lng": -79.16643,
+    "city": "Lake View"
+  },
+  "Scott's Branch": {
+    "lat": 33.60148,
+    "lng": -80.35265,
+    "city": "Summerton"
+  },
+  "Hunter-Kinard-Tyler": {
+    "lat": 33.53644,
+    "lng": -81.12361,
+    "city": "Neeses"
+  },
+  "Wagener-Salley": {
+    "lat": 33.6513,
+    "lng": -81.3626,
+    "city": "Wagener"
+  },
+  "Latta": {
+    "lat": 34.33894,
+    "lng": -79.43356,
+    "city": "Latta"
+  },
+  "Calhoun County": {
+    "lat": 33.66464,
+    "lng": -80.77875,
+    "city": "St. Matthews"
+  },
+  "C.A. Johnson": {
+    "lat": 34.04041,
+    "lng": -80.89996,
+    "city": "Columbia"
+  },
+  "North Central": {
+    "lat": 34.54113,
+    "lng": -80.58632,
+    "city": "Kershaw"
+  },
+  "Lee Central": {
+    "lat": 34.22007,
+    "lng": -80.24737,
+    "city": "Bishopville"
+  },
+  "Ninety Six": {
+    "lat": 34.16947,
+    "lng": -82.02296,
+    "city": "Ninety Six"
+  },
+  "Hardeeville": {
+    "lat": 32.29531,
+    "lng": -81.04098,
+    "city": "Hardeeville"
+  },
+  "Lewisville": {
+    "lat": 34.71662,
+    "lng": -81.01958,
+    "city": "Richburg"
+  },
+  "Marion": {
+    "lat": 34.17866,
+    "lng": -79.39566,
+    "city": "Marion"
+  },
+  "Branchville": {
+    "lat": 33.25171,
+    "lng": -80.81608,
+    "city": "Branchville"
+  },
+  "Chesterfield": {
+    "lat": 34.73299,
+    "lng": -80.07804,
+    "city": "Chesterfield"
+  },
+  "Baptist Hill": {
+    "lat": 32.75125,
+    "lng": -80.20193,
+    "city": "Hollywood"
+  },
+  "Whale Branch": {
+    "lat": 32.45893,
+    "lng": -80.72862,
+    "city": "Beaufort"
+  },
+  "Denmark-Olar": {
+    "lat": 33.3137,
+    "lng": -81.13379,
+    "city": "Denmark"
+  },
+  "Edisto": {
+    "lat": 33.43449,
+    "lng": -80.92103,
+    "city": "Cordova"
+  },
+  "Eau Claire": {
+    "lat": 34.04124,
+    "lng": -80.9102,
+    "city": "Columbia"
+  },
+  "Blacksburg": {
+    "lat": 35.12209,
+    "lng": -81.51812,
+    "city": "Blacksburg"
+  },
+  "Barnwell": {
+    "lat": 33.24163,
+    "lng": -81.36614,
+    "city": "Barnwell"
+  },
+  "Kingstree": {
+    "lat": 33.66723,
+    "lng": -79.82866,
+    "city": "Kingstree"
+  },
+  "Andrews": {
+    "lat": 33.44946,
+    "lng": -79.56598,
+    "city": "Andrews"
+  },
+  "Green Sea Floyds": {
+    "lat": 34.12878,
+    "lng": -78.97205,
+    "city": "Green Sea"
+  },
+  "Mullins": {
+    "lat": 34.20434,
+    "lng": -79.25498,
+    "city": "Mullins"
+  },
+  "Hannah-Pamplico": {
+    "lat": 33.99502,
+    "lng": -79.57062,
+    "city": "Pamplico"
+  },
+  "Dixie": {
+    "lat": 34.33477,
+    "lng": -82.39033,
+    "city": "Due West"
+  },
+  "Buford": {
+    "lat": 34.7242,
+    "lng": -80.78895,
+    "city": "Lancaster"
+  },
+  "Great Falls": {
+    "lat": 34.57213,
+    "lng": -80.9053,
+    "city": "Great Falls"
+  },
+  "Whitmire": {
+    "lat": 34.50407,
+    "lng": -81.61416,
+    "city": "Whitmire"
+  },
+  "Clear Dot Charter": {
+    "lat": 34.04031,
+    "lng": -80.90845,
+    "city": "Columbia"
+  },
+  "Ridge Spring-Monetta": {
+    "lat": 33.84999,
+    "lng": -81.60993,
+    "city": "Monetta"
+  },
+  "McCormick": {
+    "lat": 33.91284,
+    "lng": -82.28759,
+    "city": "Mccormick"
+  },
+  "Ridgeland Secondary Academy Of Excellence": {
+    "lat": 32.46884,
+    "lng": -80.92113,
+    "city": "Ridgeland"
+  },
+  "Bethune-Bowman": {
+    "lat": 33.48854,
+    "lng": -80.86552,
+    "city": "Orangeburg"
+  },
+  "Calhoun Falls Charter": {
+    "lat": 34.09301,
+    "lng": -82.59646,
+    "city": "Calhoun Falls"
+  },
+  "McBee": {
+    "lat": 34.46702,
+    "lng": -80.25713,
+    "city": "Mcbee"
+  },
+  "Hemingway": {
+    "lat": 33.75381,
+    "lng": -79.44395,
+    "city": "Hemingway"
+  },
+  "Allendale-Fairfax": {
+    "lat": 32.95938,
+    "lng": -81.23623,
+    "city": "Fairfax"
+  },
+  "St. John's": {
+    "lat": 32.72249,
+    "lng": -80.07717,
+    "city": "John's Island"
+  },
+  "Military Magnet Academy": {
+    "lat": 32.91626,
+    "lng": -80.06078,
+    "city": "North Charleston"
+  },
+  "Ware Shoals": {
+    "lat": 34.38781,
+    "lng": -82.24327,
+    "city": "Ware Shoals"
+  },
+  "Thornwell": {
+    "lat": 34.47348,
+    "lng": -81.86322,
+    "city": "Clinton"
+  },
+  "Burke": {
+    "lat": 32.82975,
+    "lng": -79.97104,
+    "city": "Charleston"
   }
 }

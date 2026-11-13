@@ -1,1661 +1,1082 @@
 {
-  "Adair County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Columbia",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Allen County-Scottsville": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Scottsville",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Anderson County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Lawrenceburg",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Apollo": {
-    "lat": 37.7719,
-    "lng": -87.1112,
-    "city": "Owensboro",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Ashland Blazer": {
-    "lat": 38.4784,
-    "lng": -82.6379,
-    "city": "Ashland",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Atherton": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Ballard": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Ballard Memorial": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Barlow",
-    "state": "KY",
-    "conference": "KHSAA 1A"
-  },
-  "Bardstown": {
-    "lat": 37.8092,
-    "lng": -85.4669,
-    "city": "Bardstown",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Barren County": {
-    "lat": 36.9959,
-    "lng": -85.9119,
-    "city": "Glasgow",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Bath County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Owingsville",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Beechwood": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Belfry": {
-    "lat": 37.624,
-    "lng": -82.2635,
-    "city": "Belfry",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Bell County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Bellevue KY": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Berea": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Berea",
-    "state": "KY",
-    "conference": "KHSAA 1A"
-  },
-  "Beth Haven": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Bethlehem": {
-    "lat": 37.8092,
-    "lng": -85.4669,
-    "city": "Bardstown",
-    "state": "KY",
-    "conference": "KHSAA 1A"
-  },
-  "Bishop Brossart": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Boone County": {
-    "lat": 38.9989,
-    "lng": -84.6266,
-    "city": "Florence",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Bourbon County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Bowling Green": {
-    "lat": 36.9685,
-    "lng": -86.4808,
-    "city": "Bowling Green",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Boyd County": {
-    "lat": 38.4784,
-    "lng": -82.6379,
-    "city": "Ashland",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Boyle": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+  "Highlands": {
+    "lat": 39.08244,
+    "lng": -84.45711,
+    "city": "Fort Thomas"
   },
   "Boyle County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Bracken County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Brooksville",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Breathitt County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Breckinridge County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Harned",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Bryan Station": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Bullitt Central": {
-    "lat": 37.9884,
-    "lng": -85.7158,
-    "city": "Shepherdsville",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Bullitt East": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Butler": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Butler County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Morgantown",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Caldwell County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Princeton",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Calloway County": {
-    "lat": 36.6103,
-    "lng": -88.3148,
-    "city": "Murray",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Campbell County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Alexandria",
-    "state": "KY",
-    "conference": "KHSAA 6A"
-  },
-  "Campbellsville": {
-    "lat": 37.3434,
-    "lng": -85.3419,
-    "city": "Campbellsville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Carroll County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Carrollton",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Casey County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Liberty",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Caverna": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Horse Cave",
-    "state": "KY",
-    "conference": "KHSAA 1A"
-  },
-  "Central": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Central Hardin": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Christian Academy-Louisville": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Christian County": {
-    "lat": 36.8656,
-    "lng": -87.4886,
-    "city": "Hopkinsville",
-    "state": "KY",
-    "conference": "KHSAA 6A"
-  },
-  "Clay County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Manchester",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Clinton County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Albany",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Collins": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Conner": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Cooper": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Corbin": {
-    "lat": 36.9487,
-    "lng": -84.0969,
-    "city": "Corbin",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+    "lat": 37.64401,
+    "lng": -84.77491,
+    "city": "Danville"
   },
   "Covington Catholic": {
-    "lat": 39.0837,
-    "lng": -84.5086,
-    "city": "Covington",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Crittenden County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Cumberland County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Danville": {
-    "lat": 37.6456,
-    "lng": -84.7722,
-    "city": "Danville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Danville Ads": {
-    "lat": 37.6456,
-    "lng": -84.7722,
-    "city": "Danville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Daviess County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Dayton KY": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "DeSales": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Dixie Heights": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Doss": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "DuPont Manual": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "East Carter": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "East Jessamine": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Nicholasville",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Eastern": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA 6A"
-  },
-  "Edmonson County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Brownsville",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Elizabethown": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Elizabethtown": {
-    "lat": 37.6939,
-    "lng": -85.8591,
-    "city": "Elizabethtown",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Eminence": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Eminence",
-    "state": "KY",
-    "conference": "KHSAA 1A"
-  },
-  "Estill County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Irvine",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Evarts": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Fairdale": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Fairview": {
-    "lat": 38.4784,
-    "lng": -82.6379,
-    "city": "Ashland",
-    "state": "KY",
-    "conference": "KHSAA 1A"
-  },
-  "Fern Creek": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA 6A"
-  },
-  "Fleming County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Flemingsburg",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Flemingsburg": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Floyd Central": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Eastern",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Fort Campbell": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Fort Campbell",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Frankfort": {
-    "lat": 38.2009,
-    "lng": -84.8733,
-    "city": "Frankfort",
-    "state": "KY",
-    "conference": "KHSAA 1A"
-  },
-  "Franklin County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Franklin-Simpson": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Franklin",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Frederick Douglass": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Fulton County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Hickman",
-    "state": "KY",
-    "conference": "KHSAA 1A"
-  },
-  "Gallatin County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Warsaw",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Garrard County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Lancaster",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "George Rogers Clark": {
-    "lat": 37.9901,
-    "lng": -84.1797,
-    "city": "Winchester",
-    "state": "KY",
-    "conference": "KHSAA 6A"
-  },
-  "Glasgow": {
-    "lat": 36.9959,
-    "lng": -85.9119,
-    "city": "Glasgow",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Grant County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Dry Ridge",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Graves County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Grayson County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Leitchfield",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Great Crossing": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Green County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Greenup County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Greenup",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Greenwood": {
-    "lat": 36.9685,
-    "lng": -86.4808,
-    "city": "Bowling Green",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Hancock County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Lewisport",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Harlan": {
-    "lat": 36.8431,
-    "lng": -83.3218,
-    "city": "Harlan",
-    "state": "KY",
-    "conference": "KHSAA 1A"
-  },
-  "Harlan County": {
-    "lat": 36.8431,
-    "lng": -83.3218,
-    "city": "Harlan",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Harlan KY": {
-    "lat": 36.8431,
-    "lng": -83.3218,
-    "city": "Harlan",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Harrison County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Cynthiana",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Hart County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Hazard": {
-    "lat": 37.2495,
-    "lng": -83.1932,
-    "city": "Hazard",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Henderson County": {
-    "lat": 37.8361,
-    "lng": -87.59,
-    "city": "Henderson",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Henry Clay": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Henry County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "New Castle",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Highlands": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Holmes": {
-    "lat": 39.0837,
-    "lng": -84.5086,
-    "city": "Covington",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Holy Cross": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Holy Cross (Covington)": {
-    "lat": 39.0837,
-    "lng": -84.5086,
-    "city": "Covington",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Holy Cross (Louisville)": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Holy Cross Covington": {
-    "lat": 39.0837,
-    "lng": -84.5086,
-    "city": "Covington",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Holy Cross Louisville": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Hopkins County Central": {
-    "lat": 37.3281,
-    "lng": -87.4989,
-    "city": "Madisonville",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Hopkinsville": {
-    "lat": 36.8656,
-    "lng": -87.4886,
-    "city": "Hopkinsville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Iroquois": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Jeffersontown": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Jenkins": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "John Hardin": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Johnson Central": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Kentucky Country Day": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Knott County Central": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Hindman",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Knox Central": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Barbourville",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "LaRue County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Lafayette": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Lawrence County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Leslie County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Hyden",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Letcher County Central": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Whitesburg",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Lewis County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Vanceburg",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Lexington Catholic": {
-    "lat": 38.0406,
-    "lng": -84.5037,
-    "city": "Lexington",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Lexington Christian": {
-    "lat": 38.0406,
-    "lng": -84.5037,
-    "city": "Lexington",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Lincoln County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Stanford",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Lloyd": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Lloyd Memorial": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Logan County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Lou. Holy Cross": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Louisville Central": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Ludlow": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Lynn Camp": {
-    "lat": 36.9487,
-    "lng": -84.0969,
-    "city": "Corbin",
-    "state": "KY",
-    "conference": "KHSAA 1A"
-  },
-  "Madison Central": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Madison Southern": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Madisonville-North Hopkins": {
-    "lat": 37.3281,
-    "lng": -87.4989,
-    "city": "Madisonville",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Magoffin County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Salyersville",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Male": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Manual": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Marion County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Lebanon",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Marshall County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Benton",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Martin County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Inez",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Mason County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Mayfield": {
-    "lat": 36.7417,
-    "lng": -88.6367,
-    "city": "Mayfield",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "McCracken County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "McCreary Central": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Stearns",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "McLean County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Calhoun",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Meade County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Brandenburg",
-    "state": "KY",
-    "conference": "KHSAA 6A"
-  },
-  "Mercer County": {
-    "lat": 37.7628,
-    "lng": -84.8433,
-    "city": "Harrodsburg",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Metcalfe County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Edmonton",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Middlesboro": {
-    "lat": 36.6084,
-    "lng": -83.7163,
-    "city": "Middlesboro",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Monroe County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Tompkinsville",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Montgomery County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Mt Sterling",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Moore": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Morgan County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "West Liberty",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Muhlenberg County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Greenville",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Murray": {
-    "lat": 36.6103,
-    "lng": -88.3148,
-    "city": "Murray",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Nelson County": {
-    "lat": 37.8092,
-    "lng": -85.4669,
-    "city": "Bardstown",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Newport Central Catholic": {
-    "lat": 39.0914,
-    "lng": -84.4958,
-    "city": "Newport",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Nicholas County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Carlisle",
-    "state": "KY",
-    "conference": "KHSAA 1A"
-  },
-  "North Bullitt": {
-    "lat": 37.9884,
-    "lng": -85.7158,
-    "city": "Shepherdsville",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "North Hardin": {
-    "lat": 37.8403,
-    "lng": -85.9491,
-    "city": "Radcliff",
-    "state": "KY",
-    "conference": "KHSAA 6A"
-  },
-  "North Laurel": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "North Oldham": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Goshen",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Ohio County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Hartford",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Oldham County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Buckner",
-    "state": "KY",
-    "conference": "KHSAA 6A"
-  },
-  "Owen County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Owenton",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Owensboro": {
-    "lat": 37.7719,
-    "lng": -87.1112,
-    "city": "Owensboro",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Owensboro Catholic": {
-    "lat": 37.7719,
-    "lng": -87.1112,
-    "city": "Owensboro",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+    "lat": 39.06713,
+    "lng": -84.53267,
+    "city": "Park Hills"
   },
   "Paducah Tilghman": {
-    "lat": 37.0834,
-    "lng": -88.6,
-    "city": "Paducah",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+    "lat": 37.06963,
+    "lng": -88.64919,
+    "city": "Paducah"
   },
-  "Paintsville": {
-    "lat": 37.8145,
-    "lng": -82.8071,
-    "city": "Paintsville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+  "Corbin": {
+    "lat": 36.93664,
+    "lng": -84.10359,
+    "city": "Corbin"
   },
-  "Paris": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+  "Blazer": {
+    "lat": 38.46398,
+    "lng": -82.64778,
+    "city": "Ashland"
   },
-  "Paris KY": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+  "Johnson Central": {
+    "lat": 37.82566,
+    "lng": -82.8038,
+    "city": "Paintsville"
   },
-  "Paul Laurence Dunbar": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+  "Logan County": {
+    "lat": 36.83714,
+    "lng": -86.90005,
+    "city": "Russellville"
   },
-  "Pendleton County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Falmouth",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Perry Central": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Perry County Central": {
-    "lat": 37.2495,
-    "lng": -83.1932,
-    "city": "Hazard",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Phelps": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "KY",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Pike County Central": {
-    "lat": 37.4793,
-    "lng": -82.5188,
-    "city": "Pikeville",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Pikeville": {
-    "lat": 37.4793,
-    "lng": -82.5188,
-    "city": "Pikeville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Pineville": {
-    "lat": 36.762,
-    "lng": -83.6949,
-    "city": "Pineville",
-    "state": "KY",
-    "conference": "KHSAA 1A"
-  },
-  "Pleasure Ridge Park": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Powell County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Stanton",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Prestonsburg": {
-    "lat": 37.6687,
-    "lng": -82.7718,
-    "city": "Prestonsburg",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Pulaski County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Raceland": {
-    "lat": 38.5415,
-    "lng": -82.7291,
-    "city": "Raceland",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Robertson County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Rockcastle County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Rowan County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Morehead",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Russellville": {
-    "lat": 36.8453,
-    "lng": -86.8872,
-    "city": "Russellville",
-    "state": "KY",
-    "conference": "KHSAA 1A"
-  },
-  "Ryle": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Sayre": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Scott": {
-    "lat": 39.0837,
-    "lng": -84.5086,
-    "city": "Covington",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Scott County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Seneca": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Shawnee": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Shelby County": {
-    "lat": 38.212,
-    "lng": -85.2236,
-    "city": "Shelbyville",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Shelby Valley": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Simon Kenton": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Somerset": {
-    "lat": 37.092,
-    "lng": -84.6041,
-    "city": "Somerset",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "South Laurel": {
-    "lat": 37.1289,
-    "lng": -84.0833,
-    "city": "London",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "South Oldham": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "South Warren": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Southern": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA 6A"
-  },
-  "Southwestern": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+  "North Oldham": {
+    "lat": 38.40343,
+    "lng": -85.58372,
+    "city": "Goshen"
   },
   "Spencer County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+    "lat": 38.03227,
+    "lng": -85.34949,
+    "city": "Taylorsville"
   },
-  "St Henry": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+  "Nelson County": {
+    "lat": 37.82195,
+    "lng": -85.45949,
+    "city": "Bardstown"
   },
-  "St. Xavier": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+  "Greenup County": {
+    "lat": 38.5665,
+    "lng": -82.82362,
+    "city": "Greenup"
   },
-  "Tates Creek": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+  "Franklin County": {
+    "lat": 38.19904,
+    "lng": -84.86918,
+    "city": "Frankfort"
   },
-  "Taylor County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+  "Elizabethtown": {
+    "lat": 37.70661,
+    "lng": -85.88051,
+    "city": "Elizabethtown"
   },
-  "Thomas Nelson": {
-    "lat": 37.8092,
-    "lng": -85.4669,
-    "city": "Bardstown",
-    "state": "KY",
-    "conference": "KHSAA 3A"
-  },
-  "Todd County Central": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Elkton",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Trigg County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Cadiz",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Trimble County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Bedford",
-    "state": "KY",
-    "conference": "KHSAA 1A"
-  },
-  "Trimmed": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Trinity": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Union County": {
-    "lat": 38.9462,
-    "lng": -84.6808,
-    "city": "Union",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Valley KY": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
-  },
-  "Waggener": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Walton-Verona": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Walton",
-    "state": "KY",
-    "conference": "KHSAA 2A"
-  },
-  "Warren Central": {
-    "lat": 36.9685,
-    "lng": -86.4808,
-    "city": "Bowling Green",
-    "state": "KY",
-    "conference": "KHSAA 5A"
-  },
-  "Warren East": {
-    "lat": 36.9685,
-    "lng": -86.4808,
-    "city": "Bowling Green",
-    "state": "KY",
-    "conference": "KHSAA 4A"
-  },
-  "Washington County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Springfield",
-    "state": "KY",
-    "conference": "KHSAA 2A"
+  "Boyd County": {
+    "lat": 38.46541,
+    "lng": -82.64581,
+    "city": "Ashland"
   },
   "Wayne County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+    "lat": 36.84114,
+    "lng": -84.85133,
+    "city": "Monticello"
   },
-  "Web Dubois": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+  "Taylor County": {
+    "lat": 37.34578,
+    "lng": -85.35002,
+    "city": "Campbellsville"
   },
-  "Webster County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Dixon",
-    "state": "KY",
-    "conference": "KHSAA 3A"
+  "Warren East": {
+    "lat": 36.9789,
+    "lng": -86.43906,
+    "city": "Bowling Green"
   },
-  "West Carter": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Olive Hill",
-    "state": "KY",
-    "conference": "KHSAA 2A"
+  "Calloway County": {
+    "lat": 36.61542,
+    "lng": -88.31809,
+    "city": "Murray"
   },
-  "West Jessamine": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Nicholasville",
-    "state": "KY",
-    "conference": "KHSAA 5A"
+  "Franklin-Simpson": {
+    "lat": 36.71803,
+    "lng": -86.55758,
+    "city": "Franklin"
   },
-  "Western": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA 3A"
+  "Perry County Central": {
+    "lat": 37.26227,
+    "lng": -83.20006,
+    "city": "Hazard"
+  },
+  "Lincoln County": {
+    "lat": 37.53074,
+    "lng": -84.65703,
+    "city": "Stanford"
+  },
+  "Mason County": {
+    "lat": 38.65002,
+    "lng": -83.79296,
+    "city": "Maysville"
+  },
+  "Marion County": {
+    "lat": 37.57016,
+    "lng": -85.26013,
+    "city": "Lebanon"
+  },
+  "Rowan County": {
+    "lat": 38.19003,
+    "lng": -83.44907,
+    "city": "Morehead"
+  },
+  "John Hardin": {
+    "lat": 37.70079,
+    "lng": -85.87429,
+    "city": "Elizabethtown"
+  },
+  "Shelby County": {
+    "lat": 38.21048,
+    "lng": -85.22812,
+    "city": "Shelbyville"
+  },
+  "Breckinridge County": {
+    "lat": 37.75173,
+    "lng": -86.41359,
+    "city": "Harned"
+  },
+  "Harlan County": {
+    "lat": 36.84611,
+    "lng": -83.32326,
+    "city": "Harlan"
+  },
+  "Valley": {
+    "lat": 38.2264,
+    "lng": -85.74253,
+    "city": "Louisville"
+  },
+  "Russell County": {
+    "lat": 37.0507,
+    "lng": -85.08048,
+    "city": "Russell Springs"
+  },
+  "Harrison County": {
+    "lat": 38.38295,
+    "lng": -84.30175,
+    "city": "Cynthiana"
+  },
+  "Allen County-Scottsville": {
+    "lat": 36.74926,
+    "lng": -86.20762,
+    "city": "Scottsville"
   },
   "Western Hills": {
-    "lat": 38.2009,
-    "lng": -84.8733,
-    "city": "Frankfort",
-    "state": "KY",
-    "conference": "KHSAA 4A"
+    "lat": 38.19204,
+    "lng": -84.86445,
+    "city": "Frankfort"
+  },
+  "Waggener": {
+    "lat": 38.22497,
+    "lng": -85.73862,
+    "city": "Louisville"
   },
   "Whitley County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Williamsburg",
-    "state": "KY",
-    "conference": "KHSAA 4A"
+    "lat": 36.73717,
+    "lng": -84.16719,
+    "city": "Williamsburg"
   },
-  "Williamsburg": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+  "Doss": {
+    "lat": 38.22122,
+    "lng": -85.744,
+    "city": "Louisville"
   },
-  "Williamsburg KY": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+  "Grant County": {
+    "lat": 38.68541,
+    "lng": -84.60022,
+    "city": "Dry Ridge"
+  },
+  "Christian Academy-Louisville": {
+    "lat": 38.22634,
+    "lng": -85.73888,
+    "city": "Louisville"
+  },
+  "Lexington Catholic": {
+    "lat": 38.04474,
+    "lng": -84.45391,
+    "city": "Lexington"
+  },
+  "Lawrence County": {
+    "lat": 38.11161,
+    "lng": -82.61517,
+    "city": "Louisa"
+  },
+  "Rockcastle County": {
+    "lat": 37.35707,
+    "lng": -84.33287,
+    "city": "Mt. Vernon"
+  },
+  "Murray": {
+    "lat": 36.61031,
+    "lng": -88.32706,
+    "city": "Murray"
+  },
+  "Larue County": {
+    "lat": 37.56337,
+    "lng": -85.73116,
+    "city": "Hodgenville"
+  },
+  "Glasgow": {
+    "lat": 37.0005,
+    "lng": -85.92596,
+    "city": "Glasgow"
+  },
+  "Bourbon County": {
+    "lat": 38.19894,
+    "lng": -84.26871,
+    "city": "Paris"
+  },
+  "Lloyd Memorial": {
+    "lat": 39.03943,
+    "lng": -84.60013,
+    "city": "Erlanger"
+  },
+  "Russell": {
+    "lat": 38.51304,
+    "lng": -82.69605,
+    "city": "Russell"
+  },
+  "Central": {
+    "lat": 38.22302,
+    "lng": -85.73958,
+    "city": "Louisville"
+  },
+  "Knox Central": {
+    "lat": 36.86574,
+    "lng": -83.88322,
+    "city": "Barbourville"
+  },
+  "Bardstown": {
+    "lat": 37.81998,
+    "lng": -85.45493,
+    "city": "Bardstown"
+  },
+  "DeSales": {
+    "lat": 38.22759,
+    "lng": -85.74106,
+    "city": "Louisville"
+  },
+  "Butler County": {
+    "lat": 37.21741,
+    "lng": -86.70015,
+    "city": "Morgantown"
+  },
+  "Henry County": {
+    "lat": 38.43356,
+    "lng": -85.16924,
+    "city": "New Castle"
+  },
+  "Letcher County Central": {
+    "lat": 37.11775,
+    "lng": -82.82302,
+    "city": "Whitesburg"
+  },
+  "Union County": {
+    "lat": 37.6889,
+    "lng": -87.88139,
+    "city": "Morganfield"
+  },
+  "East Carter": {
+    "lat": 38.33389,
+    "lng": -82.93581,
+    "city": "Grayson"
+  },
+  "Estill County": {
+    "lat": 37.69643,
+    "lng": -83.96834,
+    "city": "Irvine"
+  },
+  "Fleming County": {
+    "lat": 38.42457,
+    "lng": -83.74049,
+    "city": "Flemingsburg"
+  },
+  "Hart County": {
+    "lat": 37.27887,
+    "lng": -85.8987,
+    "city": "Munfordville"
+  },
+  "Garrard County": {
+    "lat": 37.61696,
+    "lng": -84.58182,
+    "city": "Lancaster"
+  },
+  "Clay County": {
+    "lat": 37.14807,
+    "lng": -83.76379,
+    "city": "Manchester"
+  },
+  "Adair County": {
+    "lat": 37.10344,
+    "lng": -85.30754,
+    "city": "Columbia"
+  },
+  "Carroll County": {
+    "lat": 38.67962,
+    "lng": -85.16576,
+    "city": "Carrollton"
+  },
+  "McCreary Central": {
+    "lat": 36.69591,
+    "lng": -84.47599,
+    "city": "Stearns"
+  },
+  "Bell County": {
+    "lat": 36.74515,
+    "lng": -83.70594,
+    "city": "Pineville"
+  },
+  "Edmonson County": {
+    "lat": 37.19491,
+    "lng": -86.26525,
+    "city": "Brownsville"
+  },
+  "Mercer County": {
+    "lat": 37.76807,
+    "lng": -84.84878,
+    "city": "Harrodsburg"
+  },
+  "Hopkins County Central": {
+    "lat": 37.33652,
+    "lng": -87.50339,
+    "city": "Madisonville"
+  },
+  "Powell County": {
+    "lat": 37.8492,
+    "lng": -83.85561,
+    "city": "Stanton"
+  },
+  "Magoffin County": {
+    "lat": 37.74189,
+    "lng": -83.06358,
+    "city": "Salyersville"
+  },
+  "Lewis County": {
+    "lat": 38.59453,
+    "lng": -83.32361,
+    "city": "Vanceburg"
+  },
+  "Casey County": {
+    "lat": 37.31799,
+    "lng": -84.93049,
+    "city": "Liberty"
+  },
+  "Pendleton County": {
+    "lat": 38.6718,
+    "lng": -84.33085,
+    "city": "Falmouth"
+  },
+  "Bath County": {
+    "lat": 38.13657,
+    "lng": -83.75535,
+    "city": "Owingsville"
+  },
+  "Webster County": {
+    "lat": 37.51368,
+    "lng": -87.68843,
+    "city": "Dixon"
+  },
+  "Western": {
+    "lat": 38.22287,
+    "lng": -85.73862,
+    "city": "Louisville"
+  },
+  "Beechwood": {
+    "lat": 39.04555,
+    "lng": -84.55615,
+    "city": "Fort Mitchell"
+  },
+  "Owensboro Catholic": {
+    "lat": 37.75915,
+    "lng": -87.11528,
+    "city": "Owensboro"
+  },
+  "Lexington Christian": {
+    "lat": 38.03728,
+    "lng": -84.46295,
+    "city": "Lexington"
+  },
+  "Belfry": {
+    "lat": 37.61941,
+    "lng": -82.26843,
+    "city": "Belfry"
+  },
+  "Somerset": {
+    "lat": 37.0876,
+    "lng": -84.60268,
+    "city": "Somerset"
+  },
+  "Mayfield": {
+    "lat": 36.73855,
+    "lng": -88.63936,
+    "city": "Mayfield"
+  },
+  "Prestonsburg": {
+    "lat": 37.68156,
+    "lng": -82.76587,
+    "city": "Prestonsburg"
+  },
+  "Danville": {
+    "lat": 37.63882,
+    "lng": -84.77242,
+    "city": "Danville"
+  },
+  "Breathitt County": {
+    "lat": 37.56545,
+    "lng": -83.37624,
+    "city": "Jackson"
+  },
+  "W.E.B. DuBois Academy": {
+    "lat": 38.22261,
+    "lng": -85.7446,
+    "city": "Louisville"
+  },
+  "Caldwell County": {
+    "lat": 37.10648,
+    "lng": -87.8849,
+    "city": "Princeton"
+  },
+  "Green County": {
+    "lat": 37.2595,
+    "lng": -85.49335,
+    "city": "Greensburg"
+  },
+  "Walton-Verona": {
+    "lat": 38.86243,
+    "lng": -84.61504,
+    "city": "Walton"
+  },
+  "Monroe County": {
+    "lat": 36.7013,
+    "lng": -85.69303,
+    "city": "Tompkinsville"
+  },
+  "East Ridge": {
+    "lat": 37.38038,
+    "lng": -82.29709,
+    "city": "Lick Creek"
+  },
+  "Shelby Valley": {
+    "lat": 37.47319,
+    "lng": -82.52621,
+    "city": "Pikeville"
+  },
+  "Washington County": {
+    "lat": 37.69391,
+    "lng": -85.22289,
+    "city": "Springfield"
+  },
+  "Leslie County": {
+    "lat": 37.15679,
+    "lng": -83.37575,
+    "city": "Hyden"
+  },
+  "Martin County": {
+    "lat": 37.86934,
+    "lng": -82.5398,
+    "city": "Inez"
+  },
+  "McLean County": {
+    "lat": 37.54031,
+    "lng": -87.25904,
+    "city": "Calhoun"
+  },
+  "Floyd Central": {
+    "lat": 37.51704,
+    "lng": -82.80599,
+    "city": "Eastern"
+  },
+  "Knott County Central": {
+    "lat": 37.335,
+    "lng": -82.9819,
+    "city": "Hindman"
+  },
+  "West Carter": {
+    "lat": 38.30584,
+    "lng": -83.1682,
+    "city": "Olive Hill"
+  },
+  "Trigg County": {
+    "lat": 36.86154,
+    "lng": -87.81721,
+    "city": "Cadiz"
+  },
+  "Metcalfe County": {
+    "lat": 36.98524,
+    "lng": -85.62228,
+    "city": "Edmonton"
+  },
+  "Crittenden County": {
+    "lat": 37.33167,
+    "lng": -88.08124,
+    "city": "Marion"
+  },
+  "Hancock County": {
+    "lat": 37.93067,
+    "lng": -86.90282,
+    "city": "Lewisport"
+  },
+  "Betsy Layne": {
+    "lat": 37.55201,
+    "lng": -82.62473,
+    "city": "Betsy Layne"
+  },
+  "Bracken County": {
+    "lat": 38.67943,
+    "lng": -84.06532,
+    "city": "Brooksville"
+  },
+  "Pike County Central": {
+    "lat": 37.47829,
+    "lng": -82.52713,
+    "city": "Pikeville"
+  },
+  "Morgan County": {
+    "lat": 37.91804,
+    "lng": -83.26741,
+    "city": "West Liberty"
+  },
+  "Jackson County": {
+    "lat": 37.4302,
+    "lng": -83.98563,
+    "city": "McKee"
+  },
+  "Shawnee": {
+    "lat": 38.22781,
+    "lng": -85.74416,
+    "city": "Louisville"
+  },
+  "Fort Knox": {
+    "lat": 37.89164,
+    "lng": -85.96715,
+    "city": "Fort Knox"
+  },
+  "Fort Campbell": {
+    "lat": 36.63134,
+    "lng": -87.61569,
+    "city": "Fort Campbell"
+  },
+  "Owen County": {
+    "lat": 38.53903,
+    "lng": -84.83922,
+    "city": "Owenton"
+  },
+  "Clinton County": {
+    "lat": 36.69055,
+    "lng": -85.13549,
+    "city": "Albany"
+  },
+  "Gallatin County": {
+    "lat": 38.78356,
+    "lng": -84.89253,
+    "city": "Warsaw"
+  },
+  "Todd County Central": {
+    "lat": 36.81608,
+    "lng": -87.16114,
+    "city": "Elkton"
+  },
+  "Pulaski County": {
+    "lat": 37.08407,
+    "lng": -84.60697,
+    "city": "Somerset"
+  },
+  "Bowling Green": {
+    "lat": 36.9809,
+    "lng": -86.43696,
+    "city": "Bowling Green"
   },
   "Woodford County": {
-    "lat": 38.2527,
-    "lng": -85.7585,
-    "city": "Louisville",
-    "state": "KY",
-    "conference": "KHSAA Conference"
+    "lat": 38.04907,
+    "lng": -84.72497,
+    "city": "Versailles"
+  },
+  "Scott County": {
+    "lat": 38.26118,
+    "lng": -84.5384,
+    "city": "Georgetown"
+  },
+  "Owensboro": {
+    "lat": 37.75916,
+    "lng": -87.11651,
+    "city": "Owensboro"
+  },
+  "Atherton": {
+    "lat": 38.22988,
+    "lng": -85.73894,
+    "city": "Louisville"
+  },
+  "West Jessamine": {
+    "lat": 37.88668,
+    "lng": -84.56516,
+    "city": "Nicholasville"
+  },
+  "Madisonville-North Hopkins": {
+    "lat": 37.34199,
+    "lng": -87.50641,
+    "city": "Madisonville"
+  },
+  "Collins": {
+    "lat": 38.20692,
+    "lng": -85.22683,
+    "city": "Shelbyville"
+  },
+  "Cooper": {
+    "lat": 38.94585,
+    "lng": -84.67769,
+    "city": "Union"
+  },
+  "Barren County": {
+    "lat": 37.00258,
+    "lng": -85.92473,
+    "city": "Glasgow"
+  },
+  "North Laurel": {
+    "lat": 37.10889,
+    "lng": -84.0771,
+    "city": "London"
+  },
+  "Fairdale": {
+    "lat": 38.10507,
+    "lng": -85.75885,
+    "city": "Fairdale"
+  },
+  "South Laurel": {
+    "lat": 37.11447,
+    "lng": -84.08351,
+    "city": "London"
+  },
+  "Apollo": {
+    "lat": 37.76207,
+    "lng": -87.12011,
+    "city": "Owensboro"
+  },
+  "Graves County": {
+    "lat": 36.74198,
+    "lng": -88.64441,
+    "city": "Mayfield"
+  },
+  "Grayson County": {
+    "lat": 37.48624,
+    "lng": -86.28469,
+    "city": "Leitchfield"
+  },
+  "Dixie Heights": {
+    "lat": 39.00872,
+    "lng": -84.55988,
+    "city": "Edgewood"
+  },
+  "Madison Southern": {
+    "lat": 37.58532,
+    "lng": -84.29941,
+    "city": "Berea"
+  },
+  "Conner": {
+    "lat": 39.06382,
+    "lng": -84.70828,
+    "city": "Hebron"
+  },
+  "Anderson County": {
+    "lat": 38.03387,
+    "lng": -84.9047,
+    "city": "Lawrenceburg"
+  },
+  "Southwestern": {
+    "lat": 37.08609,
+    "lng": -84.60103,
+    "city": "Somerset"
+  },
+  "Greenwood": {
+    "lat": 36.97216,
+    "lng": -86.43128,
+    "city": "Bowling Green"
+  },
+  "Muhlenberg County": {
+    "lat": 37.21049,
+    "lng": -87.17757,
+    "city": "Greenville"
+  },
+  "South Oldham": {
+    "lat": 38.34367,
+    "lng": -85.47766,
+    "city": "Crestwood"
+  },
+  "North Bullitt": {
+    "lat": 37.98275,
+    "lng": -85.70005,
+    "city": "Shepherdsville"
+  },
+  "Bullitt Central": {
+    "lat": 37.98577,
+    "lng": -85.70326,
+    "city": "Shepherdsville"
+  },
+  "East Jessamine": {
+    "lat": 37.88993,
+    "lng": -84.56842,
+    "city": "Nicholasville"
+  },
+  "Seneca": {
+    "lat": 38.22428,
+    "lng": -85.74384,
+    "city": "Louisville"
+  },
+  "Jeffersontown": {
+    "lat": 38.22994,
+    "lng": -85.7435,
+    "city": "Louisville"
+  },
+  "Butler": {
+    "lat": 38.22412,
+    "lng": -85.74326,
+    "city": "Louisville"
+  },
+  "Scott": {
+    "lat": 39.03511,
+    "lng": -84.51965,
+    "city": "Covington"
+  },
+  "Moore": {
+    "lat": 38.22245,
+    "lng": -85.7378,
+    "city": "Louisville"
+  },
+  "Marshall County": {
+    "lat": 36.848,
+    "lng": -88.36165,
+    "city": "Benton"
+  },
+  "Warren Central": {
+    "lat": 36.97873,
+    "lng": -86.43304,
+    "city": "Bowling Green"
+  },
+  "Montgomery County": {
+    "lat": 38.06547,
+    "lng": -83.94882,
+    "city": "Mt. Sterling"
+  },
+  "Boone County": {
+    "lat": 38.99341,
+    "lng": -84.64819,
+    "city": "Florence"
+  },
+  "Iroquois": {
+    "lat": 38.2266,
+    "lng": -85.73989,
+    "city": "Louisville"
+  },
+  "Pikeville": {
+    "lat": 37.47095,
+    "lng": -82.53096,
+    "city": "Pikeville"
+  },
+  "Raceland": {
+    "lat": 38.53737,
+    "lng": -82.73875,
+    "city": "Raceland"
+  },
+  "Sayre": {
+    "lat": 38.0358,
+    "lng": -84.45827,
+    "city": "Lexington"
+  },
+  "Kentucky Country Day": {
+    "lat": 38.22324,
+    "lng": -85.7443,
+    "city": "Louisville"
+  },
+  "Paintsville": {
+    "lat": 37.81817,
+    "lng": -82.81016,
+    "city": "Paintsville"
+  },
+  "Middlesboro": {
+    "lat": 36.61347,
+    "lng": -83.72245,
+    "city": "Middlesboro"
+  },
+  "Bethlehem": {
+    "lat": 37.82103,
+    "lng": -85.45261,
+    "city": "Bardstown"
+  },
+  "Holy Cross": {
+    "lat": 38.22879,
+    "lng": -85.73863,
+    "city": "Louisville"
+  },
+  "Eminence": {
+    "lat": 38.36369,
+    "lng": -85.1769,
+    "city": "Eminence"
+  },
+  "Williamsburg": {
+    "lat": 36.73656,
+    "lng": -84.16603,
+    "city": "Williamsburg"
+  },
+  "Newport Central Catholic": {
+    "lat": 39.09029,
+    "lng": -84.49142,
+    "city": "Newport"
+  },
+  "Bishop Brossart": {
+    "lat": 38.97337,
+    "lng": -84.38382,
+    "city": "Alexandria"
+  },
+  "Newport": {
+    "lat": 39.09092,
+    "lng": -84.48617,
+    "city": "Newport"
+  },
+  "Nicholas County": {
+    "lat": 38.31579,
+    "lng": -84.03337,
+    "city": "Carlisle"
+  },
+  "Campbellsville": {
+    "lat": 37.34644,
+    "lng": -85.35326,
+    "city": "Campbellsville"
+  },
+  "Dayton": {
+    "lat": 39.11231,
+    "lng": -84.46284,
+    "city": "Dayton"
+  },
+  "Hazard": {
+    "lat": 37.26322,
+    "lng": -83.20354,
+    "city": "Hazard"
+  },
+  "Ludlow": {
+    "lat": 39.08875,
+    "lng": -84.54848,
+    "city": "Ludlow"
+  },
+  "Harlan": {
+    "lat": 36.8396,
+    "lng": -83.32115,
+    "city": "Harlan"
+  },
+  "Ballard Memorial": {
+    "lat": 37.05079,
+    "lng": -89.04499,
+    "city": "Barlow"
+  },
+  "Paris": {
+    "lat": 38.19931,
+    "lng": -84.27804,
+    "city": "Paris"
+  },
+  "Fairview": {
+    "lat": 38.46134,
+    "lng": -82.64624,
+    "city": "Ashland"
+  },
+  "Fulton County": {
+    "lat": 36.56664,
+    "lng": -89.18403,
+    "city": "Hickman"
+  },
+  "Pineville": {
+    "lat": 36.74867,
+    "lng": -83.70438,
+    "city": "Pineville"
+  },
+  "Russellville": {
+    "lat": 36.8365,
+    "lng": -86.89198,
+    "city": "Russellville"
+  },
+  "Bellevue": {
+    "lat": 39.10125,
+    "lng": -84.47749,
+    "city": "Bellevue"
+  },
+  "Frankfort": {
+    "lat": 38.19693,
+    "lng": -84.86626,
+    "city": "Frankfort"
+  },
+  "Trimble County": {
+    "lat": 38.59423,
+    "lng": -85.31744,
+    "city": "Bedford"
+  },
+  "Lynn Camp": {
+    "lat": 36.92771,
+    "lng": -84.09846,
+    "city": "Corbin"
+  },
+  "Berea": {
+    "lat": 37.58796,
+    "lng": -84.29037,
+    "city": "Berea"
+  },
+  "Caverna": {
+    "lat": 37.16989,
+    "lng": -85.91719,
+    "city": "Horse Cave"
+  },
+  "Trinity": {
+    "lat": 38.22553,
+    "lng": -85.73801,
+    "city": "Louisville"
+  },
+  "Frederick Douglass": {
+    "lat": 38.03838,
+    "lng": -84.45774,
+    "city": "Lexington"
+  },
+  "DuPont Manual": {
+    "lat": 38.22764,
+    "lng": -85.7379,
+    "city": "Louisville"
+  },
+  "Madison Central": {
+    "lat": 37.72915,
+    "lng": -84.29936,
+    "city": "Richmond"
+  },
+  "St. Xavier": {
+    "lat": 38.22147,
+    "lng": -85.73723,
+    "city": "Louisville"
+  },
+  "South Warren": {
+    "lat": 36.9774,
+    "lng": -86.43137,
+    "city": "Bowling Green"
+  },
+  "Bryan Station": {
+    "lat": 38.04288,
+    "lng": -84.45254,
+    "city": "Lexington"
+  },
+  "Male": {
+    "lat": 38.22654,
+    "lng": -85.73706,
+    "city": "Louisville"
+  },
+  "Ballard": {
+    "lat": 38.22234,
+    "lng": -85.74148,
+    "city": "Louisville"
+  },
+  "George Rogers Clark": {
+    "lat": 38.00236,
+    "lng": -84.19059,
+    "city": "Winchester"
+  },
+  "Bullitt East": {
+    "lat": 38.04262,
+    "lng": -85.55602,
+    "city": "Mt. Washington"
+  },
+  "North Hardin": {
+    "lat": 37.82006,
+    "lng": -85.93637,
+    "city": "Radcliff"
+  },
+  "Ryle": {
+    "lat": 38.94619,
+    "lng": -84.67889,
+    "city": "Union"
+  },
+  "McCracken County": {
+    "lat": 37.07216,
+    "lng": -88.64748,
+    "city": "Paducah"
+  },
+  "Oldham County": {
+    "lat": 38.38992,
+    "lng": -85.45256,
+    "city": "Buckner"
+  },
+  "Christian County": {
+    "lat": 36.83928,
+    "lng": -87.47354,
+    "city": "Hopkinsville"
+  },
+  "Simon Kenton": {
+    "lat": 38.95744,
+    "lng": -84.54737,
+    "city": "Independence"
+  },
+  "Eastern": {
+    "lat": 38.22223,
+    "lng": -85.73729,
+    "city": "Louisville"
+  },
+  "Lafayette": {
+    "lat": 38.03808,
+    "lng": -84.45907,
+    "city": "Lexington"
+  },
+  "Campbell County": {
+    "lat": 38.96599,
+    "lng": -84.38235,
+    "city": "Alexandria"
+  },
+  "Henderson County": {
+    "lat": 37.83842,
+    "lng": -87.58097,
+    "city": "Henderson"
+  },
+  "Paul Laurence Dunbar": {
+    "lat": 38.04019,
+    "lng": -84.46222,
+    "city": "Lexington"
+  },
+  "Great Crossing": {
+    "lat": 38.25855,
+    "lng": -84.53875,
+    "city": "Georgetown"
+  },
+  "Tates Creek": {
+    "lat": 38.03669,
+    "lng": -84.46139,
+    "city": "Lexington"
+  },
+  "Meade County": {
+    "lat": 37.99695,
+    "lng": -86.18033,
+    "city": "Brandenburg"
+  },
+  "Pleasure Ridge Park": {
+    "lat": 38.226,
+    "lng": -85.74281,
+    "city": "Louisville"
+  },
+  "Fern Creek": {
+    "lat": 38.22165,
+    "lng": -85.73955,
+    "city": "Louisville"
+  },
+  "Henry Clay": {
+    "lat": 38.0361,
+    "lng": -84.45573,
+    "city": "Lexington"
+  },
+  "Daviess County": {
+    "lat": 37.75488,
+    "lng": -87.12231,
+    "city": "Owensboro"
+  },
+  "Central Hardin": {
+    "lat": 37.66174,
+    "lng": -85.94885,
+    "city": "Cecilia"
+  },
+  "Southern": {
+    "lat": 38.22439,
+    "lng": -85.74548,
+    "city": "Louisville"
   }
 }
