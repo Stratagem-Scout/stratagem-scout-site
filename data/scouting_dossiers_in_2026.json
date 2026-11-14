@@ -4,19 +4,19 @@
     "state": "IN",
     "division": "6A",
     "region": 5,
-    "record": "11-0",
-    "games_played": 11,
-    "avg_points_scored": 43.3,
-    "avg_points_allowed": 10.2,
-    "season_net_margin": 33.1,
-    "last_3_game_margin": 33.7,
-    "momentum_trend": 0.6,
+    "record": "12-0",
+    "games_played": 12,
+    "avg_points_scored": 44.2,
+    "avg_points_allowed": 10.9,
+    "season_net_margin": 33.3,
+    "last_3_game_margin": 36.3,
+    "momentum_trend": 3.0,
     "close_game_record": "0-0",
-    "mercy_rule_wins": 7,
+    "mercy_rule_wins": 8,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Explosive Separation Profile: Brownsburg has triggered the 35-point IHSAA running clock 7 times.",
-      "Stingy Scoring Defense: Allowing just 10.2 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+      "Explosive Separation Profile: Brownsburg has triggered the 35-point IHSAA running clock 8 times.",
+      "Stingy Scoring Defense: Allowing just 10.9 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
   "penn": {
@@ -24,20 +24,20 @@
     "state": "IN",
     "division": "6A",
     "region": 2,
-    "record": "11-0",
-    "games_played": 11,
-    "avg_points_scored": 48.2,
-    "avg_points_allowed": 6.0,
-    "season_net_margin": 42.2,
-    "last_3_game_margin": 33.0,
-    "momentum_trend": -9.2,
+    "record": "12-0",
+    "games_played": 12,
+    "avg_points_scored": 47.8,
+    "avg_points_allowed": 7.8,
+    "season_net_margin": 40.0,
+    "last_3_game_margin": 28.3,
+    "momentum_trend": -11.7,
     "close_game_record": "0-0",
     "mercy_rule_wins": 8,
     "verified_press_intel": [],
     "keys_to_victory": [
       "Explosive Separation Profile: Penn has triggered the 35-point IHSAA running clock 8 times.",
-      "Late-Season Margin Compression: Net differential dipped -9.2 PPG over the last 3 weeks.",
-      "Stingy Scoring Defense: Allowing just 6.0 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+      "Late-Season Margin Compression: Net differential dipped -11.7 PPG over the last 3 weeks.",
+      "Stingy Scoring Defense: Allowing just 7.8 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
   "warren central": {
@@ -45,39 +45,18 @@
     "state": "IN",
     "division": "6A",
     "region": 7,
-    "record": "11-0",
-    "games_played": 11,
-    "avg_points_scored": 40.9,
-    "avg_points_allowed": 16.5,
-    "season_net_margin": 24.4,
-    "last_3_game_margin": 32.7,
-    "momentum_trend": 8.3,
-    "close_game_record": "2-0",
-    "mercy_rule_wins": 4,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Warren Central has triggered the 35-point IHSAA running clock 4 times.",
-      "Peaking in Tournament Play: Net margin surged +8.3 PPG over the last 3 games (+32.7 PPG)."
-    ]
-  },
-  "lawrence north": {
-    "team": "Lawrence North",
-    "state": "IN",
-    "division": "6A",
-    "region": 6,
-    "record": "9-2",
-    "games_played": 11,
-    "avg_points_scored": 38.4,
-    "avg_points_allowed": 19.7,
-    "season_net_margin": 18.7,
-    "last_3_game_margin": 26.0,
-    "momentum_trend": 7.3,
+    "record": "12-0",
+    "games_played": 12,
+    "avg_points_scored": 38.6,
+    "avg_points_allowed": 15.7,
+    "season_net_margin": 22.9,
+    "last_3_game_margin": 24.3,
+    "momentum_trend": 1.4,
     "close_game_record": "3-0",
     "mercy_rule_wins": 4,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Explosive Separation Profile: Lawrence North has triggered the 35-point IHSAA running clock 4 times.",
-      "Peaking in Tournament Play: Net margin surged +7.3 PPG over the last 3 games (+26.0 PPG)."
+      "Explosive Separation Profile: Warren Central has triggered the 35-point IHSAA running clock 4 times."
     ]
   },
   "westfield": {
@@ -99,23 +78,24 @@
       "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
-  "carroll (fort wayne)": {
-    "team": "Carroll (Fort Wayne)",
+  "lawrence north": {
+    "team": "Lawrence North",
     "state": "IN",
     "division": "6A",
-    "region": 4,
-    "record": "10-1",
-    "games_played": 11,
-    "avg_points_scored": 45.7,
-    "avg_points_allowed": 16.7,
-    "season_net_margin": 29.0,
-    "last_3_game_margin": 33.7,
-    "momentum_trend": 4.7,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 5,
+    "region": 6,
+    "record": "9-3",
+    "games_played": 12,
+    "avg_points_scored": 36.8,
+    "avg_points_allowed": 22.7,
+    "season_net_margin": 14.1,
+    "last_3_game_margin": 0.0,
+    "momentum_trend": -14.1,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 4,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Explosive Separation Profile: Carroll (Fort Wayne) has triggered the 35-point IHSAA running clock 5 times."
+      "Explosive Separation Profile: Lawrence North has triggered the 35-point IHSAA running clock 4 times.",
+      "Late-Season Margin Compression: Net differential dipped -14.1 PPG over the last 3 weeks."
     ]
   },
   "crown point": {
@@ -123,19 +103,19 @@
     "state": "IN",
     "division": "6A",
     "region": 1,
-    "record": "11-0",
-    "games_played": 11,
-    "avg_points_scored": 40.4,
-    "avg_points_allowed": 11.4,
-    "season_net_margin": 29.0,
-    "last_3_game_margin": 27.0,
-    "momentum_trend": -2.0,
+    "record": "11-1",
+    "games_played": 12,
+    "avg_points_scored": 39.2,
+    "avg_points_allowed": 14.1,
+    "season_net_margin": 25.1,
+    "last_3_game_margin": 7.7,
+    "momentum_trend": -17.4,
     "close_game_record": "0-0",
     "mercy_rule_wins": 6,
     "verified_press_intel": [],
     "keys_to_victory": [
       "Explosive Separation Profile: Crown Point has triggered the 35-point IHSAA running clock 6 times.",
-      "Stingy Scoring Defense: Allowing just 11.4 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+      "Late-Season Margin Compression: Net differential dipped -17.4 PPG over the last 3 weeks."
     ]
   },
   "center grove": {
@@ -143,38 +123,37 @@
     "state": "IN",
     "division": "6A",
     "region": 8,
-    "record": "9-2",
-    "games_played": 11,
-    "avg_points_scored": 33.8,
-    "avg_points_allowed": 17.2,
-    "season_net_margin": 16.6,
-    "last_3_game_margin": 31.0,
-    "momentum_trend": 14.4,
-    "close_game_record": "1-2",
+    "record": "9-3",
+    "games_played": 12,
+    "avg_points_scored": 31.5,
+    "avg_points_allowed": 16.8,
+    "season_net_margin": 14.7,
+    "last_3_game_margin": 24.0,
+    "momentum_trend": 9.3,
+    "close_game_record": "1-3",
     "mercy_rule_wins": 2,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Peaking in Tournament Play: Net margin surged +14.4 PPG over the last 3 games (+31.0 PPG)."
+      "Peaking in Tournament Play: Net margin surged +9.3 PPG over the last 3 games (+24.0 PPG)."
     ]
   },
-  "indianapolis chatard": {
-    "team": "Indianapolis Chatard",
+  "carroll (fort wayne)": {
+    "team": "Carroll (Fort Wayne)",
     "state": "IN",
-    "division": "4A",
-    "region": 5,
+    "division": "6A",
+    "region": 4,
     "record": "10-2",
     "games_played": 12,
-    "avg_points_scored": 33.9,
-    "avg_points_allowed": 11.8,
-    "season_net_margin": 22.1,
-    "last_3_game_margin": 21.0,
-    "momentum_trend": -1.1,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 3,
+    "avg_points_scored": 42.5,
+    "avg_points_allowed": 18.5,
+    "season_net_margin": 24.0,
+    "last_3_game_margin": 17.7,
+    "momentum_trend": -6.3,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 5,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Explosive Separation Profile: Indianapolis Chatard has triggered the 35-point IHSAA running clock 3 times.",
-      "Stingy Scoring Defense: Allowing just 11.8 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+      "Explosive Separation Profile: Carroll (Fort Wayne) has triggered the 35-point IHSAA running clock 5 times."
     ]
   },
   "carmel": {
@@ -182,18 +161,59 @@
     "state": "IN",
     "division": "6A",
     "region": 3,
-    "record": "7-4",
-    "games_played": 11,
-    "avg_points_scored": 33.9,
-    "avg_points_allowed": 25.7,
-    "season_net_margin": 8.2,
-    "last_3_game_margin": 3.0,
-    "momentum_trend": -5.2,
+    "record": "8-4",
+    "games_played": 12,
+    "avg_points_scored": 34.2,
+    "avg_points_allowed": 24.2,
+    "season_net_margin": 10.0,
+    "last_3_game_margin": 12.3,
+    "momentum_trend": 2.3,
     "close_game_record": "4-3",
     "mercy_rule_wins": 1,
     "verified_press_intel": [],
     "keys_to_victory": [
       "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "indianapolis chatard": {
+    "team": "Indianapolis Chatard",
+    "state": "IN",
+    "division": "4A",
+    "region": 5,
+    "record": "11-2",
+    "games_played": 13,
+    "avg_points_scored": 33.2,
+    "avg_points_allowed": 11.5,
+    "season_net_margin": 21.7,
+    "last_3_game_margin": 23.7,
+    "momentum_trend": 2.0,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Indianapolis Chatard has triggered the 35-point IHSAA running clock 3 times.",
+      "Stingy Scoring Defense: Allowing just 11.5 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+    ]
+  },
+  "south putnam": {
+    "team": "South Putnam",
+    "state": "IN",
+    "division": "2A",
+    "region": 6,
+    "record": "13-0",
+    "games_played": 13,
+    "avg_points_scored": 54.7,
+    "avg_points_allowed": 8.5,
+    "season_net_margin": 46.2,
+    "last_3_game_margin": 36.7,
+    "momentum_trend": -9.5,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 11,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: South Putnam has triggered the 35-point IHSAA running clock 11 times.",
+      "Late-Season Margin Compression: Net differential dipped -9.5 PPG over the last 3 weeks.",
+      "Stingy Scoring Defense: Allowing just 8.5 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
   "decatur central": {
@@ -216,46 +236,43 @@
       "Peaking in Tournament Play: Net margin surged +11.4 PPG over the last 3 games (+37.0 PPG)."
     ]
   },
-  "south putnam": {
-    "team": "South Putnam",
-    "state": "IN",
-    "division": "2A",
-    "region": 6,
-    "record": "12-0",
-    "games_played": 12,
-    "avg_points_scored": 55.1,
-    "avg_points_allowed": 8.2,
-    "season_net_margin": 46.9,
-    "last_3_game_margin": 32.0,
-    "momentum_trend": -14.9,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 10,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: South Putnam has triggered the 35-point IHSAA running clock 10 times.",
-      "Late-Season Margin Compression: Net differential dipped -14.9 PPG over the last 3 weeks.",
-      "Stingy Scoring Defense: Allowing just 8.2 PPG. Prioritize hidden special-teams yardage and red-zone execution."
-    ]
-  },
   "bloomington south": {
     "team": "Bloomington South",
     "state": "IN",
     "division": "5A",
     "region": 7,
-    "record": "9-2",
-    "games_played": 11,
-    "avg_points_scored": 40.0,
-    "avg_points_allowed": 12.2,
-    "season_net_margin": 27.8,
-    "last_3_game_margin": 18.0,
-    "momentum_trend": -9.8,
+    "record": "10-2",
+    "games_played": 12,
+    "avg_points_scored": 39.8,
+    "avg_points_allowed": 12.3,
+    "season_net_margin": 27.5,
+    "last_3_game_margin": 30.7,
+    "momentum_trend": 3.2,
     "close_game_record": "0-0",
     "mercy_rule_wins": 5,
     "verified_press_intel": [],
     "keys_to_victory": [
       "Explosive Separation Profile: Bloomington South has triggered the 35-point IHSAA running clock 5 times.",
-      "Late-Season Margin Compression: Net differential dipped -9.8 PPG over the last 3 weeks.",
-      "Stingy Scoring Defense: Allowing just 12.2 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+      "Stingy Scoring Defense: Allowing just 12.3 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+    ]
+  },
+  "northridge": {
+    "team": "Northridge",
+    "state": "IN",
+    "division": "4A",
+    "region": 2,
+    "record": "13-0",
+    "games_played": 13,
+    "avg_points_scored": 45.5,
+    "avg_points_allowed": 19.2,
+    "season_net_margin": 26.3,
+    "last_3_game_margin": 25.0,
+    "momentum_trend": -1.3,
+    "close_game_record": "4-0",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Northridge has triggered the 35-point IHSAA running clock 5 times."
     ]
   },
   "new palestine": {
@@ -297,25 +314,6 @@
       "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
-  "lafayette jefferson": {
-    "team": "Lafayette Jefferson",
-    "state": "IN",
-    "division": "5A",
-    "region": 4,
-    "record": "9-2",
-    "games_played": 11,
-    "avg_points_scored": 47.2,
-    "avg_points_allowed": 15.3,
-    "season_net_margin": 31.9,
-    "last_3_game_margin": 35.0,
-    "momentum_trend": 3.1,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 6,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Lafayette Jefferson has triggered the 35-point IHSAA running clock 6 times."
-    ]
-  },
   "east central": {
     "team": "East Central",
     "state": "IN",
@@ -334,25 +332,6 @@
     "keys_to_victory": [
       "Explosive Separation Profile: East Central has triggered the 35-point IHSAA running clock 4 times.",
       "Peaking in Tournament Play: Net margin surged +20.5 PPG over the last 3 games (+42.0 PPG)."
-    ]
-  },
-  "northridge": {
-    "team": "Northridge",
-    "state": "IN",
-    "division": "4A",
-    "region": 2,
-    "record": "12-0",
-    "games_played": 12,
-    "avg_points_scored": 44.6,
-    "avg_points_allowed": 19.9,
-    "season_net_margin": 24.7,
-    "last_3_game_margin": 20.0,
-    "momentum_trend": -4.7,
-    "close_game_record": "4-0",
-    "mercy_rule_wins": 4,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Northridge has triggered the 35-point IHSAA running clock 4 times."
     ]
   },
   "ben davis": {
@@ -374,23 +353,43 @@
       "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
-  "roncalli": {
-    "team": "Roncalli",
+  "indianapolis cathedral": {
+    "team": "Indianapolis Cathedral",
     "state": "IN",
-    "division": "4A",
-    "region": 6,
-    "record": "10-2",
+    "division": "5A",
+    "region": 5,
+    "record": "9-3",
     "games_played": 12,
-    "avg_points_scored": 29.8,
-    "avg_points_allowed": 14.2,
-    "season_net_margin": 15.6,
-    "last_3_game_margin": 26.0,
-    "momentum_trend": 10.4,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 2,
+    "avg_points_scored": 31.1,
+    "avg_points_allowed": 16.8,
+    "season_net_margin": 14.3,
+    "last_3_game_margin": 23.0,
+    "momentum_trend": 8.7,
+    "close_game_record": "3-2",
+    "mercy_rule_wins": 3,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Peaking in Tournament Play: Net margin surged +10.4 PPG over the last 3 games (+26.0 PPG)."
+      "Explosive Separation Profile: Indianapolis Cathedral has triggered the 35-point IHSAA running clock 3 times.",
+      "Peaking in Tournament Play: Net margin surged +8.7 PPG over the last 3 games (+23.0 PPG)."
+    ]
+  },
+  "lafayette jefferson": {
+    "team": "Lafayette Jefferson",
+    "state": "IN",
+    "division": "5A",
+    "region": 4,
+    "record": "9-3",
+    "games_played": 12,
+    "avg_points_scored": 46.5,
+    "avg_points_allowed": 18.1,
+    "season_net_margin": 28.4,
+    "last_3_game_margin": 23.3,
+    "momentum_trend": -5.1,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 6,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Lafayette Jefferson has triggered the 35-point IHSAA running clock 6 times."
     ]
   },
   "logansport": {
@@ -414,24 +413,42 @@
       "Stingy Scoring Defense: Allowing just 11.1 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
+  "roncalli": {
+    "team": "Roncalli",
+    "state": "IN",
+    "division": "4A",
+    "region": 6,
+    "record": "10-3",
+    "games_played": 13,
+    "avg_points_scored": 28.0,
+    "avg_points_allowed": 15.0,
+    "season_net_margin": 13.0,
+    "last_3_game_margin": 13.3,
+    "momentum_trend": 0.3,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
   "fort wayne dwenger": {
     "team": "Fort Wayne Dwenger",
     "state": "IN",
     "division": "4A",
     "region": 3,
-    "record": "11-1",
-    "games_played": 12,
-    "avg_points_scored": 29.5,
-    "avg_points_allowed": 11.5,
-    "season_net_margin": 18.0,
-    "last_3_game_margin": 25.3,
-    "momentum_trend": 7.3,
+    "record": "12-1",
+    "games_played": 13,
+    "avg_points_scored": 30.3,
+    "avg_points_allowed": 11.7,
+    "season_net_margin": 18.6,
+    "last_3_game_margin": 22.7,
+    "momentum_trend": 4.1,
     "close_game_record": "2-0",
     "mercy_rule_wins": 1,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Peaking in Tournament Play: Net margin surged +7.3 PPG over the last 3 games (+25.3 PPG).",
-      "Stingy Scoring Defense: Allowing just 11.5 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+      "Stingy Scoring Defense: Allowing just 11.7 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
   "floyd central": {
@@ -454,24 +471,24 @@
       "Late-Season Margin Compression: Net differential dipped -13.8 PPG over the last 3 weeks."
     ]
   },
-  "indianapolis cathedral": {
-    "team": "Indianapolis Cathedral",
+  "brownstown central": {
+    "team": "Brownstown Central",
     "state": "IN",
-    "division": "5A",
-    "region": 5,
-    "record": "8-3",
-    "games_played": 11,
-    "avg_points_scored": 29.8,
-    "avg_points_allowed": 17.1,
-    "season_net_margin": 12.7,
-    "last_3_game_margin": 20.0,
-    "momentum_trend": 7.3,
-    "close_game_record": "3-2",
-    "mercy_rule_wins": 3,
+    "division": "2A",
+    "region": 7,
+    "record": "13-0",
+    "games_played": 13,
+    "avg_points_scored": 48.5,
+    "avg_points_allowed": 5.8,
+    "season_net_margin": 42.7,
+    "last_3_game_margin": 47.0,
+    "momentum_trend": 4.3,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 12,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Explosive Separation Profile: Indianapolis Cathedral has triggered the 35-point IHSAA running clock 3 times.",
-      "Peaking in Tournament Play: Net margin surged +7.3 PPG over the last 3 games (+20.0 PPG)."
+      "Explosive Separation Profile: Brownstown Central has triggered the 35-point IHSAA running clock 12 times.",
+      "Stingy Scoring Defense: Allowing just 5.8 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
   "evansville reitz": {
@@ -554,64 +571,23 @@
       "Peaking in Tournament Play: Net margin surged +7.0 PPG over the last 3 games (+17.7 PPG)."
     ]
   },
-  "brownstown central": {
-    "team": "Brownstown Central",
+  "warsaw": {
+    "team": "Warsaw",
     "state": "IN",
-    "division": "2A",
-    "region": 7,
-    "record": "12-0",
+    "division": "5A",
+    "region": 3,
+    "record": "11-1",
     "games_played": 12,
-    "avg_points_scored": 47.3,
-    "avg_points_allowed": 3.9,
-    "season_net_margin": 43.4,
-    "last_3_game_margin": 50.0,
-    "momentum_trend": 6.6,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 11,
+    "avg_points_scored": 36.0,
+    "avg_points_allowed": 18.2,
+    "season_net_margin": 17.8,
+    "last_3_game_margin": 14.0,
+    "momentum_trend": -3.8,
+    "close_game_record": "4-1",
+    "mercy_rule_wins": 3,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Explosive Separation Profile: Brownstown Central has triggered the 35-point IHSAA running clock 11 times.",
-      "Stingy Scoring Defense: Allowing just 3.9 PPG. Prioritize hidden special-teams yardage and red-zone execution."
-    ]
-  },
-  "eastern hancock": {
-    "team": "Eastern Hancock",
-    "state": "IN",
-    "division": "2A",
-    "region": 5,
-    "record": "11-0",
-    "games_played": 11,
-    "avg_points_scored": 48.6,
-    "avg_points_allowed": 9.5,
-    "season_net_margin": 39.1,
-    "last_3_game_margin": 27.3,
-    "momentum_trend": -11.8,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 6,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Eastern Hancock has triggered the 35-point IHSAA running clock 6 times.",
-      "Late-Season Margin Compression: Net differential dipped -11.8 PPG over the last 3 weeks.",
-      "Stingy Scoring Defense: Allowing just 9.5 PPG. Prioritize hidden special-teams yardage and red-zone execution."
-    ]
-  },
-  "evansville memorial": {
-    "team": "Evansville Memorial",
-    "state": "IN",
-    "division": "3A",
-    "region": 8,
-    "record": "12-0",
-    "games_played": 12,
-    "avg_points_scored": 38.0,
-    "avg_points_allowed": 15.3,
-    "season_net_margin": 22.7,
-    "last_3_game_margin": 20.7,
-    "momentum_trend": -2.0,
-    "close_game_record": "4-0",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
+      "Explosive Separation Profile: Warsaw has triggered the 35-point IHSAA running clock 3 times."
     ]
   },
   "zionsville": {
@@ -652,26 +628,6 @@
       "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
-  "warsaw": {
-    "team": "Warsaw",
-    "state": "IN",
-    "division": "5A",
-    "region": 3,
-    "record": "10-1",
-    "games_played": 11,
-    "avg_points_scored": 34.8,
-    "avg_points_allowed": 16.4,
-    "season_net_margin": 18.4,
-    "last_3_game_margin": 8.3,
-    "momentum_trend": -10.1,
-    "close_game_record": "4-1",
-    "mercy_rule_wins": 3,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Warsaw has triggered the 35-point IHSAA running clock 3 times.",
-      "Late-Season Margin Compression: Net differential dipped -10.1 PPG over the last 3 weeks."
-    ]
-  },
   "hamilton southeastern": {
     "team": "Hamilton Southeastern",
     "state": "IN",
@@ -689,26 +645,6 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
-  "plainfield": {
-    "team": "Plainfield",
-    "state": "IN",
-    "division": "5A",
-    "region": 6,
-    "record": "9-2",
-    "games_played": 11,
-    "avg_points_scored": 37.7,
-    "avg_points_allowed": 19.3,
-    "season_net_margin": 18.4,
-    "last_3_game_margin": 36.3,
-    "momentum_trend": 17.9,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 4,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Plainfield has triggered the 35-point IHSAA running clock 4 times.",
-      "Peaking in Tournament Play: Net margin surged +17.9 PPG over the last 3 games (+36.3 PPG)."
     ]
   },
   "danville": {
@@ -731,24 +667,44 @@
       "Late-Season Margin Compression: Net differential dipped -19.8 PPG over the last 3 weeks."
     ]
   },
-  "lawrenceburg": {
-    "team": "Lawrenceburg",
+  "evansville memorial": {
+    "team": "Evansville Memorial",
     "state": "IN",
     "division": "3A",
-    "region": 6,
-    "record": "11-1",
-    "games_played": 12,
-    "avg_points_scored": 41.2,
-    "avg_points_allowed": 11.5,
-    "season_net_margin": 29.7,
-    "last_3_game_margin": 25.3,
-    "momentum_trend": -4.4,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 5,
+    "region": 8,
+    "record": "12-1",
+    "games_played": 13,
+    "avg_points_scored": 37.2,
+    "avg_points_allowed": 16.5,
+    "season_net_margin": 20.7,
+    "last_3_game_margin": 8.3,
+    "momentum_trend": -12.4,
+    "close_game_record": "4-1",
+    "mercy_rule_wins": 2,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Explosive Separation Profile: Lawrenceburg has triggered the 35-point IHSAA running clock 5 times.",
-      "Stingy Scoring Defense: Allowing just 11.5 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+      "Late-Season Margin Compression: Net differential dipped -12.4 PPG over the last 3 weeks."
+    ]
+  },
+  "andrean": {
+    "team": "Andrean",
+    "state": "IN",
+    "division": "3A",
+    "region": 1,
+    "record": "12-1",
+    "games_played": 13,
+    "avg_points_scored": 34.4,
+    "avg_points_allowed": 9.6,
+    "season_net_margin": 24.8,
+    "last_3_game_margin": 34.7,
+    "momentum_trend": 9.9,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Andrean has triggered the 35-point IHSAA running clock 4 times.",
+      "Peaking in Tournament Play: Net margin surged +9.9 PPG over the last 3 games (+34.7 PPG).",
+      "Stingy Scoring Defense: Allowing just 9.6 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
   "indian creek": {
@@ -756,19 +712,41 @@
     "state": "IN",
     "division": "3A",
     "region": 7,
-    "record": "11-0",
-    "games_played": 11,
-    "avg_points_scored": 37.5,
-    "avg_points_allowed": 8.0,
-    "season_net_margin": 29.5,
-    "last_3_game_margin": 26.3,
-    "momentum_trend": -3.2,
-    "close_game_record": "1-0",
+    "record": "12-0",
+    "games_played": 12,
+    "avg_points_scored": 37.0,
+    "avg_points_allowed": 9.7,
+    "season_net_margin": 27.3,
+    "last_3_game_margin": 18.0,
+    "momentum_trend": -9.3,
+    "close_game_record": "2-0",
     "mercy_rule_wins": 5,
     "verified_press_intel": [],
     "keys_to_victory": [
       "Explosive Separation Profile: Indian Creek has triggered the 35-point IHSAA running clock 5 times.",
-      "Stingy Scoring Defense: Allowing just 8.0 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+      "Late-Season Margin Compression: Net differential dipped -9.3 PPG over the last 3 weeks.",
+      "Stingy Scoring Defense: Allowing just 9.7 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+    ]
+  },
+  "lawrenceburg": {
+    "team": "Lawrenceburg",
+    "state": "IN",
+    "division": "3A",
+    "region": 6,
+    "record": "11-2",
+    "games_played": 13,
+    "avg_points_scored": 39.5,
+    "avg_points_allowed": 12.5,
+    "season_net_margin": 27.0,
+    "last_3_game_margin": 12.7,
+    "momentum_trend": -14.3,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Lawrenceburg has triggered the 35-point IHSAA running clock 5 times.",
+      "Late-Season Margin Compression: Net differential dipped -14.3 PPG over the last 3 weeks.",
+      "Stingy Scoring Defense: Allowing just 12.5 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
   "gibson southern": {
@@ -788,26 +766,6 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Explosive Separation Profile: Gibson Southern has triggered the 35-point IHSAA running clock 4 times."
-    ]
-  },
-  "andrean": {
-    "team": "Andrean",
-    "state": "IN",
-    "division": "3A",
-    "region": 1,
-    "record": "11-1",
-    "games_played": 12,
-    "avg_points_scored": 34.3,
-    "avg_points_allowed": 10.4,
-    "season_net_margin": 23.9,
-    "last_3_game_margin": 29.0,
-    "momentum_trend": 5.1,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 3,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Andrean has triggered the 35-point IHSAA running clock 3 times.",
-      "Stingy Scoring Defense: Allowing just 10.4 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
   "cascade": {
@@ -869,23 +827,43 @@
       "Late-Season Margin Compression: Net differential dipped -7.6 PPG over the last 3 weeks."
     ]
   },
-  "pendleton heights": {
-    "team": "Pendleton Heights",
+  "eastern hancock": {
+    "team": "Eastern Hancock",
     "state": "IN",
-    "division": "5A",
+    "division": "2A",
     "region": 5,
-    "record": "8-2",
-    "games_played": 10,
-    "avg_points_scored": 39.8,
-    "avg_points_allowed": 24.9,
-    "season_net_margin": 14.9,
-    "last_3_game_margin": 15.7,
-    "momentum_trend": 0.8,
-    "close_game_record": "2-0",
-    "mercy_rule_wins": 2,
+    "record": "11-1",
+    "games_played": 12,
+    "avg_points_scored": 45.7,
+    "avg_points_allowed": 12.8,
+    "season_net_margin": 32.9,
+    "last_3_game_margin": 10.3,
+    "momentum_trend": -22.6,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 6,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
+      "Explosive Separation Profile: Eastern Hancock has triggered the 35-point IHSAA running clock 6 times.",
+      "Late-Season Margin Compression: Net differential dipped -22.6 PPG over the last 3 weeks."
+    ]
+  },
+  "plainfield": {
+    "team": "Plainfield",
+    "state": "IN",
+    "division": "5A",
+    "region": 6,
+    "record": "9-3",
+    "games_played": 12,
+    "avg_points_scored": 35.8,
+    "avg_points_allowed": 21.4,
+    "season_net_margin": 14.4,
+    "last_3_game_margin": 14.3,
+    "momentum_trend": -0.1,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Plainfield has triggered the 35-point IHSAA running clock 4 times."
     ]
   },
   "south bend st. joseph": {
@@ -909,24 +887,61 @@
       "Stingy Scoring Defense: Allowing just 10.6 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
+  "pendleton heights": {
+    "team": "Pendleton Heights",
+    "state": "IN",
+    "division": "5A",
+    "region": 5,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 39.8,
+    "avg_points_allowed": 24.9,
+    "season_net_margin": 14.9,
+    "last_3_game_margin": 15.7,
+    "momentum_trend": 0.8,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
   "concord": {
     "team": "Concord",
     "state": "IN",
     "division": "5A",
     "region": 2,
-    "record": "6-5",
-    "games_played": 11,
-    "avg_points_scored": 33.4,
-    "avg_points_allowed": 18.8,
-    "season_net_margin": 14.6,
-    "last_3_game_margin": 26.7,
-    "momentum_trend": 12.1,
+    "record": "6-6",
+    "games_played": 12,
+    "avg_points_scored": 32.8,
+    "avg_points_allowed": 20.6,
+    "season_net_margin": 12.2,
+    "last_3_game_margin": 15.3,
+    "momentum_trend": 3.1,
     "close_game_record": "0-4",
     "mercy_rule_wins": 4,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Explosive Separation Profile: Concord has triggered the 35-point IHSAA running clock 4 times.",
-      "Peaking in Tournament Play: Net margin surged +12.1 PPG over the last 3 games (+26.7 PPG)."
+      "Explosive Separation Profile: Concord has triggered the 35-point IHSAA running clock 4 times."
+    ]
+  },
+  "tri-west": {
+    "team": "Tri-West",
+    "state": "IN",
+    "division": "3A",
+    "region": 5,
+    "record": "11-2",
+    "games_played": 13,
+    "avg_points_scored": 37.1,
+    "avg_points_allowed": 18.3,
+    "season_net_margin": 18.8,
+    "last_3_game_margin": 22.3,
+    "momentum_trend": 3.5,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Tri-West has triggered the 35-point IHSAA running clock 3 times."
     ]
   },
   "griffith": {
@@ -949,44 +964,24 @@
       "Late-Season Margin Compression: Net differential dipped -12.4 PPG over the last 3 weeks."
     ]
   },
-  "tri-west": {
-    "team": "Tri-West",
-    "state": "IN",
-    "division": "3A",
-    "region": 5,
-    "record": "10-2",
-    "games_played": 12,
-    "avg_points_scored": 38.2,
-    "avg_points_allowed": 18.2,
-    "season_net_margin": 20.0,
-    "last_3_game_margin": 28.0,
-    "momentum_trend": 8.0,
-    "close_game_record": "1-1",
-    "mercy_rule_wins": 3,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Tri-West has triggered the 35-point IHSAA running clock 3 times.",
-      "Peaking in Tournament Play: Net margin surged +8.0 PPG over the last 3 games (+28.0 PPG)."
-    ]
-  },
   "eastside": {
     "team": "Eastside",
     "state": "IN",
     "division": "2A",
     "region": 2,
-    "record": "11-0",
-    "games_played": 11,
-    "avg_points_scored": 43.1,
-    "avg_points_allowed": 10.5,
-    "season_net_margin": 32.6,
-    "last_3_game_margin": 30.3,
-    "momentum_trend": -2.3,
+    "record": "12-0",
+    "games_played": 12,
+    "avg_points_scored": 41.8,
+    "avg_points_allowed": 10.8,
+    "season_net_margin": 31.0,
+    "last_3_game_margin": 27.7,
+    "momentum_trend": -3.3,
     "close_game_record": "1-0",
     "mercy_rule_wins": 5,
     "verified_press_intel": [],
     "keys_to_victory": [
       "Explosive Separation Profile: Eastside has triggered the 35-point IHSAA running clock 5 times.",
-      "Stingy Scoring Defense: Allowing just 10.5 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+      "Stingy Scoring Defense: Allowing just 10.8 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
   "fort wayne snider": {
@@ -1027,44 +1022,44 @@
       "Peaking in Tournament Play: Net margin surged +12.8 PPG over the last 3 games (+9.3 PPG)."
     ]
   },
+  "lapel": {
+    "team": "Lapel",
+    "state": "IN",
+    "division": "2A",
+    "region": 4,
+    "record": "12-1",
+    "games_played": 13,
+    "avg_points_scored": 44.2,
+    "avg_points_allowed": 13.6,
+    "season_net_margin": 30.6,
+    "last_3_game_margin": 37.0,
+    "momentum_trend": 6.4,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Lapel has triggered the 35-point IHSAA running clock 5 times."
+    ]
+  },
   "bluffton": {
     "team": "Bluffton",
     "state": "IN",
     "division": "3A",
     "region": 3,
-    "record": "12-0",
-    "games_played": 12,
-    "avg_points_scored": 42.8,
-    "avg_points_allowed": 8.7,
-    "season_net_margin": 34.1,
-    "last_3_game_margin": 24.7,
-    "momentum_trend": -9.4,
-    "close_game_record": "1-0",
+    "record": "12-1",
+    "games_played": 13,
+    "avg_points_scored": 43.2,
+    "avg_points_allowed": 11.7,
+    "season_net_margin": 31.5,
+    "last_3_game_margin": 12.7,
+    "momentum_trend": -18.8,
+    "close_game_record": "1-1",
     "mercy_rule_wins": 7,
     "verified_press_intel": [],
     "keys_to_victory": [
       "Explosive Separation Profile: Bluffton has triggered the 35-point IHSAA running clock 7 times.",
-      "Late-Season Margin Compression: Net differential dipped -9.4 PPG over the last 3 weeks.",
-      "Stingy Scoring Defense: Allowing just 8.7 PPG. Prioritize hidden special-teams yardage and red-zone execution."
-    ]
-  },
-  "hobart": {
-    "team": "Hobart",
-    "state": "IN",
-    "division": "4A",
-    "region": 1,
-    "record": "9-3",
-    "games_played": 12,
-    "avg_points_scored": 38.0,
-    "avg_points_allowed": 16.1,
-    "season_net_margin": 21.9,
-    "last_3_game_margin": 27.3,
-    "momentum_trend": 5.4,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 5,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Hobart has triggered the 35-point IHSAA running clock 5 times."
+      "Late-Season Margin Compression: Net differential dipped -18.8 PPG over the last 3 weeks.",
+      "Stingy Scoring Defense: Allowing just 11.7 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
   "indianapolis lutheran": {
@@ -1088,24 +1083,24 @@
       "Stingy Scoring Defense: Allowing just 10.0 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
-  "lapel": {
-    "team": "Lapel",
+  "leo": {
+    "team": "Leo",
     "state": "IN",
-    "division": "2A",
-    "region": 4,
-    "record": "11-1",
-    "games_played": 12,
-    "avg_points_scored": 43.2,
-    "avg_points_allowed": 13.6,
-    "season_net_margin": 29.6,
-    "last_3_game_margin": 37.3,
-    "momentum_trend": 7.7,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 4,
+    "division": "4A",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 25.4,
+    "avg_points_allowed": 17.9,
+    "season_net_margin": 7.5,
+    "last_3_game_margin": -14.7,
+    "momentum_trend": -22.2,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 3,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Explosive Separation Profile: Lapel has triggered the 35-point IHSAA running clock 4 times.",
-      "Peaking in Tournament Play: Net margin surged +7.7 PPG over the last 3 games (+37.3 PPG)."
+      "Explosive Separation Profile: Leo has triggered the 35-point IHSAA running clock 3 times.",
+      "Late-Season Margin Compression: Net differential dipped -22.2 PPG over the last 3 weeks."
     ]
   },
   "lawrence central": {
@@ -1125,26 +1120,6 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Late-Season Margin Compression: Net differential dipped -7.4 PPG over the last 3 weeks."
-    ]
-  },
-  "leo": {
-    "team": "Leo",
-    "state": "IN",
-    "division": "4A",
-    "region": 1,
-    "record": "5-5",
-    "games_played": 10,
-    "avg_points_scored": 25.4,
-    "avg_points_allowed": 17.9,
-    "season_net_margin": 7.5,
-    "last_3_game_margin": -14.7,
-    "momentum_trend": -22.2,
-    "close_game_record": "0-2",
-    "mercy_rule_wins": 3,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Leo has triggered the 35-point IHSAA running clock 3 times.",
-      "Late-Season Margin Compression: Net differential dipped -22.2 PPG over the last 3 weeks."
     ]
   },
   "yorktown": {
@@ -1185,6 +1160,26 @@
       "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
+  "hobart": {
+    "team": "Hobart",
+    "state": "IN",
+    "division": "4A",
+    "region": 1,
+    "record": "9-4",
+    "games_played": 13,
+    "avg_points_scored": 35.8,
+    "avg_points_allowed": 19.2,
+    "season_net_margin": 16.6,
+    "last_3_game_margin": 4.3,
+    "momentum_trend": -12.3,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 5,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Hobart has triggered the 35-point IHSAA running clock 5 times.",
+      "Late-Season Margin Compression: Net differential dipped -12.3 PPG over the last 3 weeks."
+    ]
+  },
   "dekalb": {
     "team": "DeKalb",
     "state": "IN",
@@ -1202,25 +1197,6 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Explosive Separation Profile: DeKalb has triggered the 35-point IHSAA running clock 3 times."
-    ]
-  },
-  "castle": {
-    "team": "Castle",
-    "state": "IN",
-    "division": "5A",
-    "region": 8,
-    "record": "7-4",
-    "games_played": 11,
-    "avg_points_scored": 29.1,
-    "avg_points_allowed": 21.5,
-    "season_net_margin": 7.6,
-    "last_3_game_margin": -2.0,
-    "momentum_trend": -9.6,
-    "close_game_record": "3-1",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Late-Season Margin Compression: Net differential dipped -9.6 PPG over the last 3 weeks."
     ]
   },
   "elkhart": {
@@ -1242,6 +1218,25 @@
       "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
+  "castle": {
+    "team": "Castle",
+    "state": "IN",
+    "division": "5A",
+    "region": 8,
+    "record": "7-5",
+    "games_played": 12,
+    "avg_points_scored": 27.8,
+    "avg_points_allowed": 22.8,
+    "season_net_margin": 5.0,
+    "last_3_game_margin": -2.3,
+    "momentum_trend": -7.3,
+    "close_game_record": "3-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -7.3 PPG over the last 3 weeks."
+    ]
+  },
   "lowell": {
     "team": "Lowell",
     "state": "IN",
@@ -1259,6 +1254,25 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Explosive Separation Profile: Lowell has triggered the 35-point IHSAA running clock 3 times."
+    ]
+  },
+  "evansville north": {
+    "team": "Evansville North",
+    "state": "IN",
+    "division": "5A",
+    "region": 8,
+    "record": "5-6",
+    "games_played": 11,
+    "avg_points_scored": 32.5,
+    "avg_points_allowed": 22.3,
+    "season_net_margin": 10.2,
+    "last_3_game_margin": 19.0,
+    "momentum_trend": 8.8,
+    "close_game_record": "1-5",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Tournament Play: Net margin surged +8.8 PPG over the last 3 games (+19.0 PPG)."
     ]
   },
   "homestead": {
@@ -1281,82 +1295,23 @@
       "Late-Season Margin Compression: Net differential dipped -14.0 PPG over the last 3 weeks."
     ]
   },
-  "evansville north": {
-    "team": "Evansville North",
+  "northwood": {
+    "team": "NorthWood",
     "state": "IN",
-    "division": "5A",
-    "region": 8,
-    "record": "5-6",
-    "games_played": 11,
-    "avg_points_scored": 32.5,
-    "avg_points_allowed": 22.3,
-    "season_net_margin": 10.2,
-    "last_3_game_margin": 19.0,
-    "momentum_trend": 8.8,
-    "close_game_record": "1-5",
+    "division": "4A",
+    "region": 2,
+    "record": "7-5",
+    "games_played": 12,
+    "avg_points_scored": 26.8,
+    "avg_points_allowed": 23.4,
+    "season_net_margin": 3.4,
+    "last_3_game_margin": 13.3,
+    "momentum_trend": 9.9,
+    "close_game_record": "3-2",
     "mercy_rule_wins": 2,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Peaking in Tournament Play: Net margin surged +8.8 PPG over the last 3 games (+19.0 PPG)."
-    ]
-  },
-  "batesville": {
-    "team": "Batesville",
-    "state": "IN",
-    "division": "3A",
-    "region": 6,
-    "record": "9-3",
-    "games_played": 12,
-    "avg_points_scored": 34.7,
-    "avg_points_allowed": 18.9,
-    "season_net_margin": 15.8,
-    "last_3_game_margin": 16.3,
-    "momentum_trend": 0.5,
-    "close_game_record": "2-0",
-    "mercy_rule_wins": 5,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Batesville has triggered the 35-point IHSAA running clock 5 times."
-    ]
-  },
-  "mooresville": {
-    "team": "Mooresville",
-    "state": "IN",
-    "division": "4A",
-    "region": 6,
-    "record": "7-5",
-    "games_played": 12,
-    "avg_points_scored": 31.2,
-    "avg_points_allowed": 25.2,
-    "season_net_margin": 6.0,
-    "last_3_game_margin": 6.3,
-    "momentum_trend": 0.3,
-    "close_game_record": "1-1",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
-  "north judson": {
-    "team": "North Judson",
-    "state": "IN",
-    "division": "1A",
-    "region": 1,
-    "record": "11-1",
-    "games_played": 12,
-    "avg_points_scored": 41.7,
-    "avg_points_allowed": 8.6,
-    "season_net_margin": 33.1,
-    "last_3_game_margin": 40.7,
-    "momentum_trend": 7.6,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 9,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: North Judson has triggered the 35-point IHSAA running clock 9 times.",
-      "Peaking in Tournament Play: Net margin surged +7.6 PPG over the last 3 games (+40.7 PPG).",
-      "Stingy Scoring Defense: Allowing just 8.6 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+      "Peaking in Tournament Play: Net margin surged +9.9 PPG over the last 3 games (+13.3 PPG)."
     ]
   },
   "adams central": {
@@ -1378,23 +1333,102 @@
       "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
-  "northwood": {
-    "team": "NorthWood",
+  "batesville": {
+    "team": "Batesville",
     "state": "IN",
-    "division": "4A",
-    "region": 2,
-    "record": "7-5",
+    "division": "3A",
+    "region": 6,
+    "record": "9-3",
     "games_played": 12,
-    "avg_points_scored": 26.8,
-    "avg_points_allowed": 23.4,
-    "season_net_margin": 3.4,
-    "last_3_game_margin": 13.3,
-    "momentum_trend": 9.9,
-    "close_game_record": "3-2",
-    "mercy_rule_wins": 2,
+    "avg_points_scored": 34.7,
+    "avg_points_allowed": 18.9,
+    "season_net_margin": 15.8,
+    "last_3_game_margin": 16.3,
+    "momentum_trend": 0.5,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 5,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Peaking in Tournament Play: Net margin surged +9.9 PPG over the last 3 games (+13.3 PPG)."
+      "Explosive Separation Profile: Batesville has triggered the 35-point IHSAA running clock 5 times."
+    ]
+  },
+  "north judson": {
+    "team": "North Judson",
+    "state": "IN",
+    "division": "1A",
+    "region": 1,
+    "record": "12-1",
+    "games_played": 13,
+    "avg_points_scored": 41.7,
+    "avg_points_allowed": 8.5,
+    "season_net_margin": 33.2,
+    "last_3_game_margin": 34.0,
+    "momentum_trend": 0.8,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 10,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: North Judson has triggered the 35-point IHSAA running clock 10 times.",
+      "Stingy Scoring Defense: Allowing just 8.5 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+    ]
+  },
+  "milan": {
+    "team": "Milan",
+    "state": "IN",
+    "division": "1A",
+    "region": 6,
+    "record": "11-2",
+    "games_played": 13,
+    "avg_points_scored": 49.7,
+    "avg_points_allowed": 10.5,
+    "season_net_margin": 39.2,
+    "last_3_game_margin": 24.3,
+    "momentum_trend": -14.9,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 9,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Milan has triggered the 35-point IHSAA running clock 9 times.",
+      "Late-Season Margin Compression: Net differential dipped -14.9 PPG over the last 3 weeks.",
+      "Stingy Scoring Defense: Allowing just 10.5 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+    ]
+  },
+  "mooresville": {
+    "team": "Mooresville",
+    "state": "IN",
+    "division": "4A",
+    "region": 6,
+    "record": "7-5",
+    "games_played": 12,
+    "avg_points_scored": 31.2,
+    "avg_points_allowed": 25.2,
+    "season_net_margin": 6.0,
+    "last_3_game_margin": 6.3,
+    "momentum_trend": 0.3,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "maconaquah": {
+    "team": "Maconaquah",
+    "state": "IN",
+    "division": "3A",
+    "region": 4,
+    "record": "10-1",
+    "games_played": 11,
+    "avg_points_scored": 49.1,
+    "avg_points_allowed": 23.5,
+    "season_net_margin": 25.6,
+    "last_3_game_margin": 22.7,
+    "momentum_trend": -2.9,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Maconaquah has triggered the 35-point IHSAA running clock 4 times."
     ]
   },
   "jasper": {
@@ -1417,43 +1451,24 @@
       "Late-Season Margin Compression: Net differential dipped -14.6 PPG over the last 3 weeks."
     ]
   },
-  "maconaquah": {
-    "team": "Maconaquah",
+  "mishawaka": {
+    "team": "Mishawaka",
     "state": "IN",
-    "division": "3A",
-    "region": 4,
-    "record": "10-1",
-    "games_played": 11,
-    "avg_points_scored": 49.1,
-    "avg_points_allowed": 23.5,
-    "season_net_margin": 25.6,
-    "last_3_game_margin": 22.7,
-    "momentum_trend": -2.9,
-    "close_game_record": "1-1",
-    "mercy_rule_wins": 4,
+    "division": "4A",
+    "region": 1,
+    "record": "6-4",
+    "games_played": 10,
+    "avg_points_scored": 27.1,
+    "avg_points_allowed": 29.2,
+    "season_net_margin": -2.1,
+    "last_3_game_margin": 8.3,
+    "momentum_trend": 10.4,
+    "close_game_record": "3-1",
+    "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Explosive Separation Profile: Maconaquah has triggered the 35-point IHSAA running clock 4 times."
-    ]
-  },
-  "milan": {
-    "team": "Milan",
-    "state": "IN",
-    "division": "1A",
-    "region": 6,
-    "record": "10-2",
-    "games_played": 12,
-    "avg_points_scored": 49.8,
-    "avg_points_allowed": 9.7,
-    "season_net_margin": 40.1,
-    "last_3_game_margin": 34.3,
-    "momentum_trend": -5.8,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 9,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Milan has triggered the 35-point IHSAA running clock 9 times.",
-      "Stingy Scoring Defense: Allowing just 9.7 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare.",
+      "Peaking in Tournament Play: Net margin surged +10.4 PPG over the last 3 games (+8.3 PPG)."
     ]
   },
   "north central (indianapolis)": {
@@ -1475,6 +1490,26 @@
       "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
+  "chesterton": {
+    "team": "Chesterton",
+    "state": "IN",
+    "division": "5A",
+    "region": 1,
+    "record": "7-5",
+    "games_played": 12,
+    "avg_points_scored": 21.8,
+    "avg_points_allowed": 19.9,
+    "season_net_margin": 1.9,
+    "last_3_game_margin": 13.3,
+    "momentum_trend": 11.4,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare.",
+      "Peaking in Tournament Play: Net margin surged +11.4 PPG over the last 3 games (+13.3 PPG)."
+    ]
+  },
   "fort wayne north": {
     "team": "Fort Wayne North",
     "state": "IN",
@@ -1492,26 +1527,6 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Late-Season Margin Compression: Net differential dipped -20.1 PPG over the last 3 weeks."
-    ]
-  },
-  "mishawaka": {
-    "team": "Mishawaka",
-    "state": "IN",
-    "division": "4A",
-    "region": 1,
-    "record": "6-4",
-    "games_played": 10,
-    "avg_points_scored": 27.1,
-    "avg_points_allowed": 29.2,
-    "season_net_margin": -2.1,
-    "last_3_game_margin": 8.3,
-    "momentum_trend": 10.4,
-    "close_game_record": "3-1",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare.",
-      "Peaking in Tournament Play: Net margin surged +10.4 PPG over the last 3 games (+8.3 PPG)."
     ]
   },
   "brebeuf jesuit": {
@@ -1590,25 +1605,6 @@
       "Late-Season Margin Compression: Net differential dipped -10.6 PPG over the last 3 weeks."
     ]
   },
-  "muncie central": {
-    "team": "Muncie Central",
-    "state": "IN",
-    "division": "4A",
-    "region": 4,
-    "record": "9-3",
-    "games_played": 12,
-    "avg_points_scored": 34.1,
-    "avg_points_allowed": 21.5,
-    "season_net_margin": 12.6,
-    "last_3_game_margin": 7.3,
-    "momentum_trend": -5.3,
-    "close_game_record": "4-0",
-    "mercy_rule_wins": 3,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Muncie Central has triggered the 35-point IHSAA running clock 3 times."
-    ]
-  },
   "noblesville": {
     "team": "Noblesville",
     "state": "IN",
@@ -1626,45 +1622,6 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Late-Season Margin Compression: Net differential dipped -17.4 PPG over the last 3 weeks."
-    ]
-  },
-  "chesterton": {
-    "team": "Chesterton",
-    "state": "IN",
-    "division": "5A",
-    "region": 1,
-    "record": "6-5",
-    "games_played": 11,
-    "avg_points_scored": 20.1,
-    "avg_points_allowed": 19.3,
-    "season_net_margin": 0.8,
-    "last_3_game_margin": 2.0,
-    "momentum_trend": 1.2,
-    "close_game_record": "2-2",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
-    ]
-  },
-  "wheeler": {
-    "team": "Wheeler",
-    "state": "IN",
-    "division": "2A",
-    "region": 1,
-    "record": "11-1",
-    "games_played": 12,
-    "avg_points_scored": 41.5,
-    "avg_points_allowed": 9.4,
-    "season_net_margin": 32.1,
-    "last_3_game_margin": 35.0,
-    "momentum_trend": 2.9,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 9,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Wheeler has triggered the 35-point IHSAA running clock 9 times.",
-      "Stingy Scoring Defense: Allowing just 9.4 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
   "guerin catholic": {
@@ -1686,43 +1643,65 @@
       "Peaking in Tournament Play: Net margin surged +10.4 PPG over the last 3 games (+9.3 PPG)."
     ]
   },
-  "pioneer": {
-    "team": "Pioneer",
+  "muncie central": {
+    "team": "Muncie Central",
+    "state": "IN",
+    "division": "4A",
+    "region": 4,
+    "record": "9-4",
+    "games_played": 13,
+    "avg_points_scored": 32.5,
+    "avg_points_allowed": 22.9,
+    "season_net_margin": 9.6,
+    "last_3_game_margin": -5.0,
+    "momentum_trend": -14.6,
+    "close_game_record": "4-0",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Muncie Central has triggered the 35-point IHSAA running clock 3 times.",
+      "Late-Season Margin Compression: Net differential dipped -14.6 PPG over the last 3 weeks."
+    ]
+  },
+  "riverton parke": {
+    "team": "Riverton Parke",
     "state": "IN",
     "division": "1A",
-    "region": 3,
+    "region": 7,
     "record": "12-0",
     "games_played": 12,
-    "avg_points_scored": 43.8,
+    "avg_points_scored": 46.1,
     "avg_points_allowed": 9.3,
-    "season_net_margin": 34.5,
-    "last_3_game_margin": 37.3,
-    "momentum_trend": 2.8,
-    "close_game_record": "3-0",
+    "season_net_margin": 36.8,
+    "last_3_game_margin": 30.0,
+    "momentum_trend": -6.8,
+    "close_game_record": "0-0",
     "mercy_rule_wins": 7,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Explosive Separation Profile: Pioneer has triggered the 35-point IHSAA running clock 7 times.",
+      "Explosive Separation Profile: Riverton Parke has triggered the 35-point IHSAA running clock 7 times.",
       "Stingy Scoring Defense: Allowing just 9.3 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
-  "whiteland": {
-    "team": "Whiteland",
+  "wheeler": {
+    "team": "Wheeler",
     "state": "IN",
-    "division": "6A",
-    "region": 8,
-    "record": "3-7",
-    "games_played": 10,
-    "avg_points_scored": 15.8,
-    "avg_points_allowed": 26.3,
-    "season_net_margin": -10.5,
-    "last_3_game_margin": -11.0,
-    "momentum_trend": -0.5,
-    "close_game_record": "2-3",
-    "mercy_rule_wins": 0,
+    "division": "2A",
+    "region": 1,
+    "record": "11-2",
+    "games_played": 13,
+    "avg_points_scored": 39.4,
+    "avg_points_allowed": 10.8,
+    "season_net_margin": 28.6,
+    "last_3_game_margin": 19.0,
+    "momentum_trend": -9.6,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 9,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
+      "Explosive Separation Profile: Wheeler has triggered the 35-point IHSAA running clock 9 times.",
+      "Late-Season Margin Compression: Net differential dipped -9.6 PPG over the last 3 weeks.",
+      "Stingy Scoring Defense: Allowing just 10.8 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
   "hammond morton": {
@@ -1744,26 +1723,6 @@
       "Late-Season Margin Compression: Net differential dipped -7.1 PPG over the last 3 weeks."
     ]
   },
-  "riverton parke": {
-    "team": "Riverton Parke",
-    "state": "IN",
-    "division": "1A",
-    "region": 7,
-    "record": "11-0",
-    "games_played": 11,
-    "avg_points_scored": 47.8,
-    "avg_points_allowed": 10.2,
-    "season_net_margin": 37.6,
-    "last_3_game_margin": 35.3,
-    "momentum_trend": -2.3,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 7,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Riverton Parke has triggered the 35-point IHSAA running clock 7 times.",
-      "Stingy Scoring Defense: Allowing just 10.2 PPG. Prioritize hidden special-teams yardage and red-zone execution."
-    ]
-  },
   "fishers": {
     "team": "Fishers",
     "state": "IN",
@@ -1777,6 +1736,25 @@
     "last_3_game_margin": -23.0,
     "momentum_trend": 2.3,
     "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
+    ]
+  },
+  "whiteland": {
+    "team": "Whiteland",
+    "state": "IN",
+    "division": "6A",
+    "region": 8,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 15.8,
+    "avg_points_allowed": 26.3,
+    "season_net_margin": -10.5,
+    "last_3_game_margin": -11.0,
+    "momentum_trend": -0.5,
+    "close_game_record": "2-3",
     "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
@@ -1859,26 +1837,6 @@
       "Explosive Separation Profile: Columbus East has triggered the 35-point IHSAA running clock 3 times."
     ]
   },
-  "eastern (greentown)": {
-    "team": "Eastern (Greentown)",
-    "state": "IN",
-    "division": "2A",
-    "region": 1,
-    "record": "9-1",
-    "games_played": 10,
-    "avg_points_scored": 41.4,
-    "avg_points_allowed": 15.4,
-    "season_net_margin": 26.0,
-    "last_3_game_margin": 13.0,
-    "momentum_trend": -13.0,
-    "close_game_record": "1-1",
-    "mercy_rule_wins": 4,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Eastern (Greentown) has triggered the 35-point IHSAA running clock 4 times.",
-      "Late-Season Margin Compression: Net differential dipped -13.0 PPG over the last 3 weeks."
-    ]
-  },
   "pike": {
     "team": "Pike",
     "state": "IN",
@@ -1898,43 +1856,24 @@
       "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
-  "north posey": {
-    "team": "North Posey",
+  "eastern (greentown)": {
+    "team": "Eastern (Greentown)",
     "state": "IN",
     "division": "2A",
-    "region": 8,
-    "record": "11-1",
-    "games_played": 12,
-    "avg_points_scored": 48.2,
-    "avg_points_allowed": 21.2,
-    "season_net_margin": 27.0,
-    "last_3_game_margin": 42.3,
-    "momentum_trend": 15.3,
-    "close_game_record": "1-0",
+    "region": 1,
+    "record": "9-1",
+    "games_played": 10,
+    "avg_points_scored": 41.4,
+    "avg_points_allowed": 15.4,
+    "season_net_margin": 26.0,
+    "last_3_game_margin": 13.0,
+    "momentum_trend": -13.0,
+    "close_game_record": "1-1",
     "mercy_rule_wins": 4,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Explosive Separation Profile: North Posey has triggered the 35-point IHSAA running clock 4 times.",
-      "Peaking in Tournament Play: Net margin surged +15.3 PPG over the last 3 games (+42.3 PPG)."
-    ]
-  },
-  "kokomo": {
-    "team": "Kokomo",
-    "state": "IN",
-    "division": "5A",
-    "region": 1,
-    "record": "4-6",
-    "games_played": 10,
-    "avg_points_scored": 27.4,
-    "avg_points_allowed": 18.9,
-    "season_net_margin": 8.5,
-    "last_3_game_margin": 0.0,
-    "momentum_trend": -8.5,
-    "close_game_record": "0-2",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Late-Season Margin Compression: Net differential dipped -8.5 PPG over the last 3 weeks."
+      "Explosive Separation Profile: Eastern (Greentown) has triggered the 35-point IHSAA running clock 4 times.",
+      "Late-Season Margin Compression: Net differential dipped -13.0 PPG over the last 3 weeks."
     ]
   },
   "west noble": {
@@ -1956,6 +1895,25 @@
       "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
+  "kokomo": {
+    "team": "Kokomo",
+    "state": "IN",
+    "division": "5A",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 27.4,
+    "avg_points_allowed": 18.9,
+    "season_net_margin": 8.5,
+    "last_3_game_margin": 0.0,
+    "momentum_trend": -8.5,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -8.5 PPG over the last 3 weeks."
+    ]
+  },
   "lake central": {
     "team": "Lake Central",
     "state": "IN",
@@ -1974,6 +1932,65 @@
     "keys_to_victory": [
       "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare.",
       "Late-Season Margin Compression: Net differential dipped -8.1 PPG over the last 3 weeks."
+    ]
+  },
+  "pioneer": {
+    "team": "Pioneer",
+    "state": "IN",
+    "division": "1A",
+    "region": 3,
+    "record": "12-1",
+    "games_played": 13,
+    "avg_points_scored": 42.1,
+    "avg_points_allowed": 12.4,
+    "season_net_margin": 29.7,
+    "last_3_game_margin": 4.7,
+    "momentum_trend": -25.0,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 7,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Pioneer has triggered the 35-point IHSAA running clock 7 times.",
+      "Late-Season Margin Compression: Net differential dipped -25.0 PPG over the last 3 weeks.",
+      "Stingy Scoring Defense: Allowing just 12.4 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+    ]
+  },
+  "hamilton heights": {
+    "team": "Hamilton Heights",
+    "state": "IN",
+    "division": "3A",
+    "region": 4,
+    "record": "10-3",
+    "games_played": 13,
+    "avg_points_scored": 35.5,
+    "avg_points_allowed": 27.2,
+    "season_net_margin": 8.3,
+    "last_3_game_margin": 8.0,
+    "momentum_trend": -0.3,
+    "close_game_record": "4-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "vincennes lincoln": {
+    "team": "Vincennes Lincoln",
+    "state": "IN",
+    "division": "3A",
+    "region": 7,
+    "record": "7-4",
+    "games_played": 11,
+    "avg_points_scored": 30.3,
+    "avg_points_allowed": 21.6,
+    "season_net_margin": 8.7,
+    "last_3_game_margin": 9.7,
+    "momentum_trend": 1.0,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
   "bloomington north": {
@@ -2015,25 +2032,6 @@
       "Late-Season Margin Compression: Net differential dipped -23.1 PPG over the last 3 weeks."
     ]
   },
-  "vincennes lincoln": {
-    "team": "Vincennes Lincoln",
-    "state": "IN",
-    "division": "3A",
-    "region": 7,
-    "record": "7-4",
-    "games_played": 11,
-    "avg_points_scored": 30.3,
-    "avg_points_allowed": 21.6,
-    "season_net_margin": 8.7,
-    "last_3_game_margin": 9.7,
-    "momentum_trend": 1.0,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
   "mccutcheon": {
     "team": "McCutcheon",
     "state": "IN",
@@ -2053,23 +2051,43 @@
       "Late-Season Margin Compression: Net differential dipped -23.7 PPG over the last 3 weeks."
     ]
   },
-  "hamilton heights": {
-    "team": "Hamilton Heights",
+  "south bend adams": {
+    "team": "South Bend Adams",
     "state": "IN",
-    "division": "3A",
-    "region": 4,
-    "record": "9-3",
-    "games_played": 12,
-    "avg_points_scored": 34.4,
-    "avg_points_allowed": 25.6,
-    "season_net_margin": 8.8,
-    "last_3_game_margin": 10.0,
-    "momentum_trend": 1.2,
-    "close_game_record": "3-0",
+    "division": "5A",
+    "region": 2,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 21.1,
+    "avg_points_allowed": 19.6,
+    "season_net_margin": 1.5,
+    "last_3_game_margin": -9.7,
+    "momentum_trend": -11.2,
+    "close_game_record": "1-0",
     "mercy_rule_wins": 2,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
+      "Late-Season Margin Compression: Net differential dipped -11.2 PPG over the last 3 weeks."
+    ]
+  },
+  "north posey": {
+    "team": "North Posey",
+    "state": "IN",
+    "division": "2A",
+    "region": 8,
+    "record": "11-2",
+    "games_played": 13,
+    "avg_points_scored": 46.6,
+    "avg_points_allowed": 24.4,
+    "season_net_margin": 22.2,
+    "last_3_game_margin": 5.3,
+    "momentum_trend": -16.9,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: North Posey has triggered the 35-point IHSAA running clock 4 times.",
+      "Late-Season Margin Compression: Net differential dipped -16.9 PPG over the last 3 weeks."
     ]
   },
   "hanover central": {
@@ -2109,25 +2127,6 @@
     "keys_to_victory": [
       "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare.",
       "Late-Season Margin Compression: Net differential dipped -9.9 PPG over the last 3 weeks."
-    ]
-  },
-  "south bend adams": {
-    "team": "South Bend Adams",
-    "state": "IN",
-    "division": "5A",
-    "region": 2,
-    "record": "5-5",
-    "games_played": 10,
-    "avg_points_scored": 21.1,
-    "avg_points_allowed": 19.6,
-    "season_net_margin": 1.5,
-    "last_3_game_margin": -9.7,
-    "momentum_trend": -11.2,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Late-Season Margin Compression: Net differential dipped -11.2 PPG over the last 3 weeks."
     ]
   },
   "beech grove": {
@@ -2226,44 +2225,6 @@
       "Explosive Separation Profile: Culver Military Academy has triggered the 35-point IHSAA running clock 3 times."
     ]
   },
-  "fort wayne luers": {
-    "team": "Fort Wayne Luers",
-    "state": "IN",
-    "division": "3A",
-    "region": 1,
-    "record": "2-8",
-    "games_played": 10,
-    "avg_points_scored": 18.0,
-    "avg_points_allowed": 26.9,
-    "season_net_margin": -8.9,
-    "last_3_game_margin": 0.7,
-    "momentum_trend": 9.6,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Peaking in Tournament Play: Net margin surged +9.6 PPG over the last 3 games (+0.7 PPG)."
-    ]
-  },
-  "angola": {
-    "team": "Angola",
-    "state": "IN",
-    "division": "3A",
-    "region": 2,
-    "record": "9-3",
-    "games_played": 12,
-    "avg_points_scored": 24.1,
-    "avg_points_allowed": 15.3,
-    "season_net_margin": 8.8,
-    "last_3_game_margin": 10.3,
-    "momentum_trend": 1.5,
-    "close_game_record": "2-1",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
   "western boone": {
     "team": "Western Boone",
     "state": "IN",
@@ -2284,6 +2245,44 @@
       "Late-Season Margin Compression: Net differential dipped -12.5 PPG over the last 3 weeks."
     ]
   },
+  "fort wayne luers": {
+    "team": "Fort Wayne Luers",
+    "state": "IN",
+    "division": "3A",
+    "region": 1,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 18.0,
+    "avg_points_allowed": 26.9,
+    "season_net_margin": -8.9,
+    "last_3_game_margin": 0.7,
+    "momentum_trend": 9.6,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Tournament Play: Net margin surged +9.6 PPG over the last 3 games (+0.7 PPG)."
+    ]
+  },
+  "south adams": {
+    "team": "South Adams",
+    "state": "IN",
+    "division": "1A",
+    "region": 4,
+    "record": "11-2",
+    "games_played": 13,
+    "avg_points_scored": 37.3,
+    "avg_points_allowed": 18.8,
+    "season_net_margin": 18.5,
+    "last_3_game_margin": 25.3,
+    "momentum_trend": 6.8,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: South Adams has triggered the 35-point IHSAA running clock 3 times."
+    ]
+  },
   "mount vernon (fortville)": {
     "team": "Mount Vernon (Fortville)",
     "state": "IN",
@@ -2301,26 +2300,6 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
-    ]
-  },
-  "delta": {
-    "team": "Delta",
-    "state": "IN",
-    "division": "4A",
-    "region": 1,
-    "record": "4-6",
-    "games_played": 10,
-    "avg_points_scored": 21.5,
-    "avg_points_allowed": 27.5,
-    "season_net_margin": -6.0,
-    "last_3_game_margin": -23.0,
-    "momentum_trend": -17.0,
-    "close_game_record": "1-3",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare.",
-      "Late-Season Margin Compression: Net differential dipped -17.0 PPG over the last 3 weeks."
     ]
   },
   "charlestown": {
@@ -2343,6 +2322,26 @@
       "Late-Season Margin Compression: Net differential dipped -7.8 PPG over the last 3 weeks."
     ]
   },
+  "delta": {
+    "team": "Delta",
+    "state": "IN",
+    "division": "4A",
+    "region": 1,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 21.5,
+    "avg_points_allowed": 27.5,
+    "season_net_margin": -6.0,
+    "last_3_game_margin": -23.0,
+    "momentum_trend": -17.0,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare.",
+      "Late-Season Margin Compression: Net differential dipped -17.0 PPG over the last 3 weeks."
+    ]
+  },
   "shelbyville": {
     "team": "Shelbyville",
     "state": "IN",
@@ -2362,6 +2361,25 @@
       "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
+  "angola": {
+    "team": "Angola",
+    "state": "IN",
+    "division": "3A",
+    "region": 2,
+    "record": "9-4",
+    "games_played": 13,
+    "avg_points_scored": 22.2,
+    "avg_points_allowed": 16.8,
+    "season_net_margin": 5.4,
+    "last_3_game_margin": -5.7,
+    "momentum_trend": -11.1,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -11.1 PPG over the last 3 weeks."
+    ]
+  },
   "southridge": {
     "team": "Southridge",
     "state": "IN",
@@ -2379,45 +2397,6 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Peaking in Tournament Play: Net margin surged +17.0 PPG over the last 3 games (+23.3 PPG)."
-    ]
-  },
-  "south adams": {
-    "team": "South Adams",
-    "state": "IN",
-    "division": "1A",
-    "region": 4,
-    "record": "10-2",
-    "games_played": 12,
-    "avg_points_scored": 36.3,
-    "avg_points_allowed": 18.7,
-    "season_net_margin": 17.6,
-    "last_3_game_margin": 36.0,
-    "momentum_trend": 18.4,
-    "close_game_record": "2-0",
-    "mercy_rule_wins": 3,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: South Adams has triggered the 35-point IHSAA running clock 3 times.",
-      "Peaking in Tournament Play: Net margin surged +18.4 PPG over the last 3 games (+36.0 PPG)."
-    ]
-  },
-  "franklin": {
-    "team": "Franklin",
-    "state": "IN",
-    "division": "5A",
-    "region": 7,
-    "record": "4-6",
-    "games_played": 10,
-    "avg_points_scored": 24.2,
-    "avg_points_allowed": 34.0,
-    "season_net_margin": -9.8,
-    "last_3_game_margin": -32.0,
-    "momentum_trend": -22.2,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Late-Season Margin Compression: Net differential dipped -22.2 PPG over the last 3 weeks."
     ]
   },
   "boonville": {
@@ -2440,25 +2419,23 @@
       "Late-Season Margin Compression: Net differential dipped -33.8 PPG over the last 3 weeks."
     ]
   },
-  "north daviess": {
-    "team": "North Daviess",
+  "franklin": {
+    "team": "Franklin",
     "state": "IN",
-    "division": "1A",
-    "region": 8,
-    "record": "12-0",
-    "games_played": 12,
-    "avg_points_scored": 42.5,
-    "avg_points_allowed": 10.6,
-    "season_net_margin": 31.9,
-    "last_3_game_margin": 23.3,
-    "momentum_trend": -8.6,
-    "close_game_record": "2-0",
-    "mercy_rule_wins": 6,
+    "division": "5A",
+    "region": 7,
+    "record": "4-6",
+    "games_played": 10,
+    "avg_points_scored": 24.2,
+    "avg_points_allowed": 34.0,
+    "season_net_margin": -9.8,
+    "last_3_game_margin": -32.0,
+    "momentum_trend": -22.2,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 1,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Explosive Separation Profile: North Daviess has triggered the 35-point IHSAA running clock 6 times.",
-      "Late-Season Margin Compression: Net differential dipped -8.6 PPG over the last 3 weeks.",
-      "Stingy Scoring Defense: Allowing just 10.6 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+      "Late-Season Margin Compression: Net differential dipped -22.2 PPG over the last 3 weeks."
     ]
   },
   "norwell": {
@@ -2480,6 +2457,25 @@
       "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
+  "twin lakes": {
+    "team": "Twin Lakes",
+    "state": "IN",
+    "division": "3A",
+    "region": 1,
+    "record": "8-4",
+    "games_played": 12,
+    "avg_points_scored": 39.0,
+    "avg_points_allowed": 27.2,
+    "season_net_margin": 11.8,
+    "last_3_game_margin": 13.7,
+    "momentum_trend": 1.9,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 4,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Twin Lakes has triggered the 35-point IHSAA running clock 4 times."
+    ]
+  },
   "bremen": {
     "team": "Bremen",
     "state": "IN",
@@ -2498,25 +2494,6 @@
     "keys_to_victory": [
       "Explosive Separation Profile: Bremen has triggered the 35-point IHSAA running clock 6 times.",
       "Late-Season Margin Compression: Net differential dipped -19.1 PPG over the last 3 weeks."
-    ]
-  },
-  "twin lakes": {
-    "team": "Twin Lakes",
-    "state": "IN",
-    "division": "3A",
-    "region": 1,
-    "record": "8-4",
-    "games_played": 12,
-    "avg_points_scored": 39.0,
-    "avg_points_allowed": 27.2,
-    "season_net_margin": 11.8,
-    "last_3_game_margin": 13.7,
-    "momentum_trend": 1.9,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 4,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Twin Lakes has triggered the 35-point IHSAA running clock 4 times."
     ]
   },
   "harrison (west lafayette)": {
@@ -2576,25 +2553,25 @@
       "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
-  "knightstown": {
-    "team": "Knightstown",
+  "north daviess": {
+    "team": "North Daviess",
     "state": "IN",
     "division": "1A",
-    "region": 5,
-    "record": "10-2",
-    "games_played": 12,
-    "avg_points_scored": 47.3,
-    "avg_points_allowed": 9.7,
-    "season_net_margin": 37.6,
-    "last_3_game_margin": 49.3,
-    "momentum_trend": 11.7,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 8,
+    "region": 8,
+    "record": "12-1",
+    "games_played": 13,
+    "avg_points_scored": 39.2,
+    "avg_points_allowed": 11.8,
+    "season_net_margin": 27.4,
+    "last_3_game_margin": 12.0,
+    "momentum_trend": -15.4,
+    "close_game_record": "2-0",
+    "mercy_rule_wins": 6,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Explosive Separation Profile: Knightstown has triggered the 35-point IHSAA running clock 8 times.",
-      "Peaking in Tournament Play: Net margin surged +11.7 PPG over the last 3 games (+49.3 PPG).",
-      "Stingy Scoring Defense: Allowing just 9.7 PPG. Prioritize hidden special-teams yardage and red-zone execution."
+      "Explosive Separation Profile: North Daviess has triggered the 35-point IHSAA running clock 6 times.",
+      "Late-Season Margin Compression: Net differential dipped -15.4 PPG over the last 3 weeks.",
+      "Stingy Scoring Defense: Allowing just 11.8 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
   "lewis cass": {
@@ -2614,6 +2591,44 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Late-Season Margin Compression: Net differential dipped -9.8 PPG over the last 3 weeks."
+    ]
+  },
+  "evansville harrison": {
+    "team": "Evansville Harrison",
+    "state": "IN",
+    "division": "4A",
+    "region": 8,
+    "record": "5-7",
+    "games_played": 12,
+    "avg_points_scored": 24.1,
+    "avg_points_allowed": 26.8,
+    "season_net_margin": -2.7,
+    "last_3_game_margin": -2.7,
+    "momentum_trend": 0.0,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Evansville Harrison has triggered the 35-point IHSAA running clock 3 times."
+    ]
+  },
+  "sullivan": {
+    "team": "Sullivan",
+    "state": "IN",
+    "division": "3A",
+    "region": 7,
+    "record": "6-6",
+    "games_played": 12,
+    "avg_points_scored": 31.9,
+    "avg_points_allowed": 28.3,
+    "season_net_margin": 3.6,
+    "last_3_game_margin": 0.7,
+    "momentum_trend": -2.9,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Sullivan has triggered the 35-point IHSAA running clock 3 times."
     ]
   },
   "hagerstown": {
@@ -2636,25 +2651,6 @@
       "Late-Season Margin Compression: Net differential dipped -15.6 PPG over the last 3 weeks."
     ]
   },
-  "evansville harrison": {
-    "team": "Evansville Harrison",
-    "state": "IN",
-    "division": "4A",
-    "region": 8,
-    "record": "5-7",
-    "games_played": 12,
-    "avg_points_scored": 24.1,
-    "avg_points_allowed": 26.8,
-    "season_net_margin": -2.7,
-    "last_3_game_margin": -2.7,
-    "momentum_trend": 0.0,
-    "close_game_record": "2-2",
-    "mercy_rule_wins": 3,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Evansville Harrison has triggered the 35-point IHSAA running clock 3 times."
-    ]
-  },
   "jimtown": {
     "team": "Jimtown",
     "state": "IN",
@@ -2672,25 +2668,6 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
-    ]
-  },
-  "sullivan": {
-    "team": "Sullivan",
-    "state": "IN",
-    "division": "3A",
-    "region": 7,
-    "record": "6-6",
-    "games_played": 12,
-    "avg_points_scored": 31.9,
-    "avg_points_allowed": 28.3,
-    "season_net_margin": 3.6,
-    "last_3_game_margin": 0.7,
-    "momentum_trend": -2.9,
-    "close_game_record": "1-2",
-    "mercy_rule_wins": 3,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Sullivan has triggered the 35-point IHSAA running clock 3 times."
     ]
   },
   "silver creek": {
@@ -2712,45 +2689,6 @@
       "Late-Season Margin Compression: Net differential dipped -15.5 PPG over the last 3 weeks."
     ]
   },
-  "north decatur": {
-    "team": "North Decatur",
-    "state": "IN",
-    "division": "1A",
-    "region": 6,
-    "record": "9-3",
-    "games_played": 12,
-    "avg_points_scored": 35.4,
-    "avg_points_allowed": 14.9,
-    "season_net_margin": 20.5,
-    "last_3_game_margin": 17.3,
-    "momentum_trend": -3.2,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 6,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: North Decatur has triggered the 35-point IHSAA running clock 6 times."
-    ]
-  },
-  "tecumseh": {
-    "team": "Tecumseh",
-    "state": "IN",
-    "division": "1A",
-    "region": 1,
-    "record": "8-2",
-    "games_played": 10,
-    "avg_points_scored": 37.4,
-    "avg_points_allowed": 12.1,
-    "season_net_margin": 25.3,
-    "last_3_game_margin": 30.0,
-    "momentum_trend": 4.7,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 5,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Tecumseh has triggered the 35-point IHSAA running clock 5 times.",
-      "Stingy Scoring Defense: Allowing just 12.1 PPG. Prioritize hidden special-teams yardage and red-zone execution."
-    ]
-  },
   "monrovia": {
     "team": "Monrovia",
     "state": "IN",
@@ -2768,6 +2706,25 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "north decatur": {
+    "team": "North Decatur",
+    "state": "IN",
+    "division": "1A",
+    "region": 6,
+    "record": "9-3",
+    "games_played": 12,
+    "avg_points_scored": 35.4,
+    "avg_points_allowed": 14.9,
+    "season_net_margin": 20.5,
+    "last_3_game_margin": 17.3,
+    "momentum_trend": -3.2,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 6,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: North Decatur has triggered the 35-point IHSAA running clock 6 times."
     ]
   },
   "triton central": {
@@ -2789,6 +2746,26 @@
       "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
+  "knightstown": {
+    "team": "Knightstown",
+    "state": "IN",
+    "division": "1A",
+    "region": 5,
+    "record": "10-3",
+    "games_played": 13,
+    "avg_points_scored": 45.3,
+    "avg_points_allowed": 12.6,
+    "season_net_margin": 32.7,
+    "last_3_game_margin": 12.3,
+    "momentum_trend": -20.4,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 8,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Knightstown has triggered the 35-point IHSAA running clock 8 times.",
+      "Late-Season Margin Compression: Net differential dipped -20.4 PPG over the last 3 weeks."
+    ]
+  },
   "alexandria": {
     "team": "Alexandria",
     "state": "IN",
@@ -2808,23 +2785,24 @@
       "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
-  "oak hill": {
-    "team": "Oak Hill",
+  "tecumseh": {
+    "team": "Tecumseh",
     "state": "IN",
-    "division": "2A",
-    "region": 3,
-    "record": "7-5",
-    "games_played": 12,
-    "avg_points_scored": 31.8,
-    "avg_points_allowed": 25.6,
-    "season_net_margin": 6.2,
-    "last_3_game_margin": 21.7,
-    "momentum_trend": 15.5,
-    "close_game_record": "0-2",
-    "mercy_rule_wins": 1,
+    "division": "1A",
+    "region": 1,
+    "record": "8-2",
+    "games_played": 10,
+    "avg_points_scored": 37.4,
+    "avg_points_allowed": 12.1,
+    "season_net_margin": 25.3,
+    "last_3_game_margin": 30.0,
+    "momentum_trend": 4.7,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 5,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Peaking in Tournament Play: Net margin surged +15.5 PPG over the last 3 games (+21.7 PPG)."
+      "Explosive Separation Profile: Tecumseh has triggered the 35-point IHSAA running clock 5 times.",
+      "Stingy Scoring Defense: Allowing just 12.1 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
   "greenwood": {
@@ -2906,6 +2884,44 @@
       "Peaking in Tournament Play: Net margin surged +9.2 PPG over the last 3 games (-3.7 PPG)."
     ]
   },
+  "north putnam": {
+    "team": "North Putnam",
+    "state": "IN",
+    "division": "2A",
+    "region": 6,
+    "record": "7-4",
+    "games_played": 11,
+    "avg_points_scored": 30.6,
+    "avg_points_allowed": 24.2,
+    "season_net_margin": 6.4,
+    "last_3_game_margin": 23.0,
+    "momentum_trend": 16.6,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Tournament Play: Net margin surged +16.6 PPG over the last 3 games (+23.0 PPG)."
+    ]
+  },
+  "oak hill": {
+    "team": "Oak Hill",
+    "state": "IN",
+    "division": "2A",
+    "region": 3,
+    "record": "7-6",
+    "games_played": 13,
+    "avg_points_scored": 30.4,
+    "avg_points_allowed": 27.9,
+    "season_net_margin": 2.5,
+    "last_3_game_margin": -1.7,
+    "momentum_trend": -4.2,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
   "fairfield": {
     "team": "Fairfield",
     "state": "IN",
@@ -2926,25 +2942,6 @@
       "Late-Season Margin Compression: Net differential dipped -7.4 PPG over the last 3 weeks."
     ]
   },
-  "north putnam": {
-    "team": "North Putnam",
-    "state": "IN",
-    "division": "2A",
-    "region": 6,
-    "record": "7-4",
-    "games_played": 11,
-    "avg_points_scored": 30.6,
-    "avg_points_allowed": 24.2,
-    "season_net_margin": 6.4,
-    "last_3_game_margin": 23.0,
-    "momentum_trend": 16.6,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Peaking in Tournament Play: Net margin surged +16.6 PPG over the last 3 games (+23.0 PPG)."
-    ]
-  },
   "mishawaka marian": {
     "team": "Mishawaka Marian",
     "state": "IN",
@@ -2962,6 +2959,25 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "michigan city": {
+    "team": "Michigan City",
+    "state": "IN",
+    "division": "5A",
+    "region": 1,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 12.5,
+    "avg_points_allowed": 35.0,
+    "season_net_margin": -22.5,
+    "last_3_game_margin": -21.0,
+    "momentum_trend": 1.5,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
   "west central": {
@@ -3004,43 +3020,23 @@
       "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
-  "michigan city": {
-    "team": "Michigan City",
+  "south bend riley": {
+    "team": "South Bend Riley",
     "state": "IN",
-    "division": "5A",
+    "division": "4A",
     "region": 1,
-    "record": "1-9",
+    "record": "3-7",
     "games_played": 10,
-    "avg_points_scored": 12.5,
-    "avg_points_allowed": 35.0,
-    "season_net_margin": -22.5,
-    "last_3_game_margin": -21.0,
-    "momentum_trend": 1.5,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 0,
+    "avg_points_scored": 15.5,
+    "avg_points_allowed": 26.6,
+    "season_net_margin": -11.1,
+    "last_3_game_margin": -20.0,
+    "momentum_trend": -8.9,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 1,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
-    ]
-  },
-  "sheridan": {
-    "team": "Sheridan",
-    "state": "IN",
-    "division": "1A",
-    "region": 3,
-    "record": "6-5",
-    "games_played": 11,
-    "avg_points_scored": 29.5,
-    "avg_points_allowed": 19.5,
-    "season_net_margin": 10.0,
-    "last_3_game_margin": -7.7,
-    "momentum_trend": -17.7,
-    "close_game_record": "1-1",
-    "mercy_rule_wins": 4,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Sheridan has triggered the 35-point IHSAA running clock 4 times.",
-      "Late-Season Margin Compression: Net differential dipped -17.7 PPG over the last 3 weeks."
+      "Late-Season Margin Compression: Net differential dipped -8.9 PPG over the last 3 weeks."
     ]
   },
   "rensselaer central": {
@@ -3082,23 +3078,24 @@
       "Late-Season Margin Compression: Net differential dipped -8.2 PPG over the last 3 weeks."
     ]
   },
-  "south bend riley": {
-    "team": "South Bend Riley",
+  "sheridan": {
+    "team": "Sheridan",
     "state": "IN",
-    "division": "4A",
-    "region": 1,
-    "record": "3-7",
-    "games_played": 10,
-    "avg_points_scored": 15.5,
-    "avg_points_allowed": 26.6,
-    "season_net_margin": -11.1,
-    "last_3_game_margin": -20.0,
-    "momentum_trend": -8.9,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 1,
+    "division": "1A",
+    "region": 3,
+    "record": "6-5",
+    "games_played": 11,
+    "avg_points_scored": 29.5,
+    "avg_points_allowed": 19.5,
+    "season_net_margin": 10.0,
+    "last_3_game_margin": -7.7,
+    "momentum_trend": -17.7,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 4,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Late-Season Margin Compression: Net differential dipped -8.9 PPG over the last 3 weeks."
+      "Explosive Separation Profile: Sheridan has triggered the 35-point IHSAA running clock 4 times.",
+      "Late-Season Margin Compression: Net differential dipped -17.7 PPG over the last 3 weeks."
     ]
   },
   "greenfield-central": {
@@ -3141,25 +3138,6 @@
       "Late-Season Margin Compression: Net differential dipped -8.0 PPG over the last 3 weeks."
     ]
   },
-  "knox": {
-    "team": "Knox",
-    "state": "IN",
-    "division": "2A",
-    "region": 1,
-    "record": "5-7",
-    "games_played": 12,
-    "avg_points_scored": 21.7,
-    "avg_points_allowed": 26.5,
-    "season_net_margin": -4.8,
-    "last_3_game_margin": -5.3,
-    "momentum_trend": -0.5,
-    "close_game_record": "1-3",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
-    ]
-  },
   "plymouth": {
     "team": "Plymouth",
     "state": "IN",
@@ -3177,6 +3155,25 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "knox": {
+    "team": "Knox",
+    "state": "IN",
+    "division": "2A",
+    "region": 1,
+    "record": "5-7",
+    "games_played": 12,
+    "avg_points_scored": 21.7,
+    "avg_points_allowed": 26.5,
+    "season_net_margin": -4.8,
+    "last_3_game_margin": -5.3,
+    "momentum_trend": -0.5,
+    "close_game_record": "1-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
   "tipton": {
@@ -3236,26 +3233,6 @@
       "Late-Season Margin Compression: Net differential dipped -28.9 PPG over the last 3 weeks."
     ]
   },
-  "garrett": {
-    "team": "Garrett",
-    "state": "IN",
-    "division": "3A",
-    "region": 1,
-    "record": "3-7",
-    "games_played": 10,
-    "avg_points_scored": 26.8,
-    "avg_points_allowed": 35.8,
-    "season_net_margin": -9.0,
-    "last_3_game_margin": 4.7,
-    "momentum_trend": 13.7,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare.",
-      "Peaking in Tournament Play: Net margin surged +13.7 PPG over the last 3 games (+4.7 PPG)."
-    ]
-  },
   "new prairie": {
     "team": "New Prairie",
     "state": "IN",
@@ -3270,6 +3247,25 @@
     "momentum_trend": 6.7,
     "close_game_record": "0-0",
     "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
+  "edgewood": {
+    "team": "Edgewood",
+    "state": "IN",
+    "division": "3A",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 25.4,
+    "avg_points_allowed": 28.9,
+    "season_net_margin": -3.5,
+    "last_3_game_margin": -10.0,
+    "momentum_trend": -6.5,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 2,
     "verified_press_intel": [],
     "keys_to_victory": [
       "Win 1st-down efficiency, protect the football, and force long-field drives."
@@ -3314,18 +3310,38 @@
       "Explosive Separation Profile: Jay County has triggered the 35-point IHSAA running clock 3 times."
     ]
   },
-  "edgewood": {
-    "team": "Edgewood",
+  "garrett": {
+    "team": "Garrett",
     "state": "IN",
     "division": "3A",
     "region": 1,
-    "record": "5-5",
+    "record": "3-7",
     "games_played": 10,
-    "avg_points_scored": 25.4,
-    "avg_points_allowed": 28.9,
-    "season_net_margin": -3.5,
-    "last_3_game_margin": -10.0,
-    "momentum_trend": -6.5,
+    "avg_points_scored": 26.8,
+    "avg_points_allowed": 35.8,
+    "season_net_margin": -9.0,
+    "last_3_game_margin": 4.7,
+    "momentum_trend": 13.7,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare.",
+      "Peaking in Tournament Play: Net margin surged +13.7 PPG over the last 3 games (+4.7 PPG)."
+    ]
+  },
+  "fremont": {
+    "team": "Fremont",
+    "state": "IN",
+    "division": "1A",
+    "region": 4,
+    "record": "7-4",
+    "games_played": 11,
+    "avg_points_scored": 33.2,
+    "avg_points_allowed": 23.8,
+    "season_net_margin": 9.4,
+    "last_3_game_margin": 8.7,
+    "momentum_trend": -0.7,
     "close_game_record": "1-0",
     "mercy_rule_wins": 2,
     "verified_press_intel": [],
@@ -3352,25 +3368,6 @@
       "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
-  "fremont": {
-    "team": "Fremont",
-    "state": "IN",
-    "division": "1A",
-    "region": 4,
-    "record": "7-4",
-    "games_played": 11,
-    "avg_points_scored": 33.2,
-    "avg_points_allowed": 23.8,
-    "season_net_margin": 9.4,
-    "last_3_game_margin": 8.7,
-    "momentum_trend": -0.7,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
   "covenant christian": {
     "team": "Covenant Christian",
     "state": "IN",
@@ -3388,6 +3385,25 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Peaking in Tournament Play: Net margin surged +18.4 PPG over the last 3 games (+33.0 PPG)."
+    ]
+  },
+  "seymour": {
+    "team": "Seymour",
+    "state": "IN",
+    "division": "5A",
+    "region": 7,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 19.4,
+    "avg_points_allowed": 30.0,
+    "season_net_margin": -10.6,
+    "last_3_game_margin": 9.3,
+    "momentum_trend": 19.9,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Tournament Play: Net margin surged +19.9 PPG over the last 3 games (+9.3 PPG)."
     ]
   },
   "wes-del": {
@@ -3448,25 +3464,6 @@
       "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
-  "seymour": {
-    "team": "Seymour",
-    "state": "IN",
-    "division": "5A",
-    "region": 7,
-    "record": "3-7",
-    "games_played": 10,
-    "avg_points_scored": 19.4,
-    "avg_points_allowed": 30.0,
-    "season_net_margin": -10.6,
-    "last_3_game_margin": 9.3,
-    "momentum_trend": 19.9,
-    "close_game_record": "0-2",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Peaking in Tournament Play: Net margin surged +19.9 PPG over the last 3 games (+9.3 PPG)."
-    ]
-  },
   "northeastern": {
     "team": "Northeastern",
     "state": "IN",
@@ -3484,6 +3481,25 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
+    ]
+  },
+  "salem": {
+    "team": "Salem",
+    "state": "IN",
+    "division": "2A",
+    "region": 7,
+    "record": "6-5",
+    "games_played": 11,
+    "avg_points_scored": 27.4,
+    "avg_points_allowed": 19.8,
+    "season_net_margin": 7.6,
+    "last_3_game_margin": 12.0,
+    "momentum_trend": 4.4,
+    "close_game_record": "2-3",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
   "caston": {
@@ -3544,23 +3560,23 @@
       "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
-  "salem": {
-    "team": "Salem",
+  "wawasee": {
+    "team": "Wawasee",
     "state": "IN",
-    "division": "2A",
-    "region": 7,
-    "record": "6-5",
-    "games_played": 11,
-    "avg_points_scored": 27.4,
-    "avg_points_allowed": 19.8,
-    "season_net_margin": 7.6,
-    "last_3_game_margin": 12.0,
-    "momentum_trend": 4.4,
-    "close_game_record": "2-3",
-    "mercy_rule_wins": 1,
+    "division": "4A",
+    "region": 1,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 13.4,
+    "avg_points_allowed": 35.0,
+    "season_net_margin": -21.6,
+    "last_3_game_margin": -24.7,
+    "momentum_trend": -3.1,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
   "tell city": {
@@ -3580,25 +3596,6 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Late-Season Margin Compression: Net differential dipped -7.4 PPG over the last 3 weeks."
-    ]
-  },
-  "wawasee": {
-    "team": "Wawasee",
-    "state": "IN",
-    "division": "4A",
-    "region": 1,
-    "record": "1-9",
-    "games_played": 10,
-    "avg_points_scored": 13.4,
-    "avg_points_allowed": 35.0,
-    "season_net_margin": -21.6,
-    "last_3_game_margin": -24.7,
-    "momentum_trend": -3.1,
-    "close_game_record": "0-2",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
   "speedway": {
@@ -3658,25 +3655,6 @@
       "Explosive Separation Profile: Northwestern has triggered the 35-point IHSAA running clock 3 times."
     ]
   },
-  "portage": {
-    "team": "Portage",
-    "state": "IN",
-    "division": "6A",
-    "region": 2,
-    "record": "1-9",
-    "games_played": 10,
-    "avg_points_scored": 14.5,
-    "avg_points_allowed": 43.6,
-    "season_net_margin": -29.1,
-    "last_3_game_margin": -26.7,
-    "momentum_trend": 2.4,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
-    ]
-  },
   "purdue poly": {
     "team": "Purdue Poly",
     "state": "IN",
@@ -3696,6 +3674,25 @@
       "Stingy Scoring Defense: Allowing just 7.1 PPG. Prioritize hidden special-teams yardage and red-zone execution."
     ]
   },
+  "portage": {
+    "team": "Portage",
+    "state": "IN",
+    "division": "6A",
+    "region": 2,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 14.5,
+    "avg_points_allowed": 43.6,
+    "season_net_margin": -29.1,
+    "last_3_game_margin": -26.7,
+    "momentum_trend": 2.4,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
+    ]
+  },
   "southmont": {
     "team": "Southmont",
     "state": "IN",
@@ -3713,25 +3710,6 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Late-Season Margin Compression: Net differential dipped -14.0 PPG over the last 3 weeks."
-    ]
-  },
-  "mount vernon": {
-    "team": "Mount Vernon",
-    "state": "IN",
-    "division": "3A",
-    "region": 8,
-    "record": "3-8",
-    "games_played": 11,
-    "avg_points_scored": 22.2,
-    "avg_points_allowed": 32.0,
-    "season_net_margin": -9.8,
-    "last_3_game_margin": -5.0,
-    "momentum_trend": 4.8,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
   "cloverdale": {
@@ -3772,6 +3750,25 @@
       "Peaking in Tournament Play: Net margin surged +9.7 PPG over the last 3 games (-3.7 PPG)."
     ]
   },
+  "mount vernon": {
+    "team": "Mount Vernon",
+    "state": "IN",
+    "division": "3A",
+    "region": 8,
+    "record": "3-8",
+    "games_played": 11,
+    "avg_points_scored": 22.2,
+    "avg_points_allowed": 32.0,
+    "season_net_margin": -9.8,
+    "last_3_game_margin": -5.0,
+    "momentum_trend": 4.8,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
   "fort wayne concordia": {
     "team": "Fort Wayne Concordia",
     "state": "IN",
@@ -3792,23 +3789,23 @@
       "Peaking in Tournament Play: Net margin surged +8.8 PPG over the last 3 games (-5.0 PPG)."
     ]
   },
-  "indianapolis ritter": {
-    "team": "Indianapolis Ritter",
+  "seeger": {
+    "team": "Seeger",
     "state": "IN",
     "division": "2A",
-    "region": 5,
-    "record": "5-6",
-    "games_played": 11,
-    "avg_points_scored": 21.5,
-    "avg_points_allowed": 27.5,
-    "season_net_margin": -6.0,
-    "last_3_game_margin": -22.3,
-    "momentum_trend": -16.3,
-    "close_game_record": "2-0",
-    "mercy_rule_wins": 1,
+    "region": 1,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 35.1,
+    "avg_points_allowed": 24.9,
+    "season_net_margin": 10.2,
+    "last_3_game_margin": 0.3,
+    "momentum_trend": -9.9,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 2,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Late-Season Margin Compression: Net differential dipped -16.3 PPG over the last 3 weeks."
+      "Late-Season Margin Compression: Net differential dipped -9.9 PPG over the last 3 weeks."
     ]
   },
   "jeffersonville": {
@@ -3831,42 +3828,23 @@
       "Late-Season Margin Compression: Net differential dipped -12.2 PPG over the last 3 weeks."
     ]
   },
-  "seeger": {
-    "team": "Seeger",
+  "indianapolis ritter": {
+    "team": "Indianapolis Ritter",
     "state": "IN",
     "division": "2A",
-    "region": 1,
-    "record": "7-3",
-    "games_played": 10,
-    "avg_points_scored": 35.1,
-    "avg_points_allowed": 24.9,
-    "season_net_margin": 10.2,
-    "last_3_game_margin": 0.3,
-    "momentum_trend": -9.9,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Late-Season Margin Compression: Net differential dipped -9.9 PPG over the last 3 weeks."
-    ]
-  },
-  "clinton prairie": {
-    "team": "Clinton Prairie",
-    "state": "IN",
-    "division": "1A",
-    "region": 2,
-    "record": "8-4",
-    "games_played": 12,
-    "avg_points_scored": 23.4,
-    "avg_points_allowed": 17.5,
-    "season_net_margin": 5.9,
-    "last_3_game_margin": 12.0,
-    "momentum_trend": 6.1,
-    "close_game_record": "2-1",
+    "region": 5,
+    "record": "5-6",
+    "games_played": 11,
+    "avg_points_scored": 21.5,
+    "avg_points_allowed": 27.5,
+    "season_net_margin": -6.0,
+    "last_3_game_margin": -22.3,
+    "momentum_trend": -16.3,
+    "close_game_record": "2-0",
     "mercy_rule_wins": 1,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
+      "Late-Season Margin Compression: Net differential dipped -16.3 PPG over the last 3 weeks."
     ]
   },
   "scottsburg": {
@@ -3926,6 +3904,25 @@
       "Late-Season Margin Compression: Net differential dipped -24.8 PPG over the last 3 weeks."
     ]
   },
+  "clinton prairie": {
+    "team": "Clinton Prairie",
+    "state": "IN",
+    "division": "1A",
+    "region": 2,
+    "record": "8-5",
+    "games_played": 13,
+    "avg_points_scored": 22.2,
+    "avg_points_allowed": 19.4,
+    "season_net_margin": 2.8,
+    "last_3_game_margin": -5.0,
+    "momentum_trend": -7.8,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -7.8 PPG over the last 3 weeks."
+    ]
+  },
   "richmond": {
     "team": "Richmond",
     "state": "IN",
@@ -3943,6 +3940,25 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Peaking in Tournament Play: Net margin surged +9.7 PPG over the last 3 games (+4.0 PPG)."
+    ]
+  },
+  "indianapolis crispus attucks": {
+    "team": "Indianapolis Crispus Attucks",
+    "state": "IN",
+    "division": "4A",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 17.4,
+    "avg_points_allowed": 25.9,
+    "season_net_margin": -8.5,
+    "last_3_game_margin": -4.0,
+    "momentum_trend": 4.5,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
   "new haven": {
@@ -3965,25 +3981,6 @@
       "Late-Season Margin Compression: Net differential dipped -17.5 PPG over the last 3 weeks."
     ]
   },
-  "indianapolis crispus attucks": {
-    "team": "Indianapolis Crispus Attucks",
-    "state": "IN",
-    "division": "4A",
-    "region": 1,
-    "record": "3-7",
-    "games_played": 10,
-    "avg_points_scored": 17.4,
-    "avg_points_allowed": 25.9,
-    "season_net_margin": -8.5,
-    "last_3_game_margin": -4.0,
-    "momentum_trend": 4.5,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
   "southport": {
     "team": "Southport",
     "state": "IN",
@@ -4002,6 +3999,25 @@
     "keys_to_victory": [
       "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare.",
       "Late-Season Margin Compression: Net differential dipped -16.5 PPG over the last 3 weeks."
+    ]
+  },
+  "goshen": {
+    "team": "Goshen",
+    "state": "IN",
+    "division": "5A",
+    "region": 2,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 13.4,
+    "avg_points_allowed": 32.7,
+    "season_net_margin": -19.3,
+    "last_3_game_margin": -26.7,
+    "momentum_trend": -7.4,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -7.4 PPG over the last 3 weeks."
     ]
   },
   "winamac": {
@@ -4024,23 +4040,23 @@
       "Late-Season Margin Compression: Net differential dipped -8.6 PPG over the last 3 weeks."
     ]
   },
-  "goshen": {
-    "team": "Goshen",
+  "greencastle": {
+    "team": "Greencastle",
     "state": "IN",
-    "division": "5A",
-    "region": 2,
-    "record": "2-8",
-    "games_played": 10,
-    "avg_points_scored": 13.4,
-    "avg_points_allowed": 32.7,
-    "season_net_margin": -19.3,
-    "last_3_game_margin": -26.7,
-    "momentum_trend": -7.4,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 1,
+    "division": "2A",
+    "region": 6,
+    "record": "5-6",
+    "games_played": 11,
+    "avg_points_scored": 27.8,
+    "avg_points_allowed": 43.7,
+    "season_net_margin": -15.9,
+    "last_3_game_margin": -9.3,
+    "momentum_trend": 6.6,
+    "close_game_record": "3-0",
+    "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Late-Season Margin Compression: Net differential dipped -7.4 PPG over the last 3 weeks."
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
   "northfield": {
@@ -4056,25 +4072,6 @@
     "last_3_game_margin": -4.3,
     "momentum_trend": -6.1,
     "close_game_record": "1-2",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
-  "lakeland": {
-    "team": "Lakeland",
-    "state": "IN",
-    "division": "3A",
-    "region": 1,
-    "record": "2-8",
-    "games_played": 10,
-    "avg_points_scored": 16.8,
-    "avg_points_allowed": 29.0,
-    "season_net_margin": -12.2,
-    "last_3_game_margin": -13.3,
-    "momentum_trend": -1.1,
-    "close_game_record": "1-1",
     "mercy_rule_wins": 1,
     "verified_press_intel": [],
     "keys_to_victory": [
@@ -4100,6 +4097,25 @@
       "Peaking in Tournament Play: Net margin surged +33.8 PPG over the last 3 games (+15.3 PPG)."
     ]
   },
+  "lakeland": {
+    "team": "Lakeland",
+    "state": "IN",
+    "division": "3A",
+    "region": 1,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 16.8,
+    "avg_points_allowed": 29.0,
+    "season_net_margin": -12.2,
+    "last_3_game_margin": -13.3,
+    "momentum_trend": -1.1,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
   "paoli": {
     "team": "Paoli",
     "state": "IN",
@@ -4119,42 +4135,23 @@
       "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
-  "west washington": {
-    "team": "West Washington",
+  "north montgomery": {
+    "team": "North Montgomery",
     "state": "IN",
-    "division": "1A",
-    "region": 8,
-    "record": "1-4",
-    "games_played": 5,
-    "avg_points_scored": 26.6,
-    "avg_points_allowed": 30.2,
-    "season_net_margin": -3.6,
-    "last_3_game_margin": -22.0,
-    "momentum_trend": -18.4,
-    "close_game_record": "0-2",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Late-Season Margin Compression: Net differential dipped -18.4 PPG over the last 3 weeks."
-    ]
-  },
-  "greencastle": {
-    "team": "Greencastle",
-    "state": "IN",
-    "division": "2A",
-    "region": 6,
-    "record": "5-6",
+    "division": "3A",
+    "region": 5,
+    "record": "4-7",
     "games_played": 11,
-    "avg_points_scored": 27.8,
-    "avg_points_allowed": 43.7,
-    "season_net_margin": -15.9,
-    "last_3_game_margin": -9.3,
-    "momentum_trend": 6.6,
-    "close_game_record": "3-0",
-    "mercy_rule_wins": 0,
+    "avg_points_scored": 25.8,
+    "avg_points_allowed": 33.0,
+    "season_net_margin": -7.2,
+    "last_3_game_margin": -2.3,
+    "momentum_trend": 4.9,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 2,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
   "winchester": {
@@ -4177,42 +4174,42 @@
       "Peaking in Tournament Play: Net margin surged +19.6 PPG over the last 3 games (+27.3 PPG)."
     ]
   },
-  "north montgomery": {
-    "team": "North Montgomery",
+  "owen valley": {
+    "team": "Owen Valley",
     "state": "IN",
     "division": "3A",
-    "region": 5,
-    "record": "4-7",
-    "games_played": 11,
-    "avg_points_scored": 25.8,
-    "avg_points_allowed": 33.0,
-    "season_net_margin": -7.2,
-    "last_3_game_margin": -2.3,
-    "momentum_trend": 4.9,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
-  "highland": {
-    "team": "Highland",
-    "state": "IN",
-    "division": "4A",
     "region": 1,
-    "record": "2-8",
+    "record": "4-6",
     "games_played": 10,
-    "avg_points_scored": 17.4,
-    "avg_points_allowed": 36.6,
-    "season_net_margin": -19.2,
-    "last_3_game_margin": -12.3,
-    "momentum_trend": 6.9,
-    "close_game_record": "0-1",
+    "avg_points_scored": 21.3,
+    "avg_points_allowed": 32.2,
+    "season_net_margin": -10.9,
+    "last_3_game_margin": -35.3,
+    "momentum_trend": -24.4,
+    "close_game_record": "3-0",
     "mercy_rule_wins": 1,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
+      "Late-Season Margin Compression: Net differential dipped -24.4 PPG over the last 3 weeks."
+    ]
+  },
+  "west washington": {
+    "team": "West Washington",
+    "state": "IN",
+    "division": "1A",
+    "region": 8,
+    "record": "1-4",
+    "games_played": 5,
+    "avg_points_scored": 26.6,
+    "avg_points_allowed": 30.2,
+    "season_net_margin": -3.6,
+    "last_3_game_margin": -22.0,
+    "momentum_trend": -18.4,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -18.4 PPG over the last 3 weeks."
     ]
   },
   "providence": {
@@ -4235,23 +4232,23 @@
       "Late-Season Margin Compression: Net differential dipped -18.4 PPG over the last 3 weeks."
     ]
   },
-  "owen valley": {
-    "team": "Owen Valley",
+  "highland": {
+    "team": "Highland",
     "state": "IN",
-    "division": "3A",
+    "division": "4A",
     "region": 1,
-    "record": "4-6",
+    "record": "2-8",
     "games_played": 10,
-    "avg_points_scored": 21.3,
-    "avg_points_allowed": 32.2,
-    "season_net_margin": -10.9,
-    "last_3_game_margin": -35.3,
-    "momentum_trend": -24.4,
-    "close_game_record": "3-0",
+    "avg_points_scored": 17.4,
+    "avg_points_allowed": 36.6,
+    "season_net_margin": -19.2,
+    "last_3_game_margin": -12.3,
+    "momentum_trend": 6.9,
+    "close_game_record": "0-1",
     "mercy_rule_wins": 1,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Late-Season Margin Compression: Net differential dipped -24.4 PPG over the last 3 weeks."
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
   "shenandoah": {
@@ -4312,6 +4309,25 @@
       "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
+  "south vermillion": {
+    "team": "South Vermillion",
+    "state": "IN",
+    "division": "2A",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 26.2,
+    "avg_points_allowed": 25.7,
+    "season_net_margin": 0.5,
+    "last_3_game_margin": 9.7,
+    "momentum_trend": 9.2,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Tournament Play: Net margin surged +9.2 PPG over the last 3 games (+9.7 PPG)."
+    ]
+  },
   "laville": {
     "team": "LaVille",
     "state": "IN",
@@ -4332,25 +4348,6 @@
       "Peaking in Tournament Play: Net margin surged +13.6 PPG over the last 3 games (-7.0 PPG)."
     ]
   },
-  "south vermillion": {
-    "team": "South Vermillion",
-    "state": "IN",
-    "division": "2A",
-    "region": 1,
-    "record": "5-5",
-    "games_played": 10,
-    "avg_points_scored": 26.2,
-    "avg_points_allowed": 25.7,
-    "season_net_margin": 0.5,
-    "last_3_game_margin": 9.7,
-    "momentum_trend": 9.2,
-    "close_game_record": "1-2",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Peaking in Tournament Play: Net margin surged +9.2 PPG over the last 3 games (+9.7 PPG)."
-    ]
-  },
   "north miami": {
     "team": "North Miami",
     "state": "IN",
@@ -4364,25 +4361,6 @@
     "last_3_game_margin": -0.7,
     "momentum_trend": 2.1,
     "close_game_record": "0-1",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
-  "north knox": {
-    "team": "North Knox",
-    "state": "IN",
-    "division": "1A",
-    "region": 8,
-    "record": "2-8",
-    "games_played": 10,
-    "avg_points_scored": 23.3,
-    "avg_points_allowed": 27.7,
-    "season_net_margin": -4.4,
-    "last_3_game_margin": -7.7,
-    "momentum_trend": -3.3,
-    "close_game_record": "0-3",
     "mercy_rule_wins": 2,
     "verified_press_intel": [],
     "keys_to_victory": [
@@ -4428,23 +4406,23 @@
       "Late-Season Margin Compression: Net differential dipped -14.0 PPG over the last 3 weeks."
     ]
   },
-  "gary west": {
-    "team": "Gary West",
+  "north knox": {
+    "team": "North Knox",
     "state": "IN",
-    "division": "4A",
-    "region": 1,
-    "record": "4-5",
-    "games_played": 9,
-    "avg_points_scored": 20.9,
-    "avg_points_allowed": 35.0,
-    "season_net_margin": -14.1,
-    "last_3_game_margin": -20.7,
-    "momentum_trend": -6.6,
-    "close_game_record": "3-0",
-    "mercy_rule_wins": 0,
+    "division": "1A",
+    "region": 8,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 23.3,
+    "avg_points_allowed": 27.7,
+    "season_net_margin": -4.4,
+    "last_3_game_margin": -7.7,
+    "momentum_trend": -3.3,
+    "close_game_record": "0-3",
+    "mercy_rule_wins": 2,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
   "crawfordsville": {
@@ -4460,6 +4438,25 @@
     "last_3_game_margin": -7.3,
     "momentum_trend": 5.0,
     "close_game_record": "2-3",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
+    ]
+  },
+  "gary west": {
+    "team": "Gary West",
+    "state": "IN",
+    "division": "4A",
+    "region": 1,
+    "record": "4-5",
+    "games_played": 9,
+    "avg_points_scored": 20.9,
+    "avg_points_allowed": 35.0,
+    "season_net_margin": -14.1,
+    "last_3_game_margin": -20.7,
+    "momentum_trend": -6.6,
+    "close_game_record": "3-0",
     "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
@@ -4639,6 +4636,25 @@
       "Peaking in Tournament Play: Net margin surged +18.6 PPG over the last 3 games (+16.7 PPG)."
     ]
   },
+  "clarksville": {
+    "team": "Clarksville",
+    "state": "IN",
+    "division": "2A",
+    "region": 7,
+    "record": "7-4",
+    "games_played": 11,
+    "avg_points_scored": 32.1,
+    "avg_points_allowed": 21.4,
+    "season_net_margin": 10.7,
+    "last_3_game_margin": 15.0,
+    "momentum_trend": 4.3,
+    "close_game_record": "2-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Clarksville has triggered the 35-point IHSAA running clock 3 times."
+    ]
+  },
   "delphi": {
     "team": "Delphi",
     "state": "IN",
@@ -4657,25 +4673,6 @@
     "keys_to_victory": [
       "Explosive Separation Profile: Delphi has triggered the 35-point IHSAA running clock 3 times.",
       "Peaking in Tournament Play: Net margin surged +21.9 PPG over the last 3 games (+20.7 PPG)."
-    ]
-  },
-  "clarksville": {
-    "team": "Clarksville",
-    "state": "IN",
-    "division": "2A",
-    "region": 7,
-    "record": "7-4",
-    "games_played": 11,
-    "avg_points_scored": 32.1,
-    "avg_points_allowed": 21.4,
-    "season_net_margin": 10.7,
-    "last_3_game_margin": 15.0,
-    "momentum_trend": 4.3,
-    "close_game_record": "2-1",
-    "mercy_rule_wins": 3,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Clarksville has triggered the 35-point IHSAA running clock 3 times."
     ]
   },
   "switzerland county": {
@@ -4697,6 +4694,25 @@
       "Explosive Separation Profile: Switzerland County has triggered the 35-point IHSAA running clock 3 times."
     ]
   },
+  "north harrison": {
+    "team": "North Harrison",
+    "state": "IN",
+    "division": "3A",
+    "region": 1,
+    "record": "1-9",
+    "games_played": 10,
+    "avg_points_scored": 13.5,
+    "avg_points_allowed": 36.5,
+    "season_net_margin": -23.0,
+    "last_3_game_margin": -15.3,
+    "momentum_trend": 7.7,
+    "close_game_record": "0-3",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Peaking in Tournament Play: Net margin surged +7.7 PPG over the last 3 games (-15.3 PPG)."
+    ]
+  },
   "north newton": {
     "team": "North Newton",
     "state": "IN",
@@ -4716,23 +4732,23 @@
       "Explosive Separation Profile: North Newton has triggered the 35-point IHSAA running clock 4 times."
     ]
   },
-  "north harrison": {
-    "team": "North Harrison",
+  "churubusco": {
+    "team": "Churubusco",
     "state": "IN",
-    "division": "3A",
+    "division": "1A",
     "region": 1,
-    "record": "1-9",
+    "record": "3-7",
     "games_played": 10,
-    "avg_points_scored": 13.5,
-    "avg_points_allowed": 36.5,
-    "season_net_margin": -23.0,
-    "last_3_game_margin": -15.3,
-    "momentum_trend": 7.7,
-    "close_game_record": "0-3",
-    "mercy_rule_wins": 1,
+    "avg_points_scored": 12.6,
+    "avg_points_allowed": 36.4,
+    "season_net_margin": -23.8,
+    "last_3_game_margin": -22.0,
+    "momentum_trend": 1.8,
+    "close_game_record": "3-1",
+    "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Peaking in Tournament Play: Net margin surged +7.7 PPG over the last 3 games (-15.3 PPG)."
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
   "bowman academy": {
@@ -4753,25 +4769,6 @@
     "keys_to_victory": [
       "Explosive Separation Profile: Bowman Academy has triggered the 35-point IHSAA running clock 3 times.",
       "Late-Season Margin Compression: Net differential dipped -11.7 PPG over the last 3 weeks."
-    ]
-  },
-  "churubusco": {
-    "team": "Churubusco",
-    "state": "IN",
-    "division": "1A",
-    "region": 1,
-    "record": "3-7",
-    "games_played": 10,
-    "avg_points_scored": 12.6,
-    "avg_points_allowed": 36.4,
-    "season_net_margin": -23.8,
-    "last_3_game_margin": -22.0,
-    "momentum_trend": 1.8,
-    "close_game_record": "3-1",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
   "park tudor": {
@@ -4909,25 +4906,6 @@
       "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
-  "evansville bosse": {
-    "team": "Evansville Bosse",
-    "state": "IN",
-    "division": "4A",
-    "region": 1,
-    "record": "0-10",
-    "games_played": 10,
-    "avg_points_scored": 6.0,
-    "avg_points_allowed": 43.1,
-    "season_net_margin": -37.1,
-    "last_3_game_margin": -36.7,
-    "momentum_trend": 0.4,
-    "close_game_record": "0-1",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
-    ]
-  },
   "frankton": {
     "team": "Frankton",
     "state": "IN",
@@ -4947,23 +4925,23 @@
       "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
-  "east chicago central": {
-    "team": "East Chicago Central",
+  "evansville bosse": {
+    "team": "Evansville Bosse",
     "state": "IN",
     "division": "4A",
     "region": 1,
-    "record": "3-7",
+    "record": "0-10",
     "games_played": 10,
-    "avg_points_scored": 21.6,
-    "avg_points_allowed": 31.1,
-    "season_net_margin": -9.5,
-    "last_3_game_margin": -11.0,
-    "momentum_trend": -1.5,
-    "close_game_record": "0-2",
-    "mercy_rule_wins": 1,
+    "avg_points_scored": 6.0,
+    "avg_points_allowed": 43.1,
+    "season_net_margin": -37.1,
+    "last_3_game_margin": -36.7,
+    "momentum_trend": 0.4,
+    "close_game_record": "0-1",
+    "mercy_rule_wins": 0,
     "verified_press_intel": [],
     "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
   "parke heritage": {
@@ -4984,6 +4962,25 @@
     "keys_to_victory": [
       "Explosive Separation Profile: Parke Heritage has triggered the 35-point IHSAA running clock 3 times.",
       "Late-Season Margin Compression: Net differential dipped -37.5 PPG over the last 3 weeks."
+    ]
+  },
+  "east chicago central": {
+    "team": "East Chicago Central",
+    "state": "IN",
+    "division": "4A",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 21.6,
+    "avg_points_allowed": 31.1,
+    "season_net_margin": -9.5,
+    "last_3_game_margin": -11.0,
+    "momentum_trend": -1.5,
+    "close_game_record": "0-2",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
   "prairie heights": {
@@ -5084,26 +5081,6 @@
       "Late-Season Margin Compression: Net differential dipped -8.3 PPG over the last 3 weeks."
     ]
   },
-  "clinton central": {
-    "team": "Clinton Central",
-    "state": "IN",
-    "division": "1A",
-    "region": 3,
-    "record": "5-6",
-    "games_played": 11,
-    "avg_points_scored": 25.0,
-    "avg_points_allowed": 23.6,
-    "season_net_margin": 1.4,
-    "last_3_game_margin": 31.3,
-    "momentum_trend": 29.9,
-    "close_game_record": "1-1",
-    "mercy_rule_wins": 3,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Clinton Central has triggered the 35-point IHSAA running clock 3 times.",
-      "Peaking in Tournament Play: Net margin surged +29.9 PPG over the last 3 games (+31.3 PPG)."
-    ]
-  },
   "blackhawk christian": {
     "team": "Blackhawk Christian",
     "state": "IN",
@@ -5122,6 +5099,26 @@
     "keys_to_victory": [
       "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare.",
       "Late-Season Margin Compression: Net differential dipped -13.1 PPG over the last 3 weeks."
+    ]
+  },
+  "clinton central": {
+    "team": "Clinton Central",
+    "state": "IN",
+    "division": "1A",
+    "region": 3,
+    "record": "5-6",
+    "games_played": 11,
+    "avg_points_scored": 25.0,
+    "avg_points_allowed": 23.6,
+    "season_net_margin": 1.4,
+    "last_3_game_margin": 31.3,
+    "momentum_trend": 29.9,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Clinton Central has triggered the 35-point IHSAA running clock 3 times.",
+      "Peaking in Tournament Play: Net margin surged +29.9 PPG over the last 3 games (+31.3 PPG)."
     ]
   },
   "marion": {
@@ -5297,25 +5294,6 @@
       "Peaking in Tournament Play: Net margin surged +14.0 PPG over the last 3 games (-33.0 PPG)."
     ]
   },
-  "southwood": {
-    "team": "Southwood",
-    "state": "IN",
-    "division": "1A",
-    "region": 4,
-    "record": "3-8",
-    "games_played": 11,
-    "avg_points_scored": 16.8,
-    "avg_points_allowed": 34.8,
-    "season_net_margin": -18.0,
-    "last_3_game_margin": -21.3,
-    "momentum_trend": -3.3,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
-    ]
-  },
   "covington": {
     "team": "Covington",
     "state": "IN",
@@ -5333,6 +5311,25 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Explosive Separation Profile: Covington has triggered the 35-point IHSAA running clock 3 times."
+    ]
+  },
+  "southwood": {
+    "team": "Southwood",
+    "state": "IN",
+    "division": "1A",
+    "region": 4,
+    "record": "3-8",
+    "games_played": 11,
+    "avg_points_scored": 16.8,
+    "avg_points_allowed": 34.8,
+    "season_net_margin": -18.0,
+    "last_3_game_margin": -21.3,
+    "momentum_trend": -3.3,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
   "triton": {
@@ -5763,25 +5760,6 @@
       "Late-Season Margin Compression: Net differential dipped -16.0 PPG over the last 3 weeks."
     ]
   },
-  "south central (union mills)": {
-    "team": "South Central (Union Mills)",
-    "state": "IN",
-    "division": "1A",
-    "region": 1,
-    "record": "0-10",
-    "games_played": 10,
-    "avg_points_scored": 7.8,
-    "avg_points_allowed": 49.9,
-    "season_net_margin": -42.1,
-    "last_3_game_margin": -36.0,
-    "momentum_trend": 6.1,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
-    ]
-  },
   "lafayette faith christian": {
     "team": "Lafayette Faith Christian",
     "state": "IN",
@@ -5799,6 +5777,25 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Late-Season Margin Compression: Net differential dipped -14.3 PPG over the last 3 weeks."
+    ]
+  },
+  "south central (union mills)": {
+    "team": "South Central (Union Mills)",
+    "state": "IN",
+    "division": "1A",
+    "region": 1,
+    "record": "0-10",
+    "games_played": 10,
+    "avg_points_scored": 7.8,
+    "avg_points_allowed": 49.9,
+    "season_net_margin": -42.1,
+    "last_3_game_margin": -36.0,
+    "momentum_trend": 6.1,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
   "union county": {
