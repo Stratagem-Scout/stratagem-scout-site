@@ -11,7 +11,7 @@
     "2A",
     "1A"
   ],
-  "updated_at": "2026-11-14T03:39:50.907184",
+  "updated_at": "2026-11-14T08:48:57.443391",
   "summary": {
     "total_teams": 309,
     "total_2026_games": 1641,
@@ -2999,7 +2999,7 @@
       "division": "5A",
       "region": 8,
       "conference": "Hoosier Hills Conference",
-      "city": "Floyd Knobs",
+      "city": "Floyds Knobs",
       "wins": 8,
       "losses": 2,
       "ties": 0,
@@ -10030,7 +10030,7 @@
       "division": "6A",
       "region": 6,
       "conference": "Metropolitan Conference",
-      "city": "Indianapolis",
+      "city": "Farmersburg",
       "wins": 3,
       "losses": 8,
       "ties": 0,
@@ -12799,7 +12799,7 @@
       "division": "2A",
       "region": 1,
       "conference": "Hoosier Heartland Conference",
-      "city": "Greentown",
+      "city": "Pekin",
       "wins": 9,
       "losses": 1,
       "ties": 0,
@@ -15720,7 +15720,7 @@
       "division": "5A",
       "region": 5,
       "conference": "Hoosier Heritage Conference",
-      "city": "Fortville",
+      "city": "Mt Vernon",
       "wins": 6,
       "losses": 5,
       "ties": 0,
@@ -20932,131 +20932,6 @@
       ]
     },
     {
-      "team": "Madison-Grant",
-      "state": "IN",
-      "division": "1A",
-      "region": 1,
-      "conference": "Central Indiana Conference",
-      "city": "Fairmount",
-      "wins": 7,
-      "losses": 3,
-      "ties": 0,
-      "games_played": 10,
-      "record": "7-3",
-      "power_index": 50.5,
-      "spi": 50.5,
-      "raw_rating": 0.54,
-      "sos_index": 36.7,
-      "sos_raw": -13.27,
-      "ppg_scored": 29.7,
-      "ppg_off": 29.7,
-      "ppg_allowed": 16.5,
-      "ppg_def": 16.5,
-      "net_margin": 13.2,
-      "harbin_avg": 15.6311,
-      "pqs": 15.631,
-      "ppa": 15.631,
-      "l1_pts": 31.5,
-      "l2_pts": 74.0,
-      "rank": 157,
-      "division_rank": 13,
-      "sos_rank": 258,
-      "contender_tier": "Regional Contender",
-      "seed": 13,
-      "schedule_2026": [
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-08-21",
-          "opponent": "Bellmont",
-          "result": "W",
-          "team_score": 16,
-          "opp_score": 12,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-08-28",
-          "opponent": "Southwood",
-          "result": "W",
-          "team_score": 36,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-04",
-          "opponent": "Oak Hill",
-          "result": "W",
-          "team_score": 47,
-          "opp_score": 19,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-11",
-          "opponent": "Elwood",
-          "result": "W",
-          "team_score": 46,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-18",
-          "opponent": "Frankton",
-          "result": "W",
-          "team_score": 34,
-          "opp_score": 20,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-25",
-          "opponent": "Eastbrook",
-          "result": "W",
-          "team_score": 26,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-10-02",
-          "opponent": "Alexandria",
-          "result": "L",
-          "team_score": 12,
-          "opp_score": 35,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-10-09",
-          "opponent": "Mississinewa",
-          "result": "L",
-          "team_score": 22,
-          "opp_score": 36,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-10-16",
-          "opponent": "Blackford",
-          "result": "W",
-          "team_score": 36,
-          "opp_score": 6,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-10-23",
-          "opponent": "Caston",
-          "result": "L",
-          "team_score": 22,
-          "opp_score": 23,
-          "is_playoff": true
-        }
-      ]
-    },
-    {
       "team": "Rensselaer Central",
       "state": "IN",
       "division": "2A",
@@ -21083,7 +20958,7 @@
       "ppa": 15.249,
       "l1_pts": 32.0,
       "l2_pts": 72.5,
-      "rank": 158,
+      "rank": 157,
       "division_rank": 21,
       "sos_rank": 249,
       "contender_tier": "Dark Horse",
@@ -21186,6 +21061,131 @@
           "result": "L",
           "team_score": 14,
           "opp_score": 35,
+          "is_playoff": true
+        }
+      ]
+    },
+    {
+      "team": "Madison-Grant",
+      "state": "IN",
+      "division": "1A",
+      "region": 1,
+      "conference": "Central Indiana Conference",
+      "city": "Fairmount",
+      "wins": 7,
+      "losses": 3,
+      "ties": 0,
+      "games_played": 10,
+      "record": "7-3",
+      "power_index": 50.5,
+      "spi": 50.5,
+      "raw_rating": 0.54,
+      "sos_index": 36.7,
+      "sos_raw": -13.27,
+      "ppg_scored": 29.7,
+      "ppg_off": 29.7,
+      "ppg_allowed": 16.5,
+      "ppg_def": 16.5,
+      "net_margin": 13.2,
+      "harbin_avg": 15.6311,
+      "pqs": 15.631,
+      "ppa": 15.631,
+      "l1_pts": 31.5,
+      "l2_pts": 74.0,
+      "rank": 158,
+      "division_rank": 13,
+      "sos_rank": 258,
+      "contender_tier": "Regional Contender",
+      "seed": 13,
+      "schedule_2026": [
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-08-21",
+          "opponent": "Bellmont",
+          "result": "W",
+          "team_score": 16,
+          "opp_score": 12,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-08-28",
+          "opponent": "Southwood",
+          "result": "W",
+          "team_score": 36,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-04",
+          "opponent": "Oak Hill",
+          "result": "W",
+          "team_score": 47,
+          "opp_score": 19,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-11",
+          "opponent": "Elwood",
+          "result": "W",
+          "team_score": 46,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-18",
+          "opponent": "Frankton",
+          "result": "W",
+          "team_score": 34,
+          "opp_score": 20,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-25",
+          "opponent": "Eastbrook",
+          "result": "W",
+          "team_score": 26,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-10-02",
+          "opponent": "Alexandria",
+          "result": "L",
+          "team_score": 12,
+          "opp_score": 35,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-10-09",
+          "opponent": "Mississinewa",
+          "result": "L",
+          "team_score": 22,
+          "opp_score": 36,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-10-16",
+          "opponent": "Blackford",
+          "result": "W",
+          "team_score": 36,
+          "opp_score": 6,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-10-23",
+          "opponent": "Caston",
+          "result": "L",
+          "team_score": 22,
+          "opp_score": 23,
           "is_playoff": true
         }
       ]
@@ -23902,7 +23902,7 @@
       "division": "1A",
       "region": 3,
       "conference": "Hoosier North Conference",
-      "city": "Rochester",
+      "city": "Fulton",
       "wins": 9,
       "losses": 3,
       "ties": 0,
@@ -25429,7 +25429,7 @@
       "division": "3A",
       "region": 8,
       "conference": "PAC - Big Conference",
-      "city": "Mt. Vernon",
+      "city": "Mt Vernon",
       "wins": 3,
       "losses": 8,
       "ties": 0,
@@ -32394,7 +32394,7 @@
       "division": "2A",
       "region": 1,
       "conference": "IHSAA Independent",
-      "city": "Meridian Hills",
+      "city": "Indianapolis",
       "wins": 4,
       "losses": 5,
       "ties": 0,
@@ -32635,7 +32635,7 @@
       "division": "2A",
       "region": 1,
       "conference": "Three Rivers Conference",
-      "city": "N Manchester",
+      "city": "North Manchester",
       "wins": 3,
       "losses": 7,
       "ties": 0,
@@ -35228,122 +35228,6 @@
       ]
     },
     {
-      "team": "Hammond Central",
-      "state": "IN",
-      "division": "5A",
-      "region": 1,
-      "conference": "Great Lakes Athletic Conference",
-      "city": "Hammond",
-      "wins": 1,
-      "losses": 8,
-      "ties": 0,
-      "games_played": 9,
-      "record": "1-8",
-      "power_index": 24.9,
-      "spi": 24.9,
-      "raw_rating": -25.07,
-      "sos_index": 44.6,
-      "sos_raw": -5.43,
-      "ppg_scored": 13.6,
-      "ppg_off": 13.6,
-      "ppg_allowed": 40.8,
-      "ppg_def": 40.8,
-      "net_margin": -27.2,
-      "harbin_avg": 0.625,
-      "pqs": 0.625,
-      "ppa": 0.625,
-      "l1_pts": 5.0,
-      "l2_pts": 0.0,
-      "rank": 270,
-      "division_rank": 33,
-      "sos_rank": 208,
-      "contender_tier": "First-Round / Bubble",
-      "seed": 33,
-      "schedule_2026": [
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-08-21",
-          "opponent": "South Bend Washington",
-          "result": "W",
-          "team_score": 40,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-08-28",
-          "opponent": "T.F. South (IL)",
-          "result": "L",
-          "team_score": 13,
-          "opp_score": 42,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-04",
-          "opponent": "Gary West",
-          "result": "L",
-          "team_score": 13,
-          "opp_score": 40,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-18",
-          "opponent": "Culver Military Academy",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 44,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 26, 2026",
-          "date_iso": "2026-09-26",
-          "opponent": "Bowman Academy",
-          "result": "L",
-          "team_score": 16,
-          "opp_score": 54,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-10-02",
-          "opponent": "Hammond Morton",
-          "result": "L",
-          "team_score": 8,
-          "opp_score": 62,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-10-09",
-          "opponent": "East Chicago Central",
-          "result": "L",
-          "team_score": 12,
-          "opp_score": 40,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-10-16",
-          "opponent": "Hanover Central",
-          "result": "L",
-          "team_score": 8,
-          "opp_score": 50,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 30, 2026",
-          "date_iso": "2026-10-30",
-          "opponent": "Munster",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 35,
-          "is_playoff": true
-        }
-      ]
-    },
-    {
       "team": "North Vermillion",
       "state": "IN",
       "division": "1A",
@@ -35370,7 +35254,7 @@
       "ppa": 7.948,
       "l1_pts": 8.0,
       "l2_pts": 12.0,
-      "rank": 271,
+      "rank": 270,
       "division_rank": 39,
       "sos_rank": 256,
       "contender_tier": "First-Round / Bubble",
@@ -35464,6 +35348,122 @@
           "result": "L",
           "team_score": 20,
           "opp_score": 63,
+          "is_playoff": true
+        }
+      ]
+    },
+    {
+      "team": "Hammond Central",
+      "state": "IN",
+      "division": "5A",
+      "region": 1,
+      "conference": "Great Lakes Athletic Conference",
+      "city": "Hammond",
+      "wins": 1,
+      "losses": 8,
+      "ties": 0,
+      "games_played": 9,
+      "record": "1-8",
+      "power_index": 24.9,
+      "spi": 24.9,
+      "raw_rating": -25.07,
+      "sos_index": 44.6,
+      "sos_raw": -5.43,
+      "ppg_scored": 13.6,
+      "ppg_off": 13.6,
+      "ppg_allowed": 40.8,
+      "ppg_def": 40.8,
+      "net_margin": -27.2,
+      "harbin_avg": 0.625,
+      "pqs": 0.625,
+      "ppa": 0.625,
+      "l1_pts": 5.0,
+      "l2_pts": 0.0,
+      "rank": 271,
+      "division_rank": 33,
+      "sos_rank": 208,
+      "contender_tier": "First-Round / Bubble",
+      "seed": 33,
+      "schedule_2026": [
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-08-21",
+          "opponent": "South Bend Washington",
+          "result": "W",
+          "team_score": 40,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-08-28",
+          "opponent": "T.F. South (IL)",
+          "result": "L",
+          "team_score": 13,
+          "opp_score": 42,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-04",
+          "opponent": "Gary West",
+          "result": "L",
+          "team_score": 13,
+          "opp_score": 40,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-18",
+          "opponent": "Culver Military Academy",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 44,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 26, 2026",
+          "date_iso": "2026-09-26",
+          "opponent": "Bowman Academy",
+          "result": "L",
+          "team_score": 16,
+          "opp_score": 54,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-10-02",
+          "opponent": "Hammond Morton",
+          "result": "L",
+          "team_score": 8,
+          "opp_score": 62,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-10-09",
+          "opponent": "East Chicago Central",
+          "result": "L",
+          "team_score": 12,
+          "opp_score": 40,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-10-16",
+          "opponent": "Hanover Central",
+          "result": "L",
+          "team_score": 8,
+          "opp_score": 50,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 30, 2026",
+          "date_iso": "2026-10-30",
+          "opponent": "Munster",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 35,
           "is_playoff": true
         }
       ]
@@ -42913,7 +42913,7 @@
       "division": "5A",
       "region": 8,
       "conference": "Hoosier Hills Conference",
-      "city": "Floyd Knobs",
+      "city": "Floyds Knobs",
       "wins": 8,
       "losses": 2,
       "ties": 0,
@@ -49944,7 +49944,7 @@
       "division": "6A",
       "region": 6,
       "conference": "Metropolitan Conference",
-      "city": "Indianapolis",
+      "city": "Farmersburg",
       "wins": 3,
       "losses": 8,
       "ties": 0,
@@ -52713,7 +52713,7 @@
       "division": "2A",
       "region": 1,
       "conference": "Hoosier Heartland Conference",
-      "city": "Greentown",
+      "city": "Pekin",
       "wins": 9,
       "losses": 1,
       "ties": 0,
@@ -55634,7 +55634,7 @@
       "division": "5A",
       "region": 5,
       "conference": "Hoosier Heritage Conference",
-      "city": "Fortville",
+      "city": "Mt Vernon",
       "wins": 6,
       "losses": 5,
       "ties": 0,
@@ -60846,131 +60846,6 @@
       ]
     },
     {
-      "team": "Madison-Grant",
-      "state": "IN",
-      "division": "1A",
-      "region": 1,
-      "conference": "Central Indiana Conference",
-      "city": "Fairmount",
-      "wins": 7,
-      "losses": 3,
-      "ties": 0,
-      "games_played": 10,
-      "record": "7-3",
-      "power_index": 50.5,
-      "spi": 50.5,
-      "raw_rating": 0.54,
-      "sos_index": 36.7,
-      "sos_raw": -13.27,
-      "ppg_scored": 29.7,
-      "ppg_off": 29.7,
-      "ppg_allowed": 16.5,
-      "ppg_def": 16.5,
-      "net_margin": 13.2,
-      "harbin_avg": 15.6311,
-      "pqs": 15.631,
-      "ppa": 15.631,
-      "l1_pts": 31.5,
-      "l2_pts": 74.0,
-      "rank": 157,
-      "division_rank": 13,
-      "sos_rank": 258,
-      "contender_tier": "Regional Contender",
-      "seed": 13,
-      "schedule_2026": [
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-08-21",
-          "opponent": "Bellmont",
-          "result": "W",
-          "team_score": 16,
-          "opp_score": 12,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-08-28",
-          "opponent": "Southwood",
-          "result": "W",
-          "team_score": 36,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-04",
-          "opponent": "Oak Hill",
-          "result": "W",
-          "team_score": 47,
-          "opp_score": 19,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-11",
-          "opponent": "Elwood",
-          "result": "W",
-          "team_score": 46,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-18",
-          "opponent": "Frankton",
-          "result": "W",
-          "team_score": 34,
-          "opp_score": 20,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-25",
-          "opponent": "Eastbrook",
-          "result": "W",
-          "team_score": 26,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-10-02",
-          "opponent": "Alexandria",
-          "result": "L",
-          "team_score": 12,
-          "opp_score": 35,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-10-09",
-          "opponent": "Mississinewa",
-          "result": "L",
-          "team_score": 22,
-          "opp_score": 36,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-10-16",
-          "opponent": "Blackford",
-          "result": "W",
-          "team_score": 36,
-          "opp_score": 6,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-10-23",
-          "opponent": "Caston",
-          "result": "L",
-          "team_score": 22,
-          "opp_score": 23,
-          "is_playoff": true
-        }
-      ]
-    },
-    {
       "team": "Rensselaer Central",
       "state": "IN",
       "division": "2A",
@@ -60997,7 +60872,7 @@
       "ppa": 15.249,
       "l1_pts": 32.0,
       "l2_pts": 72.5,
-      "rank": 158,
+      "rank": 157,
       "division_rank": 21,
       "sos_rank": 249,
       "contender_tier": "Dark Horse",
@@ -61100,6 +60975,131 @@
           "result": "L",
           "team_score": 14,
           "opp_score": 35,
+          "is_playoff": true
+        }
+      ]
+    },
+    {
+      "team": "Madison-Grant",
+      "state": "IN",
+      "division": "1A",
+      "region": 1,
+      "conference": "Central Indiana Conference",
+      "city": "Fairmount",
+      "wins": 7,
+      "losses": 3,
+      "ties": 0,
+      "games_played": 10,
+      "record": "7-3",
+      "power_index": 50.5,
+      "spi": 50.5,
+      "raw_rating": 0.54,
+      "sos_index": 36.7,
+      "sos_raw": -13.27,
+      "ppg_scored": 29.7,
+      "ppg_off": 29.7,
+      "ppg_allowed": 16.5,
+      "ppg_def": 16.5,
+      "net_margin": 13.2,
+      "harbin_avg": 15.6311,
+      "pqs": 15.631,
+      "ppa": 15.631,
+      "l1_pts": 31.5,
+      "l2_pts": 74.0,
+      "rank": 158,
+      "division_rank": 13,
+      "sos_rank": 258,
+      "contender_tier": "Regional Contender",
+      "seed": 13,
+      "schedule_2026": [
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-08-21",
+          "opponent": "Bellmont",
+          "result": "W",
+          "team_score": 16,
+          "opp_score": 12,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-08-28",
+          "opponent": "Southwood",
+          "result": "W",
+          "team_score": 36,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-04",
+          "opponent": "Oak Hill",
+          "result": "W",
+          "team_score": 47,
+          "opp_score": 19,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-11",
+          "opponent": "Elwood",
+          "result": "W",
+          "team_score": 46,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-18",
+          "opponent": "Frankton",
+          "result": "W",
+          "team_score": 34,
+          "opp_score": 20,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-25",
+          "opponent": "Eastbrook",
+          "result": "W",
+          "team_score": 26,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-10-02",
+          "opponent": "Alexandria",
+          "result": "L",
+          "team_score": 12,
+          "opp_score": 35,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-10-09",
+          "opponent": "Mississinewa",
+          "result": "L",
+          "team_score": 22,
+          "opp_score": 36,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-10-16",
+          "opponent": "Blackford",
+          "result": "W",
+          "team_score": 36,
+          "opp_score": 6,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-10-23",
+          "opponent": "Caston",
+          "result": "L",
+          "team_score": 22,
+          "opp_score": 23,
           "is_playoff": true
         }
       ]
@@ -63816,7 +63816,7 @@
       "division": "1A",
       "region": 3,
       "conference": "Hoosier North Conference",
-      "city": "Rochester",
+      "city": "Fulton",
       "wins": 9,
       "losses": 3,
       "ties": 0,
@@ -65343,7 +65343,7 @@
       "division": "3A",
       "region": 8,
       "conference": "PAC - Big Conference",
-      "city": "Mt. Vernon",
+      "city": "Mt Vernon",
       "wins": 3,
       "losses": 8,
       "ties": 0,
@@ -72308,7 +72308,7 @@
       "division": "2A",
       "region": 1,
       "conference": "IHSAA Independent",
-      "city": "Meridian Hills",
+      "city": "Indianapolis",
       "wins": 4,
       "losses": 5,
       "ties": 0,
@@ -72549,7 +72549,7 @@
       "division": "2A",
       "region": 1,
       "conference": "Three Rivers Conference",
-      "city": "N Manchester",
+      "city": "North Manchester",
       "wins": 3,
       "losses": 7,
       "ties": 0,
@@ -75142,122 +75142,6 @@
       ]
     },
     {
-      "team": "Hammond Central",
-      "state": "IN",
-      "division": "5A",
-      "region": 1,
-      "conference": "Great Lakes Athletic Conference",
-      "city": "Hammond",
-      "wins": 1,
-      "losses": 8,
-      "ties": 0,
-      "games_played": 9,
-      "record": "1-8",
-      "power_index": 24.9,
-      "spi": 24.9,
-      "raw_rating": -25.07,
-      "sos_index": 44.6,
-      "sos_raw": -5.43,
-      "ppg_scored": 13.6,
-      "ppg_off": 13.6,
-      "ppg_allowed": 40.8,
-      "ppg_def": 40.8,
-      "net_margin": -27.2,
-      "harbin_avg": 0.625,
-      "pqs": 0.625,
-      "ppa": 0.625,
-      "l1_pts": 5.0,
-      "l2_pts": 0.0,
-      "rank": 270,
-      "division_rank": 33,
-      "sos_rank": 208,
-      "contender_tier": "First-Round / Bubble",
-      "seed": 33,
-      "schedule_2026": [
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-08-21",
-          "opponent": "South Bend Washington",
-          "result": "W",
-          "team_score": 40,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-08-28",
-          "opponent": "T.F. South (IL)",
-          "result": "L",
-          "team_score": 13,
-          "opp_score": 42,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-04",
-          "opponent": "Gary West",
-          "result": "L",
-          "team_score": 13,
-          "opp_score": 40,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-18",
-          "opponent": "Culver Military Academy",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 44,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 26, 2026",
-          "date_iso": "2026-09-26",
-          "opponent": "Bowman Academy",
-          "result": "L",
-          "team_score": 16,
-          "opp_score": 54,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-10-02",
-          "opponent": "Hammond Morton",
-          "result": "L",
-          "team_score": 8,
-          "opp_score": 62,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-10-09",
-          "opponent": "East Chicago Central",
-          "result": "L",
-          "team_score": 12,
-          "opp_score": 40,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-10-16",
-          "opponent": "Hanover Central",
-          "result": "L",
-          "team_score": 8,
-          "opp_score": 50,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 30, 2026",
-          "date_iso": "2026-10-30",
-          "opponent": "Munster",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 35,
-          "is_playoff": true
-        }
-      ]
-    },
-    {
       "team": "North Vermillion",
       "state": "IN",
       "division": "1A",
@@ -75284,7 +75168,7 @@
       "ppa": 7.948,
       "l1_pts": 8.0,
       "l2_pts": 12.0,
-      "rank": 271,
+      "rank": 270,
       "division_rank": 39,
       "sos_rank": 256,
       "contender_tier": "First-Round / Bubble",
@@ -75378,6 +75262,122 @@
           "result": "L",
           "team_score": 20,
           "opp_score": 63,
+          "is_playoff": true
+        }
+      ]
+    },
+    {
+      "team": "Hammond Central",
+      "state": "IN",
+      "division": "5A",
+      "region": 1,
+      "conference": "Great Lakes Athletic Conference",
+      "city": "Hammond",
+      "wins": 1,
+      "losses": 8,
+      "ties": 0,
+      "games_played": 9,
+      "record": "1-8",
+      "power_index": 24.9,
+      "spi": 24.9,
+      "raw_rating": -25.07,
+      "sos_index": 44.6,
+      "sos_raw": -5.43,
+      "ppg_scored": 13.6,
+      "ppg_off": 13.6,
+      "ppg_allowed": 40.8,
+      "ppg_def": 40.8,
+      "net_margin": -27.2,
+      "harbin_avg": 0.625,
+      "pqs": 0.625,
+      "ppa": 0.625,
+      "l1_pts": 5.0,
+      "l2_pts": 0.0,
+      "rank": 271,
+      "division_rank": 33,
+      "sos_rank": 208,
+      "contender_tier": "First-Round / Bubble",
+      "seed": 33,
+      "schedule_2026": [
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-08-21",
+          "opponent": "South Bend Washington",
+          "result": "W",
+          "team_score": 40,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-08-28",
+          "opponent": "T.F. South (IL)",
+          "result": "L",
+          "team_score": 13,
+          "opp_score": 42,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-04",
+          "opponent": "Gary West",
+          "result": "L",
+          "team_score": 13,
+          "opp_score": 40,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-18",
+          "opponent": "Culver Military Academy",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 44,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 26, 2026",
+          "date_iso": "2026-09-26",
+          "opponent": "Bowman Academy",
+          "result": "L",
+          "team_score": 16,
+          "opp_score": 54,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-10-02",
+          "opponent": "Hammond Morton",
+          "result": "L",
+          "team_score": 8,
+          "opp_score": 62,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-10-09",
+          "opponent": "East Chicago Central",
+          "result": "L",
+          "team_score": 12,
+          "opp_score": 40,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-10-16",
+          "opponent": "Hanover Central",
+          "result": "L",
+          "team_score": 8,
+          "opp_score": 50,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 30, 2026",
+          "date_iso": "2026-10-30",
+          "opponent": "Munster",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 35,
           "is_playoff": true
         }
       ]
@@ -79850,7 +79850,7 @@
       "conference": "Metropolitan Conference",
       "teams_count": 8,
       "avg_power_index": 81.9,
-      "avg_raw_rating": 31.89,
+      "avg_raw_rating": 31.9,
       "top_team": "Warren Central",
       "top_team_pi": 95.5,
       "rank": 1
@@ -85537,25 +85537,6 @@
         "Late-Season Margin Compression: Net differential dipped -17.7 PPG over the last 3 weeks."
       ]
     },
-    "madison-grant": {
-      "team": "Madison-Grant",
-      "state": "IN",
-      "division": "1A",
-      "region": 1,
-      "record": "7-3",
-      "games_played": 10,
-      "avg_points_scored": 29.7,
-      "avg_points_allowed": 16.5,
-      "season_net_margin": 13.2,
-      "last_3_game_margin": 5.0,
-      "momentum_trend": -8.2,
-      "close_game_record": "1-1",
-      "mercy_rule_wins": 2,
-      "verified_press_intel": [],
-      "keys_to_victory": [
-        "Late-Season Margin Compression: Net differential dipped -8.2 PPG over the last 3 weeks."
-      ]
-    },
     "rensselaer central": {
       "team": "Rensselaer Central",
       "state": "IN",
@@ -85574,6 +85555,25 @@
       "keys_to_victory": [
         "Explosive Separation Profile: Rensselaer Central has triggered the 35-point IHSAA running clock 3 times.",
         "Late-Season Margin Compression: Net differential dipped -8.7 PPG over the last 3 weeks."
+      ]
+    },
+    "madison-grant": {
+      "team": "Madison-Grant",
+      "state": "IN",
+      "division": "1A",
+      "region": 1,
+      "record": "7-3",
+      "games_played": 10,
+      "avg_points_scored": 29.7,
+      "avg_points_allowed": 16.5,
+      "season_net_margin": 13.2,
+      "last_3_game_margin": 5.0,
+      "momentum_trend": -8.2,
+      "close_game_record": "1-1",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Late-Season Margin Compression: Net differential dipped -8.2 PPG over the last 3 weeks."
       ]
     },
     "south bend riley": {
@@ -87714,25 +87714,6 @@
         "Peaking in Tournament Play: Net margin surged +11.5 PPG over the last 3 games (-9.0 PPG)."
       ]
     },
-    "hammond central": {
-      "team": "Hammond Central",
-      "state": "IN",
-      "division": "5A",
-      "region": 1,
-      "record": "1-8",
-      "games_played": 9,
-      "avg_points_scored": 13.6,
-      "avg_points_allowed": 40.8,
-      "season_net_margin": -27.2,
-      "last_3_game_margin": -33.0,
-      "momentum_trend": -5.8,
-      "close_game_record": "0-0",
-      "mercy_rule_wins": 1,
-      "verified_press_intel": [],
-      "keys_to_victory": [
-        "Win 1st-down efficiency, protect the football, and force long-field drives."
-      ]
-    },
     "north vermillion": {
       "team": "North Vermillion",
       "state": "IN",
@@ -87750,6 +87731,25 @@
       "verified_press_intel": [],
       "keys_to_victory": [
         "Late-Season Margin Compression: Net differential dipped -11.9 PPG over the last 3 weeks."
+      ]
+    },
+    "hammond central": {
+      "team": "Hammond Central",
+      "state": "IN",
+      "division": "5A",
+      "region": 1,
+      "record": "1-8",
+      "games_played": 9,
+      "avg_points_scored": 13.6,
+      "avg_points_allowed": 40.8,
+      "season_net_margin": -27.2,
+      "last_3_game_margin": -33.0,
+      "momentum_trend": -5.8,
+      "close_game_record": "0-0",
+      "mercy_rule_wins": 1,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Win 1st-down efficiency, protect the football, and force long-field drives."
       ]
     },
     "frontier": {

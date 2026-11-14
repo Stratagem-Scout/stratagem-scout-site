@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T03:33:06",
+  "generated_at": "2026-11-14T08:48:53",
   "season": 2026,
   "rankings": [
     {
@@ -6582,104 +6582,6 @@
     },
     {
       "rank": 62,
-      "division_rank": 2,
-      "team": "Ecorse",
-      "division": "D6",
-      "conference": "Charter School Conference - Gold",
-      "wins": 9,
-      "losses": 1,
-      "record": "9-1",
-      "power_index": 71.0,
-      "raw_rating": 21.02,
-      "sos_index": 50.4,
-      "sos_raw": 0.36,
-      "ppg_scored": 36.6,
-      "ppg_allowed": 9.9,
-      "schedule_2026": [
-        {
-          "date": "Aug. 28, 2026",
-          "opponent": "Whitmore Lake",
-          "result": "W",
-          "team_score": 44,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "opponent": "Detroit Voyageur",
-          "result": "W",
-          "team_score": 28,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "opponent": "Warren Michigan Collegiate",
-          "result": "W",
-          "team_score": 16,
-          "opp_score": 12,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "opponent": "Romulus Summit",
-          "result": "W",
-          "team_score": 40,
-          "opp_score": 33,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "opponent": "Harper Woods Chandler Park",
-          "result": "W",
-          "team_score": 44,
-          "opp_score": 6,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "opponent": "Hamtramck",
-          "result": "W",
-          "team_score": 50,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "opponent": "Detroit Edison",
-          "result": "L",
-          "team_score": 20,
-          "opp_score": 30,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "opponent": "Madison Heights Madison",
-          "result": "W",
-          "team_score": 40,
-          "opp_score": 12,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 30, 2026",
-          "opponent": "Detroit Communications/Media Arts",
-          "result": "W",
-          "team_score": 58,
-          "opp_score": 0,
-          "is_playoff": true
-        },
-        {
-          "date": "Nov. 6, 2026",
-          "opponent": "Warren Michigan Collegiate",
-          "result": "W",
-          "team_score": 26,
-          "opp_score": 6,
-          "is_playoff": true
-        }
-      ]
-    },
-    {
-      "rank": 63,
       "division_rank": 11,
       "team": "Coopersville",
       "division": "D3",
@@ -6780,6 +6682,104 @@
           "result": "L",
           "team_score": 21,
           "opp_score": 54,
+          "is_playoff": true
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "division_rank": 2,
+      "team": "Ecorse",
+      "division": "D6",
+      "conference": "Charter School Conference - Gold",
+      "wins": 9,
+      "losses": 1,
+      "record": "9-1",
+      "power_index": 71.0,
+      "raw_rating": 21.02,
+      "sos_index": 50.4,
+      "sos_raw": 0.36,
+      "ppg_scored": 36.6,
+      "ppg_allowed": 9.9,
+      "schedule_2026": [
+        {
+          "date": "Aug. 28, 2026",
+          "opponent": "Whitmore Lake",
+          "result": "W",
+          "team_score": 44,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "opponent": "Detroit Voyageur",
+          "result": "W",
+          "team_score": 28,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "opponent": "Warren Michigan Collegiate",
+          "result": "W",
+          "team_score": 16,
+          "opp_score": 12,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "opponent": "Romulus Summit",
+          "result": "W",
+          "team_score": 40,
+          "opp_score": 33,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "opponent": "Harper Woods Chandler Park",
+          "result": "W",
+          "team_score": 44,
+          "opp_score": 6,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "opponent": "Hamtramck",
+          "result": "W",
+          "team_score": 50,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "opponent": "Detroit Edison",
+          "result": "L",
+          "team_score": 20,
+          "opp_score": 30,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "opponent": "Madison Heights Madison",
+          "result": "W",
+          "team_score": 40,
+          "opp_score": 12,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 30, 2026",
+          "opponent": "Detroit Communications/Media Arts",
+          "result": "W",
+          "team_score": 58,
+          "opp_score": 0,
+          "is_playoff": true
+        },
+        {
+          "date": "Nov. 6, 2026",
+          "opponent": "Warren Michigan Collegiate",
+          "result": "W",
+          "team_score": 26,
+          "opp_score": 6,
           "is_playoff": true
         }
       ]
@@ -7006,112 +7006,6 @@
     },
     {
       "rank": 66,
-      "division_rank": 3,
-      "team": "Grand Rapids West Catholic",
-      "division": "D5",
-      "conference": "Ottawa - Kent Conference - White",
-      "wins": 9,
-      "losses": 2,
-      "record": "9-2",
-      "power_index": 70.3,
-      "raw_rating": 20.26,
-      "sos_index": 61.3,
-      "sos_raw": 11.33,
-      "ppg_scored": 37.5,
-      "ppg_allowed": 23.9,
-      "schedule_2026": [
-        {
-          "date": "Aug. 28, 2026",
-          "opponent": "Grand Rapids Northview",
-          "result": "W",
-          "team_score": 48,
-          "opp_score": 21,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "opponent": "Coopersville",
-          "result": "L",
-          "team_score": 21,
-          "opp_score": 41,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "opponent": "Grand Rapids South Christian",
-          "result": "W",
-          "team_score": 44,
-          "opp_score": 34,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "opponent": "Grand Rapids Forest Hills Eastern",
-          "result": "W",
-          "team_score": 42,
-          "opp_score": 34,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "opponent": "Hamilton",
-          "result": "W",
-          "team_score": 22,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "opponent": "Spring Lake",
-          "result": "W",
-          "team_score": 42,
-          "opp_score": 31,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "opponent": "Grand Rapids Christian",
-          "result": "L",
-          "team_score": 28,
-          "opp_score": 29,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "opponent": "Wayland",
-          "result": "W",
-          "team_score": 34,
-          "opp_score": 13,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "opponent": "Traverse City St. Francis",
-          "result": "W",
-          "team_score": 38,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 30, 2026",
-          "opponent": "Wyoming Godwin Heights",
-          "result": "W",
-          "team_score": 49,
-          "opp_score": 18,
-          "is_playoff": true
-        },
-        {
-          "date": "Nov. 6, 2026",
-          "opponent": "Hopkins",
-          "result": "W",
-          "team_score": 45,
-          "opp_score": 14,
-          "is_playoff": true
-        }
-      ]
-    },
-    {
-      "rank": 67,
       "division_rank": 25,
       "team": "Grandville",
       "division": "D1",
@@ -7212,6 +7106,112 @@
           "result": "L",
           "team_score": 18,
           "opp_score": 33,
+          "is_playoff": true
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "division_rank": 3,
+      "team": "Grand Rapids West Catholic",
+      "division": "D5",
+      "conference": "Ottawa - Kent Conference - White",
+      "wins": 9,
+      "losses": 2,
+      "record": "9-2",
+      "power_index": 70.3,
+      "raw_rating": 20.26,
+      "sos_index": 61.3,
+      "sos_raw": 11.33,
+      "ppg_scored": 37.5,
+      "ppg_allowed": 23.9,
+      "schedule_2026": [
+        {
+          "date": "Aug. 28, 2026",
+          "opponent": "Grand Rapids Northview",
+          "result": "W",
+          "team_score": 48,
+          "opp_score": 21,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "opponent": "Coopersville",
+          "result": "L",
+          "team_score": 21,
+          "opp_score": 41,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "opponent": "Grand Rapids South Christian",
+          "result": "W",
+          "team_score": 44,
+          "opp_score": 34,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "opponent": "Grand Rapids Forest Hills Eastern",
+          "result": "W",
+          "team_score": 42,
+          "opp_score": 34,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "opponent": "Hamilton",
+          "result": "W",
+          "team_score": 22,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "opponent": "Spring Lake",
+          "result": "W",
+          "team_score": 42,
+          "opp_score": 31,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "opponent": "Grand Rapids Christian",
+          "result": "L",
+          "team_score": 28,
+          "opp_score": 29,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "opponent": "Wayland",
+          "result": "W",
+          "team_score": 34,
+          "opp_score": 13,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "opponent": "Traverse City St. Francis",
+          "result": "W",
+          "team_score": 38,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 30, 2026",
+          "opponent": "Wyoming Godwin Heights",
+          "result": "W",
+          "team_score": 49,
+          "opp_score": 18,
+          "is_playoff": true
+        },
+        {
+          "date": "Nov. 6, 2026",
+          "opponent": "Hopkins",
+          "result": "W",
+          "team_score": 45,
+          "opp_score": 14,
           "is_playoff": true
         }
       ]
@@ -14862,104 +14862,6 @@
     },
     {
       "rank": 142,
-      "division_rank": 26,
-      "team": "Livonia Churchill",
-      "division": "D2",
-      "conference": "Lakes Valley Conference",
-      "wins": 5,
-      "losses": 5,
-      "record": "5-5",
-      "power_index": 61.8,
-      "raw_rating": 11.8,
-      "sos_index": 63.3,
-      "sos_raw": 13.33,
-      "ppg_scored": 24.4,
-      "ppg_allowed": 25.8,
-      "schedule_2026": [
-        {
-          "date": "Aug. 28, 2026",
-          "opponent": "Canton",
-          "result": "W",
-          "team_score": 27,
-          "opp_score": 8,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "opponent": "South Lyon",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 49,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "opponent": "White Lake Lakeland",
-          "result": "W",
-          "team_score": 28,
-          "opp_score": 21,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "opponent": "South Lyon East",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 34,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "opponent": "Milford",
-          "result": "L",
-          "team_score": 10,
-          "opp_score": 46,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "opponent": "Livonia Franklin",
-          "result": "L",
-          "team_score": 17,
-          "opp_score": 31,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "opponent": "Walled Lake Central",
-          "result": "W",
-          "team_score": 35,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "opponent": "Livonia Stevenson",
-          "result": "W",
-          "team_score": 42,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "opponent": "Farmington",
-          "result": "W",
-          "team_score": 41,
-          "opp_score": 21,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 30, 2026",
-          "opponent": "Temperance Bedford",
-          "result": "L",
-          "team_score": 30,
-          "opp_score": 34,
-          "is_playoff": true
-        }
-      ]
-    },
-    {
-      "rank": 143,
       "division_rank": 6,
       "team": "Ishpeming",
       "division": "D8",
@@ -15060,6 +14962,104 @@
           "result": "L",
           "team_score": 22,
           "opp_score": 28,
+          "is_playoff": true
+        }
+      ]
+    },
+    {
+      "rank": 143,
+      "division_rank": 26,
+      "team": "Livonia Churchill",
+      "division": "D2",
+      "conference": "Lakes Valley Conference",
+      "wins": 5,
+      "losses": 5,
+      "record": "5-5",
+      "power_index": 61.8,
+      "raw_rating": 11.8,
+      "sos_index": 63.3,
+      "sos_raw": 13.33,
+      "ppg_scored": 24.4,
+      "ppg_allowed": 25.8,
+      "schedule_2026": [
+        {
+          "date": "Aug. 28, 2026",
+          "opponent": "Canton",
+          "result": "W",
+          "team_score": 27,
+          "opp_score": 8,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "opponent": "South Lyon",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 49,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "opponent": "White Lake Lakeland",
+          "result": "W",
+          "team_score": 28,
+          "opp_score": 21,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "opponent": "South Lyon East",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 34,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "opponent": "Milford",
+          "result": "L",
+          "team_score": 10,
+          "opp_score": 46,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "opponent": "Livonia Franklin",
+          "result": "L",
+          "team_score": 17,
+          "opp_score": 31,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "opponent": "Walled Lake Central",
+          "result": "W",
+          "team_score": 35,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "opponent": "Livonia Stevenson",
+          "result": "W",
+          "team_score": 42,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "opponent": "Farmington",
+          "result": "W",
+          "team_score": 41,
+          "opp_score": 21,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 30, 2026",
+          "opponent": "Temperance Bedford",
+          "result": "L",
+          "team_score": 30,
+          "opp_score": 34,
           "is_playoff": true
         }
       ]
@@ -19076,6 +19076,96 @@
     },
     {
       "rank": 185,
+      "division_rank": 30,
+      "team": "Grand Rapids Forest Hills Northern",
+      "division": "D2",
+      "conference": "Ottawa - Kent Conference - Green",
+      "wins": 4,
+      "losses": 5,
+      "record": "4-5",
+      "power_index": 57.5,
+      "raw_rating": 7.51,
+      "sos_index": 61.6,
+      "sos_raw": 11.56,
+      "ppg_scored": 22.8,
+      "ppg_allowed": 27.6,
+      "schedule_2026": [
+        {
+          "date": "Aug. 28, 2026",
+          "opponent": "Grand Rapids Forest Hills Eastern",
+          "result": "L",
+          "team_score": 21,
+          "opp_score": 28,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "opponent": "Jenison",
+          "result": "L",
+          "team_score": 31,
+          "opp_score": 34,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "opponent": "Grand Rapids Forest Hills Central",
+          "result": "W",
+          "team_score": 41,
+          "opp_score": 21,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "opponent": "Byron Center",
+          "result": "L",
+          "team_score": 17,
+          "opp_score": 56,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "opponent": "Grand Rapids Union",
+          "result": "W",
+          "team_score": 37,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "opponent": "Muskegon",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 30,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "opponent": "Muskegon Reeths-Puffer",
+          "result": "W",
+          "team_score": 21,
+          "opp_score": 19,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "opponent": "Muskegon Mona Shores",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 36,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "opponent": "Grand Rapids Northview",
+          "result": "W",
+          "team_score": 30,
+          "opp_score": 24,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "rank": 186,
       "division_rank": 28,
       "team": "Detroit Cody",
       "division": "D4",
@@ -19169,96 +19259,6 @@
           "team_score": 16,
           "opp_score": 41,
           "is_playoff": true
-        }
-      ]
-    },
-    {
-      "rank": 186,
-      "division_rank": 30,
-      "team": "Grand Rapids Forest Hills Northern",
-      "division": "D2",
-      "conference": "Ottawa - Kent Conference - Green",
-      "wins": 4,
-      "losses": 5,
-      "record": "4-5",
-      "power_index": 57.5,
-      "raw_rating": 7.51,
-      "sos_index": 61.6,
-      "sos_raw": 11.56,
-      "ppg_scored": 22.8,
-      "ppg_allowed": 27.6,
-      "schedule_2026": [
-        {
-          "date": "Aug. 28, 2026",
-          "opponent": "Grand Rapids Forest Hills Eastern",
-          "result": "L",
-          "team_score": 21,
-          "opp_score": 28,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "opponent": "Jenison",
-          "result": "L",
-          "team_score": 31,
-          "opp_score": 34,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "opponent": "Grand Rapids Forest Hills Central",
-          "result": "W",
-          "team_score": 41,
-          "opp_score": 21,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "opponent": "Byron Center",
-          "result": "L",
-          "team_score": 17,
-          "opp_score": 56,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "opponent": "Grand Rapids Union",
-          "result": "W",
-          "team_score": 37,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "opponent": "Muskegon",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 30,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "opponent": "Muskegon Reeths-Puffer",
-          "result": "W",
-          "team_score": 21,
-          "opp_score": 19,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "opponent": "Muskegon Mona Shores",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 36,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "opponent": "Grand Rapids Northview",
-          "result": "W",
-          "team_score": 30,
-          "opp_score": 24,
-          "is_playoff": false
         }
       ]
     },
@@ -20644,96 +20644,6 @@
     },
     {
       "rank": 201,
-      "division_rank": 18,
-      "team": "Byron",
-      "division": "D6",
-      "conference": "Independent",
-      "wins": 5,
-      "losses": 4,
-      "record": "5-4",
-      "power_index": 56.2,
-      "raw_rating": 6.22,
-      "sos_index": 53.4,
-      "sos_raw": 3.42,
-      "ppg_scored": 38.2,
-      "ppg_allowed": 31.4,
-      "schedule_2026": [
-        {
-          "date": "Aug. 28, 2026",
-          "opponent": "Mesick",
-          "result": "W",
-          "team_score": 43,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "opponent": "Burton Bentley",
-          "result": "W",
-          "team_score": 56,
-          "opp_score": 6,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "opponent": "Deckerville",
-          "result": "L",
-          "team_score": 8,
-          "opp_score": 36,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "opponent": "Kingston",
-          "result": "L",
-          "team_score": 18,
-          "opp_score": 44,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "opponent": "Mayville",
-          "result": "W",
-          "team_score": 35,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "opponent": "Dryden",
-          "result": "L",
-          "team_score": 66,
-          "opp_score": 84,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "opponent": "New Haven Merritt",
-          "result": "W",
-          "team_score": 42,
-          "opp_score": 6,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "opponent": "Memphis",
-          "result": "W",
-          "team_score": 70,
-          "opp_score": 36,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "opponent": "Marlette",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 64,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
-      "rank": 202,
       "division_rank": 34,
       "team": "Grosse Pointe North",
       "division": "D3",
@@ -20827,6 +20737,96 @@
           "team_score": 3,
           "opp_score": 41,
           "is_playoff": true
+        }
+      ]
+    },
+    {
+      "rank": 202,
+      "division_rank": 18,
+      "team": "Byron",
+      "division": "D6",
+      "conference": "Independent",
+      "wins": 5,
+      "losses": 4,
+      "record": "5-4",
+      "power_index": 56.2,
+      "raw_rating": 6.22,
+      "sos_index": 53.4,
+      "sos_raw": 3.42,
+      "ppg_scored": 38.2,
+      "ppg_allowed": 31.4,
+      "schedule_2026": [
+        {
+          "date": "Aug. 28, 2026",
+          "opponent": "Mesick",
+          "result": "W",
+          "team_score": 43,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "opponent": "Burton Bentley",
+          "result": "W",
+          "team_score": 56,
+          "opp_score": 6,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "opponent": "Deckerville",
+          "result": "L",
+          "team_score": 8,
+          "opp_score": 36,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "opponent": "Kingston",
+          "result": "L",
+          "team_score": 18,
+          "opp_score": 44,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "opponent": "Mayville",
+          "result": "W",
+          "team_score": 35,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "opponent": "Dryden",
+          "result": "L",
+          "team_score": 66,
+          "opp_score": 84,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "opponent": "New Haven Merritt",
+          "result": "W",
+          "team_score": 42,
+          "opp_score": 6,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "opponent": "Memphis",
+          "result": "W",
+          "team_score": 70,
+          "opp_score": 36,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "opponent": "Marlette",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 64,
+          "is_playoff": false
         }
       ]
     },
@@ -25784,96 +25784,6 @@
     },
     {
       "rank": 255,
-      "division_rank": 37,
-      "team": "Wyandotte",
-      "division": "D2",
-      "conference": "Downriver League",
-      "wins": 2,
-      "losses": 7,
-      "record": "2-7",
-      "power_index": 51.3,
-      "raw_rating": 1.3,
-      "sos_index": 60.9,
-      "sos_raw": 10.92,
-      "ppg_scored": 24.0,
-      "ppg_allowed": 35.8,
-      "schedule_2026": [
-        {
-          "date": "Aug. 28, 2026",
-          "opponent": "Gibraltar Carlson",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 45,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "opponent": "Trenton",
-          "result": "W",
-          "team_score": 35,
-          "opp_score": 21,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "opponent": "Taylor",
-          "result": "L",
-          "team_score": 10,
-          "opp_score": 26,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "opponent": "Southgate Anderson",
-          "result": "L",
-          "team_score": 19,
-          "opp_score": 22,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "opponent": "Woodhaven",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 34,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "opponent": "Lincoln Park",
-          "result": "W",
-          "team_score": 64,
-          "opp_score": 60,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "opponent": "Allen Park",
-          "result": "L",
-          "team_score": 20,
-          "opp_score": 35,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "opponent": "Cedar Springs",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 50,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "opponent": "Dearborn Edsel Ford",
-          "result": "L",
-          "team_score": 26,
-          "opp_score": 29,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
-      "rank": 256,
       "division_rank": 42,
       "team": "Sparta",
       "division": "D4",
@@ -25958,6 +25868,96 @@
           "result": "L",
           "team_score": 27,
           "opp_score": 52,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "rank": 256,
+      "division_rank": 37,
+      "team": "Wyandotte",
+      "division": "D2",
+      "conference": "Downriver League",
+      "wins": 2,
+      "losses": 7,
+      "record": "2-7",
+      "power_index": 51.3,
+      "raw_rating": 1.3,
+      "sos_index": 60.9,
+      "sos_raw": 10.92,
+      "ppg_scored": 24.0,
+      "ppg_allowed": 35.8,
+      "schedule_2026": [
+        {
+          "date": "Aug. 28, 2026",
+          "opponent": "Gibraltar Carlson",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 45,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "opponent": "Trenton",
+          "result": "W",
+          "team_score": 35,
+          "opp_score": 21,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "opponent": "Taylor",
+          "result": "L",
+          "team_score": 10,
+          "opp_score": 26,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "opponent": "Southgate Anderson",
+          "result": "L",
+          "team_score": 19,
+          "opp_score": 22,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "opponent": "Woodhaven",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 34,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "opponent": "Lincoln Park",
+          "result": "W",
+          "team_score": 64,
+          "opp_score": 60,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "opponent": "Allen Park",
+          "result": "L",
+          "team_score": 20,
+          "opp_score": 35,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "opponent": "Cedar Springs",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 50,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "opponent": "Dearborn Edsel Ford",
+          "result": "L",
+          "team_score": 26,
+          "opp_score": 29,
           "is_playoff": false
         }
       ]
@@ -32976,6 +32976,96 @@
     },
     {
       "rank": 331,
+      "division_rank": 56,
+      "team": "Utica Ford",
+      "division": "D1",
+      "conference": "Macomb Area Conference - Blue",
+      "wins": 3,
+      "losses": 6,
+      "record": "3-6",
+      "power_index": 42.6,
+      "raw_rating": -7.44,
+      "sos_index": 40.9,
+      "sos_raw": -9.07,
+      "ppg_scored": 20.6,
+      "ppg_allowed": 23.0,
+      "schedule_2026": [
+        {
+          "date": "Aug. 28, 2026",
+          "opponent": "Plymouth Salem",
+          "result": "L",
+          "team_score": 21,
+          "opp_score": 27,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "opponent": "Sterling Heights",
+          "result": "W",
+          "team_score": 59,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "opponent": "Macomb L'Anse Creuse North",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 33,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "opponent": "Port Huron",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 56,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "opponent": "Fraser",
+          "result": "W",
+          "team_score": 29,
+          "opp_score": 23,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "opponent": "Warren Cousino",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 10,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "opponent": "Mt. Clemens L'Anse Creuse",
+          "result": "L",
+          "team_score": 12,
+          "opp_score": 19,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "opponent": "St. Clair Shores Lake Shore",
+          "result": "W",
+          "team_score": 22,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "opponent": "Warren Warren-Mott",
+          "result": "L",
+          "team_score": 22,
+          "opp_score": 39,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "rank": 332,
       "division_rank": 35,
       "team": "New Haven",
       "division": "D6",
@@ -33069,96 +33159,6 @@
           "team_score": 40,
           "opp_score": 86,
           "is_playoff": true
-        }
-      ]
-    },
-    {
-      "rank": 332,
-      "division_rank": 56,
-      "team": "Utica Ford",
-      "division": "D1",
-      "conference": "Macomb Area Conference - Blue",
-      "wins": 3,
-      "losses": 6,
-      "record": "3-6",
-      "power_index": 42.6,
-      "raw_rating": -7.44,
-      "sos_index": 40.9,
-      "sos_raw": -9.07,
-      "ppg_scored": 20.6,
-      "ppg_allowed": 23.0,
-      "schedule_2026": [
-        {
-          "date": "Aug. 28, 2026",
-          "opponent": "Plymouth Salem",
-          "result": "L",
-          "team_score": 21,
-          "opp_score": 27,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "opponent": "Sterling Heights",
-          "result": "W",
-          "team_score": 59,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "opponent": "Macomb L'Anse Creuse North",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 33,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "opponent": "Port Huron",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 56,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "opponent": "Fraser",
-          "result": "W",
-          "team_score": 29,
-          "opp_score": 23,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "opponent": "Warren Cousino",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 10,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "opponent": "Mt. Clemens L'Anse Creuse",
-          "result": "L",
-          "team_score": 12,
-          "opp_score": 19,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "opponent": "St. Clair Shores Lake Shore",
-          "result": "W",
-          "team_score": 22,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "opponent": "Warren Warren-Mott",
-          "result": "L",
-          "team_score": 22,
-          "opp_score": 39,
-          "is_playoff": false
         }
       ]
     },
@@ -34260,96 +34260,6 @@
     },
     {
       "rank": 345,
-      "division_rank": 44,
-      "team": "Yale",
-      "division": "D5",
-      "conference": "Blue Water Area Conference",
-      "wins": 1,
-      "losses": 8,
-      "record": "1-8",
-      "power_index": 40.9,
-      "raw_rating": -9.06,
-      "sos_index": 54.8,
-      "sos_raw": 4.82,
-      "ppg_scored": 16.3,
-      "ppg_allowed": 31.7,
-      "schedule_2026": [
-        {
-          "date": "Aug. 28, 2026",
-          "opponent": "Swartz Creek",
-          "result": "L",
-          "team_score": 45,
-          "opp_score": 48,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "opponent": "North Branch",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 34,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "opponent": "Macomb Lutheran North",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 40,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "opponent": "Almont",
-          "result": "L",
-          "team_score": 20,
-          "opp_score": 35,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "opponent": "Richmond",
-          "result": "W",
-          "team_score": 12,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "opponent": "Croswell-Lexington",
-          "result": "L",
-          "team_score": 21,
-          "opp_score": 23,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "opponent": "Imlay City",
-          "result": "L",
-          "team_score": 9,
-          "opp_score": 22,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "opponent": "Armada",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 42,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "opponent": "Holly",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 34,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
-      "rank": 346,
       "division_rank": 32,
       "team": "Leslie",
       "division": "D7",
@@ -34443,6 +34353,96 @@
           "team_score": 26,
           "opp_score": 54,
           "is_playoff": true
+        }
+      ]
+    },
+    {
+      "rank": 346,
+      "division_rank": 44,
+      "team": "Yale",
+      "division": "D5",
+      "conference": "Blue Water Area Conference",
+      "wins": 1,
+      "losses": 8,
+      "record": "1-8",
+      "power_index": 40.9,
+      "raw_rating": -9.06,
+      "sos_index": 54.8,
+      "sos_raw": 4.82,
+      "ppg_scored": 16.3,
+      "ppg_allowed": 31.7,
+      "schedule_2026": [
+        {
+          "date": "Aug. 28, 2026",
+          "opponent": "Swartz Creek",
+          "result": "L",
+          "team_score": 45,
+          "opp_score": 48,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "opponent": "North Branch",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 34,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "opponent": "Macomb Lutheran North",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 40,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "opponent": "Almont",
+          "result": "L",
+          "team_score": 20,
+          "opp_score": 35,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "opponent": "Richmond",
+          "result": "W",
+          "team_score": 12,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "opponent": "Croswell-Lexington",
+          "result": "L",
+          "team_score": 21,
+          "opp_score": 23,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "opponent": "Imlay City",
+          "result": "L",
+          "team_score": 9,
+          "opp_score": 22,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "opponent": "Armada",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 42,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "opponent": "Holly",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 34,
+          "is_playoff": false
         }
       ]
     },
@@ -34832,96 +34832,6 @@
     },
     {
       "rank": 351,
-      "division_rank": 46,
-      "team": "Croswell-Lexington",
-      "division": "D5",
-      "conference": "Blue Water Area Conference",
-      "wins": 2,
-      "losses": 7,
-      "record": "2-7",
-      "power_index": 40.5,
-      "raw_rating": -9.46,
-      "sos_index": 55.5,
-      "sos_raw": 5.49,
-      "ppg_scored": 12.2,
-      "ppg_allowed": 28.6,
-      "schedule_2026": [
-        {
-          "date": "Aug. 28, 2026",
-          "opponent": "Petoskey",
-          "result": "L",
-          "team_score": 8,
-          "opp_score": 35,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "opponent": "Macomb Lutheran North",
-          "result": "L",
-          "team_score": 20,
-          "opp_score": 27,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "opponent": "Imlay City",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 22,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "opponent": "Richmond",
-          "result": "W",
-          "team_score": 20,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "opponent": "Armada",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 14,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "opponent": "Yale",
-          "result": "W",
-          "team_score": 23,
-          "opp_score": 21,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "opponent": "North Branch",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 45,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "opponent": "Almont",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 41,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "opponent": "Gaylord",
-          "result": "L",
-          "team_score": 20,
-          "opp_score": 38,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
-      "rank": 352,
       "division_rank": 57,
       "team": "Novi",
       "division": "D1",
@@ -35006,6 +34916,96 @@
           "result": "W",
           "team_score": 7,
           "opp_score": 6,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "rank": 352,
+      "division_rank": 46,
+      "team": "Croswell-Lexington",
+      "division": "D5",
+      "conference": "Blue Water Area Conference",
+      "wins": 2,
+      "losses": 7,
+      "record": "2-7",
+      "power_index": 40.5,
+      "raw_rating": -9.46,
+      "sos_index": 55.5,
+      "sos_raw": 5.49,
+      "ppg_scored": 12.2,
+      "ppg_allowed": 28.6,
+      "schedule_2026": [
+        {
+          "date": "Aug. 28, 2026",
+          "opponent": "Petoskey",
+          "result": "L",
+          "team_score": 8,
+          "opp_score": 35,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "opponent": "Macomb Lutheran North",
+          "result": "L",
+          "team_score": 20,
+          "opp_score": 27,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "opponent": "Imlay City",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 22,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "opponent": "Richmond",
+          "result": "W",
+          "team_score": 20,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "opponent": "Armada",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 14,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "opponent": "Yale",
+          "result": "W",
+          "team_score": 23,
+          "opp_score": 21,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "opponent": "North Branch",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 45,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "opponent": "Almont",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 41,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "opponent": "Gaylord",
+          "result": "L",
+          "team_score": 20,
+          "opp_score": 38,
           "is_playoff": false
         }
       ]
@@ -37400,96 +37400,6 @@
     },
     {
       "rank": 379,
-      "division_rank": 37,
-      "team": "Centreville",
-      "division": "D7",
-      "conference": "Southwestern Athletic Conference - B",
-      "wins": 2,
-      "losses": 7,
-      "record": "2-7",
-      "power_index": 35.9,
-      "raw_rating": -14.11,
-      "sos_index": 42.3,
-      "sos_raw": -7.71,
-      "ppg_scored": 11.7,
-      "ppg_allowed": 18.7,
-      "schedule_2026": [
-        {
-          "date": "Aug. 28, 2026",
-          "opponent": "Comstock",
-          "result": "W",
-          "team_score": 21,
-          "opp_score": 8,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "opponent": "Decatur",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 20,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "opponent": "Cassopolis",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 56,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "opponent": "Harrison",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 24,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "opponent": "Galesburg-Augusta",
-          "result": "L",
-          "team_score": 8,
-          "opp_score": 12,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "opponent": "Gobles",
-          "result": "W",
-          "team_score": 32,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "opponent": "Saugatuck",
-          "result": "L",
-          "team_score": 8,
-          "opp_score": 15,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "opponent": "Union City",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 20,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "opponent": "Hartford",
-          "result": "L",
-          "team_score": 8,
-          "opp_score": 13,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
-      "rank": 380,
       "division_rank": 30,
       "team": "Southfield Bradford",
       "division": "D8",
@@ -37591,6 +37501,96 @@
           "team_score": 0,
           "opp_score": 32,
           "is_playoff": true
+        }
+      ]
+    },
+    {
+      "rank": 380,
+      "division_rank": 37,
+      "team": "Centreville",
+      "division": "D7",
+      "conference": "Southwestern Athletic Conference - B",
+      "wins": 2,
+      "losses": 7,
+      "record": "2-7",
+      "power_index": 35.9,
+      "raw_rating": -14.11,
+      "sos_index": 42.3,
+      "sos_raw": -7.71,
+      "ppg_scored": 11.7,
+      "ppg_allowed": 18.7,
+      "schedule_2026": [
+        {
+          "date": "Aug. 28, 2026",
+          "opponent": "Comstock",
+          "result": "W",
+          "team_score": 21,
+          "opp_score": 8,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "opponent": "Decatur",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 20,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "opponent": "Cassopolis",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 56,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "opponent": "Harrison",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 24,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "opponent": "Galesburg-Augusta",
+          "result": "L",
+          "team_score": 8,
+          "opp_score": 12,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "opponent": "Gobles",
+          "result": "W",
+          "team_score": 32,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "opponent": "Saugatuck",
+          "result": "L",
+          "team_score": 8,
+          "opp_score": 15,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "opponent": "Union City",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 20,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "opponent": "Hartford",
+          "result": "L",
+          "team_score": 8,
+          "opp_score": 13,
+          "is_playoff": false
         }
       ]
     },
@@ -38136,96 +38136,6 @@
     },
     {
       "rank": 387,
-      "division_rank": 38,
-      "team": "Coloma",
-      "division": "D7",
-      "conference": "Southwestern Athletic Conference - A",
-      "wins": 3,
-      "losses": 6,
-      "record": "3-6",
-      "power_index": 34.7,
-      "raw_rating": -15.34,
-      "sos_index": 42.9,
-      "sos_raw": -7.09,
-      "ppg_scored": 17.1,
-      "ppg_allowed": 27.2,
-      "schedule_2026": [
-        {
-          "date": "Aug. 28, 2026",
-          "opponent": "Allegan",
-          "result": "W",
-          "team_score": 44,
-          "opp_score": 17,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "opponent": "Lawton",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 18,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "opponent": "Delton",
-          "result": "W",
-          "team_score": 16,
-          "opp_score": 9,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "opponent": "South Haven",
-          "result": "L",
-          "team_score": 6,
-          "opp_score": 27,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "opponent": "Schoolcraft",
-          "result": "L",
-          "team_score": 13,
-          "opp_score": 29,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "opponent": "Parchment",
-          "result": "L",
-          "team_score": 29,
-          "opp_score": 35,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "opponent": "Kalamazoo Hackett",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 28,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "opponent": "Watervliet",
-          "result": "W",
-          "team_score": 39,
-          "opp_score": 26,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "opponent": "Constantine",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 56,
-          "is_playoff": false
-        }
-      ]
-    },
-    {
-      "rank": 388,
       "division_rank": 51,
       "team": "Warren Lincoln",
       "division": "D5",
@@ -38310,6 +38220,96 @@
           "result": "L",
           "team_score": 8,
           "opp_score": 59,
+          "is_playoff": false
+        }
+      ]
+    },
+    {
+      "rank": 388,
+      "division_rank": 38,
+      "team": "Coloma",
+      "division": "D7",
+      "conference": "Southwestern Athletic Conference - A",
+      "wins": 3,
+      "losses": 6,
+      "record": "3-6",
+      "power_index": 34.7,
+      "raw_rating": -15.34,
+      "sos_index": 42.9,
+      "sos_raw": -7.09,
+      "ppg_scored": 17.1,
+      "ppg_allowed": 27.2,
+      "schedule_2026": [
+        {
+          "date": "Aug. 28, 2026",
+          "opponent": "Allegan",
+          "result": "W",
+          "team_score": 44,
+          "opp_score": 17,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "opponent": "Lawton",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 18,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "opponent": "Delton",
+          "result": "W",
+          "team_score": 16,
+          "opp_score": 9,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "opponent": "South Haven",
+          "result": "L",
+          "team_score": 6,
+          "opp_score": 27,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "opponent": "Schoolcraft",
+          "result": "L",
+          "team_score": 13,
+          "opp_score": 29,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "opponent": "Parchment",
+          "result": "L",
+          "team_score": 29,
+          "opp_score": 35,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "opponent": "Kalamazoo Hackett",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 28,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "opponent": "Watervliet",
+          "result": "W",
+          "team_score": 39,
+          "opp_score": 26,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "opponent": "Constantine",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 56,
           "is_playoff": false
         }
       ]
@@ -48047,7 +48047,7 @@
   ],
   "upcoming_playoff_slate": [
     {
-      "id": "MI-2026-2026-11-13-26",
+      "id": "MI-2026-2026-11-13-27",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D1",
@@ -48119,7 +48119,7 @@
       "final_score": null
     },
     {
-      "id": "MI-2026-2026-11-13-15",
+      "id": "MI-2026-2026-11-13-14",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D6",
@@ -48155,7 +48155,7 @@
       "final_score": null
     },
     {
-      "id": "MI-2026-2026-11-13-24",
+      "id": "MI-2026-2026-11-13-23",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D7",
@@ -48191,7 +48191,7 @@
       "final_score": null
     },
     {
-      "id": "MI-2026-2026-11-13-18",
+      "id": "MI-2026-2026-11-13-17",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D8",
@@ -48227,7 +48227,7 @@
       "final_score": null
     },
     {
-      "id": "MI-2026-2026-11-13-13",
+      "id": "MI-2026-2026-11-13-9",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D8",
@@ -48299,7 +48299,7 @@
       "final_score": null
     },
     {
-      "id": "MI-2026-2026-11-13-7",
+      "id": "MI-2026-2026-11-13-4",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D1",
@@ -48335,7 +48335,7 @@
       "final_score": "Clarkston 12, Novi Detroit Catholic Central 7"
     },
     {
-      "id": "MI-2026-2026-11-13-20",
+      "id": "MI-2026-2026-11-13-22",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D1",
@@ -48371,7 +48371,7 @@
       "final_score": "Romeo 20, Rochester Hills Stoney Creek 16"
     },
     {
-      "id": "MI-2026-2026-11-13-12",
+      "id": "MI-2026-2026-11-13-16",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D1",
@@ -48407,7 +48407,7 @@
       "final_score": "Northville 40, Detroit Cass Tech 20"
     },
     {
-      "id": "MI-2026-2026-11-13-10",
+      "id": "MI-2026-2026-11-13-12",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D3",
@@ -48443,7 +48443,7 @@
       "final_score": "Mason 42, Chelsea 13"
     },
     {
-      "id": "MI-2026-2026-11-13-22",
+      "id": "MI-2026-2026-11-13-20",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D2",
@@ -48515,7 +48515,7 @@
       "final_score": "DeWitt 24, Mt. Pleasant 21"
     },
     {
-      "id": "MI-2026-2026-11-13-27",
+      "id": "MI-2026-2026-11-13-25",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D2",
@@ -48587,7 +48587,7 @@
       "final_score": "Birmingham Brother Rice 30, Orchard Lake St. Mary's 14"
     },
     {
-      "id": "MI-2026-2026-11-13-2",
+      "id": "MI-2026-2026-11-13-1",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D4",
@@ -48623,7 +48623,7 @@
       "final_score": "Goodrich 34, Dearborn Divine Child 14"
     },
     {
-      "id": "MI-2026-2026-11-13-23",
+      "id": "MI-2026-2026-11-13-24",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D3",
@@ -48659,7 +48659,7 @@
       "final_score": "Zeeland West 24, Middleville 21"
     },
     {
-      "id": "MI-2026-2026-11-13-8",
+      "id": "MI-2026-2026-11-13-5",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D3",
@@ -48695,7 +48695,7 @@
       "final_score": "Warren De La Salle 38, Harper Woods 34"
     },
     {
-      "id": "MI-2026-2026-11-13-6",
+      "id": "MI-2026-2026-11-13-10",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D4",
@@ -48731,7 +48731,7 @@
       "final_score": "Portland 35, Grand Rapids South Christian 13"
     },
     {
-      "id": "MI-2026-2026-11-13-16",
+      "id": "MI-2026-2026-11-13-15",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D7",
@@ -48767,7 +48767,7 @@
       "final_score": "Pewamo-Westphalia 41, Ithaca 10"
     },
     {
-      "id": "MI-2026-2026-11-13-25",
+      "id": "MI-2026-2026-11-13-26",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D4",
@@ -48875,7 +48875,7 @@
       "final_score": "Kingsley 28, Sanford Meridian 21"
     },
     {
-      "id": "MI-2026-2026-11-13-3",
+      "id": "MI-2026-2026-11-13-2",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D4",
@@ -48911,7 +48911,7 @@
       "final_score": "Macomb Lutheran North 14, Birmingham Detroit Country Day 13"
     },
     {
-      "id": "MI-2026-2026-11-13-17",
+      "id": "MI-2026-2026-11-13-18",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D5",
@@ -48947,7 +48947,7 @@
       "final_score": "West Branch Ogemaw Heights 30, Negaunee 15"
     },
     {
-      "id": "MI-2026-2026-11-13-1",
+      "id": "MI-2026-2026-11-13-11",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D8",
@@ -48983,7 +48983,7 @@
       "final_score": "Springport 61, Hudson 12"
     },
     {
-      "id": "MI-2026-2026-11-13-14",
+      "id": "MI-2026-2026-11-13-13",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D5",
@@ -49019,7 +49019,7 @@
       "final_score": "Monroe Jefferson 20, Romulus Summit 15"
     },
     {
-      "id": "MI-2026-2026-11-13-5",
+      "id": "MI-2026-2026-11-13-6",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D6",
@@ -49055,7 +49055,7 @@
       "final_score": "Almont 48, Marine City 41"
     },
     {
-      "id": "MI-2026-2026-11-13-4",
+      "id": "MI-2026-2026-11-13-3",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D6",
@@ -49091,7 +49091,7 @@
       "final_score": "Belding 56, Jackson Lumen Christi 21"
     },
     {
-      "id": "MI-2026-2026-11-13-9",
+      "id": "MI-2026-2026-11-13-8",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D8",
@@ -49127,7 +49127,7 @@
       "final_score": "Ubly 39, New Lothrop 21"
     },
     {
-      "id": "MI-2026-2026-11-13-11",
+      "id": "MI-2026-2026-11-13-7",
       "state": "MI",
       "governing_body": "MHSAA",
       "division": "D7",

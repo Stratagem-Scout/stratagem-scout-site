@@ -60,12 +60,12 @@ rank,team,conference,record,power_index,raw_rating,sos_index
 59,Lowell,River Cities Alliance,'6-4,71.9,21.87,60.8
 60,West Branch Ogemaw Heights,Jack Pine Conference - I,'10-2,71.6,21.59,51.4
 61,Kingsley,Northern Shores Conference,'12-0,71.1,21.14,48.0
-62,Ecorse,Charter School Conference - Gold,'9-1,71.0,21.02,50.4
-63,Coopersville,River Cities Alliance,'9-2,71.0,21.02,62.5
+62,Coopersville,River Cities Alliance,'9-2,71.0,21.02,62.5
+63,Ecorse,Charter School Conference - Gold,'9-1,71.0,21.02,50.4
 64,Clinton,Lenawee County Athletic Association,'9-2,70.8,20.8,50.9
 65,Birmingham Detroit Country Day,Catholic League - AA,'8-4,70.7,20.7,55.9
-66,Grand Rapids West Catholic,Ottawa - Kent Conference - White,'9-2,70.3,20.26,61.3
-67,Grandville,Ottawa - Kent Conference - Red,'5-6,70.3,20.26,75.4
+66,Grandville,Ottawa - Kent Conference - Red,'5-6,70.3,20.26,75.4
+67,Grand Rapids West Catholic,Ottawa - Kent Conference - White,'9-2,70.3,20.26,61.3
 68,Port Huron,Macomb Area Conference - Blue,'10-1,69.6,19.61,51.2
 69,Rochester,Oakland Activities Association - White,'7-4,69.4,19.4,67.4
 70,St. Johns,Capital Area Activities Conference - Red,'8-3,69.2,19.22,53.9
@@ -140,8 +140,8 @@ rank,team,conference,record,power_index,raw_rating,sos_index
 139,Riverview,Huron League,'6-3,62.0,11.96,52.3
 140,Constantine,Southwestern Athletic Conference - A,'9-2,61.9,11.93,42.7
 141,Battle Creek Harper Creek,Interstate Eight Athletic Conference,'6-4,61.9,11.91,55.5
-142,Livonia Churchill,Lakes Valley Conference,'5-5,61.8,11.8,63.3
-143,Ishpeming,Independent,'8-3,61.8,11.8,51.6
+142,Ishpeming,Independent,'8-3,61.8,11.8,51.6
+143,Livonia Churchill,Lakes Valley Conference,'5-5,61.8,11.8,63.3
 144,Niles,Wolverine B Conference,'4-6,61.6,11.63,61.4
 145,Grand Rapids Christian,Ottawa - Kent Conference - White,'4-6,61.5,11.52,65.0
 146,Napoleon,Cascades Conference - South,'9-2,61.3,11.35,43.3
@@ -183,8 +183,8 @@ rank,team,conference,record,power_index,raw_rating,sos_index
 182,Zeeland East,Ottawa - Kent Conference - Gold,'5-5,57.7,7.66,58.4
 183,Bronson,Big 8 Conference,'7-3,57.6,7.56,42.4
 184,Sterling Heights Stevenson,Macomb Area Conference - Red,'1-8,57.5,7.52,69.4
-185,Detroit Cody,Detroit Public School League - 2,'8-2,57.5,7.51,38.2
-186,Grand Rapids Forest Hills Northern,Ottawa - Kent Conference - Green,'4-5,57.5,7.51,61.6
+185,Grand Rapids Forest Hills Northern,Ottawa - Kent Conference - Green,'4-5,57.5,7.51,61.6
+186,Detroit Cody,Detroit Public School League - 2,'8-2,57.5,7.51,38.2
 187,Fowler,Central Michigan Athletic Conference,'7-4,57.5,7.49,46.7
 188,Imlay City,Blue Water Area Conference,'8-3,57.5,7.45,53.3
 189,Decatur,Southwestern Athletic Conference - B,'10-1,57.4,7.43,40.0
@@ -199,8 +199,8 @@ rank,team,conference,record,power_index,raw_rating,sos_index
 198,Manchester,Cascades Conference - North,'7-3,56.6,6.61,38.5
 199,Bay City Glenn,Tri - Valley Conference - Red,'4-5,56.3,6.33,51.0
 200,Traverse City St. Francis,Independent,'7-4,56.3,6.25,55.4
-201,Byron,Independent,'5-4,56.2,6.22,53.4
-202,Grosse Pointe North,Macomb Area Conference - Gold,'6-4,56.2,6.22,49.3
+201,Grosse Pointe North,Macomb Area Conference - Gold,'6-4,56.2,6.22,49.3
+202,Byron,Independent,'5-4,56.2,6.22,53.4
 203,Bloomfield Hills Cranbrook-Kingswood,Catholic League - Intersectional 1,'5-4,56.1,6.07,46.3
 204,Ann Arbor Pioneer,Southeastern Conference - Red,'3-6,56.0,6.05,56.6
 205,Grand Rapids Forest Hills Central,Ottawa - Kent Conference - Gold,'3-6,56.0,6.03,62.6
@@ -253,8 +253,8 @@ rank,team,conference,record,power_index,raw_rating,sos_index
 252,Livonia Stevenson,Lakes Valley Conference,'2-7,51.7,1.7,60.6
 253,Union City,Big 8 Conference,'8-3,51.7,1.69,39.5
 254,Iron Mountain,Western Peninsula Athletic Conference - Iron,'7-3,51.5,1.48,40.7
-255,Wyandotte,Downriver League,'2-7,51.3,1.3,60.9
-256,Sparta,River Cities Alliance,'4-5,51.3,1.3,58.2
+255,Sparta,River Cities Alliance,'4-5,51.3,1.3,58.2
+256,Wyandotte,Downriver League,'2-7,51.3,1.3,60.9
 257,East Jordan,Northern Michigan Football League,'8-3,51.3,1.26,40.6
 258,Harbor Springs,Northern Michigan Football League,'8-2,51.1,1.12,36.6
 259,Harrison,Jack Pine Conference - II,'8-3,51.0,1.03,37.7
@@ -329,8 +329,8 @@ rank,team,conference,record,power_index,raw_rating,sos_index
 328,Birch Run,Mid - Michigan Activities Conference,'4-5,43.0,-7.01,45.8
 329,Grant,Central State Activities Association - Gold,'3-6,42.7,-7.28,45.9
 330,Montague,West Michigan Conference - Lakes,'2-7,42.6,-7.37,52.5
-331,New Haven,Macomb Area Conference - Bronze,'6-4,42.6,-7.44,35.2
-332,Utica Ford,Macomb Area Conference - Blue,'3-6,42.6,-7.44,40.9
+331,Utica Ford,Macomb Area Conference - Blue,'3-6,42.6,-7.44,40.9
+332,New Haven,Macomb Area Conference - Bronze,'6-4,42.6,-7.44,35.2
 333,Boyne City,Northern Shores Conference,'4-5,42.5,-7.49,45.8
 334,Dowagiac,Lakeland Athletic Conference,'3-6,42.4,-7.58,46.3
 335,Mt. Pleasant Sacred Heart,Independent,'6-4,42.2,-7.76,41.8
@@ -343,14 +343,14 @@ rank,team,conference,record,power_index,raw_rating,sos_index
 342,Wayne Memorial,Kensington Lakes Activities Association - Gold,'0-9,41.9,-8.12,62.7
 343,Garden City,Western Wayne Athletic Conference,'4-5,41.4,-8.55,45.5
 344,Sandusky,Big Thumb Conference - White,'3-6,41.2,-8.75,43.5
-345,Yale,Blue Water Area Conference,'1-8,40.9,-9.06,54.8
-346,Leslie,Cascades Conference - North,'4-6,40.9,-9.06,46.9
+345,Leslie,Cascades Conference - North,'4-6,40.9,-9.06,46.9
+346,Yale,Blue Water Area Conference,'1-8,40.9,-9.06,54.8
 347,Galesburg-Augusta,Southwestern Athletic Conference - B,'7-3,40.9,-9.11,34.9
 348,Essexville Garber,Tri - Valley Conference - Red,'3-6,40.9,-9.15,47.1
 349,Dearborn Heights Robichaud,Western Wayne Athletic Conference,'5-5,40.8,-9.18,36.8
 350,Vestaburg,Independent,'6-4,40.7,-9.25,31.8
-351,Croswell-Lexington,Blue Water Area Conference,'2-7,40.5,-9.46,55.5
-352,Novi,Kensington Lakes Activities Association - Black,'1-8,40.5,-9.46,65.5
+351,Novi,Kensington Lakes Activities Association - Black,'1-8,40.5,-9.46,65.5
+352,Croswell-Lexington,Blue Water Area Conference,'2-7,40.5,-9.46,55.5
 353,Bay City Central,Saginaw Valley League - North,'2-7,40.2,-9.78,58.4
 354,Southfield,Oakland Activities Association - Blue,'1-8,40.1,-9.88,61.7
 355,Saugatuck,Southwestern Athletic Conference - B,'6-4,39.8,-10.19,38.5
@@ -377,16 +377,16 @@ rank,team,conference,record,power_index,raw_rating,sos_index
 376,Lansing Eastern,Capital Area Activities Conference - Red,'1-8,36.6,-13.36,53.4
 377,Greenville,River Cities Alliance,'2-7,36.4,-13.6,62.9
 378,Detroit Communications/Media Arts,Detroit Public School League - 2,'5-5,36.3,-13.66,40.9
-379,Centreville,Southwestern Athletic Conference - B,'2-7,35.9,-14.11,42.3
-380,Southfield Bradford,Charter School Conference - Silver,'7-4,35.9,-14.11,30.8
+379,Southfield Bradford,Charter School Conference - Silver,'7-4,35.9,-14.11,30.8
+380,Centreville,Southwestern Athletic Conference - B,'2-7,35.9,-14.11,42.3
 381,Ionia,Capital Area Activities Conference - White,'0-9,35.9,-14.15,58.6
 382,Gladstone,Western Peninsula Athletic Conference - Copper,'1-8,35.8,-14.16,51.5
 383,Detroit Renaissance,Detroit Public School League - 1,'2-7,35.8,-14.17,54.3
 384,Lansing Everett,Capital Area Activities Conference - Blue,'0-9,35.3,-14.69,63.4
 385,Warren Cousino,Macomb Area Conference - Blue,'2-7,35.2,-14.84,51.1
 386,Detroit Henry Ford,Detroit Public School League - 1,'3-6,35.1,-14.93,44.4
-387,Coloma,Southwestern Athletic Conference - A,'3-6,34.7,-15.34,42.9
-388,Warren Lincoln,Macomb Area Conference - Bronze,'2-7,34.7,-15.34,45.2
+387,Warren Lincoln,Macomb Area Conference - Bronze,'2-7,34.7,-15.34,45.2
+388,Coloma,Southwestern Athletic Conference - A,'3-6,34.7,-15.34,42.9
 389,Reading,Big 8 Conference,'4-5,34.6,-15.45,35.6
 390,Hemlock,Tri - Valley Conference - Blue,'3-6,34.5,-15.45,38.9
 391,Ypsilanti Lincoln,Southeastern Conference - White,'0-9,34.5,-15.46,58.7

@@ -3043,25 +3043,6 @@
       "Late-Season Margin Compression: Net differential dipped -17.7 PPG over the last 3 weeks."
     ]
   },
-  "madison-grant": {
-    "team": "Madison-Grant",
-    "state": "IN",
-    "division": "1A",
-    "region": 1,
-    "record": "7-3",
-    "games_played": 10,
-    "avg_points_scored": 29.7,
-    "avg_points_allowed": 16.5,
-    "season_net_margin": 13.2,
-    "last_3_game_margin": 5.0,
-    "momentum_trend": -8.2,
-    "close_game_record": "1-1",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Late-Season Margin Compression: Net differential dipped -8.2 PPG over the last 3 weeks."
-    ]
-  },
   "rensselaer central": {
     "team": "Rensselaer Central",
     "state": "IN",
@@ -3080,6 +3061,25 @@
     "keys_to_victory": [
       "Explosive Separation Profile: Rensselaer Central has triggered the 35-point IHSAA running clock 3 times.",
       "Late-Season Margin Compression: Net differential dipped -8.7 PPG over the last 3 weeks."
+    ]
+  },
+  "madison-grant": {
+    "team": "Madison-Grant",
+    "state": "IN",
+    "division": "1A",
+    "region": 1,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 29.7,
+    "avg_points_allowed": 16.5,
+    "season_net_margin": 13.2,
+    "last_3_game_margin": 5.0,
+    "momentum_trend": -8.2,
+    "close_game_record": "1-1",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -8.2 PPG over the last 3 weeks."
     ]
   },
   "south bend riley": {
@@ -5220,25 +5220,6 @@
       "Peaking in Tournament Play: Net margin surged +11.5 PPG over the last 3 games (-9.0 PPG)."
     ]
   },
-  "hammond central": {
-    "team": "Hammond Central",
-    "state": "IN",
-    "division": "5A",
-    "region": 1,
-    "record": "1-8",
-    "games_played": 9,
-    "avg_points_scored": 13.6,
-    "avg_points_allowed": 40.8,
-    "season_net_margin": -27.2,
-    "last_3_game_margin": -33.0,
-    "momentum_trend": -5.8,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
-    ]
-  },
   "north vermillion": {
     "team": "North Vermillion",
     "state": "IN",
@@ -5256,6 +5237,25 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Late-Season Margin Compression: Net differential dipped -11.9 PPG over the last 3 weeks."
+    ]
+  },
+  "hammond central": {
+    "team": "Hammond Central",
+    "state": "IN",
+    "division": "5A",
+    "region": 1,
+    "record": "1-8",
+    "games_played": 9,
+    "avg_points_scored": 13.6,
+    "avg_points_allowed": 40.8,
+    "season_net_margin": -27.2,
+    "last_3_game_margin": -33.0,
+    "momentum_trend": -5.8,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
   "frontier": {
