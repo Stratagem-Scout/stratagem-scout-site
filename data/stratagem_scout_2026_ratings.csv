@@ -1,496 +1,498 @@
-rank,team,division,division_rank,conference,record,wins,losses,power_index,raw_rating,sos_index,sos_raw,ppg_off,ppg_def
-1,Novi Detroit Catholic Central,D1,1,Catholic League - Central,'10-1,10,1,103.2,53.20,77.9,27.9,42.2,11.5
-2,East Kentwood,D1,2,Ottawa - Kent Conference - Red,'11-0,11,0,102.1,52.13,72.4,22.36,48.1,18.4
-3,Romeo,D1,3,Macomb Area Conference - Red,'11-0,11,0,100.0,49.98,69.6,19.6,44.0,14.8
-4,Clarkston,D1,4,Oakland Activities Association - Red,'10-1,10,1,99.5,49.51,77.8,27.85,36.5,14.1
-5,DeWitt,D3,1,Capital Area Activities Conference - Blue,'9-2,9,2,96.7,46.65,66.0,15.98,47.5,16.2
-6,Harper Woods,D3,2,Oakland Activities Association - Blue,'9-2,9,2,96.2,46.17,70.6,20.58,39.5,11.8
-7,Grosse Pointe South,D2,1,Macomb Area Conference - Red,'10-1,10,1,95.2,45.22,62.0,12.0,42.0,10.2
-8,Saline,D1,5,Southeastern Conference - Red,'10-1,10,1,95.1,45.10,63.6,13.58,43.7,10.6
-9,Detroit Cass Tech,D1,6,Detroit Public School League - 1,'11-0,11,0,95.0,44.98,61.0,11.01,44.9,7.5
-10,Oxford,D1,7,Oakland Activities Association - Red,'8-3,8,3,92.7,42.72,79.5,29.51,35.0,20.9
-11,Chelsea,D3,3,Southeastern Conference - White,'11-0,11,0,92.1,42.12,58.7,8.72,51.8,18.1
-12,Rochester Hills Stoney Creek,D1,8,Oakland Activities Association - White,'9-2,9,2,92.0,42.00,66.4,16.39,35.8,10.8
-13,South Lyon,D2,2,Lakes Valley Conference,'9-2,9,2,91.8,41.77,67.5,17.45,43.5,18.6
-14,Grand Blanc,D1,9,Saginaw Valley League - South,'10-1,10,1,91.0,41.05,68.7,18.73,37.5,15.1
-15,Orchard Lake St. Mary's,D2,3,Catholic League - Central,'8-3,8,3,90.3,40.34,72.5,22.52,40.4,17.5
-16,Howell,D1,10,Kensington Lakes Activities Association - Gold,'9-1,9,1,88.9,38.91,68.7,18.72,39.8,20.6
-17,Grand Rapids Kenowa Hills,D4,1,River Cities Alliance,'10-1,10,1,88.8,38.79,61.4,11.41,45.8,14.6
-18,Goodrich,D4,2,Flint Metro League - Stars,'11-0,11,0,88.0,37.95,54.9,4.92,41.9,8.5
-19,Byron Center,D2,4,Ottawa - Kent Conference - Green,'9-2,9,2,86.4,36.41,70.0,19.96,45.3,26.1
-20,Grand Ledge,D1,11,Capital Area Activities Conference - Blue,'10-1,10,1,86.0,36.05,64.0,14.03,39.4,18.2
-21,Mason,D3,4,Capital Area Activities Conference - Red,'10-1,10,1,86.0,36.05,63.9,13.91,38.1,14.9
-22,Muskegon Mona Shores,D2,5,Ottawa - Kent Conference - Green,'10-1,10,1,85.6,35.57,67.2,17.18,41.1,19.6
-23,Rockford,D1,12,Ottawa - Kent Conference - Red,'5-5,5,5,85.3,35.33,76.7,26.71,30.1,20.2
-24,Zeeland West,D3,5,Ottawa - Kent Conference - Gold,'9-2,9,2,85.1,35.10,60.6,10.59,42.2,15.9
-25,Hartland,D1,13,Kensington Lakes Activities Association - Gold,'7-3,7,3,84.7,34.74,68.2,18.17,37.6,19.9
-26,Portage Central,D1,14,Southwestern Michigan Athletic Conf. - A,'10-1,10,1,84.4,34.38,60.4,10.35,38.3,14.3
-27,Ithaca,D7,1,Tri - Valley Conference - Blue,'10-1,10,1,84.0,34.02,48.7,-1.3,47.6,6.5
-28,Northville,D1,15,Kensington Lakes Activities Association - Black,'9-2,9,2,83.8,33.79,71.0,20.96,31.5,17.8
-29,Milford,D2,6,Lakes Valley Conference,'10-1,10,1,83.3,33.31,63.3,13.35,36.9,15.6
-30,Davison,D1,16,Saginaw Valley League - South,'7-3,7,3,83.2,33.19,67.8,17.76,39.9,22.4
-31,Grand Rapids South Christian,D4,3,Ottawa - Kent Conference - Gold,'10-1,10,1,82.4,32.36,63.1,13.13,42.6,21.0
-32,Hudsonville,D1,17,Ottawa - Kent Conference - Red,'6-4,6,4,82.1,32.12,75.2,25.17,29.2,19.2
-33,Caledonia,D2,7,Ottawa - Kent Conference - Red,'9-2,9,2,80.9,30.90,72.7,22.75,33.8,22.5
-34,Brighton,D1,18,Kensington Lakes Activities Association - Gold,'5-5,5,5,80.7,30.70,70.8,20.84,34.9,23.5
-35,Belleville,D1,19,Kensington Lakes Activities Association - Black,'6-4,6,4,80.4,30.40,70.3,20.34,32.3,21.4
-36,Detroit Martin Luther King,D3,6,Detroit Public School League - 1,'7-4,7,4,80.4,30.40,66.9,16.89,32.1,14.7
-37,St. Joseph,D3,7,Southwestern Michigan Athletic Conf. - B,'8-3,8,3,79.9,29.90,62.5,12.48,38.1,19.4
-38,Walled Lake Western,D2,8,Lakes Valley Conference,'7-3,7,3,79.8,29.80,64.4,14.39,38.4,21.3
-39,Frankenmuth,D5,1,Tri - Valley Conference - Red,'10-1,10,1,79.2,29.20,53.1,3.12,41.9,12.7
-40,Edwardsburg,D4,4,Wolverine B Conference,'10-1,10,1,78.9,28.90,59.5,9.47,40.7,17.8
-41,Dearborn Divine Child,D4,5,Catholic League - AA,'10-1,10,1,78.8,28.80,64.1,14.12,34.6,15.5
-42,Midland Dow,D2,9,Saginaw Valley League - North,'8-3,8,3,77.7,27.70,65.9,15.89,33.6,20.7
-43,Mt. Pleasant,D3,8,Saginaw Valley League - North,'10-1,10,1,77.7,27.70,61.1,11.11,38.0,19.7
-44,Gibraltar Carlson,D2,10,Downriver League,'10-1,10,1,77.5,27.50,58.2,8.23,32.4,12.8
-45,Lake Orion,D1,20,Oakland Activities Association - Red,'4-6,4,6,77.2,27.20,75.8,25.81,27.4,25.2
-46,Macomb Dakota,D1,21,Macomb Area Conference - Red,'5-5,5,5,77.1,27.10,74.5,24.53,25.6,21.7
-47,Birmingham Brother Rice,D2,11,Catholic League - Central,'9-2,9,2,77.1,27.10,70.4,20.45,33.8,23.7
-48,Dearborn Fordson,D1,22,Kensington Lakes Activities Association - Black,'8-3,8,3,76.7,26.70,68.4,18.44,26.1,16.7
-49,Woodhaven,D1,23,Downriver League,'7-3,7,3,76.4,26.40,59.7,9.67,33.1,17.0
-50,South Lyon East,D2,12,Lakes Valley Conference,'8-3,8,3,76.3,26.30,69.0,19.04,27.9,18.9
-51,Menominee,D7,2,Western Peninsula Athletic Conference - Copper,'10-1,10,1,76.3,26.30,54.6,4.64,40.8,12.9
-52,Middleville,D3,9,Ottawa - Kent Conference - Black,'8-3,8,3,75.9,25.90,60.6,10.63,36.7,19.5
-53,Ferndale,D2,13,Oakland Activities Association - Gold,'7-3,7,3,75.9,25.90,54.3,4.26,39.7,15.3
-54,Portland,D4,6,Capital Area Activities Conference - White,'11-0,11,0,75.7,25.70,59.2,9.16,33.5,14.9
-55,Paw Paw,D4,7,Wolverine B Conference,'8-2,8,2,75.7,25.70,57.5,7.51,31.1,11.2
-56,Rochester Adams,D1,24,Oakland Activities Association - Red,'7-4,7,4,75.2,25.20,78.3,28.31,19.8,21.1
-57,Hudson,D8,1,Lenawee County Athletic Association,'10-1,10,1,75.2,25.20,49.1,-0.93,37.4,6.5
-58,Beal City,D8,2,Highland Conference,'11-0,11,0,75.0,25.00,43.7,-6.32,45.1,8.0
-59,Lowell,D3,10,River Cities Alliance,'6-4,6,4,74.9,24.90,62.6,12.63,38.8,23.9
-60,Birmingham Detroit Country Day,D4,8,Catholic League - AA,'8-3,8,3,74.6,24.60,56.4,6.35,29.4,8.7
-61,Pewamo-Westphalia,D7,3,Central Michigan Athletic Conference,'10-0,10,0,74.5,24.50,47.1,-2.91,42.6,10.9
-62,West Branch Ogemaw Heights,D5,2,Jack Pine Conference - I,'9-2,9,2,74.1,24.10,50.4,0.45,38.2,11.3
-63,Clinton,D6,1,Lenawee County Athletic Association,'9-2,9,2,74.0,24.00,51.9,1.92,43.3,16.5
-64,Coopersville,D3,11,River Cities Alliance,'9-2,9,2,73.9,23.90,64.5,14.49,31.6,19.8
-65,Kingsley,D6,2,Northern Shores Conference,'11-0,11,0,73.8,23.80,45.7,-4.32,43.7,13.0
-66,Ecorse,D6,3,Charter School Conference - Gold,'9-1,9,1,73.6,23.60,50.6,0.55,36.6,9.9
-67,Grandville,D1,25,Ottawa - Kent Conference - Red,'5-6,5,6,72.8,22.80,78.7,28.67,30.8,34.9
-68,Grand Rapids West Catholic,D5,3,Ottawa - Kent Conference - White,'9-2,9,2,72.8,22.80,62.9,12.89,37.5,23.9
-69,Jackson Lumen Christi,D6,4,Catholic League - AA,'9-2,9,2,72.5,22.50,63.4,13.37,36.7,20.2
-70,Rochester,D1,26,Oakland Activities Association - White,'7-4,7,4,71.8,21.80,69.6,19.58,22.2,18.9
-71,Port Huron,D3,12,Macomb Area Conference - Blue,'10-1,10,1,71.8,21.80,51.1,1.15,35.8,15.0
-72,St. Johns,D4,9,Capital Area Activities Conference - Red,'8-3,8,3,71.2,21.20,54.0,3.99,33.8,16.0
-73,Holland West Ottawa,D1,27,Ottawa - Kent Conference - Red,'2-7,2,7,71.1,21.10,73.9,23.86,30.8,33.2
-74,Sanford Meridian,D6,5,Jack Pine Conference - II,'11-0,11,0,71.0,21.00,46.1,-3.91,39.3,10.7
-75,North Farmington,D2,14,Lakes Valley Conference,'7-4,7,4,70.8,20.80,64.8,14.83,31.1,24.0
-76,Ottawa Lake Whiteford,D7,4,Great Lakes Football Conference,'9-2,9,2,70.7,20.70,54.0,3.95,45.5,18.1
-77,Adrian,D4,10,Southeastern Conference - White,'9-2,9,2,70.6,20.60,54.3,4.26,39.2,22.4
-78,Birmingham Groves,D2,15,Oakland Activities Association - Blue,'5-5,5,5,70.0,20.00,67.6,17.61,23.9,21.1
-79,Linden,D3,13,Flint Metro League - Stripes,'6-4,6,4,70.0,20.00,60.2,10.2,38.4,27.6
-80,Temperance Bedford,D2,16,Southeastern Conference - Red,'8-3,8,3,69.9,19.90,64.6,14.62,25.7,19.2
-81,Muskegon,D2,17,Ottawa - Kent Conference - Green,'4-6,4,6,69.7,19.70,72.3,22.33,25.5,26.4
-82,Fenton,D3,14,Flint Metro League - Stripes,'8-3,8,3,69.4,19.40,63.4,13.41,36.3,28.1
-83,Trenton,D3,15,Downriver League,'5-5,5,5,69.1,19.10,63.5,13.52,32.4,25.3
-84,Livonia Franklin,D2,18,Lakes Valley Conference,'9-2,9,2,69.0,19.00,58.3,8.25,29.8,19.6
-85,Hastings,D4,11,Interstate Eight Athletic Conference,'7-3,7,3,68.9,18.90,59.1,9.11,40.5,29.0
-86,Hudsonville Unity Christian,D4,12,Ottawa - Kent Conference - Gold,'7-4,7,4,68.8,18.80,60.7,10.7,38.6,27.5
-87,Vicksburg,D4,13,Wolverine B Conference,'7-3,7,3,68.7,18.70,57.2,7.17,32.3,19.7
-88,St. Clair,D4,14,Macomb Area Conference - Silver,'8-3,8,3,68.7,18.70,42.7,-7.27,45.2,17.8
-89,Traverse City West,D2,19,Saginaw Valley League - North,'6-4,6,4,68.5,18.50,69.1,19.06,33.4,33.3
-90,Marshall,D4,15,Interstate Eight Athletic Conference,'8-2,8,2,68.5,18.50,55.5,5.45,39.3,25.0
-91,Redford Thurston,D3,16,Western Wayne Athletic Conference,'9-2,9,2,68.5,18.50,48.1,-1.92,32.0,12.6
-92,New Baltimore Anchor Bay,D1,28,Macomb Area Conference - White,'5-5,5,5,68.4,18.40,61.8,11.84,24.1,18.7
-93,Monroe St. Mary Catholic,D7,5,Huron League,'9-2,9,2,68.4,18.40,53.9,3.95,35.3,17.1
-94,Monroe Jefferson,D5,4,Huron League,'10-1,10,1,68.4,18.40,53.5,3.48,36.5,20.2
-95,Hopkins,D5,5,Ottawa - Kent Conference - Silver,'9-2,9,2,68.4,18.40,50.7,0.71,37.5,17.3
-96,East Grand Rapids,D3,17,Ottawa - Kent Conference - Black,'6-4,6,4,68.3,18.30,63.0,12.97,32.9,26.4
-97,Dearborn,D1,29,Kensington Lakes Activities Association - Gold,'5-5,5,5,68.2,18.20,68.3,18.27,26.9,26.7
-98,Saginaw Swan Valley,D5,6,Tri - Valley Conference - Red,'10-1,10,1,68.2,18.20,51.4,1.42,32.2,13.6
-99,Grand Rapids Forest Hills Eastern,D4,16,Ottawa - Kent Conference - White,'9-2,9,2,68.0,18.00,56.2,6.19,35.6,22.4
-100,Detroit Edison,D6,6,Charter School Conference - Gold,'9-1,9,1,68.0,18.00,53.6,3.62,32.3,15.3
-101,Saginaw Heritage,D2,20,Saginaw Valley League - South,'6-4,6,4,67.7,17.70,66.5,16.52,25.0,23.1
-102,Cadillac,D3,18,Big North Conference,'8-3,8,3,67.7,17.70,53.8,3.8,33.2,19.5
-103,Lake Odessa Lakewood,D5,7,Capital Area Activities Conference - White,'8-2,8,2,67.7,17.70,52.6,2.56,31.4,14.2
-104,Berrien Springs,D5,8,Lakeland Athletic Conference,'9-1,9,1,67.5,17.50,49.6,-0.39,38.6,19.8
-105,Allen Park,D2,21,Downriver League,'7-3,7,3,67.4,17.40,57.4,7.38,30.3,20.9
-106,Macomb Lutheran North,D4,17,Blue Water Area Conference,'10-1,10,1,67.4,17.40,54.0,3.98,35.1,20.4
-107,Farmington,D1,30,Lakes Valley Conference,'4-5,4,5,67.2,17.20,64.1,14.1,20.3,17.9
-108,Marine City,D6,7,Macomb Area Conference - Silver,'11-0,11,0,67.2,17.20,43.8,-6.15,48.8,23.6
-109,Millington,D7,6,Big Thumb Conference - White,'10-1,10,1,67.0,17.00,46.8,-3.24,37.8,13.9
-110,Traverse City Central,D2,22,Saginaw Valley League - North,'4-6,4,6,66.9,16.90,66.2,16.21,31.4,30.1
-111,Petoskey,D3,19,Big North Conference,'6-4,6,4,66.9,16.90,53.1,3.05,29.8,16.1
-112,Olivet,D6,8,Capital Area Activities Conference - White,'7-4,7,4,66.8,16.80,52.8,2.8,35.5,19.7
-113,Kingsford,D5,9,Western Peninsula Athletic Conference - Copper,'10-1,10,1,66.7,16.70,53.6,3.55,29.5,14.1
-114,Almont,D6,9,Blue Water Area Conference,'11-0,11,0,66.7,16.70,49.8,-0.21,34.9,15.5
-115,Grand Rapids Catholic Central,D5,10,Ottawa - Kent Conference - Black,'8-2,8,2,66.6,16.60,59.2,9.23,29.9,18.5
-116,Romulus Summit,D5,11,Charter School Conference - Gold,'8-3,8,3,66.4,16.40,53.0,3.0,33.4,18.7
-117,Clarkston Everest,D8,3,Catholic League - Intersectional 1,'10-1,10,1,66.4,16.40,37.3,-12.69,40.5,8.2
-118,Cedar Springs,D3,20,River Cities Alliance,'4-5,4,5,66.2,16.20,62.1,12.06,35.4,31.0
-119,Kalamazoo Hackett,D5,12,Southwestern Athletic Conference - A,'9-1,9,1,66.2,16.20,41.1,-8.92,33.3,8.3
-120,Utica,D1,31,Macomb Area Conference - White,'6-4,6,4,65.9,15.90,56.0,6.03,25.1,17.6
-121,Warren De La Salle,D3,21,Catholic League - Central,'7-4,7,4,65.4,15.40,67.5,17.51,24.1,22.5
-122,Marquette,D3,22,Big North Conference,'6-4,6,4,65.4,15.40,56.3,6.34,32.2,24.1
-123,Elkton-Pigeon-Bay Port,D7,7,Big Thumb Conference - White,'8-3,8,3,65.3,15.30,51.6,1.64,33.6,16.5
-124,Portage Northern,D2,23,Southwestern Michigan Athletic Conf. - A,'5-6,5,6,65.1,15.10,67.6,17.56,31.6,33.5
-125,Detroit Denby,D5,13,Detroit Public School League - 2,'7-4,7,4,64.9,14.90,41.2,-8.79,36.2,9.1
-126,Mt. Clemens Chippewa Valley,D1,32,Macomb Area Conference - Red,'4-5,4,5,64.6,14.60,66.8,16.79,24.8,27.2
-127,Troy Athens,D1,33,Oakland Activities Association - White,'4-5,4,5,64.6,14.60,64.1,14.14,25.3,25.3
-128,Macomb L'Anse Creuse North,D1,34,Macomb Area Conference - Blue,'6-4,6,4,64.6,14.60,48.7,-1.26,27.3,14.7
-129,Madison Heights Madison,D8,4,Macomb Area Conference - Bronze,'9-2,9,2,64.5,14.50,39.0,-10.96,39.9,11.6
-130,Negaunee,D5,14,Western Peninsula Athletic Conference - Copper,'7-4,7,4,64.4,14.40,54.6,4.57,29.3,17.9
-131,Birmingham Seaholm,D2,24,Oakland Activities Association - Blue,'5-5,5,5,64.3,14.30,63.7,13.66,26.7,25.9
-132,Roseville,D2,25,Macomb Area Conference - White,'4-6,4,6,64.2,14.20,66.2,16.2,22.3,23.8
-133,Ann Arbor Gabriel Richard,D5,15,Catholic League - AA,'5-5,5,5,64.2,14.20,51.1,1.08,36.7,21.3
-134,Stevensville Lakeshore,D4,18,Southwestern Michigan Athletic Conf. - B,'9-2,9,2,64.0,14.00,59.0,8.95,26.7,20.7
-135,New Lothrop,D8,5,Mid - Michigan Activities Conference,'10-1,10,1,64.0,14.00,37.8,-12.22,42.7,14.5
-136,Battle Creek Harper Creek,D3,23,Interstate Eight Athletic Conference,'6-4,6,4,63.5,13.50,56.4,6.41,29.7,23.6
-137,Riverview,D3,24,Huron League,'6-3,6,3,63.5,13.50,52.8,2.79,40.6,30.0
-138,Ravenna,D7,8,West Michigan Conference - Rivers,'9-2,9,2,63.5,13.50,51.4,1.35,31.8,16.5
-139,Grand Rapids Christian,D4,19,Ottawa - Kent Conference - White,'4-6,4,6,63.3,13.30,67.3,17.32,28.3,30.0
-140,Livonia Churchill,D2,26,Lakes Valley Conference,'5-5,5,5,63.2,13.20,64.9,14.93,24.4,25.8
-141,Lansing Sexton,D4,20,Capital Area Activities Conference - White,'6-4,6,4,63.1,13.10,51.9,1.94,28.2,15.6
-142,Constantine,D7,9,Southwestern Athletic Conference - A,'9-2,9,2,63.1,13.10,41.6,-8.44,36.9,12.5
-143,Ishpeming,D8,6,Independent,'8-3,8,3,63.0,13.00,51.6,1.65,44.0,24.2
-144,Niles,D3,25,Wolverine B Conference,'4-6,4,6,62.9,12.90,62.7,12.73,30.9,29.3
-145,Napoleon,D6,10,Cascades Conference - South,'9-2,9,2,62.9,12.90,42.8,-7.23,41.2,20.8
-146,Detroit Central,D6,11,Detroit Public School League - 2,'8-2,8,2,62.7,12.70,40.6,-9.44,27.6,4.5
-147,Spring Lake,D4,21,Ottawa - Kent Conference - White,'5-5,5,5,62.6,12.60,63.5,13.48,26.7,26.0
-148,Midland,D2,27,Saginaw Valley League - North,'4-6,4,6,62.4,12.40,66.8,16.8,19.5,23.7
-149,Haslett,D4,22,Capital Area Activities Conference - Red,'3-6,3,6,62.2,12.20,62.1,12.14,27.8,26.1
-150,Remus Chippewa Hills,D5,16,Central State Activities Association - Gold,'8-3,8,3,62.0,12.00,47.0,-2.99,33.0,17.3
-151,Oak Park,D3,26,Oakland Activities Association - Blue,'3-6,3,6,61.9,11.90,63.5,13.47,21.3,22.1
-152,Bay City Western,D3,27,Saginaw Valley League - North,'3-6,3,6,61.4,11.40,61.4,11.39,23.8,24.1
-153,Big Rapids,D4,23,Central State Activities Association - Gold,'5-5,5,5,61.3,11.30,59.2,9.22,24.9,21.5
-154,Charlevoix,D7,10,Northern Shores Conference,'8-2,8,2,61.3,11.30,43.1,-6.9,34.2,12.3
-155,Muskegon Orchard View,D5,17,West Michigan Conference - Lakes,'7-3,7,3,61.2,11.20,46.8,-3.17,30.4,15.0
-156,Madison Heights Lamphere,D4,24,Macomb Area Conference - Gold,'5-5,5,5,61.1,11.10,53.0,2.99,32.4,23.4
-157,Buchanan,D6,12,Lakeland Athletic Conference,'7-3,7,3,61.1,11.10,44.4,-5.57,37.2,15.4
-158,Ubly,D8,7,Big Thumb Conference - Black,'8-3,8,3,61.0,11.00,48.6,-1.37,32.5,16.5
-159,McBain,D7,11,Highland Conference,'7-3,7,3,61.0,11.00,45.8,-4.16,42.1,23.1
-160,Holly,D3,28,Flint Metro League - Stripes,'7-3,7,3,60.8,10.80,52.1,2.06,34.7,26.4
-161,Montrose,D6,13,Mid - Michigan Activities Conference,'8-3,8,3,60.8,10.80,48.1,-1.95,41.4,25.9
-162,Flint Powers,D5,18,Independent,'7-3,7,3,60.8,10.80,43.1,-6.88,33.0,14.6
-163,Monroe,D1,35,Southeastern Conference - Red,'4-5,4,5,60.7,10.70,59.8,9.83,25.1,25.9
-164,Cassopolis,D7,12,Southwestern Athletic Conference - B,'8-2,8,2,60.7,10.70,33.7,-16.34,45.1,16.1
-165,Flushing,D2,28,Flint Metro League - Stripes,'5-5,5,5,60.5,10.50,58.4,8.37,25.9,24.3
-166,Ida,D5,19,Lenawee County Athletic Association,'8-3,8,3,60.4,10.40,50.3,0.34,36.6,25.3
-167,Burton Bendle,D7,13,Genesee Area Conference,'9-1,9,1,60.4,10.40,24.3,-25.68,47.7,6.7
-168,East Lansing,D2,29,Capital Area Activities Conference - Blue,'4-6,4,6,60.2,10.20,66.2,16.17,18.7,24.4
-169,Fruitport,D4,25,Ottawa - Kent Conference - Silver,'7-3,7,3,60.1,10.10,45.1,-4.89,27.5,13.4
-170,Belding,D6,14,Ottawa - Kent Conference - Silver,'9-2,9,2,59.9,9.90,47.7,-2.3,40.1,26.8
-171,Detroit East English Village,D4,26,Detroit Public School League - 1,'7-3,7,3,59.9,9.90,41.2,-8.77,33.0,12.2
-172,Springport,D8,8,Big 8 Conference,'10-1,10,1,59.9,9.90,40.5,-9.45,38.6,14.9
-173,Bloomfield Hills,D1,36,Oakland Activities Association - White,'5-5,5,5,59.8,9.80,62.9,12.91,25.2,29.8
-174,Utica Eisenhower,D1,37,Macomb Area Conference - Red,'2-7,2,7,59.4,9.40,68.0,18.04,20.9,30.1
-175,Warren Michigan Collegiate,D6,15,Charter School Conference - Gold,'5-5,5,5,59.2,9.20,52.0,2.05,22.8,14.3
-176,North Muskegon,D7,14,West Michigan Conference - Rivers,'10-1,10,1,59.1,9.10,49.1,-0.89,24.3,11.6
-177,River Rouge,D3,29,Independent,'0-9,0,9,59.0,9.00,76.4,26.35,18.3,33.4
-178,Plymouth,D1,38,Kensington Lakes Activities Association - Black,'4-6,4,6,58.9,8.90,66.9,16.91,27.0,35.7
-179,Zeeland East,D3,30,Ottawa - Kent Conference - Gold,'5-5,5,5,58.9,8.90,59.7,9.73,27.1,27.6
-180,Grand Haven,D1,39,Ottawa - Kent Conference - Red,'4-5,4,5,58.8,8.80,74.0,23.95,26.0,40.7
-181,Hamilton,D4,27,Ottawa - Kent Conference - White,'3-6,3,6,58.8,8.80,64.1,14.09,28.1,31.8
-182,Fowler,D8,9,Central Michigan Athletic Conference,'7-4,7,4,58.8,8.80,47.3,-2.68,33.5,18.4
-183,Grand Rapids Forest Hills Northern,D2,30,Ottawa - Kent Conference - Green,'4-5,4,5,58.5,8.50,63.1,13.1,22.8,27.6
-184,Sterling Heights Stevenson,D1,40,Macomb Area Conference - Red,'1-8,1,8,58.4,8.40,71.8,21.79,13.8,26.9
-185,Canton,D1,41,Kensington Lakes Activities Association - Black,'3-6,3,6,58.4,8.40,61.3,11.31,18.2,22.4
-186,Detroit Cody,D4,28,Detroit Public School League - 2,'8-2,8,2,58.4,8.40,37.7,-12.34,29.6,8.6
-187,Imlay City,D5,20,Blue Water Area Conference,'8-3,8,3,58.2,8.20,53.5,3.53,21.4,15.6
-188,Warren Fitzgerald,D3,31,Macomb Area Conference - Gold,'6-4,6,4,58.1,8.10,46.1,-3.85,29.2,16.2
-189,Muskegon Reeths-Puffer,D3,32,Ottawa - Kent Conference - Green,'4-5,4,5,57.9,7.90,58.8,8.85,24.6,25.1
-190,New Boston Huron,D3,33,Huron League,'6-4,6,4,57.9,7.90,56.4,6.38,36.3,35.0
-191,Kent City,D6,16,Central State Activities Association - Silver,'7-3,7,3,57.7,7.70,41.5,-8.49,33.5,14.8
-192,Decatur,D8,10,Southwestern Athletic Conference - B,'10-1,10,1,57.5,7.50,37.9,-12.12,33.1,11.2
-193,North Branch,D4,29,Blue Water Area Conference,'4-5,4,5,57.4,7.40,54.3,4.26,27.1,24.0
-194,Fremont,D4,30,West Michigan Conference - Lakes,'7-2,7,2,57.4,7.40,42.7,-7.31,28.4,14.7
-195,Bronson,D7,15,Big 8 Conference,'7-3,7,3,57.4,7.40,41.0,-8.99,33.7,14.5
-196,Dearborn Heights Crestwood,D2,31,Kensington Lakes Activities Association - Gold,'5-5,5,5,57.3,7.30,65.4,15.36,27.9,36.0
-197,Traverse City St. Francis,D6,17,Independent,'7-4,7,4,57.3,7.30,56.4,6.45,27.8,23.9
-198,Manchester,D8,11,Cascades Conference - North,'7-3,7,3,57.3,7.30,37.0,-12.97,43.2,21.8
-199,Tecumseh,D4,31,Southeastern Conference - White,'6-4,6,4,57.2,7.20,56.3,6.33,30.5,29.5
-200,Adrian Madison,D6,18,Lenawee County Athletic Association,'6-4,6,4,57.2,7.20,49.2,-0.81,32.1,22.5
-201,Bark River-Harris,D8,12,Western Peninsula Athletic Conference - Iron,'9-2,9,2,57.2,7.20,44.0,-6.0,40.0,23.5
-202,Grand Rapids Forest Hills Central,D3,34,Ottawa - Kent Conference - Gold,'3-6,3,6,57.1,7.10,64.6,14.63,29.4,36.4
-203,Bay City Glenn,D4,32,Tri - Valley Conference - Red,'4-5,4,5,57.1,7.10,51.6,1.57,27.8,18.2
-204,Bloomfield Hills Cranbrook-Kingswood,D3,35,Catholic League - Intersectional 1,'5-4,5,4,57.1,7.10,46.4,-3.63,34.4,24.1
-205,Grosse Pointe North,D3,36,Macomb Area Conference - Gold,'6-4,6,4,57.0,7.00,49.4,-0.6,23.1,16.6
-206,Ann Arbor Pioneer,D1,42,Southeastern Conference - Red,'3-6,3,6,56.8,6.80,57.4,7.4,26.9,29.9
-207,Byron,D6,19,Independent,'5-4,5,4,56.8,6.80,53.7,3.71,38.2,31.4
-208,Dexter,D3,37,Southeastern Conference - Red,'4-6,4,6,56.4,6.40,68.0,18.04,22.8,34.0
-209,Okemos,D1,43,Capital Area Activities Conference - Blue,'5-4,5,4,56.4,6.40,56.1,6.11,20.8,23.2
-210,Armada,D5,21,Blue Water Area Conference,'6-5,6,5,56.3,6.30,58.4,8.39,18.3,18.8
-211,Freeland,D4,33,Tri - Valley Conference - Red,'4-5,4,5,55.9,5.90,54.8,4.82,23.9,21.0
-212,Ludington,D4,34,West Michigan Conference - Lakes,'8-3,8,3,55.9,5.90,54.3,4.33,26.3,25.6
-213,Lincoln Park,D2,32,Downriver League,'3-6,3,6,55.7,5.70,63.1,13.09,27.8,35.9
-214,Reed City,D5,22,Central State Activities Association - Gold,'6-4,6,4,55.5,5.50,48.8,-1.16,29.0,22.0
-215,Unionville-Sebewaing,D8,13,Big Thumb Conference - Black,'8-3,8,3,55.5,5.50,43.1,-6.92,32.2,16.4
-216,Detroit University of Detroit Jesuit,D4,35,Catholic League - AA,'4-5,4,5,54.9,4.90,69.3,19.35,11.8,24.4
-217,Royal Oak Shrine,D8,14,Catholic League - Intersectional 2,'9-2,9,2,54.9,4.90,33.3,-16.71,36.8,14.2
-218,West Bloomfield,D1,44,Oakland Activities Association - Red,'2-7,2,7,54.8,4.80,68.6,18.63,18.7,33.7
-219,Battle Creek Central,D3,38,Southwestern Michigan Athletic Conf. - B,'6-5,6,5,54.8,4.80,59.7,9.67,34.5,39.4
-220,Taylor,D1,45,Downriver League,'3-6,3,6,54.7,4.70,60.8,10.82,29.1,37.3
-221,Calumet,D6,20,Western Peninsula Athletic Conference - Copper,'6-4,6,4,54.7,4.70,50.8,0.79,25.1,19.7
-222,Jenison,D1,46,Ottawa - Kent Conference - Red,'2-7,2,7,54.3,4.30,73.5,23.47,16.9,38.6
-223,Flat Rock,D5,23,Huron League,'3-7,3,7,54.1,4.10,56.5,6.46,31.7,33.1
-224,Marysville,D4,36,Macomb Area Conference - Gold,'6-5,6,5,54.1,4.10,52.1,2.1,26.9,24.6
-225,Detroit Mumford,D2,33,Detroit Public School League - 1,'4-6,4,6,54.0,4.00,50.6,0.65,17.6,17.4
-226,Maple City Glen Lake,D8,15,Northern Michigan Football League,'8-3,8,3,53.9,3.90,36.9,-13.13,32.5,12.3
-227,Holt,D1,47,Capital Area Activities Conference - Blue,'2-7,2,7,53.8,3.80,64.7,14.74,19.3,31.9
-228,Waterford Mott,D3,39,Oakland Activities Association - Blue,'5-5,5,5,53.8,3.80,59.3,9.3,22.1,27.8
-229,Holland Christian,D4,37,Ottawa - Kent Conference - Black,'3-6,3,6,53.4,3.40,55.7,5.74,19.6,21.7
-230,Flint Carman-Ainsworth,D3,40,Saginaw Valley League - South,'4-4,4,4,53.4,3.40,54.9,4.88,29.0,30.9
-231,Wyoming Godwin Heights,D5,24,Ottawa - Kent Conference - Silver,'7-3,7,3,53.4,3.40,46.5,-3.53,29.9,23.4
-232,Grand Rapids Northview,D2,34,Ottawa - Kent Conference - Black,'2-7,2,7,53.2,3.20,61.2,11.25,20.4,29.7
-233,Kalamazoo Central,D1,48,Southwestern Michigan Athletic Conf. - A,'3-6,3,6,53.2,3.20,56.7,6.66,23.1,29.2
-234,Durand,D6,21,Mid - Michigan Activities Conference,'6-4,6,4,53.2,3.20,40.1,-9.93,40.2,25.1
-235,Gladwin,D6,22,Jack Pine Conference - I,'6-5,6,5,53.1,3.10,58.9,8.92,25.2,28.2
-236,Clare,D5,25,Jack Pine Conference - I,'4-5,4,5,53.0,3.00,48.9,-1.05,34.1,27.9
-237,Midland Bullock Creek,D6,23,Jack Pine Conference - I,'6-5,6,5,52.9,2.90,51.8,1.79,21.2,19.1
-238,Ortonville Brandon,D4,38,Flint Metro League - Stars,'6-4,6,4,52.9,2.90,50.3,0.34,34.9,32.6
-239,Charlotte,D4,39,Capital Area Activities Conference - White,'5-4,5,4,52.8,2.80,53.2,3.25,18.7,19.2
-240,Schoolcraft,D7,16,Southwestern Athletic Conference - A,'8-3,8,3,52.6,2.60,43.3,-6.69,25.7,14.7
-241,White Lake Lakeland,D2,35,Lakes Valley Conference,'1-8,1,8,52.5,2.50,71.0,20.95,19.3,37.6
-242,Manistee,D7,17,West Michigan Conference - Rivers,'5-6,5,6,52.5,2.50,53.8,3.83,27.5,26.0
-243,Plymouth Salem,D1,49,Kensington Lakes Activities Association - Black,'4-5,4,5,52.2,2.20,60.0,10.01,18.4,28.2
-244,Coldwater,D3,41,Interstate Eight Athletic Conference,'6-4,6,4,52.2,2.20,54.7,4.67,22.9,25.7
-245,Howard City Tri-County,D5,26,Central State Activities Association - Gold,'5-5,5,5,52.2,2.20,50.7,0.69,27.0,25.4
-246,Detroit Voyageur,D5,27,Charter School Conference - Gold,'6-4,6,4,52.2,2.20,45.2,-4.81,24.6,17.1
-247,Parma Jackson County Western,D3,42,Interstate Eight Athletic Conference,'2-7,2,7,52.1,2.10,58.1,8.13,16.1,23.2
-248,Parchment,D2,36,Southwestern Athletic Conference - A,'5-4,5,4,52.0,2.00,43.4,-6.61,28.9,23.3
-249,Livonia Stevenson,D1,50,Lakes Valley Conference,'2-7,2,7,51.9,1.90,61.8,11.83,18.1,29.9
-250,Williamston,D4,40,Capital Area Activities Conference - Red,'5-5,5,5,51.8,1.80,58.8,8.77,20.4,26.7
-251,Sparta,D4,41,River Cities Alliance,'4-5,4,5,51.7,1.70,59.6,9.64,21.9,29.3
-252,Iron Mountain,D8,16,Western Peninsula Athletic Conference - Iron,'7-3,7,3,51.5,1.50,39.5,-10.52,29.0,15.5
-253,Wyandotte,D2,37,Downriver League,'2-7,2,7,51.4,1.40,62.2,12.18,24.0,35.8
-254,East Jordan,D8,17,Northern Michigan Football League,'8-3,8,3,51.3,1.30,39.8,-10.18,32.3,18.2
-255,Algonac,D6,24,Macomb Area Conference - Bronze,'6-4,6,4,51.2,1.20,43.9,-6.12,31.2,23.0
-256,Quincy,D7,18,Big 8 Conference,'5-4,5,4,51.2,1.20,36.2,-13.78,42.3,26.7
-257,Harrison,D7,19,Jack Pine Conference - II,'8-3,8,3,51.1,1.10,37.4,-12.63,40.0,23.7
-258,Harbor Springs,D6,25,Northern Michigan Football League,'8-2,8,2,51.1,1.10,35.4,-14.58,29.5,13.8
-259,Shepherd,D5,28,Jack Pine Conference - I,'7-3,7,3,51.0,1.00,49.3,-0.69,20.8,18.8
-260,Hanover-Horton,D7,20,Cascades Conference - South,'7-3,7,3,51.0,1.00,48.1,-1.92,34.7,29.5
-261,Westland Glenn,D1,51,Kensington Lakes Activities Association - Gold,'2-7,2,7,50.9,0.90,63.9,13.9,20.1,34.9
-262,Wayland,D3,43,Ottawa - Kent Conference - White,'2-7,2,7,50.7,0.70,60.9,10.88,22.2,32.7
-263,St. Clair Shores Lakeview,D7,21,Macomb Area Conference - White,'13-8,13,8,50.7,0.70,50.3,0.28,25.4,22.9
-264,Union City,D7,22,Big 8 Conference,'8-3,8,3,50.6,0.60,37.5,-12.51,30.9,14.6
-265,Pontiac Notre Dame,D5,29,Independent,'5-5,5,5,50.3,0.30,47.4,-2.65,24.5,21.0
-266,Three Rivers,D4,42,Wolverine B Conference,'3-6,3,6,50.0,0.00,56.2,6.17,20.4,26.3
-267,Comstock Park,D5,30,Ottawa - Kent Conference - Silver,'4-6,4,6,50.0,0.00,50.4,0.38,30.9,29.8
-268,Saginaw Michigan Lutheran Seminary,D8,18,Tri - Valley Conference - Blue,'7-4,7,4,49.7,-0.30,43.4,-6.61,29.7,20.6
-269,Lake Fenton,D4,43,Flint Metro League - Stars,'4-5,4,5,49.6,-0.40,55.1,5.1,30.3,36.0
-270,Scottville Mason County Central,D6,26,West Michigan Conference - Rivers,'5-5,5,5,49.3,-0.70,45.2,-4.81,32.7,27.0
-271,Brooklyn Columbia Central,D6,27,Cascades Conference - South,'6-4,6,4,49.3,-0.70,40.3,-9.74,37.5,26.4
-272,Lapeer,D2,38,Saginaw Valley League - South,'2-7,2,7,49.0,-1.00,68.7,18.73,13.8,33.6
-273,Center Line,D4,44,Macomb Area Conference - Silver,'5-4,5,4,49.0,-1.00,42.0,-8.01,28.2,22.7
-274,Romulus,D4,45,Western Wayne Athletic Conference,'6-3,6,3,49.0,-1.00,36.2,-13.83,20.7,10.6
-275,Detroit Southeastern,D4,46,Detroit Public School League - 1,'6-4,6,4,48.9,-1.10,48.1,-1.87,22.6,23.4
-276,Jackson,D3,44,Southeastern Conference - White,'4-5,4,5,48.8,-1.20,56.0,6.0,26.0,34.0
-277,Saginaw Valley Lutheran,D7,23,Tri - Valley Conference - Blue,'6-4,6,4,48.8,-1.20,45.2,-4.8,24.6,19.9
-278,Lawton,D7,24,Southwestern Athletic Conference - A,'5-5,5,5,48.8,-1.20,41.9,-8.09,30.0,21.1
-279,Southgate Anderson,D2,39,Downriver League,'2-7,2,7,48.7,-1.30,60.0,10.03,26.4,39.0
-280,Alpena,D2,40,Big North Conference,'2-7,2,7,48.7,-1.30,53.5,3.47,19.7,27.0
-281,Manton,D7,25,Highland Conference,'7-3,7,3,48.7,-1.30,37.0,-13.04,31.1,19.0
-282,Elk Rapids,D6,28,Northern Shores Conference,'6-4,6,4,48.1,-1.90,43.8,-6.19,17.9,12.7
-283,Saranac,D7,26,Central Michigan Athletic Conference,'7-3,7,3,48.0,-2.00,32.9,-17.12,29.2,12.6
-284,Ypsilanti,D3,45,Southeastern Conference - White,'3-6,3,6,47.8,-2.20,56.5,6.48,17.0,26.8
-285,Swartz Creek,D2,41,Flint Metro League - Stripes,'3-6,3,6,47.7,-2.30,51.9,1.93,28.2,35.2
-286,Kalamazoo Loy Norrix,D1,52,Southwestern Michigan Athletic Conf. - A,'5-4,5,4,47.7,-2.30,48.2,-1.78,21.1,25.6
-287,Gaylord,D3,46,Big North Conference,'4-5,4,5,47.6,-2.40,52.6,2.64,23.2,29.8
-288,Detroit Community,D7,27,Charter School Conference - Silver,'7-2,7,2,47.4,-2.60,25.7,-24.34,39.0,13.3
-289,Grosse Ile,D5,31,Huron League,'3-6,3,6,47.3,-2.70,50.9,0.94,23.2,26.4
-290,Ishpeming Westwood,D6,29,Western Peninsula Athletic Conference - Copper,'4-5,4,5,47.2,-2.80,48.7,-1.27,21.6,22.4
-291,Redford Union,D5,32,Western Wayne Athletic Conference,'5-5,5,5,47.2,-2.80,48.6,-1.4,25.5,26.3
-292,Shelby,D6,30,West Michigan Conference - Rivers,'4-5,4,5,47.2,-2.80,38.8,-11.17,30.6,22.3
-293,Fowlerville,D4,47,Capital Area Activities Conference - Red,'3-6,3,6,46.7,-3.30,54.9,4.92,15.7,23.6
-294,Mattawan,D2,42,Southwestern Michigan Athletic Conf. - B,'3-6,3,6,46.6,-3.40,60.8,10.81,26.3,41.6
-295,Whitehall,D5,33,West Michigan Conference - Lakes,'2-7,2,7,46.6,-3.40,51.4,1.39,17.8,22.4
-296,Jackson Northwest,D3,47,Interstate Eight Athletic Conference,'1-8,1,8,46.3,-3.70,56.0,5.98,32.3,43.4
-297,Jonesville,D7,28,Cascades Conference - South,'7-4,7,4,46.3,-3.70,41.1,-8.94,34.9,29.4
-298,Whitmore Lake,D5,34,Michigan Independent Athletic Conference,'6-4,6,4,46.3,-3.70,40.9,-9.1,31.5,26.2
-299,Holland,D3,48,Ottawa - Kent Conference - Silver,'4-5,4,5,46.0,-4.00,45.6,-4.38,30.7,32.6
-300,Clio,D4,48,Flint Metro League - Stars,'4-5,4,5,45.9,-4.10,41.2,-8.75,32.2,28.2
-301,Pinckney,D4,49,Southeastern Conference - White,'2-7,2,7,45.6,-4.40,54.7,4.65,22.7,32.0
-302,Corunna,D5,35,Flint Metro League - Stars,'4-6,4,6,45.5,-4.50,53.2,3.19,21.9,28.6
-303,Saginaw Nouvel,D8,19,Tri - Valley Conference - Blue,'5-5,5,5,45.5,-4.50,45.5,-4.52,27.7,26.2
-304,Lansing Waverly,D3,49,Capital Area Activities Conference - Blue,'3-6,3,6,45.3,-4.70,61.2,11.22,16.6,33.4
-305,Farwell,D8,20,Jack Pine Conference - II,'5-4,5,4,45.2,-4.80,36.2,-13.78,28.7,17.3
-306,Cass City,D7,29,Big Thumb Conference - White,'6-4,6,4,44.9,-5.10,50.0,-0.04,19.4,22.5
-307,Ann Arbor Huron,D1,53,Southeastern Conference - Red,'1-8,1,8,44.8,-5.20,67.7,17.65,10.6,36.1
-308,Alma,D5,36,Tri - Valley Conference - Red,'2-7,2,7,44.5,-5.50,53.4,3.39,21.9,30.6
-309,Carleton Airport,D4,50,Huron League,'2-7,2,7,44.2,-5.80,54.6,4.61,22.1,33.6
-310,Vermontville Maple Valley,D8,21,Big 8 Conference,'5-5,5,5,44.0,-6.00,39.7,-10.3,25.2,19.6
-311,Ovid-Elsie,D6,31,Mid - Michigan Activities Conference,'4-5,4,5,43.9,-6.10,45.5,-4.51,30.6,30.8
-312,Dearborn Edsel Ford,D1,54,Downriver League,'3-6,3,6,43.8,-6.20,60.2,10.16,15.3,34.4
-313,Vassar,D8,22,Big Thumb Conference - Black,'5-5,5,5,43.8,-6.20,40.7,-9.32,38.8,32.1
-314,Escanaba,D4,51,Big North Conference,'4-5,4,5,43.7,-6.30,51.7,1.71,22.9,31.2
-315,Richmond,D5,37,Blue Water Area Conference,'0-9,0,9,43.6,-6.40,55.8,5.76,13.2,25.0
-316,Houghton,D5,38,Western Peninsula Athletic Conference - Copper,'2-7,2,7,43.5,-6.50,52.5,2.48,16.9,26.0
-317,Caro,D6,32,Big Thumb Conference - White,'4-5,4,5,43.5,-6.50,47.0,-2.99,21.6,23.2
-318,Allen Park Cabrini,D8,23,Catholic League - Intersectional 2,'5-5,5,5,43.5,-6.50,42.2,-7.83,28.8,27.2
-319,Frankfort,D8,24,Northern Michigan Football League,'5-5,5,5,43.5,-6.50,33.1,-16.87,25.7,13.7
-320,Plainwell,D3,50,Wolverine B Conference,'2-7,2,7,43.4,-6.60,53.4,3.43,17.2,30.1
-321,Muskegon Oakridge,D5,39,West Michigan Conference - Lakes,'2-7,2,7,43.4,-6.60,52.0,2.02,16.8,26.1
-322,Blissfield,D7,30,Lenawee County Athletic Association,'4-5,4,5,43.4,-6.60,42.4,-7.61,23.1,21.7
-323,Hancock,D5,40,Western Peninsula Athletic Conference - Iron,'4-5,4,5,43.0,-7.00,41.3,-8.65,23.8,22.7
-324,Royal Oak,D2,43,Oakland Activities Association - Gold,'5-4,5,4,42.7,-7.30,43.9,-6.07,22.0,26.6
-325,Birch Run,D5,41,Mid - Michigan Activities Conference,'4-5,4,5,42.6,-7.40,46.5,-3.5,25.6,29.1
-326,Port Huron Northern,D2,44,Macomb Area Conference - White,'1-8,1,8,42.5,-7.50,67.3,17.31,9.6,35.8
-327,Troy,D1,55,Oakland Activities Association - White,'1-8,1,8,42.3,-7.70,60.1,10.08,13.3,33.7
-328,Grant,D6,33,Central State Activities Association - Gold,'3-6,3,6,41.8,-8.20,45.4,-4.61,28.6,32.4
-329,New Haven,D6,34,Macomb Area Conference - Bronze,'6-4,6,4,41.7,-8.30,33.6,-16.36,31.6,24.9
-330,Montague,D6,35,West Michigan Conference - Lakes,'2-7,2,7,41.6,-8.40,52.7,2.66,18.0,28.2
-331,Utica Ford,D1,56,Macomb Area Conference - Blue,'3-6,3,6,41.6,-8.40,39.8,-10.19,20.6,23.0
-332,Boyne City,D6,36,Northern Shores Conference,'4-5,4,5,41.5,-8.50,45.3,-4.7,19.4,22.2
-333,Mt. Pleasant Sacred Heart,D8,25,Independent,'6-4,6,4,41.5,-8.50,41.9,-8.1,28.5,25.4
-334,Chesaning,D6,37,Mid - Michigan Activities Conference,'4-5,4,5,41.4,-8.60,40.8,-9.18,36.2,35.0
-335,Michigan Center,D5,42,Cascades Conference - North,'4-5,4,5,41.2,-8.80,43.2,-6.77,24.8,27.6
-336,Otsego,D4,52,Wolverine B Conference,'3-6,3,6,41.0,-9.00,57.8,7.76,19.3,36.0
-337,Sturgis,D3,51,Wolverine B Conference,'3-6,3,6,41.0,-9.00,56.1,6.06,16.1,31.8
-338,Dowagiac,D5,43,Lakeland Athletic Conference,'3-6,3,6,41.0,-9.00,45.3,-4.68,26.7,32.4
-339,Clawson,D6,38,Macomb Area Conference - Bronze,'6-4,6,4,41.0,-9.00,41.7,-8.27,22.3,23.4
-340,Wayne Memorial,D2,45,Kensington Lakes Activities Association - Gold,'0-9,0,9,40.6,-9.40,63.9,13.93,9.9,36.3
-341,Garden City,D3,52,Western Wayne Athletic Conference,'4-5,4,5,40.4,-9.60,45.0,-5.03,19.0,26.1
-342,Lansing Catholic,D6,39,Capital Area Activities Conference - White,'2-7,2,7,40.1,-9.90,57.9,7.94,15.2,31.4
-343,Essexville Garber,D5,44,Tri - Valley Conference - Red,'3-6,3,6,39.9,-10.10,47.2,-2.82,16.8,23.7
-344,Sandusky,D7,31,Big Thumb Conference - White,'3-6,3,6,39.9,-10.10,42.4,-7.6,28.6,30.6
-345,Yale,D5,45,Blue Water Area Conference,'1-8,1,8,39.7,-10.30,55.3,5.27,16.3,31.7
-346,Dearborn Heights Robichaud,D6,40,Western Wayne Athletic Conference,'5-5,5,5,39.7,-10.30,36.1,-13.9,20.8,17.3
-347,Leslie,D7,32,Cascades Conference - North,'4-6,4,6,39.6,-10.40,46.2,-3.82,37.6,43.2
-348,Vestaburg,D8,26,Independent,'6-4,6,4,39.6,-10.40,31.3,-18.73,30.1,20.2
-349,Southfield,D4,53,Oakland Activities Association - Blue,'1-8,1,8,39.4,-10.60,63.8,13.75,12.4,38.0
-350,Galesburg-Augusta,D7,33,Southwestern Athletic Conference - B,'7-3,7,3,39.4,-10.60,33.3,-16.73,28.5,23.2
-351,Croswell-Lexington,D5,46,Blue Water Area Conference,'2-7,2,7,39.3,-10.70,56.0,6.0,12.2,28.6
-352,Novi,D1,57,Kensington Lakes Activities Association - Black,'1-8,1,8,39.0,-11.00,66.9,16.88,10.9,42.0
-353,Bay City Central,D3,53,Saginaw Valley League - North,'2-7,2,7,38.9,-11.10,59.2,9.22,19.7,40.0
-354,Mt. Clemens L'Anse Creuse,D8,27,Macomb Area Conference - Blue,'4-5,4,5,38.5,-11.50,50.3,0.25,16.7,25.4
-355,Flint New Standard,D6,41,Genesee Area Conference,'5-5,5,5,38.4,-11.60,37.7,-12.25,22.9,22.0
-356,Ann Arbor Skyline,D1,58,Southeastern Conference - Red,'1-8,1,8,38.2,-11.80,55.7,5.7,15.1,37.7
-357,Walled Lake Northern,D1,59,Lakes Valley Conference,'1-8,1,8,38.1,-11.90,60.1,10.06,18.0,42.4
-358,Saugatuck,D8,28,Southwestern Athletic Conference - B,'6-4,6,4,37.8,-12.20,36.2,-13.79,23.6,21.3
-359,Detroit Lincoln-King,D5,47,Independent,'4-5,4,5,37.6,-12.40,33.3,-16.65,25.6,23.9
-360,Wyoming Kelloggsville,D5,48,Ottawa - Kent Conference - Silver,'3-6,3,6,37.1,-12.90,46.0,-3.97,23.0,32.4
-361,Saginaw,D2,46,Saginaw Valley League - South,'0-9,0,9,37.0,-13.00,64.6,14.61,7.1,37.2
-362,Grand Rapids Union,D1,60,Ottawa - Kent Conference - Green,'1-8,1,8,37.0,-13.00,60.9,10.91,7.8,36.7
-363,Mt. Clemens Clintondale,D7,34,Macomb Area Conference - Silver,'3-7,3,7,36.9,-13.10,48.6,-1.43,19.0,29.6
-364,Sand Creek,D8,29,Great Lakes Football Conference,'5-5,5,5,36.8,-13.20,44.9,-5.1,25.6,33.1
-365,Owosso,D4,54,Flint Metro League - Stars,'3-6,3,6,36.5,-13.50,53.0,3.03,18.6,36.2
-366,South Haven,D5,49,Southwestern Athletic Conference - A,'3-6,3,6,36.3,-13.70,44.6,-5.42,20.2,29.7
-367,Oscoda,D7,35,Northern Michigan Football League,'6-4,6,4,36.3,-13.70,35.4,-14.59,20.1,19.3
-368,Madison Heights Bishop Foley,D7,36,Catholic League - Intersectional 2,'5-4,5,4,36.2,-13.80,28.9,-21.09,23.0,16.3
-369,Berkley,D2,47,Oakland Activities Association - Gold,'3-6,3,6,36.1,-13.90,51.1,1.07,13.8,31.8
-370,Battle Creek Lakeview,D2,48,Southwestern Michigan Athletic Conf. - A,'1-8,1,8,36.0,-14.00,62.7,12.68,13.9,41.7
-371,Allendale,D4,55,River Cities Alliance,'0-9,0,9,35.7,-14.30,62.1,12.06,11.1,39.3
-372,Eaton Rapids,D4,56,Capital Area Activities Conference - White,'2-7,2,7,35.6,-14.40,54.8,4.84,10.2,30.2
-373,Auburn Hills Avondale,D3,54,Oakland Activities Association - Gold,'3-6,3,6,35.4,-14.60,44.6,-5.45,18.0,33.4
-374,Fraser,D1,61,Macomb Area Conference - Blue,'1-8,1,8,35.3,-14.70,54.1,4.05,11.9,34.1
-375,Greenville,D2,49,River Cities Alliance,'2-7,2,7,35.1,-14.90,64.9,14.86,12.1,42.9
-376,Detroit Communications/Media Arts,D6,42,Detroit Public School League - 2,'5-5,5,5,34.7,-15.30,40.6,-9.4,23.6,31.4
-377,Lansing Eastern,D2,50,Capital Area Activities Conference - Red,'1-8,1,8,34.6,-15.40,53.3,3.28,9.9,31.4
-378,Detroit Renaissance,D2,51,Detroit Public School League - 1,'2-7,2,7,34.5,-15.50,55.3,5.29,15.9,40.7
-379,Southfield Bradford,D8,30,Charter School Conference - Silver,'7-4,7,4,34.2,-15.80,28.5,-21.52,22.0,17.0
-380,Gladstone,D6,43,Western Peninsula Athletic Conference - Copper,'1-8,1,8,34.1,-15.90,51.7,1.71,12.3,29.2
-381,Lansing Everett,D2,52,Capital Area Activities Conference - Blue,'0-9,0,9,33.7,-16.30,65.3,15.32,13.1,46.7
-382,Centreville,D7,37,Southwestern Athletic Conference - B,'2-7,2,7,33.7,-16.30,40.8,-9.2,11.7,18.7
-383,Ionia,D4,57,Capital Area Activities Conference - White,'0-9,0,9,33.5,-16.50,58.9,8.93,11.7,38.4
-384,Dundee,D5,50,Lenawee County Athletic Association,'2-7,2,7,33.4,-16.60,53.9,3.93,14.7,35.4
-385,Detroit Henry Ford,D5,51,Detroit Public School League - 1,'3-6,3,6,33.4,-16.60,44.9,-5.13,16.0,28.4
-386,Ypsilanti Lincoln,D3,55,Southeastern Conference - White,'0-9,0,9,33.3,-16.70,60.5,10.53,10.3,38.6
-387,Warren Cousino,D2,53,Macomb Area Conference - Blue,'2-7,2,7,33.3,-16.70,51.3,1.26,8.9,29.8
-388,Hemlock,D7,38,Tri - Valley Conference - Blue,'3-6,3,6,33.3,-16.70,39.4,-10.58,19.0,24.1
-389,Warren Lincoln,D5,52,Macomb Area Conference - Bronze,'2-7,2,7,32.8,-17.20,44.7,-5.33,14.1,27.7
-390,Coloma,D7,39,Southwestern Athletic Conference - A,'3-6,3,6,32.6,-17.40,41.8,-8.21,17.1,27.2
-391,Westland Lutheran,D4,58,Michigan Independent Athletic Conference,'6-3,6,3,32.6,-17.40,28.2,-21.8,24.3,25.1
-392,Harper Woods Chandler Park,D4,59,Charter School Conference - Gold,'3-5,3,5,31.9,-18.10,47.6,-2.36,12.5,28.9
-393,Laingsburg,D7,40,Central Michigan Athletic Conference,'3-5,3,5,31.8,-18.20,31.2,-18.8,23.4,22.9
-394,Battle Creek Pennfield,D4,60,Interstate Eight Athletic Conference,'1-8,1,8,31.6,-18.40,52.7,2.71,11.4,33.8
-395,Otisville LakeVille,D7,41,Mid - Michigan Activities Conference,'2-7,2,7,31.6,-18.40,40.2,-9.79,30.9,38.2
-396,Reading,D8,31,Big 8 Conference,'4-5,4,5,31.4,-18.60,34.2,-15.84,29.6,31.7
-397,Rochester Hills Lutheran Northwest,D7,42,Michigan Independent Athletic Conference,'3-6,3,6,31.2,-18.80,34.9,-15.14,22.1,26.7
-398,L'Anse,D8,32,Western Peninsula Athletic Conference - Iron,'4-6,4,6,31.1,-18.90,41.6,-8.36,26.3,36.0
-399,Grass Lake,D6,44,Cascades Conference - North,'2-7,2,7,31.0,-19.00,45.1,-4.93,23.3,37.9
-400,Walled Lake Central,D2,54,Lakes Valley Conference,'1-8,1,8,30.9,-19.10,67.0,17.03,9.4,50.1
-401,Waterford Kettering,D3,56,Oakland Activities Association - Gold,'2-7,2,7,30.8,-19.20,42.6,-7.38,14.1,30.7
-402,Redford Westfield,D5,53,Charter School Conference - Silver,'3-5,3,5,30.8,-19.20,32.8,-17.16,20.2,26.4
-403,Harbor Beach,D8,33,Big Thumb Conference - Black,'1-8,1,8,30.7,-19.30,48.8,-1.19,11.4,28.0
-404,Warren Woods-Tower,D3,57,Macomb Area Conference - Silver,'3-6,3,6,30.5,-19.50,37.7,-12.28,23.7,36.9
-405,Ontonagon,D8,34,Independent,'2-7,2,7,30.2,-19.80,48.5,-1.5,16.2,33.4
-406,Hillsdale,D6,45,Lenawee County Athletic Association,'1-8,1,8,30.0,-20.00,52.7,2.72,21.3,43.9
-407,Manistique,D8,35,Western Peninsula Athletic Conference - Iron,'4-5,4,5,29.9,-20.10,36.0,-14.02,19.6,25.8
-408,Hazel Park,D5,54,Macomb Area Conference - Silver,'3-6,3,6,29.8,-20.20,41.4,-8.56,18.4,33.1
-409,Burton Atherton,D8,36,Genesee Area Conference,'6-4,6,4,29.7,-20.30,26.8,-23.22,27.2,23.6
-410,Grand Rapids Ottawa Hills,D2,55,Ottawa - Kent Conference - Black,'1-8,1,8,29.1,-20.90,52.7,2.71,11.6,39.3
-411,Marine City Cardinal Mooney,D8,37,Catholic League - Intersectional 2,'6-4,6,4,29.1,-20.90,29.0,-21.05,21.1,21.4
-412,Hartford,D6,46,Southwestern Athletic Conference - B,'4-5,4,5,28.9,-21.10,33.9,-16.13,24.0,29.4
-413,St. Clair Shores Lake Shore,D3,58,Macomb Area Conference - Gold,'1-8,1,8,28.7,-21.30,46.7,-3.32,9.6,31.1
-414,Evart,D8,38,Highland Conference,'3-6,3,6,28.3,-21.70,39.6,-10.44,21.1,33.2
-415,Flint Kearsley,D3,59,Flint Metro League - Stripes,'1-8,1,8,28.1,-21.90,51.7,1.67,14.4,41.6
-416,Petersburg Summerfield,D8,39,Great Lakes Football Conference,'3-6,3,6,28.0,-22.00,37.2,-12.82,17.7,26.6
-417,Livonia Clarenceville,D5,55,Independent,'4-5,4,5,27.9,-22.10,28.4,-21.62,18.2,22.6
-418,Beaverton,D8,40,Jack Pine Conference - II,'4-5,4,5,27.8,-22.20,40.8,-9.17,18.3,31.3
-419,Kalkaska,D6,47,Northern Shores Conference,'2-7,2,7,27.7,-22.30,43.2,-6.82,14.7,31.3
-420,Flint Hamady,D6,48,Independent,'2-6,2,6,27.5,-22.50,45.0,-5.03,17.8,36.1
-421,Onsted,D6,49,Lenawee County Athletic Association,'1-8,1,8,27.2,-22.80,53.1,3.08,16.1,44.0
-422,Grand Rapids NorthPointe Christian,D6,50,Ottawa - Kent Conference - Silver,'2-7,2,7,27.1,-22.90,46.4,-3.59,17.3,36.7
-423,Morley-Stanwood,D7,43,Central State Activities Association - Silver,'3-6,3,6,27.0,-23.00,31.8,-18.22,21.1,25.1
-424,Grayling,D6,51,Northern Shores Conference,'3-6,3,6,26.7,-23.30,42.5,-7.48,14.2,32.8
-425,LeRoy Pine River,D7,44,Highland Conference,'4-5,4,5,26.4,-23.60,39.7,-10.31,17.2,30.7
-426,Warren Warren-Mott,D2,56,Macomb Area Conference - White,'1-8,1,8,26.1,-23.90,57.3,7.26,12.7,48.4
-427,Milan,D5,56,Huron League,'1-8,1,8,26.0,-24.00,51.7,1.73,16.8,42.8
-428,Grosse Pointe Woods University Liggett,D7,45,Catholic League - Intersectional 1,'4-5,4,5,26.0,-24.00,37.7,-12.26,9.3,22.6
-429,Jackson Vandercook Lake,D7,46,Cascades Conference - North,'4-5,4,5,26.0,-24.00,32.6,-17.42,24.6,32.0
-430,Newaygo,D6,52,Central State Activities Association - Gold,'2-7,2,7,25.6,-24.40,51.4,1.41,9.6,35.4
-431,Benton Harbor,D5,57,Independent,'2-7,2,7,25.2,-24.80,41.6,-8.44,19.6,38.2
-432,Comstock,D7,47,Southwestern Athletic Conference - B,'3-6,3,6,24.1,-25.90,36.9,-13.1,17.3,31.3
-433,Hart,D6,53,West Michigan Conference - Lakes,'3-6,3,6,23.9,-26.10,43.7,-6.31,16.7,36.4
-434,Allegan,D5,58,Southwestern Athletic Conference - A,'1-6,1,6,23.8,-26.20,42.4,-7.62,8.9,30.4
-435,St. Louis,D8,41,Jack Pine Conference - II,'2-7,2,7,23.8,-26.20,39.6,-10.43,16.0,31.9
-436,Carrollton,D6,54,Tri - Valley Conference - Blue,'3-6,3,6,23.7,-26.30,37.7,-12.33,19.3,37.0
-437,Ironwood,D8,42,Independent,'1-8,1,8,23.5,-26.50,49.2,-0.75,19.3,44.7
-438,Sterling Heights Parkway Christian,D8,43,Michigan Independent Athletic Conference,'5-5,5,5,23.4,-26.60,24.9,-25.06,30.0,34.4
-439,Hamtramck,D2,57,Charter School Conference - Gold,'0-9,0,9,23.1,-26.90,55.9,5.88,4.4,43.0
-440,Perry,D7,48,Central Michigan Athletic Conference,'4-5,4,5,22.1,-27.90,30.8,-19.22,24.9,35.2
-441,Wyoming,D2,58,Ottawa - Kent Conference - Gold,'0-9,0,9,21.6,-28.40,56.6,6.59,7.6,46.4
-442,Stanton Central Montcalm,D6,55,Central State Activities Association - Silver,'1-8,1,8,21.4,-28.60,42.0,-8.01,11.6,34.1
-443,Benzonia Benzie Central,D7,49,Northern Michigan Football League,'2-7,2,7,21.3,-28.70,36.5,-13.53,9.6,25.6
-444,Melvindale,D3,60,Western Wayne Athletic Conference,'2-7,2,7,21.2,-28.80,36.9,-13.07,12.3,32.6
-445,Johannesburg-Lewiston,D8,44,Northern Michigan Football League,'3-6,3,6,20.9,-29.10,36.6,-13.4,16.0,31.9
-446,Homer,D8,45,Big 8 Conference,'1-8,1,8,20.7,-29.30,42.4,-7.58,15.8,35.6
-447,Standish-Sterling,D6,56,Jack Pine Conference - I,'1-8,1,8,20.4,-29.60,51.0,1.0,8.9,41.1
-448,Detroit Pershing,D5,59,Detroit Public School League - 2,'4-5,4,5,20.4,-29.60,31.9,-18.05,9.6,24.7
-449,Muskegon Catholic Central,D6,57,Independent,'3-6,3,6,19.4,-30.60,39.3,-10.69,12.7,35.1
-450,Niles Brandywine,D7,50,Lakeland Athletic Conference,'2-7,2,7,19.1,-30.90,42.9,-7.06,20.8,46.4
-451,Delton,D7,51,Southwestern Athletic Conference - A,'1-8,1,8,18.9,-31.10,43.3,-6.69,10.9,35.8
-452,Reese,D8,46,Big Thumb Conference - Black,'0-9,0,9,18.4,-31.60,46.3,-3.73,11.1,38.8
-453,Tawas City Area,D4,61,Northern Michigan Football League,'1-8,1,8,18.1,-31.90,36.9,-13.09,13.8,37.2
-454,Detroit University Prep Science & Math,D5,60,Independent,'0-9,0,9,17.8,-32.20,48.5,-1.47,6.0,39.3
-455,Grandville Calvin Christian,D5,61,Ottawa - Kent Conference - Silver,'1-8,1,8,17.6,-32.40,47.7,-2.33,9.9,44.3
-456,Detroit Western,D1,62,Detroit Public School League - 1,'1-8,1,8,17.4,-32.60,47.9,-2.06,6.9,44.7
-457,Houghton Lake,D7,52,Highland Conference,'2-7,2,7,17.3,-32.70,38.7,-11.33,13.0,39.0
-458,Gobles,D8,47,Southwestern Athletic Conference - B,'1-8,1,8,17.1,-32.90,35.2,-14.81,17.1,36.2
-459,Stockbridge,D7,53,Big 8 Conference,'2-7,2,7,16.6,-33.40,39.8,-10.16,21.1,45.4
-460,Iron River West Iron County,D8,48,Western Peninsula Athletic Conference - Iron,'0-8,0,8,16.1,-33.90,32.3,-17.69,5.0,24.0
-461,St. Clair Shores South Lake,D6,58,Macomb Area Conference - Silver,'0-9,0,9,16.0,-34.00,49.5,-0.5,12.7,51.2
-462,Hesperia,D7,54,West Michigan Conference - Rivers,'1-8,1,8,15.3,-34.70,42.6,-7.43,14.8,43.6
-463,Genesee,D8,49,Genesee Area Conference,'4-5,4,5,14.7,-35.30,21.3,-28.66,16.2,26.3
-464,Watervliet,D7,55,Southwestern Athletic Conference - A,'1-7,1,7,14.5,-35.50,42.7,-7.31,20.2,51.6
-465,Erie Mason,D7,56,Great Lakes Football Conference,'1-8,1,8,14.4,-35.60,43.1,-6.93,16.7,48.3
-466,Sault Ste. Marie,D4,62,Big North Conference,'0-9,0,9,13.4,-36.60,51.9,1.86,8.9,50.2
-467,Mt. Clemens,D8,50,Independent,'3-6,3,6,13.0,-37.00,30.3,-19.72,18.4,37.4
-468,Lake City,D6,59,Highland Conference,'0-9,0,9,12.5,-37.50,43.6,-6.37,13.7,47.0
-469,Detroit University Prep,D5,62,Independent,'2-7,2,7,12.5,-37.50,34.4,-15.58,9.6,36.6
-470,Detroit Osborn,D6,60,Detroit Public School League - 2,'1-8,1,8,12.4,-37.60,34.2,-15.84,8.7,35.3
-471,Detroit Leadership,D8,51,Charter School Conference - Silver,'3-6,3,6,12.4,-37.60,22.6,-27.44,15.8,28.8
-472,Pontiac Arts & Tech,D4,63,Charter School Conference - Silver,'0-7,0,7,11.8,-38.20,27.8,-22.19,4.6,28.6
-473,Gwinn,D8,52,Western Peninsula Athletic Conference - Iron,'2-7,2,7,11.5,-38.50,36.3,-13.74,11.2,36.7
-474,Pontiac,D4,64,Oakland Activities Association - Gold,'0-9,0,9,11.4,-38.60,44.8,-5.23,3.3,41.6
-475,Eastpointe,D5,63,Macomb Area Conference - Bronze,'0-9,0,9,11.2,-38.80,42.9,-7.13,21.6,56.1
-476,Flint International,D4,65,Genesee Area Conference,'2-7,2,7,11.2,-38.80,26.9,-23.11,11.8,32.3
-477,Detroit Loyola,D8,53,Catholic League - Intersectional 1,'0-9,0,9,9.8,-40.20,50.8,0.83,3.6,44.9
-478,Dearborn Heights Annapolis,D4,66,Western Wayne Athletic Conference,'0-9,0,9,9.8,-40.20,43.7,-6.35,7.3,44.7
-479,Addison,D8,54,Cascades Conference - South,'1-8,1,8,9.7,-40.30,42.7,-7.31,10.8,44.9
-480,Detroit Northwestern,D7,57,Detroit Public School League - 2,'1-8,1,8,8.8,-41.20,39.1,-10.88,3.2,38.6
-481,Melvindale Academy Business & Tech,D4,67,Charter School Conference - Silver,'1-8,1,8,8.6,-41.40,34.7,-15.33,16.4,52.1
-482,Sterling Heights,D2,59,Macomb Area Conference - Gold,'0-9,0,9,7.8,-42.20,48.3,-1.68,1.4,53.0
-483,Waterford Our Lady of the Lakes,D8,55,Catholic League - Intersectional 2,'0-9,0,9,7.8,-42.20,40.4,-9.6,7.4,42.8
-484,Auburn Hills Oakland Christian,D8,56,Michigan Independent Athletic Conference,'1-8,1,8,6.7,-43.30,28.7,-21.33,9.7,37.4
-485,Bridgeport,D5,64,Tri - Valley Conference - Red,'0-9,0,9,6.5,-43.50,50.6,0.63,3.6,61.0
-486,Mt. Morris,D6,61,Mid - Michigan Activities Conference,'0-9,0,9,5.4,-44.60,46.3,-3.7,7.0,59.8
-487,White Cloud,D8,57,Central State Activities Association - Silver,'0-9,0,9,5.2,-44.80,39.1,-10.92,5.7,46.9
-488,Mancelona,D8,58,Northern Michigan Football League,'0-9,0,9,5.1,-44.90,38.3,-11.73,5.9,48.8
-489,Bath,D7,58,Central Michigan Athletic Conference,'0-9,0,9,4.7,-45.30,42.9,-7.11,2.6,49.9
-490,Pinconning,D7,59,Jack Pine Conference - II,'1-7,1,7,4.3,-45.70,31.0,-18.97,5.0,45.8
-491,Flint,D7,60,Genesee Area Conference,'0-9,0,9,4.1,-45.90,27.8,-22.23,6.2,41.4
-492,Flint Beecher,D8,59,Genesee Area Conference,'1-8,1,8,3.9,-46.10,26.8,-23.21,4.0,40.9
-493,East Jackson,D8,60,Big 8 Conference,'0-9,0,9,3.8,-46.20,41.3,-8.73,2.4,54.6
-494,Detroit Douglass,D8,61,Detroit Public School League - 2,'0-9,0,9,3.7,-46.30,30.7,-19.28,1.6,41.9
-495,Carson City-Crystal,D8,62,Independent,'0-9,0,9,3.2,-46.80,30.7,-19.25,7.7,48.6
+rank,team,conference,record,power_index,raw_rating,sos_index
+1,East Kentwood,Ottawa - Kent Conference - Red,'11-0,93.9,43.85,69.9
+2,Novi Detroit Catholic Central,Catholic League - Central,'10-2,93.7,43.7,76.3
+3,Clarkston,Oakland Activities Association - Red,'11-1,91.6,41.64,76.1
+4,Romeo,Macomb Area Conference - Red,'12-0,91.6,41.55,69.0
+5,Saline,Southeastern Conference - Red,'10-1,88.7,38.66,62.4
+6,Grosse Pointe South,Macomb Area Conference - Red,'10-1,88.5,38.46,60.7
+7,DeWitt,Capital Area Activities Conference - Blue,'10-2,88.1,38.07,65.1
+8,Oxford,Oakland Activities Association - Red,'8-3,86.5,36.5,76.2
+9,Harper Woods,Oakland Activities Association - Blue,'9-3,86.4,36.44,67.7
+10,Detroit Cass Tech,Detroit Public School League - 1,'11-1,86.0,35.96,61.3
+11,Rochester Hills Stoney Creek,Oakland Activities Association - White,'9-3,85.9,35.87,66.8
+12,Grand Blanc,Saginaw Valley League - South,'10-1,85.6,35.57,66.9
+13,South Lyon,Lakes Valley Conference,'10-2,85.5,35.5,66.7
+14,Howell,Kensington Lakes Activities Association - Gold,'9-1,84.1,34.07,67.1
+15,Goodrich,Flint Metro League - Stars,'12-0,83.4,33.37,56.0
+16,Mason,Capital Area Activities Conference - Red,'11-1,83.3,33.26,63.9
+17,Orchard Lake St. Mary's,Catholic League - Central,'8-4,82.9,32.9,70.4
+18,Chelsea,Southeastern Conference - White,'11-1,82.8,32.78,59.3
+19,Grand Rapids Kenowa Hills,River Cities Alliance,'11-1,82.0,32.03,60.5
+20,Northville,Kensington Lakes Activities Association - Black,'10-2,81.8,31.78,70.4
+21,Grand Ledge,Capital Area Activities Conference - Blue,'10-1,81.5,31.5,62.3
+22,Muskegon Mona Shores,Ottawa - Kent Conference - Green,'11-1,81.4,31.42,66.4
+23,Rockford,Ottawa - Kent Conference - Red,'5-5,81.2,31.16,73.8
+24,Byron Center,Ottawa - Kent Conference - Green,'9-3,81.1,31.06,68.9
+25,Hartland,Kensington Lakes Activities Association - Gold,'7-3,80.8,30.84,66.5
+26,Portage Central,Southwestern Michigan Athletic Conf. - A,'10-1,80.4,30.41,59.2
+27,Zeeland West,Ottawa - Kent Conference - Gold,'10-2,80.0,30.05,60.3
+28,Davison,Saginaw Valley League - South,'7-3,79.6,29.57,65.9
+29,Milford,Lakes Valley Conference,'10-2,79.3,29.34,63.9
+30,Hudsonville,Ottawa - Kent Conference - Red,'6-4,78.6,28.63,72.4
+31,Brighton,Kensington Lakes Activities Association - Gold,'5-5,77.8,27.77,69.0
+32,Caledonia,Ottawa - Kent Conference - Red,'9-2,77.6,27.62,70.3
+33,Belleville,Kensington Lakes Activities Association - Black,'6-4,77.5,27.51,68.6
+34,Ithaca,Tri - Valley Conference - Blue,'10-2,76.7,26.69,50.6
+35,St. Joseph,Southwestern Michigan Athletic Conf. - B,'8-3,76.7,26.66,61.1
+36,Walled Lake Western,Lakes Valley Conference,'7-3,76.6,26.6,62.8
+37,Detroit Martin Luther King,Detroit Public School League - 1,'7-4,76.4,26.41,64.1
+38,Grand Rapids South Christian,Ottawa - Kent Conference - Gold,'10-2,76.4,26.39,62.6
+39,Edwardsburg,Wolverine B Conference,'10-1,76.2,26.16,58.8
+40,Birmingham Brother Rice,Catholic League - Central,'10-2,75.7,25.7,69.6
+41,Mt. Pleasant,Saginaw Valley League - North,'10-2,75.4,25.36,62.4
+42,Midland Dow,Saginaw Valley League - North,'8-3,74.9,24.86,64.3
+43,Portland,Capital Area Activities Conference - White,'12-0,74.8,24.8,60.1
+44,Frankenmuth,Tri - Valley Conference - Red,'10-2,74.8,24.77,53.7
+45,Gibraltar Carlson,Downriver League,'10-1,74.7,24.68,57.4
+46,Lake Orion,Oakland Activities Association - Red,'4-6,74.4,24.35,73.1
+47,Dearborn Divine Child,Catholic League - AA,'10-2,74.3,24.29,63.9
+48,Macomb Dakota,Macomb Area Conference - Red,'5-5,74.3,24.28,72.0
+49,Pewamo-Westphalia,Central Michigan Athletic Conference,'11-0,74.3,24.27,49.7
+50,Dearborn Fordson,Kensington Lakes Activities Association - Black,'8-3,74.0,24.01,66.7
+51,Woodhaven,Downriver League,'7-3,73.8,23.8,58.9
+52,Menominee,Western Peninsula Athletic Conference - Copper,'10-1,73.5,23.52,54.1
+53,South Lyon East,Lakes Valley Conference,'8-3,73.5,23.51,67.0
+54,Paw Paw,Wolverine B Conference,'8-2,73.3,23.25,57.0
+55,Middleville,Ottawa - Kent Conference - Black,'8-4,73.1,23.08,61.1
+56,Ferndale,Oakland Activities Association - Gold,'7-3,72.9,22.86,53.4
+57,Beal City,Highland Conference,'11-0,72.6,22.56,44.5
+58,Rochester Adams,Oakland Activities Association - Red,'7-4,72.4,22.43,75.1
+59,Lowell,River Cities Alliance,'6-4,71.9,21.87,60.8
+60,West Branch Ogemaw Heights,Jack Pine Conference - I,'10-2,71.6,21.59,51.4
+61,Kingsley,Northern Shores Conference,'12-0,71.1,21.14,48.0
+62,Ecorse,Charter School Conference - Gold,'9-1,71.0,21.02,50.4
+63,Coopersville,River Cities Alliance,'9-2,71.0,21.02,62.5
+64,Clinton,Lenawee County Athletic Association,'9-2,70.8,20.8,50.9
+65,Birmingham Detroit Country Day,Catholic League - AA,'8-4,70.7,20.7,55.9
+66,Grand Rapids West Catholic,Ottawa - Kent Conference - White,'9-2,70.3,20.26,61.3
+67,Grandville,Ottawa - Kent Conference - Red,'5-6,70.3,20.26,75.4
+68,Port Huron,Macomb Area Conference - Blue,'10-1,69.6,19.61,51.2
+69,Rochester,Oakland Activities Association - White,'7-4,69.4,19.4,67.4
+70,St. Johns,Capital Area Activities Conference - Red,'8-3,69.2,19.22,53.9
+71,Holland West Ottawa,Ottawa - Kent Conference - Red,'2-7,68.8,18.83,71.3
+72,North Farmington,Lakes Valley Conference,'7-4,68.6,18.63,63.3
+73,Sanford Meridian,Jack Pine Conference - II,'11-1,68.0,18.01,48.5
+74,Temperance Bedford,Southeastern Conference - Red,'8-3,67.8,17.83,63.1
+75,Adrian,Southeastern Conference - White,'9-2,67.8,17.77,53.0
+76,Hudson,Lenawee County Athletic Association,'10-2,67.7,17.68,49.8
+77,Linden,Flint Metro League - Stripes,'6-4,67.7,17.66,58.8
+78,Fenton,Flint Metro League - Stripes,'8-3,67.6,17.58,62.2
+79,Muskegon,Ottawa - Kent Conference - Green,'4-6,67.5,17.46,69.8
+80,Birmingham Groves,Oakland Activities Association - Blue,'5-5,67.4,17.36,65.0
+81,Trenton,Downriver League,'5-5,67.2,17.22,62.2
+82,Hudsonville Unity Christian,Ottawa - Kent Conference - Gold,'7-5,67.2,17.18,61.1
+83,Hopkins,Ottawa - Kent Conference - Silver,'9-2,67.1,17.08,51.4
+84,Hastings,Interstate Eight Athletic Conference,'7-3,67.0,17.03,58.3
+85,Livonia Franklin,Lakes Valley Conference,'9-2,67.0,17.02,57.4
+86,Vicksburg,Wolverine B Conference,'7-3,66.9,16.91,56.6
+87,Ottawa Lake Whiteford,Great Lakes Football Conference,'9-3,66.7,16.74,52.9
+88,Traverse City West,Saginaw Valley League - North,'6-4,66.7,16.71,67.2
+89,Saginaw Swan Valley,Tri - Valley Conference - Red,'11-1,66.6,16.64,52.8
+90,St. Clair,Macomb Area Conference - Silver,'8-3,66.5,16.54,43.3
+91,Jackson Lumen Christi,Catholic League - AA,'9-3,66.5,16.54,61.0
+92,New Baltimore Anchor Bay,Macomb Area Conference - White,'5-5,66.4,16.44,60.6
+93,Dearborn,Kensington Lakes Activities Association - Gold,'5-5,66.4,16.43,66.5
+94,Lake Odessa Lakewood,Capital Area Activities Conference - White,'8-2,66.4,16.38,52.9
+95,Redford Thurston,Western Wayne Athletic Conference,'9-2,66.4,16.36,48.0
+96,Marshall,Interstate Eight Athletic Conference,'8-2,66.3,16.3,54.6
+97,Monroe Jefferson,Huron League,'11-1,66.2,16.21,53.8
+98,Monroe St. Mary Catholic,Huron League,'9-2,66.1,16.14,53.1
+99,Cadillac,Big North Conference,'8-3,66.1,16.1,53.7
+100,Grand Rapids Forest Hills Eastern,Ottawa - Kent Conference - White,'9-2,66.0,16.04,55.4
+101,East Grand Rapids,Ottawa - Kent Conference - Black,'6-4,66.0,16.02,61.2
+102,Saginaw Heritage,Saginaw Valley League - South,'6-4,65.9,15.95,64.9
+103,Macomb Lutheran North,Blue Water Area Conference,'11-1,65.9,15.86,55.0
+104,Olivet,Capital Area Activities Conference - White,'7-4,65.7,15.74,53.3
+105,Detroit Edison,Charter School Conference - Gold,'9-1,65.7,15.72,52.7
+106,Allen Park,Downriver League,'7-3,65.7,15.65,56.7
+107,Berrien Springs,Lakeland Athletic Conference,'9-1,65.6,15.57,49.5
+108,Warren De La Salle,Catholic League - Central,'8-4,65.4,15.39,67.5
+109,Farmington,Lakes Valley Conference,'4-5,65.4,15.36,62.6
+110,Traverse City Central,Saginaw Valley League - North,'4-6,65.3,15.3,64.6
+111,Petoskey,Big North Conference,'6-4,65.3,15.28,52.9
+112,Millington,Big Thumb Conference - White,'10-1,65.3,15.25,47.1
+113,Almont,Blue Water Area Conference,'12-0,65.2,15.16,51.1
+114,Kingsford,Western Peninsula Athletic Conference - Copper,'10-1,64.9,14.93,53.1
+115,Clarkston Everest,Catholic League - Intersectional 1,'10-1,64.8,14.76,38.7
+116,Kalamazoo Hackett,Southwestern Athletic Conference - A,'9-1,64.7,14.74,42.3
+117,Grand Rapids Catholic Central,Ottawa - Kent Conference - Black,'8-2,64.7,14.72,58.0
+118,Marine City,Macomb Area Conference - Silver,'11-1,64.5,14.49,46.1
+119,Utica,Macomb Area Conference - White,'6-4,64.2,14.18,55.4
+120,Elkton-Pigeon-Bay Port,Big Thumb Conference - White,'8-3,64.1,14.14,52.0
+121,Cedar Springs,River Cities Alliance,'4-5,64.1,14.11,60.3
+122,Romulus Summit,Charter School Conference - Gold,'8-4,64.0,13.99,53.6
+123,Marquette,Big North Conference,'6-4,63.8,13.82,55.7
+124,Portage Northern,Southwestern Michigan Athletic Conf. - A,'5-6,63.4,13.44,65.6
+125,Springport,Big 8 Conference,'11-1,63.4,13.39,44.0
+126,Detroit Denby,Detroit Public School League - 2,'7-4,63.3,13.26,42.0
+127,Macomb L'Anse Creuse North,Macomb Area Conference - Blue,'6-4,63.1,13.07,48.9
+128,Madison Heights Madison,Macomb Area Conference - Bronze,'9-2,63.0,12.98,40.2
+129,Mt. Clemens Chippewa Valley,Macomb Area Conference - Red,'4-5,62.9,12.94,64.8
+130,Troy Athens,Oakland Activities Association - White,'4-5,62.9,12.92,62.5
+131,Roseville,Macomb Area Conference - White,'4-6,62.8,12.77,64.6
+132,Birmingham Seaholm,Oakland Activities Association - Blue,'5-5,62.4,12.37,61.7
+133,Stevensville Lakeshore,Southwestern Michigan Athletic Conf. - B,'9-2,62.3,12.33,57.8
+134,Negaunee,Western Peninsula Athletic Conference - Copper,'7-5,62.3,12.31,55.6
+135,Ravenna,West Michigan Conference - Rivers,'9-2,62.3,12.25,51.4
+136,Belding,Ottawa - Kent Conference - Silver,'10-2,62.1,12.07,50.1
+137,Lansing Sexton,Capital Area Activities Conference - White,'6-4,62.1,12.06,52.2
+138,Ann Arbor Gabriel Richard,Catholic League - AA,'5-5,62.0,12.03,50.1
+139,Riverview,Huron League,'6-3,62.0,11.96,52.3
+140,Constantine,Southwestern Athletic Conference - A,'9-2,61.9,11.93,42.7
+141,Battle Creek Harper Creek,Interstate Eight Athletic Conference,'6-4,61.9,11.91,55.5
+142,Livonia Churchill,Lakes Valley Conference,'5-5,61.8,11.8,63.3
+143,Ishpeming,Independent,'8-3,61.8,11.8,51.6
+144,Niles,Wolverine B Conference,'4-6,61.6,11.63,61.4
+145,Grand Rapids Christian,Ottawa - Kent Conference - White,'4-6,61.5,11.52,65.0
+146,Napoleon,Cascades Conference - South,'9-2,61.3,11.35,43.3
+147,Detroit Central,Detroit Public School League - 2,'8-2,61.3,11.34,41.6
+148,Spring Lake,Ottawa - Kent Conference - White,'5-5,61.2,11.24,61.9
+149,Haslett,Capital Area Activities Conference - Red,'3-6,61.2,11.18,61.1
+150,Midland,Saginaw Valley League - North,'4-6,61.1,11.1,65.0
+151,Ubly,Big Thumb Conference - Black,'9-3,61.0,10.98,50.0
+152,Remus Chippewa Hills,Central State Activities Association - Gold,'8-3,60.8,10.81,47.4
+153,New Lothrop,Mid - Michigan Activities Conference,'10-2,60.5,10.53,40.3
+154,Bay City Western,Saginaw Valley League - North,'3-6,60.3,10.3,60.3
+155,Buchanan,Lakeland Athletic Conference,'7-3,60.2,10.18,45.3
+156,Oak Park,Oakland Activities Association - Blue,'3-6,60.2,10.18,61.5
+157,Charlevoix,Northern Shores Conference,'8-2,60.1,10.14,43.9
+158,Muskegon Orchard View,West Michigan Conference - Lakes,'7-3,60.1,10.06,47.2
+159,Big Rapids,Central State Activities Association - Gold,'5-5,60.0,10.04,58.1
+160,McBain,Highland Conference,'7-3,60.0,9.97,46.4
+161,Cassopolis,Southwestern Athletic Conference - B,'8-2,59.9,9.92,35.8
+162,Madison Heights Lamphere,Macomb Area Conference - Gold,'5-5,59.8,9.79,52.5
+163,Holly,Flint Metro League - Stripes,'7-3,59.8,9.77,51.9
+164,Fruitport,Ottawa - Kent Conference - Silver,'7-3,59.8,9.75,46.5
+165,Flint Powers,Independent,'7-3,59.7,9.69,43.9
+166,Monroe,Southeastern Conference - Red,'4-5,59.6,9.59,58.8
+167,Burton Bendle,Genesee Area Conference,'9-1,59.5,9.46,25.9
+168,Flushing,Flint Metro League - Stripes,'5-5,59.4,9.37,57.4
+169,Montrose,Mid - Michigan Activities Conference,'8-3,59.3,9.26,47.4
+170,East Lansing,Capital Area Activities Conference - Blue,'4-6,59.0,8.97,64.3
+171,Bloomfield Hills,Oakland Activities Association - White,'5-5,58.8,8.77,61.5
+172,Detroit East English Village,Detroit Public School League - 1,'7-3,58.7,8.73,41.4
+173,Ida,Lenawee County Athletic Association,'8-3,58.6,8.6,49.4
+174,North Muskegon,West Michigan Conference - Rivers,'10-1,58.5,8.5,49.6
+175,River Rouge,Independent,'0-9,58.3,8.33,73.8
+176,Utica Eisenhower,Macomb Area Conference - Red,'2-7,58.3,8.32,66.0
+177,Warren Michigan Collegiate,Charter School Conference - Gold,'5-5,58.2,8.19,51.7
+178,Plymouth,Kensington Lakes Activities Association - Black,'4-6,58.1,8.14,65.3
+179,Hamilton,Ottawa - Kent Conference - White,'3-6,57.9,7.85,62.5
+180,Grand Haven,Ottawa - Kent Conference - Red,'4-5,57.9,7.85,71.4
+181,Canton,Kensington Lakes Activities Association - Black,'3-6,57.8,7.84,60.5
+182,Zeeland East,Ottawa - Kent Conference - Gold,'5-5,57.7,7.66,58.4
+183,Bronson,Big 8 Conference,'7-3,57.6,7.56,42.4
+184,Sterling Heights Stevenson,Macomb Area Conference - Red,'1-8,57.5,7.52,69.4
+185,Detroit Cody,Detroit Public School League - 2,'8-2,57.5,7.51,38.2
+186,Grand Rapids Forest Hills Northern,Ottawa - Kent Conference - Green,'4-5,57.5,7.51,61.6
+187,Fowler,Central Michigan Athletic Conference,'7-4,57.5,7.49,46.7
+188,Imlay City,Blue Water Area Conference,'8-3,57.5,7.45,53.3
+189,Decatur,Southwestern Athletic Conference - B,'10-1,57.4,7.43,40.0
+190,Warren Fitzgerald,Macomb Area Conference - Gold,'6-4,57.0,7.02,46.2
+191,New Boston Huron,Huron League,'6-4,57.0,6.99,55.6
+192,Kent City,Central State Activities Association - Silver,'7-3,57.0,6.98,42.1
+193,Muskegon Reeths-Puffer,Ottawa - Kent Conference - Green,'4-5,57.0,6.95,57.8
+194,Fremont,West Michigan Conference - Lakes,'7-2,56.8,6.79,43.6
+195,Bark River-Harris,Western Peninsula Athletic Conference - Iron,'9-2,56.8,6.75,44.9
+196,North Branch,Blue Water Area Conference,'4-5,56.7,6.74,53.9
+197,Dearborn Heights Crestwood,Kensington Lakes Activities Association - Gold,'5-5,56.7,6.7,63.9
+198,Manchester,Cascades Conference - North,'7-3,56.6,6.61,38.5
+199,Bay City Glenn,Tri - Valley Conference - Red,'4-5,56.3,6.33,51.0
+200,Traverse City St. Francis,Independent,'7-4,56.3,6.25,55.4
+201,Byron,Independent,'5-4,56.2,6.22,53.4
+202,Grosse Pointe North,Macomb Area Conference - Gold,'6-4,56.2,6.22,49.3
+203,Bloomfield Hills Cranbrook-Kingswood,Catholic League - Intersectional 1,'5-4,56.1,6.07,46.3
+204,Ann Arbor Pioneer,Southeastern Conference - Red,'3-6,56.0,6.05,56.6
+205,Grand Rapids Forest Hills Central,Ottawa - Kent Conference - Gold,'3-6,56.0,6.03,62.6
+206,Adrian Madison,Lenawee County Athletic Association,'6-4,55.9,5.89,48.6
+207,Tecumseh,Southeastern Conference - White,'6-4,55.9,5.88,54.9
+208,Dexter,Southeastern Conference - Red,'4-6,55.7,5.67,66.0
+209,Armada,Blue Water Area Conference,'6-5,55.6,5.56,57.4
+210,Okemos,Capital Area Activities Conference - Blue,'5-4,55.5,5.51,55.2
+211,Ludington,West Michigan Conference - Lakes,'8-3,55.3,5.28,53.8
+212,Unionville-Sebewaing,Big Thumb Conference - Black,'8-3,55.2,5.22,44.1
+213,Freeland,Tri - Valley Conference - Red,'4-5,55.2,5.15,53.9
+214,Lincoln Park,Downriver League,'3-6,55.1,5.11,61.6
+215,Reed City,Central State Activities Association - Gold,'6-4,55.0,5.0,49.0
+216,Royal Oak Shrine,Catholic League - Intersectional 2,'9-2,54.4,4.37,35.0
+217,West Bloomfield,Oakland Activities Association - Red,'2-7,54.3,4.29,66.6
+218,Taylor,Downriver League,'3-6,54.2,4.23,59.7
+219,Calumet,Western Peninsula Athletic Conference - Copper,'6-4,54.2,4.22,50.7
+220,Battle Creek Central,Southwestern Michigan Athletic Conf. - B,'6-5,54.2,4.18,58.5
+221,Jenison,Ottawa - Kent Conference - Red,'2-7,53.8,3.83,70.9
+222,Wyoming Godwin Heights,Ottawa - Kent Conference - Silver,'7-3,53.8,3.75,47.7
+223,Detroit University of Detroit Jesuit,Catholic League - AA,'4-5,53.7,3.71,66.4
+224,Marysville,Macomb Area Conference - Gold,'6-5,53.6,3.6,51.8
+225,Maple City Glen Lake,Northern Michigan Football League,'8-3,53.6,3.59,37.9
+226,Flat Rock,Huron League,'3-7,53.6,3.58,55.7
+227,Richland Gull Lake,Independent,'0-4,53.3,3.33,55.3
+228,Detroit Mumford,Detroit Public School League - 1,'4-6,53.3,3.31,50.2
+229,Holt,Capital Area Activities Conference - Blue,'2-7,53.3,3.27,63.0
+230,Flint Carman-Ainsworth,Saginaw Valley League - South,'4-4,53.2,3.17,54.5
+231,Charlotte,Capital Area Activities Conference - White,'5-4,53.1,3.06,53.6
+232,Holland Christian,Ottawa - Kent Conference - Black,'3-6,53.0,2.97,55.0
+233,Kalamazoo Central,Southwestern Michigan Athletic Conf. - A,'3-6,52.8,2.84,55.9
+234,Grand Rapids Northview,Ottawa - Kent Conference - Black,'2-7,52.8,2.83,60.0
+235,Clare,Jack Pine Conference - I,'4-5,52.7,2.73,49.1
+236,Gladwin,Jack Pine Conference - I,'6-5,52.7,2.72,57.9
+237,Waterford Mott,Oakland Activities Association - Blue,'5-5,52.7,2.7,57.5
+238,Ortonville Brandon,Flint Metro League - Stars,'6-4,52.7,2.69,50.3
+239,Schoolcraft,Southwestern Athletic Conference - A,'8-3,52.6,2.6,44.3
+240,Midland Bullock Creek,Jack Pine Conference - I,'6-5,52.6,2.57,51.5
+241,Durand,Mid - Michigan Activities Conference,'6-4,52.5,2.52,39.7
+242,Plymouth Salem,Kensington Lakes Activities Association - Black,'4-5,52.4,2.37,59.4
+243,Manistee,West Michigan Conference - Rivers,'5-6,52.3,2.3,53.5
+244,White Lake Lakeland,Lakes Valley Conference,'1-8,52.3,2.25,68.7
+245,Quincy,Big 8 Conference,'5-4,52.2,2.22,38.3
+246,Parchment,Southwestern Athletic Conference - A,'5-4,52.0,2.03,44.4
+247,Coldwater,Interstate Eight Athletic Conference,'6-4,52.0,1.99,54.1
+248,Howard City Tri-County,Central State Activities Association - Gold,'5-5,52.0,1.97,50.6
+249,Williamston,Capital Area Activities Conference - Red,'5-5,51.9,1.92,58.2
+250,Parma Jackson County Western,Interstate Eight Athletic Conference,'2-7,51.9,1.88,57.2
+251,Detroit Voyageur,Charter School Conference - Gold,'6-4,51.8,1.8,44.9
+252,Livonia Stevenson,Lakes Valley Conference,'2-7,51.7,1.7,60.6
+253,Union City,Big 8 Conference,'8-3,51.7,1.69,39.5
+254,Iron Mountain,Western Peninsula Athletic Conference - Iron,'7-3,51.5,1.48,40.7
+255,Wyandotte,Downriver League,'2-7,51.3,1.3,60.9
+256,Sparta,River Cities Alliance,'4-5,51.3,1.3,58.2
+257,East Jordan,Northern Michigan Football League,'8-3,51.3,1.26,40.6
+258,Harbor Springs,Northern Michigan Football League,'8-2,51.1,1.12,36.6
+259,Harrison,Jack Pine Conference - II,'8-3,51.0,1.03,37.7
+260,Westland Glenn,Kensington Lakes Activities Association - Gold,'2-7,51.0,1.02,62.7
+261,Algonac,Macomb Area Conference - Bronze,'6-4,51.0,1.0,44.4
+262,Shepherd,Jack Pine Conference - I,'7-3,50.9,0.89,49.3
+263,Hanover-Horton,Cascades Conference - South,'7-3,50.8,0.78,48.1
+264,Comstock Park,Ottawa - Kent Conference - Silver,'4-6,50.7,0.7,51.2
+265,Wayland,Ottawa - Kent Conference - White,'2-7,50.6,0.61,59.6
+266,St. Clair Shores Lakeview,Macomb Area Conference - White,'13-8,50.6,0.6,49.9
+267,Pontiac Notre Dame,Independent,'5-5,50.4,0.37,47.7
+268,Three Rivers,Wolverine B Conference,'3-6,50.2,0.24,55.8
+269,Lake Fenton,Flint Metro League - Stars,'4-5,49.6,-0.4,54.4
+270,Scottville Mason County Central,West Michigan Conference - Rivers,'5-5,49.5,-0.47,45.8
+271,Lapeer,Saginaw Valley League - South,'2-7,49.2,-0.78,66.9
+272,Saginaw Michigan Lutheran Seminary,Tri - Valley Conference - Blue,'7-4,49.2,-0.78,43.4
+273,Brooklyn Columbia Central,Cascades Conference - South,'6-4,49.2,-0.8,41.1
+274,Lawton,Southwestern Athletic Conference - A,'5-5,49.1,-0.86,43.0
+275,Romulus,Western Wayne Athletic Conference,'6-3,49.1,-0.91,37.6
+276,Manton,Highland Conference,'7-3,49.0,-1.0,38.5
+277,Alpena,Big North Conference,'2-7,49.0,-1.01,53.2
+278,Southgate Anderson,Downriver League,'2-7,49.0,-1.03,59.0
+279,Center Line,Macomb Area Conference - Silver,'5-4,48.9,-1.09,42.6
+280,Detroit Southeastern,Detroit Public School League - 1,'6-4,48.7,-1.31,47.9
+281,Saranac,Central Michigan Athletic Conference,'7-3,48.6,-1.37,33.4
+282,Jackson,Southeastern Conference - White,'4-5,48.4,-1.6,54.7
+283,Elk Rapids,Northern Shores Conference,'6-4,48.3,-1.72,43.9
+284,Saginaw Valley Lutheran,Tri - Valley Conference - Blue,'6-4,48.3,-1.74,44.9
+285,Jonesville,Cascades Conference - South,'8-4,48.2,-1.78,44.1
+286,Gaylord,Big North Conference,'4-5,48.0,-1.96,52.5
+287,Swartz Creek,Flint Metro League - Stripes,'3-6,47.9,-2.07,51.7
+288,Kalamazoo Loy Norrix,Southwestern Michigan Athletic Conf. - A,'5-4,47.9,-2.11,48.3
+289,Detroit Community,Charter School Conference - Silver,'7-2,47.8,-2.2,27.6
+290,Shelby,West Michigan Conference - Rivers,'4-5,47.6,-2.39,39.6
+291,Ishpeming Westwood,Western Peninsula Athletic Conference - Copper,'4-5,47.5,-2.51,48.9
+292,Ypsilanti,Southeastern Conference - White,'3-6,47.5,-2.54,55.1
+293,Grosse Ile,Huron League,'3-6,47.4,-2.58,50.6
+294,Redford Union,Western Wayne Athletic Conference,'5-5,47.4,-2.6,48.6
+295,Fowlerville,Capital Area Activities Conference - Red,'3-6,47.4,-2.64,54.7
+296,Holland,Ottawa - Kent Conference - Silver,'4-5,47.3,-2.75,47.0
+297,Whitehall,West Michigan Conference - Lakes,'2-7,47.1,-2.94,51.3
+298,Mattawan,Southwestern Michigan Athletic Conf. - B,'3-6,47.0,-3.05,59.6
+299,Jackson Northwest,Interstate Eight Athletic Conference,'1-8,46.6,-3.44,55.2
+300,Whitmore Lake,Michigan Independent Athletic Conference,'6-4,46.6,-3.45,41.4
+301,Clio,Flint Metro League - Stars,'4-5,46.4,-3.61,41.7
+302,Corunna,Flint Metro League - Stars,'4-6,46.0,-3.96,52.9
+303,Cass City,Big Thumb Conference - White,'6-4,45.9,-4.08,50.5
+304,Vermontville Maple Valley,Big 8 Conference,'5-5,45.8,-4.16,41.5
+305,Farwell,Jack Pine Conference - II,'5-4,45.6,-4.35,36.9
+306,Lansing Waverly,Capital Area Activities Conference - Blue,'3-6,45.6,-4.39,59.8
+307,Saginaw Nouvel,Tri - Valley Conference - Blue,'5-5,45.5,-4.48,45.4
+308,Pinckney,Southeastern Conference - White,'2-7,45.5,-4.52,53.4
+309,Ann Arbor Huron,Southeastern Conference - Red,'1-8,45.4,-4.62,65.8
+310,Alma,Tri - Valley Conference - Red,'2-7,45.0,-5.02,52.6
+311,Vassar,Big Thumb Conference - Black,'5-5,44.8,-5.17,41.8
+312,Carleton Airport,Huron League,'2-7,44.7,-5.26,54.0
+313,Dearborn Edsel Ford,Downriver League,'3-6,44.6,-5.45,59.2
+314,Escanaba,Big North Conference,'4-5,44.5,-5.48,51.6
+315,Caro,Big Thumb Conference - White,'4-5,44.4,-5.57,47.3
+316,Richmond,Blue Water Area Conference,'0-9,44.4,-5.64,55.2
+317,Plainwell,Wolverine B Conference,'2-7,44.3,-5.68,53.2
+318,Frankfort,Northern Michigan Football League,'5-5,44.3,-5.73,34.5
+319,Houghton,Western Peninsula Athletic Conference - Copper,'2-7,44.2,-5.77,52.2
+320,Ovid-Elsie,Mid - Michigan Activities Conference,'4-5,44.2,-5.77,45.0
+321,Muskegon Oakridge,West Michigan Conference - Lakes,'2-7,44.2,-5.8,51.9
+322,Allen Park Cabrini,Catholic League - Intersectional 2,'5-5,43.9,-6.14,42.5
+323,Hancock,Western Peninsula Athletic Conference - Iron,'4-5,43.8,-6.18,42.3
+324,Royal Oak,Oakland Activities Association - Gold,'5-4,43.4,-6.61,44.5
+325,Port Huron Northern,Macomb Area Conference - White,'1-8,43.3,-6.69,65.4
+326,Blissfield,Lenawee County Athletic Association,'4-5,43.3,-6.7,42.2
+327,Troy,Oakland Activities Association - White,'1-8,43.0,-6.98,58.9
+328,Birch Run,Mid - Michigan Activities Conference,'4-5,43.0,-7.01,45.8
+329,Grant,Central State Activities Association - Gold,'3-6,42.7,-7.28,45.9
+330,Montague,West Michigan Conference - Lakes,'2-7,42.6,-7.37,52.5
+331,New Haven,Macomb Area Conference - Bronze,'6-4,42.6,-7.44,35.2
+332,Utica Ford,Macomb Area Conference - Blue,'3-6,42.6,-7.44,40.9
+333,Boyne City,Northern Shores Conference,'4-5,42.5,-7.49,45.8
+334,Dowagiac,Lakeland Athletic Conference,'3-6,42.4,-7.58,46.3
+335,Mt. Pleasant Sacred Heart,Independent,'6-4,42.2,-7.76,41.8
+336,Michigan Center,Cascades Conference - North,'4-5,42.2,-7.84,43.9
+337,Sturgis,Wolverine B Conference,'3-6,42.2,-7.85,55.6
+338,Otsego,Wolverine B Conference,'3-6,42.1,-7.9,57.1
+339,Chesaning,Mid - Michigan Activities Conference,'4-5,41.9,-8.05,40.9
+340,Clawson,Macomb Area Conference - Bronze,'6-4,41.9,-8.09,42.5
+341,Lansing Catholic,Capital Area Activities Conference - White,'2-7,41.9,-8.1,58.0
+342,Wayne Memorial,Kensington Lakes Activities Association - Gold,'0-9,41.9,-8.12,62.7
+343,Garden City,Western Wayne Athletic Conference,'4-5,41.4,-8.55,45.5
+344,Sandusky,Big Thumb Conference - White,'3-6,41.2,-8.75,43.5
+345,Yale,Blue Water Area Conference,'1-8,40.9,-9.06,54.8
+346,Leslie,Cascades Conference - North,'4-6,40.9,-9.06,46.9
+347,Galesburg-Augusta,Southwestern Athletic Conference - B,'7-3,40.9,-9.11,34.9
+348,Essexville Garber,Tri - Valley Conference - Red,'3-6,40.9,-9.15,47.1
+349,Dearborn Heights Robichaud,Western Wayne Athletic Conference,'5-5,40.8,-9.18,36.8
+350,Vestaburg,Independent,'6-4,40.7,-9.25,31.8
+351,Croswell-Lexington,Blue Water Area Conference,'2-7,40.5,-9.46,55.5
+352,Novi,Kensington Lakes Activities Association - Black,'1-8,40.5,-9.46,65.5
+353,Bay City Central,Saginaw Valley League - North,'2-7,40.2,-9.78,58.4
+354,Southfield,Oakland Activities Association - Blue,'1-8,40.1,-9.88,61.7
+355,Saugatuck,Southwestern Athletic Conference - B,'6-4,39.8,-10.19,38.5
+356,Mt. Clemens L'Anse Creuse,Macomb Area Conference - Blue,'4-5,39.8,-10.25,50.2
+357,Flint New Standard,Genesee Area Conference,'5-5,39.7,-10.3,37.8
+358,Ann Arbor Skyline,Southeastern Conference - Red,'1-8,39.5,-10.5,55.1
+359,Walled Lake Northern,Lakes Valley Conference,'1-8,39.3,-10.66,59.0
+360,Wyoming Kelloggsville,Ottawa - Kent Conference - Silver,'3-6,39.3,-10.71,47.4
+361,Detroit Lincoln-King,Independent,'4-5,39.0,-11.03,35.1
+362,Saginaw,Saginaw Valley League - South,'0-9,38.5,-11.45,63.2
+363,Grand Rapids Union,Ottawa - Kent Conference - Green,'1-8,38.4,-11.59,59.7
+364,Mt. Clemens Clintondale,Macomb Area Conference - Silver,'3-7,38.2,-11.81,48.6
+365,South Haven,Southwestern Athletic Conference - A,'3-6,38.0,-11.97,45.4
+366,Owosso,Flint Metro League - Stars,'3-6,38.0,-12.02,52.7
+367,Oscoda,Northern Michigan Football League,'6-4,37.9,-12.13,36.6
+368,Sand Creek,Great Lakes Football Conference,'5-5,37.7,-12.27,44.0
+369,Madison Heights Bishop Foley,Catholic League - Intersectional 2,'5-4,37.7,-12.33,30.9
+370,Eaton Rapids,Capital Area Activities Conference - White,'2-7,37.6,-12.35,55.0
+371,Berkley,Oakland Activities Association - Gold,'3-6,37.5,-12.47,50.8
+372,Battle Creek Lakeview,Southwestern Michigan Athletic Conf. - A,'1-8,37.4,-12.55,61.3
+373,Allendale,River Cities Alliance,'0-9,37.0,-12.96,60.5
+374,Fraser,Macomb Area Conference - Blue,'1-8,36.9,-13.1,53.6
+375,Auburn Hills Avondale,Oakland Activities Association - Gold,'3-6,36.9,-13.14,45.0
+376,Lansing Eastern,Capital Area Activities Conference - Red,'1-8,36.6,-13.36,53.4
+377,Greenville,River Cities Alliance,'2-7,36.4,-13.6,62.9
+378,Detroit Communications/Media Arts,Detroit Public School League - 2,'5-5,36.3,-13.66,40.9
+379,Centreville,Southwestern Athletic Conference - B,'2-7,35.9,-14.11,42.3
+380,Southfield Bradford,Charter School Conference - Silver,'7-4,35.9,-14.11,30.8
+381,Ionia,Capital Area Activities Conference - White,'0-9,35.9,-14.15,58.6
+382,Gladstone,Western Peninsula Athletic Conference - Copper,'1-8,35.8,-14.16,51.5
+383,Detroit Renaissance,Detroit Public School League - 1,'2-7,35.8,-14.17,54.3
+384,Lansing Everett,Capital Area Activities Conference - Blue,'0-9,35.3,-14.69,63.4
+385,Warren Cousino,Macomb Area Conference - Blue,'2-7,35.2,-14.84,51.1
+386,Detroit Henry Ford,Detroit Public School League - 1,'3-6,35.1,-14.93,44.4
+387,Coloma,Southwestern Athletic Conference - A,'3-6,34.7,-15.34,42.9
+388,Warren Lincoln,Macomb Area Conference - Bronze,'2-7,34.7,-15.34,45.2
+389,Reading,Big 8 Conference,'4-5,34.6,-15.45,35.6
+390,Hemlock,Tri - Valley Conference - Blue,'3-6,34.5,-15.45,38.9
+391,Ypsilanti Lincoln,Southeastern Conference - White,'0-9,34.5,-15.46,58.7
+392,Westland Lutheran,Michigan Independent Athletic Conference,'6-3,34.4,-15.61,30.2
+393,Dundee,Lenawee County Athletic Association,'2-7,34.3,-15.69,52.4
+394,Laingsburg,Central Michigan Athletic Conference,'3-5,33.9,-16.13,31.7
+395,Harper Woods Chandler Park,Charter School Conference - Gold,'3-5,33.8,-16.24,47.7
+396,Battle Creek Pennfield,Interstate Eight Athletic Conference,'1-8,33.6,-16.39,52.5
+397,Otisville LakeVille,Mid - Michigan Activities Conference,'2-7,33.3,-16.74,39.7
+398,L'Anse,Western Peninsula Athletic Conference - Iron,'4-6,33.2,-16.79,42.7
+399,Grass Lake,Cascades Conference - North,'2-7,33.2,-16.84,45.7
+400,Rochester Hills Lutheran Northwest,Michigan Independent Athletic Conference,'3-6,33.2,-16.85,36.1
+401,Harbor Beach,Big Thumb Conference - Black,'1-8,33.1,-16.92,49.3
+402,Walled Lake Central,Lakes Valley Conference,'1-8,32.9,-17.09,65.2
+403,Waterford Kettering,Oakland Activities Association - Gold,'2-7,32.7,-17.3,43.2
+404,Redford Westfield,Charter School Conference - Silver,'3-5,32.7,-17.31,34.5
+405,Ontonagon,Independent,'2-7,32.5,-17.47,48.7
+406,Warren Woods-Tower,Macomb Area Conference - Silver,'3-6,32.5,-17.53,38.9
+407,Manistique,Western Peninsula Athletic Conference - Iron,'4-5,32.2,-17.78,37.6
+408,Burton Atherton,Genesee Area Conference,'6-4,32.0,-18.01,27.2
+409,Hazel Park,Macomb Area Conference - Silver,'3-6,31.9,-18.15,42.2
+410,Hartford,Southwestern Athletic Conference - B,'4-5,31.6,-18.41,36.1
+411,Hillsdale,Lenawee County Athletic Association,'1-8,31.5,-18.54,51.6
+412,Marine City Cardinal Mooney,Catholic League - Intersectional 2,'6-4,31.3,-18.68,30.9
+413,Grand Rapids Ottawa Hills,Ottawa - Kent Conference - Black,'1-8,31.3,-18.71,52.3
+414,St. Clair Shores Lake Shore,Macomb Area Conference - Gold,'1-8,31.0,-19.02,47.0
+415,Evart,Highland Conference,'3-6,30.7,-19.29,40.8
+416,Grand Rapids NorthPointe Christian,Ottawa - Kent Conference - Silver,'2-7,30.4,-19.6,47.8
+417,Flint Kearsley,Flint Metro League - Stripes,'1-8,30.3,-19.74,51.3
+418,Petersburg Summerfield,Great Lakes Football Conference,'3-6,30.2,-19.75,37.5
+419,Livonia Clarenceville,Independent,'4-5,30.2,-19.75,30.7
+420,Beaverton,Jack Pine Conference - II,'4-5,30.1,-19.86,41.0
+421,Kalkaska,Northern Shores Conference,'2-7,30.0,-19.95,43.9
+422,Flint Hamady,Independent,'2-6,29.9,-20.09,44.7
+423,Morley-Stanwood,Central State Activities Association - Silver,'3-6,29.7,-20.34,32.5
+424,Grayling,Northern Shores Conference,'3-6,29.2,-20.76,42.7
+425,LeRoy Pine River,Highland Conference,'4-5,29.0,-21.0,40.9
+426,Onsted,Lenawee County Athletic Association,'1-8,28.8,-21.16,51.7
+427,Jackson Vandercook Lake,Cascades Conference - North,'4-5,28.7,-21.3,34.6
+428,Warren Warren-Mott,Macomb Area Conference - White,'1-8,28.7,-21.31,56.5
+429,Grosse Pointe Woods University Liggett,Catholic League - Intersectional 1,'4-5,28.6,-21.44,39.0
+430,Milan,Huron League,'1-8,28.5,-21.52,51.4
+431,Newaygo,Central State Activities Association - Gold,'2-7,28.4,-21.61,51.4
+432,Benton Harbor,Independent,'2-7,28.2,-21.84,42.6
+433,Comstock,Southwestern Athletic Conference - B,'3-6,27.3,-22.73,38.7
+434,Hart,West Michigan Conference - Lakes,'3-6,26.8,-23.21,44.4
+435,Allegan,Southwestern Athletic Conference - A,'1-6,26.8,-23.22,43.4
+436,St. Louis,Jack Pine Conference - II,'2-7,26.5,-23.45,39.9
+437,Ironwood,Independent,'1-8,26.5,-23.51,49.4
+438,Sterling Heights Parkway Christian,Michigan Independent Athletic Conference,'5-5,26.2,-23.77,27.3
+439,Carrollton,Tri - Valley Conference - Blue,'3-6,26.0,-23.96,37.4
+440,Hamtramck,Charter School Conference - Gold,'0-9,26.0,-23.96,55.3
+441,Perry,Central Michigan Athletic Conference,'4-5,25.4,-24.63,32.6
+442,Homer,Big 8 Conference,'1-8,25.0,-24.97,43.9
+443,Stanton Central Montcalm,Central State Activities Association - Silver,'1-8,24.6,-25.43,42.4
+444,Benzonia Benzie Central,Northern Michigan Football League,'2-7,24.5,-25.52,37.5
+445,Wyoming,Ottawa - Kent Conference - Gold,'0-9,24.3,-25.66,55.5
+446,Melvindale,Western Wayne Athletic Conference,'2-7,24.3,-25.73,37.5
+447,Johannesburg-Lewiston,Northern Michigan Football League,'3-6,24.1,-25.92,37.6
+448,Detroit Pershing,Detroit Public School League - 2,'4-5,23.6,-26.42,33.0
+449,Standish-Sterling,Jack Pine Conference - I,'1-8,23.6,-26.45,50.2
+450,Muskegon Catholic Central,Independent,'3-6,22.7,-27.28,39.4
+451,Niles Brandywine,Lakeland Athletic Conference,'2-7,22.7,-27.35,44.0
+452,Delton,Southwestern Athletic Conference - A,'1-8,22.4,-27.59,44.3
+453,Reese,Big Thumb Conference - Black,'0-9,22.0,-27.96,47.0
+454,Grandville Calvin Christian,Ottawa - Kent Conference - Silver,'1-8,21.9,-28.1,48.9
+455,Tawas City Area,Northern Michigan Football League,'1-8,21.5,-28.48,37.8
+456,Stockbridge,Big 8 Conference,'2-7,21.3,-28.66,41.6
+457,Detroit University Prep Science & Math,Independent,'0-9,21.2,-28.84,48.6
+458,Gobles,Southwestern Athletic Conference - B,'1-8,21.0,-29.01,37.2
+459,Houghton Lake,Highland Conference,'2-7,20.9,-29.1,39.9
+460,Detroit Western,Detroit Public School League - 1,'1-8,20.6,-29.39,47.8
+461,Iron River West Iron County,Western Peninsula Athletic Conference - Iron,'0-8,19.9,-30.12,34.3
+462,White Pigeon,Independent,'0-6,19.6,-30.37,36.7
+463,St. Clair Shores South Lake,Macomb Area Conference - Silver,'0-9,19.5,-30.49,49.4
+464,Hesperia,West Michigan Conference - Rivers,'1-8,19.2,-30.84,43.0
+465,Genesee,Genesee Area Conference,'4-5,18.6,-31.43,22.8
+466,Watervliet,Southwestern Athletic Conference - A,'1-7,18.5,-31.46,43.7
+467,Erie Mason,Great Lakes Football Conference,'1-8,18.0,-31.99,43.5
+468,Sault Ste. Marie,Big North Conference,'0-9,17.5,-32.54,51.8
+469,Mt. Clemens,Independent,'3-6,17.1,-32.91,30.9
+470,Detroit University Prep,Independent,'2-7,16.6,-33.43,36.1
+471,Lake City,Highland Conference,'0-9,16.6,-33.45,44.4
+472,Detroit Osborn,Detroit Public School League - 2,'1-8,16.5,-33.52,35.1
+473,Detroit Leadership,Charter School Conference - Silver,'3-6,16.4,-33.56,25.5
+474,Pontiac Arts & Tech,Charter School Conference - Silver,'0-7,15.9,-34.11,30.2
+475,Gwinn,Western Peninsula Athletic Conference - Iron,'2-7,15.7,-34.29,37.8
+476,Flint International,Genesee Area Conference,'2-7,15.4,-34.55,28.0
+477,Pontiac,Oakland Activities Association - Gold,'0-9,15.4,-34.56,45.2
+478,Eastpointe,Macomb Area Conference - Bronze,'0-9,15.3,-34.72,43.6
+479,Addison,Cascades Conference - South,'1-8,14.1,-35.92,43.6
+480,Dearborn Heights Annapolis,Western Wayne Athletic Conference,'0-9,14.1,-35.93,44.3
+481,Detroit Loyola,Catholic League - Intersectional 1,'0-9,13.9,-36.15,50.4
+482,Detroit Northwestern,Detroit Public School League - 2,'1-8,13.2,-36.84,39.4
+483,Melvindale Academy Business & Tech,Charter School Conference - Silver,'1-8,13.0,-36.97,36.2
+484,Waterford Our Lady of the Lakes,Catholic League - Intersectional 2,'0-9,12.0,-37.97,41.3
+485,Sterling Heights,Macomb Area Conference - Gold,'0-9,11.8,-38.15,48.5
+486,Auburn Hills Oakland Christian,Michigan Independent Athletic Conference,'1-8,9.3,-40.74,31.0
+487,Bridgeport,Tri - Valley Conference - Red,'0-9,8.7,-41.33,50.4
+488,White Cloud,Central State Activities Association - Silver,'0-9,5.5,-44.54,40.3
+489,Mt. Morris,Mid - Michigan Activities Conference,'0-9,5.4,-44.56,46.2
+490,Mancelona,Northern Michigan Football League,'0-9,5.2,-44.76,39.6
+491,Bath,Central Michigan Athletic Conference,'0-9,4.3,-45.69,43.9
+492,Pinconning,Jack Pine Conference - II,'1-7,3.0,-47.03,32.2
+493,East Jackson,Big 8 Conference,'0-9,2.9,-47.11,43.6
+494,Flint,Genesee Area Conference,'0-9,2.7,-47.32,28.8
+495,Flint Beecher,Genesee Area Conference,'1-8,2.2,-47.84,28.6
+496,Detroit Douglass,Detroit Public School League - 2,'0-9,1.4,-48.58,32.8
+497,Carson City-Crystal,Independent,'0-9,0.5,-49.48,33.0
