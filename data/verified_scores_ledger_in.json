@@ -10410,8 +10410,8 @@
         "date_iso": "2026-10-30",
         "opponent": "Evansville Reitz",
         "result": "W",
-        "team_score": 28,
-        "opp_score": 21,
+        "team_score": 42,
+        "opp_score": 26,
         "is_playoff": true
       },
       {
@@ -10421,6 +10421,15 @@
         "result": "W",
         "team_score": 34,
         "opp_score": 13,
+        "is_playoff": true
+      },
+      {
+        "date": "Nov. 13, 2026",
+        "date_iso": "2026-11-13",
+        "opponent": "East Central",
+        "result": "L",
+        "team_score": 7,
+        "opp_score": 35,
         "is_playoff": true
       }
     ],
@@ -11117,8 +11126,8 @@
         "date_iso": "2026-10-30",
         "opponent": "Heritage Hills",
         "result": "L",
-        "team_score": 21,
-        "opp_score": 28,
+        "team_score": 26,
+        "opp_score": 42,
         "is_playoff": true
       }
     ],
@@ -26180,6 +26189,15 @@
         "result": "W",
         "team_score": 63,
         "opp_score": 30,
+        "is_playoff": true
+      },
+      {
+        "date": "Nov. 13, 2026",
+        "date_iso": "2026-11-13",
+        "opponent": "Heritage Hills",
+        "result": "W",
+        "team_score": 35,
+        "opp_score": 7,
         "is_playoff": true
       }
     ],
@@ -45885,9 +45903,9 @@
       "date": "Oct. 30, 2026",
       "date_iso": "2026-10-30",
       "winner": "Heritage Hills",
-      "winner_score": 28,
+      "winner_score": 42,
       "loser": "Evansville Reitz",
-      "loser_score": 21,
+      "loser_score": 26,
       "round": "Playoffs"
     },
     {
@@ -46737,6 +46755,16 @@
       "winner": "Indianapolis Chatard",
       "winner_score": 24,
       "loser": "Roncalli",
+      "loser_score": 7,
+      "round": "Playoffs"
+    },
+    {
+      "season": "2026",
+      "date": "Nov. 13, 2026",
+      "date_iso": "2026-11-13",
+      "winner": "East Central",
+      "winner_score": 35,
+      "loser": "Heritage Hills",
       "loser_score": 7,
       "round": "Playoffs"
     },
