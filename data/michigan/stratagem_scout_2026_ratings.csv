@@ -91,8 +91,8 @@ rank,team,conference,record,power_index,raw_rating,sos_index
 90,New Baltimore Anchor Bay,Macomb Area Conference - White,'5-5,66.6,16.58,60.7
 91,Almont,Blue Water Area Conference,'12-0,66.6,16.57,51.1
 92,St. Clair,Macomb Area Conference - Silver,'8-3,66.6,16.55,43.3
-93,Monroe St. Mary Catholic,Huron League,'9-2,66.4,16.45,53.5
-94,East Grand Rapids,Ottawa - Kent Conference - Black,'6-4,66.4,16.45,61.7
+93,East Grand Rapids,Ottawa - Kent Conference - Black,'6-4,66.4,16.45,61.7
+94,Monroe St. Mary Catholic,Huron League,'9-2,66.4,16.45,53.5
 95,Monroe Jefferson,Huron League,'11-1,66.4,16.41,54.2
 96,Hudsonville Unity Christian,Ottawa - Kent Conference - Gold,'7-5,66.4,16.38,61.6
 97,Grand Rapids Forest Hills Eastern,Ottawa - Kent Conference - White,'9-2,66.4,16.35,55.8
@@ -154,11 +154,11 @@ rank,team,conference,record,power_index,raw_rating,sos_index
 153,Bay City Western,Saginaw Valley League - North,'3-6,60.2,10.23,60.2
 154,Big Rapids,Central State Activities Association - Gold,'5-5,60.2,10.18,58.3
 155,Muskegon Orchard View,West Michigan Conference - Lakes,'7-3,60.1,10.08,47.2
-156,McBain,Highland Conference,'7-3,60.1,10.06,46.4
-157,Madison Heights Lamphere,Macomb Area Conference - Gold,'5-5,60.1,10.06,52.8
+156,Madison Heights Lamphere,Macomb Area Conference - Gold,'5-5,60.1,10.06,52.8
+157,McBain,Highland Conference,'7-3,60.1,10.06,46.4
 158,Buchanan,Lakeland Athletic Conference,'7-3,59.8,9.82,44.7
-159,Holly,Flint Metro League - Stripes,'7-3,59.8,9.78,51.9
-160,Flint Powers,Independent,'7-3,59.8,9.78,44.0
+159,Flint Powers,Independent,'7-3,59.8,9.78,44.0
+160,Holly,Flint Metro League - Stripes,'7-3,59.8,9.78,51.9
 161,Ida,Lenawee County Athletic Association,'8-3,59.7,9.73,50.7
 162,Monroe,Southeastern Conference - Red,'4-5,59.7,9.72,58.9
 163,Cassopolis,Southwestern Athletic Conference - B,'8-2,59.5,9.53,35.3
@@ -180,8 +180,8 @@ rank,team,conference,record,power_index,raw_rating,sos_index
 179,Sterling Heights Stevenson,Macomb Area Conference - Red,'1-8,57.8,7.77,69.7
 180,Grand Haven,Ottawa - Kent Conference - Red,'4-5,57.8,7.76,71.2
 181,Detroit Cody,Detroit Public School League - 2,'8-2,57.6,7.65,38.3
-182,Imlay City,Blue Water Area Conference,'8-3,57.6,7.62,53.4
-183,Grand Rapids Forest Hills Northern,Ottawa - Kent Conference - Green,'4-5,57.6,7.62,61.7
+182,Grand Rapids Forest Hills Northern,Ottawa - Kent Conference - Green,'4-5,57.6,7.62,61.7
+183,Imlay City,Blue Water Area Conference,'8-3,57.6,7.62,53.4
 184,North Muskegon,West Michigan Conference - Rivers,'10-2,57.6,7.59,50.1
 185,Canton,Kensington Lakes Activities Association - Black,'3-6,57.5,7.55,60.1
 186,Warren Fitzgerald,Macomb Area Conference - Gold,'6-4,57.3,7.33,46.6
@@ -208,8 +208,8 @@ rank,team,conference,record,power_index,raw_rating,sos_index
 207,Armada,Blue Water Area Conference,'6-5,55.8,5.83,57.7
 208,Dexter,Southeastern Conference - Red,'4-6,55.8,5.77,66.1
 209,Okemos,Capital Area Activities Conference - Blue,'5-4,55.7,5.7,55.4
-210,Ludington,West Michigan Conference - Lakes,'8-3,55.3,5.35,53.9
-211,Lincoln Park,Downriver League,'3-6,55.3,5.35,61.9
+210,Lincoln Park,Downriver League,'3-6,55.3,5.35,61.9
+211,Ludington,West Michigan Conference - Lakes,'8-3,55.3,5.35,53.9
 212,Freeland,Tri - Valley Conference - Red,'4-5,55.1,5.15,53.9
 213,Bark River-Harris,Western Peninsula Athletic Conference - Iron,'9-3,55.0,5.04,46.6
 214,Reed City,Central State Activities Association - Gold,'6-4,55.0,4.99,48.9
@@ -221,8 +221,8 @@ rank,team,conference,record,power_index,raw_rating,sos_index
 220,Royal Oak Shrine,Catholic League - Intersectional 2,'9-2,54.2,4.21,34.8
 221,Calumet,Western Peninsula Athletic Conference - Copper,'6-4,54.1,4.13,50.5
 222,Marysville,Macomb Area Conference - Gold,'6-5,53.7,3.74,51.9
-223,Flat Rock,Huron League,'3-7,53.7,3.74,55.8
-224,Detroit Mumford,Detroit Public School League - 1,'4-6,53.7,3.74,50.7
+223,Detroit Mumford,Detroit Public School League - 1,'4-6,53.7,3.74,50.7
+224,Flat Rock,Huron League,'3-7,53.7,3.74,55.8
 225,Jenison,Ottawa - Kent Conference - Red,'2-7,53.7,3.73,70.8
 226,Maple City Glen Lake,Northern Michigan Football League,'8-3,53.6,3.57,37.9
 227,Richland Gull Lake,Independent,'0-4,53.6,3.55,55.6
@@ -254,8 +254,8 @@ rank,team,conference,record,power_index,raw_rating,sos_index
 253,Livonia Stevenson,Lakes Valley Conference,'2-7,51.3,1.33,60.1
 254,Williamston,Capital Area Activities Conference - Red,'5-5,51.3,1.31,57.5
 255,East Jordan,Northern Michigan Football League,'8-3,51.3,1.31,40.6
-256,Iron Mountain,Western Peninsula Athletic Conference - Iron,'7-3,51.2,1.18,40.3
-257,Harbor Springs,Northern Michigan Football League,'8-2,51.2,1.18,36.6
+256,Harbor Springs,Northern Michigan Football League,'8-2,51.2,1.18,36.6
+257,Iron Mountain,Western Peninsula Athletic Conference - Iron,'7-3,51.2,1.18,40.3
 258,Harrison,Jack Pine Conference - II,'8-3,51.1,1.08,37.8
 259,Algonac,Macomb Area Conference - Bronze,'6-4,51.0,0.96,44.4
 260,Wayland,Ottawa - Kent Conference - White,'2-7,51.0,0.96,60.0
@@ -435,8 +435,8 @@ rank,team,conference,record,power_index,raw_rating,sos_index
 434,Hart,West Michigan Conference - Lakes,'3-6,26.8,-23.21,44.4
 435,Allegan,Southwestern Athletic Conference - A,'1-6,26.7,-23.28,43.3
 436,St. Louis,Jack Pine Conference - II,'2-7,26.6,-23.38,40.0
-437,Carrollton,Tri - Valley Conference - Blue,'3-6,26.6,-23.41,38.1
-438,Ironwood,Independent,'1-8,26.6,-23.41,49.4
+437,Ironwood,Independent,'1-8,26.6,-23.41,49.4
+438,Carrollton,Tri - Valley Conference - Blue,'3-6,26.6,-23.41,38.1
 439,Sterling Heights Parkway Christian,Michigan Independent Athletic Conference,'5-5,26.4,-23.63,27.5
 440,Hamtramck,Charter School Conference - Gold,'0-9,25.9,-24.08,55.1
 441,Perry,Central Michigan Athletic Conference,'4-5,25.0,-24.97,32.1

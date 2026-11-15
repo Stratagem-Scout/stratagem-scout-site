@@ -1451,6 +1451,25 @@
       "Peaking in Tournament Play: Net margin surged +10.4 PPG over the last 3 games (+8.3 PPG)."
     ]
   },
+  "north central (indianapolis)": {
+    "team": "North Central (Indianapolis)",
+    "state": "IN",
+    "division": "6A",
+    "region": 6,
+    "record": "3-8",
+    "games_played": 11,
+    "avg_points_scored": 25.2,
+    "avg_points_allowed": 37.2,
+    "season_net_margin": -12.0,
+    "last_3_game_margin": -14.7,
+    "momentum_trend": -2.7,
+    "close_game_record": "2-2",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
+    ]
+  },
   "jasper": {
     "team": "Jasper",
     "state": "IN",
@@ -1469,25 +1488,6 @@
     "keys_to_victory": [
       "Explosive Separation Profile: Jasper has triggered the 35-point IHSAA running clock 3 times.",
       "Late-Season Margin Compression: Net differential dipped -14.6 PPG over the last 3 weeks."
-    ]
-  },
-  "north central (indianapolis)": {
-    "team": "North Central (Indianapolis)",
-    "state": "IN",
-    "division": "6A",
-    "region": 6,
-    "record": "3-8",
-    "games_played": 11,
-    "avg_points_scored": 25.2,
-    "avg_points_allowed": 37.2,
-    "season_net_margin": -12.0,
-    "last_3_game_margin": -14.7,
-    "momentum_trend": -2.7,
-    "close_game_record": "2-2",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
   "chesterton": {
@@ -4732,6 +4732,25 @@
       "Explosive Separation Profile: North Newton has triggered the 35-point IHSAA running clock 4 times."
     ]
   },
+  "churubusco": {
+    "team": "Churubusco",
+    "state": "IN",
+    "division": "1A",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 12.6,
+    "avg_points_allowed": 36.4,
+    "season_net_margin": -23.8,
+    "last_3_game_margin": -22.0,
+    "momentum_trend": 1.8,
+    "close_game_record": "3-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
+    ]
+  },
   "bowman academy": {
     "team": "Bowman Academy",
     "state": "IN",
@@ -4750,25 +4769,6 @@
     "keys_to_victory": [
       "Explosive Separation Profile: Bowman Academy has triggered the 35-point IHSAA running clock 3 times.",
       "Late-Season Margin Compression: Net differential dipped -11.7 PPG over the last 3 weeks."
-    ]
-  },
-  "churubusco": {
-    "team": "Churubusco",
-    "state": "IN",
-    "division": "1A",
-    "region": 1,
-    "record": "3-7",
-    "games_played": 10,
-    "avg_points_scored": 12.6,
-    "avg_points_allowed": 36.4,
-    "season_net_margin": -23.8,
-    "last_3_game_margin": -22.0,
-    "momentum_trend": 1.8,
-    "close_game_record": "3-1",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
   "park tudor": {
@@ -5140,25 +5140,6 @@
       "Peaking in Tournament Play: Net margin surged +16.8 PPG over the last 3 games (-20.0 PPG)."
     ]
   },
-  "jennings county": {
-    "team": "Jennings County",
-    "state": "IN",
-    "division": "4A",
-    "region": 7,
-    "record": "2-8",
-    "games_played": 10,
-    "avg_points_scored": 13.7,
-    "avg_points_allowed": 41.3,
-    "season_net_margin": -27.6,
-    "last_3_game_margin": -39.7,
-    "momentum_trend": -12.1,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 1,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Late-Season Margin Compression: Net differential dipped -12.1 PPG over the last 3 weeks."
-    ]
-  },
   "whiting": {
     "team": "Whiting",
     "state": "IN",
@@ -5176,6 +5157,25 @@
     "verified_press_intel": [],
     "keys_to_victory": [
       "Late-Season Margin Compression: Net differential dipped -8.3 PPG over the last 3 weeks."
+    ]
+  },
+  "jennings county": {
+    "team": "Jennings County",
+    "state": "IN",
+    "division": "4A",
+    "region": 7,
+    "record": "2-8",
+    "games_played": 10,
+    "avg_points_scored": 13.7,
+    "avg_points_allowed": 41.3,
+    "season_net_margin": -27.6,
+    "last_3_game_margin": -39.7,
+    "momentum_trend": -12.1,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 1,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -12.1 PPG over the last 3 weeks."
     ]
   },
   "culver": {
