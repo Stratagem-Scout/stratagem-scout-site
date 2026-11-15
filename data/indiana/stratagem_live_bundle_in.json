@@ -11,7 +11,7 @@
     "2A",
     "1A"
   ],
-  "updated_at": "2026-11-14T20:46:54.455746",
+  "updated_at": "2026-11-15T13:10:03.687085",
   "summary": {
     "total_teams": 309,
     "total_2026_games": 1665,
@@ -12091,6 +12091,131 @@
       ]
     },
     {
+      "team": "Fishers",
+      "state": "IN",
+      "division": "6A",
+      "region": 3,
+      "conference": "Hoosier Crossroads Conference",
+      "city": "Fishers",
+      "wins": 0,
+      "losses": 10,
+      "ties": 0,
+      "games_played": 10,
+      "record": "0-10",
+      "power_index": 64.1,
+      "spi": 64.1,
+      "raw_rating": 14.06,
+      "sos_index": 84.3,
+      "sos_raw": 34.3,
+      "ppg_scored": 15.4,
+      "ppg_off": 15.4,
+      "ppg_allowed": 40.7,
+      "ppg_def": 40.7,
+      "net_margin": -25.3,
+      "harbin_avg": 0.0,
+      "pqs": 0.0,
+      "ppa": 0.0,
+      "l1_pts": 0.0,
+      "l2_pts": 0,
+      "rank": 88,
+      "division_rank": 24,
+      "sos_rank": 1,
+      "contender_tier": "Regional Contender",
+      "seed": 24,
+      "schedule_2026": [
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-08-21",
+          "opponent": "Carmel",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 47,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-08-28",
+          "opponent": "Lawrence North",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 48,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-04",
+          "opponent": "Noblesville",
+          "result": "L",
+          "team_score": 19,
+          "opp_score": 21,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-11",
+          "opponent": "Hamilton Southeastern",
+          "result": "L",
+          "team_score": 35,
+          "opp_score": 49,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-18",
+          "opponent": "Brownsburg",
+          "result": "L",
+          "team_score": 10,
+          "opp_score": 49,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-25",
+          "opponent": "Avon",
+          "result": "L",
+          "team_score": 26,
+          "opp_score": 36,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-10-02",
+          "opponent": "Franklin Central",
+          "result": "L",
+          "team_score": 22,
+          "opp_score": 46,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-10-09",
+          "opponent": "Westfield",
+          "result": "L",
+          "team_score": 21,
+          "opp_score": 42,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-10-16",
+          "opponent": "Zionsville",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 45,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 30, 2026",
+          "date_iso": "2026-10-30",
+          "opponent": "Hamilton Southeastern",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 24,
+          "is_playoff": true
+        }
+      ]
+    },
+    {
       "team": "Hammond Morton",
       "state": "IN",
       "division": "4A",
@@ -12117,7 +12242,7 @@
       "ppa": 19.408,
       "l1_pts": 23.5,
       "l2_pts": 56.0,
-      "rank": 88,
+      "rank": 89,
       "division_rank": 25,
       "sos_rank": 121,
       "contender_tier": "Regional Contender",
@@ -12220,131 +12345,6 @@
           "result": "L",
           "team_score": 21,
           "opp_score": 44,
-          "is_playoff": true
-        }
-      ]
-    },
-    {
-      "team": "Fishers",
-      "state": "IN",
-      "division": "6A",
-      "region": 3,
-      "conference": "Hoosier Crossroads Conference",
-      "city": "Fishers",
-      "wins": 0,
-      "losses": 10,
-      "ties": 0,
-      "games_played": 10,
-      "record": "0-10",
-      "power_index": 64.1,
-      "spi": 64.1,
-      "raw_rating": 14.06,
-      "sos_index": 84.3,
-      "sos_raw": 34.3,
-      "ppg_scored": 15.4,
-      "ppg_off": 15.4,
-      "ppg_allowed": 40.7,
-      "ppg_def": 40.7,
-      "net_margin": -25.3,
-      "harbin_avg": 0.0,
-      "pqs": 0.0,
-      "ppa": 0.0,
-      "l1_pts": 0.0,
-      "l2_pts": 0,
-      "rank": 89,
-      "division_rank": 24,
-      "sos_rank": 1,
-      "contender_tier": "Regional Contender",
-      "seed": 24,
-      "schedule_2026": [
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-08-21",
-          "opponent": "Carmel",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 47,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-08-28",
-          "opponent": "Lawrence North",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 48,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-04",
-          "opponent": "Noblesville",
-          "result": "L",
-          "team_score": 19,
-          "opp_score": 21,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-11",
-          "opponent": "Hamilton Southeastern",
-          "result": "L",
-          "team_score": 35,
-          "opp_score": 49,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-18",
-          "opponent": "Brownsburg",
-          "result": "L",
-          "team_score": 10,
-          "opp_score": 49,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-25",
-          "opponent": "Avon",
-          "result": "L",
-          "team_score": 26,
-          "opp_score": 36,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-10-02",
-          "opponent": "Franklin Central",
-          "result": "L",
-          "team_score": 22,
-          "opp_score": 46,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-10-09",
-          "opponent": "Westfield",
-          "result": "L",
-          "team_score": 21,
-          "opp_score": 42,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-10-16",
-          "opponent": "Zionsville",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 45,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 30, 2026",
-          "date_iso": "2026-10-30",
-          "opponent": "Hamilton Southeastern",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 24,
           "is_playoff": true
         }
       ]
@@ -18237,149 +18237,6 @@
       ]
     },
     {
-      "team": "Sullivan",
-      "state": "IN",
-      "division": "3A",
-      "region": 7,
-      "conference": "Western Indiana Conference",
-      "city": "Sullivan",
-      "wins": 6,
-      "losses": 6,
-      "ties": 0,
-      "games_played": 12,
-      "record": "6-6",
-      "power_index": 54.9,
-      "spi": 54.9,
-      "raw_rating": 4.86,
-      "sos_index": 50.1,
-      "sos_raw": 0.11,
-      "ppg_scored": 31.9,
-      "ppg_off": 31.9,
-      "ppg_allowed": 28.3,
-      "ppg_def": 28.3,
-      "net_margin": 3.6,
-      "harbin_avg": 11.7222,
-      "pqs": 11.722,
-      "ppa": 11.722,
-      "l1_pts": 18.0,
-      "l2_pts": 35.0,
-      "rank": 134,
-      "division_rank": 28,
-      "sos_rank": 163,
-      "contender_tier": "Dark Horse",
-      "seed": 28,
-      "schedule_2026": [
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-08-21",
-          "opponent": "North Knox",
-          "result": "W",
-          "team_score": 41,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-08-28",
-          "opponent": "South Vermillion",
-          "result": "W",
-          "team_score": 55,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-04",
-          "opponent": "Northview",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 49,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-11",
-          "opponent": "Linton-Stockton",
-          "result": "W",
-          "team_score": 46,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-18",
-          "opponent": "South Putnam",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 58,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-25",
-          "opponent": "Owen Valley",
-          "result": "L",
-          "team_score": 30,
-          "opp_score": 38,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-10-02",
-          "opponent": "Edgewood",
-          "result": "L",
-          "team_score": 41,
-          "opp_score": 47,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-10-09",
-          "opponent": "Vincennes Lincoln",
-          "result": "L",
-          "team_score": 28,
-          "opp_score": 42,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-10-16",
-          "opponent": "West Vigo",
-          "result": "W",
-          "team_score": 48,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-10-23",
-          "opponent": "Owen Valley",
-          "result": "W",
-          "team_score": 52,
-          "opp_score": 27,
-          "is_playoff": true
-        },
-        {
-          "date": "Oct. 30, 2026",
-          "date_iso": "2026-10-30",
-          "opponent": "Scottsburg",
-          "result": "W",
-          "team_score": 28,
-          "opp_score": 21,
-          "is_playoff": true
-        },
-        {
-          "date": "Nov. 6, 2026",
-          "date_iso": "2026-11-06",
-          "opponent": "Indian Creek",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 37,
-          "is_playoff": true
-        }
-      ]
-    },
-    {
       "team": "Hagerstown",
       "state": "IN",
       "division": "2A",
@@ -18406,7 +18263,7 @@
       "ppa": 19.285,
       "l1_pts": 38.0,
       "l2_pts": 119.0,
-      "rank": 135,
+      "rank": 134,
       "division_rank": 14,
       "sos_rank": 271,
       "contender_tier": "Regional Contender",
@@ -18518,6 +18375,149 @@
           "result": "L",
           "team_score": 0,
           "opp_score": 48,
+          "is_playoff": true
+        }
+      ]
+    },
+    {
+      "team": "Sullivan",
+      "state": "IN",
+      "division": "3A",
+      "region": 7,
+      "conference": "Western Indiana Conference",
+      "city": "Sullivan",
+      "wins": 6,
+      "losses": 6,
+      "ties": 0,
+      "games_played": 12,
+      "record": "6-6",
+      "power_index": 54.9,
+      "spi": 54.9,
+      "raw_rating": 4.86,
+      "sos_index": 50.1,
+      "sos_raw": 0.11,
+      "ppg_scored": 31.9,
+      "ppg_off": 31.9,
+      "ppg_allowed": 28.3,
+      "ppg_def": 28.3,
+      "net_margin": 3.6,
+      "harbin_avg": 11.7222,
+      "pqs": 11.722,
+      "ppa": 11.722,
+      "l1_pts": 18.0,
+      "l2_pts": 35.0,
+      "rank": 135,
+      "division_rank": 28,
+      "sos_rank": 163,
+      "contender_tier": "Dark Horse",
+      "seed": 28,
+      "schedule_2026": [
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-08-21",
+          "opponent": "North Knox",
+          "result": "W",
+          "team_score": 41,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-08-28",
+          "opponent": "South Vermillion",
+          "result": "W",
+          "team_score": 55,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-04",
+          "opponent": "Northview",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 49,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-11",
+          "opponent": "Linton-Stockton",
+          "result": "W",
+          "team_score": 46,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-18",
+          "opponent": "South Putnam",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 58,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-25",
+          "opponent": "Owen Valley",
+          "result": "L",
+          "team_score": 30,
+          "opp_score": 38,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-10-02",
+          "opponent": "Edgewood",
+          "result": "L",
+          "team_score": 41,
+          "opp_score": 47,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-10-09",
+          "opponent": "Vincennes Lincoln",
+          "result": "L",
+          "team_score": 28,
+          "opp_score": 42,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-10-16",
+          "opponent": "West Vigo",
+          "result": "W",
+          "team_score": 48,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-10-23",
+          "opponent": "Owen Valley",
+          "result": "W",
+          "team_score": 52,
+          "opp_score": 27,
+          "is_playoff": true
+        },
+        {
+          "date": "Oct. 30, 2026",
+          "date_iso": "2026-10-30",
+          "opponent": "Scottsburg",
+          "result": "W",
+          "team_score": 28,
+          "opp_score": 21,
+          "is_playoff": true
+        },
+        {
+          "date": "Nov. 6, 2026",
+          "date_iso": "2026-11-06",
+          "opponent": "Indian Creek",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 37,
           "is_playoff": true
         }
       ]
@@ -52437,6 +52437,131 @@
       ]
     },
     {
+      "team": "Fishers",
+      "state": "IN",
+      "division": "6A",
+      "region": 3,
+      "conference": "Hoosier Crossroads Conference",
+      "city": "Fishers",
+      "wins": 0,
+      "losses": 10,
+      "ties": 0,
+      "games_played": 10,
+      "record": "0-10",
+      "power_index": 64.1,
+      "spi": 64.1,
+      "raw_rating": 14.06,
+      "sos_index": 84.3,
+      "sos_raw": 34.3,
+      "ppg_scored": 15.4,
+      "ppg_off": 15.4,
+      "ppg_allowed": 40.7,
+      "ppg_def": 40.7,
+      "net_margin": -25.3,
+      "harbin_avg": 0.0,
+      "pqs": 0.0,
+      "ppa": 0.0,
+      "l1_pts": 0.0,
+      "l2_pts": 0,
+      "rank": 88,
+      "division_rank": 24,
+      "sos_rank": 1,
+      "contender_tier": "Regional Contender",
+      "seed": 24,
+      "schedule_2026": [
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-08-21",
+          "opponent": "Carmel",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 47,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-08-28",
+          "opponent": "Lawrence North",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 48,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-04",
+          "opponent": "Noblesville",
+          "result": "L",
+          "team_score": 19,
+          "opp_score": 21,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-11",
+          "opponent": "Hamilton Southeastern",
+          "result": "L",
+          "team_score": 35,
+          "opp_score": 49,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-18",
+          "opponent": "Brownsburg",
+          "result": "L",
+          "team_score": 10,
+          "opp_score": 49,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-25",
+          "opponent": "Avon",
+          "result": "L",
+          "team_score": 26,
+          "opp_score": 36,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-10-02",
+          "opponent": "Franklin Central",
+          "result": "L",
+          "team_score": 22,
+          "opp_score": 46,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-10-09",
+          "opponent": "Westfield",
+          "result": "L",
+          "team_score": 21,
+          "opp_score": 42,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-10-16",
+          "opponent": "Zionsville",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 45,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 30, 2026",
+          "date_iso": "2026-10-30",
+          "opponent": "Hamilton Southeastern",
+          "result": "L",
+          "team_score": 14,
+          "opp_score": 24,
+          "is_playoff": true
+        }
+      ]
+    },
+    {
       "team": "Hammond Morton",
       "state": "IN",
       "division": "4A",
@@ -52463,7 +52588,7 @@
       "ppa": 19.408,
       "l1_pts": 23.5,
       "l2_pts": 56.0,
-      "rank": 88,
+      "rank": 89,
       "division_rank": 25,
       "sos_rank": 121,
       "contender_tier": "Regional Contender",
@@ -52566,131 +52691,6 @@
           "result": "L",
           "team_score": 21,
           "opp_score": 44,
-          "is_playoff": true
-        }
-      ]
-    },
-    {
-      "team": "Fishers",
-      "state": "IN",
-      "division": "6A",
-      "region": 3,
-      "conference": "Hoosier Crossroads Conference",
-      "city": "Fishers",
-      "wins": 0,
-      "losses": 10,
-      "ties": 0,
-      "games_played": 10,
-      "record": "0-10",
-      "power_index": 64.1,
-      "spi": 64.1,
-      "raw_rating": 14.06,
-      "sos_index": 84.3,
-      "sos_raw": 34.3,
-      "ppg_scored": 15.4,
-      "ppg_off": 15.4,
-      "ppg_allowed": 40.7,
-      "ppg_def": 40.7,
-      "net_margin": -25.3,
-      "harbin_avg": 0.0,
-      "pqs": 0.0,
-      "ppa": 0.0,
-      "l1_pts": 0.0,
-      "l2_pts": 0,
-      "rank": 89,
-      "division_rank": 24,
-      "sos_rank": 1,
-      "contender_tier": "Regional Contender",
-      "seed": 24,
-      "schedule_2026": [
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-08-21",
-          "opponent": "Carmel",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 47,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-08-28",
-          "opponent": "Lawrence North",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 48,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-04",
-          "opponent": "Noblesville",
-          "result": "L",
-          "team_score": 19,
-          "opp_score": 21,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-11",
-          "opponent": "Hamilton Southeastern",
-          "result": "L",
-          "team_score": 35,
-          "opp_score": 49,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-18",
-          "opponent": "Brownsburg",
-          "result": "L",
-          "team_score": 10,
-          "opp_score": 49,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-25",
-          "opponent": "Avon",
-          "result": "L",
-          "team_score": 26,
-          "opp_score": 36,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-10-02",
-          "opponent": "Franklin Central",
-          "result": "L",
-          "team_score": 22,
-          "opp_score": 46,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-10-09",
-          "opponent": "Westfield",
-          "result": "L",
-          "team_score": 21,
-          "opp_score": 42,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-10-16",
-          "opponent": "Zionsville",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 45,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 30, 2026",
-          "date_iso": "2026-10-30",
-          "opponent": "Hamilton Southeastern",
-          "result": "L",
-          "team_score": 14,
-          "opp_score": 24,
           "is_playoff": true
         }
       ]
@@ -58583,149 +58583,6 @@
       ]
     },
     {
-      "team": "Sullivan",
-      "state": "IN",
-      "division": "3A",
-      "region": 7,
-      "conference": "Western Indiana Conference",
-      "city": "Sullivan",
-      "wins": 6,
-      "losses": 6,
-      "ties": 0,
-      "games_played": 12,
-      "record": "6-6",
-      "power_index": 54.9,
-      "spi": 54.9,
-      "raw_rating": 4.86,
-      "sos_index": 50.1,
-      "sos_raw": 0.11,
-      "ppg_scored": 31.9,
-      "ppg_off": 31.9,
-      "ppg_allowed": 28.3,
-      "ppg_def": 28.3,
-      "net_margin": 3.6,
-      "harbin_avg": 11.7222,
-      "pqs": 11.722,
-      "ppa": 11.722,
-      "l1_pts": 18.0,
-      "l2_pts": 35.0,
-      "rank": 134,
-      "division_rank": 28,
-      "sos_rank": 163,
-      "contender_tier": "Dark Horse",
-      "seed": 28,
-      "schedule_2026": [
-        {
-          "date": "Aug. 21, 2026",
-          "date_iso": "2026-08-21",
-          "opponent": "North Knox",
-          "result": "W",
-          "team_score": 41,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Aug. 28, 2026",
-          "date_iso": "2026-08-28",
-          "opponent": "South Vermillion",
-          "result": "W",
-          "team_score": 55,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 4, 2026",
-          "date_iso": "2026-09-04",
-          "opponent": "Northview",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 49,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 11, 2026",
-          "date_iso": "2026-09-11",
-          "opponent": "Linton-Stockton",
-          "result": "W",
-          "team_score": 46,
-          "opp_score": 7,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 18, 2026",
-          "date_iso": "2026-09-18",
-          "opponent": "South Putnam",
-          "result": "L",
-          "team_score": 0,
-          "opp_score": 58,
-          "is_playoff": false
-        },
-        {
-          "date": "Sep. 25, 2026",
-          "date_iso": "2026-09-25",
-          "opponent": "Owen Valley",
-          "result": "L",
-          "team_score": 30,
-          "opp_score": 38,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 2, 2026",
-          "date_iso": "2026-10-02",
-          "opponent": "Edgewood",
-          "result": "L",
-          "team_score": 41,
-          "opp_score": 47,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 9, 2026",
-          "date_iso": "2026-10-09",
-          "opponent": "Vincennes Lincoln",
-          "result": "L",
-          "team_score": 28,
-          "opp_score": 42,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 16, 2026",
-          "date_iso": "2026-10-16",
-          "opponent": "West Vigo",
-          "result": "W",
-          "team_score": 48,
-          "opp_score": 0,
-          "is_playoff": false
-        },
-        {
-          "date": "Oct. 23, 2026",
-          "date_iso": "2026-10-23",
-          "opponent": "Owen Valley",
-          "result": "W",
-          "team_score": 52,
-          "opp_score": 27,
-          "is_playoff": true
-        },
-        {
-          "date": "Oct. 30, 2026",
-          "date_iso": "2026-10-30",
-          "opponent": "Scottsburg",
-          "result": "W",
-          "team_score": 28,
-          "opp_score": 21,
-          "is_playoff": true
-        },
-        {
-          "date": "Nov. 6, 2026",
-          "date_iso": "2026-11-06",
-          "opponent": "Indian Creek",
-          "result": "L",
-          "team_score": 7,
-          "opp_score": 37,
-          "is_playoff": true
-        }
-      ]
-    },
-    {
       "team": "Hagerstown",
       "state": "IN",
       "division": "2A",
@@ -58752,7 +58609,7 @@
       "ppa": 19.285,
       "l1_pts": 38.0,
       "l2_pts": 119.0,
-      "rank": 135,
+      "rank": 134,
       "division_rank": 14,
       "sos_rank": 271,
       "contender_tier": "Regional Contender",
@@ -58864,6 +58721,149 @@
           "result": "L",
           "team_score": 0,
           "opp_score": 48,
+          "is_playoff": true
+        }
+      ]
+    },
+    {
+      "team": "Sullivan",
+      "state": "IN",
+      "division": "3A",
+      "region": 7,
+      "conference": "Western Indiana Conference",
+      "city": "Sullivan",
+      "wins": 6,
+      "losses": 6,
+      "ties": 0,
+      "games_played": 12,
+      "record": "6-6",
+      "power_index": 54.9,
+      "spi": 54.9,
+      "raw_rating": 4.86,
+      "sos_index": 50.1,
+      "sos_raw": 0.11,
+      "ppg_scored": 31.9,
+      "ppg_off": 31.9,
+      "ppg_allowed": 28.3,
+      "ppg_def": 28.3,
+      "net_margin": 3.6,
+      "harbin_avg": 11.7222,
+      "pqs": 11.722,
+      "ppa": 11.722,
+      "l1_pts": 18.0,
+      "l2_pts": 35.0,
+      "rank": 135,
+      "division_rank": 28,
+      "sos_rank": 163,
+      "contender_tier": "Dark Horse",
+      "seed": 28,
+      "schedule_2026": [
+        {
+          "date": "Aug. 21, 2026",
+          "date_iso": "2026-08-21",
+          "opponent": "North Knox",
+          "result": "W",
+          "team_score": 41,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Aug. 28, 2026",
+          "date_iso": "2026-08-28",
+          "opponent": "South Vermillion",
+          "result": "W",
+          "team_score": 55,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 4, 2026",
+          "date_iso": "2026-09-04",
+          "opponent": "Northview",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 49,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 11, 2026",
+          "date_iso": "2026-09-11",
+          "opponent": "Linton-Stockton",
+          "result": "W",
+          "team_score": 46,
+          "opp_score": 7,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 18, 2026",
+          "date_iso": "2026-09-18",
+          "opponent": "South Putnam",
+          "result": "L",
+          "team_score": 0,
+          "opp_score": 58,
+          "is_playoff": false
+        },
+        {
+          "date": "Sep. 25, 2026",
+          "date_iso": "2026-09-25",
+          "opponent": "Owen Valley",
+          "result": "L",
+          "team_score": 30,
+          "opp_score": 38,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 2, 2026",
+          "date_iso": "2026-10-02",
+          "opponent": "Edgewood",
+          "result": "L",
+          "team_score": 41,
+          "opp_score": 47,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 9, 2026",
+          "date_iso": "2026-10-09",
+          "opponent": "Vincennes Lincoln",
+          "result": "L",
+          "team_score": 28,
+          "opp_score": 42,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 16, 2026",
+          "date_iso": "2026-10-16",
+          "opponent": "West Vigo",
+          "result": "W",
+          "team_score": 48,
+          "opp_score": 0,
+          "is_playoff": false
+        },
+        {
+          "date": "Oct. 23, 2026",
+          "date_iso": "2026-10-23",
+          "opponent": "Owen Valley",
+          "result": "W",
+          "team_score": 52,
+          "opp_score": 27,
+          "is_playoff": true
+        },
+        {
+          "date": "Oct. 30, 2026",
+          "date_iso": "2026-10-30",
+          "opponent": "Scottsburg",
+          "result": "W",
+          "team_score": 28,
+          "opp_score": 21,
+          "is_playoff": true
+        },
+        {
+          "date": "Nov. 6, 2026",
+          "date_iso": "2026-11-06",
+          "opponent": "Indian Creek",
+          "result": "L",
+          "team_score": 7,
+          "opp_score": 37,
           "is_playoff": true
         }
       ]
@@ -80777,7 +80777,7 @@
       "conference": "Mid-State Conference",
       "teams_count": 8,
       "avg_power_index": 65.7,
-      "avg_raw_rating": 15.68,
+      "avg_raw_rating": 15.67,
       "top_team": "Decatur Central",
       "top_team_pi": 86.3,
       "rank": 8
@@ -80794,7 +80794,7 @@
     {
       "conference": "Northeast 8 Conference",
       "teams_count": 8,
-      "avg_power_index": 60.9,
+      "avg_power_index": 60.8,
       "avg_raw_rating": 10.84,
       "top_team": "East Noble",
       "top_team_pi": 80.3,
@@ -80849,7 +80849,7 @@
       "conference": "Eastern Crossroads Conference",
       "teams_count": 6,
       "avg_power_index": 55.2,
-      "avg_raw_rating": 5.27,
+      "avg_raw_rating": 5.26,
       "top_team": "Eastern Hancock",
       "top_team_pi": 76.8,
       "rank": 16
@@ -80939,7 +80939,7 @@
       "conference": "North Central Conference",
       "teams_count": 6,
       "avg_power_index": 48.9,
-      "avg_raw_rating": -1.08,
+      "avg_raw_rating": -1.09,
       "top_team": "Lafayette Jefferson",
       "top_team_pi": 82.4,
       "rank": 26
@@ -81073,7 +81073,7 @@
     {
       "conference": "Greater South Shore - North Conference",
       "teams_count": 4,
-      "avg_power_index": 25.4,
+      "avg_power_index": 25.3,
       "avg_raw_rating": -24.66,
       "top_team": "Boone Grove",
       "top_team_pi": 33.5,
@@ -81091,7 +81091,7 @@
     {
       "conference": "Midwest Conference",
       "teams_count": 6,
-      "avg_power_index": 20.6,
+      "avg_power_index": 20.5,
       "avg_raw_rating": -29.45,
       "top_team": "West Central",
       "top_team_pi": 51.0,
@@ -83934,25 +83934,6 @@
         "Stingy Scoring Defense: Allowing just 10.8 PPG. Prioritize hidden special-teams yardage and red-zone execution."
       ]
     },
-    "hammond morton": {
-      "team": "Hammond Morton",
-      "state": "IN",
-      "division": "4A",
-      "region": 1,
-      "record": "6-5",
-      "games_played": 11,
-      "avg_points_scored": 34.9,
-      "avg_points_allowed": 24.1,
-      "season_net_margin": 10.8,
-      "last_3_game_margin": 3.7,
-      "momentum_trend": -7.1,
-      "close_game_record": "1-2",
-      "mercy_rule_wins": 2,
-      "verified_press_intel": [],
-      "keys_to_victory": [
-        "Late-Season Margin Compression: Net differential dipped -7.1 PPG over the last 3 weeks."
-      ]
-    },
     "fishers": {
       "team": "Fishers",
       "state": "IN",
@@ -83970,6 +83951,25 @@
       "verified_press_intel": [],
       "keys_to_victory": [
         "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
+      ]
+    },
+    "hammond morton": {
+      "team": "Hammond Morton",
+      "state": "IN",
+      "division": "4A",
+      "region": 1,
+      "record": "6-5",
+      "games_played": 11,
+      "avg_points_scored": 34.9,
+      "avg_points_allowed": 24.1,
+      "season_net_margin": 10.8,
+      "last_3_game_margin": 3.7,
+      "momentum_trend": -7.1,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 2,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Late-Season Margin Compression: Net differential dipped -7.1 PPG over the last 3 weeks."
       ]
     },
     "whiteland": {
@@ -84823,25 +84823,6 @@
         "Late-Season Margin Compression: Net differential dipped -9.8 PPG over the last 3 weeks."
       ]
     },
-    "sullivan": {
-      "team": "Sullivan",
-      "state": "IN",
-      "division": "3A",
-      "region": 7,
-      "record": "6-6",
-      "games_played": 12,
-      "avg_points_scored": 31.9,
-      "avg_points_allowed": 28.3,
-      "season_net_margin": 3.6,
-      "last_3_game_margin": 0.7,
-      "momentum_trend": -2.9,
-      "close_game_record": "1-2",
-      "mercy_rule_wins": 3,
-      "verified_press_intel": [],
-      "keys_to_victory": [
-        "Explosive Separation Profile: Sullivan has triggered the 35-point IHSAA running clock 3 times."
-      ]
-    },
     "hagerstown": {
       "team": "Hagerstown",
       "state": "IN",
@@ -84860,6 +84841,25 @@
       "keys_to_victory": [
         "Explosive Separation Profile: Hagerstown has triggered the 35-point IHSAA running clock 5 times.",
         "Late-Season Margin Compression: Net differential dipped -15.6 PPG over the last 3 weeks."
+      ]
+    },
+    "sullivan": {
+      "team": "Sullivan",
+      "state": "IN",
+      "division": "3A",
+      "region": 7,
+      "record": "6-6",
+      "games_played": 12,
+      "avg_points_scored": 31.9,
+      "avg_points_allowed": 28.3,
+      "season_net_margin": 3.6,
+      "last_3_game_margin": 0.7,
+      "momentum_trend": -2.9,
+      "close_game_record": "1-2",
+      "mercy_rule_wins": 3,
+      "verified_press_intel": [],
+      "keys_to_victory": [
+        "Explosive Separation Profile: Sullivan has triggered the 35-point IHSAA running clock 3 times."
       ]
     },
     "jimtown": {
