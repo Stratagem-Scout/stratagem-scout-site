@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" style="background:#0b1120;font-family:monospace">
+<defs>
+  <marker id="arrowCyan" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#22d3ee"/></marker>
+  <marker id="arrowGold" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#fbbf24"/></marker>
+  <marker id="arrowAmber" markerWidth="7" markerHeight="7" refX="5" refY="3" orient="auto"><path d="M0,0 L0,6 L6,3 z" fill="#f59e0b"/></marker>
+</defs>
+<text x="16" y="22" fill="#f8fafc" font-size="10" font-weight="bold">Snap #68 | I-Formation (Balanced) vs 4-3 Even | 21P | I-Back | Cover 1 (Left Hash)</text>
+<line x1="225" y1="36" x2="225" y2="300" stroke="#1e293b" stroke-dasharray="4,6" stroke-width="1"/>
+<line x1="375" y1="36" x2="375" y2="300" stroke="#1e293b" stroke-dasharray="4,6" stroke-width="1"/>
+<line x1="16" y1="185.0" x2="584" y2="185.0" stroke="#38bdf8" stroke-dasharray="6,4" stroke-width="1.5"/>
+<ellipse cx="225.0" cy="185.0" rx="5" ry="3" fill="#a16207" stroke="#fde047" stroke-width="1"/>
+<line x1="225.0" y1="242.5" x2="229.1" y2="81.5" stroke="#22d3ee" stroke-width="2.4" marker-end="url(#arrowCyan)"/>
+<line x1="229.1" y1="81.5" x2="237.3" y2="47.0" stroke="#fbbf24" stroke-width="1.8" stroke-dasharray="5,4" marker-end="url(#arrowGold)"/>
+<circle cx="225.0" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="225.0" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">QB</text>
+<circle cx="225.0" cy="219.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="225.0" y="222.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">FB</text>
+<circle cx="225.0" cy="242.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="225.0" y="245.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">RB</text>
+<circle cx="225.0" cy="185.0" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="225.0" y="188.2" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">C</text>
+<circle cx="212.7" cy="185.0" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="212.7" y="188.2" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">LG</text>
+<circle cx="200.4" cy="185.0" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="200.4" y="188.2" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">LT</text>
+<circle cx="237.3" cy="185.0" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="237.3" y="188.2" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">RG</text>
+<circle cx="249.6" cy="185.0" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="249.6" y="188.2" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">RT</text>
+<circle cx="188.1" cy="185.0" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="188.1" y="188.2" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">TE_L</text>
+<circle cx="261.9" cy="185.0" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="261.9" y="188.2" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">TE_R</text>
+<circle cx="77.4" cy="185.0" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="77.4" y="188.2" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">WR_X</text>
+<text x="225.0" y="212.0" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">MLB</text>
+<text x="216.8" y="177.5" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DT_L</text>
+<text x="233.2" y="177.5" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DT_R</text>
+<text x="196.3" y="177.5" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DE_L</text>
+<text x="253.7" y="177.5" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DE_R</text>
+<text x="16" y="312" fill="#94a3b8" font-size="8.5">Cyan Solid: Primary Lane/Target  |  Gold Dashed: Cut-Vision Read  |  Amber: Pre-Snap Motion</text>
+</svg>

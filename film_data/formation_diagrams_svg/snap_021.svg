@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" style="background:#0b1120;font-family:monospace">
+<defs>
+  <marker id="arrowCyan" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#22d3ee"/></marker>
+  <marker id="arrowGold" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#fbbf24"/></marker>
+  <marker id="arrowAmber" markerWidth="7" markerHeight="7" refX="5" refY="3" orient="auto"><path d="M0,0 L0,6 L6,3 z" fill="#f59e0b"/></marker>
+</defs>
+<text x="16" y="22" fill="#f8fafc" font-size="10" font-weight="bold">Snap #21 | Trips Right (Field) vs 4-2-5 Over | 11P | Offset Strong | Cover 3 (Left Hash)</text>
+<line x1="225" y1="36" x2="225" y2="300" stroke="#1e293b" stroke-dasharray="4,6" stroke-width="1"/>
+<line x1="375" y1="36" x2="375" y2="300" stroke="#1e293b" stroke-dasharray="4,6" stroke-width="1"/>
+<line x1="16" y1="185.0" x2="584" y2="185.0" stroke="#38bdf8" stroke-dasharray="6,4" stroke-width="1.5"/>
+<ellipse cx="225.0" cy="185.0" rx="5" ry="3" fill="#a16207" stroke="#fde047" stroke-width="1"/>
+<line x1="208.6" y1="242.5" x2="257.8" y2="139.0" stroke="#22d3ee" stroke-width="2.4" marker-end="url(#arrowCyan)"/>
+<line x1="225.0" y1="162.0" x2="225.0" y2="150.5" stroke="#fbbf24" stroke-width="1.8" stroke-dasharray="5,4" marker-end="url(#arrowGold)"/>
+<circle cx="198.8" cy="190.8" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="198.8" y="193.9" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">LT</text>
+<circle cx="211.9" cy="190.8" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="211.9" y="193.9" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">LG</text>
+<circle cx="225.0" cy="188.4" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="225.0" y="191.6" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">C</text>
+<circle cx="238.1" cy="190.8" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="238.1" y="193.9" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">RG</text>
+<circle cx="251.2" cy="190.8" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="251.2" y="193.9" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">RT</text>
+<circle cx="225.0" cy="237.9" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="225.0" y="241.1" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">QB</text>
+<circle cx="89.7" cy="190.8" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="89.7" y="193.9" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">X</text>
+<circle cx="264.4" cy="191.9" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="264.4" y="195.1" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">Y</text>
+<circle cx="311.1" cy="202.2" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="311.1" y="205.4" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">H</text>
+<circle cx="368.5" cy="191.9" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="368.5" y="195.1" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">Z</text>
+<circle cx="210.2" cy="237.9" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="210.2" y="241.1" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">RB</text>
+<text x="192.2" y="177.5" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DE</text>
+<text x="213.5" y="177.5" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DT</text>
+<text x="239.8" y="177.5" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DT</text>
+<text x="261.1" y="177.5" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DE</text>
+<text x="211.9" y="138.4" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">MIKE</text>
+<text x="243.0" y="138.4" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">WILL</text>
+<text x="294.7" y="133.8" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">NI</text>
+<text x="89.7" y="114.2" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">CB</text>
+<text x="360.3" y="114.2" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">CB</text>
+<text x="171.7" y="110.8" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">SS</text>
+<text x="225.0" y="56.8" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">FS</text>
+<text x="16" y="312" fill="#94a3b8" font-size="8.5">Cyan Solid: Primary Lane/Target  |  Gold Dashed: Cut-Vision Read  |  Amber: Pre-Snap Motion</text>
+</svg>

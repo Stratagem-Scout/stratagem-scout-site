@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" style="background:#0b1120;font-family:monospace">
+<defs>
+  <marker id="arrowCyan" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#22d3ee"/></marker>
+  <marker id="arrowGold" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#fbbf24"/></marker>
+  <marker id="arrowAmber" markerWidth="7" markerHeight="7" refX="5" refY="3" orient="auto"><path d="M0,0 L0,6 L6,3 z" fill="#f59e0b"/></marker>
+</defs>
+<text x="16" y="22" fill="#f8fafc" font-size="10" font-weight="bold">Snap #75 | Gun Trips Right (Field) vs 4-2-5 Over | 11P | Offset Weak | Cover 3 (Left Hash)</text>
+<line x1="225" y1="36" x2="225" y2="300" stroke="#1e293b" stroke-dasharray="4,6" stroke-width="1"/>
+<line x1="375" y1="36" x2="375" y2="300" stroke="#1e293b" stroke-dasharray="4,6" stroke-width="1"/>
+<line x1="16" y1="185.0" x2="584" y2="185.0" stroke="#38bdf8" stroke-dasharray="6,4" stroke-width="1.5"/>
+<ellipse cx="225.0" cy="185.0" rx="5" ry="3" fill="#a16207" stroke="#fde047" stroke-width="1"/>
+<line x1="192.2" y1="265.5" x2="208.6" y2="150.5" stroke="#22d3ee" stroke-width="2.4" marker-end="url(#arrowCyan)"/>
+<line x1="208.6" y1="150.5" x2="225.0" y2="127.5" stroke="#fbbf24" stroke-width="1.8" stroke-dasharray="5,4" marker-end="url(#arrowGold)"/>
+<circle cx="208.6" cy="242.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="208.6" y="245.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">QB</text>
+<circle cx="192.2" cy="265.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="192.2" y="268.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">RB</text>
+<circle cx="175.8" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="175.8" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">LT</text>
+<circle cx="192.2" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="192.2" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">LG</text>
+<circle cx="208.6" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="208.6" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">C</text>
+<circle cx="225.0" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="225.0" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">RG</text>
+<circle cx="241.4" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="241.4" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">RT</text>
+<circle cx="159.4" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="159.4" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">TE</text>
+<circle cx="126.6" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="126.6" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">WR-X</text>
+<circle cx="274.2" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="274.2" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">WR-H</text>
+<circle cx="323.4" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="323.4" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">WR-Z</text>
+<text x="155.3" y="177.5" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DE-B</text>
+<text x="188.1" y="177.5" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DT-B</text>
+<text x="220.9" y="177.5" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DT-F</text>
+<text x="245.5" y="177.5" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DE-F</text>
+<text x="200.4" y="143.0" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">MLB</text>
+<text x="233.2" y="143.0" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">WLB</text>
+<text x="118.4" y="166.0" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">CB-B</text>
+<text x="331.6" y="166.0" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">CB-F</text>
+<text x="257.8" y="97.0" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">S-FS</text>
+<text x="184.0" y="108.5" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">S-SS</text>
+<text x="282.4" y="154.5" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">NB</text>
+<text x="16" y="312" fill="#94a3b8" font-size="8.5">Cyan Solid: Primary Lane/Target  |  Gold Dashed: Cut-Vision Read  |  Amber: Pre-Snap Motion</text>
+</svg>
