@@ -1,48 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" style="background:#0b1120;font-family:monospace">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 330" style="background:#07111e;font-family:monospace">
 <defs>
   <marker id="arrowCyan" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#22d3ee"/></marker>
   <marker id="arrowGold" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#fbbf24"/></marker>
   <marker id="arrowAmber" markerWidth="7" markerHeight="7" refX="5" refY="3" orient="auto"><path d="M0,0 L0,6 L6,3 z" fill="#f59e0b"/></marker>
+  <marker id="arrowRed" markerWidth="7" markerHeight="7" refX="5" refY="3" orient="auto"><path d="M0,0 L0,6 L6,3 z" fill="#ef4444"/></marker>
 </defs>
-<text x="16" y="22" fill="#f8fafc" font-size="10" font-weight="bold">Snap #78 | Trips Right (Field) vs 4-2-5 Over | 11P | Offset Weak | Cover 3 (Left Hash)</text>
-<line x1="225" y1="36" x2="225" y2="300" stroke="#1e293b" stroke-dasharray="4,6" stroke-width="1"/>
-<line x1="375" y1="36" x2="375" y2="300" stroke="#1e293b" stroke-dasharray="4,6" stroke-width="1"/>
-<line x1="16" y1="185.0" x2="584" y2="185.0" stroke="#38bdf8" stroke-dasharray="6,4" stroke-width="1.5"/>
-<ellipse cx="225.0" cy="185.0" rx="5" ry="3" fill="#a16207" stroke="#fde047" stroke-width="1"/>
-<line x1="323.4" y1="196.5" x2="339.8" y2="116.0" stroke="#22d3ee" stroke-width="2.4" marker-end="url(#arrowCyan)"/>
-<line x1="267.6" y1="162.0" x2="171.7" y2="150.5" stroke="#fbbf24" stroke-width="1.8" stroke-dasharray="5,4" marker-end="url(#arrowGold)"/>
-<circle cx="208.6" cy="236.8" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
-<text x="208.6" y="239.9" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">QB</text>
-<circle cx="188.1" cy="248.2" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
-<text x="188.1" y="251.4" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">RB</text>
-<circle cx="192.2" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
-<text x="192.2" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">LT</text>
-<circle cx="208.6" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
-<text x="208.6" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">LG</text>
-<circle cx="225.0" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
-<text x="225.0" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">C</text>
-<circle cx="241.4" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
-<text x="241.4" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">RG</text>
-<circle cx="257.8" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
-<text x="257.8" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">RT</text>
-<circle cx="171.7" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
-<text x="171.7" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">TE</text>
-<circle cx="102.0" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
-<text x="102.0" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">X</text>
-<circle cx="274.2" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
-<text x="274.2" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">H</text>
-<circle cx="323.4" cy="196.5" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
-<text x="323.4" y="199.7" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">Z</text>
-<text x="163.5" y="183.2" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DE</text>
-<text x="204.5" y="183.2" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DT</text>
-<text x="237.3" y="183.2" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DT</text>
-<text x="266.0" y="183.2" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DE</text>
-<text x="212.7" y="143.0" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">MLB</text>
-<text x="253.7" y="143.0" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">WLB</text>
-<text x="93.8" y="120.0" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">CB</text>
-<text x="225.0" y="74.0" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">FS</text>
-<text x="274.2" y="108.5" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">SS</text>
-<text x="331.6" y="120.0" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">CB</text>
-<text x="290.6" y="154.5" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">NB</text>
-<text x="16" y="312" fill="#94a3b8" font-size="8.5">Cyan Solid: Primary Lane/Target  |  Gold Dashed: Cut-Vision Read  |  Amber: Pre-Snap Motion</text>
+<rect x="0" y="0" width="600" height="36" fill="#0f172a"/>
+<text x="12" y="15" fill="#38bdf8" font-size="9.5" font-weight="bold">PLAY #78 (D31) · SOUTH LYON OFF vs MILFORD DEF · Q3 00:57 · 2&amp;7 at Opp 37 (Left Hash)</text>
+<text x="12" y="29" fill="#e2e8f0" font-size="9">12P Twins Open | 4-3 Even (7-Box · Quarters / 2-Read)</text>
+<line x1="16" y1="76" x2="584" y2="76" stroke="#1e293b" stroke-width="1"/>
+<line x1="16" y1="132" x2="584" y2="132" stroke="#1e293b" stroke-width="1"/>
+<line x1="16" y1="244" x2="584" y2="244" stroke="#1e293b" stroke-width="1"/>
+<line x1="225" y1="38" x2="225" y2="300" stroke="#1e293b" stroke-dasharray="4,6" stroke-width="1"/>
+<line x1="375" y1="38" x2="375" y2="300" stroke="#1e293b" stroke-dasharray="4,6" stroke-width="1"/>
+<line x1="16" y1="188.0" x2="584" y2="188.0" stroke="#38bdf8" stroke-dasharray="6,4" stroke-width="1.6"/>
+<ellipse cx="225.0" cy="188.0" rx="5" ry="3.2" fill="#a16207" stroke="#fde047" stroke-width="1"/>
+<text x="588" y="29" fill="#fbbf24" font-size="9" font-weight="bold" text-anchor="end">MOTION: JET MOTION</text>
+<line x1="192.2" y1="210.4" x2="266.0" y2="216.0" stroke="#f59e0b" stroke-width="2" stroke-dasharray="4,3" marker-end="url(#arrowAmber)"/>
+<line x1="225.0" y1="244.0" x2="237.3" y2="188.0" stroke="#22d3ee" stroke-width="2.5" marker-end="url(#arrowCyan)"/>
+<line x1="225.0" y1="208.2" x2="216.4" y2="143.2" stroke="#fbbf24" stroke-width="1.8" stroke-dasharray="5,4" marker-end="url(#arrowGold)"/>
+<circle cx="208.6" cy="193.6" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="208.6" y="196.8" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">LT</text>
+<circle cx="216.8" cy="193.6" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="216.8" y="196.8" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">LG</text>
+<circle cx="225.0" cy="193.6" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="225.0" y="196.8" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">C</text>
+<circle cx="233.2" cy="193.6" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="233.2" y="196.8" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">RG</text>
+<circle cx="241.4" cy="193.6" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="241.4" y="196.8" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">RT</text>
+<circle cx="251.2" cy="193.6" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="251.2" y="196.8" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">TE</text>
+<circle cx="225.0" cy="204.8" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="225.0" y="208.0" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">QB</text>
+<circle cx="225.0" cy="244.0" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="225.0" y="247.2" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">RB</text>
+<circle cx="192.2" cy="210.4" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="192.2" y="213.6" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">H_MOTION</text>
+<circle cx="126.6" cy="199.2" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="126.6" y="202.4" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">WR_L</text>
+<circle cx="339.8" cy="199.2" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="339.8" y="202.4" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">WR_R</text>
+<text x="200.4" y="186.4" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DE_L</text>
+<text x="216.8" y="186.4" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DT_L</text>
+<text x="237.3" y="186.4" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DT_R</text>
+<text x="257.8" y="186.4" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DE_R</text>
+<text x="225.0" y="141.6" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">MLB</text>
+<text x="204.5" y="147.2" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">WLB</text>
+<text x="249.6" y="147.2" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">SLB</text>
+<text x="126.6" y="124.8" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">CB_L</text>
+<text x="339.8" y="124.8" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">CB_R</text>
+<text x="192.2" y="57.6" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">FS</text>
+<text x="266.0" y="68.8" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">SS</text>
+<rect x="0" y="304" width="600" height="26" fill="#0f172a"/>
+<text x="12" y="320" fill="#cbd5e1" font-size="9" font-weight="bold">Run: Jet Fake Zone Run (Inside Zone) -&gt; RB-Backfield | Gain: +0 yds | EPA: -0.91 | Pressure: 4-Man</text>
 </svg>

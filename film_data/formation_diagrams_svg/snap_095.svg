@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 330" style="background:#07111e;font-family:monospace">
+<defs>
+  <marker id="arrowCyan" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#22d3ee"/></marker>
+  <marker id="arrowGold" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#fbbf24"/></marker>
+  <marker id="arrowAmber" markerWidth="7" markerHeight="7" refX="5" refY="3" orient="auto"><path d="M0,0 L0,6 L6,3 z" fill="#f59e0b"/></marker>
+  <marker id="arrowRed" markerWidth="7" markerHeight="7" refX="5" refY="3" orient="auto"><path d="M0,0 L0,6 L6,3 z" fill="#ef4444"/></marker>
+</defs>
+<rect x="0" y="0" width="600" height="36" fill="#0f172a"/>
+<text x="12" y="15" fill="#38bdf8" font-size="9.5" font-weight="bold">PLAY #95 (D38) · MILFORD OFF vs SOUTH LYON DEF · Q4 05:56 · 4&amp;5 at Own 28 (Left Hash)</text>
+<text x="12" y="29" fill="#e2e8f0" font-size="9">11P 2x2 Spread | 4-2-5 Over (6-Box · Cover 3)</text>
+<line x1="16" y1="76" x2="584" y2="76" stroke="#1e293b" stroke-width="1"/>
+<line x1="16" y1="132" x2="584" y2="132" stroke="#1e293b" stroke-width="1"/>
+<line x1="16" y1="244" x2="584" y2="244" stroke="#1e293b" stroke-width="1"/>
+<line x1="225" y1="38" x2="225" y2="300" stroke="#1e293b" stroke-dasharray="4,6" stroke-width="1"/>
+<line x1="375" y1="38" x2="375" y2="300" stroke="#1e293b" stroke-dasharray="4,6" stroke-width="1"/>
+<line x1="16" y1="188.0" x2="584" y2="188.0" stroke="#38bdf8" stroke-dasharray="6,4" stroke-width="1.6"/>
+<ellipse cx="225.0" cy="188.0" rx="5" ry="3.2" fill="#a16207" stroke="#fde047" stroke-width="1"/>
+<line x1="225.0" y1="238.4" x2="335.7" y2="137.6" stroke="#22d3ee" stroke-width="2.5" marker-end="url(#arrowCyan)"/>
+<line x1="225.0" y1="238.4" x2="158.6" y2="148.8" stroke="#fbbf24" stroke-width="1.8" stroke-dasharray="5,4" marker-end="url(#arrowGold)"/>
+<circle cx="198.8" cy="193.6" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="198.8" y="196.8" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">LT</text>
+<circle cx="211.9" cy="193.6" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="211.9" y="196.8" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">LG</text>
+<circle cx="225.0" cy="191.4" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="225.0" y="194.6" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">C</text>
+<circle cx="238.1" cy="193.6" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="238.1" y="196.8" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">RG</text>
+<circle cx="251.2" cy="193.6" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="251.2" y="196.8" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">RT</text>
+<circle cx="225.0" cy="240.6" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="225.0" y="243.8" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">QB</text>
+<circle cx="85.6" cy="193.6" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="85.6" y="196.8" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">X</text>
+<circle cx="147.1" cy="204.8" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="147.1" y="208.0" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">H</text>
+<circle cx="302.9" cy="204.8" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="302.9" y="208.0" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">Y</text>
+<circle cx="364.4" cy="194.7" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="364.4" y="197.9" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">Z</text>
+<circle cx="208.6" cy="244.0" r="10.5" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="208.6" y="247.2" fill="#ffffff" font-size="8" font-weight="bold" text-anchor="middle">RB</text>
+<text x="192.2" y="180.8" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DE</text>
+<text x="214.3" y="180.8" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DT</text>
+<text x="239.8" y="180.8" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">DT</text>
+<text x="261.1" y="180.8" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">EDGE</text>
+<text x="211.9" y="142.7" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">MIKE</text>
+<text x="241.4" y="142.7" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">WILL</text>
+<text x="151.2" y="138.2" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">NI</text>
+<text x="89.7" y="115.8" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">CB</text>
+<text x="360.3" y="115.8" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">CB</text>
+<text x="282.4" y="115.8" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">SS</text>
+<text x="225.0" y="59.8" fill="#f87171" font-size="11.5" font-weight="bold" text-anchor="middle">FS</text>
+<rect x="0" y="304" width="600" height="26" fill="#0f172a"/>
+<text x="12" y="320" fill="#cbd5e1" font-size="9" font-weight="bold">Pass: Quick Out / Hitched (Half-Slide) -&gt; Z-Field | Gain: +7 yds | EPA: +3.24 | Pressure: 4-Man</text>
+</svg>
