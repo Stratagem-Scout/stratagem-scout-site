@@ -25961,5 +25961,24 @@
     "loser_id": "ok-putnam-city-west",
     "team_a_id": "ok-sand-springs",
     "team_b_id": "ok-putnam-city-west"
+  },
+  {
+    "season": 2026,
+    "date": "2026-11-13",
+    "round": "OSSAA Playoffs R1",
+    "division": "A-I",
+    "winner": "Pawhuska",
+    "loser": "Panama",
+    "winner_score": 49,
+    "loser_score": 0,
+    "team_a": "Pawhuska",
+    "score_a": 49,
+    "team_b": "Panama",
+    "score_b": 0,
+    "source": "OSSAA",
+    "winner_id": "ok-pawhuska",
+    "loser_id": "ok-panama",
+    "team_a_id": "ok-pawhuska",
+    "team_b_id": "ok-panama"
   }
 ]

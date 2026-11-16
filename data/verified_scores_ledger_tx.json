@@ -122060,6 +122060,25 @@
   },
   {
     "season": 2026,
+    "date": "2026-11-13",
+    "round": "UIL Playoffs R1",
+    "division": "5A-D2",
+    "winner": "Bastrop",
+    "loser": "Victoria West",
+    "winner_score": 63,
+    "loser_score": 43,
+    "team_a": "Bastrop",
+    "score_a": 63,
+    "team_b": "Victoria West",
+    "score_b": 43,
+    "source": "UIL",
+    "winner_id": "tx-bastrop",
+    "loser_id": "tx-victoria-west",
+    "team_a_id": "tx-bastrop",
+    "team_b_id": "tx-victoria-west"
+  },
+  {
+    "season": 2026,
     "date": "2026-11-14",
     "round": "UIL Playoffs R1",
     "division": "6A-D2",
@@ -122114,5 +122133,24 @@
     "loser_id": "tx-brackett",
     "team_a_id": "tx-chilton",
     "team_b_id": "tx-brackett"
+  },
+  {
+    "season": 2026,
+    "date": "2026-11-14",
+    "round": "UIL Playoffs R1",
+    "division": "3A-D1",
+    "winner": "Gunter",
+    "loser": "Groesbeck",
+    "winner_score": 64,
+    "loser_score": 13,
+    "team_a": "Gunter",
+    "score_a": 64,
+    "team_b": "Groesbeck",
+    "score_b": 13,
+    "source": "UIL",
+    "winner_id": "tx-gunter",
+    "loser_id": "tx-groesbeck",
+    "team_a_id": "tx-gunter",
+    "team_b_id": "tx-groesbeck"
   }
 ]

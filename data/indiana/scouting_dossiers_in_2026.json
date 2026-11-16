@@ -2593,6 +2593,25 @@
       "Late-Season Margin Compression: Net differential dipped -9.8 PPG over the last 3 weeks."
     ]
   },
+  "sullivan": {
+    "team": "Sullivan",
+    "state": "IN",
+    "division": "3A",
+    "region": 7,
+    "record": "6-6",
+    "games_played": 12,
+    "avg_points_scored": 31.9,
+    "avg_points_allowed": 28.3,
+    "season_net_margin": 3.6,
+    "last_3_game_margin": 0.7,
+    "momentum_trend": -2.9,
+    "close_game_record": "1-2",
+    "mercy_rule_wins": 3,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Explosive Separation Profile: Sullivan has triggered the 35-point IHSAA running clock 3 times."
+    ]
+  },
   "hagerstown": {
     "team": "Hagerstown",
     "state": "IN",
@@ -2611,25 +2630,6 @@
     "keys_to_victory": [
       "Explosive Separation Profile: Hagerstown has triggered the 35-point IHSAA running clock 5 times.",
       "Late-Season Margin Compression: Net differential dipped -15.6 PPG over the last 3 weeks."
-    ]
-  },
-  "sullivan": {
-    "team": "Sullivan",
-    "state": "IN",
-    "division": "3A",
-    "region": 7,
-    "record": "6-6",
-    "games_played": 12,
-    "avg_points_scored": 31.9,
-    "avg_points_allowed": 28.3,
-    "season_net_margin": 3.6,
-    "last_3_game_margin": 0.7,
-    "momentum_trend": -2.9,
-    "close_game_record": "1-2",
-    "mercy_rule_wins": 3,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Explosive Separation Profile: Sullivan has triggered the 35-point IHSAA running clock 3 times."
     ]
   },
   "jimtown": {
@@ -3252,6 +3252,25 @@
       "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
+  "edgewood": {
+    "team": "Edgewood",
+    "state": "IN",
+    "division": "3A",
+    "region": 1,
+    "record": "5-5",
+    "games_played": 10,
+    "avg_points_scored": 25.4,
+    "avg_points_allowed": 28.9,
+    "season_net_margin": -3.5,
+    "last_3_game_margin": -10.0,
+    "momentum_trend": -6.5,
+    "close_game_record": "1-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Win 1st-down efficiency, protect the football, and force long-field drives."
+    ]
+  },
   "lafayette central catholic": {
     "team": "Lafayette Central Catholic",
     "state": "IN",
@@ -3270,25 +3289,6 @@
     "keys_to_victory": [
       "Explosive Separation Profile: Lafayette Central Catholic has triggered the 35-point IHSAA running clock 3 times.",
       "Peaking in Tournament Play: Net margin surged +17.6 PPG over the last 3 games (+20.7 PPG)."
-    ]
-  },
-  "edgewood": {
-    "team": "Edgewood",
-    "state": "IN",
-    "division": "3A",
-    "region": 1,
-    "record": "5-5",
-    "games_played": 10,
-    "avg_points_scored": 25.4,
-    "avg_points_allowed": 28.9,
-    "season_net_margin": -3.5,
-    "last_3_game_margin": -10.0,
-    "momentum_trend": -6.5,
-    "close_game_record": "1-0",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Win 1st-down efficiency, protect the football, and force long-field drives."
     ]
   },
   "jay county": {
@@ -3789,25 +3789,6 @@
       "Peaking in Tournament Play: Net margin surged +8.8 PPG over the last 3 games (-5.0 PPG)."
     ]
   },
-  "seeger": {
-    "team": "Seeger",
-    "state": "IN",
-    "division": "2A",
-    "region": 1,
-    "record": "7-3",
-    "games_played": 10,
-    "avg_points_scored": 35.1,
-    "avg_points_allowed": 24.9,
-    "season_net_margin": 10.2,
-    "last_3_game_margin": 0.3,
-    "momentum_trend": -9.9,
-    "close_game_record": "0-0",
-    "mercy_rule_wins": 2,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Late-Season Margin Compression: Net differential dipped -9.9 PPG over the last 3 weeks."
-    ]
-  },
   "jeffersonville": {
     "team": "Jeffersonville",
     "state": "IN",
@@ -3826,6 +3807,25 @@
     "keys_to_victory": [
       "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare.",
       "Late-Season Margin Compression: Net differential dipped -12.2 PPG over the last 3 weeks."
+    ]
+  },
+  "seeger": {
+    "team": "Seeger",
+    "state": "IN",
+    "division": "2A",
+    "region": 1,
+    "record": "7-3",
+    "games_played": 10,
+    "avg_points_scored": 35.1,
+    "avg_points_allowed": 24.9,
+    "season_net_margin": 10.2,
+    "last_3_game_margin": 0.3,
+    "momentum_trend": -9.9,
+    "close_game_record": "0-0",
+    "mercy_rule_wins": 2,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Late-Season Margin Compression: Net differential dipped -9.9 PPG over the last 3 weeks."
     ]
   },
   "indianapolis ritter": {
@@ -4732,25 +4732,6 @@
       "Explosive Separation Profile: North Newton has triggered the 35-point IHSAA running clock 4 times."
     ]
   },
-  "churubusco": {
-    "team": "Churubusco",
-    "state": "IN",
-    "division": "1A",
-    "region": 1,
-    "record": "3-7",
-    "games_played": 10,
-    "avg_points_scored": 12.6,
-    "avg_points_allowed": 36.4,
-    "season_net_margin": -23.8,
-    "last_3_game_margin": -22.0,
-    "momentum_trend": 1.8,
-    "close_game_record": "3-1",
-    "mercy_rule_wins": 0,
-    "verified_press_intel": [],
-    "keys_to_victory": [
-      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
-    ]
-  },
   "bowman academy": {
     "team": "Bowman Academy",
     "state": "IN",
@@ -4769,6 +4750,25 @@
     "keys_to_victory": [
       "Explosive Separation Profile: Bowman Academy has triggered the 35-point IHSAA running clock 3 times.",
       "Late-Season Margin Compression: Net differential dipped -11.7 PPG over the last 3 weeks."
+    ]
+  },
+  "churubusco": {
+    "team": "Churubusco",
+    "state": "IN",
+    "division": "1A",
+    "region": 1,
+    "record": "3-7",
+    "games_played": 10,
+    "avg_points_scored": 12.6,
+    "avg_points_allowed": 36.4,
+    "season_net_margin": -23.8,
+    "last_3_game_margin": -22.0,
+    "momentum_trend": 1.8,
+    "close_game_record": "3-1",
+    "mercy_rule_wins": 0,
+    "verified_press_intel": [],
+    "keys_to_victory": [
+      "Four-Quarter Grinder: Zero 35-point running-clock blowouts; built for physical Indiana tournament trench warfare."
     ]
   },
   "park tudor": {
