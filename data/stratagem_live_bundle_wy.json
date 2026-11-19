@@ -32,8 +32,8 @@
       "losses": 0,
       "ties": 0,
       "games_played": 10,
-      "raw_rating": 52.0,
-      "power_index": 102.0,
+      "raw_rating": 26.14,
+      "power_index": 76.1,
       "ppg_scored": 61.7,
       "ppg_allowed": 9.2,
       "schedule_2026": [
@@ -141,12 +141,13 @@
       "city": "Big Horn",
       "lat": 44.679076,
       "lng": -106.997071,
-      "spi": 102.0,
+      "spi": 76.1,
       "sos_raw": -4.77,
       "sos_index": 45.2,
-      "pqs": 95.4,
-      "ppa": 95.4,
+      "pqs": 83.76,
+      "ppa": 83.76,
       "net_margin": 52.5,
+      "publisher_rating": 68.44,
       "source_ids": {
         "maxpreps": "e141736f-7c2f-47a7-a1fb-854ecc096283"
       },
@@ -166,8 +167,8 @@
       "losses": 2,
       "ties": 0,
       "games_played": 11,
-      "raw_rating": 48.7,
-      "power_index": 98.7,
+      "raw_rating": 23.74,
+      "power_index": 73.7,
       "ppg_scored": 44.0,
       "ppg_allowed": 13.9,
       "schedule_2026": [
@@ -285,12 +286,13 @@
       "city": "Cody",
       "lat": 44.521242,
       "lng": -109.057469,
-      "spi": 98.7,
+      "spi": 73.7,
       "sos_raw": 2.24,
       "sos_index": 52.2,
-      "pqs": 85.92,
-      "ppa": 85.92,
+      "pqs": 74.68,
+      "ppa": 74.68,
       "net_margin": 30.1,
+      "publisher_rating": 66.04,
       "source_ids": {
         "maxpreps": "fca7cafe-853c-49cf-8400-223b3b00ff89"
       },
@@ -310,8 +312,8 @@
       "losses": 1,
       "ties": 0,
       "games_played": 12,
-      "raw_rating": 48.48,
-      "power_index": 98.5,
+      "raw_rating": 23.58,
+      "power_index": 73.6,
       "ppg_scored": 40.1,
       "ppg_allowed": 12.8,
       "schedule_2026": [
@@ -439,12 +441,13 @@
       "city": "Afton",
       "lat": 42.72634,
       "lng": -110.932032,
-      "spi": 98.5,
+      "spi": 73.6,
       "sos_raw": 5.05,
       "sos_index": 55.0,
-      "pqs": 90.15,
-      "ppa": 90.15,
+      "pqs": 78.94,
+      "ppa": 78.94,
       "net_margin": 27.3,
+      "publisher_rating": 65.88,
       "source_ids": {
         "maxpreps": "01947b26-0cf4-49df-ac1f-5ac53604b986"
       },
@@ -464,8 +467,8 @@
       "losses": 0,
       "ties": 0,
       "games_played": 12,
-      "raw_rating": 40.86,
-      "power_index": 90.9,
+      "raw_rating": 18.03,
+      "power_index": 68.0,
       "ppg_scored": 38.4,
       "ppg_allowed": 5.0,
       "schedule_2026": [
@@ -593,12 +596,13 @@
       "city": "Casper",
       "lat": 42.84212,
       "lng": -106.321282,
-      "spi": 90.9,
+      "spi": 68.0,
       "sos_raw": -1.21,
       "sos_index": 48.8,
-      "pqs": 90.39,
-      "ppa": 90.39,
+      "pqs": 80.11,
+      "ppa": 80.11,
       "net_margin": 33.4,
+      "publisher_rating": 60.33,
       "source_ids": {
         "maxpreps": "e66e7c3e-f5c5-486a-a0ba-97ce2e343471"
       },
@@ -618,8 +622,8 @@
       "losses": 2,
       "ties": 0,
       "games_played": 10,
-      "raw_rating": 32.89,
-      "power_index": 82.9,
+      "raw_rating": 12.22,
+      "power_index": 62.2,
       "ppg_scored": 31.0,
       "ppg_allowed": 10.8,
       "schedule_2026": [
@@ -727,12 +731,13 @@
       "city": "Cokeville",
       "lat": 42.079237,
       "lng": -110.951898,
-      "spi": 82.9,
+      "spi": 62.2,
       "sos_raw": 0.77,
       "sos_index": 50.8,
-      "pqs": 78.0,
-      "ppa": 78.0,
+      "pqs": 68.7,
+      "ppa": 68.7,
       "net_margin": 20.2,
+      "publisher_rating": 54.52,
       "source_ids": {
         "maxpreps": "e037f0c9-1ba9-4c0b-9880-cdea92c26c92"
       },
@@ -752,8 +757,8 @@
       "losses": 3,
       "ties": 0,
       "games_played": 10,
-      "raw_rating": 25.99,
-      "power_index": 76.0,
+      "raw_rating": 7.2,
+      "power_index": 57.2,
       "ppg_scored": 35.6,
       "ppg_allowed": 22.6,
       "schedule_2026": [
@@ -861,12 +866,13 @@
       "city": "Jackson",
       "lat": 43.471936,
       "lng": -110.775267,
-      "spi": 76.0,
+      "spi": 57.2,
       "sos_raw": 2.53,
       "sos_index": 52.5,
-      "pqs": 70.5,
-      "ppa": 70.5,
+      "pqs": 62.04,
+      "ppa": 62.04,
       "net_margin": 13.0,
+      "publisher_rating": 49.5,
       "source_ids": {
         "maxpreps": "eac70e95-c1a9-4288-a54c-924df2fb93d1"
       },
@@ -886,8 +892,8 @@
       "losses": 2,
       "ties": 0,
       "games_played": 11,
-      "raw_rating": 25.17,
-      "power_index": 75.2,
+      "raw_rating": 6.6,
+      "power_index": 56.6,
       "ppg_scored": 29.7,
       "ppg_allowed": 16.2,
       "schedule_2026": [
@@ -1005,12 +1011,13 @@
       "city": "Sheridan",
       "lat": 44.796219,
       "lng": -106.964166,
-      "spi": 75.2,
+      "spi": 56.6,
       "sos_raw": -0.69,
       "sos_index": 49.3,
-      "pqs": 75.33,
-      "ppa": 75.33,
+      "pqs": 66.97,
+      "ppa": 66.97,
       "net_margin": 13.5,
+      "publisher_rating": 48.9,
       "source_ids": {
         "maxpreps": "afab25c0-99b4-4824-bf6a-ce38e589618a"
       },
@@ -1030,8 +1037,8 @@
       "losses": 4,
       "ties": 0,
       "games_played": 11,
-      "raw_rating": 22.73,
-      "power_index": 72.7,
+      "raw_rating": 4.82,
+      "power_index": 54.8,
       "ppg_scored": 28.5,
       "ppg_allowed": 17.0,
       "schedule_2026": [
@@ -1149,12 +1156,13 @@
       "city": "Riverton",
       "lat": 43.026256,
       "lng": -108.381303,
-      "spi": 72.7,
+      "spi": 54.8,
       "sos_raw": 0.58,
       "sos_index": 50.6,
-      "pqs": 66.23,
-      "ppa": 66.23,
+      "pqs": 58.17,
+      "ppa": 58.17,
       "net_margin": 11.5,
+      "publisher_rating": 47.12,
       "source_ids": {
         "maxpreps": "60d91b42-d0b2-46b1-aed9-7b0110a20683"
       },
@@ -1174,8 +1182,8 @@
       "losses": 3,
       "ties": 0,
       "games_played": 12,
-      "raw_rating": 21.5,
-      "power_index": 71.5,
+      "raw_rating": 3.93,
+      "power_index": 53.9,
       "ppg_scored": 29.5,
       "ppg_allowed": 16.8,
       "schedule_2026": [
@@ -1303,12 +1311,13 @@
       "city": "Cheyenne",
       "lat": 41.128702,
       "lng": -104.790778,
-      "spi": 71.5,
+      "spi": 53.9,
       "sos_raw": 0.38,
       "sos_index": 50.4,
-      "pqs": 70.67,
-      "ppa": 70.67,
+      "pqs": 62.77,
+      "ppa": 62.77,
       "net_margin": 12.7,
+      "publisher_rating": 46.23,
       "source_ids": {
         "maxpreps": "555f0542-ddab-4bc1-a44d-3fc0020f01b4"
       },
@@ -1328,8 +1337,8 @@
       "losses": 2,
       "ties": 0,
       "games_played": 10,
-      "raw_rating": 21.13,
-      "power_index": 71.1,
+      "raw_rating": 3.66,
+      "power_index": 53.7,
       "ppg_scored": 26.4,
       "ppg_allowed": 15.7,
       "schedule_2026": [
@@ -1437,12 +1446,13 @@
       "city": "Thermopolis",
       "lat": 43.647615,
       "lng": -108.214538,
-      "spi": 71.1,
+      "spi": 53.7,
       "sos_raw": -1.97,
       "sos_index": 48.0,
-      "pqs": 72.71,
-      "ppa": 72.71,
+      "pqs": 64.85,
+      "ppa": 64.85,
       "net_margin": 10.7,
+      "publisher_rating": 45.96,
       "source_ids": {
         "maxpreps": "b4a194d1-4aff-49d8-99c8-15293a5194d8"
       },
@@ -1462,8 +1472,8 @@
       "losses": 3,
       "ties": 0,
       "games_played": 9,
-      "raw_rating": 18.59,
-      "power_index": 68.6,
+      "raw_rating": 1.81,
+      "power_index": 51.8,
       "ppg_scored": 17.9,
       "ppg_allowed": 16.6,
       "schedule_2026": [
@@ -1561,12 +1571,13 @@
       "city": "Mountain View",
       "lat": 41.272351,
       "lng": -110.334073,
-      "spi": 68.6,
+      "spi": 51.8,
       "sos_raw": 0.17,
       "sos_index": 50.2,
-      "pqs": 65.7,
-      "ppa": 65.7,
+      "pqs": 58.15,
+      "ppa": 58.15,
       "net_margin": 1.3,
+      "publisher_rating": 44.11,
       "source_ids": {
         "maxpreps": "6c63c516-f6a0-4c13-80c5-e1916524cc31"
       },
@@ -1586,8 +1597,8 @@
       "losses": 4,
       "ties": 0,
       "games_played": 10,
-      "raw_rating": 15.9,
-      "power_index": 65.9,
+      "raw_rating": -0.15,
+      "power_index": 49.9,
       "ppg_scored": 22.9,
       "ppg_allowed": 21.4,
       "schedule_2026": [
@@ -1695,12 +1706,13 @@
       "city": "Evanston",
       "lat": 41.260088,
       "lng": -110.963739,
-      "spi": 65.9,
+      "spi": 49.9,
       "sos_raw": 0.56,
       "sos_index": 50.6,
-      "pqs": 61.55,
-      "ppa": 61.55,
+      "pqs": 54.4,
+      "ppa": 54.4,
       "net_margin": 1.5,
+      "publisher_rating": 42.15,
       "source_ids": {
         "maxpreps": "726f1ab9-5487-4f10-a7be-dd723d9e8d54"
       },
@@ -1720,8 +1732,8 @@
       "losses": 5,
       "ties": 0,
       "games_played": 10,
-      "raw_rating": 12.81,
-      "power_index": 62.8,
+      "raw_rating": -2.4,
+      "power_index": 47.6,
       "ppg_scored": 24.3,
       "ppg_allowed": 25.0,
       "schedule_2026": [
@@ -1829,12 +1841,13 @@
       "city": "Lander",
       "lat": 42.830959,
       "lng": -108.730563,
-      "spi": 62.8,
+      "spi": 47.6,
       "sos_raw": 1.7,
       "sos_index": 51.7,
-      "pqs": 55.76,
-      "ppa": 55.76,
+      "pqs": 50.0,
+      "ppa": 50.0,
       "net_margin": -0.7,
+      "publisher_rating": 39.9,
       "source_ids": {
         "maxpreps": "b8000a32-f975-4b7e-9dfa-3fe25d4225f7"
       },
@@ -1854,8 +1867,8 @@
       "losses": 5,
       "ties": 0,
       "games_played": 11,
-      "raw_rating": 9.98,
-      "power_index": 60.0,
+      "raw_rating": -4.46,
+      "power_index": 45.5,
       "ppg_scored": 26.8,
       "ppg_allowed": 19.4,
       "schedule_2026": [
@@ -1973,12 +1986,13 @@
       "city": "Cheyenne",
       "lat": 41.128702,
       "lng": -104.790778,
-      "spi": 60.0,
+      "spi": 45.5,
       "sos_raw": 0.38,
       "sos_index": 50.4,
-      "pqs": 56.49,
-      "ppa": 56.49,
+      "pqs": 52.0,
+      "ppa": 52.0,
       "net_margin": 7.4,
+      "publisher_rating": 37.84,
       "source_ids": {
         "maxpreps": "bc1888a5-4dbe-4920-8cef-ffe20ac578ef"
       },
@@ -1998,8 +2012,8 @@
       "losses": 5,
       "ties": 0,
       "games_played": 8,
-      "raw_rating": 8.53,
-      "power_index": 58.5,
+      "raw_rating": -5.52,
+      "power_index": 44.5,
       "ppg_scored": 19.6,
       "ppg_allowed": 18.6,
       "schedule_2026": [
@@ -2087,12 +2101,13 @@
       "city": "Lyman",
       "lat": 41.32754,
       "lng": -110.297449,
-      "spi": 58.5,
+      "spi": 44.5,
       "sos_raw": -0.56,
       "sos_index": 49.4,
-      "pqs": 48.34,
-      "ppa": 48.34,
+      "pqs": 44.5,
+      "ppa": 44.5,
       "net_margin": 1.0,
+      "publisher_rating": 36.78,
       "source_ids": {
         "maxpreps": "7a25e7fd-40d8-455b-a8c9-7867b63e0878"
       },
@@ -2112,8 +2127,8 @@
       "losses": 5,
       "ties": 0,
       "games_played": 10,
-      "raw_rating": 7.25,
-      "power_index": 57.2,
+      "raw_rating": -6.45,
+      "power_index": 43.5,
       "ppg_scored": 25.4,
       "ppg_allowed": 21.8,
       "schedule_2026": [
@@ -2221,12 +2236,13 @@
       "city": "Laramie",
       "lat": 41.305955,
       "lng": -105.608637,
-      "spi": 57.2,
+      "spi": 43.5,
       "sos_raw": -0.41,
       "sos_index": 49.6,
-      "pqs": 53.26,
-      "ppa": 53.26,
+      "pqs": 50.0,
+      "ppa": 50.0,
       "net_margin": 3.6,
+      "publisher_rating": 35.85,
       "source_ids": {
         "maxpreps": "2642447c-64ef-4f53-91f7-2f06d01a0536"
       },
@@ -2246,8 +2262,8 @@
       "losses": 7,
       "ties": 0,
       "games_played": 10,
-      "raw_rating": 5.41,
-      "power_index": 55.4,
+      "raw_rating": -7.79,
+      "power_index": 42.2,
       "ppg_scored": 20.0,
       "ppg_allowed": 21.3,
       "schedule_2026": [
@@ -2355,12 +2371,13 @@
       "city": "Gillette",
       "lat": 44.27258,
       "lng": -105.498936,
-      "spi": 55.4,
+      "spi": 42.2,
       "sos_raw": 0.0,
       "sos_index": 50.0,
-      "pqs": 43.63,
-      "ppa": 43.63,
+      "pqs": 41.2,
+      "ppa": 41.2,
       "net_margin": -1.3,
+      "publisher_rating": 34.51,
       "source_ids": {
         "maxpreps": "cf814072-a1b2-4e60-92ee-b9d101dc1cd7"
       },
@@ -2380,8 +2397,8 @@
       "losses": 5,
       "ties": 0,
       "games_played": 8,
-      "raw_rating": 2.97,
-      "power_index": 53.0,
+      "raw_rating": -9.57,
+      "power_index": 40.4,
       "ppg_scored": 12.1,
       "ppg_allowed": 23.2,
       "schedule_2026": [
@@ -2469,12 +2486,13 @@
       "city": "Lovell",
       "lat": 44.835801,
       "lng": -108.391889,
-      "spi": 53.0,
+      "spi": 40.4,
       "sos_raw": 1.73,
       "sos_index": 51.7,
-      "pqs": 45.84,
-      "ppa": 45.84,
+      "pqs": 44.5,
+      "ppa": 44.5,
       "net_margin": -11.1,
+      "publisher_rating": 32.73,
       "source_ids": {
         "maxpreps": "61e977df-c349-47fa-b86f-41d583e544c1"
       },
@@ -2494,8 +2512,8 @@
       "losses": 4,
       "ties": 0,
       "games_played": 10,
-      "raw_rating": 0.0,
-      "power_index": 50.0,
+      "raw_rating": -11.73,
+      "power_index": 38.3,
       "ppg_scored": 37.5,
       "ppg_allowed": 31.4,
       "schedule_2026": [
@@ -2603,12 +2621,13 @@
       "city": "Torrington",
       "lat": 42.06505,
       "lng": -104.173528,
-      "spi": 50.0,
+      "spi": 38.3,
       "sos_raw": -3.28,
       "sos_index": 46.7,
       "pqs": 54.4,
       "ppa": 54.4,
       "net_margin": 6.1,
+      "publisher_rating": 30.57,
       "source_ids": {
         "maxpreps": "3fc1eb36-4096-4ad4-9770-a6154d2b6067"
       },
@@ -2628,8 +2647,8 @@
       "losses": 5,
       "ties": 0,
       "games_played": 8,
-      "raw_rating": -0.05,
-      "power_index": 50.0,
+      "raw_rating": -11.77,
+      "power_index": 38.2,
       "ppg_scored": 14.1,
       "ppg_allowed": 27.9,
       "schedule_2026": [
@@ -2717,12 +2736,13 @@
       "city": "Green River",
       "lat": 41.512922,
       "lng": -109.470796,
-      "spi": 50.0,
+      "spi": 38.2,
       "sos_raw": 2.09,
       "sos_index": 52.1,
       "pqs": 44.5,
       "ppa": 44.5,
       "net_margin": -13.8,
+      "publisher_rating": 30.53,
       "source_ids": {
         "maxpreps": "e155bcd1-1f39-42a3-b45e-58583e9dfdb1"
       },
@@ -2742,8 +2762,8 @@
       "losses": 5,
       "ties": 0,
       "games_played": 9,
-      "raw_rating": -1.15,
-      "power_index": 48.9,
+      "raw_rating": -12.57,
+      "power_index": 37.4,
       "ppg_scored": 25.8,
       "ppg_allowed": 26.6,
       "schedule_2026": [
@@ -2841,12 +2861,13 @@
       "city": "Pinedale",
       "lat": 42.867585,
       "lng": -109.870527,
-      "spi": 48.9,
+      "spi": 37.4,
       "sos_raw": -3.43,
       "sos_index": 46.6,
       "pqs": 47.56,
       "ppa": 47.56,
       "net_margin": -0.8,
+      "publisher_rating": 29.73,
       "source_ids": {
         "maxpreps": "d1b8ebd7-9dbe-42bf-bc2e-972e5d2ac1d2"
       },
@@ -2866,8 +2887,8 @@
       "losses": 7,
       "ties": 0,
       "games_played": 10,
-      "raw_rating": -1.61,
-      "power_index": 48.4,
+      "raw_rating": -12.9,
+      "power_index": 37.1,
       "ppg_scored": 17.9,
       "ppg_allowed": 23.4,
       "schedule_2026": [
@@ -2975,12 +2996,13 @@
       "city": "Casper",
       "lat": 42.84212,
       "lng": -106.321282,
-      "spi": 48.4,
+      "spi": 37.1,
       "sos_raw": 0.89,
       "sos_index": 50.9,
       "pqs": 41.2,
       "ppa": 41.2,
       "net_margin": -5.5,
+      "publisher_rating": 29.4,
       "source_ids": {
         "maxpreps": "12e260b3-92bd-48db-b038-512b3dda416b"
       },
@@ -3000,8 +3022,8 @@
       "losses": 6,
       "ties": 0,
       "games_played": 10,
-      "raw_rating": -1.94,
-      "power_index": 48.1,
+      "raw_rating": -13.14,
+      "power_index": 36.9,
       "ppg_scored": 18.9,
       "ppg_allowed": 22.9,
       "schedule_2026": [
@@ -3109,12 +3131,13 @@
       "city": "Gillette",
       "lat": 44.27258,
       "lng": -105.498936,
-      "spi": 48.1,
+      "spi": 36.9,
       "sos_raw": 0.14,
       "sos_index": 50.1,
       "pqs": 45.6,
       "ppa": 45.6,
       "net_margin": -4.0,
+      "publisher_rating": 29.16,
       "source_ids": {
         "maxpreps": "dfb872b3-aa36-4922-b072-6eef787b28dc"
       },
@@ -3134,8 +3157,8 @@
       "losses": 3,
       "ties": 0,
       "games_played": 7,
-      "raw_rating": -3.9,
-      "power_index": 46.1,
+      "raw_rating": -14.57,
+      "power_index": 35.4,
       "ppg_scored": 26.1,
       "ppg_allowed": 29.9,
       "schedule_2026": [
@@ -3213,12 +3236,13 @@
       "city": "Newcastle",
       "lat": 43.850271,
       "lng": -104.196487,
-      "spi": 46.1,
+      "spi": 35.4,
       "sos_raw": -5.27,
       "sos_index": 44.7,
       "pqs": 53.14,
       "ppa": 53.14,
       "net_margin": -3.8,
+      "publisher_rating": 27.73,
       "source_ids": {
         "maxpreps": "7ae05781-35ed-447c-a05f-10236e63f173"
       },
@@ -3238,8 +3262,8 @@
       "losses": 6,
       "ties": 0,
       "games_played": 9,
-      "raw_rating": -4.3,
-      "power_index": 45.7,
+      "raw_rating": -14.86,
+      "power_index": 35.1,
       "ppg_scored": 16.3,
       "ppg_allowed": 25.8,
       "schedule_2026": [
@@ -3337,12 +3361,13 @@
       "city": "Buffalo",
       "lat": 44.338545,
       "lng": -106.715344,
-      "spi": 45.7,
+      "spi": 35.1,
       "sos_raw": 0.44,
       "sos_index": 50.4,
       "pqs": 42.67,
       "ppa": 42.67,
       "net_margin": -9.5,
+      "publisher_rating": 27.44,
       "source_ids": {
         "maxpreps": "8cdb27fd-9dbb-452b-bd8f-2b5f0fb31d1d"
       },
@@ -3362,8 +3387,8 @@
       "losses": 5,
       "ties": 0,
       "games_played": 10,
-      "raw_rating": -5.42,
-      "power_index": 44.6,
+      "raw_rating": -15.68,
+      "power_index": 34.3,
       "ppg_scored": 22.8,
       "ppg_allowed": 23.3,
       "schedule_2026": [
@@ -3471,12 +3496,13 @@
       "city": "Burns",
       "lat": 41.190871,
       "lng": -104.359035,
-      "spi": 44.6,
+      "spi": 34.3,
       "sos_raw": -4.27,
       "sos_index": 45.7,
       "pqs": 50.0,
       "ppa": 50.0,
       "net_margin": -0.5,
+      "publisher_rating": 26.62,
       "source_ids": {
         "maxpreps": "50ee21d6-8b89-4f3e-bac2-4124a53504c3"
       },
@@ -3496,8 +3522,8 @@
       "losses": 6,
       "ties": 0,
       "games_played": 9,
-      "raw_rating": -5.86,
-      "power_index": 44.1,
+      "raw_rating": -16.0,
+      "power_index": 34.0,
       "ppg_scored": 13.8,
       "ppg_allowed": 28.7,
       "schedule_2026": [
@@ -3595,12 +3621,13 @@
       "city": "Powell",
       "lat": 44.761783,
       "lng": -108.757581,
-      "spi": 44.1,
+      "spi": 34.0,
       "sos_raw": 1.63,
       "sos_index": 51.6,
       "pqs": 42.67,
       "ppa": 42.67,
       "net_margin": -14.9,
+      "publisher_rating": 26.3,
       "source_ids": {
         "maxpreps": "d5721028-470f-4a63-be7d-8ede556cbb4a"
       },
@@ -3620,8 +3647,8 @@
       "losses": 7,
       "ties": 0,
       "games_played": 10,
-      "raw_rating": -10.5,
-      "power_index": 39.5,
+      "raw_rating": -19.38,
+      "power_index": 30.6,
       "ppg_scored": 15.7,
       "ppg_allowed": 27.9,
       "schedule_2026": [
@@ -3729,12 +3756,13 @@
       "city": "Rawlins",
       "lat": 41.78513,
       "lng": -107.224653,
-      "spi": 39.5,
+      "spi": 30.6,
       "sos_raw": -0.74,
       "sos_index": 49.3,
       "pqs": 41.2,
       "ppa": 41.2,
       "net_margin": -12.2,
+      "publisher_rating": 22.92,
       "source_ids": {
         "maxpreps": "40079a4a-1bd7-4e70-be07-ec385960536f"
       },
@@ -3754,8 +3782,8 @@
       "losses": 5,
       "ties": 0,
       "games_played": 9,
-      "raw_rating": -11.36,
-      "power_index": 38.6,
+      "raw_rating": -20.0,
+      "power_index": 30.0,
       "ppg_scored": 20.3,
       "ppg_allowed": 28.7,
       "schedule_2026": [
@@ -3853,12 +3881,13 @@
       "city": "Glenrock",
       "lat": 42.856473,
       "lng": -105.862355,
-      "spi": 38.6,
+      "spi": 30.0,
       "sos_raw": -3.43,
       "sos_index": 46.6,
       "pqs": 47.56,
       "ppa": 47.56,
       "net_margin": -8.4,
+      "publisher_rating": 22.3,
       "source_ids": {
         "maxpreps": "86cbf8ea-37e1-4174-ac8f-2b51b2e2396c"
       },
@@ -3878,8 +3907,8 @@
       "losses": 5,
       "ties": 0,
       "games_played": 7,
-      "raw_rating": -12.81,
-      "power_index": 37.2,
+      "raw_rating": -21.06,
+      "power_index": 28.9,
       "ppg_scored": 19.4,
       "ppg_allowed": 30.9,
       "schedule_2026": [
@@ -3957,12 +3986,13 @@
       "city": "Kemmerer",
       "lat": 41.778484,
       "lng": -110.552817,
-      "spi": 37.2,
+      "spi": 28.9,
       "sos_raw": -1.21,
       "sos_index": 48.8,
       "pqs": 40.57,
       "ppa": 40.57,
       "net_margin": -11.5,
+      "publisher_rating": 21.24,
       "source_ids": {
         "maxpreps": "8cfa862b-feca-4bfe-bba2-ac0bca2624df"
       },
@@ -3982,8 +4012,8 @@
       "losses": 6,
       "ties": 0,
       "games_played": 8,
-      "raw_rating": -13.44,
-      "power_index": 36.6,
+      "raw_rating": -21.52,
+      "power_index": 28.5,
       "ppg_scored": 16.6,
       "ppg_allowed": 38.0,
       "schedule_2026": [
@@ -4071,12 +4101,13 @@
       "city": "Douglas",
       "lat": 42.754773,
       "lng": -105.397802,
-      "spi": 36.6,
+      "spi": 28.5,
       "sos_raw": -0.25,
       "sos_index": 49.8,
       "pqs": 39.0,
       "ppa": 39.0,
       "net_margin": -21.4,
+      "publisher_rating": 20.78,
       "source_ids": {
         "maxpreps": "c2445eb0-70e1-45b9-a108-4db51b8c637b"
       },
@@ -4096,8 +4127,8 @@
       "losses": 8,
       "ties": 0,
       "games_played": 9,
-      "raw_rating": -16.99,
-      "power_index": 33.0,
+      "raw_rating": -24.1,
+      "power_index": 25.9,
       "ppg_scored": 16.9,
       "ppg_allowed": 33.9,
       "schedule_2026": [
@@ -4195,12 +4226,13 @@
       "city": "Rock Springs",
       "lat": 41.594705,
       "lng": -109.220921,
-      "spi": 33.0,
+      "spi": 25.9,
       "sos_raw": 0.14,
       "sos_index": 50.1,
       "pqs": 32.89,
       "ppa": 32.89,
       "net_margin": -17.0,
+      "publisher_rating": 18.2,
       "source_ids": {
         "maxpreps": "490033ec-7569-451e-93bc-b2663545764c"
       },
@@ -4220,8 +4252,8 @@
       "losses": 7,
       "ties": 0,
       "games_played": 9,
-      "raw_rating": -25.5,
-      "power_index": 24.5,
+      "raw_rating": -30.3,
+      "power_index": 19.7,
       "ppg_scored": 16.0,
       "ppg_allowed": 31.0,
       "schedule_2026": [
@@ -4319,12 +4351,13 @@
       "city": "Wheatland",
       "lat": 42.051706,
       "lng": -104.959472,
-      "spi": 24.5,
+      "spi": 19.7,
       "sos_raw": -4.2,
       "sos_index": 45.8,
       "pqs": 37.78,
       "ppa": 37.78,
       "net_margin": -15.0,
+      "publisher_rating": 12,
       "source_ids": {
         "maxpreps": "8a815481-ea93-411a-adfb-90b9ae40aedf"
       },
@@ -4449,6 +4482,7 @@
       "pqs": 32.89,
       "ppa": 32.89,
       "net_margin": -30.9,
+      "publisher_rating": 0.67,
       "source_ids": {
         "maxpreps": "338469e0-09ed-42df-85ac-d6f9cdfe84df"
       },
@@ -4573,6 +4607,7 @@
       "pqs": 28.0,
       "ppa": 28.0,
       "net_margin": -62.3,
+      "publisher_rating": -13.08,
       "source_ids": {
         "maxpreps": "93d291f3-2f99-4ee2-b440-353a9339a080"
       },
@@ -4687,6 +4722,7 @@
       "pqs": 28.0,
       "ppa": 28.0,
       "net_margin": -26.6,
+      "publisher_rating": -0.88,
       "source_ids": {
         "maxpreps": "31ecdab9-74f9-4a57-8a17-39fc9a880695"
       },
@@ -4811,6 +4847,7 @@
       "pqs": 28.0,
       "ppa": 28.0,
       "net_margin": -32.2,
+      "publisher_rating": 0.37,
       "source_ids": {
         "maxpreps": "e7b8f63c-dc52-4fec-a053-79176b496865"
       },
@@ -26866,7 +26903,7 @@
   ],
   "governing_body": "WHSAA",
   "coverage": {
-    "as_of": "2026-11-18",
+    "as_of": "2026-11-19",
     "fixture_statuses": {
       "final": 184
     },
@@ -26899,7 +26936,7 @@
     ]
   },
   "schema_version": "verified-live-v1",
-  "updated_at": "2026-11-18",
+  "updated_at": "2026-11-19",
   "school_coords": {
     "Natrona County": {
       "lat": 42.84212,
@@ -27088,6 +27125,11 @@
     }
   },
   "rating_source": "maxpreps",
+  "rating_calibration": {
+    "reference": "core-state-reference-2026-11-15",
+    "result_offset": 0.0,
+    "result_anchor_team_ids": []
+  },
   "upcoming_playoff_slate": [
     {
       "game_id": "WY:2026-10-30:wy-big-horn:wy-lovell",
