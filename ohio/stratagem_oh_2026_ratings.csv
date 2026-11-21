@@ -81,8 +81,8 @@ rank,division_rank,team,state,division,region,conference,record,wins,losses,ties
 80,20,Hoban Knights,OH,D2,5,OHSAA Region 5,4-7,4,7,0,11,78.3,78.3,28.29,72.4,52,20.6,18.4,2.2,14.8958,14.896,14.896,14.9,14.9,Semifinal Contender
 81,13,Miami Trace Panthers,OH,D3,12,OHSAA Region 12,11-2,11,2,0,13,77.9,77.9,27.9,59.6,283,38.8,17.5,21.3,22.2,22.2,22.2,22.2,22.2,Semifinal Contender
 82,9,Valley View Spartans,OH,D4,16,OHSAA Region 16,8-4,8,4,0,12,77.8,77.8,27.84,62.4,208,32.5,16.1,16.4,18.05,18.05,18.05,18.05,18.05,Semifinal Contender
-83,10,North College Hill Trojans,OH,D4,16,OHSAA Region 16,9-1,9,1,0,10,77.8,77.8,27.82,41.7,602,54.1,4.8,49.3,20.9078,20.908,20.908,20.91,20.91,Semifinal Contender
-84,8,Martins Ferry Purple Riders,OH,D5,17,OHSAA Region 17,10-2,10,2,0,12,77.8,77.8,27.82,51.6,449,43.3,12.8,30.5,18.2379,18.238,18.238,18.24,18.24,Semifinal Contender
+83,8,Martins Ferry Purple Riders,OH,D5,17,OHSAA Region 17,10-2,10,2,0,12,77.8,77.8,27.82,51.6,449,43.3,12.8,30.5,18.2379,18.238,18.238,18.24,18.24,Semifinal Contender
+84,10,North College Hill Trojans,OH,D4,16,OHSAA Region 16,9-1,9,1,0,10,77.8,77.8,27.82,41.7,602,54.1,4.8,49.3,20.9078,20.908,20.908,20.91,20.91,Semifinal Contender
 85,28,Wayne Warriors,OH,D1,2,OHSAA Region 2,8-4,8,4,0,12,77.8,77.8,27.8,75.1,26,35.3,32.7,2.6,18.496,18.496,18.496,18.5,18.5,Semifinal Contender
 86,14,Indian Hill Braves,OH,D3,12,OHSAA Region 12,8-3,8,3,0,11,77.7,77.7,27.72,56.4,350,37.4,15.3,22.1,19.5163,19.516,19.516,19.52,19.52,Semifinal Contender
 87,11,Clear Fork Colts,OH,D4,14,OHSAA Region 14,10-2,10,2,0,12,77.7,77.7,27.7,62.8,200,27.9,9.0,18.9,19.3,19.3,19.3,19.3,19.3,Semifinal Contender
@@ -93,8 +93,8 @@ rank,division_rank,team,state,division,region,conference,record,wins,losses,ties
 92,23,Badin Rams,OH,D2,8,OHSAA Region 8,7-4,7,4,0,11,76.9,76.9,26.94,65.5,150,27.8,16.6,11.2,17.5194,17.519,17.519,17.52,17.52,Semifinal Contender
 93,24,Canal Winchester Indians,OH,D2,7,OHSAA Region 7,8-4,8,4,0,12,76.7,76.7,26.75,69.5,92,32.4,25.1,7.3,22.75,22.75,22.75,22.75,22.75,Semifinal Contender
 94,17,South Rebels,OH,D3,9,OHSAA Region 9,10-1,10,1,0,11,76.5,76.5,26.54,58.7,298,36.4,14.4,22.0,28.8,28.8,28.8,28.8,28.8,Semifinal Contender
-95,3,Leipsic Vikings,OH,D7,26,OHSAA Region 26,12-0,12,0,0,12,76.4,76.4,26.43,46.9,525,41.4,5.8,35.6,22.75,22.75,22.75,22.75,22.75,Finals Contender
-96,12,Claymont Mustangs,OH,D4,15,OHSAA Region 15,11-2,11,2,0,13,76.4,76.4,26.43,56.8,343,33.2,8.5,24.7,18.3419,18.342,18.342,18.34,18.34,Semifinal Contender
+95,12,Claymont Mustangs,OH,D4,15,OHSAA Region 15,11-2,11,2,0,13,76.4,76.4,26.43,56.8,343,33.2,8.5,24.7,18.3419,18.342,18.342,18.34,18.34,Semifinal Contender
+96,3,Leipsic Vikings,OH,D7,26,OHSAA Region 26,12-0,12,0,0,12,76.4,76.4,26.43,46.9,525,41.4,5.8,35.6,22.75,22.75,22.75,22.75,22.75,Finals Contender
 97,29,Middletown Middies,OH,D1,4,OHSAA Region 4,7-5,7,5,0,12,76.4,76.4,26.42,74.2,34,21.5,18.5,3.0,17.5,17.5,17.5,17.5,17.5,Semifinal Contender
 98,25,Riverside Beavers,OH,D2,5,OHSAA Region 5,7-4,7,4,0,11,76.3,76.3,26.25,69.7,89,31.2,23.6,7.6,21.4707,21.471,21.471,21.47,21.47,Semifinal Contender
 99,4,Hopewell-Loudon Chieftains,OH,D7,26,OHSAA Region 26,12-0,12,0,0,12,76.2,76.2,26.22,49.5,485,39.8,9.7,30.1,20.0,20.0,20.0,20.0,20.0,Finals Contender
@@ -325,10 +325,10 @@ rank,division_rank,team,state,division,region,conference,record,wins,losses,ties
 324,60,Rhodes Rams,OH,D2,6,OHSAA Region 6,7-5,7,5,0,12,57.5,57.5,7.5,52.3,430,23.2,18.1,5.1,11.0688,11.069,11.069,11.07,11.07,Rebuilding
 325,61,Wooster Generals,OH,D2,7,OHSAA Region 7,3-7,3,7,0,10,57.5,57.5,7.47,64.5,162,20.6,27.0,-6.4,7.2,7.2,7.2,7.2,7.2,Rebuilding
 326,35,Canton Central Catholic Crusaders,OH,D5,17,OHSAA Region 17,7-5,7,5,0,12,57.4,57.4,7.43,55.3,373,21.2,17.5,3.7,15.35,15.35,15.35,15.35,15.35,Dark Horse
-327,62,Brush Arcs,OH,D2,5,OHSAA Region 5,6-5,6,5,0,11,57.4,57.4,7.41,56.3,351,20.5,19.5,1.0,12.9,12.9,12.9,12.9,12.9,Rebuilding
-328,63,Lakewood Rangers,OH,D2,6,OHSAA Region 6,8-3,8,3,0,11,57.4,57.4,7.41,51.0,457,33.8,27.4,6.4,17.15,17.15,17.15,17.15,17.15,Rebuilding
-329,64,Sylvania Southview Cougars,OH,D2,6,OHSAA Region 6,5-6,5,6,0,11,57.3,57.3,7.31,65.9,145,15.5,25.9,-10.4,9.4,9.4,9.4,9.4,9.4,Rebuilding
-330,62,Elyria Catholic Panthers,OH,D3,10,OHSAA Region 10,3-7,3,7,0,10,57.3,57.3,7.31,63.7,185,17.4,23.7,-6.3,5.1348,5.135,5.135,5.13,5.13,Rebuilding
+327,62,Lakewood Rangers,OH,D2,6,OHSAA Region 6,8-3,8,3,0,11,57.4,57.4,7.41,51.0,457,33.8,27.4,6.4,17.15,17.15,17.15,17.15,17.15,Rebuilding
+328,63,Brush Arcs,OH,D2,5,OHSAA Region 5,6-5,6,5,0,11,57.4,57.4,7.41,56.3,351,20.5,19.5,1.0,12.9,12.9,12.9,12.9,12.9,Rebuilding
+329,62,Elyria Catholic Panthers,OH,D3,10,OHSAA Region 10,3-7,3,7,0,10,57.3,57.3,7.31,63.7,185,17.4,23.7,-6.3,5.1348,5.135,5.135,5.13,5.13,Rebuilding
+330,64,Sylvania Southview Cougars,OH,D2,6,OHSAA Region 6,5-6,5,6,0,11,57.3,57.3,7.31,65.9,145,15.5,25.9,-10.4,9.4,9.4,9.4,9.4,9.4,Rebuilding
 331,40,John F Kennedy Eagles,OH,D6,21,OHSAA Region 21,6-5,6,5,0,11,57.2,57.2,7.24,52.0,436,28.2,19.4,8.8,12.699,12.699,12.699,12.7,12.7,First-Round / Bubble
 332,65,Northmont Thunderbolts,OH,D1,2,OHSAA Region 2,2-8,2,8,0,10,57.1,57.1,7.12,72.1,60,14.9,32.6,-17.7,4.75,4.75,4.75,4.75,4.75,Rebuilding
 333,41,Cincinnati College Prep Lions,OH,D6,24,OHSAA Region 24,8-3,8,3,0,11,57.1,57.1,7.07,46.4,539,27.7,16.3,11.4,19.2556,19.256,19.256,19.26,19.26,First-Round / Bubble
@@ -345,8 +345,8 @@ rank,division_rank,team,state,division,region,conference,record,wins,losses,ties
 344,18,Shadyside Tigers,OH,D7,27,OHSAA Region 27,10-3,10,3,0,13,55.9,55.9,5.86,45.0,562,34.4,17.8,16.6,13.95,13.95,13.95,13.95,13.95,Regional Contender
 345,65,Stebbins Indians,OH,D2,8,OHSAA Region 8,4-6,4,6,0,10,55.6,55.6,5.65,58.6,299,23.6,29.0,-5.4,7.4,7.4,7.4,7.4,7.4,Rebuilding
 346,19,Pandora-Gilboa Rockets,OH,D7,26,OHSAA Region 26,7-5,7,5,0,12,55.6,55.6,5.63,50.3,473,27.2,21.3,5.9,10.9,10.9,10.9,10.9,10.9,Regional Contender
-347,63,Geneva Eagles,OH,D3,9,OHSAA Region 9,4-6,4,6,0,10,55.5,55.5,5.51,55.6,368,19.8,23.9,-4.1,5.8,5.8,5.8,5.8,5.8,Rebuilding
-348,68,GlenOak Golden Eagles,OH,D1,1,OHSAA Region 1,1-9,1,9,0,10,55.5,55.5,5.51,76.0,21,11.8,35.3,-23.5,1.3066,1.307,1.307,1.31,1.31,Rebuilding
+347,68,GlenOak Golden Eagles,OH,D1,1,OHSAA Region 1,1-9,1,9,0,10,55.5,55.5,5.51,76.0,21,11.8,35.3,-23.5,1.3066,1.307,1.307,1.31,1.31,Rebuilding
+348,63,Geneva Eagles,OH,D3,9,OHSAA Region 9,4-6,4,6,0,10,55.5,55.5,5.51,55.6,368,19.8,23.9,-4.1,5.8,5.8,5.8,5.8,5.8,Rebuilding
 349,66,Twinsburg Tigers,OH,D2,5,OHSAA Region 5,1-9,1,9,0,10,55.5,55.5,5.49,64.3,169,17.4,29.5,-12.1,1.85,1.85,1.85,1.85,1.85,Rebuilding
 350,64,Madison Comprehensive Rams,OH,D3,10,OHSAA Region 10,5-5,5,5,0,10,55.3,55.3,5.29,60.0,270,20.4,25.3,-4.9,7.2,7.2,7.2,7.2,7.2,Rebuilding
 351,40,Liberty-Benton Eagles,OH,D5,18,OHSAA Region 18,4-6,4,6,0,10,55.2,55.2,5.21,61.4,239,21.8,31.0,-9.2,6.7,6.7,6.7,6.7,6.7,First-Round / Bubble
@@ -376,8 +376,8 @@ rank,division_rank,team,state,division,region,conference,record,wins,losses,ties
 375,22,Eastern Eagles,OH,D7,27,OHSAA Region 27,15-7,15,7,0,22,53.4,53.4,3.39,38.0,644,32.7,17.3,15.4,10.101,10.101,10.101,10.1,10.1,Dark Horse
 376,67,Maumee Panthers,OH,D3,10,OHSAA Region 10,5-6,5,6,0,11,53.3,53.3,3.33,54.3,393,26.4,27.9,-1.5,10.9,10.9,10.9,10.9,10.9,Rebuilding
 377,60,Upper Sandusky Rams,OH,D4,14,OHSAA Region 14,6-5,6,5,0,11,53.3,53.3,3.28,49.7,481,24.8,21.1,3.7,10.45,10.45,10.45,10.45,10.45,Rebuilding
-378,45,Oak Harbor Rockets,OH,D5,18,OHSAA Region 18,4-6,4,6,0,10,53.0,53.0,3.04,50.5,467,23.6,25.8,-2.2,4.85,4.85,4.85,4.85,4.85,First-Round / Bubble
-379,61,Dunbar Wolverines,OH,D4,16,OHSAA Region 16,6-5,6,5,0,11,53.0,53.0,3.04,47.1,518,30.6,23.3,7.3,11.0691,11.069,11.069,11.07,11.07,Rebuilding
+378,61,Dunbar Wolverines,OH,D4,16,OHSAA Region 16,6-5,6,5,0,11,53.0,53.0,3.04,47.1,518,30.6,23.3,7.3,11.0691,11.069,11.069,11.07,11.07,Rebuilding
+379,45,Oak Harbor Rockets,OH,D5,18,OHSAA Region 18,4-6,4,6,0,10,53.0,53.0,3.04,50.5,467,23.6,25.8,-2.2,4.85,4.85,4.85,4.85,4.85,First-Round / Bubble
 380,71,Walnut Ridge Scots,OH,D2,7,OHSAA Region 7,2-8,2,8,0,10,53.0,53.0,2.97,58.5,301,14.0,23.4,-9.4,2.9,2.9,2.9,2.9,2.9,Rebuilding
 381,68,South Bulldogs,OH,D3,11,OHSAA Region 11,8-3,8,3,0,11,53.0,53.0,2.96,47.3,513,18.9,12.5,6.4,14.45,14.45,14.45,14.45,14.45,Rebuilding
 382,46,Pleasant Spartans,OH,D5,18,OHSAA Region 18,2-8,2,8,0,10,52.9,52.9,2.88,62.0,219,22.9,31.8,-8.9,1.55,1.55,1.55,1.55,1.55,First-Round / Bubble
@@ -388,11 +388,11 @@ rank,division_rank,team,state,division,region,conference,record,wins,losses,ties
 387,48,Mariemont Warriors,OH,D5,20,OHSAA Region 20,5-5,5,5,0,10,52.6,52.6,2.57,52.8,422,19.3,19.0,0.3,6.8955,6.896,6.896,6.9,6.9,First-Round / Bubble
 388,49,Africentric Early College Nubians,OH,D5,19,OHSAA Region 19,4-6,4,6,0,10,52.5,52.5,2.5,53.1,416,15.0,18.0,-3.0,6.95,6.95,6.95,6.95,6.95,Rebuilding
 389,70,Beechcroft Cougars,OH,D3,11,OHSAA Region 11,6-4,6,4,0,10,52.5,52.5,2.47,46.1,541,25.6,20.3,5.3,10.7,10.7,10.7,10.7,10.7,Rebuilding
-390,50,Logan Elm Braves,OH,D5,19,OHSAA Region 19,3-7,3,7,0,10,52.4,52.4,2.45,57.4,329,23.2,29.0,-5.8,5.25,5.25,5.25,5.25,5.25,Rebuilding
-391,51,West Liberty-Salem Tigers,OH,D5,20,OHSAA Region 20,5-4,5,4,0,9,52.4,52.4,2.45,49.1,492,26.6,24.4,2.2,8.6829,8.683,8.683,8.68,8.68,Rebuilding
+390,50,West Liberty-Salem Tigers,OH,D5,20,OHSAA Region 20,5-4,5,4,0,9,52.4,52.4,2.45,49.1,492,26.6,24.4,2.2,8.6829,8.683,8.683,8.68,8.68,Rebuilding
+391,51,Logan Elm Braves,OH,D5,19,OHSAA Region 19,3-7,3,7,0,10,52.4,52.4,2.45,57.4,329,23.2,29.0,-5.8,5.25,5.25,5.25,5.25,5.25,Rebuilding
 392,71,Bishop Hartley Hawks,OH,D3,11,OHSAA Region 11,2-7,2,7,0,9,52.4,52.4,2.38,74.2,35,15.8,42.2,-26.4,8.5268,8.527,8.527,8.53,8.53,Rebuilding
-393,52,Berkshire Badgers,OH,D5,17,OHSAA Region 17,5-5,5,5,0,10,52.3,52.3,2.3,45.7,551,27.6,20.3,7.3,5.1397,5.14,5.14,5.14,5.14,Rebuilding
-394,23,Monroeville Eagles,OH,D7,25,OHSAA Region 25,5-5,5,5,0,10,52.3,52.3,2.3,46.8,528,28.9,23.8,5.1,7.8523,7.852,7.852,7.85,7.85,Dark Horse
+393,23,Monroeville Eagles,OH,D7,25,OHSAA Region 25,5-5,5,5,0,10,52.3,52.3,2.3,46.8,528,28.9,23.8,5.1,7.8523,7.852,7.852,7.85,7.85,Dark Horse
+394,52,Berkshire Badgers,OH,D5,17,OHSAA Region 17,5-5,5,5,0,10,52.3,52.3,2.3,45.7,551,27.6,20.3,7.3,5.1397,5.14,5.14,5.14,5.14,Rebuilding
 395,47,St Bernard-Elmwood Place Titans,OH,D6,24,OHSAA Region 24,7-3,7,3,0,10,52.2,52.2,2.23,36.2,657,29.8,14.7,15.1,13.9048,13.905,13.905,13.9,13.9,First-Round / Bubble
 396,24,Lucas Cubs,OH,D7,27,OHSAA Region 27,6-6,6,6,0,12,52.1,52.1,2.13,53.7,407,20.3,21.5,-1.2,8.0,8.0,8.0,8.0,8.0,Dark Horse
 397,25,Gibsonburg Golden Bears,OH,D7,26,OHSAA Region 26,6-6,6,6,0,12,52.1,52.1,2.11,53.8,406,20.8,23.2,-2.4,11.1111,11.111,11.111,11.11,11.11,Dark Horse
@@ -461,13 +461,13 @@ rank,division_rank,team,state,division,region,conference,record,wins,losses,ties
 460,74,Canton South Wildcats,OH,D4,15,OHSAA Region 15,1-9,1,9,0,10,46.6,46.6,-3.44,62.0,221,13.6,33.3,-19.7,1.0,1.0,1.0,1.0,1.0,Rebuilding
 461,58,Caldwell Redskins,OH,D6,23,OHSAA Region 23,3-7,3,7,0,10,46.5,46.5,-3.52,51.9,441,16.8,24.3,-7.5,4.05,4.05,4.05,4.05,4.05,Rebuilding
 462,75,Marlington Dukes,OH,D4,13,OHSAA Region 13,2-8,2,8,0,10,46.3,46.3,-3.66,60.6,257,17.2,31.7,-14.5,4.4,4.4,4.4,4.4,4.4,Rebuilding
-463,59,Ada Bulldogs,OH,D6,22,OHSAA Region 22,6-4,6,4,0,10,46.3,46.3,-3.68,44.8,565,30.1,27.5,2.6,10.45,10.45,10.45,10.45,10.45,Rebuilding
-464,78,Marietta Tigers,OH,D3,11,OHSAA Region 11,2-8,2,8,0,10,46.3,46.3,-3.68,56.4,348,18.1,32.6,-14.5,4.9021,4.902,4.902,4.9,4.9,Rebuilding
+463,78,Marietta Tigers,OH,D3,11,OHSAA Region 11,2-8,2,8,0,10,46.3,46.3,-3.68,56.4,348,18.1,32.6,-14.5,4.9021,4.902,4.902,4.9,4.9,Rebuilding
+464,59,Ada Bulldogs,OH,D6,22,OHSAA Region 22,6-4,6,4,0,10,46.3,46.3,-3.68,44.8,565,30.1,27.5,2.6,10.45,10.45,10.45,10.45,10.45,Rebuilding
 465,69,Fairbanks Panthers,OH,D5,19,OHSAA Region 19,3-7,3,7,0,10,45.7,45.7,-4.27,50.7,465,23.0,27.8,-4.8,4.0897,4.09,4.09,4.09,4.09,Rebuilding
 466,76,Bryan Golden Bears,OH,D4,14,OHSAA Region 14,2-8,2,8,0,10,45.7,45.7,-4.29,59.4,288,18.3,32.0,-13.7,1.65,1.65,1.65,1.65,1.65,Rebuilding
 467,60,Northmor Golden Knights,OH,D6,23,OHSAA Region 23,3-7,3,7,0,10,45.7,45.7,-4.31,54.1,397,22.4,34.7,-12.3,4.75,4.75,4.75,4.75,4.75,Rebuilding
-468,80,Independence 76ers,OH,D2,7,OHSAA Region 7,3-7,3,7,0,10,45.6,45.6,-4.41,51.8,443,16.0,25.2,-9.2,6.1,6.1,6.1,6.1,6.1,Rebuilding
-469,79,KIPP Columbus Jaguars,OH,D3,11,OHSAA Region 11,2-8,2,8,0,10,45.6,45.6,-4.41,59.5,285,13.3,28.2,-14.9,2.35,2.35,2.35,2.35,2.35,Rebuilding
+468,79,KIPP Columbus Jaguars,OH,D3,11,OHSAA Region 11,2-8,2,8,0,10,45.6,45.6,-4.41,59.5,285,13.3,28.2,-14.9,2.35,2.35,2.35,2.35,2.35,Rebuilding
+469,80,Independence 76ers,OH,D2,7,OHSAA Region 7,3-7,3,7,0,10,45.6,45.6,-4.41,51.8,443,16.0,25.2,-9.2,6.1,6.1,6.1,6.1,6.1,Rebuilding
 470,77,Warrensville Heights Tigers,OH,D4,13,OHSAA Region 13,4-6,4,6,0,10,45.6,45.6,-4.43,50.4,470,18.8,22.4,-3.6,6.0904,6.09,6.09,6.09,6.09,Rebuilding
 471,78,Orange Lions,OH,D4,13,OHSAA Region 13,4-6,4,6,0,10,45.5,45.5,-4.45,55.0,380,23.0,32.6,-9.6,6.696,6.696,6.696,6.7,6.7,Rebuilding
 472,31,St Paul Flyers,OH,D7,25,OHSAA Region 25,6-5,6,5,0,11,45.5,45.5,-4.46,42.2,594,22.1,20.2,1.9,6.6591,6.659,6.659,6.66,6.66,Dark Horse
@@ -505,8 +505,8 @@ rank,division_rank,team,state,division,region,conference,record,wins,losses,ties
 504,36,St John School Heralds,OH,D7,25,OHSAA Region 25,9-3,9,3,0,12,43.4,43.4,-6.63,32.9,678,24.9,12.9,12.0,11.7265,11.726,11.726,11.73,11.73,Dark Horse
 505,37,Loudonville Redbirds,OH,D7,27,OHSAA Region 27,4-6,4,6,0,10,43.3,43.3,-6.66,47.4,511,24.9,28.1,-3.2,5.1364,5.136,5.136,5.14,5.14,First-Round / Bubble
 506,76,Portsmouth Trojans,OH,D5,19,OHSAA Region 19,3-7,3,7,0,10,43.3,43.3,-6.7,54.8,382,22.2,39.3,-17.1,4.3293,4.329,4.329,4.33,4.33,Rebuilding
-507,77,Western Hills Mustangs,OH,D1,4,OHSAA Region 4,2-8,2,8,0,10,43.3,43.3,-6.74,52.9,420,17.8,31.4,-13.6,4.1663,4.166,4.166,4.17,4.17,Rebuilding
-508,82,Struthers Wildcats,OH,D4,13,OHSAA Region 13,0-10,0,10,0,10,43.3,43.3,-6.74,69.1,104,8.6,39.2,-30.6,0.0,0.0,0.0,0.0,0,Rebuilding
+507,82,Struthers Wildcats,OH,D4,13,OHSAA Region 13,0-10,0,10,0,10,43.3,43.3,-6.74,69.1,104,8.6,39.2,-30.6,0.0,0.0,0.0,0.0,0,Rebuilding
+508,77,Western Hills Mustangs,OH,D1,4,OHSAA Region 4,2-8,2,8,0,10,43.3,43.3,-6.74,52.9,420,17.8,31.4,-13.6,4.1663,4.166,4.166,4.17,4.17,Rebuilding
 509,77,Lakeview Bulldogs,OH,D5,17,OHSAA Region 17,2-8,2,8,0,10,43.2,43.2,-6.79,61.2,243,13.0,33.1,-20.1,1.5,1.5,1.5,1.5,1.5,Rebuilding
 510,67,Pymatuning Valley Lakers,OH,D6,21,OHSAA Region 21,4-6,4,6,0,10,43.2,43.2,-6.82,37.0,651,28.3,24.6,3.7,5.8439,5.844,5.844,5.84,5.84,Rebuilding
 511,38,Cincinnati Country Day Nighthawks,OH,D7,28,OHSAA Region 28,6-6,6,6,0,12,43.0,43.0,-6.98,42.5,593,26.7,31.5,-4.8,9.932,9.932,9.932,9.93,9.93,First-Round / Bubble

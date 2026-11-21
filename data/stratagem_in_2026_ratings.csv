@@ -73,8 +73,8 @@ rank,division_rank,team,state,division,region,conference,record,wins,losses,ties
 72,20,Mooresville,IN,4A,6,Mid-State Conference,7-5,7,5,0,12,67.3,67.3,17.34,62.3,74,31.2,25.2,6.0,21.9444,21.944,21.944,29.5,84.0,Regional Contender
 73,11,Maconaquah,IN,3A,4,Three Rivers Conference,10-1,10,1,0,11,67.2,67.2,17.17,43.7,215,49.1,23.5,25.6,26.0139,26.014,26.014,39.5,173.0,Regional Contender
 74,21,Mishawaka,IN,4A,1,Northern Lakes Conference,6-4,6,4,0,10,66.9,66.9,16.9,67.7,35,27.1,29.2,-2.1,21.037,21.037,21.037,33.5,93.5,Regional Contender
-75,21,North Central (Indianapolis),IN,6A,6,Metropolitan Conference,3-8,3,8,0,11,66.8,66.8,16.78,81.0,7,25.2,37.2,-12.0,16.0556,16.056,16.056,12.0,26.5,Regional Contender
-76,22,Jasper,IN,4A,1,SIAC Conference,5-5,5,5,0,10,66.8,66.8,16.78,62.3,75,30.5,25.2,5.3,18.7222,18.722,18.722,28.5,70.0,Regional Contender
+75,22,Jasper,IN,4A,1,SIAC Conference,5-5,5,5,0,10,66.8,66.8,16.78,62.3,75,30.5,25.2,5.3,18.7222,18.722,18.722,28.5,70.0,Regional Contender
+76,21,North Central (Indianapolis),IN,6A,6,Metropolitan Conference,3-8,3,8,0,11,66.8,66.8,16.78,81.0,7,25.2,37.2,-12.0,16.0556,16.056,16.056,12.0,26.5,Regional Contender
 77,14,Chesterton,IN,5A,1,Duneland Conference,7-5,7,5,0,12,66.7,66.7,16.69,64.9,46,21.8,19.9,1.9,16.2381,16.238,16.238,24.0,47.5,Regional Contender
 78,22,Fort Wayne North,IN,6A,1,Summit B Conference,5-5,5,5,0,10,66.5,66.5,16.49,60.9,81,22.2,18.4,3.8,15.9444,15.944,15.944,27.5,58.0,Regional Contender
 79,23,Brebeuf Jesuit,IN,4A,5,Circle City Conference,6-5,6,5,0,11,66.5,66.5,16.48,64.6,52,27.2,25.5,1.7,23.1667,23.167,23.167,26.5,91.0,Regional Contender
@@ -132,8 +132,8 @@ rank,division_rank,team,state,division,region,conference,record,wins,losses,ties
 131,23,Fort Wayne South,IN,5A,3,Summit B Conference,3-7,3,7,0,10,56.3,56.3,6.25,63.2,63,20.5,26.6,-6.1,13.7593,13.759,13.759,15.5,32.5,Dark Horse
 132,6,North Daviess,IN,1A,8,Southwest Conference,12-1,12,1,0,13,55.7,55.7,5.74,34.4,270,39.2,11.8,27.4,18.2727,18.273,18.273,39.0,92.0,Semi-State Contender
 133,13,Lewis Cass,IN,2A,3,Three Rivers Conference,8-4,8,4,0,12,55.0,55.0,5.02,41.5,232,37.5,21.0,16.5,19.5085,19.509,19.509,25.0,87.0,Regional Contender
-134,14,Hagerstown,IN,2A,4,Tri-Eastern Conference,11-1,11,1,0,12,54.9,54.9,4.86,34.4,271,39.5,13.6,25.9,19.2855,19.285,19.285,38.0,119.0,Regional Contender
-135,28,Sullivan,IN,3A,7,Western Indiana Conference,6-6,6,6,0,12,54.9,54.9,4.86,50.1,163,31.9,28.3,3.6,11.7222,11.722,11.722,18.0,35.0,Dark Horse
+134,28,Sullivan,IN,3A,7,Western Indiana Conference,6-6,6,6,0,12,54.9,54.9,4.86,50.1,163,31.9,28.3,3.6,11.7222,11.722,11.722,18.0,35.0,Dark Horse
+135,14,Hagerstown,IN,2A,4,Tri-Eastern Conference,11-1,11,1,0,12,54.9,54.9,4.86,34.4,271,39.5,13.6,25.9,19.2855,19.285,19.285,38.0,119.0,Regional Contender
 136,29,Jimtown,IN,3A,2,Indiana Northern State Conference,7-4,7,4,0,11,54.8,54.8,4.76,53.8,141,24.6,24.5,0.1,16.8333,16.833,16.833,29.5,61.0,Dark Horse
 137,35,Evansville Harrison,IN,4A,8,SIAC Conference,5-7,5,7,0,12,54.7,54.7,4.65,60.0,89,24.1,26.8,-2.7,5.5128,5.513,5.513,15.0,10.0,First-Round / Bubble
 138,36,Silver Creek,IN,4A,1,Mid-Southern Conference,6-4,6,4,0,10,54.5,54.5,4.53,51.1,153,26.2,20.7,5.5,19.463,19.463,19.463,31.0,86.5,First-Round / Bubble
@@ -166,8 +166,8 @@ rank,division_rank,team,state,division,region,conference,record,wins,losses,ties
 165,24,Eastbrook,IN,2A,1,Central Indiana Conference,5-5,5,5,0,10,48.1,48.1,-1.89,44.5,209,29.7,26.8,2.9,15.8114,15.811,15.811,23.0,57.0,Dark Horse
 166,42,Connersville,IN,4A,1,Eastern Indiana - Big School Conference,4-6,4,6,0,10,48.1,48.1,-1.91,55.8,116,31.6,38.0,-6.4,11.5556,11.556,11.556,21.5,33.0,First-Round / Bubble
 167,43,New Prairie,IN,4A,1,Northern Indiana Conference,2-8,2,8,0,10,47.9,47.9,-2.13,60.7,84,18.1,38.1,-20.0,9.5,9.5,9.5,10.5,15.0,First-Round / Bubble
-168,32,Edgewood,IN,3A,1,Western Indiana Conference,5-5,5,5,0,10,47.8,47.8,-2.25,53.8,140,25.4,28.9,-3.5,14.4861,14.486,14.486,23.5,47.5,Dark Horse
-169,14,Lafayette Central Catholic,IN,1A,2,Hoosier Conference,5-7,5,7,0,12,47.8,47.8,-2.25,43.5,219,27.0,23.9,3.1,13.9394,13.939,13.939,15.0,27.0,Regional Contender
+168,14,Lafayette Central Catholic,IN,1A,2,Hoosier Conference,5-7,5,7,0,12,47.8,47.8,-2.25,43.5,219,27.0,23.9,3.1,13.9394,13.939,13.939,15.0,27.0,Regional Contender
+169,32,Edgewood,IN,3A,1,Western Indiana Conference,5-5,5,5,0,10,47.8,47.8,-2.25,53.8,140,25.4,28.9,-3.5,14.4861,14.486,14.486,23.5,47.5,Dark Horse
 170,44,Jay County,IN,4A,4,Allen County Conference,4-7,4,7,0,11,47.7,47.7,-2.29,49.6,169,27.1,27.1,0.0,9.6481,9.648,9.648,13.5,22.0,First-Round / Bubble
 171,33,Garrett,IN,3A,1,Northeast Corner - Big Conference,3-7,3,7,0,10,47.6,47.6,-2.4,54.5,131,26.8,35.8,-9.0,8.037,8.037,8.037,14.0,17.5,First-Round / Bubble
 172,15,Fremont,IN,1A,4,Northeast Corner - Small Conference,7-4,7,4,0,11,47.5,47.5,-2.47,42.7,227,33.2,23.8,9.4,15.1364,15.136,15.136,22.0,54.5,Regional Contender
@@ -194,8 +194,8 @@ rank,division_rank,team,state,division,region,conference,record,wins,losses,ties
 193,39,Western,IN,3A,4,Hoosier Conference,3-7,3,7,0,10,43.3,43.3,-6.67,55.0,126,18.3,31.7,-13.4,12.1111,12.111,12.111,14.0,28.5,First-Round / Bubble
 194,40,Mount Vernon,IN,3A,8,PAC - Big Conference,3-8,3,8,0,11,43.0,43.0,-7.01,50.7,155,22.2,32.0,-9.8,9.4444,9.444,9.444,10.0,15.0,First-Round / Bubble
 195,41,Fort Wayne Concordia,IN,3A,1,Summit B Conference,3-7,3,7,0,10,42.8,42.8,-7.18,57.2,110,21.4,35.2,-13.8,15.4259,15.426,15.426,15.5,37.0,First-Round / Bubble
-196,32,Seeger,IN,2A,1,Wabash River Conference,7-3,7,3,0,10,42.5,42.5,-7.47,32.4,282,35.1,24.9,10.2,16.5842,16.584,16.584,29.5,82.5,Dark Horse
-197,32,Jeffersonville,IN,6A,8,Hoosier Hills Conference,2-8,2,8,0,10,42.5,42.5,-7.47,61.0,80,19.1,39.9,-20.8,13.0,13.0,13.0,12.0,21.0,Dark Horse
+196,32,Jeffersonville,IN,6A,8,Hoosier Hills Conference,2-8,2,8,0,10,42.5,42.5,-7.47,61.0,80,19.1,39.9,-20.8,13.0,13.0,13.0,12.0,21.0,Dark Horse
+197,32,Seeger,IN,2A,1,Wabash River Conference,7-3,7,3,0,10,42.5,42.5,-7.47,32.4,282,35.1,24.9,10.2,16.5842,16.584,16.584,29.5,82.5,Dark Horse
 198,33,Indianapolis Ritter,IN,2A,5,Indiana Crossroads Conference,5-6,5,6,0,11,42.4,42.4,-7.57,50.7,157,21.5,27.5,-6.0,4.881,4.881,4.881,19.5,9.5,First-Round / Bubble
 199,42,Scottsburg,IN,3A,7,Mid-Southern Conference,5-6,5,6,0,11,42.1,42.1,-7.86,48.0,185,17.1,24.9,-7.8,20.3056,20.306,20.306,19.0,65.5,First-Round / Bubble
 200,47,Madison,IN,4A,1,Mid-Southern Conference,5-5,5,5,0,10,42.0,42.0,-8.01,49.6,168,16.5,24.7,-8.2,15.5,15.5,15.5,25.5,57.0,First-Round / Bubble
@@ -243,8 +243,8 @@ rank,division_rank,team,state,division,region,conference,record,wins,losses,ties
 242,45,Switzerland County,IN,2A,7,Mid-Indiana Conference,5-7,5,7,0,12,32.7,32.7,-17.32,33.0,279,25.3,27.8,-2.5,7.6389,7.639,7.639,12.5,12.5,First-Round / Bubble
 243,52,North Harrison,IN,3A,1,Mid-Southern Conference,1-9,1,9,0,10,32.3,32.3,-17.67,48.4,183,13.5,36.5,-23.0,9.9444,9.944,9.944,4.5,8.5,Rebuilding
 244,30,North Newton,IN,1A,1,Midwest Conference,7-4,7,4,0,11,32.3,32.3,-17.71,25.2,298,31.5,19.1,12.4,14.5897,14.59,14.59,24.0,62.0,Dark Horse
-245,31,Churubusco,IN,1A,1,Northeast Corner - Small Conference,3-7,3,7,0,10,31.7,31.7,-18.3,51.3,152,12.6,36.4,-23.8,8.037,8.037,8.037,14.0,17.5,Dark Horse
-246,32,Bowman Academy,IN,1A,1,IHSAA Independent,5-4,5,4,0,9,31.7,31.7,-18.3,30.2,289,29.9,25.2,4.7,11.7794,11.779,11.779,26.0,29.0,Dark Horse
+245,31,Bowman Academy,IN,1A,1,IHSAA Independent,5-4,5,4,0,9,31.7,31.7,-18.3,30.2,289,29.9,25.2,4.7,11.7794,11.779,11.779,26.0,29.0,Dark Horse
+246,32,Churubusco,IN,1A,1,Northeast Corner - Small Conference,3-7,3,7,0,10,31.7,31.7,-18.3,51.3,152,12.6,36.4,-23.8,8.037,8.037,8.037,14.0,17.5,Dark Horse
 247,46,Park Tudor,IN,2A,1,IHSAA Independent,4-5,4,5,0,9,31.4,31.4,-18.64,35.7,263,19.4,30.0,-10.6,14.3815,14.382,14.382,18.5,35.0,First-Round / Bubble
 248,47,Manchester,IN,2A,1,Three Rivers Conference,3-7,3,7,0,10,31.2,31.2,-18.83,36.8,259,22.9,30.8,-7.9,6.6368,6.637,6.637,13.0,13.5,First-Round / Bubble
 249,53,Hammond Noll,IN,3A,1,Greater South Shore - North Conference,5-5,5,5,0,10,31.1,31.1,-18.9,38.1,248,25.9,30.6,-4.7,17.7311,17.731,17.731,17.0,51.5,Rebuilding
@@ -264,8 +264,8 @@ rank,division_rank,team,state,division,region,conference,record,wins,losses,ties
 263,36,Blackhawk Christian,IN,1A,1,IHSAA Independent,2-7,2,7,0,9,27.2,27.2,-22.76,44.2,212,19.1,38.0,-18.9,11.3125,11.312,11.312,8.0,16.5,First-Round / Bubble
 264,37,Clinton Central,IN,1A,3,Hoosier Heartland Conference,5-6,5,6,0,11,27.0,27.0,-22.95,28.1,293,25.0,23.6,1.4,5.2778,5.278,5.278,17.5,12.0,First-Round / Bubble
 265,57,Marion,IN,4A,1,North Central Conference,1-9,1,9,0,10,26.7,26.7,-23.27,57.1,111,9.8,46.6,-36.8,0.6667,0.667,0.667,6.0,0.0,Rebuilding
-266,58,Jennings County,IN,4A,7,Hoosier Hills Conference,2-8,2,8,0,10,26.3,26.3,-23.71,49.9,166,13.7,41.3,-27.6,17.5385,17.538,17.538,9.0,21.5,Rebuilding
-267,50,Whiting,IN,2A,1,Greater South Shore - North Conference,2-7,2,7,0,9,26.3,26.3,-23.71,39.1,245,20.7,34.4,-13.7,15.1176,15.118,15.118,8.0,24.0,Rebuilding
+266,50,Whiting,IN,2A,1,Greater South Shore - North Conference,2-7,2,7,0,9,26.3,26.3,-23.71,39.1,245,20.7,34.4,-13.7,15.1176,15.118,15.118,8.0,24.0,Rebuilding
+267,58,Jennings County,IN,4A,7,Hoosier Hills Conference,2-8,2,8,0,10,26.3,26.3,-23.71,49.9,166,13.7,41.3,-27.6,17.5385,17.538,17.538,9.0,21.5,Rebuilding
 268,38,Culver,IN,1A,1,Hoosier North Conference,3-7,3,7,0,10,25.6,25.6,-24.35,40.6,233,16.3,31.3,-15.0,7.2593,7.259,7.259,12.0,16.0,First-Round / Bubble
 269,51,Central Noble,IN,2A,2,Northeast Corner - Small Conference,2-9,2,9,0,11,25.4,25.4,-24.58,42.6,229,13.3,33.8,-20.5,13.7778,13.778,13.778,4.0,12.0,Rebuilding
 270,39,North Vermillion,IN,1A,1,Wabash River Conference,2-8,2,8,0,10,25.2,25.2,-24.75,37.4,254,19.9,36.7,-16.8,7.9477,7.948,7.948,8.0,12.0,First-Round / Bubble
