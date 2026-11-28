@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" style="background:#0b1120;font-family:ui-monospace,SFMono-Regular,Menlo,monospace">
+<defs>
+  <marker id="arrowCyan" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#22d3ee"/></marker>
+  <marker id="arrowEmerald" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#10b981"/></marker>
+  <marker id="arrowGold" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#fbbf24"/></marker>
+  <marker id="arrowAmber" markerWidth="7" markerHeight="7" refX="5" refY="3" orient="auto"><path d="M0,0 L0,6 L6,3 z" fill="#f59e0b"/></marker>
+  <marker id="arrowSlate" markerWidth="7" markerHeight="7" refX="5" refY="3" orient="auto"><path d="M0,0 L0,6 L6,3 z" fill="#94a3b8"/></marker>
+  <marker id="arrowRed" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#ef4444"/></marker>
+  <marker id="barBlock" markerWidth="6" markerHeight="10" refX="3" refY="5" orient="auto"><line x1="3" y1="0" x2="3" y2="10" stroke="#94a3b8" stroke-width="2.2"/></marker>
+</defs>
+<text x="16" y="21" fill="#f8fafc" font-size="9.5" font-weight="bold">Snap #64 | Milford | 12 Heavy Wing (Balanced) vs 4-3 Even | 21P | Cover 3 (Middle)</text>
+<line x1="225" y1="34" x2="225" y2="296" stroke="#1e293b" stroke-dasharray="4,6" stroke-width="1"/>
+<line x1="375" y1="34" x2="375" y2="296" stroke="#1e293b" stroke-dasharray="4,6" stroke-width="1"/>
+<line x1="16" y1="127.5" x2="584" y2="127.5" stroke="#1e293b" stroke-width="0.8"/>
+<line x1="16" y1="70.0" x2="584" y2="70.0" stroke="#1e293b" stroke-width="0.8"/>
+<line x1="16" y1="185.0" x2="584" y2="185.0" stroke="#38bdf8" stroke-dasharray="6,4" stroke-width="1.5"/>
+<ellipse cx="300.0" cy="185.0" rx="5" ry="3" fill="#a16207" stroke="#fde047" stroke-width="1"/>
+<text x="584" y="21" fill="#fbbf24" font-size="9.5" font-weight="bold" text-anchor="end">MOTION: FLY/RETURN MOTION</text>
+<line x1="270.1" y1="240.0" x2="270.6" y2="202.4" stroke="#64748b" stroke-width="1.8" marker-end="url(#barBlock)"/>
+<line x1="274.2" y1="266.6" x2="243.3" y2="254.8" stroke="#38bdf8" stroke-width="2.1" marker-end="url(#arrowCyan)"/>
+<line x1="336.9" y1="208.0" x2="291.8" y2="213.8" stroke="#f59e0b" stroke-width="2" stroke-dasharray="4,3" marker-end="url(#arrowAmber)"/>
+<line x1="300.0" y1="202.2" x2="353.3" y2="150.5" stroke="#10b981" stroke-width="2.5" marker-end="url(#arrowEmerald)"/>
+<line x1="300.0" y1="205.7" x2="262.7" y2="139.0" stroke="#fbbf24" stroke-width="1.8" stroke-dasharray="5,4" marker-end="url(#arrowGold)"/>
+<line x1="323.0" y1="147.4" x2="270.5" y2="178.3" stroke="#ef4444" stroke-width="1.9" stroke-dasharray="4,3" marker-end="url(#arrowRed)"/>
+<rect x="261.1" y="232.0" width="18" height="16" rx="3" fill="#1e3a8a" fill-opacity="1.0" stroke="#60a5fa" stroke-width="1.5"/>
+<text x="270.1" y="243.0" fill="#ffffff" font-size="7.5" font-weight="bold" text-anchor="middle">RG</text>
+<rect x="258.6" y="251.1" width="18" height="16" rx="3" fill="#1e3a8a" fill-opacity="1.0" stroke="#60a5fa" stroke-width="1.5"/>
+<text x="267.6" y="262.1" fill="#ffffff" font-size="7.5" font-weight="bold" text-anchor="middle">C</text>
+<rect x="265.2" y="258.6" width="18" height="16" rx="3" fill="#1e3a8a" fill-opacity="1.0" stroke="#60a5fa" stroke-width="1.5"/>
+<text x="274.2" y="269.6" fill="#ffffff" font-size="7.5" font-weight="bold" text-anchor="middle">RT</text>
+<circle cx="282.7" cy="42.0" r="10" fill="#1d4ed8" fill-opacity="1.0" stroke="#93c5fd" stroke-width="1.6"/>
+<text x="282.7" y="45.0" fill="#ffffff" font-size="7.5" font-weight="bold" text-anchor="middle">Z</text>
+<rect x="243.2" y="34.0" width="18" height="16" rx="3" fill="#1e3a8a" fill-opacity="1.0" stroke="#60a5fa" stroke-width="1.5"/>
+<text x="252.2" y="45.0" fill="#ffffff" font-size="7.5" font-weight="bold" text-anchor="middle">LG</text>
+<rect x="117.3" y="284.8" width="18" height="16" rx="3" fill="#1e3a8a" fill-opacity="1.0" stroke="#60a5fa" stroke-width="1.5"/>
+<text x="126.3" y="295.8" fill="#ffffff" font-size="7.5" font-weight="bold" text-anchor="middle">LT</text>
+<circle cx="95.0" cy="300.0" r="10" fill="#1d4ed8" fill-opacity="1.0" stroke="#93c5fd" stroke-width="1.6"/>
+<text x="95.0" y="303.0" fill="#ffffff" font-size="7.5" font-weight="bold" text-anchor="middle">X</text>
+<circle cx="278.4" cy="187.0" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="278.4" y="190.0" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">DT1</text>
+<circle cx="320.6" cy="208.2" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="320.6" y="211.2" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">DT2</text>
+<circle cx="332.2" cy="184.3" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="332.2" y="187.3" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">DE2</text>
+<circle cx="323.0" cy="147.4" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="323.0" y="150.4" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">SLB</text>
+<circle cx="258.3" cy="142.7" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="258.3" y="145.7" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">WLB</text>
+<circle cx="252.7" cy="217.7" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="252.7" y="220.7" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">DE1</text>
+<circle cx="318.4" cy="140.6" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="318.4" y="143.6" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">MLB</text>
+<circle cx="336.0" cy="118.1" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="336.0" y="121.1" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">NICK</text>
+<circle cx="363.2" cy="134.3" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="363.2" y="137.3" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">LB5</text>
+<circle cx="351.6" cy="79.8" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="351.6" y="82.8" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">CB2</text>
+<circle cx="95.0" cy="300.0" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="95.0" y="303.0" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">CB1</text>
+<text x="16" y="312" fill="#94a3b8" font-size="8.5">Run: Toss Sweep / Buck Sweep | Gain: +3 yds | EPA: -0.23 | 18/22 observed (solid=observed, dashed=template)</text>
+</svg>

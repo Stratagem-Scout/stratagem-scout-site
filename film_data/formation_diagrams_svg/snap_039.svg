@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" style="background:#0b1120;font-family:ui-monospace,SFMono-Regular,Menlo,monospace">
+<defs>
+  <marker id="arrowCyan" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#22d3ee"/></marker>
+  <marker id="arrowEmerald" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#10b981"/></marker>
+  <marker id="arrowGold" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#fbbf24"/></marker>
+  <marker id="arrowAmber" markerWidth="7" markerHeight="7" refX="5" refY="3" orient="auto"><path d="M0,0 L0,6 L6,3 z" fill="#f59e0b"/></marker>
+  <marker id="arrowSlate" markerWidth="7" markerHeight="7" refX="5" refY="3" orient="auto"><path d="M0,0 L0,6 L6,3 z" fill="#94a3b8"/></marker>
+  <marker id="arrowRed" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#ef4444"/></marker>
+  <marker id="barBlock" markerWidth="6" markerHeight="10" refX="3" refY="5" orient="auto"><line x1="3" y1="0" x2="3" y2="10" stroke="#94a3b8" stroke-width="2.2"/></marker>
+</defs>
+<text x="16" y="21" fill="#f8fafc" font-size="9.5" font-weight="bold">Snap #39 | Milford | 2x2 Spread (Balanced) vs 4-2-5 Over | 11P | Cover 3 (Middle)</text>
+<line x1="225" y1="34" x2="225" y2="296" stroke="#1e293b" stroke-dasharray="4,6" stroke-width="1"/>
+<line x1="375" y1="34" x2="375" y2="296" stroke="#1e293b" stroke-dasharray="4,6" stroke-width="1"/>
+<line x1="16" y1="127.5" x2="584" y2="127.5" stroke="#1e293b" stroke-width="0.8"/>
+<line x1="16" y1="70.0" x2="584" y2="70.0" stroke="#1e293b" stroke-width="0.8"/>
+<line x1="16" y1="185.0" x2="584" y2="185.0" stroke="#38bdf8" stroke-dasharray="6,4" stroke-width="1.5"/>
+<ellipse cx="300.0" cy="185.0" rx="5" ry="3" fill="#a16207" stroke="#fde047" stroke-width="1"/>
+<line x1="356.1" y1="145.9" x2="355.2" y2="170.1" stroke="#64748b" stroke-width="1.8" marker-end="url(#barBlock)"/>
+<line x1="161.5" y1="154.1" x2="163.3" y2="201.9" stroke="#64748b" stroke-width="1.8" marker-end="url(#barBlock)"/>
+<line x1="287.0" y1="51.7" x2="303.3" y2="80.7" stroke="#64748b" stroke-width="1.8" marker-end="url(#barBlock)"/>
+<line x1="300.0" y1="240.2" x2="303.3" y2="134.4" stroke="#10b981" stroke-width="2.5" marker-end="url(#arrowEmerald)"/>
+<line x1="300.0" y1="205.7" x2="273.8" y2="139.0" stroke="#fbbf24" stroke-width="1.8" stroke-dasharray="5,4" marker-end="url(#arrowGold)"/>
+<line x1="205.3" y1="139.5" x2="326.2" y2="249.3" stroke="#ef4444" stroke-width="1.9" stroke-dasharray="4,3" marker-end="url(#arrowRed)"/>
+<rect x="347.1" y="137.9" width="18" height="16" rx="3" fill="#1e3a8a" fill-opacity="1.0" stroke="#60a5fa" stroke-width="1.5"/>
+<text x="356.1" y="148.9" fill="#ffffff" font-size="7.5" font-weight="bold" text-anchor="middle">RT</text>
+<rect x="294.0" y="58.5" width="18" height="16" rx="3" fill="#1e3a8a" fill-opacity="1.0" stroke="#60a5fa" stroke-width="1.5"/>
+<text x="303.0" y="69.5" fill="#ffffff" font-size="7.5" font-weight="bold" text-anchor="middle">RG</text>
+<rect x="152.5" y="146.1" width="18" height="16" rx="3" fill="#1e3a8a" fill-opacity="1.0" stroke="#60a5fa" stroke-width="1.5"/>
+<text x="161.5" y="157.1" fill="#ffffff" font-size="7.5" font-weight="bold" text-anchor="middle">LG</text>
+<rect x="278.0" y="43.7" width="18" height="16" rx="3" fill="#1e3a8a" fill-opacity="1.0" stroke="#60a5fa" stroke-width="1.5"/>
+<text x="287.0" y="54.7" fill="#ffffff" font-size="7.5" font-weight="bold" text-anchor="middle">C</text>
+<rect x="86.0" y="34.0" width="18" height="16" rx="3" fill="#1e3a8a" fill-opacity="1.0" stroke="#60a5fa" stroke-width="1.5"/>
+<text x="95.0" y="45.0" fill="#ffffff" font-size="7.5" font-weight="bold" text-anchor="middle">LT</text>
+<circle cx="389.1" cy="284.8" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="389.1" y="287.8" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">CB2</text>
+<circle cx="326.2" cy="300.0" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="326.2" y="303.0" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">DT2</text>
+<circle cx="324.4" cy="240.8" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="324.4" y="243.8" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">NT</text>
+<circle cx="297.3" cy="300.0" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="297.3" y="303.0" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">DT1</text>
+<circle cx="356.3" cy="186.8" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="356.3" y="189.8" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">DE2</text>
+<circle cx="95.0" cy="42.0" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="95.0" y="45.0" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">CB1</text>
+<circle cx="251.2" cy="206.7" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="251.2" y="209.7" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">DE1</text>
+<circle cx="205.3" cy="139.5" r="9.2" fill="#450a0a" fill-opacity="1.0" stroke="#ef4444" stroke-width="1.4"/>
+<text x="205.3" y="142.5" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">FS</text>
+<circle cx="265.6" cy="173.5" r="9.2" fill="#450a0a" fill-opacity="0.62" stroke="#ef4444" stroke-width="1.4" stroke-dasharray="3,2"/>
+<text x="265.6" y="176.5" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">WDE</text>
+<circle cx="290.2" cy="173.5" r="9.2" fill="#450a0a" fill-opacity="0.62" stroke="#ef4444" stroke-width="1.4" stroke-dasharray="3,2"/>
+<text x="290.2" y="176.5" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">1T</text>
+<circle cx="314.8" cy="173.5" r="9.2" fill="#450a0a" fill-opacity="0.62" stroke="#ef4444" stroke-width="1.4" stroke-dasharray="3,2"/>
+<text x="314.8" y="176.5" fill="#fca5a5" font-size="7.5" font-weight="bold" text-anchor="middle">3T</text>
+<text x="16" y="312" fill="#94a3b8" font-size="8.5">Run: Inside Zone | Gain: +3 yds | EPA: -0.51 | 13/22 observed (solid=observed, dashed=template)</text>
+</svg>
